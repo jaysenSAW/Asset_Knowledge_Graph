@@ -1,0 +1,58 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron"
+    },
+    {
+      "type": "Person",
+      "name": "Olaf Scholz"
+    },
+    {
+      "type": "Event",
+      "name": "Rencontre Macron-Scholz"
+    },
+    {
+      "type": "City",
+      "name": "Berlin"
+    },
+    {
+      "type": "Theme",
+      "name": "Énergie"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Emmanuel Macron",
+      "relation": "MET_WITH",
+      "target": "Olaf Scholz",
+      "evidence": "a rencontré",
+      "confidence": 1.0
+    },
+    {
+      "source": "Rencontre Macron-Scholz",
+      "relation": "LOCATED_IN",
+      "target": "Berlin",
+      "evidence": "à Berlin",
+      "confidence": 1.0
+    },
+    {
+      "source": "Rencontre Macron-Scholz",
+      "relation": "SPOKE_ABOUT",
+      "target": "Énergie",
+      "evidence": "questions énergétiques",
+      "confidence": 1.0
+    },
+    {
+      "source": "Rencontre Macron-Scholz",
+      "relation": "MENTIONS",
+      "target": "Union européenne",
+      "evidence": "coopération européenne",
+      "confidence": 1.0
+    }
+  ]
+}
