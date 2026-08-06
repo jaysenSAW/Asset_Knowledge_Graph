@@ -1,0 +1,29 @@
+{
+    "nodes": [
+        {
+            "id": "Person_1",
+            "label": "Person",
+            "properties": {
+                "name": "Emmanuel Macron"
+            }
+        },
+        {
+            "id": "City_1",
+            "label": "City",
+            "properties": {
+                "name": "Paris"
+            }
+        }
+    ],
+    "relationships": [
+        {
+            "type": "VISITED",
+            "source": "Person_1",
+            "target": "City_1",
+            "properties": {
+                "confidence": 1.0,
+                "evidence": "a visité"
+            }
+        }
+    ]
+}
