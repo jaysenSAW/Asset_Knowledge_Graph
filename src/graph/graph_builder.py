@@ -1,6 +1,8 @@
 import hashlib
 import json
+from neo4j import GraphDatabase
 import ollama
+import os
 from sentence_transformers import SentenceTransformer
 import unicodedata
 
@@ -388,16 +390,11 @@ def build_neo4j_graph(speech, merged_graph):
     -------
     graph : dict
     """
-
     graph = {
         "nodes": [],
         "relationships": []
     }
-
-    ####################################################
     # Speech node
-    ####################################################
-
     speech_node = {
         "id": speech["id"],
         "label": "Speech",
@@ -408,123 +405,146 @@ def build_neo4j_graph(speech, merged_graph):
             "header": speech["header"]
         }
     }
-
     graph["nodes"].append(speech_node)
-
-    ####################################################
     # Chunk nodes
-    ####################################################
-
     for chunk in speech["chunks"]:
-
         chunk_id = hashlib.sha256(
             f"{speech['id']}_{chunk['chunk_id']}".encode()
         ).hexdigest()
-
         graph["nodes"].append({
-
             "id": f"Chunk_{chunk_id}",
-
             "label": "Chunk",
-
             "properties": {
-
                 "speech_id": speech["id"],
-
                 "chunk_number": chunk["chunk_id"],
-
                 "text": chunk["text"],
-
                 "embedding": chunk["embedding"]
-
             }
-
         })
-
-        ################################################
-
         graph["relationships"].append({
-
             "type": "HAS_CHUNK",
-
             "source": speech["id"],
-
             "target": f"Chunk_{chunk_id}",
-
             "properties": {}
-
         })
-
-    ####################################################
     # Entity nodes
-    ####################################################
-
     for entity in merged_graph["entities"]:
-
         graph["nodes"].append({
-
             "id": entity["id"],
-
             "label": entity["type"],
-
             "properties": {
-
                 "name": entity["name"]
-
             }
-
         })
-
-    ####################################################
     # Graph relations
-    ####################################################
-
     for relation in merged_graph["relations"]:
-
         graph["relationships"].append({
-
             "type": relation["relation"],
-
             "source": relation["source_id"],
-
             "target": relation["target_id"],
-
             "properties": {
-
                 "confidence": relation["confidence"],
-
                 "evidence": relation["evidence"]
-
             }
-
         })
-
-    ####################################################
     # Chunk -> Entity (MENTIONS)
-    ####################################################
-
     for chunk in speech["chunks"]:
-
         chunk_id = hashlib.sha256(
             f"{speech['id']}_{chunk['chunk_id']}".encode()
         ).hexdigest()
-
         chunk_text = chunk["text"].lower()
-
         for entity in merged_graph["entities"]:
-
             if entity["name"].lower() in chunk_text:
-
                 graph["relationships"].append({
-
                     "type": "MENTIONS",
-
                     "source": f"Chunk_{chunk_id}",
-
                     "target": entity["id"],
-
                     "properties": {}
-
                 })
-
     return graph
+
+def save_graph(graph, output_file):
+    """export database as json
+
+    Args:
+        graph (dict): database to save
+        output_file (str): file name
+    """
+    os.makedirs(
+        os.path.dirname(output_file),
+        exist_ok=True
+    )
+    with open(
+        output_file,
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(
+            graph,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+
+def load_to_neo4j(driver, graph):
+    """
+    Insert graph into Neo4j.
+
+    Parameters
+    ----------
+    driver : neo4j.Driver
+
+    graph : dict
+    """
+
+    with driver.session() as session:
+
+        ##########################################
+        # Nodes
+        ##########################################
+
+        for node in graph["nodes"]:
+
+            cypher = f"""
+            MERGE (n:{node["label"]} {{id:$id}})
+            SET n += $properties
+            """
+
+            session.run(
+                cypher,
+                id=node["id"],
+                properties=node["properties"]
+            )
+
+        ##########################################
+        # Relationships
+        ##########################################
+
+        for rel in graph["relationships"]:
+
+            cypher = f"""
+            MATCH (a {{id:$source}})
+            MATCH (b {{id:$target}})
+
+            MERGE (a)-[r:{rel["type"]}]->(b)
+
+            SET r += $properties
+            """
+            session.run(
+                cypher,
+                source=rel["source"],
+                target=rel["target"],
+                properties=rel["properties"]
+            )
+
+
+def create_constraints(driver, constraint_file : str):
+    with driver.session() as session:
+        with open(constraint_file, "r", encoding="utf-8") as f:
+            queries = f.read()
+        for query in queries.split(";"):
+            query = query.strip()
+            if query:
+                session.run(query)
+    print("Neo4j constraints created.")
