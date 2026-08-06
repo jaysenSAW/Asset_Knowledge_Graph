@@ -10,6 +10,8 @@ parser.add_argument('-n', '--neo4j_para', default="credential.json", help='USER,
 parser.add_argument('-log', '--log_path', default="output/log_graph.txt", help='log_graph.txt')
 parser.add_argument('-o', '--output_folder', default="output", help='output_folder')
 parser.add_argument('-g', '--global_report', default="output/global_report.json", help='output_folder')
+parser.add_argument('-w', '--workers', type=int, default=4, help='number of parallel workers for LLM chunk extraction')
+parser.add_argument('-s', '--save_every', type=int, default=1, help='write log/report to disk every N speeches (>1 speeds up I/O, less crash-safe)')
 
 
 
@@ -25,6 +27,7 @@ from pathlib import Path
 from sentence_transformers import SentenceTransformer
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 sys.path.insert(1, "src/graph/")
 from graph_builder import get_node_id, extract_graph, compute_chunk_embeddings, merge_graphs, validate_graph, build_neo4j_graph, feed_global_report, save_graph, load_to_neo4j, create_constraints
@@ -40,6 +43,8 @@ llm_model = args.llm_model
 log_dic_path = args.log_path
 output = args.output_folder
 global_report_path = args.global_report
+n_workers = args.workers
+save_every = max(1, args.save_every)
 
 # Check if output folder exist
 Path(output).mkdir(parents=True, exist_ok=True)
@@ -52,12 +57,6 @@ example_json = load_template_json(path_prompt_template)
 
 # folder with the prompt used to extract informations
 prompt_template = load_prompt_template(path_prompt_RAG)
-
-# Dict to save nodes and relationships
-merged_graph = {
-    "entities": [],
-    "relations": []
-}
 
 if os.path.exists(global_report_path):
     with open(global_report_path) as json_file:
@@ -73,7 +72,7 @@ if os.path.exists(args.neo4j_para):
     driver = GraphDatabase.driver(
         credential["URI"],
         auth=(
-            credential["USER"], 
+            credential["USER"],
             credential["PASSWORD"]
         )
     )
@@ -98,114 +97,224 @@ else:
     log_dic = {}
 
 
+def extract_graph_for_chunk(chunk):
+    """Build the prompt and run LLM extraction for a single chunk.
+    Isolated in a function so it can be dispatched to a thread pool."""
+    prompt = prompt_builder(
+        prompt_template,
+        example_json,
+        chunk["text"]
+    )
+    try:
+        graph = extract_graph(
+            prompt,
+            model=llm_model
+        )
+    except Exception as e:
+        print(f"Chunk {chunk['chunk_id']} failed : {e}")
+        return None
+    return graph
+
+
+def flush_state():
+    """Persist log_dic and global_report to disk."""
+    with open(log_dic_path, "w", encoding="utf-8") as f:
+        json.dump(log_dic, f, indent=2, ensure_ascii=False)
+    with open(global_report_path, "w", encoding="utf-8") as f:
+        json.dump(global_report, f, indent=2, ensure_ascii=False)
+
+
 # RUN PIPELINE
 
-# extract data from speech and sotres it into a list of dict with this fields : 
+# extract data from speech and stores it into a list of dict with this fields :
 # 'id', 'date', 'title', 'filename', 'header', 'text', 'chunks'
 corpus = load_speeches(folder)
-start0 = time.time()
-for speech in tqdm(corpus[:500]):#remove comment to lunch on all dataset
-#for speech in corpus[:1]:
-#check if the file was alreday present into the database
-    filename = speech["filename"]
-    if filename in log_dic.keys() and log_dic[filename]["status"] == "SUCCESS" and log_dic[filename]["llm_model"] == llm_model:
-        #file already analyzed
-        print(speech["filename"]+" already done")
-        continue
-    start = time.time()
-    try:
-        # split text in chuncks and store it
-        speech["chunks"] = split_into_chunks(speech)
-        # embedding
-        speech["chunks"] = compute_chunk_embeddings(speech["chunks"])
-        # label and relations for the speech
+
+start_pipeline = time.time()
+
+try:
+
+    for i, speech in enumerate(tqdm(corpus)):
+
+        filename = speech["filename"]
+
+        # ----------------------------------------------------
+        # Skip already processed files
+        # ----------------------------------------------------
+
+        if (
+            filename in log_dic
+            and log_dic[filename]["status"] == "SUCCESS"
+            and log_dic[filename]["llm_model"] == llm_model
+        ):
+            continue
+
+        speech_start = time.time()
+
         merged_graph = {
             "entities": [],
             "relations": []
         }
-        # split speech and made embedding
-        for chunk in speech["chunks"]:
-                prompt = prompt_builder(
-                    prompt_template, 
-                    example_json, 
-                    chunk["text"]
-                )
-                try:
-                    graph = extract_graph(
-                        prompt, 
-                        model = llm_model
-                    )
-                except Exception as e:
-                    print(
-                        f"Chunk {chunk['chunk_id']} failed : {e}"
-                    )
-                    continue
-                if graph is None:
-                    continue
 
-                merged_graph = merge_graphs(
-                    merged_graph,
-                    graph
-                )
-        # Validation
-        # check duplicate and no valide elements
-        merged_graph, report = validate_graph(merged_graph)
-        global_report = feed_global_report(
-            report, 
-            speech, 
-            global_report
-        )
-        # build neo4j graph
-        neo4j_graph = build_neo4j_graph(
-            speech,
-            merged_graph
-        )
-        save_graph(
-            neo4j_graph,
-            os.path.join(
-                output, 
-                "merged_graph",
-                speech['id']+".json"
-                )
-        )
-        save_graph(
-            neo4j_graph,
-            os.path.join(
-                output, 
-                "neo4j_graph",
-                speech['id']+".json"
-                )
-        )
+        try:
 
-        # LOAD Neo4j
-        load_to_neo4j(
-            driver,
-            neo4j_graph
-        )
-    except Exception as e:
-        elapsed = time.time() - start
-        # update log SUCCESS
-        log_dic[filename] = {
-            "status": "SUCCESS",
-            "llm_model": llm_model,
-            "prompt_version": "v1",
-            "processed_at": datetime.now().isoformat(),
-            "processing_time": round(elapsed, 2),
-            "n_chunks": len(speech["chunks"]),
-            "n_entities": len(
-                merged_graph["entities"]
-            ),
-            "n_relations": len(
-                merged_graph["relations"]
+            ###################################################
+            # 1. Chunking
+            ###################################################
+
+            speech["chunks"] = split_into_chunks(speech)
+
+            ###################################################
+            # 2. Parallel extraction
+            ###################################################
+
+            graphs = []
+
+            with ThreadPoolExecutor(max_workers=n_workers) as executor:
+
+                futures = [
+                    executor.submit(extract_graph_for_chunk, chunk)
+                    for chunk in speech["chunks"]
+                    if len(chunk["text"]) > 120
+                ]
+
+                for future in as_completed(futures):
+
+                    graph = future.result()
+
+                    if graph is not None:
+                        graphs.append(graph)
+
+            ###################################################
+            # 3. Merge all graphs once
+            ###################################################
+
+            merged_graph = merge_graphs(graphs)
+
+            ###################################################
+            # 4. Validation
+            ###################################################
+
+            merged_graph, report = validate_graph(
+                merged_graph
             )
-        }
-    finally:
-        with open(log_dic_path, "w", encoding="utf-8") as f:
-            json.dump(log_dic, f, indent=2, ensure_ascii=False)
 
-    # Save the final report
-    with open(global_report_path, "w", encoding="utf-8") as f:
-        json.dump(global_report, f, indent=2, ensure_ascii=False)
+            global_report = feed_global_report(
+                report,
+                speech,
+                global_report
+            )
+
+            ###################################################
+            # 5. Chunk embeddings
+            ###################################################
+
+            speech["chunks"] = compute_chunk_embeddings(
+                speech["chunks"]
+            )
+
+            ###################################################
+            # 6. Neo4j graph
+            ###################################################
+
+            neo4j_graph = build_neo4j_graph(
+                speech,
+                merged_graph
+            )
+
+            ###################################################
+            # 7. Save JSON
+            ###################################################
+
+            save_graph(
+                merged_graph,
+                os.path.join(
+                    output,
+                    "merged_graph",
+                    speech["id"] + ".json"
+                )
+            )
+
+            save_graph(
+                neo4j_graph,
+                os.path.join(
+                    output,
+                    "neo4j_graph",
+                    speech["id"] + ".json"
+                )
+            )
+
+            ###################################################
+            # 8. Load Neo4j
+            ###################################################
+
+            load_to_neo4j(
+                driver,
+                neo4j_graph
+            )
+
+            ###################################################
+            # 9. Log SUCCESS
+            ###################################################
+
+            elapsed = time.time() - speech_start
+
+            log_dic[filename] = {
+
+                "status": "SUCCESS",
+
+                "llm_model": llm_model,
+
+                "prompt_version": "v2",
+
+                "processed_at": datetime.now().isoformat(),
+
+                "processing_time": round(elapsed, 2),
+
+                "n_chunks": len(speech["chunks"]),
+
+                "n_entities": len(
+                    merged_graph["entities"]
+                ),
+
+                "n_relations": len(
+                    merged_graph["relations"]
+                )
+            }
+
+        except Exception as e:
+
+            elapsed = time.time() - speech_start
+
+            print(f"{filename} failed : {e}")
+
+            log_dic[filename] = {
+
+                "status": "FAILED",
+
+                "llm_model": llm_model,
+
+                "processed_at": datetime.now().isoformat(),
+
+                "processing_time": round(elapsed, 2),
+
+                "error": str(e)
+            }
+
+        ###################################################
+        # Save every N speeches
+        ###################################################
+
+        if (i + 1) % save_every == 0:
+
+            flush_state()
+
+finally:
+
+    flush_state()
 
     driver.close()
-    print("\nPipeline done. Duration {0:.2f}".format(time.time() - start0))
+
+print(
+    f"\nPipeline finished in {time.time()-start_pipeline:.2f} sec"
+)
