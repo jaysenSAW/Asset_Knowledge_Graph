@@ -38,11 +38,11 @@ def load_speeches(files_folder : str):
         corpus.append(speech)
     return corpus
 
-def split_into_chunks(speech):
+def split_into_chunks(speech, chunk_size = 1200, chunk_overlap=200):
 
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1200,
-        chunk_overlap=200,
+        chunk_size = chunk_size,
+        chunk_overlap = chunk_overlap,
         separators=[
             "\n\n",
             "\n",
