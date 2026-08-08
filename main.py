@@ -5,7 +5,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('-f', '--folder', default='data/discours-presidents/', help='folder with speeches')
 parser.add_argument('-llm', '--llm_model', default="qwen2.5:7b", help='llm model')
 parser.add_argument('-p', '--prompt_template', default="src/prompts/prepare_llm_output_graph_production.json")
-parser.add_argument('-r', '--prompt_RAG', default="src/prompts/prompt_RAG_production.txt")
+parser.add_argument('-r', '--prompt_RAG', default="src/prompts/prompt_RAG_production_V2.txt")
 parser.add_argument('-n', '--neo4j_para', default="credential.json", help='USER, UI and PASSWORD for neo4j')
 parser.add_argument('-log', '--log_path', default="output/log_graph.txt", help='log_graph.txt')
 parser.add_argument('-o', '--output_folder', default="output", help='output_folder')
@@ -24,20 +24,34 @@ from neo4j import GraphDatabase
 # import ollama
 import os
 from pathlib import Path
-from sentence_transformers import SentenceTransformer
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 sys.path.insert(1, "src/graph/")
-from graph_builder import get_node_id, extract_graph, compute_chunk_embeddings, merge_graphs, validate_graph, build_neo4j_graph, feed_global_report, save_graph, load_to_neo4j, create_constraints
+from graph_builder import (
+    get_node_id, 
+    extract_graph, 
+    compute_chunk_embeddings, 
+    merge_graphs, 
+    validate_graph, 
+    build_neo4j_graph, 
+    feed_global_report, 
+    save_graph, 
+    load_to_neo4j, 
+    create_constraints
+)
 sys.path.insert(1, "src/preprocessing/")
-from speeches import load_speeches, split_into_chunks, load_template_json, load_prompt_template, prompt_builder
+from speeches import (
+    load_speeches,
+    split_into_chunks,
+    load_prompt_template
+)
 
 
 
 folder = args.folder
-path_prompt_template = args.prompt_template
+#path_prompt_template = args.prompt_template
 path_prompt_RAG = args.prompt_RAG
 llm_model = args.llm_model
 log_dic_path = args.log_path
@@ -46,6 +60,8 @@ global_report_path = args.global_report
 n_workers = args.workers
 save_every = max(1, args.save_every)
 
+MIN_CHUNK_LEN = 120
+
 # Check if output folder exist
 Path(output).mkdir(parents=True, exist_ok=True)
 Path(os.path.join(output, "merged_graph")).mkdir(parents=True, exist_ok=True)
@@ -53,7 +69,7 @@ Path(os.path.join(output, "neo4j_graph")).mkdir(parents=True, exist_ok=True)
 
 
 
-example_json = load_template_json(path_prompt_template)
+# example_json = load_template_json(path_prompt_template)
 
 # folder with the prompt used to extract informations
 prompt_template = load_prompt_template(path_prompt_RAG)
@@ -97,23 +113,48 @@ else:
     log_dic = {}
 
 
-def extract_graph_for_chunk(chunk):
-    """Build the prompt and run LLM extraction for a single chunk.
-    Isolated in a function so it can be dispatched to a thread pool."""
-    prompt = prompt_builder(
-        prompt_template,
-        example_json,
+# PROMPT_PREFIX = prompt_template.replace(
+#     "{text}",
+#     ""
+# )
+
+def extract_graph_for_chunk_old(chunk):
+
+    prompt = PROMPT_PREFIX.replace(
+        "{text}",
         chunk["text"]
     )
+
     try:
-        graph = extract_graph(
+        return extract_graph(
             prompt,
             model=llm_model
         )
     except Exception as e:
         print(f"Chunk {chunk['chunk_id']} failed : {e}")
         return None
-    return graph
+
+def extract_graph_for_chunk(chunk):
+
+    prompt = prompt_template.replace(
+        "{text}",
+        chunk["text"]
+    )
+
+    print("=" * 100)
+    print("PROMPT ENVOYÉ AU LLM")
+    print("=" * 100)
+    print(prompt)
+    print("=" * 100)
+
+    try:
+        return extract_graph(
+            prompt,
+            model=llm_model
+        )
+    except Exception as e:
+        print(f"Chunk {chunk['chunk_id']} failed : {e}")
+        return None
 
 
 def flush_state():
@@ -132,12 +173,23 @@ corpus = load_speeches(folder)
 
 start_pipeline = time.time()
 
+# Two dedicated, long-lived thread pools instead of creating/tearing down
+# a ThreadPoolExecutor for every single speech (spawning threads 500 times
+# adds up). llm_executor runs the (I/O-bound, waiting on Ollama) chunk
+# extraction calls; embedding_executor runs chunk embeddings in the
+# background so that work overlaps with the LLM calls instead of running
+# strictly after them, since the two are independent (embeddings only need
+# chunk text, not LLM output).
+llm_executor = ThreadPoolExecutor(max_workers=n_workers)
+embedding_executor = ThreadPoolExecutor(max_workers=1)
+
 try:
 
-    for i, speech in enumerate(tqdm(corpus)):
+    for i, speech in enumerate(tqdm(corpus[:1])):
 
         filename = speech["filename"]
-
+        print("FILENAME")
+        print(filename)
         # ----------------------------------------------------
         # Skip already processed files
         # ----------------------------------------------------
@@ -165,25 +217,30 @@ try:
             speech["chunks"] = split_into_chunks(speech)
 
             ###################################################
-            # 2. Parallel extraction
+            # 2. Kick off embeddings in the background, and start
+            #    parallel LLM extraction at the same time. Both only
+            #    depend on speech["chunks"] from step 1.
             ###################################################
+
+            embedding_future = embedding_executor.submit(
+                compute_chunk_embeddings,
+                speech["chunks"]
+            )
 
             graphs = []
 
-            with ThreadPoolExecutor(max_workers=n_workers) as executor:
+            futures = [
+                llm_executor.submit(extract_graph_for_chunk, chunk)
+                for chunk in speech["chunks"]
+                if len(chunk["text"]) > MIN_CHUNK_LEN
+            ]
 
-                futures = [
-                    executor.submit(extract_graph_for_chunk, chunk)
-                    for chunk in speech["chunks"]
-                    if len(chunk["text"]) > 120
-                ]
+            for future in as_completed(futures):
 
-                for future in as_completed(futures):
+                graph = future.result()
 
-                    graph = future.result()
-
-                    if graph is not None:
-                        graphs.append(graph)
+                if graph is not None:
+                    graphs.append(graph)
 
             ###################################################
             # 3. Merge all graphs once
@@ -206,12 +263,11 @@ try:
             )
 
             ###################################################
-            # 5. Chunk embeddings
+            # 5. Collect embeddings (while step 2 was waiting on
+            #    the LLM)
             ###################################################
 
-            speech["chunks"] = compute_chunk_embeddings(
-                speech["chunks"]
-            )
+            speech["chunks"] = embedding_future.result()
 
             ###################################################
             # 6. Neo4j graph
@@ -265,7 +321,7 @@ try:
 
                 "llm_model": llm_model,
 
-                "prompt_version": "v2",
+                "prompt_RAG": path_prompt_RAG,
 
                 "processed_at": datetime.now().isoformat(),
 
@@ -300,11 +356,7 @@ try:
 
                 "error": str(e)
             }
-
-        ###################################################
         # Save every N speeches
-        ###################################################
-
         if (i + 1) % save_every == 0:
 
             flush_state()
@@ -312,6 +364,9 @@ try:
 finally:
 
     flush_state()
+
+    llm_executor.shutdown(wait=True)
+    embedding_executor.shutdown(wait=True)
 
     driver.close()
 
