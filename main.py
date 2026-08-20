@@ -26,19 +26,20 @@ import os
 from pathlib import Path
 import sys
 import time
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor, as_completed, TimeoutError as FutureTimeoutError
 from tqdm import tqdm
 sys.path.insert(1, "src/graph/")
 from graph_builder import (
-    get_node_id, 
-    extract_graph, 
-    compute_chunk_embeddings, 
-    merge_graphs, 
-    validate_graph, 
-    build_neo4j_graph, 
-    feed_global_report, 
-    save_graph, 
-    load_to_neo4j, 
+    get_node_id,
+    extract_graph,
+    compute_chunk_embeddings,
+    merge_graphs,
+    validate_graph,
+    add_speaker_entities,
+    build_neo4j_graph,
+    feed_global_report,
+    save_graph,
+    load_to_neo4j,
     create_constraints
 )
 sys.path.insert(1, "src/preprocessing/")
@@ -61,6 +62,11 @@ n_workers = args.workers
 save_every = max(1, args.save_every)
 
 MIN_CHUNK_LEN = 120
+# Safety net on top of num_predict (in graph_builder.extract_graph): if a
+# single chunk's LLM call still hangs or runs unexpectedly long (network
+# stall, server overload...), stop waiting for it instead of blocking the
+# rest of the speech indefinitely.
+CHUNK_TIMEOUT_SECONDS = 120
 
 # Check if output folder exist
 Path(output).mkdir(parents=True, exist_ok=True)
@@ -113,27 +119,6 @@ else:
     log_dic = {}
 
 
-# PROMPT_PREFIX = prompt_template.replace(
-#     "{text}",
-#     ""
-# )
-
-def extract_graph_for_chunk_old(chunk):
-
-    prompt = PROMPT_PREFIX.replace(
-        "{text}",
-        chunk["text"]
-    )
-
-    try:
-        return extract_graph(
-            prompt,
-            model=llm_model
-        )
-    except Exception as e:
-        print(f"Chunk {chunk['chunk_id']} failed : {e}")
-        return None
-
 def extract_graph_for_chunk(chunk):
 
     prompt = prompt_template.replace(
@@ -141,19 +126,37 @@ def extract_graph_for_chunk(chunk):
         chunk["text"]
     )
 
-    print("=" * 100)
-    print("PROMPT ENVOYÉ AU LLM")
-    print("=" * 100)
-    print(prompt)
-    print("=" * 100)
-
     try:
-        return extract_graph(
+
+        # extract_graph already validates the LLM output internally
+        # (via validate_llm_output) and returns the cleaned graph dict
+        # directly. Validating a second time here was not only redundant
+        # but actively broken: validate_llm_output returns a
+        # (cleaned_graph, report) tuple, and assigning that tuple straight
+        # to `graph` without unpacking meant every chunk's result was a
+        # tuple instead of a dict, which crashed merge_graphs() downstream
+        # with "'tuple' object has no attribute 'get'".
+        graph = extract_graph(
             prompt,
+            chunk["text"],
             model=llm_model
         )
+
+        if graph is None:
+            print(
+                f"Chunk {chunk['chunk_id']} : "
+                "LLM returned None"
+            )
+            return None
+
+        return graph
+
     except Exception as e:
-        print(f"Chunk {chunk['chunk_id']} failed : {e}")
+
+        print(
+            f"Chunk {chunk['chunk_id']} failed : {e}"
+        )
+
         return None
 
 
@@ -185,11 +188,9 @@ embedding_executor = ThreadPoolExecutor(max_workers=1)
 
 try:
 
-    for i, speech in enumerate(tqdm(corpus[:1])):
+    for i, speech in enumerate(tqdm(corpus[:500])):
 
         filename = speech["filename"]
-        print("FILENAME")
-        print(filename)
         # ----------------------------------------------------
         # Skip already processed files
         # ----------------------------------------------------
@@ -235,12 +236,32 @@ try:
                 if len(chunk["text"]) > MIN_CHUNK_LEN
             ]
 
+            # Track outcomes per chunk instead of silently dropping
+            # failures: a speech logged as "SUCCESS" with no visibility
+            # into how many of its chunks actually produced data can hide
+            # large gaps in the final graph (e.g. several chunks timing
+            # out or failing to parse in the middle of a speech, with the
+            # merged result quietly missing that whole section).
+            n_chunks_submitted = len(futures)
+            n_chunks_timeout = 0
+            n_chunks_failed = 0
+
             for future in as_completed(futures):
 
-                graph = future.result()
+                try:
+                    graph = future.result(timeout=CHUNK_TIMEOUT_SECONDS)
+                except FutureTimeoutError:
+                    print(
+                        f"Chunk skipped: no result after "
+                        f"{CHUNK_TIMEOUT_SECONDS}s"
+                    )
+                    n_chunks_timeout += 1
+                    continue
 
                 if graph is not None:
                     graphs.append(graph)
+                else:
+                    n_chunks_failed += 1
 
             ###################################################
             # 3. Merge all graphs once
@@ -268,6 +289,17 @@ try:
             ###################################################
 
             speech["chunks"] = embedding_future.result()
+
+            ###################################################
+            # 5bis. Add speaker(s) as a deterministic Person entity
+            #       (from document metadata, not an LLM guess — see
+            #       add_speaker_entities docstring)
+            ###################################################
+
+            merged_graph = add_speaker_entities(
+                merged_graph,
+                speech
+            )
 
             ###################################################
             # 6. Neo4j graph
@@ -315,9 +347,20 @@ try:
 
             elapsed = time.time() - speech_start
 
+            n_chunks_ok = n_chunks_submitted - n_chunks_timeout - n_chunks_failed
+
             log_dic[filename] = {
 
                 "status": "SUCCESS",
+
+                # Speech-level status stays "SUCCESS" as long as the
+                # pipeline itself didn't crash, but that alone doesn't
+                # mean every chunk contributed to the final graph — check
+                # "chunks_incomplete" / n_chunks_ok vs n_chunks_submitted
+                # to know if some content was silently dropped.
+                "chunks_incomplete": (
+                    n_chunks_ok < n_chunks_submitted
+                ),
 
                 "llm_model": llm_model,
 
@@ -328,6 +371,14 @@ try:
                 "processing_time": round(elapsed, 2),
 
                 "n_chunks": len(speech["chunks"]),
+
+                "n_chunks_submitted": n_chunks_submitted,
+
+                "n_chunks_ok": n_chunks_ok,
+
+                "n_chunks_timeout": n_chunks_timeout,
+
+                "n_chunks_failed": n_chunks_failed,
 
                 "n_entities": len(
                     merged_graph["entities"]
