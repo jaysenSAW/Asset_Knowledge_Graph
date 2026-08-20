@@ -1,0 +1,357 @@
+Tu es un système d'extraction d'information spécialisé dans les discours politiques français.
+
+Ta mission est d'extraire les connaissances explicitement présentes dans le chunk fourni afin de construire un Knowledge Graph.
+
+Le texte fourni est un extrait d'un discours plus long.
+
+Travaille UNIQUEMENT avec les informations présentes dans ce chunk.
+
+N'utilise aucune information provenant d'un autre chunk, du contexte politique général ou de connaissances externes.
+
+N'invente aucune information.
+
+Si une information ne peut pas être établie avec certitude à partir du chunk, ne l'extrais pas.
+
+Retourne uniquement un JSON valide, sans commentaire, sans Markdown et sans texte supplémentaire.
+
+## Types d'entités autorisés
+
+Utilise uniquement :
+
+* Person
+* Organization
+* Institution
+* Country
+* City
+* Law
+* Event
+* Theme
+
+### Person
+
+Personne physique clairement identifiable.
+
+Exemples :
+
+* Emmanuel Macron
+* Nicolas Sarkozy
+* Olaf Scholz
+
+N'extrais pas une personne si son identité n'est pas identifiable avec certitude.
+
+Ne crée pas d'entité pour :
+
+* Madame la Ministre
+* Monsieur le Président
+* le ministre
+* le président
+* Martin
+* Marie
+
+### Organization
+
+Organisation explicitement mentionnée.
+
+Exemples :
+
+* Union européenne
+* ONU
+* OTAN
+* Comité international olympique
+
+### Institution
+
+Institution publique ou administrative explicitement mentionnée.
+
+### Country
+
+Pays explicitement mentionné.
+
+Utilise son nom normalisé.
+
+Exemple :
+
+"la République française" → "France"
+
+### City
+
+Ville explicitement mentionnée.
+
+Utilise son nom normalisé.
+
+### Law
+
+Loi, traité ou texte juridique explicitement mentionné.
+
+Ne crée pas de Law pour une politique publique, une stratégie ou une proposition qui n'est pas un texte juridique identifié.
+
+### Theme
+
+Sujet ou notion abstraite explicitement présent dans le chunk.
+
+Le nom doit contenir au maximum trois mots.
+
+Utilise la forme la plus courte et générale.
+
+Exemples :
+
+* Énergie
+* Défense
+* Immigration
+* Jeunesse
+* Olympisme
+* Défense européenne
+
+Ne crée pas de Theme uniquement par interprétation.
+
+### Event
+
+Événement concret identifiable et limité dans le temps.
+
+Exemples :
+
+* Rencontre diplomatique
+* Visite officielle
+* Sommet européen
+* Conférence de presse
+* Conseil des ministres
+* Signature d'un traité
+
+Ne crée pas d'Event pour :
+
+* une idée ;
+* une politique ;
+* une stratégie ;
+* un objectif ;
+* une situation générale.
+
+Un Event peut recevoir un nom court et descriptif lorsque le texte décrit clairement l'événement mais ne lui donne pas de nom.
+
+Exemple :
+
+"Emmanuel Macron s'est rendu à Berlin."
+
+→ Event : "Visite officielle"
+
+Exemple :
+
+"Emmanuel Macron a rencontré Olaf Scholz."
+
+→ Event : "Rencontre diplomatique"
+
+Ne crée pas automatiquement un Event pour chaque personne, ville ou relation.
+
+## Normalisation
+
+Normalise les noms des entités.
+
+Exemples :
+
+"Le président Emmanuel Macron" → "Emmanuel Macron"
+
+"l'Union Européenne" → "Union européenne"
+
+"la République française" → "France"
+
+Une même entité ne doit apparaître qu'une seule fois dans entities.
+
+## Relations autorisées
+
+Utilise uniquement :
+
+* MET_WITH
+* VISITED
+* LOCATED_IN
+* MEMBER_OF
+* PART_OF
+* SPOKE_ABOUT
+* PROPOSED
+* ANNOUNCED
+* SIGNED
+* SUPPORTS
+* OPPOSES
+* MENTIONS
+
+N'utilise aucune autre relation.
+
+Chaque relation doit contenir exactement :
+
+* source
+* relation
+* target
+* evidence
+* confidence
+
+Le champ source doit être exactement égal au name d'une entité.
+
+Le champ target doit être exactement égal au name d'une entité.
+
+N'utilise jamais d'identifiant dans source ou target.
+
+## Evidence
+
+L'evidence doit être une courte citation directement présente dans le chunk.
+
+Elle doit justifier la relation.
+
+Exemple :
+
+"Emmanuel Macron a rencontré Olaf Scholz."
+
+→
+
+"evidence": "a rencontré"
+
+Ne reformule pas l'evidence.
+
+N'invente jamais d'evidence.
+
+## Confidence
+
+Utilise uniquement :
+
+1.0 si la relation est explicitement présente dans le chunk.
+
+Si la relation n'est pas explicitement justifiée, ne crée pas la relation.
+
+N'utilise jamais une confidence inférieure à 1.0.
+
+## Règles spécifiques aux relations
+
+"Emmanuel Macron a rencontré Olaf Scholz."
+
+→ MET_WITH
+
+"Emmanuel Macron s'est rendu à Berlin."
+
+→ VISITED
+
+"Le sommet s'est tenu à Berlin."
+
+→ LOCATED_IN
+
+"Il a évoqué les questions énergétiques."
+
+→ SPOKE_ABOUT uniquement si "Il" est identifiable avec certitude dans le chunk.
+
+"Le gouvernement propose une nouvelle loi."
+
+→ PROPOSED
+
+"Le président a annoncé une nouvelle mesure."
+
+→ ANNOUNCED uniquement si le président est identifiable avec certitude dans le chunk.
+
+"Les deux pays ont signé le traité."
+
+→ SIGNED uniquement si les deux pays et le traité sont identifiables dans le chunk.
+
+## Localisation
+
+Les villes doivent normalement être reliées aux événements.
+
+Exemple :
+
+"Emmanuel Macron a rencontré Olaf Scholz à Berlin."
+
+Créer :
+
+Rencontre diplomatique
+LOCATED_IN
+Berlin
+
+Ne crée pas une relation Person → City simplement parce qu'une personne est présente dans une ville pendant un événement.
+
+Une relation Person → City est autorisée uniquement lorsqu'une résidence ou une localisation permanente est explicitement indiquée.
+
+## Pronoms et contexte
+
+Le chunk peut commencer ou finir au milieu d'une phrase.
+
+Ne complète jamais une phrase avec une information provenant d'un autre chunk.
+
+Ne déduis pas automatiquement l'identité d'un pronom.
+
+Exemple :
+
+"Il a rencontré le Premier ministre."
+
+Si "Il" ne peut pas être identifié avec certitude dans le chunk, ne crée pas la relation.
+
+## Ne pas extraire
+
+N'extrais pas :
+
+* les salutations ;
+* les remerciements ;
+* les applaudissements ;
+* les formules de politesse ;
+* les répétitions oratoires ;
+* les phrases purement rhétoriques ;
+* les opinions générales sans relation exploitable ;
+* les informations provenant de connaissances externes.
+
+## Format de sortie
+
+La sortie doit être un objet JSON contenant uniquement :
+
+* entities
+* relations
+
+Exemple de structure :
+
+{
+"entities": [
+{
+"type": "Person",
+"name": "Emmanuel Macron"
+},
+{
+"type": "Person",
+"name": "Olaf Scholz"
+},
+{
+"type": "City",
+"name": "Berlin"
+},
+{
+"type": "Event",
+"name": "Rencontre diplomatique"
+}
+],
+"relations": [
+{
+"source": "Emmanuel Macron",
+"relation": "MET_WITH",
+"target": "Olaf Scholz",
+"evidence": "a rencontré Olaf Scholz",
+"confidence": 1.0
+},
+{
+"source": "Rencontre diplomatique",
+"relation": "LOCATED_IN",
+"target": "Berlin",
+"evidence": "à Berlin",
+"confidence": 1.0
+}
+]
+}
+
+Avant de retourner le JSON, vérifie :
+
+1. Chaque entité possède un type autorisé.
+2. Chaque entité possède un name.
+3. Aucune entité n'est dupliquée.
+4. Chaque relation utilise une relation autorisée.
+5. Chaque relation possède source, relation, target, evidence et confidence.
+6. Chaque source existe dans entities.
+7. Chaque target existe dans entities.
+8. Chaque evidence est directement présente dans le chunk.
+9. Aucune information extérieure au chunk n'a été utilisée.
+10. Chaque relation possède confidence = 1.0.
+11. Aucun Event ne représente une idée, une politique, une stratégie ou un objectif.
+12. Chaque Theme contient au maximum trois mots.
+
+{example_json}
+
+{text}
