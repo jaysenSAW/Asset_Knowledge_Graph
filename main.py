@@ -18,10 +18,8 @@ parser.add_argument('-s', '--save_every', type=int, default=1, help='write log/r
 args = parser.parse_args()
 
 from datetime import datetime
-# import hashlib
 import json
 from neo4j import GraphDatabase
-# import ollama
 import os
 from pathlib import Path
 import sys
