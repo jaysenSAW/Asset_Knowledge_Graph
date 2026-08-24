@@ -159,28 +159,7 @@ def split_into_chunks(speech, chunk_size = 1200, chunk_overlap=200):
     ]
 
 
-
-def load_template_json(path : str):
-    with open(
-        path,
-        encoding="utf-8"
-    ) as json_file:
-        example_json = json.load(json_file)
-
-    return json.dumps(
-        example_json,
-        ensure_ascii=False,
-        indent=2
-    )
-
 def load_prompt_template(path):
     with open(path, encoding="utf-8") as filin:
         return filin.read()
 
-
-
-def prompt_builder(prompt_template, example_json, text):
-    return prompt_template.format(
-        example_json=example_json,
-        text=text
-    )
