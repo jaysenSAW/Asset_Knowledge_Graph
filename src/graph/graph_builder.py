@@ -6,6 +6,7 @@ import ollama
 import os
 import re
 from sentence_transformers import SentenceTransformer
+import torch
 import unicodedata
 
 # Optional dependency (pip install json-repair --break-system-packages).
@@ -205,7 +206,13 @@ def extract_graph_debug(prompt, model="qwen2.5:7b"):
 
 def get_embedding_model(model_name="BAAI/bge-m3"):
     if model_name not in _embedding_model_cache:
-        _embedding_model_cache[model_name] = SentenceTransformer(model_name)
+        if torch.cuda.is_available():
+            device = "cuda"
+        else:
+            device = "cpu"
+        _embedding_model_cache[model_name] = SentenceTransformer(
+            model_name,
+            device = device)
     return _embedding_model_cache[model_name]
 
 
