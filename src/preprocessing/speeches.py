@@ -10,11 +10,9 @@ import re
 # to the LLM, or it produces spurious entities (e.g. a "Theme" created
 # from a keyword tag rather than an actual sentence in the speech).
 FOOTER_MARKER_RE = re.compile(r"\n\s*mots[\s-]*cl[ée]s\s*\n", re.IGNORECASE)
-
 # Matches a leading "Titre:" / "Titre :" label so the parsed title is just
 # the title itself, not the raw label from the source file.
 TITLE_LABEL_RE = re.compile(r"^titre\s*:\s*", re.IGNORECASE)
-
 # Matches the "Intervenant(s) :" metadata label line in the header.
 INTERVENANT_LABEL_RE = re.compile(r"^intervenant\(s\)\s*:?\s*$", re.IGNORECASE)
 
@@ -28,7 +26,7 @@ def extract_speakers(header: str) -> list:
     in the speech header, if present.
 
     This is a deterministic, regex-based read of structured metadata
-    already present in the source file — not an LLM inference from a
+    already present in the source file. Not an LLM inference from a
     pronoun like "je" in the speech body. The extraction prompt
     deliberately never resolves "je" to a named person to avoid
     hallucinating an identity; this sidesteps that limitation entirely by
@@ -62,6 +60,45 @@ def extract_speakers(header: str) -> list:
 
     return speakers
 
+def extract_header_field(header: str, field_name: str) -> str:
+    """
+    Extract field values (ex: 'Circonstance', 'Intervenant(s)') 
+    from the header.
+    Arguments:
+        header (str): text
+        field_name (str): keyword use as field name
+    return  
+        field values
+    """
+    pattern = re.compile(rf"^{re.escape(field_name)}\s*:\s*$", re.IGNORECASE)
+    lines = header.splitlines()
+    collected = []
+    collecting = False
+
+    for line in lines:
+        stripped = line.strip()
+        if collecting:
+            # S'arrête dès qu'on tombe sur une ligne vide ou un autre label "Label :"
+            if not stripped or re.match(r"^.+\s*:\s*$", stripped):
+                break
+            collected.append(stripped)
+            continue
+
+        if pattern.match(stripped):
+            collecting = True
+    return " ".join(collected).strip()
+
+def extract_keywords(footer_text: str) -> list[str]:
+    """Extrait la liste des mots-clés situés après le marqueur 'MOTS CLÉS' 
+    en excluant les identifiants numériques et la navigation."""
+    keywords = []
+    for line in footer_text.splitlines():
+        line = line.strip()
+        # Ignore les lignes vides, les ID numériques seuls et la navigation
+        if not line or line.isdigit() or line.lower() == "haut de page":
+            continue
+        keywords.append(line)
+    return keywords
 
 def load_speeches(files_folder: str):
     """Load speech text files from a folder into a list of speech dicts.
@@ -106,12 +143,21 @@ def load_speeches(files_folder: str):
         title = header_lines[0].strip()
         title = TITLE_LABEL_RE.sub("", title).strip()
 
-        # Speech body: strip a trailing "MOTS CLÉS" footer section if present,
-        # since it's page navigation/categorization, not speech content.
+        # Extract keyword and clean text
         body = body.strip()
+        keywords = []
         footer_match = FOOTER_MARKER_RE.search(body)
         if footer_match:
+            footer_text = body[footer_match.end():]
+            keywords = extract_keywords(footer_text)
             body = body[:footer_match.start()].strip()
+
+        # Extract metadata field from the header
+        intervenants_raw = extract_header_field(header, "Intervenant(s)")
+        intervenants = [i.strip() for i in intervenants_raw.split(",") 
+                        if i.strip()] if intervenants_raw else []
+        speakers = extract_speakers(header)
+        circonstance = extract_header_field(header, "Circonstance")
 
         # Metadata
         speech = {
@@ -121,7 +167,10 @@ def load_speeches(files_folder: str):
             "filename": filename,
             "header": header,
             "text": body,
-            "speakers": extract_speakers(header),
+            "speakers": speakers,
+            "intervenants": intervenants,
+            "circonstance": circonstance,
+            "mots_cles": keywords,
             "chunks": []
         }
         corpus.append(speech)
