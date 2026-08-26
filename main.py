@@ -5,13 +5,16 @@ parser = argparse.ArgumentParser()
 parser.add_argument('-f', '--folder', default='data/discours-presidents/', help='folder with speeches')
 parser.add_argument('-llm', '--llm_model', default="qwen2.5:7b", help='llm model')
 parser.add_argument('-p', '--prompt_template', default="src/prompts/prepare_llm_output_graph_production.json")
-parser.add_argument('-r', '--prompt_RAG', default="src/prompts/prompt_RAG_production_V2.txt")
+parser.add_argument('-r', '--prompt_RAG', default="src/prompts/prompt_RAG_production_v4.txt")
 parser.add_argument('-n', '--neo4j_para', default="credential.json", help='USER, UI and PASSWORD for neo4j')
 parser.add_argument('-log', '--log_path', default="output/log_graph.txt", help='log_graph.txt')
 parser.add_argument('-o', '--output_folder', default="output", help='output_folder')
 parser.add_argument('-g', '--global_report', default="output/global_report.json", help='output_folder')
 parser.add_argument('-w', '--workers', type=int, default=4, help='number of parallel workers for LLM chunk extraction')
 parser.add_argument('-s', '--save_every', type=int, default=1, help='write log/report to disk every N speeches (>1 speeds up I/O, less crash-safe)')
+parser.add_argument('-b', '--beging', type=int, default=0, help='index document use as starting point')
+parser.add_argument('-e', '--end', type=int, default=-1, help='index document use as ending point')
+
 
 
 
@@ -58,6 +61,9 @@ output = args.output_folder
 global_report_path = args.global_report
 n_workers = args.workers
 save_every = max(1, args.save_every)
+beging = args.beging
+end = args.end
+
 
 MIN_CHUNK_LEN = 120
 # Safety net on top of num_predict (in graph_builder.extract_graph): if a
@@ -186,7 +192,7 @@ embedding_executor = ThreadPoolExecutor(max_workers=1)
 
 try:
 
-    for i, speech in enumerate(tqdm(corpus[:500])):
+    for i, speech in enumerate(tqdm(corpus[beging:end])):
 
         filename = speech["filename"]
         # ----------------------------------------------------
@@ -286,7 +292,9 @@ try:
             #    the LLM)
             ###################################################
 
-            speech["chunks"] = embedding_future.result()
+            computed_chunks = embedding_future.result()
+            if computed_chunks:
+                speech["chunks"] = computed_chunks
 
             ###################################################
             # 5bis. Add speaker(s) as a deterministic Person entity
@@ -361,64 +369,40 @@ try:
                 ),
 
                 "llm_model": llm_model,
-
                 "prompt_RAG": path_prompt_RAG,
-
                 "processed_at": datetime.now().isoformat(),
-
                 "processing_time": round(elapsed, 2),
-
                 "n_chunks": len(speech["chunks"]),
-
                 "n_chunks_submitted": n_chunks_submitted,
-
                 "n_chunks_ok": n_chunks_ok,
-
                 "n_chunks_timeout": n_chunks_timeout,
-
                 "n_chunks_failed": n_chunks_failed,
-
                 "n_entities": len(
                     merged_graph["entities"]
                 ),
-
                 "n_relations": len(
                     merged_graph["relations"]
                 )
             }
 
         except Exception as e:
-
             elapsed = time.time() - speech_start
-
             print(f"{filename} failed : {e}")
-
             log_dic[filename] = {
-
                 "status": "FAILED",
-
                 "llm_model": llm_model,
-
                 "processed_at": datetime.now().isoformat(),
-
                 "processing_time": round(elapsed, 2),
-
                 "error": str(e)
             }
         # Save every N speeches
         if (i + 1) % save_every == 0:
-
             flush_state()
-
 finally:
-
     flush_state()
-
     llm_executor.shutdown(wait=True)
     embedding_executor.shutdown(wait=True)
-
     driver.close()
-
 print(
     f"\nPipeline finished in {time.time()-start_pipeline:.2f} sec"
 )
