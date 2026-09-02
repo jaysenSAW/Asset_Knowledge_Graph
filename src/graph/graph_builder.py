@@ -773,7 +773,6 @@ def create_constraints(driver, constraint_file : str):
 ALLOWED_ENTITY_TYPES = {
     "Person",
     "Organization",
-    "Institution",
     "Country",
     "City",
     "Law",
@@ -782,15 +781,13 @@ ALLOWED_ENTITY_TYPES = {
 }
 
 ALLOWED_RELATIONS = {
-    "MET_WITH",
-    "VISITED",
     "LOCATED_IN",
     "MEMBER_OF",
-    "PART_OF",
+    "ALLIED_WITH",
+    "VISITED",
     "SPOKE_ABOUT",
     "PROPOSED",
     "ANNOUNCED",
-    "SIGNED",
     "SUPPORTS",
     "OPPOSES",
     "MENTIONS",
