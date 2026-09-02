@@ -1,0 +1,662 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le président de la Fédération de Russie",
+      "id": "Person_d05ff81112e45ddb7622a80e3c69d157e307b72751baac1e74b263af1a1e27e7"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier Ministre du Japon",
+      "id": "Person_83593ca096d8f5c51c29c64e0e8c21f3278003a4b5333d5633418add3e01c6c0"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les chefs de Gouvernement",
+      "id": "Person_89d70eb27a3aeb9299bb6e705ab9692b66e2edaba287e3fa53407a7545455874"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Directrice générale du Fonds monétaire international",
+      "id": "Person_fdcf22921a7fdeabdcdfae94aaf46cb080870b8fa476e5b0a8d440caff21a022"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Ministres",
+      "id": "Person_04725bf2245672793e76174d8746ec28f46c281ef73283bf9390941f137cf2cf"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les chefs d'entreprise",
+      "id": "Person_c966ed4290e7b39225dfdd769cc8471d85aed6f6db0609bf32858df1666c25ce"
+    },
+    {
+      "type": "Person",
+      "name": "Chers amis",
+      "id": "Person_ea6752ea13b7e38cb244013342b4e04afa9dd5dcbf74d7e84b37acdece219eb9"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "City",
+      "name": "Piskarevskoïe",
+      "id": "City_df1fa4ffb8877e7d3860f87dafbdfd497d3caee51d5695c3afdc8311c82220e3"
+    },
+    {
+      "type": "City",
+      "name": "la 2ème Guerre mondiale",
+      "id": "City_4e3a62e9a26f1c3e3b43e97627f4eac1160c983e9af606701db73852a61849fa"
+    },
+    {
+      "type": "City",
+      "name": "cette ville",
+      "id": "City_c20c85d01886b7962fd3ebd5ee48f2db20abfa5ef58e73d426781d0ce5315471"
+    },
+    {
+      "type": "Theme",
+      "name": "connaissance de nos Histoires communes",
+      "id": "Theme_aab38c051471ad50736652d54af4c9fe8ad376f7a16d87ca895f129424752d91"
+    },
+    {
+      "type": "Theme",
+      "name": "dialectique dans le rapport à l'autre et à soi",
+      "id": "Theme_2a0d42046249ea29562d1f502b35678cad9bd72d860039f1e81edc243ab6bb38"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtrise des propriétés civiles de l'atome",
+      "id": "Theme_08785569c9e763eabbb117e1fd02ee90e56475d34ef40f7c854e8a8ddbd76bb2"
+    },
+    {
+      "type": "Theme",
+      "name": "approvisionnement énergétique de l'Europe",
+      "id": "Theme_3f79fe7def2d0dcc2955c5fd2b6df0c71dacdf7846c28b1e48488b1f336de1b2"
+    },
+    {
+      "type": "Theme",
+      "name": "exploration spatiale",
+      "id": "Theme_53d315dde34281236be967d1e10e6e7b450975b7f2db302bf5198bc7329ab412"
+    },
+    {
+      "type": "Theme",
+      "name": "projets dans le domaine énergétique",
+      "id": "Theme_b6e15a25313157c5fd0414dd48c054abbd5c4868a95b8280f10c79be7def81bc"
+    },
+    {
+      "type": "Theme",
+      "name": "Guerre et Paix",
+      "id": "Theme_4c5d4152bb4a41f8433049b274f632081f03bac7f0433c14b59b89e22a1c6ca2"
+    },
+    {
+      "type": "Person",
+      "name": "Bézoukhov",
+      "id": "Person_1c4f5d40d054ba889a1779b6d946d5662d0b3f749ddcd0f2fc6b44d73051108b"
+    },
+    {
+      "type": "Person",
+      "name": "Karataev",
+      "id": "Person_39675e78dcfb1ccf4ee9c609de17da9b43c0931ef179206d26273e71f39b30e9"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Pétersbourg",
+      "id": "City_ea8af6cd21fdb234f4de31154479c8a3a098b1d5155fd3250ae9bbb503523d90"
+    },
+    {
+      "type": "Country",
+      "name": "Japon",
+      "id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Shinzo",
+      "id": "Person_2829780b5e486a331c44aab4cf136b58f8304604844c4a672e9d6849088aec8e"
+    },
+    {
+      "type": "Organization",
+      "name": "Proche et Moyen-Orient",
+      "id": "Organization_adb9788394231b2ce6b08ff6b0f678172294bddb16eb0dc9e46482bb16a45770"
+    },
+    {
+      "type": "Organization",
+      "name": "Asie",
+      "id": "Organization_43e33a40d6adb3df4a199e152038ba0f86a8943b12482ec83e6672c79578c044"
+    },
+    {
+      "type": "Person",
+      "name": "Président Poutine",
+      "id": "Person_a22176f8b01b8661705212dbebb7d3f0961063fa7068a972522e7c3f72c00183"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de l'Europe",
+      "id": "Organization_5c875c7f06516baeebbf53a7d84bca86dab1fc33e8964d207ae7c92ab603f97b"
+    },
+    {
+      "type": "Theme",
+      "name": "crise de la mondialisation contemporaine",
+      "id": "Theme_6dc265470920af9ff23c25cf421faac863a1199657c1c67a03d431ef91dc672c"
+    },
+    {
+      "type": "Theme",
+      "name": "défiance de nos peuples",
+      "id": "Theme_e127f27e8df2ae119e1cb7f3119a0917523921c4a1fef0b174733807c02bebed"
+    },
+    {
+      "type": "Theme",
+      "name": "manque d'efficacité et d'équité de ce développement",
+      "id": "Theme_846c6c6e7c68a1ee131332b457b47b9d6a23a2101c465c6b79e64cf8c429b1c8"
+    },
+    {
+      "type": "Theme",
+      "name": "fragmentation du monde",
+      "id": "Theme_a8f739465d1a36a51edc5742f68bde5282a39b8ee5cd0a638962b9c7396cc492"
+    },
+    {
+      "type": "Theme",
+      "name": "division",
+      "id": "Theme_51226e2119e097a2d00a987884a7ffc43fa4ce2314906ee31389014c78119404"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce",
+      "id": "Theme_030aa67661fc7f420b2620eaa40b472d5e87b4aea26693aacbd98e388c58bb88"
+    },
+    {
+      "type": "Theme",
+      "name": "sujets de défense ou de sécurité collective",
+      "id": "Theme_c4e7024e8b0742dd509c1e65426b3910954fcf4b96773e8236186d30a97d79f5"
+    },
+    {
+      "type": "Theme",
+      "name": "sujets de numérique",
+      "id": "Theme_466f41d2603613ce63dc06f82382259e25a5ee5257d70e7790195acdce718a35"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme fort",
+      "id": "Theme_fc4e5e2dee731298c948e1540de67c74e1956ac6bff0ce16de1755628206cf18"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération résolue",
+      "id": "Theme_6a4772aa9a8a2ab398ce119890e691e10be4c250905e9982451c3615ba929a87"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Theme",
+      "name": "respect",
+      "id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "type": "Theme",
+      "name": "bon fonctionnement",
+      "id": "Theme_fab0c012d60f9acba92e888c99b503fde156c538ccf857b72d52b0a5e265cc61"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "limites",
+      "id": "Theme_8d6278723a23253dca000513eaa9928053a496a41ca3352b97e18dfc781b0b36"
+    },
+    {
+      "type": "Country",
+      "name": "mon pays",
+      "id": "Country_666ccd6365c2fd20755905d1cc32a76d0f25c4a3de0898b44ec606fff24f45aa"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Theme",
+      "name": "cyberespace",
+      "id": "Theme_5e9488ec8e0e545344a484b253cc9dd5c88d9007b832f07b75aa7cd3af077474"
+    },
+    {
+      "type": "Theme",
+      "name": "intégrité de l'information",
+      "id": "Theme_637001985ce14fec64abf7bf1830a972d5d629fe710f4af8409be6c3445b68cb"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "règles du monde",
+      "id": "Theme_435766204a7ef65ee16a18dab3206f9f7de064e5cd2a4e62990a37c8ccda13ba"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe de la défense",
+      "id": "Theme_d488a2eb389ffd7a51db81916674d2c1c5302f5c6339f996ea167cdd961cb4e8"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "régulation",
+      "id": "Theme_f70cb43189b106bcacace57211968518d9307936128cf563ad9dbd98617b47cf"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté commerciale",
+      "id": "Theme_19b104a1ccf934c334f155bf3bb603d90f2865a318747fcaacf4cca72b69cfc0"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté financière",
+      "id": "Theme_39a6f62c45dd5eb3d6ab53afa2066e4175e8bb37b813e8b6515bad04a49165bd"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Organization",
+      "name": "Union africaine",
+      "id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération permanente",
+      "id": "Theme_fad706d2d0394116574dee3c7a03789abee421fbf6f8dee6dba46d64fe4d403a"
+    },
+    {
+      "type": "Theme",
+      "name": "classes moyennes",
+      "id": "Theme_51e81a3a86f221548aab0ff37af5181c0703af7bed5eeb5c9d9976386a312914"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre commerciale",
+      "id": "Theme_c7b8d631aa4c8b72316b4d432acb2c32043ddb72749ef9f8feb568307bc30684"
+    },
+    {
+      "type": "Theme",
+      "name": "déséquilibres mondiaux",
+      "id": "Theme_96f2e8d43d4d75fe83be040e6775becc373d2d1c68d7ee341c048da6c580ff1a"
+    },
+    {
+      "type": "Theme",
+      "name": "G20",
+      "id": "Theme_54ecd60ef908d3cd5742fcaa9465cdabad3eb7ede51b5f4128de8db51cd3e891"
+    },
+    {
+      "type": "Theme",
+      "name": "OMC",
+      "id": "Theme_76c751dfe4aa1ca71ccdc34552f76db8f10726aae63c933d344967da4cd20f12"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies",
+      "id": "Theme_13d59bafdc47af3e410af65db9d4750021cd91a0bdfe8882fa42d2d9c12e506d"
+    },
+    {
+      "type": "Theme",
+      "name": "financements",
+      "id": "Theme_f5b16af1090bbb07202f52148fe77da568c0b0d74e40c85c9e6976adf7133cf5"
+    },
+    {
+      "type": "Theme",
+      "name": "compétences",
+      "id": "Theme_f4baf676a1a91b846e556f812ea2e6452ecc1b7c2b3a87f971cd7e60c4b42995"
+    },
+    {
+      "type": "Theme",
+      "name": "économie bas carbone",
+      "id": "Theme_7b86bf993ee6090960293300a6cf97c297b9bca5a1b80c47eecf5831afbfeba7"
+    },
+    {
+      "type": "Theme",
+      "name": "course vers le bas",
+      "id": "Theme_e58b664839c599c6e6b9884642fe82341fd9deca72dbe044bcc5cf0c1a10c702"
+    },
+    {
+      "type": "Theme",
+      "name": "social",
+      "id": "Theme_f56a2d9d095e45391d6aec33e39ec6cf633c5a21bda6f8e4cb689786529558da"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation technologique",
+      "id": "Theme_dad9fe40be0460f2179d87c99f84f32a602fbf87027306fc54573f74bb6bd044"
+    },
+    {
+      "type": "Theme",
+      "name": "maintien de la paix",
+      "id": "Theme_cd4020c4c29b7f1a86498dbf90e7a13e10e134c62ba787f24f6893bf2a69063c"
+    },
+    {
+      "type": "Theme",
+      "name": "baisse de la conflictualité",
+      "id": "Theme_a470a7e48b81fe7237f6d52ad4981edf2902affa0704cc632e25fa5496697cd0"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation des Nations unies",
+      "id": "Organization_707b7e4fb958022ac09c7c735de46bff28a624e5777366c77b47ed95be05ca58"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation mondiale du commerce",
+      "id": "Organization_279680ad64a597c5effc113dc4b3abd9bc4b6f6f07c59018604598bd2e0baca8"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds monétaire international",
+      "id": "Organization_ea510a567f72e30e0268e3e6ccaa15fe3579eeab3ddd63cf65e4879cc4e70e8d"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Person",
+      "name": "Premier Ministre ABE",
+      "id": "Person_6133128f38ee62fd85bf4b0515aca71485bf9c73c865beb22e5a8f85a75155c6"
+    },
+    {
+      "type": "Person",
+      "name": "Alexandre SOLJENITSYNE",
+      "id": "Person_8fea1d030c9d18ddb3b4fe95c10c9c9e14c12e03e9eb3a9f1283476412fd4b1e"
+    },
+    {
+      "type": "Event",
+      "name": "le déclin du courage",
+      "id": "Event_cd4ba84c47e6ea4ee54f5851e08a7ceb9052c2e2b872950b03f018c7ffee8cde"
+    },
+    {
+      "type": "Theme",
+      "name": "fragmentation",
+      "id": "Theme_f775975cad65ae8ba5bffbf8cc4b370c5c48df2bdfa12651861fcf5d2e947540"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "courage",
+      "id": "Theme_4eb0829b6b279fcb2a945b12114e4f8976954c7a7fcf9391f504d523ee63a88b"
+    },
+    {
+      "type": "Theme",
+      "name": "sport",
+      "id": "Theme_825ac548d524f301bf40cecba64423c577f867e16f68d3e023ee693d5aebd94a"
+    },
+    {
+      "type": "Person",
+      "name": "Vladimir",
+      "id": "Person_b1b1cf74fc0ea0b6c17e0336f70164d7c75b6ecae88ba36ed7d7184e1095ae46"
+    },
+    {
+      "type": "Organization",
+      "name": "la Russie",
+      "id": "Organization_93db7c78f250e338869d362dac677fb9fc4579c13d51f5fd347528435de34d67"
+    },
+    {
+      "type": "Theme",
+      "name": "le judo",
+      "id": "Theme_cb94b8df055ab8f0f22f7a8b45bbe434399162192631cc693e12f3531d1ef43e"
+    },
+    {
+      "type": "Theme",
+      "name": "le football",
+      "id": "Theme_8a6be32c590f3f3bad9b1d90cfba72c95cd16a969ec3b7cf4d291e83894a755f"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "cette ville",
+      "relation": "LOCATED_IN",
+      "target": "cette ville",
+      "evidence": "à la fois pour rendre hommage à l'Histoire de cette ville",
+      "confidence": 1.0,
+      "source_id": "City_c20c85d01886b7962fd3ebd5ee48f2db20abfa5ef58e73d426781d0ce5315471",
+      "target_id": "City_c20c85d01886b7962fd3ebd5ee48f2db20abfa5ef58e73d426781d0ce5315471"
+    },
+    {
+      "source": "Bézoukhov",
+      "relation": "SPOKE_ABOUT",
+      "target": "Guerre et Paix",
+      "evidence": "c'est ce qu'au fond dans « Guerre et Paix », est exprimé le mieux entre Bézoukhov et Karataev.",
+      "confidence": 1.0,
+      "source_id": "Person_1c4f5d40d054ba889a1779b6d946d5662d0b3f749ddcd0f2fc6b44d73051108b",
+      "target_id": "Theme_4c5d4152bb4a41f8433049b274f632081f03bac7f0433c14b59b89e22a1c6ca2"
+    },
+    {
+      "source": "Russie",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "la Russie a son Histoire et son destin dans l'Europe",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Europe partenariale",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "crise de la mondialisation contemporaine",
+      "relation": "MENTIONS",
+      "target": "crise de la mondialisation contemporaine",
+      "evidence": "Oui, nous vivons  cela depuis plusieurs années  une crise de la mondialisation contemporaine qui fait douter nos peuples.",
+      "confidence": 1.0,
+      "source_id": "Theme_6dc265470920af9ff23c25cf421faac863a1199657c1c67a03d431ef91dc672c",
+      "target_id": "Theme_6dc265470920af9ff23c25cf421faac863a1199657c1c67a03d431ef91dc672c"
+    },
+    {
+      "source": "division",
+      "relation": "MENTIONS",
+      "target": "division",
+      "evidence": "Qu'il s'agisse du commerce, qu'il s'agisse des sujets de défense ou de sécurité collective, qu'il s'agisse des sujets de numérique, la division ne sera que l'instrument de la peur.",
+      "confidence": 1.0,
+      "source_id": "Theme_51226e2119e097a2d00a987884a7ffc43fa4ce2314906ee31389014c78119404",
+      "target_id": "Theme_51226e2119e097a2d00a987884a7ffc43fa4ce2314906ee31389014c78119404"
+    },
+    {
+      "source": "mon pays",
+      "relation": "SPOKE_ABOUT",
+      "target": "souveraineté",
+      "evidence": "C'est pour cette raison que je suis attaché à la souveraineté de mon pays",
+      "confidence": 1.0,
+      "source_id": "Country_666ccd6365c2fd20755905d1cc32a76d0f25c4a3de0898b44ec606fff24f45aa",
+      "target_id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "souveraineté européenne",
+      "evidence": "Cette souveraineté européenne, c'est celle que nous avons renforcée ces derniers mois",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "Europe de la défense",
+      "evidence": "en actant d'une Europe de la défense",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_d488a2eb389ffd7a51db81916674d2c1c5302f5c6339f996ea167cdd961cb4e8"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "La France  comme vous le savez  est aujourd'hui la première armée de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "source": "souveraineté européenne",
+      "relation": "MENTIONS",
+      "target": "souveraineté européenne",
+      "evidence": "C'est aussi parce que je crois à la souveraineté européenne que je veux renforcer notre souveraineté commerciale et financière.",
+      "confidence": 1.0,
+      "source_id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4",
+      "target_id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "source": "souveraineté commerciale",
+      "relation": "MENTIONS",
+      "target": "souveraineté commerciale",
+      "evidence": "C'est aussi parce que je crois à la souveraineté européenne que je veux renforcer notre souveraineté commerciale et financière.",
+      "confidence": 1.0,
+      "source_id": "Theme_19b104a1ccf934c334f155bf3bb603d90f2865a318747fcaacf4cca72b69cfc0",
+      "target_id": "Theme_19b104a1ccf934c334f155bf3bb603d90f2865a318747fcaacf4cca72b69cfc0"
+    },
+    {
+      "source": "dialogue",
+      "relation": "MENTIONS",
+      "target": "dialogue",
+      "evidence": "La souveraineté n'a de sens et n'est soutenable, que si on coopère, si on dialogue, si on respecte, si on est un acteur qui exprime ses vues, sa stratégie et cherche à oeuvrer.",
+      "confidence": 1.0,
+      "source_id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc",
+      "target_id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "source": "multilatéralisme",
+      "relation": "SPOKE_ABOUT",
+      "target": "multilatéralisme",
+      "evidence": "Un multilatéralisme fort, c'est un multilatéralisme qui nous permet d'obtenir des résultats, pour protéger nos classes moyennes contre les destructions d'emplois et l'augmentation des prix que provoquerait une guerre commerciale, pour apporter une véritable réponse aux déséquilibres mondiaux en renforçant notre coordination au G20 et à l'OMC, pour que les technologies, les financements, les compétences soient partout au rendez-vous de l'économie bas carbone, pour enrayer la course vers le bas en matière fiscale comme en matière sociale, pour valoriser et réguler la transformation technologique, pour construire les instruments du maintien de la paix et de la baisse de la conflictualité.",
+      "confidence": 1.0,
+      "source_id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91",
+      "target_id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "source": "Russie",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "Russie et la France sont tous deux membres permanents du Conseil de sécurité.",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Premier Ministre ABE",
+      "relation": "VISITED",
+      "target": "G7",
+      "evidence": "Nous sommes, avec le Premier Ministre ABE, nous serons dans quelques semaines au G7, faisons du G7 une instance utile pour la pacification commerciale, le respect de nos règles internationales et justement de cette coopération indispensable.",
+      "confidence": 1.0,
+      "source_id": "Person_6133128f38ee62fd85bf4b0515aca71485bf9c73c865beb22e5a8f85a75155c6",
+      "target_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "source": "Alexandre SOLJENITSYNE",
+      "relation": "MENTIONS",
+      "target": "le déclin du courage",
+      "evidence": "La tâche sera difficile et elle demandera en quelque sorte d'en finir avec ce qu'Alexandre SOLJENITSYNE, dont nous fêtons le centenaire, appelait il y a trente ans, « le déclin du courage ».",
+      "confidence": 1.0,
+      "source_id": "Person_8fea1d030c9d18ddb3b4fe95c10c9c9e14c12e03e9eb3a9f1283476412fd4b1e",
+      "target_id": "Event_cd4ba84c47e6ea4ee54f5851e08a7ceb9052c2e2b872950b03f018c7ffee8cde"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "confiance",
+      "evidence": "Nous avons beaucoup de travail et croyez bien que la France est en train de le faire pour avoir cette pleine confiance et ce plein optimisme.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "courage",
+      "evidence": "Le courage est de retour en France. Il est de retour en Europe. Il est de retour dans l'ensemble des pays ici présents et nous en avons besoin.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_4eb0829b6b279fcb2a945b12114e4f8976954c7a7fcf9391f504d523ee63a88b"
+    }
+  ]
+}

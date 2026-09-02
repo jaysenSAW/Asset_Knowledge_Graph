@@ -1,0 +1,784 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "start-up",
+      "id": "Theme_33e2d329ff92597c91b43e7cf32cae9c4b37c80d9339d9a1576899b1b9c99b2f"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvement",
+      "id": "Theme_16335ab41e584ebe27b59c787f2f8077ea6a0a5734e31ad98cbea739e7abbf01"
+    },
+    {
+      "type": "Organization",
+      "name": "start-ups",
+      "id": "Organization_0a6e61248dfe0d65bea125e6428da2cc9d82114623d3ce043d9bdcf67eab598f"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "entrepreneurs",
+      "id": "Theme_e4207dcc762b06be54e50b07a23efe4d7d2f6d0bccaf7dc9fdc8677ecb225d0a"
+    },
+    {
+      "type": "Country",
+      "name": "Etat",
+      "id": "Country_774c8b6f22f0c8760528588f5b156b73633c371f2c54fca0f8d2cff44b6c65d9"
+    },
+    {
+      "type": "Theme",
+      "name": "droit à l'erreur",
+      "id": "Theme_e3d0e8f65b1fad8abca73e1e91287ec33936c82a887ba62092cfe526f54ff5ec"
+    },
+    {
+      "type": "Theme",
+      "name": "expérimentation",
+      "id": "Theme_650d8add293f690fe2511266e14f30591af865c47ebc0d119cb8aee1de32f6b0"
+    },
+    {
+      "type": "Theme",
+      "name": "Crédit Impôt Recherche",
+      "id": "Theme_7702a8aface81d8509192cdef5465caa7193c4cb401261fda0bb3e0709a3a223"
+    },
+    {
+      "type": "Theme",
+      "name": "droit",
+      "id": "Theme_809b6d16ebe657005418287171a0ff40ba1f2fc184046e82a8dbc6d9366cc1a9"
+    },
+    {
+      "type": "Theme",
+      "name": "drone",
+      "id": "Theme_338ca9ff7b397ecd7864f0bae34c37084e68f508050284f1c9dc2329eb09b132"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution démocratique",
+      "id": "Theme_0fbbe636c9067fb019e225920e1cefedf181e898074163194842d30feefb4d8d"
+    },
+    {
+      "type": "Theme",
+      "name": "entrepreneuriat",
+      "id": "Theme_f17fded96b0ac6aae418444584998148043ae8ca96a9af18fb71416fe70a5066"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation profonde",
+      "id": "Theme_aeb011aee1b03a9cc6d55974232f391cd3cb5affa1833a554e1bfcf158ccb627"
+    },
+    {
+      "type": "Theme",
+      "name": "décloisonnement",
+      "id": "Theme_b6349c536ee76eee4bdea073ba36bdbfa01f2d669e6c49cb17996fda0a4ca936"
+    },
+    {
+      "type": "Theme",
+      "name": "grands groupes",
+      "id": "Theme_acc306ec1abbef6e7505b53a4d33150ce094935667b3faf5540b5fd4c01725e9"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation croisée",
+      "id": "Theme_a17a53b8f07e3130a65e8394486c2866dedaf3e6560140f21f068204ede7ccf1"
+    },
+    {
+      "type": "Theme",
+      "name": "rachats",
+      "id": "Theme_14b94d523a307b79f4e6725a24bf2f3f6f92e1e960fad2cec07bc3164e88ae41"
+    },
+    {
+      "type": "Theme",
+      "name": "talents",
+      "id": "Theme_3b7a6c56442c49486f7601fa3bced61cced2f4aadaf5f134fda32ff8e738503d"
+    },
+    {
+      "type": "Theme",
+      "name": "French Tech Visa",
+      "id": "Theme_b0f54c38a2097874542ad04863445db47a2e8cb139a348b1191e4b8ff336c1fe"
+    },
+    {
+      "type": "Organization",
+      "name": "French Tech Visa",
+      "id": "Organization_b6119b327cb81c9fc64f801851d9b0830a869ba2cf5e2acd618f35f6fe941ba9"
+    },
+    {
+      "type": "Theme",
+      "name": "start ups",
+      "id": "Theme_971f9660e354efc2d53dc8434f3c5e5bbf50619448faca93de30b99de6b1d927"
+    },
+    {
+      "type": "Theme",
+      "name": "licornes",
+      "id": "Theme_4b2d9fb9a92eedff7cb44d8455ce84e3823a7629f61211d810b2f6ae346dbdac"
+    },
+    {
+      "type": "Theme",
+      "name": "géants de demain",
+      "id": "Theme_cbf16c2526cff282480e786479b7e4ce5c3e44e6fce4ba99c43e2dc647ac8909"
+    },
+    {
+      "type": "Theme",
+      "name": "small is beautiful",
+      "id": "Theme_f3d009d6e4e3ef7ad856a99711dd351d59362ae905e26b9045cd4bf2f6cb0ad7"
+    },
+    {
+      "type": "Theme",
+      "name": "capital",
+      "id": "Theme_c21cdec283ea12782e3852aac3138d980a4f7bd7585df07e52e31cf2980da860"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque publique d'investissement",
+      "id": "Organization_4ae1ff72a2253bf942ec7e47c3a2bcf0c3960deaafd46b172996a21479ae208a"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscalité",
+      "id": "Theme_8f3af7311a6bcfd253a580ecacd3fb0434ee40de042b8221f99b1b400f0a3b76"
+    },
+    {
+      "type": "Theme",
+      "name": "réglementation",
+      "id": "Theme_74fae1af7be6fa31bf7459ade5fc88f3736f3705b227f72c59a2973c5080f8d2"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement dans le risque",
+      "id": "Theme_4bc4f06cd1ea8fdf9498f4515f81b320ecad7aa720df52dd3a2eede644ff585d"
+    },
+    {
+      "type": "Theme",
+      "name": "prise de risque",
+      "id": "Theme_27ff49b49a9606be7d2def8617a5df9455805c0ad2e82c4f7da9478d6ed8a8ae"
+    },
+    {
+      "type": "Theme",
+      "name": "épargnants",
+      "id": "Theme_d06ee607d7cf211289d487de7197fa7283108cab573cb8529da5ad4c1145dafc"
+    },
+    {
+      "type": "Theme",
+      "name": "obligations d'Etat",
+      "id": "Theme_ae7676741bef79f8fc18aa67c9d67e6fe54feafa226c43346f59facb29f6a199"
+    },
+    {
+      "type": "Theme",
+      "name": "financements peu risqués",
+      "id": "Theme_4c2fd3bd4fcdac1fe6dad6351777e02d60e94541010e6d615dd399a178433f48"
+    },
+    {
+      "type": "Organization",
+      "name": "fonds de venture capital européen",
+      "id": "Organization_cf908aa6c8cdd51cae4fbd82a8b83eb8975292434d6bb35c404352406805d59a"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Secrétaire d'Etat au Numérique",
+      "id": "Person_fff4691cef0c556e377bafddf4136619f631d0cd7c0c3d078d0e8efc37bbcf88"
+    },
+    {
+      "type": "Theme",
+      "name": "action de l'Etat",
+      "id": "Theme_c01816e675083d98bbb773e2ef93d022c790734faef27fe7f092b81101b2626e"
+    },
+    {
+      "type": "Theme",
+      "name": "action publique",
+      "id": "Theme_548ddddc23f39dc2669e7b6e395c1e497b6a2f5fd1d83085a7af337638f0ddf2"
+    },
+    {
+      "type": "Theme",
+      "name": "recettes d'hier",
+      "id": "Theme_ea604032370b08a50895899a4d17eae5e16bc1ce2b7cae03e525522ef236919c"
+    },
+    {
+      "type": "Theme",
+      "name": "Internet des objets",
+      "id": "Theme_47caeb446dad0a1fa9506b3059017cfd05f2e76c4408f853aadacb2a992e0789"
+    },
+    {
+      "type": "Theme",
+      "name": "Intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "Cleantech",
+      "id": "Theme_7e4555c770c5add65538e58fb33dc02851d57ec5dd2c3d86847134930bdbaa7e"
+    },
+    {
+      "type": "Theme",
+      "name": "Greentech",
+      "id": "Theme_b976787cec7e2f708c44942c653ce6d7e0adc2a7315a2174d10b40560737aee5"
+    },
+    {
+      "type": "Theme",
+      "name": "Healthcare",
+      "id": "Theme_2fe63887c922b746c776a4fb7b21db81d7d5803a94351bc5a06978cd3618a3cd"
+    },
+    {
+      "type": "Theme",
+      "name": "Mobilité",
+      "id": "Theme_5f3e34c6020caac848a6e2d71bdfd1fe751959c4e195a8c097e09b990d89fd12"
+    },
+    {
+      "type": "Theme",
+      "name": "Habitat",
+      "id": "Theme_90cf5c5d5db8f25d9158cec4093ea038221b1fed8644983c3760bd8b2ecf3b78"
+    },
+    {
+      "type": "Theme",
+      "name": "Santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence",
+      "id": "Theme_00b20302d5f64b56a882fa76ac635bfb2d5b859939516a451a03216995d89940"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation",
+      "id": "Theme_20f02849c6d3fef1e0f7fdcc6fcd9d5a1930a7b08f24aabfc14521d8b9ed907d"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution technologique",
+      "id": "Theme_719afa0a84af6343b9781dc90c8e39f82790b022ed9041bd2100c17b29e4d1da"
+    },
+    {
+      "type": "Theme",
+      "name": "transformations",
+      "id": "Theme_a5cf38e56ec6f568347c7e4d2787de5c2d1a159cf3d75e70f9e82534a2b594ec"
+    },
+    {
+      "type": "Theme",
+      "name": "sociétés",
+      "id": "Theme_fe833d4653f5c9552e8c9c71993635978cec94fe799b0a35befc37cf9a873a5d"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie du XXIe siècle",
+      "id": "Theme_7e6f095049523d5feb19da6ba7a21958d3f5e51e73a9e66762fd8d7872b61e8c"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "patrimoine de connaissances",
+      "id": "Theme_87473e9dc38e812f50bbe48fa409d90f779922c3036f296ac943ec21e04c3225"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "Encyclopédie des Lumières",
+      "id": "Theme_821556cd3eb2ce6224f3336192143e6efd5a7638ca9e46c6498eb3b2b6afd04a"
+    },
+    {
+      "type": "Theme",
+      "name": "Education nationale",
+      "id": "Theme_95b8193c8b586f23159aeca3eb0d5d3ff68b5d5e00de90049e80047d51f8cbcb"
+    },
+    {
+      "type": "Theme",
+      "name": "Enseignement supérieur",
+      "id": "Theme_7358df2b51617f762113656dad284efe5d3bfcb777ab4f84d15615a00bd96f14"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "Silver Économie",
+      "id": "Theme_deb04449b3d46d7a550b41893a4e108c342c354dcaff684d170c89be2114ef65"
+    },
+    {
+      "type": "Theme",
+      "name": "crowdfunding",
+      "id": "Theme_0d75c14857c3d911452bbe9b0e72575841db4a70f5d6c07deaf00df5660dad3b"
+    },
+    {
+      "type": "Theme",
+      "name": "transition de la médecine chimique à la médecine génomique",
+      "id": "Theme_24d88d12475330360d556c09948fe2efe42050b7ef9cab44b6220ce4aa2d2fff"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "défi environnemental",
+      "id": "Theme_5fb1648794ff2b9529c3a00148dda05f6047d46e730865962f91fc107e200681"
+    },
+    {
+      "type": "Theme",
+      "name": "alimentation",
+      "id": "Theme_c513edee71bdf794af7ba878fb763b9cc4a3e831c494d701c86bdd518ebd85ab"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations",
+      "id": "Theme_3957cb051014b00717e7b2ec655cbcfa47c99687835fe48f9d3a8fbe1cedaead"
+    },
+    {
+      "type": "Theme",
+      "name": "ressources de la planète",
+      "id": "Theme_0f595b1ee8b914bd815334d628dda01fadca05117054f2df9638bcde4ce4c5cb"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "cybercriminalité",
+      "id": "Theme_b19f587d70418176965df8648173f7dd4333552a5f702ab28e3047566993064d"
+    },
+    {
+      "type": "Theme",
+      "name": "cyberattaques",
+      "id": "Theme_8b366adba9bc7e60236c9235812ed1f4309c1f1068ddd054f3bf447276b1002a"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés individuelles",
+      "id": "Theme_759ccdc015d83cf60a6046b0b9d40b9d6f2ba26eed4cc7fc4859025eb4ae5ca8"
+    },
+    {
+      "type": "Theme",
+      "name": "civic tech",
+      "id": "Theme_50695615087094e71eebdd768aeaff12463259aac419c19697fae8da3d0b1fd7"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "pédagogie",
+      "id": "Theme_b22ddb6d3f49bf2d8dc94bc5cfaf692d45125c42d41bf64f6f59788dbe134874"
+    },
+    {
+      "type": "Country",
+      "name": "Britanniques",
+      "id": "Country_2b303b326941cb94a150f8b43c140a0dbdb1ed904a9e55869de5327035e618ec"
+    },
+    {
+      "type": "Person",
+      "name": "le peuple américain",
+      "id": "Person_f4fc4e3476bbaabf3eb6bf23644d7ee8aaf5d4db8a6439d9e968063932b06c26"
+    },
+    {
+      "type": "Person",
+      "name": "un dirigeant",
+      "id": "Person_7b7ef6043b786a2e92fe34aef42de38115f5e365881641566b549477a2b1a9bb"
+    },
+    {
+      "type": "Country",
+      "name": "planète",
+      "id": "Country_b324cf858432beeb6339f3e8a52e945a22dc88f0c1c5e7ab6f7e5a4634bb7f6c"
+    },
+    {
+      "type": "Theme",
+      "name": "réussite",
+      "id": "Theme_f611a7e483b521eecc7d8aaf5dc6a04624e08cdcf2e5a4b34cfb1c8b13003035"
+    },
+    {
+      "type": "Theme",
+      "name": "Lumières",
+      "id": "Theme_6732c62137d1ca5442c751181b48396d98b70fee8cb1aa8e0c63bf00da0f0544"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "amour de la liberté",
+      "id": "Theme_b6683b42628541fb4d26a71389052729419286e62663dff238f5f0ed01bdbcb9"
+    },
+    {
+      "type": "Theme",
+      "name": "droits",
+      "id": "Theme_7eb56e86691d574c7d0fa41bffcd50417ad7abbc021dc12800cf78099a3cc7c5"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Country",
+      "name": "India",
+      "id": "Country_38d776b96eda376e5b88dabed9bc4f5e6b30bb92635004584c784a13a642d86a"
+    },
+    {
+      "type": "Country",
+      "name": "US",
+      "id": "Country_2d6f2b5fb39dc77f66ac3844ca0d25b1367173f1b15e0d7cf449f86e70201adf"
+    },
+    {
+      "type": "Country",
+      "name": "England",
+      "id": "Country_2aef7d61bcd5de2bc63ade1e507800f890e8375cc41e4fe5f299cfa9a01a96a6"
+    },
+    {
+      "type": "Theme",
+      "name": "industry",
+      "id": "Theme_02ba73553b07a12ec6fad14117867c3167c69fe7bc4e3a64f082afdc8f5e98b4"
+    },
+    {
+      "type": "Theme",
+      "name": "technology",
+      "id": "Theme_c0a23b3fac64886739301d898acc2668dc7f80a53316924f1982919c39c70343"
+    },
+    {
+      "type": "Theme",
+      "name": "difficulties",
+      "id": "Theme_d9048ee4ba760da18866499cb8942d2ac90b744418467a91abcabb8f39f8c189"
+    },
+    {
+      "type": "Theme",
+      "name": "failures",
+      "id": "Theme_88e8aa0f4c46780b1e5db2debb4b6f50c929641907c5a59f19eb59c0b22a30e4"
+    },
+    {
+      "type": "Theme",
+      "name": "momentum",
+      "id": "Theme_d97c21b8887895c35e5fa1e8793c8356851a4c66cdc00c48116c064cc3c53f4f"
+    },
+    {
+      "type": "Theme",
+      "name": "wave",
+      "id": "Theme_7878a3c9ff9e48866c28a4b747c8231c892ec6b302bd2e205a9c328401269d1e"
+    },
+    {
+      "type": "Theme",
+      "name": "work",
+      "id": "Theme_4645c3b99302f06dea7d7fc9fb7492f356c0cfe9a415d28c4cf1fff1be9bf66c"
+    },
+    {
+      "type": "Theme",
+      "name": "business",
+      "id": "Theme_b12b175710190476386b54aecf4447ddb52e8c3f34c9660392b0eb3005792581"
+    },
+    {
+      "type": "Theme",
+      "name": "startupper",
+      "id": "Theme_54c842bf88577dd03fc212073cee3a09c1d6f18e1f1c923d920984732323b729"
+    },
+    {
+      "type": "Theme",
+      "name": "engineer",
+      "id": "Theme_0a967dca0ffe3405b2e630b3d352865ca9ca851a54560066cce44178df3cdf24"
+    },
+    {
+      "type": "Theme",
+      "name": "researcher",
+      "id": "Theme_a1269ed9507341d601e7238591a03a2d60e42ba69845966a8767948d10b2581b"
+    },
+    {
+      "type": "Theme",
+      "name": "Concorde",
+      "id": "Theme_f65df85d0fefabdfe7fa762e21d45e7beb890a9796dcfbdde60b126b127f1610"
+    },
+    {
+      "type": "Theme",
+      "name": "French nuclear plans",
+      "id": "Theme_d851520795a54c3b2c9356896d896ee0393bd7e17c8ce23852c0b6c91faeda3a"
+    },
+    {
+      "type": "Theme",
+      "name": "green technologies",
+      "id": "Theme_8988a4cc723eafe1a15188b5104147b845a0e080f5185a04b920363d2ffd98cd"
+    },
+    {
+      "type": "Theme",
+      "name": "food technologies",
+      "id": "Theme_1391d2cecf1ff6c2761e162f7047e524aaada86c83e18a0a1b00f1bebb21afa0"
+    },
+    {
+      "type": "Theme",
+      "name": "artificial intelligence",
+      "id": "Theme_69ebed96ab1658cc61995aa0c3c1eeb8b62822a39cd44f81d882e56c85ab77d0"
+    },
+    {
+      "type": "Theme",
+      "name": "new mobility",
+      "id": "Theme_6c9090749e1dd925c41f16effdc1cd8b66b26240df6af07a95d89f3e3a8fbca0"
+    },
+    {
+      "type": "Theme",
+      "name": "new energy",
+      "id": "Theme_051f1d19330afab35481f6fc1ca4af5b225bd8e4f431b1b068884aaa81f25ebc"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la France qui entreprend",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "innovation",
+      "evidence": "La France sera la nation leader de cette hyper-innovation, du changement, de la transformation profonde.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "révolution démocratique",
+      "evidence": "La France sera la nation leader de cette hyper-innovation, du changement, de la transformation profonde. Elle sera le pays de cette révolution de l'entrepreneuriat, de l'innovation et de la révolution démocratique qui l'accompagne.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_0fbbe636c9067fb019e225920e1cefedf181e898074163194842d30feefb4d8d"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "entrepreneuriat",
+      "evidence": "La France sera la nation leader de cette hyper-innovation, du changement, de la transformation profonde. Elle sera le pays de cette révolution de l'entrepreneuriat, de l'innovation et de la révolution démocratique qui l'accompagne.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f17fded96b0ac6aae418444584998148043ae8ca96a9af18fb71416fe70a5066"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "transformation profonde",
+      "evidence": "La France sera la nation leader de cette hyper-innovation, du changement, de la transformation profonde.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_aeb011aee1b03a9cc6d55974232f391cd3cb5affa1833a554e1bfcf158ccb627"
+    },
+    {
+      "source": "start-up",
+      "relation": "MENTIONS",
+      "target": "décloisonnement",
+      "evidence": "Le décloisonnement, c'est aussi celui indispensable entre les start-up et les grands groupes.",
+      "confidence": 1.0,
+      "source_id": "Theme_33e2d329ff92597c91b43e7cf32cae9c4b37c80d9339d9a1576899b1b9c99b2f",
+      "target_id": "Theme_b6349c536ee76eee4bdea073ba36bdbfa01f2d669e6c49cb17996fda0a4ca936"
+    },
+    {
+      "source": "grands groupes",
+      "relation": "MENTIONS",
+      "target": "décloisonnement",
+      "evidence": "Le décloisonnement, c'est aussi celui indispensable entre les start-up et les grands groupes.",
+      "confidence": 1.0,
+      "source_id": "Theme_acc306ec1abbef6e7505b53a4d33150ce094935667b3faf5540b5fd4c01725e9",
+      "target_id": "Theme_b6349c536ee76eee4bdea073ba36bdbfa01f2d669e6c49cb17996fda0a4ca936"
+    },
+    {
+      "source": "grands groupes",
+      "relation": "SUPPORTS",
+      "target": "innovation croisée",
+      "evidence": "Cet événement est l'incarnation même d'un changement conceptuel, culturel qui s'est fait depuis quelques années en France. Mais les start up ne se développeront et croîtront pas dans notre pays si elles ne multiplient pas les liens contractuels, l'innovation croisée avec les grands groupes et les rachats quand c'est nécessaire.",
+      "confidence": 1.0,
+      "source_id": "Theme_acc306ec1abbef6e7505b53a4d33150ce094935667b3faf5540b5fd4c01725e9",
+      "target_id": "Theme_a17a53b8f07e3130a65e8394486c2866dedaf3e6560140f21f068204ede7ccf1"
+    },
+    {
+      "source": "grands groupes",
+      "relation": "SUPPORTS",
+      "target": "rachats",
+      "evidence": "Cet événement est l'incarnation même d'un changement conceptuel, culturel qui s'est fait depuis quelques années en France. Mais les start up ne se développeront et croîtront pas dans notre pays si elles ne multiplient pas les liens contractuels, l'innovation croisée avec les grands groupes et les rachats quand c'est nécessaire.",
+      "confidence": 1.0,
+      "source_id": "Theme_acc306ec1abbef6e7505b53a4d33150ce094935667b3faf5540b5fd4c01725e9",
+      "target_id": "Theme_14b94d523a307b79f4e6725a24bf2f3f6f92e1e960fad2cec07bc3164e88ae41"
+    },
+    {
+      "source": "fiscalité",
+      "relation": "MENTIONS",
+      "target": "investissement dans le risque",
+      "evidence": "la fiscalité et la réglementation encouragent l'investissement dans le risque",
+      "confidence": 1.0,
+      "source_id": "Theme_8f3af7311a6bcfd253a580ecacd3fb0434ee40de042b8221f99b1b400f0a3b76",
+      "target_id": "Theme_4bc4f06cd1ea8fdf9498f4515f81b320ecad7aa720df52dd3a2eede644ff585d"
+    },
+    {
+      "source": "réglementation",
+      "relation": "MENTIONS",
+      "target": "investissement dans le risque",
+      "evidence": "la fiscalité et la réglementation encouragent l'investissement dans le risque",
+      "confidence": 1.0,
+      "source_id": "Theme_74fae1af7be6fa31bf7459ade5fc88f3736f3705b227f72c59a2973c5080f8d2",
+      "target_id": "Theme_4bc4f06cd1ea8fdf9498f4515f81b320ecad7aa720df52dd3a2eede644ff585d"
+    },
+    {
+      "source": "investissement dans le risque",
+      "relation": "MENTIONS",
+      "target": "innovation",
+      "evidence": "l'investissement dans le risque, l'innovation et la prise de risque",
+      "confidence": 1.0,
+      "source_id": "Theme_4bc4f06cd1ea8fdf9498f4515f81b320ecad7aa720df52dd3a2eede644ff585d",
+      "target_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "source": "investissement dans le risque",
+      "relation": "MENTIONS",
+      "target": "prise de risque",
+      "evidence": "l'investissement dans le risque, l'innovation et la prise de risque",
+      "confidence": 1.0,
+      "source_id": "Theme_4bc4f06cd1ea8fdf9498f4515f81b320ecad7aa720df52dd3a2eede644ff585d",
+      "target_id": "Theme_27ff49b49a9606be7d2def8617a5df9455805c0ad2e82c4f7da9478d6ed8a8ae"
+    },
+    {
+      "source": "entrepreneurs",
+      "relation": "MENTIONS",
+      "target": "épargnants",
+      "evidence": "Pour les entrepreneurs qui ont réussi ou qui sont en train de réussir, mais plus largement pour les épargnants",
+      "confidence": 1.0,
+      "source_id": "Theme_e4207dcc762b06be54e50b07a23efe4d7d2f6d0bccaf7dc9fdc8677ecb225d0a",
+      "target_id": "Theme_d06ee607d7cf211289d487de7197fa7283108cab573cb8529da5ad4c1145dafc"
+    },
+    {
+      "source": "épargnants",
+      "relation": "MENTIONS",
+      "target": "obligations d'Etat",
+      "evidence": "mais plus largement pour les épargnants dans notre pays qui aujourd'hui sont incités la plupart du temps à mettre leur argent dans les obligations d'Etat",
+      "confidence": 1.0,
+      "source_id": "Theme_d06ee607d7cf211289d487de7197fa7283108cab573cb8529da5ad4c1145dafc",
+      "target_id": "Theme_ae7676741bef79f8fc18aa67c9d67e6fe54feafa226c43346f59facb29f6a199"
+    },
+    {
+      "source": "épargnants",
+      "relation": "MENTIONS",
+      "target": "financements peu risqués",
+      "evidence": "mais plus largement pour les épargnants dans notre pays qui aujourd'hui sont incités la plupart du temps à mettre leur argent dans les obligations d'Etat ou dans des financements peu risqués",
+      "confidence": 1.0,
+      "source_id": "Theme_d06ee607d7cf211289d487de7197fa7283108cab573cb8529da5ad4c1145dafc",
+      "target_id": "Theme_4c2fd3bd4fcdac1fe6dad6351777e02d60e94541010e6d615dd399a178433f48"
+    },
+    {
+      "source": "fonds de venture capital européen",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "L'Europe doit achever la création d'un vrai fonds de venture capital européen",
+      "confidence": 1.0,
+      "source_id": "Organization_cf908aa6c8cdd51cae4fbd82a8b83eb8975292434d6bb35c404352406805d59a",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "le peuple américain",
+      "relation": "SPOKE_ABOUT",
+      "target": "un dirigeant",
+      "evidence": "Pourquoi pensez-vous, pour certains, que le peuple américain a décidé de choisir un dirigeant qui n'est peut-être pas celui que vous auriez préféré ?",
+      "confidence": 1.0,
+      "source_id": "Person_f4fc4e3476bbaabf3eb6bf23644d7ee8aaf5d4db8a6439d9e968063932b06c26",
+      "target_id": "Person_7b7ef6043b786a2e92fe34aef42de38115f5e365881641566b549477a2b1a9bb"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "industry",
+      "evidence": "France is an old country, with a long history of industry and technology.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_02ba73553b07a12ec6fad14117867c3167c69fe7bc4e3a64f082afdc8f5e98b4"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "technology",
+      "evidence": "France is an old country, with a long history of industry and technology.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_c0a23b3fac64886739301d898acc2668dc7f80a53316924f1982919c39c70343"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "new mobility",
+      "evidence": "I want France to be the country where new mobility, new energy will be invented and developed.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_6c9090749e1dd925c41f16effdc1cd8b66b26240df6af07a95d89f3e3a8fbca0"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "new energy",
+      "evidence": "I want France to be the country where new mobility, new energy will be invented and developed.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_051f1d19330afab35481f6fc1ca4af5b225bd8e4f431b1b068884aaa81f25ebc"
+    }
+  ]
+}

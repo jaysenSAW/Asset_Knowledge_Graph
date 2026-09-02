@@ -1,0 +1,132 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Portugal",
+      "id": "Country_cf5e0a7a677f823b7b8ff468282692a5b0531c04401a108b2b705a578a7907b7"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil européen",
+      "id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations",
+      "id": "Theme_cac93d346afb10556cd477074f8fd5e7de6a6b6e234704cdc92ccd1aae71876c"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "accords de libre-échange",
+      "id": "Theme_3eacbde2e4614bd0a560d125449a676cb7aa93ffb1285f18a35143e5b6ab7595"
+    },
+    {
+      "type": "Theme",
+      "name": "projection",
+      "id": "Theme_c35326a691fb2f55d81d1e083a71a5ea1e92c1e24598c1e2bbcd253259d1f431"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds d'investissement européen",
+      "id": "Theme_b0f355db425188b2004ea16dcc682f327d9ea56d8c8f845bde3a7cf5e3326170"
+    },
+    {
+      "type": "Theme",
+      "name": "régulations",
+      "id": "Theme_5a8afbf43e327350da0ebd5bcaaf83aa988872c126003a676509076554974382"
+    },
+    {
+      "type": "Theme",
+      "name": "taxations",
+      "id": "Theme_8f4f7095d9977abfab3354aa4f6008fe075499df67f463d18e540b38bd9b0577"
+    },
+    {
+      "type": "Person",
+      "name": "Donald TUSK",
+      "id": "Person_c8435a5cdcea4099d6c924ba132ea5ba2e75da5b0b552e240905ebd720e370b6"
+    },
+    {
+      "type": "Person",
+      "name": "Michel BARNIER",
+      "id": "Person_6a04ceb187264fb3e394a2093779ba135fd7a574bf1489892666c3bcc42b5af6"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "défense",
+      "evidence": "une Europe de la défense avec notre volonté d'aller plus loin sur le fonds européen en matière de défense.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "projection",
+      "evidence": "Mais c'est aussi une Europe de la projection et de l'ambition",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_c35326a691fb2f55d81d1e083a71a5ea1e92c1e24598c1e2bbcd253259d1f431"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "ambition",
+      "evidence": "Mais c'est aussi une Europe de la projection et de l'ambition",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "fonds d'investissement européen",
+      "evidence": "la capacité de mettre en place un fonds d'investissement européen",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_b0f355db425188b2004ea16dcc682f327d9ea56d8c8f845bde3a7cf5e3326170"
+    }
+  ]
+}

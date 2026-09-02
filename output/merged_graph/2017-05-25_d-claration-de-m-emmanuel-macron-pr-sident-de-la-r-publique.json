@@ -1,0 +1,110 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Charles",
+      "id": "Person_3613e689bc0927513e7606f7e724c8ae0303e9df2f07360796de29b42593d942"
+    },
+    {
+      "type": "Country",
+      "name": "Belgique",
+      "id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance économique",
+      "id": "Theme_1b53a0cffb84300cd48e1651a4b446832249dcc27b4e0f2a058f51196ba567bb"
+    },
+    {
+      "type": "Theme",
+      "name": "retour de l'investissement",
+      "id": "Theme_1889e52e379a1480e05c3b1a9a3da931f51648095690a6ea4552f90bed7c4cfd"
+    },
+    {
+      "type": "Theme",
+      "name": "transition énergétique et environnementale",
+      "id": "Theme_e88ad7c8810b527e412e81952d936508f7148bab6258b7b541c43af2cf8948d3"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "refondation européenne",
+      "id": "Theme_fd816b8136aa8814d6127c29764ab9879ffa677805f4feeff9b9aedd9da9df13"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "zone euro",
+      "id": "Country_bb6d36990a6bef0215c78761fe4ea7cac3c03f5e88219a0aa20efef5c18b6798"
+    },
+    {
+      "type": "Theme",
+      "name": "travailleurs détachés",
+      "id": "Theme_2994e8d5221235d556c682671976599ae05dc47543db25949c9e8efdf5eab2ee"
+    },
+    {
+      "type": "Theme",
+      "name": "harmonisation de nos droits sociaux",
+      "id": "Theme_30a6ad991ee16cf702d559f44910f444977c14d384ac4faaca03c986fc8f0ab6"
+    },
+    {
+      "type": "Theme",
+      "name": "harmonisation fiscale",
+      "id": "Theme_f00a943a5dcf1eb60ab47cd457d5ffddcd24abe44c6705482026c82cd9c85360"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de nos industries et de nos travailleurs",
+      "id": "Theme_cea941945374fac2413127332473f58b879632460e6a801aaa33adb4991514ed"
+    },
+    {
+      "type": "Theme",
+      "name": "protection face à la menace terroriste",
+      "id": "Theme_39ef50e704738eb68980fc46dac05ceffa84e79f219fb886c9856193f7ad134e"
+    },
+    {
+      "type": "Theme",
+      "name": "menace terroriste",
+      "id": "Theme_f72d3dcf49eb88c83ce83dde773d7af102060e7e2da2f4d3e52a25f8d66870c7"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil européen",
+      "id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Belgique",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "C'est l'agenda que nous allons partager entre la Belgique et la France",
+      "confidence": 1.0,
+      "source_id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

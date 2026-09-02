@@ -1,0 +1,918 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Organization",
+      "name": "CRIF",
+      "id": "Organization_4c14839a144a1232187bd6265fae8cc8147e846e009a8f3078400492e052b8ff"
+    },
+    {
+      "type": "Country",
+      "name": "notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Country",
+      "name": "l'Europe",
+      "id": "Country_22c6a9031acb88b09b90ce4000e1a54cc5401d4a34558d7df28560e8576fb0e6"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Person",
+      "name": "Serge",
+      "id": "Person_0287ef4244462f68ea92de71664b8fe4bb23be6211b3b85203dd1fe128b6c51b"
+    },
+    {
+      "type": "Person",
+      "name": "Simone VEIL",
+      "id": "Person_4da84d085d0414be46d06181049192bfa187ee57577e2d7a7fe5104add18936e"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Lyon",
+      "id": "Country_be5d404481d4931823c4c801d9cc832a4e87f0c9d026d9688777f46e9544dd5e"
+    },
+    {
+      "type": "Country",
+      "name": "Nazie",
+      "id": "Country_aa17617083177b27950e7de9a11476dd9bd5c0bf25d280520ecd8cb3fe07fd32"
+    },
+    {
+      "type": "Organization",
+      "name": "OSCE",
+      "id": "Organization_100876ee1e5a07b200fd332bdc124239896625c08ac296789ee15756f3c07bc1"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "tendresse",
+      "id": "Theme_17b04fe5cbb85a9bcaeb504acbaaecf5ba15672f5c1b9120fd373216dcb46869"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "juifs de France",
+      "id": "Theme_8132ccbe223d7c702325b9bfcbfbc79d9906e26e10341be0cad37fdd88071534"
+    },
+    {
+      "type": "Theme",
+      "name": "statut de citoyen",
+      "id": "Theme_603bad663c47dc530b37b087d26a3e29181f341b6839e7f67d443f95ab6bf48a"
+    },
+    {
+      "type": "Person",
+      "name": "Théo KLEIN",
+      "id": "Person_d4fa368bde6e0ea7f758f47014fda32a8fc680cd564d416df1b2ee1ad4158922"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel LEVINAS",
+      "id": "Person_b5acedccb59a1df0eec3d8bf7e32462e32261c0e79aaefeb17afe5f137e3c3a4"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Grand Rabbin",
+      "id": "Person_a9dd93fb85a8f5997bbd6517aeb0e3452bef8904fc53d59d0ec7b3868a1ebc08"
+    },
+    {
+      "type": "Theme",
+      "name": "racisme",
+      "id": "Theme_8ca275a05cedf5deee96a6c7b9825aa608c84ae00aa7af40d901092936df4d19"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémitisme",
+      "id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "honneur",
+      "id": "Theme_ea5594653008766fd662b55a97d7fd869d455e7de170f6055248cf3b342cb8c7"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Irak",
+      "id": "Country_99792b4385035d3a51b12170d270a96604af5ab8e0945708f2a19bcc0e41b04c"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "Country",
+      "name": "Proche-Orient",
+      "id": "Country_ea96081c3dc607260da7be0bce2be5c4e658fe0319110fa930660594f5cfce74"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds social juif unifié",
+      "id": "Organization_7d6988c16147c4872d9cbcf05a817773ac85aa6320175df7ff87c6eec1574dd1"
+    },
+    {
+      "type": "Organization",
+      "name": "Consistoire central",
+      "id": "Organization_5e254b448069a3ce36a73d55ae9245eced5871088cc6c3378d2e38146be4d323"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère de l'Intérieur",
+      "id": "Organization_2b1a74ed7124fcaf53172ac64cf65a9c88f17f11a38bde240e1be1030d8f821c"
+    },
+    {
+      "type": "Organization",
+      "name": "service de protection de la communauté juive",
+      "id": "Organization_acf4d0dca82d812c76c50a074ffc06076a8685fd0d27b80fc5fcd3fe80eabaf3"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémites",
+      "id": "Theme_f5881555528ba0050d1cda52f1c918ef603e13e1ba174377ea7f7f1fd6c4a3db"
+    },
+    {
+      "type": "Event",
+      "name": "attentat contre la synagogue Copernic",
+      "id": "Event_472b69e803764a248932033fc7016bd642d9b925cd9587312e09bb0d8ab3cf80"
+    },
+    {
+      "type": "Theme",
+      "name": "agressions",
+      "id": "Theme_a9f13de43a85e79f397f58cfce316eac011e2784f534dca1a56e22fb3e380d0b"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte efficace",
+      "id": "Theme_96b913a03fe33ddd444c6f592e5c39a919df78d9c323762bebe3c908ac21f2fd"
+    },
+    {
+      "type": "Theme",
+      "name": "République française",
+      "id": "Theme_2a00657b0b5010ca6cd3b58cb398dbf6b643f53363d1e24c3f63e63ed4c8a28e"
+    },
+    {
+      "type": "Theme",
+      "name": "années 80, 90",
+      "id": "Theme_6b65330d5c153adc4cceb6160ed0407cdf7542e32d5baaf0ef1ac23f0f6de391"
+    },
+    {
+      "type": "Theme",
+      "name": "années 2000",
+      "id": "Theme_c2c317753eb39b72219c0edfec34c9a457e1c8752de6563330d7b42849258d96"
+    },
+    {
+      "type": "Theme",
+      "name": "conflits internationaux",
+      "id": "Theme_57b229375a44ad1969b8d891933b1ee01c75bc660247c748c8b040744d964035"
+    },
+    {
+      "type": "Theme",
+      "name": "violence insidieuse",
+      "id": "Theme_dfa360fea1c5610295d3512fb0dc513f1eeb1376b650e26ecf642289cfb9caf7"
+    },
+    {
+      "type": "Theme",
+      "name": "exil",
+      "id": "Theme_d86f4137e9c67d1af29529dc1e43517cf4ace953d2cb814a399613e6be3fbc58"
+    },
+    {
+      "type": "Theme",
+      "name": "violence réelle",
+      "id": "Theme_5a13f2f44e9a00b9b447038ac184fc3ad4217b6399be898d233e1bd82422f6d3"
+    },
+    {
+      "type": "Theme",
+      "name": "inquiétude",
+      "id": "Theme_231444423425d3df1c828652aa445868b504cb0860b78ccd5bc57e67c174c17f"
+    },
+    {
+      "type": "Theme",
+      "name": "angoisse",
+      "id": "Theme_a87d238cf2667a0f54139ddfe68aada0d20b40896077ee5828db2c5684eb0fe2"
+    },
+    {
+      "type": "Person",
+      "name": "CELINE",
+      "id": "Person_4e490bd82357a11614750a2156cb8ca15dcf03ed923a063a1ed1061271262586"
+    },
+    {
+      "type": "Theme",
+      "name": "conflit israélo-palestinien",
+      "id": "Theme_74209437b3e768a80541bd0554535f4fdcb9a21c1c7015c3d323c58ce9774c34"
+    },
+    {
+      "type": "Theme",
+      "name": "conflit",
+      "id": "Theme_c5df677153d0b9960d87a7cc1c81b7c456008a70cab549159756fed685546c73"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de la République",
+      "id": "Theme_8777ff64b6bde2a961d51af063776e418c992abae089751d23ded6e499ab9063"
+    },
+    {
+      "type": "Theme",
+      "name": "importation du conflit israélo-palestinien",
+      "id": "Theme_ec0e499d83da6839158dd01158aa1bca94918175e94c356bf4c51d5cae9e32e6"
+    },
+    {
+      "type": "Theme",
+      "name": "pierres actes",
+      "id": "Theme_1448a90c08d3265eb3d44c2b32e3c05b0fe3a512ede404d3450c535f51891dc4"
+    },
+    {
+      "type": "Theme",
+      "name": "travail de mémoire",
+      "id": "Theme_3e50eec8d4f44912adad053e02979ee82aa001c8b6d47aee0cff01c7dcf0e467"
+    },
+    {
+      "type": "Theme",
+      "name": "travail de l'histoire",
+      "id": "Theme_57c9ec4c9d97ad9e84c133dd7f24d020c38e26de72bfd7908253bd50fe7143be"
+    },
+    {
+      "type": "Theme",
+      "name": "concitoyens de confession juive",
+      "id": "Theme_edda88b114f5944775e47e39fab31de30d500ffa8efd790f7447058e635eedc3"
+    },
+    {
+      "type": "Theme",
+      "name": "actes racistes",
+      "id": "Theme_2b26443962c4d0dd05ade7c50299925810f100d4dbc8fefc2a44776351504055"
+    },
+    {
+      "type": "Theme",
+      "name": "raciste",
+      "id": "Theme_6914c68501612b48b67d1ca7df0afaa95e50a924d6eb5e65976872fe4fbbdb6f"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémite",
+      "id": "Theme_8495a386c36c770d92199d4f48228cee4d20eda24175b97e800201f795218d06"
+    },
+    {
+      "type": "Theme",
+      "name": "discriminatoire",
+      "id": "Theme_ac7ef30923c0ec3945b0c174d218fcd4d49db2155e0141227abb0c5a0ae601fe"
+    },
+    {
+      "type": "Person",
+      "name": "ministre d'Etat",
+      "id": "Person_c629d68fd7613623e4cc059254e861bf2719771da70dcea687f36c17d4419f43"
+    },
+    {
+      "type": "Person",
+      "name": "Madame HALIMI",
+      "id": "Person_53ce4cafbba73443ddfbde33ed99150f41710b38aa7f9929239c641e9e0477f4"
+    },
+    {
+      "type": "Person",
+      "name": "le ministre d'Etat",
+      "id": "Person_be762e1ea8b3ba42914877b64ca2e874e451af8920cd7ce58ec301fd54856a2c"
+    },
+    {
+      "type": "Person",
+      "name": "le préfet de police",
+      "id": "Person_9a3aad873cd6641ed641fbce78c970b84a3663b7efc6edc49e11e4944ca7b4e3"
+    },
+    {
+      "type": "Person",
+      "name": "Madame Sarah HALIMI",
+      "id": "Person_28546257f4a023edc591864740ecf23930b35001bfeceb7dd2058a14168770cf"
+    },
+    {
+      "type": "Event",
+      "name": "attentat de la rue des Rosiers",
+      "id": "Event_afb4690d9c2a41cb17d05007a90bcaad4c89d090ddcfe614a724e74be84bedcb"
+    },
+    {
+      "type": "Country",
+      "name": "Norvège",
+      "id": "Country_01255a6d7078545605faae7f3b57607774761cefa10e25e0bff7873d4b8710cd"
+    },
+    {
+      "type": "Event",
+      "name": "attentat commis en 1980 contre la synagogue de la rue Copernic",
+      "id": "Event_2abf64ba62560c8dff25b19365c9b0cc31b535c1cea96dcc47af480ca96c11e9"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance de l'autorité judiciaire",
+      "id": "Theme_2ca1bf12af86fdf79c43b40d06723701f72e6659ec7467e98a1f21f3b40802d6"
+    },
+    {
+      "type": "Theme",
+      "name": "enquêtes couvertes par le secret de l'instruction",
+      "id": "Theme_e773f4b20128381a2fb85de36f651529fd6d632ef12ed47f124196b12181964d"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère de la Justice",
+      "id": "Organization_cea7f7c6781d1b17f8bbda2d0e7fa349d3c46e649d69590a436976297df74472"
+    },
+    {
+      "type": "Organization",
+      "name": "parquets",
+      "id": "Organization_1589578b6c131696257dc602d0d831a281f93f784f61a3e82296d3a6b73eac0f"
+    },
+    {
+      "type": "Organization",
+      "name": "Mémorial de la Shoah",
+      "id": "Organization_a5be5d7af2a61a261e6caaa77b2cd5f2c6da5576093a133ea35bdbc2606d7382"
+    },
+    {
+      "type": "Organization",
+      "name": "CNCDH",
+      "id": "Organization_c6a10d5134ef53302737d2700d235231a96fd7f88693ec668fc242f4facf7e19"
+    },
+    {
+      "type": "Person",
+      "name": "Gil TAIEB",
+      "id": "Person_c53d39cee768b436c32f44cd3c9108ba3ed4b1a872fe99af02ceec08faf99f4a"
+    },
+    {
+      "type": "Person",
+      "name": "Karim AMELLAL",
+      "id": "Person_3c29a76ac1fd48e4509ec09e960f4d4215aaf7527396b18b2edf432331d5eff4"
+    },
+    {
+      "type": "Organization",
+      "name": "Pharos",
+      "id": "Organization_495f2c6b0dde0401ac74ada4bf6af773bac91c967dad776583a1520ea81d47af"
+    },
+    {
+      "type": "Organization",
+      "name": "DILCRAH",
+      "id": "Organization_22788c44a81441d216ce65511487940571fbf7363e22a2b68d61d106d82c1567"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "société civile",
+      "id": "Organization_cfc44263322b67a27cc2200265a0b8a1a8911b42c8ea280edd04d4199e8faf68"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le racisme et l'antisémitisme sur Internet",
+      "id": "Theme_dfa044ae3a87c45f094cf2fceed7aa1b6b4043b7eb46e46b960f8acddade0e91"
+    },
+    {
+      "type": "Organization",
+      "name": "Partenaires européens",
+      "id": "Organization_ccb297bd7a0305ae344644945fcaa88dae92cf45e32969353241ecaac8855dc2"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Theme",
+      "name": "haine",
+      "id": "Theme_1109211ae99f54d538f05e8b1e3badcdc61927baacdf16dc2f914c62e0db0430"
+    },
+    {
+      "type": "Theme",
+      "name": "boycott",
+      "id": "Theme_591386a720013620a11143a96a0962f62416a9c48807c2c9409ecb9fc72fbc88"
+    },
+    {
+      "type": "Theme",
+      "name": "droit",
+      "id": "Theme_809b6d16ebe657005418287171a0ff40ba1f2fc184046e82a8dbc6d9366cc1a9"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention",
+      "id": "Theme_b5d3262ef3c58743a1781f267abe9b162422a835f4df383fc4856acb883ee6a0"
+    },
+    {
+      "type": "Theme",
+      "name": "laïcité",
+      "id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "type": "Theme",
+      "name": "école",
+      "id": "Theme_e4023600e045c977a775d339830e8508634d36394f9b8486f09d01cdd3b05e6b"
+    },
+    {
+      "type": "Theme",
+      "name": "doctrine de laïcité",
+      "id": "Theme_887d710eddaa5dd2b42f2f178f4f1749845423686689e52f58f09776007954eb"
+    },
+    {
+      "type": "Theme",
+      "name": "formation des maîtres",
+      "id": "Theme_b093dd8b5912f45feb2653a880ce33a286dc42a5ff8b2104beffa112a3ea803f"
+    },
+    {
+      "type": "Theme",
+      "name": "sensibilisation",
+      "id": "Theme_8ca507e56a29cfba5d76294062efa0033c2b12828cb5c4f92235b49d90982b78"
+    },
+    {
+      "type": "Country",
+      "name": "la République",
+      "id": "Country_8ece1ca643efc6be6485040a8d42357a81f22c38694d9ca8a56d37a688baf2b0"
+    },
+    {
+      "type": "City",
+      "name": "des quartiers",
+      "id": "City_3258f13ebcda051c5dbb0853bccd067ab00b8e5962f3b1fd254fb7f962021218"
+    },
+    {
+      "type": "Organization",
+      "name": "une école privée sous contrat",
+      "id": "Organization_34e97b922b79d5d1641aabf3fa20abf0b592d5c69c1077422317384070c2ae11"
+    },
+    {
+      "type": "Organization",
+      "name": "une école privée",
+      "id": "Organization_d0b2a95d2bc8fffc8f35fc9966a797590f624d1d19dae603713e5043c10f274d"
+    },
+    {
+      "type": "Organization",
+      "name": "l'école de la République",
+      "id": "Organization_6f1821998e93c2c329561b58bc4392479dabe065ce4c27d65a9be685bc40ad37"
+    },
+    {
+      "type": "Theme",
+      "name": "accommodement",
+      "id": "Theme_0004f5b9fd5c020d9543e566e3cd537a1140d74808ee9b33cf55d1da08d02526"
+    },
+    {
+      "type": "Theme",
+      "name": "multi culturaliste",
+      "id": "Theme_06019fa1216ac3b0e3b86a5ddc1ec8caff30ee277f7e6d3b2ff59ce73e1996fd"
+    },
+    {
+      "type": "Theme",
+      "name": "bon sens républicain",
+      "id": "Theme_f7b81be81422099490bd8979c6edbc87242b2e806e73d1cb07101d60858c53ab"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement la République",
+      "id": "Theme_954f94960cd09bb1821f0eb6c1641bce965bd24aa0e8c82144343f21274f409b"
+    },
+    {
+      "type": "Theme",
+      "name": "vivre avec l'autre",
+      "id": "Theme_8817a72709ebab4ee86ac21174ebf58b5d7ed7887e423f3233652e5d29f4fa7b"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre toutes les haines",
+      "id": "Theme_e9a2cf77600bf4f8ae8706435a1559369d1991e5dfa9dfb0d38386293d48f950"
+    },
+    {
+      "type": "Theme",
+      "name": "débat sur la laïcité",
+      "id": "Theme_5f84da7b521e69597722b49a2d204ed13e68e7e8925cd11be6a350de20f8666b"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte",
+      "id": "Theme_7708840b3d68c43d6a94a7b54aa6236d0d1084de70b1696c5042b52121652089"
+    },
+    {
+      "type": "Theme",
+      "name": "fractures dans la République",
+      "id": "Theme_e0a45fe42c20bea7fd272d34362a9ce95064a324aa8e9e101fa88626e2052702"
+    },
+    {
+      "type": "Theme",
+      "name": "laïcité sans qualificatif",
+      "id": "Theme_dd08f5c827ae86dbb671e73aed71bf80a91b8bfd1634a75c4f81febfb80aed11"
+    },
+    {
+      "type": "Person",
+      "name": "Maurras",
+      "id": "Person_dfca49782a3a14a8a3f9ca5c32887e00ca4ad8fb02b2f435b3e180f5953fb436"
+    },
+    {
+      "type": "Theme",
+      "name": "commémoration de Maurras",
+      "id": "Theme_04ee39ee44ceb23b9c744854cd3922a19567559dc2c1c8e565bbb573f2e5a4eb"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire de France",
+      "id": "Theme_ba653bbf5de0c55f35346e1848a09370b27b6c2277c7e7a500609784071ceec0"
+    },
+    {
+      "type": "City",
+      "name": "Médan",
+      "id": "City_427547d0973aca474ba60bf74fae257c0253b534146a954a10c21e8171e6b2c1"
+    },
+    {
+      "type": "Organization",
+      "name": "musée Maison Zola Musée Dreyfus",
+      "id": "Organization_17deb53fe356f2bb7a878f50bfcaba34ad6e0974060e72841a910a4f39969872"
+    },
+    {
+      "type": "Theme",
+      "name": "mémoire",
+      "id": "Theme_3c9e6d3a23e7c3fe0d187e98745e316e283ccf9f53618547ce1cecd4b8f46fb9"
+    },
+    {
+      "type": "Organization",
+      "name": "organisations internationales",
+      "id": "Organization_908a29865356744b6a26f2bfac9cd473010ea3da3f967ea11b2f9d66638771f5"
+    },
+    {
+      "type": "Organization",
+      "name": "fondations",
+      "id": "Organization_567181127ac996789fea72150d5bcb80f25b3afdd8eccedcd25982dc4093bb83"
+    },
+    {
+      "type": "Organization",
+      "name": "institutions culturelles",
+      "id": "Organization_a2e640b347062116e1d6f2256329d78f949992d1ac333cc8f44a286be09a571f"
+    },
+    {
+      "type": "Person",
+      "name": "RIVLIN",
+      "id": "Person_5d8d355c1a1327871080da29143477835937b9d0cd6aa626ca2cee78daf03526"
+    },
+    {
+      "type": "Person",
+      "name": "NETANYAHOU",
+      "id": "Person_10290dd51360a183c4debabd7e7bb9631331999cf3ab11f6abd77db7899ee67d"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Country",
+      "name": "Région",
+      "id": "Country_7c818ed21327e22bae058222222b7459519f1b9df8c73c3e4f08aff70bb2bc0c"
+    },
+    {
+      "type": "City",
+      "name": "Jérusalem",
+      "id": "City_dfd40d6188dd9c7a0e31e67df7305e4c1dacdce3131ca878deef88ad6b482beb"
+    },
+    {
+      "type": "Person",
+      "name": "Cher Président",
+      "id": "Person_d365aa68201ce725d2af62728c9477ab5931bace1b08db665f0613845b96714a"
+    },
+    {
+      "type": "Person",
+      "name": "Donald TRUMP",
+      "id": "Person_0733a79f3150052cccafd940cdbbd3c8e236062bb642b00d56f0ff8484ba3762"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Person",
+      "name": "Madame l'Ambassadrice",
+      "id": "Person_783c16ac4383b349a3f46b496464b07a42e68af0a7f102a08c0670a6b1e248c5"
+    },
+    {
+      "type": "Person",
+      "name": "Présidents",
+      "id": "Person_7968d5e00c3858839e40468d3fbda6f7f1a95135564545f7370b5a0a48cd1f9a"
+    },
+    {
+      "type": "Country",
+      "name": "Palestine",
+      "id": "Country_b1ebd722dd8ffa39d4f6ceb5282cae944d16f26dce1689b04cbaf84077610527"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés fondamentales",
+      "id": "Theme_ae555c856dcdc76ac5f7c88633a45257f679dfbb8e86c38713333db0bf8f56c0"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "universel et l'espérance",
+      "id": "Theme_120666bad48d64866fb14723dc687101b7533f2a1c8c9f9c1d8d4b06c9adfedc"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès",
+      "id": "Theme_99fbe2fae74b83c0fb6be33e85f58e86e641fe47059e9c1672808dfbdcf5b5bd"
+    },
+    {
+      "type": "Theme",
+      "name": "espérance",
+      "id": "Theme_033f833af6388502bfc94da349539bb4ad4154d73fa77dd35a2a0f476e1f61cc"
+    },
+    {
+      "type": "Theme",
+      "name": "raison",
+      "id": "Theme_9e9d8f485579e57f1eef713302cd106d43b9f1ff37f7d0bbbf7fe3484509fd78"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le relativisme",
+      "id": "Theme_f3c2a1e6d9d52ea404e3533fac62c8872e98ad978cafb4fc14e4234a185a194f"
+    },
+    {
+      "type": "Theme",
+      "name": "défense de la science",
+      "id": "Theme_0668af143f0ea98ecfac93657083b5e567b8d241282a808a745baa44fd82a48e"
+    },
+    {
+      "type": "Theme",
+      "name": "foi positive",
+      "id": "Theme_84453b5bbf53c44de6d8deb097a352dea8b87f6a995f5c1d7ceaa4c307ab44a3"
+    },
+    {
+      "type": "Theme",
+      "name": "determination",
+      "id": "Theme_a4bdb3c44d15bf12371585855a9cb8fd81d0434da7dc47a9a1562172135f5575"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte séculaire",
+      "id": "Theme_a99903900f8f2d011ca9a2c50d2e3bd9c34223a8992d5a96d16598a997780f3c"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte pour l'universel et pour l'espérance",
+      "id": "Theme_c4db5a1317883d63bff25c0e9ba36f917f05fc35987b1911471b27c21a7660d6"
+    },
+    {
+      "type": "Theme",
+      "name": "antidote",
+      "id": "Theme_8df5caa8475d1fefcc0a3797880c8a328e31a899b75b1fda1e4877b22abbc56e"
+    },
+    {
+      "type": "Theme",
+      "name": "réponse",
+      "id": "Theme_6399fe0e5d5d3fbe794fbc4d5e762ca0181d92326b8b9faa609e13afc104c3a2"
+    },
+    {
+      "type": "Theme",
+      "name": "crispation",
+      "id": "Theme_953b2026d8521548fa51844a40ecf2dc5618b0e60f946cab3e15847ec83db589"
+    },
+    {
+      "type": "Theme",
+      "name": "repli",
+      "id": "Theme_90ce70dc1d4f9a64f6559f5bc5abd8aa0b0ca7c794b84d279d5871f113e03fa7"
+    },
+    {
+      "type": "Theme",
+      "name": "rejet de l'autre",
+      "id": "Theme_067358a6f05cf7bf75944bbb1a84415546de43a1a2963eaf06f05db02a1b2ae9"
+    },
+    {
+      "type": "Theme",
+      "name": "espérance jamais déçue",
+      "id": "Theme_579c5cd2ea67393130cf4c30bd4277e4f4802c3870f9f95081dcaf15619bdb68"
+    },
+    {
+      "type": "Theme",
+      "name": "gout pour l'universel",
+      "id": "Theme_9e9fd06e7b4ad7a9534c46a645c5b756bc01f32496a76676d90c57bbb7a777a8"
+    },
+    {
+      "type": "Person",
+      "name": "René CASSIN",
+      "id": "Person_fb969e0b88e0215a145c0beebdabaf8dfc09b7b792365861081169e75bed8d1f"
+    },
+    {
+      "type": "Theme",
+      "name": "paix entre les nations",
+      "id": "Theme_b62d46967d50eec43e1673b01e132fb410800c13fb531ab235c4adb1fb097d07"
+    },
+    {
+      "type": "Theme",
+      "name": "Droits de L'Homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Event",
+      "name": "Première Guerre mondiale",
+      "id": "Event_5c2b8eb302bf6065a5cd1c5988ce7663201e0b30e003923a8c736603a1b517af"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité humaine",
+      "id": "Theme_a68e650cb082f90e106ea6655faf8989cb9854b36f5542c5c40eb1819a7d6ba1"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité",
+      "id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "type": "Theme",
+      "name": "protéger chaque citoyen",
+      "id": "Theme_7f6b103fa9167447974a4924ef8501b9e0e659d5a92754f3382ad8fbd28cdcb4"
+    },
+    {
+      "type": "Theme",
+      "name": "force doit rester à la loi",
+      "id": "Theme_feac3389035f7339201798fd42f9d1b32b88f5fb536aa88bd26d85c07751bb53"
+    },
+    {
+      "type": "Theme",
+      "name": "force doit aussi rester à la vérité",
+      "id": "Theme_7c50403feee98b747aaca3b214ac11207e568fb32e83b7d703e8fbff5e876c1f"
+    },
+    {
+      "type": "Theme",
+      "name": "traquer l'antisémitisme",
+      "id": "Theme_c561ba86c79ef15b5286c3a38401d27bbc74c3430093797bf84b6bccd3b6ee42"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire du peuple juif",
+      "id": "Theme_d815a2f1810aabffbee62b247026b97f49f82ec6bfb0e82a070e665b15f0dc62"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Simone VEIL",
+      "relation": "SPOKE_ABOUT",
+      "target": "confiance",
+      "evidence": "Et comme le déclarait Simone VEIL à Berlin en 2004, devant l'OSCE, cette confiance qui va jusqu'à la tendresse entre les juifs de France et la République française est d'abord le fruit de l'histoire.",
+      "confidence": 1.0,
+      "source_id": "Person_4da84d085d0414be46d06181049192bfa187ee57577e2d7a7fe5104add18936e",
+      "target_id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "source": "Simone VEIL",
+      "relation": "SPOKE_ABOUT",
+      "target": "histoire",
+      "evidence": "Et comme le déclarait Simone VEIL à Berlin en 2004, devant l'OSCE, cette confiance qui va jusqu'à la tendresse entre les juifs de France et la République française est d'abord le fruit de l'histoire.",
+      "confidence": 1.0,
+      "source_id": "Person_4da84d085d0414be46d06181049192bfa187ee57577e2d7a7fe5104add18936e",
+      "target_id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "heureux comme Dieu en France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "juifs de France",
+      "evidence": "la France ne renoncera jamais aux juifs de France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_8132ccbe223d7c702325b9bfcbfbc79d9906e26e10341be0cad37fdd88071534"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "concitoyens de confession juive",
+      "evidence": "la France est fière de compter en son sein des concitoyens de confession juive",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_edda88b114f5944775e47e39fab31de30d500ffa8efd790f7447058e635eedc3"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "les familles, par les juifs de France et par la communauté nationale",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "gouvernement",
+      "relation": "PROPOSED",
+      "target": "lutte contre le racisme et l'antisémitisme sur Internet",
+      "evidence": "une mission sera confiée par le gouvernement à Gil TAIEB et Karim AMELLAL sur la lutte contre le racisme et l'antisémitisme sur Internet",
+      "confidence": 1.0,
+      "source_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f",
+      "target_id": "Theme_dfa044ae3a87c45f094cf2fceed7aa1b6b4043b7eb46e46b960f8acddade0e91"
+    },
+    {
+      "source": "Maurras",
+      "relation": "MENTIONS",
+      "target": "commémoration de Maurras",
+      "evidence": "Il y a eu un débat sur la commémoration de Maurras ou pas",
+      "confidence": 1.0,
+      "source_id": "Person_dfca49782a3a14a8a3f9ca5c32887e00ca4ad8fb02b2f435b3e180f5953fb436",
+      "target_id": "Theme_04ee39ee44ceb23b9c744854cd3922a19567559dc2c1c8e565bbb573f2e5a4eb"
+    },
+    {
+      "source": "Maurras",
+      "relation": "SPOKE_ABOUT",
+      "target": "histoire de France",
+      "evidence": "Maurras a participé à l'histoire de France",
+      "confidence": 1.0,
+      "source_id": "Person_dfca49782a3a14a8a3f9ca5c32887e00ca4ad8fb02b2f435b3e180f5953fb436",
+      "target_id": "Theme_ba653bbf5de0c55f35346e1848a09370b27b6c2277c7e7a500609784071ceec0"
+    },
+    {
+      "source": "musée Maison Zola Musée Dreyfus",
+      "relation": "LOCATED_IN",
+      "target": "Médan",
+      "evidence": "le musée Maison Zola Musée Dreyfus sera ouvert en 2019 à Médan, dans les Yvelines",
+      "confidence": 1.0,
+      "source_id": "Organization_17deb53fe356f2bb7a878f50bfcaba34ad6e0974060e72841a910a4f39969872",
+      "target_id": "City_427547d0973aca474ba60bf74fae257c0253b534146a954a10c21e8171e6b2c1"
+    },
+    {
+      "source": "Israël",
+      "relation": "LOCATED_IN",
+      "target": "Israël",
+      "evidence": "France-Israël, de mai à octobre 2018, dans les deux pays",
+      "confidence": 1.0,
+      "source_id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814",
+      "target_id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "source": "Jérusalem",
+      "relation": "LOCATED_IN",
+      "target": "Israël",
+      "evidence": "la reconnaissance de Jérusalem comme capitale dIsraël",
+      "confidence": 1.0,
+      "source_id": "City_dfd40d6188dd9c7a0e31e67df7305e4c1dacdce3131ca878deef88ad6b482beb",
+      "target_id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "source": "Jérusalem",
+      "relation": "LOCATED_IN",
+      "target": "Palestine",
+      "evidence": "la reconnaissance de Jérusalem comme capitale d'Israël et de la Palestine",
+      "confidence": 1.0,
+      "source_id": "City_dfd40d6188dd9c7a0e31e67df7305e4c1dacdce3131ca878deef88ad6b482beb",
+      "target_id": "Country_b1ebd722dd8ffa39d4f6ceb5282cae944d16f26dce1689b04cbaf84077610527"
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Aïssa DOUMARA",
+      "id": "Person_3bf18779b71a05e8678c73e6eb4827b40ae94ab2c4bf9643d3a66e6ee8f79b25"
+    },
+    {
+      "type": "Person",
+      "name": "Delphine HORVILLEUR",
+      "id": "Person_de80af115057834213cc21fb091e6906d5985ffd5ad004a88f30c3cb50efee5e"
+    },
+    {
+      "type": "Person",
+      "name": "Jean",
+      "id": "Person_3f9a0f0d57b2aea4be8dddbe3eb07437c7ffdace90cb821fabc4c625ef09f85b"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre-François",
+      "id": "Person_a20724fdce465c2462d934cc7dcdafd5347a2ecb05078213dc49a183f710d5d2"
+    },
+    {
+      "type": "Person",
+      "name": "Simone Veil",
+      "id": "Person_4da84d085d0414be46d06181049192bfa187ee57577e2d7a7fe5104add18936e"
+    },
+    {
+      "type": "City",
+      "name": "Panthéon",
+      "id": "City_43a1ef0fe679cc862b9a773e30d5fc43b5e2f3b92f6a29dee095a06aca903639"
+    },
+    {
+      "type": "Person",
+      "name": "une femme",
+      "id": "Person_915051798e3bdbe9e085602eefe83b7ea37e23d565d4019dae18c8532ba1b5f7"
+    },
+    {
+      "type": "Country",
+      "name": "notre État de droit",
+      "id": "Country_0c51a6375ea253751d607d1fda4d38f057ee113b722d705c0b548cfa24108ccb"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre",
+      "id": "Organization_bcfcec7de2d7b4cf53f630b8f4bda4918808fa7973b4a27375e60cdb59c5914a"
+    },
+    {
+      "type": "Organization",
+      "name": "juge",
+      "id": "Organization_091bbf20807d51dbf1ff1f368d0eed5f890dac9b14c9923ba79c792f9d9441f6"
+    },
+    {
+      "type": "Organization",
+      "name": "prisons",
+      "id": "Organization_a8e7f41e986d0bb58cf08ff8b41ba946eac05791b6c16c37a0f039ed5d3c3c66"
+    },
+    {
+      "type": "Organization",
+      "name": "handicap",
+      "id": "Organization_004910191340a5488d9ea0c8b115ef39ef7fe9d478b2bf09a798d87eaeffedc8"
+    },
+    {
+      "type": "Organization",
+      "name": "enfance",
+      "id": "Organization_e3c1a5eff2acd1868155972d800fd27605cbc906da4c1f09b47b827006bdb52d"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de choix",
+      "id": "Theme_8ede4e25b79454931859ebfef4e629e10a36d106758fac0bfcc3325652a20850"
+    },
+    {
+      "type": "Theme",
+      "name": "condition de détention",
+      "id": "Theme_a69a3d88ff097f8a64b1e000ead3b08675ffa0aeae0aeb16657e1fa10b9fe7d7"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de l'enfance",
+      "id": "Theme_f4f0212c202cb6b962fae73d0c4bc35bacdd9a0349ef63302a51e312c6b417fe"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement du handicap",
+      "id": "Theme_ef97cee668c79851c16954560082ae298cbdc28e179dfc6ff60543abc45c8cad"
+    },
+    {
+      "type": "Person",
+      "name": "Cher Jean",
+      "id": "Person_a44ab75afe3e4df8d811340b967a2118e61ddeadb4310b74210aebf144647298"
+    },
+    {
+      "type": "Person",
+      "name": "Présentes et présents ici dans cette salle aujourd'hui",
+      "id": "Person_dbf1121cdbee26a955ec46b5ca05024430f49ece79ee414e6f28c61e4a4d6a4f"
+    },
+    {
+      "type": "Country",
+      "name": "ex-Yougoslavie",
+      "id": "Country_3ed4cf7510fbd66cb05fa208fda2855468693254d12c59de87849113e4aa0e8e"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Theme",
+      "name": "légalisation de l'interruption volontaire de grossesse",
+      "id": "Theme_70ce9e7dae37d7fbfca276089909cf0020c6c6fea31e45405165fe0e6ae0f1e7"
+    },
+    {
+      "type": "Theme",
+      "name": "remboursement de la pilule",
+      "id": "Theme_9dc103efd133e8fbe6f2acfab38f0dc86c45b63402926136aa0d531adcb3d4f9"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités professionnelles",
+      "id": "Theme_214429a2ea7e4e26617190adec059e020ee798eab03727ba5017978fc71dc59f"
+    },
+    {
+      "type": "Theme",
+      "name": "sexisme",
+      "id": "Theme_0c9a5361743545bcda5dc8654184f1ebfe36467bc3d817954e3fcc788f634ac0"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance financière",
+      "id": "Theme_4755d1d6459f4dc3f539a9541fdbdb1e5f576ad483920838116c945ff7e560b9"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie conjugale",
+      "id": "Theme_5f4b283aed1a18af5f2e9c178bddcbb73272da390945205863ab6e063734e79d"
+    },
+    {
+      "type": "Theme",
+      "name": "viols massifs",
+      "id": "Theme_e65880a4ee3fe09ff032a21281af2845f580201d8005429f8154abdb7963960e"
+    },
+    {
+      "type": "Theme",
+      "name": "parité",
+      "id": "Theme_1748ed8d6f8aef13d133d0c2eba4e7757f9727c28e2d5eb45461270146e81080"
+    },
+    {
+      "type": "Person",
+      "name": "Votre combat et votre personnalité",
+      "id": "Person_bb66cee634d95b9a1d08c0e797086ca1e0928fb40c2ac825ec03e39bb022126c"
+    },
+    {
+      "type": "Theme",
+      "name": "courage",
+      "id": "Theme_4eb0829b6b279fcb2a945b12114e4f8976954c7a7fcf9391f504d523ee63a88b"
+    },
+    {
+      "type": "Theme",
+      "name": "persévérance",
+      "id": "Theme_9a0c4f30d5cf12c1a62a4fd9de0424db0424250ee8f41825205e35ab83a3ca6e"
+    },
+    {
+      "type": "Theme",
+      "name": "injustice",
+      "id": "Theme_f50d0badc765b4168fd5c9e2bc18a19ca3762b14518aa59aa8a19218df31b713"
+    },
+    {
+      "type": "Theme",
+      "name": "silence",
+      "id": "Theme_d8abd9a22fb4c4d3199f6408ca04cd0301506eb1e43b0db826c16d07c7331109"
+    },
+    {
+      "type": "Theme",
+      "name": "menaces",
+      "id": "Theme_5201cf50196d98191911da5de2cdaf6bf22b8dd545685ef548c3099e082fe05c"
+    },
+    {
+      "type": "Theme",
+      "name": "terreur",
+      "id": "Theme_8a31eb4678e63f176b144843e7da4982d6cf583da79159ccfca1137a4c8a6432"
+    },
+    {
+      "type": "Theme",
+      "name": "victimes de la barbarie de Boko Haram",
+      "id": "Theme_983401a2fbf128209e15956da63c151c9f7e3a6466258703526bdf2a77b2ccc3"
+    },
+    {
+      "type": "Theme",
+      "name": "violences contre les femmes",
+      "id": "Theme_7038f3c317cb6db5e444909a0f2e25c7893fc46dc483f5ec0ff5584122f74049"
+    },
+    {
+      "type": "Theme",
+      "name": "mariages forcés",
+      "id": "Theme_8a7e916ea5c27ce0f107df3593b162ff92000f3279651620184723d08ee4d9d1"
+    },
+    {
+      "type": "Theme",
+      "name": "mariages précoces des jeunes filles",
+      "id": "Theme_a8f72ec75e456caf0520f2dfa705610c7e9b8c6b487c4f898dba566ef3a674c2"
+    },
+    {
+      "type": "Theme",
+      "name": "santé des mères",
+      "id": "Theme_bb5bebfed1a3319f0c55d2156b62858835ad2e7bfcd1e20001bccbd302e35be4"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation des jeunes filles",
+      "id": "Theme_9f812c045d283c0a2060c8671ef7156b8dc7bcb137f1d4c6f70d9edc817f610b"
+    },
+    {
+      "type": "Person",
+      "name": "Madame",
+      "id": "Person_6ace0972a12e8e17957064d9f2ab5c314f0de15e6db0c156bc4d6af16f1e6022"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la présidente du jury",
+      "id": "Person_9f32819ad29b79826ed90226071b718f26e7e37f993886a540bc1e592cee1b8c"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Theme",
+      "name": "préjugés",
+      "id": "Theme_dfff3cf1ab358b96c15c850d84f2095ce9cba918b638a4f236f8c2f96e84e1a3"
+    },
+    {
+      "type": "Theme",
+      "name": "culturalismes",
+      "id": "Theme_bd8f07ee559afef160c40e1399f311d45657f944d3eb23cafe4066ef8273ed81"
+    },
+    {
+      "type": "Theme",
+      "name": "obscurantisme",
+      "id": "Theme_4a24212db9727059b9b326cb8f096cf94fed1ceca851b8d4a98d5c11af866309"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte",
+      "id": "Theme_7708840b3d68c43d6a94a7b54aa6236d0d1084de70b1696c5042b52121652089"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Theme",
+      "name": "activité économique",
+      "id": "Theme_7c6e7dc6b85a24759d615f9c7201651197e42552972e38d3cb7f5459db533c6e"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalité entre les sexes",
+      "id": "Theme_bf76e19a22a5474d52fb09bb45f167e5487a714203a8f4f037434395a99d3e06"
+    },
+    {
+      "type": "Theme",
+      "name": "viol",
+      "id": "Theme_f01be469b11d37a43bb7b0a2642430751b0301449f8719c75fafe9cc252464fe"
+    },
+    {
+      "type": "Theme",
+      "name": "esclavage sexuel",
+      "id": "Theme_66d9ee4e8b8df822a67a058ad047eeff22d76d0788fa689f5618771b12c48037"
+    },
+    {
+      "type": "Theme",
+      "name": "Boko Haram",
+      "id": "Theme_972294300040d025622ec25435186f69315b0e9e9354c4707ac10c1d07e6fb52"
+    },
+    {
+      "type": "Theme",
+      "name": "Daesh",
+      "id": "Theme_7503fc9e0ce2476e035ebca0ae8e0b56c73bdd42775045ba1cb18fb4e4807bb3"
+    },
+    {
+      "type": "Country",
+      "name": "Birmanie",
+      "id": "Country_f4406de0f2f74de469f36c6e5e5f18b96a9ae7a8767ced9fc46b6835e2f73719"
+    },
+    {
+      "type": "Theme",
+      "name": "violences sexuelles",
+      "id": "Theme_75775adaeed309eb58d5b53d732a2bac8730b7dbbeee7e18d771a97ad950be5f"
+    },
+    {
+      "type": "Theme",
+      "name": "violences physiques",
+      "id": "Theme_6e30b6560ee26e82c47b494e804e82165fdd7e409a016f8be3e75c80f2875f3b"
+    },
+    {
+      "type": "Theme",
+      "name": "mutilations sexuelles",
+      "id": "Theme_d45dd7e6b3c36e4057f1553a0ca1ec4a0e7507a2d55d8904312369bf5e7e3b4e"
+    },
+    {
+      "type": "Person",
+      "name": "Denis MUKWEGE",
+      "id": "Person_c9f0409bf4ae5306d13c7a6586b920dda66dccc5a6ab5761403767ca39f6c35b"
+    },
+    {
+      "type": "Person",
+      "name": "Nadia MURAD",
+      "id": "Person_48c0ec66b5b103e207510ff34c5edcd6caa08e871c502dbe6ae99fe14a9e04a9"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité des droits",
+      "id": "Theme_cfd8059ea07c4c32e07a216a13ac82b7775c476dfc13f6091db31924dea4eea3"
+    },
+    {
+      "type": "Theme",
+      "name": "violences faites aux femmes",
+      "id": "Theme_43efd737d86fa6cbeae42d883838ee75aa4f5ae2335d3214773d627c8c06583b"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité et de dignité",
+      "id": "Theme_4f5f5a247ce8ac2789c12c8b3db8e07ba90af1fb8aa9a703353adefbd1330215"
+    },
+    {
+      "type": "Theme",
+      "name": "féminicide",
+      "id": "Theme_6ca1455e9138df51e761bed86a8ad8beec4b2d9cb6be68332278a0df17ea5b12"
+    },
+    {
+      "type": "Theme",
+      "name": "violences",
+      "id": "Theme_e1be313a671c9fc82f0ddae646c23fae1b533f1f5e446ce338dc737f703e7023"
+    },
+    {
+      "type": "Theme",
+      "name": "cyberharcèlement",
+      "id": "Theme_b0934bb090278ef2b79ae3f0935417067b1cd276634cfaef00c590eb121282f9"
+    },
+    {
+      "type": "Theme",
+      "name": "écarts de salaire",
+      "id": "Theme_9e30c72fd4c2e0e9dbb4c9515bba8788fd7cafc0463f66e2d4e9727e354330e9"
+    },
+    {
+      "type": "Theme",
+      "name": "outrage sexiste",
+      "id": "Theme_38e25f13d19ccba6c9f2c02c9d34e458c8602482d1ea94634fe935f3382f58e3"
+    },
+    {
+      "type": "Theme",
+      "name": "crimes sexuels sur les mineurs",
+      "id": "Theme_f3a0b7698645ebb76e4f82950ea198fc75e8ad9a984230288411ab381afa407d"
+    },
+    {
+      "type": "Law",
+      "name": "la loi",
+      "id": "Law_06ff4a6150586f7a90556b37e4d18bb94a678233510c532c9deb930d175a1290"
+    },
+    {
+      "type": "Country",
+      "name": "notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Organization",
+      "name": "la France",
+      "id": "Organization_f0dc3d1cb8e9214f15bc0f50d04be2ee46c400d75c6b4fb0f660fab0b83501ac"
+    },
+    {
+      "type": "Organization",
+      "name": "ONU femmes",
+      "id": "Organization_ba3842e729c42f42af7734f415f9d926b20c3f88e2709e36dd86092cdf9d5e97"
+    },
+    {
+      "type": "Organization",
+      "name": "les mouvements en faveur des droits et de la condition des femmes",
+      "id": "Organization_6be18787947cf2a46670024146a3edc8431e4b8f63d135ce9ef30e81c6ea2ed3"
+    },
+    {
+      "type": "Theme",
+      "name": "discriminations",
+      "id": "Theme_1f69353dd700231fa8e6831503cf115f594fbd9f6011a36c2863785f8a5e5a5c"
+    },
+    {
+      "type": "Theme",
+      "name": "féministes",
+      "id": "Theme_d1d579cbd1d5421967928c78276ead7b7a3b9271ea26548d5202168bd0f95d7c"
+    },
+    {
+      "type": "Theme",
+      "name": "droit des femmes",
+      "id": "Theme_d2da95d72d870a71011b6e862c995183e89c237e4427c4a6f625259d91caedf3"
+    },
+    {
+      "type": "Person",
+      "name": "Nasrin Sotoudeh",
+      "id": "Person_57ba7db3a160a9cb692ca12031a085d877ac55b746ba9777e0dc7ac790d90c8c"
+    },
+    {
+      "type": "Person",
+      "name": "Loujain AL-HATHLOUL",
+      "id": "Person_1959d3e5503814ca055ccff20ab0419a6bb03f938dc494f9aaafa2a72bf7747c"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Arabie saoudite",
+      "id": "Country_ba5ae4e1d0c1b62b96b20dbc4dfa5a4f386fc0140b81ffc4ec2b12c13be70858"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil consultatif pour l'égalité entre les femmes et les hommes",
+      "id": "Organization_e412bc9de582963009936b75c892fc1784e388fda8502db307df9daf5fcc92f9"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Theme",
+      "name": "droits des femmes",
+      "id": "Theme_b5ad4efe4e4ac8448e544bd4fd67401fff7ad3d2a8c6e3dc2122c3b47deb01a5"
+    },
+    {
+      "type": "Person",
+      "name": "Gisèle HALIMI",
+      "id": "Person_3e3411c937622c30bef50cd403a3aad00c334fe7e985e675b86d718df4fc6107"
+    },
+    {
+      "type": "Person",
+      "name": "Nadia MOURAD",
+      "id": "Person_d1081299e224b293d8918eef0808b0ec46d4baecf43821f33fb5cd2e44acb7b2"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds mondial de réparation pour les victimes de violence sexuelle dans les conflits",
+      "id": "Organization_834fec79fcd51f2abdb8beb500cd9bda78c36309883c7f83e1f4aa464e097565"
+    },
+    {
+      "type": "Organization",
+      "name": "prix Nobel",
+      "id": "Organization_4c7b6513d56b3853f6a7dc42f1eef5babb9812551359fa0ece4a1d3d459265af"
+    },
+    {
+      "type": "Organization",
+      "name": "GAFA",
+      "id": "Organization_12ff7f1cb73498958369d3932cf322b0831b69fad29ac482c0d50fdc6020a7f0"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Event",
+      "name": "conférence Pékin+25",
+      "id": "Event_19fb1b1e483dca9bd0e57b480822cb8c7675e70199b4c4ee46a3732d0786b788"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "voix féminine",
+      "id": "Theme_5c79adb3e2061d6f85bf30f6fe90bd79e59f12e653eaa717c1396c7e028a3d00"
+    },
+    {
+      "type": "Person",
+      "name": "Shéhérazade",
+      "id": "Person_f1f5a588972fdde536a37a3e1c03212d923118ef4edf1e9f4c074efdd6e507bc"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Theme",
+      "name": "voix masculine",
+      "id": "Theme_5a8bf09853e3f0d1b7f62c8f4a752ccf6f0c83d4f124456e7b62938c71a148a3"
+    },
+    {
+      "type": "Theme",
+      "name": "lumière",
+      "id": "Theme_3984944089e9f39a230693e5aba5f1d318a029a2677fc10dc8ea8532fc507c8f"
+    },
+    {
+      "type": "Theme",
+      "name": "voix de la nuit",
+      "id": "Theme_9ec8d7802ebd56c8c97cb8fb62a81f40c18dbd988095812b45c2d13db6a73a26"
+    },
+    {
+      "type": "Theme",
+      "name": "discernement",
+      "id": "Theme_dbfa6b70cc8af4e7fd838c6a04dd8755c5d892edd48fe6be8a4466b68cbeae32"
+    },
+    {
+      "type": "Theme",
+      "name": "voix de Shéhérazade",
+      "id": "Theme_3de17116d78f3f3408c07ee412a2e381e5ddc284cf47f2aa7d9ab7c70ce59650"
+    },
+    {
+      "type": "Theme",
+      "name": "combat",
+      "id": "Theme_6a8d504484dd15522148bbbe392e2fc6fb3a26c237b2b89a9d0126070440e62d"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Aïssa DOUMARA",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "la France est elle fière que vous soyez, chère Aïssa DOUMARA, la première lauréate de ce prix Simone Veil de la République française.",
+      "confidence": 1.0,
+      "source_id": "Person_3bf18779b71a05e8678c73e6eb4827b40ae94ab2c4bf9643d3a66e6ee8f79b25",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Aïssa DOUMARA",
+      "evidence": "la France est elle fière que vous soyez, chère Aïssa DOUMARA, la première lauréate de ce prix Simone Veil de la République française.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Person_3bf18779b71a05e8678c73e6eb4827b40ae94ab2c4bf9643d3a66e6ee8f79b25"
+    },
+    {
+      "source": "la loi",
+      "relation": "MENTIONS",
+      "target": "la loi",
+      "evidence": ". Est-ce la loi qui est là à changer à nouveau?",
+      "confidence": 1.0,
+      "source_id": "Law_06ff4a6150586f7a90556b37e4d18bb94a678233510c532c9deb930d175a1290",
+      "target_id": "Law_06ff4a6150586f7a90556b37e4d18bb94a678233510c532c9deb930d175a1290"
+    },
+    {
+      "source": "Shéhérazade",
+      "relation": "MENTIONS",
+      "target": "voix de la nuit",
+      "evidence": "La voix de la nuit c'est la voix de Shéhérazade et c'est celle qui, parce qu'il fait nuit, a gardé plus de discernement.",
+      "confidence": 1.0,
+      "source_id": "Person_f1f5a588972fdde536a37a3e1c03212d923118ef4edf1e9f4c074efdd6e507bc",
+      "target_id": "Theme_9ec8d7802ebd56c8c97cb8fb62a81f40c18dbd988095812b45c2d13db6a73a26"
+    },
+    {
+      "source": "Italie",
+      "relation": "MENTIONS",
+      "target": "voix de la nuit",
+      "evidence": "D'autres que nous – italiens, orientaux ...– ont pensé cette voix de la nuit. La voix de la nuit c'est la voix de Shéhérazade et c'est celle qui, parce qu'il fait nuit, a gardé plus de discernement.",
+      "confidence": 1.0,
+      "source_id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c",
+      "target_id": "Theme_9ec8d7802ebd56c8c97cb8fb62a81f40c18dbd988095812b45c2d13db6a73a26"
+    }
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Arménie",
+      "id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Secrétaire générale",
+      "id": "Person_88dce44992b64bbb30c2ca80847c956a1ef67a21c743e2841cde4bb9ca9c4990"
+    },
+    {
+      "type": "City",
+      "name": "Erevan",
+      "id": "City_671ce272f52a28ce7fcb124854468e8c896de6c79cf945c9f8f979a458d8d0e2"
+    },
+    {
+      "type": "Person",
+      "name": "Charles Aznavour",
+      "id": "Person_23512f8780298baeff465d32f51ef96019e8c8fe850a02c87cf90b9c36adb807"
+    },
+    {
+      "type": "Country",
+      "name": "Francophonie",
+      "id": "Country_350ffb8f3db7faf27f77ca5b93df39bd3f22c0800b2bdc31781dcb5cba46b391"
+    },
+    {
+      "type": "Theme",
+      "name": "langue",
+      "id": "Theme_503878fae38cf6a116099ef03b8fe0423aa370b33f0af8b6450b8ae129feef43"
+    },
+    {
+      "type": "Theme",
+      "name": "vision du monde",
+      "id": "Theme_49f9c39a7414eaba776c7d0bdb87f91f4941e89f41e3b262ebe78668f7573824"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité humaine",
+      "id": "Theme_a68e650cb082f90e106ea6655faf8989cb9854b36f5542c5c40eb1819a7d6ba1"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre international",
+      "id": "Theme_289a437b7ebd1758f517244ffb7920e1783b8884a6c25a392dab8d910194a767"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance de la justice",
+      "id": "Theme_f2201eb8b6b49205cbaafd2fe6509268541d7f976bdfb86000608c8c81fd9cdc"
+    },
+    {
+      "type": "Theme",
+      "name": "droits des femmes",
+      "id": "Theme_b5ad4efe4e4ac8448e544bd4fd67401fff7ad3d2a8c6e3dc2122c3b47deb01a5"
+    },
+    {
+      "type": "Organization",
+      "name": "La Francophonie",
+      "id": "Organization_147923c935644cb42f4806d52ac6113641a4461fa5871335cd873d0432dda13f"
+    },
+    {
+      "type": "Theme",
+      "name": "Francophonie",
+      "id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "reculs",
+      "id": "Theme_d3ac7e6782810b7d60208142a7fe47529f3d9ebb285ac226aa0b032465ad3c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "haines",
+      "id": "Theme_2e67af2d111df8422d8bc5f09a20ad2cbfbb77f5df7659957210dabf45d6cdd0"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs démocratiques",
+      "id": "Theme_9142b5bff9213397a00342d54e7949e0adf5ce26d107d75347279bf987dd25bc"
+    },
+    {
+      "type": "Theme",
+      "name": "révolutions",
+      "id": "Theme_bf94a78ad5a6ce26abad3d443c9877995b642f046bddb639b36bde6c8c6a427c"
+    },
+    {
+      "type": "Organization",
+      "name": "Francophonie",
+      "id": "Organization_dc678596523f2ca379d71924629e0368bc6c847e852aba150093697fe130600f"
+    },
+    {
+      "type": "Person",
+      "name": "Boutros Boutros-Ghali",
+      "id": "Person_f8c621f2e8695e52f2aa09cb90d0e3f3e0e4a9171c52cdbf42ca023127f71727"
+    },
+    {
+      "type": "Person",
+      "name": "Abdou Diouf",
+      "id": "Person_9080858355c0f478fc69cee199db4a152754a124b0bd0f399100cc1873f61b1d"
+    },
+    {
+      "type": "Person",
+      "name": "Senghor",
+      "id": "Person_09ef50258c9e30638c6fb3a0756dcb68896e19fcf5f102a21ac83b823d408d54"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Africain",
+      "id": "Country_698477977960eea221b48ef749235cdb4b76cadf5c10309acc73346625c29054"
+    },
+    {
+      "type": "City",
+      "name": "Seine",
+      "id": "City_9929220d5e345c5949c2abc9e16751001a108eb36b2e1c4f82423603b773377f"
+    },
+    {
+      "type": "City",
+      "name": "Congo",
+      "id": "City_98be9cd382cfb942b238d51d9f4e264f186de666e8051cfcc0eee348a6d240e2"
+    },
+    {
+      "type": "Organization",
+      "name": "Notre organisation",
+      "id": "Organization_134b23ece1a7e421f341af07d18620b5d37abe674fba3bb66cec9bf6e4026788"
+    },
+    {
+      "type": "Organization",
+      "name": "Unesco",
+      "id": "Organization_44cf334686fd664fecedb6944caa3782522449e029aa1a57346edd5f2ff5eebd"
+    },
+    {
+      "type": "Theme",
+      "name": "plurilinguisme",
+      "id": "Theme_6bd9e731b6b6c196182120fc563cc86f30c516ea997b1584d98f12d81eb4e73c"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce",
+      "id": "Theme_030aa67661fc7f420b2620eaa40b472d5e87b4aea26693aacbd98e388c58bb88"
+    },
+    {
+      "type": "Theme",
+      "name": "affaires",
+      "id": "Theme_efc374b69b2ff2f3d295f3aaefa5e54444881ac6f7ef8216dd317a7730e0988c"
+    },
+    {
+      "type": "Theme",
+      "name": "diplomatie",
+      "id": "Theme_fa4553527d22021e2969a99f81c2418a0b4cfdf59a91222869ed968d1e91405b"
+    },
+    {
+      "type": "Organization",
+      "name": "OIF",
+      "id": "Organization_fec137e35ceb1d9c2c68df7a9034f7e77950ac632b58474e3657aa9617840997"
+    },
+    {
+      "type": "Organization",
+      "name": "ONU",
+      "id": "Organization_8fe3e517167eebcfcb1c541c20f6aeb0a346c6c70b461e4d8ec8a469cdf70167"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Union africaine",
+      "id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "type": "Theme",
+      "name": "création",
+      "id": "Theme_a463f772ae14adf1d9f578edb8f3a9be473efc5135b65450d927e8cdeac7a890"
+    },
+    {
+      "type": "Theme",
+      "name": "combat",
+      "id": "Theme_6a8d504484dd15522148bbbe392e2fc6fb3a26c237b2b89a9d0126070440e62d"
+    },
+    {
+      "type": "Theme",
+      "name": "sommets internationaux",
+      "id": "Theme_a010b87f8ac2c241fb80ba1c7e490d834e6089bd6ab66c8cb4d6cf9e02e0e7d5"
+    },
+    {
+      "type": "Theme",
+      "name": "anglais",
+      "id": "Theme_0b5b5b8a867dde2c4e80a02ba22865093d4c07975490b8b7b0bffb3c016f64fe"
+    },
+    {
+      "type": "Theme",
+      "name": "français",
+      "id": "Theme_31256713966363216a0829e4571c45ca5252777a0b51e3eb51c248981e94773b"
+    },
+    {
+      "type": "Theme",
+      "name": "espace géographique de valeurs",
+      "id": "Theme_897a2e10c5a85a5083609ab6a51a2d4fd866c48bf5259f585b808029cc39c340"
+    },
+    {
+      "type": "Theme",
+      "name": "auteur",
+      "id": "Theme_c649d2027e743c3fd44bd4a6c8a290aa001aa810d8ef5c26fe5d4596fc573a34"
+    },
+    {
+      "type": "Theme",
+      "name": "créateur",
+      "id": "Theme_bcb80da5be40ac6766161bd320b94b4888330153ee22bec134789a513e21e5fc"
+    },
+    {
+      "type": "Theme",
+      "name": "Idées",
+      "id": "Theme_3f143ac2f862bce1bb4dfc38c15c151a1f275ddadd1eccb091afec82c56b7284"
+    },
+    {
+      "type": "Theme",
+      "name": "Mots",
+      "id": "Theme_8e80d2d1b6d9be1f08534884ffc84ff2e7af5078aad0193b175e64ac58dbb27c"
+    },
+    {
+      "type": "Theme",
+      "name": "Internet",
+      "id": "Theme_b2fe891aa35fd742a9d80ce9a95e251708bf7d5247e0de5318494530042b42d7"
+    },
+    {
+      "type": "Theme",
+      "name": "Droit d'auteur",
+      "id": "Theme_36a9ef569caf15cb52886f409568bb0fb6cc76987827b681017a4ec9856f98bb"
+    },
+    {
+      "type": "Theme",
+      "name": "Parcours entre les langues",
+      "id": "Theme_1d76ba6d2fc27e678110f384071dab25149dbb2795332eb5bc59881dd287c478"
+    },
+    {
+      "type": "Theme",
+      "name": "Lutte",
+      "id": "Theme_7708840b3d68c43d6a94a7b54aa6236d0d1084de70b1696c5042b52121652089"
+    },
+    {
+      "type": "Organization",
+      "name": "TV5 Monde",
+      "id": "Organization_47cadbdcb0f1c2b5ec1a84ba6cf8f1f530029dccff6f18829319743d1a03ef2f"
+    },
+    {
+      "type": "Country",
+      "name": "Québec",
+      "id": "Country_b15d12f797bbcd9e032dad742c2bedc20bef73fa622f6966e81fed8dda32a99e"
+    },
+    {
+      "type": "Theme",
+      "name": "auteurs",
+      "id": "Theme_42cb9a8e4e0b7a4109f171e6bd9168fb4e8bbdb4e4b6cdfffd535c480f0d9528"
+    },
+    {
+      "type": "Theme",
+      "name": "langues",
+      "id": "Theme_2c590b7db4f32e2c4a3f2f7fc25bb4040c508c86add27ac82e0b62f41cb6c557"
+    },
+    {
+      "type": "Person",
+      "name": "Leïla Slimani",
+      "id": "Person_de71d85a50051d01fc2ed855018aa36834c9f6ff62b82947b03e276520b64ca3"
+    },
+    {
+      "type": "Person",
+      "name": "ministre de la Culture",
+      "id": "Person_dce0d1b649f19d804f819df855bdb6997007cd7f38d055ccc5354c668996924c"
+    },
+    {
+      "type": "Theme",
+      "name": "langue monde",
+      "id": "Theme_36386c44b28253413952c188402b54073af906cb743b7c84661d30c6aabbbd6b"
+    },
+    {
+      "type": "Theme",
+      "name": "Dictionnaire des francophones",
+      "id": "Theme_5a1733a1c3d9fefb80ab51f6f33578459eefc1f156862ed6bcffa23c844810fe"
+    },
+    {
+      "type": "Theme",
+      "name": "dictionnaire",
+      "id": "Theme_426d0586585e0f4848390c5345550f32ce5556e2fe322992076ca40148e622e1"
+    },
+    {
+      "type": "Theme",
+      "name": "wolof",
+      "id": "Theme_c195a684a501eb35012a92075a361cfb59a5f9afa62ea6683c7e97baa8e378df"
+    },
+    {
+      "type": "Theme",
+      "name": "Pacifique",
+      "id": "Theme_7f3dc9db436afec9ee879b5c1fd694c7ce7c14cbe34f036ca55fbfc9ce51dd9f"
+    },
+    {
+      "type": "Theme",
+      "name": "Afrique",
+      "id": "Theme_e53ae647bc41c3aecc727ca2595afd63d86f12f3de9d9d071f207288bfe98093"
+    },
+    {
+      "type": "Theme",
+      "name": "Amérique du Sud",
+      "id": "Theme_733a68dd42e0f8bccfbef3c74b587aa270a2cbe26811b16113038c937fb6608a"
+    },
+    {
+      "type": "Theme",
+      "name": "Amérique du Nord",
+      "id": "Theme_8e69178bddd3b88a2e4381f4daca0f2971d1549cbce18e9e605a93f5575f1e2e"
+    },
+    {
+      "type": "City",
+      "name": "Villers-Cotterêts",
+      "id": "City_6aab14668bdee637018a1a68554281503579fbe339dd9c176e5ba0e6fb326493"
+    },
+    {
+      "type": "Person",
+      "name": "François 1er",
+      "id": "Person_14035acef40538839c55001986fde9d32024abffc914fe45f513a5b38e70f1f9"
+    },
+    {
+      "type": "Person",
+      "name": "Alexandre Dumas",
+      "id": "Person_b3115f6bd3d46a8fdb20c3ef63f2a9c465074ba9f77be3e526b333a3dac1b814"
+    },
+    {
+      "type": "Theme",
+      "name": "compréhension commune",
+      "id": "Theme_ccfde44203452c9d30c2978824721b9bbb12271f06da1a154d530951fd508ba6"
+    },
+    {
+      "type": "Theme",
+      "name": "bien commun universels",
+      "id": "Theme_642324168c004660229259043292cbc8eb8c70405fc565192a4151918bef2c21"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Theme",
+      "name": "traduction et d'échange",
+      "id": "Theme_4f9446292cec080b9f474036b19237d5bb6e89dc528e4debb8f8cf2c2014aaea"
+    },
+    {
+      "type": "Theme",
+      "name": "espace de compréhension commune",
+      "id": "Theme_bd23603821c3d1e76246c39962ca1193c5bd47a542247fee1cc89a4392a7ecc1"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme repensant des équilibres nouveaux",
+      "id": "Theme_1807dc2102a3dce2821da6af4352e67b3a257bf710a62725f44a8949c77225c2"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement",
+      "id": "Theme_b53e869b761ff3b2e610c18e6c0fd53e10ad5d2a8ba8bf353be9d0f1148d8c43"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'Homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Person",
+      "name": "Michaëlle Jean",
+      "id": "Person_4ebc8a36b2cfe25cee1828142fde01559663c7a9b93f28507abff9f9c2a0afa9"
+    },
+    {
+      "type": "Person",
+      "name": "Président Essebsi",
+      "id": "Person_53e13efa3383a64488cfb78e26a6b11d6f32738901c44b501cc8d75645da7ef6"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Tous les autres",
+      "id": "Country_09101bd68f48bd434b6f5784ad61a7866ce8908f03169c7c0e33f17794928f00"
+    },
+    {
+      "type": "Country",
+      "name": "obscurantistes",
+      "id": "Country_901bfb8bc618e7c6181d0a4b2fe32f288b6070b4ac673c887fb6e5d9c8fa3042"
+    },
+    {
+      "type": "Person",
+      "name": "un grand président",
+      "id": "Person_89dcf6ce40841e0e3aa9c1cb762fda42600b44ed9e266a9fc4b8c63a1eb1359a"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "femmes",
+      "id": "Theme_6cefe79fcc2d94b362c08802e35592ec94d444fa1fceecb124f2402df513ea70"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil consultatif sur l'égalité des sexes",
+      "id": "Organization_4d4073944c667be869ce7fda8ab32580d12d79a343ed8f1738e9c390f5487a40"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Theme",
+      "name": "bonnes pratiques en matière de politique publique",
+      "id": "Theme_32d34f88e0adb2c97fb7bfd4b41ac6e9dbe9e9df7391a3ff0c8e448d15fd25f2"
+    },
+    {
+      "type": "Theme",
+      "name": "diversité",
+      "id": "Theme_6cc4bb1678e642d4ee3f4b5dc04bc554310abfe7ca2c11509232cbba37f90a92"
+    },
+    {
+      "type": "Theme",
+      "name": "parité politique",
+      "id": "Theme_b37214caebbbdfb996181dc4b6400ee5c89b3c43d88b0f30432391fa2b4e2d4e"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation numérique",
+      "id": "Theme_5218e2bc62ed02bd02dcec5564bc9822d5f6d7dbb690399b221eaa053a4d42a8"
+    },
+    {
+      "type": "City",
+      "name": "Tokyo",
+      "id": "City_8f23660eaca87af055b66eacc0d2a4faa5a9b63397ec76f9caa8ab28cb15821d"
+    },
+    {
+      "type": "Person",
+      "name": "Camus",
+      "id": "Person_eaa86907b5d88b020dd634c1a97be0cd26e4ea1b40261008c03c995544a44898"
+    },
+    {
+      "type": "Theme",
+      "name": "combats",
+      "id": "Theme_7743f3c678c446384550fffe0c1e44b3dfe9d88bea4af764687221da1a9bce14"
+    },
+    {
+      "type": "Theme",
+      "name": "dignités",
+      "id": "Theme_39fa3aa4a31ce050396f7a76d543b4d97f9f3bd38bc417a80fdb02b7659e02b4"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Arménie",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "À Paris, Marseille Lyon, ou ailleurs, prononcer le nom Arménie, c'est faire vibrer une corde de la sensibilité nationale.",
+      "confidence": 1.0,
+      "source_id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "Arménie",
+      "relation": "VISITED",
+      "target": "Marseille",
+      "evidence": "À Paris, Marseille Lyon, ou ailleurs, prononcer le nom Arménie, c'est faire vibrer une corde de la sensibilité nationale.",
+      "confidence": 1.0,
+      "source_id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace",
+      "target_id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "source": "Arménie",
+      "relation": "VISITED",
+      "target": "Lyon",
+      "evidence": "À Paris, Marseille Lyon, ou ailleurs, prononcer le nom Arménie, c'est faire vibrer une corde de la sensibilité nationale.",
+      "confidence": 1.0,
+      "source_id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace",
+      "target_id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Francophonie",
+      "evidence": "La France sera à vos côtés dans cette famille de la Francophonie, et vous le savez, j'ai profondément réengagé la politique de développement française dans cette direction, et c'est un combat pour nous tous que nous menons, contre l'obscurantisme et pour ce destin commun.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_dc678596523f2ca379d71924629e0368bc6c847e852aba150093697fe130600f"
+    },
+    {
+      "source": "OIF",
+      "relation": "SPOKE_ABOUT",
+      "target": "langue",
+      "evidence": "D'abord en faire, encore davantage, la langue des échanges. L'OIF doit ainsi promouvoir le français avec encore plus d'efficacité dans les espaces de référence de la vie internationale où se forge le statut de langue mondiale, dans les institutions de gouvernance politique, à l'ONU, au sein des organisations régionales comme l'Union européenne et l'Union africaine.",
+      "confidence": 1.0,
+      "source_id": "Organization_fec137e35ceb1d9c2c68df7a9034f7e77950ac632b58474e3657aa9617840997",
+      "target_id": "Theme_503878fae38cf6a116099ef03b8fe0423aa370b33f0af8b6450b8ae129feef43"
+    },
+    {
+      "source": "Francophonie",
+      "relation": "MENTIONS",
+      "target": "auteurs",
+      "evidence": "La Francophonie pourrait ainsi s'emparer de ce combat essentiel qui est celui des auteurs et du parcours entre les langues.",
+      "confidence": 1.0,
+      "source_id": "Organization_dc678596523f2ca379d71924629e0368bc6c847e852aba150093697fe130600f",
+      "target_id": "Theme_42cb9a8e4e0b7a4109f171e6bd9168fb4e8bbdb4e4b6cdfffd535c480f0d9528"
+    },
+    {
+      "source": "Francophonie",
+      "relation": "MENTIONS",
+      "target": "langues",
+      "evidence": "La Francophonie pourrait ainsi s'emparer de ce combat essentiel qui est celui des auteurs et du parcours entre les langues.",
+      "confidence": 1.0,
+      "source_id": "Organization_dc678596523f2ca379d71924629e0368bc6c847e852aba150093697fe130600f",
+      "target_id": "Theme_2c590b7db4f32e2c4a3f2f7fc25bb4040c508c86add27ac82e0b62f41cb6c557"
+    },
+    {
+      "source": "Villers-Cotterêts",
+      "relation": "MENTIONS",
+      "target": "Francophonie",
+      "evidence": "dans ce château de Villers-Cotterêts, je veux que nous puissions faire un des lieux de la Francophonie",
+      "confidence": 1.0,
+      "source_id": "City_6aab14668bdee637018a1a68554281503579fbe339dd9c176e5ba0e6fb326493",
+      "target_id": "Organization_dc678596523f2ca379d71924629e0368bc6c847e852aba150093697fe130600f"
+    },
+    {
+      "source": "Francophonie",
+      "relation": "MENTIONS",
+      "target": "bien commun universels",
+      "evidence": "la Francophonie est en quelque sorte ce lieu ouvert, universel, ce lieu d'excellence où nous pouvons réinventer le combat pour les bien commun universels",
+      "confidence": 1.0,
+      "source_id": "Organization_dc678596523f2ca379d71924629e0368bc6c847e852aba150093697fe130600f",
+      "target_id": "Theme_642324168c004660229259043292cbc8eb8c70405fc565192a4151918bef2c21"
+    },
+    {
+      "source": "un grand président",
+      "relation": "PROPOSED",
+      "target": "éducation",
+      "evidence": "un grand président qui a apporté l'éducation aux filles comme aux garçons",
+      "confidence": 1.0,
+      "source_id": "Person_89dcf6ce40841e0e3aa9c1cb762fda42600b44ed9e266a9fc4b8c63a1eb1359a",
+      "target_id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "source": "Charles Aznavour",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Mes Chers Amis, il y a 15 jours, nous étions avec Charles Aznavour à Paris.",
+      "confidence": 1.0,
+      "source_id": "Person_23512f8780298baeff465d32f51ef96019e8c8fe850a02c87cf90b9c36adb807",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    }
+  ]
+}

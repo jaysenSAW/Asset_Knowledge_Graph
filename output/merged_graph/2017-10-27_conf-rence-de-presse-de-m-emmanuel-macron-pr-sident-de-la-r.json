@@ -1,0 +1,975 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les ministres",
+      "id": "Person_68c8bae1f1f0fa1fad64e1609435c27e59bb98f2bf0b5bf15ffe20298d0f898b"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les parlementaires",
+      "id": "Person_9721d90198df552b1c882b8e3717fc4e60d77853de2fc40ce1560ac0113ff824"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les directeurs",
+      "id": "Person_a882961e64b82c46ce24b89c4cd985a514e608fcca5ae11c6de4df85fc9a79a1"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, messieurs",
+      "id": "Person_5e27fa7c5bdc6bf2a2b2dfa28469fb1f53f1c6d238a1b9870de385953dc8571f"
+    },
+    {
+      "type": "Person",
+      "name": "le président JUNCKER",
+      "id": "Person_1e4491c1f83123ee5e557f42783287d1b596c099eb06170b94a4b157dc477958"
+    },
+    {
+      "type": "Person",
+      "name": "la ministre des Outre-mer",
+      "id": "Person_8ebdd019a784e57c7455eda3c4a1fbe08ede456f086468ab97e95cf25244897e"
+    },
+    {
+      "type": "City",
+      "name": "Maripasoula",
+      "id": "City_f171f029967fd67f92329bd43db4ef34818a180b979c4664c01449ba741750db"
+    },
+    {
+      "type": "City",
+      "name": "Kourou",
+      "id": "City_21161d842497288ff66b9d6c76b94d753f7fed7767c22aba35d24543195b701d"
+    },
+    {
+      "type": "City",
+      "name": "Cayenne",
+      "id": "City_a78dfd6c75ede6d8b8c952533891c3907b377757f65c3fcb95889e6eefd7669d"
+    },
+    {
+      "type": "Country",
+      "name": "Guyane",
+      "id": "Country_784c3a53dbc879c108f7f1ab802a3d742fd7099e54765ef584384dcfdb508762"
+    },
+    {
+      "type": "Person",
+      "name": "Rodolphe ALEXANDRE",
+      "id": "Person_da44d225d1b898e00921d7dc584eb9f2aad557becde30517715a55384a5cb5d3"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivité territoriale de Guyane",
+      "id": "Organization_5f9619b107f8d288aceb45127d61a26f509751019104c39726e4fc6485e0ba1a"
+    },
+    {
+      "type": "Organization",
+      "name": "les parlementaires",
+      "id": "Organization_b9e1e751b52229385853488ee831a7e1169cd31f1ab77e4b0e3b831d59ba4464"
+    },
+    {
+      "type": "Organization",
+      "name": "les maires",
+      "id": "Organization_a9e1c4d417af2ce277f96d954c07e0644d90acf89da6d1237042dfe2a6331960"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Etat",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Organization",
+      "name": "la République",
+      "id": "Organization_e41bd6d4bc20385559e93b64f4c300ddc29c99329a92c535c8ad8cb846bfc167"
+    },
+    {
+      "type": "Person",
+      "name": "François HOLLANDE",
+      "id": "Person_2c9e09179c21899d7e3c93e300ca8a504da99ff5bbeb4149aa2c13ca2cfe6917"
+    },
+    {
+      "type": "Person",
+      "name": "Bernard CAZENEUVE",
+      "id": "Person_48fdd65ff96364e52214d6f203e90ada8200057aa0876003e70db50298c61d0e"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Person",
+      "name": "Annick GIRARDIN",
+      "id": "Person_a34175f24b9e7a627683c472eb2b346881ccee8844ff51bffb7c24b989293a43"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "réorganisation de l'Etat",
+      "id": "Theme_e0b465505adcd163402cf6acce569a6c0238bb5dc507d27112be6a621ebf8a04"
+    },
+    {
+      "type": "Theme",
+      "name": "anciennes méthodes",
+      "id": "Theme_ebd260572c107b27184f8d9521a97f6d7e5058d61e6c62d13df216d2e89109ea"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilités partagées",
+      "id": "Theme_7d1517aeacf76ee2f2ff0ca1a12f58990423fa2493bde341c170b87b333a50cb"
+    },
+    {
+      "type": "Organization",
+      "name": "Secrétaire d'Etat",
+      "id": "Organization_0a422eda600058e03642ed8ddbbeeef00a57afbe37b078cc1c814f51a7af9c90"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre d'Etat",
+      "id": "Organization_5c124c4b43ca2291116a782b13d293b467f246098cc9cdb58571a427b1256713"
+    },
+    {
+      "type": "Theme",
+      "name": "filière biomasse",
+      "id": "Theme_39f7683c213a229b4ce49b4ee8959b86ffa0bccb3b39f117790af06920f72edf"
+    },
+    {
+      "type": "Organization",
+      "name": "CREU",
+      "id": "Organization_f33af644e1625fd3fee570bfc47eba56f0aedd933c754e1323b186db22bd5e86"
+    },
+    {
+      "type": "Organization",
+      "name": "Bercy",
+      "id": "Organization_a143693d55c701054e346e783deb2163969d2746d6dd110c0e55db9a16ac289a"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère de l'Agriculture",
+      "id": "Organization_738c90ff98d36db2fb7d3a332059b45165c12bd391dc3df1109b77dae810c94e"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "TOTAL",
+      "id": "Organization_559564d9b17106b6bb250c645551ad905b530d212d84a924205cddb718712d8e"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrocarbures",
+      "id": "Theme_033d71111a76d5682275696049a31fe0628e021efb7a83ade412d3d2701288ee"
+    },
+    {
+      "type": "Theme",
+      "name": "aurifère",
+      "id": "Theme_4ddd2946422967c404e5c757060594129b68538ed99abe3f17896cf7d9ca46e1"
+    },
+    {
+      "type": "Theme",
+      "name": "Montagne d'or",
+      "id": "Theme_9ae51c43fc612000a104379baa51131892b2011e57d4ab214930616dc0091d03"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission nationale",
+      "id": "Organization_c7bdd9b88d9d90f0d81ea2e5f80d7760188ff65091f37bb185cb041cc0ace41e"
+    },
+    {
+      "type": "Theme",
+      "name": "charte sur les mines durables",
+      "id": "Theme_85103cf4dc68846152d60124c28d95c4e2b6cc5fa5f90e95cbc9bb369ae847ea"
+    },
+    {
+      "type": "Theme",
+      "name": "sujets",
+      "id": "Theme_4e69be3384bec3fe744ce4b83b1d6dbef561af72501da3443ba18e256ee9a696"
+    },
+    {
+      "type": "Theme",
+      "name": "points de sensibilité en termes environnementaux",
+      "id": "Theme_7ecd440e09be84eac21aa1553842578e44798cad989d73b638e5a96d10cd08a3"
+    },
+    {
+      "type": "Theme",
+      "name": "acceptabilité démocratique",
+      "id": "Theme_70bdbe6fe95e0e1f3213bc3615b92f9cf1ea80ae352405975b32d92658b72d6a"
+    },
+    {
+      "type": "Theme",
+      "name": "répercussions économiques",
+      "id": "Theme_ae19b02ca117d096c3a65f99504104b43432a34da835ee1fbce3dcb02f1777fa"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "concertation",
+      "id": "Theme_d3f8a45df0325edd93f67492d7ebd72cb7c6b497b5986d8daf6b87fa3af7fed5"
+    },
+    {
+      "type": "Theme",
+      "name": "avis recueillis",
+      "id": "Theme_b48d70d068098cc1cadbf61aba1b05defb622ae282e28b080d23959644845a88"
+    },
+    {
+      "type": "Country",
+      "name": "Nouvelle-Calédonie",
+      "id": "Country_55a69be2de7bce6a0a3ef0dc0899835c52a9dcb4b1cc9e9c104595177589d1e9"
+    },
+    {
+      "type": "City",
+      "name": "Guyane",
+      "id": "City_214e958a910168a0c70fe7c025f359f9d6fa07e07914ddb157b36fd05d706ed1"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies renouvelables",
+      "id": "Theme_912e2c1b6d76c17cfecb65f028f348cae97ce3cd43f48890e5f528fb3273c56f"
+    },
+    {
+      "type": "Theme",
+      "name": "mine responsable",
+      "id": "Theme_5343d07d0bafdc17f166e5d11d414c3ce1b0aa80b532ad771ce0779aebd96c13"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence pour la biodiversité",
+      "id": "Organization_29a638d8872da8c9154a30cc6ea7791543b8387a1553fa111b89f32a46a0b95e"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Person",
+      "name": "JUNCKER",
+      "id": "Person_79fbb50acf9e13d45a785dc6c088d941c901209f230a41d0efb053518e0f7353"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "commande publique",
+      "id": "Theme_8ee8f14f94e3b34a93fb85be77636ce689c4bcd5ba78ee2448b7cba7ede8ad84"
+    },
+    {
+      "type": "Theme",
+      "name": "activité économique privée",
+      "id": "Theme_a4ea72cba057559a4d868f90db74f28e0746440622555752d0b947ce30c51917"
+    },
+    {
+      "type": "Theme",
+      "name": "bâtiments travaux publics",
+      "id": "Theme_f255a97d5fb056e908774d8c0cbf266cb5d9027bf20fd58d5b174d330fe59284"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "octrois de permis",
+      "id": "Theme_a75d8a1b6e73594b03930938c87a2a5e55f89ed1d16be96fea6bc11fff571a8f"
+    },
+    {
+      "type": "Theme",
+      "name": "procédures",
+      "id": "Theme_eadb30aff3ccccd0da665303dde6fb7bab63f35b109b026e43e778fa66178d98"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités publiques",
+      "id": "Organization_6ed95cf6423a4b3e06c5c70bb68a24e153a10c77a308ae817735239cf260463c"
+    },
+    {
+      "type": "Organization",
+      "name": "acteurs parapublics",
+      "id": "Organization_d7005c471a7471fa39416c275306184d53ecef1e019dec17eab9418fec1d5eeb"
+    },
+    {
+      "type": "Organization",
+      "name": "secteur privé",
+      "id": "Organization_3745e8a399783e7a84a94aac910ff2ad210aa46fde84b6dfe1092fdd58c457dd"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi local",
+      "id": "Theme_c71c9691bec61ed2148d3fc74246ed30c2af16964182ec48925a339ba8e51ee0"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence",
+      "id": "Theme_ed714e04f0072912f37b05dc73e487727a8c579005e7b04f4ac05a26f6929b10"
+    },
+    {
+      "type": "Theme",
+      "name": "vie chère",
+      "id": "Theme_985c0332394f709ac2f50ddd27a91a16d7d7788f4782a816b1395ac24f8ff0f0"
+    },
+    {
+      "type": "Organization",
+      "name": "Autorité de la concurrence",
+      "id": "Organization_0a66e60f314907711756a2453b30735345631b03bb7f549f51c9e0061117cd78"
+    },
+    {
+      "type": "Theme",
+      "name": "économie locale",
+      "id": "Theme_276e9740da949a268465ee1d4239bacd954fb2154dec72a64ab42c8158bc1f3d"
+    },
+    {
+      "type": "Theme",
+      "name": "économie d'un territoire",
+      "id": "Theme_51623146c833b7ffe0a201becebed6f8baad902d8f6f5365e9725fb8964721d0"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Organization",
+      "name": "CCI",
+      "id": "Organization_3332fa4b259ff242c849bf0f3bc9cc9af884414bb4f14734648e8a87776ee121"
+    },
+    {
+      "type": "Theme",
+      "name": "péréquation nationale",
+      "id": "Theme_c77ae173ec1d629b635b6aef65b5c7c2ccb96bc5ed82c5198534439f866422e9"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "défis",
+      "id": "Theme_5a6aef98f24c26e747d7ee3628cc4cefe7a02e552336681ab6dcd972be5b12a5"
+    },
+    {
+      "type": "Theme",
+      "name": "péréquation",
+      "id": "Theme_03c83affa9c216fab24678ac1304ebcaea3197584f42f05754c135880c3e6784"
+    },
+    {
+      "type": "Person",
+      "name": "ADAM",
+      "id": "Person_f3c65f4eff350c7ab04c9528dc1ffe24fdf575954c107d6c6b1c4ae52507d4ec"
+    },
+    {
+      "type": "Organization",
+      "name": "République en Marche",
+      "id": "Organization_23779e2cf33b9e7592860877c36445340862c5f74654ffd60231e89fd4e2f00f"
+    },
+    {
+      "type": "Theme",
+      "name": "désenclavement",
+      "id": "Theme_aac6fba033e7e0e5231c60bd8c33b66f034d6e53ecb3176bdf0b8ad091793a90"
+    },
+    {
+      "type": "Theme",
+      "name": "école de la République",
+      "id": "Theme_6e06d3a7da73014145337e3c75703501dbb115d85d410a5f539a125f86ef46ed"
+    },
+    {
+      "type": "Organization",
+      "name": "ESPE",
+      "id": "Organization_ad363e75e9a45e62d3fbb5d47b1e2ba75dde0dd2f58ae4eb12bec89b979ec74f"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Laurent-du-Maroni",
+      "id": "City_2a61443877d5ff5d782e7e4ae6b7a605b0322c2d4ef27cce81dd4c75d446fbb9"
+    },
+    {
+      "type": "Theme",
+      "name": "démographie",
+      "id": "Theme_69e2141ba394337f9d0dd9609b4acc190997a81473105a6e5ff07f619beeae4c"
+    },
+    {
+      "type": "Theme",
+      "name": "contrats d'installation ou de mobilité",
+      "id": "Theme_6f0adfd0ac5a3bfd2692f2c37e49dde227f37be3da753a110620c4e61100eec1"
+    },
+    {
+      "type": "Theme",
+      "name": "handicap",
+      "id": "Theme_07d6ad7e725b76cce5982a9a7f704af8d13d05bfc2d725640eb7ad805850ae06"
+    },
+    {
+      "type": "Country",
+      "name": "Surinam",
+      "id": "Country_d474da92f263f8b832485b040e81f0077dc81fa858e71a14681dc7b2321fd9fa"
+    },
+    {
+      "type": "Country",
+      "name": "Brésil",
+      "id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae"
+    },
+    {
+      "type": "Country",
+      "name": "Haïti",
+      "id": "Country_26eb6b2804b8c516c8aba8f54ce10584b06e2fe603cba2ec2cfdfa5b73cb8a92"
+    },
+    {
+      "type": "Country",
+      "name": "Suriname",
+      "id": "Country_d37738d2813378d76f4c4b37fda3f9052ae49cb064593d9bb3ebabe5fcbc7066"
+    },
+    {
+      "type": "City",
+      "name": "Saint Laurent",
+      "id": "City_3a67f15eb2958aee69146d9c2ea1ea93f5f81ba6d08596efcbfcaaf1ae703cb4"
+    },
+    {
+      "type": "Theme",
+      "name": "programme d'infrastructures",
+      "id": "Theme_e1450a37994da41fbf7ae961e663ae161a41246095f4fd69c040975242df1880"
+    },
+    {
+      "type": "Theme",
+      "name": "schéma routier",
+      "id": "Theme_3d3c4c96c3b2a5be60399f8be725a57df1f85097cc9a441f9e34b041d0e45a54"
+    },
+    {
+      "type": "Theme",
+      "name": "schéma d'aménagement régional",
+      "id": "Theme_4f62979f36ae90d0b272b7dbdcec76609b55eb65a6dc06653ba0a8565be0bf18"
+    },
+    {
+      "type": "Theme",
+      "name": "relance du foncier",
+      "id": "Theme_8b0d93b780dfb31553497d2bbab6a44fd1bc178b0f3b135b8e12aabfd7fcfc95"
+    },
+    {
+      "type": "Theme",
+      "name": "doublement du pont de Larivot",
+      "id": "Theme_379bf8ce479c1733d0e87b0a40ed30d6c72ea523fb2b504f353baa9acc23d737"
+    },
+    {
+      "type": "Theme",
+      "name": "route nationale 2",
+      "id": "Theme_4108f8b058d8cee2448f61f0f189cc2dadafc1a6308611bfc562c5be179b864d"
+    },
+    {
+      "type": "Theme",
+      "name": "réseau d'adduction d'eau",
+      "id": "Theme_6079693ed8bfa60d65160898edf0724319296940c3b483cef83ae48618fb3d2f"
+    },
+    {
+      "type": "Theme",
+      "name": "construction de logement social",
+      "id": "Theme_d054486266ce4efab86c3023dc5283850f762c5b0e5c82ed1aa163de0ed560f7"
+    },
+    {
+      "type": "Theme",
+      "name": "financements en Guyane",
+      "id": "Theme_b8c552db3b553b79335e69cbd23dea869e505f2878623d1a59e5849c7b51f2f9"
+    },
+    {
+      "type": "Organization",
+      "name": "CNES",
+      "id": "Organization_9cac143218443645cc33132f43bf3a030f9b428a1f2d8be5768d3563ede6e5b8"
+    },
+    {
+      "type": "Theme",
+      "name": "foncier",
+      "id": "Theme_ec78297eaef6c17147a501d59c500b37700fa39e8cc23b7ecb75eb5a1ca3066b"
+    },
+    {
+      "type": "Organization",
+      "name": "SAFER",
+      "id": "Organization_afc3b458c9507049f7537bf5f76ad63ecdda288b16fe2868504745fb2aff4aa1"
+    },
+    {
+      "type": "Organization",
+      "name": "préfets",
+      "id": "Organization_de684efc2174ee3a7076db54d156af9c9f6f81205a168aca516bd643b128943f"
+    },
+    {
+      "type": "Organization",
+      "name": "élus",
+      "id": "Organization_2a8112b51d960018957700054cee7823bd277e9fa862e3ed8cf1b64ea1800278"
+    },
+    {
+      "type": "Organization",
+      "name": "société civile",
+      "id": "Organization_cfc44263322b67a27cc2200265a0b8a1a8911b42c8ea280edd04d4199e8faf68"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Theme",
+      "name": "réussite en Guyane dans la fonction publique",
+      "id": "Theme_9fc860697e06f0d9ec116aef980303f35a24b97683768e21992f5edbd650508d"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation de l'État",
+      "id": "Theme_acc70ed12f451c9f33b2274d800d1fccfb44cf5820d02b6e9803e025f19aa279"
+    },
+    {
+      "type": "Theme",
+      "name": "recrutement",
+      "id": "Theme_dc4a51d6853c4a656f70dd021f7954af49386c033fd11547f64cc55d4ae66a46"
+    },
+    {
+      "type": "Theme",
+      "name": "assises de l'Outre-mer pour la Guyane",
+      "id": "Theme_129124ee8f98379f96810889753dd5d8d17aaae9dc35f1da55782f3f830d24f5"
+    },
+    {
+      "type": "Organization",
+      "name": "services de l'Etat en Guyane",
+      "id": "Organization_ba3362518c9abe6643e1377835f3256a69eb2745165fc8dbc78b6ecc4e1e3b5c"
+    },
+    {
+      "type": "Country",
+      "name": "République",
+      "id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    },
+    {
+      "type": "Country",
+      "name": "La Guyane",
+      "id": "Country_774b1f800805e4291913bbc98cdfa626c46707c90012b1c510b9fbe9cfe2acf7"
+    },
+    {
+      "type": "Theme",
+      "name": "violences",
+      "id": "Theme_e1be313a671c9fc82f0ddae646c23fae1b533f1f5e446ce338dc737f703e7023"
+    },
+    {
+      "type": "Theme",
+      "name": "homicides",
+      "id": "Theme_e981401bcda7ab37c56a358e364b8e7ccb91ecfdf6cff728c99d2badae1fcc91"
+    },
+    {
+      "type": "Theme",
+      "name": "vols à main armée",
+      "id": "Theme_f060220bdf82cdd252201c32f6ab6e22296de4d4efd406f0529c12f1a0d6d4f8"
+    },
+    {
+      "type": "Theme",
+      "name": "vols avec violence",
+      "id": "Theme_73d7e73f86ba6da5b75fac3cdb69de0fc11f2b51ba7e7c6d54c6141a01705bcb"
+    },
+    {
+      "type": "Organization",
+      "name": "Inspection générale de la police nationale",
+      "id": "Organization_afb62097c7f07366cfc9c74c2bf1cd5c6e5bddfbca66ab10d0d8fc54aae41358"
+    },
+    {
+      "type": "Organization",
+      "name": "Direction générale de la gendarmerie nationale",
+      "id": "Organization_97cb7e658793957cbba9afe330bdd30d8c8d7e3a214d926a8613a0eec3855486"
+    },
+    {
+      "type": "Organization",
+      "name": "Intérieur",
+      "id": "Organization_3a7013185944a64de23abaaf017c894e3599930b3cde1aed1ca441c80f73c8ac"
+    },
+    {
+      "type": "Organization",
+      "name": "service interministériel constructeur",
+      "id": "Organization_d98ece84d1fefcea0125eb217bee844bc465c6a2881399a02f0be0035baaf5d5"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre l'insécurité",
+      "id": "Theme_5be78b857b9abab5fafc13f5beccb34be149ea7533dfdd28e9c88e10c33db853"
+    },
+    {
+      "type": "Theme",
+      "name": "orpaillage clandestin",
+      "id": "Theme_3ee88dd1f90d4a3eeec502cd01ccbb909a1593940656a4a1b8c2f7345e10c0c9"
+    },
+    {
+      "type": "Theme",
+      "name": "trafic",
+      "id": "Theme_615426dcd3396cc472876d269ef0cb74f0de92c7b5df68b1339290d62a6ad79c"
+    },
+    {
+      "type": "Theme",
+      "name": "saignées",
+      "id": "Theme_1166b8a04f0ea53c8113877e17f59796e14381122dc6c2bf451a33d8a2a94635"
+    },
+    {
+      "type": "Theme",
+      "name": "santé publique",
+      "id": "Theme_324c071ca11942030cd77dff4617fcfc09b8c12f732e7cd2adb8f9693d5429fa"
+    },
+    {
+      "type": "Organization",
+      "name": "services de l'Etat",
+      "id": "Organization_0e4c3b002b7e0b947f150ac5ade5255303027617ed7e319cef90365be1d32acb"
+    },
+    {
+      "type": "Organization",
+      "name": "forces armées en Guyane",
+      "id": "Organization_cf36b512632951bc027638300053759b50d19124cf1c8ec2ff7d54bb6961d962"
+    },
+    {
+      "type": "Organization",
+      "name": "gendarmerie nationale",
+      "id": "Organization_5e99216ca3c197b375ee8e608639e8cb42ef3fc2169849306d87f9e4683c0917"
+    },
+    {
+      "type": "Organization",
+      "name": "douanes",
+      "id": "Organization_953702def2af29f74486768c3fb9a10c554d55de415865938d68abecf114148e"
+    },
+    {
+      "type": "Organization",
+      "name": "parc",
+      "id": "Organization_d0760030d31cd3a60ed17fc09e820f08d7ba0cd38eb5c94a9089716583a0b9a9"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre d'Etat, ministre de l'Intérieur",
+      "id": "Organization_98c8afdfcb4de41fe0f15376dc387b09367e8c2385a63be05f23a754211f9dbf"
+    },
+    {
+      "type": "Theme",
+      "name": "détection précoce",
+      "id": "Theme_4c99167544854b0cb80898c1fe6532097f3d4f99d0ac65274aa7461354cb90c5"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité de la sanction immédiate",
+      "id": "Theme_0deb712cdae0852dca4fa312797b109e9b318739bc9f056c9b8ae979492d275e"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre l'économie souterraine",
+      "id": "Theme_4b45a744082a59a6c6320b6eca881a350b62585e369a7f9f53b5ad5388033e84"
+    },
+    {
+      "type": "Theme",
+      "name": "utilisation de drones",
+      "id": "Theme_bb4ef8c0d2d009f408c0c5a24bc0b2727b02071662fc1d76739523dc3e67386d"
+    },
+    {
+      "type": "Theme",
+      "name": "utilisation de nouveaux moyens aériens légers",
+      "id": "Theme_c21111f3e7f2fe2a36af9ea8e962754d7dcecab22cc46d85840864a6568d227b"
+    },
+    {
+      "type": "Theme",
+      "name": "police aux frontières",
+      "id": "Theme_a2ca05660ae2d97c2c675ef7e8ee26b4c66230955477728087b30e8c2f6e99f5"
+    },
+    {
+      "type": "Theme",
+      "name": "brigade aérienne",
+      "id": "Theme_7add71356664bbdb6308648f6c2e9f2036a193785d8ba9102ce876949016e04c"
+    },
+    {
+      "type": "Theme",
+      "name": "trafic d'êtres humains",
+      "id": "Theme_b0ca57f17ed1051e98335a4cf33b354858feac8443969d28b88f04f56aa21b5d"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération renforcée",
+      "id": "Theme_291c10993e25926f8e5b74f9db56296e80059387a3e09f5a5ed195d66aaaaaf3"
+    },
+    {
+      "type": "Theme",
+      "name": "services des douanes",
+      "id": "Theme_f30d5817b83996b2cbed1c7bfff72bcc768963896c81aaac5e15fbf42b7f7a7b"
+    },
+    {
+      "type": "Theme",
+      "name": "services sanitaires",
+      "id": "Theme_cfe92c015769b2f1d66885dc414a4f9f881afe73a7340714659a6d8a42ea72ce"
+    },
+    {
+      "type": "Organization",
+      "name": "préfet",
+      "id": "Organization_4c7322a03d6a97bd6ea7156c5e22375cfac81c92f5e437ef451d5ccfc0a3ca42"
+    },
+    {
+      "type": "Organization",
+      "name": "préfecture",
+      "id": "Organization_6fc0bfb49609b4c1c5cb699c6e1328e2eaf2ab8e32a6da3c0209e3e12bb6199d"
+    },
+    {
+      "type": "Organization",
+      "name": "service des étrangers",
+      "id": "Organization_9f91ddf53777ee59a34d6a8e0ca0cf8d203923a6b4b0e6474df0645791289366"
+    },
+    {
+      "type": "Organization",
+      "name": "Yvelines",
+      "id": "Organization_32e55764c941920dd35cf34d545c8fec08cfb50990f3416bf622be2259a84823"
+    },
+    {
+      "type": "Law",
+      "name": "loi asile immigration",
+      "id": "Law_c0e71c66116a3472fb62eccf111aae0714e2509004f49db8df4772fa8649a5d6"
+    },
+    {
+      "type": "Theme",
+      "name": "Allocation pour demandeur d'asile",
+      "id": "Theme_5b5048bcd5a852bdd4a03dbed1615944531fcc7b1aa73db3a064db9671a24f5e"
+    },
+    {
+      "type": "Theme",
+      "name": "salaire moyen",
+      "id": "Theme_4e7c2eac58b8b5a2032d0e61aa3d9d5871107382cf5b5645f35fe39d0639276f"
+    },
+    {
+      "type": "Theme",
+      "name": "délais",
+      "id": "Theme_16f4076b409a2abf40afffc019d06321a29e67e8fac7aa63904644ef839f69f0"
+    },
+    {
+      "type": "Theme",
+      "name": "délais de recours",
+      "id": "Theme_ad294261df5248a3f07e202cd40382bf9a7290fa041bb1f1972515ac1069d9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "Allocation pour demandeurs d'asile",
+      "id": "Theme_9d9a3c383cf2a3c45f0740acac54524e25c1335a29e88ce6404770e748b06ee0"
+    },
+    {
+      "type": "Country",
+      "name": "Mayotte",
+      "id": "Country_ad754e5b773bfdd18e543edc4bb8096ec2beb96f290dfe7dceb336826527bbd2"
+    },
+    {
+      "type": "Theme",
+      "name": "accès à certaines prestations sociales",
+      "id": "Theme_979ebae1cb0c53e05344be4c1702f3b050c529f7cfde4946dbb3942aec9a28c5"
+    },
+    {
+      "type": "Theme",
+      "name": "RSA",
+      "id": "Theme_99c124060d91e2bbea881c4262b62dea5fa96b23b27cea0e8c0255dd9e318d15"
+    },
+    {
+      "type": "Theme",
+      "name": "statut international des lieux de naissance",
+      "id": "Theme_e444ffcfb03e20d65b0f4fea7489e8806bfae6162e9c6c9b1894cc1cd055086a"
+    },
+    {
+      "type": "Theme",
+      "name": "accès à notre système de santé",
+      "id": "Theme_8ee109c379b562c599af88383f3cf8f6201f8e619c40f263639868e0ae88495b"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre l'immigration irrégulière",
+      "id": "Theme_ac679d46ec26b19cc71c3abe28bd51c282facfebafa5c3bcd3673cff516075be"
+    },
+    {
+      "type": "Theme",
+      "name": "reconnaissances de paternité de complaisance",
+      "id": "Theme_d34f16f992f8741e177075a251ec61852d1df522d719ff0442091142ac0f5fa1"
+    },
+    {
+      "type": "Law",
+      "name": "futur projet de loi relatif à l'asile et l'immigration",
+      "id": "Law_3bdc1d80c6cfe22e5609e3d84457ba5cfa06bbf3d193eb9e41d53e4634ad33fd"
+    },
+    {
+      "type": "Law",
+      "name": "projet de loi asile immigration",
+      "id": "Law_b5f74f85ed907c9c855b4829625505092d86664f34529b0dc53e37b6e724ef61"
+    },
+    {
+      "type": "Law",
+      "name": "circulaire du 16 octobre 2017",
+      "id": "Law_0a987060f8ba6562f28a28e163ba957b9a9a4c892e4f752df6ff436ca638be9b"
+    },
+    {
+      "type": "Country",
+      "name": "la République",
+      "id": "Country_8ece1ca643efc6be6485040a8d42357a81f22c38694d9ca8a56d37a688baf2b0"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "le président JUNCKER",
+      "relation": "VISITED",
+      "target": "Kourou",
+      "evidence": "nous allons partir dans quelques instants au Centre spatial à Kourou avec le président JUNCKER",
+      "confidence": 1.0,
+      "source_id": "Person_1e4491c1f83123ee5e557f42783287d1b596c099eb06170b94a4b157dc477958",
+      "target_id": "City_21161d842497288ff66b9d6c76b94d753f7fed7767c22aba35d24543195b701d"
+    },
+    {
+      "source": "Secrétaire d'Etat",
+      "relation": "MEMBER_OF",
+      "target": "ministre d'Etat",
+      "evidence": "Le secrétaire d'Etat auprès du ministre d'Etat était hier en particulier auprès de certains acteurs de la filière",
+      "confidence": 1.0,
+      "source_id": "Organization_0a422eda600058e03642ed8ddbbeeef00a57afbe37b078cc1c814f51a7af9c90",
+      "target_id": "Organization_5c124c4b43ca2291116a782b13d293b467f246098cc9cdb58571a427b1256713"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "hydrocarbures",
+      "evidence": "Pour ce qui est des hydrocarbures, la France s'est engagée à ne plus délivrer de nouveaux permis de prospection d'hydrocarbures dans l'accord de Paris.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_033d71111a76d5682275696049a31fe0628e021efb7a83ade412d3d2701288ee"
+    },
+    {
+      "source": "Guyane",
+      "relation": "SPOKE_ABOUT",
+      "target": "défis",
+      "evidence": "les défis sont immenses, puisque la population a plus que doublé en 20 ans ; et aujourd'hui les moins de 20 ans représentent 42 % de la population en Guyane, contre à peu près 24 % dans l'Hexagone",
+      "confidence": 1.0,
+      "source_id": "City_214e958a910168a0c70fe7c025f359f9d6fa07e07914ddb157b36fd05d706ed1",
+      "target_id": "Theme_5a6aef98f24c26e747d7ee3628cc4cefe7a02e552336681ab6dcd972be5b12a5"
+    },
+    {
+      "source": "État",
+      "relation": "SUPPORTS",
+      "target": "collectivité territoriale de Guyane",
+      "evidence": "l'Etat finance une dotation exceptionnelle supplémentaire à la collectivité territoriale de Guyane de 250 millions d'euros sur 5 ans",
+      "confidence": 1.0,
+      "source_id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612",
+      "target_id": "Organization_5f9619b107f8d288aceb45127d61a26f509751019104c39726e4fc6485e0ba1a"
+    },
+    {
+      "source": "Guyane",
+      "relation": "LOCATED_IN",
+      "target": "Guyane",
+      "evidence": "la Guyane",
+      "confidence": 1.0,
+      "source_id": "City_214e958a910168a0c70fe7c025f359f9d6fa07e07914ddb157b36fd05d706ed1",
+      "target_id": "City_214e958a910168a0c70fe7c025f359f9d6fa07e07914ddb157b36fd05d706ed1"
+    },
+    {
+      "source": "Surinam",
+      "relation": "ALLIED_WITH",
+      "target": "Brésil",
+      "evidence": "Il y a aujourd'hui une attractivité hospitalière ou médicale du territoire français par rapport au Suriname et au Brésil en particulier, mais aussi Haïti",
+      "confidence": 1.0,
+      "source_id": "Country_d474da92f263f8b832485b040e81f0077dc81fa858e71a14681dc7b2321fd9fa",
+      "target_id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae"
+    },
+    {
+      "source": "Suriname",
+      "relation": "LOCATED_IN",
+      "target": "Brésil",
+      "evidence": "investir au Suriname, au Brésil",
+      "confidence": 1.0,
+      "source_id": "Country_d37738d2813378d76f4c4b37fda3f9052ae49cb064593d9bb3ebabe5fcbc7066",
+      "target_id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae"
+    },
+    {
+      "source": "Suriname",
+      "relation": "VISITED",
+      "target": "Brésil",
+      "evidence": "investir au Suriname, au Brésil",
+      "confidence": 1.0,
+      "source_id": "Country_d37738d2813378d76f4c4b37fda3f9052ae49cb064593d9bb3ebabe5fcbc7066",
+      "target_id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae"
+    },
+    {
+      "source": "CNES",
+      "relation": "LOCATED_IN",
+      "target": "Kourou",
+      "evidence": "A Kourou, je lancerai l'élaboration d'un nouveau plan Phèdre, pour faire profiter davantage encore la Guyane de la présence du CNES au-delà des 17 % du PIB, des 1.700 emplois directs et des 7.000 emplois indirects qui sont déjà liés à la base spatiale.",
+      "confidence": 1.0,
+      "source_id": "Organization_9cac143218443645cc33132f43bf3a030f9b428a1f2d8be5768d3563ede6e5b8",
+      "target_id": "City_21161d842497288ff66b9d6c76b94d753f7fed7767c22aba35d24543195b701d"
+    },
+    {
+      "source": "services de l'Etat en Guyane",
+      "relation": "LOCATED_IN",
+      "target": "Guyane",
+      "evidence": "C'est ensuite un changement profond de l'organisation des services de l'Etat en Guyane, face à la collectivité territoriale de Guyane",
+      "confidence": 1.0,
+      "source_id": "Organization_ba3362518c9abe6643e1377835f3256a69eb2745165fc8dbc78b6ecc4e1e3b5c",
+      "target_id": "City_214e958a910168a0c70fe7c025f359f9d6fa07e07914ddb157b36fd05d706ed1"
+    },
+    {
+      "source": "collectivité territoriale de Guyane",
+      "relation": "ALLIED_WITH",
+      "target": "services de l'Etat en Guyane",
+      "evidence": "C'est ensuite un changement profond de l'organisation des services de l'Etat en Guyane, face à la collectivité territoriale de Guyane",
+      "confidence": 1.0,
+      "source_id": "Organization_5f9619b107f8d288aceb45127d61a26f509751019104c39726e4fc6485e0ba1a",
+      "target_id": "Organization_ba3362518c9abe6643e1377835f3256a69eb2745165fc8dbc78b6ecc4e1e3b5c"
+    },
+    {
+      "source": "services de l'Etat",
+      "relation": "LOCATED_IN",
+      "target": "Guyane",
+      "evidence": "la forte mobilisation des services de l'Etat, des forces armées en Guyane et la gendarmerie nationale, des douanes mais aussi des autres services de l'Etat et du parc s'illustre par le volume de saisies.",
+      "confidence": 1.0,
+      "source_id": "Organization_0e4c3b002b7e0b947f150ac5ade5255303027617ed7e319cef90365be1d32acb",
+      "target_id": "City_214e958a910168a0c70fe7c025f359f9d6fa07e07914ddb157b36fd05d706ed1"
+    },
+    {
+      "source": "préfecture",
+      "relation": "SUPPORTS",
+      "target": "Yvelines",
+      "evidence": "La préfecture a enregistré en 2015 plus de 81.000 passages au guichet du service des étrangers, 20.000 demandes de renouvellement de titre de séjour, 3.500 premières attributions de carte de séjour, c'est plus que le département des Yvelines.",
+      "confidence": 1.0,
+      "source_id": "Organization_6fc0bfb49609b4c1c5cb699c6e1328e2eaf2ab8e32a6da3c0209e3e12bb6199d",
+      "target_id": "Organization_32e55764c941920dd35cf34d545c8fec08cfb50990f3416bf622be2259a84823"
+    },
+    {
+      "source": "République",
+      "relation": "LOCATED_IN",
+      "target": "Guyane",
+      "evidence": "sur l'intégralité du sol de la République. Mais pour le préserver ici en Guyane",
+      "confidence": 1.0,
+      "source_id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad",
+      "target_id": "City_214e958a910168a0c70fe7c025f359f9d6fa07e07914ddb157b36fd05d706ed1"
+    },
+    {
+      "source": "RSA",
+      "relation": "SPOKE_ABOUT",
+      "target": "RSA",
+      "evidence": "la délivrance du RSA sera aujourd'hui une délivrance non financière",
+      "confidence": 1.0,
+      "source_id": "Theme_99c124060d91e2bbea881c4262b62dea5fa96b23b27cea0e8c0255dd9e318d15",
+      "target_id": "Theme_99c124060d91e2bbea881c4262b62dea5fa96b23b27cea0e8c0255dd9e318d15"
+    }
+  ]
+}

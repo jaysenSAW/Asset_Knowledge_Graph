@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Country",
+      "name": "votre pays",
+      "id": "Country_06dc06b265c95053586e76dcb9e0e30ac7604207c3bc9aa5047a890c506106d1"
+    },
+    {
+      "type": "Country",
+      "name": "la République",
+      "id": "Country_8ece1ca643efc6be6485040a8d42357a81f22c38694d9ca8a56d37a688baf2b0"
+    },
+    {
+      "type": "Country",
+      "name": "Bulgarie",
+      "id": "Country_92f4a9de31288a5a45f1f28b278d37433e266b282751018452c68f08ef526f16"
+    },
+    {
+      "type": "Country",
+      "name": "Bulgare",
+      "id": "Country_4fad8b60bf5f9d27abe90cd4fd83aeb3550347dbf24f3fc3e3ba673ec023b708"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Theme",
+      "name": "révision de la directive travailleurs détachés",
+      "id": "Theme_ac5b8367bcdf41157b2856754319f1136fc0e88b8a56ae15e556cc4ccd2b66de"
+    },
+    {
+      "type": "Theme",
+      "name": "dumping social",
+      "id": "Theme_f1cdd3ca26e241c0d76c0a908347cd3326fcccd754bdf219e2bbf7ef5fe1d42a"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence sociale et fiscale",
+      "id": "Theme_114781a3fd858bd300ca5fb5a977c713f18574443fa482564520ba72d110be0c"
+    },
+    {
+      "type": "Theme",
+      "name": "standards de qualité de vie",
+      "id": "Theme_f57f564c9bb860551886a9c9f01fd4b1f631a4afa80b576ad509a54372adee3d"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations",
+      "id": "Theme_cac93d346afb10556cd477074f8fd5e7de6a6b6e234704cdc92ccd1aae71876c"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôles",
+      "id": "Theme_64043a3024d453b0d075acae2d790b2b8c5bbf83a239e7a0512368a98a588527"
+    },
+    {
+      "type": "Theme",
+      "name": "réglementation européenne",
+      "id": "Theme_64a4a46d7f4031b5caba92b7cbd96a898f5a913d17e2d485c6ce4dfca3192d84"
+    },
+    {
+      "type": "Theme",
+      "name": "protection extérieure des frontières",
+      "id": "Theme_9f8744dad0dd7c64b512ea1dabb7aebed0ad41fe47d7e9df035545c0937d4b14"
+    },
+    {
+      "type": "Theme",
+      "name": "défi migratoire",
+      "id": "Theme_df55d202ff4ca3ccc56f0a0e679f3bf4764dadff9b9c1f4804f8c8194ecbf44d"
+    },
+    {
+      "type": "City",
+      "name": "Schengen",
+      "id": "City_718c9f05c64f460c054c5851382a1694a343cf75fcd7be6aa058212e8f8ee24c"
+    },
+    {
+      "type": "Country",
+      "name": "Balkans occidentaux",
+      "id": "Country_3312664190f53ae194c056f4d8b70cad1750c96de278aff51862dceeb579d7fc"
+    },
+    {
+      "type": "City",
+      "name": "Crimée",
+      "id": "City_dac87d04b076cdb964c0439950924c7c76bfc0f48e233e8cd7119baf0a98d741"
+    },
+    {
+      "type": "City",
+      "name": "Turquie",
+      "id": "City_96c9497ea4ed6f41cdfe6635b9c1de67c12487b87613ec0a5254b373ff178f22"
+    },
+    {
+      "type": "Person",
+      "name": "RADEV",
+      "id": "Person_daf904804f9aeee31421260ddba0bf18a43dcf311552bb71b9c7717cfd73c4e7"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "la République",
+      "relation": "VISITED",
+      "target": "votre pays",
+      "evidence": "cela fait aujourd'hui 10 ans qu'un Président de la République n'était pas venu dans votre pays",
+      "confidence": 1.0,
+      "source_id": "Country_8ece1ca643efc6be6485040a8d42357a81f22c38694d9ca8a56d37a688baf2b0",
+      "target_id": "Country_06dc06b265c95053586e76dcb9e0e30ac7604207c3bc9aa5047a890c506106d1"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SUPPORTS",
+      "target": "Balkans occidentaux",
+      "evidence": "je souhaite que notre Union européenne, comme une communauté de valeurs et d'intérêts, puisse ancrer les Balkans occidentaux dans ce qu'elle est aujourd'hui.",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "Country_3312664190f53ae194c056f4d8b70cad1750c96de278aff51862dceeb579d7fc"
+    },
+    {
+      "source": "votre pays",
+      "relation": "LOCATED_IN",
+      "target": "votre pays",
+      "evidence": "dans votre pays",
+      "confidence": 1.0,
+      "source_id": "Country_06dc06b265c95053586e76dcb9e0e30ac7604207c3bc9aa5047a890c506106d1",
+      "target_id": "Country_06dc06b265c95053586e76dcb9e0e30ac7604207c3bc9aa5047a890c506106d1"
+    }
+  ]
+}

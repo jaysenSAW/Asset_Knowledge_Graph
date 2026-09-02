@@ -1,0 +1,401 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Laura",
+      "id": "Person_004a84b290dfd4b25ddccaded7fb860ceeacd5de9f65805731bd2628b69dd981"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "CIO",
+      "id": "Organization_7a70abf4f2b73b00be73027c7a4cc4ed585a00ced5fc2f0f28adc6bef57dfc41"
+    },
+    {
+      "type": "Person",
+      "name": "François HOLLANDE",
+      "id": "Person_2c9e09179c21899d7e3c93e300ca8a504da99ff5bbeb4149aa2c13ca2cfe6917"
+    },
+    {
+      "type": "Person",
+      "name": "Nicolas SARKOZY",
+      "id": "Person_2cc0890d53d00df41342ecdfe549156f7ec8193b9b942eb2e2ac3f6e3fed29ce"
+    },
+    {
+      "type": "Person",
+      "name": "Anne HIDALGO",
+      "id": "Person_d90d6d812b96ed37d3b13e7f30e1b22047c720be871d75886f8befceace3fbfb"
+    },
+    {
+      "type": "Person",
+      "name": "Valérie PECRESSE",
+      "id": "Person_d751b6895f5925c9505aa09fccb29156e2b72c2233801533e7b4a8f61adb5fee"
+    },
+    {
+      "type": "Person",
+      "name": "Bertrand DELANOË",
+      "id": "Person_448e6df9b60a5c6ba22f17b99b9d11c3d459603266ea766f6e28c90ed44b251d"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Paul HUCHON",
+      "id": "Person_22d5c53bf74f28dbd9af4f1f3be94731a9c9d644a6b18fb6021fe4e7b6a34d49"
+    },
+    {
+      "type": "City",
+      "name": "Lausanne",
+      "id": "City_c1bf620c4988cb52fe508fc5ed163e90cc9946ca58c74a6e2a3d6412da15fd94"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "partenaires publics",
+      "id": "Theme_63e250ea6c9cb3c6f8becf197184a82a37cb610ea700b6fc2b7d3c3ff3cf0988"
+    },
+    {
+      "type": "Theme",
+      "name": "partenaires privés",
+      "id": "Theme_873778578ca1632c1dcd2fc5eb04d4706f0bb0c6ef701fd33a93d0ccb5ea5987"
+    },
+    {
+      "type": "Person",
+      "name": "Teddy RINER",
+      "id": "Person_3cdc55878d52a61c61c4d59a9a75fe118d5277c4139e2804ebbf882a7ca25988"
+    },
+    {
+      "type": "Person",
+      "name": "Marie-José PEREC",
+      "id": "Person_716572221a1a9cef140a14a094d0d7531d3c893f0c939417559f921d74dd695e"
+    },
+    {
+      "type": "Person",
+      "name": "Sarah OURAHMOUNE",
+      "id": "Person_5c072d79c062843987a4111880eae1ff89a74f8906edf3be211634c0b0b885de"
+    },
+    {
+      "type": "Person",
+      "name": "Denis MASSEGLIA",
+      "id": "Person_e7b7a86c32ef6e7022a3a4bc613efb464c67dd4a31af712be76f1e95e717962f"
+    },
+    {
+      "type": "Person",
+      "name": "Guy DRUT",
+      "id": "Person_0a366ea06c35347f3e78acd30622a8c436c661602dd1fd2ca021f6a58d111218"
+    },
+    {
+      "type": "Person",
+      "name": "KILLY",
+      "id": "Person_8f6817e0d01d72f950d38145239e7b2fb4f7ac062e37c0ebe8279ad4ad1bf7f5"
+    },
+    {
+      "type": "Person",
+      "name": "Michel BARNIER",
+      "id": "Person_6a04ceb187264fb3e394a2093779ba135fd7a574bf1489892666c3bcc42b5af6"
+    },
+    {
+      "type": "Person",
+      "name": "Tony ESTANGUET",
+      "id": "Person_8feedc418b08590c7e74449c0d10eedcf6498da036bfbb468cfea9d39e88e675"
+    },
+    {
+      "type": "Person",
+      "name": "Bernard LAPASSET",
+      "id": "Person_c125175f0d991d1251494c169650d2bcd799ee7c56a077d447bb538647be1d11"
+    },
+    {
+      "type": "Theme",
+      "name": "gout de la conquête",
+      "id": "Theme_6601aaa8d230608dcbe604b816cd8490d159d27c3985e7f18b43c0bc195e67cc"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "réussite",
+      "id": "Theme_f611a7e483b521eecc7d8aaf5dc6a04624e08cdcf2e5a4b34cfb1c8b13003035"
+    },
+    {
+      "type": "Theme",
+      "name": "image de la France",
+      "id": "Theme_836d870c22e9cdab610e96b6a1f6469ed1c80263760b971d827582f109fe84e8"
+    },
+    {
+      "type": "Organization",
+      "name": "mouvement sportif",
+      "id": "Organization_a9940e847ace72c75d917bfc10f300bdad6d81a3de689f954922744c11938475"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux de 2024",
+      "id": "Event_85b68f261409686588d39597cf23e1f900f08965b32d5eb73255eaa12a2bc2cc"
+    },
+    {
+      "type": "Theme",
+      "name": "utilité sociale et économique",
+      "id": "Theme_575df8ecfa90d2a8affb91158efb267dc91d61da53fa0ad6d5e32f7ff2d02949"
+    },
+    {
+      "type": "Theme",
+      "name": "force",
+      "id": "Theme_692ec114325b782d4c086becfab4bd9bf5c9449c59ddd4c7e36828f9035301a5"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation profonde du pays",
+      "id": "Theme_c835afa8557ec35e93838acea19e12df049e50c6dcc3784fce8e52376abdb3d5"
+    },
+    {
+      "type": "Theme",
+      "name": "regard de ses amis, de son employeur",
+      "id": "Theme_c095db0223c8fa12d597fda31a27e0813d60a3ccb2eabc95044889c646ccbe22"
+    },
+    {
+      "type": "Theme",
+      "name": "place que le sport a à l'école",
+      "id": "Theme_41855a3499d8e823228bcdb80af5496fd32084477568dcfafa5988ce3fb7d6b8"
+    },
+    {
+      "type": "Theme",
+      "name": "émancipation collective",
+      "id": "Theme_61a348adcf4cdb7b00e296e355eed1be2b208db2cce53606852fdf7ecfd7deee"
+    },
+    {
+      "type": "Theme",
+      "name": "projet éducatif",
+      "id": "Theme_48efc9a0a0895d7a137eb9c836b2cc8be939fd31f89614c2f94edaea352ba46b"
+    },
+    {
+      "type": "City",
+      "name": "Seine-Saint-Denis",
+      "id": "City_233e3fc86b8f043950204615411942c8588180dc642497379d45e4cfe79480da"
+    },
+    {
+      "type": "City",
+      "name": "Monsieur le ministre",
+      "id": "City_ac4b6dbc828067bc359dfe662dfb32d1f56eb320408e94fa10c1ae60c413a365"
+    },
+    {
+      "type": "City",
+      "name": "Madame la présidente de région",
+      "id": "City_35d9958a15a77ba7ac1aa53ccc9d7725fe842f37c4dc3c0fde65a37c4a7109ea"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "réussite académique",
+      "id": "Theme_4655cf54abba2320ee670aaf82b48e5a055eb1c0e2581321bf9e1924c38baed3"
+    },
+    {
+      "type": "Theme",
+      "name": "entrepreneuriale",
+      "id": "Theme_3c458d027d14b0f436ef49bd66ef9546dedf34daf852ebf114714aa4bbf145e8"
+    },
+    {
+      "type": "Theme",
+      "name": "difficultés",
+      "id": "Theme_226532f438cde63f47e643da8611130719f5ea2c4e92e7b9231e918ca90b560d"
+    },
+    {
+      "type": "Theme",
+      "name": "Silicon Valley",
+      "id": "Theme_29b59e252695bed236aeda05884177922ee9dd1d315bb71f66de08653a4b7b9d"
+    },
+    {
+      "type": "Person",
+      "name": "Tony",
+      "id": "Person_abb17e8a233c19829e20c248982bc3f217d86b27f23e9fb8264f803c152f6c78"
+    },
+    {
+      "type": "Person",
+      "name": "Jean CASTEX",
+      "id": "Person_cddec1ff1a0921139c822cebc3e0c9b0d0624d1a1641c9abfeb8daaafb8d1bf6"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Etat",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "Laura FLESSEL",
+      "id": "Person_373f3ddcae6dfa47e354d425bb95c6b974092c2a825c186359302a1182723e1d"
+    },
+    {
+      "type": "Theme",
+      "name": "nation sportive",
+      "id": "Theme_d66e580ea59a8aec0e25f7074df462cf36a68b38271ed9a5ee6f9f4f7230e275"
+    },
+    {
+      "type": "Theme",
+      "name": "émancipation",
+      "id": "Theme_f065c4ae0b5f92b698169ed43af465c75aa8cc1a41199ad1c664e2181d37ea78"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie",
+      "id": "Theme_fa010b2e87d32c400a0a52b10fe00d186b07d80baf9792842d534698bb9241c6"
+    },
+    {
+      "type": "Theme",
+      "name": "société",
+      "id": "Theme_23d952489b07041be7b06f706f86ec7cfc55af055e1b2e2f815671e6fa2ef5ed"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Organization",
+      "name": "fédérations",
+      "id": "Organization_97bb9ade1ce1558c04a677c01ce2f22e624e0ec167e7675f00300ea77e10a955"
+    },
+    {
+      "type": "Organization",
+      "name": "modèle sportif français",
+      "id": "Organization_f36c78cd6e72c0453aa270ff01e31ad8fbebb98b4a11275b02b92ec3f693d871"
+    },
+    {
+      "type": "Person",
+      "name": "MASSEGLIA",
+      "id": "Person_ceb1fe55cea168731eab115ddf7f653d016a5240d11eaba26c864b6588a74897"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la maire",
+      "id": "Person_d224be173cc10556591c926f44719d476f34af68af59ff9ac8972c48b0f4befa"
+    },
+    {
+      "type": "Person",
+      "name": "Teddy",
+      "id": "Person_4fe5b7f590ba1f67852fcea85f202b7e8d1b7c0f0feb462ac237284ca13f3f3b"
+    },
+    {
+      "type": "City",
+      "name": "Sarcelles",
+      "id": "City_e4875b8137153573c6b58fcebd5bc60ca9e05d9b7f06cb85a816f1f3c72853cd"
+    },
+    {
+      "type": "Organization",
+      "name": "Sport dans la ville",
+      "id": "Organization_f73401459bea8f9c44ca32e4683c19d208f8c5095ba70f075db90e3752fa0f08"
+    },
+    {
+      "type": "Organization",
+      "name": "CREPS d'Île-de-France",
+      "id": "Organization_a8b3658c1f996c340323bc0a7f23a259a92ec8cf7ebffd9038c0c59497b3bfdb"
+    },
+    {
+      "type": "Organization",
+      "name": "INSEP",
+      "id": "Organization_9944ca4dc5615485d34fbcdd514915fdb5d84d1220c58495818d0250d93bb090"
+    },
+    {
+      "type": "Theme",
+      "name": "Jeux de 2024",
+      "id": "Theme_3192c2f9fa5349fb799d2c8f2ff62973d7cc272fb27067837efd6b504252aa70"
+    },
+    {
+      "type": "Theme",
+      "name": "olympisme",
+      "id": "Theme_50799ff01f80594319a23f43fd7117d4df6e9d4180828f1fda41510cd135dd98"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Paris",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la France, Paris, puisse décrocher ces Jeux",
+      "confidence": 1.0,
+      "source_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Anne HIDALGO",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "c'est aussi vous, Madame le maire de Paris, chère Anne HIDALGO, qui avez décidé d'engager Paris comme ville hôte",
+      "confidence": 1.0,
+      "source_id": "Person_d90d6d812b96ed37d3b13e7f30e1b22047c720be871d75886f8befceace3fbfb",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "l'Etat",
+      "relation": "LOCATED_IN",
+      "target": "l'Etat",
+      "evidence": "C'est pourquoi dès hier, nous avons nommé un délégué interministériel aux Jeux Olympiques et paralympiques, Jean CASTEX, qui coordonnera l'ensemble des services de l'Etat",
+      "confidence": 1.0,
+      "source_id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d",
+      "target_id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "source": "Jean CASTEX",
+      "relation": "MEMBER_OF",
+      "target": "l'Etat",
+      "evidence": "C'est pourquoi dès hier, nous avons nommé un délégué interministériel aux Jeux Olympiques et paralympiques, Jean CASTEX, qui coordonnera l'ensemble des services de l'Etat",
+      "confidence": 1.0,
+      "source_id": "Person_cddec1ff1a0921139c822cebc3e0c9b0d0624d1a1641c9abfeb8daaafb8d1bf6",
+      "target_id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "source": "l'Etat",
+      "relation": "SUPPORTS",
+      "target": "Jean CASTEX",
+      "evidence": "C'est pourquoi dès hier, nous avons nommé un délégué interministériel aux Jeux Olympiques et paralympiques, Jean CASTEX, qui coordonnera l'ensemble des services de l'Etat",
+      "confidence": 1.0,
+      "source_id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d",
+      "target_id": "Person_cddec1ff1a0921139c822cebc3e0c9b0d0624d1a1641c9abfeb8daaafb8d1bf6"
+    }
+  ]
+}

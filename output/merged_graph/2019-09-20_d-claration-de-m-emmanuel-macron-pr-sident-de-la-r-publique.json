@@ -1,0 +1,104 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Saad HARIRI",
+      "id": "Person_24c1ec4ae09277421fe17880817d0bf8c3f130f761f308cb60d710446d41eb9b"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "M. Saad HARIRI",
+      "id": "Person_98fe97dde6497d819383f4af23a193a1abb0bc7a33b3ecc343c640f471883b01"
+    },
+    {
+      "type": "Person",
+      "name": "M. le Président",
+      "id": "Person_7862f76c81da2366b333dc6cbcaf512a9ae591d32b1f30adb3e6fac3a787bd2a"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des Ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Organization",
+      "name": "FINUL",
+      "id": "Organization_52f8389fa50c917e886bd4d4ac9e1c84c07b747f81ac5e5ec4fd18efd1332deb"
+    },
+    {
+      "type": "Event",
+      "name": "Conférence CEDRE",
+      "id": "Event_c8375b95edce003f793b703897152db9f445be0e758e2304bc14fe80eaac08c8"
+    },
+    {
+      "type": "Event",
+      "name": "Conférence CEDRE à Paris en avril 2018",
+      "id": "Event_b9906d610aadd16254d96af7363e6eaf7f163ae8ce89e987dd58adc88d6143cc"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes ambitieuses",
+      "id": "Theme_9c281d3782ade310ab17ecedc908d47daedc46e449bf40c7bca1105708483557"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Liban",
+      "evidence": "La France est l'ami du Liban vous le savez.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "FINUL",
+      "evidence": "la France restera engagée pour la sécurité et la stabilité du Liban au sein de la FINUL",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_52f8389fa50c917e886bd4d4ac9e1c84c07b747f81ac5e5ec4fd18efd1332deb"
+    }
+  ]
+}

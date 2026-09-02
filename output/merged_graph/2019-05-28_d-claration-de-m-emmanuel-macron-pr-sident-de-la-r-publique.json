@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "TUSK",
+      "id": "Person_696b755e679c115c9f6fe644e17e8c4d0cb16d23fcedb9f3198454427354202f"
+    },
+    {
+      "type": "Person",
+      "name": "MERKEL",
+      "id": "Person_11ad4e67ef3a2e4b330ebc39970509630c2fce5702d04790e6328b02bf6b451d"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre de Finlande",
+      "id": "Person_a673c0bee050acb7729a952e183298e4c3a2a63454022e9785c1b5bb0f5a965a"
+    },
+    {
+      "type": "Person",
+      "name": "Theresa MAY",
+      "id": "Person_f9d077e1f6a9535d00181f420d1d3be0682f9147ffff792fa0063438a36eb744"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "Conseil",
+      "id": "Person_70a6c2bf561f0f4de4be8a66a67c03d5476e4058c1fea6e0680165138dfb7a3b"
+    },
+    {
+      "type": "Theme",
+      "name": "vote des citoyens européens",
+      "id": "Theme_a58421656c440dfd8e8ade788814141a7a224c932059ad4655cc143dd14d21e4"
+    },
+    {
+      "type": "Theme",
+      "name": "sujet climatique",
+      "id": "Theme_4365a5d33dff5b4a2eff3fb2dafde7eabd1675cb0e4a88885c8108bbf74f4bda"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Person",
+      "name": "Donald TUSK",
+      "id": "Person_c8435a5cdcea4099d6c924ba132ea5ba2e75da5b0b552e240905ebd720e370b6"
+    },
+    {
+      "type": "Theme",
+      "name": "euro",
+      "id": "Theme_709528d8ce93bba87ada5be2754665013742700bb20381da4551b98a54e333b5"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement européen",
+      "id": "Organization_35045d56b46d30c02ed3c266f7b7e936d04046cd769a6b336980fa0f45af5ecb"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Donald TUSK",
+      "relation": "PROPOSED",
+      "target": "Parlement européen",
+      "evidence": "Donald TUSK va mener les consultations entre les différents chefs d'État et de Gouvernement, et avec le Parlement européen pour nous faire des propositions",
+      "confidence": 1.0,
+      "source_id": "Person_c8435a5cdcea4099d6c924ba132ea5ba2e75da5b0b552e240905ebd720e370b6",
+      "target_id": "Organization_35045d56b46d30c02ed3c266f7b7e936d04046cd769a6b336980fa0f45af5ecb"
+    }
+  ]
+}

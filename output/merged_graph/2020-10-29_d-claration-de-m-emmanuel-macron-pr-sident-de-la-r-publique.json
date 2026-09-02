@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "secrétaires d'État",
+      "id": "Person_5796469a1008de243871637159be351576614777885dbe8359021422d7df5a40"
+    },
+    {
+      "type": "Person",
+      "name": "ministre de l'Intérieur",
+      "id": "Person_0d5830ce010b09a893018977c517ee33baca96610b7d2f80003b744b76230d9b"
+    },
+    {
+      "type": "Person",
+      "name": "garde des Sceaux",
+      "id": "Person_3372b7ef2212ea003b8e2b58610e1f176ab48b303883cd75c0aa27d579036cd6"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Djeddah",
+      "id": "City_d08e568bb36d55bed32d26c58d874b1914a433444550e6c2691f3e9721b3b3dc"
+    },
+    {
+      "type": "Person",
+      "name": "père HAMEL",
+      "id": "Person_545971773f2fb797de833de049c3c0caffe42e059a116577cfbaff2a10f98b6b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "c'est la France qui est attaquée",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

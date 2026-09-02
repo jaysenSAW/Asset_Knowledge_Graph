@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Mahmoud ABBAS",
+      "id": "Person_fc08fe098c11a7c1e7297888ced97715fb660bd10cc46ce52e3ceb8295ea7c08"
+    },
+    {
+      "type": "Country",
+      "name": "Israel",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Palestine",
+      "id": "Country_b1ebd722dd8ffa39d4f6ceb5282cae944d16f26dce1689b04cbaf84077610527"
+    },
+    {
+      "type": "City",
+      "name": "Bethléem",
+      "id": "City_2fe404dcaefd1b5ba48e2ed82f5a6c61bc8f2e479969eb3dd90d5a66821ccd22"
+    },
+    {
+      "type": "City",
+      "name": "Ramallah",
+      "id": "City_bfa73da637ad258fc8688abcc643c8400eebfcc4179acdc1e1e2c185eeeb51bb"
+    },
+    {
+      "type": "Country",
+      "name": "Palestinien",
+      "id": "Country_5d10854d50c12bc956e0c6cbf169ceaed8b012a981dbc2a274a704d105ab52f8"
+    },
+    {
+      "type": "City",
+      "name": "Cisjordanie",
+      "id": "City_a17376981a921ea3ab82c84f82a930de089c4803fa9584b37d351add80f6226d"
+    },
+    {
+      "type": "City",
+      "name": "Jérusalem-Est",
+      "id": "City_0f3232f60a6f378944ea59494bf7244edc16e24be56eb484e3b901674b9ed989"
+    },
+    {
+      "type": "City",
+      "name": "Gaza",
+      "id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "type": "Person",
+      "name": "mon prédécesseur",
+      "id": "Person_94a5311c17773026235de10abb2a0ab0cf6f91e7b985433fdee87be5061b36ff"
+    },
+    {
+      "type": "Person",
+      "name": "NETANYAHU",
+      "id": "Person_f1b17a7ced27326c4e8e948a8fc4d66009e6b5acb5a91ef6d920d7850bded3f8"
+    },
+    {
+      "type": "Person",
+      "name": "le président des Etats-Unis d'Amérique",
+      "id": "Person_af8415e18e88abf0d682137d68d6ca8277b12c67a0e8c15f7287c33daebc335b"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Israel",
+      "evidence": "et elle passe aussi par la sécurité d'Israël à laquelle la France est indéfectiblement attachée.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    }
+  ]
+}

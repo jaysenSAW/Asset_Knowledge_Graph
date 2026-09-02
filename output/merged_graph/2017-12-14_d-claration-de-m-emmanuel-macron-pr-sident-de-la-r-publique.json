@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "type": "Event",
+      "name": "Conseil",
+      "id": "Event_f382cff3437b526248e7f451298dc234d88560a2944c0fe60bcffe1202b4521f"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations",
+      "id": "Theme_cac93d346afb10556cd477074f8fd5e7de6a6b6e234704cdc92ccd1aae71876c"
+    },
+    {
+      "type": "City",
+      "name": "La Sorbonne",
+      "id": "City_4f9b6ee4d3239bf46fce8dcae626629d0a1573c59a7e3f0af396de57006a99d0"
+    },
+    {
+      "type": "City",
+      "name": "Göteborg",
+      "id": "City_ad945ac3651407d753d1ac7a287a62151310460853dd3078ff25e6cdc35d5918"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Conseil",
+      "relation": "MENTIONS",
+      "target": "défense",
+      "evidence": "C'est un Conseil européen qui permet des avancées concrètes sur la défense",
+      "confidence": 1.0,
+      "source_id": "Event_f382cff3437b526248e7f451298dc234d88560a2944c0fe60bcffe1202b4521f",
+      "target_id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "source": "Conseil",
+      "relation": "MENTIONS",
+      "target": "éducation",
+      "evidence": "C'est un Conseil qui va permettre d'acter dans ses conclusions des idées structurantes en matière d'éducation",
+      "confidence": 1.0,
+      "source_id": "Event_f382cff3437b526248e7f451298dc234d88560a2944c0fe60bcffe1202b4521f",
+      "target_id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "source": "Conseil",
+      "relation": "MENTIONS",
+      "target": "culture",
+      "evidence": "C'est un Conseil qui va permettre d'acter dans ses conclusions des idées structurantes en matière d'éducation, de culture",
+      "confidence": 1.0,
+      "source_id": "Event_f382cff3437b526248e7f451298dc234d88560a2944c0fe60bcffe1202b4521f",
+      "target_id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    }
+  ]
+}

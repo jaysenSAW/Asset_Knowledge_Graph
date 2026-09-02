@@ -1,0 +1,128 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "centre européen pour la recherche nucléaire",
+      "id": "Organization_42eb8603af2c6aded75005cad8d1c19b4a23626adc45359e76e2c32385aa2608"
+    },
+    {
+      "type": "City",
+      "name": "Bâle",
+      "id": "City_96ab311e62f1af007fd6c56f3e92555a4136559cdd16d621c49ac27de5741c38"
+    },
+    {
+      "type": "City",
+      "name": "Mulhouse",
+      "id": "City_0fe0094aebde69d58d2dec6f9908158c0dfcd12dadd8a2c2adb8d20d1393ab4a"
+    },
+    {
+      "type": "Country",
+      "name": "Suisse",
+      "id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Union",
+      "id": "Organization_c5e6111e2f8f6f0562a02b73ac74432a5ad7b8c26582b37eb43d1209716aa442"
+    },
+    {
+      "type": "City",
+      "name": "Schengen",
+      "id": "City_718c9f05c64f460c054c5851382a1694a343cf75fcd7be6aa058212e8f8ee24c"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "la présidente de la confédération suisse",
+      "id": "Person_7a650c618d48d6da05cf93c115b05640d80ab2933d9309468bcccce27a47d631"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux Olympiques de 2024",
+      "id": "Event_900b788ceee057d7dc12b8346a20b6fa2bcadd83294e2b78a712a80610f76e54"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "City",
+      "name": "Mali",
+      "id": "City_4f79c841ef037402d7aad343addb0a62403378d74d261ea1c268f43d58eca66d"
+    },
+    {
+      "type": "City",
+      "name": "Syrie",
+      "id": "City_23da89808cb9c6c5ee156135d5e5744c6a2aeb2aa141c20e4e0db6a6bd4c346c"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliance internationale pour la protection du patrimoine dans les zones de conflits",
+      "id": "Organization_441196fd97d2ceb5d33faf49cc5ec24b47dde8e39fc6f820f8b7def6059ffb94"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le réchauffement climatique",
+      "id": "Theme_87fcffeb0b095d638b1ce229a807c21b51759f54208553ace6ac1f29815655a0"
+    },
+    {
+      "type": "Theme",
+      "name": "accord de Paris",
+      "id": "Theme_152a851eb1dbb7769682151519941e34f537ce302d4e0686a44e31473c8febaf"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds vert pour le climat",
+      "id": "Organization_8530955b919c7dd5069fbebf9a105750e8adbe5ace8896deefc978c2fa442a63"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Suisse",
+      "evidence": "La France est aujourd'hui le troisième partenaire économique de la Suisse",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "source": "Suisse",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "La Suisse devrait prochainement accueillir l'Alliance internationale pour la protection du patrimoine dans les zones de conflits, que la France a promu.",
+      "confidence": 1.0,
+      "source_id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "Alliance internationale pour la protection du patrimoine dans les zones de conflits",
+      "evidence": "La Suisse devrait prochainement accueillir l'Alliance internationale pour la protection du patrimoine dans les zones de conflits, que la France a promu.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_441196fd97d2ceb5d33faf49cc5ec24b47dde8e39fc6f820f8b7def6059ffb94"
+    }
+  ]
+}

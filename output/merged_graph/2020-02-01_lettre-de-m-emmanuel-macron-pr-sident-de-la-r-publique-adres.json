@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "City",
+      "name": "Angleterre",
+      "id": "City_cd858bec7bac1ff7780ce111b2773eb06af932423d5b6017b751392063f13974"
+    },
+    {
+      "type": "City",
+      "name": "Ecosse",
+      "id": "City_5ce4b925ed8a6d3ef4c9eca4bac0ca75bd07023ed43faa69773eac1c86dd27bd"
+    },
+    {
+      "type": "City",
+      "name": "Pays de Galles",
+      "id": "City_bb71967f7dd9c71650569e303b63e3f3c0f1599585def657379cdbbffa026d3b"
+    },
+    {
+      "type": "City",
+      "name": "Irlande du Nord",
+      "id": "City_1957e48cea085140646258835a352b953c2dc6fbd5a7cde15ac4b897b4143c32"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Winston Churchill",
+      "id": "Person_0b6b75b460439f5233a7729710bde574efeefbcea0639148e525ccd7c1b15836"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "sursaut de l'Europe",
+      "id": "Theme_fda8601c573ea3ae5d62d36ab7654aab76c26ce1434283c4c7795e7eae6399ee"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle",
+      "id": "Theme_56a9d80cc5c5f0db6a7fca8c1a2a686f455c689decc2e4e4abf4b873bfde1657"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "protection",
+      "id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "type": "Theme",
+      "name": "faiblesse de l'Union européenne",
+      "id": "Theme_9eba25ee58aaa53af3db1dce6987f68741eeca39f2c6c587a6d33b1dd467ec13"
+    },
+    {
+      "type": "Theme",
+      "name": "Union européenne",
+      "id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "type": "Theme",
+      "name": "unité européenne",
+      "id": "Theme_76d2435057c8741faf2a63971172376ce43cbde48ed823182cbced321001640b"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité en Irlande",
+      "id": "Theme_6a619341f4ad9dd9bc1476c305b8af645608ed73e31c8f08936f9345f3ec845a"
+    },
+    {
+      "type": "Person",
+      "name": "General de Gaulle",
+      "id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442"
+    },
+    {
+      "type": "Person",
+      "name": "Boris Johnson",
+      "id": "Person_876723da3c04a7206ffcc1f63553489a9d7153e4561d849808772135fc523b1b"
+    },
+    {
+      "type": "City",
+      "name": "Lancaster",
+      "id": "City_19b35f21124f1dce5fe28bc503323af12fe82a2f3feb8cf970de2e1baa84b07d"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Royaume-Uni",
+      "evidence": "centaines de milliers de citoyens, Français du Royaume-Uni et Britanniques de France, qui s'interrogent sur leurs droits et leur avenir : je leur garantis que nous les protégerons.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    }
+  ]
+}

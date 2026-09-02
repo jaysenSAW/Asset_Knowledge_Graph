@@ -1,0 +1,192 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Nicos Anastasiades",
+      "id": "Person_6ff571cbbead8c7429f77849f304a85badd58ccb36c272ad3167df75e18ae3a4"
+    },
+    {
+      "type": "Country",
+      "name": "Chypre",
+      "id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "Total",
+      "id": "Organization_559564d9b17106b6bb250c645551ad905b530d212d84a924205cddb718712d8e"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement français",
+      "id": "Organization_43bfd2b4a7587ddb9f7d5ff4a1564449c7b54dc38962647911db44c84898ae44"
+    },
+    {
+      "type": "Person",
+      "name": "président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Country",
+      "name": "Turquie",
+      "id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "City",
+      "name": "Crans-Montana",
+      "id": "City_e70d39b780bfa2cec4224596fa6171ac5d1e4b8447a14dbe98e8b62eaa81d4d0"
+    },
+    {
+      "type": "Country",
+      "name": "nos pays",
+      "id": "Country_0aebaac6c0b4cedc336e01f1d7aeed319b030c3cfc41632b79be2d790a1fdc24"
+    },
+    {
+      "type": "Organization",
+      "name": "marine",
+      "id": "Organization_f7756b41b964eede3c598acba391a223c04f8e1894b360aac173f1d7d996bbdb"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère des armées",
+      "id": "Organization_d645a620364231a1d80b6851f3bcb2c4e60ff8aee32dc7d0ba19b82b7eb74b29"
+    },
+    {
+      "type": "Person",
+      "name": "Cher président",
+      "id": "Person_d365aa68201ce725d2af62728c9477ab5931bace1b08db665f0613845b96714a"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Europe",
+      "id": "Organization_6fa6f500ef51880fb674d0a54de528cbcdf4ce0a1f0ccc716cb080bb6788383c"
+    },
+    {
+      "type": "Organization",
+      "name": "le fonds européen de défense",
+      "id": "Organization_c0664c266af638d1e7a39cad718805b2e3ab4eaf715468ab974b1aac110cf643"
+    },
+    {
+      "type": "Theme",
+      "name": "la coopération structurée et permanente en matière de défense",
+      "id": "Theme_500259c1cd98bb5d3ae394dc2945faebc19619eae82303994b2d1343770dd107"
+    },
+    {
+      "type": "Theme",
+      "name": "les sujets d'intérêt commun",
+      "id": "Theme_886fd43d87603004cdec213fa8431377245b1dc5d5791fc4db2fab43ba802de2"
+    },
+    {
+      "type": "Person",
+      "name": "Nicos",
+      "id": "Person_7a763f14f0cac6ae6300700a6a6b285fff0f880e9b7ecd3447200f513f6ec2e3"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Nicos Anastasiades",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Nicos Anastasiades à Paris",
+      "confidence": 1.0,
+      "source_id": "Person_6ff571cbbead8c7429f77849f304a85badd58ccb36c272ad3167df75e18ae3a4",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "Nicos Anastasiades",
+      "relation": "LOCATED_IN",
+      "target": "Chypre",
+      "evidence": "le président de la République de Chypre, Nicos Anastasiades",
+      "confidence": 1.0,
+      "source_id": "Person_6ff571cbbead8c7429f77849f304a85badd58ccb36c272ad3167df75e18ae3a4",
+      "target_id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "source": "Total",
+      "relation": "LOCATED_IN",
+      "target": "Chypre",
+      "evidence": "Total à Chypre",
+      "confidence": 1.0,
+      "source_id": "Organization_559564d9b17106b6bb250c645551ad905b530d212d84a924205cddb718712d8e",
+      "target_id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "source": "gouvernement français",
+      "relation": "SUPPORTS",
+      "target": "Total",
+      "evidence": "le plein soutien du gouvernement français à cette présence de Total à Chypre",
+      "confidence": 1.0,
+      "source_id": "Organization_43bfd2b4a7587ddb9f7d5ff4a1564449c7b54dc38962647911db44c84898ae44",
+      "target_id": "Organization_559564d9b17106b6bb250c645551ad905b530d212d84a924205cddb718712d8e"
+    },
+    {
+      "source": "Grèce",
+      "relation": "MEMBER_OF",
+      "target": "Nations unies",
+      "evidence": "il y a un processus mené sous l'égide des Nations unies, associant les trois puissances garanties : la Grèce, la Turquie et le Royaume-Uni.",
+      "confidence": 1.0,
+      "source_id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "Turquie",
+      "relation": "MEMBER_OF",
+      "target": "Nations unies",
+      "evidence": "il y a un processus mené sous l'égide des Nations unies, associant les trois puissances garanties : la Grèce, la Turquie et le Royaume-Uni.",
+      "confidence": 1.0,
+      "source_id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "Royaume-Uni",
+      "relation": "MEMBER_OF",
+      "target": "Nations unies",
+      "evidence": "il y a un processus mené sous l'égide des Nations unies, associant les trois puissances garanties : la Grèce, la Turquie et le Royaume-Uni.",
+      "confidence": 1.0,
+      "source_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "Cher président",
+      "relation": "SPOKE_ABOUT",
+      "target": "la coopération structurée et permanente en matière de défense",
+      "evidence": "votre volonté, cher président, de participer à la coopération structurée et permanente en matière de défense",
+      "confidence": 1.0,
+      "source_id": "Person_d365aa68201ce725d2af62728c9477ab5931bace1b08db665f0613845b96714a",
+      "target_id": "Theme_500259c1cd98bb5d3ae394dc2945faebc19619eae82303994b2d1343770dd107"
+    },
+    {
+      "source": "Nicos",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "cher Nicos, et te remercie de ta venue aujourd'hui à Paris",
+      "confidence": 1.0,
+      "source_id": "Person_7a763f14f0cac6ae6300700a6a6b285fff0f880e9b7ecd3447200f513f6ec2e3",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    }
+  ]
+}

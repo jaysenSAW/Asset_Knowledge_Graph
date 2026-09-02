@@ -1,0 +1,520 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid-19",
+      "id": "Theme_d5e7dbe0204945df0a66692ca666448a467d14bc7f36bc2b7afe79af217b2384"
+    },
+    {
+      "type": "Theme",
+      "name": "épidémie",
+      "id": "Theme_cc728abad13e3c62e85c61089f7679fbc7bd2c7fd6b01a6888d874304168d638"
+    },
+    {
+      "type": "Theme",
+      "name": "crise sanitaire",
+      "id": "Theme_743ee24ed44703d4666d6b5cf4b4d242d463d4e45a0472c4fa437ed044489173"
+    },
+    {
+      "type": "Theme",
+      "name": "hôpitaux",
+      "id": "Theme_47a95dd74d9d79f889684ce203eda0cf8baa6d016129151f1f2e93cd4bc5e7b5"
+    },
+    {
+      "type": "Theme",
+      "name": "médecins",
+      "id": "Theme_8a538d7c7f7c7155eb2b555969d906c92bb91e14c49e8bf6f1dab0688e532a9b"
+    },
+    {
+      "type": "Theme",
+      "name": "infirmiers",
+      "id": "Theme_492e88a9b22d0446f1882155b998222ff96c12ac394c242919f638ebc28b0cf3"
+    },
+    {
+      "type": "Theme",
+      "name": "ambulanciers",
+      "id": "Theme_bcd38cfbf95b158afe0205cd41b386d60f64e4cca267d8f75113d104e6e0efa8"
+    },
+    {
+      "type": "Theme",
+      "name": "Samu",
+      "id": "Theme_1fb80c940c75a76b922d22e14336d7468672b3bb420ea34e2e7019e98ef4deee"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "virus",
+      "id": "Theme_693f7390ed433c22624aec32764b8241743cc2c14cc1c8347faecc4978733995"
+    },
+    {
+      "type": "Organization",
+      "name": "administration",
+      "id": "Organization_de755aed002a3c987b3f78b3c66d241020c9a308b87afdc8e84e60816316224d"
+    },
+    {
+      "type": "Person",
+      "name": "héros en blouse blanche",
+      "id": "Person_d087a7fcc992b19e5899834e616b1e4a1887050502d84a9a2e6dda17a8efa2c4"
+    },
+    {
+      "type": "Country",
+      "name": "une grande Nation",
+      "id": "Country_cfce8ad05072dc506590048c3051dc8451f1e0e65b052572bcc351a278160e7f"
+    },
+    {
+      "type": "Theme",
+      "name": "l'intérêt collectif",
+      "id": "Theme_7cabdb52b22535f5c6fe988bfb23c8351648a15d82a192519156dda6425ab60e"
+    },
+    {
+      "type": "Theme",
+      "name": "la solidarité",
+      "id": "Theme_f2e4b2a03286ae52b46ff598efb41079c23cae2c8f6b78937b20739b6540d219"
+    },
+    {
+      "type": "Theme",
+      "name": "la fraternité",
+      "id": "Theme_8072af571a595e4f896c9e92edad607d1733446ac40bba0bc3984564140a05fb"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance dans la science",
+      "id": "Theme_8da860d01aef3d4d66cd286a58c79c04363e2daa3a7a6c8416bea2d5e1e399e9"
+    },
+    {
+      "type": "Theme",
+      "name": "écouter celles et ceux qui savent",
+      "id": "Theme_007bc42baf9ce36b5d4af8f5c37a428155980a3105645c13332284b8ef0944da"
+    },
+    {
+      "type": "Theme",
+      "name": "les meilleurs virologues",
+      "id": "Theme_8b0a33d7c870766375faf40fb57f8ffb94c1fb465cf99f4f32ea50c5d1946997"
+    },
+    {
+      "type": "Theme",
+      "name": "les meilleurs épidémiologistes",
+      "id": "Theme_ecbd5c840770b116ab0a76a69f377bc0f00fc5c63a6fcb97b0e1e7de4fac9a88"
+    },
+    {
+      "type": "Theme",
+      "name": "le virus",
+      "id": "Theme_6f03fe7850f87bbb01de174f7cb48fcf87a6adb0e239c578c6d8fe76ab27a43d"
+    },
+    {
+      "type": "Person",
+      "name": "les scientifiques",
+      "id": "Person_7c090316993e1bd2f7153e643b66ef6a58415ddae4cac541e8535685c1ffd222"
+    },
+    {
+      "type": "Person",
+      "name": "chacun d'entre vous",
+      "id": "Person_ff46209d66bbcb426767ec1271de26c9e6d46807e4f6b13c3086a98990b9c1d7"
+    },
+    {
+      "type": "Person",
+      "name": "les services de l'Etat",
+      "id": "Person_8ecdd74825359cb3c8ceb52caa963181fea6b83a4db29e7523735a2cd9fcec4d"
+    },
+    {
+      "type": "Organization",
+      "name": "les mairies",
+      "id": "Organization_00431a9f7f425f9a0f43c51b3a25b0ed71bf20b12590cb8377fdfaaac872ca4a"
+    },
+    {
+      "type": "Organization",
+      "name": "les services de l'Etat",
+      "id": "Organization_e74c0e9b24b2b001b831b36cf1bd833aa17fece8ab09a606ae06fe54fb176eab"
+    },
+    {
+      "type": "Theme",
+      "name": "services d'urgence et de réanimation",
+      "id": "Theme_9055fe5be5e16cc330263f7f79198647a4e7befb9138ace956d320b2fd923c45"
+    },
+    {
+      "type": "Theme",
+      "name": "crèches",
+      "id": "Theme_3b8d20054e5632ec194baca716ecd036da3c57d80da2379d43d3d3d1f1d97d13"
+    },
+    {
+      "type": "Theme",
+      "name": "écoles",
+      "id": "Theme_a79652d352eb39af9161521ccf210bca649e1816674d0e4fa0bd8889e03ac877"
+    },
+    {
+      "type": "Theme",
+      "name": "collèges",
+      "id": "Theme_b0576d11cf7121a079a2eef6f91a88221d0c1425cab3d089ec54f00a5b751d4b"
+    },
+    {
+      "type": "Theme",
+      "name": "lycées",
+      "id": "Theme_9b709db04f06ecd71be2b78b7d90166c126a44e2e6c14c28021ebae4da387f39"
+    },
+    {
+      "type": "Theme",
+      "name": "universités",
+      "id": "Theme_077ccf73db0b40daaa6552041f5050bdf77371917e6cc423c9e67eae43d93fdd"
+    },
+    {
+      "type": "Theme",
+      "name": "enfants",
+      "id": "Theme_7de947c62c1a6fc458ce30539d584aaffa8475ea67a8e2e4d56519f2862cb657"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "télétravail",
+      "id": "Theme_3b9b5a78909e7a9d30031999ed96a8acaad5c67c11c081db3ad974e908bcdc9b"
+    },
+    {
+      "type": "Theme",
+      "name": "transports publics",
+      "id": "Theme_d5a867442b2a642e17f4c82d313dbb848c060017d4596e36ee8706fca11538ef"
+    },
+    {
+      "type": "Theme",
+      "name": "rassemblements",
+      "id": "Theme_59f2c08da86d78d9bb18aff7e0ab0104c7ca215c933d7e8b115c463e5fe933cd"
+    },
+    {
+      "type": "Theme",
+      "name": "étudiants",
+      "id": "Theme_5a6dea4ce3005b04f54c86246d8370c481bfd768371a72c32f25a07ebf220efd"
+    },
+    {
+      "type": "Theme",
+      "name": "retraités",
+      "id": "Theme_3af91d5fbe538fb5e115cb46f6b82bdfecc19d4df88acc9d5b39949b912f4ccb"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilisation générale",
+      "id": "Theme_431803bb20143cc3e91fb1c35a307c19b3c4fd623778a30bd18c86c19a712e1d"
+    },
+    {
+      "type": "Theme",
+      "name": "diagnostics rapides",
+      "id": "Theme_ef9e90985d03a3c54ab0f324f53043dbab384aeb8f12d011936aed6c683500db"
+    },
+    {
+      "type": "Theme",
+      "name": "traitements",
+      "id": "Theme_161919ea1b4b78ef3ea88ea35a478bc7ced96bde8f69565062d857b9c504f204"
+    },
+    {
+      "type": "Theme",
+      "name": "antidote au Covid-19",
+      "id": "Theme_5f9653982fb665ec903962d76eba24cb8eef5dd4ab28440c69f13a6fd40c6e6a"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccin",
+      "id": "Theme_32ec3b4bac32f73345f9e33a388256bcaced72a72a5de7433f9116a540d3ce0c"
+    },
+    {
+      "type": "Theme",
+      "name": "trêve hivernale",
+      "id": "Theme_c43d92b082c5b57cad563d30328767dc93f3e07a32c36ae481e09fcd2ec61a71"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilisation sociale",
+      "id": "Theme_3f7430ed30f0a4a3090337430278d61cc54dbcaef0a5a74231765544d775ca2a"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilisation générale sur le plan économique",
+      "id": "Theme_17b665103c49e7f7a7befb5476f428ba48643afde9c6ef7f00a017fcc0763754"
+    },
+    {
+      "type": "Theme",
+      "name": "inquiétude économique",
+      "id": "Theme_ee13ff70cacf4b26f818b087036d3ed0b2e3d813715d4c2b6c652350f23c9118"
+    },
+    {
+      "type": "Theme",
+      "name": "faillite",
+      "id": "Theme_deb98e97a998cc9eb6d4aa374529432138c91dbdea31eadd18bc9bb5177cf262"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "fins de mois difficiles",
+      "id": "Theme_867d6f24a26bb2b3df211816d80ff6dfb20934d72d4ee11211e4cedb774e67e9"
+    },
+    {
+      "type": "Theme",
+      "name": "salariés",
+      "id": "Theme_04243cc57664609d80cdd5312a0df5335f0df59472995bbc5fa4cd059e41fc5d"
+    },
+    {
+      "type": "Theme",
+      "name": "entrepreneurs",
+      "id": "Theme_e4207dcc762b06be54e50b07a23efe4d7d2f6d0bccaf7dc9fdc8677ecb225d0a"
+    },
+    {
+      "type": "Theme",
+      "name": "salariés contraints à rester chez eux",
+      "id": "Theme_307b20bbd6d9971a038b17a744754b458c0bf78d7d8d669c98cf76cfbafed748"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendants",
+      "id": "Theme_4bf9baff950068802ae2673a9dffcbd46038ebfcecc229f7cd8b1b1338d1db59"
+    },
+    {
+      "type": "Theme",
+      "name": "relance",
+      "id": "Theme_89b3bcb48b8cc3439eb43c613ac6bd35725f85c44b2759c02b21de9a2a64abee"
+    },
+    {
+      "type": "Organization",
+      "name": "La Banque centrale",
+      "id": "Organization_cb57b3b2f16e5ba49a424ec0b55b49c90e671a511cd97d663efaed11605b84e3"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "TRUMP",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "discipline individuelle et collective",
+      "id": "Theme_73f953a6bff9d6f60ae94202e8bcae61df27a64733a277e90d1e09443bcb3bb5"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "repli nationaliste",
+      "id": "Theme_f88a076c95e1893b2ba914f011d7459cc475313c0ce5b8277e4475dba6594d4f"
+    },
+    {
+      "type": "Theme",
+      "name": "repli individualiste",
+      "id": "Theme_6f231b8543a5d7ad1e3a0c38b1e7ec934b6611bff6fb41b321ce5d9bba14c652"
+    },
+    {
+      "type": "Theme",
+      "name": "consignes",
+      "id": "Theme_ede86794e56a1af2744df5cd2d8ecf5cb62c70a9e1a6ae805b8756d652223aa1"
+    },
+    {
+      "type": "Theme",
+      "name": "gestes barrières",
+      "id": "Theme_9ef4c6c2c097e3feddba7155ef2c41be56ff0d3a113736d88aaac2c7e8c8f317"
+    },
+    {
+      "type": "Theme",
+      "name": "saluer sans embrasser ou serrer la main",
+      "id": "Theme_1f274dae07feb8100b3f85f3d5572ad449277344f8efaaeea5efd46bda738960"
+    },
+    {
+      "type": "Theme",
+      "name": "tenir à distance d'un mètre",
+      "id": "Theme_53472fbc6c0d5d127ba17d3794054a52bbd784a8708cfaa55468b7faec07af29"
+    },
+    {
+      "type": "Person",
+      "name": "nos aînés",
+      "id": "Person_552db9e75fde7319042bc5a6dee3e9467794b7158c8c1bc1764c2383a6bb34c1"
+    },
+    {
+      "type": "Person",
+      "name": "le voisin",
+      "id": "Person_ba6f5ab9c6a3dc23a16cdf09bcf6a14681998b911ec312ea8e9282b911b436d6"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "secrétaires d'État",
+      "id": "Person_5796469a1008de243871637159be351576614777885dbe8359021422d7df5a40"
+    },
+    {
+      "type": "Person",
+      "name": "moi-même",
+      "id": "Person_8d566310710bd7381db144ddfcafa026338a9fda50aea373d11e6f74a6b6f2d4"
+    },
+    {
+      "type": "Person",
+      "name": "nos soignants",
+      "id": "Person_328a9ddef51cce3db4b3443b36d1e0b6f43823c92a25429754e99da69db1b15b"
+    },
+    {
+      "type": "Person",
+      "name": "ministre de la Santé",
+      "id": "Person_058b7d26a5695c0268521b21fa994e1700ffd1dadffb45c52f78beb43ebf21df"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "Etat-providence",
+      "id": "Theme_d1c6314a21eef026a957ac28327df3782b1b36d30e66d2937ad4fa1891a65b78"
+    },
+    {
+      "type": "Theme",
+      "name": "destin",
+      "id": "Theme_d09e3903dadfffc2520eda8a2b2d6964de6c594e64c980c6854196aff3f81626"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle",
+      "id": "Theme_56a9d80cc5c5f0db6a7fca8c1a2a686f455c689decc2e4e4abf4b873bfde1657"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de nos concitoyens",
+      "id": "Theme_5a08ba4ccc2c394cc19bbfed36c436f55b35e58aba8bd5770e5a07ee6db98833"
+    },
+    {
+      "type": "Theme",
+      "name": "cohésion de la Nation",
+      "id": "Theme_61e531500fec5cd67196be8b8db0b25f72a6bee8d7a7ba58e3c480178ff5a803"
+    },
+    {
+      "type": "Theme",
+      "name": "union sacrée",
+      "id": "Theme_e4813be601427989d24b64aa7334e11e863b1984a8d7e0dbfb1608dde039fdc7"
+    },
+    {
+      "type": "Theme",
+      "name": "force d'âme",
+      "id": "Theme_e7fe471b5a21db7dedc098475ccdf5569f184d818d054a81be3ed252b55a922a"
+    },
+    {
+      "type": "Theme",
+      "name": "France unie",
+      "id": "Theme_72ac3bdc4a90324b0e0f78009240345e9d63826dfc8cb019df126fe98ed6838f"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "épidémie",
+      "evidence": "Cette épidémie qui affecte tous les continents et frappe tous les pays européens est la plus grave crise sanitaire qu'ait connu la France depuis un siècle.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_cc728abad13e3c62e85c61089f7679fbc7bd2c7fd6b01a6888d874304168d638"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "crise sanitaire",
+      "evidence": "Cette épidémie qui affecte tous les continents et frappe tous les pays européens est la plus grave crise sanitaire qu'ait connu la France depuis un siècle.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_743ee24ed44703d4666d6b5cf4b4d242d463d4e45a0472c4fa437ed044489173"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Cette épidémie qui affecte tous les continents et frappe tous les pays européens est la plus grave crise sanitaire qu'ait connu la France depuis un siècle.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "les services de l'Etat",
+      "relation": "LOCATED_IN",
+      "target": "les mairies",
+      "evidence": "les mairies et les services de l'Etat ont bien organisé les choses",
+      "confidence": 1.0,
+      "source_id": "Organization_e74c0e9b24b2b001b831b36cf1bd833aa17fece8ab09a606ae06fe54fb176eab",
+      "target_id": "Organization_00431a9f7f425f9a0f43c51b3a25b0ed71bf20b12590cb8377fdfaaac872ca4a"
+    },
+    {
+      "source": "TRUMP",
+      "relation": "MEMBER_OF",
+      "target": "G7",
+      "evidence": "j'échangerai avec le président TRUMP pour lui proposer une initiative exceptionnelle entre les membres du G7",
+      "confidence": 1.0,
+      "source_id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8",
+      "target_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "source": "G7",
+      "relation": "ALLIED_WITH",
+      "target": "TRUMP",
+      "evidence": "j'échangerai avec le président TRUMP pour lui proposer une initiative exceptionnelle entre les membres du G7",
+      "confidence": 1.0,
+      "source_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2",
+      "target_id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    }
+  ]
+}

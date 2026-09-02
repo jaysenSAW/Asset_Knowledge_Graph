@@ -1,0 +1,775 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Angel",
+      "id": "Person_b2998f9d2d677af52a1ce2d7adb58e2b5861952ebedf528810a0cdd62d5e400a"
+    },
+    {
+      "type": "Organization",
+      "name": "OMC",
+      "id": "Organization_dbfd6ac2652ebf57b2436987f66688b5c1c31df23624ca5dbb0e937544345cc0"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de l'OCDE",
+      "id": "Organization_bfce263036cbca32e47745a4ec7c2cdcbb973a54c97c88bfe566859331db24ca"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "35 nations parmi les plus avancées du monde",
+      "id": "Country_14663dd60cb90488c8fe4a5f53b271c0aff6197365157f27bd640f7383f50efe"
+    },
+    {
+      "type": "Organization",
+      "name": "ONU",
+      "id": "Organization_8fe3e517167eebcfcb1c541c20f6aeb0a346c6c70b461e4d8ec8a469cdf70167"
+    },
+    {
+      "type": "City",
+      "name": "Davos",
+      "id": "City_09e72dd5c99fbf3217dc6f3f65e58ffb8b2f5b64dfa858248d3db64cdf4e30e7"
+    },
+    {
+      "type": "City",
+      "name": "Pékin",
+      "id": "City_c33b28c48b13d634999d50013f1cdd989b8055c898dcd822f8e335c15db449dc"
+    },
+    {
+      "type": "City",
+      "name": "Washington",
+      "id": "City_ee7e345909a6fe1df02cbeb0ed489e719cbdc04c7a27e2818d861e092cc9ad8a"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Pétersbourg",
+      "id": "City_ea8af6cd21fdb234f4de31154479c8a3a098b1d5155fd3250ae9bbb503523d90"
+    },
+    {
+      "type": "Theme",
+      "name": "mondialisation",
+      "id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Organization",
+      "name": "FMI",
+      "id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités multiformes",
+      "id": "Theme_a5977b66ec9a87b0fa8665750213131877e94ab88c552514090d955126363a5c"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités de revenus et de développement",
+      "id": "Theme_e47c1cfc69bd4933d840c4c7453ba17ee43f4c8985bdd91e9d772da60b55f1b7"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités face à l'éducation",
+      "id": "Theme_93c11390ce968b1995f016916767613df6af00d6c1f720b3b99b9a5fd3788239"
+    },
+    {
+      "type": "Theme",
+      "name": "scandales contemporains",
+      "id": "Theme_6ca35ef02d759f63dda78dcd7e4ef5c1c9758eab68942cee7a4fdbfcb51b8176"
+    },
+    {
+      "type": "City",
+      "name": "Liège",
+      "id": "City_aa79e9e7608dbdd88a6d16e2162a458c6103a7bbb297852593ba15ba35c2e0ee"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "repli national",
+      "id": "Theme_214efe6289dcbc8bad587163ff34c99f723c8714032bf9c6c2698ddae1534a2c"
+    },
+    {
+      "type": "Theme",
+      "name": "sirènes",
+      "id": "Theme_88b3a67ceb2196c62d72f0fb5f85932b2d134a3072fcb6c9f54b57969df0851f"
+    },
+    {
+      "type": "Theme",
+      "name": "Société des nations",
+      "id": "Theme_0f0c8cd2bdb979e418727f7b8dce1e11464c1244c4fdd5a383bb58b71de369df"
+    },
+    {
+      "type": "Theme",
+      "name": "crise des années 1930",
+      "id": "Theme_6b78d4c6c88ffec5169b4982b3f18d11f31a00831d31cea339e591e7c8b80009"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "repli",
+      "id": "Theme_90ce70dc1d4f9a64f6559f5bc5abd8aa0b0ca7c794b84d279d5871f113e03fa7"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre commerciale",
+      "id": "Theme_c7b8d631aa4c8b72316b4d432acb2c32043ddb72749ef9f8feb568307bc30684"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "protectionnisme",
+      "id": "Theme_f908a3ce2a62f196e9b3881f0b81ce31f64eb6d35dede2a07725ea9d130f54a7"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses multilatérales",
+      "id": "Theme_2bd42e077e4fb564770a6989fceb35d0fb8304a243c177611e66ff384fb02712"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "dysfonctionnements contemporains",
+      "id": "Theme_b88f0ad36d5f6054a4651c8f3776f5d8c965d9c9c7b4bf3c7875410f9f059e6c"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation mondiale du commerce",
+      "id": "Organization_279680ad64a597c5effc113dc4b3abd9bc4b6f6f07c59018604598bd2e0baca8"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce",
+      "id": "Theme_030aa67661fc7f420b2620eaa40b472d5e87b4aea26693aacbd98e388c58bb88"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence déloyale",
+      "id": "Theme_6f8aaf83503a1261119bf6adc4b9e04626d7f50d15b570c55e9df4f409b2f3fb"
+    },
+    {
+      "type": "Theme",
+      "name": "dumping",
+      "id": "Theme_29563e1bbc454121a3300fd73aa2f754d9cde76233812319a625785892547fe8"
+    },
+    {
+      "type": "Organization",
+      "name": "Forum mondial",
+      "id": "Organization_c29470b21eb94bc38bb84c4a2e4e66bbb11f6e8daaf79fb34254fd8648107e7f"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Theme",
+      "name": "surcapacité dans le domaine de l'acier",
+      "id": "Theme_c72247af53f29a517eac46a183733d32c7160c1117c3ef7657dae6d095d25bbe"
+    },
+    {
+      "type": "Theme",
+      "name": "propriété intellectuelle",
+      "id": "Theme_e93a9cdedc8c0f209853c358a4a86a8c2496ed656002f532970b5b5d994bd0a5"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce international",
+      "id": "Theme_20efc1ae9695eb29a44ef1bad4e91af53e6234327e597db61f23e9e8a5e1a5b4"
+    },
+    {
+      "type": "Theme",
+      "name": "expansion industrielle",
+      "id": "Theme_a92e64aac188c6fd2c97f03aebfb9ca8662522ef2adcde2837afb208acbea5e1"
+    },
+    {
+      "type": "Theme",
+      "name": "aluminium",
+      "id": "Theme_e2fb00d1243ce90d5c76bbe6f47a869f821dca54e902b93e0b2e2a9382b04b05"
+    },
+    {
+      "type": "Theme",
+      "name": "électronique",
+      "id": "Theme_5fc8495ef2c6d87fece70f2a605e02a4922a1cf5b199ef1b7a7f92acbc72be52"
+    },
+    {
+      "type": "Theme",
+      "name": "batteries",
+      "id": "Theme_914a237adc208e6bc6bb2bda6f29ea6496e11ad5f7a3469509117578e179ea88"
+    },
+    {
+      "type": "Theme",
+      "name": "déséquilibres du commerce mondial",
+      "id": "Theme_fd459bb815bf37255eed0c9f7f2b9b5e5838ae302f86681d42e5e32e9fc175ad"
+    },
+    {
+      "type": "Theme",
+      "name": "règles communes",
+      "id": "Theme_af1622e0dee6084a5364e2d5be2d5d3d85da92fdbfa1b8e8466ff0a6a44cd723"
+    },
+    {
+      "type": "Theme",
+      "name": "prix",
+      "id": "Theme_e3edc58c164706c798376473a1d33b9ea22930cd506495bfb973ba41058bebe2"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "réponse collective",
+      "id": "Theme_30a35b99467ffde2fdb8b179d3b622bbf00756855ba07708f1bb3bf91d593477"
+    },
+    {
+      "type": "Theme",
+      "name": "fort",
+      "id": "Theme_9436aa31f903ba14b942ca5aac2e75a93e98040f7756ebce2cba32ed7d3dbc5a"
+    },
+    {
+      "type": "Theme",
+      "name": "parole",
+      "id": "Theme_0aa6d3d46bcff975a313a13babad2c365f73e30ffc801d0658ec8b8f56302f1d"
+    },
+    {
+      "type": "Organization",
+      "name": "Etats-Unis",
+      "id": "Organization_3b08eb2671279e09493fe87c31cd8efb8ef559ae7445896c53ad72240e970f09"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Chine",
+      "id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4"
+    },
+    {
+      "type": "Organization",
+      "name": "Japon",
+      "id": "Organization_4cd472c063254bb482304caa9a102d58cc5a3b51f50fa52c225eba61d11e568a"
+    },
+    {
+      "type": "Organization",
+      "name": "pays du G20",
+      "id": "Organization_8e343f370abde87b9198b81c29aad9ee3526de7b149567beb744326969977d0d"
+    },
+    {
+      "type": "Theme",
+      "name": "mise à jour complète des règles",
+      "id": "Theme_1caad2b200c957d6841b35cf06623b24a20528f9deb1654bbe05e2abeb04ec48"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence internationale",
+      "id": "Theme_f7fa47ac0f7e4e6f4281a28d7b7c2b3dab074bdac853db172aceca9c23be4076"
+    },
+    {
+      "type": "Theme",
+      "name": "subventions publiques massives",
+      "id": "Theme_daa1f733afb8b918e2ceb38c7ac2cec24ffbf0a4dfc9382b69709be9be6b2e53"
+    },
+    {
+      "type": "Theme",
+      "name": "droits sociaux",
+      "id": "Theme_8365a177b8c3d80f7f2a3aa0ffb58c548f9e1114c70642eb9e92090f5829702e"
+    },
+    {
+      "type": "Theme",
+      "name": "protection du climat",
+      "id": "Theme_fd7dd6edfb28bd206ba6ed79de3ffe007f25f6c8455eac4d880b542091c09742"
+    },
+    {
+      "type": "Law",
+      "name": "Accord de Paris",
+      "id": "Law_cd8b0ed5bd6d7c10b803a393cbdcace05ca0db0f17b36ece29f3b3d3b07b6d15"
+    },
+    {
+      "type": "Theme",
+      "name": "développement durable",
+      "id": "Theme_5f1bb520fa5de98e4e876d04cd83bf58d961cf1f5d62571cbb08cbca34482cec"
+    },
+    {
+      "type": "Theme",
+      "name": "Accord de Paris",
+      "id": "Theme_152a851eb1dbb7769682151519941e34f537ce302d4e0686a44e31473c8febaf"
+    },
+    {
+      "type": "Theme",
+      "name": "impôt",
+      "id": "Theme_77621584e528399fed4135d4e49791a1c77e9a71bb7b28758c78883f960ec0f4"
+    },
+    {
+      "type": "Theme",
+      "name": "pratiques de transfert d'activité à des fins fiscales",
+      "id": "Theme_46c7c230e98ea62d8cd56e8d72bab66cf5e7a747a7f7cfe57c2a1f2ae173412c"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance fiscale mondiale",
+      "id": "Theme_952f6fea142c5a9f8092397b665067bcf39ef48591238aee99c70f17f20f38ac"
+    },
+    {
+      "type": "Theme",
+      "name": "accountability",
+      "id": "Theme_439e40d9f6398749cafb2dba3f137da7620973818571334a850729f60075bae8"
+    },
+    {
+      "type": "Theme",
+      "name": "justice fiscale",
+      "id": "Theme_515625e855315c03e348b74cd214cfee70d454324bed171afcdf661f169b214e"
+    },
+    {
+      "type": "Theme",
+      "name": "non-imposition",
+      "id": "Theme_eeea0f77ec20ec68a00426ac952c5d73b3e02fdf48b15e3a0daeef1b8f000717"
+    },
+    {
+      "type": "Theme",
+      "name": "évasion fiscale",
+      "id": "Theme_ced631a055fa867e0704927c60685492074d761871b71a77f4f4b9900e6e2b87"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre fiscal mondial actuel",
+      "id": "Theme_1b103d50229258a44d147ea5271122d92eeb48c29819113830756edeb04ce38d"
+    },
+    {
+      "type": "Organization",
+      "name": "BEPS",
+      "id": "Organization_c75f4ca24fda60b52746732d2f9d1c286436f7af7e956b69d43dbe4b313fcd80"
+    },
+    {
+      "type": "Organization",
+      "name": "Congrès américain",
+      "id": "Organization_a9740ee7894562139a1beff8a67e69854437245253e4c1b1b629bb400063a522"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "Tech for Good",
+      "id": "Organization_785620e35adfce52176ffd4b05727cf53d11778b2d2432dce2349ef772c07274"
+    },
+    {
+      "type": "Law",
+      "name": "Règlement général",
+      "id": "Law_8aa1f79b57ccf6c3e9c1c6aa8fb38f03cbcf41c101c0096e08387b019983dbb8"
+    },
+    {
+      "type": "Theme",
+      "name": "bouleversement du numérique",
+      "id": "Theme_7fa5f31d71c3aedb1b0caa20c1e20f021c3fd79d8c978918ae1db879838491e1"
+    },
+    {
+      "type": "Theme",
+      "name": "système dans lequel nous vivons aujourd'hui",
+      "id": "Theme_0d1000adef0fb78a1013ee6d33852cbf10fc2add8accf0baea2ad23fb4d4684d"
+    },
+    {
+      "type": "Theme",
+      "name": "règles édictées par les grands acteurs du numérique en matière de liberté",
+      "id": "Theme_7543fb962b45e961f94baab525a1eddf4eb2970222ff6716b7f226afdd249c60"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Theme",
+      "name": "blanchiment",
+      "id": "Theme_3cf8fa780c2b0d17729b2bbedf08716e24c18cc23efffe665d78ac4763f0c961"
+    },
+    {
+      "type": "Theme",
+      "name": "corruption",
+      "id": "Theme_e4f85d877c11806946580b3f76af63cbe46555992a2f79d9556937e18339c88c"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "développement",
+      "id": "Theme_9f563f6fb56281bb29449c280e882333dd332f1e1e2aa5ff1e49c8654dc6f9a4"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme contemporain",
+      "id": "Theme_d36c445c4da3269de5e564018946a01de88b59e96ead746672c7d3bcc7893741"
+    },
+    {
+      "type": "Theme",
+      "name": "fractures",
+      "id": "Theme_2c3ad8cdaf4813b4b3058943d17f30253ae47cab2f80f4d559e885e7bccaefa8"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses non coopératives",
+      "id": "Theme_d358fef2060b45f6a28836f2cafcb2fa26d18d8140bbbb249c6914caaa3d1064"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "érosion côtière",
+      "id": "Theme_0390bad15f3a33c489e08545dfb6f27d85731dfbcf3ff7d0194926da3916e781"
+    },
+    {
+      "type": "Theme",
+      "name": "disparition programmée",
+      "id": "Theme_a87aaba00c70539869a2b649a4c1e318726367a71a0b3aef9d0ac0d53e4f6f07"
+    },
+    {
+      "type": "Theme",
+      "name": "assèchement",
+      "id": "Theme_55307763ef4fc6babcfa33bba4cfe8ef91fd121b6a840e378e32a8e5220df108"
+    },
+    {
+      "type": "Theme",
+      "name": "pollution de l'air insoutenable",
+      "id": "Theme_aabc686b3c56f136b89b4109baf0fb3ccb500c4d6b7ce19fd026142984b6ded3"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "City",
+      "name": "Dakar",
+      "id": "City_edd432d0e42af6268a05e6bf8b3ff465617e0b8b7b6c0ca6846affd0ee837bfe"
+    },
+    {
+      "type": "Theme",
+      "name": "développement économique",
+      "id": "Theme_90116a86288646b0ca7f81be8e3f867cd730709965d34e048dac6cb6b854a2c3"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme et le fanatisme",
+      "id": "Theme_ddeeb361eff3b3df6946daed26a3e8ce49cc61f8888d850799f78b6fb35e5c31"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité internationale",
+      "id": "Theme_f2c907b4aceabebf6c9c90fa82209baa147570611d30a110e2bf7b66bd1b59c9"
+    },
+    {
+      "type": "Theme",
+      "name": "enjeux de santé",
+      "id": "Theme_c061d317ae3fc4d6111d95598e2524625ef7daea3c109135dce85ccb710de0fc"
+    },
+    {
+      "type": "Theme",
+      "name": "santé des femmes et des mères",
+      "id": "Theme_5bafc3295d561950fe25e90c0ce508d362c36e519e8f890f883d2ba02adadf55"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunes femmes",
+      "id": "Theme_aeafb94f130d0f85055a47817e3b977df71a6011550704e47070780340370fe4"
+    },
+    {
+      "type": "Theme",
+      "name": "grossesse",
+      "id": "Theme_f2e23f4d9aa32f0bee707e084a238029483926bea83ffa5167de463e91114e43"
+    },
+    {
+      "type": "Theme",
+      "name": "contraception",
+      "id": "Theme_27374eda74b11547962e0439e1d8a179a39b7baffda70f91d11240ff940ce077"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Theme",
+      "name": "capitalisme contemporain",
+      "id": "Theme_b7ad4287236ce8e55546a0c1e8096fe6cb3e3c34f5cdff25146c4cc8f1e7fddf"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Country",
+      "name": "Colombie",
+      "id": "Country_745684a15e3161927f996f47ab1b856fb30beed90b50d25e0a7011f567849707"
+    },
+    {
+      "type": "Country",
+      "name": "Lituanie",
+      "id": "Country_257f51b370c269015b5ddeb21595946140d68f6c4557dc04527717e006535460"
+    },
+    {
+      "type": "Event",
+      "name": "Seconde Guerre mondiale",
+      "id": "Event_aa598b7435f3cc09e365f657cf81e9286ff31ba745caeefa70923626f946c7cf"
+    },
+    {
+      "type": "Organization",
+      "name": "UNESCO",
+      "id": "Organization_44cf334686fd664fecedb6944caa3782522449e029aa1a57346edd5f2ff5eebd"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation internationale de la Francophonie",
+      "id": "Organization_f06abfa6c5ae40b266c867322d6110d5af440aa772c7c5cab510d3f86feb79ad"
+    },
+    {
+      "type": "Event",
+      "name": "Première Guerre mondiale",
+      "id": "Event_5c2b8eb302bf6065a5cd1c5988ce7663201e0b30e003923a8c736603a1b517af"
+    },
+    {
+      "type": "Event",
+      "name": "Forum pour la paix",
+      "id": "Event_11eb03577347432c9dcb13de0e8936ff45b8ccac92d7db0afe6d336e479836b7"
+    },
+    {
+      "type": "Person",
+      "name": "Robert SCHUMAN",
+      "id": "Person_3116ac1d21b694712f781bad333b0d1ef1437d883e36814b67af1442101498d4"
+    },
+    {
+      "type": "Person",
+      "name": "Paul VALERY",
+      "id": "Person_22e5247efbb476809edc20f2610a5f34251c5ab06544522a299c597887a01d07"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Secrétaire général",
+      "id": "Person_5da1985b325f6e740d65378795e51c9b23d29b87d7ead2b19a6987745d55c895"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "mondialisation",
+      "relation": "MENTIONS",
+      "target": "mondialisation",
+      "evidence": "La mondialisation a permis aussi de régler nombre de problèmes en ouvrant nos sociétés et en le faisant dans un cadre coopératif, au coeur duquel l'OCDE a joué tous son rôle, avec l'OMC, le FMI et nombre d'autres organisations.",
+      "confidence": 1.0,
+      "source_id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef",
+      "target_id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef"
+    },
+    {
+      "source": "OCDE",
+      "relation": "MEMBER_OF",
+      "target": "mondialisation",
+      "evidence": "La mondialisation a permis aussi de régler nombre de problèmes en ouvrant nos sociétés et en le faisant dans un cadre coopératif, au coeur duquel l'OCDE a joué tous son rôle, avec l'OMC, le FMI et nombre d'autres organisations.",
+      "confidence": 1.0,
+      "source_id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45",
+      "target_id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef"
+    },
+    {
+      "source": "OMC",
+      "relation": "MEMBER_OF",
+      "target": "mondialisation",
+      "evidence": "La mondialisation a permis aussi de régler nombre de problèmes en ouvrant nos sociétés et en le faisant dans un cadre coopératif, au coeur duquel l'OCDE a joué tous son rôle, avec l'OMC, le FMI et nombre d'autres organisations.",
+      "confidence": 1.0,
+      "source_id": "Organization_dbfd6ac2652ebf57b2436987f66688b5c1c31df23624ca5dbb0e937544345cc0",
+      "target_id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef"
+    },
+    {
+      "source": "FMI",
+      "relation": "MEMBER_OF",
+      "target": "mondialisation",
+      "evidence": "La mondialisation a permis aussi de régler nombre de problèmes en ouvrant nos sociétés et en le faisant dans un cadre coopératif, au coeur duquel l'OCDE a joué tous son rôle, avec l'OMC, le FMI et nombre d'autres organisations.",
+      "confidence": 1.0,
+      "source_id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37",
+      "target_id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef"
+    },
+    {
+      "source": "inégalités",
+      "relation": "MENTIONS",
+      "target": "inégalités",
+      "evidence": "Comment ne pas voir l'empreinte d'une mondialisation débridée et d'un progrès mal maîtrisé dans le creusement des inégalités sur un même territoire, entre ceux qui sont connectés et ceux qui ne font que subir les évoluions du monde ?",
+      "confidence": 1.0,
+      "source_id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6",
+      "target_id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "source": "Organisation mondiale du commerce",
+      "relation": "PROPOSED",
+      "target": "commerce",
+      "evidence": "L'Organisation mondiale du commerce, c'est nous qui l'avons faite. C'est nous qui l'avons pensée, nous en avons voulu les règles, nous les avons inventées, et souverainement consenties.",
+      "confidence": 1.0,
+      "source_id": "Organization_279680ad64a597c5effc113dc4b3abd9bc4b6f6f07c59018604598bd2e0baca8",
+      "target_id": "Theme_030aa67661fc7f420b2620eaa40b472d5e87b4aea26693aacbd98e388c58bb88"
+    },
+    {
+      "source": "Organisation mondiale du commerce",
+      "relation": "SPOKE_ABOUT",
+      "target": "commerce",
+      "evidence": "L'Organisation mondiale du commerce, c'est nous qui l'avons faite. C'est nous qui l'avons pensée, nous en avons voulu les règles, nous les avons inventées, et souverainement consenties.",
+      "confidence": 1.0,
+      "source_id": "Organization_279680ad64a597c5effc113dc4b3abd9bc4b6f6f07c59018604598bd2e0baca8",
+      "target_id": "Theme_030aa67661fc7f420b2620eaa40b472d5e87b4aea26693aacbd98e388c58bb88"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "MENTIONS",
+      "target": "Accord de Paris",
+      "evidence": "Je souhaite que l'Union européenne donne l'exemple en incluant le respect de l'Accord de Paris dans tous ses accords commerciaux et en garantissant, par des mécanismes de sanction, le respect des standards environnementaux.",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Theme_152a851eb1dbb7769682151519941e34f537ce302d4e0686a44e31473c8febaf"
+    },
+    {
+      "source": "justice fiscale",
+      "relation": "MENTIONS",
+      "target": "non-imposition",
+      "evidence": "Rétablir la justice fiscale, c'est s'attaquer à toutes les situations de non-imposition",
+      "confidence": 1.0,
+      "source_id": "Theme_515625e855315c03e348b74cd214cfee70d454324bed171afcdf661f169b214e",
+      "target_id": "Theme_eeea0f77ec20ec68a00426ac952c5d73b3e02fdf48b15e3a0daeef1b8f000717"
+    },
+    {
+      "source": "OCDE",
+      "relation": "MENTIONS",
+      "target": "blanchiment",
+      "evidence": "le remarquable travail engagé par l'OCDE car, en effet, blanchiment et corruption sont des fléaux qui créent un déficit de confiance dans nos systèmes économiques et sociaux",
+      "confidence": 1.0,
+      "source_id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45",
+      "target_id": "Theme_3cf8fa780c2b0d17729b2bbedf08716e24c18cc23efffe665d78ac4763f0c961"
+    },
+    {
+      "source": "OCDE",
+      "relation": "MENTIONS",
+      "target": "corruption",
+      "evidence": "le remarquable travail engagé par l'OCDE car, en effet, blanchiment et corruption sont des fléaux qui créent un déficit de confiance dans nos systèmes économiques et sociaux",
+      "confidence": 1.0,
+      "source_id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45",
+      "target_id": "Theme_e4f85d877c11806946580b3f76af63cbe46555992a2f79d9556937e18339c88c"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "éducation",
+      "evidence": "C'est la raison pour laquelle la France s'est engagée, avec le Sénégal, à Dakar en début de cette année et avec nombre d'entre vous, à reconstituer le Partenariat mondial pour l'éducation et à battre des records",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "source": "solidarité internationale",
+      "relation": "MENTIONS",
+      "target": "enjeux de santé",
+      "evidence": "La solidarité internationale doit de la même façon prendre pleinement en compte les enjeux de santé et notamment de santé des femmes et des mères.",
+      "confidence": 1.0,
+      "source_id": "Theme_f2c907b4aceabebf6c9c90fa82209baa147570611d30a110e2bf7b66bd1b59c9",
+      "target_id": "Theme_c061d317ae3fc4d6111d95598e2524625ef7daea3c109135dce85ccb710de0fc"
+    },
+    {
+      "source": "solidarité internationale",
+      "relation": "MENTIONS",
+      "target": "santé des femmes et des mères",
+      "evidence": "La solidarité internationale doit de la même façon prendre pleinement en compte les enjeux de santé et notamment de santé des femmes et des mères.",
+      "confidence": 1.0,
+      "source_id": "Theme_f2c907b4aceabebf6c9c90fa82209baa147570611d30a110e2bf7b66bd1b59c9",
+      "target_id": "Theme_5bafc3295d561950fe25e90c0ce508d362c36e519e8f890f883d2ba02adadf55"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Europe",
+      "evidence": "la France et l'Europe ont une responsabilité première de ce combat",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Europe",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "la France et l'Europe ont une responsabilité première de ce combat",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

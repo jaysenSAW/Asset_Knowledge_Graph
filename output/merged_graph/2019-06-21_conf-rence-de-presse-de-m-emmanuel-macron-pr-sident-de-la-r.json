@@ -1,0 +1,564 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "agenda social",
+      "id": "Theme_0a8884bcd402aca5ac98d922e668a13dc0123b5c6d7ef4d09fd896165802349d"
+    },
+    {
+      "type": "Theme",
+      "name": "Etat de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "États membres de l'Union européenne",
+      "id": "Country_e8ca0864feb7d2c449ff7a49f2d80435b8118b415218453c10e585018a16b6d1"
+    },
+    {
+      "type": "City",
+      "name": "Conseil européen",
+      "id": "City_a8b74dc0a9e875b88d35b0762447117013194b568be9fc4f17ac7b842dc85df0"
+    },
+    {
+      "type": "Theme",
+      "name": "enjeux de fond",
+      "id": "Theme_20094dd59c057cd00591b40158b70cdb39a9bc1b0d944ce9379df8c4695420cc"
+    },
+    {
+      "type": "Theme",
+      "name": "lignes les plus structurantes",
+      "id": "Theme_99c18f020a97ffebfab78a3ed21898b2be2ef4df0d034c4838b4a049c597d6a6"
+    },
+    {
+      "type": "Theme",
+      "name": "priorités des 5 années à venir",
+      "id": "Theme_d982b17f4bfad0fad5b0e306f6d3469870078231b5c6bcf499b07f3b025db7b7"
+    },
+    {
+      "type": "Theme",
+      "name": "priorité climatique",
+      "id": "Theme_e57dbc6387631b889213409d3906e54b167633af985e831613c955b3c57fe077"
+    },
+    {
+      "type": "Theme",
+      "name": "défense européenne",
+      "id": "Theme_42dae70f7120df2113261b5fe10cbe41df3d2c3b15c7b3dc8221a1048c488a0c"
+    },
+    {
+      "type": "Theme",
+      "name": "droits sociaux",
+      "id": "Theme_8365a177b8c3d80f7f2a3aa0ffb58c548f9e1114c70642eb9e92090f5829702e"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveau modèle économique et social",
+      "id": "Theme_f9f5dfbc7961b55117b81b7afafc1051c892ed804e8e87312438bb227748caf5"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité à investir",
+      "id": "Theme_3ddd8f12f6b4754a4abf156c3dd468fbc8edb560db63d733b9758b335224f964"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence sociale",
+      "id": "Theme_8d60cc5445874d608df93ea4dc8cb70aeb6db16989e83b7f373bd0c516507e89"
+    },
+    {
+      "type": "Theme",
+      "name": "salaires minimums",
+      "id": "Theme_31b1cd077661de3df55d2500388d94b75f9be410dffcbdccad69d4cd9bc6c3a7"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Juncker",
+      "id": "Person_79fbb50acf9e13d45a785dc6c088d941c901209f230a41d0efb053518e0f7353"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition climatique",
+      "id": "Theme_d50478b703462e76561468f6ea79501963d98f0863f2930591c593aad98ac7c1"
+    },
+    {
+      "type": "Country",
+      "name": "Belgique",
+      "id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed"
+    },
+    {
+      "type": "Country",
+      "name": "Pays-Bas",
+      "id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "type": "Country",
+      "name": "Luxembourg",
+      "id": "Country_88797ed5e26a1c6d46b1adb12833226b925f1283df47dafab01291d972c4c769"
+    },
+    {
+      "type": "Country",
+      "name": "Sibiu",
+      "id": "Country_bfaad2a8d988ab61663465a4daac739e4383d538b8691ba2b34063be1ec8cdfc"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "monde entier",
+      "id": "Country_76a5a804263e471fd9e3bc431b128f7df27b9debb69e3c72b39a9e89672e45aa"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition pour 2050",
+      "id": "Theme_6eafd01fccd9e776f07b58864d4a227280ab92f6dc85af2ed46f8adb660001ae"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Country",
+      "name": "Jamaïque",
+      "id": "Country_3f60bce3bdcad6584ca95e75025300056cca028ed142da3ad5c606d743d1b053"
+    },
+    {
+      "type": "Country",
+      "name": "Chypre",
+      "id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "type": "City",
+      "name": "zone économique exclusive",
+      "id": "City_35939acfc9af5f5f237215f7a40a5c4c04c14ba8db09656a515e151cb733ad84"
+    },
+    {
+      "type": "Theme",
+      "name": "relations extérieures",
+      "id": "Theme_058d0ffd512cb3217630601f01bbb39f87e1b8a9bbfbc712e499e8d87d60cc51"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien et solidarité",
+      "id": "Theme_22de80d81a10ee937a9c4d4e5613a2275267eb83e8a3852f8e8cdf53df58339c"
+    },
+    {
+      "type": "Theme",
+      "name": "incursions turques",
+      "id": "Theme_40995cf031874e6aa279589c391830325fb6d253be2cad97cd30c748f721eed9"
+    },
+    {
+      "type": "Theme",
+      "name": "langage clair",
+      "id": "Theme_efa757b88b37bfad24c8ce1240d800315a0175033680c24de3fa3319e3a48568"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien",
+      "id": "Theme_4dfac92dac64c205c1c0e703283d4ba045cb9535e4f0c0a54df8ba969e6e1575"
+    },
+    {
+      "type": "Organization",
+      "name": "Eurogroupe",
+      "id": "Organization_c78bda6fc5dcd6817fef5ca4bcb593bb87b3b6ee9b3dbf8a938e0a0216b38091"
+    },
+    {
+      "type": "Person",
+      "name": "Mario Draghi",
+      "id": "Person_c58bde3fd314667de2e6e1406d078ae97fdf6f8e289722a3fa8dbf25e432cead"
+    },
+    {
+      "type": "Person",
+      "name": "Mario Centeno",
+      "id": "Person_c11f80024a354cfdc5c0a127ef8745a8938b3daf2f2ec4c41b383e5ba74cd7b4"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance",
+      "id": "Theme_b922336e378de1f3bd3c36e9805efd63ad949f8fbff73adbfc2b3826e811ee6a"
+    },
+    {
+      "type": "Theme",
+      "name": "financement",
+      "id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941"
+    },
+    {
+      "type": "Theme",
+      "name": "budget",
+      "id": "Theme_476c75e33f21fc15bc5588b5d07c657897da27f908716f5af56abf04963f337c"
+    },
+    {
+      "type": "Theme",
+      "name": "zone euro",
+      "id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "type": "Theme",
+      "name": "monnaie unique",
+      "id": "Theme_2e557318660f2bb514551f7d55476b916739299ea17119489fdd98ca32dfd18c"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence",
+      "id": "Theme_5dd492310229e6422561fb6ee7825d44da04ee46fef898be05f57442adb06a51"
+    },
+    {
+      "type": "Theme",
+      "name": "chocs asymétriques",
+      "id": "Theme_97c14764fd813fba755f3b880d768788380945d2dbbd21823d61810179d92fc8"
+    },
+    {
+      "type": "Organization",
+      "name": "MES",
+      "id": "Organization_79158d67620833006ee53f4985c16715f930ad73224b97651324d75557713780"
+    },
+    {
+      "type": "Organization",
+      "name": "mécanisme européen de stabilité",
+      "id": "Organization_50003038249eb74036f95809b8e494c9428319ac06a8887f40b59ce8a7ce87af"
+    },
+    {
+      "type": "Organization",
+      "name": "nouvelle Commission",
+      "id": "Organization_d11f95323bd40019c9d63329d79567c71ba710c415e83197698fcdb229bb5f98"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement européen",
+      "id": "Organization_35045d56b46d30c02ed3c266f7b7e936d04046cd769a6b336980fa0f45af5ecb"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale",
+      "id": "Organization_8f8e5049d1c21e2291ca3d39865c23e9d20927413f7abca05a47b2572d99f6e2"
+    },
+    {
+      "type": "Person",
+      "name": "Tusk",
+      "id": "Person_696b755e679c115c9f6fe644e17e8c4d0cb16d23fcedb9f3198454427354202f"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "sensibilités politiques",
+      "id": "Theme_346b5fb73ff1cb31b43d97614f68f5bf37e2b5686d14a0b9b07297adb8c4d61a"
+    },
+    {
+      "type": "Theme",
+      "name": "élections européennes",
+      "id": "Theme_e1557028e2a64fe6b0201ad1761a36f9f93ae93e23685e9977646f4de2722fef"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaires d'État",
+      "id": "Organization_8e1c30d7292f37306d79d2962f39e05a81c9565675fd36c8251619de54d5d4ca"
+    },
+    {
+      "type": "Theme",
+      "name": "solution",
+      "id": "Theme_edeee0408fcaff0b5492896c55672217baa0bbe17083b1b17ecb1b03fc982218"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibre",
+      "id": "Theme_ede0979eeee4eba930de1ebb03996586b198a6fc0509b20fb3e9a71e3c756919"
+    },
+    {
+      "type": "Theme",
+      "name": "compétence",
+      "id": "Theme_aab181de6c1179cb760c70910101b5f79e69faf1747bbb6bfab21d1b452101fc"
+    },
+    {
+      "type": "Theme",
+      "name": "voix forte",
+      "id": "Theme_1c2de8906c3a1408e1f34b23c43296382577fa903dddca2e1495c5df1ca18d43"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Union européenne",
+      "relation": "MEMBER_OF",
+      "target": "États membres de l'Union européenne",
+      "evidence": "Monnaie unique de plusieurs États membres de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Country_e8ca0864feb7d2c449ff7a49f2d80435b8118b415218453c10e585018a16b6d1"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "ALLIED_WITH",
+      "target": "États membres de l'Union européenne",
+      "evidence": "Monnaie unique de plusieurs États membres de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Country_e8ca0864feb7d2c449ff7a49f2d80435b8118b415218453c10e585018a16b6d1"
+    },
+    {
+      "source": "priorité climatique",
+      "relation": "MENTIONS",
+      "target": "priorité climatique",
+      "evidence": "Je pense évidemment à la priorité climatique qui a été réaffirmée dans ce document.",
+      "confidence": 1.0,
+      "source_id": "Theme_e57dbc6387631b889213409d3906e54b167633af985e831613c955b3c57fe077",
+      "target_id": "Theme_e57dbc6387631b889213409d3906e54b167633af985e831613c955b3c57fe077"
+    },
+    {
+      "source": "défense européenne",
+      "relation": "MENTIONS",
+      "target": "défense européenne",
+      "evidence": "sur la défense européenne, la protection des frontières, c'est-à-dire tout ce qui permet de protéger l'Europe, d'assurer sa souveraineté, les priorités ont été réaffirmées dans ce document stratégique pour les 5 années à venir",
+      "confidence": 1.0,
+      "source_id": "Theme_42dae70f7120df2113261b5fe10cbe41df3d2c3b15c7b3dc8221a1048c488a0c",
+      "target_id": "Theme_42dae70f7120df2113261b5fe10cbe41df3d2c3b15c7b3dc8221a1048c488a0c"
+    },
+    {
+      "source": "droits sociaux",
+      "relation": "MENTIONS",
+      "target": "droits sociaux",
+      "evidence": "En matière de droits sociaux là aussi des avancées ont été faites",
+      "confidence": 1.0,
+      "source_id": "Theme_8365a177b8c3d80f7f2a3aa0ffb58c548f9e1114c70642eb9e92090f5829702e",
+      "target_id": "Theme_8365a177b8c3d80f7f2a3aa0ffb58c548f9e1114c70642eb9e92090f5829702e"
+    },
+    {
+      "source": "nouveau modèle économique et social",
+      "relation": "MENTIONS",
+      "target": "nouveau modèle économique et social",
+      "evidence": "nous avons à bâtir un nouveau modèle économique et social pour notre Europe",
+      "confidence": 1.0,
+      "source_id": "Theme_f9f5dfbc7961b55117b81b7afafc1051c892ed804e8e87312438bb227748caf5",
+      "target_id": "Theme_f9f5dfbc7961b55117b81b7afafc1051c892ed804e8e87312438bb227748caf5"
+    },
+    {
+      "source": "compétitivité",
+      "relation": "MENTIONS",
+      "target": "compétitivité",
+      "evidence": "qui passe par de la compétitivité",
+      "confidence": 1.0,
+      "source_id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5",
+      "target_id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "source": "capacité à investir",
+      "relation": "MENTIONS",
+      "target": "capacité à investir",
+      "evidence": "par de la capacité à investir sur nos priorités",
+      "confidence": 1.0,
+      "source_id": "Theme_3ddd8f12f6b4754a4abf156c3dd468fbc8edb560db63d733b9758b335224f964",
+      "target_id": "Theme_3ddd8f12f6b4754a4abf156c3dd468fbc8edb560db63d733b9758b335224f964"
+    },
+    {
+      "source": "convergence sociale",
+      "relation": "MENTIONS",
+      "target": "convergence sociale",
+      "evidence": "mais dans le même temps aussi à bâtir de la convergence sociale",
+      "confidence": 1.0,
+      "source_id": "Theme_8d60cc5445874d608df93ea4dc8cb70aeb6db16989e83b7f373bd0c516507e89",
+      "target_id": "Theme_8d60cc5445874d608df93ea4dc8cb70aeb6db16989e83b7f373bd0c516507e89"
+    },
+    {
+      "source": "salaires minimums",
+      "relation": "MENTIONS",
+      "target": "salaires minimums",
+      "evidence": "durant la campagne européenne nous avons défendu cette idée d'avoir des salaires minimums dans chaque pays",
+      "confidence": 1.0,
+      "source_id": "Theme_31b1cd077661de3df55d2500388d94b75f9be410dffcbdccad69d4cd9bc6c3a7",
+      "target_id": "Theme_31b1cd077661de3df55d2500388d94b75f9be410dffcbdccad69d4cd9bc6c3a7"
+    },
+    {
+      "source": "ambition climatique",
+      "relation": "MENTIONS",
+      "target": "ambition climatique",
+      "evidence": "Je le disais une priorité absolue de cette feuille de route doit être l'ambition climatique",
+      "confidence": 1.0,
+      "source_id": "Theme_d50478b703462e76561468f6ea79501963d98f0863f2930591c593aad98ac7c1",
+      "target_id": "Theme_d50478b703462e76561468f6ea79501963d98f0863f2930591c593aad98ac7c1"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "C'est le message aussi que nos concitoyens nous ont adressé lors de ces élections européennes",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Belgique",
+      "evidence": "la Belgique, les Pays-Bas, le Luxembourg et la France, nous étions donc 4",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Pays-Bas",
+      "evidence": "la Belgique, les Pays-Bas, le Luxembourg et la France, nous étions donc 4",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Luxembourg",
+      "evidence": "la Belgique, les Pays-Bas, le Luxembourg et la France, nous étions donc 4",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_88797ed5e26a1c6d46b1adb12833226b925f1283df47dafab01291d972c4c769"
+    },
+    {
+      "source": "Belgique",
+      "relation": "ALLIED_WITH",
+      "target": "Pays-Bas",
+      "evidence": "la Belgique, les Pays-Bas, le Luxembourg et la France, nous étions donc 4",
+      "confidence": 1.0,
+      "source_id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed",
+      "target_id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "source": "Belgique",
+      "relation": "ALLIED_WITH",
+      "target": "Luxembourg",
+      "evidence": "la Belgique, les Pays-Bas, le Luxembourg et la France, nous étions donc 4",
+      "confidence": 1.0,
+      "source_id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed",
+      "target_id": "Country_88797ed5e26a1c6d46b1adb12833226b925f1283df47dafab01291d972c4c769"
+    },
+    {
+      "source": "Pays-Bas",
+      "relation": "ALLIED_WITH",
+      "target": "Luxembourg",
+      "evidence": "la Belgique, les Pays-Bas, le Luxembourg et la France, nous étions donc 4",
+      "confidence": 1.0,
+      "source_id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143",
+      "target_id": "Country_88797ed5e26a1c6d46b1adb12833226b925f1283df47dafab01291d972c4c769"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Jamaïque",
+      "evidence": "la France a été chargée en particulier des sujets financiers avec la Jamaïque",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_3f60bce3bdcad6584ca95e75025300056cca028ed142da3ad5c606d743d1b053"
+    },
+    {
+      "source": "Conseil",
+      "relation": "SUPPORTS",
+      "target": "Chypre",
+      "evidence": "l'ensemble du Conseil en soutien et solidarité à Chypre",
+      "confidence": 1.0,
+      "source_id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed",
+      "target_id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "source": "Conseil",
+      "relation": "SPOKE_ABOUT",
+      "target": "soutien et solidarité",
+      "evidence": "redire l'engagement réitéré par l'ensemble du Conseil en soutien et solidarité à Chypre",
+      "confidence": 1.0,
+      "source_id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed",
+      "target_id": "Theme_22de80d81a10ee937a9c4d4e5613a2275267eb83e8a3852f8e8cdf53df58339c"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SPOKE_ABOUT",
+      "target": "zone euro",
+      "evidence": "Monnaie unique de plusieurs États membres de l'Union européenne qui forment la zone euro",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    }
+  ]
+}

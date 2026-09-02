@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Outre-mer",
+      "id": "Country_57005feee6c75f873a27dd7fbdec8692c779a2ba288ac57afbdc2cd300e7d079"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Person",
+      "name": "Donald TRUMP",
+      "id": "Person_0733a79f3150052cccafd940cdbbd3c8e236062bb642b00d56f0ff8484ba3762"
+    },
+    {
+      "type": "Theme",
+      "name": "Fête nationale",
+      "id": "Theme_28572e950e0c673d82207d1536304fdaaa0fb6a01ecf1c4803e1e15b14c530f5"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de pensée",
+      "id": "Theme_93791cc40d43f5c06cd568610c04cfb13a5688c69dd7b10c986ef708e3b34506"
+    },
+    {
+      "type": "Theme",
+      "name": "droit de ne pas être considéré selon son origine religieuse ou selon sa couleur de peau",
+      "id": "Theme_5cbf8dfba545f8b7f88b8650678d34b5e3f81a667399487805d4cbfa019a2c45"
+    },
+    {
+      "type": "Theme",
+      "name": "armée de la liberté et des droits",
+      "id": "Theme_fb43a953eef6dfebf9d3313c810998a2d851e8aff3c8174dac533617576d78eb"
+    },
+    {
+      "type": "Theme",
+      "name": "loyauté",
+      "id": "Theme_445c9e4e9e03bcd4ccba66433c5347c21ca8f64149cfcc92eaa9d1e509c76132"
+    },
+    {
+      "type": "Theme",
+      "name": "dévouement",
+      "id": "Theme_cc362a3a8b17ea76d492a61c12fd3530fba6181f99d96ffa3d079b54fbe728e2"
+    },
+    {
+      "type": "Theme",
+      "name": "force",
+      "id": "Theme_692ec114325b782d4c086becfab4bd9bf5c9449c59ddd4c7e36828f9035301a5"
+    },
+    {
+      "type": "Theme",
+      "name": "prix du sang",
+      "id": "Theme_c7e5b31af4c7d2932a6b21293141ad20634b0cb3f35b2ccbfc9caa711673f6ee"
+    },
+    {
+      "type": "Theme",
+      "name": "morts pour la France",
+      "id": "Theme_7aa954d120c4f8b9f163989dbf92f5f587579e68bf97f532811ddf3e16b1922f"
+    },
+    {
+      "type": "Theme",
+      "name": "morts au service de la France",
+      "id": "Theme_4a171632d16d54ca067aafc30ee9045a40681c9a3bff6e24d83bb05f12c6a082"
+    },
+    {
+      "type": "Theme",
+      "name": "veuves",
+      "id": "Theme_d9876a8400c5bc3692410855c69c3e97e1ae9e0fe2fa6d830906cafbbf99a47a"
+    },
+    {
+      "type": "Theme",
+      "name": "enfants",
+      "id": "Theme_7de947c62c1a6fc458ce30539d584aaffa8475ea67a8e2e4d56519f2862cb657"
+    },
+    {
+      "type": "Theme",
+      "name": "parents",
+      "id": "Theme_00abb9e437fd8465aceea8c1beed8f4d6a6b80e23ac29b2d5e353d06e64e928f"
+    },
+    {
+      "type": "Theme",
+      "name": "proches",
+      "id": "Theme_53d1533f9f5376f03bfd305db27a8be96e2fbd388d3abff3159606cbfbb95111"
+    },
+    {
+      "type": "Theme",
+      "name": "deportés",
+      "id": "Theme_fe20ebf31e39bd0c46681d5dab92b396c0c54b4f7a8c2ca1e031f6c185fec94a"
+    },
+    {
+      "type": "Theme",
+      "name": "victimes du terrorisme",
+      "id": "Theme_efc82ff86421883f02077717543b0c952e9c7ec5cd2c012b70e1159318bfe240"
+    },
+    {
+      "type": "Theme",
+      "name": "ennemis de la France",
+      "id": "Theme_a6d3dfbbdfac8453760c1e93986d1c96c1bd69e96967a610032c22609a7dc3d0"
+    },
+    {
+      "type": "Theme",
+      "name": "soldats blessés",
+      "id": "Theme_81a0e4197a0c84801fe63fc4c0abc62893e9f1fc2facbca122bd7a36df24b851"
+    },
+    {
+      "type": "Theme",
+      "name": "patrie",
+      "id": "Theme_4079aa9734c9091368bffcf632034e06cecaadec102a482fdcc6b4ec9873a5eb"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Fête nationale",
+      "evidence": "Je souhaite à toutes les Françaises, à tous les Français, à tous ceux qui ont choisi la France et à tous ceux qui l'aiment une fête nationale sereine et joyeuse.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_28572e950e0c673d82207d1536304fdaaa0fb6a01ecf1c4803e1e15b14c530f5"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "la France vous doit son soutien constant et durable",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "morts pour la France",
+      "evidence": "Je sais les morts pour la France, les morts au service de la France qui laissent des veuves, des enfants, des parents, des proches",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_7aa954d120c4f8b9f163989dbf92f5f587579e68bf97f532811ddf3e16b1922f"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "ennemis de la France",
+      "evidence": "les ennemis de la France sur notre sol ou ailleurs dans le monde vous ont pris un être cher",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_a6d3dfbbdfac8453760c1e93986d1c96c1bd69e96967a610032c22609a7dc3d0"
+    }
+  ]
+}

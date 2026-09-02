@@ -1,0 +1,80 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "ministre de l'Europe et des Affaires étrangères",
+      "id": "Person_107d3fd0b24ab1222134d1b696a9b055aec0697c147bd6e8ac95576edb88ea8f"
+    },
+    {
+      "type": "Person",
+      "name": "ministre déléguée aux Affaires européennes",
+      "id": "Person_d9261bf9af0abd4789dd9a03086d601ed2c7e7fee8150104108ad9c487f7565c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur l'ambassadeur",
+      "id": "Person_ca63df6e99fdaff6436f8fd8ee480f34c6752e2fbbae13fb9d4ec2653a96ecad"
+    },
+    {
+      "type": "Country",
+      "name": "Britannique",
+      "id": "Country_fa1dfe93149f3b56c9391f634ccb465856b5f84d4badca739b405f7b00540820"
+    },
+    {
+      "type": "City",
+      "name": "Manchester",
+      "id": "City_15ff23b6cc45eb64e360984f3db9efaeb1ad7cd5ee8c308b77e558a55be0fadc"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Europe libre",
+      "id": "Country_da97470ff41af9f66069aa2ec2e497225b08e31388a83d2af5740cccdf473178"
+    },
+    {
+      "type": "Person",
+      "name": "Theresa MAY",
+      "id": "Person_f9d077e1f6a9535d00181f420d1d3be0682f9147ffff792fa0063438a36eb744"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de défense",
+      "id": "Organization_525c52145810433a5110d0c9fd219ef52cb45341cae96df8b5e07e51c6348efd"
+    },
+    {
+      "type": "Organization",
+      "name": "task-force anti-Daesh",
+      "id": "Organization_4d8c83821a42a95f2922722a8bc6b8fca1506ec832af3d40ee04f021a34d468d"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe libre",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "c'est toute l'Europe, l'Europe libre qui a été attaquée",
+      "confidence": 1.0,
+      "source_id": "Country_da97470ff41af9f66069aa2ec2e497225b08e31388a83d2af5740cccdf473178",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    }
+  ]
+}

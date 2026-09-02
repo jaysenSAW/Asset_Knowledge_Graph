@@ -1,0 +1,889 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "système de soins",
+      "id": "Theme_baea7ec5d0789bd8fb9a64eafaf813aea886434feb138eb784ee0111636909f8"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle original",
+      "id": "Theme_bf175724ee106dc4399f7b03e979ce7f5ae1115332371ce43bc9a77de0b2083f"
+    },
+    {
+      "type": "Theme",
+      "name": "espérance de vie",
+      "id": "Theme_1d42f3a25de9b99167e96354b35ec5af8cc724613115c8b0f2a4edeb3d02931d"
+    },
+    {
+      "type": "City",
+      "name": "Elysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "Person",
+      "name": "Mes chers amis",
+      "id": "Person_928addbcc526072ee197e54d32f7216fd858e7a76df582007df6b673d997757e"
+    },
+    {
+      "type": "Person",
+      "name": "vos professions",
+      "id": "Person_51fae5e52d0177ba49938d6116bbbe93ed9b0773ac42d891998264a02b64aa1f"
+    },
+    {
+      "type": "Person",
+      "name": "vos patients",
+      "id": "Person_fad7627b59fb79cfa9e6d2ebb07fa6ec3cbd2268a291b6e1fb98e68fb5fe8eb4"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "Etat-providence",
+      "id": "Theme_d1c6314a21eef026a957ac28327df3782b1b36d30e66d2937ad4fa1891a65b78"
+    },
+    {
+      "type": "Theme",
+      "name": "système de santé",
+      "id": "Theme_2657aebfbbfb5694ad4f18f7234ec7531dfc35b68b63242c708fb8b908b3b060"
+    },
+    {
+      "type": "Theme",
+      "name": "parcours de vie",
+      "id": "Theme_4c27d3163220b6cc88ae44e90db051e8dfac51d6e7ceeecafe0c070f43bd78b6"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Suisse",
+      "id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Suède",
+      "id": "Country_f0680f074258c0cbb263830557969af01c50840b9cdfd249ff5c18418896a4ff"
+    },
+    {
+      "type": "Country",
+      "name": "Japon",
+      "id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité",
+      "id": "Theme_3ca1b64490b5262af08e9f6b9b23312ee1d75f2317299eb58ba6eb450eef6651"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention",
+      "id": "Theme_b5d3262ef3c58743a1781f267abe9b162422a835f4df383fc4856acb883ee6a0"
+    },
+    {
+      "type": "Person",
+      "name": "Agnès BUZYN",
+      "id": "Person_a58d1dc18204ecf2331fe2dbbf0458de22d2f06b5220382035c449f4e1f5b8dc"
+    },
+    {
+      "type": "Theme",
+      "name": "alimentation",
+      "id": "Theme_c513edee71bdf794af7ba878fb763b9cc4a3e831c494d701c86bdd518ebd85ab"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "bio",
+      "id": "Theme_fd40d3091a079271cbe06f8bd561bb0849ae49a4e0180b0f8cc2ec89b664d02e"
+    },
+    {
+      "type": "Theme",
+      "name": "cantine",
+      "id": "Theme_527c3f4dd2a6ea838fb334a6590f5966799d6abfefba1b2bf60288beefcf6504"
+    },
+    {
+      "type": "Theme",
+      "name": "restauration collective",
+      "id": "Theme_862f7362131628677306dd3943b601c21a434a58a224c461b2d93ecb707ef68b"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention et de santé",
+      "id": "Theme_c1a95c9ecfb28e209da4962fe3634eff3d492fe3cdd72635d83a673d8478022e"
+    },
+    {
+      "type": "Theme",
+      "name": "tarification sociale",
+      "id": "Theme_e18fae3e9f9f052c2020709885d3dc93fdad064e6dd416b9f23986e4c1b115c7"
+    },
+    {
+      "type": "Theme",
+      "name": "petit-déjeuner dans les écoles défavorisées",
+      "id": "Theme_164a22942eed431a9fb196c0ad7c3a7e3e616dd91567f1321cc847ab55b7e8d0"
+    },
+    {
+      "type": "Theme",
+      "name": "système de soins au service du patient",
+      "id": "Theme_e98bb2e85d827b11594e487d4abf8873fd45d36cf05ef10cd2e4e7afc2277932"
+    },
+    {
+      "type": "Theme",
+      "name": "approche tournée vers le patient",
+      "id": "Theme_b087fc9f036f70c95a79575e06c1a8cbe2a97b09ac62240f88e054131b8c0dfa"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Theme",
+      "name": "système autour du patient",
+      "id": "Theme_d5cfc401815f108ad9b92e023a6cc40334fbd782cd9cd88a89d9e0850c250634"
+    },
+    {
+      "type": "Theme",
+      "name": "temps médical et soignant",
+      "id": "Theme_230adbf9b22f08cd3f19490386c95ada3ef985ecf0096c9ec2fb437595c6afc6"
+    },
+    {
+      "type": "Theme",
+      "name": "numerus clausus",
+      "id": "Theme_a948266ee04c2cbd2b900fc5c2ff5ba99a14fd8b4fdb79e7d059080730d8e2e9"
+    },
+    {
+      "type": "Theme",
+      "name": "études de santé",
+      "id": "Theme_4c136ad9ec7850a7f0c22887958b2ae40b77997a81bce14b292747269eb4d003"
+    },
+    {
+      "type": "Theme",
+      "name": "biotechnologie",
+      "id": "Theme_11df49c56b96f363810526aaa7898d24badbf7d509d48e27fe435f4be32ea9ad"
+    },
+    {
+      "type": "Theme",
+      "name": "dépistage",
+      "id": "Theme_1afe5c30aca008945562a495ea1d6630d289bc33e375ee096138713ea1244cf6"
+    },
+    {
+      "type": "Theme",
+      "name": "suivi",
+      "id": "Theme_7458636d563f4357d4ae75bdac79f6eeaa61d1ba15fd51de12fb188288766b17"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation thérapeutique",
+      "id": "Theme_23fce6da4f601558d817ef695925050d19899b8bf15e6dfb20752357dcfbbf22"
+    },
+    {
+      "type": "Theme",
+      "name": "répartition des tâches et du temps",
+      "id": "Theme_08492726e0119a6bd586fe3bebb096ac79ad0649ff2c364198d691d0fbcd9b1d"
+    },
+    {
+      "type": "Theme",
+      "name": "pratiques médicales",
+      "id": "Theme_eb9f0e6f0d43a050956556734290bcfdb44373fee59b98d0447595302858ceb8"
+    },
+    {
+      "type": "Theme",
+      "name": "accès aux soins",
+      "id": "Theme_55cdedf51d71e04888b10d85006d4bfcc1f09d00135cf6a3b2f422bf21b8231a"
+    },
+    {
+      "type": "Theme",
+      "name": "prise en charge du patient",
+      "id": "Theme_0fc5e05deb99728e80030eb8c43ed7a54aa805a73740a20d2e61ad4e4ea4879a"
+    },
+    {
+      "type": "Theme",
+      "name": "délais d'attente",
+      "id": "Theme_3d16a8cf8176ee7cd4f696f4036b8dfd0dad8e4299d315174831b23537e6f306"
+    },
+    {
+      "type": "Theme",
+      "name": "actions de prévention",
+      "id": "Theme_0df3ccdf24a45447b76ba6b7c08c868535888f6609a489a1fe4ef350171f3f0d"
+    },
+    {
+      "type": "Theme",
+      "name": "réorganisation de l'ensemble de ces professions",
+      "id": "Theme_2e8ac4bc60fed8f8de25577a25e8eb7827b87b57e33ba536de10064c237bb937"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvement dans tous les territoires",
+      "id": "Theme_7d367690a7d1b2d6f6398fd9f761a0e24a5f167ebd145461958198e5836dfa7f"
+    },
+    {
+      "type": "Theme",
+      "name": "zones sous-denses",
+      "id": "Theme_6891dbf0c1c9a509c9233fc3e8434f1ede3c3819c22b3d435304643d2a71ab3a"
+    },
+    {
+      "type": "Theme",
+      "name": "déserts médicaux",
+      "id": "Theme_90235477061eda83e182f329c6c2f9f2ccbe44c4d3105adcad5a33997cc61177"
+    },
+    {
+      "type": "Theme",
+      "name": "vieillissement de la population",
+      "id": "Theme_d891dc6a43299ee63b11e5205aa2d267cffc6dd1fba1896851f07f307f5e78ab"
+    },
+    {
+      "type": "Theme",
+      "name": "vieillissement de la démographie médicale",
+      "id": "Theme_54e72ceec0e7cc1b9ccaf1d8ad6fdf96ea061b8a93ac6408cbc0657347a7ebc8"
+    },
+    {
+      "type": "Theme",
+      "name": "attirer d'entreprises",
+      "id": "Theme_d56d3b0e7b8863265290f9d1b216f5fd05717c576ca25501786bb11f3d844811"
+    },
+    {
+      "type": "Theme",
+      "name": "attirer de nouveaux médecins",
+      "id": "Theme_f94686d71b13e8e1984b252c3f9cdb218dceccb6eb3dd307926b24b50252fc1c"
+    },
+    {
+      "type": "Theme",
+      "name": "contrainte",
+      "id": "Theme_fd66545f33ff9d2f135de96c212bbe5577b935a444fe0527b0fb9a9384713284"
+    },
+    {
+      "type": "Theme",
+      "name": "démographie médicale",
+      "id": "Theme_14c770e50b78aad0af5a784ded407b9ac7743235d341684a8234fe6eef1a26cc"
+    },
+    {
+      "type": "Theme",
+      "name": "obligation d'installation",
+      "id": "Theme_8e5c13d6da698b6a05bad4da250c220c5b26a5ebbbc9f92f2a208e090562e041"
+    },
+    {
+      "type": "Theme",
+      "name": "installation dans ces zones des professionnels de santé",
+      "id": "Theme_a409f73e4161f890679aab7996ecd61f17dca50ce53ae59d87902d593b758c6b"
+    },
+    {
+      "type": "Theme",
+      "name": "exercice collectif",
+      "id": "Theme_c64ea0e0c6da6f0f8c9aca8c7a4605048daad4fc8cb7a99289bd1fe930afc8ca"
+    },
+    {
+      "type": "Theme",
+      "name": "exercice partagé",
+      "id": "Theme_4415bc59d3bb0bb34a6d4b12cb544956fcf1a1565b668021719918eea8205a6d"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "dispositif",
+      "id": "Theme_6c0102d316156a02e792a6e0cd9199619a5696f069b2bb53cd9297e5a0433952"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvement des maisons de santé",
+      "id": "Theme_e1cdaaff36658d3959b2b3d702f13212c1a91cfaecf2184b76a834f5031b3a7c"
+    },
+    {
+      "type": "Theme",
+      "name": "rémunérations attractives",
+      "id": "Theme_0103253f4094229217d6900092656ac09b9b3087adc31954193de2428499271a"
+    },
+    {
+      "type": "Theme",
+      "name": "cadre d'organisation sur le terrain",
+      "id": "Theme_42996de02ccf5180dcc869993c45a675fdb08d98ae0d05982c146353be398fe1"
+    },
+    {
+      "type": "Theme",
+      "name": "meilleur accès aux soins",
+      "id": "Theme_22923fe886c5143af9aafd71108d0bc9f2576b98cc2fecbe221a50b610e6a120"
+    },
+    {
+      "type": "Theme",
+      "name": "services numériques",
+      "id": "Theme_c2f2b65295e72e7c39eb799c8d167eef83e87dde19cea12a2f1aa92c116294b2"
+    },
+    {
+      "type": "Theme",
+      "name": "dossier médical partagé",
+      "id": "Theme_4c5178e06d66684efaeda1658567f30c337128ea0ee1516c5289d2a06d41417a"
+    },
+    {
+      "type": "Theme",
+      "name": "espace numérique patient",
+      "id": "Theme_72a4382868631797e1d122c36c072879ce005004675e6f7fa0a7091dbac5546d"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "système numérique",
+      "id": "Theme_c7f063f1035f2613471fe26d99ea691eb38f9d933c0ba7bc8e65363c29c3aeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "médecine personnalisée",
+      "id": "Theme_0619ebcf1b3c824176579ec5e22e8216b3a5442c91062b1fa87c0670d9f2f22f"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution profonde de la pratique médicale",
+      "id": "Theme_a0f0991356da58c74846be20a6a401274e6e2fbbc61a36d828d145fcdd33d669"
+    },
+    {
+      "type": "Theme",
+      "name": "réorganisation",
+      "id": "Theme_c638931dbba50906473ab443cfee8b7d771fc1831e88c1c3f8fa110751b41e5f"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "incitation",
+      "id": "Theme_da20020d636cc0c7931779f4041155419c45441d710b749a25b743cad7ad772a"
+    },
+    {
+      "type": "Theme",
+      "name": "obligation",
+      "id": "Theme_469bc4cdd51d20aa0cd8b583c1789db6512a52bace0e9d13e6db2c4f1d96f16b"
+    },
+    {
+      "type": "Theme",
+      "name": "sanction",
+      "id": "Theme_29de762b4d94d1c2bfb96115ce40169b65c65dd23e6e0b6ded05461168366740"
+    },
+    {
+      "type": "Theme",
+      "name": "objectif",
+      "id": "Theme_29c488245007257e8171306ee30a7c3ad29bf0cdb11553f8897161573c083a67"
+    },
+    {
+      "type": "Theme",
+      "name": "réalité",
+      "id": "Theme_f61fac0cb01c1748ffc105c9942e7a6ac63b121d7cabbc89d6b44d21af9b5a97"
+    },
+    {
+      "type": "Theme",
+      "name": "aspiration",
+      "id": "Theme_55b07166e938d7e8aa24685df7e73573597c08831b7962e5356324b5a6435b18"
+    },
+    {
+      "type": "Theme",
+      "name": "enjeu",
+      "id": "Theme_a858f1e51af8a65a8af54f14ee82128508c83b44634e0c673a3807020a47750c"
+    },
+    {
+      "type": "Theme",
+      "name": "attente",
+      "id": "Theme_9718071c9cc9df45a521f680a60f538ef4b154f328ec839c519aefc49d51a2ab"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelle génération",
+      "id": "Theme_a919a565bd433f777c948151bc763351098b0c9206db966b4a2bcf39d5c91c86"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveau modèle de coopération",
+      "id": "Theme_4dea789895f2cb2e52f3026407bfa4cd59c43884a6afd98a60ffe2f557e9532f"
+    },
+    {
+      "type": "Theme",
+      "name": "rémunération",
+      "id": "Theme_5830dfee1249f6ccc517a52e0542c51a180d6ddf39710533fbebd52a95a48afe"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "urgences non vitales",
+      "id": "Theme_e6dab4d885ed7bb5ca02658de680bedd6c1d73eef035fa4e6907d95c5c2972d9"
+    },
+    {
+      "type": "Theme",
+      "name": "permanence de soins non programmés",
+      "id": "Theme_7916c5e32e6820f24ef6d37ebc05d9367d85300f06d6091d435274e3a24f56a2"
+    },
+    {
+      "type": "Theme",
+      "name": "négociation",
+      "id": "Theme_cd534909538d9126e7d675840d69d6bf8a610fcc86f290154dc42ad3edc6363f"
+    },
+    {
+      "type": "Theme",
+      "name": "situation des urgences hospitalières",
+      "id": "Theme_da1ef10ea1a2fd9795be6cc7ec8f64497761fbcfc77a2a564e6ddd2144dad009"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation des soins non programmés",
+      "id": "Theme_8df5aa3ea677e21feb74a233785911e199a9be819bf5fe046d3729e3a5917840"
+    },
+    {
+      "type": "Theme",
+      "name": "services d'urgence",
+      "id": "Theme_b65a44629d175ae609288d340fce5d224f5fa8656bb03d1e044b87366c2c8b19"
+    },
+    {
+      "type": "Person",
+      "name": "celles et ceux qui sont ou régulateurs, ou personnels soignant dans nos urgences",
+      "id": "Person_583d007bb29c8b33dfe0bf0bc48c7eaf345ce66a45ca23c6080607bbae54f31b"
+    },
+    {
+      "type": "Person",
+      "name": "tel ou tel",
+      "id": "Person_8b9ab491fdbbac1b9d93b317a2faa7b4d010693fcc94a3b4cbcc69d3126a8af9"
+    },
+    {
+      "type": "Person",
+      "name": "les représentants des urgentistes",
+      "id": "Person_8612d3789a21995d986ee542af8d8f8d974a56df2e4de69c660aec16641baa05"
+    },
+    {
+      "type": "Person",
+      "name": "les ministres de la Santé et de l'Intérieur",
+      "id": "Person_69b4137097860516a2160df9e1c161610d7dcd677c00eb5f99830e5ae624988f"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité des soins",
+      "id": "Theme_9fdf889c71fa8b6ba881f134be34a7d85543857d217e0aee9f4f8c7bbd38cb01"
+    },
+    {
+      "type": "Theme",
+      "name": "hypocrisie",
+      "id": "Theme_8a9ab6525c770cf2fdbeb942c3a0497fbad2440a62cb4ed8a195ef55fc341235"
+    },
+    {
+      "type": "Theme",
+      "name": "files d'attente",
+      "id": "Theme_3abb1c942ae185222b6c3b631844b39429c37d3996b50791788b0dd8c6852e18"
+    },
+    {
+      "type": "Theme",
+      "name": "passe-droits",
+      "id": "Theme_ef83eeaaebc2e3edefed7978f4cd6f212aa874b5ed029dde670ef85848a31171"
+    },
+    {
+      "type": "Theme",
+      "name": "soins de proximité",
+      "id": "Theme_7d38beaa0fef61a515282dc52474fc548276f313fc4b8946a640d3fa4aab5c8e"
+    },
+    {
+      "type": "Theme",
+      "name": "soins de pointe",
+      "id": "Theme_1dc368df4b4c34fc49f7ce378adb9e852a9666cfc362700ce243a7467d386e46"
+    },
+    {
+      "type": "Theme",
+      "name": "performance de la recherche",
+      "id": "Theme_b1d0a36539967c95d1fa43e0365560fb8a66eb005fee839a7c876a158d2dc27f"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation en santé",
+      "id": "Theme_817453dcf28df2c26ee53d7b356936ccdd96a8833bd9c2dcb5a6b6680366cd6f"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle hospitalo-universitaire",
+      "id": "Theme_e90fa70b4e6876da73bb159c1aa8b8c9270f5940ced1e4038c2f9f744745411c"
+    },
+    {
+      "type": "Theme",
+      "name": "rééducation",
+      "id": "Theme_00762f7edbdb9e5c29074bae1e99b1134b8df12851ee0b340f5b555668962eeb"
+    },
+    {
+      "type": "Theme",
+      "name": "suivi postopératoire",
+      "id": "Theme_ed37848088a301514d1ac106604cfa3920cf40a745c203a101beeff6640bb978"
+    },
+    {
+      "type": "Law",
+      "name": "ordonnances dites Debré de décembre 1958",
+      "id": "Law_7ef19d69b65306429dbdc4961714f840a0286942f05f0d94630b2765be7544b1"
+    },
+    {
+      "type": "Law",
+      "name": "acte constitutif des CHU",
+      "id": "Law_2d0730ea9f5c9433bcb734654cebe7a9923a820e55b90fb1316a2a4dd8f76cd0"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité de l'offre de soins",
+      "id": "Theme_09d598a43226c119c533d3590c0c6b1cfbb8e3c3a06816a39d7f9bbba60416e4"
+    },
+    {
+      "type": "Theme",
+      "name": "services de proximité",
+      "id": "Theme_d097cc01db8d392379f712b123070178128249fe162ca5adfc5bced1ab566ba1"
+    },
+    {
+      "type": "Organization",
+      "name": "Ministre de la Santé",
+      "id": "Organization_44fc5aef1633481cc5d5f3e676ed0565b2c1413d752c5abca9799b6a71688462"
+    },
+    {
+      "type": "Organization",
+      "name": "hôpitaux de proximité",
+      "id": "Organization_840e1b79ebda7faf53d4539e529247d0409c73f23b5c95ece5eae82b73f7b932"
+    },
+    {
+      "type": "Organization",
+      "name": "AP-HP",
+      "id": "Organization_353a350b1b6976d2e2a89343a8bfe405e209c962687d4d6bcf3d9c3447662911"
+    },
+    {
+      "type": "Theme",
+      "name": "statut moderne et attractif",
+      "id": "Theme_d4ea77d4feb3d0bfac7ebe1f9a5bcf794bcdb4fe9448d864c4142082f74d7a41"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation de l'offre",
+      "id": "Theme_8daa7371cc955b273f4e9aaecf6520c58306407af2bc9e7162b839888370206e"
+    },
+    {
+      "type": "Theme",
+      "name": "actes non pertinents",
+      "id": "Theme_ecc7e537c2b16a62fc6649328a7f6c9b1c53848c893057a882a82c5f8f2273b2"
+    },
+    {
+      "type": "Theme",
+      "name": "financement",
+      "id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération entre les professionnels",
+      "id": "Theme_72fc629db2949dfafe3743a7eafb301a9e76dcd41ed2245b1e019ed9251c41d2"
+    },
+    {
+      "type": "Theme",
+      "name": "T2A",
+      "id": "Theme_23509c4dae24ca614789fc05658b4482ea4b8919bdbbd1c231999b5b04802a08"
+    },
+    {
+      "type": "Theme",
+      "name": "système",
+      "id": "Theme_8d2bd4c17ae9f6aedd7a809555b1cce0c3cd227f3ba23f2a66d0a3fd1d2e5161"
+    },
+    {
+      "type": "Theme",
+      "name": "incitation financière à la qualité",
+      "id": "Theme_650f1a4e0c5accfe8ec9f17ce805f258500a386b87ce89a4ebe84dd12065411c"
+    },
+    {
+      "type": "Theme",
+      "name": "pathologies chroniques",
+      "id": "Theme_0e545126506275aa8de2cd110ceaa7332eee8ebfae51a7a99c82d565c7d6c05b"
+    },
+    {
+      "type": "Theme",
+      "name": "diabète",
+      "id": "Theme_5fa92ac25b76ea5c3ef4d4ecbb8ee559fa12ad0ec5655d61cca30530b10503d5"
+    },
+    {
+      "type": "Theme",
+      "name": "insuffisance rénale chronique",
+      "id": "Theme_8b00d8501f22d7b66e3a98892b8dc5de1c11d16aa69cfd954a114e42d571e19c"
+    },
+    {
+      "type": "Theme",
+      "name": "encadrement plus souple",
+      "id": "Theme_f1dddb3532f611e85eca0fc48cf924ce2b945307a64c8d1ba1ebfbd0e59250ec"
+    },
+    {
+      "type": "Theme",
+      "name": "conditions d'emploi en seconde partie de carrière",
+      "id": "Theme_964fea2287031b966d09f9e4997da3c95c9cbbdeccc581b4a5c9ae383bc7fac5"
+    },
+    {
+      "type": "Person",
+      "name": "personnels soignants",
+      "id": "Person_7c877c02d2e29268d06f2634c680aad21af26bbaa5288d31ba508cc9df91391f"
+    },
+    {
+      "type": "Organization",
+      "name": "l'hôpital",
+      "id": "Organization_c64c2098af08237d71a65ed962ed485f119adda25320027a9b093ddbff3998ee"
+    },
+    {
+      "type": "Theme",
+      "name": "l'évolution de l'hôpital",
+      "id": "Theme_3aac7c23287a0dc81297d567e02f2dfe8a09428dbf9c48ec6bffef77770f321e"
+    },
+    {
+      "type": "Theme",
+      "name": "les dernières réformes",
+      "id": "Theme_c3591026809303e1b6cfdb391bc3f3073d5c0194151d88b321f56741acc034ab"
+    },
+    {
+      "type": "Theme",
+      "name": "les décisions au niveau le plus proche des patients",
+      "id": "Theme_2bf2a08ca74265df89aa52460bbf5be44e79c302483e655ba0e410285fb15bc7"
+    },
+    {
+      "type": "Organization",
+      "name": "CME",
+      "id": "Organization_1ef906e01d0d6eec16e894835a68f53e9884a275ea0598e7c1aa0f6cf38dd4d7"
+    },
+    {
+      "type": "Organization",
+      "name": "conseil de surveillance de leur centre hospitalier de proximité",
+      "id": "Organization_09a36de9040cc2b0104a268e76ef8152d4bcea280c58b57611111db710821bf9"
+    },
+    {
+      "type": "Organization",
+      "name": "groupements hospitaliers territoires",
+      "id": "Organization_a634e6fa6cf4aa95e79008cc6e9299c6f389d2e6342e23393d571acdbea562dd"
+    },
+    {
+      "type": "Organization",
+      "name": "PU-PH",
+      "id": "Organization_ef5b4949b8084cb7038bb21637d48f747414ed06ffcd37471a081e6d1b8f23f2"
+    },
+    {
+      "type": "Theme",
+      "name": "statut de praticien hospitalier",
+      "id": "Theme_5de9e2407c07026796a714d68f650e0eb38991b97e0ef58e1d5a602aca76f8eb"
+    },
+    {
+      "type": "Theme",
+      "name": "carrière",
+      "id": "Theme_b66feb681f9a476b397bc23c9c2b442687b1028065044526163a690f9057808d"
+    },
+    {
+      "type": "Theme",
+      "name": "modes d'exercice",
+      "id": "Theme_8454f72c05edb5df3d0c7649b6770349a1db5e994701efbc5762a4ca8e1925ee"
+    },
+    {
+      "type": "Theme",
+      "name": "exercice en ville",
+      "id": "Theme_c8fa366708c96bca52cf76c49dd338fd0d2b2fdfe1b81f80b4552357dbdfa3cf"
+    },
+    {
+      "type": "Theme",
+      "name": "exercice à l'hôpital",
+      "id": "Theme_c77f1c609a07f5052c56dc45f2da93b56f7105fcb5af11c09e5e93e8d076a7d1"
+    },
+    {
+      "type": "Theme",
+      "name": "exercice mixte",
+      "id": "Theme_77e348467517e51a1dedcb93172507983f402b922f6184a24e88c3d59ee2019d"
+    },
+    {
+      "type": "Theme",
+      "name": "décision",
+      "id": "Theme_0694a8feaa687e0934e098f698e25e297270a4521bad510e800c3f23af931fa0"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "médicament",
+      "id": "Theme_00f0e19da2707c887877690ba32fbc971f67908e4066e12b2c554f48cb90a985"
+    },
+    {
+      "type": "Theme",
+      "name": "jacobinisme",
+      "id": "Theme_bef2d817789e41af857376cc03eb78ecbdd12466497431f4fd7aeebf83ebf083"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés individuelles",
+      "id": "Theme_759ccdc015d83cf60a6046b0b9d40b9d6f2ba26eed4cc7fc4859025eb4ae5ca8"
+    },
+    {
+      "type": "Organization",
+      "name": "CNRS",
+      "id": "Organization_9797a7b293510a1bf26addf4f9eb951f6a91dfb71b6b8d8c7031c08fb95a0fa4"
+    },
+    {
+      "type": "Organization",
+      "name": "INSERM",
+      "id": "Organization_f23e2a99ebfcec3c01ea31acdd2249332420cad575f0c8a108947d92f0bc39eb"
+    },
+    {
+      "type": "Organization",
+      "name": "CHU",
+      "id": "Organization_5adefdb833e34d207edc562ac796eb4ffe813689b474b0607bf1ac6d05312b36"
+    },
+    {
+      "type": "Organization",
+      "name": "start-up de la biotechnologie",
+      "id": "Organization_d785bf8954b696b2c97471d77a64a62c913961ee8bfdfa7302e10528cb98f9dd"
+    },
+    {
+      "type": "Theme",
+      "name": "souffrance",
+      "id": "Theme_0c3071918aa68c376b3aa12a734d48070bd74043ced36cc28e2da83f40a9e42c"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses uniquement curatives ou symptomatiques",
+      "id": "Theme_b5f3009040ae737005159d0a0d590a3847149692a5a31d407e559bab1ee6f382"
+    },
+    {
+      "type": "Theme",
+      "name": "argent public",
+      "id": "Theme_82a73eb22ebe037c145c08aa6ae8ba3890dfc31abceacc5169765b0caf76d568"
+    },
+    {
+      "type": "Organization",
+      "name": "ONDAM",
+      "id": "Organization_0a3a53caed9984b25ec235d8363ee8665b66104616edf6ae37c1cb078aec504b"
+    },
+    {
+      "type": "Organization",
+      "name": "AP-HM",
+      "id": "Organization_2efd94abf87c553090d451aae55301ea402679e6d4b64333d39df0d13317123d"
+    },
+    {
+      "type": "Organization",
+      "name": "plan d'investissements d'avenir",
+      "id": "Organization_86276e999754e31ae0272a260ae2bd140805095e72cd5ae10f08ddd2f7892714"
+    },
+    {
+      "type": "Law",
+      "name": "projet de loi de financement de la Sécurité sociale",
+      "id": "Law_1e5fb898c7b5609f5db3897aac90415cadefcaf906694ea2a788c0e5ed48553d"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance",
+      "id": "Theme_b922336e378de1f3bd3c36e9805efd63ad949f8fbff73adbfc2b3826e811ee6a"
+    },
+    {
+      "type": "Theme",
+      "name": "cadres d'exercice mixtes",
+      "id": "Theme_04e73b4d2d04cf758c10aeb262ecfa29731e60a7a8e783965860ca9b0df89209"
+    },
+    {
+      "type": "Theme",
+      "name": "modes de financement",
+      "id": "Theme_3cb778e0197155122b26e38fb7417880cee27f052f9780e68bdcd23f6157fa21"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "OCDE",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France, quand je regarde les chiffres, consacre aujourd'hui à ses dépenses de santé une part considérable de sa richesse nationale, à peu près 11,5 % de son produit intérieur brut, ce qui nous situe au 3ème rang des pays de l'OCDE après les Etats-Unis et la Suisse et devant l'Allemagne, la Suède ou le Japon.",
+      "confidence": 1.0,
+      "source_id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Royaume-Uni",
+      "evidence": "on ré-hospitalise deux fois plus en France qu'au Royaume-Uni, 30 % de plus qu'en Suisse.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Suisse",
+      "evidence": "on ré-hospitalise deux fois plus en France qu'au Royaume-Uni, 30 % de plus qu'en Suisse.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "source": "système autour du patient",
+      "relation": "SPOKE_ABOUT",
+      "target": "système autour du patient",
+      "evidence": "La première orientation, c'est de construire le système autour du patient, et d'abord, tout simplement, de lui permettre d'avoir accès aux soins dont il a besoin.",
+      "confidence": 1.0,
+      "source_id": "Theme_d5cfc401815f108ad9b92e023a6cc40334fbd782cd9cd88a89d9e0850c250634",
+      "target_id": "Theme_d5cfc401815f108ad9b92e023a6cc40334fbd782cd9cd88a89d9e0850c250634"
+    },
+    {
+      "source": "temps médical et soignant",
+      "relation": "SPOKE_ABOUT",
+      "target": "temps médical et soignant",
+      "evidence": "la priorité absolue, c'est de regagner du temps médical et soignant, disponible pour nos concitoyens.",
+      "confidence": 1.0,
+      "source_id": "Theme_230adbf9b22f08cd3f19490386c95ada3ef985ecf0096c9ec2fb437595c6afc6",
+      "target_id": "Theme_230adbf9b22f08cd3f19490386c95ada3ef985ecf0096c9ec2fb437595c6afc6"
+    },
+    {
+      "source": "ordonnances dites Debré de décembre 1958",
+      "relation": "ANNOUNCED",
+      "target": "acte constitutif des CHU",
+      "evidence": "l'anniversaire des 60 ans de l'acte constitutif des CHU par les ordonnances dites Debré de décembre 1958",
+      "confidence": 1.0,
+      "source_id": "Law_7ef19d69b65306429dbdc4961714f840a0286942f05f0d94630b2765be7544b1",
+      "target_id": "Law_2d0730ea9f5c9433bcb734654cebe7a9923a820e55b90fb1316a2a4dd8f76cd0"
+    },
+    {
+      "source": "l'hôpital",
+      "relation": "LOCATED_IN",
+      "target": "l'hôpital",
+      "evidence": "l'hôpital",
+      "confidence": 1.0,
+      "source_id": "Organization_c64c2098af08237d71a65ed962ed485f119adda25320027a9b093ddbff3998ee",
+      "target_id": "Organization_c64c2098af08237d71a65ed962ed485f119adda25320027a9b093ddbff3998ee"
+    }
+  ]
+}

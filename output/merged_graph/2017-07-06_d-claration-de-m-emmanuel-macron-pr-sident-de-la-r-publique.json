@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Président Enrique Peña Nieto",
+      "id": "Person_1eb870f5371ea8bd1a96ad68552bd5e1d06b360a244dc45d1184e4d08e41d22f"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Hambourg",
+      "id": "City_5f0ecb96620ef9ebca6aa194a976160060487d441877555f8f17a6f02f8948b9"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Country",
+      "name": "Mexique",
+      "id": "Country_d3e4ec88b23f6ff4e50f7438e11c41eabddc54b73ce79446e2761c9b1f256a87"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "relations bilatérales",
+      "id": "Theme_408b8bd1217d67f46d5809cb71154f9c8f9ae41670a929f6870ba2f4b85a5c66"
+    },
+    {
+      "type": "Theme",
+      "name": "échanges humains",
+      "id": "Theme_5656eac75e37f719ca11faa54f95ae1de47c134d7104705a728f7a0da5c2d5aa"
+    },
+    {
+      "type": "Theme",
+      "name": "universitaires",
+      "id": "Theme_1f4a4ae55f5ef6a10bfa76f86880af1a5dfa529d9c3f412ba63eb2eca8dbd6ce"
+    },
+    {
+      "type": "Theme",
+      "name": "scientifiques",
+      "id": "Theme_52910a645808652052e2f9f38197c3348ce77481ea3521df14cabdf60beaa151"
+    },
+    {
+      "type": "Theme",
+      "name": "culturels",
+      "id": "Theme_ce50dd138715d84d0634c95d4826e2001d2f4e28ae77e4f1c0ad0dfb90ef63f5"
+    },
+    {
+      "type": "Person",
+      "name": "hommes et femmes du monde culturel français",
+      "id": "Person_660aebb172a71f198585487857b6aac64cc48bd239bc74fdc3bc9ed1040b5090"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil stratégique franco-mexicain",
+      "id": "Organization_234189a312510f4569a276f2e4efc9ff79817b15948cf60d9a8f38ffd52a5757"
+    },
+    {
+      "type": "City",
+      "name": "Mexico",
+      "id": "City_9e43d6001f2a8b921b89e799277990469c153f54ef89ce9f5054313958adc103"
+    },
+    {
+      "type": "Theme",
+      "name": "culturelle",
+      "id": "Theme_f161bcc017396ba95fc2fdeb91bd58c459cf7773eccb821992887f63b6db7f38"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le réchauffement climatique",
+      "id": "Theme_87fcffeb0b095d638b1ce229a807c21b51759f54208553ace6ac1f29815655a0"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements croissants",
+      "id": "Theme_83a0e0bea43742ed0ab90cf3b89d98e69a8871f1b186d28de0485be1d80736d7"
+    },
+    {
+      "type": "Theme",
+      "name": "dîner",
+      "id": "Theme_a0018c0de490951577b724bb6b89f4c704d943a0f22f42a8ee089e72c1996283"
+    },
+    {
+      "type": "Theme",
+      "name": "sujets d'intérêt commun",
+      "id": "Theme_02bdfb64a196de2398dad63617b0d8ae0afbdd6318ed0b1defd89cdd3e06e263"
+    },
+    {
+      "type": "Theme",
+      "name": "sujets régionaux",
+      "id": "Theme_f11eb78baba4de0f735bf5f307c09bcd9f2ea7de97b145ac7c87f68df4fbc014"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Mexique",
+      "evidence": "le Mexique est à mes yeux un partenaire très structurant pour la France dans la région",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_d3e4ec88b23f6ff4e50f7438e11c41eabddc54b73ce79446e2761c9b1f256a87"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Mexique",
+      "evidence": "le Mexique est à mes yeux un partenaire très structurant pour la France dans la région",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_d3e4ec88b23f6ff4e50f7438e11c41eabddc54b73ce79446e2761c9b1f256a87"
+    }
+  ]
+}

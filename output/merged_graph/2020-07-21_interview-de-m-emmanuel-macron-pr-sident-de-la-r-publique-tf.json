@@ -1,0 +1,361 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Julien ARNAUD",
+      "id": "Person_ee9005b8a1bf3e4b6bc66b7a65e1584131a3e55fc1ba5f8b2b7c89745b042a29"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Theme",
+      "name": "budget",
+      "id": "Theme_476c75e33f21fc15bc5588b5d07c657897da27f908716f5af56abf04963f337c"
+    },
+    {
+      "type": "Theme",
+      "name": "plan de relance",
+      "id": "Theme_0284b43f69888e3ab0015c645b207cd8a09e25a57ef364a712d8ad0acf0ba263"
+    },
+    {
+      "type": "Theme",
+      "name": "politique agricole commune",
+      "id": "Theme_1796b813e5674c322f458d3ac2c8fc1be8b4bd91d83b6c1ca5b3aed930fc94bd"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté alimentaire",
+      "id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "type": "Theme",
+      "name": "revenu de nos agriculteurs",
+      "id": "Theme_749bcaea793f4c67e11331dbe0dfa44b8be046cb331f6372c6c949592051e723"
+    },
+    {
+      "type": "Theme",
+      "name": "régions",
+      "id": "Theme_517b777f2e26c668d40b8c70e5c435e7111c4b26f68ad351b155ce2e26fc3aa0"
+    },
+    {
+      "type": "Theme",
+      "name": "régions ultramarines",
+      "id": "Theme_4fa8f0dc20876f068a2be2b64a45868ff6753605b422628ba461fca60e15844d"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "secteurs industriels et écologiques",
+      "id": "Theme_221b8c3f8f8a1bf877967f3d01e748afc09373a1f4f0526b913f3c0a3aa8ea6c"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène",
+      "id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "type": "Theme",
+      "name": "batteries électriques",
+      "id": "Theme_761658a4d46dd4a8a739d988d1dcca8fa209d5dd7a0f44441b555ae6efde6d92"
+    },
+    {
+      "type": "Theme",
+      "name": "rénovation thermique des bâtiments",
+      "id": "Theme_a607b26899a05c104a66bdd076d5ac02bf0c2d323123b1ddd9dea9bfc249efd1"
+    },
+    {
+      "type": "Organization",
+      "name": "Airbus",
+      "id": "Organization_41a65ef42423e17c2e554b35b23788a40b455d82f989891061352dba64083a6e"
+    },
+    {
+      "type": "Organization",
+      "name": "Air France",
+      "id": "Organization_30714a786ae2ca272d2590c5a11f2eb2994257dc88612836ec1e8df595a8b485"
+    },
+    {
+      "type": "Organization",
+      "name": "Renault",
+      "id": "Organization_9425ee5717dc5cb68560b01d592d6c911f497a77aaa3fe555c812e8d1a308423"
+    },
+    {
+      "type": "Theme",
+      "name": "endettement",
+      "id": "Theme_932335bb1aea6760d0beb591f3eff27f6be59795a00335abe5a5e5432b70c245"
+    },
+    {
+      "type": "Theme",
+      "name": "impôts",
+      "id": "Theme_e039bfc7ccff8aa85085db8ce217e7430b68e294f8d0bde57c171f438f07c4c9"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "écologique",
+      "id": "Theme_4a5667ffbfa78eac219711f4d9b571ef99fe5b175ad5274135818143d09caefb"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Theme",
+      "name": "dette",
+      "id": "Theme_070cb48b73787684ff56be5de37c3feabdc52a4c87883769b454e502f3f2e5b5"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêts",
+      "id": "Theme_7985e9987e13c9030f36916a481394f10120f2a2df5af45e1a9e071efa20c22c"
+    },
+    {
+      "type": "Theme",
+      "name": "ressources propres",
+      "id": "Theme_1fbb3c12eb7a37939057933d9f9adae2e8831d8013774a3abd5a80f794e23f4c"
+    },
+    {
+      "type": "Theme",
+      "name": "taxe Plastique",
+      "id": "Theme_16327b1c58896080a14554f6bbe12a08211e015966fe1b4437914d50c297e978"
+    },
+    {
+      "type": "Theme",
+      "name": "taxes",
+      "id": "Theme_3a559f0d67f80bc79e229d21cd480d252bf74d12e4a1b943cbf8c97b19ec537e"
+    },
+    {
+      "type": "Theme",
+      "name": "taxe numérique",
+      "id": "Theme_3db98f3e19129c7996ae80e170c5457b1ec06f51eef664031bcf40490e6e09b6"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence déloyale",
+      "id": "Theme_6f8aaf83503a1261119bf6adc4b9e04626d7f50d15b570c55e9df4f409b2f3fb"
+    },
+    {
+      "type": "Theme",
+      "name": "carbone",
+      "id": "Theme_88dffe735e7fae4c0d1aab165fdb44afd8d6e9582246e923413a6f6a30057cb8"
+    },
+    {
+      "type": "Theme",
+      "name": "efforts pour être plus vertes",
+      "id": "Theme_deac42d1e0fdb92ffda96fc8a9f64725a38102debe65b8ea3643d52852e67e70"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence",
+      "id": "Theme_ed714e04f0072912f37b05dc73e487727a8c579005e7b04f4ac05a26f6929b10"
+    },
+    {
+      "type": "Law",
+      "name": "fiscalité européenne",
+      "id": "Law_aff9aba8208dc8cc61291c079feef678b902bd12ca0a8dbf985aa05090148171"
+    },
+    {
+      "type": "Theme",
+      "name": "crise sanitaire",
+      "id": "Theme_743ee24ed44703d4666d6b5cf4b4d242d463d4e45a0472c4fa437ed044489173"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs climatiques",
+      "id": "Theme_8cbe5452584e4fb987f77cc1abc7e62697f9c8a6182b5fdf64eb6498d4ab6a65"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "contribuable français",
+      "id": "Organization_7feb3cd2c1be6aa0931521eee94a3e6ed229a2d793a4416ac344aebdee581e53"
+    },
+    {
+      "type": "Organization",
+      "name": "acteurs publics et privés",
+      "id": "Organization_6af47d4fdae7618bb126817858b6cf7cd7bd2e061cea64ee53e5d45f608eae57"
+    },
+    {
+      "type": "Organization",
+      "name": "Européens",
+      "id": "Organization_f6b3a751d2fd95015afbd3c97f2af5182960bcc0c37e64281401c7eeaf81d14a"
+    },
+    {
+      "type": "Theme",
+      "name": "masque",
+      "id": "Theme_d660d5b71258784929f23f276febcb26dd4c247ad0d14c7c368b4fc20a5cb0af"
+    },
+    {
+      "type": "Theme",
+      "name": "stock",
+      "id": "Theme_2b882f036e1add69f5cf95aa51264f6a60c0f1d967bf297f797833931556b59e"
+    },
+    {
+      "type": "Theme",
+      "name": "production",
+      "id": "Theme_e8edecdd5abbd5917963b54df9936db4bdcba4f90bb9a98a9174725c74a9b1a4"
+    },
+    {
+      "type": "Theme",
+      "name": "soignants",
+      "id": "Theme_b13cc9fc05c4812442eb32d6a982fae92924d3c9b59d27a4783a0b9569fa04a8"
+    },
+    {
+      "type": "Theme",
+      "name": "respirateurs",
+      "id": "Theme_c1d0afccafe59e08c3734ce76dbbb129335425cb94375cefe59f0173302bcd67"
+    },
+    {
+      "type": "Theme",
+      "name": "produits pharmaceutiques",
+      "id": "Theme_6341e10c04fabef97def37fed0505de33b2ce580400d417d8b84cfee8bde9244"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccin",
+      "id": "Theme_32ec3b4bac32f73345f9e33a388256bcaced72a72a5de7433f9116a540d3ce0c"
+    },
+    {
+      "type": "Country",
+      "name": "Schengen",
+      "id": "Country_6a3d1691d064ce783d29f20245436868f0bb53b5e2fa5321c38f31a4b0399e5b"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "espace Schengen",
+      "id": "Theme_09b43949bdc06f267e6d9608887ab1cd0b2ae86ff36ecc7dedc53b442d44b554"
+    },
+    {
+      "type": "Country",
+      "name": "États signataires de l’accord de Schengen",
+      "id": "Country_e64fa627934241e6da1cc1f6543117adafd5d652c725f7be75d95a8084dcf103"
+    },
+    {
+      "type": "Person",
+      "name": "MERKEL",
+      "id": "Person_11ad4e67ef3a2e4b330ebc39970509630c2fce5702d04790e6328b02bf6b451d"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "euro",
+      "id": "Theme_709528d8ce93bba87ada5be2754665013742700bb20381da4551b98a54e333b5"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "régions ultramarines",
+      "evidence": "La France touche des financements et en particulier pour nos régions ultramarines.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_4fa8f0dc20876f068a2be2b64a45868ff6753605b422628ba461fca60e15844d"
+    },
+    {
+      "source": "fiscalité européenne",
+      "relation": "MENTIONS",
+      "target": "fiscalité européenne",
+      "evidence": "Ce sont des acteurs, la plupart du temps grandes entreprises internationales, parfois européennes, qui aujourd'hui ne sont pas assez sollicitées et qui vont payer progressivement cette dette par la fiscalité européenne que nous allons bâtir.",
+      "confidence": 1.0,
+      "source_id": "Law_aff9aba8208dc8cc61291c079feef678b902bd12ca0a8dbf985aa05090148171",
+      "target_id": "Law_aff9aba8208dc8cc61291c079feef678b902bd12ca0a8dbf985aa05090148171"
+    },
+    {
+      "source": "fiscalité européenne",
+      "relation": "SUPPORTS",
+      "target": "objectifs climatiques",
+      "evidence": "C'est là où à la fois, nous allons lever aujourd'hui une dette pour financer la transformation de notre économie et répondre à la crise sanitaire, économique et sociale que nous vivons et que nous allons le financer par la transformation d'une fiscalité européenne qui permet, 1, de mieux taxer les acteurs du numérique et 2, de correspondre à nos objectifs climatiques.",
+      "confidence": 1.0,
+      "source_id": "Law_aff9aba8208dc8cc61291c079feef678b902bd12ca0a8dbf985aa05090148171",
+      "target_id": "Theme_8cbe5452584e4fb987f77cc1abc7e62697f9c8a6182b5fdf64eb6498d4ab6a65"
+    },
+    {
+      "source": "fiscalité européenne",
+      "relation": "SUPPORTS",
+      "target": "crise sanitaire",
+      "evidence": "C'est là où à la fois, nous allons lever aujourd'hui une dette pour financer la transformation de notre économie et répondre à la crise sanitaire, économique et sociale que nous vivons et que nous allons le financer par la transformation d'une fiscalité européenne qui permet, 1, de mieux taxer les acteurs du numérique et 2, de correspondre à nos objectifs climatiques.",
+      "confidence": 1.0,
+      "source_id": "Law_aff9aba8208dc8cc61291c079feef678b902bd12ca0a8dbf985aa05090148171",
+      "target_id": "Theme_743ee24ed44703d4666d6b5cf4b4d242d463d4e45a0472c4fa437ed044489173"
+    },
+    {
+      "source": "Emmanuel MACRON",
+      "relation": "SUPPORTS",
+      "target": "Emmanuel MACRON",
+      "evidence": "Emmanuel MACRON",
+      "confidence": 1.0,
+      "source_id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b",
+      "target_id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ]
+}

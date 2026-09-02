@@ -1,0 +1,730 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Japon",
+      "id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Organization",
+      "name": "OIT",
+      "id": "Organization_db7c127d19fa65559477d77988e516d7df85336ffb8d557946ccc2993deeef84"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "crise liée au numérique",
+      "id": "Theme_149129445a61af5df87d499aabba8aa85f827f81140e0f72a7fb42ab2b1b0096"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie du futur",
+      "id": "Theme_a3a3528ddc0a78535e557c751f6d4dc76886c7eca2cc892992387ba5a4ad1605"
+    },
+    {
+      "type": "Theme",
+      "name": "Internet of Things",
+      "id": "Theme_19c33a2dcfe0a29d8e3e2d4ebd174e9dda7abf23a8d4751c68b1d127f6d2e975"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "rapport à l'autre",
+      "id": "Theme_98ba84cdf25e45640340b975b141736ec7b7f8ac0ede2752842efb62fd0f6ced"
+    },
+    {
+      "type": "Theme",
+      "name": "confidentialité sur ses informations",
+      "id": "Theme_1031550d6345403bb9f04a5928f8feb5584a15a7149b9c81e86314dfcfc0c579"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation de la société",
+      "id": "Theme_ce137b3a67c68d8d158863c8fcf98d8a7a500bf5010f268e2ae50c8af9a3646d"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre public commun",
+      "id": "Theme_af98e7de9b1a516ba8c235f826996d06a2db91816b953443981761b780bb0060"
+    },
+    {
+      "type": "Theme",
+      "name": "rapport de l'un à l'autre",
+      "id": "Theme_59cc670ef3c67dc1ece16f6c7505366a3c4cad88ca0e2c15a0dd4e461e058579"
+    },
+    {
+      "type": "Theme",
+      "name": "discours de haine",
+      "id": "Theme_aae9b79bed5f0531ce376fd984c217ae925daaa283ff11ec8ec01619f81e4565"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de nos données personnelles",
+      "id": "Theme_98b011d06f7efc6bf395b1be5314931eca675f8ab1f34a06509341c9ffdb3814"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Person",
+      "name": "Abe",
+      "id": "Person_cb3ec08433865b3842ae844b5818b4ae97f4d6b15bc35f40698f6dff78f920aa"
+    },
+    {
+      "type": "Theme",
+      "name": "coalitions d'acteurs",
+      "id": "Theme_dbd1d975658815911afa3acd87a82bc0e00940f9f332a61cbf69c56167ad77c1"
+    },
+    {
+      "type": "Theme",
+      "name": "investisseurs mondiaux",
+      "id": "Theme_d31ad2757323354edeaae66be42740434c2f80a25d8dc09c45bec9847eb65f27"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds de pension",
+      "id": "Theme_2bca8575b29016a58eff8ad45bb148a9011076f075b74b512576f2b9068a3d5e"
+    },
+    {
+      "type": "Theme",
+      "name": "assets managers",
+      "id": "Theme_b85579c7ec329511e9af3f92578c5e122d69b9b814d84ece668714314dc274e0"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds souverains",
+      "id": "Theme_5df6e276286b0f1a5f1c227a4ca1e9066077de2e053be92b3d341471e9ce8f9e"
+    },
+    {
+      "type": "Theme",
+      "name": "grandes entreprises mondiales",
+      "id": "Theme_9f64de8a8a74e00ed855df81c0a5c66523de9b171a1059ca5c7f687c0c0a68c8"
+    },
+    {
+      "type": "Theme",
+      "name": "start-ups",
+      "id": "Theme_d831161ced9041982e9b5edca69bd4b82e9ec11620d32bd417c42fca3a00ef0d"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation du capitalisme",
+      "id": "Theme_9fc0d16239e3b7a08741231eca09b7ddfd32e05f5afa112cda76f4ca5d60c0d4"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation internationale du travail",
+      "id": "Organization_b09dfff395088a1dc2dfbfd3ddb18be909220cabaaba0c489f0c00eebe7f7a0c"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "OMS",
+      "id": "Organization_f4fd87f36b138eb90074550fbf1903ace44013d0b88bded488849d5b4439d0a9"
+    },
+    {
+      "type": "Organization",
+      "name": "OMC",
+      "id": "Organization_dbfd6ac2652ebf57b2436987f66688b5c1c31df23624ca5dbb0e937544345cc0"
+    },
+    {
+      "type": "Organization",
+      "name": "FMI",
+      "id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Organization",
+      "name": "TICAD 7",
+      "id": "Organization_6cfc13d4fb1454adb1dea4b26569f595c9be197391fba99820ab6621579fe054"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations-Unies",
+      "id": "Organization_4f3ca039c95c6be46cbad8367b5d13621bf7dde1e755557ecfacd2eca26ef807"
+    },
+    {
+      "type": "Theme",
+      "name": "lutter contre les inégalités économiques",
+      "id": "Theme_b78e6b8ae3bada983bb4f5e20248032c26a001d8f3e0712eb962c5b814613aa2"
+    },
+    {
+      "type": "Theme",
+      "name": "engager les entreprises",
+      "id": "Theme_ccab3d060a0107194879843c99ad7220a9da6c167715de3125d557ddf616511b"
+    },
+    {
+      "type": "Theme",
+      "name": "construire des coalitions d'acteurs",
+      "id": "Theme_f4e3ac75c105399e95ee6b350e060c9c43983b857b8df781e497963b2d83d285"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement des entreprises",
+      "id": "Theme_467e781f2d37baa4dd224349d11ab9d97c2b9048a88c7a7a816f21c56a1e0b5d"
+    },
+    {
+      "type": "Theme",
+      "name": "financer ces initiatives",
+      "id": "Theme_7b1b2d60099d958f3c79e88303b21eeb0d99067ee1ac5cfaa6f869b6447d9876"
+    },
+    {
+      "type": "Theme",
+      "name": "réduire les inégalités",
+      "id": "Theme_a787000b931e4e5ed5286183437db6e594819beeadeaeb76decc46770b79881b"
+    },
+    {
+      "type": "Theme",
+      "name": "lutter contre l'inégalité entre les femmes et les hommes",
+      "id": "Theme_043ed96275f98b3ad4252fe595fe99fa80d500ef64f3e7f936efc1fb0699187d"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs sociaux et environnementaux",
+      "id": "Theme_b9132d81d0f5767c97b41f26527767fa4f396f1cd05ed0ca35fbe2055a90539e"
+    },
+    {
+      "type": "Organization",
+      "name": "B for IG",
+      "id": "Organization_cce6af691e080ac62c6fb182e83b8a6192d85556e36f4bac82359f4d9e59b9e0"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance inclusive",
+      "id": "Theme_e24406d917d45132893167941053b45ae7ef6f01ac9d1d50bfab26d1a7f6cd48"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités contemporaines",
+      "id": "Theme_2980e19213c43453be6e752151c24b17914f469f054091cfdbf436a1e10ef11f"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "digital",
+      "id": "Theme_b6b89ff1774153e15bd0edfe749c79fc690e98e41fe3dafd0d5406a2ef47a438"
+    },
+    {
+      "type": "Theme",
+      "name": "internet des objets",
+      "id": "Theme_47caeb446dad0a1fa9506b3059017cfd05f2e76c4408f853aadacb2a992e0789"
+    },
+    {
+      "type": "Theme",
+      "name": "transformations",
+      "id": "Theme_a5cf38e56ec6f568347c7e4d2787de5c2d1a159cf3d75e70f9e82534a2b594ec"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation positive",
+      "id": "Theme_a6804074398e0bbf1307a459f918bf8531475f909d3a1d6df5eb6952497bacdf"
+    },
+    {
+      "type": "Theme",
+      "name": "réflexion éthique",
+      "id": "Theme_e7e160d2a2da8ac5a7791ee54b9732b6e83ee0cc58ca935749f6ce5d9953ae22"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité du quotidien",
+      "id": "Theme_c28b8ffe5cf474feb18ae1c4ec2ab555cfb1ea02f41d0adf2ae139cefa7eeea9"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "gestion de nos données personnelles",
+      "id": "Theme_143d4d15aac667648592f995ef90ff558b129350be55a68c3758071853996a9a"
+    },
+    {
+      "type": "Theme",
+      "name": "interconnexions",
+      "id": "Theme_8b56153c9aad6d52ee1d871b6a9ac81336d784e3157866e6d032d3ce7479837a"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "création de valeur",
+      "id": "Theme_11fa62f7e4e886ea6cfc26a80d17272496355e295895c51cd4f615de96de6ad3"
+    },
+    {
+      "type": "Theme",
+      "name": "mieux être",
+      "id": "Theme_0a4634558d9fc9569c2d454eaabd747e819783d9c23e23daf71e38338e96b0b5"
+    },
+    {
+      "type": "Theme",
+      "name": "sélection des risques",
+      "id": "Theme_5bc54ad46a229f756a4bca38c0970f724732c3a607d6927573c17bde49e82dba"
+    },
+    {
+      "type": "Theme",
+      "name": "limites éthiques",
+      "id": "Theme_8d335a217b7cf2b041381b5dd58beb2875731bbd1bd0f21b4ec500a9f7b6f294"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "commun",
+      "id": "Theme_8bc88228c49120e38830ef50b79ad4af16603c0b9b18dc96ac340572ca1dcaed"
+    },
+    {
+      "type": "Theme",
+      "name": "G7",
+      "id": "Theme_5d5bdda89574ffe78851fbd8543321a62368b619cb111bfb9edbf65985d0ff6f"
+    },
+    {
+      "type": "Organization",
+      "name": "Tech for Good",
+      "id": "Organization_785620e35adfce52176ffd4b05727cf53d11778b2d2432dce2349ef772c07274"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Event",
+      "name": "l'appel de Christchurch",
+      "id": "Event_0b49ee98241424dfc34eae667a67016807efd556792ca2319d558d028cc90073"
+    },
+    {
+      "type": "Theme",
+      "name": "contenus terroristes",
+      "id": "Theme_5ef497c7fc6f3aa57718091ebce8b4fa9bbc44112d6d102b3bb8ce464b359056"
+    },
+    {
+      "type": "Theme",
+      "name": "harcèlement en ligne",
+      "id": "Theme_34e3d5638979b80759def4137a5a03fbca2207f2af793402a04f426a7355b36b"
+    },
+    {
+      "type": "Theme",
+      "name": "smart regulation",
+      "id": "Theme_a2078bfc137774f5df436d4b6dc76d605e1c53680c7d3559c87ab9135bfeec15"
+    },
+    {
+      "type": "Organization",
+      "name": "reporters sans frontières",
+      "id": "Organization_9c7bbb51a9aa00ea2b30a9e966d8db351f4ca1ffaccbb0f8e366e29ac8b05a12"
+    },
+    {
+      "type": "Organization",
+      "name": "ONG",
+      "id": "Organization_3e1586cef038ea96d5ab3c5a2d6496c339bffcc013fa18af180a38657091796f"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "menace sur la biodiversité",
+      "id": "Theme_b1fc169b65269b71a58ef0e27ca523d778684025f11276c4a63332f01ddaf9ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations-Unies pour le climat",
+      "id": "Organization_a7ddad42c3823bff3d865147fbd74481dbba679c30865fb7e40b53588578d693"
+    },
+    {
+      "type": "Theme",
+      "name": "climatique",
+      "id": "Theme_4abf026fe9ca32e0caff98a931369a221f531d982e6efa70c6c21719a6ce0a0d"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité carbone 2050",
+      "id": "Theme_5c2b05535af63e9f00b6d9046c001bb47707b89f31e9cd56a8461b1520f16824"
+    },
+    {
+      "type": "Theme",
+      "name": "textile",
+      "id": "Theme_89a667b12c00d8fb6a0c1808253e1cef55a145cbd59894cb3c730d3b1552e83b"
+    },
+    {
+      "type": "Theme",
+      "name": "transports",
+      "id": "Theme_533d2529ff9a7f6bf394d1e74146c9b14e56ed95da235efb27978e0422b519a2"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz dits HFC",
+      "id": "Theme_58199927e8eec608dafcb048ee81ffdbbd22933399439a7359ed72d0d75d88dc"
+    },
+    {
+      "type": "Organization",
+      "name": "One Planet Summit",
+      "id": "Organization_a4bcf4f73de7aa31dde53c7e27b7803611f4df4940694e62fcec28d53f077699"
+    },
+    {
+      "type": "Organization",
+      "name": "asset managers",
+      "id": "Organization_09134c2c4973e2bb8ae681c07503d9e91043d18aa9c3f5bef09f0870ab3795ad"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition d'acteurs",
+      "id": "Organization_2aaa9791ac13904f1e16463fbfe6d5702726aa92debc759c6327f5b5df044e0f"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition d'acteurs en faveur de l'éradication du plastique",
+      "id": "Organization_725ee3f704a1939a88de58fa2396a85e7938a548408a81c9f82b4020a8bca988"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaires d'État",
+      "id": "Organization_8e1c30d7292f37306d79d2962f39e05a81c9565675fd36c8251619de54d5d4ca"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte pour la biodiversité",
+      "id": "Theme_63dc002892d0c215ef360f5697df8a1975f29ca8d2a58c20fe05a6832d27c973"
+    },
+    {
+      "type": "Theme",
+      "name": "B for IG",
+      "id": "Theme_87959b16163b245d63e1cab3a949757ed42d0404af72171af9dfa06ce50620bf"
+    },
+    {
+      "type": "Theme",
+      "name": "restauration ou la préservation de la biodiversité",
+      "id": "Theme_efaa2b44c372dd4a4c018305683adf12571fbf6d24a4c4a7fc89ed538eb86873"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités liées au capitalisme",
+      "id": "Theme_2cf8bc7a0a5879d22c7e9246cc3126af86b29a4daaecc5fc8fd4a50f1b37970e"
+    },
+    {
+      "type": "Theme",
+      "name": "déstabilisations liées au numérique",
+      "id": "Theme_5f4ca29353d7d10a944c568dd1ac789528eca63a7848dcd34a4141f0e579d035"
+    },
+    {
+      "type": "Theme",
+      "name": "menaces sur la biodiversité",
+      "id": "Theme_eea48fa893e9caca2900c77e9fff7283f01a0a80e2fbcde433615aeb569eda8f"
+    },
+    {
+      "type": "Theme",
+      "name": "engagements extrêmement forts",
+      "id": "Theme_197e538cb3c16d072a29bfbba2edf22be391d40aa1c218af68e5457962ef64e7"
+    },
+    {
+      "type": "Theme",
+      "name": "coalitions très innovantes d'acteurs",
+      "id": "Theme_30c46f569cd42b0494218942efacd490458b1924700c7e802b897ff22b728939"
+    },
+    {
+      "type": "Theme",
+      "name": "engagements concrets",
+      "id": "Theme_2127838df3ab9e1bae0898de44b17cad2aa31e8f3c56233f32ca7a8d5ae82c13"
+    },
+    {
+      "type": "Theme",
+      "name": "déclarations",
+      "id": "Theme_21e26ad9f88e97e106dddc0baacd03da6f62908408a2b016b47087aaecfe72cd"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda positif",
+      "id": "Theme_cbd26d3111357733f1b2735536453f9d37238058b0b9823253a2753ebf82f7de"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvel humanisme",
+      "id": "Theme_73d280e1000f6d155d4f4f674e3af5512ec0d73d9fccc72f3a26ffc05f73881c"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel FABER",
+      "id": "Person_47dc91c56af6d1f949bf3d162938880add934f7f1f99a71d9762591c84686d5f"
+    },
+    {
+      "type": "Theme",
+      "name": "changer les règles",
+      "id": "Theme_23d30fd0bba9b6004f8d2942d56b39b2aa049d28539c6b4d08746f09700ec5eb"
+    },
+    {
+      "type": "Theme",
+      "name": "3 R",
+      "id": "Theme_f8901016d12eb69c274afa13bd9ab431cc246a0000a68f718b0ec69e75c0170b"
+    },
+    {
+      "type": "Theme",
+      "name": "réduire beaucoup les déchets",
+      "id": "Theme_362c4fb1381365526a1ec90acecbefd94d5f751e907a5157af887fa6c883f04c"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalité salariale",
+      "id": "Theme_e1ebf9590bc97f9c2b3336c7c6cc6762a96eafb6985324c08527189e9e3f813b"
+    },
+    {
+      "type": "Theme",
+      "name": "régulations",
+      "id": "Theme_5a8afbf43e327350da0ebd5bcaaf83aa988872c126003a676509076554974382"
+    },
+    {
+      "type": "Organization",
+      "name": "initiative B for IG",
+      "id": "Organization_0e9227e1e0e937d449d6bf45bb81177f522722bf642be5d0a976447ffe242074"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "La France est le pays d'Europe continentale",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "FMI",
+      "relation": "ALLIED_WITH",
+      "target": "Banque mondiale",
+      "evidence": "Ce que nous souhaitons mettre en place, c'est une coordination des grandes organisations internationales, FMI, Banque mondiale, OMS, OMC, Organisation internationale du travail, pour avoir un agenda commun et cohérent",
+      "confidence": 1.0,
+      "source_id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37",
+      "target_id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "source": "FMI",
+      "relation": "ALLIED_WITH",
+      "target": "OMS",
+      "evidence": "Ce que nous souhaitons mettre en place, c'est une coordination des grandes organisations internationales, FMI, Banque mondiale, OMS, OMC, Organisation internationale du travail, pour avoir un agenda commun et cohérent",
+      "confidence": 1.0,
+      "source_id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37",
+      "target_id": "Organization_f4fd87f36b138eb90074550fbf1903ace44013d0b88bded488849d5b4439d0a9"
+    },
+    {
+      "source": "FMI",
+      "relation": "ALLIED_WITH",
+      "target": "OMC",
+      "evidence": "Ce que nous souhaitons mettre en place, c'est une coordination des grandes organisations internationales, FMI, Banque mondiale, OMS, OMC, Organisation internationale du travail, pour avoir un agenda commun et cohérent",
+      "confidence": 1.0,
+      "source_id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37",
+      "target_id": "Organization_dbfd6ac2652ebf57b2436987f66688b5c1c31df23624ca5dbb0e937544345cc0"
+    },
+    {
+      "source": "FMI",
+      "relation": "ALLIED_WITH",
+      "target": "Organisation internationale du travail",
+      "evidence": "Ce que nous souhaitons mettre en place, c'est une coordination des grandes organisations internationales, FMI, Banque mondiale, OMS, OMC, Organisation internationale du travail, pour avoir un agenda commun et cohérent",
+      "confidence": 1.0,
+      "source_id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37",
+      "target_id": "Organization_b09dfff395088a1dc2dfbfd3ddb18be909220cabaaba0c489f0c00eebe7f7a0c"
+    },
+    {
+      "source": "Afrique",
+      "relation": "LOCATED_IN",
+      "target": "Afrique",
+      "evidence": "c'est avoir une action beaucoup plus vigoureuse, forte à l'égard de l'Afrique",
+      "confidence": 1.0,
+      "source_id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b",
+      "target_id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "source": "G7",
+      "relation": "ALLIED_WITH",
+      "target": "G20",
+      "evidence": "ce G20 mais au G7",
+      "confidence": 1.0,
+      "source_id": "Theme_5d5bdda89574ffe78851fbd8543321a62368b619cb111bfb9edbf65985d0ff6f",
+      "target_id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "source": "Japon",
+      "relation": "ANNOUNCED",
+      "target": "TICAD 7",
+      "evidence": "quelques jours avant que le Japon n'organise le TICAD 7",
+      "confidence": 1.0,
+      "source_id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7",
+      "target_id": "Organization_6cfc13d4fb1454adb1dea4b26569f595c9be197391fba99820ab6621579fe054"
+    },
+    {
+      "source": "lutter contre les inégalités économiques",
+      "relation": "MENTIONS",
+      "target": "transformation du capitalisme",
+      "evidence": "Et puis enfin lutter contre les inégalités économiques, sociales pour cette transformation du capitalisme",
+      "confidence": 1.0,
+      "source_id": "Theme_b78e6b8ae3bada983bb4f5e20248032c26a001d8f3e0712eb962c5b814613aa2",
+      "target_id": "Theme_9fc0d16239e3b7a08741231eca09b7ddfd32e05f5afa112cda76f4ca5d60c0d4"
+    },
+    {
+      "source": "construire des coalitions d'acteurs",
+      "relation": "MENTIONS",
+      "target": "engagement des entreprises",
+      "evidence": "construire des coalitions d'acteurs que nous installerons au moment de ce G7 et d'avoir un engagement des entreprises",
+      "confidence": 1.0,
+      "source_id": "Theme_f4e3ac75c105399e95ee6b350e060c9c43983b857b8df781e497963b2d83d285",
+      "target_id": "Theme_467e781f2d37baa4dd224349d11ab9d97c2b9048a88c7a7a816f21c56a1e0b5d"
+    },
+    {
+      "source": "Tech for Good",
+      "relation": "ANNOUNCED",
+      "target": "l'appel de Christchurch",
+      "evidence": "On a commencé avec Tech for Good qui a permis il y a quelques semaines d'avoir à Paris ce que l'on a appelé “l'appel de Christchurch”",
+      "confidence": 1.0,
+      "source_id": "Organization_785620e35adfce52176ffd4b05727cf53d11778b2d2432dce2349ef772c07274",
+      "target_id": "Event_0b49ee98241424dfc34eae667a67016807efd556792ca2319d558d028cc90073"
+    },
+    {
+      "source": "G7",
+      "relation": "LOCATED_IN",
+      "target": "Nations-Unies pour le climat",
+      "evidence": "Le G7 sera à cet égard un rendez-vous critique quelques semaines avant le sommet des Nations-Unies pour le climat",
+      "confidence": 1.0,
+      "source_id": "Theme_5d5bdda89574ffe78851fbd8543321a62368b619cb111bfb9edbf65985d0ff6f",
+      "target_id": "Organization_a7ddad42c3823bff3d865147fbd74481dbba679c30865fb7e40b53588578d693"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "G7",
+      "evidence": "du G7 que la France préside",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_5d5bdda89574ffe78851fbd8543321a62368b619cb111bfb9edbf65985d0ff6f"
+    },
+    {
+      "source": "Japon",
+      "relation": "MEMBER_OF",
+      "target": "G20",
+      "evidence": "du G20 présidé par le Japon",
+      "confidence": 1.0,
+      "source_id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7",
+      "target_id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "G7",
+      "evidence": "du G7 que la France préside",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_5d5bdda89574ffe78851fbd8543321a62368b619cb111bfb9edbf65985d0ff6f"
+    },
+    {
+      "source": "initiative B for IG",
+      "relation": "MENTIONS",
+      "target": "initiative B for IG",
+      "evidence": "et l'initiative B for IG à laquelle on croit beaucoup.",
+      "confidence": 1.0,
+      "source_id": "Organization_0e9227e1e0e937d449d6bf45bb81177f522722bf642be5d0a976447ffe242074",
+      "target_id": "Organization_0e9227e1e0e937d449d6bf45bb81177f522722bf642be5d0a976447ffe242074"
+    }
+  ]
+}

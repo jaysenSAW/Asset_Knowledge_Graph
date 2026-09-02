@@ -1,0 +1,684 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "monsieur le Commissaire européen",
+      "id": "Person_080b14d6daa9a7c3aa2fd11ab1ebe0290963007b0408870a9f64efe024b1e52d"
+    },
+    {
+      "type": "Person",
+      "name": "mesdames messieurs les Députés",
+      "id": "Person_9358265c0131d74a95546d273c2f66ee9a10c05564e38c1da9c4420420691e62"
+    },
+    {
+      "type": "Person",
+      "name": "les Sénateurs",
+      "id": "Person_87b8c8f6af56bc74ee232e33d23d1d60640dd0ad42073222f285acae84e7360c"
+    },
+    {
+      "type": "Person",
+      "name": "les Parlementaires européens",
+      "id": "Person_cdd6a6fc69ea7b2aa1035a771e5f46e0dbe9204940da826bea7551c56c51def3"
+    },
+    {
+      "type": "Person",
+      "name": "mesdames messieurs les Ambassadeurs",
+      "id": "Person_730b72b94236503606b1d9dc2f380c238d6cf0c3053896be096a8f9600778449"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le Procureur général",
+      "id": "Person_cd2637689f59087172c5b087191cabc4702deb6ede2c3d4d048d9ce1d9652591"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le Préfet de police de Paris",
+      "id": "Person_5379895a3f2be0a6b061fb605f942e746d1f5cdfa238382e923838652eaf57d7"
+    },
+    {
+      "type": "Person",
+      "name": "madame la Secrétaire générale de la Défense et de la Sécurité nationale",
+      "id": "Person_9ac8f3c5ebb376892f1b35edebbbc0c7fce45514bb98feb7349bf9f064cd3cdf"
+    },
+    {
+      "type": "Person",
+      "name": "mesdames et messieurs les Coordinateurs",
+      "id": "Person_8992a9925dfb0e5c295d3cf0cc0968cc44a8b974f366f17e2da92ddbf2a4e9aa"
+    },
+    {
+      "type": "Person",
+      "name": "Directeurs généraux",
+      "id": "Person_66fa4f4b17ecff27d1a58fe1bf58af8eaf3450b97f5b3d6e1355d96f4ccc40aa"
+    },
+    {
+      "type": "Person",
+      "name": "Directeurs de service de renseignement",
+      "id": "Person_1aa2b6054fdf36fc38892131554518c5a5e272850a67b7195862341378257675"
+    },
+    {
+      "type": "Person",
+      "name": "messieurs les préfets",
+      "id": "Person_95d689a5bc09a213cd3d0451ad7d8dd9a394c3b42759720116a074cf1754aa31"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Sorbonne",
+      "id": "City_be809d89796ecb5c6df9354a01dfd395a79d98455adce499fa3da8fcbb92297c"
+    },
+    {
+      "type": "City",
+      "name": "La Haye",
+      "id": "City_e6897f4ed80fc087f93bedd0385d301cdd3af07bb105d9294b314bcd05814c98"
+    },
+    {
+      "type": "Organization",
+      "name": "organisations internationales",
+      "id": "Organization_908a29865356744b6a26f2bfac9cd473010ea3da3f967ea11b2f9d66638771f5"
+    },
+    {
+      "type": "Theme",
+      "name": "ingérence",
+      "id": "Theme_b2c309395dd298e07d06a92bcca1c692ec075f7434b1938729b4d8bb29776be2"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre de la donnée",
+      "id": "Theme_4271fd62eef151a2c0e1b799366d40c923f2675ba350176a23e5567f8d9ba5c8"
+    },
+    {
+      "type": "Theme",
+      "name": "cyberattaques",
+      "id": "Theme_8b366adba9bc7e60236c9235812ed1f4309c1f1068ddd054f3bf447276b1002a"
+    },
+    {
+      "type": "Theme",
+      "name": "administration",
+      "id": "Theme_e265cce8ed8d3639f0dd21d797cea8d98723b56b1efa5c17bc01d014349b1bc2"
+    },
+    {
+      "type": "Theme",
+      "name": "entreprise",
+      "id": "Theme_25b5d00575bee3dcf8351135c79afd8d31a4fc928ff5c84dbe75baa0bdcddeb1"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "califat territorial",
+      "id": "Theme_024cd56dfffbcf455021e388787bd3ee826f782785f67daae3a31fd827a4b007"
+    },
+    {
+      "type": "Theme",
+      "name": "Daech",
+      "id": "Theme_177f1ab5cbe65069b78c1ef3a641d7a476d468b77872a8642e1dc9a36a704129"
+    },
+    {
+      "type": "Theme",
+      "name": "traités signés",
+      "id": "Theme_a7be9b7de65b2d23f7f45656a54ef6162efaacdd19a6ddf226bf7aade59dc903"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "menaces",
+      "id": "Theme_5201cf50196d98191911da5de2cdaf6bf22b8dd545685ef548c3099e082fe05c"
+    },
+    {
+      "type": "Theme",
+      "name": "soubresauts du monde",
+      "id": "Theme_daffb636b78234570fc6a5607563771f18c206b0668245848c1b0dafd5a5a81c"
+    },
+    {
+      "type": "Theme",
+      "name": "tragique de l'histoire",
+      "id": "Theme_9e6165172485731e79e4030f07f1f2f346a5aa9916e2a3132e6e7ce42f17c601"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "propositions concrètes",
+      "id": "Theme_d2c6e653c4a9e158d4be3f2cb9de5120a3f9384f413da5f0707cd5e0e85503ae"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe de la sécurité et de la défense",
+      "id": "Theme_788337f612e4ee07eae0cd6804cb6dc308af8a4b0eb0e5067d07ac53391338da"
+    },
+    {
+      "type": "Theme",
+      "name": "repli stratégique",
+      "id": "Theme_5bad989ff982c6e51a56d59cb84ae6079b08c8cc9c7e7fd02bc06d699d799e20"
+    },
+    {
+      "type": "Theme",
+      "name": "juste quote-part",
+      "id": "Theme_33907ccb8a46413d9f13f08b99125f94162eb036cbb401bae5811d683201a769"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds européen de défense",
+      "id": "Organization_aa692554becf825c1b986c02556f05c3884cad8407f221b6aeadfc225dc28581"
+    },
+    {
+      "type": "Organization",
+      "name": "Coopération structurée permanente",
+      "id": "Organization_081306a9dc278fa5af881295875489671015e9842ea540d718eeb014fc447128"
+    },
+    {
+      "type": "Organization",
+      "name": "Communauté européenne de défense",
+      "id": "Organization_e3c99260a4c72841c3908330e55703659de9be0d8e1743fe049782bdfad86b3d"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Country",
+      "name": "Finlande",
+      "id": "Country_07de2e54c1d716feb24d42a643c5de89dc1f04a79da8dcb0fd46d71f88bd7006"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Theme",
+      "name": "cyberespace",
+      "id": "Theme_5e9488ec8e0e545344a484b253cc9dd5c88d9007b832f07b75aa7cd3af077474"
+    },
+    {
+      "type": "Theme",
+      "name": "violence",
+      "id": "Theme_2e88abc315f2f0443a0e5b9fd8eae9a399f515b08101974ade6d7c352b827448"
+    },
+    {
+      "type": "Theme",
+      "name": "cyber",
+      "id": "Theme_6d4b4cf5c01dbbfbabd221911582a4deb29e1930ad8a912a311cb93cdc0f53ea"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Europe",
+      "id": "Organization_6fa6f500ef51880fb674d0a54de528cbcdf4ce0a1f0ccc716cb080bb6788383c"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le Commissaire",
+      "id": "Person_5d5b0e2e96a6288500d8666a6329bc1a102ea312471b10a00599e802d9881255"
+    },
+    {
+      "type": "Person",
+      "name": "messieurs les Ministres",
+      "id": "Person_68c8bae1f1f0fa1fad64e1609435c27e59bb98f2bf0b5bf15ffe20298d0f898b"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "renseignement",
+      "id": "Theme_1bd572f1ca13b8479be85804edd66328f5597f364182396425372029ab896b3f"
+    },
+    {
+      "type": "Organization",
+      "name": "académie",
+      "id": "Organization_b5f88a5b42df404868169388933448b874ad3492482939d21fe055e075270506"
+    },
+    {
+      "type": "Organization",
+      "name": "séminaires",
+      "id": "Organization_d32538fc72195c61b1de21e0d894f4f95858c2b7d95c05925b7713ceb3c660e9"
+    },
+    {
+      "type": "Organization",
+      "name": "formations",
+      "id": "Organization_ae69e59bce20da6a59efe9dd0a7e6b105a90ee83e30b92b518cb156d7a4d5070"
+    },
+    {
+      "type": "Organization",
+      "name": "Hauts cadres",
+      "id": "Organization_a6107dd239b7d04611816224409d2b5617cb40cdf5ea571305fdc4f9131f8774"
+    },
+    {
+      "type": "Organization",
+      "name": "services de renseignements intérieurs",
+      "id": "Organization_359c51f47a8de2e7e330c9a3a9136fa3aec582f305e61ebb2d947a851d588a65"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Belgique",
+      "id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Country",
+      "name": "Pays-Bas",
+      "id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "type": "Organization",
+      "name": "la coordination nationale du renseignement et de la lutte contre le terrorisme",
+      "id": "Organization_e2f66f6f87da8dfe38c290b4296c102bc48d6528d983fe71b9a929268aa59db0"
+    },
+    {
+      "type": "Organization",
+      "name": "les services de renseignement français",
+      "id": "Organization_f920cc69593cb6180fe82775c2b4aaa441d2d1393a6de7ca306e70a5810e3ff2"
+    },
+    {
+      "type": "Organization",
+      "name": "les ministres",
+      "id": "Organization_250adfb02a36a3e7b6364f9ed9fe589b34120b5f9796052ee5cea94ddeda9f3a"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur marqué par le secret",
+      "id": "Theme_23a3916ac7ddad841497dd4d0b54f6c3c230f98e068b00968ad8f585c0ae73d1"
+    },
+    {
+      "type": "Theme",
+      "name": "cultures éminemment nationales très ancrées",
+      "id": "Theme_736cec115c16e79e6021ed37e21f68e2358926ec7aee32f89f44483dbbaafcb3"
+    },
+    {
+      "type": "Theme",
+      "name": "sentiment européen",
+      "id": "Theme_c9d952aed5ec4d3cfb38654eff5d08665075e3259af85e701ae26fca905da76d"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Country",
+      "name": "États européens",
+      "id": "Country_04d5c9156ade6a8571a1f314ffbe6365bbef0f4467abf606f2b7de7c417a67f6"
+    },
+    {
+      "type": "Person",
+      "name": "décideurs",
+      "id": "Person_73bb237230442cbd5dd194290e3bc1f69d774f60a672017a8268b430a74e9fba"
+    },
+    {
+      "type": "Person",
+      "name": "peuples européens",
+      "id": "Person_3e09cc32549dcb5b086eb8afddf70bb34d6ff0bd2d1db53e394dbf19431058c6"
+    },
+    {
+      "type": "Person",
+      "name": "Ioulia SKRIPAL",
+      "id": "Person_6b2213767f4d3b707a57f99340373c535d5d470d69b89375d675d91f17b51916"
+    },
+    {
+      "type": "Organization",
+      "name": "Club de Berne",
+      "id": "Organization_9b2919c7dc45f407494215537c8dcfb42c12d07f54a71be61efb4762ad60ff59"
+    },
+    {
+      "type": "Organization",
+      "name": "Club de TREVI",
+      "id": "Organization_d127c5905ea930ffe49e567be2f91204b498fc9ce146b1f5330ea54c3ce4a6ad"
+    },
+    {
+      "type": "Organization",
+      "name": "Club de Vienne",
+      "id": "Organization_df1df2dbf92dcd6f666e8866c6ba931cbb6d9889a684705835b770917ddba617"
+    },
+    {
+      "type": "Person",
+      "name": "Julian KING",
+      "id": "Person_3007209e233d289c8cc2f28eab84c5d65a407edfd6f87b821bc75b13e2aabaed"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "IntCen",
+      "id": "Organization_a6e0371ee2a0d9e4f242cb1a397b997fa59413897f32cbb477ccec48d4b82b62"
+    },
+    {
+      "type": "Organization",
+      "name": "Haute Représentante de l'Union pour les Affaires étrangères et la sécurité",
+      "id": "Organization_10fd5474d9a33e0660fc2ba10f8a0fee821115ece3b71a42566766d51676c1bf"
+    },
+    {
+      "type": "Organization",
+      "name": "Europol",
+      "id": "Organization_7ca0ce5956039c65d028e3cd065bb34f889becb2f0928f24b3483de3c6ef5838"
+    },
+    {
+      "type": "Organization",
+      "name": "collège du renseignement en Europe",
+      "id": "Organization_092be341d117aa69c83d24cfec2ef483d9e95af0dd9c0af1c1929f6480aea8f1"
+    },
+    {
+      "type": "Theme",
+      "name": "coopérations bilatérales",
+      "id": "Theme_ded7d57ff4229b6b236727dc7ce407b0154cee8f01a49c473ab659a41bd1008c"
+    },
+    {
+      "type": "Theme",
+      "name": "clubs intergouvernementaux",
+      "id": "Theme_05bcdf83b975587d45298f39cc7c43ceeafe15151abf4d9dcd47dddc85e77f5b"
+    },
+    {
+      "type": "Theme",
+      "name": "structures communautaires",
+      "id": "Theme_4640fa7cf3479286633744374c25ba8e787d991f4035dbd2cff2af1c4e098156"
+    },
+    {
+      "type": "Theme",
+      "name": "militaire",
+      "id": "Theme_703a1ce8bacc621e7371ce6f7d31802464ec3feacc2fcae60e2b209e5a44c132"
+    },
+    {
+      "type": "Theme",
+      "name": "communauté commune",
+      "id": "Theme_392100e1c1068730a651c11b941149c66b533dc612a934bfca8d76517abd890a"
+    },
+    {
+      "type": "Theme",
+      "name": "grammaire commune",
+      "id": "Theme_4839f629c18ddfb92c223fc8ed10c53b86a492dd0edac1a9f8a65d6412e3b429"
+    },
+    {
+      "type": "Theme",
+      "name": "partage",
+      "id": "Theme_29b57003c0123a354f4c87ecb0b5a5fc2d9d13ec5524bf28a9a5cf3d93518e81"
+    },
+    {
+      "type": "Theme",
+      "name": "ouverture",
+      "id": "Theme_d26e5520976d90b087bf131ac2ad0a496e1e510b33f2d5f036ee68ae2c8b562e"
+    },
+    {
+      "type": "Person",
+      "name": "Robert de SORBON",
+      "id": "Person_83250f5ab5a463588e11c98adceadcacf860ce9d0b4d7e7840a9ed2b5da14067"
+    },
+    {
+      "type": "Theme",
+      "name": "culture du renseignement en Europe",
+      "id": "Theme_02ad7eb04aa715262ded1750646b1e38bcbe135bfca19bd7bd2d73f2d877b80b"
+    },
+    {
+      "type": "Theme",
+      "name": "formation européen intégré",
+      "id": "Theme_ac983688d5c2e02ac7d5408e2b81f7cb73f9ab57f06df0802594d9248d834c12"
+    },
+    {
+      "type": "Organization",
+      "name": "services nationaux",
+      "id": "Organization_b81599c7ec6c7c4eb59d067b3fbe2bf099d825af6e76cb5ef08d628593ad8deb"
+    },
+    {
+      "type": "Organization",
+      "name": "universités européennes",
+      "id": "Organization_269d296998b698f26382cd08f765608f86b1c74ee9d8a9e27d47086322c8373e"
+    },
+    {
+      "type": "Organization",
+      "name": "services d'autres États",
+      "id": "Organization_b828f3f2406cc859141ed5aa3cc67ff6152a230fbe0861a6d66864d8cd793eac"
+    },
+    {
+      "type": "Organization",
+      "name": "nos services",
+      "id": "Organization_f0cd4dd3961f446250ca158cee5ee806bbb28255ec9ab81035122aa0ede89d88"
+    },
+    {
+      "type": "Organization",
+      "name": "grands pays européens",
+      "id": "Organization_826e9409ecfbf6134d0c2f9924458ed831f57e9df0739ac14dacd0d7dd213f46"
+    },
+    {
+      "type": "Organization",
+      "name": "nos ennemis, nos assaillants, ceux qui poussent la menace, l'influence ou le contre renseignement de leur côté",
+      "id": "Organization_b6e508b49723ab6cb515d2075656d9c03beccc462ec362884242bd0b31c999ba"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité d'un peuple à prendre en main son destin et à se protéger",
+      "id": "Theme_6ecf448c6fc70ebfc14771e1cafd68d5049b9fce34b9d8feb1278ce7fcdb3d04"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité de ses services de renseignement",
+      "id": "Theme_24c8110937b18005e60f733c12b7beb59161070d0228080c6d578e71f04ddad6"
+    },
+    {
+      "type": "Theme",
+      "name": "monde bipolaire",
+      "id": "Theme_c5515241a9fb1cc564fedb98ccba59c6c6fe6b8b9f9fb9607a1ab94a8a9ae0a4"
+    },
+    {
+      "type": "Theme",
+      "name": "ennemi",
+      "id": "Theme_86784d438210720af6d39c6aa61fdf50ed701dca442d8f18ff766fc9dbf08e73"
+    },
+    {
+      "type": "Theme",
+      "name": "fin de l'histoire",
+      "id": "Theme_9a1e3604901f130e649eabc3d844454458daca7c79e989ed4ef8a1902dc88150"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "menace",
+      "id": "Theme_f3c948c57f7b769db8cf4e82bceeb7838b60a1fc4b69cc76b34b2369f29abc35"
+    },
+    {
+      "type": "Theme",
+      "name": "éveil",
+      "id": "Theme_d8f511ca7e256229818146151a8bf317ab5a8ea965bf46f0d6895d3db8be7d7b"
+    },
+    {
+      "type": "Theme",
+      "name": "vigie",
+      "id": "Theme_6b9b4da6ed925a2df84dc1ef71d215d325d984691618fb2258790d40cda70546"
+    },
+    {
+      "type": "Theme",
+      "name": "capteur de notre temps",
+      "id": "Theme_75afda02b1433ea42998ef3ca96c6eb90092652b65c8ac0a3c7766a58f9dbed2"
+    },
+    {
+      "type": "Theme",
+      "name": "développer les outils qui permettent d'y faire face",
+      "id": "Theme_1e9ee46f4e9a3a489106f27af2d7a9fd001f9962f91f2b54892749b5fb92deb0"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir anticiper ce que l'on ne sait pas encore",
+      "id": "Theme_4840b6be022c5b5d79c77f0a4c6bbff674da2d3c734cab9202631199e2a0fbb7"
+    },
+    {
+      "type": "Theme",
+      "name": "part d'incertitude irréductible",
+      "id": "Theme_5c7e2a7011c7c898e4fad471d2db70fcc2898a74f946c3d672a36da4e06b3414"
+    },
+    {
+      "type": "Theme",
+      "name": "effort",
+      "id": "Theme_bbc0483f0da6a6341360b086154415ab379cb11db967c512d7d0a53a7ca2e016"
+    },
+    {
+      "type": "Theme",
+      "name": "renforcement sans précédent de ses capacités humaines et technologiques",
+      "id": "Theme_085fffc23f46adca6b386a830dd4b1630b8772cca9a09cfdbd157a602fb8f06d"
+    },
+    {
+      "type": "Theme",
+      "name": "plan intérieur",
+      "id": "Theme_35ce4b6ec330781c6cc2d1f08ca063150da99d0e3fbd3d0c3840fd8d6780e357"
+    },
+    {
+      "type": "Theme",
+      "name": "plan extérieur",
+      "id": "Theme_f3c93fb160c9aae3c377fcc0e078841e8565a260f5f55160cf831bd3e42a9610"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté nationale",
+      "id": "Theme_908cda9c0e0225bccd231ecd5a892555b929eb93d34e7963cfae442ed2c7548c"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de division européen",
+      "id": "Theme_b63cb7a4aa56e637561a6afb49dbb9c771704a64434e3b97b6a4ce82d218b7a7"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "cyber",
+      "evidence": "Ensuite, doter l'Europe d'une stratégie cyber globale pour prévenir, contrer et réagir aux attaques dont elle fait l'objet.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_6d4b4cf5c01dbbfbabd221911582a4deb29e1930ad8a912a311cb93cdc0f53ea"
+    },
+    {
+      "source": "académie",
+      "relation": "MENTIONS",
+      "target": "séminaires",
+      "evidence": "J'avais proposé alors que se constitue un réseau, il s'appelait alors “académie”, au sein duquel les services des différents États pourraient dialoguer et échanger ou au travers de séminaires, de formations pourraient se constituer une culture européenne du renseignement.",
+      "confidence": 1.0,
+      "source_id": "Organization_b5f88a5b42df404868169388933448b874ad3492482939d21fe055e075270506",
+      "target_id": "Organization_d32538fc72195c61b1de21e0d894f4f95858c2b7d95c05925b7713ceb3c660e9"
+    },
+    {
+      "source": "académie",
+      "relation": "MENTIONS",
+      "target": "formations",
+      "evidence": "J'avais proposé alors que se constitue un réseau, il s'appelait alors “académie”, au sein duquel les services des différents États pourraient dialoguer et échanger ou au travers de séminaires, de formations pourraient se constituer une culture européenne du renseignement.",
+      "confidence": 1.0,
+      "source_id": "Organization_b5f88a5b42df404868169388933448b874ad3492482939d21fe055e075270506",
+      "target_id": "Organization_ae69e59bce20da6a59efe9dd0a7e6b105a90ee83e30b92b518cb156d7a4d5070"
+    },
+    {
+      "source": "les ministres",
+      "relation": "MEMBER_OF",
+      "target": "les services de renseignement français",
+      "evidence": "Je veux remercier toutes celles et ceux qui ont rendu cet évènement possible : la coordination nationale du renseignement et de la lutte contre le terrorisme, les services de renseignement français et les ministres qui ont l'autorité sur ces services.",
+      "confidence": 1.0,
+      "source_id": "Organization_250adfb02a36a3e7b6364f9ed9fe589b34120b5f9796052ee5cea94ddeda9f3a",
+      "target_id": "Organization_f920cc69593cb6180fe82775c2b4aaa441d2d1393a6de7ca306e70a5810e3ff2"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "sentiment européen",
+      "evidence": "au-delà du sujet du renseignement, votre présence à tous dit quelque chose de profond, c'est que même dans un secteur marqué par le secret, par des cultures éminemment nationales très ancrées, le sentiment européen est là, vibrant, utile, jugé nécessaire.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_c9d952aed5ec4d3cfb38654eff5d08665075e3259af85e701ae26fca905da76d"
+    },
+    {
+      "source": "États européens",
+      "relation": "LOCATED_IN",
+      "target": "États européens",
+      "evidence": "Les coopérations bilatérales entre États européens sont nombreuses, souvent anciennes et je dois le dire, sous votre contrôle collectif, toujours fructueuses.",
+      "confidence": 1.0,
+      "source_id": "Country_04d5c9156ade6a8571a1f314ffbe6365bbef0f4467abf606f2b7de7c417a67f6",
+      "target_id": "Country_04d5c9156ade6a8571a1f314ffbe6365bbef0f4467abf606f2b7de7c417a67f6"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "souveraineté européenne",
+      "evidence": "cette session est si importante à mes yeux, aux yeux de la France, parce qu'il s'agit d'une étape décisive vers une souveraineté européenne véritable",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    }
+  ]
+}

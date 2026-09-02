@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Benjamin NETANYAHOU",
+      "id": "Person_f523b762a9ed26b15f96f5b77c8a03985e3c1f88f055d8f9bb13948f13480b31"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "NETANYAHU",
+      "id": "Person_f1b17a7ced27326c4e8e948a8fc4d66009e6b5acb5a91ef6d920d7850bded3f8"
+    },
+    {
+      "type": "Country",
+      "name": "Palestine",
+      "id": "Country_b1ebd722dd8ffa39d4f6ceb5282cae944d16f26dce1689b04cbaf84077610527"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Palestiniens",
+      "id": "Country_b5734f5d63eae899b91de69982b348700976a7cf95c26a699c92f09b843b5d06"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "NETANYAHOU",
+      "id": "Person_10290dd51360a183c4debabd7e7bb9631331999cf3ab11f6abd77db7899ee67d"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Person",
+      "name": "AOUN",
+      "id": "Person_791cd8abeba5310bccda0d79068dc2b5ef6e7b0a9f7cfed7a44b01237685407e"
+    },
+    {
+      "type": "Person",
+      "name": "HARIRI",
+      "id": "Person_c68757446dc6fa17862fd34c3a001cb3d735d4a62dd054b362d2c15a5d1a5285"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Israël",
+      "evidence": "la France tient à ce que deux Etats avec des frontières internationalement reconnues, Israël et la Palestine, puissent vivre dans la région en paix et en sécurité.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Palestine",
+      "evidence": "la France tient à ce que deux Etats avec des frontières internationalement reconnues, Israël et la Palestine, puissent vivre dans la région en paix et en sécurité.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_b1ebd722dd8ffa39d4f6ceb5282cae944d16f26dce1689b04cbaf84077610527"
+    },
+    {
+      "source": "NETANYAHOU",
+      "relation": "SPOKE_ABOUT",
+      "target": "sécurité",
+      "evidence": "Nous avons également échangé avec le Premier ministre NETANYAHOU sur plusieurs sujets régionaux et la France, je le dis, est résolument attachée à la sécurité d'Israël et déterminée à poursuivre avec elle un combat sans relâche contre le terrorisme et partage à ce titre plusieurs préoccupations que nous avons évoquées.",
+      "confidence": 1.0,
+      "source_id": "Person_10290dd51360a183c4debabd7e7bb9631331999cf3ab11f6abd77db7899ee67d",
+      "target_id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "terrorisme",
+      "evidence": "la France, je le dis, est résolument attachée à la sécurité d'Israël et déterminée à poursuivre avec elle un combat sans relâche contre le terrorisme et partage à ce titre plusieurs préoccupations que nous avons évoquées.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Nations unies",
+      "evidence": "Nous avons évoqué la situation en Syrie et j'ai rappelé la nécessité d'une solution politique sous l'égide des Nations unies pour mettre fin aux souffrances des populations et lutter efficacement contre le terrorisme et stabiliser durablement le pays.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Israël",
+      "evidence": "Nous avons également échangé avec le Premier ministre NETANYAHOU sur plusieurs sujets régionaux et la France, je le dis, est résolument attachée à la sécurité d'Israël et déterminée à poursuivre avec elle un combat sans relâche contre le terrorisme et partage à ce titre plusieurs préoccupations que nous avons évoquées.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Syrie",
+      "evidence": "Nous avons évoqué la situation en Syrie et j'ai rappelé la nécessité d'une solution politique sous l'égide des Nations unies pour mettre fin aux souffrances des populations et lutter efficacement contre le terrorisme et stabiliser durablement le pays.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "source": "Liban",
+      "relation": "ALLIED_WITH",
+      "target": "Israël",
+      "evidence": "pour la sécurité d'Israël, puisque dans les engagements clairs qui ont été pris par le Liban, la dissociation, c'est-à-dire la neutralité de toutes les composantes au Liban a été actée",
+      "confidence": 1.0,
+      "source_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9",
+      "target_id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    }
+  ]
+}

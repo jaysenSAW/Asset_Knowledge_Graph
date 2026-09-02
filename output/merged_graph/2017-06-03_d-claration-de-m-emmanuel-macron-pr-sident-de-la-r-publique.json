@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Person",
+      "name": "MODI",
+      "id": "Person_481b6129ab0b3e65f2e8451c0fea7e5dd3a351033e473c269d91ed94ea23bf0d"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme",
+      "id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "type": "Person",
+      "name": "le ministre indien en charge de l'Economie, de la Défense",
+      "id": "Person_11652c50065e85b747410d6506317609ab2f5710301d1a2cc28e9694d1cfc4bd"
+    },
+    {
+      "type": "Person",
+      "name": "le Premier ministre MODI",
+      "id": "Person_2e1c26a1168727ff7cafed553f6ed3df806983a2defcba13d026ebcfd24f31ac"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "MODI",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "le Premier ministre MODI de sa présence ici à Paris",
+      "confidence": 1.0,
+      "source_id": "Person_481b6129ab0b3e65f2e8451c0fea7e5dd3a351033e473c269d91ed94ea23bf0d",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Inde",
+      "evidence": "Je souhaite que l'Inde puisse prendre toute sa part à nos côtés dans la lutte contre toutes les formes de terrorisme, et puisse savoir que la France est à ses côtés dans la lutte contre le terrorisme qu'elle a à subir.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Inde",
+      "evidence": "La France et l'Inde ont une histoire, et elles ont des défis communs",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    }
+  ]
+}

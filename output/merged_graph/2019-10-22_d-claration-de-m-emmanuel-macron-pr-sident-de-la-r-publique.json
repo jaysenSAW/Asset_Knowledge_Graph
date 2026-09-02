@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Mayotte",
+      "id": "City_3dec527a64f181a960dc6a603b915acb2fd5fe3edc9a3709d2a6990c3fb25dc8"
+    },
+    {
+      "type": "City",
+      "name": "La Réunion",
+      "id": "City_3b93fbd63e92e372eeab86c6771fca89e2c870d4314aebfaf2af5a56934fa6b2"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "logement",
+      "id": "Theme_5482b77c02cb27b743d7ba44022361e1f99e9ac6c8c98c177add71ee6c65ef55"
+    },
+    {
+      "type": "Theme",
+      "name": "accès à l'eau",
+      "id": "Theme_a033ca47f0c5da0f480419a5778e963764c40b5a5ce9d52b012870967b4479ac"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructures de transport",
+      "id": "Theme_c28fb510196b65c1852c3cc72f9e1e30342461b4100b9e4a43ed2fe845601438"
+    },
+    {
+      "type": "Organization",
+      "name": "SHIKANDRA",
+      "id": "Organization_9b5c4bff23c2eb0c1ce996c606ec0a4bd8a2433ba298102ec27bcc093bea1105"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Comores",
+      "id": "Country_40f82d2ef96c8cb552a2a8a0dd9fa4146e7d9163bcc6ad94b7ab764f001ebc80"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Comores",
+      "evidence": "Ceci vient compléter, par ailleurs, les accords que nous avons pu signer avec les Comores, qui améliorent aussi la coopération entre la France et les Comores sur ce sujet.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_40f82d2ef96c8cb552a2a8a0dd9fa4146e7d9163bcc6ad94b7ab764f001ebc80"
+    }
+  ]
+}

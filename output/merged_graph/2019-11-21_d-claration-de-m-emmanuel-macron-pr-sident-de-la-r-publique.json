@@ -1,0 +1,382 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame",
+      "id": "Person_6ace0972a12e8e17957064d9f2ab5c314f0de15e6db0c156bc4d6af16f1e6022"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les Ministres",
+      "id": "Person_68c8bae1f1f0fa1fad64e1609435c27e59bb98f2bf0b5bf15ffe20298d0f898b"
+    },
+    {
+      "type": "Person",
+      "name": "Madame le Maire",
+      "id": "Person_633639a8397e0955ac29553bd5f3a3a8d64cdc990c3713de4f777f9e9f42805f"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les Parlementaires",
+      "id": "Person_513d1485982528e0834eb4f4c38b73da53f9e4817cd30f728fe27e32d9fc11d3"
+    },
+    {
+      "type": "Person",
+      "name": "Chers amis",
+      "id": "Person_ea6752ea13b7e38cb244013342b4e04afa9dd5dcbf74d7e84b37acdece219eb9"
+    },
+    {
+      "type": "City",
+      "name": "Amiens",
+      "id": "City_50d7edfea5352d1c2108d0e10ba4a285b0b793521bb528b9194a13254a40c572"
+    },
+    {
+      "type": "Organization",
+      "name": "Forum européen pour la jeunesse",
+      "id": "Organization_cf89c669388a7663819e585b2b639e393676ae5f18ad6077acb06ecd76f69755"
+    },
+    {
+      "type": "Organization",
+      "name": "CNAJEP",
+      "id": "Organization_b10a35a2b824e177afc7bb67eece07f0c05500fd2137b97952fb75f9c46d982c"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Brigitte",
+      "id": "Person_91665d231e1c891c78db6507442784404189bf7a06fcec57b713ed302fe52855"
+    },
+    {
+      "type": "City",
+      "name": "Sorbonne",
+      "id": "City_be809d89796ecb5c6df9354a01dfd395a79d98455adce499fa3da8fcbb92297c"
+    },
+    {
+      "type": "Theme",
+      "name": "tensions",
+      "id": "Theme_cba6267a0edb4b45de6f8ffdce822b9050ee187c12b3238bfe8a91fd4595d9f3"
+    },
+    {
+      "type": "Theme",
+      "name": "incommunicabilité",
+      "id": "Theme_b3f6cc0df7757458778a5c284612f66806ca6a62e0bbe88e1e9166e7630575a1"
+    },
+    {
+      "type": "Theme",
+      "name": "solitude",
+      "id": "Theme_9bf261aff6756e2aa9c4cac74eda601152fe07061c1060ce453aabec562f0d05"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement de civilisation",
+      "id": "Theme_f682d6a9f87230eaa8045beb57477f3e035c779922a3f66414112b5c31afe4a6"
+    },
+    {
+      "type": "City",
+      "name": "ville qui m'est chère et qui m'a fait grandir",
+      "id": "City_bc3dcec8d7453b6355295db2980002b93e05be8b1725a18443eb24c00cc12dd6"
+    },
+    {
+      "type": "Country",
+      "name": "notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Madame DE STAËL",
+      "id": "Person_308a6a614edef49759f13762d7c32b47059003890e9c5c46b07c143b14e1c0dd"
+    },
+    {
+      "type": "Person",
+      "name": "Benjamin CONSTANT",
+      "id": "Person_7e7d9306950a9abd6cdaecff5b4ddb30fbb43377e6d8421b2270ff418dcb2a06"
+    },
+    {
+      "type": "Theme",
+      "name": "littérature",
+      "id": "Theme_78ba2a7bd2758a35334d63320c788ed0003767d14ad19f765bce76ab995a9af9"
+    },
+    {
+      "type": "Theme",
+      "name": "langue",
+      "id": "Theme_503878fae38cf6a116099ef03b8fe0423aa370b33f0af8b6450b8ae129feef43"
+    },
+    {
+      "type": "Theme",
+      "name": "émotion",
+      "id": "Theme_7389467e2ded5a60cc6abeae36d04559f45df40ed465d309a6e67f726941378d"
+    },
+    {
+      "type": "Theme",
+      "name": "intraduisible",
+      "id": "Theme_f6befdcb003b30628f41a1cf6f85149317d6d51fb2bfcb0b0a9d0601d0aa9555"
+    },
+    {
+      "type": "Theme",
+      "name": "incommunicable",
+      "id": "Theme_e43bf8c36fb808a5a91ab0374f7997aaaed4c76fc9820bccacf3e8a9d4230e78"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "City",
+      "name": "Berlin",
+      "id": "City_b99770cd89b8870c4e168b4e52a8f787b64a4a2fc9ef992bf093af11c7e6a055"
+    },
+    {
+      "type": "Country",
+      "name": "Pologne",
+      "id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés",
+      "id": "Theme_2460d11dd8890d0086c346c7c4f9479cbb7c560ab3409a92f103572ef8fa5209"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "haine",
+      "id": "Theme_1109211ae99f54d538f05e8b1e3badcdc61927baacdf16dc2f914c62e0db0430"
+    },
+    {
+      "type": "Theme",
+      "name": "violence",
+      "id": "Theme_2e88abc315f2f0443a0e5b9fd8eae9a399f515b08101974ade6d7c352b827448"
+    },
+    {
+      "type": "Theme",
+      "name": "respect d'autrui",
+      "id": "Theme_2b89ff599a13a216bfa9e276e5ed778910a347f51e5aa8137c36e228c42d3ffd"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "planète",
+      "id": "Theme_38e28b3e4c13e58b47932666932d6ebab6edc14f0cd7822041d0e68c7b34f00c"
+    },
+    {
+      "type": "Theme",
+      "name": "continent",
+      "id": "Theme_148fd80b66a562dc228366d3418b5c107c82ee0728f38e2c49585be66bbd77fa"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation",
+      "id": "Theme_20f02849c6d3fef1e0f7fdcc6fcd9d5a1930a7b08f24aabfc14521d8b9ed907d"
+    },
+    {
+      "type": "Theme",
+      "name": "conscience",
+      "id": "Theme_b3bd701f7f284ffbe7c71d1b88204d34a2ae852c70ebd3f5f6ebbc07224c47be"
+    },
+    {
+      "type": "Theme",
+      "name": "respect",
+      "id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "type": "Person",
+      "name": "votre jeunesse",
+      "id": "Person_865539801918f5f502e494eb58447965c6ba0ed13647f9d4276cc70275e7f7e7"
+    },
+    {
+      "type": "Organization",
+      "name": "service national universel",
+      "id": "Organization_38b3dcef34fa88a4efe81449fa2b8548534992f52fb1df9143c4834cc437410f"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "service civique",
+      "id": "Theme_1367ae18078b1cc8bd8ad118db4585db8b2c09130dea3a650519c6bf5c8e0460"
+    },
+    {
+      "type": "Theme",
+      "name": "commentaire permanent",
+      "id": "Theme_5ef66981dee0307c42c2e350ecd0a6549c6187dd52a6691ffb582436807e4373"
+    },
+    {
+      "type": "Theme",
+      "name": "sélectionneur de l'équipe de France de football",
+      "id": "Theme_e798812b7b488fb3c2dd18df348348fba18ea6225aa6630f30f4a49ac66fdfda"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyens",
+      "id": "Theme_7d1a20e7e542c485e63052a17d8f9ddf3d1dd02261280872534ea7bb07c33170"
+    },
+    {
+      "type": "Theme",
+      "name": "commun",
+      "id": "Theme_8bc88228c49120e38830ef50b79ad4af16603c0b9b18dc96ac340572ca1dcaed"
+    },
+    {
+      "type": "Theme",
+      "name": "plébiscite de chaque jour",
+      "id": "Theme_582023fb6c1ea4052e5a933b1062883bad3d4ed2ca7a15e38cb6e8fd966c832f"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté d'aller et venir",
+      "id": "Theme_83a31e3899d3e62e8131f684888454ec4c981d7510d51d983ce0eab5e12f2be9"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de la presse",
+      "id": "Theme_40359177ead3bed094c1f6f38aef056296f984a38583d6593094099ff5e0b4fc"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de manifester",
+      "id": "Theme_d9d3707394684c00a3107a7a624ea71410ca88073fc3175a326146874016b975"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés individuelles",
+      "id": "Theme_759ccdc015d83cf60a6046b0b9d40b9d6f2ba26eed4cc7fc4859025eb4ae5ca8"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés publiques",
+      "id": "Theme_3263f766a0af85d8cd9a99561b8c720d44f311c9b501b42dc08f9d768b0168c8"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés individuelles et collectives",
+      "id": "Theme_a738b5a26766b353dd756b9a45e29b505d87623ac876bb9b1009301658c45e85"
+    },
+    {
+      "type": "Theme",
+      "name": "droits fondamentaux",
+      "id": "Theme_d9b4fe1c479d332e7300e316d32c15aeb5cb1ac64fafb3edc188bbdc443faa35"
+    },
+    {
+      "type": "Theme",
+      "name": "État de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Person",
+      "name": "Jules VERNE",
+      "id": "Person_fba708db7212818cd6fefc58892115ff670605c821dd23fa82d971fdda33be3d"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "L'Europe dans laquelle nous vivons aujourd'hui, à coup sûr plusieurs d'entre vous viennent de tels pays, se refracture",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "en France, en Europe",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "service national universel",
+      "relation": "SPOKE_ABOUT",
+      "target": "engagement",
+      "evidence": "c'est enfin l'engagement, et ça regroupe toutes ces valeurs. C'est ce que nous voulons faire avec le service national universel.",
+      "confidence": 1.0,
+      "source_id": "Organization_38b3dcef34fa88a4efe81449fa2b8548534992f52fb1df9143c4834cc437410f",
+      "target_id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "source": "service national universel",
+      "relation": "SPOKE_ABOUT",
+      "target": "service civique",
+      "evidence": "à travers le service national universel, la connaissance de ce qu'est la nation mais aussi l'ouverture à l'engagement, à l'autre, au service civique",
+      "confidence": 1.0,
+      "source_id": "Organization_38b3dcef34fa88a4efe81449fa2b8548534992f52fb1df9143c4834cc437410f",
+      "target_id": "Theme_1367ae18078b1cc8bd8ad118db4585db8b2c09130dea3a650519c6bf5c8e0460"
+    }
+  ]
+}

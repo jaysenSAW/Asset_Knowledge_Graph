@@ -1,0 +1,843 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Martin",
+      "id": "City_bf279675277b85a1d038861ac98b8b0a9f6f40dfebd678fd910dfb68248309b9"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Barthélemy",
+      "id": "City_db466d5e3160e7b65440a38e3ff094a1c9e85ad78a6130fbfc07a18d4bb62751"
+    },
+    {
+      "type": "City",
+      "name": "Guadeloupe",
+      "id": "City_31dc7614597a9b1a20af10480699c293505cd808e95212580670b8b5ad49dea5"
+    },
+    {
+      "type": "City",
+      "name": "Martinique",
+      "id": "City_e722b3719750b15524a6440d0eb57a596985cde19dd59e12cad730325aa3b4b6"
+    },
+    {
+      "type": "City",
+      "name": "Bormes-les-Mimosas",
+      "id": "City_023d1de300e22e7ad8c4716adf585277f98fac187a26ad3f2b0e6f30771e5353"
+    },
+    {
+      "type": "Country",
+      "name": "nos voisins européens",
+      "id": "Country_d9ffa3437e1b1452e5f09793b972fcbde21c95747c417b77c7f5ecee22a49c6f"
+    },
+    {
+      "type": "City",
+      "name": "Var",
+      "id": "City_44eb069dcaec92d44b9129c17c5ed17428012e19c6f7495293cbf34888de2688"
+    },
+    {
+      "type": "City",
+      "name": "Vaucluse",
+      "id": "City_27eb60fba2111ac51566dbbadfc401bfe37ccdee098ea5d6596db6eefe4bbc57"
+    },
+    {
+      "type": "City",
+      "name": "Haute-Corse",
+      "id": "City_f8200165a34cd1f51d6eda66abeccb19b0ca54accfbff90338dd5a230cf7129f"
+    },
+    {
+      "type": "Country",
+      "name": "Portugal",
+      "id": "Country_cf5e0a7a677f823b7b8ff468282692a5b0531c04401a108b2b705a578a7907b7"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Country",
+      "name": "Croatie",
+      "id": "Country_1b940bb8e233a7c1969bcf0cc30fb014e6a5c0bee8b5ed32626e55ee84f35e16"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Organization",
+      "name": "femmes et hommes sapeurs-pompiers professionnels et volontaires",
+      "id": "Organization_623b894fcf0c082f621efb63d473d7df3cc862033236ee014bc8aa7c8bc6319a"
+    },
+    {
+      "type": "Organization",
+      "name": "marins-pompiers",
+      "id": "Organization_446fa2f0c05ccf15254da66340dda0b1f89371cebbe22db6fe1478340b7704af"
+    },
+    {
+      "type": "Organization",
+      "name": "militaires de la sécurité civile et des armées",
+      "id": "Organization_729285bfca00add5e3ceafb8de805e26ad5b5f6355f139bc14984150b4f2b9ba"
+    },
+    {
+      "type": "Organization",
+      "name": "forestiers-sapeurs",
+      "id": "Organization_7e1ef26340f29b79dba37f5a50f52f32b13b77c416618b9550491ca1be58e110"
+    },
+    {
+      "type": "Organization",
+      "name": "pilotes de la flotte aérienne de la sécurité civile",
+      "id": "Organization_009d040d0380949f3f416e1feb4e7463ec0bd2be136dc213f666bcaa55b23437"
+    },
+    {
+      "type": "Organization",
+      "name": "services de l'Etat",
+      "id": "Organization_0e4c3b002b7e0b947f150ac5ade5255303027617ed7e319cef90365be1d32acb"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités territoriales",
+      "id": "Organization_0a60af9062d171d1595f93fdf0e1ec5531b2a4a8c4cb1f6341762a0df5e03438"
+    },
+    {
+      "type": "Organization",
+      "name": "Conférence nationale des services d'incendie et de secours",
+      "id": "Organization_8f80e0ed7a321a6e41a22aaf005603f31b3622b1748c7a051c0d8b603a3e4c3c"
+    },
+    {
+      "type": "Organization",
+      "name": "élus locaux",
+      "id": "Organization_4d0134946d1a9782e19d340e8c35e84487bc60452ac6543007e248dd37479e52"
+    },
+    {
+      "type": "Organization",
+      "name": "associations de collectivités",
+      "id": "Organization_6ef4a6d33556d38f722d5b3291c659d83c188732521b8dde7c4e3aa77fb03512"
+    },
+    {
+      "type": "Organization",
+      "name": "personnels municipaux",
+      "id": "Organization_bc4610da1bf25fd061edfe4a9a6240707921f7a4a23d6739f65945592c348fbe"
+    },
+    {
+      "type": "Organization",
+      "name": "associations agréées de sécurité et de protection civile",
+      "id": "Organization_ca1df3ed4bd86dae07a686e7e03aea8bf7df772916a8b063f77771d7e338177d"
+    },
+    {
+      "type": "City",
+      "name": "Nîmes",
+      "id": "City_2d027777770616ecd49ee181c174bdfc169220193ead6c966c1cc82882f393b7"
+    },
+    {
+      "type": "City",
+      "name": "Cannes",
+      "id": "City_9f25fc7eb1d55b87f7487e39e9ab0c891a6c3c9e204b49ff2652f994000a4f6b"
+    },
+    {
+      "type": "City",
+      "name": "Ajaccio",
+      "id": "City_6ccccbd58d33899d3f234fe0bb84de76c638feea9ab9e6d13768ccf2ff3d4b74"
+    },
+    {
+      "type": "City",
+      "name": "Solenzara",
+      "id": "City_4e9d05961fe61fe95865469eff4c619ff003927ab1843baea0690ee3244b7baf"
+    },
+    {
+      "type": "City",
+      "name": "Marignane",
+      "id": "City_d7f5c936a168ee7b48663f6fcdd80445f9f730041ce0dff25f089e5b5886c145"
+    },
+    {
+      "type": "City",
+      "name": "Carcassonne",
+      "id": "City_ada724586f6f34b1c7fad959c14fdd3ac5367ba452e77f7e797e32121393888b"
+    },
+    {
+      "type": "City",
+      "name": "Bordeaux",
+      "id": "City_ec6760adfddeb4aa228eab33177f9fcda347d6fe13cd536c166f0da4cdf9d1ef"
+    },
+    {
+      "type": "Organization",
+      "name": "Météo France",
+      "id": "Organization_99aa5237e869fdcac496aa3d1a5699fbe69e14cd451a032ded3758d9170cee07"
+    },
+    {
+      "type": "Organization",
+      "name": "Office national des forêts",
+      "id": "Organization_bdebc02b265cc07916c129f605e064bcfde2a697a0085314af0d93153582b793"
+    },
+    {
+      "type": "Organization",
+      "name": "police",
+      "id": "Organization_dc301df473166c63b52caf113c7750a660022b2ff499ea992891073f92e5a736"
+    },
+    {
+      "type": "Organization",
+      "name": "gendarmerie",
+      "id": "Organization_b95753ed271ade5dcf1b54deee1f75640b2715635daabd28dba268524f6e100e"
+    },
+    {
+      "type": "Organization",
+      "name": "autorité judiciaire",
+      "id": "Organization_cbcdc5d1469fbe0ba14f31717c0649cdb00064c7fbbf86cf2d9ecbf0112ab9c6"
+    },
+    {
+      "type": "Organization",
+      "name": "procureurs généraux",
+      "id": "Organization_75a34d31eea679d1e96132b1092626c6e89377141ca3b48238b773ab990cc701"
+    },
+    {
+      "type": "Event",
+      "name": "incendies de l'été",
+      "id": "Event_460275f38e8a44ecdeebe7555bbda0ea8b37e31cfb94b34300bc7dd2174358b8"
+    },
+    {
+      "type": "Event",
+      "name": "ouragans Irma, José et Maria",
+      "id": "Event_8ca4a0402e74916f50ddb54278c03f6c0cf4c0c04ec23e7c7c93bd743c80978d"
+    },
+    {
+      "type": "Event",
+      "name": "saison cyclonique",
+      "id": "Event_a22048302f28d5da199b55086d2cd017e248816309bbb3df76e3edc472dc7a88"
+    },
+    {
+      "type": "City",
+      "name": "Sud-est",
+      "id": "City_0673486143c59ac9157d88dd1c18906853dd34f36c0e256718ed79839e938917"
+    },
+    {
+      "type": "City",
+      "name": "Corse",
+      "id": "City_16f784e293f33726279f3f43c311b4c6996cd29064ae7f0a470010a8505ad63a"
+    },
+    {
+      "type": "City",
+      "name": "Antilles",
+      "id": "City_e5bf4545ed45774c0c3f23ddc5c82d372bd391973d5a7361a2921e17ad411050"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Event",
+      "name": "passage d'Irma",
+      "id": "Event_a5b02aab613e33f5e00531957abce234a1c13764e71f952b28d936c34f1df838"
+    },
+    {
+      "type": "Event",
+      "name": "passage de Maria",
+      "id": "Event_d94c58445a2ed18025b1392d215de1ba3c9686f5483755d82c9759cbdf3c1391"
+    },
+    {
+      "type": "Person",
+      "name": "Anne LAUBIES",
+      "id": "Person_85a31151345754e0762ccb40140bb4da394346e129b60c7ebaeda6e6b37ee375"
+    },
+    {
+      "type": "Person",
+      "name": "Eric MAIRE",
+      "id": "Person_90db9b6768c1f418c42482280dd942cb51c22534a5d6601e80d4af3e3504d409"
+    },
+    {
+      "type": "Person",
+      "name": "TRUMP",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "City",
+      "name": "îles du Nord",
+      "id": "City_251d93f0bd43268ab35faa17d56ebaca691c228cf68f947aa509200fea41aeac"
+    },
+    {
+      "type": "Theme",
+      "name": "colère",
+      "id": "Theme_4e30994df9e9eac88bc1882bf63418ce377af79a6f9e3df68de8115525b914eb"
+    },
+    {
+      "type": "Theme",
+      "name": "incompréhension",
+      "id": "Theme_8c73c01e6889895d3e5d814c1e50578294c0efb6d1d770d0689ae346605769d1"
+    },
+    {
+      "type": "Person",
+      "name": "Philippe GUSTIN",
+      "id": "Person_bc935a24b14112b9b208e3cae67411f76fe8808b054d72622ca02a8e854606cf"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Event",
+      "name": "COP 23",
+      "id": "Event_6a62d569bc82fd9bfd07975125d3b777b1bf85eda12bf0704b3157acc0b32aec"
+    },
+    {
+      "type": "Event",
+      "name": "sommet à Paris",
+      "id": "Event_a38adf1b3d03e87aeef1468fc70abb570792afb498b5b26fb91b0cbe0842f755"
+    },
+    {
+      "type": "Law",
+      "name": "accord de Paris",
+      "id": "Law_cd8b0ed5bd6d7c10b803a393cbdcace05ca0db0f17b36ece29f3b3d3b07b6d15"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre les feux de forêt",
+      "id": "Theme_c3ca6e697e25d8d6c84c85e133c4230599956dd55727a4c2d518a9e6e43a6531"
+    },
+    {
+      "type": "Theme",
+      "name": "réponse aux aléas climatiques",
+      "id": "Theme_c22aa82fb6c6aaedb9173ed75467cacf6cf4859205c4c78d2869a5f3004d6c96"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle français de sécurité civile",
+      "id": "Theme_4f70fd153c5435eb882e591be2ae4a7bcb5c6aa2de4a0da8cf46845a8135d05a"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence",
+      "id": "Theme_00b20302d5f64b56a882fa76ac635bfb2d5b859939516a451a03216995d89940"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir-faire",
+      "id": "Theme_e020add04380980015c543dc696b8b323483b7b82c6c387324d2986f12998c1a"
+    },
+    {
+      "type": "Theme",
+      "name": "réactivité nationale",
+      "id": "Theme_5f363ac1a65adfeb7ca3473e50402405e1efdecf26336ee8da13ab05e86026e6"
+    },
+    {
+      "type": "Theme",
+      "name": "maillage territorial",
+      "id": "Theme_fa8ba09d4a03306f5f981784d62ec018d66682581e3a32bd449919e55d12a6c0"
+    },
+    {
+      "type": "Organization",
+      "name": "nous",
+      "id": "Organization_1abd5dcfaef874841c719199a08352984f3121ba4d175d7705d1c0f89b7da3de"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle",
+      "id": "Theme_72f49d4244df6301ed5e6c5a29a183744c3ebad8154a2d585d61455a6de2b287"
+    },
+    {
+      "type": "Theme",
+      "name": "doctrine",
+      "id": "Theme_8389a07512e594ca231d17bea10297508bad6895c74f3c1beebb54224812f43c"
+    },
+    {
+      "type": "Theme",
+      "name": "matériels",
+      "id": "Theme_b74557a71821e4f4f7b588520e27f6a3a6a0286fe544c1cb7cc0aa44546b5809"
+    },
+    {
+      "type": "Organization",
+      "name": "sapeurs-pompiers",
+      "id": "Organization_65af48d7150af973eae0e7628bcf4a3d991ebef47542190435e0b835efee6a7f"
+    },
+    {
+      "type": "Theme",
+      "name": "reconnaissance",
+      "id": "Theme_24e4cd0fe4314d21fe51891238282e7ad3290eb5e3e25cf1b43cf34fb381606e"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence opérationnelle",
+      "id": "Theme_c8961cc7e7c4e33130044b6a5ebb183362e1fa71a414cd129a284f2c2c0140dd"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "doctrines partagées",
+      "id": "Theme_18affe5c8af503e3b65aaf5fdd8cf1aba6b409ece284b31e7d04488a5cc50e37"
+    },
+    {
+      "type": "Theme",
+      "name": "plans de secours",
+      "id": "Theme_f13f88151272eb96e33d26ac6a9a12eb77bdb8677f295230fd4d0db10f47b7f8"
+    },
+    {
+      "type": "Theme",
+      "name": "gestes qui sauvent",
+      "id": "Theme_e8628aef379e12ef65fd4a57d75cec27eea73c5aac547f19e160268c0ef3b59c"
+    },
+    {
+      "type": "Theme",
+      "name": "crises liées au dérèglement climatique",
+      "id": "Theme_76ba53b5c4b51dae75be7b3ec577d7d5601694a024f3b17aa4e7897d736434b5"
+    },
+    {
+      "type": "Theme",
+      "name": "accidents de la vie courante",
+      "id": "Theme_ca7103c0ad9b78e1069819972ee8d0cacf12d7c1d1b0a4e9ee47e22f3c0cb715"
+    },
+    {
+      "type": "Person",
+      "name": "Eric FAURE",
+      "id": "Person_040090f1d015529e0b74341ab0c27a3108edff37677569f9dd09247082c36d2a"
+    },
+    {
+      "type": "Theme",
+      "name": "sens",
+      "id": "Theme_a497d3133b843f82d7a6211f676857634d7c3318e72e0acb4e21f67160639131"
+    },
+    {
+      "type": "Theme",
+      "name": "action citoyenne",
+      "id": "Theme_bb050192fce98d66d7acf69179241063e5202db6d67ca753470de71c1d177faf"
+    },
+    {
+      "type": "Organization",
+      "name": "communauté de la sécurité civile",
+      "id": "Organization_1df1f949987896c72a04903da37cfa9b42a56e8c46909ef75cc1c42c02f09097"
+    },
+    {
+      "type": "Organization",
+      "name": "associations",
+      "id": "Organization_093357ed588ea24809b2100d18e873165901f63f0760d7b30cd7fed20c85113a"
+    },
+    {
+      "type": "Organization",
+      "name": "services d'incendie et de secours",
+      "id": "Organization_753d5c90046a759e909a90f1e828f5419a466c6f22b7c6a4c5d279441567acb2"
+    },
+    {
+      "type": "Organization",
+      "name": "maison",
+      "id": "Organization_d529ec8be27316e7f8fcc2f650acd9851d47af4f3bf57f85165baadb40d2547a"
+    },
+    {
+      "type": "Person",
+      "name": "Luc FERRY",
+      "id": "Person_b9767accac7c4d6ab52b397ac435f37715108d58f8b35ecb68e100194725e9f1"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission ambition volontariat",
+      "id": "Organization_3beceb17bf61b28f1fcc3ba95b278474082f7aef5a96b1d24a43fa1a914a8468"
+    },
+    {
+      "type": "Theme",
+      "name": "volontariat",
+      "id": "Theme_0a1bc9f39ac773dea871dc8ea56f1279c48d2986a5e2e283c59e3b7c3be20859"
+    },
+    {
+      "type": "Theme",
+      "name": "service national universel",
+      "id": "Theme_aac51ed073ec968cdf55805e1637ecd4d52aa84e531553ee107ef36a913fffc9"
+    },
+    {
+      "type": "Theme",
+      "name": "gestes de premiers secours",
+      "id": "Theme_77c42786c04027e6d1e3ed1f5af89da722e8ccea875fb7e559526245190d15dd"
+    },
+    {
+      "type": "Person",
+      "name": "Gérard COLLOMB",
+      "id": "Person_e134840831a9fd3678525352398d461d680749f00fece65caef9d0ddc12ccd74"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité civile",
+      "id": "Theme_bac7a63431a0d71c2a8a959259f6dac6674f8c4385ca711ef6b4e67196186e78"
+    },
+    {
+      "type": "Theme",
+      "name": "incendies",
+      "id": "Theme_fb215f728aeac21df7469bd104a506686d187cbda7f5084e44551ac3453bebe4"
+    },
+    {
+      "type": "Theme",
+      "name": "aléas climatiques",
+      "id": "Theme_001da8388f3a5e55bd3c84803db0f273071ec9436ffd6365ca93dad4146e08f3"
+    },
+    {
+      "type": "Theme",
+      "name": "feux de forêt",
+      "id": "Theme_debe670ffe1f2c863d105b988f21ff9530c74b664ab0e70e9d0b164c7237ece3"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Theme",
+      "name": "défis du dérèglement climatique",
+      "id": "Theme_e784f8a59ba3f9a994c12595e4b8d247050619dae605d8785cfdeb32b451a02b"
+    },
+    {
+      "type": "Theme",
+      "name": "risques",
+      "id": "Theme_797c3ec4399b9e1c1ce15d7275922c2cfffa32a985c6cfdc4c0cee64e6e589ad"
+    },
+    {
+      "type": "Person",
+      "name": "Michel BARNIER",
+      "id": "Person_6a04ceb187264fb3e394a2093779ba135fd7a574bf1489892666c3bcc42b5af6"
+    },
+    {
+      "type": "Country",
+      "name": "Chili",
+      "id": "Country_c0d4881c53036bf1949a279e19e404943cec83d8c7607b89f66e74188cb94b92"
+    },
+    {
+      "type": "Country",
+      "name": "Haïti",
+      "id": "Country_26eb6b2804b8c516c8aba8f54ce10584b06e2fe603cba2ec2cfdfa5b73cb8a92"
+    },
+    {
+      "type": "Country",
+      "name": "Dominique",
+      "id": "Country_c09d5613a2d9f13689fded015c0229f56570c28edd918204f5353b13447203dd"
+    },
+    {
+      "type": "Organization",
+      "name": "Corps médical européen",
+      "id": "Organization_04316e4e8e0ccb78ebc74fb4bc714ada391839f2b7836fa99306619ac56ac981"
+    },
+    {
+      "type": "Organization",
+      "name": "Reserve sanitaire européenne",
+      "id": "Organization_3cd09b94db88a478374c13a05caf94a33a408d8540678cdfc6cea066ad058a27"
+    },
+    {
+      "type": "Organization",
+      "name": "Mécanisme européen de protection civile",
+      "id": "Organization_4897f4b0b644f6a2c5b631a6699a385fd9ea052a39895b9a7611f8f25b280aaf"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Organization",
+      "name": "force commune de protection civile",
+      "id": "Organization_a0542555a9752c372b4409faf08af7d7a9cefdf2190dd9e69235d21c6dca1f4d"
+    },
+    {
+      "type": "Country",
+      "name": "Canada",
+      "id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3"
+    },
+    {
+      "type": "Theme",
+      "name": "catastrophes",
+      "id": "Theme_e894bb4bb98bfd70640166d078c3224f8df7ec0261e1a6e963b829ae0459d325"
+    },
+    {
+      "type": "Organization",
+      "name": "base de sécurité civile de Nîmes",
+      "id": "Organization_42c2f07a428c83e685a646a065bf045fd6437366c7cf622f46174359c510f2ff"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Commissaire",
+      "id": "Person_5d5b0e2e96a6288500d8666a6329bc1a102ea312471b10a00599e802d9881255"
+    },
+    {
+      "type": "City",
+      "name": "Sorbonne",
+      "id": "City_be809d89796ecb5c6df9354a01dfd395a79d98455adce499fa3da8fcbb92297c"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation numérique",
+      "id": "Theme_d318c2f86921804391bbc676073257d45bb14c7d08f63aa65f5bf7796b4958ef"
+    },
+    {
+      "type": "Theme",
+      "name": "système moderne et résilient d'alerte des populations",
+      "id": "Theme_ced6a0834756c5ea3d87bfbd2579e618f5b9a3635f89b3ac0752a6c5619a70e8"
+    },
+    {
+      "type": "Theme",
+      "name": "vecteur numérique dédié",
+      "id": "Theme_b6f27034e01e35889717e8318b9bb509fbbfe696052f1eba080feec852d95f33"
+    },
+    {
+      "type": "Theme",
+      "name": "système unifié d'information et de gestion des alertes",
+      "id": "Theme_14bd79dfd472f4d607202ba3a9d56bb375dea4fb845aa2d3ce436ebbcf02d98d"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Luxembourg",
+      "id": "Country_88797ed5e26a1c6d46b1adb12833226b925f1283df47dafab01291d972c4c769"
+    },
+    {
+      "type": "Country",
+      "name": "Finlande",
+      "id": "Country_07de2e54c1d716feb24d42a643c5de89dc1f04a79da8dcb0fd46d71f88bd7006"
+    },
+    {
+      "type": "Country",
+      "name": "Suède",
+      "id": "Country_f0680f074258c0cbb263830557969af01c50840b9cdfd249ff5c18418896a4ff"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations",
+      "id": "Theme_3957cb051014b00717e7b2ec655cbcfa47c99687835fe48f9d3a8fbe1cedaead"
+    },
+    {
+      "type": "Theme",
+      "name": "centres commun",
+      "id": "Theme_18e36b77ba096716acc5b5a119a9e7b62f3bcffcdfedbd95e51bdab330e4b75a"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance",
+      "id": "Theme_b922336e378de1f3bd3c36e9805efd63ad949f8fbff73adbfc2b3826e811ee6a"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation",
+      "id": "Theme_01dbd75772ce2e01acf43a9eed5bfc3d66a83ad34f48105944d56c5bf0aaa34b"
+    },
+    {
+      "type": "Theme",
+      "name": "allocation juste des moyens",
+      "id": "Theme_404abdebf10ecea3554834bd162d1baf5f505a6b57a1a7985bbf70629e1acd2a"
+    },
+    {
+      "type": "Theme",
+      "name": "ministre de l'Intérieur",
+      "id": "Theme_bf9bbec4773c861288902e1c6688cb0c4eb92400fc9a6c831713165fb7409318"
+    },
+    {
+      "type": "Theme",
+      "name": "héros de la République",
+      "id": "Theme_6fe55d80dd57011efa1a66c732e474322d6d9d6cb0f21b5b13a6340da1f6547b"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "directeurs généraux",
+      "id": "Person_66fa4f4b17ecff27d1a58fe1bf58af8eaf3450b97f5b3d6e1355d96f4ccc40aa"
+    },
+    {
+      "type": "Person",
+      "name": "élus",
+      "id": "Person_6e68e10b80befee05637cf58bc1c8c6a117e35c2f08f0ada097df6408c91e4a8"
+    },
+    {
+      "type": "Person",
+      "name": "officiers",
+      "id": "Person_c8171bd3ed8cbc7cf669a5a86eabca249295516f0d8bd47e68ece1fee0d459b1"
+    },
+    {
+      "type": "Person",
+      "name": "sous-officiers",
+      "id": "Person_b457902fde2b230441235d641cfdd79714ee61c5664555cbf1d0e91e8aa0361e"
+    },
+    {
+      "type": "Person",
+      "name": "vous toutes et tous qui êtes là",
+      "id": "Person_d1e11b646545fa2e17e625b9c1131f9d359099b4613b66124f7334821d3229b2"
+    },
+    {
+      "type": "Country",
+      "name": "la République",
+      "id": "Country_8ece1ca643efc6be6485040a8d42357a81f22c38694d9ca8a56d37a688baf2b0"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "saison cyclonique",
+      "relation": "LOCATED_IN",
+      "target": "Antilles",
+      "evidence": "La saison cyclonique a débuté dès le 1er juin aux Antilles ;",
+      "confidence": 1.0,
+      "source_id": "Event_a22048302f28d5da199b55086d2cd017e248816309bbb3df76e3edc472dc7a88",
+      "target_id": "City_e5bf4545ed45774c0c3f23ddc5c82d372bd391973d5a7361a2921e17ad411050"
+    },
+    {
+      "source": "Antilles",
+      "relation": "SPOKE_ABOUT",
+      "target": "saison cyclonique",
+      "evidence": "La saison cyclonique a débuté dès le 1er juin aux Antilles ;",
+      "confidence": 1.0,
+      "source_id": "City_e5bf4545ed45774c0c3f23ddc5c82d372bd391973d5a7361a2921e17ad411050",
+      "target_id": "Event_a22048302f28d5da199b55086d2cd017e248816309bbb3df76e3edc472dc7a88"
+    },
+    {
+      "source": "Eric MAIRE",
+      "relation": "MEMBER_OF",
+      "target": "Guadeloupe",
+      "evidence": "le préfet de la Guadeloupe, Eric MAIRE",
+      "confidence": 1.0,
+      "source_id": "Person_90db9b6768c1f418c42482280dd942cb51c22534a5d6601e80d4af3e3504d409",
+      "target_id": "City_31dc7614597a9b1a20af10480699c293505cd808e95212580670b8b5ad49dea5"
+    },
+    {
+      "source": "Saint-Martin",
+      "relation": "LOCATED_IN",
+      "target": "Saint-Barthélemy",
+      "evidence": "Les forces mobilisées au niveau local et national ont assuré la distribution de plus de 2 millions de litres d'eau depuis le début des opérations ; plus de 300 tonnes de denrées alimentaires, près de 20.000 rations pour les habitants de Saint-Martin et Saint-Barthélemy lors des opérations de secours d'urgence.",
+      "confidence": 1.0,
+      "source_id": "City_bf279675277b85a1d038861ac98b8b0a9f6f40dfebd678fd910dfb68248309b9",
+      "target_id": "City_db466d5e3160e7b65440a38e3ff094a1c9e85ad78a6130fbfc07a18d4bb62751"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "sécurité civile",
+      "evidence": "J'ai une ambition pour la France, pour la sécurité civile : je veux en faire un exemple mais aussi une ambition européenne",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_bac7a63431a0d71c2a8a959259f6dac6674f8c4385ca711ef6b4e67196186e78"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "incendies",
+      "evidence": "Ainsi, d'ici 2040, les zones forestières potentiellement sensibles aux incendies remonteront jusqu'à l'Ile-de-France, soit une augmentation de près d'un million d'hectares des surfaces concernées, atteignant près de 6 millions et demi d'hectares soumis au risque feux de forêt",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_fb215f728aeac21df7469bd104a506686d187cbda7f5084e44551ac3453bebe4"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "Corps médical européen",
+      "evidence": "La France est ainsi à l'initiative avec l'Allemagne de la création du Corps médical européen, réserve sanitaire européenne destinée aux crises extérieures dans le cadre du Mécanisme européen de protection civile",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_04316e4e8e0ccb78ebc74fb4bc714ada391839f2b7836fa99306619ac56ac981"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "Reserve sanitaire européenne",
+      "evidence": "La France est ainsi à l'initiative avec l'Allemagne de la création du Corps médical européen, réserve sanitaire européenne destinée aux crises extérieures dans le cadre du Mécanisme européen de protection civile",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_3cd09b94db88a478374c13a05caf94a33a408d8540678cdfc6cea066ad058a27"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Mécanisme européen de protection civile",
+      "evidence": "La France est ainsi à l'initiative avec l'Allemagne de la création du Corps médical européen, réserve sanitaire européenne destinée aux crises extérieures dans le cadre du Mécanisme européen de protection civile",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_4897f4b0b644f6a2c5b631a6699a385fd9ea052a39895b9a7611f8f25b280aaf"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Allemagne",
+      "evidence": "La France est ainsi à l'initiative avec l'Allemagne de la création du Corps médical européen, réserve sanitaire européenne destinée aux crises extérieures dans le cadre du Mécanisme européen de protection civile",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "en Europe et tout particulièrement en France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Europe",
+      "evidence": "en Europe et tout particulièrement en France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Ce qui s'est passé ces derniers mois en France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

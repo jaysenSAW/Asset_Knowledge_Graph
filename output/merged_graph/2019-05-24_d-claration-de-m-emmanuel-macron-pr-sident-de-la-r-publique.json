@@ -1,0 +1,842 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Thomas Pritzker",
+      "id": "Person_b7d441c8308d7390fc57861aabfa16540164a6d96bddf0fbb58cc8d5c31d4299"
+    },
+    {
+      "type": "Person",
+      "name": "Stephen Breyer",
+      "id": "Person_fa6404946c678cc9d270867f155ef3fe679067a71bd169c6f5dc31a5434b801d"
+    },
+    {
+      "type": "Person",
+      "name": "Arata Isozaki",
+      "id": "Person_8b90732f59587b23ec49818478349cd73ada7805d9a0b84437753bb75e0f324e"
+    },
+    {
+      "type": "Organization",
+      "name": "Pritzker Organisation",
+      "id": "Organization_28597ba3578df3b35bcf60fcb3f526e467f7269ff0f878f31f7f7e575fac9bbd"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Christian de Portzamparc",
+      "id": "Person_53fb9c8392b0e851483815935335a1ebb4a2bfe7fb96f2ef5683eac9d81f2306"
+    },
+    {
+      "type": "Person",
+      "name": "Jean Nouvel",
+      "id": "Person_a68c5daebac9bf0635fab0d0980416954c71c8aa7eff13a4c4085da7282123cc"
+    },
+    {
+      "type": "Person",
+      "name": "Yao Ming Pei",
+      "id": "Person_084bb5664838c8d28cd510b74ed7e4f7ebc808db14a23d4a97607b041a34c739"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "Pritzker",
+      "id": "Organization_7bb18cb561f5f69aee96fd6f7bc2ba38176b61514577b9520950045920d11847"
+    },
+    {
+      "type": "Person",
+      "name": "vos parents",
+      "id": "Person_d71b1d24169c2e75ffc9c6c69a9445a2fcdada023f52fa6705a00747b3a82885"
+    },
+    {
+      "type": "City",
+      "name": "Versailles",
+      "id": "City_005c3dd556787a48d85e917c1629f8b41dea2f726d89283e42c5cd7448b7c82a"
+    },
+    {
+      "type": "City",
+      "name": "Élysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "Theme",
+      "name": "art",
+      "id": "Theme_6ed805edbb8eef4acbfa46f80c86538afc8b5485c0144e0929dce3cb2898ba5e"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation de la société",
+      "id": "Theme_ce137b3a67c68d8d158863c8fcf98d8a7a500bf5010f268e2ae50c8af9a3646d"
+    },
+    {
+      "type": "Theme",
+      "name": "vivre en commun",
+      "id": "Theme_4920fb8eee47cb2b2694b84fe4915f2151d079890cf48b55740a55d858cc3264"
+    },
+    {
+      "type": "Theme",
+      "name": "autre monde",
+      "id": "Theme_054466c8c1252cc25efa44fe1e8c1d0b150f8505d66b4c01f368abf887e31d4b"
+    },
+    {
+      "type": "Country",
+      "name": "Japon",
+      "id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "City",
+      "name": "Hiroshima",
+      "id": "City_89c2048fc98a0db638abff0a459c02c302089a88a6e7055d829970e5228f769d"
+    },
+    {
+      "type": "City",
+      "name": "Nagasaki",
+      "id": "City_65a44379ccac640b9b010255669f9a6c570e09ee4ce84d4fe95baf428d3c611b"
+    },
+    {
+      "type": "Organization",
+      "name": "agence",
+      "id": "Organization_a07c9d4d320bd483a0f788879b539c916973781362f6fbf6a6dc084d4ad88e54"
+    },
+    {
+      "type": "City",
+      "name": "ville natale",
+      "id": "City_546bee5ee17bad90391807dc663e5bd520051cbe5b17dc6d6e16efcfb81af79c"
+    },
+    {
+      "type": "City",
+      "name": "plusieurs autres villes du Japon",
+      "id": "City_94dbc26d8ba9641d74c366ad3f7f03e64af1a1ddd327ed0fd3fc22c7e1a2f295"
+    },
+    {
+      "type": "City",
+      "name": "Los Angeles",
+      "id": "City_ff770a90559813721c0ab68712fbbe447550a5a14775d8574e04f71308b50531"
+    },
+    {
+      "type": "City",
+      "name": "Mito",
+      "id": "City_47251f289ebe97652cbe25cfbb57d4db36963f18d0373315410eaaa22cee8be8"
+    },
+    {
+      "type": "City",
+      "name": "Orlando",
+      "id": "City_b8d6ccd55934bb01f0f3326256bad8a2d342a9825993b56e3eb8930cd326b1ee"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Country",
+      "name": "Australie",
+      "id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Vietnam",
+      "id": "Country_47e7e1f4e3008e557f6fb014a48701c8a54e33e3ea2b350c413ff8e9f17f3d3e"
+    },
+    {
+      "type": "Theme",
+      "name": "bâtiments",
+      "id": "Theme_9b28250b03701feda28b4a429800df467e931b0e6a9aa2d82c10aa71c930fdba"
+    },
+    {
+      "type": "Theme",
+      "name": "bibliothèques",
+      "id": "Theme_8478c655f87ce96015b43eeb3e82d3b19d51220f2d2fe23b3a091b292037d93e"
+    },
+    {
+      "type": "Theme",
+      "name": "musées",
+      "id": "Theme_49e5e04de2bfb6fe6f90e62ad24089495cbfaf08bb6e4c06b260a9659cc43769"
+    },
+    {
+      "type": "Theme",
+      "name": "tours de bureaux",
+      "id": "Theme_d1dd31e1d81773dfad6026f6645443553d01eb0e19525e9256c3e878fd23f000"
+    },
+    {
+      "type": "Theme",
+      "name": "centres d'évènements ou de congrès",
+      "id": "Theme_38fdda6b6c4cd9e8d0ffa5ee3985f6267441720c2c1915d4f750c419a42b765e"
+    },
+    {
+      "type": "Theme",
+      "name": "hôtels",
+      "id": "Theme_dfc902494dd6136a7fd7dfc73f9a56f030aad692b008b6dcb2a08cdced534d8b"
+    },
+    {
+      "type": "Theme",
+      "name": "formes",
+      "id": "Theme_1b3710577ddb637e8faac0f482cb39906b722f7133de86100c92ac939fc4a20e"
+    },
+    {
+      "type": "Theme",
+      "name": "styles",
+      "id": "Theme_510758e52570e4f89628151d19489b064b37f98fec490bc4231c47eb313be2d1"
+    },
+    {
+      "type": "Theme",
+      "name": "matériaux",
+      "id": "Theme_681411ad5cdd2fdd098fee0c6e92e49ab2bcc58433ab121b5c1141d14515a044"
+    },
+    {
+      "type": "Theme",
+      "name": "lignes",
+      "id": "Theme_f3ef94c1ffe6cd9d52cd2a3e9fd566a8327cf6f3692f49f0c94b500fa2cd6e03"
+    },
+    {
+      "type": "Theme",
+      "name": "couleurs",
+      "id": "Theme_774600ec21d7dfff95910dbd6a9a4a44d9b684d1a606c9464af9fda15ad2e6dd"
+    },
+    {
+      "type": "Theme",
+      "name": "brique rouge",
+      "id": "Theme_95b44b93d1d6f781b877f3674b0003bf69a8f4171f3f53c0b7551f62461f51cb"
+    },
+    {
+      "type": "Theme",
+      "name": "titane rutilant",
+      "id": "Theme_f27b7b3feeec32baf5cbbf3618707a682cc77b7e6f428998c6457099b264f3de"
+    },
+    {
+      "type": "Theme",
+      "name": "Tour de métal torsadée",
+      "id": "Theme_dcf89fcd6c095db36ddab8d08b98e85b3006962171deca4b2d8a91adc917b460"
+    },
+    {
+      "type": "Theme",
+      "name": "gaieté ludique et bigarrée",
+      "id": "Theme_2c66abf5994879bc1874c49a730a465b0a2cb2bef28beb2d9b4af7bf6b2d31c9"
+    },
+    {
+      "type": "Theme",
+      "name": "sérieux",
+      "id": "Theme_180062f3598ac400badb492c189dec535a5e52686408a4278211e8d5bf0d339e"
+    },
+    {
+      "type": "City",
+      "name": "Milan",
+      "id": "City_a46d9846e800c57ab4002a6127a96da78faaae664a70a63e9a027c0217550e35"
+    },
+    {
+      "type": "City",
+      "name": "Turin",
+      "id": "City_3727729d752d9ee7313d0041f478186b85779d6b3e7af60278f2219e178f9ede"
+    },
+    {
+      "type": "City",
+      "name": "Doha",
+      "id": "City_2c4553445cae0415389464dfa171ee146aa0bfd01639954f3fa6249857071898"
+    },
+    {
+      "type": "Organization",
+      "name": "Walt Disney World Resort",
+      "id": "Organization_56c8c5bb07c32f1b08f84906df425059036cf17e4f305a6ae3bbc8543ba3c861"
+    },
+    {
+      "type": "Organization",
+      "name": "Tour alliance",
+      "id": "Organization_63d04a9b07f8dcfea827dd25a2f2dc8073813ab0a54aa93ffc06b5295df3b3bb"
+    },
+    {
+      "type": "Organization",
+      "name": "Palais des sports",
+      "id": "Organization_09b72a7d2b2406686f8c03c38c088c29184618349b615ccef6d1028ba58aa239"
+    },
+    {
+      "type": "Organization",
+      "name": "National Convention Center",
+      "id": "Organization_fb55b534035c91befae2fbfd21d404cbd1b7fa46c13e3422d704e5a77cd5c590"
+    },
+    {
+      "type": "City",
+      "name": "Metz",
+      "id": "City_a7c12b57d492fb4b4fe672126ed543133ab92585c01b3b037afe9fb8043304f1"
+    },
+    {
+      "type": "City",
+      "name": "Boulogne-Billancourt",
+      "id": "City_4fdbaa9da285ef6358b3a29fcb67b74511b85b6ca36741396251c3c8d63747b0"
+    },
+    {
+      "type": "City",
+      "name": "Lens",
+      "id": "City_204da99adb34b21354b53b8545a3e4ca99e3c2fc43fadec2af523ad540076456"
+    },
+    {
+      "type": "Organization",
+      "name": "Centre Pompidou-Metz",
+      "id": "Organization_12bf0b973dd5b7c65f87c6c0f32b1ce73a78b6506552f91a8e546e65490997e2"
+    },
+    {
+      "type": "Organization",
+      "name": "scène musicale de Boulogne-Billancourt",
+      "id": "Organization_8331decb6f1d9f14eddc79d502ff058b6231cbe000cc432d564ab52fe40063d7"
+    },
+    {
+      "type": "Organization",
+      "name": "Louvre-Lens",
+      "id": "Organization_177420cf27e2cfb49e0523b5d4a9c099d13ce978501169294f04e0bf914b9542"
+    },
+    {
+      "type": "Organization",
+      "name": "Samaritaine",
+      "id": "Organization_1905d2ea9876738d37bd103f4783f9b5c612245cac62f237e9e69587759f6eba"
+    },
+    {
+      "type": "Organization",
+      "name": "Bourse du commerce de Paris",
+      "id": "Organization_dd8245c80d44f908a1313e47a31128d26278934fea9565661cf9052cfce5645b"
+    },
+    {
+      "type": "Organization",
+      "name": "UNESCO",
+      "id": "Organization_44cf334686fd664fecedb6944caa3782522449e029aa1a57346edd5f2ff5eebd"
+    },
+    {
+      "type": "Person",
+      "name": "Shigeru Ban",
+      "id": "Person_22a6c93392497a530de6a4094005d93fc7b81a0c072ea45a627fb5bc6838d397"
+    },
+    {
+      "type": "Person",
+      "name": "Jean de Gastines",
+      "id": "Person_6a966e608c4bd611fea29624258a657a55ff5a0083a1ccc287b87a93868ecdb6"
+    },
+    {
+      "type": "Person",
+      "name": "Kazuyo Sejima",
+      "id": "Person_2a789bbc55e43e498b67da2691825f73c697e70014c8a714826d8cbf0e6a50d0"
+    },
+    {
+      "type": "Person",
+      "name": "Ry?e Nishizawa",
+      "id": "Person_2e755a9df8d9142fa30c4dd8ab63ed9278399ea4932c64da4365fbdeda32aa20"
+    },
+    {
+      "type": "Person",
+      "name": "Tadao Ando",
+      "id": "Person_459507c599df365c51ae60fee2a6ec5c3a07c3016850f9bae9b4f5d2007d59e0"
+    },
+    {
+      "type": "Person",
+      "name": "Isamu Noguchi",
+      "id": "Person_e5b7e82953bda30370cf3c1223355ba2d609fa62ec360ea5977b6c2d81e0bf95"
+    },
+    {
+      "type": "Person",
+      "name": "Sou Fujimoto",
+      "id": "Person_c4fe41eda106332de2473d0da1b44441c8f5e7ed83f1f1ab9c8afb0df9dd58c6"
+    },
+    {
+      "type": "Person",
+      "name": "Manal Rachdi",
+      "id": "Person_8db29c238b30157d7e9bef3829f4140021014993b57d5f9c92e58734a5673e27"
+    },
+    {
+      "type": "Person",
+      "name": "Boccador",
+      "id": "Person_2386fdfc136c823885b1ac848674b3d3175191211a4b138c629370ff63b7469d"
+    },
+    {
+      "type": "Person",
+      "name": "Léonard de Vinci",
+      "id": "Person_d38ad5c59d71a579f9b3676a0f2eb26223e4484185df14bacd363bba988fff02"
+    },
+    {
+      "type": "City",
+      "name": "Chambord",
+      "id": "City_2bf2f45229001b0f297f76e319689fb5d35e8438c11725e73709f6ba5ab4192e"
+    },
+    {
+      "type": "City",
+      "name": "Madeleine",
+      "id": "City_b08bfa655d17f4d28bf65ff121f11b0a84d7789debde10dd660c4e5d30d3e98b"
+    },
+    {
+      "type": "City",
+      "name": "Bourbon",
+      "id": "City_b20b4172e2dee06e7435187716114e54fae447835977eb19b0222e4c7bde274a"
+    },
+    {
+      "type": "Theme",
+      "name": "architecture",
+      "id": "Theme_f6d53d7920b9866451334fe2274be623818e0bd9f77007c1c796a00608eddd11"
+    },
+    {
+      "type": "Theme",
+      "name": "projet",
+      "id": "Theme_e14263541610d680dfa39ef9a4ababe5c0301050559f560e38f9c0bf71776801"
+    },
+    {
+      "type": "Theme",
+      "name": "Notre-Dame de Paris",
+      "id": "Theme_59cd767775f76b7b52eeb3b7ee26dfe5cb54641ec76cbc4dd2aefd8bd7b3f823"
+    },
+    {
+      "type": "Theme",
+      "name": "incendie",
+      "id": "Theme_cbec75b1d97eb34683bf319a415554f068a68ae0cc3313e942045a23a08989f8"
+    },
+    {
+      "type": "Theme",
+      "name": "civilisation",
+      "id": "Theme_55506e6b6a566c3a1ba5bfa8aa2636a9d0eca0526c32a3b767eb8f396191dc34"
+    },
+    {
+      "type": "Theme",
+      "name": "émotion",
+      "id": "Theme_7389467e2ded5a60cc6abeae36d04559f45df40ed465d309a6e67f726941378d"
+    },
+    {
+      "type": "Theme",
+      "name": "rapport à l'autre",
+      "id": "Theme_98ba84cdf25e45640340b975b141736ec7b7f8ac0ede2752842efb62fd0f6ced"
+    },
+    {
+      "type": "Theme",
+      "name": "ville",
+      "id": "Theme_27eb59cafa1e495deda7801070cce2fe8ff159896999cf59775c3a8f6b3d674b"
+    },
+    {
+      "type": "Theme",
+      "name": "continent",
+      "id": "Theme_148fd80b66a562dc228366d3418b5c107c82ee0728f38e2c49585be66bbd77fa"
+    },
+    {
+      "type": "Theme",
+      "name": "Notre-Dame",
+      "id": "Theme_3273a6fa8969c0387c9ee944611908aba23a2590859d43c96001d1475b821719"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "patrimoine",
+      "id": "Theme_f6e24cc0a7fb8f4e53711f9bbde0b780c864eea0f41ca2c6dfa23caff8fe4496"
+    },
+    {
+      "type": "Theme",
+      "name": "sapeurs-pompiers de Paris",
+      "id": "Theme_5f8a5d8e3908623fd261e7a15f39a990393e71001d4f2ffeb0ec2c695b9dec30"
+    },
+    {
+      "type": "Theme",
+      "name": "architectes des Monuments historiques",
+      "id": "Theme_ab34dac5df677721d14f26f871bce26115db23a1e2b71da62905474edd0507a4"
+    },
+    {
+      "type": "Theme",
+      "name": "ministre",
+      "id": "Theme_ffab32e7f2dec6136a593c491476c477ff9a9cbaa0f4d55519ef262e9733e869"
+    },
+    {
+      "type": "Theme",
+      "name": "décision de faire",
+      "id": "Theme_c2e7716e962a259416a9a64da113fdb43f83efc89cc28b7346cef77f71623fc9"
+    },
+    {
+      "type": "Theme",
+      "name": "volontariste",
+      "id": "Theme_5060ab55effbbc9af0cb2ac17348111bb967cd6e26011bf863b5ae3c113902f9"
+    },
+    {
+      "type": "Theme",
+      "name": "volonté",
+      "id": "Theme_16b93f9ed8b73b81c97ecd0a6cdb37d8a5b24c3afd93e53085d57fee061b7ba6"
+    },
+    {
+      "type": "Theme",
+      "name": "expertise",
+      "id": "Theme_0bb19f0c4d2d60bd75ddc3c9ddf0f933826148b898ae3c94cccfb5bd368155a1"
+    },
+    {
+      "type": "Theme",
+      "name": "tristesse",
+      "id": "Theme_16ab39383b7d5bc3a831f4216200fab661ad4a14d19fa707565916207654650a"
+    },
+    {
+      "type": "Theme",
+      "name": "désespoir",
+      "id": "Theme_6c762ea5b6b506b9f04fcae8199f77ffdc384d1f8fee1a812eb1348994668d81"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité des matériaux",
+      "id": "Theme_87846dfec7ecc8a5879f526e762d51790d70d2626a72ad2bb4d71791dfecb180"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité des procédés",
+      "id": "Theme_733c3b4880045c53ba62a9dec1216830294396e4107f78fb2f9832fe637f8f51"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence",
+      "id": "Theme_00b20302d5f64b56a882fa76ac635bfb2d5b859939516a451a03216995d89940"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir-faire",
+      "id": "Theme_e020add04380980015c543dc696b8b323483b7b82c6c387324d2986f12998c1a"
+    },
+    {
+      "type": "Theme",
+      "name": "architecture contemporaine",
+      "id": "Theme_35c4192836f427862b141c23087b591336d3f61fd5e9c310312240ffd0a5625f"
+    },
+    {
+      "type": "Theme",
+      "name": "bâtisseurs d'aujourd'hui",
+      "id": "Theme_9baa4bfb16c464c82b2b2fc4df63c10dcc15d68a4861c2c9c6709ea1f00ffeca"
+    },
+    {
+      "type": "Theme",
+      "name": "bonnes personnes qui savent",
+      "id": "Theme_b6f6174818907de35f591fa8ec336958906f1486c31ec62e496c214333ae04d9"
+    },
+    {
+      "type": "Theme",
+      "name": "meilleurs",
+      "id": "Theme_59f335146287c7d188f7dd76577fcd2fdb2e71217d4eab2c923a85c4cb3b7bf0"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir de faire",
+      "id": "Theme_95da17fb8f3cac7dca3aaceb607f3d783d9e1909ac74cbdb1034aacd817a3800"
+    },
+    {
+      "type": "Theme",
+      "name": "arbre d'impossibles",
+      "id": "Theme_1a27b35495a68a6d8375ae817de07efbcc8a5499ed24fca23aa87d7480785082"
+    },
+    {
+      "type": "Theme",
+      "name": "restaurée",
+      "id": "Theme_cc0f6ffc6ca766a39f215a9b821132d4cb847541b2c11b85477c768e2762bee0"
+    },
+    {
+      "type": "Theme",
+      "name": "charpente et son toit reconstitués",
+      "id": "Theme_72ea5f40f262bcf9527ba7a9b94efadc7415530aa740071c56aba4b9c6af7353"
+    },
+    {
+      "type": "Organization",
+      "name": "la Ville de Paris",
+      "id": "Organization_a28c7a34af715be589f1dc0cf2556c0200c86425182bb5c7eca6b9623a64dc74"
+    },
+    {
+      "type": "Organization",
+      "name": "le clergé",
+      "id": "Organization_40d1cbdeabbe67b48647a980bfda020317445b55f7ee5fbb85bf7409284be834"
+    },
+    {
+      "type": "Person",
+      "name": "Renzo Piano",
+      "id": "Person_f0aab51be8357f795e48f76aaf0b0d7f978aec5600381d920d9e9bcc3854971a"
+    },
+    {
+      "type": "Person",
+      "name": "Louis Le Vau",
+      "id": "Person_6163deb7a1f42f09c9f828be9ce0b5a4e794c778531ca083b8d15899f986f456"
+    },
+    {
+      "type": "Person",
+      "name": "Viollet-le-Duc",
+      "id": "Person_47edb1d3e9a53c26db0166a8d2d234fd21f76a10263dfa0f2f9a2c671bf747bb"
+    },
+    {
+      "type": "Theme",
+      "name": "tradition",
+      "id": "Theme_b3c331a63d568a23465068bff0bcbf477efcd837a9590f07c663cf0db4adc855"
+    },
+    {
+      "type": "Theme",
+      "name": "modernité",
+      "id": "Theme_f9659d8752f069b97a06f0f0075154d08c151c9e8229d202711b70fb4ca2e6ef"
+    },
+    {
+      "type": "Theme",
+      "name": "restauration",
+      "id": "Theme_bf4153d0094d9a9380f243363e8bbd3facb007e9672e2af30ebb3c3e24533f61"
+    },
+    {
+      "type": "Theme",
+      "name": "reconstruction",
+      "id": "Theme_7a606d7a97559cf8d4038ed157bac225304abdcd1ede6a81d3526d62e8a84b31"
+    },
+    {
+      "type": "Person",
+      "name": "Roland Castro",
+      "id": "Person_b0e8710e372b422c891fe196e876037c55f048da7208b6cd78e7f208b594d230"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "Theme",
+      "name": "caractère inhabitable du monde",
+      "id": "Theme_d3e52506ba33b343c1ea5fff27469ec7dfc58dd6282846acdbff39c74adaef99"
+    },
+    {
+      "type": "Theme",
+      "name": "insécurité",
+      "id": "Theme_c7a368bf598bca497caed4dd3d3f42ab5d1c9b08009fd42e199fd3976aac0fe6"
+    },
+    {
+      "type": "Theme",
+      "name": "consommation du grand public",
+      "id": "Theme_8a265f9f30b40f952598b24e491d7f56c3f2d80511bac3f3b3e1a7ab8fd84a6b"
+    },
+    {
+      "type": "City",
+      "name": "nos centres-villes",
+      "id": "City_ed0cf7fca14f2723ff818d52158e91a715ff6e3a3c984daa4b9300af903ae877"
+    },
+    {
+      "type": "Theme",
+      "name": "l'espace habitable",
+      "id": "Theme_4f2c71a5da22cc293be60aa69b6290551cd4876357ee6ad6d945cf4ac6cbd2b4"
+    },
+    {
+      "type": "Theme",
+      "name": "un monde devenu inhabitable",
+      "id": "Theme_ea9011030756f52927ebb406a23cb54d924a70b098a1c02ba3f05d174fc4f038"
+    },
+    {
+      "type": "Theme",
+      "name": "fracture sociale et territoriale",
+      "id": "Theme_9c9e352ba699548fc8eee2e4695ae1806eb92e881b41abbcdd0be9912696707b"
+    },
+    {
+      "type": "Theme",
+      "name": "angoisse climatique",
+      "id": "Theme_9a1dc789edf3bed17a726ecfef44ad006994d37378f30952a14272ea2cf9dadc"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles normes",
+      "id": "Theme_25288511071f4d08db3f2f771274f6b7fce822ebe784771e2ce77cfb165d7501"
+    },
+    {
+      "type": "Theme",
+      "name": "changements d'habitudes",
+      "id": "Theme_59ae65d3c0c5f182b24639797b2ee204fb6a0f6e2e717ba363fefea018aa0d58"
+    },
+    {
+      "type": "Theme",
+      "name": "pensée architecturale",
+      "id": "Theme_97c59421af50bbad266486413011bb1497850b946b3e049f52f9866c6f75c698"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation architecturale",
+      "id": "Theme_1c1736d847c0b7eb956c7f5269c906e55c0c30241673566fd64eaa88d1dc66fd"
+    },
+    {
+      "type": "Theme",
+      "name": "urbanistique",
+      "id": "Theme_c2bbd88ac714a61fc73fa534fc931814f47029bd701c74a421a0c454cf457e07"
+    },
+    {
+      "type": "Theme",
+      "name": "complexité",
+      "id": "Theme_27c01b9a6ed16656216c519ea323a370bb4cd448ad815d900508a077faa76f0c"
+    },
+    {
+      "type": "Theme",
+      "name": "monde habitable",
+      "id": "Theme_e862bfd0df704edc4f1cfc1a5e7e3b98451c974d4c97d48335559dc1cbff9193"
+    },
+    {
+      "type": "Theme",
+      "name": "préoccupations du monde",
+      "id": "Theme_9743cf897dd7745ce0316bda21e0d179568680843cfee8dca68a25398754fc20"
+    },
+    {
+      "type": "Person",
+      "name": "le choix que j'ai fait",
+      "id": "Person_18a44601ddc4fc53faf1cce55bcd7fad0295e81713237bb7fdfb42c915b16ae2"
+    },
+    {
+      "type": "Organization",
+      "name": "le prix Pritzker",
+      "id": "Organization_704317820517e02c5cb3e1e4f10550434d51363f462be8cb2ff2dcc46e5e87bf"
+    },
+    {
+      "type": "Theme",
+      "name": "l'Europe",
+      "id": "Theme_81b7414e372defdec7d2fbba9beb2ffc6573e5f21c7e3614a4af9e4b4d91410d"
+    },
+    {
+      "type": "Theme",
+      "name": "valeur",
+      "id": "Theme_5d2c6cf72920e0e1284fb097f9df226aa7b78ef0173abebfc6ba002b392f08fd"
+    },
+    {
+      "type": "Theme",
+      "name": "sociabilité européenne",
+      "id": "Theme_10ab335d352d7a4bb5ca76833c06d1d64dd2fa69763b0332860532fd5ed538e4"
+    },
+    {
+      "type": "Theme",
+      "name": "université",
+      "id": "Theme_7d5b550e5a2ab05efa6a5e8d896240e9e05847533196eb76b0e3ecd52ba4907a"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvement",
+      "id": "Theme_16335ab41e584ebe27b59c787f2f8077ea6a0a5734e31ad98cbea739e7abbf01"
+    },
+    {
+      "type": "Theme",
+      "name": "rendre ce monde habitable et profondément universel",
+      "id": "Theme_5940fa23140170fb18c7f8de68ceed9fc2f7aa1f8e963168445cfa176dba3851"
+    },
+    {
+      "type": "Theme",
+      "name": "enraciné et conscient des enjeux du 21e siècle",
+      "id": "Theme_b68e420ddaddbe89c315e72c240973f1ba6865a8120937bed50e036640d54715"
+    },
+    {
+      "type": "Theme",
+      "name": "rebâtir",
+      "id": "Theme_fc9393a2e819e615d408890741dad41486b2169d8104a56ce79975cbeeacae7c"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Centre Pompidou-Metz",
+      "relation": "LOCATED_IN",
+      "target": "Metz",
+      "evidence": "Le Centre Pompidou-Metz et la scène musicale de Boulogne-Billancourt : Shigeru Ban prix Pritzker 2014 avec Jean de Gastines.",
+      "confidence": 1.0,
+      "source_id": "Organization_12bf0b973dd5b7c65f87c6c0f32b1ce73a78b6506552f91a8e546e65490997e2",
+      "target_id": "City_a7c12b57d492fb4b4fe672126ed543133ab92585c01b3b037afe9fb8043304f1"
+    },
+    {
+      "source": "scène musicale de Boulogne-Billancourt",
+      "relation": "LOCATED_IN",
+      "target": "Boulogne-Billancourt",
+      "evidence": "Le Centre Pompidou-Metz et la scène musicale de Boulogne-Billancourt : Shigeru Ban prix Pritzker 2014 avec Jean de Gastines.",
+      "confidence": 1.0,
+      "source_id": "Organization_8331decb6f1d9f14eddc79d502ff058b6231cbe000cc432d564ab52fe40063d7",
+      "target_id": "City_4fdbaa9da285ef6358b3a29fcb67b74511b85b6ca36741396251c3c8d63747b0"
+    },
+    {
+      "source": "Louvre-Lens",
+      "relation": "LOCATED_IN",
+      "target": "Lens",
+      "evidence": "Le Louvre-Lens et la nouvelle Samaritaine : Kazuyo Sejima et Ry?e Nishizawa prix Pritzker 2010.",
+      "confidence": 1.0,
+      "source_id": "Organization_177420cf27e2cfb49e0523b5d4a9c099d13ce978501169294f04e0bf914b9542",
+      "target_id": "City_204da99adb34b21354b53b8545a3e4ca99e3c2fc43fadec2af523ad540076456"
+    },
+    {
+      "source": "Samaritaine",
+      "relation": "LOCATED_IN",
+      "target": "Lens",
+      "evidence": "Le Louvre-Lens et la nouvelle Samaritaine : Kazuyo Sejima et Ry?e Nishizawa prix Pritzker 2010.",
+      "confidence": 1.0,
+      "source_id": "Organization_1905d2ea9876738d37bd103f4783f9b5c612245cac62f237e9e69587759f6eba",
+      "target_id": "City_204da99adb34b21354b53b8545a3e4ca99e3c2fc43fadec2af523ad540076456"
+    },
+    {
+      "source": "Bourse du commerce de Paris",
+      "relation": "LOCATED_IN",
+      "target": "Paris",
+      "evidence": "L'ancienne Bourse du commerce de Paris qui abritera bientôt des collections d'art contemporain : Tadao Ando, Prix Pritzker 95.",
+      "confidence": 1.0,
+      "source_id": "Organization_dd8245c80d44f908a1313e47a31128d26278934fea9565661cf9052cfce5645b",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "volonté",
+      "relation": "SPOKE_ABOUT",
+      "target": "volonté",
+      "evidence": "il faut une volonté. Il faut qu'elle soit raisonnable, atteignable.",
+      "confidence": 1.0,
+      "source_id": "Theme_16b93f9ed8b73b81c97ecd0a6cdb37d8a5b24c3afd93e53085d57fee061b7ba6",
+      "target_id": "Theme_16b93f9ed8b73b81c97ecd0a6cdb37d8a5b24c3afd93e53085d57fee061b7ba6"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Quand je regarde ce qui a traversé la France ces derniers mois et ce qui continuera de nous traverser pendant des années et des décennies et ce qui traverse beaucoup de démocraties, c'est au fond le caractère inhabitable du monde qui est le nôtre.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "caractère inhabitable du monde",
+      "evidence": "Quand je regarde ce qui a traversé la France ces derniers mois et ce qui continuera de nous traverser pendant des années et des décennies et ce qui traverse beaucoup de démocraties, c'est au fond le caractère inhabitable du monde qui est le nôtre.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_d3e52506ba33b343c1ea5fff27469ec7dfc58dd6282846acdbff39c74adaef99"
+    },
+    {
+      "source": "le choix que j'ai fait",
+      "relation": "SPOKE_ABOUT",
+      "target": "architecture",
+      "evidence": "le choix que j'ai fait est de donner à l'architecture une place toute particulière.",
+      "confidence": 1.0,
+      "source_id": "Person_18a44601ddc4fc53faf1cce55bcd7fad0295e81713237bb7fdfb42c915b16ae2",
+      "target_id": "Theme_f6d53d7920b9866451334fe2274be623818e0bd9f77007c1c796a00608eddd11"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Anne HIDALGO",
+      "id": "Person_d90d6d812b96ed37d3b13e7f30e1b22047c720be871d75886f8befceace3fbfb"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur BLOOMBERG",
+      "id": "Person_bdd3d3bb0f5cf4efec135988923e7c5b47c64de5490d909af0bddc019826f039"
+    },
+    {
+      "type": "Person",
+      "name": "TRUMP",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Event",
+      "name": "journée d'hier",
+      "id": "Event_846bbc9919a895687327ae382bb224b4229b0d738c7f907d65abdb934e29748d"
+    },
+    {
+      "type": "Person",
+      "name": "Madame HIDALGO",
+      "id": "Person_f5b5ff1cbc75d9a5efed60536964cdd0747c6b83d454cb77cfa263dcfaf85c87"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "C40",
+      "id": "Organization_312792cd82385e9c691114d4e69ba2a22835fd42a9b6418a3a8baee410995563"
+    },
+    {
+      "type": "Person",
+      "name": "Mike BLOOMBERG",
+      "id": "Person_5a87486f393557109eb2493aa790b6b267318a9b1a1b19d15c6e8408c1cbe39a"
+    },
+    {
+      "type": "City",
+      "name": "New York",
+      "id": "City_e29f957fb97945a6b5a1886762f22b8c0c8061e5f79a9f14d6144141a5106e51"
+    },
+    {
+      "type": "Organization",
+      "name": "ONU",
+      "id": "Organization_8fe3e517167eebcfcb1c541c20f6aeb0a346c6c70b461e4d8ec8a469cdf70167"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs climatiques",
+      "id": "Theme_8cbe5452584e4fb987f77cc1abc7e62697f9c8a6182b5fdf64eb6498d4ab6a65"
+    },
+    {
+      "type": "Country",
+      "name": "Une grande Nation",
+      "id": "Country_cfce8ad05072dc506590048c3051dc8451f1e0e65b052572bcc351a278160e7f"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement d'une grande Nation",
+      "id": "Organization_69e5de12ef2231085cd64e80a4405a62ad166150b9488a1cc406769c297a807f"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "politiques",
+      "id": "Organization_66c57af3967f520a5b70674f574933af5a31573b38abb8ae0000b6e2c5c2b6dd"
+    },
+    {
+      "type": "Organization",
+      "name": "économiques",
+      "id": "Organization_75687b14e65f948bd50e498889dcacde93e7dddb6968ef3f75f071635aab1c2f"
+    },
+    {
+      "type": "Organization",
+      "name": "civils",
+      "id": "Organization_68f2f222e683738adeb4c82bbc68bd513485929947bc96b6e02aa7228a75ea2e"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Madame HIDALGO",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Madame HIDALGO est maire de Paris",
+      "confidence": 1.0,
+      "source_id": "Person_f5b5ff1cbc75d9a5efed60536964cdd0747c6b83d454cb77cfa263dcfaf85c87",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "gouvernement",
+      "relation": "MEMBER_OF",
+      "target": "Une grande Nation",
+      "evidence": "le gouvernement d'une grande Nation",
+      "confidence": 1.0,
+      "source_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f",
+      "target_id": "Country_cfce8ad05072dc506590048c3051dc8451f1e0e65b052572bcc351a278160e7f"
+    }
+  ]
+}

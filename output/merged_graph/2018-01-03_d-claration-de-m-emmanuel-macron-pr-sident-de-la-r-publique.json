@@ -1,0 +1,835 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la Ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs",
+      "id": "Person_5e27fa7c5bdc6bf2a2b2dfa28469fb1f53f1c6d238a1b9870de385953dc8571f"
+    },
+    {
+      "type": "Person",
+      "name": "Stephan VILLENEUVE",
+      "id": "Person_0ce26b576d2e2cbc220cfc5011f5fbb4b4e82042ecbdb078216352e0597c67c9"
+    },
+    {
+      "type": "Person",
+      "name": "Véronique ROBERT",
+      "id": "Person_57c68ee3b98e47f3e8655ffab7fda1e3f03e0e96cc0c8310f76bc583c42d0156"
+    },
+    {
+      "type": "Person",
+      "name": "Bakhtiyar HADDAD",
+      "id": "Person_977de67b4572fc87bfeff1bcbd35b5f0f5c94e3d9ce92ef833fa280f2c623da3"
+    },
+    {
+      "type": "City",
+      "name": "Mossoul",
+      "id": "City_616bcd94d786f6653c04193eb8dc958b26e7193ceb30e8fdf0bf92fd2ac15c7b"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de la presse",
+      "id": "Theme_40359177ead3bed094c1f6f38aef056296f984a38583d6593094099ff5e0b4fc"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés",
+      "id": "Theme_2460d11dd8890d0086c346c7c4f9479cbb7c560ab3409a92f103572ef8fa5209"
+    },
+    {
+      "type": "Theme",
+      "name": "principes",
+      "id": "Theme_97c5aa60bd71c598edaaf76fd6b884a4ae393b0774135332a05c72af7bc82042"
+    },
+    {
+      "type": "Theme",
+      "name": "exigence",
+      "id": "Theme_c131dd5143ce13311cd70f33a101ad29fecee96fab2354e08c7026967efd65d1"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Mathias DEPARDON",
+      "id": "Person_e7d36acf6db84a356f8a94b4e02a99d348b6193b583371e54ef16ac7ab950e96"
+    },
+    {
+      "type": "Person",
+      "name": "Loup BUREAU",
+      "id": "Person_a8484deeaa1585b952b72e8c61126d984b3b34149fc894559504352288d841ef"
+    },
+    {
+      "type": "Person",
+      "name": "ERDOGAN",
+      "id": "Person_c65ec610e31eea4a697ac0f459d6485db532134c1d61c6fbd7f82ed7fc84e894"
+    },
+    {
+      "type": "Country",
+      "name": "Turquie",
+      "id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f"
+    },
+    {
+      "type": "Organization",
+      "name": "profession",
+      "id": "Organization_76889ba2b947b168b2bfb5113368f0562866a7befe7bdf9493b88a8c995e8392"
+    },
+    {
+      "type": "Person",
+      "name": "Antonio GUTERRES",
+      "id": "Person_51cdc0fe90d9da5765b287f6a31361d2ee9a9bdf1119bbe4add87888325d4106"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations Unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Theme",
+      "name": "journalistes emprisonnés",
+      "id": "Theme_a41bdde5ab84cd79051266e01db7ae6049f9ff9b272329e448bfd1aa4d19d358"
+    },
+    {
+      "type": "Person",
+      "name": "PÉGUY",
+      "id": "Person_8a52223f5d6a26a4148e3a691402603c318472698084f41a3597b0d1920c3c1c"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Cour européenne des droits de l'homme",
+      "id": "Organization_e57e52cbd5214e13a6a579774687a54452b15756d37770c0534f3564ce28a150"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Theme",
+      "name": "socle commun",
+      "id": "Theme_8b54dad717e951af6ff2420fb8e7623def0c7abcfe33f972fc6ef1657f4a5a80"
+    },
+    {
+      "type": "Theme",
+      "name": "consensus",
+      "id": "Theme_6bef32d603c8e354337a4b76bc89d9db5807ec9d9dd1900c8584ffabca9d2f41"
+    },
+    {
+      "type": "Theme",
+      "name": "sanctions",
+      "id": "Theme_cc609b67ce79c18e469b868785645e8ac15295942ba88c097a9620d856801064"
+    },
+    {
+      "type": "Theme",
+      "name": "démocraties illibérales",
+      "id": "Theme_cc41b7ca7177975e60b5fe99d3f54ff15c8edac14df29fd132bf42eef0882ddf"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "économie de marché",
+      "id": "Theme_c84ff9c3c2c5e2417647e15e07e2a0aa64369f1d3b40bfd4c8c00a9d34df36d4"
+    },
+    {
+      "type": "Theme",
+      "name": "classes moyennes",
+      "id": "Theme_51e81a3a86f221548aab0ff37af5181c0703af7bed5eeb5c9d9976386a312914"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibres sociaux",
+      "id": "Theme_2e3b2bda3a3527bcf02dbe554c2d59d0286fcdbbb5c26f64f9b12488e91d66cd"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès continu de nos démocraties",
+      "id": "Theme_8a3c36560e927d47f6244f3213600f894d46771a899d50280baa3c8c9b010e02"
+    },
+    {
+      "type": "Theme",
+      "name": "illibéralisme politique",
+      "id": "Theme_c21ee8640a81b78da0676c104302fa16c923e7866d3ddc3d879078f5c50a2890"
+    },
+    {
+      "type": "Theme",
+      "name": "presse",
+      "id": "Theme_997fb54d6c697a5473cf435b1b0d6551283a411262476b1849b7918c19239e45"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté d'expression",
+      "id": "Theme_acb0e9d3f3d2ce06e5a0aea13fc6160588104e35cb96880d570891860752245a"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de conscience",
+      "id": "Theme_d629fee88dcca2a4abc3b120e22b75234ca0ea2a050baf8d27e11c46ff72d2a5"
+    },
+    {
+      "type": "Organization",
+      "name": "Convention européenne des droits de l'homme",
+      "id": "Organization_ca6dbffcdc1aff8313143295d3c4a8bf5b1fe4b4759f748736bc75dcf7387e36"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "tentation illibérale",
+      "id": "Theme_a573f8fb10674a66b66ef12d3db3d33ea2fbf05a5aa27e305a21695c428d117a"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle du métier de journaliste",
+      "id": "Theme_13ec24dccb9196d58943839e52e428f33056b80576afd44e12cd00bd1f92656e"
+    },
+    {
+      "type": "Theme",
+      "name": "fausses nouvelles",
+      "id": "Theme_c831b25b84ce0accabd2d31b5f2f2f456cab46ce592cc817cd755fabecc5d45b"
+    },
+    {
+      "type": "Theme",
+      "name": "journaliste",
+      "id": "Theme_909a95ff1b5e23797db541bb26e7c29e02d6e8e68898249c3bb5d140fb0d3681"
+    },
+    {
+      "type": "Theme",
+      "name": "autorité",
+      "id": "Theme_212da0e5472584111e4a785cdbfbba838d07d4e4248f7c7854a87bd77295e2dd"
+    },
+    {
+      "type": "Theme",
+      "name": "auteur",
+      "id": "Theme_c649d2027e743c3fd44bd4a6c8a290aa001aa810d8ef5c26fe5d4596fc573a34"
+    },
+    {
+      "type": "Theme",
+      "name": "blogueur",
+      "id": "Theme_78df0b20cf7ec3833b280fcc40885e78cc7b850a44dc1e3b67e4604aaf52c91f"
+    },
+    {
+      "type": "Theme",
+      "name": "diffuseur de propagande",
+      "id": "Theme_93430cb8ac9d685e82d6f4ec63d82c2ec3fa4f891c2ca2e5ea1c7463b2766ac4"
+    },
+    {
+      "type": "Theme",
+      "name": "relativisme absolu",
+      "id": "Theme_01ad6979fe6e4563a6a76b0c2518535c6705fc38ad4303b786ed533c36fe2da7"
+    },
+    {
+      "type": "Theme",
+      "name": "bobard",
+      "id": "Theme_5491df0c7e42d0e2898454ffc04985386fd0c7bfa39d5b6c5f734da9e57d0402"
+    },
+    {
+      "type": "Theme",
+      "name": "responsable politique",
+      "id": "Theme_a05d8cac5e55433add00fd44e662888d4db4cabf928b320be42e796fac976d09"
+    },
+    {
+      "type": "Theme",
+      "name": "personnalité",
+      "id": "Theme_0acbb03cae9b063dd06dbd5e748dfe65a77b9a99f4e638a367815d5c2a98d7ee"
+    },
+    {
+      "type": "Theme",
+      "name": "figure publique",
+      "id": "Theme_6e4bc92799602ddf08bab64b27e11391c451c59c842b1d948d568c8b1222207e"
+    },
+    {
+      "type": "Theme",
+      "name": "processus démocratique",
+      "id": "Theme_bd098277aab118d6437f3e299829525ad24d73f5f2aa768ca747bd507e20119f"
+    },
+    {
+      "type": "Theme",
+      "name": "indignation",
+      "id": "Theme_5bafb1d30bcc4098e73bf2e60fdb46d4f674b1dc13da7c174c9831ca72f871d5"
+    },
+    {
+      "type": "Theme",
+      "name": "barrières",
+      "id": "Theme_7323eb24158b83b514b3c599c7a5ac653a7a8ede26e469d91ad326d67f31c6b5"
+    },
+    {
+      "type": "Theme",
+      "name": "journalistes",
+      "id": "Theme_d0f7423edf7bc07d65404e42fcfd7e173b370fcf775ae641002541332c1ebe69"
+    },
+    {
+      "type": "Theme",
+      "name": "propagande",
+      "id": "Theme_8dedf4f8622521e1ca2b76ff0c23bb7b8ea5f63b432057c9c85d241a3c9c2953"
+    },
+    {
+      "type": "Theme",
+      "name": "campagnes présidentielles",
+      "id": "Theme_1c96247a757b20cd86d2e263e1b2311586914a9cf326dce790b0d2ce88fdf66a"
+    },
+    {
+      "type": "Theme",
+      "name": "démocraties illbérales",
+      "id": "Theme_9ade34d8f193d0c089bee891d21cdf115de05bef65fcbcddf6b04b5f7cd3357a"
+    },
+    {
+      "type": "Law",
+      "name": "texte de loi",
+      "id": "Law_ed981b8ec7a1f8d61bd99156b3dd0fd7cb5a5ca6fb871e331f89b10715b770fe"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "identité des annonceurs",
+      "id": "Theme_9814b8893ce8c6cb579ecb37b26b6e80168a2ba341aec5800a661f7c78278919"
+    },
+    {
+      "type": "Law",
+      "name": "nouvelle action en référé",
+      "id": "Law_623db8fa064f5bfbde22d870c7122748d2c4add375b827355e422a2d6d987030"
+    },
+    {
+      "type": "Organization",
+      "name": "juge",
+      "id": "Organization_091bbf20807d51dbf1ff1f368d0eed5f890dac9b14c9923ba79c792f9d9441f6"
+    },
+    {
+      "type": "Organization",
+      "name": "CSA",
+      "id": "Organization_cb409fe7d3a617806c1efbea97c47bc39bb2f544c50117a3ef33eb8feeb58bd6"
+    },
+    {
+      "type": "Country",
+      "name": "États étrangers",
+      "id": "Country_f67c00c3557663d85359fc3ec794a1f5f0474f2e074dbead4041bad46731be4a"
+    },
+    {
+      "type": "Theme",
+      "name": "démocraties libérales",
+      "id": "Theme_10e7ed051f4a2f8dfed6bebf71681302f2f0335ee9f7a8e7e360673b98f0c234"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés de la presse",
+      "id": "Theme_dada95defa73ae937a0a9f67c4e0e6d1dc35232afe30c531a94369bec31fc892"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabiliser les plateformes et les diffuseurs sur Internet",
+      "id": "Theme_f1cb406311b01141a65fe563bbd70809225e3053a932aeb7dc815a6f07fc17fa"
+    },
+    {
+      "type": "Theme",
+      "name": "propagande terroriste",
+      "id": "Theme_cb70eb2fcf5c5071d9967a0c41e8e8b164217c6563fcadb828f12cec0e8d87d2"
+    },
+    {
+      "type": "Theme",
+      "name": "déontologie du métier de journaliste",
+      "id": "Theme_62530691e98386f710b6e6d504c603ded3d6ec3b02b8edc4e5b29a3433171eef"
+    },
+    {
+      "type": "Theme",
+      "name": "certification des organes de presse",
+      "id": "Theme_c7db2d3fcdefe26fdc74e80a64f68d02d391906c1e629bba1adb423062234563"
+    },
+    {
+      "type": "Theme",
+      "name": "fragilité démocratique",
+      "id": "Theme_56c74b19427477a58a516da1714c9f71ce9d12b19fa5d916fbeeed168d489104"
+    },
+    {
+      "type": "Theme",
+      "name": "année de ce débat de fond",
+      "id": "Theme_ae071eeaa870df9f1ec82a105463fd1c5c6a65964a4b84296fafe03f2cc1091b"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "diffusion de la presse écrite",
+      "id": "Theme_669aceda0d0fe22e267b3c0464eff4133a04f2eba6d03778bf1777dd1e82f292"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle économique soutenable",
+      "id": "Theme_e416212f9bc97d1b0f38754d05877a8d6c3b824f3a2aac8420dea1eac27fbcc9"
+    },
+    {
+      "type": "Theme",
+      "name": "production des contenus",
+      "id": "Theme_9e371f06549ca00406ae751e1eaba0dbf3ebce99f8b77d69cf929b411fe362a4"
+    },
+    {
+      "type": "Theme",
+      "name": "usages",
+      "id": "Theme_dd74e63129fce51757864287cbd497fd10bf02f5d91c8b5e0ca7009628785bd0"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyen consomme de l'information",
+      "id": "Theme_597298af733095ffb4c4a05868cbf63870da8f3ab58705d8e5ba09a7e8e25353"
+    },
+    {
+      "type": "Theme",
+      "name": "contenus culturels",
+      "id": "Theme_fab64fa7f58f0d6b6486fc222fedd941fb42d0d0ce954e8630120d0c58cac0fa"
+    },
+    {
+      "type": "Theme",
+      "name": "programmes",
+      "id": "Theme_c18b745bf98ca2491319b2b39d196c7b9292031ddb179301ec3a14e21d9cba43"
+    },
+    {
+      "type": "Theme",
+      "name": "répartition de la valeur ajoutée",
+      "id": "Theme_da7afa3ae46acb7fedc2179835c5d227782b5597ed273f24afb6a9ce227a8ade"
+    },
+    {
+      "type": "Theme",
+      "name": "lecture de l'actualité",
+      "id": "Theme_049de9d7cb0dc3c2925e326d6c892994cc7d194ec050109a70245736a717cbdf"
+    },
+    {
+      "type": "Theme",
+      "name": "capture d'écran",
+      "id": "Theme_fcea125b528f6ac1f0ba7161731ad2b5374f00511a59411a8dfdf3bd41470909"
+    },
+    {
+      "type": "Person",
+      "name": "les journalistes",
+      "id": "Person_8e5f16ca0bf7ffa5b82fd62ba219f0c07ce3878b5876c7e1f54413e7e22731d3"
+    },
+    {
+      "type": "Person",
+      "name": "les auteurs",
+      "id": "Person_931a6522d53297b2fa4ef8d3b4f31d2ad18033c69f4934960d025850b05495ee"
+    },
+    {
+      "type": "Person",
+      "name": "les éditorialistes",
+      "id": "Person_a94f789ea12672b855628e0b81d6b73007a31044adb1ac3dcf98b70d2ad68959"
+    },
+    {
+      "type": "Person",
+      "name": "celles et ceux quelles qu'en soient les fonctions et qui sont ici représentés",
+      "id": "Person_1527af95a8780899cfaab7dbdb247f4176656df42af153ac50724dc1b344d67a"
+    },
+    {
+      "type": "Theme",
+      "name": "la répartition de la valeur ajoutée",
+      "id": "Theme_23482883cf0e9391f6799f1f260a8053b44e54b1a50ef5d984fe105d81b71275"
+    },
+    {
+      "type": "Theme",
+      "name": "la part de valeur ajoutée qui doit aller vers les journalistes, vers les auteurs, vers les éditorialistes",
+      "id": "Theme_e08dfd7d69708eeeb510378aaae56c0aed61316a50a25301f2b3c85e273b15ec"
+    },
+    {
+      "type": "Theme",
+      "name": "la part de diffusion",
+      "id": "Theme_90084410f7ee678f616c6ed18e6c81814c1c9e5d4bf5d2d7f9d99656ecffab14"
+    },
+    {
+      "type": "Theme",
+      "name": "le pluralisme",
+      "id": "Theme_aad6b2eae9c81e5a544ca0849d534b255703d9fab6cd52f5106c22776a861b01"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "conflits d'intérêts",
+      "id": "Theme_ada3cea8392439c84fbdacf1d2ded65cb3490c9a131f3f1fbd6c56fd8300d5ae"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance rédactionnelle",
+      "id": "Theme_97cace9065c77757c65a3ad066c529037a7f08d5da0d17980163795352fc7349"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Etat",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Organization",
+      "name": "le secteur des médias",
+      "id": "Organization_2bbbaddd3f78f2c357fe39cdbaad7147a234614012840138fd79fa0d41896be8"
+    },
+    {
+      "type": "Organization",
+      "name": "les organisations que nous avons historiquement retenues",
+      "id": "Organization_d020681bb9bb13613c1971d951779cdb130b8e72f2a011f53a6d7df389748420"
+    },
+    {
+      "type": "Organization",
+      "name": "le service public",
+      "id": "Organization_614225d713650bf6e59c89463cb8bf21f8a8d00f945a7f00171986bbf1d430a5"
+    },
+    {
+      "type": "Organization",
+      "name": "le Premier ministre",
+      "id": "Organization_d04b18ac36b31204f657421f7694749667d5f20c9408135387df29f97c7d3bdb"
+    },
+    {
+      "type": "Organization",
+      "name": "la ministre",
+      "id": "Organization_c067b9acd84df9476c38a199dec6b4dd580025caf285362b7a3937136a208a29"
+    },
+    {
+      "type": "Organization",
+      "name": "mission sur laquelle s'appuie la ministre de la Culture",
+      "id": "Organization_71c1435e4c23892cdc445c6527fcb681441a137daecf4049e46a8857a5a1e3ce"
+    },
+    {
+      "type": "Organization",
+      "name": "groupe interministériel constitué",
+      "id": "Organization_22ad5e530f335974180f5149cc64d5341025f53ae572536c34e4eac49f480b84"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Organization",
+      "name": "sociétés audiovisuelles",
+      "id": "Organization_3a8e206f80c605ee75e670a7a93fb3e935c545ff1f504f3f1cd880547369af98"
+    },
+    {
+      "type": "Theme",
+      "name": "information de qualité",
+      "id": "Theme_e17a21f9f64c6a882d198ed15b0eb7ed40feb37ed07890906a41e706ed5fe471"
+    },
+    {
+      "type": "Theme",
+      "name": "programmes distinctifs",
+      "id": "Theme_3d2825a07ddde622c36184ded46ebf886ce0e370080ac6550df4b52b2e5db2be"
+    },
+    {
+      "type": "Theme",
+      "name": "dimension européenne de la création",
+      "id": "Theme_16c66aca5c9d83bfeb8b7af7843a91e833f6bcb7ce103c7f6ab9ca2a0e5bc71e"
+    },
+    {
+      "type": "Theme",
+      "name": "coproductions",
+      "id": "Theme_27bd520676a37c95d7430e15b4696e843d4d74aa2a31558355d1849045a76bc7"
+    },
+    {
+      "type": "Theme",
+      "name": "offre numérique",
+      "id": "Theme_6401f6327fa916c20d38a940e388b717a19ae608b0ca8812bc8ef7bf234f68a5"
+    },
+    {
+      "type": "Theme",
+      "name": "audiovisuel public",
+      "id": "Theme_42caaa06f102c770a63050a4f53981585bfff9d57575446b550e12a5f9d02bfc"
+    },
+    {
+      "type": "Theme",
+      "name": "cohésion nationale",
+      "id": "Theme_698c7f71286d93cfb04d480356d487cff65c86a9c33fe1d320b5047352711418"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence",
+      "id": "Theme_00b20302d5f64b56a882fa76ac635bfb2d5b859939516a451a03216995d89940"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité démocratique",
+      "id": "Theme_eb8749e37b5a30f8b309c7d98db4c85ccd308ae41106cad4fdcb910052a53667"
+    },
+    {
+      "type": "City",
+      "name": "télévision",
+      "id": "City_aae9d17cd404daa24609ff99e0ca3adf333d5f8d4bd6f95dd82f2be91928acae"
+    },
+    {
+      "type": "Theme",
+      "name": "saine distance",
+      "id": "Theme_bc769bb4399e1940fd5a456ebf6c521c0d9956bea18f8d5723fa14c66704c8c9"
+    },
+    {
+      "type": "Theme",
+      "name": "animosité",
+      "id": "Theme_784183c8005ef6ec6e1c83c445378a55db020bbf30a02f3ecbee66a9a3637594"
+    },
+    {
+      "type": "Theme",
+      "name": "action claire, pensée",
+      "id": "Theme_08374c19e025db4fe8619407ea8d4dbf0c2cc7171f1e87de868638e9a76c3187"
+    },
+    {
+      "type": "Theme",
+      "name": "cohérence",
+      "id": "Theme_9cdf4df616c3da187d7535499acacc37273b3877ccdac29cfd3340742039208c"
+    },
+    {
+      "type": "Theme",
+      "name": "incohérences",
+      "id": "Theme_28210677b41d3e0151ede297fc642261253d5bc8d01da8de51c878069550a189"
+    },
+    {
+      "type": "Theme",
+      "name": "éléments de véracité",
+      "id": "Theme_938d4a7c0c1b719d603bacc4abdd275abf4f15b6260a4010a86a119912df500c"
+    },
+    {
+      "type": "Theme",
+      "name": "caractère faux",
+      "id": "Theme_a253e6cb3ccfa5aeba022fbd2121c0864897d499e73fbe939ab9a4a695d2aa6e"
+    },
+    {
+      "type": "Organization",
+      "name": "la présidence de la République",
+      "id": "Organization_97b7a5199effa840c7c63c8301ed518921602818fbc30b6f0c28a7f98672b92f"
+    },
+    {
+      "type": "Organization",
+      "name": "l'action gouvernementale",
+      "id": "Organization_42d0b6062c72118e3bf0a90c5cfa057610b15375d3510139aeb5fd985c7e7fcb"
+    },
+    {
+      "type": "Organization",
+      "name": "le Parlement",
+      "id": "Organization_3b98b5f0abf8de7aca3ae5fb5dbe595730fd9a3929e3ace625352b07811a79b9"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Elysée",
+      "id": "Organization_8ade91dd6d4855784bc162734bd4db917ec7c5c4ba5ee8105b1eff2671dc1666"
+    },
+    {
+      "type": "Theme",
+      "name": "pluralisme",
+      "id": "Theme_a741080b365c82e9b6aec87ddae77303587c9136d76c01e63c366a9fbbe60422"
+    },
+    {
+      "type": "Theme",
+      "name": "inquiétude",
+      "id": "Theme_231444423425d3df1c828652aa445868b504cb0860b78ccd5bc57e67c174c17f"
+    },
+    {
+      "type": "Theme",
+      "name": "indignation intime",
+      "id": "Theme_38d6e08dbb3c3bca7daa38a03743ab8ba272d1199d93f5ebe7922605ead5201b"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité de jugement",
+      "id": "Theme_2cccab8711cee7dda46bbd9e9318f9ea2599bd6aad3a47767c2b8229b5ab49dc"
+    },
+    {
+      "type": "Theme",
+      "name": "vitalité démocratique",
+      "id": "Theme_a90a5d2a7ced809773ce7811ae57abbd4953eb9aa506008d07f4cc825a1c9c8d"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir politique",
+      "id": "Theme_89a77ef3a717e0d83d48e5be350f519e4a38ebcfc4649c6b128cff15ac319d7a"
+    },
+    {
+      "type": "Theme",
+      "name": "redonner de la force et de la justice à notre pays",
+      "id": "Theme_2994595c0e898075d797c6191505665c04496c93c0612cb365fd429ffae3fc14"
+    },
+    {
+      "type": "Theme",
+      "name": "action déterminée et crédible en Europe",
+      "id": "Theme_b694d21b6b2ad60800c3400d80be8288c2e9b6ab09c7a2bcc8d86549af1a82da"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "vérité",
+      "id": "Theme_953d05a2f3d8c50ee08e03421281e20b608a47762bf4a8ec7bc5f2621cb382c1"
+    },
+    {
+      "type": "Theme",
+      "name": "concitoyens",
+      "id": "Theme_0ff3925b7ba63cbf673a2472bfd56efd3c66e053d51097b02b91824a782e7ed5"
+    },
+    {
+      "type": "Theme",
+      "name": "presse française",
+      "id": "Theme_412abc81acf269e3d6a87095652d861341b5b5a3bd8d5e36197d17e48281975a"
+    },
+    {
+      "type": "Theme",
+      "name": "presse internationale",
+      "id": "Theme_e32b224d4a410d515eaa8d639bb49fb04c1bf377e78a483aafbc728506a47829"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "principes",
+      "evidence": "C'est pour cela que la France ne doit pas renoncer à dialoguer avec les régimes qui ne partagent pas nos valeurs et j'ai constamment tenu cette ligne consistant à la fois à défendre nos principes, nos libertés, notre exigence, mais à poursuivre le dialogue indispensable qui permet à un moment d'obtenir des résultats.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_97c5aa60bd71c598edaaf76fd6b884a4ae393b0774135332a05c72af7bc82042"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "exigence",
+      "evidence": "C'est pour cela que la France ne doit pas renoncer à dialoguer avec les régimes qui ne partagent pas nos valeurs et j'ai constamment tenu cette ligne consistant à la fois à défendre nos principes, nos libertés, notre exigence, mais à poursuivre le dialogue indispensable qui permet à un moment d'obtenir des résultats.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_c131dd5143ce13311cd70f33a101ad29fecee96fab2354e08c7026967efd65d1"
+    },
+    {
+      "source": "profession",
+      "relation": "SUPPORTS",
+      "target": "profession",
+      "evidence": "je veux ici saluer la mobilisation de toute la profession à chaque fois avec efficacité et esprit de responsabilité qui nous ont permis à chaque fois d'obtenir des résultats concrets",
+      "confidence": 1.0,
+      "source_id": "Organization_76889ba2b947b168b2bfb5113368f0562866a7befe7bdf9493b88a8c995e8392",
+      "target_id": "Organization_76889ba2b947b168b2bfb5113368f0562866a7befe7bdf9493b88a8c995e8392"
+    },
+    {
+      "source": "Turquie",
+      "relation": "SUPPORTS",
+      "target": "liberté de la presse",
+      "evidence": "j'ai fait part avec détermination de mon souhait que la Turquie et la Russie, signataires de la Convention européenne des droits de l'homme, respectent les engagements qu'implique leur adhésion, notamment en matière de liberté de la presse.",
+      "confidence": 1.0,
+      "source_id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f",
+      "target_id": "Theme_40359177ead3bed094c1f6f38aef056296f984a38583d6593094099ff5e0b4fc"
+    },
+    {
+      "source": "Russie",
+      "relation": "SUPPORTS",
+      "target": "liberté de la presse",
+      "evidence": "j'ai fait part avec détermination de mon souhait que la Turquie et la Russie, signataires de la Convention européenne des droits de l'homme, respectent les engagements qu'implique leur adhésion, notamment en matière de liberté de la presse.",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Theme_40359177ead3bed094c1f6f38aef056296f984a38583d6593094099ff5e0b4fc"
+    },
+    {
+      "source": "crise",
+      "relation": "MENTIONS",
+      "target": "crise",
+      "evidence": "La crise que nous vivons aujourd'hui n'a pas de précédent dans notre époque contemporaine",
+      "confidence": 1.0,
+      "source_id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1",
+      "target_id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "source": "progrès continu de nos démocraties",
+      "relation": "MENTIONS",
+      "target": "progrès continu de nos démocraties",
+      "evidence": "Ce socle, qui depuis le XVIIIe siècle avait construit le progrès continu de nos démocraties, est en train de se fissurer",
+      "confidence": 1.0,
+      "source_id": "Theme_8a3c36560e927d47f6244f3213600f894d46771a899d50280baa3c8c9b010e02",
+      "target_id": "Theme_8a3c36560e927d47f6244f3213600f894d46771a899d50280baa3c8c9b010e02"
+    },
+    {
+      "source": "fausses nouvelles",
+      "relation": "MENTIONS",
+      "target": "processus démocratique",
+      "evidence": "Le processus démocratique s'en trouve profondément altéré parce que l'indignation que suscitent ces fausses nouvelles est éruptive et prend le dessus sur la réflexion.",
+      "confidence": 1.0,
+      "source_id": "Theme_c831b25b84ce0accabd2d31b5f2f2f456cab46ce592cc817cd755fabecc5d45b",
+      "target_id": "Theme_bd098277aab118d6437f3e299829525ad24d73f5f2aa768ca747bd507e20119f"
+    },
+    {
+      "source": "fausses nouvelles",
+      "relation": "MENTIONS",
+      "target": "indignation",
+      "evidence": "Le processus démocratique s'en trouve profondément altéré parce que l'indignation que suscitent ces fausses nouvelles est éruptive et prend le dessus sur la réflexion.",
+      "confidence": 1.0,
+      "source_id": "Theme_c831b25b84ce0accabd2d31b5f2f2f456cab46ce592cc817cd755fabecc5d45b",
+      "target_id": "Theme_5bafb1d30bcc4098e73bf2e60fdb46d4f674b1dc13da7c174c9831ca72f871d5"
+    },
+    {
+      "source": "juge",
+      "relation": "MENTIONS",
+      "target": "nouvelle action en référé",
+      "evidence": "il sera possible de saisir le juge  travers une nouvelle action en référé",
+      "confidence": 1.0,
+      "source_id": "Organization_091bbf20807d51dbf1ff1f368d0eed5f890dac9b14c9923ba79c792f9d9441f6",
+      "target_id": "Law_623db8fa064f5bfbde22d870c7122748d2c4add375b827355e422a2d6d987030"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "la France et l'Europe",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    }
+  ]
+}

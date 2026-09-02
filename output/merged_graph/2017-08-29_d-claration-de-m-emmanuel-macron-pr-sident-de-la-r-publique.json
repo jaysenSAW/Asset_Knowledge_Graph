@@ -1,0 +1,1889 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "1989",
+      "id": "Country_3127d7afafd869288b78039dae4b36f750e7b1f6fb0f1bf8b56ccb120f9dfddf"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre collectif",
+      "id": "Theme_68545f3626a6766365ac7b03eebfaf41d4be6d21fc24ad4ffb1a557fd82f5f25"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "influence",
+      "id": "Theme_f6af551a31b56868882b33600c300c77855f4eafef61a2cd66842fef393394ae"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les Ministres",
+      "id": "Person_df98c9cabd69056dc2dbae7ad5aa8390dd768609332bdc8c9a4dafe6f2e4b762"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs, les Parlementaires",
+      "id": "Person_3216a60b3da46d7cf633819f4db1e42756c1758403cc012e7bffe0ccf1ea73b9"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les Ambassadeurs",
+      "id": "Person_567943aaeee84087c641c208b10bcd89c2e29ae8cfe11864995dc3f7389a530d"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation",
+      "id": "Theme_20f02849c6d3fef1e0f7fdcc6fcd9d5a1930a7b08f24aabfc14521d8b9ed907d"
+    },
+    {
+      "type": "Theme",
+      "name": "action multilatérale",
+      "id": "Theme_bf75deca80c96e8bb0df67822052177311a562f327d1930eed9f84adbf3e2f9a"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue politique",
+      "id": "Theme_48765d14d5711fdb6f23d1ad62a0ae424b0e257532677490a571806e5683460c"
+    },
+    {
+      "type": "Theme",
+      "name": "résolution de crise",
+      "id": "Theme_821719825f1efcfb8ffbefd2d64cd427349ed33361353fba109247ab3ba4cda2"
+    },
+    {
+      "type": "Theme",
+      "name": "ambassadeurs",
+      "id": "Theme_dda044ff5729fb7e54816b9ce178155db78cd9650222d328828aba593f36568f"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Etat",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Organization",
+      "name": "l'automne",
+      "id": "Organization_992ed771e73ff9eedc0384181d1bf07c1347ccc71f863e38e2f106bfb7a1d272"
+    },
+    {
+      "type": "Person",
+      "name": "Donald TRUMP",
+      "id": "Person_0733a79f3150052cccafd940cdbbd3c8e236062bb642b00d56f0ff8484ba3762"
+    },
+    {
+      "type": "City",
+      "name": "Sahel",
+      "id": "City_92fe9646c051c53241e17f3fdb2c650a6e9fa01c7eb8480b47877e959ee0b5fe"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorism",
+      "id": "Theme_a348838fece2a9c780044dab4f291a936095c2be9a10ee5e2924e483e90652b2"
+    },
+    {
+      "type": "Theme",
+      "name": "islam",
+      "id": "Theme_879a3cfc5efad5941cda162521e02918b759b90b3a493f5fc7fe8acef42c3cc0"
+    },
+    {
+      "type": "Theme",
+      "name": "angélisme",
+      "id": "Theme_6c40ecad1ddfdfacf3e846e68f29106158d44c857380e2875d0abf12394744cb"
+    },
+    {
+      "type": "Theme",
+      "name": "obscurantism",
+      "id": "Theme_e0fbd679f4f2395e619f2d6ce64d2e76e2a63f8e704fedd14ce3788af43a65cd"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations Unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Yves LE DRIAN",
+      "id": "Person_52cdf85f7fd909dffc246c5abcd3fbb0db3c5927e547254cf9947ece4a900588"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Person",
+      "name": "Fayez SARRAJ",
+      "id": "Person_1bc8903080d73b49bc3820409b0358a44df31c4354497abedd51227971d80317"
+    },
+    {
+      "type": "Person",
+      "name": "Khalifa HAFTAR",
+      "id": "Person_1e393eaf0cdf90538468c6262f49dc532af1eae629167b26ea9556ecb65f1084"
+    },
+    {
+      "type": "City",
+      "name": "Celle-Saint-Cloud",
+      "id": "City_be9cfadedcd56e37dc47ff60c0f55aa7ae38fb0176937628de11cc844a9038da"
+    },
+    {
+      "type": "City",
+      "name": "New York",
+      "id": "City_e29f957fb97945a6b5a1886762f22b8c0c8061e5f79a9f14d6144141a5106e51"
+    },
+    {
+      "type": "Person",
+      "name": "Ghassan SALAME",
+      "id": "Person_fa285185b56124d175782d76aa917845321f2ee05cbc63e5cf8e64a804ea30e5"
+    },
+    {
+      "type": "Country",
+      "name": "Tunisie",
+      "id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "City",
+      "name": "Gao",
+      "id": "City_9b0a9a5699617f07e7aa938c7f8dee1b52cad593e5a92a9337cda07458f482a5"
+    },
+    {
+      "type": "City",
+      "name": "Bamako",
+      "id": "City_4f639f1af21a3fa724a7dd0dd3fc27ab3754b26e27b2b2daedebb582f264453f"
+    },
+    {
+      "type": "Organization",
+      "name": "G5 Sahel",
+      "id": "Organization_731d6944c0a31ed0fe261575f2573caac7a90e8ab6d60ef9a3df3e2391b9c38e"
+    },
+    {
+      "type": "Organization",
+      "name": "Barkhane",
+      "id": "Organization_e54f566ab6b27cae3cc1917ae6d401f506be9fa0b59d5e884d97d8e2aae1a82f"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliance pour le développement du Sahel",
+      "id": "Organization_1571cd265998e0d75489bcad34a3bbf90fbeb234585a984bde67522a8532c129"
+    },
+    {
+      "type": "Theme",
+      "name": "éradication du terrorisme islamiste",
+      "id": "Theme_efa194708c25a9bd48fab47f57e8d85adfab203eeb8b850e3a974548661f57af"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration",
+      "id": "Theme_56ec1521640ee7901aceb6075eed1a37e2a9c16262cd4f911266166ee5562133"
+    },
+    {
+      "type": "Theme",
+      "name": "Sahel",
+      "id": "Theme_cd986f2263174ad819b8ad3548781ecb091479ae8b61a4f4462e31e7dc9af4e6"
+    },
+    {
+      "type": "Theme",
+      "name": "réseaux terroristes",
+      "id": "Theme_9744506d256957c5ac53efe2e503ad1b107aa33b6c98637474c4c193194e21eb"
+    },
+    {
+      "type": "Theme",
+      "name": "crises régionales",
+      "id": "Theme_d069fb7b9e19c912b791e84714cce227b73a071a7f9b862786a5763a9dcd59e0"
+    },
+    {
+      "type": "Theme",
+      "name": "divisions en Afrique",
+      "id": "Theme_24ff960ec3064275e70b3bccf0a25eb5ba63a80b3c4aa6c43edd3c6ec003a2e4"
+    },
+    {
+      "type": "Theme",
+      "name": "divisions du monde musulman",
+      "id": "Theme_359d51f8110201366abf573b00a85d51b31030d6792b2812551908bc5ad9ba76"
+    },
+    {
+      "type": "Theme",
+      "name": "crise du Golfe",
+      "id": "Theme_522b1047f1a6c9f7023ca7c18fbbc7e2071f622c8c126c0fe78a42337d7f8e76"
+    },
+    {
+      "type": "Theme",
+      "name": "médiation",
+      "id": "Theme_c0bacf26eb99b02e3aa948cad5d0d485080b175aac1b88d03ebb23fe60b48e15"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité de la région",
+      "id": "Theme_dbcc4c98beec15c81dda01217df516200b668b33969b9fac90b0636142284922"
+    },
+    {
+      "type": "Country",
+      "name": "Arabie Saoudite",
+      "id": "Country_ba5ae4e1d0c1b62b96b20dbc4dfa5a4f386fc0140b81ffc4ec2b12c13be70858"
+    },
+    {
+      "type": "Person",
+      "name": "Laurent FABIUS",
+      "id": "Person_704e8afdbaca490abcefc61e4df9d4cc4674910364ec98f9706b4c073a2cf4a8"
+    },
+    {
+      "type": "Country",
+      "name": "Jordanie",
+      "id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad"
+    },
+    {
+      "type": "Country",
+      "name": "Egypte",
+      "id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "type": "Country",
+      "name": "pays du Golfe",
+      "id": "Country_9b7442faa52ffeea8b97c4fa51ce02aca9d46dc947f005fc6cdd044e94825a36"
+    },
+    {
+      "type": "Country",
+      "name": "Irak",
+      "id": "Country_99792b4385035d3a51b12170d270a96604af5ab8e0945708f2a19bcc0e41b04c"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Theme",
+      "name": "migrants économiques",
+      "id": "Theme_f4b9212807c7a71c92518a5f32b2039b59a83f165fa00ecb872ed0c60f7992a8"
+    },
+    {
+      "type": "Theme",
+      "name": "réfugiés",
+      "id": "Theme_cf715922d34db7d0e7f0fe02ae9a4f01148012f4e89d37a68a21c0c18896705e"
+    },
+    {
+      "type": "Theme",
+      "name": "protéger la vie de tous",
+      "id": "Theme_bcba40163ac279c017ecee20b57017a71b7af3a2a98e52f58da832649e8f6101"
+    },
+    {
+      "type": "Theme",
+      "name": "respecter la dignité de tous",
+      "id": "Theme_7fce8366713e9c5d7bcc6527b8e9ef782156ca93943203d44a2adb2760c90d5f"
+    },
+    {
+      "type": "Theme",
+      "name": "route des Balkans",
+      "id": "Theme_b23625a2aaaa3a45d9b621616da393d35ada09e702afde0a61d93fbe364c2166"
+    },
+    {
+      "type": "Theme",
+      "name": "route de la Méditerranée centrale",
+      "id": "Theme_64b4d42197d0370ed53dc3038ea0c4b9fcb17a3ea3672edb661801a6a112ec97"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalité",
+      "id": "Theme_c6557f034a83ec628847c245a4a083f3472ceb878e620b798e2c4c4daea24f91"
+    },
+    {
+      "type": "Country",
+      "name": "Turquie",
+      "id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Tchad",
+      "id": "Country_4559f6f8af30c0e115367f99db7a2d2bff5c4fb5ef7ec890af7e5e1662fd701e"
+    },
+    {
+      "type": "Country",
+      "name": "Niger",
+      "id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "HCR",
+      "id": "Organization_eed8ccc365fb5e9dfd2c26ef707d95970e863e306093728e7a74ad082e729428"
+    },
+    {
+      "type": "Theme",
+      "name": "asile",
+      "id": "Theme_cd88f89a51614f7b8addc880c2aac7c86f554a1aa7bc17024cc6a92883621591"
+    },
+    {
+      "type": "Theme",
+      "name": "migrants",
+      "id": "Theme_1d074596036ecc51c01601d267df6a6b94c8b4eb098d626c77b299ecdf632428"
+    },
+    {
+      "type": "Theme",
+      "name": "développement",
+      "id": "Theme_9f563f6fb56281bb29449c280e882333dd332f1e1e2aa5ff1e49c8654dc6f9a4"
+    },
+    {
+      "type": "Person",
+      "name": "un ambassadeur",
+      "id": "Person_d6e3edf589d68b6962f50b08b6d1337e9017d43dc81e5afb1892c95c4f04cd56"
+    },
+    {
+      "type": "Organization",
+      "name": "groupe opérationnel",
+      "id": "Organization_a0e122bc53a625cb75f1226778763b5d4c0ad1e13ec53a5d09cbd021cc700ea9"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Union africaine",
+      "id": "Country_b01664d9ea209fa9abca874f9945970ecabfe5ccf7330dc0ed2f868bc1f51684"
+    },
+    {
+      "type": "City",
+      "name": "Ouagadougou",
+      "id": "City_3b11427d24948ffcdb7b95de6eaab0a8b8b23d670e0a57d2c0bb9157dfa86ec7"
+    },
+    {
+      "type": "Country",
+      "name": "Maroc",
+      "id": "Country_9458e2c6babd2c77ac8b75ec4713e04d3bfb33730d88d692b0cae733d35375f3"
+    },
+    {
+      "type": "City",
+      "name": "Méditerranée",
+      "id": "City_9d0a5741de9fafb94e045360dddcff5fd3320003f53cc0eee5bebfef6e12abe6"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité nationale",
+      "id": "Theme_6e3c575bba1d32c7b65c86a9f29d3ebac5a19094274e080661e1e152cbba68a5"
+    },
+    {
+      "type": "Theme",
+      "name": "cyber",
+      "id": "Theme_6d4b4cf5c01dbbfbabd221911582a4deb29e1930ad8a912a311cb93cdc0f53ea"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence Française Développement",
+      "id": "Organization_22195a770e30fb1eaaf99505b68db05b7f375234e7b031e7c611e3c42581d8ea"
+    },
+    {
+      "type": "Theme",
+      "name": "aide au développement",
+      "id": "Theme_70d6aeee0edaab1f21c9619864acb57aab63321464dba5f677772d1eb216174c"
+    },
+    {
+      "type": "Theme",
+      "name": "Education",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "fondamentalisme",
+      "id": "Theme_0157d52e8f83caf7cd417b09c9b3c331816c34db5f2ed77292ebf33ae2ef958c"
+    },
+    {
+      "type": "Theme",
+      "name": "obscurantisme",
+      "id": "Theme_4a24212db9727059b9b326cb8f096cf94fed1ceca851b8d4a98d5c11af866309"
+    },
+    {
+      "type": "Theme",
+      "name": "rôle des femmes",
+      "id": "Theme_12a4639d19d0825b124bf0346442ebc55c41c9b597bf1a202c5515a72b0b0052"
+    },
+    {
+      "type": "Theme",
+      "name": "dérèglements du climat",
+      "id": "Theme_8891b32cc2ae67564100dc3a1c9653f97f8b2daa4afece62a0ec61cec0ead1db"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie décarbonée",
+      "id": "Theme_2597cd6ed93bc4eb4293ecbd8fe02cf4290a526dc51777a1d026463889a89c87"
+    },
+    {
+      "type": "Theme",
+      "name": "éradication des pandémies",
+      "id": "Theme_bf044ddaed7546c5dfc1dcd721132fe612aa9df742a2164659d0f291f122b0c5"
+    },
+    {
+      "type": "Theme",
+      "name": "VIH Sida",
+      "id": "Theme_32d1acd2f1fd8dc29e298434dc32ab4025c1b9fd303911e669934b935cce4d05"
+    },
+    {
+      "type": "Theme",
+      "name": "continent africain",
+      "id": "Theme_cd50f2dfb8b772e54766a8d2a1e28b1fef22d8a1923ca6fc69578353430c7987"
+    },
+    {
+      "type": "Person",
+      "name": "le Premier ministre",
+      "id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "type": "Organization",
+      "name": "l'un des rares réseaux diplomatiques universels",
+      "id": "Organization_8b1b653ae005426bcca7f26b5b1c212169c312a07682d2b77baf7943926bbbce"
+    },
+    {
+      "type": "Organization",
+      "name": "nos programmes de rayonnement culturel, d'aide humanitaire ou de coopération au développement",
+      "id": "Organization_e76846a8ad21fc3ec71e67287ce04c3529c355cbce570e18463ef29791e06ccc"
+    },
+    {
+      "type": "Theme",
+      "name": "alliances",
+      "id": "Theme_a4e8b448156bfbbc4fec59d51b9add10c25db7f224734e8d13a3d4a0545bb154"
+    },
+    {
+      "type": "Theme",
+      "name": "ONU",
+      "id": "Theme_7936a8c38872c4ed094a22ea6d0d47ff3c863406faa8bae20de2544d990f7a1a"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation Internationale de la Francophonie",
+      "id": "Organization_f06abfa6c5ae40b266c867322d6110d5af440aa772c7c5cab510d3f86feb79ad"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de l'Europe",
+      "id": "Organization_5c875c7f06516baeebbf53a7d84bca86dab1fc33e8964d207ae7c92ab603f97b"
+    },
+    {
+      "type": "Organization",
+      "name": "UNESCO",
+      "id": "Organization_44cf334686fd664fecedb6944caa3782522449e029aa1a57346edd5f2ff5eebd"
+    },
+    {
+      "type": "Country",
+      "name": "Japon",
+      "id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    },
+    {
+      "type": "Country",
+      "name": "Corée du Nord",
+      "id": "Country_d403bea44d70f65c1c477a18701e0bf7d2b84fd75e947a1213736b8cdf536760"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité des Nations Unies",
+      "id": "Organization_6bf65c40c2dc11306e0f78e403029002e380728d5788808146d88e7f36b63686"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelle route de la soie",
+      "id": "Theme_f6d81b50650b2c94b37fd796fa7243bbe5d9175068a3a84d76b9bb6d8a34968f"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliance solaire internationale",
+      "id": "Organization_bbb21808ea5dc210ae6493af8887075109e63f22ce581586ba6155c6005c4806"
+    },
+    {
+      "type": "Person",
+      "name": "Secrétaire général des Nations Unies",
+      "id": "Person_3b6f20ae4bd585c52c5f2277b37c10222936d306e89369f76e71cd74b30442be"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "Palestine",
+      "id": "Country_b1ebd722dd8ffa39d4f6ceb5282cae944d16f26dce1689b04cbaf84077610527"
+    },
+    {
+      "type": "Organization",
+      "name": "ONU",
+      "id": "Organization_8fe3e517167eebcfcb1c541c20f6aeb0a346c6c70b461e4d8ec8a469cdf70167"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté ouverte sur le monde",
+      "id": "Theme_086755d4d01de2072704b9ee580ea367128d37cef8e3fc826e5fe2ad7dd974e6"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Europe",
+      "id": "Organization_6fa6f500ef51880fb674d0a54de528cbcdf4ce0a1f0ccc716cb080bb6788383c"
+    },
+    {
+      "type": "Person",
+      "name": "la chancelière",
+      "id": "Person_450f783eb1e216b2ce6c00e928795e1a645efedb70000d99cc33b3ff58369e32"
+    },
+    {
+      "type": "Theme",
+      "name": "protection",
+      "id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "légitimité du Léviathan",
+      "id": "Theme_9b1152b2269a4b7c628ca5d103e8627116087a46b6f91741ed468351edaea03f"
+    },
+    {
+      "type": "Theme",
+      "name": "protection des travailleurs",
+      "id": "Theme_31a6d2cae7c5e87ab660b99639f2509a15ff67a884e1d0b6d0736f95399a59c8"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "règles du travail détaché",
+      "id": "Theme_adc594cea7b67fea647f8f08be3ee775cadb6e2beb9cda29f238bf91ce657c34"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme du droit d'asile",
+      "id": "Theme_ddd0ca8abd003c2c9b291139fe08c11f7615a32c0db52583bef2d418381f96f3"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération européenne en matière migratoire",
+      "id": "Theme_147d9a29b9cc1242bbb73b0ff5d5bfdb303079cafc2d89048d327df50cdac93b"
+    },
+    {
+      "type": "Theme",
+      "name": "politique commerciale",
+      "id": "Theme_fc2bcb35f09130595a0d4b4942fdeabf6b6256e71ddfd4958d257984ccc23bb7"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle des investissements stratégiques",
+      "id": "Theme_a0e668cf55883e7d7d321df37b88817df28e5b4c0103d92d6d80d1aa0ba17e9a"
+    },
+    {
+      "type": "Theme",
+      "name": "dumpings",
+      "id": "Theme_393580399dde58532100c43c4e01b9fde9e755d64e9c974228ada7e250be7ce6"
+    },
+    {
+      "type": "Theme",
+      "name": "comportements irrespectueux du droit international",
+      "id": "Theme_30a1ba5e5e64d4f3d10f8767cb9393d28fbdcfd03804387ce38c863962e1efa3"
+    },
+    {
+      "type": "Theme",
+      "name": "développement de l'Europe de la défense",
+      "id": "Theme_571f27549b1354d9a3aba78929f8d9ed675e49241a7a086d50a82a71630e69e5"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Organization",
+      "name": "couple franco-allemand",
+      "id": "Organization_04017f05ea92fb31f704c01b2a2e01fb0e81b001c704d08459d067d6384edd22"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition à l'Europe",
+      "id": "Theme_5c1808ab115e1d200f7f58deed830637c22ad915b6f408f01a808bd917dfca16"
+    },
+    {
+      "type": "Theme",
+      "name": "envie d'Europe",
+      "id": "Theme_d7e7554a7de6764e3e6f904d7ed89c0702b859d5071a817d21ae359ae182b61c"
+    },
+    {
+      "type": "Theme",
+      "name": "refondation",
+      "id": "Theme_77f52f9a94df7b14cffe3784911589107317c54ec7d6127ec1cc1495c5ea5075"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "délitement",
+      "id": "Theme_f0d57f449099ee39fabe58f357af6fac918f3246407f06bd3430bbb93896561f"
+    },
+    {
+      "type": "Organization",
+      "name": "Union économique et monétaire",
+      "id": "Organization_c97d157ab96b5749209a287b0a32e5011c1c2c60cbab37396e1df490964f40bd"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "idées qui comptent pour la jeunesse",
+      "id": "Theme_69bfa33e35e5787ab8381649f5af62b021b727a19dd56d79573b5b3c7e45dbac"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "migratoire",
+      "id": "Theme_121e3ee22312d35dfaec0b86d8085f1481d90cdcd1ae7cd10460dae437ae9d19"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement supérieur",
+      "id": "Theme_7358df2b51617f762113656dad284efe5d3bfcb777ab4f84d15615a00bd96f14"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité collective",
+      "id": "Theme_2239935b7be12bd191d9d059fa7aa5d7727537d352f44d375c1bc69894396ea8"
+    },
+    {
+      "type": "Theme",
+      "name": "Erasmus",
+      "id": "Theme_24922e7cc48797a9115b9884bcbdc915e8ce8ffb6a14a2f099de5fdea859cf4c"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "protéger nos données",
+      "id": "Theme_bdfd295805755b0dd76cf7f2eb26363eedc2e4b2d41f2fa3b4dfb23f9358adad"
+    },
+    {
+      "type": "Theme",
+      "name": "réguler les géants de l'Internet",
+      "id": "Theme_57e38cffa4d584a92079ff712108106c4c17cc23b113b16d5150ceef79aa0c28"
+    },
+    {
+      "type": "Theme",
+      "name": "soutenir les champions mondiaux",
+      "id": "Theme_712de3b7ccc6160cb0afc71448a3f191a21911f6aab8d4271af8662692a61c82"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "débat",
+      "id": "Theme_0b58e1a0fcdb8371d4b6af48f51c7da634083d74ba893b640e5e939e959827a2"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse d'Europe",
+      "id": "Theme_4c2ea6e490f8b4e2704256268f8a9de1dd9eecd987dd43166aaa864bb10290ff"
+    },
+    {
+      "type": "Theme",
+      "name": "référendum",
+      "id": "Theme_4a9f20d7b6af8f6b0d5ae6a3799b5ea2f2d92359d5af489792d864166bcaf9f8"
+    },
+    {
+      "type": "Theme",
+      "name": "vote",
+      "id": "Theme_fcea7da66102d78c342e1a9374c6e441824749126b71cc14a3177e65caec9193"
+    },
+    {
+      "type": "Theme",
+      "name": "projet de texte",
+      "id": "Theme_d724828cd4d39d28ed45478a59129de7b979d413fa5d42a959cacf6043e175b7"
+    },
+    {
+      "type": "Theme",
+      "name": "Grande-Bretagne",
+      "id": "Theme_26894f1fb8c016814e3262fc9e948f0b642712d5d1265a8e52256458602f4d79"
+    },
+    {
+      "type": "Theme",
+      "name": "débat démocratique",
+      "id": "Theme_f032dcd1a3f7c73090cd6fa39e732c1b44c67b8fc04095965d3f941892d1f21c"
+    },
+    {
+      "type": "Theme",
+      "name": "conventions démocratiques",
+      "id": "Theme_e291b7d4b8aa0ec3ddbba21c15428eb6bdef92ad3c793381bdfddf23b35440ee"
+    },
+    {
+      "type": "Theme",
+      "name": "sortie du Royaume-Uni de l'Union européenne",
+      "id": "Theme_0b36894ec86e03bc76ce68e55e43d9ad6c3c8b8c922536099b5746b308ce844c"
+    },
+    {
+      "type": "Theme",
+      "name": "zone euro",
+      "id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "type": "Theme",
+      "name": "Brexit",
+      "id": "Theme_6006dbbb0e4a76c11c05251b591ad1a5519dc0dbc5901d62bec55283dfbb2868"
+    },
+    {
+      "type": "Theme",
+      "name": "Union européenne",
+      "id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "type": "Theme",
+      "name": "Union ambitieuse et protectrice",
+      "id": "Theme_4662104ee266d5e99ffaf5ed684a222b2d3e97e1f7d3521b1d16566f652b7006"
+    },
+    {
+      "type": "Theme",
+      "name": "cadre contraint",
+      "id": "Theme_ef48b218c2b57baaabefad621231c8246e10a58c87b0f1f441681740f953e3fa"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification administrative",
+      "id": "Theme_b516ba1ee821dd70ce2a3c4176a1fb4a3fcc4b96d81aba2323f186808d9cf28b"
+    },
+    {
+      "type": "Theme",
+      "name": "subsidiarité",
+      "id": "Theme_d31550d4be24749d8ab400b894c400bdf42185bb43763a35521e7d48dd7f3f1e"
+    },
+    {
+      "type": "Theme",
+      "name": "directive sur les travailleurs détachés",
+      "id": "Theme_9a2310d3c5b4681ed16934a0007dcbb8dc14478186e0cac2be8440f834ce712a"
+    },
+    {
+      "type": "Theme",
+      "name": "consensus paresseux",
+      "id": "Theme_350a7f38918fd7c8587c27a56f2fb245bd6bd76919eb2fdfb31ca8c6d61c0fe7"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité collective",
+      "id": "Theme_0a86cba1e368e087e475846d78d6119f20ad35b13eca68f9422539e2af6cf3e2"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence",
+      "id": "Theme_5dd492310229e6422561fb6ee7825d44da04ee46fef898be05f57442adb06a51"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition commune",
+      "id": "Theme_fe5fcdd15fd7860e24e0bec850981b66d0e3cfe08f452eb8d21d097c41c8bc15"
+    },
+    {
+      "type": "Theme",
+      "name": "marché unique",
+      "id": "Theme_20dd50ae164d3f152ef77948cb732b929faf16e2e579353a7a6ed58d27740261"
+    },
+    {
+      "type": "Theme",
+      "name": "moins-disant social",
+      "id": "Theme_1dcd2c1bbf3d6300a0930f33dc0fbddc96d5b3809773942bd804c531b5f6adce"
+    },
+    {
+      "type": "Theme",
+      "name": "moins-disant fiscal",
+      "id": "Theme_7fa7cdbe54d1f63aa4ad9ed8c95ec8a2b21b1acd6dec0ee003870cb20bcf6b8b"
+    },
+    {
+      "type": "Country",
+      "name": "Etats membres",
+      "id": "Country_454c710321513a03401dc403e939fc29614c251ebb3d57f24bb638c90c7a0244"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "universalisme",
+      "id": "Theme_be32ff05b2d5c9dc371964e8c9dccc99b005e4d31ab9d2adc606d6ba1924a69d"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie élective et représentative",
+      "id": "Theme_39b0d83503f899a4e5c46064b91e7223a5c4a9e0ba3d91c9e31ea8e4f627f4e1"
+    },
+    {
+      "type": "Theme",
+      "name": "respect de la personne humaine",
+      "id": "Theme_aeba39861e07630a6c3cbd283a3087b1c63b35daa34bbe2e95025658a7039edf"
+    },
+    {
+      "type": "Theme",
+      "name": "tolérance religieuse",
+      "id": "Theme_2f1dc0ce9d6ace11793aaf26e29180813a2c5288649bb0c086daac7f459ae5b1"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté d'expression",
+      "id": "Theme_acb0e9d3f3d2ce06e5a0aea13fc6160588104e35cb96880d570891860752245a"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès",
+      "id": "Theme_99fbe2fae74b83c0fb6be33e85f58e86e641fe47059e9c1672808dfbdcf5b5bd"
+    },
+    {
+      "type": "Event",
+      "name": "COP21",
+      "id": "Event_a3570a7e73d021f7cc57800084245926de3edf7f276993226a68c519c6347478"
+    },
+    {
+      "type": "Law",
+      "name": "Accord de Paris sur le climat",
+      "id": "Law_bace3f3e63a40e410957f755c09ce6659df626ba237be3af8c380ce97c44a6e6"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Person",
+      "name": "Nicolas HULOT",
+      "id": "Person_1b491cca54a5717f6da3df6b36bbfbafc8303b6a5d77ce4bb37ca8aace8599a0"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil constitutionnel",
+      "id": "Organization_c856e421415fa3c1c9ca6b7d4e820fae68e01b58b97177b13f2e6143a448f79d"
+    },
+    {
+      "type": "Theme",
+      "name": "droit",
+      "id": "Theme_809b6d16ebe657005418287171a0ff40ba1f2fc184046e82a8dbc6d9366cc1a9"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "plan pour le climat",
+      "id": "Theme_7672659c7fe0a79baaac22709f56326a15a480bfb285790339d2258754eee78a"
+    },
+    {
+      "type": "Theme",
+      "name": "dynamique internationale",
+      "id": "Theme_42c2f2b91a4cf863d195aff162ea95f73222440aed468ff4f5bf66a0e9d243ca"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "pollutions massives",
+      "id": "Theme_99c107572b14f53ae59730bba4f163867b79a591dfe690d4b9115f66b9ae3820"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Event",
+      "name": "sommet organisé en 2018",
+      "id": "Event_696abfe2a6360f66968572a1b699ff77c581fcdbff697603a66fe36f3d811ab4"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés",
+      "id": "Theme_2460d11dd8890d0086c346c7c4f9479cbb7c560ab3409a92f103572ef8fa5209"
+    },
+    {
+      "type": "Theme",
+      "name": "droits fondamentaux",
+      "id": "Theme_d9b4fe1c479d332e7300e316d32c15aeb5cb1ac64fafb3edc188bbdc443faa35"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés de la presse",
+      "id": "Theme_dada95defa73ae937a0a9f67c4e0e6d1dc35232afe30c531a94369bec31fc892"
+    },
+    {
+      "type": "Theme",
+      "name": "droits civils et politiques",
+      "id": "Theme_b49657393be16ae1ae01c01e0bcdf828fb1b36a33f13eff667894fbcc6b76276"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Organization",
+      "name": "Cour européenne des droits de l'homme",
+      "id": "Organization_e57e52cbd5214e13a6a579774687a54452b15756d37770c0534f3564ce28a150"
+    },
+    {
+      "type": "Organization",
+      "name": "OIM",
+      "id": "Organization_f42df887f1690195d7a437c6ef28c711f63e4f1fbe98e8aa3d68ec9f3502c772"
+    },
+    {
+      "type": "Organization",
+      "name": "Comité international de la Croix Rouge",
+      "id": "Organization_0c4a4e6b1e212cde9a5c53ca29f8c931d3368cea60808a123bf3abc06013a57d"
+    },
+    {
+      "type": "Theme",
+      "name": "tradition juridique",
+      "id": "Theme_94f5a7438e2de6249a6e714072a424d50b202b719bbac2e6585fffbeb8af7cfd"
+    },
+    {
+      "type": "Theme",
+      "name": "menace",
+      "id": "Theme_f3c948c57f7b769db8cf4e82bceeb7838b60a1fc4b69cc76b34b2369f29abc35"
+    },
+    {
+      "type": "Country",
+      "name": "Venezuela",
+      "id": "Country_c4c2d1d21be57b781ecaf55a723b679b9caca7a3e86752e789211af9fcd17aa2"
+    },
+    {
+      "type": "Country",
+      "name": "Amérique latine",
+      "id": "Country_ebd93aa7bb0f5201849c67d119c07847ef9c8a2e571423fb9c519d8908d16ec5"
+    },
+    {
+      "type": "Country",
+      "name": "Union",
+      "id": "Country_d1a60689ce7391b9d0f8a1deef1c03d4188cc25b310ca9b9812ccd8e21e69397"
+    },
+    {
+      "type": "Theme",
+      "name": "dictature",
+      "id": "Theme_01c8f90cc0072f2c2f677b6c9904c5703efcfa06ef7173135d57b168489085d0"
+    },
+    {
+      "type": "Theme",
+      "name": "détresse humanitaire",
+      "id": "Theme_c341d7a04b3891660a743e3a075086ceede1f519b12d35b3db060766a2c10939"
+    },
+    {
+      "type": "Theme",
+      "name": "radicalisation idéologique",
+      "id": "Theme_76c39d9e491f1036bb4e2277c8f24b6f49bde141e8aaac71a56ba44e895af0dd"
+    },
+    {
+      "type": "Theme",
+      "name": "principes fondamentaux de l'Union",
+      "id": "Theme_654a3dc256bfe3a029249bbf6fd1c910b50c80bea236c6c816ba3cd81c4d5772"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "biens culturels",
+      "id": "Theme_766a2d18767dee2bd336ab90a4b71fb65da30051784b10b1daac3e910a36ed43"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "développement de l'accès à la culture",
+      "id": "Theme_a1098ae1ac2a4ab7f7cde25879544c2dcee80e50df718fc47655b7c731fa6daf"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle de civilisation",
+      "id": "Theme_594eb85117dbedb3439d5e9190355d3eb67c1251417f61c5698e859a5c267011"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité universaliste",
+      "id": "Theme_1cd6a106393950b534cdd921a2b23ac42a93b9ac08d90b5101d0f19c045b8873"
+    },
+    {
+      "type": "Theme",
+      "name": "biens communs de l'humanité",
+      "id": "Theme_5041d79ab887d810f2e62448ab7d367278b1f8b051f04ea883f498f34dddc8d6"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité",
+      "id": "Theme_6e810685c69ad3ee9245c969e1dfdc105f56849050a2192c7b2a5c21535528f3"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "université",
+      "id": "Theme_7d5b550e5a2ab05efa6a5e8d896240e9e05847533196eb76b0e3ecd52ba4907a"
+    },
+    {
+      "type": "Theme",
+      "name": "force économique",
+      "id": "Theme_f37fa02ebedd60c9714a0c9a5faa40730e4157404752016dc946aa399f2e1f03"
+    },
+    {
+      "type": "Organization",
+      "name": "votre réseau",
+      "id": "Organization_42f0d310e4ac54057b6c780654c6bd2949ff35700f4e892108653503475ebf7c"
+    },
+    {
+      "type": "Theme",
+      "name": "diplomatie économique",
+      "id": "Theme_368c58fc9bdb51b784bb79bd837f351f50afdb4c0a06c59adea430647814c42f"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégies industrielles",
+      "id": "Theme_82e1b6a9260f53e34a75ae105f62c262bade30fbe10d728ae039f55ef23edcf9"
+    },
+    {
+      "type": "Theme",
+      "name": "grands fonds souverains",
+      "id": "Theme_b767c5c4dbc1d79489aaa8334c23722de9560d9fe10cee2911ee1872e3ccd6d3"
+    },
+    {
+      "type": "Organization",
+      "name": "French Tech Ticket",
+      "id": "Organization_c3477475b8ea90be7270345daaa7314a6110ec1e6ed7780c699f50ff2d40fd63"
+    },
+    {
+      "type": "Organization",
+      "name": "Business France",
+      "id": "Organization_a6c8c752a47385a5ca5cb511756c3e28bbc9675b1afd54f41f06e4b13f7b0a91"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère de l'Europe et des Affaires étrangères",
+      "id": "Organization_08bf9c46e52b5fab09e672f16e13f525e2acd2a3357f8723d64d32d696ea830d"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité économique",
+      "id": "Theme_baf7f90bcb7e01ad71e623d1429c7aa4803c6fd39f6228fc0e59f225a4e39f39"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur touristique",
+      "id": "Theme_adb770f6ee8935466b895994b615a015b41f696c4e2c4477640e6145b8d59b6f"
+    },
+    {
+      "type": "Theme",
+      "name": "état d'urgence",
+      "id": "Theme_8a1b20d0a7e22c6834602eec7167a59ca5408106918f9595871b33263eb2760e"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Country",
+      "name": "Australie",
+      "id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2"
+    },
+    {
+      "type": "Organization",
+      "name": "Campus France",
+      "id": "Organization_c0faf722f603248825f510469ca3ad54d60a553222b83b98e1846c311803fde3"
+    },
+    {
+      "type": "Person",
+      "name": "ministre de l'Education nationale",
+      "id": "Person_25b7d26bedb6868581b38d65e0e59fb5b179c406a259aa5cd199a11de776569f"
+    },
+    {
+      "type": "Person",
+      "name": "ministre de l'Enseignement supérieur, de la Recherche et de l'innovation",
+      "id": "Person_1167397a4fe6a68527ac2373f41f1b56bad97e8eb6950334b698205b8d9148b5"
+    },
+    {
+      "type": "Theme",
+      "name": "francophone",
+      "id": "Theme_3a176b51072f3d57f779cca9ee1e4734cc57980026adb7e34f256f4b2e6b1935"
+    },
+    {
+      "type": "Country",
+      "name": "étranger",
+      "id": "Country_56fe0ff7836acfce5dfbea1907b33cee7945bf6f2eb93917d673e1c79b6f0054"
+    },
+    {
+      "type": "Person",
+      "name": "Personne qui ne possède pas, sur le territoire français, la nationalité française",
+      "id": "Person_5b4c96915b1de4d5b726b3bd554583bd352c7e5480484ea548efe70b7c2c6ec1"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Theme",
+      "name": "francophonie",
+      "id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "type": "Theme",
+      "name": "langue française",
+      "id": "Theme_dbd6263c7cca8332912699118bf4ad9eba7ae111caa7c2ce2b316a49ebe74a53"
+    },
+    {
+      "type": "Theme",
+      "name": "défensif",
+      "id": "Theme_f61595f543c6ab8f1c316f60e414039ec595e79298e28758c6ad2c01098321cc"
+    },
+    {
+      "type": "Theme",
+      "name": "rayonnement",
+      "id": "Theme_c1b6a67635f2de758ff017569f527eb636a5ffce1b9a38245bd5bd72a6f30f26"
+    },
+    {
+      "type": "Organization",
+      "name": "France Médias Monde",
+      "id": "Organization_b16cd4c70baf2a0921cccfa60d2f6c629bf14cab0f67add30f8925ac832d204d"
+    },
+    {
+      "type": "Organization",
+      "name": "TV5 Monde",
+      "id": "Organization_47cadbdcb0f1c2b5ec1a84ba6cf8f1f530029dccff6f18829319743d1a03ef2f"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliances françaises",
+      "id": "Organization_99993a6cc2929b3dbb4e0bf5bf447b79fdf44f6f9861082b51f5d752a33fc488"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut français",
+      "id": "Organization_fab094973c52d35028c7872080cdfd21623cd9e432d52aa2742004627696a3aa"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation Alliance Française",
+      "id": "Organization_9ca3c50f3dcb88b7d6755b0404ebb767c59c6c7034da4ed4b5997def6aac6e7e"
+    },
+    {
+      "type": "Organization",
+      "name": "Francophonie économique",
+      "id": "Organization_ff1275e22db9caf320e3b08416b402c8e2816165530e7e6cecb0053d24f166b3"
+    },
+    {
+      "type": "City",
+      "name": "Francfort",
+      "id": "City_a2e75a6c105b4014d7068c08a69b30dbfdfdbb688bd5494fa0f77cb366d30e88"
+    },
+    {
+      "type": "Organization",
+      "name": "entreprises",
+      "id": "Organization_606ccd168312d17ec1eb9709077aac58b73cbc4caaca245ee7022b28c2b46c50"
+    },
+    {
+      "type": "Event",
+      "name": "Exposition universelle",
+      "id": "Event_096a47133aca6354f9977025368c28214c7f79a2f5edf16abf72426983279f04"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux olympiques de 2024",
+      "id": "Event_900b788ceee057d7dc12b8346a20b6fa2bcadd83294e2b78a712a80610f76e54"
+    },
+    {
+      "type": "Theme",
+      "name": "monde",
+      "id": "Theme_36839915f4f916c517dee200dc570577a7da1e70f69dc68e095ea54120f4c55e"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "secret",
+      "id": "Theme_563684f15b0d13c0ca4c3d7aa3f7b72c187a23cf2f991f53ba0c1d012afe990f"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés individuelles",
+      "id": "Theme_759ccdc015d83cf60a6046b0b9d40b9d6f2ba26eed4cc7fc4859025eb4ae5ca8"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "Véhicule autonome",
+      "id": "Theme_a7303d5a69370b93719be7c129d48df5177d32e051df7b467147d4e8b6e546d8"
+    },
+    {
+      "type": "Theme",
+      "name": "Bioéthique",
+      "id": "Theme_992b643980ae71f074e868d9db7e93f8fdd5fa53f23cdadc2cd38b57fdd483db"
+    },
+    {
+      "type": "Theme",
+      "name": "Questions éthiques et sociétales",
+      "id": "Theme_a7bbba0cc3085f3f33a957cbedba7770503303a60e60ff37ea279bc1bd317edd"
+    },
+    {
+      "type": "Theme",
+      "name": "cadre de régulation multilatérale",
+      "id": "Theme_1b76affddcfcf43bb33511c0ff6e1876314267bcec911bb7e5f6824d0cf7a2e4"
+    },
+    {
+      "type": "Theme",
+      "name": "règles du monde de demain",
+      "id": "Theme_e428e2935adce188d749a5e4e2f294be996195915fff48aedc595e7af79d68f5"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibres",
+      "id": "Theme_b894be6dd2881b319ec21f2bbcd0455bce14339d3a5228ad72b0d1d1569b9749"
+    },
+    {
+      "type": "Theme",
+      "name": "mutations profondes",
+      "id": "Theme_b081daf6e7ba8ccb103fc39049a476a6349995422a1cbf8e3244c0c9ebc01890"
+    },
+    {
+      "type": "Theme",
+      "name": "défi considérable",
+      "id": "Theme_367f3e4fab49726db4437c5bf081dfe9dd9c4c97263585538495a939c69b8501"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité immense",
+      "id": "Theme_4b722e952d8c556639e48e087809514abe6727578d56206477a706ba0c60cc1e"
+    },
+    {
+      "type": "Theme",
+      "name": "grande puissance",
+      "id": "Theme_13fc166655afa3dfd1974c85e4b49805fa288a40f6375d408d22dcb9a91802a8"
+    },
+    {
+      "type": "Theme",
+      "name": "leviers de la puissance",
+      "id": "Theme_f1a1b263532a57b50f83ecb023e8d336a301686084b9febbf8d3b15677ab4d31"
+    },
+    {
+      "type": "Theme",
+      "name": "santé économique",
+      "id": "Theme_8b05b2792b3766be1d0c5062b1be165822d16d731f9dfed78b4c96e47d149b55"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité à éduquer, innover influencer",
+      "id": "Theme_432992dc18f4b4cc96ed2cad7e78665621a381b7f0e7d3ac5c4b7c5fd25b345c"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme",
+      "id": "Theme_d10bce3b67531a6774cd57104a434124f2a796f10cbfff22bb37dbeba66cb515"
+    },
+    {
+      "type": "Theme",
+      "name": "identité",
+      "id": "Theme_4f543f4a07c2f288f23ef16d94246f7c22b38ac986042e48f59a6ca4b459f4dd"
+    },
+    {
+      "type": "Theme",
+      "name": "diversité",
+      "id": "Theme_6cc4bb1678e642d4ee3f4b5dc04bc554310abfe7ca2c11509232cbba37f90a92"
+    },
+    {
+      "type": "Theme",
+      "name": "humilité",
+      "id": "Theme_1f533297e3d3c61ce159bbf9cbd3fe9dcc2068121ee47dca573ec1423280f2dd"
+    },
+    {
+      "type": "Theme",
+      "name": "fierté",
+      "id": "Theme_7eff11c9eca34cecf2a19a02da7d290b3f85a6dd0840cac5b971ec01a30659d3"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre multilatéral de progrès et de justice",
+      "id": "Theme_84e89823179992813d0832dcece042bbd28d08088edd704333874669d49993f0"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "enjeux globaux",
+      "id": "Theme_8044b6159ec515f8ef56a2f308c209679529463599c649d5df25089cb2adcf6a"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement",
+      "id": "Theme_b53e869b761ff3b2e610c18e6c0fd53e10ad5d2a8ba8bf353be9d0f1148d8c43"
+    },
+    {
+      "type": "Person",
+      "name": "Nathalie LOISEAU",
+      "id": "Person_dc767521a470179b8dedd17e9ba260486858efda403de3b0813654365f18fa0c"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Baptiste LEMOYNE",
+      "id": "Person_c8a46542257b27ddfff96ddd341c8121a6e1ebe8c4ef6049ed1816012f0bfd0d"
+    },
+    {
+      "type": "Person",
+      "name": "Maurice GOURDAULT-MONTAGNE",
+      "id": "Person_01b4a2350667e18aba2af1aa3b14eefda1b2311087c0053aadfc8580c820e763"
+    },
+    {
+      "type": "City",
+      "name": "Kaboul",
+      "id": "City_574a4d92385bfd1a0ed73a59f64cf2f93ab29730f68c016e66a78f3564bb2898"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Theme",
+      "name": "civilisation",
+      "id": "Theme_55506e6b6a566c3a1ba5bfa8aa2636a9d0eca0526c32a3b767eb8f396191dc34"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "insécurités",
+      "id": "Theme_44b37255106f8ed486fab7eccdf445e43c21d2b7bb7404978dbea2357267c2ba"
+    },
+    {
+      "type": "Theme",
+      "name": "planète",
+      "id": "Theme_38e28b3e4c13e58b47932666932d6ebab6edc14f0cd7822041d0e68c7b34f00c"
+    },
+    {
+      "type": "Theme",
+      "name": "création",
+      "id": "Theme_a463f772ae14adf1d9f578edb8f3a9be473efc5135b65450d927e8cdeac7a890"
+    },
+    {
+      "type": "Theme",
+      "name": "mémoire",
+      "id": "Theme_3c9e6d3a23e7c3fe0d187e98745e316e283ccf9f53618547ce1cecd4b8f46fb9"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "sécurité",
+      "evidence": "Pour refonder cet ordre du monde, la diplomatie de la France doit s'articuler autour de trois axes forts : notre sécurité qui se conjugue avec la stabilité du monde ;",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "source": "terrorism",
+      "relation": "LOCATED_IN",
+      "target": "Sahel",
+      "evidence": "Deux grandes zones concentrent aujourd'hui nos efforts dans la lutte contre ce terrorisme : la Syrie et l'Irak d'un côté, la Libye et le Sahel de l'autre.",
+      "confidence": 1.0,
+      "source_id": "Theme_a348838fece2a9c780044dab4f291a936095c2be9a10ee5e2924e483e90652b2",
+      "target_id": "Theme_cd986f2263174ad819b8ad3548781ecb091479ae8b61a4f4462e31e7dc9af4e6"
+    },
+    {
+      "source": "Libye",
+      "relation": "LOCATED_IN",
+      "target": "Sahel",
+      "evidence": "La Libye et le Sahel sont l'autre foyer d'instabilité.",
+      "confidence": 1.0,
+      "source_id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938",
+      "target_id": "Theme_cd986f2263174ad819b8ad3548781ecb091479ae8b61a4f4462e31e7dc9af4e6"
+    },
+    {
+      "source": "Libye",
+      "relation": "VISITED",
+      "target": "Celle-Saint-Cloud",
+      "evidence": "La rencontre de la Celle-Saint-Cloud le 5 juillet a permis de faire avancer la réconciliation entre Libyens sous l'égide des Nations Unies.",
+      "confidence": 1.0,
+      "source_id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938",
+      "target_id": "City_be9cfadedcd56e37dc47ff60c0f55aa7ae38fb0176937628de11cc844a9038da"
+    },
+    {
+      "source": "Fayez SARRAJ",
+      "relation": "MEMBER_OF",
+      "target": "Libye",
+      "evidence": "J'ai décidé ainsi en juillet de réunir les deux principaux protagonistes de la crise : le Premier ministre Fayez SARRAJ d'un côté et le chef de l'armée nationale libyenne Khalifa HAFTAR de l'autre.",
+      "confidence": 1.0,
+      "source_id": "Person_1bc8903080d73b49bc3820409b0358a44df31c4354497abedd51227971d80317",
+      "target_id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "source": "Khalifa HAFTAR",
+      "relation": "MEMBER_OF",
+      "target": "Libye",
+      "evidence": "J'ai décidé ainsi en juillet de réunir les deux principaux protagonistes de la crise : le Premier ministre Fayez SARRAJ d'un côté et le chef de l'armée nationale libyenne Khalifa HAFTAR de l'autre.",
+      "confidence": 1.0,
+      "source_id": "Person_1e393eaf0cdf90538468c6262f49dc532af1eae629167b26ea9556ecb65f1084",
+      "target_id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "source": "Ghassan SALAME",
+      "relation": "MEMBER_OF",
+      "target": "Nations Unies",
+      "evidence": "Dans quelques jours à New York, nous veillerons à la bonne mise en œuvre de la feuille de route de la Celle-Saint-Cloud en soutien de l'action du nouveau représentant spécial des Nations Unies, monsieur Ghassan SALAME.",
+      "confidence": 1.0,
+      "source_id": "Person_fa285185b56124d175782d76aa917845321f2ee05cbc63e5cf8e64a804ea30e5",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "Libye",
+      "relation": "SUPPORTS",
+      "target": "Tunisie",
+      "evidence": "Nous devons protéger aussi contre ce risque les voisins de la Libye, et tout particulièrement la Tunisie.",
+      "confidence": 1.0,
+      "source_id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938",
+      "target_id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Afrique",
+      "evidence": "La France ne saurait être ce pays postcolonial hésitant entre un magistère politique affaibli et une repentance malsaine, les pays d'Afrique seront nos grands partenaires.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "source": "Nations Unies",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "le secrétaire général des Nations Unies a été mon premier visiteur international à Paris",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Japon",
+      "evidence": "je souligne ici la solidarité de la France avec le Japon.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Conseil de sécurité des Nations Unies",
+      "evidence": "En contact avec les autres membres permanents du Conseil de sécurité des Nations Unies la France se tient prête à prendre toute nouvelle initiative utile pour empêcher l'escalade, ramener Pyongyang à la table des négociations et mettre en œuvre, de manière rigoureuse, la résolution adoptée le 5 août.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Organization_6bf65c40c2dc11306e0f78e403029002e380728d5788808146d88e7f36b63686"
+    },
+    {
+      "source": "Chine",
+      "relation": "SPOKE_ABOUT",
+      "target": "multilatéralisme",
+      "evidence": "si nous ne sommes pas au rendez-vous du multilatéralisme, d'autres grandes puissances se saisiront de ces instruments. Et elles ont déjà commencé à le faire, la Chine au premier rang d'entre elles, avec des engagements importants, j'y reviendrai en particulier sur le climat, qui sont des gages donnés, mais aussi avec des valeurs, des intérêts, qui ne sont parfois pas les nôtres",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "source": "Chine",
+      "relation": "LOCATED_IN",
+      "target": "nouvelle route de la soie",
+      "evidence": "la nouvelle route de la soie est l'exemple même d'un grand projet géopolitique mené par la Chine",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Theme_f6d81b50650b2c94b37fd796fa7243bbe5d9175068a3a84d76b9bb6d8a34968f"
+    },
+    {
+      "source": "multilatéralisme",
+      "relation": "MENTIONS",
+      "target": "multilatéralisme",
+      "evidence": "c'est pourquoi le multilatéralisme est, à mes yeux, un des instruments de notre indépendance",
+      "confidence": 1.0,
+      "source_id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91",
+      "target_id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Allemagne",
+      "evidence": "de cette alliance, de ce socle, entre la France et l'Allemagne",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "la chancelière",
+      "relation": "SPOKE_ABOUT",
+      "target": "protection",
+      "evidence": "J'y ai présenté, avec la chancelière, un agenda de protection",
+      "confidence": 1.0,
+      "source_id": "Person_450f783eb1e216b2ce6c00e928795e1a645efedb70000d99cc33b3ff58369e32",
+      "target_id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "Union économique et monétaire",
+      "evidence": "La France fera ainsi des propositions pour renforcer l'Union économique et monétaire",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Organization_c97d157ab96b5749209a287b0a32e5011c1c2c60cbab37396e1df490964f40bd"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "Union européenne",
+      "evidence": "La France fera ainsi des propositions pour renforcer l'Union économique et monétaire, renforcer la convergence de nos politiques sociales et fiscales, permettre une meilleure identification de l'Union européenne aux idées qui comptent pour la jeunesse",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "Grande-Bretagne",
+      "evidence": "ce qui vient de se passer en Grande-Bretagne, montre que le temps d'une refondation de l'Europe dans les cercles fermés, ou quelques cénacles autorisés, est terminé.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_26894f1fb8c016814e3262fc9e948f0b642712d5d1265a8e52256458602f4d79"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "COP21",
+      "evidence": "La France a contribué fortement à cet engagement en accueillant en 2015 la COP21",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Event_a3570a7e73d021f7cc57800084245926de3edf7f276993226a68c519c6347478"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Allemagne",
+      "evidence": "La France et l'Allemagne continueront ensemble à déployer tous leurs efforts pour la mise en œuvre des accords de Minsk dans le format dit Normandie",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "solidarité universaliste",
+      "evidence": "La solidarité universaliste que la France déploie dans la défense des biens communs de l'humanité repose sur une condition",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_1cd6a106393950b534cdd921a2b23ac42a93b9ac08d90b5101d0f19c045b8873"
+    },
+    {
+      "source": "votre réseau",
+      "relation": "SPOKE_ABOUT",
+      "target": "diplomatie économique",
+      "evidence": "La diplomatie économique est une priorité de votre réseau et je souhaite la confirmer",
+      "confidence": 1.0,
+      "source_id": "Organization_42f0d310e4ac54057b6c780654c6bd2949ff35700f4e892108653503475ebf7c",
+      "target_id": "Theme_368c58fc9bdb51b784bb79bd837f351f50afdb4c0a06c59adea430647814c42f"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "La France accueille 300 000 étudiants étrangers chaque année dans nos universités et grandes écoles",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Etats-Unis",
+      "evidence": "Les Etats-Unis continuent d'attirer de plus en plus d'étudiants, le Royaume-Uni aussi mais pas la France qui a été doublée l'année dernière par l'Australie.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Royaume-Uni",
+      "evidence": "Les Etats-Unis continuent d'attirer de plus en plus d'étudiants, le Royaume-Uni aussi mais pas la France qui a été doublée l'année dernière par l'Australie.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Australie",
+      "evidence": "Les Etats-Unis continuent d'attirer de plus en plus d'étudiants, le Royaume-Uni aussi mais pas la France qui a été doublée l'année dernière par l'Australie.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "francophone",
+      "evidence": "Les pays de l'espace francophone doivent envoyer davantage d'étudiants en France, en particulier au niveau master et doctorat comme sait le faire par exemple l'Amérique latine.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_3a176b51072f3d57f779cca9ee1e4734cc57980026adb7e34f256f4b2e6b1935"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "francophonie",
+      "evidence": "Notre francophonie est une chance formidable, elle est portée sur tous les continents, elle est portée par la France au premier chef",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "source": "Institut français",
+      "relation": "ALLIED_WITH",
+      "target": "Fondation Alliance Française",
+      "evidence": "je souhaite mener à bien le rapprochement entre l'Institut français et la Fondation Alliance Française",
+      "confidence": 1.0,
+      "source_id": "Organization_fab094973c52d35028c7872080cdfd21623cd9e432d52aa2742004627696a3aa",
+      "target_id": "Organization_9ca3c50f3dcb88b7d6755b0404ebb767c59c6c7034da4ed4b5997def6aac6e7e"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "identité",
+      "evidence": "la France a besoin de faire entendre son identité",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_4f543f4a07c2f288f23ef16d94246f7c22b38ac986042e48f59a6ca4b459f4dd"
+    }
+  ]
+}

@@ -1,0 +1,886 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Xi JINPING",
+      "id": "Person_99ed88f08de36d905de647d17f10a961ac301c5544f4432e1a832eca6c8adb41"
+    },
+    {
+      "type": "Person",
+      "name": "Général de GAULLE",
+      "id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Organization",
+      "name": "République de Chine Populaire",
+      "id": "Organization_8f2b57be784f74af30cfb8f3a45722b2a8ce01f350b7b93390dbb6c98862360a"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "classe moyenne",
+      "id": "Theme_3395fe4feed54cf38c6f4a9a34d7c406f4d12f848fdd422f0acb89385f36ad39"
+    },
+    {
+      "type": "Theme",
+      "name": "pauvreté",
+      "id": "Theme_95b7ed519406cd062b2738f35707ce2b499fc7f2e5179d4c674216f14032a781"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité",
+      "id": "Theme_3ca1b64490b5262af08e9f6b9b23312ee1d75f2317299eb58ba6eb450eef6651"
+    },
+    {
+      "type": "Theme",
+      "name": "haute valeur ajoutée",
+      "id": "Theme_b59b5bfcf6e0b019cbff1bf6dbee212a9ea5ce5b1de51a6b039a15c71a42fe14"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "flexisécurité",
+      "id": "Theme_815efcfb5c635c76d52b1b89280049e6d794e0ee2344628ae33761041f6a5b41"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation inclusive",
+      "id": "Theme_4f7c6b61560830d395014ca046d224e2e97a53e392e17b63aecff3c2f6d80436"
+    },
+    {
+      "type": "Theme",
+      "name": "formation initiale et continue",
+      "id": "Theme_1102bd55eeb271f46b62427076f0adcb70bbd0beee9be3a361cee7dcbc11137f"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme de l'Education nationale",
+      "id": "Theme_caaa8dad2ea44976f1bf3afecd25e69389a717d9b934d09badc7b15e667005bd"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "changement",
+      "id": "Theme_9cbd2940971cb3818b27107e1516d6b75fd81b314ac194ecdd6122f84d5d454a"
+    },
+    {
+      "type": "Theme",
+      "name": "classes moyennes",
+      "id": "Theme_51e81a3a86f221548aab0ff37af5181c0703af7bed5eeb5c9d9976386a312914"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrocarbures",
+      "id": "Theme_033d71111a76d5682275696049a31fe0628e021efb7a83ade412d3d2701288ee"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz à effet de serre",
+      "id": "Theme_601e4ced7fdd29d58bc0a82076d52b7d84e3945fdb894d9801115aa38db3723a"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelable",
+      "id": "Theme_d0beb8d3065f33b4c348175dce1aba64c98ce89f1a5876f75f351c8752b2dd50"
+    },
+    {
+      "type": "Theme",
+      "name": "effacement énergétique",
+      "id": "Theme_e6dcfd73a2b62d87e66ed6e51560b7da6e143ced2775c42f90f797866571c4bb"
+    },
+    {
+      "type": "Theme",
+      "name": "consommation d'électricité",
+      "id": "Theme_3b28e4070e38fd237aa2b2c35fabed509ff53e84066d770f13f12d2f58e95d95"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité",
+      "id": "Theme_5f3e34c6020caac848a6e2d71bdfd1fe751959c4e195a8c097e09b990d89fd12"
+    },
+    {
+      "type": "Theme",
+      "name": "véhicules thermiques gasoil",
+      "id": "Theme_de31c7ae1392ab00648a7249329d2efebd2cd0f389223b218d4ea1bdf9f6ef80"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "compétition",
+      "id": "Theme_e14a9586484a557d70bf1c30c6f53a798fcb119968a8e22b8110a15105dd4e8c"
+    },
+    {
+      "type": "Theme",
+      "name": "finance",
+      "id": "Theme_f723c16c63b30940cbcaa18ce802825b3fb3e76ed4e6cfab624beddf6be9deea"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "transition",
+      "id": "Theme_e63e6ab1512da86e741fe3d7ec082523f6b684c749eb3aef27e0dfd412c0a6b6"
+    },
+    {
+      "type": "Theme",
+      "name": "economie de long terme",
+      "id": "Theme_da3b1f81fe971de0b931fd767ca30bf5267d554d286b0af8778856a631f561d3"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement",
+      "id": "Theme_b53e869b761ff3b2e610c18e6c0fd53e10ad5d2a8ba8bf353be9d0f1148d8c43"
+    },
+    {
+      "type": "Theme",
+      "name": "protection à nos frontières",
+      "id": "Theme_3e4696004836c2d40e9a7ea58be39e09501ebbdf40c3770dd22cce6d75cd5a2e"
+    },
+    {
+      "type": "Organization",
+      "name": "CATHAY CAPITAL",
+      "id": "Organization_6c9df9a20ac759267bac428918c97cfeb852a1c9ee62c24704c046179d98bbc1"
+    },
+    {
+      "type": "Organization",
+      "name": "BPI",
+      "id": "Organization_4681aacf523d8e331fa0c7347000191d8d7836dd24aef197813b3c53297ac26a"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "ouverture",
+      "id": "Theme_d26e5520976d90b087bf131ac2ad0a496e1e510b33f2d5f036ee68ae2c8b562e"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Theme",
+      "name": "accès pour nos entreprises",
+      "id": "Theme_f594d9e03a1075470d6b25ec5e594b67d2069d74c525dfebb939500b6fb3638f"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement en France",
+      "id": "Theme_2f44827a1ab8440e1f27c3572e2eaab83772cb9b511981d3e7d276fc30ec8b85"
+    },
+    {
+      "type": "Theme",
+      "name": "relation économique",
+      "id": "Theme_0a6aec6f52421f2d09d3d72fee13eb54a43f64c0fb5c06fa7db50fc99e1a0115"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda de responsabilité",
+      "id": "Theme_a35657731007b68d3dc72075a0b5dd48ca6dfb87a1cab360f4431f0b405518b7"
+    },
+    {
+      "type": "Person",
+      "name": "Xi",
+      "id": "Person_71b19516d402dbdf17928bada985142fe632d3e2ac418f1420903ddf3b237e0d"
+    },
+    {
+      "type": "Organization",
+      "name": "entrepreneurs chinois",
+      "id": "Organization_51f13c4eb069a8b415931418b92fe40c20e2c3fe1b06cdd336cbb34cdafbdf4c"
+    },
+    {
+      "type": "Person",
+      "name": "Cédric VILLANI",
+      "id": "Person_5e4a7dadcbe3391208312cdc09568680427035e0b01aec6d0d6689d0c3036488"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Organization",
+      "name": "filiales d'entreprises chinoises en France",
+      "id": "Organization_c327de2fde32dc699fe0997d38bf202260246830813c7fa6f37284a882ae44e4"
+    },
+    {
+      "type": "Organization",
+      "name": "Club Med",
+      "id": "Organization_9960ee8c54fb64038bb83a03ca5db52e7906954d652fd0cb80f94db51b1e203e"
+    },
+    {
+      "type": "Organization",
+      "name": "Fosun",
+      "id": "Organization_cddb1c8f9d24f98f12770b60c4ae95a8179f9fad881ccacc7d146f6f622da0c1"
+    },
+    {
+      "type": "Theme",
+      "name": "secteurs stratégiques",
+      "id": "Theme_98f5db8114236f9f7b89a47e61ead4abb86d60ca13453c7e4e44ca914b201225"
+    },
+    {
+      "type": "Theme",
+      "name": "tourisme",
+      "id": "Theme_6230ab46b903a54cbd735ffcdd8016d5b3ccadaf12ae9993a40cfa32b83e758f"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie du futur",
+      "id": "Theme_a3a3528ddc0a78535e557c751f6d4dc76886c7eca2cc892992387ba5a4ad1605"
+    },
+    {
+      "type": "Theme",
+      "name": "luxe",
+      "id": "Theme_2562a569d6c1d7dcc9a7d69bd993674973b95b985f5a20061687cf197d8c84e4"
+    },
+    {
+      "type": "Theme",
+      "name": "industries critiques sur le plan technologique",
+      "id": "Theme_f6a0b3af253b027d267c60f52af1dde323c1b0d9ecc6b41642ff2b8aa63ab6fe"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles technologies",
+      "id": "Theme_7747ab69a43f0e565f5376fa27e26afb9cd78a09d1c54137bb9be80722aeeccf"
+    },
+    {
+      "type": "City",
+      "name": "Taishan",
+      "id": "City_dfe62b8d4be32a2f628365af39319c2a13bc0a1f8637d89092d937e80b527c7f"
+    },
+    {
+      "type": "Person",
+      "name": "moi-même",
+      "id": "Person_8d566310710bd7381db144ddfcafa026338a9fda50aea373d11e6f74a6b6f2d4"
+    },
+    {
+      "type": "Organization",
+      "name": "A330",
+      "id": "Organization_4580b3379396f0336596ee5fc891cfabc85dee228d32f494f7e33164b31c5f75"
+    },
+    {
+      "type": "City",
+      "name": "Tianjin",
+      "id": "City_a163e6b971200e902a7a9251a22411aad5831a09ea82e7f1dc17ca65518ab4cf"
+    },
+    {
+      "type": "City",
+      "name": "Hangzhou",
+      "id": "City_2c8563608adc3c56e9a86f198d01edefb56b2ba4f2373ba489e420c43ead2027"
+    },
+    {
+      "type": "Theme",
+      "name": "aéronautique",
+      "id": "Theme_75d0f3d5ff64c56475546f5da42c78e140e4b2c5b8253cc541c75517a1fd1d42"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "trafic",
+      "id": "Theme_615426dcd3396cc472876d269ef0cb74f0de92c7b5df68b1339290d62a6ad79c"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "ville durable",
+      "id": "Theme_40e1b118aaab66fd2b1baf72f0913d394fbe6b08c251bdf82edcabd455acfea2"
+    },
+    {
+      "type": "Theme",
+      "name": "pollution",
+      "id": "Theme_940c152474bd5ce5421c20a0c8caf4c90597e161361aca1907e2859ef23e26a0"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité énergétique",
+      "id": "Theme_3fa29c3a81835e293a8ee69c64e59a04f9d44e386ecc1a59491a348f5946eab8"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité de la vie",
+      "id": "Theme_8b76c89acb2a29a341a41a2dd51534d18f80f4e5695ac4089c21631d69c802a3"
+    },
+    {
+      "type": "City",
+      "name": "Pékin",
+      "id": "City_c33b28c48b13d634999d50013f1cdd989b8055c898dcd822f8e335c15db449dc"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "vieillissement",
+      "id": "Theme_6e04ac07e6d70fdfdd12b303eb1c69193771ae51e798bb847501f3ff2e512197"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance",
+      "id": "Theme_eb42bc9a4c0e3c4863f2af9c41baa2a8f3b5a02bf55c6c74f6658aeb303b2108"
+    },
+    {
+      "type": "Theme",
+      "name": "silver économie",
+      "id": "Theme_deb04449b3d46d7a550b41893a4e108c342c354dcaff684d170c89be2114ef65"
+    },
+    {
+      "type": "Theme",
+      "name": "domotique",
+      "id": "Theme_ef6de552f1575ddf2b7c0a9aa89dd0c96944e20e356f793b934d84f503723c38"
+    },
+    {
+      "type": "Theme",
+      "name": "robotique",
+      "id": "Theme_7dcf1c9ae964fcab8445c829886a97dfa275fc7995d32733ea41b2b032c91f10"
+    },
+    {
+      "type": "Theme",
+      "name": "service attaché",
+      "id": "Theme_7b51511fddf6747c5df4746452232a1d6666bc8d5006501c170935546b541c93"
+    },
+    {
+      "type": "Theme",
+      "name": "China Manufacturing 2025",
+      "id": "Theme_fee8c8226905c5e98a574e9b7bf6209b4e0ec826e423203ec0f29b5865cf0442"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche et d'innovation",
+      "id": "Theme_3c26285ed4c51f8c233ce77f97f27637e90a93bb378c7f69bd5a2d3e34a08a8d"
+    },
+    {
+      "type": "Theme",
+      "name": "économie et d'industrie",
+      "id": "Theme_946ca669e5e33c97d55816085fb777aa9c3300d2bfd534ad0a823b4a43038990"
+    },
+    {
+      "type": "Theme",
+      "name": "chaîne logistique",
+      "id": "Theme_4dc00d2391ea7e03a3da6f8670bc63427c8a1acb052b37ca8fc46922f7786153"
+    },
+    {
+      "type": "Country",
+      "name": "La Chine",
+      "id": "Country_9e78cf2c68a62ff9caa0b194d4ab4fd644fe800fed648bf7ae22b25bcb325241"
+    },
+    {
+      "type": "Country",
+      "name": "l'Europe",
+      "id": "Country_22c6a9031acb88b09b90ce4000e1a54cc5401d4a34558d7df28560e8576fb0e6"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "Theme",
+      "name": "ferroviaire",
+      "id": "Theme_18974b56235517f2a696da9bd81c5414f10512487d11d3a98e66a6578f52e8de"
+    },
+    {
+      "type": "Theme",
+      "name": "services financiers",
+      "id": "Theme_a0b150d976bd031f3c7a576334d28080ebe79c888629bfe5596ebe1f0b272f6b"
+    },
+    {
+      "type": "Theme",
+      "name": "sport",
+      "id": "Theme_825ac548d524f301bf40cecba64423c577f867e16f68d3e023ee693d5aebd94a"
+    },
+    {
+      "type": "Theme",
+      "name": "médias",
+      "id": "Theme_a0c2653572d94bf1f9ebd7bf71d7bebfca86d0809cdd222a1311f5a6509900f4"
+    },
+    {
+      "type": "Theme",
+      "name": "transition numérique",
+      "id": "Theme_e0a76a48c21ea818fd9ce341506e55efda05bd398e6515f7f291fa137dc24d00"
+    },
+    {
+      "type": "Organization",
+      "name": "BUSINESS FRANCE",
+      "id": "Organization_a6c8c752a47385a5ca5cb511756c3e28bbc9675b1afd54f41f06e4b13f7b0a91"
+    },
+    {
+      "type": "Person",
+      "name": "nos amis chinois",
+      "id": "Person_48f211de1471fb2f466bd740ba6b2d4a1889a4ac4f169bea65fa8c14e6ebaeee"
+    },
+    {
+      "type": "Person",
+      "name": "Anglo-Saxons",
+      "id": "Person_197749dd89fe2f0160d1fd80d8a4bb8c3adfe1750683b800130af7888d3ffe85"
+    },
+    {
+      "type": "Organization",
+      "name": "entrepreneurs",
+      "id": "Organization_5a8502b360fb833d669beb83e59ed6be17864399aefdd49b308f6b111d37a6c1"
+    },
+    {
+      "type": "Theme",
+      "name": "entrepreneuriat",
+      "id": "Theme_f17fded96b0ac6aae418444584998148043ae8ca96a9af18fb71416fe70a5066"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation de rupture",
+      "id": "Theme_15cfadec6c52ce9c8f308f6aa83b4ac35cf91e6a01d1b7584afa46fa4534e02b"
+    },
+    {
+      "type": "Organization",
+      "name": "nos universités",
+      "id": "Organization_3c582b28b4411aa4cf39d7708aab4c81284fb2e491e4ad2187c6e2db79ee37ea"
+    },
+    {
+      "type": "Organization",
+      "name": "nos écoles",
+      "id": "Organization_655e1708e5d74f450b549f2abe65adecdd0e83d12e9bd5c8aea94b0a2a7a2861"
+    },
+    {
+      "type": "Organization",
+      "name": "INRIA",
+      "id": "Organization_5219b7db9fd3ef2c48b004e6ce3de3c211c2ea34a75203009621b05e8e0f84b2"
+    },
+    {
+      "type": "Organization",
+      "name": "CNRS",
+      "id": "Organization_9797a7b293510a1bf26addf4f9eb951f6a91dfb71b6b8d8c7031c08fb95a0fa4"
+    },
+    {
+      "type": "Organization",
+      "name": "40 Under Forty",
+      "id": "Organization_5860b3c161c03e48d71f6d4c5f4dbef894ca376751a57f4b5b304478bdc4a12a"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique",
+      "id": "Theme_82634c5567e29ec1e0f256205be4191228a3b7329a743da05d0f47189c5b7272"
+    },
+    {
+      "type": "Organization",
+      "name": "CEA",
+      "id": "Organization_56bee4e69d140d03f96302b407e9a57182af007e69e3a0511d3d22f4e01718b0"
+    },
+    {
+      "type": "Person",
+      "name": "Laurent FABIUS",
+      "id": "Person_704e8afdbaca490abcefc61e4df9d4cc4674910364ec98f9706b4c073a2cf4a8"
+    },
+    {
+      "type": "Organization",
+      "name": "nos grands groupes",
+      "id": "Organization_2013fc452b23274feb52600a78e992c9f42615ce1be7fe0fa2ef65427fc6fa42"
+    },
+    {
+      "type": "Organization",
+      "name": "nos start-up",
+      "id": "Organization_c61dcb924a165ec329b8eb384e493102f558ea9555625bf821687c2ab8fdc326"
+    },
+    {
+      "type": "Theme",
+      "name": "propriété intellectuelle",
+      "id": "Theme_e93a9cdedc8c0f209853c358a4a86a8c2496ed656002f532970b5b5d994bd0a5"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda climatique",
+      "id": "Theme_e44c50ddb8977779c7f63036210ba4f5a89e67c3298784d87523f3e6675c1ed1"
+    },
+    {
+      "type": "Theme",
+      "name": "bonnes règles économiques",
+      "id": "Theme_92efe4841e37be67ecc597e1978cc6b6fae08a8cb9016539d13d6f4b87e18dac"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme économique et commercial",
+      "id": "Theme_02148c3d55c3a3041d33a08012ac99913977c1f17b96ae5c60a8bbb69aa0efa9"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibre",
+      "id": "Theme_ede0979eeee4eba930de1ebb03996586b198a6fc0509b20fb3e9a71e3c756919"
+    },
+    {
+      "type": "Theme",
+      "name": "réciprocité des accès",
+      "id": "Theme_4b1ac64cbec50a07ade1af3942f86ed9da5dbb2fa32c06d4a8f8de707a588d04"
+    },
+    {
+      "type": "Theme",
+      "name": "One belt, one road",
+      "id": "Theme_1c1f4e198277179d84a2a101b971849e1f4ee591997a799e7d7d44520dc1e5e5"
+    },
+    {
+      "type": "Theme",
+      "name": "routes de la soie",
+      "id": "Theme_130ca9175f86fd2d9ed1f58542a08ad4f294a0e74add50357427a664ecebddb2"
+    },
+    {
+      "type": "Theme",
+      "name": "développements économiques",
+      "id": "Theme_452a9de841e028b5e0bed63192e05b78ca4eab7d70aeb5e5ccc9c774420079cd"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructures essentielles",
+      "id": "Theme_56fb3fbc7eae2be53dab9cb1417e130073a3a195528a49cea094907b63ef5c4e"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilisation de plusieurs régions du globe",
+      "id": "Theme_8ab23affae6e1efd28d9ccdbb3cf134fe27496e684c518fed5cfa33c917c7a79"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française de développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilisation politique",
+      "id": "Theme_c38e8c0fe8e10203733eaab649e5475667076ac3779ad92d105f48131b633d01"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "harmonie",
+      "id": "Theme_daff773f7b2652348c039fbc2b696cf5263b1927aadb7ebc485ea4025401b63f"
+    },
+    {
+      "type": "Theme",
+      "name": "développement harmonieux",
+      "id": "Theme_d70ce077932ba2b4408715dd6376089303ab30be3b53514d3b705d5b5a7e0f0b"
+    },
+    {
+      "type": "Theme",
+      "name": "cohérence des engagements",
+      "id": "Theme_bbafa3698571d79447623a185b8fd0b7ca0bf3aa7ca11df7ef96e078a4d4f3fe"
+    },
+    {
+      "type": "Theme",
+      "name": "centrales à charbon",
+      "id": "Theme_3fab3fb495d434537bbbed538edcd36e29aac1facc62f5a4865fb41fe442d80b"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies renouvelables",
+      "id": "Theme_912e2c1b6d76c17cfecb65f028f348cae97ce3cd43f48890e5f528fb3273c56f"
+    },
+    {
+      "type": "Organization",
+      "name": "les pouvoirs publics chinois",
+      "id": "Organization_1ba59490c89018477ca402389a760594144703d073d18662af6ff1979406a7d4"
+    },
+    {
+      "type": "Organization",
+      "name": "nos deux pays",
+      "id": "Organization_b811914eba0180049d4a01fa68c99f251685bdce9f82f6f0a58b34e07537adab"
+    },
+    {
+      "type": "Theme",
+      "name": "collaboration",
+      "id": "Theme_5acec7eca1288dd91ae446407cf31a2e8d969bd6495565999e59fc8f7dd226cb"
+    },
+    {
+      "type": "Theme",
+      "name": "expérience partagée",
+      "id": "Theme_fcc1cf9fca99ad70b41b8d267bbfd2416964a9ed56e608eb9b121c0e02ce63bc"
+    },
+    {
+      "type": "Person",
+      "name": "les entrepreneurs",
+      "id": "Person_47da380ecb5cef5af8cd4b1b392973393c53c10d2067ba6f2efd672ea5cc3a15"
+    },
+    {
+      "type": "Person",
+      "name": "les grands groupes",
+      "id": "Person_843767527cc28e802734fbb0400ccd96eb37848b3f36f6626e852bbdf5f2c351"
+    },
+    {
+      "type": "Person",
+      "name": "les investisseurs",
+      "id": "Person_ca5f09de3a8edbad9283c4f1adf13f2fc42a1f6630aeab7e2b28c4c78d5f9c77"
+    },
+    {
+      "type": "Person",
+      "name": "Français",
+      "id": "Person_be586f27702001506e399df5686940bc7cfd300765537808e02d811977ae0044"
+    },
+    {
+      "type": "Person",
+      "name": "Chinois",
+      "id": "Person_6931b5f9bc9c03fc32ea519418099a2e935f47e80ee7fe42145caecdba885a14"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Général de GAULLE",
+      "relation": "PROPOSED",
+      "target": "République de Chine Populaire",
+      "evidence": "la reconnaissance par le Général de GAULLE de la République de Chine Populaire",
+      "confidence": 1.0,
+      "source_id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442",
+      "target_id": "Organization_8f2b57be784f74af30cfb8f3a45722b2a8ce01f350b7b93390dbb6c98862360a"
+    },
+    {
+      "source": "classes moyennes",
+      "relation": "MENTIONS",
+      "target": "changement",
+      "evidence": "à un moment donné les classes moyennes disent que ce monde en changement n'est pas pour elles",
+      "confidence": 1.0,
+      "source_id": "Theme_51e81a3a86f221548aab0ff37af5181c0703af7bed5eeb5c9d9976386a312914",
+      "target_id": "Theme_9cbd2940971cb3818b27107e1516d6b75fd81b314ac194ecdd6122f84d5d454a"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "véhicules thermiques gasoil",
+      "evidence": "en particulier des véhicules thermiques gasoil, qui étaient aujourd'hui surreprésentés en France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_de31c7ae1392ab00648a7249329d2efebd2cd0f389223b218d4ea1bdf9f6ef80"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Chine",
+      "evidence": "pour la France, de jouer groupé sur notre offre en Chine",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "Chine",
+      "relation": "LOCATED_IN",
+      "target": "Chine",
+      "evidence": "la Chine a beaucoup moins investi en France que nous ne l'avons fait",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "CATHAY CAPITAL",
+      "relation": "ALLIED_WITH",
+      "target": "BPI",
+      "evidence": "CATHAY CAPITAL et BPI, actant une nouvelle étape de cette relation",
+      "confidence": 1.0,
+      "source_id": "Organization_6c9df9a20ac759267bac428918c97cfeb852a1c9ee62c24704c046179d98bbc1",
+      "target_id": "Organization_4681aacf523d8e331fa0c7347000191d8d7836dd24aef197813b3c53297ac26a"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France importe 45 milliards de la Chine, elle n'exporte que 15 milliards",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Chine",
+      "evidence": "La France importe 45 milliards de la Chine, elle n'exporte que 15 milliards",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "Chine",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "La France importe 45 milliards de la Chine, elle n'exporte que 15 milliards",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "en France et en Europe",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Chine",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "Nous devons aider la Chine à gérer cette transition sans qu'elle vienne déstabiliser des acteurs du pneumatique, de la sidérurgie, de l'acier, en France",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "les marchés européens sont ouverts pour les entreprises chinoises",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Fosun",
+      "relation": "SPOKE_ABOUT",
+      "target": "tourisme",
+      "evidence": "Le Club Med, sur lequel beaucoup d'inquiétudes se faisaient jour lorsque le groupe Fosun a investi, est la parfaite illustration du fait que, sur un secteur stratégique, qu'est le tourisme,",
+      "confidence": 1.0,
+      "source_id": "Organization_cddb1c8f9d24f98f12770b60c4ae95a8179f9fad881ccacc7d146f6f622da0c1",
+      "target_id": "Theme_6230ab46b903a54cbd735ffcdd8016d5b3ccadaf12ae9993a40cfa32b83e758f"
+    },
+    {
+      "source": "Fosun",
+      "relation": "SUPPORTS",
+      "target": "tourisme",
+      "evidence": "Le Club Med, sur lequel beaucoup d'inquiétudes se faisaient jour lorsque le groupe Fosun a investi, est la parfaite illustration du fait que, sur un secteur stratégique, qu'est le tourisme,",
+      "confidence": 1.0,
+      "source_id": "Organization_cddb1c8f9d24f98f12770b60c4ae95a8179f9fad881ccacc7d146f6f622da0c1",
+      "target_id": "Theme_6230ab46b903a54cbd735ffcdd8016d5b3ccadaf12ae9993a40cfa32b83e758f"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "aéronautique",
+      "evidence": "C'est un secteur structurant, pour les années et décennies à venir la France et l'Europe doivent maintenir leurs parts de marché dans la fourniture justement d'avions au développement de l'aéronautique chinois",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_75d0f3d5ff64c56475546f5da42c78e140e4b2c5b8253cc541c75517a1fd1d42"
+    },
+    {
+      "source": "Chine",
+      "relation": "MENTIONS",
+      "target": "ville durable",
+      "evidence": "Le premier, la ville durable, il s'agit de répondre aux besoins de la Chine, population urbaine en croissance de 10 % par an depuis 30 ans, avec un taux d'urbanisation de 57 % fin 2016, et qui devrait être supérieur à 70 % d'ici à 2035,",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Theme_40e1b118aaab66fd2b1baf72f0913d394fbe6b08c251bdf82edcabd455acfea2"
+    },
+    {
+      "source": "Chine",
+      "relation": "SPOKE_ABOUT",
+      "target": "santé",
+      "evidence": "Deuxième sujet c'est la santé et l'économie du vieillissement, c'est l'un des autres défis de la Chine, c'est le vieillissement de sa population, la transition démographique qu'elle a à connaître en la matière",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "source": "Chine",
+      "relation": "SPOKE_ABOUT",
+      "target": "économie",
+      "evidence": "Deuxième sujet c'est la santé et l'économie du vieillissement, c'est l'un des autres défis de la Chine, c'est le vieillissement de sa population, la transition démographique qu'elle a à connaître en la matière",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "source": "China Manufacturing 2025",
+      "relation": "MENTIONS",
+      "target": "industrie du futur",
+      "evidence": "Un troisième et dernier exemple, c'est l'industrie du futur avec le plan China Manufacturing 2025",
+      "confidence": 1.0,
+      "source_id": "Theme_fee8c8226905c5e98a574e9b7bf6209b4e0ec826e423203ec0f29b5865cf0442",
+      "target_id": "Theme_a3a3528ddc0a78535e557c751f6d4dc76886c7eca2cc892992387ba5a4ad1605"
+    },
+    {
+      "source": "Chine",
+      "relation": "MENTIONS",
+      "target": "innovation",
+      "evidence": "La Chine avance très vite sur les innovations de rupture, elle y met des moyens importants. Elle a des laboratoires, des universités, des start-up ultraperformantes.",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    }
+  ]
+}

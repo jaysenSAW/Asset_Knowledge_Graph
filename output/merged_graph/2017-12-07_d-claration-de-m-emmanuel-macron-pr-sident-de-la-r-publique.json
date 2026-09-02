@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "votre Altesse",
+      "id": "Person_82d45575e66d7c8478586265618af5b04fa142e95d3b299197a7dd69a843fcc3"
+    },
+    {
+      "type": "Country",
+      "name": "Qatar",
+      "id": "Country_e5da689c325f619f1d122e0f9316e196ec475beef981feeb9a11d61cf1162518"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Son Altesse Cheikh TAMIM",
+      "id": "Person_33983e148462c01ece7fd2e4045be3483a023f6ff872bb44ec318a14166b8072"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Country",
+      "name": "Nations Unis",
+      "id": "Country_ed0fc559be145cad3117a869d8575f9b2ff4c553d6544bfe3373fe434fd56816"
+    },
+    {
+      "type": "Person",
+      "name": "Ghassan SALAME",
+      "id": "Person_fa285185b56124d175782d76aa917845321f2ee05cbc63e5cf8e64a804ea30e5"
+    },
+    {
+      "type": "Country",
+      "name": "Koweït",
+      "id": "Country_944efe801b2f8db0d8e2c92c9b7be9ac136151191bee8ef9a8df23bebb66ee29"
+    },
+    {
+      "type": "Person",
+      "name": "Cheikh TAMIM",
+      "id": "Person_ab00fbde7ce4d4a1c10933a94b0decaa9cd62a76d0bd7cca02cef234945874bd"
+    },
+    {
+      "type": "Organization",
+      "name": "Son Altesse",
+      "id": "Organization_bf00c62fd467b273bddb1cf9560abb138fb7f6595b496da67fdd237e31568cdd"
+    },
+    {
+      "type": "Event",
+      "name": "première session de ce dialogue bilatéral de haut-niveau sur la lutte contre le terrorisme et son financement et la lutte contre la radicalisation",
+      "id": "Event_aa971404b48f9bfee97be8195d4ba42cffa3c4f51996f7c185d747369430b2a8"
+    },
+    {
+      "type": "Event",
+      "name": "conférence internationale sur la lutte contre le terrorisme et son financement",
+      "id": "Event_7d956c003fbaa3641fdc878509b86a6f5f92e289fef52d115296415dd7c50d0d"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation internationale de la francophonie",
+      "id": "Organization_f06abfa6c5ae40b266c867322d6110d5af440aa772c7c5cab510d3f86feb79ad"
+    },
+    {
+      "type": "Person",
+      "name": "Son Altesse",
+      "id": "Person_a7a7196d8cbf0df40b030f92d89e288eabd6e489b4de1d8a94a9fd5ff3a38100"
+    },
+    {
+      "type": "Theme",
+      "name": "francophonie",
+      "id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "City",
+      "name": "Doha",
+      "id": "City_2c4553445cae0415389464dfa171ee146aa0bfd01639954f3fa6249857071898"
+    },
+    {
+      "type": "City",
+      "name": "Lusail",
+      "id": "City_f2c99a1231b07142f814388c555717d57681c9b361bd0f74bb4bf4e0a658114b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Qatar",
+      "evidence": "La relation entre la France et le Qatar est une relation qui ne date pas d'aujourd'hui",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_e5da689c325f619f1d122e0f9316e196ec475beef981feeb9a11d61cf1162518"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Koweït",
+      "evidence": "j'ai redit à Cheikh TAMIM le soutien de la France aux efforts de médiation du Koweït",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_944efe801b2f8db0d8e2c92c9b7be9ac136151191bee8ef9a8df23bebb66ee29"
+    }
+  ]
+}

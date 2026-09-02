@@ -1,0 +1,926 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Président du Sénat",
+      "id": "Person_7e68447f1fff5598debf68f88e590723f4177208acb10cd696ea6f7e3498c1e1"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président de l'Assemblée Nationale",
+      "id": "Person_99441dedec1cf827ebee614bb06ad1e1c099195c54d812c07f09751c8fde208c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil Économique Social et Environnemental",
+      "id": "Person_71fbfd8ac238bc1846e5f4b9cd5c111319f8f047086d9cd1fb7ef000bb3bfb9b"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Ministre d'Etat",
+      "id": "Person_1a441cacb3dfa21ac336e65d598587601ee5ead142d2c2df13c95bdd82854d4e"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Ministres",
+      "id": "Person_04725bf2245672793e76174d8746ec28f46c281ef73283bf9390941f137cf2cf"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Maire de Paris",
+      "id": "Person_639a68cc38e6bd85f394a4a276f80fe38a25807b078f088aa59008fc98929683"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la présidente de la région Ile de France",
+      "id": "Person_afbe7a9048aec89b0f2ab98f7000c1f6bf41fc8842705145cfcc34ebfeae4c03"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames Messieurs les Parlementaires",
+      "id": "Person_f879153b28740d9514dbcd93603cc82282967a253c73170eff53755abbb16289"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames/Messieurs les Ambassadeurs",
+      "id": "Person_1a7d862897ba795992173a8a7c8fc471624f1361f75b3caf79c1c84590c97fdd"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs",
+      "id": "Person_625fe3a313c056b9dc1724205255b9a7767c4b46670f91284ff4a20cb9382408"
+    },
+    {
+      "type": "Person",
+      "name": "Simone VEIL",
+      "id": "Person_4da84d085d0414be46d06181049192bfa187ee57577e2d7a7fe5104add18936e"
+    },
+    {
+      "type": "Person",
+      "name": "RIVLIN",
+      "id": "Person_5d8d355c1a1327871080da29143477835937b9d0cd6aa626ca2cee78daf03526"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Person",
+      "name": "René CASSIN",
+      "id": "Person_fb969e0b88e0215a145c0beebdabaf8dfc09b7b792365861081169e75bed8d1f"
+    },
+    {
+      "type": "Theme",
+      "name": "mémoire",
+      "id": "Theme_3c9e6d3a23e7c3fe0d187e98745e316e283ccf9f53618547ce1cecd4b8f46fb9"
+    },
+    {
+      "type": "Theme",
+      "name": "femmes",
+      "id": "Theme_6cefe79fcc2d94b362c08802e35592ec94d444fa1fceecb124f2402df513ea70"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "Déclaration des Droits de l'Homme",
+      "id": "Theme_7d1db27ef11fb8233d68ee724bda2ce04e036b52eaacadc2e90ed91e0b063fc6"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémitisme",
+      "id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "démocraties occidentales",
+      "id": "Country_13358c11b4db5fa638dc06469b4b9b48c781d231ef0049a350fc1d27342a9fa4"
+    },
+    {
+      "type": "Person",
+      "name": "Claude LANZMANN",
+      "id": "Person_79149fd5109226dcaced05276dfef9b16729bf2402430c14efcc9e05f19d7bae"
+    },
+    {
+      "type": "Person",
+      "name": "Marceline LORIDAN",
+      "id": "Person_e0d3f094686112a8301cef08b0b5690ebb224d5e33562b87a18492148ae29767"
+    },
+    {
+      "type": "Person",
+      "name": "Georges LOINGER",
+      "id": "Person_ca2dcf1cfdd4f9ddffad8296a300ecbf10eca54c03fe8f34ac24f65556f5f27a"
+    },
+    {
+      "type": "Person",
+      "name": "Antoine VEIL",
+      "id": "Person_95098d0f276e202573bd6bcca2a832e4b7fedd942594120f8e2ec869affb45bd"
+    },
+    {
+      "type": "Organization",
+      "name": "République",
+      "id": "Organization_0eac6305aac01bf684a6d57836831f1443587a4616a4d6b56b3d3c1e778ca152"
+    },
+    {
+      "type": "Theme",
+      "name": "résistance",
+      "id": "Theme_e76d4a7d077688683b8612822efb91314ca3d8a465e71434c7d639fcd7efc3a4"
+    },
+    {
+      "type": "Theme",
+      "name": "SHOAH",
+      "id": "Theme_02306b8c83b38064c0db2c7e85a92e7907e1d8cad078ff92cd101059830bb40a"
+    },
+    {
+      "type": "Theme",
+      "name": "génocide",
+      "id": "Theme_b3b3f035e244827ede7d97c5572c10e292a1eae9e86f19b955ea5731d2e116e8"
+    },
+    {
+      "type": "Theme",
+      "name": "indicible horreur des camps",
+      "id": "Theme_6718afc9563cf59f2b3f23e40a1304ad9029d40448b8c48520ad2aaac848006f"
+    },
+    {
+      "type": "Theme",
+      "name": "combats pour la mémoire",
+      "id": "Theme_d41829730c4870474752bdf018ec2f1862aa531a7d4aadf72e3fbe9aee80f574"
+    },
+    {
+      "type": "Person",
+      "name": "Mireille KNOLL",
+      "id": "Person_927de201b1e2857c5d8a46a715ac12f307f3e19ae45cafe78a5987559b99d758"
+    },
+    {
+      "type": "Person",
+      "name": "Sarah HALIMI",
+      "id": "Person_dab7e6bec244bd518ca9741ff3a8a12948b96c34940b03713ae68e2da4a7b0f2"
+    },
+    {
+      "type": "Person",
+      "name": "Ilan HALIMI",
+      "id": "Person_187c2ee48e367d275166731b7bea6b6427b66d92b25885c659820f08668f622a"
+    },
+    {
+      "type": "Person",
+      "name": "Philippe BRAHAM",
+      "id": "Person_f3c33fbd6ecddc8163a9d1d6bc98a09c4e85f3ef7d90e00c89df81d391ac9689"
+    },
+    {
+      "type": "Person",
+      "name": "Yohan COHEN",
+      "id": "Person_f833fc718ee6d9a9ac62aaf42ff6fdb3d1a4c32e60ea8c27e12598eb5c6ddaeb"
+    },
+    {
+      "type": "Person",
+      "name": "Yoav HATTAB",
+      "id": "Person_001f0598692d1f4fe688645fa5afc7fe587c6efa9333bdfc2a52b63c3464fd3d"
+    },
+    {
+      "type": "Person",
+      "name": "François-Michel SAADA",
+      "id": "Person_ffa67958bf583edf2bc78f0fb1ccddd9cfa594bb8736c6550f1b01a8067e7d8e"
+    },
+    {
+      "type": "Person",
+      "name": "Jonathan SANDLER",
+      "id": "Person_9d854e324bcdeb1a14a719a2ec27bb493def6b87888f415b142ed1e7735bd4cd"
+    },
+    {
+      "type": "Person",
+      "name": "Aryeh",
+      "id": "Person_b97ca22af4a84a8c511d17a460acefdc83593ac7c5cd6847ad5213bc688b750f"
+    },
+    {
+      "type": "Person",
+      "name": "Gabriel",
+      "id": "Person_1b7b055e6f089b3450c6f1d7a268dfa3937b87f8cb0fd7c58391728ce1033a53"
+    },
+    {
+      "type": "Person",
+      "name": "Myriam MONSONEGO",
+      "id": "Person_dd9af5fcb649eea070fdb49374e3f8d14c1faf076e8d844f04ed5e94a2aaff6c"
+    },
+    {
+      "type": "Person",
+      "name": "Joël MERGUI",
+      "id": "Person_0390e7a42ac912851449d1d936f3ae856ab9e3fbcff904e3302ab8bd1b28e111"
+    },
+    {
+      "type": "Person",
+      "name": "Ariel GOLDMANN",
+      "id": "Person_ce897add1de2aa5f3908bfd6216f29e4b0b98f3228f92ea481ca73d33b554177"
+    },
+    {
+      "type": "Person",
+      "name": "Philippe VAL",
+      "id": "Person_3c14030f4852c320612e7891918543e138c44898416d045c61bb64caf21b6e6b"
+    },
+    {
+      "type": "Person",
+      "name": "Hermann EBONGUE",
+      "id": "Person_8f947c40b723e62b61511cb8259c191807c35fb24fb0581b1dbd27482eadd1ac"
+    },
+    {
+      "type": "Organization",
+      "name": "Académie française",
+      "id": "Organization_1614898e5c9c4727f6887dcc2e0444776d7de4eb80e4c5a0b9419bde1a0d4a96"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "mairie du 13e arrondissement",
+      "id": "City_d61756288fd77f4fa19e39bd23d3bc84207a942df8f59100694d31006b261bd5"
+    },
+    {
+      "type": "City",
+      "name": "Alsace",
+      "id": "City_290f7bbc94cf55336ca58d4af98b6ff3e76f1133f9adcc58223fcec764682e85"
+    },
+    {
+      "type": "Theme",
+      "name": "antiraciste",
+      "id": "Theme_5183399c08451143237d7166452deb0154f1b2925ed401180b1182d66f09e95b"
+    },
+    {
+      "type": "Theme",
+      "name": "sacré",
+      "id": "Theme_0e4e18dd239a2b2500341ecf768d6e349256d1230e8afa3c3add328a2371e9bb"
+    },
+    {
+      "type": "Theme",
+      "name": "antiparlementarisme",
+      "id": "Theme_b8433a3b724f8ac1de1252dc428edf5bf631488393425e6478e9d30e12a57ee8"
+    },
+    {
+      "type": "Theme",
+      "name": "antisionisme",
+      "id": "Theme_bd37d2101a0faa64bde501d69dd75dc08892f3dc034bc81ac5210c74e89ac60d"
+    },
+    {
+      "type": "Person",
+      "name": "PÉGUY",
+      "id": "Person_8a52223f5d6a26a4148e3a691402603c318472698084f41a3597b0d1920c3c1c"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliance internationale pour la mémoire de la SHOAH",
+      "id": "Organization_4abb65c7484e4cf9a1c8757a8780bc3708f03dd2ca53f17e042794671d936507"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémitisme traditionnel",
+      "id": "Theme_07a3dd6c08350d89b99bd558d86a3d70385f201ea670e3597870806ba40afdb1"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémitisme fondé sur un islamisme radical",
+      "id": "Theme_9026fd47b3b66a682c5f0d5cf81fe0d526ab2a88d5a621ee11c409c009632abe"
+    },
+    {
+      "type": "Theme",
+      "name": "boycott",
+      "id": "Theme_591386a720013620a11143a96a0962f62416a9c48807c2c9409ecb9fc72fbc88"
+    },
+    {
+      "type": "Theme",
+      "name": "BDS",
+      "id": "Theme_67229414acac2ae5aae1372aa22926afd5665df81fbe69fd5e6b90417e1d62bc"
+    },
+    {
+      "type": "Theme",
+      "name": "islamisme radical",
+      "id": "Theme_06829bcd6bf40a8e2dac81c4467b9e53d66545abf8a314e409ce5ec5fdf7943a"
+    },
+    {
+      "type": "Theme",
+      "name": "exode intérieur",
+      "id": "Theme_3f2fee5abe10483f4f6a57fe47a9f1b946cb0f5be637c94ac25e814a543b804a"
+    },
+    {
+      "type": "Theme",
+      "name": "reconquête républicaine",
+      "id": "Theme_b89c51a37f7fa5fff82bfe2df1494f7b981263bf5ab274606e4ecba336e97667"
+    },
+    {
+      "type": "Theme",
+      "name": "radicalisation",
+      "id": "Theme_f8b1b3258b1203d98805d21222997e8a052b0c3a5dfabfde97b23a7a4d797d98"
+    },
+    {
+      "type": "Theme",
+      "name": "opposition bloc à bloc",
+      "id": "Theme_09fe91eeb54eeaebb2723f12853af40dd3b10318c74664a5ac3410d481e059fe"
+    },
+    {
+      "type": "Theme",
+      "name": "stigmatisation",
+      "id": "Theme_a515e2029ff8f199fb79487cfa08a91e4bdbd99faf986c47f99cbc07a8f6c47b"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémites",
+      "id": "Theme_f5881555528ba0050d1cda52f1c918ef603e13e1ba174377ea7f7f1fd6c4a3db"
+    },
+    {
+      "type": "Theme",
+      "name": "haine",
+      "id": "Theme_1109211ae99f54d538f05e8b1e3badcdc61927baacdf16dc2f914c62e0db0430"
+    },
+    {
+      "type": "Theme",
+      "name": "sanctions",
+      "id": "Theme_cc609b67ce79c18e469b868785645e8ac15295942ba88c097a9620d856801064"
+    },
+    {
+      "type": "Law",
+      "name": "Loi Justice",
+      "id": "Law_bc6270c4bf71d17147f40fbd005fcd9f4f89091097964c87e0e80ecda6ff9f6b"
+    },
+    {
+      "type": "Theme",
+      "name": "complot sioniste mondial",
+      "id": "Theme_f27c8a2d19550c7ab79a569a7fecc86cb10d63ffeb6e124c9c609dedfacfdea4"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation du Camp des Milles",
+      "id": "Organization_49ffc13b5f02f9423d200e646c7050bccabc5d33d8e97a90276149383bdc9a6b"
+    },
+    {
+      "type": "Organization",
+      "name": "Facebook",
+      "id": "Organization_42e5527c62abf73db586e35f1a04e5b4e4b3240a6169469ddc3ea2bacc89ed76"
+    },
+    {
+      "type": "Organization",
+      "name": "plateformes comme Facebook",
+      "id": "Organization_6df4877b641f4d961ed8febe3fdb80943a021c4adb5e258c8eb5b9a0406f5313"
+    },
+    {
+      "type": "Person",
+      "name": "Laetitia AVIA",
+      "id": "Person_93cc77d6937bcb46077ed8f3a71d66800f0a8345420b3230e28090588002a0cd"
+    },
+    {
+      "type": "Person",
+      "name": "AVIA",
+      "id": "Person_f29e5531163e4554dae09ac21b6e90bb5e9cafbf2504dd81467a0dc2a19adb22"
+    },
+    {
+      "type": "Person",
+      "name": "TAIEB",
+      "id": "Person_ce43ca3bcec97e5a4c6c750e0ea8993cd27123ec205339d0ced0f09ca31f0ac8"
+    },
+    {
+      "type": "Person",
+      "name": "AMELLAL",
+      "id": "Person_55d5c3a9f99b9eccc78a159f6120ac3880c70fefbd5285968340515d4879d805"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégies d'éviction",
+      "id": "Theme_6962889b0c3357f72cadc192fb699ab16df9c67b2e2d470de1796e26173b190b"
+    },
+    {
+      "type": "Theme",
+      "name": "anonymat",
+      "id": "Theme_8e5afed1cb4b25349d0d1893256e864269adbc9a45874d734ac23f1c08f70e6d"
+    },
+    {
+      "type": "Theme",
+      "name": "contenu",
+      "id": "Theme_7e3228506e0000e4538a7451170f79e16189bcd1080647a5eb9ad6e2ead82844"
+    },
+    {
+      "type": "Theme",
+      "name": "identité",
+      "id": "Theme_4f543f4a07c2f288f23ef16d94246f7c22b38ac986042e48f59a6ca4b459f4dd"
+    },
+    {
+      "type": "Theme",
+      "name": "meurtre",
+      "id": "Theme_aff73637842e3b04be0145756dc61a84c9852bc6d76e16bbc6e658484711536b"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "plateformes",
+      "id": "Theme_d07d55ace95391a5ea5ba99f4a026dce8cc193fd6cb275132141cfe28de223f5"
+    },
+    {
+      "type": "Theme",
+      "name": "procédures judiciaires",
+      "id": "Theme_441bcc50d415b75c9812076263eabf52f542366f853f5bbd7b14f93c616b357e"
+    },
+    {
+      "type": "Theme",
+      "name": "propos racistes et antisémites",
+      "id": "Theme_d0bc3a48a9a54c50b980d216e4291e0d9918cb5572d1e385da2dda83f2ea73e0"
+    },
+    {
+      "type": "Theme",
+      "name": "actes racistes et antisémites",
+      "id": "Theme_6d75a374312c40c1598a2dfeb2c756dbd285ff93c14453286569db0f88016fb3"
+    },
+    {
+      "type": "Theme",
+      "name": "discrimination",
+      "id": "Theme_92d7d1d37614eb7e3178c40e62a9c7211cba91c8c31af61eb0c9f5faa02beefb"
+    },
+    {
+      "type": "Organization",
+      "name": "Bastion social",
+      "id": "Organization_a30a9cd4dda8a6091647a5b064d7f7a8ea7b1ccffe0cc5e4d34cb22625100cfb"
+    },
+    {
+      "type": "Organization",
+      "name": "Blood & Honour Hexagone",
+      "id": "Organization_65ab2d4849eb68ca8fc4fb5fe1687a710d3875e868d17635a29ed7a3d6496c3f"
+    },
+    {
+      "type": "Organization",
+      "name": "Combat 18",
+      "id": "Organization_15b453e379d5afc2087f5d0672b804439db92d9c6abb0d268bb0164fb257e573"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "élévation morale et spirituelle",
+      "id": "Theme_5872a0c79947ae689ba2f989898d1d618d71f419a06f71f197cfc2e9c797fa9c"
+    },
+    {
+      "type": "Theme",
+      "name": "Histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "connaissance",
+      "id": "Theme_b95f8e0ec3586745d1662f7770a2df991c48ffdfaeec3bfb3d9087f8fe11f379"
+    },
+    {
+      "type": "Theme",
+      "name": "ignorance",
+      "id": "Theme_9df0908859edca245f2759dc5b4f44429f6d350c89f4c2d0242f64336fc009e4"
+    },
+    {
+      "type": "Theme",
+      "name": "mémoire de l'Holocauste",
+      "id": "Theme_35c16e88b68e56291703988a60f6d96c02ea7c595e29d6c97147eb352a8a3e9c"
+    },
+    {
+      "type": "Theme",
+      "name": "l'Etat",
+      "id": "Theme_bd613468b5cd939c82d8916141e29aac491d37b34121ae5aa0ffacb17f28c0db"
+    },
+    {
+      "type": "Theme",
+      "name": "la DILCRA",
+      "id": "Theme_f1eadeb984aac5dbf81fdaac9996680dc3b65a926cf9a1cd31223e6f60362d8a"
+    },
+    {
+      "type": "Theme",
+      "name": "la Fondation pour la mémoire de la Shoah",
+      "id": "Theme_e57edabb800c7aab4cad65df4e303f5f59711c446632d9819d2e66716f68e5ed"
+    },
+    {
+      "type": "Theme",
+      "name": "le Mémorial de la Shoah",
+      "id": "Theme_4a437018d1a1ab7271d5b1e091cfbeb0fc5ba5795041a7e482d04b8be02d2e04"
+    },
+    {
+      "type": "Organization",
+      "name": "DILCRA",
+      "id": "Organization_f7042aa0a242f31fa3c404887a7557c6e8e281555f75267c3ac0f7e2d8bd01b4"
+    },
+    {
+      "type": "Organization",
+      "name": "Mémorial de la Shoah",
+      "id": "Organization_a5be5d7af2a61a261e6caaa77b2cd5f2c6da5576093a133ea35bdbc2606d7382"
+    },
+    {
+      "type": "Person",
+      "name": "Premier Ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Theme",
+      "name": "situation au Proche-Orient",
+      "id": "Theme_58f3675c7c2adb77b5874fc01d8cba2b93ccd769b8bd9db11b773eab2653e75a"
+    },
+    {
+      "type": "Theme",
+      "name": "déscolarisation des enfants de confession juive",
+      "id": "Theme_3731d1bb144563d8bbcb96743000b014d38e0232dfd57f1ee96361e825181106"
+    },
+    {
+      "type": "Theme",
+      "name": "déscolarisation",
+      "id": "Theme_58348ee30cd55aae6539e611d9ac0b13e1267fc8ebddc93e526e507005c5cc23"
+    },
+    {
+      "type": "Theme",
+      "name": "préjugés",
+      "id": "Theme_dfff3cf1ab358b96c15c850d84f2095ce9cba918b638a4f236f8c2f96e84e1a3"
+    },
+    {
+      "type": "Theme",
+      "name": "haines",
+      "id": "Theme_2e67af2d111df8422d8bc5f09a20ad2cbfbb77f5df7659957210dabf45d6cdd0"
+    },
+    {
+      "type": "Theme",
+      "name": "immédiateté",
+      "id": "Theme_85b67b907bc81bf4fe59ef5426f3e7e03dc35f65741036ac7119990be222be0e"
+    },
+    {
+      "type": "Theme",
+      "name": "relativisme",
+      "id": "Theme_da681f46fb2d4b642e400048b6ae97b35ac38c5be75fd2c5f93b7d5c99657cf7"
+    },
+    {
+      "type": "Theme",
+      "name": "tolérance",
+      "id": "Theme_6e5e7c602a3b0bc37fca405b6502b456d69828fa8906a21bc3f5dfcfefbef09a"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme",
+      "id": "Theme_d10bce3b67531a6774cd57104a434124f2a796f10cbfff22bb37dbeba66cb515"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Person",
+      "name": "RACHI",
+      "id": "Person_2944cb68189d51bed32a7d8991c8f75901575ab007b7740860610eb67a141c96"
+    },
+    {
+      "type": "Person",
+      "name": "BERGSON",
+      "id": "Person_6e1e4fadd4970fdb5828cf31f7fbf6fa94990f32d7dc535ee8143cdb170227c2"
+    },
+    {
+      "type": "Person",
+      "name": "PROUST",
+      "id": "Person_fa148929bc5a84d88652f9e603eecd9d1d6becb87db99d46973f425aee6a6e56"
+    },
+    {
+      "type": "Person",
+      "name": "Robert BADINTER",
+      "id": "Person_674c12388b3de914edeee1d8b2c7e320133b6d85b1cf04c5f276dc9833715e54"
+    },
+    {
+      "type": "Person",
+      "name": "Eliezer DE TOUQUES",
+      "id": "Person_3f4f428d55a4d50f20b45fef86c9727b7d736a1d8a500965288ccb3165f4a3bc"
+    },
+    {
+      "type": "Person",
+      "name": "Samuel BEN SALOMON de Falaise",
+      "id": "Person_75cafef3fcc4fd5010bc5f12135e6b05f082b9445ec9c13a47df97ce1dabe56b"
+    },
+    {
+      "type": "Person",
+      "name": "Simbah de Vitry en Moselle",
+      "id": "Person_4ea829e0ed067a4d9c50f33f62681f349f59e1ae25af602f6e3b1b3f0adaa8e8"
+    },
+    {
+      "type": "Person",
+      "name": "Samson ben Isaac de Chinon",
+      "id": "Person_99cd32d12ba4b06aa54e971a493bbca2c1c5c5fd02c58b569c3b8482a3603e63"
+    },
+    {
+      "type": "Person",
+      "name": "Moïse d'Evreux",
+      "id": "Person_db12c900df6299c25bb2a9ecb87ad5f9a629206c8f56c3e26a7a0415befef978"
+    },
+    {
+      "type": "Person",
+      "name": "Thérèse BEN ELIA de Corbeil",
+      "id": "Person_1ba50e6f2bdb5af79b708af20b82e1104e93d6d5d3515310d7b27a383fb26a0a"
+    },
+    {
+      "type": "Person",
+      "name": "Moïse de Coussy",
+      "id": "Person_1b3b5db1d2bce2024b21b27c121fef3ea45aafb0d25861da5d7edfbb78a29d23"
+    },
+    {
+      "type": "Person",
+      "name": "Isaac BEN SAMUEL de Dampierre",
+      "id": "Person_2c4c41368302fba632e1c94bb5277a66dffec0167150170288f76da03c11f258"
+    },
+    {
+      "type": "Person",
+      "name": "Samson, de Sens",
+      "id": "Person_c891c1abef6512d3418ca1831e8d03513f4c167c9489442a473337d2e04f1737"
+    },
+    {
+      "type": "Person",
+      "name": "Eliachim de Chalons",
+      "id": "Person_76963595a05cbdf0caca56eeecf1aba8831c235c711fc56387844279ff003a0b"
+    },
+    {
+      "type": "Person",
+      "name": "Jacob de Pont-Audemer",
+      "id": "Person_1168f7e22ba05d102df3655d783396ef99015d63333e05739bd53327cb2c9cec"
+    },
+    {
+      "type": "Person",
+      "name": "Matatia d'Avallon",
+      "id": "Person_b05b635f0271d6ebfdc1896dd984da5bb30ea0c676c8faa20ff986be0f5fd70e"
+    },
+    {
+      "type": "Person",
+      "name": "Salomon de Château-Landon",
+      "id": "Person_83a6e2d7e6e7b6422038ff98ed2976f6a717466e4dc2d17123639a19d8998e3c"
+    },
+    {
+      "type": "Person",
+      "name": "Meshoulam BEN NATHAN de Melun",
+      "id": "Person_3da6b7d0d407774437a58cbeb2b70268413b46bc207fb82fbda033ea94d026d2"
+    },
+    {
+      "type": "Person",
+      "name": "Eliezer BEN SAMUEL de Metz",
+      "id": "Person_26c6fc2e141fc72458328c6aefcc353130eb8d9d5fdbf2798476e65055fea89a"
+    },
+    {
+      "type": "Person",
+      "name": "Joseph Tobelem BONFILS de Limoges",
+      "id": "Person_8e7fb99b10ef38b663c3a195ea6025ce53ed416c168ca3dd8e3f43af65a4329b"
+    },
+    {
+      "type": "Person",
+      "name": "Ayim BEN ISAAC de La Rochelle",
+      "id": "Person_a8551d871ed7188a9803344ee0f38069f8bb77db509409a9bea3966883d12966"
+    },
+    {
+      "type": "Person",
+      "name": "Menahem BEN SALOMON MERI de Perpignan",
+      "id": "Person_91b2fa171919c0aebb4b3889763840d81864cb1feeaf1b22da05c4e820065b57"
+    },
+    {
+      "type": "Person",
+      "name": "Jacob BEN MAKIR de Montpellier",
+      "id": "Person_c8274791f2486ea810495d8349cc654112c9341f91abda9f141426ed53c9a4f7"
+    },
+    {
+      "type": "Person",
+      "name": "Aaron BEN PEREZ, d'Avignon",
+      "id": "Person_3cd55ed68a58e16ef476e76b38558eb79d70578d97f55009245f3e756a4be75e"
+    },
+    {
+      "type": "Person",
+      "name": "Abraham BEN DAVID, de Narbonne",
+      "id": "Person_08ec731187c5a1a033b82a0cb9a93ea9d584d96e5167d185b81f10dfdad7d43a"
+    },
+    {
+      "type": "City",
+      "name": "Quatzenheim",
+      "id": "City_3a56dc4d8e76a32730f8ef577a07f106ec8a69259d7c7aca066c754b1e0eab74"
+    },
+    {
+      "type": "Theme",
+      "name": "juifs",
+      "id": "Theme_0fee041af25f7ea23fe780a448c8fb7f12248192e9d1fb4b8630caf0164e8aef"
+    },
+    {
+      "type": "Theme",
+      "name": "religion",
+      "id": "Theme_164a57edd3bd6e51e9da15e6b184baa243f42cb6bd764af8a346437a5132deac"
+    },
+    {
+      "type": "Theme",
+      "name": "barbarie",
+      "id": "Theme_bb132eea60e1a4ea367dc85118c9f0e316378feb4b79ede431957e141ec51180"
+    },
+    {
+      "type": "Theme",
+      "name": "Nation",
+      "id": "Theme_60ff600be5c454bb618a1597d939fb190f2d7774c810094fe4274df593f1b232"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre SOULAGES",
+      "id": "Person_6a6c64ab1aaad778d6c43b706ac502392e1c48affb634a1b4efb8711f12b31b7"
+    },
+    {
+      "type": "Person",
+      "name": "Mère d'Ilan HALIMI",
+      "id": "Person_36b957b3335da35cc32b955c3579b140e5f4e2e3f5fd01b8c73e78e1c8994477"
+    },
+    {
+      "type": "Theme",
+      "name": "vérité",
+      "id": "Theme_953d05a2f3d8c50ee08e03421281e20b608a47762bf4a8ec7bc5f2621cb382c1"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence",
+      "id": "Theme_03b687ae69479c829a7f30314ea23d1b3a6d4c82f2cea3968ce973b361cfd0cd"
+    },
+    {
+      "type": "Theme",
+      "name": "courage",
+      "id": "Theme_4eb0829b6b279fcb2a945b12114e4f8976954c7a7fcf9391f504d523ee63a88b"
+    },
+    {
+      "type": "Theme",
+      "name": "Outrenoir",
+      "id": "Theme_94f4acf93840a1e07a5e600bf409c7d7cf0ad142ea819fa7c959ab7b28d0c98c"
+    },
+    {
+      "type": "Theme",
+      "name": "lignes de force",
+      "id": "Theme_d93b2393f7f1aafafc4d7617c5e42aa9f0e423691dc564baa0821433a7f7a366"
+    },
+    {
+      "type": "Theme",
+      "name": "courage inlassable",
+      "id": "Theme_d055370e082e8688b5cc17cd9fc2fe4785e1d8320f292943f9cece383be85484"
+    },
+    {
+      "type": "Theme",
+      "name": "forme d'humanité et d'intelligence",
+      "id": "Theme_d4d96dcb1145af6a63ae7457d2acb97ccb5ba4ff879710c43345775228d13c4c"
+    },
+    {
+      "type": "Theme",
+      "name": "le mal de notre société",
+      "id": "Theme_54d2fb68325094bd2a3022132340cd5bb289af02daa19424872bec89b6ae5a8b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Simone VEIL",
+      "relation": "SPOKE_ABOUT",
+      "target": "mémoire",
+      "evidence": "Simone VEIL qui puisa dans l'indicible horreur des camps la force de faire grandir encore par ses combats pour la mémoire, pour les femmes, pour l'Europe l'oeuvre universelle de la France.",
+      "confidence": 1.0,
+      "source_id": "Person_4da84d085d0414be46d06181049192bfa187ee57577e2d7a7fe5104add18936e",
+      "target_id": "Theme_3c9e6d3a23e7c3fe0d187e98745e316e283ccf9f53618547ce1cecd4b8f46fb9"
+    },
+    {
+      "source": "Simone VEIL",
+      "relation": "SPOKE_ABOUT",
+      "target": "femmes",
+      "evidence": "Simone VEIL qui puisa dans l'indicible horreur des camps la force de faire grandir encore par ses combats pour la mémoire, pour les femmes, pour l'Europe l'oeuvre universelle de la France.",
+      "confidence": 1.0,
+      "source_id": "Person_4da84d085d0414be46d06181049192bfa187ee57577e2d7a7fe5104add18936e",
+      "target_id": "Theme_6cefe79fcc2d94b362c08802e35592ec94d444fa1fceecb124f2402df513ea70"
+    },
+    {
+      "source": "Simone VEIL",
+      "relation": "SPOKE_ABOUT",
+      "target": "Europe",
+      "evidence": "Simone VEIL qui puisa dans l'indicible horreur des camps la force de faire grandir encore par ses combats pour la mémoire, pour les femmes, pour l'Europe l'oeuvre universelle de la France.",
+      "confidence": 1.0,
+      "source_id": "Person_4da84d085d0414be46d06181049192bfa187ee57577e2d7a7fe5104add18936e",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "antisémitisme",
+      "evidence": "l'antisémitisme tue en France",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "source": "la Fondation pour la mémoire de la Shoah",
+      "relation": "SUPPORTS",
+      "target": "le Mémorial de la Shoah",
+      "evidence": "et sont relayés admirablement par des institutions comme la Fondation pour la mémoire de la Shoah ou le Mémorial de la Shoah.",
+      "confidence": 1.0,
+      "source_id": "Theme_e57edabb800c7aab4cad65df4e303f5f59711c446632d9819d2e66716f68e5ed",
+      "target_id": "Theme_4a437018d1a1ab7271d5b1e091cfbeb0fc5ba5795041a7e482d04b8be02d2e04"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "République",
+      "evidence": "l'antisémitisme, c'est la question de la République et de la France.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "France",
+      "evidence": "l'antisémitisme, c'est la question de la République et de la France.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "histoire",
+      "evidence": "L'Histoire de France est belle, de ses universels croisés, de ses Juifs venus du bout du monde pour aimer notre pays, tomber pour lui et le faire accéder à l'universel, et de tous ses Français, qui ont voulu prendre, aimer et porter une religion, parce qu'on pouvait la porter librement et avec fierté dans notre pays.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "C'est cela, l'histoire des Juifs et de la France, bien avant la République, bien avant même, qu'on commence à parler de la France.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "Mère d'Ilan HALIMI",
+      "relation": "VISITED",
+      "target": "Pierre SOULAGES",
+      "evidence": "j'ai reçu dans mon bureau la mère d'Ilan HALIMI. Et elle avait, face à elle, un tableau de Pierre SOULAGES.",
+      "confidence": 1.0,
+      "source_id": "Person_36b957b3335da35cc32b955c3579b140e5f4e2e3f5fd01b8c73e78e1c8994477",
+      "target_id": "Person_6a6c64ab1aaad778d6c43b706ac502392e1c48affb634a1b4efb8711f12b31b7"
+    }
+  ]
+}

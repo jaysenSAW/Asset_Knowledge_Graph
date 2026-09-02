@@ -1,0 +1,110 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Angela MERKEL",
+      "id": "Person_077e47899275e1cda2b2d7e530bf5f66693f699c895edfd079b62025ba358a5f"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Grande-Bretagne",
+      "id": "Country_01f8c19fe3ec039f49ac5d3312a1bdf3402aafbc92d573434c30d8340e48ca94"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "Brexit",
+      "id": "Theme_6006dbbb0e4a76c11c05251b591ad1a5519dc0dbc5901d62bec55283dfbb2868"
+    },
+    {
+      "type": "Theme",
+      "name": "difficultés économiques durables",
+      "id": "Theme_b9abaf820aedeaf7ef43efc5e6423f9101d42ca23fe97a4be4d0feba8e70f95e"
+    },
+    {
+      "type": "Theme",
+      "name": "défis migratoires",
+      "id": "Theme_0b2e3872003f5c65ae77e040b6d63f0a8440eaa0651fd3c8e37ce0570e46f752"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition nouvelle",
+      "id": "Theme_48c347791e6f78eaa302d9c4d909de463837046c35b0ba049965c837ddc5cd9e"
+    },
+    {
+      "type": "Theme",
+      "name": "refondation",
+      "id": "Theme_77f52f9a94df7b14cffe3784911589107317c54ec7d6127ec1cc1495c5ea5075"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition européenne",
+      "id": "Theme_b9cc755f285245b083b8958673504dcd560871076cd5d85cb3fb08a1ec12002b"
+    },
+    {
+      "type": "Theme",
+      "name": "traité de l'Elysée",
+      "id": "Theme_29939624ba3d482992b9d70c208fcfeaa107c7c7f5b4ea210f0a3f83c5661b2b"
+    },
+    {
+      "type": "Theme",
+      "name": "feuille de route claire, ambitieuse",
+      "id": "Theme_68dc3d70196345f3b4a8c4ac8fca956ca5598463009b94bbc52618837b3c15d5"
+    },
+    {
+      "type": "Person",
+      "name": "Angela",
+      "id": "Person_f5838b292df0ac2c4afafc7946e13d71da37e0fb3a65ee0cc13dbe5880598d53"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Allemagne",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "l'Allemagne a attendu que la France conduise ses réformes",
+      "confidence": 1.0,
+      "source_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

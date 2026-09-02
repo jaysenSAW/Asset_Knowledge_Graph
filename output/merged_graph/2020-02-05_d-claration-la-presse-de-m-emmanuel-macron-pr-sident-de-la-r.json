@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Alberto",
+      "id": "Person_c84e152437c39cf29088de6d82919e6d7b4be2e229029189b0f7b96968da89ce"
+    },
+    {
+      "type": "Person",
+      "name": "Fernández",
+      "id": "Person_955eb7f2a10f3e97a0478a0c21b2ccdf702c3d274baadd8319e09822294c6713"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Argentine",
+      "id": "Country_3dab7c85e6607fddbf7c552fa1a16bb3d8c4efc9ce2720249249c1c8220d005f"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Boulogne-sur-Mer",
+      "id": "City_e5cdeefbb1fc8d7dd0869899cf5ed3b9a676d32e2fb2bbe6695a8f03c4f8213a"
+    },
+    {
+      "type": "Person",
+      "name": "Général San Martín",
+      "id": "Person_033fa8fd3ea570d859708168dde7ea18a976396b7c512acfcbb04a782098f978"
+    },
+    {
+      "type": "Country",
+      "name": "Venezuela",
+      "id": "Country_c4c2d1d21be57b781ecaf55a723b679b9caca7a3e86752e789211af9fcd17aa2"
+    },
+    {
+      "type": "Country",
+      "name": "Bolivie",
+      "id": "Country_39fd8f15716f15c04cf185f921126ecb8aad6c9012545a3ce99a8928fc8b62e5"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement",
+      "id": "Theme_b53e869b761ff3b2e610c18e6c0fd53e10ad5d2a8ba8bf353be9d0f1148d8c43"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le réchauffement climatique",
+      "id": "Theme_87fcffeb0b095d638b1ce229a807c21b51759f54208553ace6ac1f29815655a0"
+    },
+    {
+      "type": "Theme",
+      "name": "droit des femmes",
+      "id": "Theme_d2da95d72d870a71011b6e862c995183e89c237e4427c4a6f625259d91caedf3"
+    },
+    {
+      "type": "City",
+      "name": "Pékin",
+      "id": "City_c33b28c48b13d634999d50013f1cdd989b8055c898dcd822f8e335c15db449dc"
+    },
+    {
+      "type": "Theme",
+      "name": "travailler",
+      "id": "Theme_d92b77bce6338e561131ff13992311aa6a1a1b0197dd9a772fe475834954fa84"
+    },
+    {
+      "type": "Theme",
+      "name": "échanger en amitié",
+      "id": "Theme_9c382283904f7eb0e29c9f617c4fa431542349e5e0aea010934f0e85bfc33dd8"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France a une forte présence économique : 250 entreprises, 70.000 emplois directs.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Monsieur le Président",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Monsieur le Président, votre visite à Paris, l'année du 170ème anniversaire de la mort du Général San Martín à Boulogne-sur-Mer, est symbolique",
+      "confidence": 1.0,
+      "source_id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    }
+  ]
+}

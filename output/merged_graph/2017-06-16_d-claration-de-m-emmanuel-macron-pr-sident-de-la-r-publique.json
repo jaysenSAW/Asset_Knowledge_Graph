@@ -1,0 +1,140 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Jüri RATAS",
+      "id": "Person_cddce41425cb1ebb889de7806b2efa27a76b62989b27f940ae8015efebc9f4ab"
+    },
+    {
+      "type": "Country",
+      "name": "Estonie",
+      "id": "Country_6ff0b5ecfc1dfa115390e0dbd3c73b3225e6b079de5c8428b3dad412d2b52103"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme",
+      "id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "type": "Theme",
+      "name": "climatique",
+      "id": "Theme_4abf026fe9ca32e0caff98a931369a221f531d982e6efa70c6c21719a6ce0a0d"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Law",
+      "name": "accord de Paris",
+      "id": "Law_cd8b0ed5bd6d7c10b803a393cbdcace05ca0db0f17b36ece29f3b3d3b07b6d15"
+    },
+    {
+      "type": "Theme",
+      "name": "développement numérique",
+      "id": "Theme_48111feaf5acea60189f9041b4646757fd787b5dcb5d4afbb0b9dd79d02f7c64"
+    },
+    {
+      "type": "Theme",
+      "name": "protection des données individuelles",
+      "id": "Theme_5fc9c589658c80366c2b35b8ebd554c0f1014387bbf1e0bc5760b1099dd5a771"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement dans le domaine du numérique",
+      "id": "Theme_2a8b081bb278db3646484ef0c05ec25289a9a33f1b7e40f11d8e58ca86084439"
+    },
+    {
+      "type": "Theme",
+      "name": "marché unique du numérique",
+      "id": "Theme_c40053f0a105e5ef143f88ba37d708bf31faa0d13ee288e4f481cbe9ce8bff0b"
+    },
+    {
+      "type": "City",
+      "name": "Tapa",
+      "id": "City_bfeb8640e94ecda756f06a186fdee8be7fac49d2b9fb6505ceffb81ebfb44ef4"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Theme",
+      "name": "protection",
+      "id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "politique numérique",
+      "id": "Theme_cc8ece08f1b0cd156269c7aee5daa44d8bff74284ed5dac16ea0a0bbbde26e59"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda européen",
+      "id": "Theme_a1765c9c8fbec256df379c869892c4b681263276a5da9fd3a4d00005091fdc3c"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "City",
+      "name": "Tallinn",
+      "id": "City_ed4874b35651ea9744d68c14b173e10188e06d6bcd4d244d019cdceeb23f7a45"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Estonie",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "l'Estonie ne s'apprête à prendre la présidence de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Country_6ff0b5ecfc1dfa115390e0dbd3c73b3225e6b079de5c8428b3dad412d2b52103",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    }
+  ]
+}

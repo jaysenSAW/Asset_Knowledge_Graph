@@ -1,0 +1,589 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Jacques",
+      "id": "Person_60b3e1fa7ad30179cd2f23cc62d45068b43f09cf38a4c8e12f03e256ba63d5cc"
+    },
+    {
+      "type": "Person",
+      "name": "Alexandre VIALATTE",
+      "id": "Person_c03597b925d3df43e24a34c462d0e424a46c9620a8a62f0f48400608b8375ed6"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Person",
+      "name": "Philosophe",
+      "id": "Person_1c43b853227f5df36ef32927682488313e30083f70fd6d02d0417b969cf22994"
+    },
+    {
+      "type": "Person",
+      "name": "Héros",
+      "id": "Person_5249cdb207015185b678feeb499e6036b3146130dcc92036b8994c423b22750a"
+    },
+    {
+      "type": "Person",
+      "name": "Ministre",
+      "id": "Person_3ffa6811c83c16bf59edf782cd334ba6a4263e78436004596c3f8ab18adabbc4"
+    },
+    {
+      "type": "Person",
+      "name": "Dirigeant",
+      "id": "Person_da03d864948ed10b27acb83ea25eef64d06130846719419cc031a3ad1318fc70"
+    },
+    {
+      "type": "Person",
+      "name": "Fonda La Montagne",
+      "id": "Person_ab31549fd890901a2e3b3f93152b8e28c9cfc3b0886dc89e1b121aa16c7d7321"
+    },
+    {
+      "type": "Organization",
+      "name": "La Montagne",
+      "id": "Organization_59ee03d0a85237fa5c31246b9045df258c14a27b6f098639b8af03858aa21182"
+    },
+    {
+      "type": "Organization",
+      "name": "groupe",
+      "id": "Organization_d509ff8379e986a0cbf6929030166183c4d55af367e9e173fe914065c792098e"
+    },
+    {
+      "type": "Organization",
+      "name": "journal",
+      "id": "Organization_09b986e7987abb2a00e3b63833579c923ebdd6d983d8d0e669d4cb59d9dc6d3e"
+    },
+    {
+      "type": "City",
+      "name": "Auvergne",
+      "id": "City_fb8fed7ae5e8282188d2724931d9dabd0e5664a049003cc9cff489453e5a434f"
+    },
+    {
+      "type": "City",
+      "name": "volcans",
+      "id": "City_187b23fac1bea90505f4473d88d506fd02a4fd26deed89dcc0ce1deb0e7964a0"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "fromages",
+      "id": "Theme_245446ba6c676c1786606c1a9ee53533e3e9af8b4eab6ccd90bdafd9e89a9f07"
+    },
+    {
+      "type": "Theme",
+      "name": "ministres",
+      "id": "Theme_99c79843f02471882700f3f38db0ed95a96a5bb8d72941641cc6074bda82cd66"
+    },
+    {
+      "type": "Theme",
+      "name": "penseurs",
+      "id": "Theme_0d07c99b0ca200ca66cfbe6bbefcc612a3068e337510ffb9b64117834f4c906e"
+    },
+    {
+      "type": "Theme",
+      "name": "présidents",
+      "id": "Theme_6163bad25156aa1b9b6775c05bfb0cf643406c386dc8259c7e75cf3493201fec"
+    },
+    {
+      "type": "Theme",
+      "name": "dirigeants",
+      "id": "Theme_927e3da009504678c8a05ad8e8c4354ff2bcd6463af1c7c66414c48a057deb48"
+    },
+    {
+      "type": "Theme",
+      "name": "philosophes",
+      "id": "Theme_611f46c014543807e3b4722d393fe819d1b4a0a12e67336f207924ff7f377c10"
+    },
+    {
+      "type": "Theme",
+      "name": "héros",
+      "id": "Theme_0f5935caf1166e6b3d77ffc4e03d1c4d714b2ad6a12eb3badbec3f242973fda5"
+    },
+    {
+      "type": "Theme",
+      "name": "auvergnats engagés",
+      "id": "Theme_f9de7bb36dd5f7710cf37b20234939fca1be5f5ff1e3a03429c07b474894fa0f"
+    },
+    {
+      "type": "Person",
+      "name": "Alexandre VARENNE",
+      "id": "Person_551e935402377b3ecee758b8454260ceaa7ec525ab44139a70b247fd62f7d4e3"
+    },
+    {
+      "type": "City",
+      "name": "Puy-de-Dôme",
+      "id": "City_8e93ff2e1d5176b344d9bbd403b9fb159012890a4ce1d615b6861d828469733b"
+    },
+    {
+      "type": "Country",
+      "name": "Indochine",
+      "id": "Country_b563c1bdcc9e250dee0e534936974e57a1b2090fb156c126a8e5fa1679302936"
+    },
+    {
+      "type": "Person",
+      "name": "Varenne",
+      "id": "Person_e9b5c3358b51b3005f442c33f1dc90b6dd4afa566c90ec32961b7a2dd75041f8"
+    },
+    {
+      "type": "Theme",
+      "name": "émancipation féminine",
+      "id": "Theme_13724bb7baed925c39a4d74be2c03c443ec304b0b21d66290ffa86fc23eb805d"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie socialiste du centre",
+      "id": "Theme_61977628f1098406f9a021d28c9ee441e6f66f28c02cd3cb8f884d7de47a282b"
+    },
+    {
+      "type": "Theme",
+      "name": "Front populaire",
+      "id": "Theme_348d2f22aa6bd7fea936a7c22070ce96aefb507ef3ad65940eb985c150d36031"
+    },
+    {
+      "type": "City",
+      "name": "La Montagne",
+      "id": "City_1017cea50bb7310f6426a9827b1f6acd91f861dafe3bdd1535600052a5f2ff23"
+    },
+    {
+      "type": "City",
+      "name": "Limousin",
+      "id": "City_7a55ac81164bfea48e66d54d027920dcf8ab8653fe4c4fe05e44e453a3d6488d"
+    },
+    {
+      "type": "Theme",
+      "name": "fierté régionale",
+      "id": "Theme_1d3e6c013e823b5b0d155e0a8ad1492bb408d7926aa40128c731f3fdffa54b69"
+    },
+    {
+      "type": "Theme",
+      "name": "grand tout national",
+      "id": "Theme_b4118c822e85dc1ab731dd57906fea97005a5311190d0525b18c8f1fd9f2cd6b"
+    },
+    {
+      "type": "Theme",
+      "name": "houle du XXe siècle",
+      "id": "Theme_7220d9e9e3fc4e98929dbd07d8071bb8f5bdc035d5a5e7a8fe0aa0b84a92da01"
+    },
+    {
+      "type": "Theme",
+      "name": "tempêtes de vent ou de haine",
+      "id": "Theme_f5c260216b9bde24c27eaef3927b78a54339bacff2321592b01b2920ab17ecaa"
+    },
+    {
+      "type": "Theme",
+      "name": "rafales de 1999",
+      "id": "Theme_abb5ffd7ee678967571644a003c6d2d6388e001430286c5caffd53396db7df9c"
+    },
+    {
+      "type": "Theme",
+      "name": "forêts de la Creuse",
+      "id": "Theme_a5663dd8659660091e90c7a1678e12b8417fa0930962eea4c087717a6f7bc0ff"
+    },
+    {
+      "type": "Theme",
+      "name": "montée des totalitarismes",
+      "id": "Theme_bdbe2993f9447e5652581f0a7b3398cab34154dcf8449a5f67de858daa3bdd2e"
+    },
+    {
+      "type": "Theme",
+      "name": "attention au local",
+      "id": "Theme_835eb894ee70d5f70f1897e1aa80a352a63bcc7c897a5dcd9c2d0c4125451741"
+    },
+    {
+      "type": "Theme",
+      "name": "manifestations étudiantes à Clermont",
+      "id": "Theme_b4d8f138f8f7fbf17aba1a6e32ace6beb42843929cb56f4431564e2f69edc538"
+    },
+    {
+      "type": "Theme",
+      "name": "assassinat de Martin Luther KING",
+      "id": "Theme_8b13b68c92d81def9e44990a90be2486096237667a339e31a5a79676f767a647"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir-faire de vos entreprises",
+      "id": "Theme_671cbcc08de2ea081a760a04670a18fb9698e2f68c8c7b4eb1b2cb9e0a619704"
+    },
+    {
+      "type": "Theme",
+      "name": "eaux Evian",
+      "id": "Theme_97c62f095efeaee896a409d12bdb59f0d0bc89c22ac7f46a96f6065ceae33d39"
+    },
+    {
+      "type": "Theme",
+      "name": "pneumatiques Michelin",
+      "id": "Theme_358b2a44bbaa174259e31f9e907e967f5d6615d11a31ef64c30e32310dc38556"
+    },
+    {
+      "type": "City",
+      "name": "Clermont",
+      "id": "City_e702a930d3802f09aba1d683e2901f3d0e2d1cadcae15fb876b7c96d2d4e4fa3"
+    },
+    {
+      "type": "City",
+      "name": "Clermont-Ferrand",
+      "id": "City_f7e1868b65e1e628ccdc9697306c1d6685f6782406f61319c323032f5f946cc2"
+    },
+    {
+      "type": "Organization",
+      "name": "eaux Evian",
+      "id": "Organization_b15b14c83196100570076cbbb515eed0c754686c53a28fc4e3182ab22138a867"
+    },
+    {
+      "type": "Organization",
+      "name": "pneumatiques Michelin",
+      "id": "Organization_9cf250fbff5770fb1f509b627b72fe89a4d739f3846999eb81baa3c97ffc12f4"
+    },
+    {
+      "type": "Organization",
+      "name": "Casimir",
+      "id": "Organization_f752283481a35f6bb72b7e946280302c057e365e1d8e37fe6dd1a5fab294aefb"
+    },
+    {
+      "type": "Organization",
+      "name": "pôle de recherche technologique Casimir",
+      "id": "Organization_526087d66cb2c6921cf73dc60dc3c4b19576ecdced55401fc61236ac11a404b5"
+    },
+    {
+      "type": "Organization",
+      "name": "premier centre de recherche en nutrition humaine à Clermont-Ferrand",
+      "id": "Organization_31daa721c7adcd8f0a5c5feb29485c5173c2c4e71bd6a38250adb1033ea46c15"
+    },
+    {
+      "type": "Organization",
+      "name": "universités clermontoises",
+      "id": "Organization_fee64eb32b21a8651182cfe01998f2d07db9e8763e55605f4b905dc050ace468"
+    },
+    {
+      "type": "Organization",
+      "name": "musée des Beaux-Arts de Clermont",
+      "id": "Organization_9cde01366c7b29b78824d518ab6974884efcca52f4dc91c699955525119b9efe"
+    },
+    {
+      "type": "Organization",
+      "name": "centre national du costume du moulin",
+      "id": "Organization_a77fa4266092da530a985e3ece82ad3e82724a1a6047566e686ae2a14b45d992"
+    },
+    {
+      "type": "Organization",
+      "name": "pique-nique de la méridienne verte",
+      "id": "Organization_ca2764706aac5d7b5c90af1755415eaca91b57fd20eb8088d0f2532b445763d8"
+    },
+    {
+      "type": "Organization",
+      "name": "aérogare à Clermont-Auvergne",
+      "id": "Organization_18ef1f8a7501a589fe85e7e2fbd00d1e83c16886f849724868aa4e5bac459c91"
+    },
+    {
+      "type": "Organization",
+      "name": "centre scientifique et pédagogique Européen nommé Vulcania",
+      "id": "Organization_bf84dc3655ac3c6d9bf1b547778262a72a14f9603ca3e6e9e2af8a92a2a43bc7"
+    },
+    {
+      "type": "City",
+      "name": "Aurillac",
+      "id": "City_4acede9bdd1f032a95593fe48c315f28e15d5b27af085f1eb8a6dc2adf965306"
+    },
+    {
+      "type": "City",
+      "name": "Tulle",
+      "id": "City_4cf5ef6f4748be547af8474c58c3d5458bf9d645b6636a9aa4cb66b6300516d2"
+    },
+    {
+      "type": "City",
+      "name": "Puy-en-Velay",
+      "id": "City_405b8dd39fd97b042d69d2771a21604a380816615b0a5dfa4bb3cedd045e1b40"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Marion BARTOLI",
+      "id": "Person_8988012032bf0b10eb043aa32114a43bd85d2dcf6d4fcf58ee43a38be4c1113d"
+    },
+    {
+      "type": "Organization",
+      "name": "Del",
+      "id": "Organization_5936a2dc686d94320a0b03e2e3a5ea4f399e4b61f61a8a20a8221a400de052e6"
+    },
+    {
+      "type": "Organization",
+      "name": "Tour de France",
+      "id": "Organization_f41bc6dc85c1e16bc7a35fbeaf7fa2fbc5a9fce474c6c17891633e7efd7ee8f8"
+    },
+    {
+      "type": "Organization",
+      "name": "Club athlétique Brive",
+      "id": "Organization_565f04dd27a0528c56992d1b6f7e881481661c216c474f42229df0557b12151f"
+    },
+    {
+      "type": "Organization",
+      "name": "Clermont",
+      "id": "Organization_5080f6d93c6f54b49c7324cc4ff6a859d5559a86f46c050a90f69c85664aca41"
+    },
+    {
+      "type": "Organization",
+      "name": "Montagne",
+      "id": "Organization_10963485101e1b625aec8e1687bf8e2c833f0d2d9ac4fe7f550e34513eda9a09"
+    },
+    {
+      "type": "City",
+      "name": "De Clermont",
+      "id": "City_3605f522e127af6346d6399316f6b9085045d22bf977988fe06c19b54fdd8e8d"
+    },
+    {
+      "type": "Organization",
+      "name": "Centre France",
+      "id": "Organization_1d2ccf6e6ef58c8a5a9dea34e6450d233fd25e388bd9f48161ffb62487479e8f"
+    },
+    {
+      "type": "Person",
+      "name": "Balint",
+      "id": "Person_ef79a481cf60fd1fa5623b0ec05542b7407cb4565d3288bbfd758bd41cf89f8d"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "repères",
+      "id": "Theme_88c1e9811be81e89b80441b58aaef8c9721848b2b09f24632c41f0beb5afe0e0"
+    },
+    {
+      "type": "Theme",
+      "name": "rituels",
+      "id": "Theme_41ddfcfa6bc1a4b8df0b65e06917460bb9f8140ce398d3d0a9973c10484edf35"
+    },
+    {
+      "type": "Theme",
+      "name": "temps régulier",
+      "id": "Theme_fdb5e81fd631e709b35fb9ec8fd857dbbe85889519e9a2208924c7f7fb033b6a"
+    },
+    {
+      "type": "Theme",
+      "name": "réflexions",
+      "id": "Theme_5a37d817100ecf05e4ec68acbfb42bae54ac006d1d3f60228d68e05856e2467b"
+    },
+    {
+      "type": "Theme",
+      "name": "relais de confiance",
+      "id": "Theme_f9229e2f49a3c0ce3fe8a5d033e9203c0ac82a59458aafc77c51f7b9840b8fbf"
+    },
+    {
+      "type": "Theme",
+      "name": "groupe Centre France",
+      "id": "Theme_7337318ed1dd130c63db953052f09ece75e529483b7a570ed053130516f62436"
+    },
+    {
+      "type": "Theme",
+      "name": "presse quotidienne régionale",
+      "id": "Theme_f750655e60dccd04d44d91f53ff412c856a4eb656981d51325cee1394e36c0d6"
+    },
+    {
+      "type": "Theme",
+      "name": "changements technologiques",
+      "id": "Theme_e57c84a3e8befff4027de97c32146dc56b8f82dc9548c8e2a450f16826f7537a"
+    },
+    {
+      "type": "Theme",
+      "name": "changements d'usage",
+      "id": "Theme_1f1382d6888d1f10a7c1dadb45261221cfc445acebeff1230a6ed36aa855629e"
+    },
+    {
+      "type": "Theme",
+      "name": "expliquer le monde",
+      "id": "Theme_9c114e630b414c10c14dd915cda0fe11a47a7a2b151000aad6a1164dcf7715b3"
+    },
+    {
+      "type": "Theme",
+      "name": "démêler le vrai du faux",
+      "id": "Theme_b4c18ac28a91880c76bf0ebf4425693c8227265a1c5d6e00e9bb96bed4905484"
+    },
+    {
+      "type": "Theme",
+      "name": "se forger une opinion libre",
+      "id": "Theme_125edfebcd8af7666b7d5c6b3f3a16b3920707753dbea8ba44559972b020ecf5"
+    },
+    {
+      "type": "Theme",
+      "name": "donner des avis et des opinions",
+      "id": "Theme_71f01f73f8d5a8deb9105ae3880492aeee7b8497bc4170919b6817bc3877f5f5"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance dans La Montagne",
+      "id": "Theme_051f76d01433a5d95240da3d19c0433292cc9e391a6e091897a7c4cc3b712dfc"
+    },
+    {
+      "type": "Theme",
+      "name": "trésor",
+      "id": "Theme_58690f2e88dfb661beeaada0b9accf9d1b0dfe955396977231de40076a945d40"
+    },
+    {
+      "type": "Theme",
+      "name": "invention du nouveau modèle",
+      "id": "Theme_a654d51455de7556cd743e505c25a4b1b070c69686a90fa9de5a24f083202726"
+    },
+    {
+      "type": "Theme",
+      "name": "anniversaire",
+      "id": "Theme_98c4a040b6fd21d30f9976cf815348eeec954e96b50f0410476757719be815c6"
+    },
+    {
+      "type": "Theme",
+      "name": "humanité meilleure",
+      "id": "Theme_d4a8e321dae6241b1617845e39bffd2582f78d5bb055afcb5ad48272aa2812ef"
+    },
+    {
+      "type": "Theme",
+      "name": "servitudes",
+      "id": "Theme_ec094e22891871dcef77a167a62fee1e8ba4a36680c4a6130e9c24130f096107"
+    },
+    {
+      "type": "Theme",
+      "name": "rêveurs",
+      "id": "Theme_093e5066e3956a0900910d418eef2313dad9edafa4c88b5973adf1c1b13aec7e"
+    },
+    {
+      "type": "Theme",
+      "name": "enracinement",
+      "id": "Theme_36bb3b3bfc7bbe5617b40b39d9424d4b3b7699c0bb04153f4b6623078bc1bcd3"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "terre",
+      "id": "Theme_610b967595303d2797db71efcb3800f66d09507425374d4f0c040b3531da9c4c"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "passion d'être là",
+      "id": "Theme_e37849f54d2a6abac49ed83c0d48f4ed0f1b7bb6034c1267408c19ca6969e182"
+    },
+    {
+      "type": "Theme",
+      "name": "passion de l'universel",
+      "id": "Theme_d9fe2844106874cf2a5ef6f5e925fecd715fc8e432c5008f28f0bd111661b850"
+    },
+    {
+      "type": "Theme",
+      "name": "idéal",
+      "id": "Theme_fcfded8ee4c54886bd16ddfd24ddea17d6d07742369b349743d6d14431030d53"
+    },
+    {
+      "type": "Theme",
+      "name": "montagne",
+      "id": "Theme_1299cd919a4ebbc5e72318a3905b7cfa30ec44fd140e730c497702e5e9bd2a1c"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "La Montagne",
+      "relation": "SUPPORTS",
+      "target": "Front populaire",
+      "evidence": "s'intitulant même dans les années 30 la Montagne du Front populaire",
+      "confidence": 1.0,
+      "source_id": "City_1017cea50bb7310f6426a9827b1f6acd91f861dafe3bdd1535600052a5f2ff23",
+      "target_id": "Theme_348d2f22aa6bd7fea936a7c22070ce96aefb507ef3ad65940eb985c150d36031"
+    },
+    {
+      "source": "eaux Evian",
+      "relation": "MENTIONS",
+      "target": "eaux Evian",
+      "evidence": ". Vous avez, durant toutes ces décennies, exalté les savoir-faire de vos entreprises, les eaux Evian,",
+      "confidence": 1.0,
+      "source_id": "Organization_b15b14c83196100570076cbbb515eed0c754686c53a28fc4e3182ab22138a867",
+      "target_id": "Organization_b15b14c83196100570076cbbb515eed0c754686c53a28fc4e3182ab22138a867"
+    },
+    {
+      "source": "pneumatiques Michelin",
+      "relation": "MENTIONS",
+      "target": "pneumatiques Michelin",
+      "evidence": ". Vous avez, durant toutes ces décennies, exalté les savoir-faire de vos entreprises, les eaux Evian, les pneumatiques Michelin.",
+      "confidence": 1.0,
+      "source_id": "Organization_9cf250fbff5770fb1f509b627b72fe89a4d739f3846999eb81baa3c97ffc12f4",
+      "target_id": "Organization_9cf250fbff5770fb1f509b627b72fe89a4d739f3846999eb81baa3c97ffc12f4"
+    },
+    {
+      "source": "Clermont",
+      "relation": "LOCATED_IN",
+      "target": "Clermont-Ferrand",
+      "evidence": "la naissance du pôle de recherche technologique Casimir en 1985, celle du premier centre de recherche en nutrition humaine à Clermont-Ferrand en 1993.",
+      "confidence": 1.0,
+      "source_id": "Organization_5080f6d93c6f54b49c7324cc4ff6a859d5559a86f46c050a90f69c85664aca41",
+      "target_id": "City_f7e1868b65e1e628ccdc9697306c1d6685f6782406f61319c323032f5f946cc2"
+    },
+    {
+      "source": "Clermont",
+      "relation": "VISITED",
+      "target": "Clermont-Ferrand",
+      "evidence": "la naissance du pôle de recherche technologique Casimir en 1985, celle du premier centre de recherche en nutrition humaine à Clermont-Ferrand en 1993.",
+      "confidence": 1.0,
+      "source_id": "Organization_5080f6d93c6f54b49c7324cc4ff6a859d5559a86f46c050a90f69c85664aca41",
+      "target_id": "City_f7e1868b65e1e628ccdc9697306c1d6685f6782406f61319c323032f5f946cc2"
+    },
+    {
+      "source": "Clermont",
+      "relation": "LOCATED_IN",
+      "target": "Clermont",
+      "evidence": "l'ouverture du musée des Beaux-Arts de Clermont en 1992, du centre national du costume du moulin en 2006, l'incroyable pique-nique de la méridienne verte en 2000, l'ouverture d'une aérogare à Clermont-Auvergne la même année, la construction titanesque d'un centre scientifique et pédagogique Européen nommé Vulcania en 2002.",
+      "confidence": 1.0,
+      "source_id": "Organization_5080f6d93c6f54b49c7324cc4ff6a859d5559a86f46c050a90f69c85664aca41",
+      "target_id": "Organization_5080f6d93c6f54b49c7324cc4ff6a859d5559a86f46c050a90f69c85664aca41"
+    },
+    {
+      "source": "Tour de France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "le passage de coureur du tour de France",
+      "confidence": 1.0,
+      "source_id": "Organization_f41bc6dc85c1e16bc7a35fbeaf7fa2fbc5a9fce474c6c17891633e7efd7ee8f8",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    }
+  ]
+}

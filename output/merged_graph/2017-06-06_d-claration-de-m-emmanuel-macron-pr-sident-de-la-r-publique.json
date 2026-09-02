@@ -1,0 +1,126 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Boïko BORISSOV",
+      "id": "Person_c49f922c0b6bf1fb1cb277ef9b1605b78de3498a447db4399fa0c9e7171d11a9"
+    },
+    {
+      "type": "Country",
+      "name": "Bulgarie",
+      "id": "Country_92f4a9de31288a5a45f1f28b278d37433e266b282751018452c68f08ef526f16"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Berlin",
+      "id": "City_b99770cd89b8870c4e168b4e52a8f787b64a4a2fc9ef992bf093af11c7e6a055"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de l'Union européenne",
+      "id": "Organization_0f747165c9521ca8f0bd2bc016ae4f2fc3c2e5412c2fd372afe073d26a89b3c4"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations",
+      "id": "Theme_cac93d346afb10556cd477074f8fd5e7de6a6b6e234704cdc92ccd1aae71876c"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence sociale",
+      "id": "Theme_8d60cc5445874d608df93ea4dc8cb70aeb6db16989e83b7f373bd0c516507e89"
+    },
+    {
+      "type": "Theme",
+      "name": "travail détaché",
+      "id": "Theme_9c3190d5fbfa16e0eca20e42c2467489b00f6bf31f79855f3c0d5296139210fb"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "BORISSOV",
+      "id": "Person_38a3f53029cec5e076a961ae32df3db4bbe57c33ba00df79017d0a9ea5a42739"
+    },
+    {
+      "type": "Theme",
+      "name": "plus grande intégration européenne",
+      "id": "Theme_ae585f893172010f7eed915c5e4d875bd8b9511c6223063cd1476469ec8e95eb"
+    },
+    {
+      "type": "Person",
+      "name": "Boïko",
+      "id": "Person_b7f879a8cb53941cfb347cc694cd2942494b9d6ece6f6bc81ba8385880b20ed9"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Boïko BORISSOV",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Boïko BORISSOV de sa visite aujourd'hui à Paris",
+      "confidence": 1.0,
+      "source_id": "Person_c49f922c0b6bf1fb1cb277ef9b1605b78de3498a447db4399fa0c9e7171d11a9",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "Boïko BORISSOV",
+      "relation": "MEMBER_OF",
+      "target": "Bulgarie",
+      "evidence": "Monsieur le Premier ministre de Bulgarie Boïko BORISSOV",
+      "confidence": 1.0,
+      "source_id": "Person_c49f922c0b6bf1fb1cb277ef9b1605b78de3498a447db4399fa0c9e7171d11a9",
+      "target_id": "Country_92f4a9de31288a5a45f1f28b278d37433e266b282751018452c68f08ef526f16"
+    },
+    {
+      "source": "Bulgarie",
+      "relation": "LOCATED_IN",
+      "target": "Conseil de l'Union européenne",
+      "evidence": "La Bulgarie présidera le Conseil de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Country_92f4a9de31288a5a45f1f28b278d37433e266b282751018452c68f08ef526f16",
+      "target_id": "Organization_0f747165c9521ca8f0bd2bc016ae4f2fc3c2e5412c2fd372afe073d26a89b3c4"
+    },
+    {
+      "source": "Conseil de l'Union européenne",
+      "relation": "ALLIED_WITH",
+      "target": "Bulgarie",
+      "evidence": "La Bulgarie présidera le Conseil de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Organization_0f747165c9521ca8f0bd2bc016ae4f2fc3c2e5412c2fd372afe073d26a89b3c4",
+      "target_id": "Country_92f4a9de31288a5a45f1f28b278d37433e266b282751018452c68f08ef526f16"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "BORISSOV",
+      "evidence": "j'ai noté le vrai volontarisme européen porté par le Premier ministre BORISSOV, je m'en réjouis, et je veux vraiment lui redire ici que la France, à chaque fois que les efforts concrets sont faits, sera aux côtés de ceux qui les portent et c'est son cas.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Person_38a3f53029cec5e076a961ae32df3db4bbe57c33ba00df79017d0a9ea5a42739"
+    }
+  ]
+}

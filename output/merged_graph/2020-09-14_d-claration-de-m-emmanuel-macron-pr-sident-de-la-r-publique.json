@@ -1,0 +1,814 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame",
+      "id": "Person_6ace0972a12e8e17957064d9f2ab5c314f0de15e6db0c156bc4d6af16f1e6022"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Person",
+      "name": "mesdames",
+      "id": "Person_902acab7ae062adc10320743d44fdc1ffa5eaa234e19e777cfff0f7a794e845f"
+    },
+    {
+      "type": "Person",
+      "name": "messieurs les parlementaires",
+      "id": "Person_9721d90198df552b1c882b8e3717fc4e60d77853de2fc40ce1560ac0113ff824"
+    },
+    {
+      "type": "Person",
+      "name": "madame la présidente de la CNIL",
+      "id": "Person_fa449b71f393a9e1f09569f8b4f91d5db25cba2df7beb3091a0ab6fcd9e4fdd8"
+    },
+    {
+      "type": "Person",
+      "name": "messieurs les directeurs généraux",
+      "id": "Person_1a06c136884f7ddd0ec256ea3f76237c36f2c87a148e7ba821ea34d892be0932"
+    },
+    {
+      "type": "Person",
+      "name": "chers amis",
+      "id": "Person_ea6752ea13b7e38cb244013342b4e04afa9dd5dcbf74d7e84b37acdece219eb9"
+    },
+    {
+      "type": "Person",
+      "name": "le secrétaire d’État au numérique",
+      "id": "Person_2107f1342fb411748a9c7113e055ce72e143b0da4018067a3933c837908ec99f"
+    },
+    {
+      "type": "Organization",
+      "name": "Tech in France",
+      "id": "Organization_438838de467ca590da3a78a9a2a6f03e6ae481dcb8e5f0463dce71fc5de3e4cd"
+    },
+    {
+      "type": "Organization",
+      "name": "France Digitale",
+      "id": "Organization_501150ba650b130ce149f33a9b44afa88f099405b9319e1534feb2be99c14f11"
+    },
+    {
+      "type": "Organization",
+      "name": "Syntec Numérique",
+      "id": "Organization_1f0f681159cded52ab5a2ce00d6434e0460f6a0dcc593a260fe072f1ec6c01d5"
+    },
+    {
+      "type": "Organization",
+      "name": "Bpifrance",
+      "id": "Organization_a9ccdc3b7703f243a8222d62576aea819b2390487b9cbaf2500a76a84e916f9b"
+    },
+    {
+      "type": "Organization",
+      "name": "Station F",
+      "id": "Organization_f71e4adf8e99a4f7949dec4b25d916222a73e2c21b58f83eb488c81b6d15800b"
+    },
+    {
+      "type": "Country",
+      "name": "Britanniques",
+      "id": "Country_2b303b326941cb94a150f8b43c140a0dbdb1ed904a9e55869de5327035e618ec"
+    },
+    {
+      "type": "Person",
+      "name": "Alexandre",
+      "id": "Person_003dfa70ed5f8e507780a422ceaf6c1361fe82ea82c792ace6ad3aa2225d4b8f"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Tibi",
+      "id": "Organization_5de88cd83886052293a8aa1f7159d5bcfd0d0df7e885d9b8426b99f8185f5a7f"
+    },
+    {
+      "type": "Theme",
+      "name": "financement",
+      "id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941"
+    },
+    {
+      "type": "City",
+      "name": "Shanghai",
+      "id": "City_1c69547961fb5f027655eaa1583e9c736a388752921f6ea9540cf7bc2079ec4e"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Organization",
+      "name": "CNIL",
+      "id": "Organization_c7cb2aa4ec0c370a7e2d4f1bb0211702eaad9ae0865cfd56c31373c435100c07"
+    },
+    {
+      "type": "Organization",
+      "name": "ACPR",
+      "id": "Organization_e571b0bd039d67bc90206e74a496bd175af074c464dac1da5d34168105c10756"
+    },
+    {
+      "type": "Organization",
+      "name": "Urssaf",
+      "id": "Organization_c434d7417f1ce2ad705ce17adf4a5f696d1d5af06043226b251919924cc6ed29"
+    },
+    {
+      "type": "Organization",
+      "name": "ANSSI",
+      "id": "Organization_f275645e4b6a72c901b9b34e24389b9e4d1b45a7eb60e955f7839796bb1eb476"
+    },
+    {
+      "type": "Theme",
+      "name": "cybersécurité",
+      "id": "Theme_7a7cca556d551b9b5266cdc687341603275f2a9d8ba680e9e25daeeddb894a52"
+    },
+    {
+      "type": "Theme",
+      "name": "crise du Covid",
+      "id": "Theme_e4ba75f8ee9fe72bcb2203fca23de40cb366d2d93f298839ed71afe1697b21ec"
+    },
+    {
+      "type": "Theme",
+      "name": "cyber",
+      "id": "Theme_6d4b4cf5c01dbbfbabd221911582a4deb29e1930ad8a912a311cb93cdc0f53ea"
+    },
+    {
+      "type": "Theme",
+      "name": "flat tax",
+      "id": "Theme_22efb8a026059e6a8c3802473cb1e8fe99f5bd20c1ba288c00fdc18cd131a795"
+    },
+    {
+      "type": "Theme",
+      "name": "ISF",
+      "id": "Theme_02f96f3f820f172a8e4b7c4c5c712fa85c8d6b6084e99325253e1e7cabfd5431"
+    },
+    {
+      "type": "Theme",
+      "name": "crédit impôt recherche",
+      "id": "Theme_7702a8aface81d8509192cdef5465caa7193c4cb401261fda0bb3e0709a3a223"
+    },
+    {
+      "type": "Theme",
+      "name": "visas French Tech",
+      "id": "Theme_b6e7769caec36afe2fd7322d9dcdb5e6af9428dca1d625b54574b5c90b772aab"
+    },
+    {
+      "type": "Person",
+      "name": "l'entrepreneur",
+      "id": "Person_bcc0dea2cabad6bbe6eb0b4c7399f5fe818aa09620e95768cf021620f7d13007"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "résilience",
+      "id": "Theme_ae0698b8a130cd1cd5df43fe5e3e189eb0c16712f2fa72aeeed81640c8d2a14e"
+    },
+    {
+      "type": "Theme",
+      "name": "aides",
+      "id": "Theme_f673ca2ad1960d23d7119cd7a45c05f6f941afdc13c0433e02d9a958d356a94c"
+    },
+    {
+      "type": "Theme",
+      "name": "ADN",
+      "id": "Theme_087205ceac5a3e01501777ebb5755f159888dbbe9f2d997f551f2a5195d42a95"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "valorisations",
+      "id": "Theme_d8759bebe12e66f8d60d8080b8e41c1ce4d2b6a378271ad369db3e53482fe883"
+    },
+    {
+      "type": "Theme",
+      "name": "grands groupes internet",
+      "id": "Theme_5d3873788b05e7daa2e8156a0224a5e1f1a95ef743f2f5f3bfa97681b129864a"
+    },
+    {
+      "type": "Theme",
+      "name": "interagir physiquement",
+      "id": "Theme_35e08e0b885369899c4c0188cfd236c20c1dab869c2711c17da9cd6f9a850600"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers de convivialité",
+      "id": "Theme_5331182dc373747ae3cf54abeb1ea70bebf87ad5dd040b2eff6348fd053058af"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Person",
+      "name": "Bruno Le Maire",
+      "id": "Person_00d8802f577f3cfb76c29189758ca34af91e94a838693eb226c3c26eabeaa160"
+    },
+    {
+      "type": "Theme",
+      "name": "crise exogène",
+      "id": "Theme_bb4a056b694da40895154bb3ba2c1d18becc832e8af470c99e5fb12c9f5b1539"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de l'Économie et des Finances",
+      "id": "Organization_fec57f79c99b1c57c3c46c975b9baf29090a6e082cf239eab7c3dfe0ab5b3fb3"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaire d'État",
+      "id": "Organization_0a422eda600058e03642ed8ddbbeeef00a57afbe37b078cc1c814f51a7af9c90"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement dans l'avenir",
+      "id": "Theme_62f5bdfaf28029692184a395c0b037cad235b78b05355dbaf9c5536b1b976b0d"
+    },
+    {
+      "type": "Theme",
+      "name": "France relance",
+      "id": "Theme_ec0158e5109b8add672fac070f24646c4f40b743c1d5f3885b8962093e770532"
+    },
+    {
+      "type": "Theme",
+      "name": "réussir",
+      "id": "Theme_582d9c66c36dc775de8304e5492049598a3fe01bd345b0622f3f4e655cc62163"
+    },
+    {
+      "type": "Theme",
+      "name": "réinventer collectivement",
+      "id": "Theme_35ec3a61bda11aafdd162a065b317fb37beb64eab0d41a27b044701eede4713a"
+    },
+    {
+      "type": "Theme",
+      "name": "transitions",
+      "id": "Theme_aa3ee347ba6c5f4d2bb55dfd18c3c5c4bda473e86ea842a97281720181e7e101"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène",
+      "id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "disruption des modèles traditionnels",
+      "id": "Theme_9d94567ff3dca08aee6fe153ea16ab2ff962be81c73f0c729db373794d0f9254"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "inclusivité",
+      "id": "Theme_0b4c6511bcab556a39d7d22de2c520940c0c921a62d047421af3f24219c6b5e6"
+    },
+    {
+      "type": "Theme",
+      "name": "développement",
+      "id": "Theme_9f563f6fb56281bb29449c280e882333dd332f1e1e2aa5ff1e49c8654dc6f9a4"
+    },
+    {
+      "type": "Theme",
+      "name": "performances",
+      "id": "Theme_dea8031cf40609fb29f4e889aebc68e11dafb5407991d9c135ee342778bc89d8"
+    },
+    {
+      "type": "Theme",
+      "name": "Transformation",
+      "id": "Theme_20f02849c6d3fef1e0f7fdcc6fcd9d5a1930a7b08f24aabfc14521d8b9ed907d"
+    },
+    {
+      "type": "Theme",
+      "name": "Quantique",
+      "id": "Theme_a55a5e9c04e9e49c2efc55c9c97fdcdd3149041e81aa26bd45766547b9155e23"
+    },
+    {
+      "type": "Theme",
+      "name": "Intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "après Covid",
+      "id": "Theme_8f1eee643e9b7ad0a30b9de06d42d5b158f443ca3ab5c43669ef6707c8c0ac04"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle français",
+      "id": "Theme_0d3df02cd334d3c2b7591afc6b2dc4a0c2077c25f0583a1e1a515af6d2552441"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité réglementaire",
+      "id": "Theme_c8d3b8ff45d0f93b75fdcdb001e92758d0817ecc8c010d0b618ac9eea2f95aeb"
+    },
+    {
+      "type": "Theme",
+      "name": "expérimentation",
+      "id": "Theme_650d8add293f690fe2511266e14f30591af865c47ebc0d119cb8aee1de32f6b0"
+    },
+    {
+      "type": "Theme",
+      "name": "régulation",
+      "id": "Theme_f70cb43189b106bcacace57211968518d9307936128cf563ad9dbd98617b47cf"
+    },
+    {
+      "type": "Theme",
+      "name": "vitesse réglementaire",
+      "id": "Theme_3b954f056d9cdad5b651afd0e54f172745c2807384eabb1422d04938b23b3845"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "5G",
+      "id": "Theme_47152ec4fdb1e969992c2378861e2673bb6d49339b0f5a5b037d241db358a595"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle social historique",
+      "id": "Theme_8d66854c67c0cb2d59e2db2a9ba4b67c944a5ad2b173930a6a6c3946366caaab"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité des talents",
+      "id": "Theme_8e7c39a100f9dd81d4febeeb7fd48c0b48a2957a599ccb72334a519d7ba4b471"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle éducatif et social",
+      "id": "Theme_9d6d8b416842660ca0d9024bc226bcea1d2d29646a981330ca6aa387509a73c2"
+    },
+    {
+      "type": "Theme",
+      "name": "accord de Paris",
+      "id": "Theme_152a851eb1dbb7769682151519941e34f537ce302d4e0686a44e31473c8febaf"
+    },
+    {
+      "type": "Theme",
+      "name": "transition climatique",
+      "id": "Theme_e75feae75fc3fc33a1090e46506e630bfc0c68d201d672aba551e5a19141a63a"
+    },
+    {
+      "type": "Theme",
+      "name": "plan d'investissement",
+      "id": "Theme_7ad869b784afce0ffa6a94119832fe04de2f0bcb09767ba1b9ae431a9e8b9115"
+    },
+    {
+      "type": "Theme",
+      "name": "talents",
+      "id": "Theme_3b7a6c56442c49486f7601fa3bced61cced2f4aadaf5f134fda32ff8e738503d"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence des gens",
+      "id": "Theme_3afac067ec8ddd1d150fa3290abf6f639dd9ff2a8360301dd40aecb0f019aebf"
+    },
+    {
+      "type": "Theme",
+      "name": "financeurs",
+      "id": "Theme_31f5d2b3994437b7da2de6ace69728332cfcf9582df5fedde2fe6eb5d0fac965"
+    },
+    {
+      "type": "Theme",
+      "name": "acteurs",
+      "id": "Theme_53a318a8043110a96b14e681ff8f5b2f012d67e849fc5f4e0ee03c733b064e75"
+    },
+    {
+      "type": "Theme",
+      "name": "secteurs",
+      "id": "Theme_bbeae9db215032ed52b93ab56c0df6e05e5a413df7b125b1bde0fb86968f3b4b"
+    },
+    {
+      "type": "Theme",
+      "name": "chinois",
+      "id": "Theme_9cf58ce7c87ee993a900a577d65485f5dbe104962e16b967e3f315748527f2b1"
+    },
+    {
+      "type": "Theme",
+      "name": "américain",
+      "id": "Theme_eac465de334e8d5b332f155dde00890fab9829f2222fabe160d3cf26aac756e2"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité femmes-hommes",
+      "id": "Theme_b1412bfc5fe321352e19c1089b6777bc07a0d41d11ab4e4379792d47c6d6ee06"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le réchauffement climatique",
+      "id": "Theme_87fcffeb0b095d638b1ce229a807c21b51759f54208553ace6ac1f29815655a0"
+    },
+    {
+      "type": "Theme",
+      "name": "socialisme",
+      "id": "Theme_4a1cb29070ef02519afc8ec1cb5f526e1e0515a6bf9c4d8e6bbec6428261cc68"
+    },
+    {
+      "type": "Country",
+      "name": "République",
+      "id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité sociale et environnementale",
+      "id": "Theme_f7f9a8ae3b86097cc5095082f0df803dc0fc6103c7d12f78fe8addf8117c59d6"
+    },
+    {
+      "type": "Theme",
+      "name": "French Tech",
+      "id": "Theme_fde8e10a1e8ebd2839534732db09e4969825bd83266ffaacc525bdea87eff6d0"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "géants du numérique américain",
+      "id": "Theme_b2c343026c35b8568e14cbce461ad85aafc1caf3d375980d849b0363d45471f5"
+    },
+    {
+      "type": "Theme",
+      "name": "géants du numérique chinois",
+      "id": "Theme_bf67ca1624c3efd2b8bf20b1f326deff37a5991decf0c0777f29696b51c05fa5"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité des chances",
+      "id": "Theme_c4ec93996062bec89e6022fff85bfdfb9dba08bac65622ecb9b4da9b6d67b1e6"
+    },
+    {
+      "type": "Theme",
+      "name": "inclusion",
+      "id": "Theme_e76e5f6a4a72bb46a7b477ecf0d0161f48afc10a4cf4adcb9bbdfc9a6f6dc2b3"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle",
+      "id": "Theme_72f49d4244df6301ed5e6c5a29a183744c3ebad8154a2d585d61455a6de2b287"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "Tech for good",
+      "id": "Theme_e6c1e59f86e1d0d7cc510e500009e9a937ff0a2ba59629794c674590da47ae74"
+    },
+    {
+      "type": "Theme",
+      "name": "Tech for value",
+      "id": "Theme_e73c3af88b1d7ebb636446ab45aa23100059c31eada9f427a90b1557242878c1"
+    },
+    {
+      "type": "Theme",
+      "name": "Les Déterminés",
+      "id": "Theme_ef0e5c0df3586b9675229bba52658c4ced2d972e541c4dcf0692b2a9a849fe9e"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle dans lequel nous croyons",
+      "id": "Theme_c4b770289fa6c32ff458b5c82053cd6f0f89d1210ee6c24533bbf274fec7537e"
+    },
+    {
+      "type": "Theme",
+      "name": "création de l'économie à venir",
+      "id": "Theme_e118faa4aece40a261cb52b9508c30e4c0134eab40b22cb3ab1d2f00e283e8f7"
+    },
+    {
+      "type": "Theme",
+      "name": "inclusif",
+      "id": "Theme_e37addc18beefbfba63cb6653aae696fe70470090ff93932e26542703437448d"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation à laquelle on croit",
+      "id": "Theme_8ab931ab9e5754b4164ec1374b51f5b1f9bf11be8baf5f6f5bb1428fd2917414"
+    },
+    {
+      "type": "Person",
+      "name": "vos salariés",
+      "id": "Person_cd3a1847ed70ae17f16f7aea23b65873bdc004dae1df4a5b3025bf63362c62fa"
+    },
+    {
+      "type": "Person",
+      "name": "les fondateurs que vous êtes",
+      "id": "Person_f46c52dbe749a3b931643e8000a4077f9a5639c9f542842b05da54a195299efd"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle économique et social du XXIème siècle",
+      "id": "Theme_4a0d113060073296ef5223cb9f1d4304c80727f75c9857619f769bf40c32f6b8"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle-là",
+      "id": "Theme_91430a58abb573f7980edabd0493ea7e5f8f64c0cceac61d9c410ebfe08cd18b"
+    },
+    {
+      "type": "Theme",
+      "name": "marché unique du numérique",
+      "id": "Theme_c40053f0a105e5ef143f88ba37d708bf31faa0d13ee288e4f481cbe9ce8bff0b"
+    },
+    {
+      "type": "Theme",
+      "name": "verticaux",
+      "id": "Theme_9aa8a475c89c05f54b7c593cce99e2883e4ad257e171ab20e1df840db59d842a"
+    },
+    {
+      "type": "Theme",
+      "name": "bataille européenne",
+      "id": "Theme_17da0f6e1a2177b54cb1fefb4edcb4d6c28b6b2d8ec77a21d63b7e8e78ffd837"
+    },
+    {
+      "type": "Theme",
+      "name": "accélération de ce modèle",
+      "id": "Theme_9253925dba75442b79f986f25403601c3c7613864b752a813a1ee561d23a6fde"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "cloud",
+      "id": "Theme_e66cd9d6a24ef776a6c7ab7baa4f744b43da9329db88ba3ef4c45f6a0784f29f"
+    },
+    {
+      "type": "Theme",
+      "name": "plan de relance",
+      "id": "Theme_0284b43f69888e3ab0015c645b207cd8a09e25a57ef364a712d8ad0acf0ba263"
+    },
+    {
+      "type": "Theme",
+      "name": "entreprise du sens du 21ème siècle",
+      "id": "Theme_cb70bf160bf299e0fea0af974ec87a576f8049c68b50d22bea4f13adc277a794"
+    },
+    {
+      "type": "Theme",
+      "name": "RSE",
+      "id": "Theme_f02a71a8f9078ee569802ec0741c6daed08662ee86ed8d3c69d8f46d50196863"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie européenne",
+      "id": "Theme_9f2d9669fd6bd7f0c519e9178f9aa5629f4017072e03d9dbd959f30f0e1c4ee3"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "le secrétaire d’État au numérique",
+      "relation": "MENTIONS",
+      "target": "Tech in France",
+      "evidence": "Vraiment merci à toute la communauté et à la French Tech, le secrétaire d’État au numérique, à Tech in France",
+      "confidence": 1.0,
+      "source_id": "Person_2107f1342fb411748a9c7113e055ce72e143b0da4018067a3933c837908ec99f",
+      "target_id": "Organization_438838de467ca590da3a78a9a2a6f03e6ae481dcb8e5f0463dce71fc5de3e4cd"
+    },
+    {
+      "source": "le secrétaire d’État au numérique",
+      "relation": "MENTIONS",
+      "target": "France Digitale",
+      "evidence": "Vraiment merci à toute la communauté et à la French Tech, le secrétaire d’État au numérique, à Tech in France, à France Digitale",
+      "confidence": 1.0,
+      "source_id": "Person_2107f1342fb411748a9c7113e055ce72e143b0da4018067a3933c837908ec99f",
+      "target_id": "Organization_501150ba650b130ce149f33a9b44afa88f099405b9319e1534feb2be99c14f11"
+    },
+    {
+      "source": "le secrétaire d’État au numérique",
+      "relation": "MENTIONS",
+      "target": "Syntec Numérique",
+      "evidence": "Vraiment merci à toute la communauté et à la French Tech, le secrétaire d’État au numérique, à Tech in France, à France Digitale, Syntec Numérique",
+      "confidence": 1.0,
+      "source_id": "Person_2107f1342fb411748a9c7113e055ce72e143b0da4018067a3933c837908ec99f",
+      "target_id": "Organization_1f0f681159cded52ab5a2ce00d6434e0460f6a0dcc593a260fe072f1ec6c01d5"
+    },
+    {
+      "source": "le secrétaire d’État au numérique",
+      "relation": "MENTIONS",
+      "target": "Bpifrance",
+      "evidence": "Vraiment merci à toute la communauté et à la French Tech, le secrétaire d’État au numérique, à Tech in France, à France Digitale, Syntec Numérique, à Bpifrance",
+      "confidence": 1.0,
+      "source_id": "Person_2107f1342fb411748a9c7113e055ce72e143b0da4018067a3933c837908ec99f",
+      "target_id": "Organization_a9ccdc3b7703f243a8222d62576aea819b2390487b9cbaf2500a76a84e916f9b"
+    },
+    {
+      "source": "le secrétaire d’État au numérique",
+      "relation": "MENTIONS",
+      "target": "Station F",
+      "evidence": "Vraiment merci à toute la communauté et à la French Tech, le secrétaire d’État au numérique, à Tech in France, à France Digitale, Syntec Numérique, à Bpifrance, Station F",
+      "confidence": 1.0,
+      "source_id": "Person_2107f1342fb411748a9c7113e055ce72e143b0da4018067a3933c837908ec99f",
+      "target_id": "Organization_f71e4adf8e99a4f7949dec4b25d916222a73e2c21b58f83eb488c81b6d15800b"
+    },
+    {
+      "source": "l'entrepreneur",
+      "relation": "SPOKE_ABOUT",
+      "target": "stabilité",
+      "evidence": "l'entrepreneur, en règle générale dans le monde, mais c'est tout particulièrement vrai des entrepreneures et des entrepreneurs français, c'est une plante qui n'a pas besoin d'être arrosée, mais qui demande de la stabilité.",
+      "confidence": 1.0,
+      "source_id": "Person_bcc0dea2cabad6bbe6eb0b4c7399f5fe818aa09620e95768cf021620f7d13007",
+      "target_id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "source": "l'entrepreneur",
+      "relation": "SPOKE_ABOUT",
+      "target": "résilience",
+      "evidence": "l'entrepreneur, en règle générale dans le monde, mais c'est tout particulièrement vrai des entrepreneures et des entrepreneurs français, c'est une plante qui n'a pas besoin d'être arrosée, mais qui demande de la stabilité. Et je crois que le fait qu’on vous ait donné de la stabilité sur les sujets clés pendant beaucoup de temps vous a permis de montrer aussi votre résilience.",
+      "confidence": 1.0,
+      "source_id": "Person_bcc0dea2cabad6bbe6eb0b4c7399f5fe818aa09620e95768cf021620f7d13007",
+      "target_id": "Theme_ae0698b8a130cd1cd5df43fe5e3e189eb0c16712f2fa72aeeed81640c8d2a14e"
+    },
+    {
+      "source": "France relance",
+      "relation": "SPOKE_ABOUT",
+      "target": "réussir",
+      "evidence": "C'est ce fameux France relance. Et France relance, cela montre une chose, c'est qu'on est collectivement convaincu que si on veut réussir,",
+      "confidence": 1.0,
+      "source_id": "Theme_ec0158e5109b8add672fac070f24646c4f40b743c1d5f3885b8962093e770532",
+      "target_id": "Theme_582d9c66c36dc775de8304e5492049598a3fe01bd345b0622f3f4e655cc62163"
+    },
+    {
+      "source": "France relance",
+      "relation": "SPOKE_ABOUT",
+      "target": "réinventer collectivement",
+      "evidence": "C'est ce fameux France relance. Et France relance, cela montre une chose, c'est qu'on est collectivement convaincu que si on veut réussir, non pas à revenir comme avant, mais à nous réinventer collectivement, c'est le moment parce qu'il y a une opportunité,",
+      "confidence": 1.0,
+      "source_id": "Theme_ec0158e5109b8add672fac070f24646c4f40b743c1d5f3885b8962093e770532",
+      "target_id": "Theme_35ec3a61bda11aafdd162a065b317fb37beb64eab0d41a27b044701eede4713a"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "5G",
+      "evidence": "la France va prendre le tournant de la 5G parce que c'est le tournant de l'innovation",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_47152ec4fdb1e969992c2378861e2673bb6d49339b0f5a5b037d241db358a595"
+    },
+    {
+      "source": "modèle social historique",
+      "relation": "MENTIONS",
+      "target": "modèle social historique",
+      "evidence": "il faut faire de notre modèle social historique un levier d'attractivité pour tous les talents du monde entier.",
+      "confidence": 1.0,
+      "source_id": "Theme_8d66854c67c0cb2d59e2db2a9ba4b67c944a5ad2b173930a6a6c3946366caaab",
+      "target_id": "Theme_8d66854c67c0cb2d59e2db2a9ba4b67c944a5ad2b173930a6a6c3946366caaab"
+    },
+    {
+      "source": "inclusivité",
+      "relation": "MENTIONS",
+      "target": "inclusivité",
+      "evidence": "on peut rentrer dans une société dont les objectifs seraient l'inclusivité sociale, l'égalité femmes-hommes, la paix dans tous les quartiers de la République et la lutte contre le réchauffement climatique",
+      "confidence": 1.0,
+      "source_id": "Theme_0b4c6511bcab556a39d7d22de2c520940c0c921a62d047421af3f24219c6b5e6",
+      "target_id": "Theme_0b4c6511bcab556a39d7d22de2c520940c0c921a62d047421af3f24219c6b5e6"
+    },
+    {
+      "source": "modèle",
+      "relation": "MENTIONS",
+      "target": "égalité femmes-hommes",
+      "evidence": "l'égalité femmes-hommes, l'égalité des chances quelle que soit son origine, l'inclusion des pratiques sur tous les territoires, l'inclusion de notre jeunesse dans les opportunités qui leur sont offertes, elles sont au coeur et elles doivent rester au coeur du modèle qui est le nôtre",
+      "confidence": 1.0,
+      "source_id": "Theme_72f49d4244df6301ed5e6c5a29a183744c3ebad8154a2d585d61455a6de2b287",
+      "target_id": "Theme_b1412bfc5fe321352e19c1089b6777bc07a0d41d11ab4e4379792d47c6d6ee06"
+    },
+    {
+      "source": "modèle",
+      "relation": "MENTIONS",
+      "target": "égalité des chances",
+      "evidence": "l'égalité femmes-hommes, l'égalité des chances quelle que soit son origine, l'inclusion des pratiques sur tous les territoires, l'inclusion de notre jeunesse dans les opportunités qui leur sont offertes, elles sont au coeur et elles doivent rester au coeur du modèle qui est le nôtre",
+      "confidence": 1.0,
+      "source_id": "Theme_72f49d4244df6301ed5e6c5a29a183744c3ebad8154a2d585d61455a6de2b287",
+      "target_id": "Theme_c4ec93996062bec89e6022fff85bfdfb9dba08bac65622ecb9b4da9b6d67b1e6"
+    },
+    {
+      "source": "modèle",
+      "relation": "MENTIONS",
+      "target": "inclusion",
+      "evidence": "l'égalité femmes-hommes, l'égalité des chances quelle que soit son origine, l'inclusion des pratiques sur tous les territoires, l'inclusion de notre jeunesse dans les opportunités qui leur sont offertes, elles sont au coeur et elles doivent rester au coeur du modèle qui est le nôtre",
+      "confidence": 1.0,
+      "source_id": "Theme_72f49d4244df6301ed5e6c5a29a183744c3ebad8154a2d585d61455a6de2b287",
+      "target_id": "Theme_e76e5f6a4a72bb46a7b477ecf0d0161f48afc10a4cf4adcb9bbdfc9a6f6dc2b3"
+    },
+    {
+      "source": "modèle",
+      "relation": "MENTIONS",
+      "target": "jeunesse",
+      "evidence": "l'égalité femmes-hommes, l'égalité des chances quelle que soit son origine, l'inclusion des pratiques sur tous les territoires, l'inclusion de notre jeunesse dans les opportunités qui leur sont offertes, elles sont au coeur et elles doivent rester au coeur du modèle qui est le nôtre",
+      "confidence": 1.0,
+      "source_id": "Theme_72f49d4244df6301ed5e6c5a29a183744c3ebad8154a2d585d61455a6de2b287",
+      "target_id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "source": "modèle",
+      "relation": "MENTIONS",
+      "target": "économie",
+      "evidence": "l'égalité femmes-hommes, l'égalité des chances quelle que soit son origine, l'inclusion des pratiques sur tous les territoires, l'inclusion de notre jeunesse dans les opportunités qui leur sont offertes, elles sont au coeur et elles doivent rester au coeur du modèle qui est le nôtre, à la fois dans le développement de notre écosystème mais dans ce qu'il va réussir aussi à innover sur le reste de l'économie",
+      "confidence": 1.0,
+      "source_id": "Theme_72f49d4244df6301ed5e6c5a29a183744c3ebad8154a2d585d61455a6de2b287",
+      "target_id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    }
+  ]
+}

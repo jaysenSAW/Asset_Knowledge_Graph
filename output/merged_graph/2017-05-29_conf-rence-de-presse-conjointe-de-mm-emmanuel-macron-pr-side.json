@@ -1,0 +1,512 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Pierre Le Grand",
+      "id": "Person_aaac471438abe1ea869282c0f24a3e35fdbe8d9eae86f1016cca6a27c9bf9cd6"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Académie Royale des sciences",
+      "id": "Organization_4bbd05e2978f6d8a61bb92a29c282fa52a15083c9737c7bc14828b2f35e6d6b7"
+    },
+    {
+      "type": "Person",
+      "name": "Poutine",
+      "id": "Person_cd18bc7f49bb7d64b17bcbd894d6a8752a9076a00deeefdb299e52309a31d8e5"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Pétersbourg",
+      "id": "City_ea8af6cd21fdb234f4de31154479c8a3a098b1d5155fd3250ae9bbb503523d90"
+    },
+    {
+      "type": "City",
+      "name": "Versailles",
+      "id": "City_005c3dd556787a48d85e917c1629f8b41dea2f726d89283e42c5cd7448b7c82a"
+    },
+    {
+      "type": "Person",
+      "name": "M. Macron",
+      "id": "Person_a0a3e70008afa4717f4160dbb9e6680f740ac5c666f4046ac68e807e69a2a1aa"
+    },
+    {
+      "type": "Person",
+      "name": "le Président Poutine",
+      "id": "Person_6e9a8f86a4bdd2d50f24faa0a33f6cad6a5be3d721e59ed2c47c17c5836a0f8a"
+    },
+    {
+      "type": "Person",
+      "name": "le sommet des arts",
+      "id": "Person_0bdfb7239dda81cca0dd806e33fcf0242cdf1e09722f48fadb64f48d7f96e2e5"
+    },
+    {
+      "type": "Person",
+      "name": "des ingénieurs",
+      "id": "Person_6adc3722b69a26c480d00aa6e1f1bb044892bfbd753f2a3a2ca6248b48bf7785"
+    },
+    {
+      "type": "Person",
+      "name": "des écrivains",
+      "id": "Person_800a30b70bbb618b2ba83b6f065a875175b35981270042730d0319f040c6a58b"
+    },
+    {
+      "type": "Person",
+      "name": "des archivistes",
+      "id": "Person_2a8be32369f7db94001a4e434aaba8745066b89aa905d81f8e8c6637ef06084c"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "City",
+      "name": "Tchétchénie",
+      "id": "City_f0029e564acd18c60bf34cdc3eaec70b11fd86ebe25a447fa4707f7358160ba2"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Theme",
+      "name": "sociétés civiles",
+      "id": "Theme_da9eb9a9b40c13e89c08473c509d3662198d82a69ee2697b92dd6b60c8c0d652"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation Louis Vuitton",
+      "id": "Organization_246b09746922cd6211140115ae3d93bcdf4ea9d55b5deebb93c4d13d1f494e99"
+    },
+    {
+      "type": "Organization",
+      "name": "musée de l'Ermitage",
+      "id": "Organization_eae138fa8a645edf503c45492d54d47f975b0ba39166e239be6bdeb46bbb4cbb"
+    },
+    {
+      "type": "Organization",
+      "name": "musée Pouchkine",
+      "id": "Organization_5ff77c3301439862e2a33c5ce3021e18925df6aa2eda88f6b752a07d8c9508c0"
+    },
+    {
+      "type": "Person",
+      "name": "Françoise Nyssen",
+      "id": "Person_777da8046ba0335ad223c67abf4ea8ae169a1500724b4549e657250aad261e94"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "traduction",
+      "id": "Theme_6485d0a281782622e4498d2054970e0d7fdb2ac32bfa771b086a38ee71c2ac11"
+    },
+    {
+      "type": "Theme",
+      "name": "projets économiques",
+      "id": "Theme_cca40ffbd229c548f45517bdcb9d42ea7dd4380b39497c98d39f3ac9ee6ae44c"
+    },
+    {
+      "type": "Theme",
+      "name": "projets scientifiques",
+      "id": "Theme_a491cba81c7ab89586829420c850618dfc2d66a5cc52dbf62d5175ef4afb600d"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariat dans l'aéronautique",
+      "id": "Theme_0444f55893c825f7266b4b516db0f671613d3a268a6fbcc3e134ca92da48b277"
+    },
+    {
+      "type": "Theme",
+      "name": "galerie des Batailles",
+      "id": "Theme_6246835a7aff64781007d7b4b0fbf2ae9c5aca7de66903c8238709f347fbf168"
+    },
+    {
+      "type": "Theme",
+      "name": "victoires militaires",
+      "id": "Theme_b27257d22f0e3c9b16571b76fda6ee8f0a14b81436a00ef6c1ff5847d87019e2"
+    },
+    {
+      "type": "Theme",
+      "name": "incompréhensions",
+      "id": "Theme_abe4e955d3b57b831cfd55d2a0f5c6bd3354efaa62eddc3c417c96628045be18"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de l'Europe",
+      "id": "Theme_6b6c7ecbf7ba1f60991b7fa42658c94daa64ee1ca124fbf0c77b5b74a583691d"
+    },
+    {
+      "type": "Person",
+      "name": "M. Poutine",
+      "id": "Person_a64a0c2bbb3cb8f5e5f695a58ce0053b873eb9b228be9d8f505e34037ef4e5d0"
+    },
+    {
+      "type": "Person",
+      "name": "M. le Président",
+      "id": "Person_7862f76c81da2366b333dc6cbcaf512a9ae591d32b1f30adb3e6fac3a787bd2a"
+    },
+    {
+      "type": "Person",
+      "name": "Anne, russe",
+      "id": "Person_b89fbaf602a6d8e72074d680c731efb3aaa1589473e020f501b7da2a9620be79"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Organization",
+      "name": "compagnies françaises",
+      "id": "Organization_51a78ef12abc8e10b429cab22e803aec7f54e787b347b5cdbb367a12c0a6c561"
+    },
+    {
+      "type": "Organization",
+      "name": "cinq cents compagnies françaises",
+      "id": "Organization_2e4e852ac34dad0e3fe377368ee39e2015f684d848d985687618036a3d4a10b9"
+    },
+    {
+      "type": "Theme",
+      "name": "relations bilatérales",
+      "id": "Theme_408b8bd1217d67f46d5809cb71154f9c8f9ae41670a929f6870ba2f4b85a5c66"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêts fondamentaux de la Russie",
+      "id": "Theme_cfd52011b376732b6d048cb5a67d3e8253587abe198b2114300e137948529d90"
+    },
+    {
+      "type": "Theme",
+      "name": "entrepreneuriat français",
+      "id": "Theme_7cc912b1c253d964c4968a49a3917b62b1c52c9fe0a2e279392694c46bd91b45"
+    },
+    {
+      "type": "Theme",
+      "name": "interaction économique",
+      "id": "Theme_f64015d64de737790e99a25acb6c50c312c2542c0da359397150f55703fb10ac"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements directs français",
+      "id": "Theme_b22107ce0f3c4c43e5bd04449802e5a09cfa0074b8130efbe4a70ae6d1e676f7"
+    },
+    {
+      "type": "Organization",
+      "name": "Union soviétique",
+      "id": "Organization_6136175cde70a2942894dc34ff96e5c85fe495b5773fe26e22fab2468b191eb4"
+    },
+    {
+      "type": "Theme",
+      "name": "humanitaire",
+      "id": "Theme_a35f29190c83d157961edb88bb847f1cd0abc804956f7076491c1850ea8e45e2"
+    },
+    {
+      "type": "Theme",
+      "name": "échanges entre la jeunesse",
+      "id": "Theme_1e436ea01189f6c8d2962d0cc66974a941f9ea797e7d41d17fa23edf3abaf815"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "langues",
+      "id": "Theme_2c590b7db4f32e2c4a3f2f7fc25bb4040c508c86add27ac82e0b62f41cb6c557"
+    },
+    {
+      "type": "Country",
+      "name": "Corée du Nord",
+      "id": "Country_d403bea44d70f65c1c477a18701e0bf7d2b84fd75e947a1213736b8cdf536760"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "dossier ukrainien",
+      "id": "Theme_d415ce41d4d1c34bb7ceb5f6a43384ce8c899ba5248bec1bd1e2ccb764f2fb34"
+    },
+    {
+      "type": "Person",
+      "name": "Président Poutine",
+      "id": "Person_a22176f8b01b8661705212dbebb7d3f0961063fa7068a972522e7c3f72c00183"
+    },
+    {
+      "type": "Person",
+      "name": "Président Macron",
+      "id": "Person_15ae4a213d835ef7577798185bd607847949379bf71f008ed1e17c6105b05ad8"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "City",
+      "name": "Normandie",
+      "id": "City_f0fe3a8c9028ddfa11298d6496804a09e1a0ab72a0ef8225769f14175bfca277"
+    },
+    {
+      "type": "Event",
+      "name": "conférence de presse",
+      "id": "Event_eaae04dbd00e1f0c21498034a95949d6c77d2db1bb42dd53cedb70be41bf4ee2"
+    },
+    {
+      "type": "Person",
+      "name": "M. Asquin",
+      "id": "Person_cc7bc9407b9d8596e67d2d688cdaf6d0e93e841d51d0af9d6636d120a32a7e84"
+    },
+    {
+      "type": "Person",
+      "name": "Hervé Asquin",
+      "id": "Person_f35dbb025a438624a3c7b1f65191a6343e0fb9f87f86f1d61607ed3656a62808"
+    },
+    {
+      "type": "Person",
+      "name": "candidate du Front National",
+      "id": "Person_4a594e826840b15fbf93295efdbca4f5f38462253ceb99f69e54a09016036216"
+    },
+    {
+      "type": "Person",
+      "name": "Yoann Barbereau",
+      "id": "Person_645fafdfae86f0f006c54aabf2137a4557ac4d2aa7a620212e13ff6efa7ddc8c"
+    },
+    {
+      "type": "Person",
+      "name": "Roman Souchtchenko",
+      "id": "Person_f50245dd413e68217d68c59293a04c19752c0b874b50fc1dbe4f71cb8e73100f"
+    },
+    {
+      "type": "Person",
+      "name": "Mme Le Pen",
+      "id": "Person_af2e51cfc44ef9345634e57249ecbec5841c8430a6708330307157c526d02dc0"
+    },
+    {
+      "type": "City",
+      "name": "Kremlin",
+      "id": "City_1710f70b09126f87fae7b66ea02e4cbb551b099ec5d96c921421ec8449a4526d"
+    },
+    {
+      "type": "Person",
+      "name": "Mme Fedorova",
+      "id": "Person_44e8a75b1022228e978c89b4dd6c03602418337a26a563565ceb66ba740f53ac"
+    },
+    {
+      "type": "Country",
+      "name": "Russia",
+      "id": "Country_031b4c0bba521a2a2bc16583d5da802d72be999dee34152a72afb2f7fef838ef"
+    },
+    {
+      "type": "Organization",
+      "name": "Russia Today",
+      "id": "Organization_d86fb14c8c60bd1570430e91a3a72cf25f4388ddf6f7e121f58f7376a1cd7df2"
+    },
+    {
+      "type": "Organization",
+      "name": "Sputnik",
+      "id": "Organization_1e73492ff6393fbec15acf8e31869d00675ef6641c19f40c39a7d2289216fb75"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre contre les terroristes",
+      "id": "Theme_3042c05f29050f7e4ecbd44a3305ec2eda4452b99d6b895ed2555c9f720ddb14"
+    },
+    {
+      "type": "Theme",
+      "name": "paix durable",
+      "id": "Theme_7f2a3ea855cc2d556d4a06a9259a5acf1687b182503a7617fa3fb25f1a55cdb8"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité politique",
+      "id": "Theme_7975a47f2e9c8f1b14a61bb6a42a096a690b134338ce50e619ef770358367764"
+    },
+    {
+      "type": "Person",
+      "name": "M. Gallicher",
+      "id": "Person_9b6a87fff1d48be44631781fe9e57eab96e6a8da2e126f007a08ff4ac47adca0"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Person",
+      "name": "M. Bachar al-Assad",
+      "id": "Person_799ee518ca85ae9c025a8105c04f0eb4e1135c30f1dec0f0f8ebfe5a38c9e4c1"
+    },
+    {
+      "type": "City",
+      "name": "Damas",
+      "id": "City_e98ce85a509b939d57d7629108f788beeec189d38be2d44c5ec76abfd8792ad3"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Organization",
+      "name": "Minsk",
+      "id": "Organization_db472e82486f99e1dc51ae49f7875d09143c258f5c913c1d8f3bf30fd426471c"
+    },
+    {
+      "type": "Organization",
+      "name": "Normandie",
+      "id": "Organization_c3b0ab4dc256a65bacb73c880a8409c32b3749fdf68d92e1b3f7c2224fa621f3"
+    },
+    {
+      "type": "Organization",
+      "name": "OSCE",
+      "id": "Organization_100876ee1e5a07b200fd332bdc124239896625c08ac296789ee15756f3c07bc1"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilisation",
+      "id": "Theme_0a966aca3520737ba08f9b331abe7136c44d8fda8ca56816fff530f39b8b2b10"
+    },
+    {
+      "type": "Theme",
+      "name": "désescalade",
+      "id": "Theme_292ff4c31038e5bf780af92ed5773f7e9d4b59f1c4bb2bb2f3d47d9820427431"
+    },
+    {
+      "type": "Event",
+      "name": "accords de Minsk",
+      "id": "Event_d4ce5079c851094f4de05159a2f064c42e3c9537c2ca2ad126ecabfd9b358715"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": ";",
+      "id": "Person_d9a2714ab76cf1cad4aeee70cdd7a8bbf67abb5c36ad60f8ea17545109af83f1"
+    },
+    {
+      "type": "Person",
+      "name": "Vladimir Poutine",
+      "id": "Person_ba07bc360f6d694c7c43cab878adc061217ec2b08d23eedefe4d5e2a082ef89c"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Syrie",
+      "relation": "LOCATED_IN",
+      "target": "Syrie",
+      "evidence": "en Syrie",
+      "confidence": 1.0,
+      "source_id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594",
+      "target_id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "source": "Françoise Nyssen",
+      "relation": "SPOKE_ABOUT",
+      "target": "culture",
+      "evidence": "Je me réjouis d'ailleurs, Monsieur le président, vous la verrez tout à l'heure, que notre ministre de la culture récemment nommée, Françoise Nyssen, est avant tout une grande éditrice",
+      "confidence": 1.0,
+      "source_id": "Person_777da8046ba0335ad223c67abf4ea8ae169a1500724b4549e657250aad261e94",
+      "target_id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "source": "Espagne",
+      "relation": "LOCATED_IN",
+      "target": "Espagne",
+      "evidence": "l'une de ces dynasties règne en Espagne, comme nous le savons.",
+      "confidence": 1.0,
+      "source_id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea",
+      "target_id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "source": "Russie",
+      "relation": "LOCATED_IN",
+      "target": "Russie",
+      "evidence": "Les compagnies françaises fonctionnent toujours en Russie.",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "source": "Russie",
+      "relation": "SPOKE_ABOUT",
+      "target": "intérêts fondamentaux de la Russie",
+      "evidence": "Je suis convaincu que les intérêts fondamentaux de la Russie sont beaucoup plus importants que la situation politique présente.",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Theme_cfd52011b376732b6d048cb5a67d3e8253587abe198b2114300e137948529d90"
+    },
+    {
+      "source": "compagnies françaises",
+      "relation": "VISITED",
+      "target": "Russie",
+      "evidence": "Les compagnies françaises fonctionnent toujours en Russie.",
+      "confidence": 1.0,
+      "source_id": "Organization_51a78ef12abc8e10b429cab22e803aec7f54e787b347b5cdbb367a12c0a6c561",
+      "target_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "source": "Pierre le Grand",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "la visite de Pierre le Grand en France",
+      "confidence": 1.0,
+      "source_id": "Person_aaac471438abe1ea869282c0f24a3e35fdbe8d9eae86f1016cca6a27c9bf9cd6",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "M. le Président",
+      "relation": "SPOKE_ABOUT",
+      "target": "dossier ukrainien",
+      "evidence": "En ce qui concerne le dossier ukrainien notre position est claire. Je l'ai évoquée à M. le Président encore une fois",
+      "confidence": 1.0,
+      "source_id": "Person_7862f76c81da2366b333dc6cbcaf512a9ae591d32b1f30adb3e6fac3a787bd2a",
+      "target_id": "Theme_d415ce41d4d1c34bb7ceb5f6a43384ce8c899ba5248bec1bd1e2ccb764f2fb34"
+    },
+    {
+      "source": "M. Bachar al-Assad",
+      "relation": "MENTIONS",
+      "target": "Syrie",
+      "evidence": "discuter avec l'ensemble des parties prenantes du conflit syrien y compris les représentants de M. Bachar al-Assad",
+      "confidence": 1.0,
+      "source_id": "Person_799ee518ca85ae9c025a8105c04f0eb4e1135c30f1dec0f0f8ebfe5a38c9e4c1",
+      "target_id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    }
+  ]
+}

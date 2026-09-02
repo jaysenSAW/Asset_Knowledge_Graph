@@ -1,0 +1,522 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "peur",
+      "id": "Theme_738708750471a3b2e2ee4af7e7441623b0486e69c4ecf7d601645e10149e55db"
+    },
+    {
+      "type": "Theme",
+      "name": "angoisse",
+      "id": "Theme_a87d238cf2667a0f54139ddfe68aada0d20b40896077ee5828db2c5684eb0fe2"
+    },
+    {
+      "type": "Theme",
+      "name": "fatigue",
+      "id": "Theme_0328fe8223a93c52f7c1d415f06d12ab98b6d0b49c239eddd67cea691007e12b"
+    },
+    {
+      "type": "Theme",
+      "name": "lassitude",
+      "id": "Theme_5ec1fbcf4f130c1313e846b1d681b473518b7aa554cfe25a0a4c5ee6c3f265f0"
+    },
+    {
+      "type": "Theme",
+      "name": "deuil",
+      "id": "Theme_99037041f52b56736ad115c31d149192ad56ee4964c20e01152418b68b28c290"
+    },
+    {
+      "type": "Theme",
+      "name": "chagrin",
+      "id": "Theme_b0ddf4b0ea2dd99f3de614ad13735f9bb03e001ca5618be773d0fdd410bafa32"
+    },
+    {
+      "type": "Theme",
+      "name": "tensions",
+      "id": "Theme_cba6267a0edb4b45de6f8ffdce822b9050ee187c12b3238bfe8a91fd4595d9f3"
+    },
+    {
+      "type": "Theme",
+      "name": "violence",
+      "id": "Theme_2e88abc315f2f0443a0e5b9fd8eae9a399f515b08101974ade6d7c352b827448"
+    },
+    {
+      "type": "Theme",
+      "name": "solitude",
+      "id": "Theme_9bf261aff6756e2aa9c4cac74eda601152fe07061c1060ce453aabec562f0d05"
+    },
+    {
+      "type": "Theme",
+      "name": "tristesse",
+      "id": "Theme_16ab39383b7d5bc3a831f4216200fab661ad4a14d19fa707565916207654650a"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "virus",
+      "id": "Theme_693f7390ed433c22624aec32764b8241743cc2c14cc1c8347faecc4978733995"
+    },
+    {
+      "type": "Person",
+      "name": "nos fonctionnaires et personnels de santé, médecins, infirmiers, aides-soignants, ambulanciers, secouristes, nos militaires, nos pompiers, nos pharmaciens",
+      "id": "Person_d5d0b36a6356bcecf96f02c6035c4eaaf6239fa57b614fd3d70a96b1733939c6"
+    },
+    {
+      "type": "Person",
+      "name": "nos agriculteurs, nos enseignants, nos chauffeurs routiers, livreurs, électriciens, manutentionnaires, caissiers et caissières, nos éboueurs, personnels de sécurité et de nettoyage, nos fonctionnaires, nos journalistes, nos travailleurs sociaux, nos maires et élus locaux",
+      "id": "Person_a11ca6d1e67a3dcccc1dcfaea0b870c690b66e1abcc02fa9341a2a8c9b3303df"
+    },
+    {
+      "type": "Person",
+      "name": "chacun d'entre vous",
+      "id": "Person_ff46209d66bbcb426767ec1271de26c9e6d46807e4f6b13c3086a98990b9c1d7"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "coopérations inédites",
+      "id": "Theme_5c534a2cbfb71c7b9e3f50c0c3dc82e3dbab38f84581a913830bc8d96f08eee8"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "mise en place de l'enseignement à distance",
+      "id": "Theme_674cff0b1fdd89ac43dfb985c5545dd3c507a717edde6279cd596301c35a762c"
+    },
+    {
+      "type": "Theme",
+      "name": "logistique",
+      "id": "Theme_b0840907ce02d2e2070f928f1de591cf6bed0600fe265dc6a5a7612bc61203ad"
+    },
+    {
+      "type": "Person",
+      "name": "Mes chers compatriotes",
+      "id": "Person_b6b29c7b55b71aae52b700aaa89778c04669d873e35a8a1d54782abede5f747b"
+    },
+    {
+      "type": "City",
+      "name": "Grand Est",
+      "id": "City_cc46f7d24c7d4373356f70794764c39d58948bde0ecdb5980a07022713090ff2"
+    },
+    {
+      "type": "City",
+      "name": "Ile de France",
+      "id": "City_d53f408e86b1127d03dca8946fb0f7c65e7d08f602831ca73b84e6791e816939"
+    },
+    {
+      "type": "City",
+      "name": "Hexagone",
+      "id": "City_4422ab99962aff5592f6583c4b4d3d1e9a6f0c8fd17d325c48dba4205e51f2c4"
+    },
+    {
+      "type": "City",
+      "name": "outre-mer",
+      "id": "City_121f5dd683084ed11b0b0afc40ab9b11e807e5f548606d1633c672145ee5660f"
+    },
+    {
+      "type": "Theme",
+      "name": "gestes barrières",
+      "id": "Theme_9ef4c6c2c097e3feddba7155ef2c41be56ff0d3a113736d88aaac2c7e8c8f317"
+    },
+    {
+      "type": "Theme",
+      "name": "maladie chronique",
+      "id": "Theme_87f5c79139eaee621431c231d99b8405a630ba9f5dc21cc319dd1ba1a1227884"
+    },
+    {
+      "type": "Theme",
+      "name": "visite aux malades en fin de vie",
+      "id": "Theme_90321da020de3c87ac07da04de08d84a1a490a3de8939578ad4d6ceebf58714a"
+    },
+    {
+      "type": "Theme",
+      "name": "confinement",
+      "id": "Theme_0f45bb70a21246322d7cfb478164222695e0d01460bf96452caf268399a36f94"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité des travailleurs",
+      "id": "Theme_bb3d2a4242fa8dbac09ae2fddaec42f0cf990aef0571118386f6f68d3a7f59fb"
+    },
+    {
+      "type": "Theme",
+      "name": "mesures de chômage partielles",
+      "id": "Theme_a1c0092a0b4827ed7da896749480279557ab0aa93cb52bf54b0cf3c6a0f5a8f1"
+    },
+    {
+      "type": "Theme",
+      "name": "financement pour les entreprises",
+      "id": "Theme_5611d0f377eeba604a6cec86868a9f383e60974c7e292e48ad1c33b93a4501c9"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds de solidarité",
+      "id": "Theme_97c3851b31d28dd2bef24f7cfb0ad3d8c8823e908d7ff046ddec7556bee64b7e"
+    },
+    {
+      "type": "Theme",
+      "name": "aides",
+      "id": "Theme_f673ca2ad1960d23d7119cd7a45c05f6f941afdc13c0433e02d9a958d356a94c"
+    },
+    {
+      "type": "Theme",
+      "name": "échéances",
+      "id": "Theme_67719512a414c6fc5dabafc7c79f68f62e320546108c89488af20cdbf50cc3a3"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilisation économique",
+      "id": "Theme_da96aa9910e1afb23f538704f834f1ecf51835e24a799691b0bb52884da6ca2a"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Theme",
+      "name": "démunis",
+      "id": "Theme_e31616034002c20db0de5cab3b4420c448784f6c8fa4d002b0dcc18f4e476755"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "retourner travailler",
+      "id": "Theme_ddf5fe67ee1930a49b286576d8ede607f44274cb278dde4d6d646d95fe9f5d0d"
+    },
+    {
+      "type": "Theme",
+      "name": "redémarrer notre industrie",
+      "id": "Theme_673c95af9ab2821dd86793f0fc42d52e26b7ccdce9cb59436d755239d21d06e8"
+    },
+    {
+      "type": "Theme",
+      "name": "nos commerces",
+      "id": "Theme_3c2c8c1aec340cb0cd8c1e424f1443b7078a47fafab7a052de8d916011077966"
+    },
+    {
+      "type": "Theme",
+      "name": "nos services",
+      "id": "Theme_6339b8ff617ef3bb3280aa2b45df9a96a28cdae323bf781236dcdc4769a98dc2"
+    },
+    {
+      "type": "Theme",
+      "name": "handicap",
+      "id": "Theme_07d6ad7e725b76cce5982a9a7f704af8d13d05bfc2d725640eb7ad805850ae06"
+    },
+    {
+      "type": "Theme",
+      "name": "maladies chroniques",
+      "id": "Theme_57178cca0419ae26312b9967976059ab7b2985410eae03ad24b2f0e9c5b9b210"
+    },
+    {
+      "type": "Theme",
+      "name": "tests",
+      "id": "Theme_fdf1d5641fec5f24415773e5b0302e1613caa6158c1dc73743f946066c8f243a"
+    },
+    {
+      "type": "Theme",
+      "name": "soignants",
+      "id": "Theme_b13cc9fc05c4812442eb32d6a982fae92924d3c9b59d27a4783a0b9569fa04a8"
+    },
+    {
+      "type": "Theme",
+      "name": "aînés",
+      "id": "Theme_fc89c400d5284a2e78d4c24bf3b79585e1baa5abeb03cc3972528d9b372ab74b"
+    },
+    {
+      "type": "Theme",
+      "name": "fragiles",
+      "id": "Theme_4d513da25c824f499fdc72f6e2e7a4d3130eed8d9b5e4cb29cceb875c3e5045a"
+    },
+    {
+      "type": "Theme",
+      "name": "laboratoires publics",
+      "id": "Theme_c58e6515fa9f93b87b113118617980be7389dd270edbf168ac1d892f5d1e7f4e"
+    },
+    {
+      "type": "Theme",
+      "name": "laboratoires privés",
+      "id": "Theme_a109704b1cd14533a284aadd237ecfa43c805342464a46e45dab61abad05a77c"
+    },
+    {
+      "type": "Theme",
+      "name": "quarantaine",
+      "id": "Theme_afdf66cdbfa29aa1ea8911e812fdf9e6cbd0fbf78f4e45b32e07ed2c636eb5b9"
+    },
+    {
+      "type": "Theme",
+      "name": "symptômes",
+      "id": "Theme_89d20bf45fccbb5adb020f4a838048710ba7eeb8d21ed4b313e634e39e9e71e9"
+    },
+    {
+      "type": "Organization",
+      "name": "nos partenaires européens",
+      "id": "Organization_4dcbe7e7582861f2d29a7d58e58061698156e8a0fb44870126a6c57499948e9a"
+    },
+    {
+      "type": "Country",
+      "name": "pays non-européens",
+      "id": "Country_c8ef6a66f63290b64d27b8bafa0012b92e00be477ad9dad27e244d10d89b76ef"
+    },
+    {
+      "type": "Country",
+      "name": "les pays non-européens",
+      "id": "Country_b2d4783a6902419b96aae6c8aeb352b69b03171c97338d69afe2c00ffc730bc8"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Etat",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Theme",
+      "name": "gestes barrière",
+      "id": "Theme_721e1dd3af5df4e60a04c6eb261e81f7e287b695d52efe013a320a23c15b0ad7"
+    },
+    {
+      "type": "Theme",
+      "name": "masque grand public",
+      "id": "Theme_b25e244c38153351f593a038a3c6e85cc8ab73bd38792801960b037e40873f49"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccins",
+      "id": "Theme_285c234b84ef6ba1444c75fa4fb284e57557192a16508630af6134cc975797f3"
+    },
+    {
+      "type": "Country",
+      "name": "le pays",
+      "id": "Country_a03263ca275efa2d2c5ee5e45853980c9a341766037b1334f390d85cd0705136"
+    },
+    {
+      "type": "Organization",
+      "name": "nos médecins",
+      "id": "Organization_780ed49b20111bcf78d4b966804c6c5fdd0dff60d73464d6d67f51af27bbd444"
+    },
+    {
+      "type": "Organization",
+      "name": "nos chercheurs",
+      "id": "Organization_1f2a489c3af2cc39746e8b86d856399e52617bc7c6659d41a20a147824abe0f1"
+    },
+    {
+      "type": "Theme",
+      "name": "les traitements",
+      "id": "Theme_29ccf419029c6da92b9ff5d2c43523ce8c499486bc6a649b49ae6abcc16f4e61"
+    },
+    {
+      "type": "Theme",
+      "name": "le virus",
+      "id": "Theme_6f03fe7850f87bbb01de174f7cb48fcf87a6adb0e239c578c6d8fe76ab27a43d"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque centrale européenne",
+      "id": "Organization_604df4e817ea32383418b21e72b41e4ff96e5db0c6432532766813697e942e7c"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "audace",
+      "id": "Theme_d706ab6b0cc320b9352b6bd4d2ad07220489fd740b0ab019594db8c8a3911770"
+    },
+    {
+      "type": "Theme",
+      "name": "refondation",
+      "id": "Theme_77f52f9a94df7b14cffe3784911589107317c54ec7d6127ec1cc1495c5ea5075"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "City",
+      "name": "Bergame",
+      "id": "City_6fe0ac9942000e507f74130fdc49eb118b203fed361701ba86db81a00e9765ab"
+    },
+    {
+      "type": "City",
+      "name": "Madrid",
+      "id": "City_552831fca4f5e6013e83b2043d4b9c5a9ec761f7794e9e75a5a50bd93ab5d510"
+    },
+    {
+      "type": "City",
+      "name": "Bruxelles",
+      "id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "type": "City",
+      "name": "Londres",
+      "id": "City_46110e3e9c35de9d2cda1109fbec5fe7701b958198ac1143e8e5aa66bd4be03f"
+    },
+    {
+      "type": "City",
+      "name": "Pékin",
+      "id": "City_c33b28c48b13d634999d50013f1cdd989b8055c898dcd822f8e335c15db449dc"
+    },
+    {
+      "type": "City",
+      "name": "New York",
+      "id": "City_e29f957fb97945a6b5a1886762f22b8c0c8061e5f79a9f14d6144141a5106e51"
+    },
+    {
+      "type": "City",
+      "name": "Alger",
+      "id": "City_0cc1538642cf29c18db048f0218cd51511f109734b8d8dc452b7f31b18c6117e"
+    },
+    {
+      "type": "City",
+      "name": "Dakar",
+      "id": "City_edd432d0e42af6268a05e6bf8b3ff465617e0b8b7b6c0ca6846affd0ee837bfe"
+    },
+    {
+      "type": "Theme",
+      "name": "utilité commune",
+      "id": "Theme_bf465f1f1047d85d8ae495cd438b81fe88621a06cb576b6574b2616a0087167d"
+    },
+    {
+      "type": "Theme",
+      "name": "principe",
+      "id": "Theme_d8760c237665930c6a9d0624a9ce18eb904b3c711bc6b674b8a562fcb2b31b9b"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "crises à venir",
+      "id": "Theme_9e6757404875ff5a527e2699345d6d30f3ff9df48d7e3bd5149070e43b48d8ed"
+    },
+    {
+      "type": "Theme",
+      "name": "ébranlement intime et collectif",
+      "id": "Theme_ffb5020678dbbea4558f3100ce1a4dc189c473e4023bb035c57626f3aba87c76"
+    },
+    {
+      "type": "Theme",
+      "name": "humanité",
+      "id": "Theme_ebe8df3ac285e08d8c5b09a171c984dd674712e8f6706876ba58be414310d3e9"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "volonté",
+      "id": "Theme_16b93f9ed8b73b81c97ecd0a6cdb37d8a5b24c3afd93e53085d57fee061b7ba6"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "Jours Heureux",
+      "id": "Theme_c285d580eca37b3422442e5445f44b8d00269abdfaca4541dab5ee3a233879d6"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Dans le Grand Est comme en Ile de France, les services hospitaliers sont saturés.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "l'Etat",
+      "relation": "SPOKE_ABOUT",
+      "target": "gestes barrière",
+      "evidence": "En complément des « gestes barrière » que vous connaissez bien et qu'il vous faudra continuer à appliquer, l'Etat à partir du 11 mai en lien avec les maires devra permettre à chaque Français de se procurer un masque grand public.",
+      "confidence": 1.0,
+      "source_id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d",
+      "target_id": "Theme_721e1dd3af5df4e60a04c6eb261e81f7e287b695d52efe013a320a23c15b0ad7"
+    },
+    {
+      "source": "l'Etat",
+      "relation": "SPOKE_ABOUT",
+      "target": "masque grand public",
+      "evidence": "En complément des « gestes barrière » que vous connaissez bien et qu'il vous faudra continuer à appliquer, l'Etat à partir du 11 mai en lien avec les maires devra permettre à chaque Français de se procurer un masque grand public.",
+      "confidence": 1.0,
+      "source_id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d",
+      "target_id": "Theme_b25e244c38153351f593a038a3c6e85cc8ab73bd38792801960b037e40873f49"
+    },
+    {
+      "source": "nos médecins",
+      "relation": "SUPPORTS",
+      "target": "nos chercheurs",
+      "evidence": "nos médecins, nos chercheurs travaillent d'arrache-pied.",
+      "confidence": 1.0,
+      "source_id": "Organization_780ed49b20111bcf78d4b966804c6c5fdd0dff60d73464d6d67f51af27bbd444",
+      "target_id": "Organization_1f2a489c3af2cc39746e8b86d856399e52617bc7c6659d41a20a147824abe0f1"
+    }
+  ]
+}

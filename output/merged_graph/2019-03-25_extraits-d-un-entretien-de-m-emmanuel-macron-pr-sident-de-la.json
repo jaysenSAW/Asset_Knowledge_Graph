@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Versailles",
+      "id": "City_005c3dd556787a48d85e917c1629f8b41dea2f726d89283e42c5cd7448b7c82a"
+    },
+    {
+      "type": "City",
+      "name": "Côte d'Azur",
+      "id": "City_8692af08fa723e716dd8c7387aafb652d74d993bbe16eab7040a82395db0d3bc"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Person",
+      "name": "le président chinois",
+      "id": "Person_6ef6efa3b16c82bc0993a14ba73d37fcb6243f8007e52ff7f23ea2eda8d36df1"
+    },
+    {
+      "type": "Person",
+      "name": "son épouse",
+      "id": "Person_f1ab3d7a215b4f7264432ff4c8150266909e527314e00030d81eadb763606e8e"
+    },
+    {
+      "type": "Person",
+      "name": "le président Xi Jinping",
+      "id": "Person_a9e0497a1e9c7d8baae39d4e268269bdd335497dd217d96ea84614907be9b6f3"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "City",
+      "name": "Monaco",
+      "id": "City_6ff2ecfc447f4a08aa37589f0944176ce1f24c3b36dae06830dc43a04f15d626"
+    },
+    {
+      "type": "City",
+      "name": "Côte",
+      "id": "City_e3b82aafa95b2663ff3cc210530c985f27886b4e3c4fdfb4e72b6a27f1aa35ab"
+    },
+    {
+      "type": "City",
+      "name": "Beaulieu-sur-Mer",
+      "id": "City_3c4a3cf9c24f206a5ff9d80cc59b54b5ce2b78e5b80c2c6a308c0b36213599be"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Xi Jinping",
+      "id": "Person_99ed88f08de36d905de647d17f10a961ac301c5544f4432e1a832eca6c8adb41"
+    },
+    {
+      "type": "City",
+      "name": "Negresco",
+      "id": "City_568585450fadca73d9c1205c629e0019e9bb47d3ac41a16fd7a06973bfc403f4"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Roch",
+      "id": "City_a9399d953f64caab89bc061829895f0b22ff92ec22a53cb261ce41addb562175"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "Gérard Collomb",
+      "id": "Organization_69448cb48e5ee4c689271b655b1720606b652c75747eac135a093febe9d6332d"
+    },
+    {
+      "type": "Event",
+      "name": "attentat du 14 juillet 2016",
+      "id": "Event_c4ec43f0e7e82876d2704c385b6eae73c54f46ab7401d8f7e78dc5019ec6db02"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Xi Jinping",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "Le vase que vous a offert Xi Jinping et qui associe les images de la France et de la Chine",
+      "confidence": 1.0,
+      "source_id": "Person_99ed88f08de36d905de647d17f10a961ac301c5544f4432e1a832eca6c8adb41",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Xi Jinping",
+      "relation": "VISITED",
+      "target": "Negresco",
+      "evidence": "Xi Jinping a choisi de passer la nuit au Negresco",
+      "confidence": 1.0,
+      "source_id": "Person_99ed88f08de36d905de647d17f10a961ac301c5544f4432e1a832eca6c8adb41",
+      "target_id": "City_568585450fadca73d9c1205c629e0019e9bb47d3ac41a16fd7a06973bfc403f4"
+    }
+  ]
+}

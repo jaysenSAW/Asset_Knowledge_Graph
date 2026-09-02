@@ -1,0 +1,70 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Douma",
+      "id": "City_fded04fbcb9028f943a7cf58fc81c22cb65032211cd6c4f9153fe0d3ae5bf7c9"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité des Nations unies",
+      "id": "Organization_6bf65c40c2dc11306e0f78e403029002e380728d5788808146d88e7f36b63686"
+    },
+    {
+      "type": "Country",
+      "name": "Nations unies",
+      "id": "Country_de27ef02ae2f885df42f17298e258623101c6c37feb12bb5fe5c02d0f56327a3"
+    },
+    {
+      "type": "Organization",
+      "name": "Daech",
+      "id": "Organization_29dbc689382b03a0461f60f5b49453c647eb8d5462c8e491c8f8521e53f511fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Law",
+      "name": "article 35, alinéa 2, de la Constitution",
+      "id": "Law_b40a9072e9bf624fc05db8888d42546afd3bb5009eeccda25198388beb4da633"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Nations unies",
+      "evidence": "La France et ses partenaires reprendront, dès aujourd'hui, leurs efforts aux Nations unies pour permettre la mise en place d'un mécanisme international d'établissement des responsabilités, prévenir l'impunité et empêcher toute velléité de récidive du régime syrien.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_de27ef02ae2f885df42f17298e258623101c6c37feb12bb5fe5c02d0f56327a3"
+    }
+  ]
+}

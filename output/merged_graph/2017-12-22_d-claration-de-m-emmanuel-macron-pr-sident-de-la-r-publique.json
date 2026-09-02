@@ -1,0 +1,604 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la Ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le chef d'état-major des Armées",
+      "id": "Person_1f83a1b709c29b766edb6b98978d332e04de52962a1652e0a4e20e351b1b05e0"
+    },
+    {
+      "type": "Person",
+      "name": "Amiral",
+      "id": "Person_51f4413bcaac7b92a06dfec7f3378c6a63cbd2b39bcad3ef209b91ad61cd829e"
+    },
+    {
+      "type": "Person",
+      "name": "Mon Général",
+      "id": "Person_4dee393bdf6e0458a49fe665cb1b9812a87a215316714163b3cd889ba32cad32"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur l'ambassadeur",
+      "id": "Person_ca63df6e99fdaff6436f8fd8ee480f34c6752e2fbbae13fb9d4ec2653a96ecad"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les officiers généraux",
+      "id": "Person_f9a002e5d7901854c8248fc6e46d314419343c0a5dfcafd83dd45fa5712a5928"
+    },
+    {
+      "type": "Person",
+      "name": "Officiers",
+      "id": "Person_c8171bd3ed8cbc7cf669a5a86eabca249295516f0d8bd47e68ece1fee0d459b1"
+    },
+    {
+      "type": "Person",
+      "name": "Sous-officiers",
+      "id": "Person_b457902fde2b230441235d641cfdd79714ee61c5664555cbf1d0e91e8aa0361e"
+    },
+    {
+      "type": "Person",
+      "name": "Militaires du rang de l'opération Barkhane",
+      "id": "Person_4aae653f6f7c021cff099a4d2fbf73537e94240c48e83a1f64706034f01d9ddc"
+    },
+    {
+      "type": "Country",
+      "name": "Union africaine",
+      "id": "Country_b01664d9ea209fa9abca874f9945970ecabfe5ccf7330dc0ed2f868bc1f51684"
+    },
+    {
+      "type": "City",
+      "name": "Abidjan",
+      "id": "City_062062e7d309698fe19b533fc70bf31a6f23d6a2425b13d0eb2ec018737f4cca"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "G5 Sahel",
+      "id": "Organization_731d6944c0a31ed0fe261575f2573caac7a90e8ab6d60ef9a3df3e2391b9c38e"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Country",
+      "name": "Irak",
+      "id": "Country_99792b4385035d3a51b12170d270a96604af5ab8e0945708f2a19bcc0e41b04c"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition internationale",
+      "id": "Organization_7b89a1467cc89820b1fb4481a79347c722225e2808346a9f3c2a9057936e89e4"
+    },
+    {
+      "type": "Organization",
+      "name": "armées",
+      "id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab"
+    },
+    {
+      "type": "Organization",
+      "name": "Daech",
+      "id": "Organization_29dbc689382b03a0461f60f5b49453c647eb8d5462c8e491c8f8521e53f511fb"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "Alliance pour le Sahel",
+      "id": "Theme_6af25ce059156233e1801213258ba360ec058597f2ef1c9784b7015eb36332c6"
+    },
+    {
+      "type": "Theme",
+      "name": "développement structuré",
+      "id": "Theme_6df2749d6f6aba70259e8e3216601bf3963cb55f4108a5b0154f91256bc4c730"
+    },
+    {
+      "type": "Theme",
+      "name": "Agence française de Développement",
+      "id": "Theme_d34fe6b336917d5b23c3bf06bb1572813cea9544232234a4fe26962b0522a9d2"
+    },
+    {
+      "type": "Theme",
+      "name": "partenaires européens",
+      "id": "Theme_c516036c1990e4b22c08d9c671a210cd10ccfbc2af424287ecd60683c5beb187"
+    },
+    {
+      "type": "Theme",
+      "name": "action militaire",
+      "id": "Theme_17bb0f7d24cc54e0773d0da3b0e4166d80b68aa8616f52c8a9e1459c19ddeb0f"
+    },
+    {
+      "type": "Theme",
+      "name": "Barkhane",
+      "id": "Theme_26f0249e02d4e2c67b1dcaa8b5caec6a2c992676d1ffc0a96f56ce6018f04a92"
+    },
+    {
+      "type": "Theme",
+      "name": "Minusma",
+      "id": "Theme_ab1ae68f98ae419ce15e23aa00221f81365a97c5a236e50554570775d696b1c9"
+    },
+    {
+      "type": "Theme",
+      "name": "G5 Sahel",
+      "id": "Theme_db90d2babfdae64b2d7fc9a2696618e3c66ccb17c5dbaf89cb4615a636b9a39d"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie d'ensemble",
+      "id": "Theme_da312c0f744e0e5385ee13bd83b051480d21126a15658a9c5310e01b70a23d52"
+    },
+    {
+      "type": "Theme",
+      "name": "triptyque",
+      "id": "Theme_a75de66cf4dd47cdb45d3e72f75af292cca741666b901bbc3999ce32508f4796"
+    },
+    {
+      "type": "Theme",
+      "name": "conflit",
+      "id": "Theme_c5df677153d0b9960d87a7cc1c81b7c456008a70cab549159756fed685546c73"
+    },
+    {
+      "type": "Theme",
+      "name": "accords d'Alger",
+      "id": "Theme_22f9189b15428f81adcef4b9234a448054063e89b17641210101d029764feb71"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie très coordonnée",
+      "id": "Theme_56dbb5c26bf4212ad8b15b7dbe59ab2b49723eb817e1925c8ee1569bf1175057"
+    },
+    {
+      "type": "Organization",
+      "name": "force G5 Sahel",
+      "id": "Organization_97dbd2b70ee828562e436699cbf45033751f786d436132727ee048127b342b58"
+    },
+    {
+      "type": "Organization",
+      "name": "États du Sahel",
+      "id": "Organization_3afd34516035510a40c292f7f89a64e62f7764e17395a6fa039033d2c534f864"
+    },
+    {
+      "type": "Organization",
+      "name": "accords d'Alger",
+      "id": "Organization_54addbb2680dcd1c7d6e9fbda4e93e427d832b12dfca4cc17569ce9a1a1035e8"
+    },
+    {
+      "type": "Law",
+      "name": "droit d'asile",
+      "id": "Law_27c80dba45e4110ecf4fc05518c51fcce35f9188db26865551076833d59cee7e"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Organization",
+      "name": "Barkhane",
+      "id": "Organization_e54f566ab6b27cae3cc1917ae6d401f506be9fa0b59d5e884d97d8e2aae1a82f"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "Person",
+      "name": "le général Guibert",
+      "id": "Person_024546b556bfcb285a6649e541d819df6512265e367fea5fd5ba4dce2ab312ac"
+    },
+    {
+      "type": "Person",
+      "name": "sergent Julien BARBE",
+      "id": "Person_593acb6c720dcc5d53acd88931e3ec4c79cca938f459a082512191978bd7d70d"
+    },
+    {
+      "type": "Person",
+      "name": "caporal Albéric RIVETA",
+      "id": "Person_3c8caf8d66983d8825d84734fd6b54a33414ea5865ac335be3049ab1b837b5d1"
+    },
+    {
+      "type": "Country",
+      "name": "Etat",
+      "id": "Country_774c8b6f22f0c8760528588f5b156b73633c371f2c54fca0f8d2cff44b6c65d9"
+    },
+    {
+      "type": "Organization",
+      "name": "Serval",
+      "id": "Organization_95cc145d3845a44b9ca9874406fea7fba71ae3f6cf687ea7ed6ea73b04c6ce47"
+    },
+    {
+      "type": "Theme",
+      "name": "patience",
+      "id": "Theme_57b77b434fc82d3f141f35f1bc08a01078acc717fc4753851424847bf73d0bd4"
+    },
+    {
+      "type": "Theme",
+      "name": "fulgurance dans l'action",
+      "id": "Theme_e626976480de61d667ebe5c46bb78acbfddbecdfc59f8a734bfe78910ce538f1"
+    },
+    {
+      "type": "Theme",
+      "name": "vigilance",
+      "id": "Theme_7947493fd74075297abd4b9b2189ee53f32921bc45d7d7f45d833cef7c3ec4dc"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit d'exigence",
+      "id": "Theme_7235bf13629607c401a548e6c753e52830d0726ebd38b223a6716d9f2359cefd"
+    },
+    {
+      "type": "Theme",
+      "name": "sahélienne",
+      "id": "Theme_709b780883ce610ca459ddb8a94a240235d6daee951ef07cad162e3981829cb5"
+    },
+    {
+      "type": "Organization",
+      "name": "armées locales",
+      "id": "Organization_3daf0ac51b9dcdf71f61dfeb6ac9e88e05376c4896a4a73b812b3ffd9d69402b"
+    },
+    {
+      "type": "Organization",
+      "name": "États",
+      "id": "Organization_0ca81ce39bcb4841c0870752916ec2c26c3153cd75ffdd60afe564ff3176d80b"
+    },
+    {
+      "type": "Organization",
+      "name": "forces du G5 Sahel",
+      "id": "Organization_f635805cb7f0299e1c763668ae8ca62021e8385965a550d9c44085099f05ab48"
+    },
+    {
+      "type": "Organization",
+      "name": "EUTM Mali",
+      "id": "Organization_6ac29de94860713c4d2bff9e52aa8ccb48cc256dda9a40817d4ee846590fca29"
+    },
+    {
+      "type": "Organization",
+      "name": "Minusma",
+      "id": "Organization_ca97eba974d956f03896c8dba73f0ff213915a352452accbe7ee16ab48ee356a"
+    },
+    {
+      "type": "Organization",
+      "name": "forces G5 Sahel",
+      "id": "Organization_31583311a5bac3308b513fbc6713a64b0eb259f7bc719c3c77c5ef8c2691eac1"
+    },
+    {
+      "type": "Organization",
+      "name": "Koufra",
+      "id": "Organization_c6d5d454eb1116875ef64e231c852f6d6ec8243d3718eb9d1359ad2a903d3f13"
+    },
+    {
+      "type": "City",
+      "name": "Niamey",
+      "id": "City_3d5649a53fd34f76fb9bdbf1cbca0ba29ac1e3f9144355b26d8e6de930f68b39"
+    },
+    {
+      "type": "Person",
+      "name": "Le colonel",
+      "id": "Person_b3d4e71bece41047453c067114f0fa4d6aaae75236c01ba9442ec2040da52033"
+    },
+    {
+      "type": "Organization",
+      "name": "la base",
+      "id": "Organization_1d60580d68c35e168494f7e5f6f7a0a41c814ea3fb988a6ae6ed0433ffe530d1"
+    },
+    {
+      "type": "Theme",
+      "name": "contraintes",
+      "id": "Theme_4978b0c5d87dc2417b622c18eef6c36776a6885f8f2cab4267a059066269c40d"
+    },
+    {
+      "type": "Theme",
+      "name": "formidables défis",
+      "id": "Theme_ba889ac917eb5b7bc7720f62602066248f7a2ed78b9ce6a89152701129509b90"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité aérienne",
+      "id": "Theme_d8d37e12ed78cff4d2322fd46abf564e5770c62e7a6639cfc4b9161250bb10b5"
+    },
+    {
+      "type": "Theme",
+      "name": "avions de chasse",
+      "id": "Theme_bbc4f5a3648f8b0303a3546d1db030a3739319ff3f2148e3487033381234c280"
+    },
+    {
+      "type": "Theme",
+      "name": "drones",
+      "id": "Theme_b2b8332bc607f05d7b6db8865bedd52ec8fa78a4a9e250c77515b3451bf1d2b9"
+    },
+    {
+      "type": "Theme",
+      "name": "renseignement",
+      "id": "Theme_1bd572f1ca13b8479be85804edd66328f5597f364182396425372029ab896b3f"
+    },
+    {
+      "type": "Theme",
+      "name": "opportunités",
+      "id": "Theme_917c87f14cddea8bc55965346ed33b5ce5d28aa3315ef920109791e7ba8d0877"
+    },
+    {
+      "type": "Theme",
+      "name": "ennemi",
+      "id": "Theme_86784d438210720af6d39c6aa61fdf50ed701dca442d8f18ff766fc9dbf08e73"
+    },
+    {
+      "type": "Theme",
+      "name": "troupes au sol",
+      "id": "Theme_b3ea3924366a4ae5b8187b8f92cbefc73f64e1d5fb602af9bd478130c231e9e9"
+    },
+    {
+      "type": "Theme",
+      "name": "appui de tous les instants",
+      "id": "Theme_02c472739efcf52abe9160493d6c8b03c4f6410a51a26346ad07144ab06859ac"
+    },
+    {
+      "type": "Theme",
+      "name": "logistique",
+      "id": "Theme_b0840907ce02d2e2070f928f1de591cf6bed0600fe265dc6a5a7612bc61203ad"
+    },
+    {
+      "type": "Theme",
+      "name": "théâtre",
+      "id": "Theme_5a4996ec4007d752ff4ac49ddc160a37fe6925ddc43105a2820d6effa6856aa7"
+    },
+    {
+      "type": "Theme",
+      "name": "relève",
+      "id": "Theme_8552e2ab8f8a2dc3c8bb377016b80dd9c78c112684c3ced545c4d7993d89ac7e"
+    },
+    {
+      "type": "Theme",
+      "name": "plateforme de transit",
+      "id": "Theme_971b469dd687d00a674b236c79f3534ea399e873ba90bbf4e891bb156c6b6b71"
+    },
+    {
+      "type": "Theme",
+      "name": "opération « Barkhane »",
+      "id": "Theme_e5f34884de65535b1249f0a2f5279b6ee32066e48e5f001bd1c1beeb58bab2d4"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie dans le Sahel",
+      "id": "Theme_3a7338c9b3a2d7391c75a3da0da5c31d92167e5edc13f5f45d3368e45b919657"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "victoires",
+      "id": "Theme_a5aeba9152ccb81b33c52094e5d19ad5bed62d621162a28e8d07c335b8966be2"
+    },
+    {
+      "type": "Theme",
+      "name": "gagner du terrain",
+      "id": "Theme_062189ea29af90955803194a9918be4578ed3ab1bc1d3bf679b99a61f8885017"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses communes",
+      "id": "Theme_69579e4920f3a7100411907fb17b4899a15e897f7ecac79fbb64138ef6bb40a4"
+    },
+    {
+      "type": "Theme",
+      "name": "culture stratégique",
+      "id": "Theme_8271f2c36190de2e6902fac1505aec0e2bb8e2e89e38e8030a3896fd539fc8e8"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêt général",
+      "id": "Theme_3fc4009116cc9c953278c25024b0a2dd42266f1514f441af9db2e539f0750341"
+    },
+    {
+      "type": "City",
+      "name": "Bruxelles",
+      "id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "type": "Country",
+      "name": "Niger",
+      "id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb"
+    },
+    {
+      "type": "Theme",
+      "name": "trêve",
+      "id": "Theme_a2420cf37e36b4f1c7524eb24f745236c45afb9dbc8563b937a7a698d79df7c1"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien",
+      "id": "Theme_4dfac92dac64c205c1c0e703283d4ba045cb9535e4f0c0a54df8ba969e6e1575"
+    },
+    {
+      "type": "Theme",
+      "name": "reconnaissance",
+      "id": "Theme_24e4cd0fe4314d21fe51891238282e7ad3290eb5e3e25cf1b43cf34fb381606e"
+    },
+    {
+      "type": "Theme",
+      "name": "famille",
+      "id": "Theme_77531ab96ac1f800b81a0eea16189f3877bb131fa537c133a4c0268dd1e3c138"
+    },
+    {
+      "type": "Theme",
+      "name": "absence",
+      "id": "Theme_78e99b8cf15b985448fd6127630f91d36a539926bcb64d143387565115379517"
+    },
+    {
+      "type": "Theme",
+      "name": "Nation",
+      "id": "Theme_60ff600be5c454bb618a1597d939fb190f2d7774c810094fe4274df593f1b232"
+    },
+    {
+      "type": "Organization",
+      "name": "Armées françaises",
+      "id": "Organization_c36408a3e1804dbaf573a6eb2a261157798ad8a70fa9a30f9401f818e116312d"
+    },
+    {
+      "type": "Person",
+      "name": "tous les chefs",
+      "id": "Person_70f1180abc2c12d6c3de068cbad4386ce2a2ad4d2ffa235332304802f414e7ee"
+    },
+    {
+      "type": "City",
+      "name": "Elysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Union européenne",
+      "relation": "ALLIED_WITH",
+      "target": "Union africaine",
+      "evidence": "Un dialogue politique avec l'Union africaine, comme nous l'avons mené quelques semaines à Abidjan lors du sommet entre l'Union africaine et l'Union européenne, qui se décline dans la région par le dialogue renforcé que nous avons structuré à travers le G5 Sahel.",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Country_b01664d9ea209fa9abca874f9945970ecabfe5ccf7330dc0ed2f868bc1f51684"
+    },
+    {
+      "source": "Alliance pour le Sahel",
+      "relation": "SPOKE_ABOUT",
+      "target": "développement structuré",
+      "evidence": "l'Alliance pour le Sahel, l'axe de notre politique de développement structuré",
+      "confidence": 1.0,
+      "source_id": "Theme_6af25ce059156233e1801213258ba360ec058597f2ef1c9784b7015eb36332c6",
+      "target_id": "Theme_6df2749d6f6aba70259e8e3216601bf3963cb55f4108a5b0154f91256bc4c730"
+    },
+    {
+      "source": "Barkhane",
+      "relation": "SPOKE_ABOUT",
+      "target": "action militaire",
+      "evidence": "action militaire, celle que conduit « Barkhane »",
+      "confidence": 1.0,
+      "source_id": "Organization_e54f566ab6b27cae3cc1917ae6d401f506be9fa0b59d5e884d97d8e2aae1a82f",
+      "target_id": "Theme_17bb0f7d24cc54e0773d0da3b0e4166d80b68aa8616f52c8a9e1459c19ddeb0f"
+    },
+    {
+      "source": "accords d'Alger",
+      "relation": "SPOKE_ABOUT",
+      "target": "stratégie très coordonnée",
+      "evidence": "C'est pourquoi je tiens profondément à ce que les accords d'Alger soient appliqués de manière plus rapide, à ce que chacun des pays du G5 fasse sa part du travail dans son pays pour ce qui le concerne et que nous ayons une stratégie très coordonnée avec l'ensemble de ces pays.",
+      "confidence": 1.0,
+      "source_id": "Organization_54addbb2680dcd1c7d6e9fbda4e93e427d832b12dfca4cc17569ce9a1a1035e8",
+      "target_id": "Theme_56dbb5c26bf4212ad8b15b7dbe59ab2b49723eb817e1925c8ee1569bf1175057"
+    },
+    {
+      "source": "EUTM Mali",
+      "relation": "ALLIED_WITH",
+      "target": "Minusma",
+      "evidence": "C'est aussi la coordination avec la mission EUTM Mali ainsi qu'avec la Minusma qui paie un lourd tribut et que je voudrais tout particulièrement saluer ce soir.",
+      "confidence": 1.0,
+      "source_id": "Organization_6ac29de94860713c4d2bff9e52aa8ccb48cc256dda9a40817d4ee846590fca29",
+      "target_id": "Organization_ca97eba974d956f03896c8dba73f0ff213915a352452accbe7ee16ab48ee356a"
+    },
+    {
+      "source": "Le colonel",
+      "relation": "MENTIONS",
+      "target": "la base",
+      "evidence": "Le colonel m'a ainsi présenté à la fois les contraintes mais les formidables défis relevés par la base.",
+      "confidence": 1.0,
+      "source_id": "Person_b3d4e71bece41047453c067114f0fa4d6aaae75236c01ba9442ec2040da52033",
+      "target_id": "Organization_1d60580d68c35e168494f7e5f6f7a0a41c814ea3fb988a6ae6ed0433ffe530d1"
+    },
+    {
+      "source": "la base",
+      "relation": "SPOKE_ABOUT",
+      "target": "contraintes",
+      "evidence": "Le colonel m'a ainsi présenté à la fois les contraintes mais les formidables défis relevés par la base.",
+      "confidence": 1.0,
+      "source_id": "Organization_1d60580d68c35e168494f7e5f6f7a0a41c814ea3fb988a6ae6ed0433ffe530d1",
+      "target_id": "Theme_4978b0c5d87dc2417b622c18eef6c36776a6885f8f2cab4267a059066269c40d"
+    },
+    {
+      "source": "la base",
+      "relation": "SPOKE_ABOUT",
+      "target": "formidables défis",
+      "evidence": "Le colonel m'a ainsi présenté à la fois les contraintes mais les formidables défis relevés par la base.",
+      "confidence": 1.0,
+      "source_id": "Organization_1d60580d68c35e168494f7e5f6f7a0a41c814ea3fb988a6ae6ed0433ffe530d1",
+      "target_id": "Theme_ba889ac917eb5b7bc7720f62602066248f7a2ed78b9ce6a89152701129509b90"
+    },
+    {
+      "source": "la base",
+      "relation": "SPOKE_ABOUT",
+      "target": "troupes au sol",
+      "evidence": "Nos avions renforcent les troupes au sol qui savent pouvoir compter précisément sur cet appui de tous les instants que la base ici seule permet.",
+      "confidence": 1.0,
+      "source_id": "Organization_1d60580d68c35e168494f7e5f6f7a0a41c814ea3fb988a6ae6ed0433ffe530d1",
+      "target_id": "Theme_b3ea3924366a4ae5b8187b8f92cbefc73f64e1d5fb602af9bd478130c231e9e9"
+    },
+    {
+      "source": "la base",
+      "relation": "SPOKE_ABOUT",
+      "target": "appui de tous les instants",
+      "evidence": "Nos avions renforcent les troupes au sol qui savent pouvoir compter précisément sur cet appui de tous les instants que la base ici seule permet.",
+      "confidence": 1.0,
+      "source_id": "Organization_1d60580d68c35e168494f7e5f6f7a0a41c814ea3fb988a6ae6ed0433ffe530d1",
+      "target_id": "Theme_02c472739efcf52abe9160493d6c8b03c4f6410a51a26346ad07144ab06859ac"
+    },
+    {
+      "source": "la base",
+      "relation": "SPOKE_ABOUT",
+      "target": "théâtre",
+      "evidence": "La base aérienne est également le hub d'accueil et de départ du théâtre.",
+      "confidence": 1.0,
+      "source_id": "Organization_1d60580d68c35e168494f7e5f6f7a0a41c814ea3fb988a6ae6ed0433ffe530d1",
+      "target_id": "Theme_5a4996ec4007d752ff4ac49ddc160a37fe6925ddc43105a2820d6effa6856aa7"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "République",
+      "evidence": "Vive la République, vive la France.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    }
+  ]
+}

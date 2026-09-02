@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "secrétaires d'État",
+      "id": "Person_5796469a1008de243871637159be351576614777885dbe8359021422d7df5a40"
+    },
+    {
+      "type": "Person",
+      "name": "Français",
+      "id": "Person_be586f27702001506e399df5686940bc7cfd300765537808e02d811977ae0044"
+    },
+    {
+      "type": "Person",
+      "name": "étranger",
+      "id": "Person_afe9065b2309a6b4bdfb6e74a862ff004b3ba88c6ff873c9d620616713316e81"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre",
+      "id": "Theme_244f853f7768b172bfa360b452830e952b38961f6c116ca930bd4c844fe28eff"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "violence gratuite",
+      "id": "Theme_7dfbf7f15007f259546457594fd12bec81f8e323432397ca94f39a06b06432f9"
+    },
+    {
+      "type": "Theme",
+      "name": "arbitraire",
+      "id": "Theme_5225ba7560c0af9cbd2c4f214d43c776557b77c16df1f002fcfdc1754e5a28e1"
+    },
+    {
+      "type": "Theme",
+      "name": "réalité",
+      "id": "Theme_f61fac0cb01c1748ffc105c9942e7a6ac63b121d7cabbc89d6b44d21af9b5a97"
+    },
+    {
+      "type": "Theme",
+      "name": "débat",
+      "id": "Theme_0b58e1a0fcdb8371d4b6af48f51c7da634083d74ba893b640e5e939e959827a2"
+    },
+    {
+      "type": "Theme",
+      "name": "société",
+      "id": "Theme_23d952489b07041be7b06f706f86ec7cfc55af055e1b2e2f815671e6fa2ef5ed"
+    },
+    {
+      "type": "Person",
+      "name": "Michel Zecler",
+      "id": "Person_b0bf97cf735d96e951c1c33e3cf5a356c96aa7069b4fa880ba939b5358bfccfb"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France est un pays d'ordre et de liberté, pas de violence gratuite et d'arbitraire.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "ordre",
+      "evidence": "La France est un pays d'ordre et de liberté, pas de violence gratuite et d'arbitraire.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_244f853f7768b172bfa360b452830e952b38961f6c116ca930bd4c844fe28eff"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "liberté",
+      "evidence": "La France est un pays d'ordre et de liberté, pas de violence gratuite et d'arbitraire.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "violence gratuite",
+      "evidence": "La France est un pays d'ordre et de liberté, pas de violence gratuite et d'arbitraire.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_7dfbf7f15007f259546457594fd12bec81f8e323432397ca94f39a06b06432f9"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "arbitraire",
+      "evidence": "La France est un pays d'ordre et de liberté, pas de violence gratuite et d'arbitraire.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_5225ba7560c0af9cbd2c4f214d43c776557b77c16df1f002fcfdc1754e5a28e1"
+    }
+  ]
+}

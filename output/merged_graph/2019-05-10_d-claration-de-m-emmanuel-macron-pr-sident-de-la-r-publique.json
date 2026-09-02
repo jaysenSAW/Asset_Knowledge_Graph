@@ -1,0 +1,610 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Jean-Marc AYRAULT",
+      "id": "Person_ad9e8767f949235c2bab039a15a121e324c330b9c09745bc23b871ea3667f295"
+    },
+    {
+      "type": "Person",
+      "name": "Frédéric RÉGENT",
+      "id": "Person_3183f3b738e320966fe63e5ecc25f35f2733a8f890aa55856295f1d971b7407d"
+    },
+    {
+      "type": "Person",
+      "name": "Nadia MURAD",
+      "id": "Person_48c0ec66b5b103e207510ff34c5edcd6caa08e871c502dbe6ae99fe14a9e04a9"
+    },
+    {
+      "type": "Person",
+      "name": "abbé GRÉGOIRE",
+      "id": "Person_9b35538b5e0d9bed5e643aad3f4a607fe89b88a95620f2e6356d3e335a189b37"
+    },
+    {
+      "type": "Person",
+      "name": "CONDORCET",
+      "id": "Person_f155816f241fa304f9b5605ecb292690f5218dce3d595066ced79fbbddd4cd69"
+    },
+    {
+      "type": "Person",
+      "name": "TOUSSAINT-LOUVERTURE",
+      "id": "Person_d0607ae96522d24ad042727681257b2c87ac855c1b3e138de6c57e5ea1316acb"
+    },
+    {
+      "type": "Person",
+      "name": "Louis DELGRÈS",
+      "id": "Person_78ffa37c2bddfeb71c9e16b13bddfe7f17bb65916e0ae474311bd9886b72edf7"
+    },
+    {
+      "type": "Person",
+      "name": "Victor SCHOELCHER",
+      "id": "Person_61ce673b316dda27cfa92fa19f715b1ebe83342fac7dcddb3292e743f2ec991b"
+    },
+    {
+      "type": "Person",
+      "name": "Cyril BISSETTE",
+      "id": "Person_c65a45e7a0884b3d002eafd06690907ed7b8608c87f19b78c225f4434fa17964"
+    },
+    {
+      "type": "Person",
+      "name": "LAMARTINE",
+      "id": "Person_12b4f71a386a613fdf1a9d7009b5101168f30e68ee24bf8c575329606707839c"
+    },
+    {
+      "type": "Person",
+      "name": "Christiane TAUBIRA",
+      "id": "Person_bb5b5bc917785ab43e2b06f3fcc47aa3a8b2dd6cd30655be997699ecf0d356c6"
+    },
+    {
+      "type": "Law",
+      "name": "la loi qui porte votre nom",
+      "id": "Law_262c5ff7e1e21020e754cd25f6cd5a389d29c6e338e809279cf8807ba90e5fc9"
+    },
+    {
+      "type": "Theme",
+      "name": "la traite et l'esclavage",
+      "id": "Theme_a8d6504d505961c208df20e58ab86ff2bf48c9523dc208e84f8d09fede548b53"
+    },
+    {
+      "type": "Theme",
+      "name": "crime contre l'humanité",
+      "id": "Theme_43052a3d96024be80ce6d4593ffbcab346c04301ae272f7002d1f878075f80d2"
+    },
+    {
+      "type": "Theme",
+      "name": "esclavage",
+      "id": "Theme_6c8a39580c293f0e1a0b51fe1a62e8835ea56eaa637002c41f0227b20ad85fdd"
+    },
+    {
+      "type": "Theme",
+      "name": "humanité",
+      "id": "Theme_ebe8df3ac285e08d8c5b09a171c984dd674712e8f6706876ba58be414310d3e9"
+    },
+    {
+      "type": "Person",
+      "name": "Jacques CHIRAC",
+      "id": "Person_c5baa8a5552da44162bf6dc8ec3626534a46a25097e452f9b23cbe169ac46f3e"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "traite",
+      "id": "Theme_61dd22d0be231f980d2e5f1920d0f52eb99ae3fbb6f17d294c15eb3ea5831bbd"
+    },
+    {
+      "type": "Theme",
+      "name": "abolitions",
+      "id": "Theme_92e9b69f97aaefd64b3447b68f3261ba9b7ac9f0ab4958a588357dbc16fcdb86"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "diversité",
+      "id": "Theme_6cc4bb1678e642d4ee3f4b5dc04bc554310abfe7ca2c11509232cbba37f90a92"
+    },
+    {
+      "type": "Theme",
+      "name": "destin mondial",
+      "id": "Theme_cca9209fbb4022e3442e7c643dc3cbac555dff54db395be19178dacb7001a236"
+    },
+    {
+      "type": "Theme",
+      "name": "combats",
+      "id": "Theme_7743f3c678c446384550fffe0c1e44b3dfe9d88bea4af764687221da1a9bce14"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "Afrique",
+      "id": "Theme_e53ae647bc41c3aecc727ca2595afd63d86f12f3de9d9d071f207288bfe98093"
+    },
+    {
+      "type": "Theme",
+      "name": "Caraïbes",
+      "id": "Theme_45e866745ea66371dd04dd4ea2d1d3732332dd232375933a0ef9dbf4985ab600"
+    },
+    {
+      "type": "Theme",
+      "name": "Amérique",
+      "id": "Theme_53f315f40b42eb75666833326785e85beb976260d5ce892c6e0966b664a403db"
+    },
+    {
+      "type": "Theme",
+      "name": "Océan Indien",
+      "id": "Theme_444471851c34775ca25c98fd22b3c39e6bfb6f411efdcdd37e646d2112c67714"
+    },
+    {
+      "type": "Theme",
+      "name": "négritude",
+      "id": "Theme_fd1502cbde049edc6586372f344a00bb2548fbdb5df7bedade14af541bb64da2"
+    },
+    {
+      "type": "Theme",
+      "name": "syncrétisme",
+      "id": "Theme_aec5a04a754e690e5863b99ba573a0d252ccf9f2dc6a0382a781983a02057112"
+    },
+    {
+      "type": "Theme",
+      "name": "littérature puissante",
+      "id": "Theme_c5bb3870b1ed5543bf975e02ab7d1ac2a3017cffe5115d595252d9dd283fabe0"
+    },
+    {
+      "type": "Theme",
+      "name": "métissage des cultures",
+      "id": "Theme_10e9bf08019dbb6987a104705674157a6884eee2ab41c75b3e2e379fa47e874c"
+    },
+    {
+      "type": "Theme",
+      "name": "créolisation du monde",
+      "id": "Theme_749a6d607ec267a75412f4bfe02cde65c12dce79395390297c781f5688343353"
+    },
+    {
+      "type": "Person",
+      "name": "Aimé CÉSAIRE",
+      "id": "Person_ba23628cd30d57483499583c2c25009bcc1c7df15cba0231d41796340b83252b"
+    },
+    {
+      "type": "Person",
+      "name": "Léopold SÉDAR SENGHOR",
+      "id": "Person_f2752804a52abf6c792cebfa5c6f232b720e36ed8281ee2e086a73b1833b215f"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Michel BASQUIAT",
+      "id": "Person_55a0245aa3ecd0461db04fb6cc40c6988584f6fafd3a352f72833034ba5eb42a"
+    },
+    {
+      "type": "Person",
+      "name": "Maryse CONDÉ",
+      "id": "Person_54b75f4e2606bdc9db5c0c162fed80882dbabe8d566bb82ec91ac9298bed24dc"
+    },
+    {
+      "type": "Person",
+      "name": "Édouard GLISSANT",
+      "id": "Person_de7ad81cd9090963c36fa51eb2758f9c365e01be5483199530a2e735f8fba504"
+    },
+    {
+      "type": "Person",
+      "name": "Patrick CHAMOISEAU",
+      "id": "Person_d40f8a8a818d89182a36e8f3972efda7e7acf1282f8e86c0bcdd6d146f2832c4"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Country",
+      "name": "République",
+      "id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Tuileries",
+      "id": "City_e5a757b0e1dd8970278456a95daf3b615a0e16aa65ec72789506e67e13719e2b"
+    },
+    {
+      "type": "City",
+      "name": "ancienne demeure royale et impériale des Tuileries",
+      "id": "City_f9037f679b77c641c491431e5ee15134a2c86c5df8345f77cfc4b03fc47c941c"
+    },
+    {
+      "type": "City",
+      "name": "Hôtel de la Marine",
+      "id": "City_de0778a7889c63d128b18ae367cbdbae1107226b13f8cb065498bdcbd734b70c"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation pour la mémoire de l'esclavage",
+      "id": "Organization_421a0f4702f81ba64cfd638bf05e9648b5e9edcc796e415d94175a268b00275f"
+    },
+    {
+      "type": "Organization",
+      "name": "Hôtel de la Marine",
+      "id": "Organization_6117aee49cdfdaee9f5dab5106eb655fcbff04f2d5bad1b6cbfbc14fa8d95e2f"
+    },
+    {
+      "type": "Person",
+      "name": "Lionel ZINSOU",
+      "id": "Person_c2162584a4d8bf5058e680ccd51fe4ac9450a3a9fa8e474e5a70489bafefa66c"
+    },
+    {
+      "type": "Organization",
+      "name": "institution nationale moderne",
+      "id": "Organization_280484b8903bdb1a1287a24beb73d0764efb8f8d116b6d0aacbfc7d466493039"
+    },
+    {
+      "type": "Organization",
+      "name": "Mémorial ACTe de Point-à-Pitre en Guadeloupe",
+      "id": "Organization_1951dcfa8aac0afcf62ff89b7edc3d4d00695d0a29009024e0bd20d8d92d587e"
+    },
+    {
+      "type": "City",
+      "name": "Point-à-Pitre",
+      "id": "City_6b0bce4b00167ac573123e4f2204b82663ba1e1b9510198ecfed2962d61fee53"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Organization",
+      "name": "Région",
+      "id": "Organization_63f7a47a75715c9c27edcabe3ee93e2bac09d0c6b542f047f7c253738775aafd"
+    },
+    {
+      "type": "Organization",
+      "name": "Communauté d'agglomération",
+      "id": "Organization_b2d76b2dbc800f17adea643ed0978f9702fae5f50333c9d84b566fa63a0b08ee"
+    },
+    {
+      "type": "Person",
+      "name": "Victorin LUREL",
+      "id": "Person_deefc6c483697b67aea5bba7309aa5f45561f4be608d4f7cff2d1351ae5191cc"
+    },
+    {
+      "type": "Person",
+      "name": "Ary CHALUS",
+      "id": "Person_a63fd7b540bdf88a547b61f7b85755d77f2329fa5a71f480999b391a5856b026"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyenneté",
+      "id": "Theme_299e26433fd038aaeb6d9c98e39f7323f3f780a7ec7bf9addad3444e3982be18"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "système esclavagiste",
+      "id": "Theme_7b99fe9b67c3fa23b17eab239920efe216b7992cf6ee6a1984b2a0485db3138f"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire de l'esclavage",
+      "id": "Theme_22a66499093f2354560a6aa8166d70194db163f2e692485972470970e365452d"
+    },
+    {
+      "type": "Theme",
+      "name": "mémoire",
+      "id": "Theme_3c9e6d3a23e7c3fe0d187e98745e316e283ccf9f53618547ce1cecd4b8f46fb9"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Asie",
+      "id": "Country_125df38c941d6e9ca59fdabf4abad62d160982babf9162638b212439be445421"
+    },
+    {
+      "type": "Country",
+      "name": "Proche et Moyen-Orient",
+      "id": "Country_e0b323e9f3a1ca202741b7afa696c4252d461df07e8587577b8d55eea9f7a3ea"
+    },
+    {
+      "type": "Person",
+      "name": "Denis MUKWEGE",
+      "id": "Person_c9f0409bf4ae5306d13c7a6586b920dda66dccc5a6ab5761403767ca39f6c35b"
+    },
+    {
+      "type": "Organization",
+      "name": "Boko Haram",
+      "id": "Organization_ca77dd8c41543c0c68de07cfd6206c080e663c84990b1bca9d629226240ef2dd"
+    },
+    {
+      "type": "Organization",
+      "name": "Daech",
+      "id": "Organization_29dbc689382b03a0461f60f5b49453c647eb8d5462c8e491c8f8521e53f511fb"
+    },
+    {
+      "type": "Person",
+      "name": "Nadia",
+      "id": "Person_af7a951c23cfa4739e2104561f1b009467627c2ee6b0eeac5df97ab5cceb1838"
+    },
+    {
+      "type": "Person",
+      "name": "Simone VEIL",
+      "id": "Person_4da84d085d0414be46d06181049192bfa187ee57577e2d7a7fe5104add18936e"
+    },
+    {
+      "type": "Person",
+      "name": "Aissa DOUMARA",
+      "id": "Person_3bf18779b71a05e8678c73e6eb4827b40ae94ab2c4bf9643d3a66e6ee8f79b25"
+    },
+    {
+      "type": "Country",
+      "name": "Cameroun",
+      "id": "Country_3dbed6a774b1c2a19e9d3ef0f7db7ed85220ea9016220d7e1e7d4036e88053f9"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité des Nations Unies",
+      "id": "Organization_6bf65c40c2dc11306e0f78e403029002e380728d5788808146d88e7f36b63686"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation Internationale du Travail",
+      "id": "Organization_b09dfff395088a1dc2dfbfd3ddb18be909220cabaaba0c489f0c00eebe7f7a0c"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations Unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Convention de Palerme",
+      "id": "Organization_1c25f3bfca86eae8d4a4885240827df6005e7975f6f3391f6e3389efdbadaf60"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Country",
+      "name": "Corne de l'Afrique",
+      "id": "Country_448a473e99166fd655fa09650d68d8f99868526a30f13ee06d5a58f8eba9082f"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Costa Rica",
+      "id": "Country_56a1ed746f8c212254f14b70bd54599a0988a231454f23ef88a73340b229d1f5"
+    },
+    {
+      "type": "Theme",
+      "name": "traite des êtres humains",
+      "id": "Theme_4f85ee7bba25ef5ba163247678e2ad6363a1cee70bf8221b6ac878609f564e54"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Theme",
+      "name": "émancipation",
+      "id": "Theme_f065c4ae0b5f92b698169ed43af465c75aa8cc1a41199ad1c664e2181d37ea78"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Christiane TAUBIRA",
+      "relation": "PROPOSED",
+      "target": "la loi qui porte votre nom",
+      "evidence": "La loi qui porte votre nom, chère Christiane TAUBIRA, a reconnu la part tragique de cette histoire.",
+      "confidence": 1.0,
+      "source_id": "Person_bb5b5bc917785ab43e2b06f3fcc47aa3a8b2dd6cd30655be997699ecf0d356c6",
+      "target_id": "Law_262c5ff7e1e21020e754cd25f6cd5a389d29c6e338e809279cf8807ba90e5fc9"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "histoire",
+      "evidence": "Cette histoire est notre histoire. Elle a donné à la France un destin mondial, elle a forgé les combats et les valeurs de la République.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "diversité",
+      "evidence": "Cette histoire est notre histoire. Elle a donné à la France un destin mondial, elle a forgé les combats et les valeurs de la République. Elle explique la diversité de notre société.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_6cc4bb1678e642d4ee3f4b5dc04bc554310abfe7ca2c11509232cbba37f90a92"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "destin mondial",
+      "evidence": "Cette histoire est notre histoire. Elle a donné à la France un destin mondial, elle a forgé les combats et les valeurs de la République.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_cca9209fbb4022e3442e7c643dc3cbac555dff54db395be19178dacb7001a236"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "combats",
+      "evidence": "Cette histoire est notre histoire. Elle a donné à la France un destin mondial, elle a forgé les combats et les valeurs de la République.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_7743f3c678c446384550fffe0c1e44b3dfe9d88bea4af764687221da1a9bce14"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "valeurs",
+      "evidence": "Cette histoire est notre histoire. Elle a donné à la France un destin mondial, elle a forgé les combats et les valeurs de la République.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "République",
+      "evidence": "Cette histoire est notre histoire. Elle a donné à la France un destin mondial, elle a forgé les combats et les valeurs de la République.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    },
+    {
+      "source": "esclavage",
+      "relation": "MENTIONS",
+      "target": "esclavage",
+      "evidence": "171 ans ont passé depuis l'abolition de l'esclavage dans les colonies françaises",
+      "confidence": 1.0,
+      "source_id": "Theme_6c8a39580c293f0e1a0b51fe1a62e8835ea56eaa637002c41f0227b20ad85fdd",
+      "target_id": "Theme_6c8a39580c293f0e1a0b51fe1a62e8835ea56eaa637002c41f0227b20ad85fdd"
+    },
+    {
+      "source": "Aimé CÉSAIRE",
+      "relation": "SPOKE_ABOUT",
+      "target": "négritude",
+      "evidence": "La négritude d'Aimé CÉSAIRE et de Léopold SÉDAR SENGHOR",
+      "confidence": 1.0,
+      "source_id": "Person_ba23628cd30d57483499583c2c25009bcc1c7df15cba0231d41796340b83252b",
+      "target_id": "Theme_fd1502cbde049edc6586372f344a00bb2548fbdb5df7bedade14af541bb64da2"
+    },
+    {
+      "source": "Léopold SÉDAR SENGHOR",
+      "relation": "SPOKE_ABOUT",
+      "target": "négritude",
+      "evidence": "La négritude d'Aimé CÉSAIRE et de Léopold SÉDAR SENGHOR",
+      "confidence": 1.0,
+      "source_id": "Person_f2752804a52abf6c792cebfa5c6f232b720e36ed8281ee2e086a73b1833b215f",
+      "target_id": "Theme_fd1502cbde049edc6586372f344a00bb2548fbdb5df7bedade14af541bb64da2"
+    },
+    {
+      "source": "Jean-Michel BASQUIAT",
+      "relation": "SPOKE_ABOUT",
+      "target": "syncrétisme",
+      "evidence": "le syncrétisme de Jean-Michel BASQUIAT",
+      "confidence": 1.0,
+      "source_id": "Person_55a0245aa3ecd0461db04fb6cc40c6988584f6fafd3a352f72833034ba5eb42a",
+      "target_id": "Theme_aec5a04a754e690e5863b99ba573a0d252ccf9f2dc6a0382a781983a02057112"
+    },
+    {
+      "source": "Maryse CONDÉ",
+      "relation": "SPOKE_ABOUT",
+      "target": "littérature puissante",
+      "evidence": "la littérature puissante de Maryse CONDÉ",
+      "confidence": 1.0,
+      "source_id": "Person_54b75f4e2606bdc9db5c0c162fed80882dbabe8d566bb82ec91ac9298bed24dc",
+      "target_id": "Theme_c5bb3870b1ed5543bf975e02ab7d1ac2a3017cffe5115d595252d9dd283fabe0"
+    },
+    {
+      "source": "Fondation pour la mémoire de l'esclavage",
+      "relation": "LOCATED_IN",
+      "target": "Hôtel de la Marine",
+      "evidence": "La Fondation pour la mémoire de l'esclavage sera, elle, installée dans les tout prochains mois à l'Hôtel de la Marine.",
+      "confidence": 1.0,
+      "source_id": "Organization_421a0f4702f81ba64cfd638bf05e9648b5e9edcc796e415d94175a268b00275f",
+      "target_id": "Organization_6117aee49cdfdaee9f5dab5106eb655fcbff04f2d5bad1b6cbfbc14fa8d95e2f"
+    },
+    {
+      "source": "Mémorial ACTe de Point-à-Pitre en Guadeloupe",
+      "relation": "LOCATED_IN",
+      "target": "Point-à-Pitre",
+      "evidence": "ce musée c'est le Mémorial ACTe de Point-à-Pitre en Guadeloupe",
+      "confidence": 1.0,
+      "source_id": "Organization_1951dcfa8aac0afcf62ff89b7edc3d4d00695d0a29009024e0bd20d8d92d587e",
+      "target_id": "City_6b0bce4b00167ac573123e4f2204b82663ba1e1b9510198ecfed2962d61fee53"
+    },
+    {
+      "source": "Région",
+      "relation": "SUPPORTS",
+      "target": "Ary CHALUS",
+      "evidence": "La région qui a engagé ce projet à l'initiative de Victorin LUREL, et qui continue de le porter avec énergie aujourd'hui à travers la détermination de Ary CHALUS en restera le principal soutien",
+      "confidence": 1.0,
+      "source_id": "Organization_63f7a47a75715c9c27edcabe3ee93e2bac09d0c6b542f047f7c253738775aafd",
+      "target_id": "Person_a63fd7b540bdf88a547b61f7b85755d77f2329fa5a71f480999b391a5856b026"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "traite des êtres humains",
+      "evidence": "la France rejoindra la campagne “coeurs bleus” des Nations Unies qui, précisément, a pour objectif d'encourager les États comme les citoyens à se mobiliser pour lutter contre la traite des êtres humains.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_4f85ee7bba25ef5ba163247678e2ad6363a1cee70bf8221b6ac878609f564e54"
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le président directeur général",
+      "id": "Person_7ce82a40a6ddb881b2bbf2183ddca4b5f9647442c3585519c0470898375ca716"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président de la conférence",
+      "id": "Person_98448b68fcc45878af3086b0e0d387d470f8fe3a73e22aa65165a71aeb2b81f5"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames Messieurs les présidents d'organismes, d'universités",
+      "id": "Person_b4f7079bd450700896f149f2860328ce79659d7bf38b444d4094715d690bad87"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames Messieurs les parlementaires",
+      "id": "Person_f879153b28740d9514dbcd93603cc82282967a253c73170eff53755abbb16289"
+    },
+    {
+      "type": "Person",
+      "name": "chercheurs",
+      "id": "Person_3c4088165ae2bceedcc2877e82ed2c57d57205446010d0fd89acd38dc78cf569"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "CNRS",
+      "id": "Organization_9797a7b293510a1bf26addf4f9eb951f6a91dfb71b6b8d8c7031c08fb95a0fa4"
+    },
+    {
+      "type": "Organization",
+      "name": "Collège de France",
+      "id": "Organization_21d5fb17f94a512c81919e9be869b460129179f8e76d30d2b0b8e1c8c8fbe654"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Jean ZAY",
+      "id": "Person_b8f0b8590dc7ccba54c5b958abca1c2c24ca40a583d3a978ea603d6291c6bedc"
+    },
+    {
+      "type": "Person",
+      "name": "Léon BLUM",
+      "id": "Person_fb90b623fa0bb0db10df71849bc1e892fc88e1562897cd2b3e283f01a753e397"
+    },
+    {
+      "type": "Person",
+      "name": "Antoine",
+      "id": "Person_658e7f75f94c332ddfd50eae1a8d5975fbc85190fca1305fac805a2d504e1efe"
+    },
+    {
+      "type": "Person",
+      "name": "Jean PERRIN",
+      "id": "Person_f25186b206d4f1c6b30f703d5bff5346869ad34c7f7dd7617e91f826edfa757e"
+    },
+    {
+      "type": "Person",
+      "name": "Frédéric JOLIOT",
+      "id": "Person_f2d3a66052daf40d6515157e5aeb68d92d67c85fc24964c22e424a2572580e43"
+    },
+    {
+      "type": "Person",
+      "name": "Hubert CURIEN",
+      "id": "Person_9877745adcfdeb7f909799a0c05c3a84479477662bbce7f96a394c9a94783fbb"
+    },
+    {
+      "type": "Country",
+      "name": "le pays",
+      "id": "Country_a03263ca275efa2d2c5ee5e45853980c9a341766037b1334f390d85cd0705136"
+    },
+    {
+      "type": "Theme",
+      "name": "les connaissances",
+      "id": "Theme_842c102ee215160e7d224fa0de2689cdc660222329e6e4cac8489a11c34f11f0"
+    },
+    {
+      "type": "Theme",
+      "name": "les découvertes",
+      "id": "Theme_15f92608f2706a0dfad4f10bef0f219b5d11b6786f5fc23786c45d4415c8dfdc"
+    },
+    {
+      "type": "Theme",
+      "name": "la recherche fondamentale",
+      "id": "Theme_c039c15b91580fab9ec519ff48a0bf660cd24a7e19d7ebd06b612cd9ba80b26c"
+    },
+    {
+      "type": "Theme",
+      "name": "la recherche plus technologique ou appliquée",
+      "id": "Theme_5607ebc84ac0ef01433b81dfeea69037f84fc559ee015261974ba2707b7cc4d1"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle de liberté",
+      "id": "Theme_30386be3b51f32d22f6cc9047e4b2799932fe07d8224e52b1f0db0681ed27489"
+    },
+    {
+      "type": "Theme",
+      "name": "attachement",
+      "id": "Theme_729e1c86d51f12efd903be17e384a04702b552e25090f0467b0177a14cfd82e4"
+    },
+    {
+      "type": "Theme",
+      "name": "connaissance",
+      "id": "Theme_b95f8e0ec3586745d1662f7770a2df991c48ffdfaeec3bfb3d9087f8fe11f379"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement supérieur",
+      "id": "Theme_7358df2b51617f762113656dad284efe5d3bfcb777ab4f84d15615a00bd96f14"
+    },
+    {
+      "type": "Theme",
+      "name": "pays",
+      "id": "Theme_5836828ee3d8fa593516bc08496d10257dac03542b9574bc9646bddf731326cb"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "compétences",
+      "id": "Theme_f4baf676a1a91b846e556f812ea2e6452ecc1b7c2b3a87f971cd7e60c4b42995"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies de communication",
+      "id": "Theme_ccdf52e0d31bfb40b2c947244c69291ab3ddc69c842872199b1217846da8d07d"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche biomédicale",
+      "id": "Theme_bd24c083c0bd505ec8a636a9eecbda4a0406b39ce5cc41d4bd36576bb550067c"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie de santé",
+      "id": "Theme_a0121ecfe3b07b01fd5767e0f0b7862fc3b5c8a9ae215722280275240be7f539"
+    },
+    {
+      "type": "Theme",
+      "name": "individualisation de la médecine",
+      "id": "Theme_667dc36c9e69545432e6a36311ecb3eb04439c2b887edd1eb0078ee22fd20936"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération internationale ouverte",
+      "id": "Theme_2b5bf4cde0ee902b5941195298144c8ccca6179edad9634d5b396d240eb90d89"
+    },
+    {
+      "type": "Theme",
+      "name": "5G",
+      "id": "Theme_47152ec4fdb1e969992c2378861e2673bb6d49339b0f5a5b037d241db358a595"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle chinoise",
+      "id": "Theme_123dcb1326748a92863efa642d044b8c954f720b0c88329dc2b11d39f0c40907"
+    },
+    {
+      "type": "Theme",
+      "name": "choix médicaux",
+      "id": "Theme_0388d02adaa959c9b7070845ba5dda9fbf0a3522659389235cf387a31c3c419e"
+    },
+    {
+      "type": "Theme",
+      "name": "choix éthique",
+      "id": "Theme_552b8bc380d68685cebff36856a3787eed4f72d0d42ad9173b8fdeaa4db1fe6e"
+    },
+    {
+      "type": "Theme",
+      "name": "interdisciplinarité",
+      "id": "Theme_e89a0df5050416d099e86465ec6e1a0865583b20ff38e67ed4330698bc13506e"
+    },
+    {
+      "type": "Theme",
+      "name": "limites éthiques",
+      "id": "Theme_8d335a217b7cf2b041381b5dd58beb2875731bbd1bd0f21b4ec500a9f7b6f294"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes profondes",
+      "id": "Theme_6e8f259a961e20c5a697c889f84b8e6487777108993a9a87a282d380eab49a96"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition plus grande",
+      "id": "Theme_3f1bbc8e80294fc7b0fcdaa42697856b890269b7220a43834187519fb0121ca0"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition européenne",
+      "id": "Theme_b9cc755f285245b083b8958673504dcd560871076cd5d85cb3fb08a1ec12002b"
+    },
+    {
+      "type": "Theme",
+      "name": "grands programmes européens",
+      "id": "Theme_dcf5f19af9849257ffc0916497f2b3a384367d4baf0bc38853f4e27e35ec9247"
+    },
+    {
+      "type": "Theme",
+      "name": "ERC",
+      "id": "Theme_6696ee6bf3b9b596d1b721d9a1781dbaa874303fa17004a42ff93c68b5954644"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "ouverture",
+      "id": "Theme_d26e5520976d90b087bf131ac2ad0a496e1e510b33f2d5f036ee68ae2c8b562e"
+    },
+    {
+      "type": "Theme",
+      "name": "décloisonnement",
+      "id": "Theme_b6349c536ee76eee4bdea073ba36bdbfa01f2d669e6c49cb17996fda0a4ca936"
+    },
+    {
+      "type": "Theme",
+      "name": "exigences raisonnables",
+      "id": "Theme_6168b2945fbee50afeb09398224f35e220f84360a68c7142d6b77518158eae40"
+    },
+    {
+      "type": "Theme",
+      "name": "regard",
+      "id": "Theme_951d113a7e3e93dea0caf23367d8dca562c3ad1b59b2f02fa1c82c67bc0a36fc"
+    },
+    {
+      "type": "Theme",
+      "name": "défis technologiques",
+      "id": "Theme_91ca652566970e6a7239b98759f801e52c0f2f47deb4e45d13d28f5fc37b32c6"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité de la société",
+      "id": "Theme_30e752b70583a537167bec318179a34096b4872e079851f4a6d2ea8f0a58c200"
+    },
+    {
+      "type": "Theme",
+      "name": "compréhension",
+      "id": "Theme_95220a7cd32cac9f322e786c3f21a17d2a53ad11fa39b724edc5119e9aa919f8"
+    },
+    {
+      "type": "Theme",
+      "name": "défis anthropologiques",
+      "id": "Theme_e9e259d579838c17ca2c622e988c0673a9425fa68751976042bf27f2901bbee6"
+    },
+    {
+      "type": "Theme",
+      "name": "défi climatique",
+      "id": "Theme_5f6371c76761a41d707f9db402070d4627116fd8ee240538fbdd5deb5ab6cb4f"
+    },
+    {
+      "type": "Theme",
+      "name": "défi organisationnel",
+      "id": "Theme_82bd2e3639dc5e89b30f320606e9e0b00cf5aebe1a4f42aeb3f8de596d86d366"
+    },
+    {
+      "type": "Theme",
+      "name": "rapport à la science et à la vérité scientifique",
+      "id": "Theme_01754c447d1541c56f1c2cbca89931b616db3124f9a1fd4ef1ebda008902ae72"
+    },
+    {
+      "type": "Organization",
+      "name": "le CNRS",
+      "id": "Organization_c1db97f1d77210d3a23568b4691448ff5efaa78ea845ccb0dd645c374d0c4478"
+    },
+    {
+      "type": "Person",
+      "name": "le président de la République",
+      "id": "Person_3a23c0261e50cfcafeab3872d343a5f3fae86dee0bce4035dc7c00a5c001708f"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France est ce pays étrange où généralement on a conçu les choses qu'on voulait faire marcher, pardon Monsieur le président, à part de l'université.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Collège de France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Depuis le Collège de France, nous avons cette histoire un peu étrange et peut-être arrivons-nous d'ailleurs au moment de notre histoire collective où grâce justement à ce que nous sommes en train de collectivement de faire on va pouvoir réconcilier tout cela.",
+      "confidence": 1.0,
+      "source_id": "Organization_21d5fb17f94a512c81919e9be869b460129179f8e76d30d2b0b8e1c8c8fbe654",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "CNRS",
+      "relation": "ALLIED_WITH",
+      "target": "Europe",
+      "evidence": "il en est de même pour le CNRS. Il est quand même étonnant de constater qu'une institution comme celle-ci, qu'un organisme comme celui-ci qui éclaire, pense à l'avenir, à la recherche ait été fait il y a 80 ans à un moment où l'histoire de la France et de l'Europe pourrait sembler plus obscurcie que lumineuse.",
+      "confidence": 1.0,
+      "source_id": "Organization_9797a7b293510a1bf26addf4f9eb951f6a91dfb71b6b8d8c7031c08fb95a0fa4",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "5G",
+      "relation": "MENTIONS",
+      "target": "intelligence artificielle chinoise",
+      "evidence": "La 5G comme l'intelligence artificielle chinoise ou américaine n'est peut-être pas la même que l'intelligence artificielle ou la 5G européenne",
+      "confidence": 1.0,
+      "source_id": "Theme_47152ec4fdb1e969992c2378861e2673bb6d49339b0f5a5b037d241db358a595",
+      "target_id": "Theme_123dcb1326748a92863efa642d044b8c954f720b0c88329dc2b11d39f0c40907"
+    }
+  ]
+}

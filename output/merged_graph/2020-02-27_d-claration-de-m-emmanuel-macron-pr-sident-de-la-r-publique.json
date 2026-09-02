@@ -1,0 +1,593 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Giuseppe",
+      "id": "Person_1529a3e1265109a097fc4072837dfe600ddfc2edf84133c70854a85cc7b3d535"
+    },
+    {
+      "type": "City",
+      "name": "Naples",
+      "id": "City_dce8cb6c64ff6608b147cd488062b91f921510e3792c91279459d747a1754215"
+    },
+    {
+      "type": "Person",
+      "name": "le maire de Naples",
+      "id": "Person_9f78d3f9ff47b66a93ed7358a1c1c73ef1f1879623083254cb04410a8774cd9d"
+    },
+    {
+      "type": "City",
+      "name": "Pau",
+      "id": "City_aae88dca61617f4b2361b23b514b33d2f48d85277532d7af51eb52097994042e"
+    },
+    {
+      "type": "Person",
+      "name": "Stendhal",
+      "id": "Person_b63651eb3150c7895721ead56d01f985ac99b64d26386d4a50d67b3b9ec87902"
+    },
+    {
+      "type": "Person",
+      "name": "Lamartine",
+      "id": "Person_12b4f71a386a613fdf1a9d7009b5101168f30e68ee24bf8c575329606707839c"
+    },
+    {
+      "type": "Person",
+      "name": "Dumas",
+      "id": "Person_6bc97f40c5dfba7c1ed8b55ef88de18f9cadc0e994d4399b28746e81fa7bfd01"
+    },
+    {
+      "type": "Person",
+      "name": "André Gide",
+      "id": "Person_19749c7f7bff36aabab7de8313a20dd8e4f1a149a6d4d5eb7c9d90193f330192"
+    },
+    {
+      "type": "Person",
+      "name": "Dominique Fernandez",
+      "id": "Person_f813416ae5867977d323e35dffaa6d53faee39986e4c131cd34d71fe9d9637cb"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Noël Schifano",
+      "id": "Person_56773b5643523760d3438e807825c7b4a7a931c709a279adf922aeab642e1e3e"
+    },
+    {
+      "type": "City",
+      "name": "Rome",
+      "id": "City_bc9eafd579b1837ab888536a3c2bb01c9f6f51d22c498c57a5e42451046bc036"
+    },
+    {
+      "type": "Organization",
+      "name": "ensemble des autorités sanitaires",
+      "id": "Organization_1ec3466f8c973938ad9f7d707bc44ca9fe951feade8676288910acca400f7a32"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "amitié",
+      "id": "Theme_da59468cff46157116230d1b59468dc6ee8497b19a27cf4c7344818aedeeeb88"
+    },
+    {
+      "type": "Theme",
+      "name": "coronavirus",
+      "id": "Theme_4bded5c57cff866d2e999626cf9775e5dd7ba8763552a20f19532983132195d7"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération européenne et internationale",
+      "id": "Theme_841562557fc985bc0ad911e3357232232e248eff15040b79958ebcc88276c23e"
+    },
+    {
+      "type": "Person",
+      "name": "Edouardo de Filippo",
+      "id": "Person_fb7ee5799be1401e3bf9602e97332d88c92574217be44f5bf664c404a9b32a4e"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Mattarella",
+      "id": "Person_b32f4100de177f65a40a7cb916b0e453a3905b09bc9ba7ed6fae51b12125c873"
+    },
+    {
+      "type": "Country",
+      "name": "Méditerranée orientale",
+      "id": "Country_189462dad222c64321928401de63db9d51e41fa95acff447937a14111bff8d8d"
+    },
+    {
+      "type": "City",
+      "name": "détroit d'Ormuz",
+      "id": "City_38e864968a1a9602caac2361678371163a31ef8fe57640f9985ffbd79e928f4e"
+    },
+    {
+      "type": "City",
+      "name": "Sahel",
+      "id": "City_92fe9646c051c53241e17f3fdb2c650a6e9fa01c7eb8480b47877e959ee0b5fe"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Person",
+      "name": "chancelière Merkel",
+      "id": "Person_13c2c8ea40d1883e090c9d7b848b097d539b9ebe95d4deaaba00f62af3b98964"
+    },
+    {
+      "type": "Theme",
+      "name": "sahélien",
+      "id": "Theme_56e5de1a0e2dd9d9bbe86a9a1a81641d04dab91c67546cb4ebe8926486651242"
+    },
+    {
+      "type": "Theme",
+      "name": "iranien",
+      "id": "Theme_08e3bb6019e88f06401116165e9893574eb157cce3bc49f2db951456f8622177"
+    },
+    {
+      "type": "Theme",
+      "name": "Syrie",
+      "id": "Theme_9412bf159aa0ad8f020b6d123edf8a9ec6dbdde869bde3018871bf6585e95324"
+    },
+    {
+      "type": "Theme",
+      "name": "dossier iranien",
+      "id": "Theme_9c9b4b0ecbd1feb2c0aa40d56892958c9e8e3aac9654d019d3379fc297520c3a"
+    },
+    {
+      "type": "Theme",
+      "name": "Idlib",
+      "id": "Theme_2dd0e7a6f5f19bce163efa2fd3c91c3c802391b96f07b1132722afab3a8ad6d9"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "scandale humanitaire",
+      "id": "Theme_ec79fdbcd4b8a4083d57094eba29942e94e58d70e80d37a0b8c0f0a9855a5692"
+    },
+    {
+      "type": "Theme",
+      "name": "centres médicaux",
+      "id": "Theme_add0f422975cd3d053d89fd4c1b752061eca928bca186149469cbeea63b52a3e"
+    },
+    {
+      "type": "Theme",
+      "name": "droit humanitaire international",
+      "id": "Theme_41b052a03a71bd8ba80a747373f3639db91025c0e8ca47ef62dc11a53741bc9f"
+    },
+    {
+      "type": "Theme",
+      "name": "attaques contre les civils",
+      "id": "Theme_db5d0c30647a2aa046724be2ee8847e77e9231b9913d5a21e843ad52a2205472"
+    },
+    {
+      "type": "Organization",
+      "name": "Caisse des dépôts italienne",
+      "id": "Organization_eda0d179279c5f2994f9d83acb4aa0754b6e50780cb486332b6c5be818563687"
+    },
+    {
+      "type": "Organization",
+      "name": "BPI",
+      "id": "Organization_4681aacf523d8e331fa0c7347000191d8d7836dd24aef197813b3c53297ac26a"
+    },
+    {
+      "type": "Theme",
+      "name": "l'économie",
+      "id": "Theme_9ae8d52a334a1883ff25aa6577c1f006d9273e911a9e7310f0cb671384204398"
+    },
+    {
+      "type": "Theme",
+      "name": "l'innovation",
+      "id": "Theme_c6822701fb742cd379a378dcb087742e7dde0c0cc7048f37a7605537764eff76"
+    },
+    {
+      "type": "Theme",
+      "name": "l'agenda européen",
+      "id": "Theme_a8c6ffff4295f440d4f4ac77feeb78dc6bb5549dd011d505328029c2f4d9b895"
+    },
+    {
+      "type": "Theme",
+      "name": "le naval",
+      "id": "Theme_b3ac69ea605663c38cad2625ca4fa7339dc87ad2ad4ac6e4a8ea7fc3b31f5e2a"
+    },
+    {
+      "type": "Theme",
+      "name": "l'automobile",
+      "id": "Theme_51ef8af4e2b1589e4e8c31ea0714be6cb57c4b99130de5f693df5da6d13546de"
+    },
+    {
+      "type": "Theme",
+      "name": "l'espace",
+      "id": "Theme_e7b41ec2f95df27035399c461d033026b941695e304bf85b04ed8f3544d18b15"
+    },
+    {
+      "type": "Organization",
+      "name": "Esabac",
+      "id": "Organization_c363bdd28eaed5f556def306a848f36432c27e4bb331081cdda5aa2c429ccbf2"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Theme",
+      "name": "Culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "Brexit",
+      "id": "Theme_6006dbbb0e4a76c11c05251b591ad1a5519dc0dbc5901d62bec55283dfbb2868"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Theme",
+      "name": "service public",
+      "id": "Theme_8b37015ab8cc5bb4cc96441ff954f74d0609a857b4fbc784b367f676546b7722"
+    },
+    {
+      "type": "Theme",
+      "name": "autoroute ferroviaire alpin",
+      "id": "Theme_72107278fecefc75090d404d876ff5304b10a5619aaf7f6d37c8ebbabc0dbb1b"
+    },
+    {
+      "type": "Theme",
+      "name": "transfert modal",
+      "id": "Theme_b1e81464169edcaefa944a349548a28b52e5674aed535869beb4a0b97a154b3e"
+    },
+    {
+      "type": "Theme",
+      "name": "émissions",
+      "id": "Theme_09730bbfc9d41b4c62e15ec5dd2926c6cc32776390e00a6abbac2b63dfe4c313"
+    },
+    {
+      "type": "Theme",
+      "name": "coopérations",
+      "id": "Theme_9512cf3da172b952837b9408fb4ce88c92426da6d0b7d6e0d17a6523f63e1c7b"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération scientifique polaire",
+      "id": "Theme_be3f6c58918fe4bb70369a55fa9724a3df36f9899bf9b9421d8bb4b3f5824fca"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda international",
+      "id": "Theme_abd2bb31a7b6335b9f421ecbee920decdbe4917706a89c19477c768a3882928d"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "chercheurs",
+      "id": "Theme_27b19537bc2e5f22d12f1962f8f70e1ee1a330abc70b7478cf5d5d7563117776"
+    },
+    {
+      "type": "Theme",
+      "name": "UICN",
+      "id": "Theme_937a407ea0c44604e6c022541c52f5bd742027214274856de6323487ed47eecf"
+    },
+    {
+      "type": "Theme",
+      "name": "COP Biodiversité",
+      "id": "Theme_12b8ce377ffd63a53b4cec72e9639971a29ea5eb0b8441eae2166b38e824f06f"
+    },
+    {
+      "type": "Theme",
+      "name": "COP de Glasgow",
+      "id": "Theme_63cacb80c246e81b33a0b3777f7a9fd69de88a5a09b9ad279551a274e5bde498"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "Green Deal",
+      "id": "Theme_e63970253e1709ac9067909729fb066b9736d3946c29fabb3145ed8a1899d19a"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs climatiques",
+      "id": "Theme_8cbe5452584e4fb987f77cc1abc7e62697f9c8a6182b5fdf64eb6498d4ab6a65"
+    },
+    {
+      "type": "Theme",
+      "name": "politique économique",
+      "id": "Theme_29af0f01d347faa50be268cfe02d9b42b30afd63a2013c74258706efaf914389"
+    },
+    {
+      "type": "Theme",
+      "name": "politique budgétaire",
+      "id": "Theme_72d294b01c323482c129034dc6c2c749487fc46588c55d608e508253917b8c7c"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance européenne",
+      "id": "Theme_82263a631595ee4807101727146bef5325037f508c5c93dc212ddba664cfcec8"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "zone euro",
+      "id": "Organization_2f6a079aced661f0f4634969da31afaf96d2da3c7a204087ef923b740e9a6b97"
+    },
+    {
+      "type": "Theme",
+      "name": "migratoire",
+      "id": "Theme_121e3ee22312d35dfaec0b86d8085f1481d90cdcd1ae7cd10460dae437ae9d19"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda européen",
+      "id": "Theme_a1765c9c8fbec256df379c869892c4b681263276a5da9fd3a4d00005091fdc3c"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "clivages",
+      "id": "Theme_dc320a4a77de5ce774f00ab81e51ca95edca7c1e4fa885967ec51ce1b9b9e5e1"
+    },
+    {
+      "type": "Theme",
+      "name": "traité du Quirinal",
+      "id": "Theme_c5bdf8e781d629a74ebfc7bf807ec0e43c99343d976166615da7d40876874afe"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les Ministres",
+      "id": "Person_df98c9cabd69056dc2dbae7ad5aa8390dd768609332bdc8c9a4dafe6f2e4b762"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "le maire de Naples",
+      "relation": "VISITED",
+      "target": "Naples",
+      "evidence": "le maire de Naples, l'ensemble des autorités de la ville et de la région",
+      "confidence": 1.0,
+      "source_id": "Person_9f78d3f9ff47b66a93ed7358a1c1c73ef1f1879623083254cb04410a8774cd9d",
+      "target_id": "City_dce8cb6c64ff6608b147cd488062b91f921510e3792c91279459d747a1754215"
+    },
+    {
+      "source": "Stendhal",
+      "relation": "SPOKE_ABOUT",
+      "target": "Naples",
+      "evidence": "Stendhal avait décidé, comme les écrivains peuvent le faire de manière arbitraire, qu'il y avait deux capitales en Europe, Naples et Paris",
+      "confidence": 1.0,
+      "source_id": "Person_b63651eb3150c7895721ead56d01f985ac99b64d26386d4a50d67b3b9ec87902",
+      "target_id": "City_dce8cb6c64ff6608b147cd488062b91f921510e3792c91279459d747a1754215"
+    },
+    {
+      "source": "ministres",
+      "relation": "MENTIONS",
+      "target": "climat",
+      "evidence": "Nos ministres l'ont dit, nous avons un agenda en matière de climat et de biodiversité très important durant cette année 2020",
+      "confidence": 1.0,
+      "source_id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52",
+      "target_id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "source": "ministres",
+      "relation": "MENTIONS",
+      "target": "biodiversité",
+      "evidence": "Nos ministres l'ont dit, nous avons un agenda en matière de climat et de biodiversité très important durant cette année 2020",
+      "confidence": 1.0,
+      "source_id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52",
+      "target_id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "source": "service public",
+      "relation": "MENTIONS",
+      "target": "service public",
+      "evidence": "service public",
+      "confidence": 1.0,
+      "source_id": "Theme_8b37015ab8cc5bb4cc96441ff954f74d0609a857b4fbc784b367f676546b7722",
+      "target_id": "Theme_8b37015ab8cc5bb4cc96441ff954f74d0609a857b4fbc784b367f676546b7722"
+    },
+    {
+      "source": "autoroute ferroviaire alpin",
+      "relation": "MENTIONS",
+      "target": "autoroute ferroviaire alpin",
+      "evidence": "de l'autoroute ferroviaire alpin",
+      "confidence": 1.0,
+      "source_id": "Theme_72107278fecefc75090d404d876ff5304b10a5619aaf7f6d37c8ebbabc0dbb1b",
+      "target_id": "Theme_72107278fecefc75090d404d876ff5304b10a5619aaf7f6d37c8ebbabc0dbb1b"
+    },
+    {
+      "source": "transfert modal",
+      "relation": "MENTIONS",
+      "target": "transfert modal",
+      "evidence": "du transfert modal",
+      "confidence": 1.0,
+      "source_id": "Theme_b1e81464169edcaefa944a349548a28b52e5674aed535869beb4a0b97a154b3e",
+      "target_id": "Theme_b1e81464169edcaefa944a349548a28b52e5674aed535869beb4a0b97a154b3e"
+    },
+    {
+      "source": "émissions",
+      "relation": "MENTIONS",
+      "target": "émissions",
+      "evidence": "de limiter les émissions",
+      "confidence": 1.0,
+      "source_id": "Theme_09730bbfc9d41b4c62e15ec5dd2926c6cc32776390e00a6abbac2b63dfe4c313",
+      "target_id": "Theme_09730bbfc9d41b4c62e15ec5dd2926c6cc32776390e00a6abbac2b63dfe4c313"
+    },
+    {
+      "source": "coopérations",
+      "relation": "MENTIONS",
+      "target": "coopérations",
+      "evidence": "les coopérations ensemble sur justement la recherche",
+      "confidence": 1.0,
+      "source_id": "Theme_9512cf3da172b952837b9408fb4ce88c92426da6d0b7d6e0d17a6523f63e1c7b",
+      "target_id": "Theme_9512cf3da172b952837b9408fb4ce88c92426da6d0b7d6e0d17a6523f63e1c7b"
+    },
+    {
+      "source": "recherche",
+      "relation": "MENTIONS",
+      "target": "recherche",
+      "evidence": "la recherche et notre coopération scientifique polaire",
+      "confidence": 1.0,
+      "source_id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460",
+      "target_id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "source": "agenda international",
+      "relation": "MENTIONS",
+      "target": "agenda international",
+      "evidence": "un agenda international",
+      "confidence": 1.0,
+      "source_id": "Theme_abd2bb31a7b6335b9f421ecbee920decdbe4917706a89c19477c768a3882928d",
+      "target_id": "Theme_abd2bb31a7b6335b9f421ecbee920decdbe4917706a89c19477c768a3882928d"
+    },
+    {
+      "source": "jeunesse",
+      "relation": "MENTIONS",
+      "target": "jeunesse",
+      "evidence": "mobiliser notre jeunesse",
+      "confidence": 1.0,
+      "source_id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788",
+      "target_id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "source": "chercheurs",
+      "relation": "MENTIONS",
+      "target": "chercheurs",
+      "evidence": "nos chercheurs",
+      "confidence": 1.0,
+      "source_id": "Theme_27b19537bc2e5f22d12f1962f8f70e1ee1a330abc70b7478cf5d5d7563117776",
+      "target_id": "Theme_27b19537bc2e5f22d12f1962f8f70e1ee1a330abc70b7478cf5d5d7563117776"
+    },
+    {
+      "source": "COP Biodiversité",
+      "relation": "MENTIONS",
+      "target": "COP Biodiversité",
+      "evidence": "la COP Biodiversité en Chine",
+      "confidence": 1.0,
+      "source_id": "Theme_12b8ce377ffd63a53b4cec72e9639971a29ea5eb0b8441eae2166b38e824f06f",
+      "target_id": "Theme_12b8ce377ffd63a53b4cec72e9639971a29ea5eb0b8441eae2166b38e824f06f"
+    },
+    {
+      "source": "COP de Glasgow",
+      "relation": "MENTIONS",
+      "target": "COP de Glasgow",
+      "evidence": "la COP de Glasgow en matière de lutte contre le réchauffement climatique",
+      "confidence": 1.0,
+      "source_id": "Theme_63cacb80c246e81b33a0b3777f7a9fd69de88a5a09b9ad279551a274e5bde498",
+      "target_id": "Theme_63cacb80c246e81b33a0b3777f7a9fd69de88a5a09b9ad279551a274e5bde498"
+    },
+    {
+      "source": "réchauffement climatique",
+      "relation": "MENTIONS",
+      "target": "réchauffement climatique",
+      "evidence": "la COP de Glasgow en matière de lutte contre le réchauffement climatique",
+      "confidence": 1.0,
+      "source_id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621",
+      "target_id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "source": "Green Deal",
+      "relation": "MENTIONS",
+      "target": "Green Deal",
+      "evidence": "la mise en oeuvre du Green Deal",
+      "confidence": 1.0,
+      "source_id": "Theme_e63970253e1709ac9067909729fb066b9736d3946c29fabb3145ed8a1899d19a",
+      "target_id": "Theme_e63970253e1709ac9067909729fb066b9736d3946c29fabb3145ed8a1899d19a"
+    },
+    {
+      "source": "objectifs climatiques",
+      "relation": "MENTIONS",
+      "target": "objectifs climatiques",
+      "evidence": "nos objectifs climatiques plus ambitieux pour 2030",
+      "confidence": 1.0,
+      "source_id": "Theme_8cbe5452584e4fb987f77cc1abc7e62697f9c8a6182b5fdf64eb6498d4ab6a65",
+      "target_id": "Theme_8cbe5452584e4fb987f77cc1abc7e62697f9c8a6182b5fdf64eb6498d4ab6a65"
+    }
+  ]
+}

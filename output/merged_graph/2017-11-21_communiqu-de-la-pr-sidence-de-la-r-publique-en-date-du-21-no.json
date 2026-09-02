@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    },
+    {
+      "type": "Person",
+      "name": "Hassan Rohani",
+      "id": "Person_695837eb6a207257036d121c1fec3dc97fa46307bf6c8b84e927a9322e519d54"
+    },
+    {
+      "type": "Person",
+      "name": "Benjamin Netanyahou",
+      "id": "Person_f523b762a9ed26b15f96f5b77c8a03985e3c1f88f055d8f9bb13948f13480b31"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Présidence de la République",
+      "id": "Person_549ea05a3f084866fbbd2f308feee88ec2e53b387ac0620c111e6dbc376c5ce9"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Président de la République",
+      "relation": "ALLIED_WITH",
+      "target": "Iran",
+      "evidence": "le Président de la République s'est entretenu avec le président iranien, Hassan Rohani",
+      "confidence": 1.0,
+      "source_id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10",
+      "target_id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    }
+  ]
+}

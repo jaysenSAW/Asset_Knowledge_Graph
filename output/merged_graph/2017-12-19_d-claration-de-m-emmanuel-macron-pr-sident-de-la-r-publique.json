@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Sa Majesté le Roi de Jordanie",
+      "id": "Person_cc591ed766d92df95db5fcdf564e1eb78f6edfde0037a41f1a507b0cb93b3215"
+    },
+    {
+      "type": "Country",
+      "name": "Jordanie",
+      "id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "Abdallah",
+      "id": "Person_5f3076c6131fe03f400f53d7321d24e5c4995cccae6036f21aefe7961b9b4e69"
+    },
+    {
+      "type": "City",
+      "name": "Jérusalem",
+      "id": "City_dfd40d6188dd9c7a0e31e67df7305e4c1dacdce3131ca878deef88ad6b482beb"
+    },
+    {
+      "type": "Theme",
+      "name": "Daesh",
+      "id": "Theme_7503fc9e0ce2476e035ebca0ae8e0b56c73bdd42775045ba1cb18fb4e4807bb3"
+    },
+    {
+      "type": "Theme",
+      "name": "terroristes",
+      "id": "Theme_d59b3e6917526ee527ce5381bb55f583e532c879252957540d72a0f1fce69b53"
+    },
+    {
+      "type": "Theme",
+      "name": "crise en Syrie",
+      "id": "Theme_8064b1ab8ee3bd32b8633f6c74c3cb9c6fc0355fba3984e26403950834cb7671"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition internationale contre Daesh",
+      "id": "Organization_8aea3ba9f0f9906671177360f45e404a6d24edbe468cabd138fb408ad8ddd874"
+    },
+    {
+      "type": "Organization",
+      "name": "opération Chammal",
+      "id": "Organization_6a5606eb592480d32dfd3de9f08dc5f658a7d4851ec55a0fe0ea677008ec7751"
+    },
+    {
+      "type": "Theme",
+      "name": "Syrie",
+      "id": "Theme_9412bf159aa0ad8f020b6d123edf8a9ec6dbdde869bde3018871bf6585e95324"
+    },
+    {
+      "type": "Theme",
+      "name": "statut de Jérusalem",
+      "id": "Theme_d46fda1553b35465cb69f3073980dfe9b1bf8fa23366ce2718aeee77948845a2"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "City",
+      "name": "Aqaba",
+      "id": "City_e506c0e7f385260da99ec0beb13c039ad078a072582d0d3abbf188c0e9e454f6"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "Palestine",
+      "id": "Country_b1ebd722dd8ffa39d4f6ceb5282cae944d16f26dce1689b04cbaf84077610527"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Sa Majesté le Roi de Jordanie",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Sa Majesté le Roi de Jordanie, après une première visite en juin dernier, nous a fait l'honneur de revenir à Paris",
+      "confidence": 1.0,
+      "source_id": "Person_cc591ed766d92df95db5fcdf564e1eb78f6edfde0037a41f1a507b0cb93b3215",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "Daesh",
+      "relation": "ALLIED_WITH",
+      "target": "terroristes",
+      "evidence": "Daesh et tous les mouvements terroristes sont dans la région notre principal ennemi.",
+      "confidence": 1.0,
+      "source_id": "Theme_7503fc9e0ce2476e035ebca0ae8e0b56c73bdd42775045ba1cb18fb4e4807bb3",
+      "target_id": "Theme_d59b3e6917526ee527ce5381bb55f583e532c879252957540d72a0f1fce69b53"
+    },
+    {
+      "source": "Jordanie",
+      "relation": "LOCATED_IN",
+      "target": "Jordanie",
+      "evidence": "La Jordanie est gardienne des lieux saints de la ville de Jérusalem et est un partenaire incontournable pour nous sur cette question",
+      "confidence": 1.0,
+      "source_id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad",
+      "target_id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad"
+    }
+  ]
+}

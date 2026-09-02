@@ -1,0 +1,190 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Theme",
+      "name": "référendum",
+      "id": "Theme_4a9f20d7b6af8f6b0d5ae6a3799b5ea2f2d92359d5af489792d864166bcaf9f8"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "transition climatique",
+      "id": "Theme_e75feae75fc3fc33a1090e46506e630bfc0c68d201d672aba551e5a19141a63a"
+    },
+    {
+      "type": "Theme",
+      "name": "digital",
+      "id": "Theme_b6b89ff1774153e15bd0edfe749c79fc690e98e41fe3dafd0d5406a2ef47a438"
+    },
+    {
+      "type": "Theme",
+      "name": "technologique",
+      "id": "Theme_6faf403f653ffc842186e1192d1b144875f75b192d91950d019299d189088ace"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Event",
+      "name": "Brexit",
+      "id": "Event_0ac67d48e8e41ceea068da2f23e9edbc22fff9ab2df624ff61fe96e032c92341"
+    },
+    {
+      "type": "Country",
+      "name": "Britanniques",
+      "id": "Country_2b303b326941cb94a150f8b43c140a0dbdb1ed904a9e55869de5327035e618ec"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyenneté",
+      "id": "Theme_299e26433fd038aaeb6d9c98e39f7323f3f780a7ec7bf9addad3444e3982be18"
+    },
+    {
+      "type": "Theme",
+      "name": "sang",
+      "id": "Theme_edbb51c1ec1ed0534e5bbce792cc39330c2b989180d9ff0de8ec3483e2bd4d0e"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "courage",
+      "id": "Theme_4eb0829b6b279fcb2a945b12114e4f8976954c7a7fcf9391f504d523ee63a88b"
+    },
+    {
+      "type": "Theme",
+      "name": "combat",
+      "id": "Theme_6a8d504484dd15522148bbbe392e2fc6fb3a26c237b2b89a9d0126070440e62d"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "science",
+      "id": "Theme_d67c10976c1585f4e9e05fc3bac6b493bcfd249cfb52bacfebf7d74d2b724f45"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Event",
+      "name": "80ème anniversaire de l'appel du Général de Gaulle à Londres",
+      "id": "Event_be528db28a65f35a869a2256aaa7cace5f82c5dfc8b928c8e11639030c49a1cf"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Royaume-Uni",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "À minuit ce 31 janvier, le Royaume-Uni quittera l'Union européenne.",
+      "confidence": 1.0,
+      "source_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "transition climatique",
+      "evidence": "Pour réussir la transition climatique nous avons besoin de le faire au niveau européen.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_e75feae75fc3fc33a1090e46506e630bfc0c68d201d672aba551e5a19141a63a"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "digital",
+      "evidence": "Pour réussir à nous nourrir, pour réussir à faire face aux grandes transformations migratoires, digitales, technologiques, nous avons besoin de plus d'Europe.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_b6b89ff1774153e15bd0edfe749c79fc690e98e41fe3dafd0d5406a2ef47a438"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "technologique",
+      "evidence": "Pour réussir à nous nourrir, pour réussir à faire face aux grandes transformations migratoires, digitales, technologiques, nous avons besoin de plus d'Europe.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_6faf403f653ffc842186e1192d1b144875f75b192d91950d019299d189088ace"
+    },
+    {
+      "source": "Europe",
+      "relation": "ALLIED_WITH",
+      "target": "Chine",
+      "evidence": "Face à la Chine ou aux Etats-Unis, pour défendre nos intérêts, nous avons besoin de plus d'Europe.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "Europe",
+      "relation": "ALLIED_WITH",
+      "target": "Etats-Unis",
+      "evidence": "Face à la Chine ou aux Etats-Unis, pour défendre nos intérêts, nous avons besoin de plus d'Europe.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    }
+  ]
+}

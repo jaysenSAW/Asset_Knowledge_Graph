@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Robert BADINTER",
+      "id": "Person_674c12388b3de914edeee1d8b2c7e320133b6d85b1cf04c5f276dc9833715e54"
+    },
+    {
+      "type": "Person",
+      "name": "Nicolas SARKOZY",
+      "id": "Person_2cc0890d53d00df41342ecdfe549156f7ec8193b9b942eb2e2ac3f6e3fed29ce"
+    },
+    {
+      "type": "Person",
+      "name": "Laurent FABIUS",
+      "id": "Person_704e8afdbaca490abcefc61e4df9d4cc4674910364ec98f9706b4c073a2cf4a8"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil constitutionnel",
+      "id": "Organization_c856e421415fa3c1c9ca6b7d4e820fae68e01b58b97177b13f2e6143a448f79d"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat de droit",
+      "id": "Organization_597d773ec8a10a803dc7334e3724aeb9f9a7c73c0636596042cdb88bcaf64689"
+    },
+    {
+      "type": "Organization",
+      "name": "QPC",
+      "id": "Organization_33c3d04662b4449f8d063114c3e3c0326209805b5323100a10ffdab30d8c171f"
+    },
+    {
+      "type": "Law",
+      "name": "Constitution de 1958",
+      "id": "Law_3f28622de80f597871cb79613116f21744270726d99707a2daf89473d8fc94f4"
+    },
+    {
+      "type": "Law",
+      "name": "Déclaration de 1789",
+      "id": "Law_fdd90b10133badd2465d4211edfbdbffcba0238a9b86f8d8225b6e800579893f"
+    },
+    {
+      "type": "Law",
+      "name": "préambule de la Constitution de 1946",
+      "id": "Law_309d7a21ea25a7f3f615afb44399cd2e64edff9eb3fbe8a8f8f0725270105d1a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Conseil constitutionnel",
+      "relation": "SPOKE_ABOUT",
+      "target": "QPC",
+      "evidence": "l'initiative prise par le Conseil constitutionnel et par son président, Laurent FABIUS, de publier des travaux de recherches circonstanciés sur le bilan sociologique et juridique de dix ans de QPC.",
+      "confidence": 1.0,
+      "source_id": "Organization_c856e421415fa3c1c9ca6b7d4e820fae68e01b58b97177b13f2e6143a448f79d",
+      "target_id": "Organization_33c3d04662b4449f8d063114c3e3c0326209805b5323100a10ffdab30d8c171f"
+    }
+  ]
+}

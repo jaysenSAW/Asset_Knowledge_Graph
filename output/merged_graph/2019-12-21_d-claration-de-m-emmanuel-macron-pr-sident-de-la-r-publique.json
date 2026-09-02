@@ -1,0 +1,486 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur l'Ambassadeur",
+      "id": "Person_ca63df6e99fdaff6436f8fd8ee480f34c6752e2fbbae13fb9d4ec2653a96ecad"
+    },
+    {
+      "type": "Person",
+      "name": "son épouse",
+      "id": "Person_f1ab3d7a215b4f7264432ff4c8150266909e527314e00030d81eadb763606e8e"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Consul général",
+      "id": "Person_aec39656edddb5f7b7e7de7260bf126df1fb762673b209d8830118f1f338670c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Commandant des forces françaises en Côte d'Ivoire",
+      "id": "Person_a8597fad7e2a27745511b7ed0287db6adae439163a502541af221927f4c967d0"
+    },
+    {
+      "type": "Country",
+      "name": "Côte d'Ivoire",
+      "id": "Country_02a4cf0b159c169388d9cae695c5828d01927abf33bf75e323c8f187cdde6be9"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "City",
+      "name": "Sahel",
+      "id": "City_92fe9646c051c53241e17f3fdb2c650a6e9fa01c7eb8480b47877e959ee0b5fe"
+    },
+    {
+      "type": "City",
+      "name": "Mopti",
+      "id": "City_7dee888c4549077dea17403a6819f2eb7154a966b2e412a473d5fe35568c3f50"
+    },
+    {
+      "type": "Person",
+      "name": "Président OUATTARA",
+      "id": "Person_9dc8fd5bac92857a1bbd0747ea3d3ad501b5deb86619955c70d78e6a80272c84"
+    },
+    {
+      "type": "City",
+      "name": "Bouaké",
+      "id": "City_b98190b5794c52043fcea7ede3d472d1ea717b288958db37ff3cd2c9e0338d07"
+    },
+    {
+      "type": "Organization",
+      "name": "Forces françaises",
+      "id": "Organization_e47c9289783e60ac7485416175d8d79a950edf046d26c1257cda3972e624777b"
+    },
+    {
+      "type": "Organization",
+      "name": "Base opérationnelle avancée",
+      "id": "Organization_446900ce6ceef168023317c65b94df0482aca85ddbbddc4765459c45024e0727"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "City",
+      "name": "Abidjan",
+      "id": "City_062062e7d309698fe19b533fc70bf31a6f23d6a2425b13d0eb2ec018737f4cca"
+    },
+    {
+      "type": "City",
+      "name": "Grand-Bassam",
+      "id": "City_6dc387f85e6be379a4d0bccd30c711889b24db8fbf39c4673935851e65fbd0a0"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique subsaharienne",
+      "id": "Country_65803efe6497f129d76bfee1616695f8bb631b9763b3b78250d381c73df615fe"
+    },
+    {
+      "type": "Organization",
+      "name": "filiales françaises",
+      "id": "Organization_04becefc5a3d50c21eb5cdcaa4782bd6623048c5b8f4d7520164c2a8540dbdf4"
+    },
+    {
+      "type": "Organization",
+      "name": "entreprises de droit ivoirien",
+      "id": "Organization_b62edc58655fe74231e2f49073f63c07a4d6aa1b0042ee9cfa7cafe32a277daa"
+    },
+    {
+      "type": "Person",
+      "name": "acteurs français locaux",
+      "id": "Person_385780786190fefd03ca822081ce52f1060484585b0949ad53b4a588cd62f736"
+    },
+    {
+      "type": "Person",
+      "name": "compatriotes",
+      "id": "Person_001a4cd7d5ccbd2fe897e22660603f55473d585828976f6e12b964cf37700fd5"
+    },
+    {
+      "type": "Organization",
+      "name": "nos points de croissance",
+      "id": "Organization_4959b30360aa1489d31b1d5f9e2d9077ab2575888623ebe9786e487ce4ab53ff"
+    },
+    {
+      "type": "Organization",
+      "name": "VIE",
+      "id": "Organization_d7410dbe9590a493a18695ed4ba5ff714257d11533dbc678849d4b7739127d01"
+    },
+    {
+      "type": "Organization",
+      "name": "VSI",
+      "id": "Organization_4b68bdcf52df98a92860ba243e3d70d1973b168ef8ba30e7e748fff40701b217"
+    },
+    {
+      "type": "Organization",
+      "name": "Ministre",
+      "id": "Organization_bcfcec7de2d7b4cf53f630b8f4bda4918808fa7973b4a27375e60cdb59c5914a"
+    },
+    {
+      "type": "Organization",
+      "name": "délégation d'entreprises",
+      "id": "Organization_91774fd7bb199d5027e241a28d0cda5a1c096dffd25feccc3ba32f3e60a60141"
+    },
+    {
+      "type": "Organization",
+      "name": "grands groupes",
+      "id": "Organization_715e32de3b4200e552fad60ad2a41edb8cad0a840ec46e60a7cd2e52909cee35"
+    },
+    {
+      "type": "Organization",
+      "name": "start up",
+      "id": "Organization_1d926da6d46e6d0ac4a8c479a2203a8f3771924a23b74aba3f1d2cc4cce3c5d4"
+    },
+    {
+      "type": "Organization",
+      "name": "entreprises de taille intermédiaire",
+      "id": "Organization_5ca8f7e2155c2ad1e8b0fd4320b0704ef503a47d4a37abde34e5dd9d7bcba571"
+    },
+    {
+      "type": "Organization",
+      "name": "PME",
+      "id": "Organization_0acc90fd83b5f34eca1d95b6132906e873cb62c3c1450bdfd28204a0afdd60a0"
+    },
+    {
+      "type": "Organization",
+      "name": "Agora Koumassi",
+      "id": "Organization_2ef05661fa43f7fbd49975f7882d2befde93a75888cbfb5f1d964b5e986199b6"
+    },
+    {
+      "type": "Organization",
+      "name": "sommet Afrique-France",
+      "id": "Organization_3c4095b375bdb1c9e12015658039a8ea3aa466a0b0c14334d06efa77f8dcac8a"
+    },
+    {
+      "type": "Organization",
+      "name": "réseau scolaire français",
+      "id": "Organization_80c2e17bd39b9fb4c604e4a798892711e15b3fbb1fef95284244f1b3cd5c1d5d"
+    },
+    {
+      "type": "Organization",
+      "name": "AEFE",
+      "id": "Organization_ad9e50da64285544a9115ef90403dc66a69d51463bd1ca79446e916849f644c4"
+    },
+    {
+      "type": "Person",
+      "name": "le secrétaire d'Etat",
+      "id": "Person_aa51fa5675697ef7a89181221fd1d4f0f8d20eede498e176815f6966b2c5b8b2"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Country",
+      "name": "Sénégal",
+      "id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "type": "Organization",
+      "name": "Hub",
+      "id": "Organization_132d79322f4e0c16b026d84a150912969eea690f2ff2bd0b6aa2cbbefcc88313"
+    },
+    {
+      "type": "Theme",
+      "name": "émancipation",
+      "id": "Theme_f065c4ae0b5f92b698169ed43af465c75aa8cc1a41199ad1c664e2181d37ea78"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Organization",
+      "name": "Unitaid",
+      "id": "Organization_0d44c373bc07b54408decf5eef9fada08f6d98006fe430e30708f692a2b12fa8"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds mondial",
+      "id": "Organization_ca8c2d02f9273f5f2402db132de96525628a029a9a5ed6bfd29f7468014c5e60"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française de développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "Country",
+      "name": "Africain",
+      "id": "Country_698477977960eea221b48ef749235cdb4b76cadf5c10309acc73346625c29054"
+    },
+    {
+      "type": "Theme",
+      "name": "sida",
+      "id": "Theme_994955f02c79985bcf1a5ddbd894d3dc2fc57fa1d2988e6675c213705bc6080b"
+    },
+    {
+      "type": "Theme",
+      "name": "malaria",
+      "id": "Theme_d48d574fb6f83b2bb58b428fbe85576f26f04c40fb2d0723ed6777462d67b46e"
+    },
+    {
+      "type": "Theme",
+      "name": "tuberculose",
+      "id": "Theme_145f2a02ce46c585097177405ed8479927002ab038e0c3449527dc372dc3b953"
+    },
+    {
+      "type": "Organization",
+      "name": "start-ups",
+      "id": "Organization_0a6e61248dfe0d65bea125e6428da2cc9d82114623d3ce043d9bdcf67eab598f"
+    },
+    {
+      "type": "Organization",
+      "name": "entreprises",
+      "id": "Organization_606ccd168312d17ec1eb9709077aac58b73cbc4caaca245ee7022b28c2b46c50"
+    },
+    {
+      "type": "Organization",
+      "name": "académiques",
+      "id": "Organization_c050e2a8ba429bcf612918e6e8befcd8e6b1e4e6e379c2b7392c605cc1abb1ef"
+    },
+    {
+      "type": "Organization",
+      "name": "chercheurs",
+      "id": "Organization_04e826d053f44d5a36fa3a4783e1fbb200cbdd2f99fa9752d6a2aaf5a4fd2549"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "City",
+      "name": "Koumassi",
+      "id": "City_be3081a362f42a5e277189639a704b363bf67749124f68ceab8e60379caa42ad"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Florence PARLY",
+      "id": "Person_ec05e66e43898a115b745605af594d151dd95d13f8b131b01a7d5ee5ad10367c"
+    },
+    {
+      "type": "Person",
+      "name": "Agnès BUZYN",
+      "id": "Person_a58d1dc18204ecf2331fe2dbbf0458de22d2f06b5220382035c449f4e1f5b8dc"
+    },
+    {
+      "type": "Person",
+      "name": "Bruno LE MAIRE",
+      "id": "Person_00d8802f577f3cfb76c29189758ca34af91e94a838693eb226c3c26eabeaa160"
+    },
+    {
+      "type": "Person",
+      "name": "Roxana MARACINEANU",
+      "id": "Person_c65849977460f9d851c35b9e4b77c413e2750325d605211c5ed0750c38a50db7"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Baptiste LEMOYNE",
+      "id": "Person_c8a46542257b27ddfff96ddd341c8121a6e1ebe8c4ef6049ed1816012f0bfd0d"
+    },
+    {
+      "type": "City",
+      "name": "espace Schengen",
+      "id": "City_741f96a164c44a1fc0663b26ee51190d69a0e38819ffcc341beeb863f4700e36"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration irrégulière",
+      "id": "Theme_ad476111659ed20be86a10a4854ce1ca21b5d1ab2181312d3f28a19386ed40b6"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration illégale",
+      "id": "Theme_c5cd078fa0f1ea1fd30498ed7b15d726ec99038ad9baa48a38eb410d226ad042"
+    },
+    {
+      "type": "Theme",
+      "name": "laissez-passer consulaire",
+      "id": "Theme_05b4a1fc827a911ad5d320b08ae71203c761aa91ef4879a80d121d3126554bd9"
+    },
+    {
+      "type": "Theme",
+      "name": "lutter contre l'immigration illégale",
+      "id": "Theme_f65faa8e852d1d972004023d414bb547b273517e86f929ea22679d9c48a361f7"
+    },
+    {
+      "type": "Theme",
+      "name": "voyager plus simplement",
+      "id": "Theme_f567dd21e91a06eb4b5199b96d8ca4d2893863d5a408dd24a2c9c04b26467592"
+    },
+    {
+      "type": "Theme",
+      "name": "droits",
+      "id": "Theme_7eb56e86691d574c7d0fa41bffcd50417ad7abbc021dc12800cf78099a3cc7c5"
+    },
+    {
+      "type": "Theme",
+      "name": "moratoire",
+      "id": "Theme_9148ffc47b9965fa7404f9fec2c8696d8794bbdec69f2028ebaf89122aadbfbb"
+    },
+    {
+      "type": "Theme",
+      "name": "étude d'impact",
+      "id": "Theme_08f02a631cb00c4e8faa76eba073455a026911a2d2296f34984555956de6447b"
+    },
+    {
+      "type": "City",
+      "name": "ici",
+      "id": "City_015dad2c290405809cb740e16d022e098390f9512d045af5553a219ae5b670e2"
+    },
+    {
+      "type": "Person",
+      "name": "nos consuls honoraires",
+      "id": "Person_010174bbd694524f5de372ae6ce851b2d4f1367e634a891166d5935e89c726ac"
+    },
+    {
+      "type": "Person",
+      "name": "nos chefs d'îlots",
+      "id": "Person_ddb0747444860da29ab64b372f2b8b65385f3794d73ee81171bf7fa909e6efe9"
+    },
+    {
+      "type": "Country",
+      "name": "République",
+      "id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Président OUATTARA",
+      "relation": "VISITED",
+      "target": "Bouaké",
+      "evidence": "C'est aussi dans cet esprit que je serai à Bouaké où avec le Président OUATTARA, nous rendrons hommages aux 9 militaires français qui ont également payer de leur vie leur engagement pour la paix.",
+      "confidence": 1.0,
+      "source_id": "Person_9dc8fd5bac92857a1bbd0747ea3d3ad501b5deb86619955c70d78e6a80272c84",
+      "target_id": "City_b98190b5794c52043fcea7ede3d472d1ea717b288958db37ff3cd2c9e0338d07"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "en France",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "ici, en France",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Côte d'Ivoire",
+      "evidence": "La France demeure grâce à vous, à travers vous, un partenaire privilégié de la Côte d'Ivoire dans bien des domaines : l'économie, l'éducation, la culture, la santé, le sport, l'énergie, la ville durable.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_02a4cf0b159c169388d9cae695c5828d01927abf33bf75e323c8f187cdde6be9"
+    },
+    {
+      "source": "Côte d'Ivoire",
+      "relation": "LOCATED_IN",
+      "target": "Afrique subsaharienne",
+      "evidence": "La Côte d'Ivoire est notre deuxième marché et notre troisième fournisseur en Afrique subsaharienne.",
+      "confidence": 1.0,
+      "source_id": "Country_02a4cf0b159c169388d9cae695c5828d01927abf33bf75e323c8f187cdde6be9",
+      "target_id": "Country_65803efe6497f129d76bfee1616695f8bb631b9763b3b78250d381c73df615fe"
+    },
+    {
+      "source": "Côte d'Ivoire",
+      "relation": "LOCATED_IN",
+      "target": "Côte d'Ivoire",
+      "evidence": "en Côte d'Ivoire",
+      "confidence": 1.0,
+      "source_id": "Country_02a4cf0b159c169388d9cae695c5828d01927abf33bf75e323c8f187cdde6be9",
+      "target_id": "Country_02a4cf0b159c169388d9cae695c5828d01927abf33bf75e323c8f187cdde6be9"
+    },
+    {
+      "source": "Sénégal",
+      "relation": "LOCATED_IN",
+      "target": "Sénégal",
+      "evidence": "au Sénégal ou ailleurs",
+      "confidence": 1.0,
+      "source_id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d",
+      "target_id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "Fonds mondial",
+      "evidence": "La France a profondément réinvesti dans le Fonds mondial, porte une action de prévention, de traitement, de développement,",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_ca8c2d02f9273f5f2402db132de96525628a029a9a5ed6bfd29f7468014c5e60"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Côte d'Ivoire",
+      "evidence": "la France demeure un partenaire essentiel de la Côte d'Ivoire",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_02a4cf0b159c169388d9cae695c5828d01927abf33bf75e323c8f187cdde6be9"
+    },
+    {
+      "source": "Côte d'Ivoire",
+      "relation": "LOCATED_IN",
+      "target": "République",
+      "evidence": "Vive la Côte d'Ivoire, vive la République, vive la France.",
+      "confidence": 1.0,
+      "source_id": "Country_02a4cf0b159c169388d9cae695c5828d01927abf33bf75e323c8f187cdde6be9",
+      "target_id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    }
+  ]
+}

@@ -1,0 +1,923 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Bourtzwiller",
+      "id": "City_96e910ccc9e0a2a87659b36abd9e9942c7a05ac2252adc0385dd39f578efdc47"
+    },
+    {
+      "type": "Theme",
+      "name": "la République",
+      "id": "Theme_65489d944ac2a1c1e40c9c1c5dc2e9cc82d8c33348302ba099e08e4c0255f83f"
+    },
+    {
+      "type": "Theme",
+      "name": "laïcité",
+      "id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "type": "Theme",
+      "name": "islam",
+      "id": "Theme_879a3cfc5efad5941cda162521e02918b759b90b3a493f5fc7fe8acef42c3cc0"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "religion",
+      "id": "Theme_164a57edd3bd6e51e9da15e6b184baa243f42cb6bd764af8a346437a5132deac"
+    },
+    {
+      "type": "Theme",
+      "name": "séparation entre l'Eglise et l'Etat",
+      "id": "Theme_bdd4e9a1a70c38fb164a322c80bc088432601b11fd92110d16a1b5ec6e0861d3"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité des services publics",
+      "id": "Theme_be622bdb2250f4d0c6badf069721d40b74e7a14c94700090a1e2937e911b436c"
+    },
+    {
+      "type": "Theme",
+      "name": "respect des lois de la République",
+      "id": "Theme_ab58d7935bb27f2cbfefbd7e0b0e6b2c8de5c973b3cb02644d7f6f6d8bc6635e"
+    },
+    {
+      "type": "Theme",
+      "name": "principes républicains",
+      "id": "Theme_64ce0883149764b05507283fe4e002fe7f7883404def81c9f743c48f4be6c668"
+    },
+    {
+      "type": "Theme",
+      "name": "civilité",
+      "id": "Theme_72156dc6741fea5b65cb96211c56232e5ff5b1141ca80226d02eed71102cda5d"
+    },
+    {
+      "type": "Theme",
+      "name": "règles de la République",
+      "id": "Theme_b2fa9fbb3ee35a3e6f69355a68f7363999c84e9dfbdfe2af0714233c32ba9975"
+    },
+    {
+      "type": "Theme",
+      "name": "femme",
+      "id": "Theme_86414357a534368e8c49cb88bdf47e389d412f0876b6b731e59e07eb793729c7"
+    },
+    {
+      "type": "Theme",
+      "name": "homme",
+      "id": "Theme_acc589b846708b69c385eab991cb15a0e0d88162b57a670355c0413fdb7bb158"
+    },
+    {
+      "type": "Theme",
+      "name": "lois",
+      "id": "Theme_766b24b40ca0257b39bc7b38835ebf4e150e279ff118a5f34e52aceb71952783"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre public",
+      "id": "Theme_81f6659f1f0773c33fb44826282a3a9607166da9710d86c7b3894f4e726c01c9"
+    },
+    {
+      "type": "Theme",
+      "name": "quiétude de chaque citoyen",
+      "id": "Theme_2807004050bbcd208e0b3ab998810f1989fee77d78e2246962d1d028b1dad91b"
+    },
+    {
+      "type": "Theme",
+      "name": "socle",
+      "id": "Theme_ab5c834eece1771b5875c9ca64cac4e77812fe26f31f8721a4e9df224376b69f"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "aspirations communes",
+      "id": "Theme_ade8a1a9b05fda1cb635d8c7daa250d06a136cd96bff5e6675def27d628d8a0c"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyenneté",
+      "id": "Theme_299e26433fd038aaeb6d9c98e39f7323f3f780a7ec7bf9addad3444e3982be18"
+    },
+    {
+      "type": "Theme",
+      "name": "droits civils et politiques",
+      "id": "Theme_b49657393be16ae1ae01c01e0bcdf828fb1b36a33f13eff667894fbcc6b76276"
+    },
+    {
+      "type": "Theme",
+      "name": "devoirs",
+      "id": "Theme_a7ec0a3fec1e331ba79e6a952f9cfc0ca61edb651ea38d5b70c80c3711f335ba"
+    },
+    {
+      "type": "Theme",
+      "name": "socle de notre Nation française et de la République",
+      "id": "Theme_3af51d4edaeb3fe37a1828712aaa98c5fd1c9f0a463c1f92335d0f0d112d0f67"
+    },
+    {
+      "type": "Theme",
+      "name": "communautarisme",
+      "id": "Theme_b4c99c2d9ee4a23cace29aa50d904012b5bf7f2caac72a3fe0997d4cb96ac29d"
+    },
+    {
+      "type": "Theme",
+      "name": "identité",
+      "id": "Theme_4f543f4a07c2f288f23ef16d94246f7c22b38ac986042e48f59a6ca4b459f4dd"
+    },
+    {
+      "type": "Theme",
+      "name": "séparation de la République",
+      "id": "Theme_d82bb799d32de8fbc071ad695c7cf31114405e07fa32486cdef8da44538851a6"
+    },
+    {
+      "type": "Theme",
+      "name": "famille de pensée",
+      "id": "Theme_97550aa68ac175e6a87cad06290cf108590b0a62b43ab45b27874611a3ea8878"
+    },
+    {
+      "type": "Theme",
+      "name": "origines étrangères",
+      "id": "Theme_b440ebd36382fdde375e84625f5245d8635da829123dbed76f2666327ecd7cec"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "imaginaire",
+      "id": "Theme_6ac92e4d33657848e6331aaaa3cbc71675b72a187a862bb09c959b8bde0ca715"
+    },
+    {
+      "type": "Theme",
+      "name": "vivre ensemble",
+      "id": "Theme_c8f39597cb6f6a5f51beb0d3d5df7b457b87ff1c25c1365ff27848cedfed37c2"
+    },
+    {
+      "type": "Theme",
+      "name": "islamiste",
+      "id": "Theme_2a923ac4fed5a5157164e761c876b4150a4aa941d067464182b8ff29cac8e827"
+    },
+    {
+      "type": "Theme",
+      "name": "séparatisme",
+      "id": "Theme_e63656e4c724e3576d91745368f0ca99942915c46c9150927a5bdb2f0b9b4775"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Law",
+      "name": "lois de la République",
+      "id": "Law_af7ac88a5ab798b5e7d6c1137585aaf50993b4efe9c669cfa3265fc3f3b47908"
+    },
+    {
+      "type": "Theme",
+      "name": "séparatisme islamiste",
+      "id": "Theme_b9c9eb34aae13cb868675d2d2158d376a1c75f96952f7c6db9b0db6b9bba718c"
+    },
+    {
+      "type": "Theme",
+      "name": "repli communautariste",
+      "id": "Theme_3ad45fb0f2e309ff27e1936a0ef25ff8dddecd9adf8c06ec9ced116bb0efcf57"
+    },
+    {
+      "type": "Theme",
+      "name": "absence dans certains territoires d'une offre alternative dans le champ social, sportif, périscolaire, sanitaire, culturel",
+      "id": "Theme_a925d4165fd55a9b42e047c4de0dcfa8f02890bcea154ca1497b0f3366d52950"
+    },
+    {
+      "type": "Theme",
+      "name": "offre alternative",
+      "id": "Theme_8fa046213d7abecd85293a058266c65a4859f71a97b0af97b1f58e7509598354"
+    },
+    {
+      "type": "Theme",
+      "name": "sport",
+      "id": "Theme_825ac548d524f301bf40cecba64423c577f867e16f68d3e023ee693d5aebd94a"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement des familles",
+      "id": "Theme_f7df2dc7eebf8890f25a3412dd9d4afb7e85576080bfb92957e572a982e72efc"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement dans le temps périscolaire",
+      "id": "Theme_d5f08d929888308f700556428593c7d7036d9dd510a531faab5034d48870c6a3"
+    },
+    {
+      "type": "Theme",
+      "name": "méritocratie",
+      "id": "Theme_df1acaca58264cf856f5896f5b7c4462cc53fc763ed871e0c48602a14d9cf0b0"
+    },
+    {
+      "type": "Theme",
+      "name": "accès à la bonne éducation",
+      "id": "Theme_f99c2ca4e883f484d9afd1c4c1839a403a6a67912ec8f98aed40955fbb2f429c"
+    },
+    {
+      "type": "Theme",
+      "name": "stigmatisé",
+      "id": "Theme_86ff245d351855d7c2d0dd6e49b542bc76038f6ab2df96465cf4b6e863f849b7"
+    },
+    {
+      "type": "Theme",
+      "name": "discrimination",
+      "id": "Theme_92d7d1d37614eb7e3178c40e62a9c7211cba91c8c31af61eb0c9f5faa02beefb"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions",
+      "id": "Theme_18664bd237fcedb75da4a7e7984e1f0da956288dfd4e0aa5b7933dc5c243b257"
+    },
+    {
+      "type": "Theme",
+      "name": "promesse républicaine",
+      "id": "Theme_2a9ef9ef8a0d018b29e66be91382fa82f13154bff17aece8c91e3cc1f427ae65"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "J'ai rencontré aussi beaucoup d'élus locaux",
+      "id": "Person_6d19eafbf79649104ff700d4c3f5448fadfba3be58c6fbc0e0f4ed187100b35a"
+    },
+    {
+      "type": "Person",
+      "name": "le président Jordan",
+      "id": "Person_8cb6a8f746a2e18a9bddadd69e7076c11e669e04e785c7d43c8be613d0ce805d"
+    },
+    {
+      "type": "Organization",
+      "name": "l'école",
+      "id": "Organization_d52c50dd9a8cde745ef8abe5e4660111f10cc52e252804016d022be6cc72b3a9"
+    },
+    {
+      "type": "Organization",
+      "name": "les REP",
+      "id": "Organization_c2d3ffd8999d54cbc4388599df079b90b338ac26df37da5c8a9a176131b437d7"
+    },
+    {
+      "type": "Organization",
+      "name": "les associations",
+      "id": "Organization_c1ae09ca557e61d4bb70474e0346cbe9280dd4b28fb85cd0bb077357539fa842"
+    },
+    {
+      "type": "Organization",
+      "name": "le secrétaire d'État",
+      "id": "Organization_c4ec34be45564c377de638f24c57fc3fc458711f25650b0350a369fd31c47ed0"
+    },
+    {
+      "type": "City",
+      "name": "Mulhouse",
+      "id": "City_0fe0094aebde69d58d2dec6f9908158c0dfcd12dadd8a2c2adb8d20d1393ab4a"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence nationale de rénovation urbaine",
+      "id": "Organization_ee0e207e867b382e4230ef787e9e95ff3d8b3b534c38340f2f7240e12d1a515f"
+    },
+    {
+      "type": "City",
+      "name": "quartiers les plus sensibles",
+      "id": "City_44d79e15f2b81e037577917c3ba5ef90496051df9cab3b8b47ceea695cfd295b"
+    },
+    {
+      "type": "City",
+      "name": "cent cinquante quartiers",
+      "id": "City_fd2f23fc2c9d09d453cc71ebe6119e2ea0f368c62ab40a5a0e03ff1ffb929927"
+    },
+    {
+      "type": "City",
+      "name": "quartiers difficiles",
+      "id": "City_b22bbd708b79e1c352e77763cd8f964b88a02b7f31e648d6306ec4365c8dcecb"
+    },
+    {
+      "type": "Organization",
+      "name": "quartiers de reconquête républicaine",
+      "id": "Organization_cb23322fd233bfbbdcba60cc84824a67fef69c87f8fcd79ca7d8ca7bb6defacb"
+    },
+    {
+      "type": "Organization",
+      "name": "directeur départemental",
+      "id": "Organization_c609c76a25b2d4de5852b29c337b2b8040f1f69256f7a6d88acf0a13bba5e469"
+    },
+    {
+      "type": "Organization",
+      "name": "brigadier-chef",
+      "id": "Organization_0aa5f66083e8ad9c7cb979fe86b332d31170b51cec2bb74db8532e37f61daab7"
+    },
+    {
+      "type": "Organization",
+      "name": "policiers",
+      "id": "Organization_29f7b170b9b51ef4b73ad455c2d7b7b464617edcef8e00b495abd08bee51658c"
+    },
+    {
+      "type": "Organization",
+      "name": "gendarmes",
+      "id": "Organization_dd1fa107e8d2fc3c011bc045275f305ea89fbc5965d66e5b1e01470d5734dc21"
+    },
+    {
+      "type": "City",
+      "name": "quartiers de reconquête républicaine",
+      "id": "City_f0e445f5872ae3635bd7771d656067b88e94b4dad51eb50ed765f8f7f8c80dd7"
+    },
+    {
+      "type": "Organization",
+      "name": "services financiers de l'Etat",
+      "id": "Organization_cc59c5c98a0d952270c5dca9e410d82b5933ced83e8d3cc69905ca3c4933b5df"
+    },
+    {
+      "type": "Organization",
+      "name": "services éducatifs",
+      "id": "Organization_5c309a96eceb2f2e39470a17db245e4b747630714b390a10455e7895f158dd84"
+    },
+    {
+      "type": "Organization",
+      "name": "justice",
+      "id": "Organization_8712fffceec077935db285de998741d017b5c6305195fdd76465eedeb98b7cd9"
+    },
+    {
+      "type": "Organization",
+      "name": "quinze quartiers les plus en difficulté",
+      "id": "Organization_fc791e48a5238c9bfa46303a1d1328c85dfc11f913491cbab2fe5c42594dd46b"
+    },
+    {
+      "type": "Organization",
+      "name": "débits de boissons",
+      "id": "Organization_d660d5d24a7d8f67190e7a5f8ece76b3450a88dd55e489c2aa318c82ea332d3e"
+    },
+    {
+      "type": "Organization",
+      "name": "établissements sportifs ou culturels",
+      "id": "Organization_0119e07d3e2c148c1b9f9314a5d8283e878f8611354e20239669f440f7e9c45d"
+    },
+    {
+      "type": "Organization",
+      "name": "établissements pour mineurs",
+      "id": "Organization_e28a2f643931c61b2b60c4a031f1456fa542c783a5967a3a9df0d4c078f0a9be"
+    },
+    {
+      "type": "Organization",
+      "name": "Comité départemental anti-fraude",
+      "id": "Organization_e54acebc5d8c99ba69f1e10bce4404fa845b5e19d0bf54da89d2d625b2717776"
+    },
+    {
+      "type": "Organization",
+      "name": "CAF",
+      "id": "Organization_fa74d451028948e137156cd071a089f5b36dc63d50abb18eb7f984aa5029a1ba"
+    },
+    {
+      "type": "Organization",
+      "name": "services de l'éducation nationale",
+      "id": "Organization_27cb57985fe80d5980118bb63c0c11b7f71d590b3e48833f26b38292dd468a91"
+    },
+    {
+      "type": "Organization",
+      "name": "procureur de la République",
+      "id": "Organization_1204f8fc187269e5f4de59d22e75e60c664ca51975319b75b9b3cc653b900753"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "besoin",
+      "id": "Theme_ee24e4aac2bcabc858cd4f926c3cbac08a65338afe396665400e4414974f5290"
+    },
+    {
+      "type": "Theme",
+      "name": "résultats",
+      "id": "Theme_52c04f17f67dd39c37208223246d2b167ee7df2590aca77966c5b534cdcac05a"
+    },
+    {
+      "type": "Theme",
+      "name": "islamisme radical",
+      "id": "Theme_06829bcd6bf40a8e2dac81c4467b9e53d66545abf8a314e409ce5ec5fdf7943a"
+    },
+    {
+      "type": "Theme",
+      "name": "difficulté",
+      "id": "Theme_3239052021b12437968bc0bab8eaa6c2769da720faafeab5e899be49930e3f9e"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignements en langues et cultures d'origine étrangère",
+      "id": "Theme_228d96f090aa8f1e346b213f82756c7742e8f0794bd9526169451686ad2ed91e"
+    },
+    {
+      "type": "Theme",
+      "name": "connaissance de leur culture",
+      "id": "Theme_037dce2e7a12f0e4cfb05436eb342acc58cfd81658054999ad5a2744bc1d31f0"
+    },
+    {
+      "type": "Theme",
+      "name": "langues de leur famille",
+      "id": "Theme_5ac8ec23af9828b7a98d36250cd9ffc1bab1851cac8456e26fcad2547c80a14d"
+    },
+    {
+      "type": "Theme",
+      "name": "culture qui est la leur",
+      "id": "Theme_07ed230ba98b076b1b19c907f1f470373a86ccfd6fd969de513363483ba4638e"
+    },
+    {
+      "type": "Theme",
+      "name": "apprendre l'arabe, l'espagnol, l'italien, le turc, le russe ou d'autres langues",
+      "id": "Theme_f32d57b2524c2af071f16df6ca04c3e9faa65d34432f92ec311524ef5563531c"
+    },
+    {
+      "type": "Theme",
+      "name": "langue étrangère",
+      "id": "Theme_99eea8ca5477f253a099797fcf036535d3f97dfbfd7545b774d4780db4a3bfc4"
+    },
+    {
+      "type": "Theme",
+      "name": "langues et cultures d'origine étrangère",
+      "id": "Theme_b006b62184a14694a1547a1be4be23d8f2de0a225c6aa3e3387dc0d1ab55a251"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation nationale",
+      "id": "Theme_95b8193c8b586f23159aeca3eb0d5d3ff68b5d5e00de90049e80047d51f8cbcb"
+    },
+    {
+      "type": "Theme",
+      "name": "français",
+      "id": "Theme_31256713966363216a0829e4571c45ca5252777a0b51e3eb51c248981e94773b"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle",
+      "id": "Theme_56a9d80cc5c5f0db6a7fca8c1a2a686f455c689decc2e4e4abf4b873bfde1657"
+    },
+    {
+      "type": "Theme",
+      "name": "programmes",
+      "id": "Theme_c18b745bf98ca2491319b2b39d196c7b9292031ddb179301ec3a14e21d9cba43"
+    },
+    {
+      "type": "Theme",
+      "name": "lois de la République",
+      "id": "Theme_5c7ebd3b5c9fd42c79f6332c2a377359069f377ea52a7436d108e37979813708"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "négociations",
+      "id": "Theme_4d064003cc5b671abd28afd991a250ae1ec2105087df838ea8c47f7d0e4ed9f2"
+    },
+    {
+      "type": "Country",
+      "name": "Tunisie",
+      "id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "type": "Country",
+      "name": "Maroc",
+      "id": "Country_9458e2c6babd2c77ac8b75ec4713e04d3bfb33730d88d692b0cae733d35375f3"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Country",
+      "name": "Turquie",
+      "id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres de l'éducation nationale et des affaires étrangères",
+      "id": "Organization_1eebd9fa4243beb15ff74f1d29ec7223582eb6347af17b2880cebb6d514764a8"
+    },
+    {
+      "type": "City",
+      "name": "Haut-Rhin",
+      "id": "City_1a8c06b24c6bdbad617023e0cac2c690cac10d956d2be9a3c54bb762030f8086"
+    },
+    {
+      "type": "Country",
+      "name": "la République",
+      "id": "Country_8ece1ca643efc6be6485040a8d42357a81f22c38694d9ca8a56d37a688baf2b0"
+    },
+    {
+      "type": "Organization",
+      "name": "les EILE",
+      "id": "Organization_56fa27485f0378e2517a635e58c1f17871244c00c4d20dca92c42f87d1187e24"
+    },
+    {
+      "type": "Country",
+      "name": "la Turquie",
+      "id": "Country_f2d7050a8ee2d8df4c2413480bd61d442554ab4b29ae90e8fb06248772f933cc"
+    },
+    {
+      "type": "Organization",
+      "name": "nous",
+      "id": "Organization_1abd5dcfaef874841c719199a08352984f3121ba4d175d7705d1c0f89b7da3de"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement obligatoire",
+      "id": "Theme_1aac4b51e0074c88684b877f014154351307d8bd22efcd5e826d0281ba711128"
+    },
+    {
+      "type": "City",
+      "name": "ici",
+      "id": "City_015dad2c290405809cb740e16d022e098390f9512d045af5553a219ae5b670e2"
+    },
+    {
+      "type": "City",
+      "name": "République",
+      "id": "City_59150d010b20dba0c76794c92f90d1e1e23fd85b382268dd0de3895bf67a903a"
+    },
+    {
+      "type": "Organization",
+      "name": "mosquée An-Nour",
+      "id": "Organization_2f94a3cda75e15955a6a9f78bec5a4bd4f0f98dc92f6bbd59dec3bf77fa1f2fa"
+    },
+    {
+      "type": "Country",
+      "name": "République",
+      "id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    },
+    {
+      "type": "Theme",
+      "name": "financement",
+      "id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941"
+    },
+    {
+      "type": "Theme",
+      "name": "séparation de l'Eglise et de l'Etat",
+      "id": "Theme_bdbcc941184e0ffba232636cf67bb93cd6fbfb2d27bb8ed22fa9cbaf0b11aa0c"
+    },
+    {
+      "type": "Theme",
+      "name": "lieux de culte",
+      "id": "Theme_7609d67cff0f9bf4ae3139c63ddc54debd4b6334306db00e224cc07d2f88ed29"
+    },
+    {
+      "type": "Theme",
+      "name": "foi",
+      "id": "Theme_3d11e20676b154ad81d01c164d3f0e193f5af82d9fc1913b8ddfcbdab7a88c58"
+    },
+    {
+      "type": "Law",
+      "name": "une loi",
+      "id": "Law_c2bc4bfc94de2e96d1e0d8b16fe1e1a8ca42c75414e1720e31692c538e637257"
+    },
+    {
+      "type": "Law",
+      "name": "lois",
+      "id": "Law_2375c2257bac9820be5a36ef116623d9a41843472959b2ba141cba37e802fb06"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "financements étrangers des lieux de culte",
+      "id": "Theme_436a50096286f362c81d01818b332794f7ac4b07fd4bfb564bfc717c96cbbf3d"
+    },
+    {
+      "type": "Organization",
+      "name": "Eglise",
+      "id": "Organization_842f692dffbf3b3a3dfc497c16351bd0d02c5b4751c805d35afe298eef7cc0b8"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "imams détachés",
+      "id": "Organization_f11ad7916fce334c711e1fb15f927d1f1fc6e48ea6333a3348982c5d12d913a0"
+    },
+    {
+      "type": "Organization",
+      "name": "République",
+      "id": "Organization_0eac6305aac01bf684a6d57836831f1443587a4616a4d6b56b3d3c1e778ca152"
+    },
+    {
+      "type": "Theme",
+      "name": "islam consulaire",
+      "id": "Theme_94233d1434cf391f8481a74efb0c9d39a967ac72bb40bfe2e7030cbfd63bc7cb"
+    },
+    {
+      "type": "Theme",
+      "name": "imamat",
+      "id": "Theme_3224f01ce92d3d25105e6c8b274e57784be48b476e96bca0c300b81713dacfff"
+    },
+    {
+      "type": "Theme",
+      "name": "frériste",
+      "id": "Theme_fbe9936179eac46404bbb4082f4c878913f5b21d600da3c04a4e425484cf4556"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil français du culte musulman",
+      "id": "Organization_ee5b09a39bb47f3aa259d3611199ede75f8e02673a7c2c4cdaebd23c12c1314f"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil français au niveau national",
+      "id": "Organization_db0a7376a156d26c276023a1ff1a7229d271fcef6a93b2d90164097496630eb2"
+    },
+    {
+      "type": "Law",
+      "name": "loi de 1905",
+      "id": "Law_017b788af4db1b9cc7c92b9972421b3a3f93b1a51e555b57e6c8314e40dfc0db"
+    },
+    {
+      "type": "Organization",
+      "name": "CFCM",
+      "id": "Organization_bb18462c4b36ea0263a312484cab80a9b72c3521e7a8e4e7148c2fd51b4e6d05"
+    },
+    {
+      "type": "City",
+      "name": "les premiers jours d'avril",
+      "id": "City_eaf66b8ea5494c644d0d0dbaadad879a894bd8041b473ea247ea583347261c63"
+    },
+    {
+      "type": "Theme",
+      "name": "mosquées financées de manière transparente",
+      "id": "Theme_1b588007a324dedf9113c1c114fdb3c34f5d9b5c22da5c6a1e9f65b93b3addd2"
+    },
+    {
+      "type": "Theme",
+      "name": "imams formés en France",
+      "id": "Theme_c9c3cbfb9c983caa874edaa1c53c822a221b89a814e37572138acdf93744b624"
+    },
+    {
+      "type": "Theme",
+      "name": "musulmans de France",
+      "id": "Theme_0fd36e8e7607d5cfb0410437f0e1a9c8c4d9d673f2712d293e84d422ef5cdcaf"
+    },
+    {
+      "type": "Theme",
+      "name": "culte librement, affranchis des ingérences extérieures",
+      "id": "Theme_06e77c62ab81a908dcdd50d9b4353834c770be2b3e47e28d35197d436a306236"
+    },
+    {
+      "type": "Theme",
+      "name": "indivisibilité de la République",
+      "id": "Theme_bfd893df076d1384a78659b82c6dbe1c7c6374321d4d513e388327c635bd7c1a"
+    },
+    {
+      "type": "Organization",
+      "name": "gymnase",
+      "id": "Organization_00f89d81a50fff9dc0fa709179f718c9d73f9b0e9e199cecce46b1668979ecb3"
+    },
+    {
+      "type": "Organization",
+      "name": "élus",
+      "id": "Organization_2a8112b51d960018957700054cee7823bd277e9fa862e3ed8cf1b64ea1800278"
+    },
+    {
+      "type": "Person",
+      "name": "présidentes",
+      "id": "Person_8c2e81aaaae745899fcb0ca50622d4db8d57c867948bebdaa50d23141de94040"
+    },
+    {
+      "type": "Person",
+      "name": "présidents",
+      "id": "Person_7968d5e00c3858839e40468d3fbda6f7f1a95135564545f7370b5a0a48cd1f9a"
+    },
+    {
+      "type": "Organization",
+      "name": "associations",
+      "id": "Organization_093357ed588ea24809b2100d18e873165901f63f0760d7b30cd7fed20c85113a"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités",
+      "id": "Organization_82cf8945d6e172880b094d7d80042a3a79f86b02e8d1d1f8c4efe9bbfd946230"
+    },
+    {
+      "type": "Organization",
+      "name": "organismes publics",
+      "id": "Organization_b8a82c01dbad78362d731e93c858b181c8a224a68e23fffd40f4a99670c6617a"
+    },
+    {
+      "type": "Organization",
+      "name": "services de l'Etat",
+      "id": "Organization_0e4c3b002b7e0b947f150ac5ade5255303027617ed7e319cef90365be1d32acb"
+    },
+    {
+      "type": "Organization",
+      "name": "Nation",
+      "id": "Organization_bd41bb4b8d3a01a0af49cbf1e2bae5e339b23c27308cdcb75bc5c3b06a55c385"
+    },
+    {
+      "type": "Country",
+      "name": "Notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Theme",
+      "name": "fractures",
+      "id": "Theme_2c3ad8cdaf4813b4b3058943d17f30253ae47cab2f80f4d559e885e7bccaefa8"
+    },
+    {
+      "type": "Theme",
+      "name": "autorité de l'État",
+      "id": "Theme_519dde2e6f5e889383002c0c856aca2d27d572db11bef17aff1dc42c987e21a1"
+    },
+    {
+      "type": "Person",
+      "name": "la ministre des sports",
+      "id": "Person_6434ffba962684c26a5eea716ce840471e74be4ffb37546bcd2586cac52e8742"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "religion",
+      "relation": "OPPOSES",
+      "target": "République",
+      "evidence": "quand au nom d'une religion ou d'une appartenance, on veut se séparer de la République, et donc ne plus en respecter les lois",
+      "confidence": 1.0,
+      "source_id": "Theme_164a57edd3bd6e51e9da15e6b184baa243f42cb6bd764af8a346437a5132deac",
+      "target_id": "Organization_0eac6305aac01bf684a6d57836831f1443587a4616a4d6b56b3d3c1e778ca152"
+    },
+    {
+      "source": "lois",
+      "relation": "OPPOSES",
+      "target": "République",
+      "evidence": "quand au nom d'une religion ou d'une appartenance, on veut se séparer de la République, et donc ne plus en respecter les lois",
+      "confidence": 1.0,
+      "source_id": "Law_2375c2257bac9820be5a36ef116623d9a41843472959b2ba141cba37e802fb06",
+      "target_id": "Organization_0eac6305aac01bf684a6d57836831f1443587a4616a4d6b56b3d3c1e778ca152"
+    },
+    {
+      "source": "République",
+      "relation": "SUPPORTS",
+      "target": "vivre ensemble",
+      "evidence": "et donc qu'on menace la possibilité de vivre ensemble en République à cet égard",
+      "confidence": 1.0,
+      "source_id": "Organization_0eac6305aac01bf684a6d57836831f1443587a4616a4d6b56b3d3c1e778ca152",
+      "target_id": "Theme_c8f39597cb6f6a5f51beb0d3d5df7b457b87ff1c25c1365ff27848cedfed37c2"
+    },
+    {
+      "source": "promesse républicaine",
+      "relation": "MENTIONS",
+      "target": "promesse républicaine",
+      "evidence": "Et donc, ce quatrième axe qui est celui du retour républicain est aussi important pour donner corps à la promesse républicaine.",
+      "confidence": 1.0,
+      "source_id": "Theme_2a9ef9ef8a0d018b29e66be91382fa82f13154bff17aece8c91e3cc1f427ae65",
+      "target_id": "Theme_2a9ef9ef8a0d018b29e66be91382fa82f13154bff17aece8c91e3cc1f427ae65"
+    },
+    {
+      "source": "quartiers de reconquête républicaine",
+      "relation": "MEMBER_OF",
+      "target": "quartiers de reconquête républicaine",
+      "evidence": "quarante-sept quartiers de reconquête républicaine",
+      "confidence": 1.0,
+      "source_id": "City_f0e445f5872ae3635bd7771d656067b88e94b4dad51eb50ed765f8f7f8c80dd7",
+      "target_id": "City_f0e445f5872ae3635bd7771d656067b88e94b4dad51eb50ed765f8f7f8c80dd7"
+    },
+    {
+      "source": "policiers",
+      "relation": "LOCATED_IN",
+      "target": "quartiers de reconquête républicaine",
+      "evidence": "ce sont mille six cents policiers et gendarmes supplémentaires qui ont été déployés dans ces quartiers de reconquête républicaine",
+      "confidence": 1.0,
+      "source_id": "Organization_29f7b170b9b51ef4b73ad455c2d7b7b464617edcef8e00b495abd08bee51658c",
+      "target_id": "City_f0e445f5872ae3635bd7771d656067b88e94b4dad51eb50ed765f8f7f8c80dd7"
+    },
+    {
+      "source": "gendarmes",
+      "relation": "LOCATED_IN",
+      "target": "quartiers de reconquête républicaine",
+      "evidence": "ce sont mille six cents policiers et gendarmes supplémentaires qui ont été déployés dans ces quartiers de reconquête républicaine",
+      "confidence": 1.0,
+      "source_id": "Organization_dd1fa107e8d2fc3c011bc045275f305ea89fbc5965d66e5b1e01470d5734dc21",
+      "target_id": "City_f0e445f5872ae3635bd7771d656067b88e94b4dad51eb50ed765f8f7f8c80dd7"
+    },
+    {
+      "source": "République",
+      "relation": "SUPPORTS",
+      "target": "financement",
+      "evidence": "l'Etat a à s'assurer que par le truchement du financement et ce qui est fait à ce titre, on ne sorte pas des lois de la République.",
+      "confidence": 1.0,
+      "source_id": "Organization_0eac6305aac01bf684a6d57836831f1443587a4616a4d6b56b3d3c1e778ca152",
+      "target_id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941"
+    },
+    {
+      "source": "lois",
+      "relation": "MENTIONS",
+      "target": "lois",
+      "evidence": "Il ne faut pas dire qu'il faut tout interdire dans toutes les circonstances. On a besoin de savoir d'où vient l'argent, qui le touche, pour quoi faire. Ça, il faut s'en assurer. Aujourd'hui, nous ne faisons pas bien parce que les lois ne nous donnent pas la possibilité de tout faire.",
+      "confidence": 1.0,
+      "source_id": "Law_2375c2257bac9820be5a36ef116623d9a41843472959b2ba141cba37e802fb06",
+      "target_id": "Law_2375c2257bac9820be5a36ef116623d9a41843472959b2ba141cba37e802fb06"
+    },
+    {
+      "source": "Etat",
+      "relation": "SUPPORTS",
+      "target": "République",
+      "evidence": "l'Etat n'a pas un contrôle des prédicateurs, de toute personne qui prêche dans notre République, sur notre sol",
+      "confidence": 1.0,
+      "source_id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612",
+      "target_id": "Organization_0eac6305aac01bf684a6d57836831f1443587a4616a4d6b56b3d3c1e778ca152"
+    },
+    {
+      "source": "imams détachés",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "trois cents imams détachés qui sont envoyés en France chaque année",
+      "confidence": 1.0,
+      "source_id": "Organization_f11ad7916fce334c711e1fb15f927d1f1fc6e48ea6333a3348982c5d12d913a0",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "République",
+      "evidence": "former des imams en France pour qu'ils puissent maîtriser la langue et les lois de la République",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_0eac6305aac01bf684a6d57836831f1443587a4616a4d6b56b3d3c1e778ca152"
+    },
+    {
+      "source": "Notre pays",
+      "relation": "SPOKE_ABOUT",
+      "target": "fractures",
+      "evidence": "Nous sommes toutes et tous Français dans cette salle et nous avons tous et toutes envie de réussir et de réussir avec notre pays et donc ces fractures que j'évoquais tout à l'heure, nous devons les résorber, autour de ces quatre lignes de force que j'évoquais.",
+      "confidence": 1.0,
+      "source_id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539",
+      "target_id": "Theme_2c3ad8cdaf4813b4b3058943d17f30253ae47cab2f80f4d559e885e7bccaefa8"
+    }
+  ]
+}

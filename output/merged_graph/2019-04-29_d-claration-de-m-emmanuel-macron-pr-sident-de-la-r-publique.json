@@ -1,0 +1,192 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Angela",
+      "id": "Person_f5838b292df0ac2c4afafc7946e13d71da37e0fb3a65ee0cc13dbe5880598d53"
+    },
+    {
+      "type": "City",
+      "name": "Berlin",
+      "id": "City_b99770cd89b8870c4e168b4e52a8f787b64a4a2fc9ef992bf093af11c7e6a055"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "BORISSOV",
+      "id": "Person_38a3f53029cec5e076a961ae32df3db4bbe57c33ba00df79017d0a9ea5a42739"
+    },
+    {
+      "type": "Person",
+      "name": "TSIPRAS",
+      "id": "Person_2606fea30c0b216ffd0d938178d6f2a92199803aadff7efaa2d9a3f679bd1249"
+    },
+    {
+      "type": "Person",
+      "name": "ZAEV",
+      "id": "Person_ac01385e66b5f2cf587b22311cd38f28d09142cfd0a5dd02bb2a1a78a79ad341"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Person",
+      "name": "Angela MERKEL",
+      "id": "Person_077e47899275e1cda2b2d7e530bf5f66693f699c895edfd079b62025ba358a5f"
+    },
+    {
+      "type": "Country",
+      "name": "Serbie",
+      "id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b"
+    },
+    {
+      "type": "City",
+      "name": "Belgrade",
+      "id": "City_92b9ceb94a7e1fc33accbfa5e6a0329ab6f9fab473fe6e0d112dfbcec76dfbee"
+    },
+    {
+      "type": "City",
+      "name": "Pristina",
+      "id": "City_a55be0d1518a81b172353c28701607a8a6221005064ee710da8c4311f3df1e25"
+    },
+    {
+      "type": "Country",
+      "name": "Kosovo",
+      "id": "Country_f46080b9f63552f46127e2af3b8045cf7a90b9b824c483a048121d12b347ad77"
+    },
+    {
+      "type": "Theme",
+      "name": "développement économique et social",
+      "id": "Theme_7031407715d73d25cc2e4dbf75ae0406e862252ad37e8fb46ed1068379ad4f98"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "City",
+      "name": "Balkans",
+      "id": "City_01fd53bbe1993198b70c5bad3d977b4975ebaf57c12d850470b4e78d2d38a6d7"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Allemagne",
+      "evidence": "Le deuxième enjeu c'est de travailler ensemble, Allemagne et France, pour apporter une contribution concrète à la stabilité de la région.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "ce qui implique pour la France aussi une stratégie de réengagement que je veux pouvoir présenter aujourd'hui à nos partenaires.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Allemagne",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Le deuxième enjeu c'est de travailler ensemble, Allemagne et France, pour apporter une contribution concrète à la stabilité de la région.",
+      "confidence": 1.0,
+      "source_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Allemagne",
+      "evidence": "Le deuxième enjeu c'est de travailler ensemble, Allemagne et France, pour apporter une contribution concrète à la stabilité de la région.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "ce qui implique pour la France aussi une stratégie de réengagement que je veux pouvoir présenter aujourd'hui à nos partenaires.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Allemagne",
+      "relation": "VISITED",
+      "target": "Allemagne",
+      "evidence": "Le deuxième enjeu c'est de travailler ensemble, Allemagne et France, pour apporter une contribution concrète à la stabilité de la région.",
+      "confidence": 1.0,
+      "source_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "Allemagne",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "Le deuxième enjeu c'est de travailler ensemble, Allemagne et France, pour apporter une contribution concrète à la stabilité de la région.",
+      "confidence": 1.0,
+      "source_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Allemagne",
+      "evidence": "Le deuxième enjeu c'est de travailler ensemble, Allemagne et France, pour apporter une contribution concrète à la stabilité de la région.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "Allemagne",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "Le deuxième enjeu c'est de travailler ensemble, Allemagne et France, pour apporter une contribution concrète à la stabilité de la région.",
+      "confidence": 1.0,
+      "source_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

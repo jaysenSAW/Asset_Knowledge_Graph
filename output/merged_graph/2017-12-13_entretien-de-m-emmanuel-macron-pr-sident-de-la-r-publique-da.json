@@ -1,0 +1,719 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "développement",
+      "id": "Theme_9f563f6fb56281bb29449c280e882333dd332f1e1e2aa5ff1e49c8654dc6f9a4"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement de la planète",
+      "id": "Theme_7c603a9c2a6e41277be189736802faae70b4547352d69fc7dd067e63f972b965"
+    },
+    {
+      "type": "Theme",
+      "name": "Accord de Paris",
+      "id": "Theme_152a851eb1dbb7769682151519941e34f537ce302d4e0686a44e31473c8febaf"
+    },
+    {
+      "type": "Theme",
+      "name": "COP21",
+      "id": "Theme_5eeb45b09d9b325f297dad2ca9c5894e803316dfa61fbaee7c4fc534ab0b5099"
+    },
+    {
+      "type": "Theme",
+      "name": "2°C",
+      "id": "Theme_eb11bf13fba4c1bd3ad0f23272ea5fb745422fbbf5525d565c49e0bde4cc3aab"
+    },
+    {
+      "type": "Theme",
+      "name": "1,5°C",
+      "id": "Theme_6bc1141e138f617058f0f94cc69ac79fa3717980c07556bf0a65d2ff3c963687"
+    },
+    {
+      "type": "Event",
+      "name": "sommet du 12 décembre",
+      "id": "Event_4aa40dbc104b28846d414c63fb05207bce779a54f11c1f34fd7d5eae5ab36db9"
+    },
+    {
+      "type": "Theme",
+      "name": "conférences climat",
+      "id": "Theme_2b63488504e43cc07893e3ed4782b05ded9fa6f02c5d9d0025b940ad94cc47b9"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle productif différent",
+      "id": "Theme_c72b4f0f89cf9dda0be689717825976af906a7607e629f4d1259ebd2fd4ffab6"
+    },
+    {
+      "type": "Theme",
+      "name": "régions",
+      "id": "Theme_517b777f2e26c668d40b8c70e5c435e7111c4b26f68ad351b155ce2e26fc3aa0"
+    },
+    {
+      "type": "Theme",
+      "name": "villes",
+      "id": "Theme_87dae9e2e8bcb2868c6462f505574c1002dcb6c988f5c7fba5b07a1221da978c"
+    },
+    {
+      "type": "Theme",
+      "name": "acteurs privés",
+      "id": "Theme_c13fcd467c07bc59d319c1d989664bdd36b8eb5f6da34267931cb50cc67cfcea"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur financier",
+      "id": "Theme_e4ac0274930bb1eef10f885b6ee2a29f189a0d55996c1b13d6639016ee899108"
+    },
+    {
+      "type": "Theme",
+      "name": "ressources fossiles",
+      "id": "Theme_c245ec178a249182d64237210168e1da72ff78f82a08d72f448c7620e2722469"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz à effet de serre",
+      "id": "Theme_601e4ced7fdd29d58bc0a82076d52b7d84e3945fdb894d9801115aa38db3723a"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "exploitation des gisements de pétrole et de gaz",
+      "id": "Theme_9b7edbe901cfcd0b2a785b1ab24073b26e0cca3cc5b25fbfcf49bb522a568d7d"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "pays européens",
+      "id": "Country_3e1571c8cec20e09a51425afa427abeccb884997c4964935f5f86283f0500289"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies fossiles",
+      "id": "Theme_b6c35f61d1a981309cce533ddbf6a71e259f9c267d021131e611f1b7a3f5f978"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie solaire",
+      "id": "Theme_9d4ab1d5efada7f4308c808862c4d31a748d1e6c6b488870e805770235d5a3bc"
+    },
+    {
+      "type": "Organization",
+      "name": "entreprises françaises",
+      "id": "Organization_b772cf0f7168d6aa11aebb69b151219c324584b4d912cd36c68776a4a9b807fb"
+    },
+    {
+      "type": "Theme",
+      "name": "achat d'électriques et d'hybrides",
+      "id": "Theme_54e45c3fecefdafc3e308695fcbfcfbf5636ffc16863edde6f9ce172aac78749"
+    },
+    {
+      "type": "Theme",
+      "name": "taxes sur le diesel",
+      "id": "Theme_3c8e823907681131573c65ae7b3dfcf9782ee452aa3ef226e6a96f6eedd4049c"
+    },
+    {
+      "type": "Theme",
+      "name": "standard d'émissions ambitieux pour les véhicules neufs au niveau européen",
+      "id": "Theme_e23d51c12945a9fc805e53d30a1878bb143ca8a5fae48d9a53769c39ddd3859c"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements dans le renouvelable et dans les nouveaux modes de production",
+      "id": "Theme_0974db38de31970a214a37f5ab366b933951c2a29d0f3fbc94e40416eea232fb"
+    },
+    {
+      "type": "Organization",
+      "name": "EDF",
+      "id": "Organization_a2183f95d437456d4b4affc3a6618e8faf7d161757f235e7560aeca5540433a9"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition des philanthropes",
+      "id": "Organization_316fc02b860d3e7824d04306f01e92664fa2d76723e4a38fd17096789ae90800"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition des fonds souverains",
+      "id": "Organization_e91d43ea090d0e28f9d44a536eb28b3dc0949468e28f885cfb71d4d7e19f5d79"
+    },
+    {
+      "type": "Country",
+      "name": "Émirats arabes unis",
+      "id": "Country_02da2051b5b49f4cccf63ff0675abe8e1fc2d1961a4264fcb31498ee4e262b19"
+    },
+    {
+      "type": "Country",
+      "name": "Koweït",
+      "id": "Country_944efe801b2f8db0d8e2c92c9b7be9ac136151191bee8ef9a8df23bebb66ee29"
+    },
+    {
+      "type": "Country",
+      "name": "Nouvelle-Zélande",
+      "id": "Country_80bad93f7b963239646a7f56fd94d25d28ff91f84bb39af18dbb2d11c840f36f"
+    },
+    {
+      "type": "Country",
+      "name": "Norvège",
+      "id": "Country_01255a6d7078545605faae7f3b57607774761cefa10e25e0bff7873d4b8710cd"
+    },
+    {
+      "type": "Theme",
+      "name": "transition climatique",
+      "id": "Theme_e75feae75fc3fc33a1090e46506e630bfc0c68d201d672aba551e5a19141a63a"
+    },
+    {
+      "type": "Theme",
+      "name": "transition énergétique",
+      "id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7"
+    },
+    {
+      "type": "Theme",
+      "name": "planète",
+      "id": "Theme_38e28b3e4c13e58b47932666932d6ebab6edc14f0cd7822041d0e68c7b34f00c"
+    },
+    {
+      "type": "Theme",
+      "name": "génération",
+      "id": "Theme_ebd6e511ce08f31c6fb10d3a240a4261fa16b7b0e6fc36cf928c9880a64a00b8"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "déstabilisations géopolitiques",
+      "id": "Theme_bc9ee7e5e107f2a60e174ab2cdcf422c939ab301dc479e1a9bc768f4a03cfc49"
+    },
+    {
+      "type": "Theme",
+      "name": "construction de la paix",
+      "id": "Theme_65e5f522f518727974a30d67dac3751db2975411b74ee2f3e0e31fa523209ad4"
+    },
+    {
+      "type": "Theme",
+      "name": "transition géopolitique",
+      "id": "Theme_887cb5c54430fe54a8dec4847993ea35a415c76bec517471e644593b9719116c"
+    },
+    {
+      "type": "Theme",
+      "name": "déséquilibres",
+      "id": "Theme_20e78b47b37f9c462055719090cac55bde16cb82c3d63f368df2f188518638cc"
+    },
+    {
+      "type": "Theme",
+      "name": "Proche et Moyen-Orient",
+      "id": "Theme_40a94f9ca42da420ce9dcedc7093588cbe8eef27c2c27be06f6f9d9f4393a427"
+    },
+    {
+      "type": "Person",
+      "name": "Bill Gates",
+      "id": "Person_22a33afdba85f5448b8c0852d5d3e10e7c14d0a231ae06d97a2e4e9bd94abc61"
+    },
+    {
+      "type": "Person",
+      "name": "Nicolas Hulot",
+      "id": "Person_1b491cca54a5717f6da3df6b36bbfbafc8303b6a5d77ce4bb37ca8aace8599a0"
+    },
+    {
+      "type": "Country",
+      "name": "Pays du Sud",
+      "id": "Country_38b9c840a650096cac59ad85360a9182fe64828eb5f1ed4edc32f64fe4dad937"
+    },
+    {
+      "type": "Organization",
+      "name": "acteurs privés américains",
+      "id": "Organization_98540dd4dae5ed6a330f5ff77f4b33f046e1dc244eeaeac145f21c0bd0a50be2"
+    },
+    {
+      "type": "Theme",
+      "name": "adaptation environnementale",
+      "id": "Theme_c96ae9eb8512923a1d4de710138afd6a0097e066931699ab04f3a66e62904a4e"
+    },
+    {
+      "type": "Theme",
+      "name": "aide publique au développement",
+      "id": "Theme_e1defbe77127ea01eb094a64a7c78a891333ea4946327a4edd00102b08d9ac11"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Person",
+      "name": "le pape",
+      "id": "Person_b892ccea5f97390169faa601c95150d74bc555e7adaaee2aabf860099f46d7c4"
+    },
+    {
+      "type": "Person",
+      "name": "la finance",
+      "id": "Person_b9266fc92d5e97eac81812a79bd3c182464c09283e08667357e4dfa2f8c0f9d5"
+    },
+    {
+      "type": "Person",
+      "name": "les gens",
+      "id": "Person_86b93bd636036af868449dd087807be9c35dc8b2c354a0699f5754f3b31ac84e"
+    },
+    {
+      "type": "Theme",
+      "name": "le climat",
+      "id": "Theme_37ab2c5cd6c2cb99edfd6cf6437d5da5688e98686e6df7bc1b3771743b4ab949"
+    },
+    {
+      "type": "Theme",
+      "name": "l'action concrète",
+      "id": "Theme_77a997f7ae750b5dad5959c224357f62ed19e93a1967b05e00c51ca35b880343"
+    },
+    {
+      "type": "Theme",
+      "name": "la mobilisation",
+      "id": "Theme_013a91432ad2c60fc8f8546382f7e4dc8017d740b3ab2cf600884f1c70c06895"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Organization",
+      "name": "société civile internationale",
+      "id": "Organization_a609a9fe22dc09fe2fc11c6627d1bcd7a7558080408650e84ba7fbbc97faa3df"
+    },
+    {
+      "type": "Theme",
+      "name": "climatique",
+      "id": "Theme_4abf026fe9ca32e0caff98a931369a221f531d982e6efa70c6c21719a6ce0a0d"
+    },
+    {
+      "type": "Theme",
+      "name": "leadership",
+      "id": "Theme_036cad7a6846a7baecd836858d5b209056188f46e3d5171aa4c5a85110511636"
+    },
+    {
+      "type": "Theme",
+      "name": "TFF",
+      "id": "Theme_05f5a01aadfcf9062c84b03a60148412b4076ddc9d2693ce43695b495dc3f4e9"
+    },
+    {
+      "type": "Theme",
+      "name": "prix plancher de la tonne de CO2",
+      "id": "Theme_ca27de8179cbeefee69f0cb4fd00fcc1120fec8bc0d5ce971db6e3d51565f4c3"
+    },
+    {
+      "type": "Country",
+      "name": "Belgique",
+      "id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Person",
+      "name": "Q",
+      "id": "Person_0747e4ae3933cf12a1d327074e787a47c5a417dcd7802980295dabb8117b674c"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie renouvelable",
+      "id": "Theme_8ec3a5022bf474588afd2b4e08157daf3a5d6090455c73013689fbc7c57fdc97"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelable",
+      "id": "Theme_d0beb8d3065f33b4c348175dce1aba64c98ce89f1a5876f75f351c8752b2dd50"
+    },
+    {
+      "type": "Theme",
+      "name": "droit à l'erreur",
+      "id": "Theme_e3d0e8f65b1fad8abca73e1e91287ec33936c82a887ba62092cfe526f54ff5ec"
+    },
+    {
+      "type": "Theme",
+      "name": "procédures d'autorisation",
+      "id": "Theme_e576ad1cdd1ccf0ef1e4b8aa56c2aba9f4b3a70f0d59f1493a1223cd7bcd2799"
+    },
+    {
+      "type": "Theme",
+      "name": "recours",
+      "id": "Theme_5ecd8b6086595f3d501b4e5750ceac4eddc695a6e19debe498dfd33771c7c338"
+    },
+    {
+      "type": "Theme",
+      "name": "raccordements aux réseaux électriques",
+      "id": "Theme_9b4d5cf7dbb576006fddd6eba8966fc80a86c11365868741f8b7f50be916cacd"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "échéance",
+      "id": "Theme_b0b6b9bc71c929c27a20feb371b5548a94c45e75d6fc996d43d488314f9a8bc0"
+    },
+    {
+      "type": "Theme",
+      "name": "programmation pluriannuelle de l'énergie",
+      "id": "Theme_caf1385c35b0ccf36e86893bc75d4b463d7bdd23686f684aa07b18627f4ccf7f"
+    },
+    {
+      "type": "Theme",
+      "name": "trajectoire",
+      "id": "Theme_af8ca49e0439ab588c3420817a9f27769262e28be80d6e1c4270a9539c21e82e"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda nucléaire",
+      "id": "Theme_a46aaa9720a5d2459bf22b5511bd96f7f5443370c9fed270eeb0c89a5d679d59"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "City",
+      "name": "Fessenheim",
+      "id": "City_664de42583cf8c0d9cb7e26931194a8fb9d2936c5aabebf8c47ae4f1c1a4aeb8"
+    },
+    {
+      "type": "Theme",
+      "name": "fermeture de centrale",
+      "id": "Theme_5ede05982fd3f717f4d5c3aa5ddab9349c12414be88dfac8e8a345af01d4a340"
+    },
+    {
+      "type": "Theme",
+      "name": "augmentation de nos émissions de gaz à effet de serre",
+      "id": "Theme_03a2167f54db48fc3a85a691d1466ba1d1c4a56313a554d0b5ce47ad79dcd43d"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique",
+      "id": "Theme_82634c5567e29ec1e0f256205be4191228a3b7329a743da05d0f47189c5b7272"
+    },
+    {
+      "type": "Theme",
+      "name": "sûreté des centrales nucléaires",
+      "id": "Theme_ab0c9cf7b9fe7be1031d06d4e4754c6406a9ff2a4ccf3af9ea83a97ea8d71c47"
+    },
+    {
+      "type": "City",
+      "name": "Sorbonne",
+      "id": "City_be809d89796ecb5c6df9354a01dfd395a79d98455adce499fa3da8fcbb92297c"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération renforcée",
+      "id": "Theme_291c10993e25926f8e5b74f9db56296e80059387a3e09f5a5ed195d66aaaaaf3"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement",
+      "id": "Theme_b53e869b761ff3b2e610c18e6c0fd53e10ad5d2a8ba8bf353be9d0f1148d8c43"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "migration",
+      "id": "Theme_01a5c75184775cff4173ec0fbbc450fb35e1b7e33254192f0b79aede45c55a7a"
+    },
+    {
+      "type": "Country",
+      "name": "Schengen",
+      "id": "Country_6a3d1691d064ce783d29f20245436868f0bb53b5e2fa5321c38f31a4b0399e5b"
+    },
+    {
+      "type": "Country",
+      "name": "zone euro",
+      "id": "Country_bb6d36990a6bef0215c78761fe4ea7cac3c03f5e88219a0aa20efef5c18b6798"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté géopolitique",
+      "id": "Theme_2287940c83d1faa03f31acc3a98a8f07a62d3c833354e15635fcc9d6319bac14"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté énergétique",
+      "id": "Theme_29ddd5b819c0e29a592ce29a3a3806309c1234137a4e94a8f653f8b273860b3a"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe à deux vitesses",
+      "id": "Theme_3fee9481ffb6866b1942efe29a25011963e5bb2e81d21b94ede2516befb8f867"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe à plusieurs vitesses de l'ambition",
+      "id": "Theme_0e5c0919f4ef16a7863dc8fe0561a71a7fef2bc1439cf77724bb7f03f8f1c65e"
+    },
+    {
+      "type": "Organization",
+      "name": "ONG",
+      "id": "Organization_3e1586cef038ea96d5ab3c5a2d6496c339bffcc013fa18af180a38657091796f"
+    },
+    {
+      "type": "Theme",
+      "name": "part du nucléaire",
+      "id": "Theme_7d4389838d163b09fbcd1ce1b8d7ea90ddcf9a8c4c282829b28aa3f76c7fc468"
+    },
+    {
+      "type": "Theme",
+      "name": "glyphosate",
+      "id": "Theme_ed53bd481005aaf5c3d275f9e4cc5614e6f150b20634792f433318c20d1eed93"
+    },
+    {
+      "type": "Person",
+      "name": "J'entends et je respecte les activistes",
+      "id": "Person_6bd8f5bfbbfaf4d440e54c6c9e4fe4f4d646e8df3de11aba284d35fadcd135cb"
+    },
+    {
+      "type": "Person",
+      "name": "la chancelière Merkel",
+      "id": "Person_1ae2ee415d9a332e049a906d23f07d0796815a0346c04bcb610eed856cc37d9a"
+    },
+    {
+      "type": "Organization",
+      "name": "INRA",
+      "id": "Organization_fd492439f4b3a679e6c68821c7fd2971e95e17bfdf7b47ca5fa95480362e4ef2"
+    },
+    {
+      "type": "Theme",
+      "name": "Roundup",
+      "id": "Theme_a71d202cf18a13d70c67741f015164b82c0e95c441ee0cf0fdbc998b355de93c"
+    },
+    {
+      "type": "Event",
+      "name": "sommet d'Abidjan",
+      "id": "Event_4d5e05bf5df6fe5c56b16ef785df05d9004995060f554ee5d7c492b959cf3ed7"
+    },
+    {
+      "type": "Organization",
+      "name": "source http://www.diplomatie.gouv.fr",
+      "id": "Organization_59c0b57f37ef72f82d52498df8189367c9344ea0f6e34cb304f05408afd0e9a3"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "conférences climat",
+      "relation": "SPOKE_ABOUT",
+      "target": "multilatéralisme",
+      "evidence": "Le système des conférences climat [les COP] présente un intérêt diplomatique et a le mérite de placer les acteurs gouvernementaux sous tension, dans le cadre d'un multilatéralisme.",
+      "confidence": 1.0,
+      "source_id": "Theme_2b63488504e43cc07893e3ed4782b05ded9fa6f02c5d9d0025b940ad94cc47b9",
+      "target_id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "source": "régions",
+      "relation": "VISITED",
+      "target": "villes",
+      "evidence": "Mais nous voyons bien ces dernières années que ce sont les régions, les villes, les acteurs privés, l'ensemble du secteur financier privé et public qu'il faut dorénavant mobiliser pour passer à l'étape d'après, en réorientant les flux vers un modèle productif différent et en transformant les comportements.",
+      "confidence": 1.0,
+      "source_id": "Theme_517b777f2e26c668d40b8c70e5c435e7111c4b26f68ad351b155ce2e26fc3aa0",
+      "target_id": "Theme_87dae9e2e8bcb2868c6462f505574c1002dcb6c988f5c7fba5b07a1221da978c"
+    },
+    {
+      "source": "acteurs privés",
+      "relation": "VISITED",
+      "target": "secteur financier",
+      "evidence": "Mais nous voyons bien ces dernières années que ce sont les régions, les villes, les acteurs privés, l'ensemble du secteur financier privé et public qu'il faut dorénavant mobiliser pour passer à l'étape d'après, en réorientant les flux vers un modèle productif différent et en transformant les comportements.",
+      "confidence": 1.0,
+      "source_id": "Theme_c13fcd467c07bc59d319c1d989664bdd36b8eb5f6da34267931cb50cc67cfcea",
+      "target_id": "Theme_e4ac0274930bb1eef10f885b6ee2a29f189a0d55996c1b13d6639016ee899108"
+    },
+    {
+      "source": "secteur financier",
+      "relation": "VISITED",
+      "target": "secteur financier",
+      "evidence": "Mais nous voyons bien ces dernières années que ce sont les régions, les villes, les acteurs privés, l'ensemble du secteur financier privé et public qu'il faut dorénavant mobiliser pour passer à l'étape d'après, en réorientant les flux vers un modèle productif différent et en transformant les comportements.",
+      "confidence": 1.0,
+      "source_id": "Theme_e4ac0274930bb1eef10f885b6ee2a29f189a0d55996c1b13d6639016ee899108",
+      "target_id": "Theme_e4ac0274930bb1eef10f885b6ee2a29f189a0d55996c1b13d6639016ee899108"
+    },
+    {
+      "source": "ressources fossiles",
+      "relation": "SPOKE_ABOUT",
+      "target": "gaz à effet de serre",
+      "evidence": "Incluez-vous dans ce «choc», comme le demandent les experts, le renoncement à exploiter les réserves mondiales de ressources fossiles, qui représentent 85% des émissions humaines de gaz à effet de serre ?",
+      "confidence": 1.0,
+      "source_id": "Theme_c245ec178a249182d64237210168e1da72ff78f82a08d72f448c7620e2722469",
+      "target_id": "Theme_601e4ced7fdd29d58bc0a82076d52b7d84e3945fdb894d9801115aa38db3723a"
+    },
+    {
+      "source": "Banque mondiale",
+      "relation": "SPOKE_ABOUT",
+      "target": "énergies fossiles",
+      "evidence": "La clé, c'est que la Banque mondiale ainsi que tous les financeurs et bailleurs internationaux réorientent leurs financements pour soutenir moins de projets faisant appel aux énergies fossiles et beaucoup plus ceux utilisant l'énergie solaire ou éolienne.",
+      "confidence": 1.0,
+      "source_id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d",
+      "target_id": "Theme_b6c35f61d1a981309cce533ddbf6a71e259f9c267d021131e611f1b7a3f5f978"
+    },
+    {
+      "source": "Banque mondiale",
+      "relation": "SPOKE_ABOUT",
+      "target": "énergie solaire",
+      "evidence": "La clé, c'est que la Banque mondiale ainsi que tous les financeurs et bailleurs internationaux réorientent leurs financements pour soutenir moins de projets faisant appel aux énergies fossiles et beaucoup plus ceux utilisant l'énergie solaire ou éolienne.",
+      "confidence": 1.0,
+      "source_id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d",
+      "target_id": "Theme_9d4ab1d5efada7f4308c808862c4d31a748d1e6c6b488870e805770235d5a3bc"
+    },
+    {
+      "source": "Nicolas Hulot",
+      "relation": "SPOKE_ABOUT",
+      "target": "climat",
+      "evidence": "Nicolas Hulot avait dit, avant de devenir ministre, que c'est le pape et la finance qui sauveraient le climat...",
+      "confidence": 1.0,
+      "source_id": "Person_1b491cca54a5717f6da3df6b36bbfbafc8303b6a5d77ce4bb37ca8aace8599a0",
+      "target_id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "leadership",
+      "evidence": "La bonne image qu'a aujourd'hui la France à l'international correspond au leadership que nous avons repris sur le climat suite à la perte de ce leadership par les États-Unis d'Amérique.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_036cad7a6846a7baecd836858d5b209056188f46e3d5171aa4c5a85110511636"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "renouvelable",
+      "evidence": "La France est en retard sur l'énergie renouvelable.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_d0beb8d3065f33b4c348175dce1aba64c98ce89f1a5876f75f351c8752b2dd50"
+    },
+    {
+      "source": "Nicolas Hulot",
+      "relation": "MENTIONS",
+      "target": "réchauffement climatique",
+      "evidence": "Nicolas Hulot, avec beaucoup de courage, est sorti d'une hypocrisie française. On avait fixé un agenda intenable sans prendre les décisions qui allaient avec, sans programmation pluriannuelle. Voilà la réalité. Si l'on est d'accord pour considérer que la première priorité, c'est le réchauffement climatique, l'urgence est alors de fermer des centrales thermiques et celles au charbon.",
+      "confidence": 1.0,
+      "source_id": "Person_1b491cca54a5717f6da3df6b36bbfbafc8303b6a5d77ce4bb37ca8aace8599a0",
+      "target_id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "souveraineté énergétique",
+      "evidence": "Si l'Europe n'est pas au rendez-vous, elle peut perdre sa souveraineté énergétique.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_29ddd5b819c0e29a592ce29a3a3806309c1234137a4e94a8f653f8b273860b3a"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "Europe à deux vitesses",
+      "evidence": "Q - Quitte à assumer une Europe à deux vitesses ?",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_3fee9481ffb6866b1942efe29a25011963e5bb2e81d21b94ede2516befb8f867"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "Schengen",
+      "evidence": "Vous avez l'Europe de Schengen, l'Europe de la zone euro...",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_6a3d1691d064ce783d29f20245436868f0bb53b5e2fa5321c38f31a4b0399e5b"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "zone euro",
+      "evidence": "Vous avez l'Europe de Schengen, l'Europe de la zone euro...",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_bb6d36990a6bef0215c78761fe4ea7cac3c03f5e88219a0aa20efef5c18b6798"
+    },
+    {
+      "source": "INRA",
+      "relation": "MENTIONS",
+      "target": "glyphosate",
+      "evidence": "l'INRA [Institut national de la recherche agronomique] explique qu'il n'y a aujourd'hui pas de substitut au glyphosate qui garantisse une compétitivité égale, sauf à désherber à la main.",
+      "confidence": 1.0,
+      "source_id": "Organization_fd492439f4b3a679e6c68821c7fd2971e95e17bfdf7b47ca5fa95480362e4ef2",
+      "target_id": "Theme_ed53bd481005aaf5c3d275f9e4cc5614e6f150b20634792f433318c20d1eed93"
+    },
+    {
+      "source": "la chancelière Merkel",
+      "relation": "ANNOUNCED",
+      "target": "sommet d'Abidjan",
+      "evidence": "J'ai pris au mot la chancelière Merkel, lorsque je l'ai vue au sommet d'Abidjan en lui disant : «Tu as dit que tu étais contre [la position prise sur le glyphosate par le ministre de l'agriculture allemand] ? Très bien, je te propose une coopération renforcée, nous on essaie de le faire en trois ans.",
+      "confidence": 1.0,
+      "source_id": "Person_1ae2ee415d9a332e049a906d23f07d0796815a0346c04bcb610eed856cc37d9a",
+      "target_id": "Event_4d5e05bf5df6fe5c56b16ef785df05d9004995060f554ee5d7c492b959cf3ed7"
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "l'individu",
+      "id": "Person_ae00377bd9ee876ac30fa4f0e00aa9af4a6899cb5e167c04d09e8aba43360b94"
+    },
+    {
+      "type": "City",
+      "name": "Trèbes",
+      "id": "City_03996f5ce14231e0da37399b17729153dd56e86e3a44f7562543e5623e7ea3b0"
+    },
+    {
+      "type": "Organization",
+      "name": "Parquet de Paris",
+      "id": "Organization_34c5d3928c169d0e6630873bb76095e2e0939e7f2ea3a4b4972b94b8dab5034e"
+    },
+    {
+      "type": "Organization",
+      "name": "DGSI",
+      "id": "Organization_50fc71ebc2ce5c1688f19276e86d2a0df0880efcf5f60ef9f30b86c9aa086848"
+    },
+    {
+      "type": "Organization",
+      "name": "SDAT",
+      "id": "Organization_cf2c54ecb5da2e6a0ea6cb819eb0a3e26bc43672fe9fdeed571b1781ad3be2f1"
+    },
+    {
+      "type": "Organization",
+      "name": "forces de l'ordre",
+      "id": "Organization_8dc73a3ce58bd863b368fbcaf066bb1888740d708d6e194d2b36e502d59dbf25"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Person",
+      "name": "le ministre de l'Intérieur",
+      "id": "Person_0da8fe3d498eb45e80d5b6201ac06d3cb85c26558b2a64ef9394203d50329c39"
+    },
+    {
+      "type": "Person",
+      "name": "le Premier ministre",
+      "id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "type": "Person",
+      "name": "la Chancelière",
+      "id": "Person_450f783eb1e216b2ce6c00e928795e1a645efedb70000d99cc33b3ff58369e32"
+    },
+    {
+      "type": "Person",
+      "name": "Angela",
+      "id": "Person_f5838b292df0ac2c4afafc7946e13d71da37e0fb3a65ee0cc13dbe5880598d53"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "gendarmerie",
+      "id": "Organization_b95753ed271ade5dcf1b54deee1f75640b2715635daabd28dba268524f6e100e"
+    },
+    {
+      "type": "Organization",
+      "name": "CRS",
+      "id": "Organization_19a57e2a7f6353d75064c2323c18e32a0232ea0f44ce6fd94049478a3d1f2719"
+    },
+    {
+      "type": "Organization",
+      "name": "section antiterroriste du Parquet de Paris",
+      "id": "Organization_35ba5b921856f6a0f68b73dd7bb472a8bb0803bffe6e629add94930a73c4ee93"
+    },
+    {
+      "type": "Event",
+      "name": "attaque de Salisbury",
+      "id": "Event_a0d50580cd8d856d7f4d430f875743e21ff781f84c682e065bb09fb290ebaa73"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil européen",
+      "id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation pour l'interdiction des armes chimiques",
+      "id": "Organization_d0330db6a4da693d613384578ff300589ee947e13c7668f9d636aefd9900910b"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Grande Bretagne",
+      "id": "Country_f05f35768ba761eb65ace9f5bc7e60cc3ac0b1b11e185085fb3c9d47cc2c5a7f"
+    },
+    {
+      "type": "Theme",
+      "name": "utilisation de ces armes chimiques",
+      "id": "Theme_003d8ae1b23a39e133df875ca6b6878cc213ea62de04d4811d9ad03e04fc7799"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Turquie",
+      "id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Afrin",
+      "id": "Country_01a39f6e4449b6be6bd4a460eb7258f5d3754ca6a8b4912244f0fa995e1badcc"
+    },
+    {
+      "type": "Person",
+      "name": "Theresa MAY",
+      "id": "Person_f9d077e1f6a9535d00181f420d1d3be0682f9147ffff792fa0063438a36eb744"
+    },
+    {
+      "type": "Person",
+      "name": "TUSK",
+      "id": "Person_696b755e679c115c9f6fe644e17e8c4d0cb16d23fcedb9f3198454427354202f"
+    },
+    {
+      "type": "Person",
+      "name": "JUNCKER",
+      "id": "Person_79fbb50acf9e13d45a785dc6c088d941c901209f230a41d0efb053518e0f7353"
+    },
+    {
+      "type": "Person",
+      "name": "BORISSOV",
+      "id": "Person_38a3f53029cec5e076a961ae32df3db4bbe57c33ba00df79017d0a9ea5a42739"
+    },
+    {
+      "type": "Person",
+      "name": "ERDOGAN",
+      "id": "Person_c65ec610e31eea4a697ac0f459d6485db532134c1d61c6fbd7f82ed7fc84e894"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "administration américaine",
+      "id": "Organization_ba60577934bcf4b22af350822491da2dd9db81123c42d196d3a6076ecfaa6bc6"
+    },
+    {
+      "type": "Organization",
+      "name": "OMC",
+      "id": "Organization_dbfd6ac2652ebf57b2436987f66688b5c1c31df23624ca5dbb0e937544345cc0"
+    },
+    {
+      "type": "Theme",
+      "name": "dumping commercial",
+      "id": "Theme_48eab44b5c4b20fb4272479ce39db0558df19cfb48d4dff065d239ef605c8fb6"
+    },
+    {
+      "type": "Theme",
+      "name": "surcapacités",
+      "id": "Theme_90c6e14f6729b87bc3472aebb167846790f43c93d86941a03908cc9ab5667a6e"
+    },
+    {
+      "type": "Theme",
+      "name": "protectionnisme",
+      "id": "Theme_f908a3ce2a62f196e9b3881f0b81ce31f64eb6d35dede2a07725ea9d130f54a7"
+    },
+    {
+      "type": "Theme",
+      "name": "mondialisation",
+      "id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Organization",
+      "name": "Chine",
+      "id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce",
+      "id": "Theme_030aa67661fc7f420b2620eaa40b472d5e87b4aea26693aacbd98e388c58bb88"
+    },
+    {
+      "type": "Theme",
+      "name": "travailleurs",
+      "id": "Theme_874e3fed642323c857c341dea5c2fbdf29315ba3ac8f80e1c0eddb1a5e844f77"
+    },
+    {
+      "type": "Theme",
+      "name": "entreprises",
+      "id": "Theme_491a26db55f7c6328a7c53a6f93fe64ff22d9bad28ce4f0f94b7bf90c7004da7"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle européen des investissements stratégiques",
+      "id": "Theme_a08aa76069efae0f381d1375df1dc63f65fe5a3dc56b76da6fda98395bdafbee"
+    },
+    {
+      "type": "Theme",
+      "name": "règles de réciprocité",
+      "id": "Theme_6ce94a154e1cc64d82be4544fc5a13af02ab56c80d080231df7c0fb57d4b326c"
+    },
+    {
+      "type": "Theme",
+      "name": "finance durable",
+      "id": "Theme_304f689d5e5beb54ef20fd926f65ed2bfec9b7900c62938984fed5053a65eabe"
+    },
+    {
+      "type": "Theme",
+      "name": "Accord de Paris",
+      "id": "Theme_152a851eb1dbb7769682151519941e34f537ce302d4e0686a44e31473c8febaf"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de l'individu",
+      "id": "Theme_a84341eaab7d5fcec976ee7b1a8eba19d09779b26f174e5b711a84784684ce87"
+    },
+    {
+      "type": "Theme",
+      "name": "juste solidarité",
+      "id": "Theme_bfa072f476c0127174d4557fffb5ab96e60b2722afd7e7a57891785ff635b3da"
+    },
+    {
+      "type": "Theme",
+      "name": "régulation efficace",
+      "id": "Theme_8a496dc14dcc215fcfed123f8dc9dda6c6345321c479cda5ba2b2837e6ffe832"
+    },
+    {
+      "type": "Theme",
+      "name": "plateformes",
+      "id": "Theme_d07d55ace95391a5ea5ba99f4a026dce8cc193fd6cb275132141cfe28de223f5"
+    },
+    {
+      "type": "Theme",
+      "name": "contenus illicites",
+      "id": "Theme_806983291c9d61f9391c76095b3fe370c1efa9a88f19770b74905b1b3dd1dae2"
+    },
+    {
+      "type": "Theme",
+      "name": "apologie du terrorisme",
+      "id": "Theme_9f4788385a353b74a1f08fd96bb438ef91888db520a57841040c39a12c644791"
+    },
+    {
+      "type": "Theme",
+      "name": "données personnelles",
+      "id": "Theme_9f9370077fb97cbbcf480c0bec7be4f09123d630c199238d14bfdd878e1424da"
+    },
+    {
+      "type": "Theme",
+      "name": "marché unique du numérique",
+      "id": "Theme_c40053f0a105e5ef143f88ba37d708bf31faa0d13ee288e4f481cbe9ce8bff0b"
+    },
+    {
+      "type": "Law",
+      "name": "réglementation",
+      "id": "Law_344e2286cc49141aff9567860dc9bb85f6d4f69c1c6d470aa416fe9a9239e393"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscalité du numérique",
+      "id": "Theme_643404df2f482f3999f530cdf443e33658feb48bc71df966e938a9aa6dbcd0d9"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscalité collective",
+      "id": "Theme_7d6613cc5b39a8c84407a40ad776339e086d4b9515d75cbd88ac7985eada6f95"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscalité de tous les acteurs du numérique",
+      "id": "Theme_85bcf32e6a35c5b5f1b75c435f2bb6f613b0ed5fc89faeca3fb7dddd14377e61"
+    },
+    {
+      "type": "Theme",
+      "name": "finance verte",
+      "id": "Theme_27026c2a22461fb29b5fa84741b071c6534b9d089a8d8bbfe0713f67240afe22"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie européenne pour le climat",
+      "id": "Theme_41367c1dd1df12e24b9cb0a8c901da7d81e2562c22339ebe4ed015ed5105f665"
+    },
+    {
+      "type": "Theme",
+      "name": "convergences sociales",
+      "id": "Theme_6103cd7ec1b6d984e58a104956a167cd748db577081c6b3dc4a4562ec966c898"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme du travail détaché",
+      "id": "Theme_49b7bdaa106708435fb962f6f951c34932316ae0a96e60ab750222c98a9223b2"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôles",
+      "id": "Theme_64043a3024d453b0d075acae2d790b2b8c5bbf83a239e7a0512368a98a588527"
+    },
+    {
+      "type": "Theme",
+      "name": "union économique et monétaire",
+      "id": "Theme_7cc24858cb5ed25e32af0a24fc3dba18da3eae7776b64d58a052f686dce89b94"
+    },
+    {
+      "type": "City",
+      "name": "Berlin",
+      "id": "City_b99770cd89b8870c4e168b4e52a8f787b64a4a2fc9ef992bf093af11c7e6a055"
+    },
+    {
+      "type": "Theme",
+      "name": "union bancaire",
+      "id": "Theme_f9c841f93a94134a4e484b837202a4153798333567ec2947cd74ae78cf37b30d"
+    },
+    {
+      "type": "Theme",
+      "name": "zone euro",
+      "id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "type": "Person",
+      "name": "Michel BARNIER",
+      "id": "Person_6a04ceb187264fb3e394a2093779ba135fd7a574bf1489892666c3bcc42b5af6"
+    },
+    {
+      "type": "Event",
+      "name": "Brexit",
+      "id": "Event_0ac67d48e8e41ceea068da2f23e9edbc22fff9ab2df624ff61fe96e032c92341"
+    },
+    {
+      "type": "Organization",
+      "name": "Notre Conseil",
+      "id": "Organization_e19d8f23213af14af9500029a76686852caa3e1bf18bed44acba78e601a53498"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "l'Union européenne et de ses Etats membres",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "ALLIED_WITH",
+      "target": "Chine",
+      "evidence": "l'Union européenne en particulier avec la Chine et plusieurs autres puissances",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Commission",
+      "evidence": "la Commission et la France souhaite très clairement que nous puissions poursuivre",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    }
+  ]
+}

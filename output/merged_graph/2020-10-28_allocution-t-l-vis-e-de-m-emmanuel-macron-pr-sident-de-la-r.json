@@ -1,0 +1,565 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Country",
+      "name": "Irlande",
+      "id": "Country_add775eaec2849b9c8b5c4b21cad022c0c1d91850b7cab89dc8138b97a441bbd"
+    },
+    {
+      "type": "Country",
+      "name": "Pays-Bas",
+      "id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "type": "Person",
+      "name": "Mes chers compatriotes",
+      "id": "Person_b6b29c7b55b71aae52b700aaa89778c04669d873e35a8a1d54782abede5f747b"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "COVID-19",
+      "id": "Theme_d5e7dbe0204945df0a66692ca666448a467d14bc7f36bc2b7afe79af217b2384"
+    },
+    {
+      "type": "Theme",
+      "name": "accident de la route",
+      "id": "Theme_f2d76c27ab9889fe0305527066defabbaaef7f4cee9b3ed8afdaec0101e58229"
+    },
+    {
+      "type": "Theme",
+      "name": "diabète",
+      "id": "Theme_5fa92ac25b76ea5c3ef4d4ecbb8ee559fa12ad0ec5655d61cca30530b10503d5"
+    },
+    {
+      "type": "Theme",
+      "name": "obésité",
+      "id": "Theme_de24ae6d5fb4146b59878abfd98316247a3b1f9c41cd2c5ad9fd79634bdb88a1"
+    },
+    {
+      "type": "Theme",
+      "name": "hypertension",
+      "id": "Theme_3f577070d10c124431cdeacbf00919b819795ea3baf998121f45abcbf8300254"
+    },
+    {
+      "type": "Theme",
+      "name": "maladies chroniques",
+      "id": "Theme_57178cca0419ae26312b9967976059ab7b2985410eae03ad24b2f0e9c5b9b210"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "virus",
+      "id": "Theme_693f7390ed433c22624aec32764b8241743cc2c14cc1c8347faecc4978733995"
+    },
+    {
+      "type": "Theme",
+      "name": "immunité collective",
+      "id": "Theme_d0ad78a08146e182360c7049f5f49b7d7f17ccaa3d0019ca321520146b63ec4a"
+    },
+    {
+      "type": "Theme",
+      "name": "système de santé",
+      "id": "Theme_2657aebfbbfb5694ad4f18f7234ec7531dfc35b68b63242c708fb8b908b3b060"
+    },
+    {
+      "type": "Theme",
+      "name": "augmentation de nos capacités de réanimation",
+      "id": "Theme_1d87d7ae5327eb224a66d47e6133cdb6ab406e2f5bb9af24792e0c2e0f34a479"
+    },
+    {
+      "type": "Theme",
+      "name": "stocks de médicaments",
+      "id": "Theme_46a02e42133d170ae357a4b9b982dec72b9b92dd1eec9fd17fda8d59aff47057"
+    },
+    {
+      "type": "Theme",
+      "name": "respirateurs",
+      "id": "Theme_c1d0afccafe59e08c3734ce76dbbb129335425cb94375cefe59f0173302bcd67"
+    },
+    {
+      "type": "Theme",
+      "name": "masques",
+      "id": "Theme_7e6356c77f717bac8e4f9ce8035328157f6cde8165db1da48bc89c058e1b6660"
+    },
+    {
+      "type": "Theme",
+      "name": "5000 lits avant la première vague",
+      "id": "Theme_45b86fa9ae1a9d546e3b7a2b6096f6afd0b5a30fe1e607abdaae2f9b346340e9"
+    },
+    {
+      "type": "Theme",
+      "name": "10 000 lits en réanimation",
+      "id": "Theme_4c92991bf498d3cedf4b0ec3c303e491e1478f0ea7dc562bfd40e765ce752651"
+    },
+    {
+      "type": "Theme",
+      "name": "Ségur de la santé",
+      "id": "Theme_7624058c086ae037f73571dfde02d58997ad64032b9e5b2f5402b40dc6f59ee4"
+    },
+    {
+      "type": "Theme",
+      "name": "8 milliards par an investis dans l'hôpital",
+      "id": "Theme_359f3b51726722243e1800bf40610598a0afe30b555a9a9feb7d65e73f0e8f76"
+    },
+    {
+      "type": "Theme",
+      "name": "main d'oeuvre étrangère",
+      "id": "Theme_a39939a6b99b26a30f8a3b59c85aadb06f8bef17e697fcd40c50ecf5954d5372"
+    },
+    {
+      "type": "Theme",
+      "name": "alerte",
+      "id": "Theme_1c9f67a4c8dd73a15abde0347453853eb76b0404e4be87c9594263e948c2f437"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "confinement",
+      "id": "Theme_0f45bb70a21246322d7cfb478164222695e0d01460bf96452caf268399a36f94"
+    },
+    {
+      "type": "Theme",
+      "name": "écoles",
+      "id": "Theme_a79652d352eb39af9161521ccf210bca649e1816674d0e4fa0bd8889e03ac877"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Theme",
+      "name": "EPHAD",
+      "id": "Theme_af567e85509c1a275c8161b6827fb71607ff7f428d13ccd9f379d34e6575619b"
+    },
+    {
+      "type": "Theme",
+      "name": "maisons de retraite",
+      "id": "Theme_c274939b3f265c74a38163bbf726dfe62bbee4a967a964618f64baa617655c72"
+    },
+    {
+      "type": "City",
+      "name": "proche",
+      "id": "City_c6fe719e1a6b83299d1dd44c9aec6552087c2507dcad1acb9b4cb6e2ea4c046d"
+    },
+    {
+      "type": "City",
+      "name": "domicile",
+      "id": "City_bca0fb4335ae5d8154a82d4fffcee129d8b3f3209c137c1a139fed3a5a88dcbd"
+    },
+    {
+      "type": "City",
+      "name": "lieu de vacances",
+      "id": "City_160a66584762a634f2b022ee6d4fe287cc19f6eade3b170f8e83c8d894dcf968"
+    },
+    {
+      "type": "Organization",
+      "name": "nos petites entreprises",
+      "id": "Organization_69ed8e08f7d844e07050bf445eab38db7ec9e51bf815d7b8cb9b1430508baeef"
+    },
+    {
+      "type": "Organization",
+      "name": "les salariés et les employeurs",
+      "id": "Organization_a92eda0845444a5b8dac488466bbb76c0a06f5c2c8ad7d5a6d2d80f3643b8975"
+    },
+    {
+      "type": "Organization",
+      "name": "les indépendants",
+      "id": "Organization_3da3e803f1266aba25e58f552108e0b5f81bd81837a4196de518090f88fe24e7"
+    },
+    {
+      "type": "Organization",
+      "name": "les commerçants",
+      "id": "Organization_982c3db2c51acbefa277d552d74095fd40b555e178b80b3d616abe84ac457a64"
+    },
+    {
+      "type": "Organization",
+      "name": "les très petites et moyennes entreprises",
+      "id": "Organization_c888a67f9c775b069f16cee4e714dd3bb7cfe28197547ec628e05f28b37ec20d"
+    },
+    {
+      "type": "Theme",
+      "name": "la crise",
+      "id": "Theme_d9d1ad53b00b58fa3f2701d84f010dd5736f35eff0e8d3b88aec88ceab0a50ac"
+    },
+    {
+      "type": "Theme",
+      "name": "instruction",
+      "id": "Theme_b22a707b941b81cf56d8cf65d322cd1ef50bfc21832ec28be185e9d5bb96914b"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "système scolaire",
+      "id": "Theme_b113037d6f4229a13739eeba75aa3022c2a51de374fb3adebd9c5bc9dbe0d925"
+    },
+    {
+      "type": "Theme",
+      "name": "crèches",
+      "id": "Theme_3b8d20054e5632ec194baca716ecd036da3c57d80da2379d43d3d3d1f1d97d13"
+    },
+    {
+      "type": "Theme",
+      "name": "collèges",
+      "id": "Theme_b0576d11cf7121a079a2eef6f91a88221d0c1425cab3d089ec54f00a5b751d4b"
+    },
+    {
+      "type": "Theme",
+      "name": "lycées",
+      "id": "Theme_9b709db04f06ecd71be2b78b7d90166c126a44e2e6c14c28021ebae4da387f39"
+    },
+    {
+      "type": "Theme",
+      "name": "facultés",
+      "id": "Theme_6570eebb9f40b84f204a099182289e85a5367b39500718002e5c08486ae4ae48"
+    },
+    {
+      "type": "Theme",
+      "name": "établissements d'enseignement supérieur",
+      "id": "Theme_d6c0daf0cf9b679d418c4a94b53815cf84a5b13e592fc68b5b8d82bbf9e8b501"
+    },
+    {
+      "type": "Theme",
+      "name": "télétravail",
+      "id": "Theme_3b9b5a78909e7a9d30031999ed96a8acaad5c67c11c081db3ad974e908bcdc9b"
+    },
+    {
+      "type": "Theme",
+      "name": "services publics",
+      "id": "Theme_9d23f2423869f33761b54988a51c02bcaaec512697b3c1f29a8001cba8569472"
+    },
+    {
+      "type": "Theme",
+      "name": "usines",
+      "id": "Theme_da4d27578b41e43bf5139086c74631f8ba4589b05522bbc047fa1535fed55a05"
+    },
+    {
+      "type": "Theme",
+      "name": "exploitations agricoles",
+      "id": "Theme_0c8169c0f16a23715076081ecffd34fffef9b29597ce03bac16c3f02dc447055"
+    },
+    {
+      "type": "Theme",
+      "name": "Bâtiments et Travaux Publics",
+      "id": "Theme_769f4201a0ebc7d69a36ba85fd9b3df1fb40e7005c66c7cc249b93bf410e627a"
+    },
+    {
+      "type": "Theme",
+      "name": "numérisation",
+      "id": "Theme_50905116b58d71fb611a012a8f989a8547a38622832cfa8ac5a6f5aa23f431c0"
+    },
+    {
+      "type": "Theme",
+      "name": "démarches de numérisation",
+      "id": "Theme_75200ec54c02cf021cd739a1ff51ac1e224c285935ba722fe97440888167653d"
+    },
+    {
+      "type": "Theme",
+      "name": "TPE/PME",
+      "id": "Theme_d4f456be00578e64a53bf26ff9c6ef002a1a56085f81164d3b553f505a2508bd"
+    },
+    {
+      "type": "Theme",
+      "name": "artisans",
+      "id": "Theme_31e3dadae2654be8c91d3f4c46407fb89ac95a07fabd3820ee6dec7d91ab6910"
+    },
+    {
+      "type": "Theme",
+      "name": "frontières intérieures",
+      "id": "Theme_d824b82081fbc5486a425c8b88bbaa5ad51173551062a5840532be4b8020637f"
+    },
+    {
+      "type": "Theme",
+      "name": "frontières extérieures",
+      "id": "Theme_bb9db25aefd58fcc8041a3daeeb4d1f2d3534ce1ee3a73e46fca4bb6bebeb00d"
+    },
+    {
+      "type": "Theme",
+      "name": "ouvertes",
+      "id": "Theme_957afa9c7b7527435d9b5a5135ded07b62b669240b13a8f97e8b9b5c1642d47a"
+    },
+    {
+      "type": "Theme",
+      "name": "fermées",
+      "id": "Theme_b060d950805372a1ddb3eaf6a06ecc1bf71128954f4d820bc8150f9b1ed7e69a"
+    },
+    {
+      "type": "Theme",
+      "name": "Français de l'Etranger",
+      "id": "Theme_d2cacadc9048c074a5b1f0d8daac54d9d4e188e25a468d72bf3040e9be477838"
+    },
+    {
+      "type": "Theme",
+      "name": "ports",
+      "id": "Theme_aa3791ffefaf4c4a46f31f52c2973924274ea484a6be7b550737984f37318df3"
+    },
+    {
+      "type": "Theme",
+      "name": "aéroports",
+      "id": "Theme_e23e362127b31f6a3ed087cdda5adede374743904b81267e07a5f12636309120"
+    },
+    {
+      "type": "Theme",
+      "name": "déplacements internationaux",
+      "id": "Theme_5e786c73e6d5cf80909e26152fb6866415be5ffad5157b3b5adb016c955895cd"
+    },
+    {
+      "type": "Theme",
+      "name": "tests rapides",
+      "id": "Theme_039789c3e8a7a214201e4cdb25837ec6897ad94db4cecbc94ad87134b4a780a2"
+    },
+    {
+      "type": "Theme",
+      "name": "drames humains",
+      "id": "Theme_2b2eaa4fac8f270f1fd8b48972c25be12888375b0b76bda5386de5af6288f10a"
+    },
+    {
+      "type": "Theme",
+      "name": "visites en maison de retraite",
+      "id": "Theme_a7f67dac5c36dc2f341d869bb3cf8db1989a4492dedae93f7f71a800a3698184"
+    },
+    {
+      "type": "Theme",
+      "name": "EHPAD",
+      "id": "Theme_ea83a9e90edd8e07f20cc3b771f524390d2869c3159cb343d516407cbc2bee8a"
+    },
+    {
+      "type": "Theme",
+      "name": "règles sanitaires",
+      "id": "Theme_0f7e1cc2b05708cea52761c26da8068a43b20a0050ec41f89a4c9b42743aee05"
+    },
+    {
+      "type": "Theme",
+      "name": "handicap",
+      "id": "Theme_07d6ad7e725b76cce5982a9a7f704af8d13d05bfc2d725640eb7ad805850ae06"
+    },
+    {
+      "type": "Theme",
+      "name": "souplesses",
+      "id": "Theme_7e2e9251040754488b8de5568501be9fa897af1e38c5f7c1830b3ab2c32087aa"
+    },
+    {
+      "type": "Theme",
+      "name": "cimetières",
+      "id": "Theme_1f57e5493457325647e23f434efe594e3f681c4ae1cd7c770072064efc16dc4f"
+    },
+    {
+      "type": "Theme",
+      "name": "Toussaint",
+      "id": "Theme_8fe2a30627b02f64f2c06c51958e8e4050eebbf2a6bd35c76d2b909f3e20b897"
+    },
+    {
+      "type": "Theme",
+      "name": "personnes à risque",
+      "id": "Theme_ab5c8565b85d69b5e2614971a57d69800b21e647f98af0bf8feeeff7dd7f2dcd"
+    },
+    {
+      "type": "Theme",
+      "name": "plus vulnérables",
+      "id": "Theme_d3b227e5b8da05b7b12f20944f5175bc1b50ef9d342491b3f1073a0b36ce9765"
+    },
+    {
+      "type": "Theme",
+      "name": "personnes âgées de plus de 70 ans",
+      "id": "Theme_ff81fa49fe5f5f91f7105c3e497fb9b1cca0d0eb6a0138071f4f2f6ab051fd01"
+    },
+    {
+      "type": "Theme",
+      "name": "distanciation physique",
+      "id": "Theme_745c7a5c15452217e765ee087511a58d3a9cd272066c6f8a22e052ad039e2a90"
+    },
+    {
+      "type": "Theme",
+      "name": "masque",
+      "id": "Theme_d660d5b71258784929f23f276febcb26dd4c247ad0d14c7c368b4fc20a5cb0af"
+    },
+    {
+      "type": "Person",
+      "name": "Maires",
+      "id": "Person_135e7823b2371cbd9710d43e3a6f1f00298bde41da67e2c58c1a53fd87321005"
+    },
+    {
+      "type": "Person",
+      "name": "Présidents",
+      "id": "Person_7968d5e00c3858839e40468d3fbda6f7f1a95135564545f7370b5a0a48cd1f9a"
+    },
+    {
+      "type": "Organization",
+      "name": "forces de sécurité intérieure",
+      "id": "Organization_7cccac05f47c7cdb99a2b4772424d34aa6ec0600812df86d18a9f6fffbd3a8ed"
+    },
+    {
+      "type": "Organization",
+      "name": "forces de sécurité civile",
+      "id": "Organization_a56d8e48f14dd9e1b5e0df7994a3937f9b8ca8f189964fed5c606ba750453192"
+    },
+    {
+      "type": "Theme",
+      "name": "civisme",
+      "id": "Theme_2214233d5e1aae88ec20b37e8942e4fa39cc154f98ceee5169d2fdaedd0ee067"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Country",
+      "name": "Union",
+      "id": "Country_d1a60689ce7391b9d0f8a1deef1c03d4188cc25b310ca9b9812ccd8e21e69397"
+    },
+    {
+      "type": "City",
+      "name": "centre-ville",
+      "id": "City_201e1f905253bf6e90d2f45edc645f2c0137d4fcf736ea6bf5ecbeacd2321f1c"
+    },
+    {
+      "type": "Theme",
+      "name": "contaminations",
+      "id": "Theme_caa29f287fd4128fe6c2a569b943251de2a15342e07fd9ed27bd5acac27b060d"
+    },
+    {
+      "type": "Theme",
+      "name": "contaminations par jour",
+      "id": "Theme_f4b8265034836d7ea4f18d082afcfa47df16c15a8ddf116ae26bddf8e51678e9"
+    },
+    {
+      "type": "Theme",
+      "name": "contaminations par jour à 5000",
+      "id": "Theme_b424b63fafab159d95ce06972538c1209c47bea9c90c5d6374ecb57929cd02dc"
+    },
+    {
+      "type": "Theme",
+      "name": "épidémie",
+      "id": "Theme_cc728abad13e3c62e85c61089f7679fbc7bd2c7fd6b01a6888d874304168d638"
+    },
+    {
+      "type": "Theme",
+      "name": "fêtes de Noël",
+      "id": "Theme_497447d0b08a012c571c1cc68f9013a2da2bb65a50987322529ece0ce01314c7"
+    },
+    {
+      "type": "Theme",
+      "name": "fêtes de fin d'année",
+      "id": "Theme_f9d84c094aa6595c578def9288e4ce4b95e0a3a929482767a0f1ef37f7b0c86b"
+    },
+    {
+      "type": "Theme",
+      "name": "Tester, Alerter, Protéger",
+      "id": "Theme_25807c05ab3772b6c088de1861282f7e4567478d172de2aac57e13ee10452f07"
+    },
+    {
+      "type": "Theme",
+      "name": "TOUSANTICOVID",
+      "id": "Theme_9e9d9b843ac168204a1974e1a94cfe1017f24595f9f41e8000541784338c9f5a"
+    },
+    {
+      "type": "Theme",
+      "name": "isolement plus efficace",
+      "id": "Theme_aedafbe1d3040eda2f6489ad05f8bd62618de63866c23f7870db5d2f06acc35b"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccin",
+      "id": "Theme_32ec3b4bac32f73345f9e33a388256bcaced72a72a5de7433f9116a540d3ce0c"
+    },
+    {
+      "type": "Theme",
+      "name": "division",
+      "id": "Theme_51226e2119e097a2d00a987884a7ffc43fa4ce2314906ee31389014c78119404"
+    },
+    {
+      "type": "Theme",
+      "name": "résilience",
+      "id": "Theme_ae0698b8a130cd1cd5df43fe5e3e189eb0c16712f2fa72aeeed81640c8d2a14e"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie historique",
+      "id": "Theme_3b8cbde9acaadfafe46c32abb67bc17d3428bf9e88f0a35a71b469bd9dff48cd"
+    },
+    {
+      "type": "Theme",
+      "name": "crises internationales",
+      "id": "Theme_b920bdaceb5d6aa16296e356d5fcedc54ae78fe8814083330463e2357cfd8452"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "divisions de la société",
+      "id": "Theme_15ce80cec330d05e9d796e9aef65ec34d5fd1de1bf4bd9ef752914244f949594"
+    },
+    {
+      "type": "Theme",
+      "name": "crise économique et sociale",
+      "id": "Theme_d05d88bb5d9d71ed599775c678e0cfa981c7fa5824a3fdc1a93fdd3f80f0182e"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Nous sommes tous, en Europe, surpris par l'évolution du virus.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    }
+  ]
+}

@@ -1,0 +1,1325 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Marc VILLARD",
+      "id": "Person_d220cd95fb140d7ca641d14841ab1a5bdf8d115eaa3646767d1cc5f41af14d3b"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Secrétaire d'Etat",
+      "id": "Person_a977ac0124072dd4795b3e6162c000f95a918fe4e9b38c731aa084240a09558d"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Sénateurs",
+      "id": "Person_b736e95d9b191cf5e23b789d31786cdb97098efc8e7ccf127e1a2e5c1ec3866b"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Députés",
+      "id": "Person_870263315d8653f47b8d94234219b763ac0df091b6fdad9e12220c6ce7961825"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Conseillers de l'AFE",
+      "id": "Person_17041464759e40f095c837e65107f7658d02e6a48a6b4c1c2780dbb9740c91c9"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Secrétaire général",
+      "id": "Person_5da1985b325f6e740d65378795e51c9b23d29b87d7ead2b19a6987745d55c895"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Directeurs",
+      "id": "Person_ed26d8d5cd18790a2c4be45951787a8fe616dd7c4bcb2fa3d6ae4e7b76972be9"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs",
+      "id": "Person_5e27fa7c5bdc6bf2a2b2dfa28469fb1f53f1c6d238a1b9870de385953dc8571f"
+    },
+    {
+      "type": "Person",
+      "name": "nos deux compatriotes",
+      "id": "Person_191e38a44587dd13f3ac24dbe5c411e9a31055bea18df8077a4395e6db36add0"
+    },
+    {
+      "type": "Person",
+      "name": "nos amis américains",
+      "id": "Person_8d608b21a2c63842a58fa26f1b3032c91e3a585c42b25458fade2ec9c6fd75a0"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée des Français de l'étranger",
+      "id": "Organization_8efd44c683cce6187af57cf19aafefb786cee2644993ee37d6ec2f2e05928eb7"
+    },
+    {
+      "type": "Event",
+      "name": "Conférence des ambassadeurs",
+      "id": "Event_cb21f953f2a0f733ae76eddd254fabb5f2df1a221426d72d675b0b6feb77aa3b"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "attachement",
+      "id": "Theme_729e1c86d51f12efd903be17e384a04702b552e25090f0467b0177a14cfd82e4"
+    },
+    {
+      "type": "Theme",
+      "name": "universalité",
+      "id": "Theme_29a5c4531beb8bad8a5076f3e9ee955d0e95adf9a48925753d68fe7f788f3e27"
+    },
+    {
+      "type": "Theme",
+      "name": "Histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "destin",
+      "id": "Theme_d09e3903dadfffc2520eda8a2b2d6964de6c594e64c980c6854196aff3f81626"
+    },
+    {
+      "type": "Organization",
+      "name": "AFE",
+      "id": "Organization_86327fba3fd3ee4b11a79d4b7c8da6f7f90128e640fc9155a9c92e9d59b4fe7d"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "communautés françaises à l'étranger",
+      "id": "Theme_2a91622cb840c2d9885ec15d5745b4ac0399d3227dda1078eecb7a19e2e21842"
+    },
+    {
+      "type": "Theme",
+      "name": "rayonnement de la France",
+      "id": "Theme_10114d39dc6098c86f076a7940e4a61b972153a78e87a50228235fad8827cffd"
+    },
+    {
+      "type": "Theme",
+      "name": "problèmes de la France en son sein",
+      "id": "Theme_dc17011a18b616bdc381e81dd0ed371cbf0ce17a041335818f3326e5ab22a69b"
+    },
+    {
+      "type": "Theme",
+      "name": "politique de rayonnement de la France pour les Français de l'étranger",
+      "id": "Theme_a6c4e726fb6f075ecef2fd5999d4e5f050ebc0f036b021f9e1663647a1af8f3d"
+    },
+    {
+      "type": "Theme",
+      "name": "France plus forte et plus juste",
+      "id": "Theme_ae7b6c71aa596f381149c5ba3f3cca3e5218a7531e025e5b8973bdadbcc9f73f"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité de la France à peser en Europe et dans le monde",
+      "id": "Theme_2e2d0f9702a89300f96ccfbeb2f3ae13fcbbc0a51afadc766b52ac501b094b9e"
+    },
+    {
+      "type": "Theme",
+      "name": "refondation européenne",
+      "id": "Theme_fd816b8136aa8814d6127c29764ab9879ffa677805f4feeff9b9aedd9da9df13"
+    },
+    {
+      "type": "Theme",
+      "name": "transformations dans notre pays",
+      "id": "Theme_54a6dbd2c903272c5582e4fdc8e27fe5a370b951d288e367397096ac6ac6ffa7"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Yves LE DRIAN",
+      "id": "Person_52cdf85f7fd909dffc246c5abcd3fbb0db3c5927e547254cf9947ece4a900588"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "City",
+      "name": "Méditerranée",
+      "id": "City_9d0a5741de9fafb94e045360dddcff5fd3320003f53cc0eee5bebfef6e12abe6"
+    },
+    {
+      "type": "City",
+      "name": "Afrique",
+      "id": "City_e81979a21143817a99ac592e6ba21932628674ed0da410c41538620d061eb868"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "zone euro",
+      "id": "Country_bb6d36990a6bef0215c78761fe4ea7cac3c03f5e88219a0aa20efef5c18b6798"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition européenne",
+      "id": "Theme_b9cc755f285245b083b8958673504dcd560871076cd5d85cb3fb08a1ec12002b"
+    },
+    {
+      "type": "Theme",
+      "name": "dépenses publiques",
+      "id": "Theme_0cd3aa5036790cf7ba5f7e836ab78dc2ca40f3355ca61879618ae508a0aa931c"
+    },
+    {
+      "type": "Theme",
+      "name": "crédibilité",
+      "id": "Theme_54614c8cd4a24192e52c3c7e6be0b6a027b9e193d7017b0c714ff3e9c1991da6"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation économique",
+      "id": "Theme_90a303d9eaae9ca6ba7787d37e322a38c48c57382d30e17f599bdb30c280f523"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Country",
+      "name": "le pays",
+      "id": "Country_a03263ca275efa2d2c5ee5e45853980c9a341766037b1334f390d85cd0705136"
+    },
+    {
+      "type": "Theme",
+      "name": "formation professionnelle",
+      "id": "Theme_d846003645ad5e5e511208f664265ae5edc2a1f2c5d843f3ff4622d434eb6c71"
+    },
+    {
+      "type": "Theme",
+      "name": "assurance-chômage",
+      "id": "Theme_0cdccf0c3ba3fc3de60c095bff1d2417a011b4868123679ae1f4eab2983557f3"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue social",
+      "id": "Theme_ee894356fb7b18c232f5f8942280aa5130fa4a4bf5c6ae081e42c62ae85a0fce"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle social",
+      "id": "Theme_84e716fb96d816e1a7cec10303220f68a6aaf5c7e5b53934555aa33e88fc517d"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "individus",
+      "id": "Theme_80364099dfe1d7af805236eb81ec1d5156c98a4b06eac5395a03e41618d64e55"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunes",
+      "id": "Theme_a20dcaf37efe496f33d1e4c4be9f3c3dabe56fc83fe45c815f1d76fdaaef0dcf"
+    },
+    {
+      "type": "Theme",
+      "name": "chômeurs de longue durée",
+      "id": "Theme_57469857a2b109b89b1137fc0969e81b8227b98e94411af767af6ad3f2acdcc7"
+    },
+    {
+      "type": "Theme",
+      "name": "formation en particulier",
+      "id": "Theme_01baf1790e66a59c8216951cca00ca75dfb5b885d78a22e588d820d9bcfe58b9"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation environnementale",
+      "id": "Theme_71e8a1a915abebe839aab974013bbe56e30ae653d0dc2d108147c15b0522aea5"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "secteurs bousculés",
+      "id": "Theme_1f50976cb546ebca6d7ff60975728ae8d7db76473bcbcc0f0842cfef18366b58"
+    },
+    {
+      "type": "Theme",
+      "name": "changement technologique",
+      "id": "Theme_acf9cd96dd1a07b6c4bfabd5957e01755577ce688088c3f43f55a066d44a13f5"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie",
+      "id": "Theme_fa010b2e87d32c400a0a52b10fe00d186b07d80baf9792842d534698bb9241c6"
+    },
+    {
+      "type": "Theme",
+      "name": "société",
+      "id": "Theme_23d952489b07041be7b06f706f86ec7cfc55af055e1b2e2f815671e6fa2ef5ed"
+    },
+    {
+      "type": "Theme",
+      "name": "concitoyens",
+      "id": "Theme_0ff3925b7ba63cbf673a2472bfd56efd3c66e053d51097b02b91824a782e7ed5"
+    },
+    {
+      "type": "Theme",
+      "name": "économie de l'innovation et des compétences",
+      "id": "Theme_9e7c47fa38a32811eae7cf5861b746705a63cec8c91ec0ae2f481c3de5b2dd26"
+    },
+    {
+      "type": "Theme",
+      "name": "priorités",
+      "id": "Theme_2fc06aee79bff738a314bbb6ebe37cc71d3e10a182bc10e57c5e0c5950264c51"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement pédagogique",
+      "id": "Theme_bccd4f42077e91ec9215cd58099c35d410020a68a274abfd3332ce4688eb903e"
+    },
+    {
+      "type": "Theme",
+      "name": "orientation",
+      "id": "Theme_74039395f94b06baaf3782d15df5ce6738621f26f63d04c0fc5af90d91a6c498"
+    },
+    {
+      "type": "Theme",
+      "name": "méthode démocratique",
+      "id": "Theme_94548a6a508a2c93b06719bbd3f1269190611f41bd7acb49c9cfe630ec97e97b"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme de l'orientation",
+      "id": "Theme_4131229a72cceb3dc0661806b1f3a0c8a4c29af3c853edb61c1a3efd582829bb"
+    },
+    {
+      "type": "Theme",
+      "name": "filières pertinentes",
+      "id": "Theme_fd00b1328752292c4949f3acc283a90684820e2d29ed9f6bd9d2b7e1f192ad87"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers",
+      "id": "Theme_305de45577953bd04165ca22cf0089e5defd686499397a72c39942ab978c3083"
+    },
+    {
+      "type": "Theme",
+      "name": "système fou",
+      "id": "Theme_8122ae5c92acc8f65786ddd0100512f89c64c33464f4511e5b1f1fc648f70a5a"
+    },
+    {
+      "type": "Theme",
+      "name": "filières",
+      "id": "Theme_5d56de095baf53a521bb152443822927a5520703871fbf93785dc359e3f4a767"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "bataille pour l'apprentissage",
+      "id": "Theme_b7687f752b93516bbd8bb2b0dea9a9728cf3f85cf0623815cbd77847df6945c8"
+    },
+    {
+      "type": "Theme",
+      "name": "bataille pour l'éducation",
+      "id": "Theme_a9e2ed18a4ace6ebda1534dbfba1e2fa00637b0cfabca00efd8e5aec4ba09c59"
+    },
+    {
+      "type": "Theme",
+      "name": "austérité",
+      "id": "Theme_e3d5d412b8332f7a758aba06675b3f69b349c6c5be02e3780227ca3288ec67ff"
+    },
+    {
+      "type": "Theme",
+      "name": "finances publiques",
+      "id": "Theme_5c2dc2f996e67f8ddbe79eb535369467c79e0718dbddb27732da4838032796fd"
+    },
+    {
+      "type": "Theme",
+      "name": "budget",
+      "id": "Theme_476c75e33f21fc15bc5588b5d07c657897da27f908716f5af56abf04963f337c"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir",
+      "id": "Theme_45e075e7203f6c269008206942696177cc8c6767a9f6d434d554ed62c55c6774"
+    },
+    {
+      "type": "Theme",
+      "name": "logement",
+      "id": "Theme_5482b77c02cb27b743d7ba44022361e1f99e9ac6c8c98c177add71ee6c65ef55"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "politique d'investissement",
+      "id": "Theme_a97f129cd4c43e53ba7e03792820572a571ee532280b9d66262910a81eb8abc0"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie d'investissement",
+      "id": "Theme_cf805d444640f2631c240ac508b4c1abf405443740414967eca4cc84067c1e94"
+    },
+    {
+      "type": "Theme",
+      "name": "plan d'investissement",
+      "id": "Theme_7ad869b784afce0ffa6a94119832fe04de2f0bcb09767ba1b9ae431a9e8b9115"
+    },
+    {
+      "type": "Theme",
+      "name": "dépenses courantes",
+      "id": "Theme_33cc0778beb620bc553cab76be48ac2dc70bda170c666c370480deac72dc14c0"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "politique de l'emploi",
+      "id": "Theme_3a94d0e54990bde1c86aaf216cfe0ec821aa01dabf69b6f5194947c5af9b9bff"
+    },
+    {
+      "type": "Theme",
+      "name": "politique du logement",
+      "id": "Theme_87e3b492521f8b8505d9b956bd459bd940ca446f5b686f2d43e530737f6247dc"
+    },
+    {
+      "type": "Theme",
+      "name": "dépenses d'investissement",
+      "id": "Theme_a19aa226622f0675ba0788c3ae27ef28831ee48322a60eff4a6acebd43d3a10b"
+    },
+    {
+      "type": "Theme",
+      "name": "dépenses de fonctionnement inutiles",
+      "id": "Theme_cd2c17ca5ece8e026301786a2b9f0ed55a8de28ff35116e51937b73166cff06a"
+    },
+    {
+      "type": "Theme",
+      "name": "plus faibles",
+      "id": "Theme_5b78b6f87a1fcc317ac14486849e628cd4e7a4ddfd5a0e2924271cd1cc12c858"
+    },
+    {
+      "type": "Theme",
+      "name": "politique publique",
+      "id": "Theme_e2166137ca4fbe1d7691f4f17b88eac2efa1cc5f2191ea49cdc9fce899a1d4f9"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement scolaire de qualité",
+      "id": "Theme_f6f658b39518c62cef303fc5daa04690359a512f3534f7a8ab485cdd7f91f5f7"
+    },
+    {
+      "type": "Theme",
+      "name": "lien fort avec la France",
+      "id": "Theme_05f3bfa3cd6795fc7eb53de530b9d80c751d581c8e5ad6d04b92575b9cfab062"
+    },
+    {
+      "type": "Theme",
+      "name": "transmission de références culturelles, historiques, de valeurs",
+      "id": "Theme_285a00ca79feb4ab62c1ecdec9bb1da14aae0bf9b794d3b28043a26746cee260"
+    },
+    {
+      "type": "Theme",
+      "name": "lien avec la République et le reste de la communauté nationale",
+      "id": "Theme_a47659d3ee443f544e46b21f1a365981e5a572170fb20d6e1e10025b4d71851f"
+    },
+    {
+      "type": "Organization",
+      "name": "AEFE",
+      "id": "Organization_ad9e50da64285544a9115ef90403dc66a69d51463bd1ca79446e916849f644c4"
+    },
+    {
+      "type": "Organization",
+      "name": "Mission laïque",
+      "id": "Organization_111c3252c89c0fa00715eddc30ea2e974f786da2187fb6ad404df7d6c1fbd854"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère de l'Europe et des Affaires étrangères",
+      "id": "Organization_08bf9c46e52b5fab09e672f16e13f525e2acd2a3357f8723d64d32d696ea830d"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité de la France",
+      "id": "Theme_65e64691aadbd6507e3a78a046a9016c530aff58443f9318a0fc997ec658512e"
+    },
+    {
+      "type": "Theme",
+      "name": "affaires",
+      "id": "Theme_efc374b69b2ff2f3d295f3aaefa5e54444881ac6f7ef8216dd317a7730e0988c"
+    },
+    {
+      "type": "Theme",
+      "name": "échanges culturels",
+      "id": "Theme_bb0ac9ce6c8d99fe083cb6ea2c22a0851d2230c6e42c574b0c19a5854a9f97f9"
+    },
+    {
+      "type": "Theme",
+      "name": "scientifiques",
+      "id": "Theme_52910a645808652052e2f9f38197c3348ce77481ea3521df14cabdf60beaa151"
+    },
+    {
+      "type": "Organization",
+      "name": "Education nationale",
+      "id": "Organization_f625749da6effbb2c3a57afdb9c137deeb3bca586dcf5b06d7d4edcb2edd0942"
+    },
+    {
+      "type": "Organization",
+      "name": "associations de parents",
+      "id": "Organization_f801bcc917df5562e61569fbb73aa46f9ddcaf4abf554b4aa49133301704906a"
+    },
+    {
+      "type": "Organization",
+      "name": "fondations locales",
+      "id": "Organization_e8bb8b94eb8383b53d1fc2923374393056c1da52022324439f80caeaae906875"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "City",
+      "name": "Bucarest",
+      "id": "City_a4add7413cdba306715cb8d7cf729fb1c2e843ed93a2071c9790e03073280ca1"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère de l'Education nationale",
+      "id": "Organization_cbe181451d86ed185a031ad835ade6320457a9eebe8437acc50441031f60b552"
+    },
+    {
+      "type": "Organization",
+      "name": "MOOC",
+      "id": "Organization_387da4a053b1629962c299f030e4c204dc1ab73ca3170634159c76c834dab84d"
+    },
+    {
+      "type": "Theme",
+      "name": "francophonie",
+      "id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité républicaine",
+      "id": "Theme_906613766e3c7a26b736c4e60f67ab358c2fc18158f56fee332a2ce1151ad0bf"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité",
+      "id": "Theme_5f3e34c6020caac848a6e2d71bdfd1fe751959c4e195a8c097e09b990d89fd12"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscalité",
+      "id": "Theme_8f3af7311a6bcfd253a580ecacd3fb0434ee40de042b8221f99b1b400f0a3b76"
+    },
+    {
+      "type": "Theme",
+      "name": "résidence unique",
+      "id": "Theme_e282405771613a14bcf2dd031e50a2b59d81eb7c76060c126e16bfedaea2aa23"
+    },
+    {
+      "type": "Theme",
+      "name": "modernisation du service public consulaire",
+      "id": "Theme_85ed75b069bb938b0401cb0347d83af02b1c9f3005034375454c0dbb550d6738"
+    },
+    {
+      "type": "Organization",
+      "name": "administration",
+      "id": "Organization_de755aed002a3c987b3f78b3c66d241020c9a308b87afdc8e84e60816316224d"
+    },
+    {
+      "type": "Person",
+      "name": "madame CONWAY-MOURET",
+      "id": "Person_a7ff5f54973e8ef7c40274a79afd7278dd96500c43be1a1daf9d410845ed2013"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement au retour",
+      "id": "Theme_7d717b4fbcf1b62d5f6085d7df3b368b6a7d4fffea4ce7c31f07df943b7747e6"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification des démarches administratives à l'étranger",
+      "id": "Theme_881a96351de3576ccfec6abb180c7dce997d89a386f13d0b4323219bb305fd16"
+    },
+    {
+      "type": "Theme",
+      "name": "questions de sécurité sociale",
+      "id": "Theme_2a402fa177064632d146ad4a67b1afde481777c30bedfc37bd7e142c15c9b025"
+    },
+    {
+      "type": "Theme",
+      "name": "dématérialisation",
+      "id": "Theme_ce70b4b4d13e786f37332525bb7bec52eef2bf2ccb0133b54d176d824a11f368"
+    },
+    {
+      "type": "Theme",
+      "name": "numérisation",
+      "id": "Theme_50905116b58d71fb611a012a8f989a8547a38622832cfa8ac5a6f5aa23f431c0"
+    },
+    {
+      "type": "Theme",
+      "name": "modernisation de l'administration",
+      "id": "Theme_d462bfa1dd68665ed71596f7c598251a4ad9216d026c43f1d17c6e7803dc7ce2"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation de notre administration",
+      "id": "Theme_ff9ce9b6f38304967696b193630f41c28fd9317b4f21d2860bf4e90dccfe1b8d"
+    },
+    {
+      "type": "Theme",
+      "name": "évolution de notre propre organisation des réseaux de l'État",
+      "id": "Theme_6a09ec3c6a4c9a22530cbe879da33f38363474dbe596c98a341ab9a5bfd501a6"
+    },
+    {
+      "type": "Theme",
+      "name": "fracture numérique",
+      "id": "Theme_9a8016f3ae2ca30c2f0efde3cb0bc301e3ce84522b2380e8358f7e34cae3668c"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement et de la formation",
+      "id": "Theme_125149d9abb0e0f8a701c229940e817181db91144c48bf7591394128a74a7983"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification des procédures",
+      "id": "Theme_88907977a97ae1edf6a3e627c5b2ec0e175a3ceed314c2b451e519a8f7854200"
+    },
+    {
+      "type": "Theme",
+      "name": "dématérialisation croissante",
+      "id": "Theme_513f3f91ccae7650448f593c73d7da6600b085387d70468714f78f116ba607a3"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurisation des procédures",
+      "id": "Theme_84ba03dd79615dc7520ed0ecb1909193a72197a06dd55ba23cb9d3340cac246a"
+    },
+    {
+      "type": "Theme",
+      "name": "politique d'accompagnement des personnes et de formation",
+      "id": "Theme_a7cdc90590ed0021090c0495cc90c9a411fd8db41ce2fa86af600c405afce9de"
+    },
+    {
+      "type": "Theme",
+      "name": "vote électronique",
+      "id": "Theme_046e1fe6e003e816cdb7687e17a6f2d4115fdb8593e7dd70e7837e12cd6414fa"
+    },
+    {
+      "type": "Theme",
+      "name": "cybersécurité",
+      "id": "Theme_7a7cca556d551b9b5266cdc687341603275f2a9d8ba680e9e25daeeddb894a52"
+    },
+    {
+      "type": "Theme",
+      "name": "attaques",
+      "id": "Theme_cc47c43cea8a7668dfecf5247b07bfa44fd6db36d0c540718497071d37604c66"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "sincérité",
+      "id": "Theme_97add12e67402b9ad6bdade664cf61676c23dede89207ba7d1d068d8ee90c856"
+    },
+    {
+      "type": "Theme",
+      "name": "secret du vote",
+      "id": "Theme_58da6223422e14fe3d9a8cbd8f024eb9cdf1dccee69d40803e0189d853b3e57a"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "participation",
+      "id": "Theme_85fdf3848efe4d99bf43da0a3ed4f17f1c826db205e8527369171dc754bcf21a"
+    },
+    {
+      "type": "Theme",
+      "name": "vote en ligne",
+      "id": "Theme_ba97555ba220ea56dc459fc999bf23958fb0a35621f3eb23d54db4d5cfec91bb"
+    },
+    {
+      "type": "Theme",
+      "name": "scrutins nationaux",
+      "id": "Theme_b171d883f22b81f09e513f72bb017a768523d459d9af6e89ef8238013edd77b6"
+    },
+    {
+      "type": "Theme",
+      "name": "élection présidentielle",
+      "id": "Theme_cbeb478471d1b5381ff14861560e41ff00cbef933489fd79ff7ba1c19ddc0eb6"
+    },
+    {
+      "type": "Theme",
+      "name": "vitalité démocratique",
+      "id": "Theme_a90a5d2a7ced809773ce7811ae57abbd4953eb9aa506008d07f4cc825a1c9c8d"
+    },
+    {
+      "type": "Theme",
+      "name": "déprise",
+      "id": "Theme_51045caf39dc34df5eb6af8f08c302db8bed6f67ff8aa84599903f5f9aa8b4f0"
+    },
+    {
+      "type": "Theme",
+      "name": "distance avec le pays",
+      "id": "Theme_34e553d079151166fa4ff6fbfc9f1555f8ddf114a4dc4ec81549236885a4bbd7"
+    },
+    {
+      "type": "Theme",
+      "name": "grands débats du pays",
+      "id": "Theme_f354c2fc75b7ba778b09627dcbb6e7b3143f76ac1a9c286951d6035c47b1715b"
+    },
+    {
+      "type": "City",
+      "name": "l'étranger",
+      "id": "City_80afff8db09573fcf6223d65173849340f62cfb11c00a1a1df9454998dc60225"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Baptiste LEMOYNE",
+      "id": "Person_c8a46542257b27ddfff96ddd341c8121a6e1ebe8c4ef6049ed1816012f0bfd0d"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme du CESE",
+      "id": "Theme_6a02fffe61392c712c4b7ee1f9dd456b364dc88423859af22418c4e1c82f04c1"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "débat démocratique",
+      "id": "Theme_f032dcd1a3f7c73090cd6fa39e732c1b44c67b8fc04095965d3f941892d1f21c"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement européen",
+      "id": "Organization_35045d56b46d30c02ed3c266f7b7e936d04046cd769a6b336980fa0f45af5ecb"
+    },
+    {
+      "type": "Theme",
+      "name": "conventions démocratiques",
+      "id": "Theme_e291b7d4b8aa0ec3ddbba21c15428eb6bdef92ad3c793381bdfddf23b35440ee"
+    },
+    {
+      "type": "Theme",
+      "name": "débat européen",
+      "id": "Theme_bc04d78deefde221c303a275a6e9de3bd18ced6c320a2acec3a4159e8595498a"
+    },
+    {
+      "type": "Theme",
+      "name": "objectif",
+      "id": "Theme_29c488245007257e8171306ee30a7c3ad29bf0cdb11553f8897161573c083a67"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Country",
+      "name": "Autriche",
+      "id": "Country_c68a479343ec0ea52bfa053ac2e047c2edaade30d4c6d16515e2d110863f8dd8"
+    },
+    {
+      "type": "Person",
+      "name": "Donald TUSK",
+      "id": "Person_c8435a5cdcea4099d6c924ba132ea5ba2e75da5b0b552e240905ebd720e370b6"
+    },
+    {
+      "type": "Theme",
+      "name": "scrutins",
+      "id": "Theme_5628c80b6d9fb6aac743764ae90799b864a35fa0b56f9a3796adf57da8de25a1"
+    },
+    {
+      "type": "Theme",
+      "name": "débats",
+      "id": "Theme_a205ef1e754545827fa02c94b61645b43249aa245c76e796cb76b76dfac14386"
+    },
+    {
+      "type": "Theme",
+      "name": "élections de 2019",
+      "id": "Theme_fce080966be3b1b0b8a36074087a7bc0beeab7e4c79f7277e749ca02eb4f5919"
+    },
+    {
+      "type": "Theme",
+      "name": "mandat",
+      "id": "Theme_1c1553b50ea918e040f5b180345647cf523aa8b4aaf976b5d7d5b5deecb47e1c"
+    },
+    {
+      "type": "Theme",
+      "name": "Parlement européen",
+      "id": "Theme_e0c9b8743c764c0344e6d7c9c22eb45f072245f8d0af2760010ba306f9f05f82"
+    },
+    {
+      "type": "Theme",
+      "name": "Commission",
+      "id": "Theme_e4bb76527cb4b84cf5c66fb974e5b77ebe6ad7042b2ac64ef86a8cc42dfe2ca3"
+    },
+    {
+      "type": "Theme",
+      "name": "conventions",
+      "id": "Theme_fe2a560319f3879b5e5de5a3c9b94ed7d94152f3eb6b02120a1ee27a957fa8df"
+    },
+    {
+      "type": "Theme",
+      "name": "crimes odieux",
+      "id": "Theme_fe4215b569beb5df23e57edd04673bbee6e08da9ee010800c8e209f8394e4544"
+    },
+    {
+      "type": "Law",
+      "name": "dispositions législatives",
+      "id": "Law_26b13e2a57bfc278d4e31eaaf97795f3ee7002c6beb906125189d7a2ebf9eec1"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations technologiques",
+      "id": "Theme_2b0d28bf1ba67ee0662bda751d8d56979d22a4ee9bb31d4db8d03e11bc71384d"
+    },
+    {
+      "type": "Country",
+      "name": "Irak",
+      "id": "Country_99792b4385035d3a51b12170d270a96604af5ab8e0945708f2a19bcc0e41b04c"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Person",
+      "name": "Jean Yves LE DRIAN",
+      "id": "Person_6505f8d76ab5910260930f2088640196f2cebeabf742758bde065b7087f68db5"
+    },
+    {
+      "type": "Person",
+      "name": "Florence PARLY",
+      "id": "Person_ec05e66e43898a115b745605af594d151dd95d13f8b131b01a7d5ee5ad10367c"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Country",
+      "name": "Corée du Nord",
+      "id": "Country_d403bea44d70f65c1c477a18701e0bf7d2b84fd75e947a1213736b8cdf536760"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "feuille de route politique et diplomatique",
+      "id": "Theme_e3e56e441c2ffba7d1d7340089ee3de0adbf0a0b077c9bd6268cdfb726909ef7"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Organization",
+      "name": "ambassades",
+      "id": "Organization_fd5bc4505f3342fbd773e2dd5e45b649803b01e34b1b2f026de7a7bb446ec506"
+    },
+    {
+      "type": "Organization",
+      "name": "consulats",
+      "id": "Organization_b1ac7a77e6032a6ec40dda9c736b324ba01e2cdb40322ee3ac7cedaf4b06d4b2"
+    },
+    {
+      "type": "Organization",
+      "name": "ambassadeurs",
+      "id": "Organization_b3a9733b53b48f60a3bac8e70bad6851543486d309d45f32bc30e7066dab8e73"
+    },
+    {
+      "type": "Organization",
+      "name": "consuls généraux",
+      "id": "Organization_9b2475f3241845824ef322dd34193f2b751b943f2fba051242e642cafc6c8d8f"
+    },
+    {
+      "type": "Country",
+      "name": "l'Etat",
+      "id": "Country_80d5ff6862b094b944be7d9a97d69658ce432935aa2fb7c0eedc202612114fb7"
+    },
+    {
+      "type": "Person",
+      "name": "le chef de l'Etat",
+      "id": "Person_ea63f797dc6a42f71a4b62fa685e5c8b900b82e4e53381a3774e3e46859404ed"
+    },
+    {
+      "type": "Person",
+      "name": "les ressortissants français",
+      "id": "Person_8a1252033bedb27b54ec36bf8057f9abafc2bae8c4b04f2569a9010c82141e64"
+    },
+    {
+      "type": "Organization",
+      "name": "nos consulats",
+      "id": "Organization_d4771f73fd528b399d3fc3a0ff9a7788cb872556eafe8c5ebe628fdced29daa6"
+    },
+    {
+      "type": "Organization",
+      "name": "le ministère de l'Europe et des Affaires étrangères",
+      "id": "Organization_1ab870860300258ddb83b738f122bb4a9af9b853ffb970af13cddb0560f2c383"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurisation des sites publics",
+      "id": "Theme_c17637c5eedf5fd3bd366b434e5b0c272f08366a4e1d3313642ea509141f8c06"
+    },
+    {
+      "type": "Theme",
+      "name": "présence",
+      "id": "Theme_914f597e72744ffcd5b982c81a3cc7fce1d79017d56b4db8e64cf3c7abea433f"
+    },
+    {
+      "type": "Theme",
+      "name": "ouverture",
+      "id": "Theme_d26e5520976d90b087bf131ac2ad0a496e1e510b33f2d5f036ee68ae2c8b562e"
+    },
+    {
+      "type": "Theme",
+      "name": "activités culturelles et scolaires",
+      "id": "Theme_d958492636cab8d77753b422209654b687eb6ab26397c4ad4f8b67bba5eee79f"
+    },
+    {
+      "type": "Theme",
+      "name": "valeur",
+      "id": "Theme_5d2c6cf72920e0e1284fb097f9df226aa7b78ef0173abebfc6ba002b392f08fd"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "Plan pour le climat",
+      "id": "Theme_7672659c7fe0a79baaac22709f56326a15a480bfb285790339d2258754eee78a"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement",
+      "id": "Theme_b53e869b761ff3b2e610c18e6c0fd53e10ad5d2a8ba8bf353be9d0f1148d8c43"
+    },
+    {
+      "type": "Person",
+      "name": "Général de GAULLE",
+      "id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442"
+    },
+    {
+      "type": "Person",
+      "name": "MAC-MAHON",
+      "id": "Person_c8a0c58090f6292786e75780dc16dc715bc1a57e44e1d62c9bfc0c79cc86b84a"
+    },
+    {
+      "type": "Organization",
+      "name": "communauté française",
+      "id": "Organization_867378323f0eef7fe28a445c11c332c2d0a9344d14db236a2cc4002171230b51"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit d'entraide",
+      "id": "Theme_b526e571638ff18afaa5fdf8b47ec04a97cb44b76a80cf306c5ac7438787ad0d"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "initiative",
+      "id": "Theme_de30b556c83148d7da8a2b461685f8903286a2dfdf747461e7333bba67da048b"
+    },
+    {
+      "type": "Theme",
+      "name": "rayonnement",
+      "id": "Theme_c1b6a67635f2de758ff017569f527eb636a5ffce1b9a38245bd5bd72a6f30f26"
+    },
+    {
+      "type": "Organization",
+      "name": "chambres de commerce françaises à l'étranger",
+      "id": "Organization_88386a9a16748fae443795b3069f0fff47ba65168c1fefe2dd51af13ca73ed96"
+    },
+    {
+      "type": "Organization",
+      "name": "sections locales des conseillers du commerce extérieur",
+      "id": "Organization_2c36203e13786fcea558e27472c06e4dfd316cbff401b195d67b280608e50967"
+    },
+    {
+      "type": "Organization",
+      "name": "Fédération internationale des Accueils français et francophones d'Expatriés",
+      "id": "Organization_5610a09c23e2abf8bc91ceff0cabacce1127ceaf811264659ab173628b3aabc4"
+    },
+    {
+      "type": "Organization",
+      "name": "tissu associatif",
+      "id": "Organization_6d12f45aec09a275fb9e593136e958cf9a430177ed5671cd23a50fd0cf94bd38"
+    },
+    {
+      "type": "Organization",
+      "name": "sociétés de bienfaisance",
+      "id": "Organization_36a746578a53627b3fbf545cb93311ae4a97a290e7167bdebedd13b52c9a916d"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de l'Europe et des Affaires étrangères",
+      "id": "Organization_e3e99b0e685694725ffa82a5a5afeb3d051927f4c3f835941ebebd9b966a8969"
+    },
+    {
+      "type": "Organization",
+      "name": "son secrétaire d'Etat",
+      "id": "Organization_c0ae1d2a0030800b40312be7e88e7d20b3404220560b9b8aa47fad31a2113291"
+    },
+    {
+      "type": "Organization",
+      "name": "Quai",
+      "id": "Organization_7810290ad3b42833789fcc005b0a1ce3eb002504b4a8ea4fa3156b108bd9c639"
+    },
+    {
+      "type": "Organization",
+      "name": "associations",
+      "id": "Organization_093357ed588ea24809b2100d18e873165901f63f0760d7b30cd7fed20c85113a"
+    },
+    {
+      "type": "Organization",
+      "name": "parlementaires",
+      "id": "Organization_8d02dfce3c6b4d35c37b6f7ad739c679637b5003f36fa3f227f16938c864d657"
+    },
+    {
+      "type": "Organization",
+      "name": "députés",
+      "id": "Organization_3b93f61dea59cdfb9ad0c39d62692a4d6a10b32fc72bc50336db6245bbfeb5da"
+    },
+    {
+      "type": "Organization",
+      "name": "sénateurs",
+      "id": "Organization_f2db6f40222ba0e457f02170ed9693cf00505e058f66624aaf65ad04cf475c9c"
+    },
+    {
+      "type": "Person",
+      "name": "nos concitoyens",
+      "id": "Person_05d0c72ed8dc65ddc645a6c5341657deeb75fb3e8829a1ec53404203b192df76"
+    },
+    {
+      "type": "Person",
+      "name": "l'ensemble de nos concitoyens",
+      "id": "Person_555a19ca61578e37990df6d3c73a304a7b0a0334445ad3125820667385a4fd50"
+    },
+    {
+      "type": "Country",
+      "name": "notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "la France à peser en Europe et dans le monde",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "capacité de la France à peser en Europe et dans le monde",
+      "evidence": "la capacité de la France à peser en Europe et dans le monde",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_2e2d0f9702a89300f96ccfbeb2f3ae13fcbbc0a51afadc766b52ac501b094b9e"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "Méditerranée",
+      "evidence": "Parce que c'est l'Europe qui nous permettra de construire une véritable souveraineté pensée dans la durée en matière de migration, de sécurité et de lutte contre le terrorisme, de transformation numérique, environnementale mais également en termes de politique de développement à l'égard de la Méditerranée et de l'Afrique et enfin sur le plan économique et monétaire.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "City_9d0a5741de9fafb94e045360dddcff5fd3320003f53cc0eee5bebfef6e12abe6"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "Afrique",
+      "evidence": "Parce que c'est l'Europe qui nous permettra de construire une véritable souveraineté pensée dans la durée en matière de migration, de sécurité et de lutte contre le terrorisme, de transformation numérique, environnementale mais également en termes de politique de développement à l'égard de la Méditerranée et de l'Afrique et enfin sur le plan économique et monétaire.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "City_e81979a21143817a99ac592e6ba21932628674ed0da410c41538620d061eb868"
+    },
+    {
+      "source": "Europe",
+      "relation": "SUPPORTS",
+      "target": "Europe",
+      "evidence": "L'Europe seule peut dans la durée nous aider à préserver cette place, voire à porter cette voix avec encore plus de force et l'Europe nous attend à ce titre.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "crédibilité",
+      "evidence": "Donc toutes les transformations que nous menons en France quelles que soient les résistances devront être conduites parce qu'elles sont la condition même de notre crédibilité en Europe",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_54614c8cd4a24192e52c3c7e6be0b6a027b9e193d7017b0c714ff3e9c1991da6"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "France",
+      "evidence": "toutes les transformations que nous menons en France",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "formation professionnelle",
+      "relation": "MENTIONS",
+      "target": "formation professionnelle",
+      "evidence": "Cette transformation sera complétée par des réformes en profondeur sur la formation professionnelle et sur l'assurance-chômage",
+      "confidence": 1.0,
+      "source_id": "Theme_d846003645ad5e5e511208f664265ae5edc2a1f2c5d843f3ff4622d434eb6c71",
+      "target_id": "Theme_d846003645ad5e5e511208f664265ae5edc2a1f2c5d843f3ff4622d434eb6c71"
+    },
+    {
+      "source": "assurance-chômage",
+      "relation": "MENTIONS",
+      "target": "assurance-chômage",
+      "evidence": "Cette transformation sera complétée par des réformes en profondeur sur la formation professionnelle et sur l'assurance-chômage",
+      "confidence": 1.0,
+      "source_id": "Theme_0cdccf0c3ba3fc3de60c095bff1d2417a011b4868123679ae1f4eab2983557f3",
+      "target_id": "Theme_0cdccf0c3ba3fc3de60c095bff1d2417a011b4868123679ae1f4eab2983557f3"
+    },
+    {
+      "source": "dialogue social",
+      "relation": "MENTIONS",
+      "target": "dialogue social",
+      "evidence": "pour permettre d'accompagner justement ce plus grand dialogue social au plus proche du terrain",
+      "confidence": 1.0,
+      "source_id": "Theme_ee894356fb7b18c232f5f8942280aa5130fa4a4bf5c6ae081e42c62ae85a0fce",
+      "target_id": "Theme_ee894356fb7b18c232f5f8942280aa5130fa4a4bf5c6ae081e42c62ae85a0fce"
+    },
+    {
+      "source": "transformation environnementale",
+      "relation": "MENTIONS",
+      "target": "transformation environnementale",
+      "evidence": "15 milliards d'euros seront dédiés justement à ces priorités, parce que la transformation environnementale et numérique rend indispensables de requalifier nos concitoyens qui sont sur des secteurs bousculés par le changement technologique profond et de les requalifier pour continuer à exercer dans leur secteur quand ils doivent face à des transformations profondes qui changent leur quotidien",
+      "confidence": 1.0,
+      "source_id": "Theme_71e8a1a915abebe839aab974013bbe56e30ae653d0dc2d108147c15b0522aea5",
+      "target_id": "Theme_71e8a1a915abebe839aab974013bbe56e30ae653d0dc2d108147c15b0522aea5"
+    },
+    {
+      "source": "numérique",
+      "relation": "MENTIONS",
+      "target": "numérique",
+      "evidence": "15 milliards d'euros seront dédiés justement à ces priorités, parce que la transformation environnementale et numérique rend indispensables de requalifier nos concitoyens qui sont sur des secteurs bousculés par le changement technologique profond et de les requalifier pour continuer à exercer dans leur secteur quand ils doivent face à des transformations profondes qui changent leur quotidien",
+      "confidence": 1.0,
+      "source_id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7",
+      "target_id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "source": "secteurs bousculés",
+      "relation": "MENTIONS",
+      "target": "secteurs bousculés",
+      "evidence": "15 milliards d'euros seront dédiés justement à ces priorités, parce que la transformation environnementale et numérique rend indispensables de requalifier nos concitoyens qui sont sur des secteurs bousculés par le changement technologique profond et de les requalifier pour continuer à exercer dans leur secteur quand ils doivent face à des transformations profondes qui changent leur quotidien",
+      "confidence": 1.0,
+      "source_id": "Theme_1f50976cb546ebca6d7ff60975728ae8d7db76473bcbcc0f0842cfef18366b58",
+      "target_id": "Theme_1f50976cb546ebca6d7ff60975728ae8d7db76473bcbcc0f0842cfef18366b58"
+    },
+    {
+      "source": "changement technologique",
+      "relation": "MENTIONS",
+      "target": "changement technologique",
+      "evidence": "15 milliards d'euros seront dédiés justement à ces priorités, parce que la transformation environnementale et numérique rend indispensables de requalifier nos concitoyens qui sont sur des secteurs bousculés par le changement technologique profond et de les requalifier pour continuer à exercer dans leur secteur quand ils doivent face à des transformations profondes qui changent leur quotidien",
+      "confidence": 1.0,
+      "source_id": "Theme_acf9cd96dd1a07b6c4bfabd5957e01755577ce688088c3f43f55a066d44a13f5",
+      "target_id": "Theme_acf9cd96dd1a07b6c4bfabd5957e01755577ce688088c3f43f55a066d44a13f5"
+    },
+    {
+      "source": "Parlement européen",
+      "relation": "MENTIONS",
+      "target": "réforme",
+      "evidence": "Ça veut dire réformer en profondeur le fonctionnement du Parlement européen",
+      "confidence": 1.0,
+      "source_id": "Theme_e0c9b8743c764c0344e6d7c9c22eb45f072245f8d0af2760010ba306f9f05f82",
+      "target_id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "source": "les ressortissants français",
+      "relation": "VISITED",
+      "target": "nos consulats",
+      "evidence": "que les ressortissants français soient enregistrés dans nos consulats",
+      "confidence": 1.0,
+      "source_id": "Person_8a1252033bedb27b54ec36bf8057f9abafc2bae8c4b04f2569a9010c82141e64",
+      "target_id": "Organization_d4771f73fd528b399d3fc3a0ff9a7788cb872556eafe8c5ebe628fdced29daa6"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Etats-Unis",
+      "evidence": "des Etats-Unis qui voudraient venir s'installer en France",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "source": "Parlement",
+      "relation": "SUPPORTS",
+      "target": "associations",
+      "evidence": "je sais que pour beaucoup d'associations que vous souteniez et que les parlementaires accompagnaient, la réserve était un élément important",
+      "confidence": 1.0,
+      "source_id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb",
+      "target_id": "Organization_093357ed588ea24809b2100d18e873165901f63f0760d7b30cd7fed20c85113a"
+    },
+    {
+      "source": "Parlement",
+      "relation": "SUPPORTS",
+      "target": "parlementaires",
+      "evidence": "je sais que pour beaucoup d'associations que vous souteniez et que les parlementaires accompagnaient, la réserve était un élément important",
+      "confidence": 1.0,
+      "source_id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb",
+      "target_id": "Organization_8d02dfce3c6b4d35c37b6f7ad739c679637b5003f36fa3f227f16938c864d657"
+    },
+    {
+      "source": "députés",
+      "relation": "MEMBER_OF",
+      "target": "parlementaires",
+      "evidence": "Les parlementaires qui représentent les Français de l'étranger, députés et sénateurs, auront aussi à coeur d'exploiter les résolutions et les recommandations issues de vos travaux pour prendre pleinement en compte les préoccupations des Français de l'étranger dans les travaux législatifs des deux Assemblées.",
+      "confidence": 1.0,
+      "source_id": "Organization_3b93f61dea59cdfb9ad0c39d62692a4d6a10b32fc72bc50336db6245bbfeb5da",
+      "target_id": "Organization_8d02dfce3c6b4d35c37b6f7ad739c679637b5003f36fa3f227f16938c864d657"
+    },
+    {
+      "source": "sénateurs",
+      "relation": "MEMBER_OF",
+      "target": "parlementaires",
+      "evidence": "Les parlementaires qui représentent les Français de l'étranger, députés et sénateurs, auront aussi à coeur d'exploiter les résolutions et les recommandations issues de vos travaux pour prendre pleinement en compte les préoccupations des Français de l'étranger dans les travaux législatifs des deux Assemblées.",
+      "confidence": 1.0,
+      "source_id": "Organization_f2db6f40222ba0e457f02170ed9693cf00505e058f66624aaf65ad04cf475c9c",
+      "target_id": "Organization_8d02dfce3c6b4d35c37b6f7ad739c679637b5003f36fa3f227f16938c864d657"
+    }
+  ]
+}

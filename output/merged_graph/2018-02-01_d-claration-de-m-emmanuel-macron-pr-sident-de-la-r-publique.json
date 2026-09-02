@@ -1,0 +1,767 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Country",
+      "name": "Tunisie",
+      "id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "type": "City",
+      "name": "Palais du Bardo",
+      "id": "City_70e125a81e9cc79a8923a34715abcb5329f4e7db33e1291fe62b2805fdce6e6a"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Tunisie",
+      "id": "City_4ebe1f8631875802a2e51bc83e7788f378ec4a250cdafdfa5d7d635086e3db6e"
+    },
+    {
+      "type": "Person",
+      "name": "le président Essebsi",
+      "id": "Person_bc5557b925b99c4ad36ba2414d83ed653b64622cfb089530474353e5b5100ea1"
+    },
+    {
+      "type": "City",
+      "name": "Kairouan",
+      "id": "City_2d45f49b3c8971ac4e66ace2f8406e77ff4170627308c98b091310761d06b1a3"
+    },
+    {
+      "type": "Theme",
+      "name": "soulevé",
+      "id": "Theme_58dde4f2709b27db8c0a244c88d5c7676a66a0cdd3b171f6635b4281971c4391"
+    },
+    {
+      "type": "Theme",
+      "name": "société civile",
+      "id": "Theme_4ba7aa942ccd795edd1260d2b484f3fbe0834828833209e75aa0f515937ce888"
+    },
+    {
+      "type": "Theme",
+      "name": "constitution",
+      "id": "Theme_eb4b390baab57a0b5493dd655d96373dd60c1ce0a0b39dbd0a66ba091f181c89"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de conscience",
+      "id": "Theme_d629fee88dcca2a4abc3b120e22b75234ca0ea2a050baf8d27e11c46ff72d2a5"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité entre l'homme et la femme",
+      "id": "Theme_6095091a620db5a2fce17fe4053a8dc710573b32c1412718b36c5b61de180e43"
+    },
+    {
+      "type": "Person",
+      "name": "président Essebsi",
+      "id": "Person_53e13efa3383a64488cfb78e26a6b11d6f32738901c44b501cc8d75645da7ef6"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvement populaire",
+      "id": "Theme_3fcd3d6cf860965172d4f854adbaed10dab3d888d65e343a5e59db2f657364de"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution",
+      "id": "Theme_14810cbd3a4618202318beb60cab3c2b699dcf7af2613dada94f298edf9f66c3"
+    },
+    {
+      "type": "Theme",
+      "name": "printemps",
+      "id": "Theme_531707aa7f8f58377b5d90c752a30e1f903ce2aeff56a8574169690b0a3b9b66"
+    },
+    {
+      "type": "Theme",
+      "name": "Révolution française",
+      "id": "Theme_159aa5fefe060df3e3520a7c7698f1b5a979268193f3a1eb4cb0259b84b39110"
+    },
+    {
+      "type": "Theme",
+      "name": "printemps culturel et démocratique",
+      "id": "Theme_2b93cc7ae7b2eb1a58d4ee3eeec5dffcc00ce1deee471d88f0ca5954b376992b"
+    },
+    {
+      "type": "Theme",
+      "name": "printemps politique",
+      "id": "Theme_a1670953bf0a41568680c0e557bc38b274f7c069b7be542c86a09d5dd43b97c4"
+    },
+    {
+      "type": "Theme",
+      "name": "réussite pleine et entière",
+      "id": "Theme_b2f57d378c8bad5cffbcfeacebb4901612b54e660f106add83cc0fb200cb6c1f"
+    },
+    {
+      "type": "Theme",
+      "name": "mieux vivre",
+      "id": "Theme_0c39fc9f672a26ba47790b6fcc123e1af04ccd92d8b32a79bd58966ddbd7e915"
+    },
+    {
+      "type": "Theme",
+      "name": "classes moyennes",
+      "id": "Theme_51e81a3a86f221548aab0ff37af5181c0703af7bed5eeb5c9d9976386a312914"
+    },
+    {
+      "type": "Theme",
+      "name": "classes populaires",
+      "id": "Theme_4ac68107867fec9b864c50280451da621231ada7ec29e0fca5b782fe22ac331b"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation des élections municipales",
+      "id": "Theme_df2c78356b9203da5dd039d81be968694ae23d4ff9accea382f759034ecac408"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la corruption",
+      "id": "Theme_0963572c55ffc2e8acb743ba6d8d5a15fc12f225111a3f11f5c025ebdcfc50fd"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance entre la démocratie et le peuple",
+      "id": "Theme_b136a18a7fbc129bcd0f79b0943db35f47b3d4f19089ba3c09f309b80de95c0d"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes économiques et sociales",
+      "id": "Theme_4ede514a1bc31365287ff57583fc824618e1e1c4da65a2a864b5cef11485a69a"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Country",
+      "name": "Maghreb",
+      "id": "Country_be5722976ec7c134a4db482021e29042946ff337d3ae7431fcc726f38a53abf3"
+    },
+    {
+      "type": "Person",
+      "name": "un frère ou une soeur",
+      "id": "Person_ddd85c4662721705b5f74bc985a775ea844fcc3b63e3f4bef4dfdd56ac05fde7"
+    },
+    {
+      "type": "Person",
+      "name": "un ami lointain",
+      "id": "Person_97d03237ffe95d5612efc4ae4bf4e64b133067b0e809ca9544632b5c74092d9c"
+    },
+    {
+      "type": "Person",
+      "name": "un ami",
+      "id": "Person_a7d16a26f151f6b76597c8b460bb0aa0a42e11c265af5628a292e095765e2305"
+    },
+    {
+      "type": "Country",
+      "name": "Méditerranée",
+      "id": "Country_e93896bc4559dd7afc222e9ca48674c422bf19309fd40f78e9ef48b4f15c7acb"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue de frères et de soeurs",
+      "id": "Theme_e1cc72d9e41fe9dedda89ee4a4c234afcc814d9a69db585cb2f7899dcb9c8430"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesses",
+      "id": "Theme_39040882111f5fa544adb95818891209a401b9c372f2bd9cb2d067640ce6fa2a"
+    },
+    {
+      "type": "Theme",
+      "name": "président de la République",
+      "id": "Theme_c36b5bbdb2e77a07d9a1ff3becda224d86e3df2ddddb23de1be7030aafab75c2"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "Tunisie",
+      "id": "Theme_5177884a34d1b0706cad5fcb176cf57c4b6c2e3a17fb9619b4c4c1c39eea4253"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "obscurantisme",
+      "id": "Theme_4a24212db9727059b9b326cb8f096cf94fed1ceca851b8d4a98d5c11af866309"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Person",
+      "name": "Ghassan Salamé",
+      "id": "Person_fa285185b56124d175782d76aa917845321f2ee05cbc63e5cf8e64a804ea30e5"
+    },
+    {
+      "type": "City",
+      "name": "Maghreb",
+      "id": "City_1371e11d8d222b4da4b03b5ac9052162e532363188d853416182890f0948806d"
+    },
+    {
+      "type": "City",
+      "name": "Machrek",
+      "id": "City_6b6ac42ef45059f3461a4eac2f54a67e3a1301d22b892c58b9f5b3a4379c0356"
+    },
+    {
+      "type": "City",
+      "name": "Proche et Moyen-Orient",
+      "id": "City_e060881869bea8a6c175e4379e0a8377c2b8cac2658b9e7e1676bac857344e1b"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Theme",
+      "name": "intégrité",
+      "id": "Theme_d6f3dda116f10d75ae85ffecdf27d93200f82494e8ac9350571841bd94072ea4"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Organization",
+      "name": "l'éducation, l'enseignement supérieur",
+      "id": "Organization_28cbf6ea26ac6bb38957b082df339830c5c8ef3ecdb6ea58c0e0aeb6db6600fb"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "Afrique",
+      "id": "Theme_e53ae647bc41c3aecc727ca2595afd63d86f12f3de9d9d071f207288bfe98093"
+    },
+    {
+      "type": "Theme",
+      "name": "Méditerranée",
+      "id": "Theme_5c1c6aabbbbfca70275e0d75df4cfac0908561fd5d54b651fb9166d10e16662e"
+    },
+    {
+      "type": "Organization",
+      "name": "Cette université",
+      "id": "Organization_63037ac14d18d7958d1439ac7e2adb1ce0e1dded90c054d96f2371eba111f63a"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Organization",
+      "name": "alliance française",
+      "id": "Organization_6b6a1bc1b2e28cf6cd853e0b7d11132da212a0dbb85c71328a0866e2c5815bea"
+    },
+    {
+      "type": "Person",
+      "name": "Bourguiba",
+      "id": "Person_e8dbbe02e2c987e7d3a3bf63158d55320ed4894a379381d716ba25ee3d67cb39"
+    },
+    {
+      "type": "City",
+      "name": "Ouagadougou",
+      "id": "City_3b11427d24948ffcdb7b95de6eaab0a8b8b23d670e0a57d2c0bb9157dfa86ec7"
+    },
+    {
+      "type": "Theme",
+      "name": "francophonie",
+      "id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "type": "City",
+      "name": "Congo",
+      "id": "City_98be9cd382cfb942b238d51d9f4e264f186de666e8051cfcc0eee348a6d240e2"
+    },
+    {
+      "type": "City",
+      "name": "Caraïbes",
+      "id": "City_00f24e8aa1dfb6fcd17fd136278222a6ae32e433f81a0d99e1a6a0625a0b395e"
+    },
+    {
+      "type": "City",
+      "name": "Pacifique",
+      "id": "City_86d894f7cacff03f5e070c0097c5ac9cd80c8cf63f1870ca124f48b4a63245ae"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "langue",
+      "id": "Theme_503878fae38cf6a116099ef03b8fe0423aa370b33f0af8b6450b8ae129feef43"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Person",
+      "name": "Votre président",
+      "id": "Person_ec09243f6300d7c7b7f9e6befd8cd419bc9ab3364af631212778720bcc51f0ba"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "relation bilatérale",
+      "id": "Theme_fb905f565e880acf7668ded50fca31fba5f169f79f2dd0ee408ce5b8565b1b6e"
+    },
+    {
+      "type": "City",
+      "name": "Carthage",
+      "id": "City_84db4e0aec8027457bc9d1bb52b2f3cd1bd182c90d866c17bc44c9f13a4a9d24"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération économique",
+      "id": "Theme_4d9ad0755f2213e9c13c8d6817f70b09eaacd493f7665cb114cf5731864a45d8"
+    },
+    {
+      "type": "Theme",
+      "name": "dette en actions économiques",
+      "id": "Theme_78830a4d1b07d5685e219be8a2589ce56ecd9c368fa3350ae5c3c521b2bfc2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "plan d'urgence",
+      "id": "Theme_713a5d82c2bbf509dddb091dea252f954aa24b6baa266719d03a2dd022615dca"
+    },
+    {
+      "type": "Theme",
+      "name": "résultats concrets",
+      "id": "Theme_f5c3f4c71fe902ca3f4268c14a6e7ba1fa6643397b14ae89c8a6582287587d9a"
+    },
+    {
+      "type": "Organization",
+      "name": "Business France",
+      "id": "Organization_a6c8c752a47385a5ca5cb511756c3e28bbc9675b1afd54f41f06e4b13f7b0a91"
+    },
+    {
+      "type": "Organization",
+      "name": "Expertise France",
+      "id": "Organization_6d3e2fbb4db61c03baebe301a34de980a779d04d5562c8b13c7b058d8d08aa9e"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française de développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Theme",
+      "name": "libre échange",
+      "id": "Theme_4b82c704863d41c19d0cb1b19f94ca6a51c55341819e1c11cfe6271d9428d403"
+    },
+    {
+      "type": "Theme",
+      "name": "intégration des espaces aériens",
+      "id": "Theme_14f31d6feade42c8c3c7f129f91010de6111e8d97e197c52a570aab89c43f05e"
+    },
+    {
+      "type": "Theme",
+      "name": "espaces économiques",
+      "id": "Theme_5350365aa21a1cc47f1e874c37557d52f870c0f71deaad0db25be2666d459b3a"
+    },
+    {
+      "type": "Theme",
+      "name": "routes d'une mobilité choisie",
+      "id": "Theme_3895ad5c260e3ddcde2da7a4b4c9312b07d3c9ef298257daec08abcb72425ace"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Autriche",
+      "id": "Country_c68a479343ec0ea52bfa053ac2e047c2edaade30d4c6d16515e2d110863f8dd8"
+    },
+    {
+      "type": "Country",
+      "name": "Tchad",
+      "id": "Country_4559f6f8af30c0e115367f99db7a2d2bff5c4fb5ef7ec890af7e5e1662fd701e"
+    },
+    {
+      "type": "Country",
+      "name": "Niger",
+      "id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb"
+    },
+    {
+      "type": "Theme",
+      "name": "projet partagé",
+      "id": "Theme_0d2c4fe1f30c98fdfed123d55b7592d7b52ebc7296e46c0ce2b24cf2840f66d1"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "entrepreneurs",
+      "id": "Theme_e4207dcc762b06be54e50b07a23efe4d7d2f6d0bccaf7dc9fdc8677ecb225d0a"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques",
+      "id": "Theme_ba19f95cfce8651b7911006a78fd0bb6aabbd2835fa43c9b908e59faca1f07ca"
+    },
+    {
+      "type": "Theme",
+      "name": "académiques",
+      "id": "Theme_47a35faba60193c8c219e3bd0dfc86a7b456d0a31f3ecaad609e80f9677b9043"
+    },
+    {
+      "type": "Theme",
+      "name": "talents",
+      "id": "Theme_3b7a6c56442c49486f7601fa3bced61cced2f4aadaf5f134fda32ff8e738503d"
+    },
+    {
+      "type": "Theme",
+      "name": "passeurs clandestins",
+      "id": "Theme_42e7e5983c04f4dc703f0c5ca37c42cf265322b47dbd935a453fa9e3abccc3c7"
+    },
+    {
+      "type": "Theme",
+      "name": "terroristes",
+      "id": "Theme_d59b3e6917526ee527ce5381bb55f583e532c879252957540d72a0f1fce69b53"
+    },
+    {
+      "type": "Theme",
+      "name": "trafiquants de bonheur",
+      "id": "Theme_7fce33c9972212ffb6c728f207f4fcc717b44602e6e18e5e964d6d4418345fbc"
+    },
+    {
+      "type": "Theme",
+      "name": "défi",
+      "id": "Theme_d5d53b2438762c5db116c4d8f8c6d243086cbe9ac59c1d11e4650ceef5439404"
+    },
+    {
+      "type": "Theme",
+      "name": "monde arabe",
+      "id": "Theme_87601c32329a1a998d35051f0115c608e754ea11899173122e893b5dddc10ff0"
+    },
+    {
+      "type": "Theme",
+      "name": "autoritarisme",
+      "id": "Theme_491f4de1404f61b1334d3fd67371cc3e8c0a7f23bd901e93328d5f812620b869"
+    },
+    {
+      "type": "Theme",
+      "name": "parlementarisme syrien",
+      "id": "Theme_4916cf320092fd5000ccfe55ce6ad1fbc50241c4a4262cd0aec166af3f288c6d"
+    },
+    {
+      "type": "Theme",
+      "name": "grandes heures constitutionnelles",
+      "id": "Theme_82a2534d62c9e7687bc61cab4584c309eb20417c9bdb02f68c4812300c1ae7ed"
+    },
+    {
+      "type": "Theme",
+      "name": "politique arabe",
+      "id": "Theme_f151ca8561835b47f42f6899ff8bd835517e7f20a7d4e651182fd4520bb58061"
+    },
+    {
+      "type": "Theme",
+      "name": "erreur",
+      "id": "Theme_4ca986f6cee0f7d48945f8c30d3f4286bca61292771e2366b93a71939b71706d"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "City",
+      "name": "Jérusalem",
+      "id": "City_dfd40d6188dd9c7a0e31e67df7305e4c1dacdce3131ca878deef88ad6b482beb"
+    },
+    {
+      "type": "Country",
+      "name": "Machrek",
+      "id": "Country_b7e06a69ebf3d3575b44247b7af189b5fc3d19232b7c7e483b102bf4de24ca5c"
+    },
+    {
+      "type": "Country",
+      "name": "Proche et Moyen-Orient",
+      "id": "Country_e0b323e9f3a1ca202741b7afa696c4252d461df07e8587577b8d55eea9f7a3ea"
+    },
+    {
+      "type": "Theme",
+      "name": "pluralisme",
+      "id": "Theme_a741080b365c82e9b6aec87ddae77303587c9136d76c01e63c366a9fbbe60422"
+    },
+    {
+      "type": "Theme",
+      "name": "bien commun",
+      "id": "Theme_0fa516cd569c8f13d481b0e582c31b41d3a0d36c665a0708ec2cf6a366f2de3f"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêt souverain",
+      "id": "Theme_c8d20f4df6feb0b763110549724d6c93c0e0dc9d1c2ba80fa14d618acf21b443"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "Maghreb",
+      "id": "Theme_2ed62611cbe55afc26628503f8788290a7ce2334f7b1a52a4180486048343424"
+    },
+    {
+      "type": "Country",
+      "name": "Maroc",
+      "id": "Country_9458e2c6babd2c77ac8b75ec4713e04d3bfb33730d88d692b0cae733d35375f3"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Theme",
+      "name": "repli",
+      "id": "Theme_90ce70dc1d4f9a64f6559f5bc5abd8aa0b0ca7c794b84d279d5871f113e03fa7"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorism",
+      "id": "Theme_a348838fece2a9c780044dab4f291a936095c2be9a10ee5e2924e483e90652b2"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Person",
+      "name": "Ibn Khaldoun",
+      "id": "Person_10e718ab1e5214362575890ba8444c80d13185f7a0769756c606d50ab18c2782"
+    },
+    {
+      "type": "Person",
+      "name": "Hached",
+      "id": "Person_3e8bc95a08673afaf8e5404d9c6161f1140b49f4e8abac8f505e571b7e7d2ff6"
+    },
+    {
+      "type": "Country",
+      "name": "Tounis",
+      "id": "Country_8d5775c5a92f34d20aac81a2ab7e14888480ea418b061be991d7f419a4e17828"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Tunisie",
+      "evidence": "Et ce que vous montrez chaque jour davantage, c'est que la Tunisie est bien de retour. Il y a quelques jours, je disais dans une autre enceinte que la France était de retour sur beaucoup de sujets. Par votre action depuis sept ans, la Tunisie l'est aussi, mais elle l'est dans un travail difficile et par les actions que vous avez décidées et que vous portez.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_5177884a34d1b0706cad5fcb176cf57c4b6c2e3a17fb9619b4c4c1c39eea4253"
+    },
+    {
+      "source": "Tunisie",
+      "relation": "LOCATED_IN",
+      "target": "Tunisie",
+      "evidence": "la Tunisie est bien de retour",
+      "confidence": 1.0,
+      "source_id": "Theme_5177884a34d1b0706cad5fcb176cf57c4b6c2e3a17fb9619b4c4c1c39eea4253",
+      "target_id": "Theme_5177884a34d1b0706cad5fcb176cf57c4b6c2e3a17fb9619b4c4c1c39eea4253"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "deux ans même avant la France",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "jeunesses",
+      "evidence": "Alors, quand je vous dis que nous avons ce dialogue de frères et de soeurs, c'est parce que nous avons ces vies en commun, parce que nous avons ces jeunesses qui nous regardent, parce que quand un président de la République agit mal ici, n'est pas à la hauteur du défi, la jeunesse de France le lui reproche, avec force, et parce qu'il construit aussi une part du malheur de cette jeunesse.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_39040882111f5fa544adb95818891209a401b9c372f2bd9cb2d067640ce6fa2a"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "président de la République",
+      "evidence": "Alors, quand je vous dis que nous avons ce dialogue de frères et de soeurs, c'est parce que nous avons ces vies en commun, parce que nous avons ces jeunesses qui nous regardent, parce que quand un président de la République agit mal ici, n'est pas à la hauteur du défi, la jeunesse de France le lui reproche, avec force, et parce qu'il construit aussi une part du malheur de cette jeunesse.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_c36b5bbdb2e77a07d9a1ff3becda224d86e3df2ddddb23de1be7030aafab75c2"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "France",
+      "evidence": "Alors, quand je vous dis que nous avons ce dialogue de frères et de soeurs, c'est parce que nous avons ces vies en commun, parce que nous avons ces jeunesses qui nous regardent, parce que quand un président de la République agit mal ici, n'est pas à la hauteur du défi, la jeunesse de France le lui reproche, avec force, et parce qu'il construit aussi une part du malheur de cette jeunesse.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Tunisie",
+      "evidence": "La France n'a pas d'autre choix, ne peut avoir d'autre volonté que celle de voir la Tunisie réussir dans ce moment historique qu'elle vit, qui est le nôtre, de faire triompher ses valeurs qui sont les nôtres, et de les faire triompher ici, pour ne pas faire bégayer notre histoire, pour endiguer le mouvement d'obscurantisme que certains voudraient faire prospérer, pour montrer au monde entier que c'est possible, et que quand bien même, chaque matin, des gens voudraient vous rappeler que ça ne l'est pas, font tout pour vous mettre des bâtons dans les roues que, ensemble, nous ne lâcherons rien pour le faire.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_5177884a34d1b0706cad5fcb176cf57c4b6c2e3a17fb9619b4c4c1c39eea4253"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "valeurs",
+      "evidence": "La France n'a pas d'autre choix, ne peut avoir d'autre volonté que celle de voir la Tunisie réussir dans ce moment historique qu'elle vit, qui est le nôtre, de faire triompher ses valeurs qui sont les nôtres, et de les faire triompher ici, pour ne pas faire bégayer notre histoire, pour endiguer le mouvement d'obscurantisme que certains voudraient faire prospérer, pour montrer au monde entier que c'est possible, et que quand bien même, chaque matin, des gens voudraient vous rappeler que ça ne l'est pas, font tout pour vous mettre des bâtons dans les roues que, ensemble, nous ne lâcherons rien pour le faire.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "obscurantisme",
+      "evidence": "La France n'a pas d'autre choix, ne peut avoir d'autre volonté que celle de voir la Tunisie réussir dans ce moment historique qu'elle vit, qui est le nôtre, de faire triompher ses valeurs qui sont les nôtres, et de les faire triompher ici, pour ne pas faire bégayer notre histoire, pour endiguer le mouvement d'obscurantisme que certains voudraient faire prospérer, pour montrer au monde entier que c'est possible, et que quand bien même, chaque matin, des gens voudraient vous rappeler que ça ne l'est pas, font tout pour vous mettre des bâtons dans les roues que, ensemble, nous ne lâcherons rien pour le faire.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_4a24212db9727059b9b326cb8f096cf94fed1ceca851b8d4a98d5c11af866309"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "terrorisme",
+      "evidence": "C'est pourquoi la France se tiendra à vos côtés, d'abord, pour lutter activement contre le terrorisme, échanger davantage d'informations.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Tunisie",
+      "evidence": "la France, oeuvrant avec la Tunisie, poursuivra ce travail pour votre stabilité",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_5177884a34d1b0706cad5fcb176cf57c4b6c2e3a17fb9619b4c4c1c39eea4253"
+    },
+    {
+      "source": "alliance française",
+      "relation": "LOCATED_IN",
+      "target": "Tunisie",
+      "evidence": "en inaugurant la première alliance française en Tunisie",
+      "confidence": 1.0,
+      "source_id": "Organization_6b6a1bc1b2e28cf6cd853e0b7d11132da212a0dbb85c71328a0866e2c5815bea",
+      "target_id": "Theme_5177884a34d1b0706cad5fcb176cf57c4b6c2e3a17fb9619b4c4c1c39eea4253"
+    },
+    {
+      "source": "jeunesse",
+      "relation": "MENTIONS",
+      "target": "avenir",
+      "evidence": "Aide-t-on la jeunesse à construire son avenir si on lui explique qu'il ne faut pas apprendre le français",
+      "confidence": 1.0,
+      "source_id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788",
+      "target_id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "source": "Tunisie",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "entre la Tunisie et l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Theme_5177884a34d1b0706cad5fcb176cf57c4b6c2e3a17fb9619b4c4c1c39eea4253",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    }
+  ]
+}

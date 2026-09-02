@@ -1,0 +1,652 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Président du Parlement européen",
+      "id": "Person_4a07fd2d66a563cfb2a378934ba5c3a56ab0ce092cbdfb04f741dfbfb075fe98"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président de la Commission européenne",
+      "id": "Person_3301860acc1ba70b88ba637f250ba50a8c6f1f4284af749921b77eabf7b352bc"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Ministres",
+      "id": "Person_04725bf2245672793e76174d8746ec28f46c281ef73283bf9390941f137cf2cf"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Commissaires",
+      "id": "Person_9318e23a6ba5159e0db1c206c6fb74f6783b49bd4d99acc157ea0487ad664230"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Députés",
+      "id": "Person_870263315d8653f47b8d94234219b763ac0df091b6fdad9e12220c6ce7961825"
+    },
+    {
+      "type": "City",
+      "name": "La Sorbonne",
+      "id": "City_4f9b6ee4d3239bf46fce8dcae626629d0a1573c59a7e3f0af396de57006a99d0"
+    },
+    {
+      "type": "Person",
+      "name": "Michel BARNIER",
+      "id": "Person_6a04ceb187264fb3e394a2093779ba135fd7a574bf1489892666c3bcc42b5af6"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Event",
+      "name": "Brexit",
+      "id": "Event_0ac67d48e8e41ceea068da2f23e9edbc22fff9ab2df624ff61fe96e032c92341"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie libérale",
+      "id": "Theme_98d500a10214563620caaba76c0b7dc5d8f55d0f5296040835eabc7f9e236f0a"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "désordres du monde",
+      "id": "Theme_89964d206c4c610466c784e147a952180af59d90f316393a628477587badd5fb"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalisme",
+      "id": "Theme_d0f339441ee20ce073228a015cda668179f9e724fa0f925bc928aa3557010053"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés",
+      "id": "Theme_2460d11dd8890d0086c346c7c4f9479cbb7c560ab3409a92f103572ef8fa5209"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir fort",
+      "id": "Theme_1430bfa9502c6f31f50b44c3c826bd12833dba84fca09eb5aa7b10cf33f3bc12"
+    },
+    {
+      "type": "Theme",
+      "name": "autoritarisme",
+      "id": "Theme_491f4de1404f61b1334d3fd67371cc3e8c0a7f23bd901e93328d5f812620b869"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie autoritaire",
+      "id": "Theme_3ad1b4f529e1dfffd9dd17b6366cff813ab4c011fb1d9cf02cff966fd06155f6"
+    },
+    {
+      "type": "Theme",
+      "name": "illusion mortifère",
+      "id": "Theme_6fb9d6269cd3ba3af0d3d97d8a4fb23d624fd1b33733a43a6a43b579509dcbd0"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir",
+      "id": "Theme_fa2af3c869fd2e22edea3355a07d3a938d79015b3cbde00d44852ab65ccfbd8b"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de l'environnement",
+      "id": "Theme_a41e8e18628de5f82e8c9b1b4c3839debd0b1917bc13185c5654493373a85c99"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté d'innovation",
+      "id": "Theme_dfc6b32314ca03de41188eabbb8ba5dc6fa7e06bd159c374a704dc62f8fce51d"
+    },
+    {
+      "type": "Theme",
+      "name": "juste régulation",
+      "id": "Theme_2cef5ec5fad751405b3c5625c84abe08ef070a179fd3c0baa356b6bb4b9c1cd7"
+    },
+    {
+      "type": "Theme",
+      "name": "vie privée",
+      "id": "Theme_10749c4a77dc18b41bdb2739ee36e8f92d1a718885213ee9bf211f2779a7ee4c"
+    },
+    {
+      "type": "Theme",
+      "name": "désengagement",
+      "id": "Theme_526981d1a21a5a7f0c45aa0062f02eb94a06564475023e0876ff060c45efd5da"
+    },
+    {
+      "type": "Theme",
+      "name": "rejet du multilatéralisme",
+      "id": "Theme_ada9e693ef2ad4464d59e6ec397a6ea27dcfbcc53f810c034483f4dfa960c3a1"
+    },
+    {
+      "type": "Theme",
+      "name": "enjeu climatique",
+      "id": "Theme_1d4227c0e386904832126b6a1bb34b73b936203bc6744d875692667d6393b019"
+    },
+    {
+      "type": "Theme",
+      "name": "questions commerciales",
+      "id": "Theme_5554af86b0646be40840c405a23dbca298e14ac21200a33a10aaf424cd9a11f1"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "paralysie",
+      "id": "Theme_e902fccf394009189a131d295265c808cacaae6fadeff2b682cf7414ff17f456"
+    },
+    {
+      "type": "Theme",
+      "name": "idée européenne",
+      "id": "Theme_25a380b08b955cd810137ff8214bf409cdcefdbcc47db882375b9114041f0a57"
+    },
+    {
+      "type": "Theme",
+      "name": "pédagogie",
+      "id": "Theme_b22ddb6d3f49bf2d8dc94bc5cfaf692d45125c42d41bf64f6f59788dbe134874"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité au quotidien",
+      "id": "Theme_12bc103ed7cad0d12009653fcaea1dc8bab2aa7c86a49320eaff4baf0c0563be"
+    },
+    {
+      "type": "Theme",
+      "name": "déchirement nationaliste",
+      "id": "Theme_7d2776f7929ef2c960b94c656bed25f69d7da4123cfa399d57ea11ceb99176b6"
+    },
+    {
+      "type": "Theme",
+      "name": "débat structuré",
+      "id": "Theme_c7e93ba7189e0c76fa39644e3aaf72d99043a57f320eab1e8362dcd67548580e"
+    },
+    {
+      "type": "Theme",
+      "name": "convictions",
+      "id": "Theme_a51b23965d67cf5a68542609622617407593bf52e761c916b6ea4e395c3441b2"
+    },
+    {
+      "type": "Theme",
+      "name": "propositions",
+      "id": "Theme_4a2ee1d2efb3511374b47f7c23fd7dc9b6bb3a862d7680fa69d9c710476374d9"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe des peuples",
+      "id": "Theme_ff4209262a8b60544c81c972c959913e252deab73fad0950a6c712aa4e0c6015"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "JUNCKER",
+      "id": "Person_79fbb50acf9e13d45a785dc6c088d941c901209f230a41d0efb053518e0f7353"
+    },
+    {
+      "type": "Person",
+      "name": "TAJANI",
+      "id": "Person_a6ae9b2551d14ca553915e6aa12ec4c7189701e7acb35eb813280500fe58a678"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations",
+      "id": "Theme_cac93d346afb10556cd477074f8fd5e7de6a6b6e234704cdc92ccd1aae71876c"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité externe et interne",
+      "id": "Theme_1f559e96b9894c16a554fc59fce9f077aefaddbac68b817ba57e2ba8f2214a3e"
+    },
+    {
+      "type": "Theme",
+      "name": "taxation du numérique",
+      "id": "Theme_dd2b88db308bd40bb722dd39a9bb2c027b652f83c54220abc0801fec26c25ba3"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme de l'Union économique et monétaire",
+      "id": "Theme_10fa32eaaf919785e0c39425987c7f7edc62a329e7f5dee92de2b63a17009d68"
+    },
+    {
+      "type": "Theme",
+      "name": "union bancaire",
+      "id": "Theme_f9c841f93a94134a4e484b837202a4153798333567ec2947cd74ae78cf37b30d"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité budgétaire",
+      "id": "Theme_1759a50459ad7496d60fb78cf52a0cd347a226898e59356b37ea8d946b70e93d"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence",
+      "id": "Theme_5dd492310229e6422561fb6ee7825d44da04ee46fef898be05f57442adb06a51"
+    },
+    {
+      "type": "Theme",
+      "name": "universités européennes",
+      "id": "Theme_347ada8393d1ce8d5674be755fbef826087fbcb0a7e4c31724e8880bf9946526"
+    },
+    {
+      "type": "Theme",
+      "name": "Erasmus",
+      "id": "Theme_24922e7cc48797a9115b9884bcbdc915e8ce8ffb6a14a2f099de5fdea859cf4c"
+    },
+    {
+      "type": "Theme",
+      "name": "droit d'auteur",
+      "id": "Theme_36a9ef569caf15cb52886f409568bb0fb6cc76987827b681017a4ec9856f98bb"
+    },
+    {
+      "type": "Theme",
+      "name": "protection des créateurs",
+      "id": "Theme_6c45e003b0070b0286a73a06852add706d02e67768b0169b71dae5b9c0f3d809"
+    },
+    {
+      "type": "Theme",
+      "name": "création artistique",
+      "id": "Theme_03eac1d532b6d19e37593420dca790533c0bb01a8aada09ea0109e749792ac2a"
+    },
+    {
+      "type": "Theme",
+      "name": "bouillon de culture",
+      "id": "Theme_4226998517d93df57a35bab044e64c6d44e3e6d160c1711f1b10e5975d1e2a1f"
+    },
+    {
+      "type": "Theme",
+      "name": "continent de diversité vitale",
+      "id": "Theme_1c9d6b17a57ca2cc229fa48188a87c8960900ce71916c80a548e153bd423a8b5"
+    },
+    {
+      "type": "Theme",
+      "name": "génie créatif",
+      "id": "Theme_390fe08a150019c359e9236ecda3419c857b32dd9bf7e245c453645f58418edf"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté climatique et énergétique",
+      "id": "Theme_551ff035dc25f511f06dacd5e85b4450e45ef59a29d6fc5f749100cd808cad4a"
+    },
+    {
+      "type": "Theme",
+      "name": "Accord de Paris",
+      "id": "Theme_152a851eb1dbb7769682151519941e34f537ce302d4e0686a44e31473c8febaf"
+    },
+    {
+      "type": "Theme",
+      "name": "paquet énergie-climat",
+      "id": "Theme_fa683077f3ec15e59ba15215c8b79185f871580ca49e2cf1ed2e8d03f1e891d2"
+    },
+    {
+      "type": "Theme",
+      "name": "prix plancher du carbone",
+      "id": "Theme_028c65f30b3e39dce38ccfd1d62c8bd2db95e819957d696ee56ade2ba459fd11"
+    },
+    {
+      "type": "Theme",
+      "name": "prix minimum",
+      "id": "Theme_f2fa13018396eda4ca38fead550eecd9fe0a77c6987372e554dbca8ecc5e12ca"
+    },
+    {
+      "type": "Theme",
+      "name": "taxe aux frontières pour le CO2",
+      "id": "Theme_90b3a55736a53be280f6c5e999519f4e54a708277b6cfeb1145bb2dde6433189"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté alimentaire",
+      "id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté numérique",
+      "id": "Theme_82a8b179d2875a313843f3d96b5b2ecca7f1aea3a119dbe5d6b02ced4aec6593"
+    },
+    {
+      "type": "Theme",
+      "name": "législation de référence",
+      "id": "Theme_4340a167fc02328883579af30e9dfb6607a094c0ae80d4822fbbd87219fb8ec5"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation de rupture",
+      "id": "Theme_15cfadec6c52ce9c8f308f6aa83b4ac35cf91e6a01d1b7584afa46fa4534e02b"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés individuelles",
+      "id": "Theme_759ccdc015d83cf60a6046b0b9d40b9d6f2ba26eed4cc7fc4859025eb4ae5ca8"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "cohérence",
+      "id": "Theme_9cdf4df616c3da187d7535499acacc37273b3877ccdac29cfd3340742039208c"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "projet politique",
+      "id": "Theme_527ac17ee52d3ae0df678d49813f5cc81d8f01394c6454bcd6f8cdea63ee790e"
+    },
+    {
+      "type": "Theme",
+      "name": "cadre financier pluriannuel",
+      "id": "Theme_008534eaeb9c2e08f79dffbad305fc5e84eb4d7ff79514b22de440ac5173b8eb"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "migration",
+      "id": "Theme_01a5c75184775cff4173ec0fbbc450fb35e1b7e33254192f0b79aede45c55a7a"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement européen",
+      "id": "Organization_35045d56b46d30c02ed3c266f7b7e936d04046cd769a6b336980fa0f45af5ecb"
+    },
+    {
+      "type": "Theme",
+      "name": "légitimité européenne",
+      "id": "Theme_d77fd290ba507b3bc3c4d2471060b111ed61ccade50d7a70819076fa51479025"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "vitalité",
+      "id": "Theme_6cae20f54e9800819737ab331cc42040a07cc132f27ad4bac939248e800630ad"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir de l'Europe",
+      "id": "Theme_e5fb5c5bc901020539a67006eb7e5729acab971551fdfebaa67d4436092ebf91"
+    },
+    {
+      "type": "Theme",
+      "name": "rassemblement de notre souveraineté",
+      "id": "Theme_255ed0044b9585594d4f73a15e0d40884728ac11949d0f74234427e3f4fa46c8"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "renaissance d'une Europe",
+      "id": "Theme_f4e98f5e8b128889de53466f43dfbe587262d65d773d49ba660a61d4f948e949"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit même de ses peuples",
+      "id": "Theme_c2897f2cc8afe17273048940235627707c8022fb9ac246d819a32d915276fdd8"
+    },
+    {
+      "type": "Theme",
+      "name": "clivages entre le Nord et le Sud",
+      "id": "Theme_8276e20a444cfc5f46c211cbe7548b42914e4e19b88546bcbaa5fd9e0a1d7d7c"
+    },
+    {
+      "type": "Theme",
+      "name": "repli sur les égoïsmes nationaux",
+      "id": "Theme_a3b8113081f0c453033da5a754140be9653fa3f8594a12d85120033028565983"
+    },
+    {
+      "type": "Theme",
+      "name": "génération",
+      "id": "Theme_ebd6e511ce08f31c6fb10d3a240a4261fa16b7b0e6fc36cf928c9880a64a00b8"
+    },
+    {
+      "type": "Theme",
+      "name": "débat européen",
+      "id": "Theme_bc04d78deefde221c303a275a6e9de3bd18ced6c320a2acec3a4159e8595498a"
+    },
+    {
+      "type": "Theme",
+      "name": "échéances européennes",
+      "id": "Theme_0ecaad224ce27db1a101e573f3451ff7f30f3f0a6c660d8d594091ca2362a93a"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe qui ne propose plus",
+      "id": "Theme_21fa75118cd8c43bf34c7aa1e8a690b2d274406a55d43072e0d5f8b47ee98fe0"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe du repli",
+      "id": "Theme_e07f549708e2e7310971d35647811c2d26aa23fd58ce4464cdb8e0c209d8ff56"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe de l'habitude",
+      "id": "Theme_aa0f8bcea451e4d7a6554675c5a83456c4b686c75e6ee8a9f49e85c810161dd7"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe de l'ambition",
+      "id": "Theme_ba19c77ac731ec14dbe494c39eeda6adeb7fcdab95dfcb2d988f563fa8cd915f"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté réinventée",
+      "id": "Theme_7895ccad77b61529e8a862acba12a342c52521ec44818f915334ee207dc91f78"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie vivante",
+      "id": "Theme_aa62559cbe5d8504a6b474b01bc272493b3c2440dc49e404c1052caee3150e16"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "ALLIED_WITH",
+      "target": "Europe",
+      "evidence": "Un contexte qui est d'abord celui de divisions et parfois de doute au sein de l'Europe.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "Europe",
+      "relation": "VISITED",
+      "target": "Europe",
+      "evidence": "Un contexte qui est d'abord celui de divisions et parfois de doute au sein de l'Europe.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "réforme de l'Union économique et monétaire",
+      "relation": "MENTIONS",
+      "target": "réforme de l'Union économique et monétaire",
+      "evidence": "La réforme de l'Union économique et monétaire est un troisième front indispensable avant la fin de cette mandature, en définissant une feuille de route permettant d'avancer par étape sur l'union bancaire et la mise en place d'une capacité budgétaire favorisant la stabilité et la convergence dans la zone Euro.",
+      "confidence": 1.0,
+      "source_id": "Theme_10fa32eaaf919785e0c39425987c7f7edc62a329e7f5dee92de2b63a17009d68",
+      "target_id": "Theme_10fa32eaaf919785e0c39425987c7f7edc62a329e7f5dee92de2b63a17009d68"
+    },
+    {
+      "source": "union bancaire",
+      "relation": "MENTIONS",
+      "target": "union bancaire",
+      "evidence": "La réforme de l'Union économique et monétaire est un troisième front indispensable avant la fin de cette mandature, en définissant une feuille de route permettant d'avancer par étape sur l'union bancaire et la mise en place d'une capacité budgétaire favorisant la stabilité et la convergence dans la zone Euro.",
+      "confidence": 1.0,
+      "source_id": "Theme_f9c841f93a94134a4e484b837202a4153798333567ec2947cd74ae78cf37b30d",
+      "target_id": "Theme_f9c841f93a94134a4e484b837202a4153798333567ec2947cd74ae78cf37b30d"
+    },
+    {
+      "source": "capacité budgétaire",
+      "relation": "MENTIONS",
+      "target": "capacité budgétaire",
+      "evidence": "La réforme de l'Union économique et monétaire est un troisième front indispensable avant la fin de cette mandature, en définissant une feuille de route permettant d'avancer par étape sur l'union bancaire et la mise en place d'une capacité budgétaire favorisant la stabilité et la convergence dans la zone Euro.",
+      "confidence": 1.0,
+      "source_id": "Theme_1759a50459ad7496d60fb78cf52a0cd347a226898e59356b37ea8d946b70e93d",
+      "target_id": "Theme_1759a50459ad7496d60fb78cf52a0cd347a226898e59356b37ea8d946b70e93d"
+    },
+    {
+      "source": "stabilité",
+      "relation": "MENTIONS",
+      "target": "stabilité",
+      "evidence": "La réforme de l'Union économique et monétaire est un troisième front indispensable avant la fin de cette mandature, en définissant une feuille de route permettant d'avancer par étape sur l'union bancaire et la mise en place d'une capacité budgétaire favorisant la stabilité et la convergence dans la zone Euro.",
+      "confidence": 1.0,
+      "source_id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658",
+      "target_id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "source": "convergence",
+      "relation": "MENTIONS",
+      "target": "convergence",
+      "evidence": "La réforme de l'Union économique et monétaire est un troisième front indispensable avant la fin de cette mandature, en définissant une feuille de route permettant d'avancer par étape sur l'union bancaire et la mise en place d'une capacité budgétaire favorisant la stabilité et la convergence dans la zone Euro.",
+      "confidence": 1.0,
+      "source_id": "Theme_5dd492310229e6422561fb6ee7825d44da04ee46fef898be05f57442adb06a51",
+      "target_id": "Theme_5dd492310229e6422561fb6ee7825d44da04ee46fef898be05f57442adb06a51"
+    },
+    {
+      "source": "universités européennes",
+      "relation": "MENTIONS",
+      "target": "universités européennes",
+      "evidence": "Enfin ce qui nous tient ensemble, ce n'est pas seulement une monnaie ou un traité, c'est un sentiment d'appartenance, autrement dit une culture et je pourrais évoquer car c'est essentiel la mise en place des universités européennes qui progresse réellement, ou le déploiement d'Erasmus, mais je veux ici insister sur l'un de vos travaux en cours, essentiel à mes yeux, celui du droit d'auteur, de la protection des créateurs, et de la création artistique.",
+      "confidence": 1.0,
+      "source_id": "Theme_347ada8393d1ce8d5674be755fbef826087fbcb0a7e4c31724e8880bf9946526",
+      "target_id": "Theme_347ada8393d1ce8d5674be755fbef826087fbcb0a7e4c31724e8880bf9946526"
+    },
+    {
+      "source": "Erasmus",
+      "relation": "MENTIONS",
+      "target": "Erasmus",
+      "evidence": "Enfin ce qui nous tient ensemble, ce n'est pas seulement une monnaie ou un traité, c'est un sentiment d'appartenance, autrement dit une culture et je pourrais évoquer car c'est essentiel la mise en place des universités européennes qui progresse réellement, ou le déploiement d'Erasmus, mais je veux ici insister sur l'un de vos travaux en cours, essentiel à mes yeux, celui du droit d'auteur, de la protection des créateurs, et de la création artistique.",
+      "confidence": 1.0,
+      "source_id": "Theme_24922e7cc48797a9115b9884bcbdc915e8ce8ffb6a14a2f099de5fdea859cf4c",
+      "target_id": "Theme_24922e7cc48797a9115b9884bcbdc915e8ce8ffb6a14a2f099de5fdea859cf4c"
+    },
+    {
+      "source": "bouillon de culture",
+      "relation": "MENTIONS",
+      "target": "bouillon de culture",
+      "evidence": "Ce foisonnement qui infuse nos sociétés est le bouillon de culture sans lequel l'Europe ne serait plus ce continent de diversité vitale et de génie créatif.",
+      "confidence": 1.0,
+      "source_id": "Theme_4226998517d93df57a35bab044e64c6d44e3e6d160c1711f1b10e5975d1e2a1f",
+      "target_id": "Theme_4226998517d93df57a35bab044e64c6d44e3e6d160c1711f1b10e5975d1e2a1f"
+    },
+    {
+      "source": "continent de diversité vitale",
+      "relation": "MENTIONS",
+      "target": "continent de diversité vitale",
+      "evidence": "Ce foisonnement qui infuse nos sociétés est le bouillon de culture sans lequel l'Europe ne serait plus ce continent de diversité vitale et de génie créatif.",
+      "confidence": 1.0,
+      "source_id": "Theme_1c9d6b17a57ca2cc229fa48188a87c8960900ce71916c80a548e153bd423a8b5",
+      "target_id": "Theme_1c9d6b17a57ca2cc229fa48188a87c8960900ce71916c80a548e153bd423a8b5"
+    },
+    {
+      "source": "génie créatif",
+      "relation": "MENTIONS",
+      "target": "génie créatif",
+      "evidence": "Ce foisonnement qui infuse nos sociétés est le bouillon de culture sans lequel l'Europe ne serait plus ce continent de diversité vitale et de génie créatif.",
+      "confidence": 1.0,
+      "source_id": "Theme_390fe08a150019c359e9236ecda3419c857b32dd9bf7e245c453645f58418edf",
+      "target_id": "Theme_390fe08a150019c359e9236ecda3419c857b32dd9bf7e245c453645f58418edf"
+    },
+    {
+      "source": "Parlement européen",
+      "relation": "SPOKE_ABOUT",
+      "target": "légitimité européenne",
+      "evidence": "le Parlement européen est à mes yeux le siège de la légitimité européenne, de sa responsabilité et donc de sa vitalité.",
+      "confidence": 1.0,
+      "source_id": "Organization_35045d56b46d30c02ed3c266f7b7e936d04046cd769a6b336980fa0f45af5ecb",
+      "target_id": "Theme_d77fd290ba507b3bc3c4d2471060b111ed61ccade50d7a70819076fa51479025"
+    },
+    {
+      "source": "génération",
+      "relation": "MENTIONS",
+      "target": "démocratie",
+      "evidence": "je veux appartenir à une génération qui aura décidé fermement de défendre sa démocratie",
+      "confidence": 1.0,
+      "source_id": "Theme_ebd6e511ce08f31c6fb10d3a240a4261fa16b7b0e6fc36cf928c9880a64a00b8",
+      "target_id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    }
+  ]
+}

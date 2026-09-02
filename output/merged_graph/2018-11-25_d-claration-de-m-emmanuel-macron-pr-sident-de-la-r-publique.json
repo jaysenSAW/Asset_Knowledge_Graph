@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "concert européen des nations",
+      "id": "Organization_7ea5a9c92ce3a14997f7d8e30680ffd63971e32ce8ded67f43af5056d9913edc"
+    },
+    {
+      "type": "Person",
+      "name": "Michel BARNIER",
+      "id": "Person_6a04ceb187264fb3e394a2093779ba135fd7a574bf1489892666c3bcc42b5af6"
+    },
+    {
+      "type": "Person",
+      "name": "Theresa MAY",
+      "id": "Person_f9d077e1f6a9535d00181f420d1d3be0682f9147ffff792fa0063438a36eb744"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil européen",
+      "id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie de décision",
+      "id": "Theme_8431163cff1cb4fc6456dd60e4e267d523847d21cdb7535ebde23c2a6e3436e7"
+    },
+    {
+      "type": "Theme",
+      "name": "principes",
+      "id": "Theme_97c5aa60bd71c598edaaf76fd6b884a4ae393b0774135332a05c72af7bc82042"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Royaume-Uni",
+      "relation": "LOCATED_IN",
+      "target": "Royaume-Uni",
+      "evidence": "le Royaume-Uni continuera à avoir sa place, aujourd'hui et demain",
+      "confidence": 1.0,
+      "source_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44",
+      "target_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "source": "Royaume-Uni",
+      "relation": "VISITED",
+      "target": "Royaume-Uni",
+      "evidence": "le Royaume-Uni continuera à avoir sa place, aujourd'hui et demain",
+      "confidence": 1.0,
+      "source_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44",
+      "target_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "Royaume-Uni",
+      "evidence": "Il s'agit d'approuver l'accord de retrait du Royaume-Uni de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    }
+  ]
+}

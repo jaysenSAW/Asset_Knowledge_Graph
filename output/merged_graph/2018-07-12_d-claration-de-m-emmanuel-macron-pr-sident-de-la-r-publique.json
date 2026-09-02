@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "alliance Atlantique",
+      "id": "Organization_b80770cfd3e1a8bf254568457a15ab0ba9a5cae4c7f5e771353808604da469ee"
+    },
+    {
+      "type": "Country",
+      "name": "pays de Galles",
+      "id": "Country_27eae02617a3ee5c1a96387005c45da8d251774bc7f642b7c2ff8281501b2437"
+    },
+    {
+      "type": "Country",
+      "name": "Daesh",
+      "id": "Country_e18c8ee5c1bc1fb905a99ce9620acc50a11f84c623d543a18c9c8820f5b50736"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "City",
+      "name": "Bagdad",
+      "id": "City_ad7f3df81479c84e49abbacc68599330c58a17b9afddba8c8a7a9b09677adde4"
+    },
+    {
+      "type": "City",
+      "name": "Irak",
+      "id": "City_5e67e1a21b4a3bfe9a4eca74c85bf96405cb2cb7d4defa31cf7b16de070e31d4"
+    },
+    {
+      "type": "Country",
+      "name": "Amérique du Nord",
+      "id": "Country_9107b2d2dcee13b57baf9bec58bd88fa52ddef173f9c94fde4258eeb9359625e"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "le président américain",
+      "id": "Person_e409ec0f749e949ab8c110b3c7c20f89f5aad1d5a9bad5b1beeeeed5256c3f68"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Lituanie",
+      "id": "Country_257f51b370c269015b5ddeb21595946140d68f6c4557dc04527717e006535460"
+    },
+    {
+      "type": "Country",
+      "name": "Estonie",
+      "id": "Country_6ff0b5ecfc1dfa115390e0dbd3c73b3225e6b079de5c8428b3dad412d2b52103"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Law",
+      "name": "loi de programmation militaire",
+      "id": "Law_33a7ceba1063d109ae9b37ebd3b66d0456905f4041a294907e5c29ef210f7d85"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "City",
+      "name": "Meseberg",
+      "id": "City_0f880e493293c8daef379f305ba658991b0238c6d42d5aa841e8146f6a409469"
+    },
+    {
+      "type": "City",
+      "name": "Conseil européen",
+      "id": "City_a8b74dc0a9e875b88d35b0762447117013194b568be9fc4f17ac7b842dc85df0"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "Allemagne",
+      "id": "Organization_018c9dfa0083ec0dabf7f5fa4d500a808dc906a97b04b4073ac572e7d605d126"
+    },
+    {
+      "type": "Country",
+      "name": "Etats membres de l'Union européenne",
+      "id": "Country_e8ca0864feb7d2c449ff7a49f2d80435b8118b415218453c10e585018a16b6d1"
+    },
+    {
+      "type": "Country",
+      "name": "Etats de la frontière Est",
+      "id": "Country_1f986b85c71ae68a680177f0043a10b01958bd4cac457c1c5de97beb1c82ba5a"
+    },
+    {
+      "type": "Country",
+      "name": "Etats baltes",
+      "id": "Country_f60dcb974abd31c229517cafeef35a621d0f127affa590426360d342bc6fedcd"
+    },
+    {
+      "type": "Person",
+      "name": "le secrétaire général de l'OTAN",
+      "id": "Person_4f210c744a934cdcc08ef03572096f80524d0123fc230b0e6de9cabd80ab34e5"
+    },
+    {
+      "type": "Person",
+      "name": "le Premier ministre belge",
+      "id": "Person_33318699a103f22d634748b29804025ebe67cb7cf448c3ffcc056b055687d856"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "OTAN",
+      "relation": "LOCATED_IN",
+      "target": "Irak",
+      "evidence": "lancement d'une mission de formation de l'OTAN en Irak",
+      "confidence": 1.0,
+      "source_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0",
+      "target_id": "City_5e67e1a21b4a3bfe9a4eca74c85bf96405cb2cb7d4defa31cf7b16de070e31d4"
+    },
+    {
+      "source": "OTAN",
+      "relation": "LOCATED_IN",
+      "target": "Lituanie",
+      "evidence": "la Présence avancée, renforcée de l'OTAN en Lituanie",
+      "confidence": 1.0,
+      "source_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0",
+      "target_id": "Country_257f51b370c269015b5ddeb21595946140d68f6c4557dc04527717e006535460"
+    },
+    {
+      "source": "OTAN",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "Enfin, pour la France, une OTAN crédible, c'est aussi une organisation qui conçoit son élargissement sans précipitation, et en pleine conscience de ses intérêts de sécurité.",
+      "confidence": 1.0,
+      "source_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "OTAN",
+      "relation": "MEMBER_OF",
+      "target": "OTAN",
+      "evidence": "le secrétaire général de l'OTAN",
+      "confidence": 1.0,
+      "source_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0",
+      "target_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    }
+  ]
+}

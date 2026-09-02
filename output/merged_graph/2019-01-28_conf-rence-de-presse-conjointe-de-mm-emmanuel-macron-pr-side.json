@@ -1,0 +1,835 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Président MACRON",
+      "id": "Person_f4bd281b39245e4e3dedd8f3eb5d21de55bf5f9013a6e07fd868ca0fd7a1dda7"
+    },
+    {
+      "type": "Country",
+      "name": "l'Égypte",
+      "id": "Country_755a3c2951c19c25785ecbc898d88ce6cbfa1cdf3e275c8c3d88670aa5b70913"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "Country",
+      "name": "Égypte",
+      "id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française pour le développement",
+      "id": "Organization_fa56e471eef1c6faa3f363ad17a05fba501d51fd7cb6e038163019a6a48f9b65"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération bilatérale",
+      "id": "Theme_a85025fa7cb3acd5858f2da78917f66baced5ed6401b1fa4a4ecad7289baaaf3"
+    },
+    {
+      "type": "Theme",
+      "name": "programme de réformes économiques et sociales",
+      "id": "Theme_716628fa6c99fbc7aef817c45f5d1d40cc85021e647b0fa60d5187fe4a148d14"
+    },
+    {
+      "type": "Organization",
+      "name": "différentes institutions de financement internationales",
+      "id": "Organization_cac8bdc942f70ecc08960d302f70def0bf5b2b80f7c4eb50c5cc7016f573f5b7"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Theme",
+      "name": "développement durable",
+      "id": "Theme_5f1bb520fa5de98e4e876d04cd83bf58d961cf1f5d62571cbb08cbca34482cec"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'Homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Country",
+      "name": "Moyen-Orient",
+      "id": "Country_2de49a8ab091aa1bdb7077eae809b237c5996590ecd7c342f4752b3b30411fb1"
+    },
+    {
+      "type": "Country",
+      "name": "continent européen",
+      "id": "Country_b37c635467d4084b06ad2d0b7eb279047c957556c0b345871ec341fba5226760"
+    },
+    {
+      "type": "Theme",
+      "name": "droit à la vie",
+      "id": "Theme_c72e7951530865680fbe851663c77d84dc4bc19c001bfceaf1a6db158e501feb"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté d'expression",
+      "id": "Theme_acb0e9d3f3d2ce06e5a0aea13fc6160588104e35cb96880d570891860752245a"
+    },
+    {
+      "type": "Theme",
+      "name": "développement",
+      "id": "Theme_9f563f6fb56281bb29449c280e882333dd332f1e1e2aa5ff1e49c8654dc6f9a4"
+    },
+    {
+      "type": "Theme",
+      "name": "nourriture",
+      "id": "Theme_e79b7dd0c73b0af7c77c4c6803836fdf3ebdc9428ee714e7ee67a9e82ff5abde"
+    },
+    {
+      "type": "Theme",
+      "name": "services de santé",
+      "id": "Theme_348fdbf9603e07d4516c341c164096406c41e3e2afa344722c145e4bc70290f1"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement",
+      "id": "Theme_efc3dc97047baa5c3d3ee692ed991601fa0b8b2e5b98fe282efd49cfc58792e6"
+    },
+    {
+      "type": "Theme",
+      "name": "habitat décent",
+      "id": "Theme_9fbfc2831f673eeaa2211d0b55ead3b4aa8e1f4e1f21a79b85e5e309560ae06a"
+    },
+    {
+      "type": "Theme",
+      "name": "droits politiques",
+      "id": "Theme_4420dec1e4eae7e3767eb8202c5782178119bff40645926d271200ed00d4c7c0"
+    },
+    {
+      "type": "Theme",
+      "name": "crimes liés à la discrimination et la xénophobie",
+      "id": "Theme_ecbc33bafb5dab5255d311c8cc4142a78fa988714502ce63843afedf43b6550c"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Union africaine",
+      "id": "Country_b01664d9ea209fa9abca874f9945970ecabfe5ccf7330dc0ed2f868bc1f51684"
+    },
+    {
+      "type": "Person",
+      "name": "le président SISSI",
+      "id": "Person_3df3ea109f92638d9fec80b9b69343cd4690564c024e38fc78cd7b1f0d686e37"
+    },
+    {
+      "type": "Country",
+      "name": "Paris",
+      "id": "Country_d21cfd277f184a25bd7c9d9f7d79d6e8d6a08e43d0e84be78e70c70207a8a132"
+    },
+    {
+      "type": "Country",
+      "name": "Caire",
+      "id": "Country_8ffbab7bc522f7adb4288c947fbc94c33643429d9d407bccc4f298af457d01c4"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme",
+      "id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "type": "Theme",
+      "name": "réconciliation nationale",
+      "id": "Theme_4a4c2e79d0ff60dc71f66e4b5dac2bdd89617487737c30cc741ea8e4ec10e77b"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur SALAMEH",
+      "id": "Person_ceee16e94f8d3c6c8aa65dbd269bdd53c38491f8bb8d3521864f8aeee3873585"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations-Unies",
+      "id": "Organization_4f3ca039c95c6be46cbad8367b5d13621bf7dde1e755557ecfacd2eca26ef807"
+    },
+    {
+      "type": "Organization",
+      "name": "Small Group",
+      "id": "Organization_a8203d0048078e460c52f0b1e6d2e752b9d59154b7a38e1fe1fee650be901f47"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme islamiste",
+      "id": "Theme_a9eaf0302d5db7c86ac3be0f721cdf7888fc1e055956fd5acf13cfc9bdc4c7b2"
+    },
+    {
+      "type": "Theme",
+      "name": "solution politique inclusive",
+      "id": "Theme_f6646f14565a79e882299b18eedae4d8f7a9d302f28c4afe01a7744d2c3deca4"
+    },
+    {
+      "type": "Law",
+      "name": "résolution 2254 du Conseil de sécurité",
+      "id": "Law_fb372cc211c811c9859fd416320fb986602268443200525af2e73e1cb11b1972"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "Palestiniens",
+      "id": "Country_b5734f5d63eae899b91de69982b348700976a7cf95c26a699c92f09b843b5d06"
+    },
+    {
+      "type": "Person",
+      "name": "SISSI",
+      "id": "Person_acb29ad3a6a9954f0b69005dd1a51b58028559cfce76add38635a6463cb2decb"
+    },
+    {
+      "type": "Person",
+      "name": "Abdel Fattah AL-SISSI",
+      "id": "Person_a4b7863cc1e504122ac39d63777c41f33ac1707616733ecea80c2b44b086d812"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Organization",
+      "name": "RATP Dev",
+      "id": "Organization_0607ff445e96eab53b1ac4d0dc90bc49f188befba0c1372855f30f60eca51f63"
+    },
+    {
+      "type": "City",
+      "name": "nouvelle capitale",
+      "id": "City_a373bedcef9bc6e82f6a82ffbafbd7b04aee4c989796bcbe4c5cf411a85a201f"
+    },
+    {
+      "type": "Person",
+      "name": "président SISSI",
+      "id": "Person_4c4d8f1f8a9a8f3a95b874aad82358c58f50a60086d3fd37b02ea4d25879da52"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Organization",
+      "name": "l'université française d'Egypte",
+      "id": "Organization_03cc1a2772f0eee55c7be56b486452d12de600183bccca79382ffe052f5c8f1e"
+    },
+    {
+      "type": "Person",
+      "name": "le président SISSY",
+      "id": "Person_3146ffd3f78488991750b32562fb18979dfedd567a1fab7703bbb354305c1603"
+    },
+    {
+      "type": "City",
+      "name": "Abou Simbel",
+      "id": "City_1567174e017993972816d7c0518cf0eb208bc811727c192b6d44cb257321de84"
+    },
+    {
+      "type": "Organization",
+      "name": "Cité des arts et de la culture de la nouvelle capitale",
+      "id": "Organization_148ce7d31f7c5be18daa73eae2cd2c9ced4d76b549d92ce9fc5cda2541c0d22f"
+    },
+    {
+      "type": "Person",
+      "name": "Intervenant non identifié",
+      "id": "Person_00731a77702a321223e22dadf4432c738815f1c445a6eaf7644b4945c98ce640"
+    },
+    {
+      "type": "Person",
+      "name": "le président français",
+      "id": "Person_283fc256c3d0452d09dfc842e616fcd35635b44f589b0a1a956d6af6a0fb7313"
+    },
+    {
+      "type": "Organization",
+      "name": "la République",
+      "id": "Organization_e41bd6d4bc20385559e93b64f4c300ddc29c99329a92c535c8ad8cb846bfc167"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "société civile",
+      "id": "Theme_4ba7aa942ccd795edd1260d2b484f3fbe0834828833209e75aa0f515937ce888"
+    },
+    {
+      "type": "Theme",
+      "name": "considération",
+      "id": "Theme_1ce5f635cefd05aef61fd28a0d024f10eb1f2daff0a1b886f95452b28f48cf7b"
+    },
+    {
+      "type": "Theme",
+      "name": "éclairer le monde",
+      "id": "Theme_8ae1895f33e65a835d02be1f97630ee636a2f5485490a7090855a12fea817755"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Theme",
+      "name": "différences",
+      "id": "Theme_d282dd1d33264358689ec6672c8c07cf98fd479e4fb0831c8a479c2f2e3067d8"
+    },
+    {
+      "type": "Theme",
+      "name": "défis sécuritaires",
+      "id": "Theme_26df4b9f40907a9b13e7cbf0afc1c1280a254fdb05e02813c7ad0f000a415973"
+    },
+    {
+      "type": "Theme",
+      "name": "rebâtir un Etat",
+      "id": "Theme_eb19a4282de1c588b64287fabce1e149c84ac1d8770aaa0fc07570301fab3c9b"
+    },
+    {
+      "type": "Theme",
+      "name": "développer une économie de tourisme",
+      "id": "Theme_a1ef32e42a35027d6fb0b6b5367aab63b026726598ce0dc2d28698fdeebed7a1"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de culte",
+      "id": "Theme_d25e7ce6fc0b51c23d45cb519eee66e13ff1010ae79e25a89f1377f798f0624c"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de croire comme de ne pas croire",
+      "id": "Theme_0d76062c1217037d6d8e3fbc13af6a290fe4eb3117a32b7f6d0505b448d4dc83"
+    },
+    {
+      "type": "City",
+      "name": "la nouvelle capitale",
+      "id": "City_296a71fd1420c07f9e126264a2ca67127b2f153a3e84872b406cbdc420795fa3"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Rémi BAUDOT",
+      "id": "Person_bf71c447473cb39d1e7b66d296f8df5cf97ab532619f940e7af8ccb5f85272e9"
+    },
+    {
+      "type": "Person",
+      "name": "MACRON",
+      "id": "Person_0123c6440fe5aa6b7871df7e99ee28112b6753541af6940c57692410e426c9ca"
+    },
+    {
+      "type": "Person",
+      "name": "AL-SISSI",
+      "id": "Person_b241747c49c88df64c6deb3bf8ce7017264e2943ea7c755085b0568813641e37"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe 1",
+      "id": "Organization_a15cc4017060c8047f63febd7d0ec38e810ea2b06c2a8e6d7b0ccfe24624f1f0"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "région perturbée",
+      "id": "Theme_7c78b0028f4bf3802b82ca3a24f3056e986e990b0f8801d0524863d644d3972e"
+    },
+    {
+      "type": "Country",
+      "name": "Egypt",
+      "id": "Country_355990e2e13e99b32c866e97fa0c335ddda6959ea86db963f3c2e43df00f65c8"
+    },
+    {
+      "type": "Organization",
+      "name": "ONU",
+      "id": "Organization_8fe3e517167eebcfcb1c541c20f6aeb0a346c6c70b461e4d8ec8a469cdf70167"
+    },
+    {
+      "type": "Theme",
+      "name": "extrémisme",
+      "id": "Theme_04a5ca68e06a5a99d48caa71197568c87ea1d25a90c80f71fb7b95e4b9f351ac"
+    },
+    {
+      "type": "Theme",
+      "name": "blogueurs",
+      "id": "Theme_c22c9dea0f80108e4f7039c29ce50d028b75c3eb5abddf853e5a51f6689f9552"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme économique",
+      "id": "Theme_36869712b24fce3329b9dcbda61a5bb824c7046c7b55b3dded99aa7146c43bfe"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme sociale",
+      "id": "Theme_9364e3971066d5dace7570ec4c8f37b28df9052e7d9697fe6ae02723e8591bce"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme politique",
+      "id": "Theme_02c2439cf2986387a84eca5fd21e38194dd40522fbd7c2d215506d2a5a862cfa"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme religieuse",
+      "id": "Theme_5db68f30856aa49272f47075c3a5175885fbcb11d92a866c0acb5ca315343fe5"
+    },
+    {
+      "type": "Theme",
+      "name": "Egyptien chrétien",
+      "id": "Theme_17970b7d23c9787598d3141cc7d4f7aa2b26a994359ea98aadcbdfca2c0ff85e"
+    },
+    {
+      "type": "Theme",
+      "name": "Egyptien musulman",
+      "id": "Theme_2ae9c3b1f0831e580b6a54882805c2e67e3d92f200e4e8cecdb9f4860b4cd85b"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyenneté",
+      "id": "Theme_299e26433fd038aaeb6d9c98e39f7323f3f780a7ec7bf9addad3444e3982be18"
+    },
+    {
+      "type": "Theme",
+      "name": "droits civils et politiques",
+      "id": "Theme_b49657393be16ae1ae01c01e0bcdf828fb1b36a33f13eff667894fbcc6b76276"
+    },
+    {
+      "type": "Theme",
+      "name": "pratiques exécutées",
+      "id": "Theme_2fb623658353d8b446dc8a169b7d5e4b8e5d708b14f1f204d98551a6c144305c"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "soins médicaux",
+      "id": "Theme_a96e21ce7590fc57dc2ba772fb9df1ae534a90ca9806511c15251ac8fbfdc52a"
+    },
+    {
+      "type": "Organization",
+      "name": "l'État égyptien",
+      "id": "Organization_7dc50e08b32009f46c8c7f6c082d4b3a2cbfaca06010b1d204287e48a4c95f30"
+    },
+    {
+      "type": "Theme",
+      "name": "honnêteté",
+      "id": "Theme_e1d3b855923c69e61ef74155bbd0dab341d8ea06da5984dda8105b18aa9b6131"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité",
+      "id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "type": "Theme",
+      "name": "ONG",
+      "id": "Theme_14962eaf3fda8bdc91d7cf0c65620567cb96019367a9e6a3a7c5c988497ace92"
+    },
+    {
+      "type": "Theme",
+      "name": "hépatite C",
+      "id": "Theme_bc094e045f57583a367dbbd67ce077af789c4e7795720d7da973dcda9a8ace25"
+    },
+    {
+      "type": "Organization",
+      "name": "ONG",
+      "id": "Organization_3e1586cef038ea96d5ab3c5a2d6496c339bffcc013fa18af180a38657091796f"
+    },
+    {
+      "type": "Theme",
+      "name": "opinions des personnes",
+      "id": "Theme_019e0c3900a071c067114cdbb271df0099c98f57c9c929a2bbf70e48b53b9700"
+    },
+    {
+      "type": "Theme",
+      "name": "destruction de l'État",
+      "id": "Theme_29091155c6319533b628f383b33657978f7ec72bfe6c4843cdc7ee7cac0e48fa"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président SISSI",
+      "id": "Person_65851db8972a989e71bd3306582db0e450f4b0b4b5bf0453c5f2269e48c0fb82"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Country",
+      "name": "Notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de manifester",
+      "id": "Theme_d9d3707394684c00a3107a7a624ea71410ca88073fc3175a326146874016b975"
+    },
+    {
+      "type": "Theme",
+      "name": "colère de protestation",
+      "id": "Theme_2b65b29e513a0ffcd151350c01b848da8571bbb8a59565844ff7c3542dabea44"
+    },
+    {
+      "type": "Theme",
+      "name": "violence",
+      "id": "Theme_2e88abc315f2f0443a0e5b9fd8eae9a399f515b08101974ade6d7c352b827448"
+    },
+    {
+      "type": "Theme",
+      "name": "actes de violence",
+      "id": "Theme_f5afa0dcb5b551377b2a7ac1e08c64ded042a3390966360766280a482fd3a2ba"
+    },
+    {
+      "type": "Person",
+      "name": "ces groupes d'activistes extrêmes",
+      "id": "Person_5c0ea3cd4538a279c91a27430bb0ae6c2afd3433acbfc95fcf010fa5be5cb16f"
+    },
+    {
+      "type": "Person",
+      "name": "Mathieu COACHE",
+      "id": "Person_74582b90228269d4ce46d9d18b89f5b49aca6fd3101b0f2be3c5a0dd6031aa45"
+    },
+    {
+      "type": "Organization",
+      "name": "Rafales",
+      "id": "Organization_691cea320898c36bbd25a089ce4555b14f2a93703dff6ca29b132bde13383d78"
+    },
+    {
+      "type": "Law",
+      "name": "loi",
+      "id": "Law_485a9dc7d96da743855079c7a36cf38d2dd611ec76c37030d236a6e1748b6bcc"
+    },
+    {
+      "type": "Law",
+      "name": "Constitution",
+      "id": "Law_a7536b182c8f1ab36950ce62927d288ce9857863aa1db551572b9fc950581807"
+    },
+    {
+      "type": "Theme",
+      "name": "manifestation",
+      "id": "Theme_5f71336aba77b07c738bc2c119e22d96cd77905a1715a8fc3db0d3f42b799a89"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "anarchie",
+      "id": "Theme_9ecc97127c9518dcd943059e4eb4b3e554012848ad143fecc75f6163b6c45b81"
+    },
+    {
+      "type": "Theme",
+      "name": "éléments intégristes ou terroristes",
+      "id": "Theme_258b0089279e693640ab6f7886c6ab3e6e6c4f6ecb34dee6fe3e1fff5c5754e1"
+    },
+    {
+      "type": "Theme",
+      "name": "loi",
+      "id": "Theme_aaa751cd5b857da1d5f067b90439cca5af7e59784eb0537f6c5b647db27ec7a1"
+    },
+    {
+      "type": "Theme",
+      "name": "droit de manifestation",
+      "id": "Theme_60a740c3bfb399060eaedccce20146da17d66e83fbfc3e2bfcd975b976b4abe7"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "l'Égypte",
+      "relation": "ALLIED_WITH",
+      "target": "la France",
+      "evidence": "liens d'amitié et de partenariat stratégiques entre l'Égypte et la France",
+      "confidence": 1.0,
+      "source_id": "Country_755a3c2951c19c25785ecbc898d88ce6cbfa1cdf3e275c8c3d88670aa5b70913",
+      "target_id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "source": "Égypte",
+      "relation": "LOCATED_IN",
+      "target": "Égypte",
+      "evidence": "l'Égypte accueille les (-Inaudible -00:02:27) égyptiennes et leur participation aux projets nationaux géants",
+      "confidence": 1.0,
+      "source_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c",
+      "target_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "source": "Égypte",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "l'augmentation du volume d'échanges commerciaux et les investissements pour refléter le poids et les liens stratégiques et politiques entre l'Égypte et la France",
+      "confidence": 1.0,
+      "source_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Égypte",
+      "relation": "VISITED",
+      "target": "Égypte",
+      "evidence": "l'Égypte accueille les (-Inaudible -00:02:27) égyptiennes et leur participation aux projets nationaux géants",
+      "confidence": 1.0,
+      "source_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c",
+      "target_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "source": "Égypte",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "outre les relations entre l'Égypte et l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "source": "Égypte",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "les occasions pour entamer une coopération à trois entre l'Égypte et la France",
+      "confidence": 1.0,
+      "source_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "Small Group",
+      "evidence": "La France et l'Egypte font en effet toutes deux parties du Small Group qui rassemble 7 pays autour de l'objectif de trouver une solution politique durable.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_a8203d0048078e460c52f0b1e6d2e752b9d59154b7a38e1fe1fee650be901f47"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Egypte",
+      "evidence": "La France et l'Egypte font en effet toutes deux parties du Small Group qui rassemble 7 pays autour de l'objectif de trouver une solution politique durable.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "source": "Syrie",
+      "relation": "LOCATED_IN",
+      "target": "Nations-Unies",
+      "evidence": "Nous avons convenu que dans le contexte actuel, et alors que le régime syrien n'a donné aucune indication de vouloir engager une discussion politique, la perspective de normalisation ou de banalisation de la situation serait irresponsable. Notre position est bien de continuer à oeuvrer conformément justement à ce qui a été acté aux Nations-Unies dans un processus de transition constitutionnelle et politique.",
+      "confidence": 1.0,
+      "source_id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594",
+      "target_id": "Organization_4f3ca039c95c6be46cbad8367b5d13621bf7dde1e755557ecfacd2eca26ef807"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Sissi",
+      "evidence": "j'ai réitéré au président SISSI la volonté de la France d'accompagner la réussite de ces réformes, et pour les soutenir de mobiliser des financements.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Person_acb29ad3a6a9954f0b69005dd1a51b58028559cfce76add38635a6463cb2decb"
+    },
+    {
+      "source": "Abdel Fattah AL-SISSI",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "lorsque Monsieur le président Abdel Fattah AL-SISSI était en visite en France",
+      "confidence": 1.0,
+      "source_id": "Person_a4b7863cc1e504122ac39d63777c41f33ac1707616733ecea80c2b44b086d812",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Jean-Rémi BAUDOT",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Jean-Rémi BAUDOT pour Europe 1 à Paris.",
+      "confidence": 1.0,
+      "source_id": "Person_bf71c447473cb39d1e7b66d296f8df5cf97ab532619f940e7af8ccb5f85272e9",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "AL-SISSI",
+      "relation": "ALLIED_WITH",
+      "target": "Abdel Fattah AL-SISSI",
+      "evidence": "Abdel Fattah AL-SISSI (traduction de l'arabe)",
+      "confidence": 1.0,
+      "source_id": "Person_b241747c49c88df64c6deb3bf8ce7017264e2943ea7c755085b0568813641e37",
+      "target_id": "Person_a4b7863cc1e504122ac39d63777c41f33ac1707616733ecea80c2b44b086d812"
+    },
+    {
+      "source": "Egypt",
+      "relation": "LOCATED_IN",
+      "target": "Egypt",
+      "evidence": "l'Etat égyptien",
+      "confidence": 1.0,
+      "source_id": "Country_355990e2e13e99b32c866e97fa0c335ddda6959ea86db963f3c2e43df00f65c8",
+      "target_id": "Country_355990e2e13e99b32c866e97fa0c335ddda6959ea86db963f3c2e43df00f65c8"
+    },
+    {
+      "source": "Egypte",
+      "relation": "SUPPORTS",
+      "target": "droits de l'homme",
+      "evidence": "Est-ce que cela, lorsque je fais cela pour 120 000 personnes, pour rendre sa famille satisfaite, est-ce qu'ainsi l'Egypte n'a pas pris en considération les droits de l'homme",
+      "confidence": 1.0,
+      "source_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c",
+      "target_id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "source": "Egypte",
+      "relation": "SPOKE_ABOUT",
+      "target": "Egyptien chrétien",
+      "evidence": "Aujourd'hui, en Egypte, si on dit un Egyptien chrétien ou un Egyptien musulman, c'est considéré comme une offense, c'est inacceptable chez nous.",
+      "confidence": 1.0,
+      "source_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c",
+      "target_id": "Theme_17970b7d23c9787598d3141cc7d4f7aa2b26a994359ea98aadcbdfca2c0ff85e"
+    },
+    {
+      "source": "Egypte",
+      "relation": "SPOKE_ABOUT",
+      "target": "Egyptien musulman",
+      "evidence": "Aujourd'hui, en Egypte, si on dit un Egyptien chrétien ou un Egyptien musulman, c'est considéré comme une offense, c'est inacceptable chez nous.",
+      "confidence": 1.0,
+      "source_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c",
+      "target_id": "Theme_2ae9c3b1f0831e580b6a54882805c2e67e3d92f200e4e8cecdb9f4860b4cd85b"
+    },
+    {
+      "source": "Mathieu COACHE",
+      "relation": "VISITED",
+      "target": "Egypte",
+      "evidence": "Mathieu COACHE, BFMTV. Une question pour monsieur MACRON. Avez-vous déterminé si des blindés ou d'autres armes vendues par la France à l'Egypte ont été utilisées dans des opérations de maintien de l'ordre contre le peuple égyptien",
+      "confidence": 1.0,
+      "source_id": "Person_74582b90228269d4ce46d9d18b89f5b49aca6fd3101b0f2be3c5a0dd6031aa45",
+      "target_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "France",
+      "evidence": "Elles sont toutes passées dans le cadre des procédures prévues par la France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Egypte",
+      "relation": "SPOKE_ABOUT",
+      "target": "manifestation",
+      "evidence": "la manifestation, la manifestation ici en Egypte c'est un droit stipulé par la loi et la Constitution ne pourra pas empêcher cela",
+      "confidence": 1.0,
+      "source_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c",
+      "target_id": "Theme_5f71336aba77b07c738bc2c119e22d96cd77905a1715a8fc3db0d3f42b799a89"
+    },
+    {
+      "source": "Égypte",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "renforcer la coopération culturelle et d'enseignement entre l'Égypte et la France",
+      "confidence": 1.0,
+      "source_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

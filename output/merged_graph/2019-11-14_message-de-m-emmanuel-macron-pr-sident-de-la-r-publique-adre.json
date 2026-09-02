@@ -1,0 +1,300 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Dormans",
+      "id": "City_127d499527cfde6cc27c5377620a1d79c4df07f516d472f564e368f2b59d4212"
+    },
+    {
+      "type": "City",
+      "name": "Epernay",
+      "id": "City_9aaef7ec80945e22ad55c5a6f29cd7e270ed5b518612a9921b60695565761c50"
+    },
+    {
+      "type": "City",
+      "name": "Conseil municipal",
+      "id": "City_b4d4df5d3a20b7548ee82b5251b1d3df335180cccd628b7a5af2f9471ec2c97f"
+    },
+    {
+      "type": "City",
+      "name": "rendez-vous avec l'ensemble des services de l'État",
+      "id": "City_744712ec92e01fdfb44802cf3cff92a1cef489385b47448e56bbbf359c417242"
+    },
+    {
+      "type": "Person",
+      "name": "médecins",
+      "id": "Person_be7dae9c81f3b760dd3ef288b6c50809c553ac31abfbf6884573ea6cee10ef7b"
+    },
+    {
+      "type": "Person",
+      "name": "sages-femmes",
+      "id": "Person_0713efa0e772724e35399db13ff9f359b5db40a9513e3707e53224d247f02a74"
+    },
+    {
+      "type": "Person",
+      "name": "infirmiers",
+      "id": "Person_cc98c07b8d49cbdc6a958a4f24396e2f17ff4e98ae709c491f461e4da2265467"
+    },
+    {
+      "type": "Person",
+      "name": "infirmières",
+      "id": "Person_66e5e373b8d7d0cf9553f1ccc9a206df48fb0e0cf892660053cadff1d96e9181"
+    },
+    {
+      "type": "Person",
+      "name": "aides-soignants",
+      "id": "Person_3ba03bec96f28cffc1a714976c708fe3ce99d71fd3c2358b8164c56ce49237a4"
+    },
+    {
+      "type": "Person",
+      "name": "aides-soignantes",
+      "id": "Person_4026ecedc77ac3bc1cbc840ec6408cab641876ed29e208383741b373fb24d779"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "postes non-pourvus",
+      "id": "Theme_20acc856a53d6273e84ece1b7b3921ff0005fbd1ca6737676372dd6d5285be4f"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité",
+      "id": "Theme_6e810685c69ad3ee9245c969e1dfdc105f56849050a2192c7b2a5c21535528f3"
+    },
+    {
+      "type": "Theme",
+      "name": "lits",
+      "id": "Theme_52f4cc887d03abc2bc5f951c9f3129e26d1b1d54d347e5f0dc3ad9fb3d241d5b"
+    },
+    {
+      "type": "Theme",
+      "name": "médecins",
+      "id": "Theme_8a538d7c7f7c7155eb2b555969d906c92bb91e14c49e8bf6f1dab0688e532a9b"
+    },
+    {
+      "type": "Theme",
+      "name": "tendance",
+      "id": "Theme_5fd6ce76cb385393fcb901cdaafa09317195554b9ab1d7ffeb5a33ddc5de5e58"
+    },
+    {
+      "type": "Theme",
+      "name": "spirale déflationniste",
+      "id": "Theme_47a6c664414ed661d1f1934861a028af5e69be7153f9a5a0f5ae80e75b31f061"
+    },
+    {
+      "type": "Theme",
+      "name": "tarifs hospitaliers",
+      "id": "Theme_5f5d29d2b7e4752aa1d6ea9eec13c3f7e841ad4ea16014ada97b2997d9dd9d15"
+    },
+    {
+      "type": "Theme",
+      "name": "honnêteté collective",
+      "id": "Theme_f07ed794939c876c30e8a7122bf7b2abe39e9bade8a1689fe5af6da40c8d3b6d"
+    },
+    {
+      "type": "Theme",
+      "name": "numerus clausus",
+      "id": "Theme_a948266ee04c2cbd2b900fc5c2ff5ba99a14fd8b4fdb79e7d059080730d8e2e9"
+    },
+    {
+      "type": "Theme",
+      "name": "manques de médecins",
+      "id": "Theme_5de135d38882569701842a55e2b015a94130cab87101265dffba61f6e6b7868a"
+    },
+    {
+      "type": "Theme",
+      "name": "insuffisances",
+      "id": "Theme_eca37dfb2eb6422504b7611492dc350bc8bb00f6a69118b1f259839891ba984b"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Theme",
+      "name": "temps médical",
+      "id": "Theme_fa28b071814329240d3af758ecf3b7ef574826969a4ecbaafd33714455e6cf84"
+    },
+    {
+      "type": "Organization",
+      "name": "hôpital public",
+      "id": "Organization_f315a50b9160e980265117a9582db11a685050168cdc844ba5f388049ab0a72d"
+    },
+    {
+      "type": "Person",
+      "name": "infirmière",
+      "id": "Person_3e5f3220e73581751b682254529babbef0abaecb0fa82e13f0987752305e0f87"
+    },
+    {
+      "type": "Person",
+      "name": "aide-soignant",
+      "id": "Person_0c87b7f74a34b76514d9370d1bef350b34b747b357bf13138c790bac3d495bba"
+    },
+    {
+      "type": "Person",
+      "name": "médecin",
+      "id": "Person_0b04c22e3a6276e62c064a8787fe9a123a2bdd6464fd9b27c904bb4f2c7eb00f"
+    },
+    {
+      "type": "Theme",
+      "name": "hôpital",
+      "id": "Theme_d420f2bb9f5a09610e3b110f4c52800854e6b339d3213f84c5834a8537d4a774"
+    },
+    {
+      "type": "Theme",
+      "name": "système de santé",
+      "id": "Theme_2657aebfbbfb5694ad4f18f7234ec7531dfc35b68b63242c708fb8b908b3b060"
+    },
+    {
+      "type": "Theme",
+      "name": "système de santé et de recherche en matière médicale",
+      "id": "Theme_6f73bfee4ef226f961d54948e2d70f869b1a38863855790878dfaafc00f17f88"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de la Santé",
+      "id": "Organization_44fc5aef1633481cc5d5f3e676ed0565b2c1413d752c5abca9799b6a71688462"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "budgets de personnel",
+      "id": "Theme_16dbd3f9d3b3c83eaa5a6cc65bf666c02dd349262ea767fc7875896d8e1e7340"
+    },
+    {
+      "type": "Theme",
+      "name": "conditions de travail",
+      "id": "Theme_216aa5bb4ef0f659e46bccbac16308fd5c845abd1f38958510f22fe8f53286bc"
+    },
+    {
+      "type": "City",
+      "name": "Mulhouse",
+      "id": "City_0fe0094aebde69d58d2dec6f9908158c0dfcd12dadd8a2c2adb8d20d1393ab4a"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Île-de-France",
+      "id": "City_6349e60746c9118a2ba6922d1bbbd1c4062d83cbfd4dea802d514820c7d9dd69"
+    },
+    {
+      "type": "Theme",
+      "name": "visibilité",
+      "id": "Theme_f59a7fbc64425457d75c34d0bff557a4fa6deb3b2e067b747f711e04c9e5e6db"
+    },
+    {
+      "type": "Theme",
+      "name": "réorganisation",
+      "id": "Theme_c638931dbba50906473ab443cfee8b7d771fc1831e88c1c3f8fa110751b41e5f"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance",
+      "id": "Theme_b922336e378de1f3bd3c36e9805efd63ad949f8fbff73adbfc2b3826e811ee6a"
+    },
+    {
+      "type": "Theme",
+      "name": "personnels de santé",
+      "id": "Theme_1f79e2752318abe76eb3c936ddec5ba6adcc68f307292079edef70bb7d6cd5bd"
+    },
+    {
+      "type": "Organization",
+      "name": "secteur privé non lucratif",
+      "id": "Organization_22901c3f5c54995a2c8f2fd1ea7132f74e5d5bb0cf492c281d07dac0794af509"
+    },
+    {
+      "type": "Organization",
+      "name": "secteur privé",
+      "id": "Organization_3745e8a399783e7a84a94aac910ff2ad210aa46fde84b6dfe1092fdd58c457dd"
+    },
+    {
+      "type": "Organization",
+      "name": "structures de santé",
+      "id": "Organization_3c7c28dfdf6b5b7151f932227fdd06644f45ec09e16092b70620ad92184be3b8"
+    },
+    {
+      "type": "Organization",
+      "name": "médecine libérale",
+      "id": "Organization_79bbdb98493f1cead826cedf6583ffc7c1235793c3303cae6e71dd57a9fd1a8f"
+    },
+    {
+      "type": "Organization",
+      "name": "système de santé français",
+      "id": "Organization_f5497d6abe99c1d0d245f77592d9a274f186e99fb06e5d81ac9eb0f6ae236756"
+    },
+    {
+      "type": "Organization",
+      "name": "nos personnels soignants",
+      "id": "Organization_991b4198096e817b74121795f09fb01bc03cdfc83241a02b860aa3181fb65101"
+    },
+    {
+      "type": "Organization",
+      "name": "l'hôpital public",
+      "id": "Organization_d1a926ac7971359b71227f0d4efbefdc293de2bedee3afe3148dca170a749833"
+    },
+    {
+      "type": "Theme",
+      "name": "la République",
+      "id": "Theme_65489d944ac2a1c1e40c9c1c5dc2e9cc82d8c33348302ba099e08e4c0255f83f"
+    },
+    {
+      "type": "Theme",
+      "name": "notre force",
+      "id": "Theme_60d4a8bc16a0582727d5ec0921031efa0686ffe6fc731aa9e521c9e2b7e1405c"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": []
+}

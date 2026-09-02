@@ -1,0 +1,114 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Theme",
+      "name": "Plan d'action global commun",
+      "id": "Theme_418d051367aaff2a35ecacb794132e7426baf42b048c66c277678dc50a4edfeb"
+    },
+    {
+      "type": "Theme",
+      "name": "Joint Comprehensive Plan of Action - JCPoA",
+      "id": "Theme_637af48f13a617c7c532db34a8738e6d6f4d4fa19378651d2650663de86d37f2"
+    },
+    {
+      "type": "Theme",
+      "name": "programme nucléaire iranien",
+      "id": "Theme_e9af4a978a4d0816d74ba207256ce4817daeb7566911ed4d9e95aeb7f53dde77"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité des Nations unies",
+      "id": "Organization_6bf65c40c2dc11306e0f78e403029002e380728d5788808146d88e7f36b63686"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence internationale de l'énergie atomique",
+      "id": "Organization_78ed3c484bf6572eedefdc48061346b84394cdc600842b19358f482401484f1e"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Organization",
+      "name": "E3",
+      "id": "Organization_d0ce557ccd6c847290d5a6e761d3594b7b50fc8c2258430e5b3efd12b575bf21"
+    },
+    {
+      "type": "Law",
+      "name": "JCPoA",
+      "id": "Law_cd9d8b356cf6d3818412114e08cbf5d6222ecd78d96784758afa8eeb031792c6"
+    },
+    {
+      "type": "Law",
+      "name": "Traité sur la non-prolifération des armes nucléaires (TNP)",
+      "id": "Law_b5d588eaabea90ed553ced659c9652e270d2ba521e1cccafed62c5b2621119ee"
+    },
+    {
+      "type": "Organization",
+      "name": "AIEA",
+      "id": "Organization_cd7424fcb3ea6cc3a41866846bfad166788cebf275a4f3495c7c5ad5988a76cd"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Irak",
+      "id": "Country_99792b4385035d3a51b12170d270a96604af5ab8e0945708f2a19bcc0e41b04c"
+    },
+    {
+      "type": "Country",
+      "name": "Yémen",
+      "id": "Country_de51d54261cb8914709944f249dba3ae2116dddd8c4ef0b43eb863a17255b45e"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Allemagne",
+      "evidence": "C'est avec regret et préoccupation que nous, dirigeants de la France, de l'Allemagne et du Royaume-Uni, prenons note de la décision du Président Trump de procéder au retrait des Etats-Unis d'Amérique du Plan d'action global commun (ou Joint Comprehensive Plan of Action - JCPoA).",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Royaume-Uni",
+      "evidence": "C'est avec regret et préoccupation que nous, dirigeants de la France, de l'Allemagne et du Royaume-Uni, prenons note de la décision du Président Trump de procéder au retrait des Etats-Unis d'Amérique du Plan d'action global commun (ou Joint Comprehensive Plan of Action - JCPoA).",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    }
+  ]
+}

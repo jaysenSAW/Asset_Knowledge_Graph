@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Stefan",
+      "id": "Person_ef70371bc8f145a4a0dd7109a4e462d744ee166f7c8c62afc3aa32c2f2e57fb1"
+    },
+    {
+      "type": "Country",
+      "name": "nos deux pays",
+      "id": "Country_2bd470f2122568640e3762e9bf14400458b6f8d21f909f537011d97d9af8f053"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le réchauffement climatique",
+      "id": "Theme_87fcffeb0b095d638b1ce229a807c21b51759f54208553ace6ac1f29815655a0"
+    },
+    {
+      "type": "Theme",
+      "name": "engagements publics et privés",
+      "id": "Theme_e9e9a298eb359b8a95cd7fc79ac3f5d1b9455ef507bc7bf8897e608b1587877e"
+    },
+    {
+      "type": "Event",
+      "name": "signer une feuille de route commune",
+      "id": "Event_28bdbdae27cd4b21ebd33044f49bca9b6085036c24729187377aa17fd2fc4cc8"
+    },
+    {
+      "type": "Event",
+      "name": "sommet des deux ans d'anniversaire de l'Accord de Paris",
+      "id": "Event_c639ec337c49150020eff455aea75b35f4fb5fc9c3ce04abf02505274848dddf"
+    },
+    {
+      "type": "Country",
+      "name": "Suède",
+      "id": "Country_f0680f074258c0cbb263830557969af01c50840b9cdfd249ff5c18418896a4ff"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Elysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "Country",
+      "name": "la Suède",
+      "id": "Country_3595e900a67737c43e3e6b498f136c0a12355c13f5a6e54b1c7f1f52b72e4e72"
+    },
+    {
+      "type": "City",
+      "name": "Mali",
+      "id": "City_4f79c841ef037402d7aad343addb0a62403378d74d261ea1c268f43d58eca66d"
+    },
+    {
+      "type": "Organization",
+      "name": "Minusma",
+      "id": "Organization_ca97eba974d956f03896c8dba73f0ff213915a352452accbe7ee16ab48ee356a"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité",
+      "id": "Organization_baa57920608812f1a905ee605e7e26f62ded68ec5607802bf97048747ea47f2f"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliance pour le Sahel",
+      "id": "Organization_c3876035d5822097fdf46465bdd2616eb45ed52ea9a91f05a7f60ad8705ce7bc"
+    },
+    {
+      "type": "City",
+      "name": "Tallinn",
+      "id": "City_ed4874b35651ea9744d68c14b173e10188e06d6bcd4d244d019cdceeb23f7a45"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "City",
+      "name": "Göteborg",
+      "id": "City_ad945ac3651407d753d1ac7a287a62151310460853dd3078ff25e6cdc35d5918"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Suède",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "La Suède a choisi sa voie européenne et il en est ainsi de nombre de nos États membres",
+      "confidence": 1.0,
+      "source_id": "Country_f0680f074258c0cbb263830557969af01c50840b9cdfd249ff5c18418896a4ff",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Premier ministre",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "au Premier ministre de sa visite aujourd'hui à Paris",
+      "confidence": 1.0,
+      "source_id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "soldats du feu",
+      "id": "Organization_137e26643972db514e9db6701283ab827f715c541ae366409d55b05e36560a6f"
+    },
+    {
+      "type": "Organization",
+      "name": "policiers",
+      "id": "Organization_29f7b170b9b51ef4b73ad455c2d7b7b464617edcef8e00b495abd08bee51658c"
+    },
+    {
+      "type": "Organization",
+      "name": "agents du diocèse",
+      "id": "Organization_071a6d2397cd4648c2dbbf534dd3de7b42537ca5876af17a3b3308a970d1f499"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Organization",
+      "name": "Mairie de Paris",
+      "id": "Organization_8489e1d64f33987e084c9765a0a4041547df6774f3f1ad7469dad69ab2cafaa1"
+    },
+    {
+      "type": "Organization",
+      "name": "sécurité civile",
+      "id": "Organization_e4b46a9de4af23e7c994ea55bf57a84132eaded6de1bc7aa45afbbcb2801f8f4"
+    },
+    {
+      "type": "Organization",
+      "name": "Croix-Rouge",
+      "id": "Organization_01fecaa163d7e056b48092fa26c2fd9328fce93f0766ba87ba0a0cf3ddd755fb"
+    },
+    {
+      "type": "Organization",
+      "name": "340 000 donateurs du monde entier",
+      "id": "Organization_df27e93294107152cc2bfef7d991a94f204ba36edad75cbdbd179845fde1d986"
+    },
+    {
+      "type": "Theme",
+      "name": "résilience",
+      "id": "Theme_ae0698b8a130cd1cd5df43fe5e3e189eb0c16712f2fa72aeeed81640c8d2a14e"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité à surmonter les épreuves",
+      "id": "Theme_28ba23c909f7adb015228ffa2681ffc48fe7a94b5a1fc7e07b747debf9856be8"
+    },
+    {
+      "type": "Theme",
+      "name": "se relever",
+      "id": "Theme_b9f27de00d8bd4106698b95595fae9a22a4b9efdd4160e8fc975502daaf4087e"
+    },
+    {
+      "type": "Theme",
+      "name": "temps de la reconstruction",
+      "id": "Theme_2f7e3194ec4e5b1277e928d6a9b6da1a9af5cb1f73fa67f41148a91a348d7716"
+    },
+    {
+      "type": "Theme",
+      "name": "temps de l'épreuve et de l'émoi",
+      "id": "Theme_272534ce80c0cc4ef29cdfec8ba962c118b28a21964369b1c4cd0571d238a19e"
+    },
+    {
+      "type": "Theme",
+      "name": "temps de la réflexion",
+      "id": "Theme_7e7ddbe6db9f1c4a03684d583a7bc78f46d20ecc0e2a0b3777ce78b1b157aa14"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "conservation",
+      "id": "Theme_fe112f3f650f7ce3d5c8b9e147ca82ec926bcde343e9564fb2196ff723b27d55"
+    },
+    {
+      "type": "Theme",
+      "name": "restauration",
+      "id": "Theme_bf4153d0094d9a9380f243363e8bbd3facb007e9672e2af30ebb3c3e24533f61"
+    },
+    {
+      "type": "Theme",
+      "name": "cathédrale Notre-Dame de Paris",
+      "id": "Theme_1765ce83f00d293a430c4a0695667a4b051a9673aa54cd5a985e85815ef50e6d"
+    },
+    {
+      "type": "Organization",
+      "name": "Cour des comptes",
+      "id": "Organization_3903d3595adb5588f0a630a5719b5112d3ab24ed926648d0df47a0bc320e7052"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Cour des comptes",
+      "relation": "MENTIONS",
+      "target": "conservation",
+      "evidence": "Découvrez, dans ce rapport d’analyse de la Cour des comptes, les étapes de la conservation et de la restauration de la Cathédrale Notre-Dame de Paris",
+      "confidence": 1.0,
+      "source_id": "Organization_3903d3595adb5588f0a630a5719b5112d3ab24ed926648d0df47a0bc320e7052",
+      "target_id": "Theme_fe112f3f650f7ce3d5c8b9e147ca82ec926bcde343e9564fb2196ff723b27d55"
+    },
+    {
+      "source": "Cour des comptes",
+      "relation": "MENTIONS",
+      "target": "restauration",
+      "evidence": "Découvrez, dans ce rapport d’analyse de la Cour des comptes, les étapes de la conservation et de la restauration de la Cathédrale Notre-Dame de Paris",
+      "confidence": 1.0,
+      "source_id": "Organization_3903d3595adb5588f0a630a5719b5112d3ab24ed926648d0df47a0bc320e7052",
+      "target_id": "Theme_bf4153d0094d9a9380f243363e8bbd3facb007e9672e2af30ebb3c3e24533f61"
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "opacité totale",
+      "id": "Theme_80718bd2066c675c458d5452bd7cc867d956d0e14d82887aa08c2f6b19c2fe85"
+    },
+    {
+      "type": "Theme",
+      "name": "silence",
+      "id": "Theme_d8abd9a22fb4c4d3199f6408ca04cd0301506eb1e43b0db826c16d07c7331109"
+    },
+    {
+      "type": "Theme",
+      "name": "tourbillons de sable",
+      "id": "Theme_e02ef3c0a120b48b44461c1584b7e144809fab27bf1f650e58b85756ac3426e3"
+    },
+    {
+      "type": "Theme",
+      "name": "fausse quiétude",
+      "id": "Theme_df7c56038774ee5ffd673c2c73fe85487c224be378567371821ccf7b746cc3b8"
+    },
+    {
+      "type": "Theme",
+      "name": "nuit sans lune ni étoile",
+      "id": "Theme_4334533c4c2f321242237874a1d560ac8421d8e0900b1eda5fb174788ab0b647"
+    },
+    {
+      "type": "Theme",
+      "name": "fracas sourd",
+      "id": "Theme_0c413b63f9b8e4e7a79afac464933a2b96489886389f9887bd92d2da13d35417"
+    },
+    {
+      "type": "Theme",
+      "name": "deux explosions",
+      "id": "Theme_5d25e794a8ad7907b910fb212b5573bc511b6a4ec87545f2fd21ec83432f380d"
+    },
+    {
+      "type": "Theme",
+      "name": "Cougar",
+      "id": "Theme_7f3d5bd9c8179f9c47e00a93ddd44eda26413ee7322c9dae09da4eb0fc87978b"
+    },
+    {
+      "type": "Theme",
+      "name": "Tigre",
+      "id": "Theme_792db465aea1ecb1b31f4f2c8701bd99e88130688ffd54cbd24d6a605d5c1a8b"
+    },
+    {
+      "type": "Theme",
+      "name": "parents qui pleurent un fils",
+      "id": "Theme_d745ee2118a8a4e2af5438f1eb217c8e2ae260328760a540729057c459a388f0"
+    },
+    {
+      "type": "Theme",
+      "name": "enfants à naître",
+      "id": "Theme_877d31a679c6538f9e88d241b8eb6c6d689c1f612a6019d079f86233d8c1942c"
+    },
+    {
+      "type": "Theme",
+      "name": "sacrifice",
+      "id": "Theme_6b8a3684826d581fcdd28581a15f9ac101e25c9b111de574e59fa8e12850e9a4"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien du pays tout entier",
+      "id": "Theme_1276f53a0b326bf2b0bf0a3cd396aa2a7a8cdcc07735a1a5cced54c2ad7cd688"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Person",
+      "name": "Nicolas MÉGARD",
+      "id": "Person_2d9ece927b88d3655392b7ce89acccd6219989e83533e0bf8f95e6bcded2a871"
+    },
+    {
+      "type": "Person",
+      "name": "Benjamin GIREUD",
+      "id": "Person_17d073ac549a41f72a599019e65baffcfc350db1b0e82b55027eedcd370d6e17"
+    },
+    {
+      "type": "City",
+      "name": "Niamey",
+      "id": "City_3d5649a53fd34f76fb9bdbf1cbca0ba29ac1e3f9144355b26d8e6de930f68b39"
+    },
+    {
+      "type": "City",
+      "name": "Gao",
+      "id": "City_9b0a9a5699617f07e7aa938c7f8dee1b52cad593e5a92a9337cda07458f482a5"
+    },
+    {
+      "type": "City",
+      "name": "Ménaka",
+      "id": "City_a89c121ec33afb413ebea0008146421d997efc3ab05b4e3011904dafde1a9ae4"
+    },
+    {
+      "type": "City",
+      "name": "Ardres",
+      "id": "City_f73528af478a73cfdd37b35a89436b15235e928eada64bb9fb651a7d91d6adf2"
+    },
+    {
+      "type": "City",
+      "name": "Calais",
+      "id": "City_e6667d7ddc3549dfaaa169990edea85fc83e631af8ecb229ea714e2c247d8d09"
+    },
+    {
+      "type": "Person",
+      "name": "Officiers",
+      "id": "Person_c8171bd3ed8cbc7cf669a5a86eabca249295516f0d8bd47e68ece1fee0d459b1"
+    },
+    {
+      "type": "Person",
+      "name": "sous-officiers",
+      "id": "Person_b457902fde2b230441235d641cfdd79714ee61c5664555cbf1d0e91e8aa0361e"
+    },
+    {
+      "type": "Person",
+      "name": "soldats",
+      "id": "Person_50d4aed1ba5e0de3105c5abea12c109cc93415d5c243f9826486ee29f102df1e"
+    },
+    {
+      "type": "Person",
+      "name": "marins",
+      "id": "Person_1256f85063ee1be5bfdf01172754b884d93e343c7653af35271bf5988aa7d30c"
+    },
+    {
+      "type": "Person",
+      "name": "aviateurs",
+      "id": "Person_2367fad6263480a2187ace98a63c4e1056053ceb414bb777266da921f8dd5f87"
+    },
+    {
+      "type": "Person",
+      "name": "gendarmes",
+      "id": "Person_b1b264052b8dcdce2998c55a39a1a0867f351bd63c9ae84d110e7c3f573f6e5c"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Liptako",
+      "id": "City_881ac812ee7021958f203123717b103f27639ff3d5cba39f8873872d77ced99b"
+    },
+    {
+      "type": "City",
+      "name": "sud-Mali",
+      "id": "City_b23eaf0737cdbad5733c5f25fc20b1c67aaa945ef3f9f5f1a12e58b7eefc7c6b"
+    },
+    {
+      "type": "Organization",
+      "name": "commandos",
+      "id": "Organization_b8d9b638bdcb4407598079632d28ce40c703ea499ad990a9ccdfe4a1da8b1412"
+    },
+    {
+      "type": "Organization",
+      "name": "patrouille de Mirage 2000",
+      "id": "Organization_bf977a4580c7b87a9b2fbf46257b9e5ae69cfeae81a57e6b5ae59e9f90a1d201"
+    },
+    {
+      "type": "Organization",
+      "name": "Tigre",
+      "id": "Organization_17bdf8abaa392284c5345eb6ce5e41e8dbc6b0ba6c43000f7ef245fe84640776"
+    },
+    {
+      "type": "Organization",
+      "name": "Gazelle",
+      "id": "Organization_c3a59089b6018c01ebf7522d0b35604ac9fed0813032126fe043de529d20a4f7"
+    },
+    {
+      "type": "Organization",
+      "name": "Cougar",
+      "id": "Organization_7872af2a9c169b42b75c68bf1d743563f6dc3221e50887498fbd1ad9411e0785"
+    },
+    {
+      "type": "City",
+      "name": "Alpes",
+      "id": "City_6c7c94119fd9fb72bae1f781e97de22181568639653aec8ff36ea4eb69373a92"
+    },
+    {
+      "type": "Person",
+      "name": "Clément FRISON-ROCHE",
+      "id": "Person_3bf33d03045787539e04257d331985678634ea9dd12483af6942a8287ceeb5a9"
+    },
+    {
+      "type": "Person",
+      "name": "Alex MORISSE",
+      "id": "Person_1490a43443fccee4e80d941e0b0245c7f6e50596e48e2036a4d3e05d67597b1c"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre BOCKEL",
+      "id": "Person_77187428fa99146ce6f0c264aaf80214852b7c60a7b343b79485340107e8fdeb"
+    },
+    {
+      "type": "Person",
+      "name": "Julien CARETTE",
+      "id": "Person_d963725d01d7db02a25716b5d0aaf4decfb899594a0ee3a00e1a79aea6838f0e"
+    },
+    {
+      "type": "City",
+      "name": "Mali",
+      "id": "City_4f79c841ef037402d7aad343addb0a62403378d74d261ea1c268f43d58eca66d"
+    },
+    {
+      "type": "City",
+      "name": "Côte d'Ivoire",
+      "id": "City_1ca77573400f31530a100c4e86356709bb06913049516baa9488ba2929cd5b42"
+    },
+    {
+      "type": "City",
+      "name": "Tchad",
+      "id": "City_5d6b47b9546c6eeae1e5d04c7a6e16db5f0b983d4e484650aa91db1dcaad6336"
+    },
+    {
+      "type": "City",
+      "name": "Burkina Faso",
+      "id": "City_e9be8b3c53c2032e1945dc95c1ceef825fde0684cddc9af843ad704730e9e2a3"
+    },
+    {
+      "type": "City",
+      "name": "Afghanistan",
+      "id": "City_578059367a88e0363d7622c86333bcbdd7bc2d3c41a6a85d590b577a667b7587"
+    },
+    {
+      "type": "Person",
+      "name": "Romain SALLES",
+      "id": "Person_56d739a9901dc61603fb470ee14ebf7cbc6d17cfc509a940812ecd7cbeac4925"
+    },
+    {
+      "type": "City",
+      "name": "SAINT-PAUL",
+      "id": "City_a17985e1c60d970106d428f1e8cf13d98a98514dd3a4f09b851dacb1d77b87f2"
+    },
+    {
+      "type": "Country",
+      "name": "Colombie",
+      "id": "Country_745684a15e3161927f996f47ab1b856fb30beed90b50d25e0a7011f567849707"
+    },
+    {
+      "type": "Country",
+      "name": "Gabon",
+      "id": "Country_a658795cede51ea1a101d56d0808106f76a3dbd2b389704965a890d52c372aab"
+    },
+    {
+      "type": "Country",
+      "name": "Djibouti",
+      "id": "Country_32bee6ebc5c3133f71b43f845212f046e8162209903296ded3ab9b14b529833b"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "Organization",
+      "name": "Aviation Légère de l'Armée de Terre",
+      "id": "Organization_40fa7b81b7f49b21b3ef1bf036ffe9b68ff45f9f414c9739775fb17c6bd97f8a"
+    },
+    {
+      "type": "Person",
+      "name": "Romain CHOMEL",
+      "id": "Person_cfec560962f65fe385d2c9a48baace9b70977447612d57603c68ea274c7a5bfe"
+    },
+    {
+      "type": "City",
+      "name": "JARNIEU",
+      "id": "City_a380f09d716d82393d0e226fdc87fc18af3772d9224bbbb358fc4d2e984e92d5"
+    },
+    {
+      "type": "Person",
+      "name": "Alexandre PROTIN",
+      "id": "Person_4fbbce38ac1f4aaa0e37599a7955f69ee6ca016b32f65a0cf31321a68a48f012"
+    },
+    {
+      "type": "City",
+      "name": "Charleville-Mézières",
+      "id": "City_c7698a5b4bd94a09fd8bb31dd6f552368e8203acc1fee83fcd415e73eedf9a97"
+    },
+    {
+      "type": "Person",
+      "name": "Antoine SERRE",
+      "id": "Person_34ecc2686e9aab90d1bda959516a9cff7f2bdf8137809aa5386e3f9f65a82c47"
+    },
+    {
+      "type": "Person",
+      "name": "Valentin DUVAL",
+      "id": "Person_e18ca8bd3519d860e0029dc239ae057d0ffbd447e8f3a457437465757b0b0c4d"
+    },
+    {
+      "type": "City",
+      "name": "Chamonix",
+      "id": "City_85f94f219397bcf139cd6da454386df0f98f50ea37b33f36a44f47ab9cc69479"
+    },
+    {
+      "type": "City",
+      "name": "Rouen",
+      "id": "City_5b58f2b4a580563c0fb00ce142bd90067b12bd6a13fbdaf28f1f064adf79fbde"
+    },
+    {
+      "type": "Person",
+      "name": "Jérémy LEUSIE",
+      "id": "Person_0268d741bf0211723d79338c8fd6548fcce9c802bc3beaf02671e072625794fa"
+    },
+    {
+      "type": "Person",
+      "name": "Andreï JOUK",
+      "id": "Person_1ecdc5ff4a16461eb6fe4881686f50a4dac92b5c36792fc116d22be2bc2c806f"
+    },
+    {
+      "type": "City",
+      "name": "Gap",
+      "id": "City_3f9bf93243f8da7b7d9044e37711efde1bd98821438aceca19f25ae22f184fb8"
+    },
+    {
+      "type": "City",
+      "name": "Varces",
+      "id": "City_bab0dae9f7aa13d4d36cc0575ae7aa20110a7e14f39b42a9e857ba3151f16047"
+    },
+    {
+      "type": "City",
+      "name": "Angevin",
+      "id": "City_f511aa8315ab63c9d8c26d8f32d44b3f9059e6b74198d29d31a3fd00cf2fca34"
+    },
+    {
+      "type": "City",
+      "name": "Sahel",
+      "id": "City_92fe9646c051c53241e17f3fdb2c650a6e9fa01c7eb8480b47877e959ee0b5fe"
+    },
+    {
+      "type": "Organization",
+      "name": "4ème Régiment de chasseurs",
+      "id": "Organization_b56f9bfdc08dc48c0ce2a9f2bcc73f2c14b22534d13dfb56b9d4c4a439643831"
+    },
+    {
+      "type": "Organization",
+      "name": "93ème Régiment d'artillerie de montagne de Varces",
+      "id": "Organization_52f5340b987c9b255695477dda4f6d30b537434774fbffaa5bca9583d8728533"
+    },
+    {
+      "type": "Organization",
+      "name": "Légion étrangère",
+      "id": "Organization_c195bab1bfb43d38269c9ff881c7f10229855603d31c748c9615190948fc45d0"
+    },
+    {
+      "type": "Person",
+      "name": "soldat d'une bravoure extraordinaire",
+      "id": "Person_878ef9cbb3d701a846478e990de0bac542d46ab5e69bee5691c4006233a266b0"
+    },
+    {
+      "type": "Person",
+      "name": "treize hommes",
+      "id": "Person_81fa64a5c5db2089a11d0217165b31e4581601cde9dff8ab1e2b9288d8994be7"
+    },
+    {
+      "type": "Person",
+      "name": "nos armées",
+      "id": "Person_a2821375340caa8f9a992dd0948134dcf0b21db2791cd9802c13266202b5f474"
+    },
+    {
+      "type": "Person",
+      "name": "la Nation",
+      "id": "Person_13b6e128d61b54c379639e0f1df1b5916fc00b9e0f1fef3603defb15d7afe32b"
+    },
+    {
+      "type": "Person",
+      "name": "le terrorisme",
+      "id": "Person_7079a6eac3e749250bbacef0b83e007a511f18f1c6c06ae157a84b805c6d8ef0"
+    },
+    {
+      "type": "Person",
+      "name": "la France",
+      "id": "Person_2f699f0b7b42a4126bade2927f1e4a173d145e497cf3dd889bdbab38f98911db"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "City",
+      "name": "Pau",
+      "id": "City_aae88dca61617f4b2361b23b514b33d2f48d85277532d7af51eb52097994042e"
+    },
+    {
+      "type": "City",
+      "name": "Varces-Allières-et-Risset",
+      "id": "City_e60c82f5d28e8c4914e6ab21182a1fbf41810cddc3d183fe70aab078d5581498"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Christol d'Albion",
+      "id": "City_12806f864c3c0486005594a1b093524c3a9cb49148df36cf300b299dc8337718"
+    },
+    {
+      "type": "City",
+      "name": "Invalides",
+      "id": "City_33a1cb8fb5b7d43349669b01390716ab905fe27d042b7aaacda78d40999fe5ec"
+    },
+    {
+      "type": "City",
+      "name": "Pyrenees",
+      "id": "City_713ef738e36c3b0740312ab838b3897607b9362c8ac0d55cca95717eb1a8a85c"
+    },
+    {
+      "type": "City",
+      "name": "massif des Ecrins",
+      "id": "City_2f37850c154bea65e579799138e606b8c0447eea304de1b22074358467a6e67d"
+    },
+    {
+      "type": "City",
+      "name": "Vercors",
+      "id": "City_8c67f3c2dcb99e7ef2ff8d702105337b1e10db3f506e5f4b4176c336e3612902"
+    },
+    {
+      "type": "City",
+      "name": "plateaux du Luberon",
+      "id": "City_b3f1d964f2bde6a4f6397fc90daa73dac8aacb3a27a2d7bb47167a792caa3ab2"
+    },
+    {
+      "type": "City",
+      "name": "Alsace",
+      "id": "City_290f7bbc94cf55336ca58d4af98b6ff3e76f1133f9adcc58223fcec764682e85"
+    },
+    {
+      "type": "City",
+      "name": "Auvergne",
+      "id": "City_fb8fed7ae5e8282188d2724931d9dabd0e5664a049003cc9cff489453e5a434f"
+    },
+    {
+      "type": "City",
+      "name": "Mayenne",
+      "id": "City_a7e58aa5031d98c31774109d05f6062569993821a5af89e8713ebc33fabb5125"
+    },
+    {
+      "type": "City",
+      "name": "Nord",
+      "id": "City_475c61d40de0380cc0da44e201bffc076a93e35930960b6f45e3c63917e84d40"
+    },
+    {
+      "type": "City",
+      "name": "Normandie",
+      "id": "City_f0fe3a8c9028ddfa11298d6496804a09e1a0ab72a0ef8225769f14175bfca277"
+    },
+    {
+      "type": "City",
+      "name": "Vendée",
+      "id": "City_1eeca14bdb3939726ce2cc9677c1ad62f851da828ecea4ed5fde0259db35e759"
+    },
+    {
+      "type": "Person",
+      "name": "Jean VALLETTE d'OSIA",
+      "id": "Person_67bac3a4f9fcd11b2fd8d5565611495d674cb310642920bd873a5e7844c78bec"
+    },
+    {
+      "type": "Person",
+      "name": "Albert de SEGUIN de REYNIES",
+      "id": "Person_6b1142c87cc95a2d9c61c0a8ae22188ca34c2721110b4be7b4380fef5991f32f"
+    },
+    {
+      "type": "Person",
+      "name": "Tom MOREL",
+      "id": "Person_becfafd9cc49a58e85f01737ec2009a39953c79cc95f35dcd8916fc172661d64"
+    },
+    {
+      "type": "City",
+      "name": "Champagne",
+      "id": "City_cb3cbf353f49bd6a1c6dabfec198888847ac57f752dadec228c1c926bf204026"
+    },
+    {
+      "type": "City",
+      "name": "Dolbro Polje",
+      "id": "City_db193c48b88885af80838f57c7db9565fc1e6aaecce0f6c296d65e36531af169"
+    },
+    {
+      "type": "City",
+      "name": "Narvik",
+      "id": "City_da5c597c851d6af705bc7b7f98f802480664aca2fd936ad0a928a2d9ce16ce5c"
+    },
+    {
+      "type": "City",
+      "name": "Bir-Hakeim",
+      "id": "City_67c3395e41110b43ae427efaa7b38b078e6a9ade547fee9397b0dd2fd1434461"
+    },
+    {
+      "type": "Theme",
+      "name": "Histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "Patrie",
+      "id": "Theme_4079aa9734c9091368bffcf632034e06cecaadec102a482fdcc6b4ec9873a5eb"
+    },
+    {
+      "type": "Theme",
+      "name": "force",
+      "id": "Theme_692ec114325b782d4c086becfab4bd9bf5c9449c59ddd4c7e36828f9035301a5"
+    },
+    {
+      "type": "Theme",
+      "name": "honneur",
+      "id": "Theme_ea5594653008766fd662b55a97d7fd869d455e7de170f6055248cf3b342cb8c7"
+    },
+    {
+      "type": "Theme",
+      "name": "diversité des opinions et des croyances",
+      "id": "Theme_dce45cf65df96119025e325ef8ec36fb634395e60638ab67ab85a500221ef934"
+    },
+    {
+      "type": "Theme",
+      "name": "horizons",
+      "id": "Theme_23731f03a5193953c352fb91ff9384e6a462aebdfb1f70b783d40da7d6bf5926"
+    },
+    {
+      "type": "Theme",
+      "name": "différences",
+      "id": "Theme_d282dd1d33264358689ec6672c8c07cf98fd479e4fb0831c8a479c2f2e3067d8"
+    },
+    {
+      "type": "Theme",
+      "name": "sacrifice de ses enfants",
+      "id": "Theme_e90feb53d9d7f4c62cd1a8b30c8520cb2e6e642f7b641da3d8ada4f900e1a23f"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement profond",
+      "id": "Theme_5f509c98121313aa5701880f3482f621a52ca8a5d8ade400d5ab7f2803df5883"
+    },
+    {
+      "type": "Person",
+      "name": "Romain CHOMEL de JARNIEU",
+      "id": "Person_4865619a97fe53fd120e1cb8cbe3ca5437d8ba2d790c365bbbfc0e1ca1b643a3"
+    },
+    {
+      "type": "Person",
+      "name": "Romain SALLES de SAINT PAUL",
+      "id": "Person_4c87e34a8b3cdda980dbf4706fad90b8951fa4d9fac565cb58f8648d4b8897fe"
+    },
+    {
+      "type": "Organization",
+      "name": "Armées",
+      "id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab"
+    },
+    {
+      "type": "Organization",
+      "name": "République française",
+      "id": "Organization_ad5fb0d5edccf615eb0fa61d5ae500010dc747b15f10207a0529cc6fbc964fda"
+    },
+    {
+      "type": "Law",
+      "name": "Légion d'honneur",
+      "id": "Law_2dfb432db96aa9408b2cab623d58f57ecf8e0d74b0de7ebae09d007d12ec1d43"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Romain SALLES",
+      "relation": "LOCATED_IN",
+      "target": "SAINT-PAUL",
+      "evidence": "Le brigadier-chef Romain SALLES de SAINT-PAUL avait 35 ans.",
+      "confidence": 1.0,
+      "source_id": "Person_56d739a9901dc61603fb470ee14ebf7cbc6d17cfc509a940812ecd7cbeac4925",
+      "target_id": "City_a17985e1c60d970106d428f1e8cf13d98a98514dd3a4f09b851dacb1d77b87f2"
+    },
+    {
+      "source": "Romain CHOMEL",
+      "relation": "LOCATED_IN",
+      "target": "JARNIEU",
+      "evidence": "Le capitaine Romain CHOMEL de JARNIEU avait 34 ans.",
+      "confidence": 1.0,
+      "source_id": "Person_cfec560962f65fe385d2c9a48baace9b70977447612d57603c68ea274c7a5bfe",
+      "target_id": "City_a380f09d716d82393d0e226fdc87fc18af3772d9224bbbb358fc4d2e984e92d5"
+    },
+    {
+      "source": "93ème Régiment d'artillerie de montagne de Varces",
+      "relation": "LOCATED_IN",
+      "target": "Varces",
+      "evidence": "Engagé au sein du 93ème Régiment d'artillerie de montagne de Varces, cet Angevin en était devenu une des figures les plus expérimentées.",
+      "confidence": 1.0,
+      "source_id": "Organization_52f5340b987c9b255695477dda4f6d30b537434774fbffaa5bca9583d8728533",
+      "target_id": "City_bab0dae9f7aa13d4d36cc0575ae7aa20110a7e14f39b42a9e857ba3151f16047"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "liberté",
+      "evidence": "Comme les noms du combat universel de la France pour la liberté.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    }
+  ]
+}

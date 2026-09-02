@@ -1,0 +1,94 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre danois",
+      "id": "Person_a0ce14314bc6996b180fae9fda8f5039be6521f4de84bbccf1e97ba7f051f298"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Londres",
+      "id": "City_46110e3e9c35de9d2cda1109fbec5fe7701b958198ac1143e8e5aa66bd4be03f"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Danemark",
+      "id": "Country_e69e28cfa71a672f3c4d4f769e9cbc72220f20bc192eea020c4483eaecfef07b"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Theme",
+      "name": "Union européenne",
+      "id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Londres",
+      "relation": "LOCATED_IN",
+      "target": "Royaume-Uni",
+      "evidence": "suite aux attentats de Londres, pour redire toute la solidarité de la France à l'égard évidemment non seulement de la ville de Londres, mais du Royaume-Uni, du gouvernement et des autorités",
+      "confidence": 1.0,
+      "source_id": "City_46110e3e9c35de9d2cda1109fbec5fe7701b958198ac1143e8e5aa66bd4be03f",
+      "target_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Danemark",
+      "evidence": "La France et le Danemark n'ont pas toujours les mêmes vues sur l'Union européenne, nous avons parfois fait des choix différents, ce qui n'empêche pas une volonté forte de travailler ensemble.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_e69e28cfa71a672f3c4d4f769e9cbc72220f20bc192eea020c4483eaecfef07b"
+    }
+  ]
+}

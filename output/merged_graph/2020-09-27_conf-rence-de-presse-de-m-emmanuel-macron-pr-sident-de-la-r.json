@@ -1,0 +1,152 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "aide internationale",
+      "id": "Theme_2b87061802e5512e2cde667a7a50066bdbd0c314a46dafe58277b1c2f7a4106b"
+    },
+    {
+      "type": "Theme",
+      "name": "destabilisation régionale",
+      "id": "Theme_2be2578f31f5f8e13a87df93f85b945f01cdea0cdfbbe0dbe1fad1826ba12d0e"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "PACHINIAN",
+      "id": "Person_a9370b21d620cfe299eb4059a68e9c4ef547673ed887f0b71f3426f5e6e1b3b3"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "les dirigeants des institutions libanaises",
+      "id": "Person_8d5f9b6179ca4fd607c0dbd05f307413c3369a55987b11835db0d7d0438edb97"
+    },
+    {
+      "type": "Person",
+      "name": "les forces politiques libanaises",
+      "id": "Person_0050fe7cad66dd80c66d791f2129a21bb3431d5e51c3732769def5d90cec738b"
+    },
+    {
+      "type": "Person",
+      "name": "les dirigeants",
+      "id": "Person_44027ba7ea9554730800f69681e8ae8b18e6c08633e40d7dbbaa683adc2d21d9"
+    },
+    {
+      "type": "Organization",
+      "name": "forces armées libanaises",
+      "id": "Organization_426ac99edaa9ae09f607178de55ae8edba64f4873e31d695016b56ed663f6702"
+    },
+    {
+      "type": "Person",
+      "name": "un premier ministre",
+      "id": "Person_30e17a00e39785058cbc84daf625c5dcd808678831f67f015740a28049a548ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Hezbollah",
+      "id": "Organization_1137024572239876ce26766f0e5ec1545d4d54b61723309fb15845fec7db138f"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "City",
+      "name": "Beyrouth",
+      "id": "City_280b6ea335965e79e491c845075dc6e63bb6a6dea253e0a2298779065c28a11e"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisations non gouvernementales de terrain",
+      "id": "Organization_e7aa7150cebcd235953121f39850d01e43cfddb20b13b5cabba0ae0fa8165148"
+    },
+    {
+      "type": "Organization",
+      "name": "Agences des Nations unies",
+      "id": "Organization_50c1bf7ad4608432c628c4beb4331e9eb09f680e58d8e854cd11e201516f533a"
+    },
+    {
+      "type": "Organization",
+      "name": "Groupe international de soutien au Liban",
+      "id": "Organization_b0aa4a47ee92e6c5c522f0c7eed9c637e190af39eb4c33dd8bb9c63b925c6268"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Liban",
+      "relation": "LOCATED_IN",
+      "target": "Liban",
+      "evidence": "le Liban",
+      "confidence": 1.0,
+      "source_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "source": "les dirigeants des institutions libanaises",
+      "relation": "OPPOSES",
+      "target": "France",
+      "evidence": "Les forces politiques libanaises, leurs dirigeants, les dirigeants des institutions libanaises, n'ont pas souhaité clairement, résolument, explicitement, respecter l'engagement pris devant la France et la communauté internationale.",
+      "confidence": 1.0,
+      "source_id": "Person_8d5f9b6179ca4fd607c0dbd05f307413c3369a55987b11835db0d7d0438edb97",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "les dirigeants des institutions libanaises",
+      "relation": "OPPOSES",
+      "target": "les forces politiques libanaises",
+      "evidence": "Les forces politiques libanaises, leurs dirigeants, les dirigeants des institutions libanaises, n'ont pas souhaité clairement, résolument, explicitement, respecter l'engagement pris devant la France et la communauté internationale.",
+      "confidence": 1.0,
+      "source_id": "Person_8d5f9b6179ca4fd607c0dbd05f307413c3369a55987b11835db0d7d0438edb97",
+      "target_id": "Person_0050fe7cad66dd80c66d791f2129a21bb3431d5e51c3732769def5d90cec738b"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Liban",
+      "evidence": "La France restera engagée aux côtés de ses amis libanais, du peuple libanais.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    }
+  ]
+}

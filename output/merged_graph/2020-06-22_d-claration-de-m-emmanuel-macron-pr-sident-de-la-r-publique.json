@@ -1,0 +1,142 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Kaïs Saïed",
+      "id": "Person_a0849cd64adf81488d2f26745e357f3aacaff3752664f9df7b8746530bed9ecd"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Tunisie",
+      "id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "type": "Person",
+      "name": "Votre pays",
+      "id": "Person_18ff67230fef36a9a4a0176eed7c4e36c8e426ff16bd0bb37f43bba5d0c5cfab"
+    },
+    {
+      "type": "City",
+      "name": "Gafsa",
+      "id": "City_2b1d7ccdb2344bb566d203cbcf4e50bcfd3be8287a6c39601dee07a6b9465704"
+    },
+    {
+      "type": "City",
+      "name": "Sidi Bouzid",
+      "id": "City_73ff3d52123412acb6985b30b72eb825b516c0ddef5d235621e5cc9aa05825d9"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution de 2011",
+      "id": "Theme_fce810328575f1a62ba4f1da6c6cf7333617eb8373d784104a8e587d5062d46e"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Person",
+      "name": "Erdogan",
+      "id": "Person_c65ec610e31eea4a697ac0f459d6485db532134c1d61c6fbd7f82ed7fc84e894"
+    },
+    {
+      "type": "Person",
+      "name": "Trump",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Country",
+      "name": "Turquie",
+      "id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Tunis",
+      "id": "City_bb0b2aba9701f9096ec150d4741581eaaa355450beb69e0ccc9267e0c699f8fa"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation internationale de la Francophonie",
+      "id": "Organization_f06abfa6c5ae40b266c867322d6110d5af440aa772c7c5cab510d3f86feb79ad"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Tunisie",
+      "evidence": "La France continuera, en effet, d'apporter tout son soutien à la Tunisie dans le domaine de la santé avec la formation de soignants, la construction et la modernisation d'infrastructures comme les hôpitaux de Gafsa et de Sidi Bouzid.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Tunisie",
+      "evidence": "La France et la Tunisie demandent ensemble que les belligérants cessent le feu",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "source": "Turquie",
+      "relation": "LOCATED_IN",
+      "target": "Libye",
+      "evidence": "je considère aujourd'hui que la Turquie joue en Libye un jeu dangereux et contrevient à tous ses engagements pris lors de la conférence de Berlin.",
+      "confidence": 1.0,
+      "source_id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f",
+      "target_id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "source": "Tunisie",
+      "relation": "MEMBER_OF",
+      "target": "Nations unies",
+      "evidence": "La Tunisie siège cette année au Conseil de sécurité des Nations unies",
+      "confidence": 1.0,
+      "source_id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    }
+  ]
+}

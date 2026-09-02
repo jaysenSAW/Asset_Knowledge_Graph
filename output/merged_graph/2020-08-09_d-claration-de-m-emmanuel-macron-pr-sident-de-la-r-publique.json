@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Amina MOHAMMED",
+      "id": "Person_39e40bfce3fc41a4c40e3232b148ab0d6c689443ab714795b42f0974c280d3ee"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations Unis",
+      "id": "Organization_76e5507b6559e0054be91a23809545c559972e77af60ef71466f5aa8b76cc50e"
+    },
+    {
+      "type": "City",
+      "name": "Beyrouth",
+      "id": "City_280b6ea335965e79e491c845075dc6e63bb6a6dea253e0a2298779065c28a11e"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Person",
+      "name": "Charles MICHEL",
+      "id": "Person_05cf848e8ad58cffcfcde7ca7c613e57a1c5ba41f9eb925d6b63fd4b86807b19"
+    },
+    {
+      "type": "Person",
+      "name": "TRUMP",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale",
+      "id": "Organization_8f8e5049d1c21e2291ca3d39865c23e9d20927413f7abca05a47b2572d99f6e2"
+    },
+    {
+      "type": "Organization",
+      "name": "Les Nations unies",
+      "id": "Organization_a401311bb7e3e208266ff44f052087b25db2fd5514c1cd2cf0c3c51529b50ea5"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Jordanie",
+      "id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad"
+    },
+    {
+      "type": "Country",
+      "name": "Turquie",
+      "id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Organization",
+      "name": "FMI",
+      "id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "type": "Person",
+      "name": "AOUN",
+      "id": "Person_791cd8abeba5310bccda0d79068dc2b5ef6e7b0a9f7cfed7a44b01237685407e"
+    },
+    {
+      "type": "Country",
+      "name": "Nations unies",
+      "id": "Country_de27ef02ae2f885df42f17298e258623101c6c37feb12bb5fe5c02d0f56327a3"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Nations Unis",
+      "relation": "MEMBER_OF",
+      "target": "Amina MOHAMMED",
+      "evidence": "Madame la Vice-Secrétaire générale des Nations Unis, chère Amina MOHAMMED",
+      "confidence": 1.0,
+      "source_id": "Organization_76e5507b6559e0054be91a23809545c559972e77af60ef71466f5aa8b76cc50e",
+      "target_id": "Person_39e40bfce3fc41a4c40e3232b148ab0d6c689443ab714795b42f0974c280d3ee"
+    },
+    {
+      "source": "Les Nations unies",
+      "relation": "LOCATED_IN",
+      "target": "Liban",
+      "evidence": "Les Nations unies ont établi clairement, dans un document qui vous a été communiqué, les besoins, les besoins du peuple libanais.",
+      "confidence": 1.0,
+      "source_id": "Organization_a401311bb7e3e208266ff44f052087b25db2fd5514c1cd2cf0c3c51529b50ea5",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "source": "Nations unies",
+      "relation": "MEMBER_OF",
+      "target": "Nations unies",
+      "evidence": "je vais maintenant laisser la parole à la vice-secrétaire générale des Nations unies, Amina MOHAMMED",
+      "confidence": 1.0,
+      "source_id": "Country_de27ef02ae2f885df42f17298e258623101c6c37feb12bb5fe5c02d0f56327a3",
+      "target_id": "Country_de27ef02ae2f885df42f17298e258623101c6c37feb12bb5fe5c02d0f56327a3"
+    }
+  ]
+}

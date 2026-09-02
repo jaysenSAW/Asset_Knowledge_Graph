@@ -1,0 +1,126 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Macky SALL",
+      "id": "Person_bac668f99a124e8a9759ea0accab64aba6d0b844358f6a309d9086c514366570"
+    },
+    {
+      "type": "Country",
+      "name": "Africains",
+      "id": "Country_5b8f784698912cadad1504ddc86f8e9a7a1d4295190faaa9461f1f7f5adf1539"
+    },
+    {
+      "type": "Event",
+      "name": "réunion en format G20",
+      "id": "Event_c2cef081e0cf9a5113fa2bc262fdd0e0db348e3ad0d0adc8877f1f0aa7e5c09a"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Sénégal",
+      "id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "type": "Country",
+      "name": "Guinée Bissau",
+      "id": "Country_e2b73450c30b9eb204767c1d9204870c41606d735290558d43a116e8cbbd3a25"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement",
+      "id": "Theme_3e22cc17b8a738b9c161efa6fb946acce0d66152e18a96a0a8a9e99a15eeee91"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Law",
+      "name": "Accord de Paris",
+      "id": "Law_cd8b0ed5bd6d7c10b803a393cbdcace05ca0db0f17b36ece29f3b3d3b07b6d15"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "Country",
+      "name": "Communauté économique des Etats de l'Afrique de l'Ouest",
+      "id": "Country_836f3d383dfff5532cf053dc032fd306ad790b906ca672a98951a4b4c2ab7aa3"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "City",
+      "name": "Dakar",
+      "id": "City_edd432d0e42af6268a05e6bf8b3ff465617e0b8b7b6c0ca6846affd0ee837bfe"
+    },
+    {
+      "type": "Organization",
+      "name": "AIR SENEGAL",
+      "id": "Organization_defb5c2705c93125a04881bfa5d1ecb1f51137e5710cedee8b8e29181c2a026f"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France y est fortement engagée, en particulier à travers l'Agence française de développement et nos actions de coopération.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Sénégal",
+      "relation": "LOCATED_IN",
+      "target": "Sénégal",
+      "evidence": "Le Sénégal jouit d'une croissance absolument remarquable qui démontre la solidité et l'attractivité de l'économie sénégalaise.",
+      "confidence": 1.0,
+      "source_id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d",
+      "target_id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "source": "Sénégal",
+      "relation": "PROPOSED",
+      "target": "Sénégal",
+      "evidence": "le Sénégal, déjà fortement engagé, deviendra dans les prochaines semaines le premier contributeur à la mission de maintien de la paix des Nations Unies au Mali",
+      "confidence": 1.0,
+      "source_id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d",
+      "target_id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Sénégal",
+      "evidence": "mon souhait est que la France puisse continuer d'une part, cet échange stratégique, militaire et de sécurisation avec le Sénégal",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "source": "Sénégal",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la relation entre le Sénégal et la France",
+      "confidence": 1.0,
+      "source_id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

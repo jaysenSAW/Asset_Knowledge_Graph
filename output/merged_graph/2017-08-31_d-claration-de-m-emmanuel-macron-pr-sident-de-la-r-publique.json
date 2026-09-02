@@ -1,0 +1,120 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "réforme de la directive sur les travailleurs détachés",
+      "id": "Theme_9f8f614b25aff321ef3551dd30e1b583f49c3356abf98273b9d5bf09abb1c308"
+    },
+    {
+      "type": "Theme",
+      "name": "Brexit",
+      "id": "Theme_6006dbbb0e4a76c11c05251b591ad1a5519dc0dbc5901d62bec55283dfbb2868"
+    },
+    {
+      "type": "Person",
+      "name": "Michel Barnier",
+      "id": "Person_6a04ceb187264fb3e394a2093779ba135fd7a574bf1489892666c3bcc42b5af6"
+    },
+    {
+      "type": "Country",
+      "name": "Pays-Bas",
+      "id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "protection",
+      "id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations",
+      "id": "Theme_cac93d346afb10556cd477074f8fd5e7de6a6b6e234704cdc92ccd1aae71876c"
+    },
+    {
+      "type": "Theme",
+      "name": "réglementations européennes",
+      "id": "Theme_58a64e2f780190afffc7da2e6e15e751f255233d55edec6938f92b380c1df9e4"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération structurée permanente",
+      "id": "Theme_6c1c65ef226ade724c0871b56558f06b5878ceb9bde77d957b053abb5333bdae"
+    },
+    {
+      "type": "City",
+      "name": "Utrecht",
+      "id": "City_6b9aeb943d966ee8f79a586ccd886d95da861c9a7aefa9ff97ac869517ff79b5"
+    },
+    {
+      "type": "Person",
+      "name": "Mark",
+      "id": "Person_7b968f35d0fb4e78dfe2bb35f6dd1f4dc36cafbcf13460595121d9c678eb0e44"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "conseil européen",
+      "id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "type": "Theme",
+      "name": "relance européenne",
+      "id": "Theme_d34cdc953e66043c91937fae2fc5e9adb9fd96ca15d4c746985d613908e78e07"
+    },
+    {
+      "type": "Theme",
+      "name": "refondation ambitieuse",
+      "id": "Theme_244c41bfb2a7ac1721bec90b7dcd3eab91ed40a3cc991f05f203e9e5b3cbb22f"
+    },
+    {
+      "type": "Person",
+      "name": "Rutte",
+      "id": "Person_007163acd833b9183910ab00e3705fae7bd6b0bd3976ba4a8c8cf31c05d4cc39"
+    },
+    {
+      "type": "Person",
+      "name": "Bettel",
+      "id": "Person_f3886e0ed4b126b3c217faf2f18c79de2b0231262b03fe5a21bdc51247e9c567"
+    },
+    {
+      "type": "Person",
+      "name": "Michel",
+      "id": "Person_ac9938878c7e5cc0d539c8f51b48c646dc89fa8148a7eea629e93eb5c96981a1"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Mark",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Merci encore Monsieur le Premier ministre, cher Mark, d'être là ce soir, à Paris.",
+      "confidence": 1.0,
+      "source_id": "Person_7b968f35d0fb4e78dfe2bb35f6dd1f4dc36cafbcf13460595121d9c678eb0e44",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    }
+  ]
+}

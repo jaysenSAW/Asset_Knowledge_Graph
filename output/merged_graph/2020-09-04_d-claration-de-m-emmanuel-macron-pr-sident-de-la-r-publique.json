@@ -1,0 +1,753 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Léon GAMBETTA",
+      "id": "Person_90601ff9f52d1180b087ec27004e519cdb4f0432bd2b4179fe754c984cc36683"
+    },
+    {
+      "type": "Person",
+      "name": "Marie CURIE",
+      "id": "Person_bb22cb042da0d79899d9aa8e52bc454fcf620c2b67228b4dfa59ce5388915998"
+    },
+    {
+      "type": "Person",
+      "name": "Joséphine BAKER",
+      "id": "Person_f7243a3925b79cf0aef98e9292ace7552a68e90d1fe59cc24870da4758a27545"
+    },
+    {
+      "type": "Country",
+      "name": "Pologne",
+      "id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Sedan",
+      "id": "City_c589281e94ae7c95161a412265d161816643f4b9fc8b1834122c0d8111ba08c8"
+    },
+    {
+      "type": "Organization",
+      "name": "Panthéon",
+      "id": "Organization_747b4c27f784371eb488c517f901928e2993980eadea293e2ff37a279056b96d"
+    },
+    {
+      "type": "Organization",
+      "name": "République",
+      "id": "Organization_0eac6305aac01bf684a6d57836831f1443587a4616a4d6b56b3d3c1e778ca152"
+    },
+    {
+      "type": "Person",
+      "name": "Félix EBOUÉ",
+      "id": "Person_0b3efdc251c3a2f8f79474ebabf35d5616588fc8e4239cdae33eed3a8d5b21ac"
+    },
+    {
+      "type": "Person",
+      "name": "Gisèle HALIMI",
+      "id": "Person_3e3411c937622c30bef50cd403a3aad00c334fe7e985e675b86d718df4fc6107"
+    },
+    {
+      "type": "Person",
+      "name": "Matthew",
+      "id": "Person_f2d7dae3d8188bd028decf6cb604f03e25b4ef1414f7b8156e079afc5509594b"
+    },
+    {
+      "type": "Person",
+      "name": "Nora",
+      "id": "Person_86589ed3a1477f79dea7652b52210d165475596416d9ac979abfaddb464f10b3"
+    },
+    {
+      "type": "Person",
+      "name": "Patricia",
+      "id": "Person_8de06f9c936992656baeb43921d5205450b337f2bb5ab4a2a60679985f29c330"
+    },
+    {
+      "type": "Person",
+      "name": "Catherine",
+      "id": "Person_5c0266404076162cd7185f4b9b38d4a42e6efe6898dabdc59c5e5849b5452319"
+    },
+    {
+      "type": "Person",
+      "name": "Anna",
+      "id": "Person_81aa8b67e0d2d4f3451b99554aa14d98afedae8e6183058b2de536f5509bd68b"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Country",
+      "name": "Cameroun",
+      "id": "Country_3dbed6a774b1c2a19e9d3ef0f7db7ed85220ea9016220d7e1e7d4036e88053f9"
+    },
+    {
+      "type": "Country",
+      "name": "Pérou",
+      "id": "Country_b3ba570e522f11fdf63cd281e58e8f06fec5830a73e36208e9c4478df2f5540c"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Country",
+      "name": "République",
+      "id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    },
+    {
+      "type": "Person",
+      "name": "Zeiza TAÏEB",
+      "id": "Person_6d1c0b5b742e7157ab7405bef2bf7b5c4505b123fbeb57728f38688885e6887d"
+    },
+    {
+      "type": "Country",
+      "name": "Tchad",
+      "id": "Country_4559f6f8af30c0e115367f99db7a2d2bff5c4fb5ef7ec890af7e5e1662fd701e"
+    },
+    {
+      "type": "Country",
+      "name": "Guyane",
+      "id": "Country_784c3a53dbc879c108f7f1ab802a3d742fd7099e54765ef584384dcfdb508762"
+    },
+    {
+      "type": "Country",
+      "name": "Tunisie",
+      "id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "patriotisme républicain",
+      "id": "Theme_213d2a7356ce901f0b1171baeed8946ec65377f1c7a9d5bf8e81c1440bee4e6e"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "laïcité",
+      "id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "type": "Person",
+      "name": "DE GAULLE",
+      "id": "Person_37f95bd08a7aed96ec78152708e15ac7b0aeadf9b6ed76c9324554a4a27abf09"
+    },
+    {
+      "type": "Theme",
+      "name": "Principe",
+      "id": "Theme_d8760c237665930c6a9d0624a9ce18eb904b3c711bc6b674b8a562fcb2b31b9b"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de croire ou de ne pas croire",
+      "id": "Theme_199aedf172d88225810bbeb3a8a4842b04153a8756be55ebb77c472adfe08834"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté d'expression",
+      "id": "Theme_acb0e9d3f3d2ce06e5a0aea13fc6160588104e35cb96880d570891860752245a"
+    },
+    {
+      "type": "Theme",
+      "name": "droit au blasphème",
+      "id": "Theme_05e20be814e753357c52982842296bfac3f9f8171133bab9dacb6bd64760dc16"
+    },
+    {
+      "type": "Theme",
+      "name": "être français",
+      "id": "Theme_a8d98f6b0d3dc2ca95c05ba0bec548a4f9a5651e8de0195f66f886f3f8fb75c8"
+    },
+    {
+      "type": "Theme",
+      "name": "droit de faire rire",
+      "id": "Theme_f80a91710ec9755277c26d1940f624dfb44a865a45c2b4e8eef507cbd46f44ed"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de railler",
+      "id": "Theme_ecb254a258df7c3ab6877c161e06234a29227824f78a1a7d611dc4a6779ee310"
+    },
+    {
+      "type": "Theme",
+      "name": "Voltaire",
+      "id": "Theme_faed3ee752f59bd21db52ea1c1fd41880e64480b5d7ed4546bd4f9863bcbe45c"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Theme",
+      "name": "femme",
+      "id": "Theme_86414357a534368e8c49cb88bdf47e389d412f0876b6b731e59e07eb793729c7"
+    },
+    {
+      "type": "Theme",
+      "name": "homme",
+      "id": "Theme_acc589b846708b69c385eab991cb15a0e0d88162b57a670355c0413fdb7bb158"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité",
+      "id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "abolition des privilèges",
+      "id": "Theme_d2a59c77b88afe66233b0d37ebfcddb59e467dff8b730926e3f63213b3ee359a"
+    },
+    {
+      "type": "Theme",
+      "name": "Déclaration des droits de l'homme et du citoyen",
+      "id": "Theme_7187a7dffb2416f12317a4e14a6ce0b5863a0c396624aae49aa1380b33059f1f"
+    },
+    {
+      "type": "Theme",
+      "name": "suffrage universel",
+      "id": "Theme_2222564a37789e754599b8f91bc0e30be91a0793295a95713c1e403808511a18"
+    },
+    {
+      "type": "Theme",
+      "name": "Droit de vote",
+      "id": "Theme_314389fbceea301f2b54d994777e1151c7a3d4d1d8271fba3db65820207cbca8"
+    },
+    {
+      "type": "Person",
+      "name": "SCHOELCHER",
+      "id": "Person_65f71eac9289e4ee5f9b019bf7aeed871922c23eee232b0565326659ffd22b05"
+    },
+    {
+      "type": "Event",
+      "name": "abolition de l'esclavage",
+      "id": "Event_257e6eba930a0fd47a705bafdc52e01e1417e4486409b1e96cd4ef5d63cbed6d"
+    },
+    {
+      "type": "Theme",
+      "name": "droit de vote des femmes",
+      "id": "Theme_fe71623a5d8a59dd3284aca4efff0d725e03be520a2fc26235e1764538e1ee98"
+    },
+    {
+      "type": "Event",
+      "name": "abaissement de la majorité à 18 ans",
+      "id": "Event_4b34eca5e1d7a1203f9963dca279e3d793df64df36e5302583dcbc98a3005dd6"
+    },
+    {
+      "type": "Event",
+      "name": "abolition de la peine de mort",
+      "id": "Event_824c54c44056d4992f498e681d5a94e32805fd2f0c3fcd28e401d44a0ddc11e3"
+    },
+    {
+      "type": "Person",
+      "name": "PÉGUY",
+      "id": "Person_8a52223f5d6a26a4148e3a691402603c318472698084f41a3597b0d1920c3c1c"
+    },
+    {
+      "type": "Person",
+      "name": "JAURÈS",
+      "id": "Person_839c2276d0b80aadded341100b23d3d8fb3285d8ae1b3273c0cbc56c9073e777"
+    },
+    {
+      "type": "Person",
+      "name": "BLUM",
+      "id": "Person_2de1f4d3c4e971285944c031f855c9279fbc9018e61daf9d90986c6429570fba"
+    },
+    {
+      "type": "Person",
+      "name": "MENDES FRANCE",
+      "id": "Person_375f1c0db8b4fcf93afab33504fa7b87157abede381799142cc1fb727bd3220b"
+    },
+    {
+      "type": "Theme",
+      "name": "République sociale",
+      "id": "Theme_464d859eb77aae2bc660c73482687fe7b4c66f86b3b29a0d734b5b8cfd123de1"
+    },
+    {
+      "type": "Theme",
+      "name": "promesse républicaine",
+      "id": "Theme_2a9ef9ef8a0d018b29e66be91382fa82f13154bff17aece8c91e3cc1f427ae65"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "État providence",
+      "id": "Theme_45c70f9c669375e99cd7682164f150a7264ed1cf4087fa52307b690433da33c4"
+    },
+    {
+      "type": "Theme",
+      "name": "protection sociale",
+      "id": "Theme_3e44f1f1c91271f91a440ea8e7a93aa8c79e8d543177b5ac9da384a1345397dd"
+    },
+    {
+      "type": "Theme",
+      "name": "violence",
+      "id": "Theme_2e88abc315f2f0443a0e5b9fd8eae9a399f515b08101974ade6d7c352b827448"
+    },
+    {
+      "type": "Theme",
+      "name": "haine",
+      "id": "Theme_1109211ae99f54d538f05e8b1e3badcdc61927baacdf16dc2f914c62e0db0430"
+    },
+    {
+      "type": "Theme",
+      "name": "respect",
+      "id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "type": "Theme",
+      "name": "civilité",
+      "id": "Theme_72156dc6741fea5b65cb96211c56232e5ff5b1141ca80226d02eed71102cda5d"
+    },
+    {
+      "type": "Theme",
+      "name": "racisme",
+      "id": "Theme_8ca275a05cedf5deee96a6c7b9825aa608c84ae00aa7af40d901092936df4d19"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémitisme",
+      "id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Law",
+      "name": "la loi",
+      "id": "Law_06ff4a6150586f7a90556b37e4d18bb94a678233510c532c9deb930d175a1290"
+    },
+    {
+      "type": "Theme",
+      "name": "courage",
+      "id": "Theme_4eb0829b6b279fcb2a945b12114e4f8976954c7a7fcf9391f504d523ee63a88b"
+    },
+    {
+      "type": "Theme",
+      "name": "entraide",
+      "id": "Theme_aafb1c9e65b44eef4d1ab15bce82c8a409099d0b8891a8828fc3e2f9a6546d55"
+    },
+    {
+      "type": "Person",
+      "name": "Marc BLOCH",
+      "id": "Person_6c4608685cc7356213e997f258bcccb96ef14022a4557a9476ed88c662fbd314"
+    },
+    {
+      "type": "Person",
+      "name": "CAMUS",
+      "id": "Person_eaa86907b5d88b020dd634c1a97be0cd26e4ea1b40261008c03c995544a44898"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "imaginaire",
+      "id": "Theme_6ac92e4d33657848e6331aaaa3cbc71675b72a187a862bb09c959b8bde0ca715"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit français",
+      "id": "Theme_d2580ac4c0269bfa8a8284cee54a4276bb58c02486be636f101d487efe558c2d"
+    },
+    {
+      "type": "Theme",
+      "name": "génie universel",
+      "id": "Theme_58b8159a57a676cd1c7044c83dae534271f9e1709dec9846d17d6590ab1f4dfc"
+    },
+    {
+      "type": "Theme",
+      "name": "âme de la nation",
+      "id": "Theme_c5226fa62fc4c9a726487ffb097aa6695e865030c24d68cc2cb8f94abba3b061"
+    },
+    {
+      "type": "Theme",
+      "name": "Lumières",
+      "id": "Theme_6732c62137d1ca5442c751181b48396d98b70fee8cb1aa8e0c63bf00da0f0544"
+    },
+    {
+      "type": "Person",
+      "name": "HUGO",
+      "id": "Person_b27d80b1c828994491a6a9ab143890b3c4f9fb0516451dd8fa988bad038c70ce"
+    },
+    {
+      "type": "Person",
+      "name": "DUMAS",
+      "id": "Person_6bc97f40c5dfba7c1ed8b55ef88de18f9cadc0e994d4399b28746e81fa7bfd01"
+    },
+    {
+      "type": "Person",
+      "name": "ZOLA",
+      "id": "Person_719363925cb3efc9e8cf694b14c9f08293568ba693b0d469093d4ccf0d18f6c4"
+    },
+    {
+      "type": "Person",
+      "name": "MALRAUX",
+      "id": "Person_0ce61647fce54f1f571d92ca89b3e92f71c946262711d7ebbf0465fd715a038d"
+    },
+    {
+      "type": "Person",
+      "name": "CÉSAIRE",
+      "id": "Person_6924d07360de03077a67c14b3190193d884f5f9500cc0d622083bb71acdc5969"
+    },
+    {
+      "type": "Person",
+      "name": "MAURIAC",
+      "id": "Person_02e971292f243ce4d6c5abf0ef3ffb45b2236fa6536ebc7338f61002417762b8"
+    },
+    {
+      "type": "Person",
+      "name": "GRÉGOIRE",
+      "id": "Person_56c5260bdaf934f261613c1c00e23676d6976959e3fbf0ad61643beb724f19c6"
+    },
+    {
+      "type": "Person",
+      "name": "BODIN",
+      "id": "Person_bbcd0f7538b74ed88cbf29a9c00406a38f916e0cd4639d0b0a5a2abecacacf80"
+    },
+    {
+      "type": "Person",
+      "name": "CONDORCET",
+      "id": "Person_f155816f241fa304f9b5605ecb292690f5218dce3d595066ced79fbbddd4cd69"
+    },
+    {
+      "type": "Person",
+      "name": "ROUSSEAU",
+      "id": "Person_c6a9bfab0d0f95bf5a5b431a2183ff53de64d8423f5b965f1949081dc9f401b1"
+    },
+    {
+      "type": "City",
+      "name": "Panthéon",
+      "id": "City_43a1ef0fe679cc862b9a773e30d5fc43b5e2f3b92f6a29dee095a06aca903639"
+    },
+    {
+      "type": "City",
+      "name": "Villers-Cotterêts",
+      "id": "City_6aab14668bdee637018a1a68554281503579fbe339dd9c176e5ba0e6fb326493"
+    },
+    {
+      "type": "Person",
+      "name": "CHARLES PÉGUY",
+      "id": "Person_dc12343e0d796cc8c2e273a0233d75c6ae97fdbb10b9c375194072ffd647a43a"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyenneté",
+      "id": "Theme_299e26433fd038aaeb6d9c98e39f7323f3f780a7ec7bf9addad3444e3982be18"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Marie CURIE",
+      "relation": "VISITED",
+      "target": "Pologne",
+      "evidence": "Marie CURIE, naquit et grandit en Pologne.",
+      "confidence": 1.0,
+      "source_id": "Person_bb22cb042da0d79899d9aa8e52bc454fcf620c2b67228b4dfa59ce5388915998",
+      "target_id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4"
+    },
+    {
+      "source": "Joséphine BAKER",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "Joséphine BAKER, née Américaine, choisit la France pour le faire briller de son talent et de son énergie.",
+      "confidence": 1.0,
+      "source_id": "Person_f7243a3925b79cf0aef98e9292ace7552a68e90d1fe59cc24870da4758a27545",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Léon GAMBETTA",
+      "relation": "PROPOSED",
+      "target": "République",
+      "evidence": "Léon GAMBETTA, dont nous venons d'entendre les mots, était comme vous, un fils d'immigrés, récent naturalisés, Français de sang mêlé. C'est lui pourtant qui ressuscita la République",
+      "confidence": 1.0,
+      "source_id": "Person_90601ff9f52d1180b087ec27004e519cdb4f0432bd2b4179fe754c984cc36683",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "source": "Léon GAMBETTA",
+      "relation": "SPOKE_ABOUT",
+      "target": "République",
+      "evidence": "Léon GAMBETTA, dont nous venons d'entendre les mots, était comme vous, un fils d'immigrés, récent naturalisés, Français de sang mêlé. C'est lui pourtant qui ressuscita la République",
+      "confidence": 1.0,
+      "source_id": "Person_90601ff9f52d1180b087ec27004e519cdb4f0432bd2b4179fe754c984cc36683",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "source": "Royaume-Uni",
+      "relation": "LOCATED_IN",
+      "target": "République",
+      "evidence": "vous qui venez du Royaume-Uni, d'Algérie, du Cameroun, du Pérou ou du Liban, décrire vos vies en République",
+      "confidence": 1.0,
+      "source_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "source": "Algérie",
+      "relation": "LOCATED_IN",
+      "target": "République",
+      "evidence": "vous qui venez du Royaume-Uni, d'Algérie, du Cameroun, du Pérou ou du Liban, décrire vos vies en République",
+      "confidence": 1.0,
+      "source_id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "source": "Cameroun",
+      "relation": "LOCATED_IN",
+      "target": "République",
+      "evidence": "vous qui venez du Royaume-Uni, d'Algérie, du Cameroun, du Pérou ou du Liban, décrire vos vies en République",
+      "confidence": 1.0,
+      "source_id": "Country_3dbed6a774b1c2a19e9d3ef0f7db7ed85220ea9016220d7e1e7d4036e88053f9",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "source": "Pérou",
+      "relation": "LOCATED_IN",
+      "target": "République",
+      "evidence": "vous qui venez du Royaume-Uni, d'Algérie, du Cameroun, du Pérou ou du Liban, décrire vos vies en République",
+      "confidence": 1.0,
+      "source_id": "Country_b3ba570e522f11fdf63cd281e58e8f06fec5830a73e36208e9c4478df2f5540c",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "source": "Liban",
+      "relation": "LOCATED_IN",
+      "target": "République",
+      "evidence": "vous qui venez du Royaume-Uni, d'Algérie, du Cameroun, du Pérou ou du Liban, décrire vos vies en République",
+      "confidence": 1.0,
+      "source_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "source": "être français",
+      "relation": "MENTIONS",
+      "target": "droit de faire rire",
+      "evidence": "Être français, c'est défendre le droit de faire rire, la liberté de railler, de moquer, de caricaturer",
+      "confidence": 1.0,
+      "source_id": "Theme_a8d98f6b0d3dc2ca95c05ba0bec548a4f9a5651e8de0195f66f886f3f8fb75c8",
+      "target_id": "Theme_f80a91710ec9755277c26d1940f624dfb44a865a45c2b4e8eef507cbd46f44ed"
+    },
+    {
+      "source": "être français",
+      "relation": "MENTIONS",
+      "target": "liberté de railler",
+      "evidence": "Être français, c'est défendre le droit de faire rire, la liberté de railler, de moquer, de caricaturer",
+      "confidence": 1.0,
+      "source_id": "Theme_a8d98f6b0d3dc2ca95c05ba0bec548a4f9a5651e8de0195f66f886f3f8fb75c8",
+      "target_id": "Theme_ecb254a258df7c3ab6877c161e06234a29227824f78a1a7d611dc4a6779ee310"
+    },
+    {
+      "source": "Voltaire",
+      "relation": "SPOKE_ABOUT",
+      "target": "liberté de railler",
+      "evidence": "Et je le dis au moment où s'ouvre le procès des attentats de janvier 2015. Être français, c'est défendre le droit de faire rire, la liberté de railler, de moquer, de caricaturer, dont Voltaire soutenait qu'elle était la source de toutes les autres",
+      "confidence": 1.0,
+      "source_id": "Theme_faed3ee752f59bd21db52ea1c1fd41880e64480b5d7ed4546bd4f9863bcbe45c",
+      "target_id": "Theme_ecb254a258df7c3ab6877c161e06234a29227824f78a1a7d611dc4a6779ee310"
+    },
+    {
+      "source": "être français",
+      "relation": "SUPPORTS",
+      "target": "Voltaire",
+      "evidence": "Et je le dis au moment où s'ouvre le procès des attentats de janvier 2015. Être français, c'est défendre le droit de faire rire, la liberté de railler, de moquer, de caricaturer, dont Voltaire soutenait qu'elle était la source de toutes les autres",
+      "confidence": 1.0,
+      "source_id": "Theme_a8d98f6b0d3dc2ca95c05ba0bec548a4f9a5651e8de0195f66f886f3f8fb75c8",
+      "target_id": "Theme_faed3ee752f59bd21db52ea1c1fd41880e64480b5d7ed4546bd4f9863bcbe45c"
+    },
+    {
+      "source": "être français",
+      "relation": "SPOKE_ABOUT",
+      "target": "femme",
+      "evidence": "Être Français, c'est reconnaître en chaque femme, en chaque homme une même dignité",
+      "confidence": 1.0,
+      "source_id": "Theme_a8d98f6b0d3dc2ca95c05ba0bec548a4f9a5651e8de0195f66f886f3f8fb75c8",
+      "target_id": "Theme_86414357a534368e8c49cb88bdf47e389d412f0876b6b731e59e07eb793729c7"
+    },
+    {
+      "source": "être français",
+      "relation": "SPOKE_ABOUT",
+      "target": "homme",
+      "evidence": "Être Français, c'est reconnaître en chaque femme, en chaque homme une même dignité",
+      "confidence": 1.0,
+      "source_id": "Theme_a8d98f6b0d3dc2ca95c05ba0bec548a4f9a5651e8de0195f66f886f3f8fb75c8",
+      "target_id": "Theme_acc589b846708b69c385eab991cb15a0e0d88162b57a670355c0413fdb7bb158"
+    },
+    {
+      "source": "être français",
+      "relation": "SPOKE_ABOUT",
+      "target": "dignité",
+      "evidence": "Être Français, c'est reconnaître en chaque femme, en chaque homme une même dignité",
+      "confidence": 1.0,
+      "source_id": "Theme_a8d98f6b0d3dc2ca95c05ba0bec548a4f9a5651e8de0195f66f886f3f8fb75c8",
+      "target_id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "source": "être français",
+      "relation": "SPOKE_ABOUT",
+      "target": "justice",
+      "evidence": "Être Français, c'est aimer la justice",
+      "confidence": 1.0,
+      "source_id": "Theme_a8d98f6b0d3dc2ca95c05ba0bec548a4f9a5651e8de0195f66f886f3f8fb75c8",
+      "target_id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "source": "suffrage universel",
+      "relation": "MENTIONS",
+      "target": "suffrage universel",
+      "evidence": "suffrage universel",
+      "confidence": 1.0,
+      "source_id": "Theme_2222564a37789e754599b8f91bc0e30be91a0793295a95713c1e403808511a18",
+      "target_id": "Theme_2222564a37789e754599b8f91bc0e30be91a0793295a95713c1e403808511a18"
+    },
+    {
+      "source": "Droit de vote",
+      "relation": "MENTIONS",
+      "target": "Droit de vote",
+      "evidence": "Droit de vote accordé à tous les citoyens majeurs",
+      "confidence": 1.0,
+      "source_id": "Theme_314389fbceea301f2b54d994777e1151c7a3d4d1d8271fba3db65820207cbca8",
+      "target_id": "Theme_314389fbceea301f2b54d994777e1151c7a3d4d1d8271fba3db65820207cbca8"
+    },
+    {
+      "source": "SCHOELCHER",
+      "relation": "MENTIONS",
+      "target": "abolition de l'esclavage",
+      "evidence": "masculin et abolition de l'esclavage par SCHOELCHER en 1848",
+      "confidence": 1.0,
+      "source_id": "Person_65f71eac9289e4ee5f9b019bf7aeed871922c23eee232b0565326659ffd22b05",
+      "target_id": "Event_257e6eba930a0fd47a705bafdc52e01e1417e4486409b1e96cd4ef5d63cbed6d"
+    },
+    {
+      "source": "PÉGUY",
+      "relation": "MENTIONS",
+      "target": "République sociale",
+      "evidence": "PÉGUY, JAURÈS, BLUM, MENDES FRANCE ont porté haut la République sociale",
+      "confidence": 1.0,
+      "source_id": "Person_8a52223f5d6a26a4148e3a691402603c318472698084f41a3597b0d1920c3c1c",
+      "target_id": "Theme_464d859eb77aae2bc660c73482687fe7b4c66f86b3b29a0d734b5b8cfd123de1"
+    },
+    {
+      "source": "JAURÈS",
+      "relation": "MENTIONS",
+      "target": "République sociale",
+      "evidence": "PÉGUY, JAURÈS, BLUM, MENDES FRANCE ont porté haut la République sociale",
+      "confidence": 1.0,
+      "source_id": "Person_839c2276d0b80aadded341100b23d3d8fb3285d8ae1b3273c0cbc56c9073e777",
+      "target_id": "Theme_464d859eb77aae2bc660c73482687fe7b4c66f86b3b29a0d734b5b8cfd123de1"
+    },
+    {
+      "source": "BLUM",
+      "relation": "MENTIONS",
+      "target": "République sociale",
+      "evidence": "PÉGUY, JAURÈS, BLUM, MENDES FRANCE ont porté haut la République sociale",
+      "confidence": 1.0,
+      "source_id": "Person_2de1f4d3c4e971285944c031f855c9279fbc9018e61daf9d90986c6429570fba",
+      "target_id": "Theme_464d859eb77aae2bc660c73482687fe7b4c66f86b3b29a0d734b5b8cfd123de1"
+    },
+    {
+      "source": "MENDES FRANCE",
+      "relation": "MENTIONS",
+      "target": "République sociale",
+      "evidence": "PÉGUY, JAURÈS, BLUM, MENDES FRANCE ont porté haut la République sociale",
+      "confidence": 1.0,
+      "source_id": "Person_375f1c0db8b4fcf93afab33504fa7b87157abede381799142cc1fb727bd3220b",
+      "target_id": "Theme_464d859eb77aae2bc660c73482687fe7b4c66f86b3b29a0d734b5b8cfd123de1"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France, écrivait Marc BLOCH, est la patrie dont je ne saurais déraciner mon coeur. J'ai bu aux sources de sa culture. J'ai fait mien son passé. Je ne respire bien que sous son ciel et je me suis efforcé à mon tour de la défendre de mon mieux",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Villers-Cotterêts",
+      "evidence": "La France est en effet l'un des rares pays qui, avec l'ordonnance de Villers-Cotterêts de 1539, a été comme créée, engendrée par sa langue.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "City_6aab14668bdee637018a1a68554281503579fbe339dd9c176e5ba0e6fb326493"
+    },
+    {
+      "source": "CONDORCET",
+      "relation": "MENTIONS",
+      "target": "Lumières",
+      "evidence": ". Elle s'affirme chez CONDORCET et ROUSSEAU et tous les penseurs des Lumières.",
+      "confidence": 1.0,
+      "source_id": "Person_f155816f241fa304f9b5605ecb292690f5218dce3d595066ced79fbbddd4cd69",
+      "target_id": "Theme_6732c62137d1ca5442c751181b48396d98b70fee8cb1aa8e0c63bf00da0f0544"
+    },
+    {
+      "source": "ROUSSEAU",
+      "relation": "MENTIONS",
+      "target": "Lumières",
+      "evidence": ". Elle s'affirme chez CONDORCET et ROUSSEAU et tous les penseurs des Lumières.",
+      "confidence": 1.0,
+      "source_id": "Person_c6a9bfab0d0f95bf5a5b431a2183ff53de64d8423f5b965f1949081dc9f401b1",
+      "target_id": "Theme_6732c62137d1ca5442c751181b48396d98b70fee8cb1aa8e0c63bf00da0f0544"
+    }
+  ]
+}

@@ -1,0 +1,664 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Forum de Paris sur la paix",
+      "id": "Organization_59251225fe628fdc3e20fc9cd5c2fa63bde332bdeb460e7039944c49056cf68e"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Person",
+      "name": "la présidente élue de la Commission européenne",
+      "id": "Person_83839db5bfcf03609cd1d49d5edc69b55e00f1ce80d9a84db228b544371e8bf8"
+    },
+    {
+      "type": "Person",
+      "name": "le Vice-président chinois",
+      "id": "Person_6c1cb3c190e07fb108956bc18bae5da355b93579dbb6729e88e295e656e39294"
+    },
+    {
+      "type": "Person",
+      "name": "le président de la République démocratique du Congo",
+      "id": "Person_9b272b8e0f83b7b9cbd9d7395ea091b1d525e7f98c654b1413bd82ea6dc47e9e"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Event",
+      "name": "la Première Guerre mondiale",
+      "id": "Event_a918c981a28faebe4c07784abea7d577093d1a64f7eefc73a2bc313ba4e8e7c3"
+    },
+    {
+      "type": "Event",
+      "name": "la paix à la fin de la Première Guerre mondiale",
+      "id": "Event_8980e0fed90ee834ca2f2f2c42036fca26a884398a9fa28f080cd39c1f3ccdfa"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Europe de l'Est",
+      "id": "Country_30ad8e2b209a9f0c6818760ff540e9aa7d036751448309369f4688495210c44d"
+    },
+    {
+      "type": "Event",
+      "name": "Premier conflit mondial",
+      "id": "Event_32809d39cdfd39f5577cce7712a9aa19c51b8fee1c47f6379e02c957c9508ff8"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "système international",
+      "id": "Theme_f3dc7bf20832cffc239d43e7b00beefa16f11a137a900fbd215a7edc2729efb4"
+    },
+    {
+      "type": "Theme",
+      "name": "système politique et économique mondial",
+      "id": "Theme_ef477da3145b9f3f45f7b3d0419ef772513ee212ef8fbcc0aefbf4792ebd39a1"
+    },
+    {
+      "type": "Theme",
+      "name": "économie sociale de marché",
+      "id": "Theme_49602913441f2253972d20149b92e5162a88a3015553c121bd01215a279cf30c"
+    },
+    {
+      "type": "Theme",
+      "name": "ouverture",
+      "id": "Theme_d26e5520976d90b087bf131ac2ad0a496e1e510b33f2d5f036ee68ae2c8b562e"
+    },
+    {
+      "type": "Theme",
+      "name": "libre-échangisme",
+      "id": "Theme_c6ca4b20887b847f0a027b955127897385eefa9910374b1ad7c07a1d91665a58"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "Deuxième Guerre mondiale",
+      "id": "Theme_bcb4965cd1091e61583d50dbc13bae42cdc4bc07e46a5b134e0303da9d82ef7f"
+    },
+    {
+      "type": "Theme",
+      "name": "pauvreté",
+      "id": "Theme_95b7ed519406cd062b2738f35707ce2b499fc7f2e5179d4c674216f14032a781"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle d'équilibres",
+      "id": "Theme_e41a0db88446f8784805cd402f14549a4163196c0a303831a3b3e4f7e75e2f1c"
+    },
+    {
+      "type": "Theme",
+      "name": "crise de nos démocraties",
+      "id": "Theme_c366811ccb0c3a910bfc7e8bc7a06d82e966f9ea110a228f8f20024452b5c171"
+    },
+    {
+      "type": "Theme",
+      "name": "unilatéralisme",
+      "id": "Theme_342e1a521e5330e2b0c731e828d022dd37e12abf3f4c4afc45e249534dd6bd2b"
+    },
+    {
+      "type": "Theme",
+      "name": "problématique démographique",
+      "id": "Theme_07b9a90620f9babdaa5684d78de336a7978c7d1eb7c0df9ce351e347b3e6068f"
+    },
+    {
+      "type": "Theme",
+      "name": "phénomène des grandes migrations",
+      "id": "Theme_a7167970f46ab31a518dbd0efe4dfd60956e440834b3fc0919df404b2aa5114d"
+    },
+    {
+      "type": "Theme",
+      "name": "non-coopération",
+      "id": "Theme_ea3e5edbe7d556c5fa104916f28be16b5ff2fd0db7284c0694ce19cfd8db951d"
+    },
+    {
+      "type": "Theme",
+      "name": "hyper-régionalisme",
+      "id": "Theme_43ca1e7e68c8907672963e04a34ae42898612bfd5ffd64365bcff1514ce12898"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalisme",
+      "id": "Theme_d0f339441ee20ce073228a015cda668179f9e724fa0f925bc928aa3557010053"
+    },
+    {
+      "type": "Theme",
+      "name": "patriotisme",
+      "id": "Theme_087acc9b6c0e8015662dfef66f194239c6c87d3b7a1bdb126f4aa128ad0c4225"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "puissances nouvelles",
+      "id": "Theme_067fd8fbe0d507913069e091d826c7469c753c0b42e619a6ae3fc2ea6669a7da"
+    },
+    {
+      "type": "Country",
+      "name": "République française",
+      "id": "Country_49b9d5ff89f5b83fd1c60176c2e2e09c17d9e900c7df8d9d8068f97029ef2d5c"
+    },
+    {
+      "type": "Theme",
+      "name": "hégémonie",
+      "id": "Theme_57c11ef80057a84fd995626118ac010a2970c0b0b8280613a50e626e0862ae48"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Vice-Président",
+      "id": "Person_e4765a19dce9a3d0277ba453d03834ed208f62bb536343e6686fb362956c9352"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Person",
+      "name": "Maas",
+      "id": "Person_a291d65c867df0798458f0f917dd5ffd3412383ebe0f29cb7d83769334cf35ba"
+    },
+    {
+      "type": "Person",
+      "name": "Le Drian",
+      "id": "Person_86c86ad6b595ebdce31877eee3a36c0e7f7392aaa2722ba1d1ec80d68812705a"
+    },
+    {
+      "type": "Country",
+      "name": "Asie",
+      "id": "Country_125df38c941d6e9ca59fdabf4abad62d160982babf9162638b212439be445421"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale",
+      "id": "Organization_8f8e5049d1c21e2291ca3d39865c23e9d20927413f7abca05a47b2572d99f6e2"
+    },
+    {
+      "type": "Country",
+      "name": "Asie centrale",
+      "id": "Country_c163e68a89127ff2730e91bee7f0123e8bed626f3051e0c6e8bea5b85f0d275f"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le réchauffement climatique",
+      "id": "Theme_87fcffeb0b095d638b1ce229a807c21b51759f54208553ace6ac1f29815655a0"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Event",
+      "name": "dialogue sino-européen",
+      "id": "Event_67ead55e41f80aa21771db2a811ae401f221d6c5c6002ed3026832a09bd02237"
+    },
+    {
+      "type": "Event",
+      "name": "COP15 biodiversité",
+      "id": "Event_a18859ce02e2d17e9a7060b21a6f4dd47ec0af9cb0d452a79a5ae2f947f52c15"
+    },
+    {
+      "type": "Person",
+      "name": "Cher Président Tshisekedi",
+      "id": "Person_ba612d4f66dec0e1c6d561731d2ac963b07c733d60f75fbbea3b9a1321136f6c"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Tunisie",
+      "id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "Essebsi",
+      "id": "Person_fda25f9d4e23fbd8644f6943699f153fa7421ace4cf974aa1bd2501af9ee5d0c"
+    },
+    {
+      "type": "Theme",
+      "name": "paix durable",
+      "id": "Theme_7f2a3ea855cc2d556d4a06a9259a5acf1687b182503a7617fa3fb25f1a55cdb8"
+    },
+    {
+      "type": "Theme",
+      "name": "facteurs de déstabilisation",
+      "id": "Theme_abf26554db101a3b30a5c7a2d2b104d40b0ab136af7f997f7b6662d948d4adfa"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Organization",
+      "name": "forum",
+      "id": "Organization_71db17208520949372e49eb7dc7caebca99fd697b3a30b83e81a34cb371f4ad9"
+    },
+    {
+      "type": "Organization",
+      "name": "organisations internationales",
+      "id": "Organization_908a29865356744b6a26f2bfac9cd473010ea3da3f967ea11b2f9d66638771f5"
+    },
+    {
+      "type": "Organization",
+      "name": "ONG",
+      "id": "Organization_3e1586cef038ea96d5ab3c5a2d6496c339bffcc013fa18af180a38657091796f"
+    },
+    {
+      "type": "Organization",
+      "name": "fondations",
+      "id": "Organization_567181127ac996789fea72150d5bcb80f25b3afdd8eccedcd25982dc4093bb83"
+    },
+    {
+      "type": "Organization",
+      "name": "acteurs académiques",
+      "id": "Organization_881760c8e3b413f400aaf2ddbb8a2a91f82f1a54d230848a97bb56fec66f89f1"
+    },
+    {
+      "type": "Organization",
+      "name": "entreprises",
+      "id": "Organization_606ccd168312d17ec1eb9709077aac58b73cbc4caaca245ee7022b28c2b46c50"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre les discriminations",
+      "id": "Theme_72dfe8da858de87b1d1c04b2aea49b70abc2d51a065f5dfe3454b4a7c3e96699"
+    },
+    {
+      "type": "Theme",
+      "name": "accès aux droits",
+      "id": "Theme_070d08d9b728eaecca0e2007dd9079c2178dcb77cb1b7108cb18ca039c03ee39"
+    },
+    {
+      "type": "Theme",
+      "name": "construction de nouveaux équilibres et de nouveaux droits en matière de numérique",
+      "id": "Theme_64e6724af607e26cd845e2f3a48b9954054109d7459b3e88bff913195a5dbf1a"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le réchauffement climatique et pour la biodiversité",
+      "id": "Theme_6d57be92b1855a7e54a51c1b1403456898fb499d14ef2dddf0abeae4b6299ab8"
+    },
+    {
+      "type": "Theme",
+      "name": "structures durables pour faire face aux sujets migratoires",
+      "id": "Theme_eb28b28ab886a1b86e7c880448b4be76994272d52cbdbd9886f17c7ac78986be"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre les déséquilibres géographiques",
+      "id": "Theme_f9a019ad663e9a64eac9084729c20cf531724fa4ac9145ac9b40997fd52ae750"
+    },
+    {
+      "type": "Theme",
+      "name": "résolution des conflits",
+      "id": "Theme_a8dcd172e589039c99871fe2e7db066cb39c48dabca7beb1cd64197feab2f55d"
+    },
+    {
+      "type": "Organization",
+      "name": "B4IG",
+      "id": "Organization_eb7a1b145b2943761efd7c3aac65419b909037b49c01326f9fba00490f447c94"
+    },
+    {
+      "type": "Organization",
+      "name": "Partenariat pour l'information et la démocratie",
+      "id": "Organization_5154c1d3f15dbaea92e33836f770e0a75807c8f491cabf83ebac551c698b9429"
+    },
+    {
+      "type": "Organization",
+      "name": "Reporters sans frontières",
+      "id": "Organization_9c7bbb51a9aa00ea2b30a9e966d8db351f4ca1ffaccbb0f8e366e29ac8b05a12"
+    },
+    {
+      "type": "Event",
+      "name": "appel de Christchurch",
+      "id": "Event_89a0549a5cc8ed05a2ed637df4c97349c145a5d197650ee8e3d58e433bd320a8"
+    },
+    {
+      "type": "Theme",
+      "name": "initiatives nouvelles",
+      "id": "Theme_f25cee2e2a36c273a88dfab214fe91d7e5b5f4eebdc64b8f1bf9974b67234a37"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme contemporain",
+      "id": "Theme_d36c445c4da3269de5e564018946a01de88b59e96ead746672c7d3bcc7893741"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "alliances nouvelles",
+      "id": "Theme_b2bcf6de1fadbc6ce6686280eb167ff8bfa6c12ceb8e1b4415788b06c50ab4a6"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations",
+      "id": "Theme_3957cb051014b00717e7b2ec655cbcfa47c99687835fe48f9d3a8fbe1cedaead"
+    },
+    {
+      "type": "Person",
+      "name": "Ágnes Heller",
+      "id": "Person_20901a2721cb6cfe4054471c39f850d6035fa63ce6d82e86ee42ec8520351b60"
+    },
+    {
+      "type": "Person",
+      "name": "Trisha",
+      "id": "Person_e3037f7c7067755e2483c49e8d7beb8bb13994fcb2f7492460b91e960a84490e"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de révolte",
+      "id": "Theme_9d784922575a80a812471a365e340b9742a355c04de25ab9fae2fac6cd65fb5f"
+    },
+    {
+      "type": "Theme",
+      "name": "indignation",
+      "id": "Theme_5bafb1d30bcc4098e73bf2e60fdb46d4f674b1dc13da7c174c9831ca72f871d5"
+    },
+    {
+      "type": "Theme",
+      "name": "héroïsme",
+      "id": "Theme_ae5e6510d3e2c9db02fed9dc88f0e3bfd14b6f346edd8b9a08857f626e298f10"
+    },
+    {
+      "type": "Theme",
+      "name": "disponibilité",
+      "id": "Theme_876b3e0d0931f032eaf191d9b24214de21a9c676b248d13c130ab0cf26029a39"
+    },
+    {
+      "type": "Theme",
+      "name": "lâcheté",
+      "id": "Theme_a0fdca8a6c173a1c8c7d9cd3f23bbb9630a1b40376d01e0128fee0033d04923d"
+    },
+    {
+      "type": "Theme",
+      "name": "confort",
+      "id": "Theme_59afc7aa6f376606d6d67a80621f4d5133900db73cf75779769eaa8d6070218c"
+    },
+    {
+      "type": "Theme",
+      "name": "guerres",
+      "id": "Theme_1e54399c3e4dfb567cbd812434538394e310041b229559b071495f94d0277ffd"
+    },
+    {
+      "type": "Theme",
+      "name": "conflits",
+      "id": "Theme_c8dada83bc9f875690ebf45f2f35fa2a2c3744cd07e0f2646a262af9b8e292dd"
+    },
+    {
+      "type": "Theme",
+      "name": "déséquilibres",
+      "id": "Theme_20e78b47b37f9c462055719090cac55bde16cb82c3d63f368df2f188518638cc"
+    },
+    {
+      "type": "Theme",
+      "name": "quotidien",
+      "id": "Theme_31be573cbacf48a32ab882287da04350115d6d5bec2b41a7b117bfe7d1f358c6"
+    },
+    {
+      "type": "Theme",
+      "name": "Forum de Paris sur la paix",
+      "id": "Theme_62dc9bf68b9d4e914deb99de4b0b8ee84032f38e9749c34520a36c595caf63f1"
+    },
+    {
+      "type": "Person",
+      "name": "le directeur général",
+      "id": "Person_463d70ca9d1526c2462218e4b262cf9106b9fa8f9ec460cc4948f3f713c42c86"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Madame la Présidente",
+      "relation": "SPOKE_ABOUT",
+      "target": "la paix à la fin de la Première Guerre mondiale",
+      "evidence": "Alors, vous le disiez, Madame la Présidente, il y a hier 101 ans, nous fêtions la paix à la fin de la Première Guerre mondiale, pas seulement en France, dans toute l'Europe.",
+      "confidence": 1.0,
+      "source_id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931",
+      "target_id": "Event_8980e0fed90ee834ca2f2f2c42036fca26a884398a9fa28f080cd39c1f3ccdfa"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "il y a hier 101 ans, nous fêtions la paix à la fin de la Première Guerre mondiale, pas seulement en France, dans toute l'Europe.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "l'Europe pensait à ce moment-là",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Allemagne",
+      "relation": "LOCATED_IN",
+      "target": "Europe de l'Est",
+      "evidence": "en Allemagne, mais partout en Europe de l'Est",
+      "confidence": 1.0,
+      "source_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6",
+      "target_id": "Country_30ad8e2b209a9f0c6818760ff540e9aa7d036751448309369f4688495210c44d"
+    },
+    {
+      "source": "Europe",
+      "relation": "ALLIED_WITH",
+      "target": "Allemagne",
+      "evidence": "en Allemagne, mais partout en Europe de l'Est",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "nationalisme",
+      "relation": "SUPPORTS",
+      "target": "guerre",
+      "evidence": "Le nationalisme, c'est la guerre",
+      "confidence": 1.0,
+      "source_id": "Theme_d0f339441ee20ce073228a015cda668179f9e724fa0f925bc928aa3557010053",
+      "target_id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "ALLIED_WITH",
+      "target": "Chine",
+      "evidence": "l'initiative de connectivité de l'Union européenne est un complément utile et une voie de ce dialogue aussi avec la Chine.",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "Asie",
+      "relation": "MENTIONS",
+      "target": "lutte contre le réchauffement climatique",
+      "evidence": "le chemin, le rôle que l'Asie pourra construire, est un élément extrêmement structurant. 2020 à cet égard comporte plusieurs rendez-vous, celui d'un dialogue sino-européen où la lutte contre le réchauffement climatique, comme le sujet économique, sera décisif",
+      "confidence": 1.0,
+      "source_id": "Country_125df38c941d6e9ca59fdabf4abad62d160982babf9162638b212439be445421",
+      "target_id": "Theme_87fcffeb0b095d638b1ce229a807c21b51759f54208553ace6ac1f29815655a0"
+    },
+    {
+      "source": "Asie",
+      "relation": "MENTIONS",
+      "target": "biodiversité",
+      "evidence": "le chemin, le rôle que l'Asie pourra construire, est un élément extrêmement structurant. 2020 à cet égard comporte plusieurs rendez-vous, celui d'un dialogue sino-européen où la lutte contre le réchauffement climatique, comme le sujet économique, sera décisif ; celui aussi de la COP15 biodiversité, qui se tiendra en Chine, est un rendez-vous essentiel pour l'ordre international.",
+      "confidence": 1.0,
+      "source_id": "Country_125df38c941d6e9ca59fdabf4abad62d160982babf9162638b212439be445421",
+      "target_id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "source": "Chine",
+      "relation": "LOCATED_IN",
+      "target": "Chine",
+      "evidence": "2020 à cet égard comporte plusieurs rendez-vous, celui d'un dialogue sino-européen où la lutte contre le réchauffement climatique, comme le sujet économique, sera décisif ; celui aussi de la COP15 biodiversité, qui se tiendra en Chine, est un rendez-vous essentiel pour l'ordre international.",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "dialogue sino-européen",
+      "relation": "SPOKE_ABOUT",
+      "target": "lutte contre le réchauffement climatique",
+      "evidence": "2020 à cet égard comporte plusieurs rendez-vous, celui d'un dialogue sino-européen où la lutte contre le réchauffement climatique, comme le sujet économique, sera décisif",
+      "confidence": 1.0,
+      "source_id": "Event_67ead55e41f80aa21771db2a811ae401f221d6c5c6002ed3026832a09bd02237",
+      "target_id": "Theme_87fcffeb0b095d638b1ce229a807c21b51759f54208553ace6ac1f29815655a0"
+    },
+    {
+      "source": "COP15 biodiversité",
+      "relation": "SPOKE_ABOUT",
+      "target": "biodiversité",
+      "evidence": "2020 à cet égard comporte plusieurs rendez-vous, celui d'un dialogue sino-européen où la lutte contre le réchauffement climatique, comme le sujet économique, sera décisif ; celui aussi de la COP15 biodiversité, qui se tiendra en Chine, est un rendez-vous essentiel pour l'ordre international.",
+      "confidence": 1.0,
+      "source_id": "Event_a18859ce02e2d17e9a7060b21a6f4dd47ec0af9cb0d452a79a5ae2f947f52c15",
+      "target_id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "source": "Nations unies",
+      "relation": "LOCATED_IN",
+      "target": "Afrique",
+      "evidence": "dans le cadre des Nations unies, permettant d'accompagner mieux qu'on ne le fait aujourd'hui cette capacité sécuritaire de l'Afrique",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "source": "organisations internationales",
+      "relation": "ALLIED_WITH",
+      "target": "ONG",
+      "evidence": "entre les gouvernements, les organisations internationales, les ONG, fondations, acteurs académiques et entreprises",
+      "confidence": 1.0,
+      "source_id": "Organization_908a29865356744b6a26f2bfac9cd473010ea3da3f967ea11b2f9d66638771f5",
+      "target_id": "Organization_3e1586cef038ea96d5ab3c5a2d6496c339bffcc013fa18af180a38657091796f"
+    },
+    {
+      "source": "organisations internationales",
+      "relation": "ALLIED_WITH",
+      "target": "fondations",
+      "evidence": "entre les gouvernements, les organisations internationales, les ONG, fondations, acteurs académiques et entreprises",
+      "confidence": 1.0,
+      "source_id": "Organization_908a29865356744b6a26f2bfac9cd473010ea3da3f967ea11b2f9d66638771f5",
+      "target_id": "Organization_567181127ac996789fea72150d5bcb80f25b3afdd8eccedcd25982dc4093bb83"
+    },
+    {
+      "source": "organisations internationales",
+      "relation": "ALLIED_WITH",
+      "target": "acteurs académiques",
+      "evidence": "entre les gouvernements, les organisations internationales, les ONG, fondations, acteurs académiques et entreprises",
+      "confidence": 1.0,
+      "source_id": "Organization_908a29865356744b6a26f2bfac9cd473010ea3da3f967ea11b2f9d66638771f5",
+      "target_id": "Organization_881760c8e3b413f400aaf2ddbb8a2a91f82f1a54d230848a97bb56fec66f89f1"
+    },
+    {
+      "source": "organisations internationales",
+      "relation": "ALLIED_WITH",
+      "target": "entreprises",
+      "evidence": "entre les gouvernements, les organisations internationales, les ONG, fondations, acteurs académiques et entreprises",
+      "confidence": 1.0,
+      "source_id": "Organization_908a29865356744b6a26f2bfac9cd473010ea3da3f967ea11b2f9d66638771f5",
+      "target_id": "Organization_606ccd168312d17ec1eb9709077aac58b73cbc4caaca245ee7022b28c2b46c50"
+    }
+  ]
+}

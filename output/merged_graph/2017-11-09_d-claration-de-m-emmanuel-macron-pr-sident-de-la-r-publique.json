@@ -1,0 +1,575 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Benjamin GRIVEAUX",
+      "id": "Person_18d3f3ffce7dc4d9ec6b71b9e21bc699fa4faba997f915e6201d9bce1e6775f7"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président de la Chambre de Commerce",
+      "id": "Person_109e049f44985442f246e72779b52a19d5b5916fc30276ddc2c098837d0872be"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président de l'Université",
+      "id": "Person_c9ca678f890eb79ec654bae4acae6ff1410d24dd82327e3c13d6059c4393389c"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames les Parlementaires",
+      "id": "Person_e41c75c022c82f01966237aacf25eadeda9ebe05a38448adf933ad477172493a"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs, chers amis",
+      "id": "Person_8705d494261ac0eefde25ebe39bcd11bbbfdf308038a8b4c63f25709dd2b6890"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Frédéric SANCHEZ",
+      "id": "Person_56ac9209aaab3aa1c29192d16127011446ad1287d1dc1f289827f53b2a9aa2e5"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Ministre de la Culture",
+      "id": "Person_b53e1e4f4918e1866e97d049649b5577817a7953590e72078f1bfcdda021a236"
+    },
+    {
+      "type": "Person",
+      "name": "Cheikh ZAYED",
+      "id": "Person_af66cb9640c8cb5f37f53f9540a912513f5dd8e818bdc96efeae4796be00c199"
+    },
+    {
+      "type": "City",
+      "name": "Abu Dabi",
+      "id": "City_8c5f532c9547cd5c24bf18c9b4c7779e6c1ebd077ce06eafa4b093cd61bd09bf"
+    },
+    {
+      "type": "City",
+      "name": "Louvre d'Abu Dabi",
+      "id": "City_7bfca37459c78e0c8897bb36ab18a1df8fe2a93421b4300ecc9d4680b41998b8"
+    },
+    {
+      "type": "Country",
+      "name": "Moyen-Orient",
+      "id": "Country_2de49a8ab091aa1bdb7077eae809b237c5996590ecd7c342f4752b3b30411fb1"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "relations avec les entreprises",
+      "id": "Theme_f4e26e8beadb4665b3dde621f7a574a01d894b0fc9c8f689b4a9474c12a1528c"
+    },
+    {
+      "type": "Theme",
+      "name": "talents",
+      "id": "Theme_3b7a6c56442c49486f7601fa3bced61cced2f4aadaf5f134fda32ff8e738503d"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveaux secteurs",
+      "id": "Theme_a8f3848d59a72a8078f03c73415d565e1e155ed04105d3f1fc49d7b6d20fb9ef"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles villes intelligentes",
+      "id": "Theme_3916c086077675db33cfd2d4f59c9c6f3b27da495beef4f837c1a57d8ce3b2ae"
+    },
+    {
+      "type": "Theme",
+      "name": "ouverture",
+      "id": "Theme_d26e5520976d90b087bf131ac2ad0a496e1e510b33f2d5f036ee68ae2c8b562e"
+    },
+    {
+      "type": "Theme",
+      "name": "Louvre d'Abu Dabi",
+      "id": "Theme_919d754c62a9a672558e4e43c3b4c5acf4ad85888059ca7f984e666cc9d3b313"
+    },
+    {
+      "type": "Theme",
+      "name": "université Abu Dhabi",
+      "id": "Theme_c838a109767a65c7c576f83920f92b62bd113d597f86fdffa5ff3a6117e31d50"
+    },
+    {
+      "type": "Theme",
+      "name": "ADN",
+      "id": "Theme_087205ceac5a3e01501777ebb5755f159888dbbe9f2d997f551f2a5195d42a95"
+    },
+    {
+      "type": "Theme",
+      "name": "bataille de l'ouverture",
+      "id": "Theme_f9b6c8817e06f0f3b307ad8f8d60b6b0b95096058deec4aba3aabe0368bbe9ca"
+    },
+    {
+      "type": "Theme",
+      "name": "bataille de l'ambition",
+      "id": "Theme_2537eeff9d40270d48a6f9e72404678054545874da1bf51dc235b2aa909d2467"
+    },
+    {
+      "type": "Country",
+      "name": "Abu Dhabi",
+      "id": "Country_f440afc58774607e70ba97ea5d96872c6beb69592377fe697d3008bd08ca8347"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "monde",
+      "id": "Theme_36839915f4f916c517dee200dc570577a7da1e70f69dc68e095ea54120f4c55e"
+    },
+    {
+      "type": "Theme",
+      "name": "religion",
+      "id": "Theme_164a57edd3bd6e51e9da15e6b184baa243f42cb6bd764af8a346437a5132deac"
+    },
+    {
+      "type": "Theme",
+      "name": "Daech",
+      "id": "Theme_177f1ab5cbe65069b78c1ef3a641d7a476d468b77872a8642e1dc9a36a704129"
+    },
+    {
+      "type": "Theme",
+      "name": "lumière",
+      "id": "Theme_3984944089e9f39a230693e5aba5f1d318a029a2677fc10dc8ea8532fc507c8f"
+    },
+    {
+      "type": "Theme",
+      "name": "respect",
+      "id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "type": "Theme",
+      "name": "raison",
+      "id": "Theme_9e9d8f485579e57f1eef713302cd106d43b9f1ff37f7d0bbbf7fe3484509fd78"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Prince Mohammed BEN ZAYED",
+      "id": "Person_4ddb3a20107c1b48c3240858e207ec4af9406b73f2aafab26e347843ebf69534"
+    },
+    {
+      "type": "Organization",
+      "name": "EDF",
+      "id": "Organization_a2183f95d437456d4b4affc3a6618e8faf7d161757f235e7560aeca5540433a9"
+    },
+    {
+      "type": "Organization",
+      "name": "DEWA",
+      "id": "Organization_f10c99e346148ec81a0728b4cfff4444c213c652dbb8a0f5f61138594fa62bd1"
+    },
+    {
+      "type": "Organization",
+      "name": "Akuo Energy",
+      "id": "Organization_707259d2dc89ba2acd4e92972a4dab3ba8676f9b67110894194e735a933f6476"
+    },
+    {
+      "type": "Organization",
+      "name": "MASDAR",
+      "id": "Organization_0ef05ebe2d65e735bb7bc238f78e98a6def872317810da8ef636bec08dcd6e49"
+    },
+    {
+      "type": "Organization",
+      "name": "TOTAL",
+      "id": "Organization_559564d9b17106b6bb250c645551ad905b530d212d84a924205cddb718712d8e"
+    },
+    {
+      "type": "Organization",
+      "name": "CNES",
+      "id": "Organization_9cac143218443645cc33132f43bf3a030f9b428a1f2d8be5768d3563ede6e5b8"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence Spatiale émiratie",
+      "id": "Organization_91b9f501666e7134c07889366e07ef9d6524da04e0a343e2a03347ad52af5076"
+    },
+    {
+      "type": "Organization",
+      "name": "Centre International Financier de Dubaï",
+      "id": "Organization_70d1f22f4d17af80a1b8f5f90c1d6c9319f4ea6574b4d40f1d047a00de20bd29"
+    },
+    {
+      "type": "Organization",
+      "name": "Europlace",
+      "id": "Organization_efbd5b14d3590668cbbadce455be184f36a9282d95b116fcdab461ba16d51dca"
+    },
+    {
+      "type": "Organization",
+      "name": "AIRBUS",
+      "id": "Organization_41a65ef42423e17c2e554b35b23788a40b455d82f989891061352dba64083a6e"
+    },
+    {
+      "type": "Organization",
+      "name": "JCDECAUX",
+      "id": "Organization_fafdf7661c4046a3268ef03cd8543831badd086ed9a8a2940cfc8a1f5d92b072"
+    },
+    {
+      "type": "Organization",
+      "name": "ENGIE",
+      "id": "Organization_8c5573022fe930b26f9875ad9ce269f1b2a5bcafa36e461aaf878a9b621e666d"
+    },
+    {
+      "type": "Organization",
+      "name": "MUBADALA",
+      "id": "Organization_bba3488b21e9c2ea38c7233890659585e8615e3ae8f09936d2eb03c353fe4b3e"
+    },
+    {
+      "type": "Organization",
+      "name": "BPI France",
+      "id": "Organization_a02fb5e07e90391cf524f5ea2aa5c5ec5df5bb1df4d2816a353b6ad4b8676c14"
+    },
+    {
+      "type": "Organization",
+      "name": "CAISSE DES DEPOTS ET CONSIGNATIONS",
+      "id": "Organization_6c653c3f53cfbf6a802f4e193d30815ed9c8913bdbc0bff26dff7097e182d52c"
+    },
+    {
+      "type": "Country",
+      "name": "Dubai",
+      "id": "Country_80483f0d3d6bf48edeeb536debaf39c2e72b6db1c8061fb4a28793bb41b8ec71"
+    },
+    {
+      "type": "Organization",
+      "name": "BPI",
+      "id": "Organization_4681aacf523d8e331fa0c7347000191d8d7836dd24aef197813b3c53297ac26a"
+    },
+    {
+      "type": "Organization",
+      "name": "CNIM",
+      "id": "Organization_cf94830cd1d7fd6a1cfdaf07068d66802967a85470f12fe3cb18678dacbf9868"
+    },
+    {
+      "type": "Country",
+      "name": "nos deux pays",
+      "id": "Country_2bd470f2122568640e3762e9bf14400458b6f8d21f909f537011d97d9af8f053"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelle phase",
+      "id": "Theme_25770914b41ea9b3ed6520ed94887943ca158e0e229ef08f1804e6d9b8933cb2"
+    },
+    {
+      "type": "Theme",
+      "name": "Exposition Universelle",
+      "id": "Theme_2a9bdf0386275962cee88e9f31ea6c17570f634e008366679c703373e341a8ea"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles perspectives",
+      "id": "Theme_1875e4c03ca1a64d314b3f2717b168bfa3f175107eb61dff21638deb5d80186e"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveaux projets",
+      "id": "Theme_1d4b5fe824db5af16efb9e6b5cbfc76bfc0269dd35170bb6e44edeeeb5ba4dc1"
+    },
+    {
+      "type": "Theme",
+      "name": "participation",
+      "id": "Theme_85fdf3848efe4d99bf43da0a3ed4f17f1c826db205e8527369171dc754bcf21a"
+    },
+    {
+      "type": "Theme",
+      "name": "Exposition universelle de 1937 à Paris",
+      "id": "Theme_8727fcb338f7ed6ed68ece2f6f2cf4eef4fb517a4ae6e2fc0ee98ad5ef695b49"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "bâtiments à Paris",
+      "id": "Theme_04cba665785475e0b3cc6e5173b8f286e8f1a433dc9627e659f99f54828bae55"
+    },
+    {
+      "type": "Theme",
+      "name": "dénoncer la guerre",
+      "id": "Theme_4429dfb37a762f057709cb5081f81dd417da6273d7843ae740862d3d744159a2"
+    },
+    {
+      "type": "Theme",
+      "name": "Espagne",
+      "id": "Theme_74d0453f0cf4d931896dfb9cfd3209c23eb24603f3ac4c4e61b697b06fa450fd"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelle mobilité",
+      "id": "Theme_3b5eadfbe5064700aa0df1de02d95f0cc1d33beffc37dea39ae3bec5a2d2180a"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles énergies renouvelables",
+      "id": "Theme_04dd178caae1a189ff8dc9aa20ed979628f994267d5aa8c9b0c4882c090e5efd"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelle France",
+      "id": "Theme_255b442487343760f26513a0911844d645fd19fe52c38066ab9e5992b01f9494"
+    },
+    {
+      "type": "Theme",
+      "name": "musée",
+      "id": "Theme_b11e0811ef01199590a2b1938b4c831f984dce7a1ea1ff388a7cb829595881d5"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "services",
+      "id": "Theme_8299ccf1b63b51d91e44358ba39932fb7db2cd2f142bfe27817e5ce17318f1ca"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveau projet",
+      "id": "Theme_e03b9a701c3be1441336864dcb502b75f5499b200b081b1cd010b0a9998a22cd"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelle ambition pour le XXIème siècle",
+      "id": "Theme_2b97860fc2a3e30302a8a578653af8d6d7dc7d312a17256917dbcdd69f97b722"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveau marché du travail",
+      "id": "Theme_a23cc2e66a465b713d6564fe5346e546bc02ed3d8511d4791d44cafbc5b40cfb"
+    },
+    {
+      "type": "Theme",
+      "name": "formation professionnelle",
+      "id": "Theme_d846003645ad5e5e511208f664265ae5edc2a1f2c5d843f3ff4622d434eb6c71"
+    },
+    {
+      "type": "Theme",
+      "name": "formation continue",
+      "id": "Theme_d18e1a9a5a0d28b86c4c26d89c7251127d3b6568d657b729496a9bce421860ba"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur numérique",
+      "id": "Theme_1f482b7b9d050f0a63fbbf4fd7c714c5673b3a2c2c059ba6f73b664bbc8bffa1"
+    },
+    {
+      "type": "Theme",
+      "name": "virage",
+      "id": "Theme_e13e568cf9c5674c95445b54c17c54c89025f26d6ef907a01e7ad70c8ecf9c43"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie automobile",
+      "id": "Theme_0a894383ba6383fb9909ddb48c28194ba33635fb32f87c2d1e64ee2a3ff62c5b"
+    },
+    {
+      "type": "Country",
+      "name": "Notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "City",
+      "name": "Wall Street",
+      "id": "City_f4d92e8cbf15bbb15aeb54452689493a633a63298ed6b24a930b0ebf9e9725cc"
+    },
+    {
+      "type": "City",
+      "name": "Londres",
+      "id": "City_46110e3e9c35de9d2cda1109fbec5fe7701b958198ac1143e8e5aa66bd4be03f"
+    },
+    {
+      "type": "Theme",
+      "name": "projet",
+      "id": "Theme_e14263541610d680dfa39ef9a4ababe5c0301050559f560e38f9c0bf71776801"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunes",
+      "id": "Theme_a20dcaf37efe496f33d1e4c4be9f3c3dabe56fc83fe45c815f1d76fdaaef0dcf"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "projet culturel",
+      "id": "Theme_ac126dc19b9334bea410748815c2ab4e759c9834101c0d91997301f63ccab85d"
+    },
+    {
+      "type": "Country",
+      "name": "nos pays",
+      "id": "Country_0aebaac6c0b4cedc336e01f1d7aeed319b030c3cfc41632b79be2d790a1fdc24"
+    },
+    {
+      "type": "Country",
+      "name": "nos régions",
+      "id": "Country_70a3ccd48d3dae80a832b012411883328a76fd1b54a5e934792a1345cdf1f79f"
+    },
+    {
+      "type": "Country",
+      "name": "le monde",
+      "id": "Country_7deefdcfd5160121c335c53e52dc4a9213c42a573a69eed7a3e1dd96d9cfc7d3"
+    },
+    {
+      "type": "Person",
+      "name": "mon homologue",
+      "id": "Person_15abc6bc504eb09529fbb6d72d75b9558f1f80d8ed455e838aa270a23fdbc2f2"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Madame la Ministre de la Culture",
+      "relation": "VISITED",
+      "target": "Louvre d'Abu Dabi",
+      "evidence": "Nous étions avec vous, Madame la Ministre de la Culture, et le Cheikh ZAYED hier, dans ce magnifique bâtiment du Louvre d'Abu Dabi",
+      "confidence": 1.0,
+      "source_id": "Person_b53e1e4f4918e1866e97d049649b5577817a7953590e72078f1bfcdda021a236",
+      "target_id": "Theme_919d754c62a9a672558e4e43c3b4c5acf4ad85888059ca7f984e666cc9d3b313"
+    },
+    {
+      "source": "Madame la Ministre de la Culture",
+      "relation": "ALLIED_WITH",
+      "target": "Cheikh ZAYED",
+      "evidence": "Nous étions avec vous, Madame la Ministre de la Culture, et le Cheikh ZAYED hier, dans ce magnifique bâtiment du Louvre d'Abu Dabi",
+      "confidence": 1.0,
+      "source_id": "Person_b53e1e4f4918e1866e97d049649b5577817a7953590e72078f1bfcdda021a236",
+      "target_id": "Person_af66cb9640c8cb5f37f53f9540a912513f5dd8e818bdc96efeae4796be00c199"
+    },
+    {
+      "source": "Louvre d'Abu Dabi",
+      "relation": "LOCATED_IN",
+      "target": "Abu Dabi",
+      "evidence": "Nous étions avec vous, Madame la Ministre de la Culture, et le Cheikh ZAYED hier, dans ce magnifique bâtiment du Louvre d'Abu Dabi",
+      "confidence": 1.0,
+      "source_id": "Theme_919d754c62a9a672558e4e43c3b4c5acf4ad85888059ca7f984e666cc9d3b313",
+      "target_id": "City_8c5f532c9547cd5c24bf18c9b4c7779e6c1ebd077ce06eafa4b093cd61bd09bf"
+    },
+    {
+      "source": "Centre International Financier de Dubaï",
+      "relation": "ALLIED_WITH",
+      "target": "Europlace",
+      "evidence": "un accord de coopération entre le Centre International Financier de Dubaï et Europlace",
+      "confidence": 1.0,
+      "source_id": "Organization_70d1f22f4d17af80a1b8f5f90c1d6c9319f4ea6574b4d40f1d047a00de20bd29",
+      "target_id": "Organization_efbd5b14d3590668cbbadce455be184f36a9282d95b116fcdab461ba16d51dca"
+    },
+    {
+      "source": "MUBADALA",
+      "relation": "ALLIED_WITH",
+      "target": "BPI France",
+      "evidence": "une plateforme de co-investissements dans les start-ups et les technologies signee entre MUBADALA et BPI France",
+      "confidence": 1.0,
+      "source_id": "Organization_bba3488b21e9c2ea38c7233890659585e8615e3ae8f09936d2eb03c353fe4b3e",
+      "target_id": "Organization_a02fb5e07e90391cf524f5ea2aa5c5ec5df5bb1df4d2816a353b6ad4b8676c14"
+    },
+    {
+      "source": "MUBADALA",
+      "relation": "ALLIED_WITH",
+      "target": "CAISSE DES DEPOTS ET CONSIGNATIONS",
+      "evidence": "un fonds d'infrastructure de 500 millions d'euros entre MUBADALA et la CAISSE DES DEPOTS ET CONSIGNATIONS",
+      "confidence": 1.0,
+      "source_id": "Organization_bba3488b21e9c2ea38c7233890659585e8615e3ae8f09936d2eb03c353fe4b3e",
+      "target_id": "Organization_6c653c3f53cfbf6a802f4e193d30815ed9c8913bdbc0bff26dff7097e182d52c"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "nouvelle France",
+      "evidence": "Notre projet consiste à réformer en profondeur notre pays. Il s'agit de recréer une nouvelle France, qu'elle soit dans une situation de succès dans ce nouvel environnement.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_255b442487343760f26513a0911844d645fd19fe52c38066ab9e5992b01f9494"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "musée",
+      "evidence": "Je suis très heureux que vous ayez choisi la France pour créer ce nouveau musée.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_b11e0811ef01199590a2b1938b4c831f984dce7a1ea1ff388a7cb829595881d5"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "industrie",
+      "evidence": "La France est un pays d'excellence, de culture, d'art, mais sachez également que la France est également un pays d'excellence dans le domaine de l'industrie, de l'énergie et des services.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "énergie",
+      "evidence": "La France est un pays d'excellence, de culture, d'art, mais sachez également que la France est également un pays d'excellence dans le domaine de l'industrie, de l'énergie et des services.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "services",
+      "evidence": "La France est un pays d'excellence, de culture, d'art, mais sachez également que la France est également un pays d'excellence dans le domaine de l'industrie, de l'énergie et des services.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_8299ccf1b63b51d91e44358ba39932fb7db2cd2f142bfe27817e5ce17318f1ca"
+    }
+  ]
+}

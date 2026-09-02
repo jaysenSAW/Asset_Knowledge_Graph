@@ -1,0 +1,945 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "ONU",
+      "id": "Organization_8fe3e517167eebcfcb1c541c20f6aeb0a346c6c70b461e4d8ec8a469cdf70167"
+    },
+    {
+      "type": "Organization",
+      "name": "Société des Nations",
+      "id": "Organization_81960dfce680efc6d07b6d3dcfb4753fc6783e13d0fad72a2a2ea3ef0e4095ae"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "divisions",
+      "id": "Theme_ce451808c01abd1c5ee14311852bad0d7a31777f5f93d1177ebc0268ac0aca6c"
+    },
+    {
+      "type": "Theme",
+      "name": "droits qu'elle s'était jurée de garantir",
+      "id": "Theme_e4e0e5d33536d16e08c21496326c0e742c2abbcb74941de2ce23254ec1b3fa56"
+    },
+    {
+      "type": "Theme",
+      "name": "relativisme culturel",
+      "id": "Theme_b1aef23914ca95618e5193bed10f1856fe5a55d298fb79fb87d2be367ead4026"
+    },
+    {
+      "type": "Theme",
+      "name": "universalité",
+      "id": "Theme_29a5c4531beb8bad8a5076f3e9ee955d0e95adf9a48925753d68fe7f788f3e27"
+    },
+    {
+      "type": "Theme",
+      "name": "espérance",
+      "id": "Theme_033f833af6388502bfc94da349539bb4ad4154d73fa77dd35a2a0f476e1f61cc"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée générale des Nations unies",
+      "id": "Organization_61045914aa1d171f422d3b6a1e356c13816703b1b3021ac196e2e21552bef2bf"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Secrétaire général",
+      "id": "Organization_bf41bc6aa21451ecd4c1a62e4f450fbfd9eba7fb9d89ef79c876c3346043800a"
+    },
+    {
+      "type": "Organization",
+      "name": "Chefs d'Etat et de Gouvernement",
+      "id": "Organization_9d91cddbc90ab026edb99cd9869824538ff790f2695112cfbda5446c107cd8c3"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Law",
+      "name": "Accord de Vienne de 2015",
+      "id": "Law_167ab98077ecbbdcbb12b77c268019c13426715e79b49e8e43a3d3362063ef0b"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "Palestine",
+      "id": "Country_b1ebd722dd8ffa39d4f6ceb5282cae944d16f26dce1689b04cbaf84077610527"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "déséquilibres contemporains",
+      "id": "Theme_b82639f856db4e8c3f58701525f3f98415fb4ba275b02c6315578c71675d2017"
+    },
+    {
+      "type": "Theme",
+      "name": "loi du plus fort",
+      "id": "Theme_cf4987ec121dd01229c27cca9438dce4f81c276d5cec6ab77c065589d8123b2c"
+    },
+    {
+      "type": "Theme",
+      "name": "légitimité",
+      "id": "Theme_5a15fb608d164ddf2a343ca75c152792279c6e3729de315db8a48a3fd6f1470f"
+    },
+    {
+      "type": "Theme",
+      "name": "légalité",
+      "id": "Theme_985d757024f33e06be32a7da5a7d020c813c69000c62dd34fd76be6fcca86c81"
+    },
+    {
+      "type": "Theme",
+      "name": "troisième voie possible",
+      "id": "Theme_6c1ebf744dffe509eec83750f45821e3014cf2b325ff0e57aa2a60d476a63d59"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle d'hyperpuissance",
+      "id": "Theme_00c11e95dc68140baf0c3d1f627922312c2033ca3c5bd8753d3075dffb148b77"
+    },
+    {
+      "type": "Theme",
+      "name": "instabilité du monde",
+      "id": "Theme_6ab28e8ce54812366caa30d6940bbb27d51d75b9e0413371a22a179699e40eaa"
+    },
+    {
+      "type": "Theme",
+      "name": "puissances multiples",
+      "id": "Theme_f4f97a0aca34db2cca0191452457152abf11d99cf8f1e6be1bd37528e763384f"
+    },
+    {
+      "type": "Theme",
+      "name": "souverainetés",
+      "id": "Theme_667040fe10e745ff09ddce316f1bb9ed7985428244fa9eeffc7f4f3d3fe7f088"
+    },
+    {
+      "type": "Theme",
+      "name": "coopérations régionales",
+      "id": "Theme_2559fbd83d1a8346c173f0010704745cb90746ccb38aba928f4b5ba16bc068b2"
+    },
+    {
+      "type": "Theme",
+      "name": "crise contemporaines",
+      "id": "Theme_387f82bda270f4c1b43b865ef11b61ed5906e13ac9f69de908d0d1e43d79fec7"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Astana",
+      "id": "Country_a4a7c4570d0eafd23cd620213d248c08d588524a2ff2154a46186abef31a01e6"
+    },
+    {
+      "type": "Organization",
+      "name": "Small Group",
+      "id": "Organization_a8203d0048078e460c52f0b1e6d2e752b9d59154b7a38e1fe1fee650be901f47"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "crise humanitaire",
+      "id": "Theme_0f6546941d41db45f8940d36a4dec926d364835cecd6a51149fb6063b6520d2d"
+    },
+    {
+      "type": "Theme",
+      "name": "solution politique inclusive durable",
+      "id": "Theme_97e470cf5f8d532e8d50e9c673530bee9883de527071e53cd15f4bac24f252f5"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme constitutionnelle",
+      "id": "Theme_504657c6f3a306b081426fc2881da83b270659c1561956dc3308b0a51f9e55fb"
+    },
+    {
+      "type": "Theme",
+      "name": "élections libres",
+      "id": "Theme_c49d5de67bc6ed3d38bdccea5a385bce49eee9f3fe0ae110c39550d9529e99a6"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "Union africaine",
+      "id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Etats",
+      "id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Country",
+      "name": "Union africaine",
+      "id": "Country_b01664d9ea209fa9abca874f9945970ecabfe5ccf7330dc0ed2f868bc1f51684"
+    },
+    {
+      "type": "Country",
+      "name": "Nigeria",
+      "id": "Country_dec6d7826327dc7bafe39e959e4f081c81efc380c2b1cd786c364126e96624bd"
+    },
+    {
+      "type": "Country",
+      "name": "Tchad",
+      "id": "Country_4559f6f8af30c0e115367f99db7a2d2bff5c4fb5ef7ec890af7e5e1662fd701e"
+    },
+    {
+      "type": "Country",
+      "name": "Cameroun",
+      "id": "Country_3dbed6a774b1c2a19e9d3ef0f7db7ed85220ea9016220d7e1e7d4036e88053f9"
+    },
+    {
+      "type": "Organization",
+      "name": "Force du G5",
+      "id": "Organization_8f2084716d3ac7a6cb7390b91c68eb88f2641b81c8823afaca22b5d372ac99fe"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation des Nations unies",
+      "id": "Organization_707b7e4fb958022ac09c7c735de46bff28a624e5777366c77b47ed95be05ca58"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions régionales et internationales",
+      "id": "Theme_1b7a4e186f5373e3debc4f0e3f2a40b957d181498b397b47f25f4ddfc515e013"
+    },
+    {
+      "type": "Theme",
+      "name": "opérations africaines de paix",
+      "id": "Theme_430fb1337c8a904ba6fa3f259c447387d4154aef3188048154a4407003d40fa4"
+    },
+    {
+      "type": "Country",
+      "name": "l'Alliance pour le Sahel",
+      "id": "Country_5dfafcd1638c8fc12d99b9a7aeb36fdd1e4688533a2ccd370fb14c29cf911e45"
+    },
+    {
+      "type": "Country",
+      "name": "les Etats concernés",
+      "id": "Country_f2f22d98ff0003cb296a4c781e17562ef0f058b0895051a883dcebcf97cc9f27"
+    },
+    {
+      "type": "Theme",
+      "name": "le développement",
+      "id": "Theme_9769048bd4e56d8146d45671b839e80998b22562c2348f90ff017d756911f670"
+    },
+    {
+      "type": "Theme",
+      "name": "l'agriculture",
+      "id": "Theme_8d2442a5e76f7d3d3215e70a0226af8e4a248d5459c759b0e263efd65c7e03b7"
+    },
+    {
+      "type": "Theme",
+      "name": "l'éducation",
+      "id": "Theme_b4ee4945bc9ae091724f02d14c60a9a73fc2ddc23c02f91911dc77d8468eb950"
+    },
+    {
+      "type": "Theme",
+      "name": "les racines du désespoir",
+      "id": "Theme_6d148257009a8d3fb08eea42a93af7f7c0955f6d280bbd176b68f60c3f0719df"
+    },
+    {
+      "type": "Theme",
+      "name": "flux migratoires",
+      "id": "Theme_9e6d4c759ee92484ff473b38a5e603ba3348666ce3bde9fd0a3f57c9da966f9f"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité internationale",
+      "id": "Theme_5d4d769c411791a140a04a5b7f012b915e22bedab1850ba54727e516d229ea6e"
+    },
+    {
+      "type": "Theme",
+      "name": "réseaux de trafiquants",
+      "id": "Theme_26c455574fa31ce9180c254ed0c5de567c4d4bce5d113c81d6ee2adbebc906ec"
+    },
+    {
+      "type": "Theme",
+      "name": "frontières",
+      "id": "Theme_2cd955c9a002255c9c4db835b43368ec22c183622dce92ef1191d4bdfa43a6bb"
+    },
+    {
+      "type": "Theme",
+      "name": "droit international",
+      "id": "Theme_5ed1c962a2e6badfcec01090455d807b7559f5af1344fea3604e0c342da4d8f1"
+    },
+    {
+      "type": "Theme",
+      "name": "asile",
+      "id": "Theme_cd88f89a51614f7b8addc880c2aac7c86f554a1aa7bc17024cc6a92883621591"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte des Nations unies",
+      "id": "Theme_41fd2af2c8717abbf6b2572e6345b9494d8fc200b7eb1544bdf646c788cb465f"
+    },
+    {
+      "type": "Theme",
+      "name": "dérèglements climatiques",
+      "id": "Theme_459dcfa0c0e8152afdc160c12933261c0313fef3647bda99f62d6988c3b53461"
+    },
+    {
+      "type": "Theme",
+      "name": "phénomènes météorologiques extrêmes",
+      "id": "Theme_283531ecfefc65086cf3441c293b8d1b79fb2b476f3c516c92aecc05b173ec9f"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté des peuples",
+      "id": "Theme_db90c010f400b36f54ed53a793bb35ee8af3327105f6ef714dd20dd7e973e375"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs universelles",
+      "id": "Theme_5fd61675911c3662268da7552a13fb15b6bd7970520e675d8b5b6293ba56feeb"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité des individus",
+      "id": "Theme_b3ad5d416382ea5b5dc10b6dc7ae16c4448a3aa54d5c05669a26900fb8d13b5e"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité entre les sexes",
+      "id": "Theme_35e30db7946fd3bcc8f0eb8845c239583f2678263c2492309cd6e8a97eafddee"
+    },
+    {
+      "type": "Theme",
+      "name": "universalisme de nos valeurs",
+      "id": "Theme_ee376d14a036298173c04ba0f57cf65c5f9e1296107eff233630ad3ef54528aa"
+    },
+    {
+      "type": "Theme",
+      "name": "force de celle-ci",
+      "id": "Theme_6b35bc658efd855ade4234f099812342da3b0d27093293ca3cd8992653215b34"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalismes",
+      "id": "Theme_5bc09b357e9048336acf562a1c13e99ce13a8cd47bea5f28ac07e5c0c083d433"
+    },
+    {
+      "type": "Theme",
+      "name": "déséquilibres",
+      "id": "Theme_20e78b47b37f9c462055719090cac55bde16cb82c3d63f368df2f188518638cc"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités profondes",
+      "id": "Theme_f95fd94bd99e9afe17b6d058f7b1958bbf4e4b9e7ecb2fc356db85373296e692"
+    },
+    {
+      "type": "Theme",
+      "name": "crise financière internationale",
+      "id": "Theme_8f52b1247acb53b94970cf0c702ce3b4e90028737e1ba65b67e206f5e24e90e5"
+    },
+    {
+      "type": "Theme",
+      "name": "hyper-concentration des richesses",
+      "id": "Theme_c7ac26a0f7e968de831267189cc91f647a5ace930ce3a68e19f88e84e80a4c65"
+    },
+    {
+      "type": "Theme",
+      "name": "désespoir",
+      "id": "Theme_6c762ea5b6b506b9f04fcae8199f77ffdc384d1f8fee1a812eb1348994668d81"
+    },
+    {
+      "type": "Theme",
+      "name": "frustrations",
+      "id": "Theme_0cec759d55bb2ab07bc182f9c4132dc66d0f1219d406a2e951e374d35373e72c"
+    },
+    {
+      "type": "Theme",
+      "name": "humiliations",
+      "id": "Theme_a12261b80d59e3106a49281708f278f5ef6ed52b07e24ebd6adf6d495aed248d"
+    },
+    {
+      "type": "Theme",
+      "name": "concitoyens",
+      "id": "Theme_0ff3925b7ba63cbf673a2472bfd56efd3c66e053d51097b02b91824a782e7ed5"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "inondations",
+      "id": "Theme_876be82601b67c87274fed2d5a707d2dfa8d24a80ecdcf27ee9a8c6b44603bdc"
+    },
+    {
+      "type": "Theme",
+      "name": "sécheresses",
+      "id": "Theme_b01bb9187e520675db98ef2f866c3de435ccf19a0e594a8d885fe484b9c24677"
+    },
+    {
+      "type": "Theme",
+      "name": "montée des eaux",
+      "id": "Theme_17de8427a4f871e7ecea3bab6cc96249322ab4391bbd43ff197c1751b141f727"
+    },
+    {
+      "type": "Theme",
+      "name": "raréfaction des ressources",
+      "id": "Theme_f365ec6b98c26da8fe0d7e2c2e1470b257e063dcfc12e1a226b4884524233721"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique subsaharienne",
+      "id": "Country_65803efe6497f129d76bfee1616695f8bb631b9763b3b78250d381c73df615fe"
+    },
+    {
+      "type": "Theme",
+      "name": "contraception",
+      "id": "Theme_27374eda74b11547962e0439e1d8a179a39b7baffda70f91d11240ff940ce077"
+    },
+    {
+      "type": "Theme",
+      "name": "violences dans leur foyer",
+      "id": "Theme_b101f509aa3165c140247d148837b2092e95c2c46b232f9886cae86c1df903a1"
+    },
+    {
+      "type": "Theme",
+      "name": "écart de rémunération",
+      "id": "Theme_913d25acb6a15b8ef475e3cb43ad3b726c76c6eb7cc6cb74339098dfdf601b6f"
+    },
+    {
+      "type": "Theme",
+      "name": "pauvreté",
+      "id": "Theme_95b7ed519406cd062b2738f35707ce2b499fc7f2e5179d4c674216f14032a781"
+    },
+    {
+      "type": "Theme",
+      "name": "faim",
+      "id": "Theme_84d04b13566eb705d1c35eddd1bb563db6d7a3c3cb9e100281091d8f34dc65e2"
+    },
+    {
+      "type": "Theme",
+      "name": "malnutrition chronique",
+      "id": "Theme_1a5bbd8c2bb9f42b760ad11fb2806eadbee7a16863d653503046545f88af2ddb"
+    },
+    {
+      "type": "Theme",
+      "name": "soins élémentaires",
+      "id": "Theme_bedce39f2663f2cc3348e72861c32202c1a9da8e3802c90efdfc42c709af18a6"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "pays en développement",
+      "id": "Theme_2526dcde0a393441806712e263b88440fbf719b72a8b8b3d634831cbe6fe004f"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibres",
+      "id": "Theme_b894be6dd2881b319ec21f2bbcd0455bce14339d3a5228ad72b0d1d1569b9749"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "agenda 2030 pour le développement",
+      "id": "Organization_634b979134479a87526822ef04e93b4a7bb5622e4c82e7f2112a80fae4c6ba32"
+    },
+    {
+      "type": "Country",
+      "name": "Canada",
+      "id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités contemporaines",
+      "id": "Theme_2980e19213c43453be6e752151c24b17914f469f054091cfdbf436a1e10ef11f"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités de destin",
+      "id": "Theme_952f7cf0fdc353e647b57cb732cb1b2c39970a57759dcdfe207f26c9c94cc129"
+    },
+    {
+      "type": "Country",
+      "name": "Sénégal",
+      "id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "type": "Organization",
+      "name": "Partenariat mondial pour l'éducation",
+      "id": "Organization_66e8d1d9575f214278e62d4f9e0e66cfc69f11d269af30ca7afdcc2dc81c0559"
+    },
+    {
+      "type": "City",
+      "name": "Dakar",
+      "id": "City_edd432d0e42af6268a05e6bf8b3ff465617e0b8b7b6c0ca6846affd0ee837bfe"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "formation des professeurs",
+      "id": "Theme_429b6ab2bdfa72ca2ccbc1e9592ad09b8ce49a2b950fa021725bc9f9379e27e7"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement professionnel",
+      "id": "Theme_eef4ba59f5c87a40a4e1dd77b489982c3155baf21a9ee9b0ff127c7aebf2ea61"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité fille-garçon en matière d'éducation",
+      "id": "Theme_f464ae66e996e9df314c5a2fa3947ca8068d1fc9b95cab17192c711ae38bb18a"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités liées au genre",
+      "id": "Theme_2ef0d48f040ee592118f55dcc8319aa6ac985e87f389a5ad1fd9494776c50711"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité femme-homme",
+      "id": "Theme_c0ea7fa6a686b239dda44eee5ae281a96b820058b54dbea40bd5485bed2c7aae"
+    },
+    {
+      "type": "Theme",
+      "name": "conflits",
+      "id": "Theme_c8dada83bc9f875690ebf45f2f35fa2a2c3744cd07e0f2646a262af9b8e292dd"
+    },
+    {
+      "type": "Theme",
+      "name": "conséquences du réchauffement climatique",
+      "id": "Theme_a5c3a8c495e058a1a5277c0b4f200645b8118e23fa2255aad50ed3ea13ccf162"
+    },
+    {
+      "type": "Theme",
+      "name": "violences sexistes et sexuelles",
+      "id": "Theme_78ca41c168974a591d2a1922b363932b9656519fcd0570330ff5e459d633c3f5"
+    },
+    {
+      "type": "Theme",
+      "name": "harcèlement de rue",
+      "id": "Theme_1e061cce37d85fdd0731cbfe459018be34ea10ea08482dc490c3dba06c8110b0"
+    },
+    {
+      "type": "Theme",
+      "name": "féminicide",
+      "id": "Theme_6ca1455e9138df51e761bed86a8ad8beec4b2d9cb6be68332278a0df17ea5b12"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "prise de décision économique et politique",
+      "id": "Theme_fdc8782258842d6a497295e3c15002cbac45d1f6805e00654b2c40f90a7fbb0e"
+    },
+    {
+      "type": "Theme",
+      "name": "violences",
+      "id": "Theme_e1be313a671c9fc82f0ddae646c23fae1b533f1f5e446ce338dc737f703e7023"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité entre les femmes et les hommes",
+      "id": "Theme_b484a156d9d64e08166b13528c3fa60f7e66a7f8a085ad36db2ca83767aac644"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités de genres",
+      "id": "Theme_785299b9124e931d7534f556ddc7745e4398cdfa5b46b1530a591538ab2d9ea8"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités environnementales",
+      "id": "Theme_05689d7449e7ddcc79dee93299affb4a70bc9db2aeb0d278703c1ddb0f55572a"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz à effet de serre",
+      "id": "Theme_601e4ced7fdd29d58bc0a82076d52b7d84e3945fdb894d9801115aa38db3723a"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "Accord de Paris",
+      "id": "Theme_152a851eb1dbb7769682151519941e34f537ce302d4e0686a44e31473c8febaf"
+    },
+    {
+      "type": "Theme",
+      "name": "COP 24",
+      "id": "Theme_8a1e0f9158e63beaaa77b8045628dd72af14ee4a3021ec8121a5519741486d7a"
+    },
+    {
+      "type": "Theme",
+      "name": "Sommet One Planet",
+      "id": "Theme_8ba928f835275ac718516691210a724361b3865c658c4c8e23eff2068f1a3639"
+    },
+    {
+      "type": "Theme",
+      "name": "Alliance solaire internationale",
+      "id": "Theme_4c222a547badcc7bc6dd61f53c368a3fdad1fcbdf6231863add6de3a22e01209"
+    },
+    {
+      "type": "Theme",
+      "name": "COP de Pékin sur la biodiversité",
+      "id": "Theme_59dcccb1855ac57c9bad8bb9705785e16682f283d0543b729848b1e0d5ce6e49"
+    },
+    {
+      "type": "Theme",
+      "name": "Congrès mondial de l'UICN",
+      "id": "Theme_21d899a4efe83e58d9e44f0095ff4ba30b88c748389cf2fac42b2a3be1634ce8"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte mondial pour l'environnement",
+      "id": "Theme_5b69611fc37a352a47660c1f1a12e458d16e7cc2e7259b89d483c4d2dc9ee57f"
+    },
+    {
+      "type": "Event",
+      "name": "COP 21",
+      "id": "Event_c8d20b8aee90b79126aa0429ff2fb41b75a506c18f956727cbd403f789dec9d7"
+    },
+    {
+      "type": "Law",
+      "name": "Accord de Paris",
+      "id": "Law_cd8b0ed5bd6d7c10b803a393cbdcace05ca0db0f17b36ece29f3b3d3b07b6d15"
+    },
+    {
+      "type": "Theme",
+      "name": "isolationnisme",
+      "id": "Theme_3fc8d6fe783ff95706b5ec0c465124cb23cab3114f8d6333eb3791544cf908d9"
+    },
+    {
+      "type": "Theme",
+      "name": "protectionnisme",
+      "id": "Theme_f908a3ce2a62f196e9b3881f0b81ce31f64eb6d35dede2a07725ea9d130f54a7"
+    },
+    {
+      "type": "Theme",
+      "name": "tensions",
+      "id": "Theme_cba6267a0edb4b45de6f8ffdce822b9050ee187c12b3238bfe8a91fd4595d9f3"
+    },
+    {
+      "type": "Organization",
+      "name": "OMC",
+      "id": "Organization_dbfd6ac2652ebf57b2436987f66688b5c1c31df23624ca5dbb0e937544345cc0"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation internationale du travail",
+      "id": "Organization_b09dfff395088a1dc2dfbfd3ddb18be909220cabaaba0c489f0c00eebe7f7a0c"
+    },
+    {
+      "type": "Theme",
+      "name": "social",
+      "id": "Theme_f56a2d9d095e45391d6aec33e39ec6cf633c5a21bda6f8e4cb689786529558da"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscalité",
+      "id": "Theme_8f3af7311a6bcfd253a580ecacd3fb0434ee40de042b8221f99b1b400f0a3b76"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre les manipulations de l'information",
+      "id": "Theme_b8e5e1ebbb3fa353a6a3beba0d181a15809e2f2717c1dc04efbe26446abed1a3"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "Afrique",
+      "id": "Theme_e53ae647bc41c3aecc727ca2595afd63d86f12f3de9d9d071f207288bfe98093"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "UNESCO",
+      "id": "Organization_44cf334686fd664fecedb6944caa3782522449e029aa1a57346edd5f2ff5eebd"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des droits de l'homme",
+      "id": "Organization_bbc20f7210ae1f6ed029a2c077099289f91b12105e6093f75c1af258706b8608"
+    },
+    {
+      "type": "Organization",
+      "name": "Cour pénale internationale",
+      "id": "Organization_df05ff60295c6c23e99da3ee158d564e231d5824678896f8f6c5b024b44c83fa"
+    },
+    {
+      "type": "Organization",
+      "name": "UNRWA",
+      "id": "Organization_666b5c6e7e99d707e9bb51e53458f2bc1b0520f6213165f59e4bc2be4c794d90"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité",
+      "id": "Organization_baa57920608812f1a905ee605e7e26f62ded68ec5607802bf97048747ea47f2f"
+    },
+    {
+      "type": "Organization",
+      "name": "assemblée générale",
+      "id": "Organization_c36b51d47a41b7782e1fa96236e3af69397bc0bea9e0b71e812d37a772903608"
+    },
+    {
+      "type": "Event",
+      "name": "70e anniversaire de la Déclaration de 1948",
+      "id": "Event_96c184192089fc985c8e874115e10480d505130c952b1dc00d3d1ea85b8e5275"
+    },
+    {
+      "type": "Event",
+      "name": "Forum de la Paix",
+      "id": "Event_adb471831d11b6e99b776295d720ec954f4f01618840c37f3dda643e339199ab"
+    },
+    {
+      "type": "Theme",
+      "name": "génocides",
+      "id": "Theme_17b4f836b58e3fd4da687767e51b99a099ba03ac36489cf332dfc810898c029f"
+    },
+    {
+      "type": "Theme",
+      "name": "discours",
+      "id": "Theme_42d86966ace3014198cfd46fd8c2da2d992819e32c2f4179ebb3d09957486747"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "unilatéralisme",
+      "id": "Theme_342e1a521e5330e2b0c731e828d022dd37e12abf3f4c4afc45e249534dd6bd2b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "ONU",
+      "relation": "MENTIONS",
+      "target": "espérance",
+      "evidence": "Née d'une espérance, l'ONU peut devenir, comme la Société des Nations qui l'a précédée, le symbole d'une impuissance",
+      "confidence": 1.0,
+      "source_id": "Organization_8fe3e517167eebcfcb1c541c20f6aeb0a346c6c70b461e4d8ec8a469cdf70167",
+      "target_id": "Theme_033f833af6388502bfc94da349539bb4ad4154d73fa77dd35a2a0f476e1f61cc"
+    },
+    {
+      "source": "Syrie",
+      "relation": "SPOKE_ABOUT",
+      "target": "crise humanitaire",
+      "evidence": "Il ne nous revient pas de décider pour le peuple syrien, mais bien de construire les voies et moyens de cette méthode que je viens de définir et donc de construire une solution portée, non seulement par les Etats garants d'Astana, mais aussi d'autres Etats régionaux et la communauté internationale à travers le Small Group, de le faire sous la coordination des Nations unies et du représentant spécial du secrétaire général, afin de créer, d'une part, de régler la crise humanitaire, et d'autre part, de construire une solution politique inclusive durable à travers la réforme constitutionnelle et l'organisation d'élections libres.",
+      "confidence": 1.0,
+      "source_id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594",
+      "target_id": "Theme_0f6546941d41db45f8940d36a4dec926d364835cecd6a51149fb6063b6520d2d"
+    },
+    {
+      "source": "Syrie",
+      "relation": "SPOKE_ABOUT",
+      "target": "solution politique inclusive durable",
+      "evidence": "Il ne nous revient pas de décider pour le peuple syrien, mais bien de construire les voies et moyens de cette méthode que je viens de définir et donc de construire une solution portée, non seulement par les Etats garants d'Astana, mais aussi d'autres Etats régionaux et la communauté internationale à travers le Small Group, de le faire sous la coordination des Nations unies et du représentant spécial du secrétaire général, afin de créer, d'une part, de régler la crise humanitaire, et d'autre part, de construire une solution politique inclusive durable à travers la réforme constitutionnelle et l'organisation d'élections libres.",
+      "confidence": 1.0,
+      "source_id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594",
+      "target_id": "Theme_97e470cf5f8d532e8d50e9c673530bee9883de527071e53cd15f4bac24f252f5"
+    },
+    {
+      "source": "Syrie",
+      "relation": "SPOKE_ABOUT",
+      "target": "réforme constitutionnelle",
+      "evidence": "Il ne nous revient pas de décider pour le peuple syrien, mais bien de construire les voies et moyens de cette méthode que je viens de définir et donc de construire une solution portée, non seulement par les Etats garants d'Astana, mais aussi d'autres Etats régionaux et la communauté internationale à travers le Small Group, de le faire sous la coordination des Nations unies et du représentant spécial du secrétaire général, afin de créer, d'une part, de régler la crise humanitaire, et d'autre part, de construire une solution politique inclusive durable à travers la réforme constitutionnelle et l'organisation d'élections libres.",
+      "confidence": 1.0,
+      "source_id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594",
+      "target_id": "Theme_504657c6f3a306b081426fc2881da83b270659c1561956dc3308b0a51f9e55fb"
+    },
+    {
+      "source": "Syrie",
+      "relation": "SPOKE_ABOUT",
+      "target": "élections libres",
+      "evidence": "Il ne nous revient pas de décider pour le peuple syrien, mais bien de construire les voies et moyens de cette méthode que je viens de définir et donc de construire une solution portée, non seulement par les Etats garants d'Astana, mais aussi d'autres Etats régionaux et la communauté internationale à travers le Small Group, de le faire sous la coordination des Nations unies et du représentant spécial du secrétaire général, afin de créer, d'une part, de régler la crise humanitaire, et d'autre part, de construire une solution politique inclusive durable à travers la réforme constitutionnelle et l'organisation d'élections libres.",
+      "confidence": 1.0,
+      "source_id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594",
+      "target_id": "Theme_c49d5de67bc6ed3d38bdccea5a385bce49eee9f3fe0ae110c39550d9529e99a6"
+    },
+    {
+      "source": "Libye",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "A Paris, les Libyens ont pris l'engagement d'organiser rapidement des élections qui permettront de réunifier les institutions de l'Etat.",
+      "confidence": 1.0,
+      "source_id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "Nations unies",
+      "relation": "SUPPORTS",
+      "target": "Union africaine",
+      "evidence": "Il faut que ces engagements soient tenus sous l'égide des Nations unies, avec une coopération étroite de l'Union africaine.",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Country_b01664d9ea209fa9abca874f9945970ecabfe5ccf7330dc0ed2f868bc1f51684"
+    },
+    {
+      "source": "Union africaine",
+      "relation": "ALLIED_WITH",
+      "target": "Organisation des Nations unies",
+      "evidence": "pousser à une meilleure articulation entre l'Union africaine et l'Organisation des Nations unies.",
+      "confidence": 1.0,
+      "source_id": "Country_b01664d9ea209fa9abca874f9945970ecabfe5ccf7330dc0ed2f868bc1f51684",
+      "target_id": "Organization_707b7e4fb958022ac09c7c735de46bff28a624e5777366c77b47ed95be05ca58"
+    },
+    {
+      "source": "G7",
+      "relation": "ALLIED_WITH",
+      "target": "Nations unies",
+      "evidence": "Je propose ainsi que les institutions internationales, les Nations unies, mais aussi bien sûr l'OCDE nous appuient dans la mise en place de ce mécanisme sur lequel le G7 devra être moteur.",
+      "confidence": 1.0,
+      "source_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "G7",
+      "relation": "ALLIED_WITH",
+      "target": "OCDE",
+      "evidence": "Je propose ainsi que les institutions internationales, les Nations unies, mais aussi bien sûr l'OCDE nous appuient dans la mise en place de ce mécanisme sur lequel le G7 devra être moteur.",
+      "confidence": 1.0,
+      "source_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2",
+      "target_id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Union européenne",
+      "evidence": "Et c'est la responsabilité de la France et de l'ensemble de ses partenaires européens, de l'Union européenne d'être à l'avant-garde de ce combat, de construire ce nouvel humanisme contemporain qui ne doit céder en rien aux tentatives de repli et rien à la naïveté et, dans le même temps, de bâtir en tant que puissances médiatrices ces nouvelles règles de l'ordre international.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    }
+  ]
+}

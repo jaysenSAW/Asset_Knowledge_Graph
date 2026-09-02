@@ -1,0 +1,118 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Secrétaire général du Conseil de l'Europe",
+      "id": "Person_800b459caf274ff0ca47cca5ac6c11717df914d59b371bf50dd6e37480eff6c2"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur Jagland",
+      "id": "Person_4fa34ea99e3b30ec4596917a427425da3893bfe306d38ca11202427c23023ac3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Secrétaire général",
+      "id": "Person_5da1985b325f6e740d65378795e51c9b23d29b87d7ead2b19a6987745d55c895"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre-Yves LE BORGN",
+      "id": "Person_ac9ff40a8d8a0bb9c9364fc67a784ddf146b93261023d562f72c89ddc0855010"
+    },
+    {
+      "type": "Person",
+      "name": "Secrétaire général",
+      "id": "Person_8e01b1766ab26e757c74b407ea20637a64a17f4c9a5895fe27fedd8948fa4e06"
+    },
+    {
+      "type": "City",
+      "name": "Lisbonne",
+      "id": "City_3b2c76f6fdbcedd0f2f1da00e9207b46fcf90052897133894e132919592a443d"
+    },
+    {
+      "type": "City",
+      "name": "Vladivostok",
+      "id": "City_4e5c05a88022a1117bea1f791f26276f8917fb66b0ec0c5fe739eee114fd75d8"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de l'Europe",
+      "id": "Organization_5c875c7f06516baeebbf53a7d84bca86dab1fc33e8964d207ae7c92ab603f97b"
+    },
+    {
+      "type": "Law",
+      "name": "Convention européenne des droits de l'Homme",
+      "id": "Law_61a6233f164bf048132cb39fd98dcb62b285cc4208ae26fd06f319763a2cd5c1"
+    },
+    {
+      "type": "Event",
+      "name": "attentats de novembre 2015",
+      "id": "Event_3ece267397e036630b3b081e40582da8e78c8133221ca2f0d99eaf02c8d26e09"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Commissaire aux droits de l'homme",
+      "id": "Organization_60d87a9831e5568f8b7c4fa6a5a5c629e4fcb4f6eac6f52bd883f7ac94c269c3"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Organization",
+      "name": "Cour",
+      "id": "Organization_783c7d5392573344af76cded49d28486f6b2a1cf83d26b7d3fa08137adada26c"
+    },
+    {
+      "type": "Law",
+      "name": "loi renforçant la sécurité intérieure et la lutte contre le terrorisme",
+      "id": "Law_37e6d1264415690ec2856e79fddd54a8a1c7d2abe77cbfd3ee67a118aa36829c"
+    },
+    {
+      "type": "Organization",
+      "name": "Secrétaire général",
+      "id": "Organization_bf41bc6aa21451ecd4c1a62e4f450fbfd9eba7fb9d89ef79c876c3346043800a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Secrétaire général",
+      "relation": "MEMBER_OF",
+      "target": "Conseil de l'Europe",
+      "evidence": "accompagner pleinement le Secrétaire général dans le travail qu'il mène depuis plusieurs mois pour préserver le cadre paneuropéen du Conseil de l'Europe",
+      "confidence": 1.0,
+      "source_id": "Organization_bf41bc6aa21451ecd4c1a62e4f450fbfd9eba7fb9d89ef79c876c3346043800a",
+      "target_id": "Organization_5c875c7f06516baeebbf53a7d84bca86dab1fc33e8964d207ae7c92ab603f97b"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "Commissaire aux droits de l'homme",
+      "evidence": "la France a présenté la candidature de Pierre-Yves LE BORGN au poste de Commissaire aux droits de l'homme.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_60d87a9831e5568f8b7c4fa6a5a5c629e4fcb4f6eac6f52bd883f7ac94c269c3"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Conseil de l'Europe",
+      "evidence": "Et je me réjouis de poursuivre notre étroite coopération avec le Conseil de l'Europe, en particulier dans la perspective de la présidence du comité des ministres par la France en 2019.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_5c875c7f06516baeebbf53a7d84bca86dab1fc33e8964d207ae7c92ab603f97b"
+    }
+  ]
+}

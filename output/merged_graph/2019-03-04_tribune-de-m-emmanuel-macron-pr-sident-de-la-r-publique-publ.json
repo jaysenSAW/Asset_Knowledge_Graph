@@ -1,0 +1,628 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Brexit",
+      "id": "Country_6c1b8c7ae1c48c2f662b33aeed23fb5794e90527ba09cf3a781c98df3fa867bc"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "urgence",
+      "id": "Theme_540dea71fcfc76e593792a9bf5e19596495794754693eb0938af9054494bbb4e"
+    },
+    {
+      "type": "Theme",
+      "name": "élections européennes",
+      "id": "Theme_e1557028e2a64fe6b0201ad1761a36f9f93ae93e23685e9977646f4de2722fef"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir de notre continent",
+      "id": "Theme_f4108b194a738283872fd6d75146303c383cd762212e74a80c68226caa2f295f"
+    },
+    {
+      "type": "Theme",
+      "name": "crise de l'Europe",
+      "id": "Theme_1232bb1968149f7f6c6b1ceede3df4d041d836246128b831472f4e9ac8cbb0f7"
+    },
+    {
+      "type": "Theme",
+      "name": "besoins de protection des peuples",
+      "id": "Theme_a2d44f3905c5681371c3afb2a9420d05e56a742acc7d7d96b32e0c56ca367f2d"
+    },
+    {
+      "type": "Theme",
+      "name": "grands chocs du monde contemporain",
+      "id": "Theme_d096fdcba269eaf82a594504e8e01232c7bd3bb5b4e7e3fed7c747f880a7586c"
+    },
+    {
+      "type": "Theme",
+      "name": "piège européen",
+      "id": "Theme_944c562ff14a625fe2b42826d9cf7f7a6cf70612c4a6086975c566a9eec9f751"
+    },
+    {
+      "type": "Theme",
+      "name": "mensonge",
+      "id": "Theme_b3f0df56bcc6df978d986848e177dc6414ffaa8b6e0709f527ce7616e32080bf"
+    },
+    {
+      "type": "Theme",
+      "name": "irresponsabilité",
+      "id": "Theme_5464202b960e45bc3887d3887f467a2407abb8e1ab2a0121e24efa69700ac160"
+    },
+    {
+      "type": "Theme",
+      "name": "repli nationaliste",
+      "id": "Theme_f88a076c95e1893b2ba914f011d7459cc475313c0ce5b8277e4475dba6594d4f"
+    },
+    {
+      "type": "Theme",
+      "name": "colère",
+      "id": "Theme_4e30994df9e9eac88bc1882bf63418ce377af79a6f9e3df68de8115525b914eb"
+    },
+    {
+      "type": "Theme",
+      "name": "fausses informations",
+      "id": "Theme_eb948f89ed803d8a8a5699a2c9df66e6cc531beeb683c737f6c2bcfcd9c1055a"
+    },
+    {
+      "type": "Theme",
+      "name": "Renaissance européenne",
+      "id": "Theme_66a26cc0a3c32a3eddb4c3e1b4ff6db105529a16a6ddac8f38e1c7d7bc4164b6"
+    },
+    {
+      "type": "Theme",
+      "name": "civilisation européenne",
+      "id": "Theme_1bd555b515b54b8ca951befc0295a4ead9f5a22ef539b5c733ebefb011f621e2"
+    },
+    {
+      "type": "Theme",
+      "name": "identité",
+      "id": "Theme_4f543f4a07c2f288f23ef16d94246f7c22b38ac986042e48f59a6ca4b459f4dd"
+    },
+    {
+      "type": "Theme",
+      "name": "démocraties",
+      "id": "Theme_56cab7a53aa93e99087fecefd082e66c8d079b1bc5400d121f702e8873b1648d"
+    },
+    {
+      "type": "Theme",
+      "name": "statu quo",
+      "id": "Theme_d5e8600cc9d5a5a33aef6449c12f9898affdabbd4c5a58ecaf840c5afa543ea8"
+    },
+    {
+      "type": "Theme",
+      "name": "résignation",
+      "id": "Theme_f5eec6e6ec6ef6ffe321b81d3fa09f2db1bc2d5c9e8ab110a21c246875afb1ae"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "capitalisme financier",
+      "id": "Theme_f926b17fa158546a4b890b6580927c44f5aaa5b7129f344d27e79ea5e14064aa"
+    },
+    {
+      "type": "Theme",
+      "name": "défense européenne",
+      "id": "Theme_42dae70f7120df2113261b5fe10cbe41df3d2c3b15c7b3dc8221a1048c488a0c"
+    },
+    {
+      "type": "Theme",
+      "name": "droits sociaux",
+      "id": "Theme_8365a177b8c3d80f7f2a3aa0ffb58c548f9e1114c70642eb9e92090f5829702e"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "zone euro",
+      "id": "Organization_2f6a079aced661f0f4634969da31afaf96d2da3c7a204087ef923b740e9a6b97"
+    },
+    {
+      "type": "Organization",
+      "name": "géants du numérique",
+      "id": "Organization_48520d231f4c17e5e51df74ed09b8d08969bc44cf3b5fd37677c24af352d60f4"
+    },
+    {
+      "type": "City",
+      "name": "lycée",
+      "id": "City_f83fa4cb5951a79d6cca1d2aa6de65882ab9f758e8b0f7f69c780d689a51be8e"
+    },
+    {
+      "type": "City",
+      "name": "route",
+      "id": "City_fc1acda2d0d60944c5d40eccdb862f422d668454cbfd78e087f5f96b1b26b8fa"
+    },
+    {
+      "type": "City",
+      "name": "Internet",
+      "id": "City_b2e782a814ed0af1c37723e7c8edc6e794f8151418882bd0c6ba8efb55ab4e19"
+    },
+    {
+      "type": "Theme",
+      "name": "protection",
+      "id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès",
+      "id": "Theme_99fbe2fae74b83c0fb6be33e85f58e86e641fe47059e9c1672808dfbdcf5b5bd"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "cyberattaques",
+      "id": "Theme_8b366adba9bc7e60236c9235812ed1f4309c1f1068ddd054f3bf447276b1002a"
+    },
+    {
+      "type": "Theme",
+      "name": "manipulations",
+      "id": "Theme_179ee2eb878c9ed4526722f64cc510187ecaad6077ab1c66736f13de8c7804ff"
+    },
+    {
+      "type": "Theme",
+      "name": "financement des partis politiques",
+      "id": "Theme_6c8a5191c2901b3f1c61c56261233fb06034cdda279d800b6902d11325d5f6ee"
+    },
+    {
+      "type": "Theme",
+      "name": "discours de haine et de violence",
+      "id": "Theme_1388d143f78b829a69025ad9c6f67d52cc64780484dbc22f9df7b2ebc19545d4"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence européenne de protection des démocraties",
+      "id": "Organization_b05dfcb08986513a6132839c2edfe87ad4b450e8048ce51270196c51ab2f3885"
+    },
+    {
+      "type": "City",
+      "name": "Schengen",
+      "id": "City_718c9f05c64f460c054c5851382a1694a343cf75fcd7be6aa058212e8f8ee24c"
+    },
+    {
+      "type": "Theme",
+      "name": "espace Schengen",
+      "id": "Theme_09b43949bdc06f267e6d9608887ab1cd0b2ae86ff36ecc7dedc53b442d44b554"
+    },
+    {
+      "type": "Organization",
+      "name": "États signataires de l’accord de Schengen",
+      "id": "Organization_2ef38b2ce60e488bc115d53ed5cdda9065669bf7fcf750f8cc6f9f2b6646549c"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil européen de sécurité intérieure",
+      "id": "Organization_6e5c17727cf5bd1d72a7160bfa2c6f82eddd772008607ec32fd25436c2cb42d1"
+    },
+    {
+      "type": "Organization",
+      "name": "Office européen de l'asile",
+      "id": "Organization_7ed9cfcaf5d49c2d41ef98b6f291b6fc22acfe315756382c70f52601d4750ca7"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Organization",
+      "name": "Royaume-Uni",
+      "id": "Organization_0a7947da617ffaaa36fe43d6d1e5afc15bda0229b03afcfa6bd28ac70d28d391"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêts stratégiques",
+      "id": "Theme_0dc61ae09e0d2d4ff74fd05f6c52efb32347375dff180fa9dc77c3ee3e36e371"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs essentielles",
+      "id": "Theme_f4239bb59741ff9f2466a74c9e7e7ace345c90f483fd8e56b36ef49e83cf78db"
+    },
+    {
+      "type": "Theme",
+      "name": "normes environnementales",
+      "id": "Theme_b1028367cc168fe675a3f7b62c93a1efcde76543be4d18918a9906b88b375a6b"
+    },
+    {
+      "type": "Theme",
+      "name": "protection des données",
+      "id": "Theme_397d55e902c8d19d345794bf848404d3a12e6e97ffc9d255e3ab64bb55c772fc"
+    },
+    {
+      "type": "Theme",
+      "name": "juste paiement de l'impôt",
+      "id": "Theme_099f81e3b89dccd9bb8829e911804d1e4697473c796b22bb39195afb87c91fbe"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de progrès",
+      "id": "Theme_57fb5e0289fb10fed358b76351d370a1fff1b3b34150fde4a8f40db5bae167a8"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence",
+      "id": "Theme_5dd492310229e6422561fb6ee7825d44da04ee46fef898be05f57442adb06a51"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité sociale",
+      "id": "Theme_6bc8554cb5a6e887e61ca01ff0eb8003fb0972afe2162ba6703c5d3e2fe48648"
+    },
+    {
+      "type": "Theme",
+      "name": "bouclier social",
+      "id": "Theme_e9650b5c3af2d0e89ab9f33d5c0707df93c350221c0de4ffa801a2aa34405afe"
+    },
+    {
+      "type": "Theme",
+      "name": "salaire minimum européen",
+      "id": "Theme_6c981cd856619c25d6baaaf0d7d7e4d0bff9622889dda7ff48bf0742e08f7a55"
+    },
+    {
+      "type": "Theme",
+      "name": "combat écologique",
+      "id": "Theme_ac25bd30de52b283d89578197f5d1ac141b8f6606aa6def97fbbd96392800391"
+    },
+    {
+      "type": "Theme",
+      "name": "dette climatique",
+      "id": "Theme_967974f3380fbe4e5ba8249058ee7624fcf248e95c7695d922cd1f9248000a83"
+    },
+    {
+      "type": "Theme",
+      "name": "Banque européenne du climat",
+      "id": "Theme_a90702598140b9fcc4c53dbd45a923afc4b65d1516fcffb03b60a0086b3c1770"
+    },
+    {
+      "type": "Theme",
+      "name": "force sanitaire européenne",
+      "id": "Theme_5d0d427889006d139d064e86c9b065db2919637b0d8348565d915a6bb9e29df7"
+    },
+    {
+      "type": "Theme",
+      "name": "substances dangereuses",
+      "id": "Theme_f9726b2160c66b159a66e19b97e650f692ae65059db2d30d825fac5538fb5725"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "géants du numérique",
+      "id": "Theme_2a47e25dfb4bca95bf842d0b1ca2d77419e993e567f614af41ae1f5e42ef7847"
+    },
+    {
+      "type": "Theme",
+      "name": "supervision européenne",
+      "id": "Theme_d10ba85627af0180c84c07472043a2028cb11a91892fff8bbcc11198a01f19f2"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence",
+      "id": "Theme_ed714e04f0072912f37b05dc73e487727a8c579005e7b04f4ac05a26f6929b10"
+    },
+    {
+      "type": "Theme",
+      "name": "algorithmes",
+      "id": "Theme_1ee0faf9f505e31a0df4376dbea62b6e41b8a79b3e960388b9cd9fcdf8063697"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "Conseil européen de l'innovation",
+      "id": "Theme_a4c17dedaa738477c7ea4b20b68814cedb9d83bf99d7b45ca0cf7b4c92f3bab0"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "Afrique",
+      "id": "Theme_e53ae647bc41c3aecc727ca2595afd63d86f12f3de9d9d071f207288bfe98093"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte d'avenir",
+      "id": "Theme_c6cf536dbe837613756460faff723375843c3312adae5fe8c25495f180a25528"
+    },
+    {
+      "type": "Theme",
+      "name": "développement",
+      "id": "Theme_9f563f6fb56281bb29449c280e882333dd332f1e1e2aa5ff1e49c8654dc6f9a4"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariats universitaires",
+      "id": "Theme_380faac7d55841a431c78e05a6faba9933139395139077f6fa825ef9c923c920"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme européen",
+      "id": "Theme_7834f351835814d9f8c1546860b9ce4f908e916897245263d2dde3b8c50b66d6"
+    },
+    {
+      "type": "Theme",
+      "name": "Conférence pour l'Europe",
+      "id": "Theme_fc72a996693aaee58b9c26488d28e2433743828df8212ea6cc6d693302c49b49"
+    },
+    {
+      "type": "Theme",
+      "name": "traités",
+      "id": "Theme_c3a272c2dfd1846286ad96d7b4d2b02792dfcdb0dfaf3631d96b3027831db940"
+    },
+    {
+      "type": "Theme",
+      "name": "Union européenne",
+      "id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "type": "Theme",
+      "name": "Brexit",
+      "id": "Theme_6006dbbb0e4a76c11c05251b591ad1a5519dc0dbc5901d62bec55283dfbb2868"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs de progrès",
+      "id": "Theme_c3d67977137b89da889ab12daf3169ad444ae5ff17ba33ff57ba0789477e3f10"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "identité",
+      "evidence": "Les nationalistes se trompent quand ils prétendent défendre notre identité dans le retrait de l'Europe ;",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_4f543f4a07c2f288f23ef16d94246f7c22b38ac986042e48f59a6ca4b459f4dd"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "Renaissance européenne",
+      "evidence": "C'est le moment de la Renaissance européenne",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_66a26cc0a3c32a3eddb4c3e1b4ff6db105529a16a6ddac8f38e1c7d7bc4164b6"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "défense européenne",
+      "evidence": "Nous avons montré que ce qu'on nous disait inaccessible, la création d'une défense européenne ou la protection des droits sociaux, était possible.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_42dae70f7120df2113261b5fe10cbe41df3d2c3b15c7b3dc8221a1048c488a0c"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "droits sociaux",
+      "evidence": "Nous avons montré que ce qu'on nous disait inaccessible, la création d'une défense européenne ou la protection des droits sociaux, était possible.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_8365a177b8c3d80f7f2a3aa0ffb58c548f9e1114c70642eb9e92090f5829702e"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Monnaie unique de plusieurs États membres de l'Union européenne qui forment la zone euro",
+      "confidence": 1.0,
+      "source_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "zone euro",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "Monnaie unique de plusieurs États membres de l'Union européenne qui forment la zone euro",
+      "confidence": 1.0,
+      "source_id": "Organization_2f6a079aced661f0f4634969da31afaf96d2da3c7a204087ef923b740e9a6b97",
+      "target_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Europe",
+      "evidence": "Au nom de la France, je le mène sans relâche pour faire progresser l'Europe et défendre son modèle.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SUPPORTS",
+      "target": "Europe",
+      "evidence": "Protéger notre continent\nFondée sur la réconciliation interne, l'Union européenne a oublié de regarder les réalités du monde.",
+      "confidence": 1.0,
+      "source_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "ALLIED_WITH",
+      "target": "Europe",
+      "evidence": "Protéger notre continent\nFondée sur la réconciliation interne, l'Union européenne a oublié de regarder les réalités du monde.",
+      "confidence": 1.0,
+      "source_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "progrès",
+      "evidence": "Le progrès et la liberté, c'est pouvoir vivre de son travail : pour créer des emplois, l'Europe doit anticiper.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_99fbe2fae74b83c0fb6be33e85f58e86e641fe47059e9c1672808dfbdcf5b5bd"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "liberté",
+      "evidence": "Le progrès et la liberté, c'est pouvoir vivre de son travail : pour créer des emplois, l'Europe doit anticiper.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "concurrence",
+      "evidence": "en créant une supervision européenne des grandes plateformes (sanction accélérée des atteintes à la concurrence, transparence de leurs algorithmes…)",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_ed714e04f0072912f37b05dc73e487727a8c579005e7b04f4ac05a26f6929b10"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "algorithmes",
+      "evidence": "en créant une supervision européenne des grandes plateformes (sanction accélérée des atteintes à la concurrence, transparence de leurs algorithmes…)",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_1ee0faf9f505e31a0df4376dbea62b6e41b8a79b3e960388b9cd9fcdf8063697"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "innovation",
+      "evidence": "financer l'innovation en dotant le nouveau Conseil européen de l'innovation d'un budget comparable à celui des Etats-Unis, pour prendre la tête des nouvelles ruptures technologiques, comme l'intelligence artificielle.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "intelligence artificielle",
+      "evidence": "financer l'innovation en dotant le nouveau Conseil européen de l'innovation d'un budget comparable à celui des Etats-Unis, pour prendre la tête des nouvelles ruptures technologiques, comme l'intelligence artificielle.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "Afrique",
+      "evidence": "Une Europe qui se projette dans le monde doit être tournée vers l'Afrique, avec laquelle nous devons nouer un pacte d'avenir.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_e53ae647bc41c3aecc727ca2595afd63d86f12f3de9d9d071f207288bfe98093"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "pacte d'avenir",
+      "evidence": "Une Europe qui se projette dans le monde doit être tournée vers l'Afrique, avec laquelle nous devons nouer un pacte d'avenir.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_c6cf536dbe837613756460faff723375843c3312adae5fe8c25495f180a25528"
+    },
+    {
+      "source": "Royaume-Uni",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "les peuples auront vraiment repris le contrôle de leur destin ; dans cette Europe, le Royaume-Uni, j'en suis sûr, trouvera toute sa place.",
+      "confidence": 1.0,
+      "source_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    }
+  ]
+}

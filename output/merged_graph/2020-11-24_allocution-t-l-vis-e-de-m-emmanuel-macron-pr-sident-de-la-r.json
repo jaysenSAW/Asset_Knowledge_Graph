@@ -1,0 +1,535 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Ville",
+      "id": "City_d76f1842099df9104a4c9071fcbf888a795309abe7be7571ef39c009565815a8"
+    },
+    {
+      "type": "Organization",
+      "name": "Assurance maladie",
+      "id": "Organization_bd26054f63473de7c4ec585ee34e614728229f4628de00f1321137b9ab5d997e"
+    },
+    {
+      "type": "Person",
+      "name": "Gouvernement",
+      "id": "Person_7d9891ef05e726cd10bb801a49d6f4ef01941a7566eafb791c3ac694ebcab289"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Canada",
+      "id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Theme",
+      "name": "épidémie",
+      "id": "Theme_cc728abad13e3c62e85c61089f7679fbc7bd2c7fd6b01a6888d874304168d638"
+    },
+    {
+      "type": "Theme",
+      "name": "sauver des vies",
+      "id": "Theme_cef35b217205c8f7c0c0dcf0cb8ebc7c3c15d672ea310821c8721476961541ea"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtriser l'épidémie",
+      "id": "Theme_1135861cee27192c26408fba8b0580af542de8b57968450b7cc4b595e5c10524"
+    },
+    {
+      "type": "Theme",
+      "name": "isolement de certains",
+      "id": "Theme_af3af170f5463a8b585501b5a6f5fc094cd6189e89f84e5bb135ab62a01f17c0"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "sport",
+      "id": "Theme_825ac548d524f301bf40cecba64423c577f867e16f68d3e023ee693d5aebd94a"
+    },
+    {
+      "type": "Theme",
+      "name": "art de vivre",
+      "id": "Theme_acade2bdc2bddfd28280035d1d99086c7009b19e7d49f147598cbcaeb77da2b2"
+    },
+    {
+      "type": "Theme",
+      "name": "confinement",
+      "id": "Theme_0f45bb70a21246322d7cfb478164222695e0d01460bf96452caf268399a36f94"
+    },
+    {
+      "type": "Theme",
+      "name": "attestation",
+      "id": "Theme_5bcb7ccb6d138c6d980fd256a9e1884a2467e0b54cf23b2a57f6db14340bb904"
+    },
+    {
+      "type": "Theme",
+      "name": "déplacements pour motif de promenade ou activité physique en extérieur",
+      "id": "Theme_e5c56f18f5a6c1d646ab45fda2246d09242dd4ba6a966fa15ac137a2a765e10a"
+    },
+    {
+      "type": "Theme",
+      "name": "activités extra-scolaires en plein air",
+      "id": "Theme_cf85a3f18b6de967d2520db954855aa9224232ca8a5372174295c3158a00b424"
+    },
+    {
+      "type": "Theme",
+      "name": "culte",
+      "id": "Theme_dbfc0294f73b377fd04e4380beb9f2770750a17cb3fb7e1f5c13a1440c1242cc"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce",
+      "id": "Theme_030aa67661fc7f420b2620eaa40b472d5e87b4aea26693aacbd98e388c58bb88"
+    },
+    {
+      "type": "Theme",
+      "name": "librairie",
+      "id": "Theme_1df30adbf9679a929b6e4e921f946489e489a6e9090d5997147eeb9fd755b03a"
+    },
+    {
+      "type": "Theme",
+      "name": "disquaire",
+      "id": "Theme_e79efec04369f21bfae31de61ccd5eae23be403e991312e4da4354cd784ee34e"
+    },
+    {
+      "type": "Theme",
+      "name": "bibliothèque",
+      "id": "Theme_9b7ea8e01dd2aa8f9be77fa271329e8e27d4e414b2ef3b9630f301ac365aea6f"
+    },
+    {
+      "type": "Theme",
+      "name": "archive",
+      "id": "Theme_9d8adae17f1f93f8f347f0216c70748110e25138f39cd2e4673eed364022fb2d"
+    },
+    {
+      "type": "Theme",
+      "name": "déplacements",
+      "id": "Theme_dfdcc2608bf77a69345272c08b69501cf7d2bbcb4796639c7f689ea3ea2b96b3"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilités",
+      "id": "Theme_0c8b0cae3c88823ec6c009ff69f50304d7a21a2e1dfd3f1af86073b2ad007fec"
+    },
+    {
+      "type": "City",
+      "name": "parcs d'attraction",
+      "id": "City_11b94c4b4ac4148a91578e59ab90e2de2894be6a486e86f551731008b4e7db06"
+    },
+    {
+      "type": "City",
+      "name": "parcs d'expositions",
+      "id": "City_464860dfac5779821292cea72f9324dbf4fadae76143203e747c4aa738f64160"
+    },
+    {
+      "type": "City",
+      "name": "bars",
+      "id": "City_83fe1295278d9f91f293ea012e882c067b33ee4b58929c6509d250f3e3a75a9f"
+    },
+    {
+      "type": "City",
+      "name": "restaurants",
+      "id": "City_3f5f2e1f6b655c7642d935d876a885a1eb36bbb5b9e361a5a027f4ba461e4ad7"
+    },
+    {
+      "type": "City",
+      "name": "discothèques",
+      "id": "City_6db9086cccbbc2fb70136be74262eb54f867a0d88ee1db592f0ea4ee071fe03d"
+    },
+    {
+      "type": "Theme",
+      "name": "sports d'hiver",
+      "id": "Theme_032e747a5f581634f0d50da2bebf76b49aed13e98199994a8f583438fbd3f7e9"
+    },
+    {
+      "type": "Theme",
+      "name": "troisième vague",
+      "id": "Theme_f7ff9be2c9e1d8f63ae963c7de38d3e94b274de7392c14b3928ccc4778e70cae"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de responsabilité",
+      "id": "Theme_e70b57dd3fd93b3f3d6cd80a8d61bf0ce65e9eaa76aae7eae8397728c4359455"
+    },
+    {
+      "type": "Theme",
+      "name": "masque",
+      "id": "Theme_d660d5b71258784929f23f276febcb26dd4c247ad0d14c7c368b4fc20a5cb0af"
+    },
+    {
+      "type": "Theme",
+      "name": "gestes barrière",
+      "id": "Theme_721e1dd3af5df4e60a04c6eb261e81f7e287b695d52efe013a320a23c15b0ad7"
+    },
+    {
+      "type": "Organization",
+      "name": "TousAntiCovid",
+      "id": "Organization_ffe93118ab3bae469720c669f34eaf743ff6ae2ecf675e1b3813163c07407e57"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "services de l'Etat",
+      "id": "Organization_0e4c3b002b7e0b947f150ac5ade5255303027617ed7e319cef90365be1d32acb"
+    },
+    {
+      "type": "Organization",
+      "name": "associations concernées",
+      "id": "Organization_cf4ad44b7c4a1cc716b766868fb5e70935bc525265d0fb836f7bb823033879d5"
+    },
+    {
+      "type": "Organization",
+      "name": "soignants",
+      "id": "Organization_920c473f35e51353526f5d11d627676f7cf68a9a1e84118379b5debe471fbd73"
+    },
+    {
+      "type": "Theme",
+      "name": "isolement des personnes contaminées",
+      "id": "Theme_9243a19a7ddab7d9bbea20e804a51163765ae9c2d22ad536613892165d508249"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccin",
+      "id": "Theme_32ec3b4bac32f73345f9e33a388256bcaced72a72a5de7433f9116a540d3ce0c"
+    },
+    {
+      "type": "Organization",
+      "name": "Union Européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Organization",
+      "name": "Haute Autorité de Santé",
+      "id": "Organization_50f77d6d08ada5301d759c292d0f9094d031f0a66d89cef02fc00d47f363d068"
+    },
+    {
+      "type": "Organization",
+      "name": "autorités sanitaires",
+      "id": "Organization_fd5f765d9657a946bee86cf28af2c5ec6ee785a154fd3cd82173252bb1b55c43"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités locales",
+      "id": "Organization_2fae242312875653ff5cfec98b1986979a6f1eeae3923af72e0f0d372f21a51a"
+    },
+    {
+      "type": "Organization",
+      "name": "hôpitaux",
+      "id": "Organization_4bc1048beac43b9921f0ac91cf4d0fbee6d5154b31d8f4af4dff1a715dfce441"
+    },
+    {
+      "type": "Organization",
+      "name": "maisons de retraite",
+      "id": "Organization_84684b23421ddd6cb57c7a28b443fadbad7fd8a21031d5f4bf91867609984468"
+    },
+    {
+      "type": "Organization",
+      "name": "médecins de ville",
+      "id": "Organization_d8fcc21149b13d5e9a8b075177a54610c663f37223694716352ed272583f464c"
+    },
+    {
+      "type": "Theme",
+      "name": "crise économique et sociale",
+      "id": "Theme_d05d88bb5d9d71ed599775c678e0cfa981c7fa5824a3fdc1a93fdd3f80f0182e"
+    },
+    {
+      "type": "Event",
+      "name": "premier confinement",
+      "id": "Event_e3bc8a845646b97d081489fb92c122e67162224fff521b042d9e6fcc7014f4fd"
+    },
+    {
+      "type": "Event",
+      "name": "deuxième vague",
+      "id": "Event_aa93217547ad375cd0e506887ce45da81881225f9d2c94f829f121a833ec059d"
+    },
+    {
+      "type": "Theme",
+      "name": "aides sociales",
+      "id": "Theme_44f8f1d086ef75b0a54c501279813ef0a5e7d425e7a219f5a7147db97c8fd1a3"
+    },
+    {
+      "type": "Theme",
+      "name": "aides aux entreprises",
+      "id": "Theme_61d0740c66088b9b52c4ec9ccd6ca1c7d92503df3ebe9ec056afa458a52deb4e"
+    },
+    {
+      "type": "Theme",
+      "name": "RSA",
+      "id": "Theme_99c124060d91e2bbea881c4262b62dea5fa96b23b27cea0e8c0255dd9e318d15"
+    },
+    {
+      "type": "Theme",
+      "name": "allocation de solidarité spécifique",
+      "id": "Theme_d4bd228d1ef6233550c02558683ddaf6d4646ed40278d40fb466bfcb269034cd"
+    },
+    {
+      "type": "Theme",
+      "name": "bénéficiaires",
+      "id": "Theme_2a154da123bd891392755c3fd8d5bd579cc4861453a2a78e1aeabbdf632e20c7"
+    },
+    {
+      "type": "Theme",
+      "name": "étudiants boursiers",
+      "id": "Theme_9a74e0ea85f0d64507cf7beb4113b158d8f618c3293ddc39872f62a28ca49e15"
+    },
+    {
+      "type": "Theme",
+      "name": "allocations logement",
+      "id": "Theme_3820f10cbedcff807cf38c82440031204e31e9add6b9a3eb9f7179cd51939e9c"
+    },
+    {
+      "type": "Theme",
+      "name": "APL",
+      "id": "Theme_b195a4a4306f520e3b2393b357dc2c0df803fe0433d4ff227b8af86cd808791f"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds de solidarité",
+      "id": "Theme_97c3851b31d28dd2bef24f7cfb0ad3d8c8823e908d7ff046ddec7556bee64b7e"
+    },
+    {
+      "type": "Theme",
+      "name": "prêts garantis par l'Etat",
+      "id": "Theme_e377f9bf4ea2681d43b74bfa10159461b1ee2f0ad5ad60be0d11d757b2326a9d"
+    },
+    {
+      "type": "Theme",
+      "name": "charges",
+      "id": "Theme_68cae62b9db50483ed6ec8bea83f672bf7f0c6d9e97ccf867a80cd80e6a7556b"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendants",
+      "id": "Theme_4bf9baff950068802ae2673a9dffcbd46038ebfcecc229f7cd8b1b1338d1db59"
+    },
+    {
+      "type": "Theme",
+      "name": "commerçants",
+      "id": "Theme_b53eeb6a3aec6ecbb07d9b19e117dedc4455d23b891b0c20cbd28cd1beba726a"
+    },
+    {
+      "type": "Theme",
+      "name": "entreprises",
+      "id": "Theme_491a26db55f7c6328a7c53a6f93fe64ff22d9bad28ce4f0f94b7bf90c7004da7"
+    },
+    {
+      "type": "Theme",
+      "name": "bénéficiaires du RSA",
+      "id": "Theme_e75fa980b9c77c25dd1bcafc30128067ddb239935bec4803b319fa60e081cfd1"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunes de moins de 25 ans non-étudiants",
+      "id": "Theme_302d466b739b57892c0b206a81f317c24f809a4e942c14f9c89decd97bf5a37d"
+    },
+    {
+      "type": "Theme",
+      "name": "familles bénéficiant des APL",
+      "id": "Theme_be2310970d1edbfba15f2b9cdd9370955ca0514655bdd428ac7c57859ccede7e"
+    },
+    {
+      "type": "Theme",
+      "name": "aide exceptionnelle",
+      "id": "Theme_0a67f35eda91c018b129f02418817b7d75535c3893d68b8780b88364630bfab7"
+    },
+    {
+      "type": "Theme",
+      "name": "sacrifices",
+      "id": "Theme_c02fc844500352a15dfa4a8f2a838c42f148d7105233234c41af2df220297a1c"
+    },
+    {
+      "type": "Theme",
+      "name": "rouvrir",
+      "id": "Theme_78047b3ff4654407c234963b1de804f4d10a31ea24aaa3d16f34b858cb1c2a4b"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "jeune",
+      "id": "Theme_2cca64a5d33ef96ada55330950a63a5c3368ef4d4424a5fd9dc8c241a78c9b26"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit français",
+      "id": "Theme_d2580ac4c0269bfa8a8284cee54a4276bb58c02486be636f101d487efe558c2d"
+    },
+    {
+      "type": "Theme",
+      "name": "plan de relance",
+      "id": "Theme_0284b43f69888e3ab0015c645b207cd8a09e25a57ef364a712d8ad0acf0ba263"
+    },
+    {
+      "type": "Theme",
+      "name": "bienveillance",
+      "id": "Theme_7f32cfe6f55d6c8858691533f46de8c408e4cd45a80054345810998d77c492aa"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme",
+      "id": "Theme_d10bce3b67531a6774cd57104a434124f2a796f10cbfff22bb37dbeba66cb515"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "crise climatique",
+      "id": "Theme_3e86287b9007dc7cf116e0f678ff3a9925fa42111528a26c250fc10e64358d7f"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "autorités sanitaires",
+      "relation": "LOCATED_IN",
+      "target": "Etat",
+      "evidence": "Les autorités sanitaires, avec l'Etat, les collectivités locales, définiront les modalités pratiques du déploiement des vaccins, avec les hôpitaux, les maisons de retraite et l'ensemble des médecins de ville.",
+      "confidence": 1.0,
+      "source_id": "Organization_fd5f765d9657a946bee86cf28af2c5ec6ee785a154fd3cd82173252bb1b55c43",
+      "target_id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "source": "autorités sanitaires",
+      "relation": "LOCATED_IN",
+      "target": "collectivités locales",
+      "evidence": "Les autorités sanitaires, avec l'Etat, les collectivités locales, définiront les modalités pratiques du déploiement des vaccins, avec les hôpitaux, les maisons de retraite et l'ensemble des médecins de ville.",
+      "confidence": 1.0,
+      "source_id": "Organization_fd5f765d9657a946bee86cf28af2c5ec6ee785a154fd3cd82173252bb1b55c43",
+      "target_id": "Organization_2fae242312875653ff5cfec98b1986979a6f1eeae3923af72e0f0d372f21a51a"
+    },
+    {
+      "source": "autorités sanitaires",
+      "relation": "LOCATED_IN",
+      "target": "hôpitaux",
+      "evidence": "Les autorités sanitaires, avec l'Etat, les collectivités locales, définiront les modalités pratiques du déploiement des vaccins, avec les hôpitaux, les maisons de retraite et l'ensemble des médecins de ville.",
+      "confidence": 1.0,
+      "source_id": "Organization_fd5f765d9657a946bee86cf28af2c5ec6ee785a154fd3cd82173252bb1b55c43",
+      "target_id": "Organization_4bc1048beac43b9921f0ac91cf4d0fbee6d5154b31d8f4af4dff1a715dfce441"
+    },
+    {
+      "source": "autorités sanitaires",
+      "relation": "LOCATED_IN",
+      "target": "maisons de retraite",
+      "evidence": "Les autorités sanitaires, avec l'Etat, les collectivités locales, définiront les modalités pratiques du déploiement des vaccins, avec les hôpitaux, les maisons de retraite et l'ensemble des médecins de ville.",
+      "confidence": 1.0,
+      "source_id": "Organization_fd5f765d9657a946bee86cf28af2c5ec6ee785a154fd3cd82173252bb1b55c43",
+      "target_id": "Organization_84684b23421ddd6cb57c7a28b443fadbad7fd8a21031d5f4bf91867609984468"
+    },
+    {
+      "source": "autorités sanitaires",
+      "relation": "LOCATED_IN",
+      "target": "médecins de ville",
+      "evidence": "Les autorités sanitaires, avec l'Etat, les collectivités locales, définiront les modalités pratiques du déploiement des vaccins, avec les hôpitaux, les maisons de retraite et l'ensemble des médecins de ville.",
+      "confidence": 1.0,
+      "source_id": "Organization_fd5f765d9657a946bee86cf28af2c5ec6ee785a154fd3cd82173252bb1b55c43",
+      "target_id": "Organization_d8fcc21149b13d5e9a8b075177a54610c663f37223694716352ed272583f464c"
+    },
+    {
+      "source": "aides aux entreprises",
+      "relation": "MENTIONS",
+      "target": "aides aux entreprises",
+      "evidence": "Les aides aux entreprises ont été significativement renforcées en décalant les échéances des prêts garantis par l'Etat, en exonérant à nouveau des charges, en augmentant à 10 000 euros le fonds de solidarité notamment pour ceux à qui, indépendants, commerçants, entreprises, nous avons demandé – j'en ai conscience – beaucoup d'efforts, beaucoup de sacrifices, alors même qu'ils craignaient de perdre le fruit d'une vie de travail.",
+      "confidence": 1.0,
+      "source_id": "Theme_61d0740c66088b9b52c4ec9ccd6ca1c7d92503df3ebe9ec056afa458a52deb4e",
+      "target_id": "Theme_61d0740c66088b9b52c4ec9ccd6ca1c7d92503df3ebe9ec056afa458a52deb4e"
+    }
+  ]
+}

@@ -1,0 +1,963 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Secrétaire général",
+      "id": "Person_5da1985b325f6e740d65378795e51c9b23d29b87d7ead2b19a6987745d55c895"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Directrice générale",
+      "id": "Person_1f36d9d1dfda127e323341a112da647c9c3147dfbb2519bd416ca34ec413df47"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les Commissaires",
+      "id": "Person_ab16649617ceda132d61a34bd56e64fbce6135273f237a55c88adfbfcee745bd"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Ministres",
+      "id": "Person_04725bf2245672793e76174d8746ec28f46c281ef73283bf9390941f137cf2cf"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Ambassadeurs",
+      "id": "Person_76a6a72a68cfbbb51d1d33a86541335a692359b8315f5e1e454a4125a3b8a424"
+    },
+    {
+      "type": "Country",
+      "name": "Notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Organization",
+      "name": "Al-Qaïda",
+      "id": "Organization_bf25542b87b4b23bcee39255ca5ca0d6897f09a0f6109db4092621436e90d39d"
+    },
+    {
+      "type": "Organization",
+      "name": "Daesh",
+      "id": "Organization_6f4f4741851bf496fdc34449a8c801ff142b91daa3d53a81e778a2e943039001"
+    },
+    {
+      "type": "Organization",
+      "name": "Etats",
+      "id": "Organization_0ca81ce39bcb4841c0870752916ec2c26c3153cd75ffdd60afe564ff3176d80b"
+    },
+    {
+      "type": "Organization",
+      "name": "coalitions",
+      "id": "Organization_e0974d2aff900f0bcaabba194ab47a9ac5c673409c599142ca8e92dd62cd6811"
+    },
+    {
+      "type": "Organization",
+      "name": "organisations internationales",
+      "id": "Organization_908a29865356744b6a26f2bfac9cd473010ea3da3f967ea11b2f9d66638771f5"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme mondial",
+      "id": "Theme_7e63285820d4e857cb053022832011bc78c59093aa23b1a1960a4cd0d4e96a06"
+    },
+    {
+      "type": "Country",
+      "name": "Levant",
+      "id": "Country_2f6cd024613a3e3a716284591d0c921310d3a2267fc6598a46557ae67ac39cec"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Organization",
+      "name": "coalitions internationales",
+      "id": "Organization_f15ec5d2f05d4e3acd012d1effdb2ab1148d1cc6c2ddf5563c0a75037cdc4cc6"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvances terroristes",
+      "id": "Theme_558cebcb820c67a5ab9cf1fae7480e2721276d922b0c72d13843adf83338cccd"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Asie du Sud-Est",
+      "id": "Country_6593de5b3ff3194ed88922d619b94585df21cddd79fb913afa7c53110b19e89e"
+    },
+    {
+      "type": "Country",
+      "name": "Pacifique",
+      "id": "Country_fb13f49510e4991c246a7df143a4e90afbd5647b097e58a7081571c5cdd07b6f"
+    },
+    {
+      "type": "Theme",
+      "name": "Daesh",
+      "id": "Theme_7503fc9e0ce2476e035ebca0ae8e0b56c73bdd42775045ba1cb18fb4e4807bb3"
+    },
+    {
+      "type": "Theme",
+      "name": "Al-Qaïda",
+      "id": "Theme_2e85e0f57262b21c23f73902c972fdd072b58cd80fd299a5e9020e4785768118"
+    },
+    {
+      "type": "Theme",
+      "name": "financement du terrorisme",
+      "id": "Theme_fdbb6d8feeadc159ded88191347ce04d04610a1b2d9cea0441fbd4a5e4970238"
+    },
+    {
+      "type": "Theme",
+      "name": "cyberespace",
+      "id": "Theme_5e9488ec8e0e545344a484b253cc9dd5c88d9007b832f07b75aa7cd3af077474"
+    },
+    {
+      "type": "Theme",
+      "name": "propagande terroriste",
+      "id": "Theme_cb70eb2fcf5c5071d9967a0c41e8e8b164217c6563fcadb828f12cec0e8d87d2"
+    },
+    {
+      "type": "Theme",
+      "name": "prosélytisme",
+      "id": "Theme_973f875e4cd27f6c558acf45e9d9fcb15852f6354f9acdeabe598e9010c6fe62"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération avec les services de police et la justice",
+      "id": "Theme_cb82e7f0f01d896df650e5a44472333c52e5d5c8cf5fdaf34c2ea730c786bfc4"
+    },
+    {
+      "type": "Theme",
+      "name": "incitation à la haine",
+      "id": "Theme_b2319a8e00c33046f729b6cde9f7faf88316c2a0dfb1b0a7471f9fa257e78374"
+    },
+    {
+      "type": "Theme",
+      "name": "apologie d'attaques déjà commises",
+      "id": "Theme_693a0550aefe6a2f5ad5351bcea04dcda3ffe9f692114a8899daf7729a7cd283"
+    },
+    {
+      "type": "Theme",
+      "name": "menaces imminentes",
+      "id": "Theme_671ec8a28c89360d900fa71b44843a5c0e512f754052fe0273f76ab636f11e9c"
+    },
+    {
+      "type": "Country",
+      "name": "Etats",
+      "id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Person",
+      "name": "Theresa MAY",
+      "id": "Person_f9d077e1f6a9535d00181f420d1d3be0682f9147ffff792fa0063438a36eb744"
+    },
+    {
+      "type": "City",
+      "name": "Londres",
+      "id": "City_46110e3e9c35de9d2cda1109fbec5fe7701b958198ac1143e8e5aa66bd4be03f"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations Unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Person",
+      "name": "les dirigeants élus par leur peuple",
+      "id": "Person_1cda517de13ddbc1a107ce87e985828ecfc6d28d2123f2612553f284de431e39"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "contenus de haine",
+      "id": "Theme_a30eb63959b5c29224ca9ece707e01ea2c50f6f739db963c14bf3181264c42f0"
+    },
+    {
+      "type": "Theme",
+      "name": "incitations à l'acte terroriste",
+      "id": "Theme_0ed9b26025aeedb6538c1a108fea4efe32bf87086034bd6fc499cc8ae0246676"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "législation",
+      "id": "Theme_6897d373d1c3369834ac30647fcfaf4f80c4e8951e2123e194d1c1786345ee36"
+    },
+    {
+      "type": "Theme",
+      "name": "bonne volonté",
+      "id": "Theme_c9454d401a949fa2c83fa0b76fb0a4d95d79aeae58e64e7faacfc30c5f6d8069"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité des plateformes Internet",
+      "id": "Theme_342a2c4d35ab071ad2793b52f1eb861affea8abea3f6423f25566a27a6f27984"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté d'expression",
+      "id": "Theme_acb0e9d3f3d2ce06e5a0aea13fc6160588104e35cb96880d570891860752245a"
+    },
+    {
+      "type": "Country",
+      "name": "pays des droits de l'homme",
+      "id": "Country_9099849088ab00e322c6dedb6d70ec206f4abcb0b2d81eefacb811ecad01ed56"
+    },
+    {
+      "type": "Person",
+      "name": "TRUMP",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Country",
+      "name": "Corne de l'Afrique",
+      "id": "Country_448a473e99166fd655fa09650d68d8f99868526a30f13ee06d5a58f8eba9082f"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "City",
+      "name": "bassin du lac Tchad",
+      "id": "City_82c7c677f9fbc95176470cccda64f28603ac442924f515e387c6b22bab32d615"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Organization",
+      "name": "MINUSMA",
+      "id": "Organization_ca97eba974d956f03896c8dba73f0ff213915a352452accbe7ee16ab48ee356a"
+    },
+    {
+      "type": "Organization",
+      "name": "Barkhane",
+      "id": "Organization_e54f566ab6b27cae3cc1917ae6d401f506be9fa0b59d5e884d97d8e2aae1a82f"
+    },
+    {
+      "type": "Organization",
+      "name": "G5 Sahel",
+      "id": "Organization_731d6944c0a31ed0fe261575f2573caac7a90e8ab6d60ef9a3df3e2391b9c38e"
+    },
+    {
+      "type": "Organization",
+      "name": "Union africaine",
+      "id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "type": "Country",
+      "name": "Afghanistan",
+      "id": "Country_5ea7a9152b57f52d563390097c0d7ee8c7520b1a7fb13ff16e8c8d519cc49736"
+    },
+    {
+      "type": "Theme",
+      "name": "radicalisation",
+      "id": "Theme_f8b1b3258b1203d98805d21222997e8a052b0c3a5dfabfde97b23a7a4d797d98"
+    },
+    {
+      "type": "Theme",
+      "name": "bonnes pratiques",
+      "id": "Theme_496f4352b12f6eeb4219b4f034a1f88ab5531e01087783c859c45d2ec52694f6"
+    },
+    {
+      "type": "Theme",
+      "name": "contamination de la population",
+      "id": "Theme_4867d00165516e65b1ce6df62059d414b37fa0de1b338f6f156428b8eb9d2583"
+    },
+    {
+      "type": "Country",
+      "name": "Sahara",
+      "id": "Country_8af9ed0d19cd3684ad43993d6dee4bca36f122587f91af3fe884cf806a0f81a1"
+    },
+    {
+      "type": "City",
+      "name": "Levant",
+      "id": "City_532378963fc1ae19c2decd2bbe75def0740e45b73359d95e61b6cb07e2d2b161"
+    },
+    {
+      "type": "City",
+      "name": "Sahel",
+      "id": "City_92fe9646c051c53241e17f3fdb2c650a6e9fa01c7eb8480b47877e959ee0b5fe"
+    },
+    {
+      "type": "City",
+      "name": "Sahara",
+      "id": "City_b1efde6bc33b5aee41114ba7e0673f88db8c93189870734654b6ea1fc6428a3b"
+    },
+    {
+      "type": "City",
+      "name": "golfe de Guinée",
+      "id": "City_ccbd6a725903a80a4946d0f160cc8cf59d506c6c214bcfbaac7b181a67f2a221"
+    },
+    {
+      "type": "City",
+      "name": "Libye",
+      "id": "City_2d5b93c767cca6c774dcaffe6d4db358e20f76255d46ec7fb9cefcdbf343a8c0"
+    },
+    {
+      "type": "Theme",
+      "name": "contrebalancer l'influence",
+      "id": "Theme_c6d5b3baa43bf4719f3a233252bd5a37a345ca2a1a791e5b0fc9a35630160f2f"
+    },
+    {
+      "type": "Theme",
+      "name": "défendre leur intérêt propre",
+      "id": "Theme_f94c53f662c87d21e9439593b7ba2f5f3ed7ca3ed6ba1f32d8c379dd65be4fa6"
+    },
+    {
+      "type": "Theme",
+      "name": "contrecarrer les intérêts d'une puissance hostile",
+      "id": "Theme_873148f9345f60e327347574a7ca0b52865d47e9fb67abd5f63633aee71fdbea"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilisation",
+      "id": "Theme_0eab3e350d3777625fe2debe6b8f064adc4c51e5eed0b4c88551e272e7c84470"
+    },
+    {
+      "type": "Theme",
+      "name": "coalition d'Etats",
+      "id": "Theme_ec0f1952e3afe21768dd94ff3e7dc0c93c5eb9d7d65d8d4f219498c2581e9309"
+    },
+    {
+      "type": "Theme",
+      "name": "ennemi commun",
+      "id": "Theme_f01f3e618d2a62e69c74f13e54b723420564f0c329d7efb01e346fafab11ae3d"
+    },
+    {
+      "type": "Organization",
+      "name": "Coalition de Paris",
+      "id": "Organization_1141c206a3a63b32ccb010d24f563c0f92caa4702784264fbb08d1f4fe256a13"
+    },
+    {
+      "type": "Organization",
+      "name": "Cette conférence de mobilisation",
+      "id": "Organization_a6150c36e6bd88c1f471a3a02ad4e284afd2da320604f377a21e2e60112b5931"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition internationale contre Daesh et au Levant",
+      "id": "Organization_1a241207bb1e5a046ebb243ed1c6a0584dfd064bbebb2e12e3623781c1e6d710"
+    },
+    {
+      "type": "Theme",
+      "name": "financement",
+      "id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941"
+    },
+    {
+      "type": "Theme",
+      "name": "détournement des instruments financiers légitimes",
+      "id": "Theme_d12bbda8008f71f21faede85350a5f069a2452e5105dbc8d0270b24d0593fb25"
+    },
+    {
+      "type": "Theme",
+      "name": "anonymisation des circuits financiers terroristes",
+      "id": "Theme_057beec0505b2c60acd7501c4cd17e2aa0ef65fa74fc3b3d45e3ac8bb2cffe5f"
+    },
+    {
+      "type": "Theme",
+      "name": "générosité du public",
+      "id": "Theme_21e2a42d626bfab332d23484bbd6eda8c4835dbf0a839afa1cced256b3e0aeed"
+    },
+    {
+      "type": "Theme",
+      "name": "anonymat des transactions financières",
+      "id": "Theme_39a95816a2b9718a3a85007864139e326ef95daaf6612dc080574b3b74dbe59a"
+    },
+    {
+      "type": "Theme",
+      "name": "générosité",
+      "id": "Theme_d4ebaf9775b43ff18ffebb5252cba8c64ff5877c57aaa93c2812f2471b3396aa"
+    },
+    {
+      "type": "Theme",
+      "name": "dons privés",
+      "id": "Theme_96a8ec607c0a97aa62abc12009f14ff5942d987ffac4869abc1b7b8bbc622175"
+    },
+    {
+      "type": "Theme",
+      "name": "organisations terroristes",
+      "id": "Theme_bf945e82ada3c1e91ad423678a1d21a6238ec0b7a751f5ce8a062dd529c3608a"
+    },
+    {
+      "type": "Theme",
+      "name": "institutions caritatives",
+      "id": "Theme_739b08dbdbc442651fa6112ceb77e0c18d70e6273771effa3b72cdbfce8ae024"
+    },
+    {
+      "type": "Theme",
+      "name": "financement de groupes et d'activités terroristes",
+      "id": "Theme_38e8f2fcd8f53eb0cbe88750a9a5ba4ac7af4038224e96cd6cc2016d7d697cc1"
+    },
+    {
+      "type": "Theme",
+      "name": "promotion de discours de haine",
+      "id": "Theme_416a0e59d3cafbd508efffd2050b66fbef3d156997fc360d4135b5212c0da79f"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité individuelle ou collective",
+      "id": "Theme_e15664b304b7ff76cbe368a80b133bec14b56b35f4b81426e565ebc1baef3d27"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle légitime",
+      "id": "Theme_d50dfffa2fbd08a4ae84689d9c5b978b3746c3d9d1b9c880400221d999a30268"
+    },
+    {
+      "type": "Organization",
+      "name": "Groupe d'action financière",
+      "id": "Organization_25c1663d3fa09301aea769921da69e34af7c2025834774364e04fca8bd89cd59"
+    },
+    {
+      "type": "Theme",
+      "name": "mobile banking",
+      "id": "Theme_76ffefdcf601b514e3ecc67c94e88422ab3d84b4ab0a6f12e83ff7d6b66b05b7"
+    },
+    {
+      "type": "Theme",
+      "name": "crowdfunding",
+      "id": "Theme_0d75c14857c3d911452bbe9b0e72575841db4a70f5d6c07deaf00df5660dad3b"
+    },
+    {
+      "type": "Theme",
+      "name": "systèmes d'identification numérique",
+      "id": "Theme_4a0a76edfc52afdca8e4a4723c045d768ffbb5433c55e3e1640a08a5a7f963d1"
+    },
+    {
+      "type": "Theme",
+      "name": "paiement par téléphone mobile",
+      "id": "Theme_8ba1981f09d5834adc066b1ab79ab175ed9a1ed196564588cf60de145df47208"
+    },
+    {
+      "type": "Theme",
+      "name": "flux financiers",
+      "id": "Theme_061adc192a237f1e7965ac63b79c739983fe6f3824a50d47167dcb0604a533ac"
+    },
+    {
+      "type": "Theme",
+      "name": "canaux informels",
+      "id": "Theme_5c133eec4000a3fac88ce29bf808df1e49885de534c2c03480e42bfef0b1ff3f"
+    },
+    {
+      "type": "Theme",
+      "name": "régions",
+      "id": "Theme_517b777f2e26c668d40b8c70e5c435e7111c4b26f68ad351b155ce2e26fc3aa0"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations",
+      "id": "Theme_3957cb051014b00717e7b2ec655cbcfa47c99687835fe48f9d3a8fbe1cedaead"
+    },
+    {
+      "type": "Theme",
+      "name": "crypto-actifs",
+      "id": "Theme_828dd12bfcf83f96298d440ad55b1ff993597c453a40592a14845147274965e5"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "régulation internationale",
+      "id": "Theme_fdea9659f1751cf4fd6c832db8b260e0b53aa721790a5986cdf3056859758929"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Organization",
+      "name": "FMI",
+      "id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de Stabilité Financière",
+      "id": "Organization_e4bb810eb4c9062a7c662b441ce7f89a4ff8531e301abe2a94645cc48a86cc37"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveaux instruments financiers",
+      "id": "Theme_b0900aa49c42feb8cacb0452383a25f45523b4809050065b9d209c70d246c119"
+    },
+    {
+      "type": "Theme",
+      "name": "quatrième directive bis anti-blanchiment",
+      "id": "Theme_4a4d1fe638adf885317a783cdd53fa119dea2c5a4711e74136074aac962f2583"
+    },
+    {
+      "type": "Theme",
+      "name": "accès direct",
+      "id": "Theme_86ea6f28e6152642376ae73915aa289628f0e7376629ae09a61959121d01207f"
+    },
+    {
+      "type": "Theme",
+      "name": "fichiers centraux nationaux",
+      "id": "Theme_918233348961993ef7d0ac3d31f55f51295e7eef7747dcda3ae4b369fd9d5d28"
+    },
+    {
+      "type": "Theme",
+      "name": "généralisée",
+      "id": "Theme_4ced4832162433d51eadfea0b154515b780a088035f970263eaa8cd3cb2f4da1"
+    },
+    {
+      "type": "Theme",
+      "name": "vulnérabilité",
+      "id": "Theme_6f126fa090fd8a8ed1c142eead2128cc0321eed6197deba2e3b8f83e949122a8"
+    },
+    {
+      "type": "Theme",
+      "name": "compte bancaire",
+      "id": "Theme_d776f20a3acd66a6deea73d214a536f9d5e6b656fbe74348d470768636eb4b46"
+    },
+    {
+      "type": "Theme",
+      "name": "fins terroristes",
+      "id": "Theme_26f7b860a4801a868d4dc4a6b987799cdfa28d1fcee2da9bc690e903e2a28698"
+    },
+    {
+      "type": "Theme",
+      "name": "fraude documentaire",
+      "id": "Theme_68c9a0ff37af8486f6bc3ff8026f4402e97a2ba6527a77a60a2dcbff2fb9b337"
+    },
+    {
+      "type": "Theme",
+      "name": "usurpation d'identité",
+      "id": "Theme_58b29a224746486083b117f2a2ce3f8a1e6e55c838ca97aa94c8c0a635f61bef"
+    },
+    {
+      "type": "Theme",
+      "name": "absence de contrôle sur les utilisateurs",
+      "id": "Theme_216966642886dadc84907bcd18c6ef1a212ca09a4f7123385dfbab7d7f4b9784"
+    },
+    {
+      "type": "Country",
+      "name": "Etats vulnérables",
+      "id": "Country_a3d7a04ba6d72e4edc8a188cc09ea734536ed6f951faef5583bb976c251cad66"
+    },
+    {
+      "type": "Country",
+      "name": "Etats défaillants",
+      "id": "Country_115a683ea86847105ddb9cd184818db633b54f0cdea35f2f6b9cfa50085acbf3"
+    },
+    {
+      "type": "Country",
+      "name": "Etats qui sont placés sur la liste grise ou la liste noire du GAFI",
+      "id": "Country_e317bff0e66d8cf97dc85c21efb6375eb0484d0a3891b5461f979d81c71f1ed5"
+    },
+    {
+      "type": "Organization",
+      "name": "GAFI",
+      "id": "Organization_89d6fd7c7974c6ebb0ffaf044b7109029bc58e52e430f47a524ea5acf2f9af32"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Theme",
+      "name": "répression et de sanction",
+      "id": "Theme_18a9cf7ad6848d7b839472b487da947861c8d5641f95e3be0ec1ed8ab3322d63"
+    },
+    {
+      "type": "Theme",
+      "name": "gels d'avoirs",
+      "id": "Theme_b583dbe2a38526a6342b0f0441913801aadf2800c09b01b169e29ccecc48b301"
+    },
+    {
+      "type": "Law",
+      "name": "gels d'avoirs",
+      "id": "Law_a0410aaed17187c664139598b28403aaa30105be5594e1de3fcfcacaa64997b2"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme",
+      "id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "type": "Theme",
+      "name": "sanctions financières",
+      "id": "Theme_e8787248069d01a65ced69f675b45578318ff6302d6a18f329d7aab23a44d203"
+    },
+    {
+      "type": "Organization",
+      "name": "Groupe d'action financière international",
+      "id": "Organization_63b4e03eab6f938a0bc75eb5448234b731bdd622cafe2b000030170d1c2b8f2c"
+    },
+    {
+      "type": "Theme",
+      "name": "menace terroriste",
+      "id": "Theme_f72d3dcf49eb88c83ce83dde773d7af102060e7e2da2f4d3e52a25f8d66870c7"
+    },
+    {
+      "type": "Theme",
+      "name": "prise en compte de la menace terroriste",
+      "id": "Theme_793f36ec4d9e822cf6fa17d8d1bd34c64c66f44d6fbcf1155524a5163bbfecfa"
+    },
+    {
+      "type": "Theme",
+      "name": "approche moderne et lucide",
+      "id": "Theme_9ae033d62a674cf884594c815594afa253ff644f0274fbef4cfbb0a7d5566c22"
+    },
+    {
+      "type": "Theme",
+      "name": "pistes nouvelles",
+      "id": "Theme_0f2c6f88f29623a597a818e01b3f3e7b500d33c62481a4ec2cab2e86a8bb5561"
+    },
+    {
+      "type": "Theme",
+      "name": "orientations concrètes",
+      "id": "Theme_e36e9a679c2c716d1db6485916bf3e472a7246c2bf4340068cf2d1885567f0d8"
+    },
+    {
+      "type": "Country",
+      "name": "Australie",
+      "id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2"
+    },
+    {
+      "type": "City",
+      "name": "New-York",
+      "id": "City_c40931681e567767b403e36efe5d97722b6dce63957a48ef69f875c36fbc50bf"
+    },
+    {
+      "type": "Country",
+      "name": "nos pays",
+      "id": "Country_0aebaac6c0b4cedc336e01f1d7aeed319b030c3cfc41632b79be2d790a1fdc24"
+    },
+    {
+      "type": "Organization",
+      "name": "nos organisations",
+      "id": "Organization_c5ca6a87b3b1a8c86fd365aa721c62ac73242f9e5a175813e1b52f6853fe0f81"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Notre pays",
+      "relation": "VISITED",
+      "target": "Notre pays",
+      "evidence": "Notre pays, il y a encore quelques semaines à peine, a connu à nouveau cette forme d'attentat.",
+      "confidence": 1.0,
+      "source_id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539",
+      "target_id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "source": "Etats",
+      "relation": "SPOKE_ABOUT",
+      "target": "terrorisme",
+      "evidence": "ce qui fonde la légitimité des Etats et donc ensuite des coalitions qu'ils peuvent former, des organisations internationales auxquelles ils décident de concourir, c'est de protéger. La lutte contre le terrorisme, c'est cette mission première et fondamentale.",
+      "confidence": 1.0,
+      "source_id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5",
+      "target_id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "source": "Etats",
+      "relation": "SPOKE_ABOUT",
+      "target": "sécurité",
+      "evidence": "Nous, Etats et organisations internationales à qui nos concitoyens ont remis la première des responsabilités, celle de leur sécurité, nous avons réagi à cette menace et nous devons aller au bout de la réponse qu'il faut apporter.",
+      "confidence": 1.0,
+      "source_id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5",
+      "target_id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "source": "Etats",
+      "relation": "ALLIED_WITH",
+      "target": "organisations internationales",
+      "evidence": "Nous, Etats et organisations internationales à qui nos concitoyens ont remis la première des responsabilités, celle de leur sécurité, nous avons réagi à cette menace et nous devons aller au bout de la réponse qu'il faut apporter.",
+      "confidence": 1.0,
+      "source_id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5",
+      "target_id": "Organization_908a29865356744b6a26f2bfac9cd473010ea3da3f967ea11b2f9d66638771f5"
+    },
+    {
+      "source": "mouvances terroristes",
+      "relation": "LOCATED_IN",
+      "target": "Levant",
+      "evidence": "Ces mouvances terroristes frappent évidemment dans la région du Levant",
+      "confidence": 1.0,
+      "source_id": "Theme_558cebcb820c67a5ab9cf1fae7480e2721276d922b0c72d13843adf83338cccd",
+      "target_id": "City_532378963fc1ae19c2decd2bbe75def0740e45b73359d95e61b6cb07e2d2b161"
+    },
+    {
+      "source": "mouvances terroristes",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Ces mouvances terroristes frappent évidemment dans la région du Levant, dans nos continents, en Europe",
+      "confidence": 1.0,
+      "source_id": "Theme_558cebcb820c67a5ab9cf1fae7480e2721276d922b0c72d13843adf83338cccd",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "mouvances terroristes",
+      "relation": "LOCATED_IN",
+      "target": "Afrique",
+      "evidence": "Ces mouvances terroristes frappent évidemment dans la région du Levant, dans nos continents, en Europe comme de l'autre côté de l'Atlantique et dans à peu près toute l'Afrique",
+      "confidence": 1.0,
+      "source_id": "Theme_558cebcb820c67a5ab9cf1fae7480e2721276d922b0c72d13843adf83338cccd",
+      "target_id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "source": "Al-Qaïda",
+      "relation": "ALLIED_WITH",
+      "target": "Daesh",
+      "evidence": "Contre Al-Qaïda et Daesh, nous avons mené tous les combats sur le terrain et cet ennemi très particulier, caractéristique de notre temps, défi de notre génération, recule, mais il ne disparaît pas, il s'adapte.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e85e0f57262b21c23f73902c972fdd072b58cd80fd299a5e9020e4785768118",
+      "target_id": "Theme_7503fc9e0ce2476e035ebca0ae8e0b56c73bdd42775045ba1cb18fb4e4807bb3"
+    },
+    {
+      "source": "les dirigeants élus par leur peuple",
+      "relation": "SPOKE_ABOUT",
+      "target": "sécurité",
+      "evidence": "les dirigeants, les dirigeants élus par leur peuple et qui sont avant tout en charge de leur sécurité !",
+      "confidence": 1.0,
+      "source_id": "Person_1cda517de13ddbc1a107ce87e985828ecfc6d28d2123f2612553f284de431e39",
+      "target_id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "source": "les dirigeants élus par leur peuple",
+      "relation": "SPOKE_ABOUT",
+      "target": "liberté",
+      "evidence": "Pas les acteurs qui vous expliquent que ce n'est pas possible et qu'ils sont les grands défenseurs de la liberté, mais les dirigeants, les dirigeants élus par leur peuple et qui sont avant tout en charge de leur sécurité !",
+      "confidence": 1.0,
+      "source_id": "Person_1cda517de13ddbc1a107ce87e985828ecfc6d28d2123f2612553f284de431e39",
+      "target_id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "source": "coalition d'Etats",
+      "relation": "SPOKE_ABOUT",
+      "target": "ennemi commun",
+      "evidence": "c'est de former cette coalition d'Etats, d'organisations internationales ici représentées qui acceptent de travailler ensemble, de désigner cet ennemi commun",
+      "confidence": 1.0,
+      "source_id": "Theme_ec0f1952e3afe21768dd94ff3e7dc0c93c5eb9d7d65d8d4f219498c2581e9309",
+      "target_id": "Theme_f01f3e618d2a62e69c74f13e54b723420564f0c329d7efb01e346fafab11ae3d"
+    },
+    {
+      "source": "Coalition de Paris",
+      "relation": "PROPOSED",
+      "target": "financement",
+      "evidence": "Cette Coalition de Paris prolongera dans le domaine du financement et avec une vocation mondiale le travail réalisé depuis 2014 dans le cadre de la coalition internationale contre Daesh et au Levant.",
+      "confidence": 1.0,
+      "source_id": "Organization_1141c206a3a63b32ccb010d24f563c0f92caa4702784264fbb08d1f4fe256a13",
+      "target_id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941"
+    },
+    {
+      "source": "Coalition de Paris",
+      "relation": "ALLIED_WITH",
+      "target": "coalition internationale contre Daesh et au Levant",
+      "evidence": "Cette Coalition de Paris prolongera dans le domaine du financement et avec une vocation mondiale le travail réalisé depuis 2014 dans le cadre de la coalition internationale contre Daesh et au Levant.",
+      "confidence": 1.0,
+      "source_id": "Organization_1141c206a3a63b32ccb010d24f563c0f92caa4702784264fbb08d1f4fe256a13",
+      "target_id": "Organization_1a241207bb1e5a046ebb243ed1c6a0584dfd064bbebb2e12e3623781c1e6d710"
+    },
+    {
+      "source": "Daesh",
+      "relation": "SPOKE_ABOUT",
+      "target": "financement",
+      "evidence": "Ce que nous avons réussi à faire sur le terrain d'un point de vue militaire nous devons le faire dans la lutte contre le financement de Daesh et Al-Qaïda avec la même force, la même détermination, la même clarté et la même solidarité.",
+      "confidence": 1.0,
+      "source_id": "Theme_7503fc9e0ce2476e035ebca0ae8e0b56c73bdd42775045ba1cb18fb4e4807bb3",
+      "target_id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941"
+    },
+    {
+      "source": "Daesh",
+      "relation": "SPOKE_ABOUT",
+      "target": "Al-Qaïda",
+      "evidence": "Ce que nous avons réussi à faire sur le terrain d'un point de vue militaire nous devons le faire dans la lutte contre le financement de Daesh et Al-Qaïda avec la même force, la même détermination, la même clarté et la même solidarité.",
+      "confidence": 1.0,
+      "source_id": "Theme_7503fc9e0ce2476e035ebca0ae8e0b56c73bdd42775045ba1cb18fb4e4807bb3",
+      "target_id": "Theme_2e85e0f57262b21c23f73902c972fdd072b58cd80fd299a5e9020e4785768118"
+    },
+    {
+      "source": "systèmes d'identification numérique",
+      "relation": "MENTIONS",
+      "target": "systèmes d'identification numérique",
+      "evidence": "Les systèmes d'identification numérique, le paiement par téléphone mobile offrent en effet de nouvelles opportunités pour mieux connaître des flux financiers qui sans cela auraient recours à des canaux informels.",
+      "confidence": 1.0,
+      "source_id": "Theme_4a0a76edfc52afdca8e4a4723c045d768ffbb5433c55e3e1640a08a5a7f963d1",
+      "target_id": "Theme_4a0a76edfc52afdca8e4a4723c045d768ffbb5433c55e3e1640a08a5a7f963d1"
+    },
+    {
+      "source": "paiement par téléphone mobile",
+      "relation": "MENTIONS",
+      "target": "paiement par téléphone mobile",
+      "evidence": "Les systèmes d'identification numérique, le paiement par téléphone mobile offrent en effet de nouvelles opportunités pour mieux connaître des flux financiers qui sans cela auraient recours à des canaux informels.",
+      "confidence": 1.0,
+      "source_id": "Theme_8ba1981f09d5834adc066b1ab79ab175ed9a1ed196564588cf60de145df47208",
+      "target_id": "Theme_8ba1981f09d5834adc066b1ab79ab175ed9a1ed196564588cf60de145df47208"
+    },
+    {
+      "source": "flux financiers",
+      "relation": "MENTIONS",
+      "target": "flux financiers",
+      "evidence": "Les systèmes d'identification numérique, le paiement par téléphone mobile offrent en effet de nouvelles opportunités pour mieux connaître des flux financiers qui sans cela auraient recours à des canaux informels.",
+      "confidence": 1.0,
+      "source_id": "Theme_061adc192a237f1e7965ac63b79c739983fe6f3824a50d47167dcb0604a533ac",
+      "target_id": "Theme_061adc192a237f1e7965ac63b79c739983fe6f3824a50d47167dcb0604a533ac"
+    },
+    {
+      "source": "canaux informels",
+      "relation": "MENTIONS",
+      "target": "canaux informels",
+      "evidence": "Les systèmes d'identification numérique, le paiement par téléphone mobile offrent en effet de nouvelles opportunités pour mieux connaître des flux financiers qui sans cela auraient recours à des canaux informels.",
+      "confidence": 1.0,
+      "source_id": "Theme_5c133eec4000a3fac88ce29bf808df1e49885de534c2c03480e42bfef0b1ff3f",
+      "target_id": "Theme_5c133eec4000a3fac88ce29bf808df1e49885de534c2c03480e42bfef0b1ff3f"
+    },
+    {
+      "source": "régions",
+      "relation": "MENTIONS",
+      "target": "régions",
+      "evidence": "Ces modes de financement se développent formidablement y compris dans les régions aujourd'hui les plus pauvres parce que c'est une innovation profonde qui correspond aussi à des usages.",
+      "confidence": 1.0,
+      "source_id": "Theme_517b777f2e26c668d40b8c70e5c435e7111c4b26f68ad351b155ce2e26fc3aa0",
+      "target_id": "Theme_517b777f2e26c668d40b8c70e5c435e7111c4b26f68ad351b155ce2e26fc3aa0"
+    },
+    {
+      "source": "compte bancaire",
+      "relation": "MENTIONS",
+      "target": "vulnérabilité",
+      "evidence": "créer et utiliser un compte bancaire géré par le biais de services en ligne ou d'un réseau d'agences sans aucune formalité particulière ou sur la simple base des déclarations de l'utilisateur peut aussi être une source de grande vulnérabilité.",
+      "confidence": 1.0,
+      "source_id": "Theme_d776f20a3acd66a6deea73d214a536f9d5e6b656fbe74348d470768636eb4b46",
+      "target_id": "Theme_6f126fa090fd8a8ed1c142eead2128cc0321eed6197deba2e3b8f83e949122a8"
+    },
+    {
+      "source": "Etats vulnérables",
+      "relation": "LOCATED_IN",
+      "target": "Etats",
+      "evidence": "accroître le soutien aux Etats vulnérables",
+      "confidence": 1.0,
+      "source_id": "Country_a3d7a04ba6d72e4edc8a188cc09ea734536ed6f951faef5583bb976c251cad66",
+      "target_id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "source": "Etats défaillants",
+      "relation": "LOCATED_IN",
+      "target": "Etats",
+      "evidence": "la pression sur les Etats défaillants",
+      "confidence": 1.0,
+      "source_id": "Country_115a683ea86847105ddb9cd184818db633b54f0cdea35f2f6b9cfa50085acbf3",
+      "target_id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "source": "Etats",
+      "relation": "LOCATED_IN",
+      "target": "Etats",
+      "evidence": "l'engagement collectif des Etats et des organisations internationales vis-à-vis des Etats qui sont placés sur la liste grise ou la liste noire du GAFI",
+      "confidence": 1.0,
+      "source_id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5",
+      "target_id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "source": "Etats qui sont placés sur la liste grise ou la liste noire du GAFI",
+      "relation": "LOCATED_IN",
+      "target": "Etats",
+      "evidence": "l'engagement collectif des Etats et des organisations internationales vis-à-vis des Etats qui sont placés sur la liste grise ou la liste noire du GAFI",
+      "confidence": 1.0,
+      "source_id": "Country_e317bff0e66d8cf97dc85c21efb6375eb0484d0a3891b5461f979d81c71f1ed5",
+      "target_id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "source": "GAFI",
+      "relation": "LOCATED_IN",
+      "target": "Etats",
+      "evidence": "l'engagement collectif des Etats et des organisations internationales vis-à-vis des Etats qui sont placés sur la liste grise ou la liste noire du GAFI",
+      "confidence": 1.0,
+      "source_id": "Organization_89d6fd7c7974c6ebb0ffaf044b7109029bc58e52e430f47a524ea5acf2f9af32",
+      "target_id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "gels d'avoirs",
+      "evidence": "J'ai ainsi renforcé la capacité de la France à prendre au niveau national et à soutenir au niveau international des mesures de gels d'avoirs contre les personnes physiques ou morales contribuant ou ayant contribué au financement du terrorisme.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Law_a0410aaed17187c664139598b28403aaa30105be5594e1de3fcfcacaa64997b2"
+    },
+    {
+      "source": "GAFI",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "La France entend pleinement se mobiliser pour donner au GAFI les moyens d'exercer ses missions et d'atteindre ses objectifs.",
+      "confidence": 1.0,
+      "source_id": "Organization_89d6fd7c7974c6ebb0ffaf044b7109029bc58e52e430f47a524ea5acf2f9af32",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

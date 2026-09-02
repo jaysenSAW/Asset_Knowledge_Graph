@@ -1,0 +1,108 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Nechirvan BARZANI",
+      "id": "Person_aa4fea278e9ccafd081a2d6abb010f1c364301b5c7aeb98b819988f07cf0a4c2"
+    },
+    {
+      "type": "Person",
+      "name": "Qubad TALABANI",
+      "id": "Person_a59ed0b0bf8200a0a00b3a1ea50126a10c2f2ad845a369d2852a5c04fa35b98f"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Peshmergas",
+      "id": "Organization_d7f9b9e6fcee6088b290929cb2646dbc23907f9c096fc7094c401a0a69edd533"
+    },
+    {
+      "type": "Organization",
+      "name": "forces fédérales irakiennes",
+      "id": "Organization_c4ab0fcb3a1cf1025c35adfcc34459abae5998333c97ce83fddc9e8f6d8686f8"
+    },
+    {
+      "type": "Event",
+      "name": "référendum du 25 septembre dernier au Kurdistan irakien",
+      "id": "Event_d1416164aa80ac1a04b63f6f15dc0c12cd498def5cbf084402cbbed5df621119"
+    },
+    {
+      "type": "Person",
+      "name": "Haïder al-ABADI",
+      "id": "Person_3dc037fc7172ee6ec66722cc95f13108f0e7b9ad9e4962c4cc6edcd11c6e9812"
+    },
+    {
+      "type": "Country",
+      "name": "Irak",
+      "id": "Country_99792b4385035d3a51b12170d270a96604af5ab8e0945708f2a19bcc0e41b04c"
+    },
+    {
+      "type": "Country",
+      "name": "Kurdes d'Irak",
+      "id": "Country_15b912790e5883bc6f8d71496093b355bf32f3614d6ca1d442b4a186596314b1"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement régional du Kurdistan",
+      "id": "Organization_bbdb3d3b03c082c88ca0d8a6f74bab82effd5b04a105ad4c7c63bc35c5ffbefc"
+    },
+    {
+      "type": "Organization",
+      "name": "Cour suprême d'Irak",
+      "id": "Organization_1f91b8683229f8c0de37f9e99f6097b3ab8dd549d7c5c2609fb74d19012a6974"
+    },
+    {
+      "type": "Person",
+      "name": "ABADI",
+      "id": "Person_7ee97ecc152441b4f75400177346cd49be7c8da5ee3e347e84b7ccff6424ea89"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Kurdistan d'Irak",
+      "id": "City_904bb53694bf8114f4c668fb40672b2fe642f5e058fa40b944df22761fc2dbae"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Kurdes d'Irak",
+      "evidence": "j'ai confirmé à Monsieur Nechirvan BARZANI l'attachement de la France à la pleine mise en oeuvre des droits constitutionnels des Kurdes d'Irak",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_15b912790e5883bc6f8d71496093b355bf32f3614d6ca1d442b4a186596314b1"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Irak",
+      "evidence": "j'ai confirmé à Monsieur Nechirvan BARZANI l'attachement de la France à la pleine mise en oeuvre des droits constitutionnels des Kurdes d'Irak",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_99792b4385035d3a51b12170d270a96604af5ab8e0945708f2a19bcc0e41b04c"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Irak",
+      "evidence": "La France fera tout dans les prochaines semaines et les prochains mois, non seulement pour que ce dialogue ne s'enclenche, mais pour qu'il réussisse et permette l'intégrité de l'Irak et la stabilité au sein de l'Irak.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_99792b4385035d3a51b12170d270a96604af5ab8e0945708f2a19bcc0e41b04c"
+    }
+  ]
+}

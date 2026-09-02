@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Minsk",
+      "id": "Organization_db472e82486f99e1dc51ae49f7875d09143c258f5c913c1d8f3bf30fd426471c"
+    },
+    {
+      "type": "Person",
+      "name": "Angela",
+      "id": "Person_f5838b292df0ac2c4afafc7946e13d71da37e0fb3a65ee0cc13dbe5880598d53"
+    },
+    {
+      "type": "Person",
+      "name": "le président de la Fédération de Russie",
+      "id": "Person_06d0b24f11c4ee4a00a98754d2d2b073b71d39c252fda35af7689a3404975a35"
+    },
+    {
+      "type": "Person",
+      "name": "le président d'Ukraine",
+      "id": "Person_fe13490db23819698253d523ff15c4fc46618aaf306519526000f4fe82069ea8"
+    },
+    {
+      "type": "Person",
+      "name": "la chancelière fédérale d'Allemagne",
+      "id": "Person_3e1a486e3c2f8b264867c1b71cd824026dcf76594337d40ad94c6813e861a8e0"
+    },
+    {
+      "type": "Person",
+      "name": "le président POUTINE",
+      "id": "Person_6e9a8f86a4bdd2d50f24faa0a33f6cad6a5be3d721e59ed2c47c17c5836a0f8a"
+    },
+    {
+      "type": "Person",
+      "name": "le président ZELENSKY",
+      "id": "Person_3a860642a70f2f7cac1fd0ee85c68c43f3955bb454cfcb6a1e5d7342aba58c80"
+    },
+    {
+      "type": "Event",
+      "name": "désengagement des 3 zones pilotes",
+      "id": "Event_d8c636c24901795a500338f562ab9dd038805067841d1bf6629cb6be76eed619"
+    },
+    {
+      "type": "Event",
+      "name": "échange de 70 prisonniers entre la Russie et l'Ukraine",
+      "id": "Event_6a505dc36238a0182523574531bdca7357df63107e05448a5dbdfa90f846d55a"
+    },
+    {
+      "type": "Theme",
+      "name": "désengagement",
+      "id": "Theme_526981d1a21a5a7f0c45aa0062f02eb94a06564475023e0876ff060c45efd5da"
+    },
+    {
+      "type": "Theme",
+      "name": "prisonniers",
+      "id": "Theme_3b9c07348faf7ccfc9e5505dc1021f56634db4a9452eea34bc777e1c98a5cc87"
+    },
+    {
+      "type": "Theme",
+      "name": "évolutions politiques",
+      "id": "Theme_cdc5c560a5a66b55504ca030c4df77563d28053150345c839aad5caebaa1e66a"
+    },
+    {
+      "type": "Theme",
+      "name": "élections locales",
+      "id": "Theme_51d6c471c601b4ea46a6ce2742660c53de904231871c704ceca441e780f3e45a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "le président ZELENSKY",
+      "relation": "ALLIED_WITH",
+      "target": "le président POUTINE",
+      "evidence": "le président POUTINE et le président ZELENSKY, depuis l'élection de ce dernier en avril 2019",
+      "confidence": 1.0,
+      "source_id": "Person_3a860642a70f2f7cac1fd0ee85c68c43f3955bb454cfcb6a1e5d7342aba58c80",
+      "target_id": "Person_6e9a8f86a4bdd2d50f24faa0a33f6cad6a5be3d721e59ed2c47c17c5836a0f8a"
+    }
+  ]
+}

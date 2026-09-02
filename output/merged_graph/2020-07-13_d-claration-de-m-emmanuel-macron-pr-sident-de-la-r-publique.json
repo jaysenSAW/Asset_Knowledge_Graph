@@ -1,0 +1,926 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la ministre des Armées",
+      "id": "Person_58f9004827302f1948ae100e4d68b9928fb33486be40eb694e2db2c7e3d75dc0"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la ministre déléguée",
+      "id": "Person_f62569830517ba8d8cd5508370bc149eeeceddb75c3a1952579d7b67dcf7e4b1"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les ministres",
+      "id": "Person_04725bf2245672793e76174d8746ec28f46c281ef73283bf9390941f137cf2cf"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la présidente de la Commission de la Défense nationale de l'Assemblée nationale",
+      "id": "Person_8f7cd46064b4af4646e7c587ad84a3eeef66a6b1e0b0a7b4682655c390830007"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président de la Commission des Affaires étrangères et de la Défense du Sénat",
+      "id": "Person_82f33d4373e4166cdd0df52c10e589e72ab73a3ad234178fa813e70ecc15ca73"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le chef d'état-major des Armées",
+      "id": "Person_1f83a1b709c29b766edb6b98978d332e04de52962a1652e0a4e20e351b1b05e0"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les officiers généraux",
+      "id": "Person_e97ffd5fb35c6c47e8766e9394ce684a73bc91bc308f279bb27282a857f73974"
+    },
+    {
+      "type": "Person",
+      "name": "Officiers",
+      "id": "Person_c8171bd3ed8cbc7cf669a5a86eabca249295516f0d8bd47e68ece1fee0d459b1"
+    },
+    {
+      "type": "Person",
+      "name": "sous-officiers",
+      "id": "Person_b457902fde2b230441235d641cfdd79714ee61c5664555cbf1d0e91e8aa0361e"
+    },
+    {
+      "type": "Person",
+      "name": "officiers-mariniers",
+      "id": "Person_01b9e958324be570893ccdda3c4cdebafd933376414f42ed5c7b6d367191aebc"
+    },
+    {
+      "type": "Person",
+      "name": "soldats",
+      "id": "Person_50d4aed1ba5e0de3105c5abea12c109cc93415d5c243f9826486ee29f102df1e"
+    },
+    {
+      "type": "Person",
+      "name": "marins",
+      "id": "Person_1256f85063ee1be5bfdf01172754b884d93e343c7653af35271bf5988aa7d30c"
+    },
+    {
+      "type": "Person",
+      "name": "aviateurs",
+      "id": "Person_2367fad6263480a2187ace98a63c4e1056053ceb414bb777266da921f8dd5f87"
+    },
+    {
+      "type": "Person",
+      "name": "gendarmes",
+      "id": "Person_b1b264052b8dcdce2998c55a39a1a0867f351bd63c9ae84d110e7c3f573f6e5c"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "courage",
+      "id": "Theme_4eb0829b6b279fcb2a945b12114e4f8976954c7a7fcf9391f504d523ee63a88b"
+    },
+    {
+      "type": "Theme",
+      "name": "abnégation",
+      "id": "Theme_aa9cdd8fd555897755b17e142427f336407697133578b22f8f621c6e4044a7a7"
+    },
+    {
+      "type": "Organization",
+      "name": "armées",
+      "id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "sacrifice suprême",
+      "id": "Theme_e46f92671513f9080e7a00c98a6cd0713fbcc71232d863f181687dc0092f127e"
+    },
+    {
+      "type": "Theme",
+      "name": "patrie",
+      "id": "Theme_4079aa9734c9091368bffcf632034e06cecaadec102a482fdcc6b4ec9873a5eb"
+    },
+    {
+      "type": "City",
+      "name": "Champs-Elysées",
+      "id": "City_737794ff8e60390744973453898930ac065fdbfc8849d572c4492e1ea970058b"
+    },
+    {
+      "type": "City",
+      "name": "Guyane",
+      "id": "City_214e958a910168a0c70fe7c025f359f9d6fa07e07914ddb157b36fd05d706ed1"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Person",
+      "name": "vos camarades des trois armées",
+      "id": "Person_f1f079d982da9cf2a731054d19c9613f7f2649a2bc551953184d751b43ff1085"
+    },
+    {
+      "type": "Organization",
+      "name": "écoles militaires de la gendarmerie",
+      "id": "Organization_681f4131c32ab002ce731117e58227146697bb4f04c4cd653f9583329e67fef0"
+    },
+    {
+      "type": "Organization",
+      "name": "armée de terre",
+      "id": "Organization_1de9e8d57b6c5dc67995e0be6f7f5d2a6359309999fa59748145cfe6ee4681d6"
+    },
+    {
+      "type": "Organization",
+      "name": "Marine",
+      "id": "Organization_f7756b41b964eede3c598acba391a223c04f8e1894b360aac173f1d7d996bbdb"
+    },
+    {
+      "type": "Organization",
+      "name": "armée de l'air",
+      "id": "Organization_f09e07e662def1011eb4be3663c10c61af866239b1425538446cf5cb0e9d2080"
+    },
+    {
+      "type": "Organization",
+      "name": "Commissariat des armées",
+      "id": "Organization_d4a39a274373bd12d972dc6113455e739a1ab087f1e953220175e295176b484f"
+    },
+    {
+      "type": "Organization",
+      "name": "service de santé des armées",
+      "id": "Organization_0ed0c16ed5e5d51a0976ccf7c7cab2395fcbbc9a3c8ecbf34f9e17b068fdb0cc"
+    },
+    {
+      "type": "Person",
+      "name": "Florence PARLY",
+      "id": "Person_ec05e66e43898a115b745605af594d151dd95d13f8b131b01a7d5ee5ad10367c"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Person",
+      "name": "Geneviève DARRIEUSSECQ",
+      "id": "Person_614404c58edb8041c3119e9d805e9baefd7a3f48470e81485621bb6f787724d7"
+    },
+    {
+      "type": "Theme",
+      "name": "agilité",
+      "id": "Theme_2ebec3e396946772ab8d693a843a3ac129d01d2123bb766375d105d4aa38debd"
+    },
+    {
+      "type": "Theme",
+      "name": "ingéniosité",
+      "id": "Theme_09732c6430c553421f801ccdf316e8f6edf925ec9529ae3a7ec00936b66a9536"
+    },
+    {
+      "type": "Theme",
+      "name": "réactivité",
+      "id": "Theme_c7681427331574e7b58082fb239799ea1e63cab35ec7564a14ec4948fc8fc7ca"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "City",
+      "name": "Mauritanie",
+      "id": "City_51e7edf7978da4d483e5e4fcaa00a07de7e848245558025229ebc2712dc57e70"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Organization",
+      "name": "G5 Sahel",
+      "id": "Organization_731d6944c0a31ed0fe261575f2573caac7a90e8ab6d60ef9a3df3e2391b9c38e"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Coalition pour le Sahel",
+      "id": "Organization_e5be636dcd500164e1ddfacdaa6fbf6813816c7ab466d46b22089f0a771bbb81"
+    },
+    {
+      "type": "Organization",
+      "name": "Operation Barkhane",
+      "id": "Organization_f267f0bc44ffda12998f49e0f0838f220bc43cd6bdc5b4ffebb4d1717180398c"
+    },
+    {
+      "type": "Organization",
+      "name": "Task force Takuba",
+      "id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69"
+    },
+    {
+      "type": "Organization",
+      "name": "Barkhane",
+      "id": "Organization_e54f566ab6b27cae3cc1917ae6d401f506be9fa0b59d5e884d97d8e2aae1a82f"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "Country",
+      "name": "Niger",
+      "id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb"
+    },
+    {
+      "type": "Country",
+      "name": "Burkina Faso",
+      "id": "Country_25620c9b179f9856d99bd300333d09db3313570df4e4a382daed52285812dd64"
+    },
+    {
+      "type": "Theme",
+      "name": "militaire",
+      "id": "Theme_703a1ce8bacc621e7371ce6f7d31802464ec3feacc2fcae60e2b209e5a44c132"
+    },
+    {
+      "type": "Theme",
+      "name": "opérationnel",
+      "id": "Theme_cda5d06244bcad56c977a4c2916c9caf2f4d1846bb1f43567fcd858dbceafc54"
+    },
+    {
+      "type": "Organization",
+      "name": "militaires français",
+      "id": "Organization_9eecaa91cfcc5a77c9854c283577c7ca08593f584c82425c300264155120ffd7"
+    },
+    {
+      "type": "Organization",
+      "name": "autorités locales",
+      "id": "Organization_3b2e3c09ad51668e0b2bb374b343d76ee69b08476b649514ac4e80f9389c6240"
+    },
+    {
+      "type": "Organization",
+      "name": "acteurs de terrain",
+      "id": "Organization_e7c11658bf7661d1bc1977519be07b5b70e2a0cba941feaadf331502df0de390"
+    },
+    {
+      "type": "Organization",
+      "name": "services essentiels",
+      "id": "Organization_3455b9111445312abfb6ae5cdb86afc68a24ed92dc47c21145463e5e04cf388b"
+    },
+    {
+      "type": "City",
+      "name": "Pau",
+      "id": "City_aae88dca61617f4b2361b23b514b33d2f48d85277532d7af51eb52097994042e"
+    },
+    {
+      "type": "City",
+      "name": "Nouakchott",
+      "id": "City_312b6c03063ac6e9ba22c725269b41804a041d35552db6a3d89b15488226e8b6"
+    },
+    {
+      "type": "Theme",
+      "name": "décision",
+      "id": "Theme_0694a8feaa687e0934e098f698e25e297270a4521bad510e800c3f23af931fa0"
+    },
+    {
+      "type": "Theme",
+      "name": "sommets",
+      "id": "Theme_4a985b4c0818e8af469b82140fc39f03e4f0ec8d1fe75a44a718da1662b6eea5"
+    },
+    {
+      "type": "Theme",
+      "name": "dynamique",
+      "id": "Theme_789bd265879c3881b44590aab1ac9f25f56108045fa71a9a935b020d2b964978"
+    },
+    {
+      "type": "Theme",
+      "name": "résultats opérationnels probants",
+      "id": "Theme_4d0a28be80f80e6b21df98efcf375379eb6abe21eea200315b228f678d7ced83"
+    },
+    {
+      "type": "Theme",
+      "name": "enjeu",
+      "id": "Theme_a858f1e51af8a65a8af54f14ee82128508c83b44634e0c673a3807020a47750c"
+    },
+    {
+      "type": "Theme",
+      "name": "axe indo-pacifique",
+      "id": "Theme_f2e0c93e65a6c39cd7d3407693da51ef903f49e51cfb68421b651812494cb333"
+    },
+    {
+      "type": "Theme",
+      "name": "concitoyens",
+      "id": "Theme_0ff3925b7ba63cbf673a2472bfd56efd3c66e053d51097b02b91824a782e7ed5"
+    },
+    {
+      "type": "Theme",
+      "name": "armées",
+      "id": "Theme_f2cbd7b6734caf8165b4c1211bb61206ddd73bf549ff9daaee32d30c380865a3"
+    },
+    {
+      "type": "Theme",
+      "name": "impératifs stratégiques",
+      "id": "Theme_695a6e6ae14eec80a33ed1daec26b97ed1462bedcbc5a783d8a420b313d12832"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "océan pacifique",
+      "id": "Theme_d3718157ce31020f0eb31251a0244c55ecec2b9fb18e8bd10826a135eb71daa8"
+    },
+    {
+      "type": "Theme",
+      "name": "océan indien",
+      "id": "Theme_444471851c34775ca25c98fd22b3c39e6bfb6f411efdcdd37e646d2112c67714"
+    },
+    {
+      "type": "Theme",
+      "name": "grandes puissances",
+      "id": "Theme_baf6ea28523611c56db57c9d00dd3851d38b0dea3e998ed35f21e1f1129f602f"
+    },
+    {
+      "type": "Theme",
+      "name": "priorités",
+      "id": "Theme_2fc06aee79bff738a314bbb6ebe37cc71d3e10a182bc10e57c5e0c5950264c51"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité de l'Europe",
+      "id": "Theme_531c90364eb94dac088ee7e64f81aa8cbf6a8db23f76ff216000d5d52498ad5f"
+    },
+    {
+      "type": "Theme",
+      "name": "théâtre méditerranéen",
+      "id": "Theme_0999f9dbfbd0f453a0978f3ecc276d10feb52800c521563236183767e051db8e"
+    },
+    {
+      "type": "Theme",
+      "name": "attentats",
+      "id": "Theme_8012ef402146af8ee27cefa38131adb4a5076562becaf5a77b7b6f009a1f0a65"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "contestation des zones maritimes",
+      "id": "Theme_4e5aeae8c10760d84a31a6f9a7ddfe147d375d50c625973217d0cad88e2b1740"
+    },
+    {
+      "type": "Theme",
+      "name": "affrontements entre pays riverains",
+      "id": "Theme_11aea2b4c1caf6167824e419e50fdbc9de871d8e967461378e19a59d236d8709"
+    },
+    {
+      "type": "Theme",
+      "name": "déstabilisation de la Libye",
+      "id": "Theme_190bfaf9e6d68df25101b26d8cce56b82c5c3eb1facee533a50adc5a3629363f"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations",
+      "id": "Theme_cac93d346afb10556cd477074f8fd5e7de6a6b6e234704cdc92ccd1aae71876c"
+    },
+    {
+      "type": "Theme",
+      "name": "trafic",
+      "id": "Theme_615426dcd3396cc472876d269ef0cb74f0de92c7b5df68b1339290d62a6ad79c"
+    },
+    {
+      "type": "Theme",
+      "name": "ressources",
+      "id": "Theme_4e66f4848e7800bc54d3be83309a47fcd0ae35ce9000fa105b8e24267b929213"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles puissances",
+      "id": "Theme_bc19c5eb32cb7068dc936f4bb7db4d8e426ef71b637fd4fcca51a0be0f4ff765"
+    },
+    {
+      "type": "Theme",
+      "name": "paix durable",
+      "id": "Theme_7f2a3ea855cc2d556d4a06a9259a5acf1687b182503a7617fa3fb25f1a55cdb8"
+    },
+    {
+      "type": "Theme",
+      "name": "politique européenne pour la Méditerranée",
+      "id": "Theme_0ea48a6b142684128a23e83794bb933352f19ff635a9972b6367f9018181fe12"
+    },
+    {
+      "type": "Theme",
+      "name": "rapprochement des zones de tension",
+      "id": "Theme_5ea308adb050ad4a01bbea7dc4546c76cc13c29d655bf97643183d97da6a17df"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie stratégique",
+      "id": "Theme_029a7236b3291ee261cba1740f38d69601586a351be77e7e7290bab2819fd644"
+    },
+    {
+      "type": "Theme",
+      "name": "culture opérationnelle commune",
+      "id": "Theme_535c01b12894ae33984f7cdeaf3edf341fa2274bd2f3f750eb007efbcbe03c9a"
+    },
+    {
+      "type": "Theme",
+      "name": "cohérence capacitaire d'ensemble",
+      "id": "Theme_d3ec5f112e2f10dbc8928cb29737ea13d7902edd11d88ade7c8930827892c1e9"
+    },
+    {
+      "type": "Theme",
+      "name": "base industrielle et technologique européenne",
+      "id": "Theme_e023047b41cf0f5eba1b012c870430f1169a894a84084fe0bda43b6c16fdac13"
+    },
+    {
+      "type": "Theme",
+      "name": "cadre d'action",
+      "id": "Theme_ddcc646dd1ab49f39a849415a88735b8f29124849e9fe80717fb9543f39e900c"
+    },
+    {
+      "type": "Theme",
+      "name": "horizon",
+      "id": "Theme_cd4be4a2645f82ff102bfd4180e5cf24e0a8c2d75a0764403cdb45f824161245"
+    },
+    {
+      "type": "Event",
+      "name": "pandémie de coronavirus",
+      "id": "Event_743c77418889fee864bc62a3f1fd0defb1eeda87aa56a859f34bf1f9e1e7819a"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Autriche",
+      "id": "Country_c68a479343ec0ea52bfa053ac2e047c2edaade30d4c6d16515e2d110863f8dd8"
+    },
+    {
+      "type": "Country",
+      "name": "Luxembourg",
+      "id": "Country_88797ed5e26a1c6d46b1adb12833226b925f1283df47dafab01291d972c4c769"
+    },
+    {
+      "type": "Country",
+      "name": "Suisse",
+      "id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie de défense",
+      "id": "Theme_870acdcc025f261d5efe1688c837374c851a54c23248f70eb21116f18c34a0d1"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Law",
+      "name": "Loi de programmation militaire",
+      "id": "Law_33a7ceba1063d109ae9b37ebd3b66d0456905f4041a294907e5c29ef210f7d85"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Présidente",
+      "id": "Person_e7114032cb4e034e59385925dc9528250fc45013f7a472cd52c034b91a0b4763"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Theme",
+      "name": "Plan Familles",
+      "id": "Theme_8fd7fdbb0e73b59cb3c561950091d62754e107585b9ec18c56b334d696032896"
+    },
+    {
+      "type": "Theme",
+      "name": "hébergement",
+      "id": "Theme_cd6d0eda7ddf86e13533edc38bd5e41b7d753f045abd8f9aa83021faaf104df3"
+    },
+    {
+      "type": "Theme",
+      "name": "condition militaire",
+      "id": "Theme_8ab12b2128513ecc4924e8d965e1a217ea34d18d8ec24d9e5c780c321077504b"
+    },
+    {
+      "type": "Theme",
+      "name": "système de retraite",
+      "id": "Theme_1dabb9e207d4d8ad771de26af11fe6558e6491e7ba6e6017a12a8e6e76995126"
+    },
+    {
+      "type": "Theme",
+      "name": "Politique de rémunération",
+      "id": "Theme_39db4c33d31793dc1915b1a3995895067699540c16e0f3397e76dd2c86e73650"
+    },
+    {
+      "type": "Theme",
+      "name": "Nouvelle Politique de Rémunération des Militaires",
+      "id": "Theme_62e36d04e4f9b6a64850aa9cdde06912a05fd715deae0d03e7bf7175035dbbfe"
+    },
+    {
+      "type": "Theme",
+      "name": "Loi de programmation militaire",
+      "id": "Theme_a31ae1838a7ee49c488464985e40f77b97ec43be4cd2b944e3eea9a188dde74a"
+    },
+    {
+      "type": "Theme",
+      "name": "Attractivité du métier des armes",
+      "id": "Theme_59e9999bd57e725b9b6ef44af02f5574eebb9993bb16c232d30602eac6707e45"
+    },
+    {
+      "type": "Theme",
+      "name": "Concertation",
+      "id": "Theme_d3f8a45df0325edd93f67492d7ebd72cb7c6b497b5986d8daf6b87fa3af7fed5"
+    },
+    {
+      "type": "Person",
+      "name": "A tous",
+      "id": "Person_dd315abdf3c1ee584f81d0bd648d5a2378ba306e468d589684cfc4bd4d08ec5d"
+    },
+    {
+      "type": "City",
+      "name": "l'Elysée",
+      "id": "City_3eae2ad22a9341b8bf38bfebad3b2e5c05027e88193e4abae8bd3981a710e7e8"
+    },
+    {
+      "type": "Organization",
+      "name": "CSFM",
+      "id": "Organization_9fcad603f5f07fe04b01ebcd8ce056fb93ba0eee15a1cf22705ce1a063906240"
+    },
+    {
+      "type": "Organization",
+      "name": "SNLE LE TEMERAIRE",
+      "id": "Organization_7c7cacbbe206f0f16b5021a29e2f7360acf9bbe5a64d6a4719db900053df16d8"
+    },
+    {
+      "type": "Organization",
+      "name": "programme SCAF",
+      "id": "Organization_15a378e3cfe2bf6a3be4806a1b982436f4ca888675c6e9e6cabf49d065c3d08c"
+    },
+    {
+      "type": "Organization",
+      "name": "notre partenaire allemand",
+      "id": "Organization_1151c2126ec7fd43675c3cd64520e463d27b6ad9d2152784eb99d83cc4d26a01"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Espagne",
+      "id": "Organization_5dbf8fa9357271924b0a330a02fb4b56fbdcd4ba56e5e180987f7bd3bd6de76d"
+    },
+    {
+      "type": "Theme",
+      "name": "SCAF",
+      "id": "Theme_cf027c99e146f6e22abe66594aa6731317452363a76b66e095dfa90545941fc9"
+    },
+    {
+      "type": "Theme",
+      "name": "Griffon",
+      "id": "Theme_efa08cfc37d8f71baeb036e15fae717f561240e7af5dc51dd3af86920fbbddab"
+    },
+    {
+      "type": "Theme",
+      "name": "démonstrateur",
+      "id": "Theme_49ab62955e10a650ed414a51faa543d8f6e4a8417ff150825708c4c1eab9689f"
+    },
+    {
+      "type": "Theme",
+      "name": "commandement de l'espace",
+      "id": "Theme_32ee31d23f4f2383f37ab9a3c39ae9ca68b99541cd1d9def03059ecc6a3aea3d"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle des satellites militaires",
+      "id": "Theme_12a76333dca5712220a525f04c892624a0f3c55e474ae43feec979d8485f4fb2"
+    },
+    {
+      "type": "Theme",
+      "name": "coopérations internationales",
+      "id": "Theme_ebb4fc3005762652c41250ac95bc092221aa129d25b267c8c7f8d8c032f5e8ea"
+    },
+    {
+      "type": "Theme",
+      "name": "opérations",
+      "id": "Theme_a889d7eed866311f00e75329ed786f2cddd91a17c9537e4f920634cdfce3e96e"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "City",
+      "name": "Toulouse",
+      "id": "City_aa695a1a8591febfa119cbccca39b2add1951395a057a7f2fdbd29e7adde06ae"
+    },
+    {
+      "type": "Organization",
+      "name": "SNA de nouvelle génération Suffren",
+      "id": "Organization_b2a839ee0c0cde3d1c017636f4a54b1162bcfd0933e526329b65404081d9eca3"
+    },
+    {
+      "type": "Organization",
+      "name": "porte-avions Charles-de-Gaulle",
+      "id": "Organization_c2cc1d3060416bb72c0e7a1769b988dc2541760ab6c088723efbe033985e58ab"
+    },
+    {
+      "type": "Organization",
+      "name": "avion de chasse",
+      "id": "Organization_36c6b35d7aad9cbf09e7aa73508c5ca303daeaf0d84721f28e0441527e34461e"
+    },
+    {
+      "type": "Organization",
+      "name": "char du futur",
+      "id": "Organization_88970298119e2a953b79aed3ee088605362533d9c0e82bf175d4b5c517cf60d7"
+    },
+    {
+      "type": "Organization",
+      "name": "industriels du secteur de la défense",
+      "id": "Organization_44adca8a5dcf26df70b6a48a42acab25de30a2b72e12f3677fd6c99cda1a19b1"
+    },
+    {
+      "type": "Organization",
+      "name": "DGA",
+      "id": "Organization_dd765c535b316b7386231efd44e18c2229fa874ed4e2f61166e993556122635d"
+    },
+    {
+      "type": "Person",
+      "name": "madame la ministre déléguée à la Mémoire et aux Anciens Combattants",
+      "id": "Person_a0d9fc726385b11a039ddb1e56b6907020138b850d0476c6950baa5c7c1e7885"
+    },
+    {
+      "type": "Person",
+      "name": "François LECOINTRE",
+      "id": "Person_01068e42ab85d785ed09b2e8cbe643c0ddb84cbc7158c875910ec4ad08989d3b"
+    },
+    {
+      "type": "Person",
+      "name": "PRAZUCK",
+      "id": "Person_b29c59c14d3667de78e193d75b5e5eb5f65b60238af62fa0569c8c2cf8c6036c"
+    },
+    {
+      "type": "Organization",
+      "name": "État-major de la marine",
+      "id": "Organization_b4f996b016c1ab1c27ef35628692218fa3dc39488af4d9db84942749be744e8d"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "armées",
+      "relation": "MENTIONS",
+      "target": "fraternité",
+      "evidence": "ces valeurs de fraternité, d'engagement, de courage, d'abnégation que nous avons vues partout s'épanouir avec une vigueur nouvelle autour de nous durant ces derniers mois, les armées les incarnent au plus haut point, au quotidien.",
+      "confidence": 1.0,
+      "source_id": "Theme_f2cbd7b6734caf8165b4c1211bb61206ddd73bf549ff9daaee32d30c380865a3",
+      "target_id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "source": "armées",
+      "relation": "MENTIONS",
+      "target": "engagement",
+      "evidence": "ces valeurs de fraternité, d'engagement, de courage, d'abnégation que nous avons vues partout s'épanouir avec une vigueur nouvelle autour de nous durant ces derniers mois, les armées les incarnent au plus haut point, au quotidien.",
+      "confidence": 1.0,
+      "source_id": "Theme_f2cbd7b6734caf8165b4c1211bb61206ddd73bf549ff9daaee32d30c380865a3",
+      "target_id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "source": "armées",
+      "relation": "MENTIONS",
+      "target": "courage",
+      "evidence": "ces valeurs de fraternité, d'engagement, de courage, d'abnégation que nous avons vues partout s'épanouir avec une vigueur nouvelle autour de nous durant ces derniers mois, les armées les incarnent au plus haut point, au quotidien.",
+      "confidence": 1.0,
+      "source_id": "Theme_f2cbd7b6734caf8165b4c1211bb61206ddd73bf549ff9daaee32d30c380865a3",
+      "target_id": "Theme_4eb0829b6b279fcb2a945b12114e4f8976954c7a7fcf9391f504d523ee63a88b"
+    },
+    {
+      "source": "armées",
+      "relation": "MENTIONS",
+      "target": "abnégation",
+      "evidence": "ces valeurs de fraternité, d'engagement, de courage, d'abnégation que nous avons vues partout s'épanouir avec une vigueur nouvelle autour de nous durant ces derniers mois, les armées les incarnent au plus haut point, au quotidien.",
+      "confidence": 1.0,
+      "source_id": "Theme_f2cbd7b6734caf8165b4c1211bb61206ddd73bf549ff9daaee32d30c380865a3",
+      "target_id": "Theme_aa9cdd8fd555897755b17e142427f336407697133578b22f8f621c6e4044a7a7"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France n'oublie pas non plus ses blessés, ceux qui portent dans leur corps ou leur esprit les stigmates des durs combats que mènent nos armées.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "Sahel",
+      "relation": "LOCATED_IN",
+      "target": "Sahel",
+      "evidence": "Au Sahel, après une fin d'année 2019 qui avait été cruelle et douloureuse, ce premier semestre 2020 a permis d'obtenir des résultats très significatifs et particulièrement encourageants.",
+      "confidence": 1.0,
+      "source_id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181",
+      "target_id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "source": "G5 Sahel",
+      "relation": "LOCATED_IN",
+      "target": "Sahel",
+      "evidence": "J'étais il y deux semaines en Mauritanie pour faire le point avec nos partenaires du G5 Sahel, six mois après le sommet de Pau.",
+      "confidence": 1.0,
+      "source_id": "Organization_731d6944c0a31ed0fe261575f2573caac7a90e8ab6d60ef9a3df3e2391b9c38e",
+      "target_id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "ALLIED_WITH",
+      "target": "Coalition pour le Sahel",
+      "evidence": "la mise en place de la Coalition pour le Sahel avec les pays du G5 et l'Union européenne témoigne de notre volonté partagée non seulement de poursuivre ensemble la lutte contre le terrorisme mais également de coopérer toujours davantage avec la communauté internationale.",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Organization_e5be636dcd500164e1ddfacdaa6fbf6813816c7ab466d46b22089f0a771bbb81"
+    },
+    {
+      "source": "Plan Familles",
+      "relation": "SPOKE_ABOUT",
+      "target": "Plan Familles",
+      "evidence": "Le Plan Familles, que j'ai souhaité souple, local, au plus près du terrain, dont près de 80 % des actions sont désormais réalisées, a prouvé toute sa pertinence durant la crise sanitaire.",
+      "confidence": 1.0,
+      "source_id": "Theme_8fd7fdbb0e73b59cb3c561950091d62754e107585b9ec18c56b334d696032896",
+      "target_id": "Theme_8fd7fdbb0e73b59cb3c561950091d62754e107585b9ec18c56b334d696032896"
+    },
+    {
+      "source": "condition militaire",
+      "relation": "SPOKE_ABOUT",
+      "target": "condition militaire",
+      "evidence": "Dans le domaine de la condition militaire, le nouveau chemin qui s'ouvre, c'est aussi la consolidation et l'amélioration de votre système de retraite et celui des rémunérations.",
+      "confidence": 1.0,
+      "source_id": "Theme_8ab12b2128513ecc4924e8d965e1a217ea34d18d8ec24d9e5c780c321077504b",
+      "target_id": "Theme_8ab12b2128513ecc4924e8d965e1a217ea34d18d8ec24d9e5c780c321077504b"
+    },
+    {
+      "source": "Politique de rémunération",
+      "relation": "MENTIONS",
+      "target": "Politique de rémunération",
+      "evidence": "La politique de rémunération — qui a très peu évolué depuis 50 ans malgré la professionnalisation et la réforme du statut général des militaires de 2005 — doit également être adaptée pour répondre aux nouveaux enjeux de société, pour attirer et conserver les talents dont nos armées ont besoin, combat essentiel pour les années qui viennent.",
+      "confidence": 1.0,
+      "source_id": "Theme_39db4c33d31793dc1915b1a3995895067699540c16e0f3397e76dd2c86e73650",
+      "target_id": "Theme_39db4c33d31793dc1915b1a3995895067699540c16e0f3397e76dd2c86e73650"
+    },
+    {
+      "source": "Nouvelle Politique de Rémunération des Militaires",
+      "relation": "MENTIONS",
+      "target": "Nouvelle Politique de Rémunération des Militaires",
+      "evidence": "Ce projet de Nouvelle Politique de Rémunération des Militaires est inscrit dans la Loi de programmation militaire et je tiens à ce qu'il soit conduit dans le souci constant de renforcer la condition militaire et l'attractivité du métier des armes dans la société de demain.",
+      "confidence": 1.0,
+      "source_id": "Theme_62e36d04e4f9b6a64850aa9cdde06912a05fd715deae0d03e7bf7175035dbbfe",
+      "target_id": "Theme_62e36d04e4f9b6a64850aa9cdde06912a05fd715deae0d03e7bf7175035dbbfe"
+    },
+    {
+      "source": "Loi de programmation militaire",
+      "relation": "MENTIONS",
+      "target": "Loi de programmation militaire",
+      "evidence": "Ce projet de Nouvelle Politique de Rémunération des Militaires est inscrit dans la Loi de programmation militaire et je tiens à ce qu'il soit conduit dans le souci constant de renforcer la condition militaire et l'attractivité du métier des armes dans la société de demain.",
+      "confidence": 1.0,
+      "source_id": "Theme_a31ae1838a7ee49c488464985e40f77b97ec43be4cd2b944e3eea9a188dde74a",
+      "target_id": "Theme_a31ae1838a7ee49c488464985e40f77b97ec43be4cd2b944e3eea9a188dde74a"
+    },
+    {
+      "source": "Condition militaire",
+      "relation": "MENTIONS",
+      "target": "Condition militaire",
+      "evidence": "Ce projet de Nouvelle Politique de Rémunération des Militaires est inscrit dans la Loi de programmation militaire et je tiens à ce qu'il soit conduit dans le souci constant de renforcer la condition militaire et l'attractivité du métier des armes dans la société de demain.",
+      "confidence": 1.0,
+      "source_id": "Theme_8ab12b2128513ecc4924e8d965e1a217ea34d18d8ec24d9e5c780c321077504b",
+      "target_id": "Theme_8ab12b2128513ecc4924e8d965e1a217ea34d18d8ec24d9e5c780c321077504b"
+    },
+    {
+      "source": "Attractivité du métier des armes",
+      "relation": "MENTIONS",
+      "target": "Attractivité du métier des armes",
+      "evidence": "Ce projet de Nouvelle Politique de Rémunération des Militaires est inscrit dans la Loi de programmation militaire et je tiens à ce qu'il soit conduit dans le souci constant de renforcer la condition militaire et l'attractivité du métier des armes dans la société de demain.",
+      "confidence": 1.0,
+      "source_id": "Theme_59e9999bd57e725b9b6ef44af02f5574eebb9993bb16c232d30602eac6707e45",
+      "target_id": "Theme_59e9999bd57e725b9b6ef44af02f5574eebb9993bb16c232d30602eac6707e45"
+    },
+    {
+      "source": "Concertation",
+      "relation": "MENTIONS",
+      "target": "Concertation",
+      "evidence": "Sur ces sujets si importants, j'attends que la concertation déjà bien établie – et c'est tant mieux – continue.",
+      "confidence": 1.0,
+      "source_id": "Theme_d3f8a45df0325edd93f67492d7ebd72cb7c6b497b5986d8daf6b87fa3af7fed5",
+      "target_id": "Theme_d3f8a45df0325edd93f67492d7ebd72cb7c6b497b5986d8daf6b87fa3af7fed5"
+    },
+    {
+      "source": "CSFM",
+      "relation": "LOCATED_IN",
+      "target": "l'Elysée",
+      "evidence": "je recevrai les membres du CSFM à l'Elysée",
+      "confidence": 1.0,
+      "source_id": "Organization_9fcad603f5f07fe04b01ebcd8ce056fb93ba0eee15a1cf22705ce1a063906240",
+      "target_id": "City_3eae2ad22a9341b8bf38bfebad3b2e5c05027e88193e4abae8bd3981a710e7e8"
+    },
+    {
+      "source": "SCAF",
+      "relation": "ALLIED_WITH",
+      "target": "Espagne",
+      "evidence": "Le programme SCAF qui a franchi des étapes décisives avec notre partenaire allemand et l'intégration de l'Espagne",
+      "confidence": 1.0,
+      "source_id": "Theme_cf027c99e146f6e22abe66594aa6731317452363a76b66e095dfa90545941fc9",
+      "target_id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "source": "commandement de l'espace",
+      "relation": "LOCATED_IN",
+      "target": "Toulouse",
+      "evidence": "L'installation à Toulouse du commandement de l'espace, dont j'avais annoncé la création ici même il y a un an",
+      "confidence": 1.0,
+      "source_id": "Theme_32ee31d23f4f2383f37ab9a3c39ae9ca68b99541cd1d9def03059ecc6a3aea3d",
+      "target_id": "City_aa695a1a8591febfa119cbccca39b2add1951395a057a7f2fdbd29e7adde06ae"
+    },
+    {
+      "source": "contrôle des satellites militaires",
+      "relation": "SPOKE_ABOUT",
+      "target": "coopérations internationales",
+      "evidence": "qui s'accompagne des premières formations au contrôle des satellites militaires et d'un élargissement des coopérations internationales dans le domaine des opérations",
+      "confidence": 1.0,
+      "source_id": "Theme_12a76333dca5712220a525f04c892624a0f3c55e474ae43feec979d8485f4fb2",
+      "target_id": "Theme_ebb4fc3005762652c41250ac95bc092221aa129d25b267c8c7f8d8c032f5e8ea"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "DJOKOVIC",
+      "id": "Person_262f5a095692013e920b4fb5d98a0215bd15003c6b130f1d6315be7cda9f35cf"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Event",
+      "name": "la Grande Guerre",
+      "id": "Event_86a972e96ebbf8a9374cde81a82f57c1f1fa8be710201c4c62ff86c90ff1a341"
+    },
+    {
+      "type": "Country",
+      "name": "Serbie",
+      "id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Vinci",
+      "id": "Organization_59add23885ccd9fae1212da484452ebc9e750001fe39e5d5c9d907806f45db20"
+    },
+    {
+      "type": "Organization",
+      "name": "Airbus Hélicoptères",
+      "id": "Organization_f6d00b68070a24145ddb73959d607320bed471c70cc098f169866bd67fbf9c92"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République française",
+      "id": "Person_d9487f4c6430f9fe432bdc287b96673e513bcaafb70a75702fcd163cb17cf139"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Country",
+      "name": "Serbe",
+      "id": "Country_c415751a81358b20bfd6b9857796bb942e8537c55ff8d67776c29d6af9796fd4"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Serbie",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "enracinée très profondément, qu'il y a entre la Serbie et la France",
+      "confidence": 1.0,
+      "source_id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

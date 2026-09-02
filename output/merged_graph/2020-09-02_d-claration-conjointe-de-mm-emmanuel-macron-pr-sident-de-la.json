@@ -1,0 +1,120 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Irak",
+      "id": "Country_99792b4385035d3a51b12170d270a96604af5ab8e0945708f2a19bcc0e41b04c"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "M. Emmanuel MACRON",
+      "id": "Person_7defc1cb63f3d19a757a93e9b9be282c050f0414bcdfd12a0f2e838a92f3ba3f"
+    },
+    {
+      "type": "City",
+      "name": "Bagdad",
+      "id": "City_ad7f3df81479c84e49abbacc68599330c58a17b9afddba8c8a7a9b09677adde4"
+    },
+    {
+      "type": "Person",
+      "name": "M. Barham SALEH",
+      "id": "Person_b6860a88970f5228962752795c6e7b54e462d01f89197b4d8fcd3034bbe282df"
+    },
+    {
+      "type": "Person",
+      "name": "MACRON",
+      "id": "Person_0123c6440fe5aa6b7871df7e99ee28112b6753541af6940c57692410e426c9ca"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président de la République",
+      "id": "Person_e86345b05d8782cfddaa96e93ade5433169a424e284eedc4c7f2b6b6bb49576c"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Président SALEH",
+      "id": "Person_123b2515e7f32fc40fd8e8894134e75b6baebabb1d03e9909ecb3e0bfbb53a10"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition internationale",
+      "id": "Organization_7b89a1467cc89820b1fb4481a79347c722225e2808346a9f3c2a9057936e89e4"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien et l'amitié",
+      "id": "Theme_0a68c523d9c06590fc0533fc71f26c35ce507457d83715b3ad5f70a5f3a3c138"
+    },
+    {
+      "type": "Theme",
+      "name": "défi",
+      "id": "Theme_d5d53b2438762c5db116c4d8f8c6d243086cbe9ac59c1d11e4650ceef5439404"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorism",
+      "id": "Theme_a348838fece2a9c780044dab4f291a936095c2be9a10ee5e2924e483e90652b2"
+    },
+    {
+      "type": "Theme",
+      "name": "Daesh",
+      "id": "Theme_7503fc9e0ce2476e035ebca0ae8e0b56c73bdd42775045ba1cb18fb4e4807bb3"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Monsieur le Président de la République",
+      "relation": "SUPPORTS",
+      "target": "Premier ministre",
+      "evidence": "Vous, Monsieur le Président de la République, le Premier ministre",
+      "confidence": 1.0,
+      "source_id": "Person_e86345b05d8782cfddaa96e93ade5433169a424e284eedc4c7f2b6b6bb49576c",
+      "target_id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    }
+  ]
+}

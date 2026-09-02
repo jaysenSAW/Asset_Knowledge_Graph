@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "DEBY",
+      "id": "Person_793a8607693743744989115a477113cea5424e96964d96ca432d8771e2a41195"
+    },
+    {
+      "type": "Country",
+      "name": "Tchad",
+      "id": "Country_4559f6f8af30c0e115367f99db7a2d2bff5c4fb5ef7ec890af7e5e1662fd701e"
+    },
+    {
+      "type": "Organization",
+      "name": "l'opération Barkhane",
+      "id": "Organization_82ef64bc7988b287887c41580e270da146c1c73dabcbd521a2e6778ff1bc963f"
+    },
+    {
+      "type": "Organization",
+      "name": "Forces françaises",
+      "id": "Organization_e47c9289783e60ac7485416175d8d79a950edf046d26c1257cda3972e624777b"
+    },
+    {
+      "type": "City",
+      "name": "N'Djamena",
+      "id": "City_f8a953a62424441c54eed3bbd1ae139b4a373ae6e4e65df2dbb183b8775a4ea4"
+    },
+    {
+      "type": "Organization",
+      "name": "forces du Sahel",
+      "id": "Organization_d470dcefa8c2d6db7fee2a226f0217804284bfa69c9a15df030ab93a1471ec38"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française de Développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Person",
+      "name": "Moussa FAKI",
+      "id": "Person_95ac3d62858df9f0c15ed45e6236219aec651dd0e1c8292ca68eb47d125d75dc"
+    },
+    {
+      "type": "Organization",
+      "name": "Union africaine",
+      "id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Country",
+      "name": "République centrafricaine",
+      "id": "Country_05d94db1b52ecf267386e45ba2041e43ea106f7e3c3ce822e8cebdfaa5c80b9c"
+    },
+    {
+      "type": "Country",
+      "name": "Nigeria",
+      "id": "Country_dec6d7826327dc7bafe39e959e4f081c81efc380c2b1cd786c364126e96624bd"
+    },
+    {
+      "type": "Country",
+      "name": "Union africaine",
+      "id": "Country_b01664d9ea209fa9abca874f9945970ecabfe5ccf7330dc0ed2f868bc1f51684"
+    },
+    {
+      "type": "City",
+      "name": "Sahel",
+      "id": "City_92fe9646c051c53241e17f3fdb2c650a6e9fa01c7eb8480b47877e959ee0b5fe"
+    },
+    {
+      "type": "Organization",
+      "name": "Barkhane",
+      "id": "Organization_e54f566ab6b27cae3cc1917ae6d401f506be9fa0b59d5e884d97d8e2aae1a82f"
+    },
+    {
+      "type": "Organization",
+      "name": "G5 Sahel",
+      "id": "Organization_731d6944c0a31ed0fe261575f2573caac7a90e8ab6d60ef9a3df3e2391b9c38e"
+    },
+    {
+      "type": "Organization",
+      "name": "alliance Sahel",
+      "id": "Organization_5cd4016cb964b2ae8a6b9a361df7cb16459b9d67446a20435a0ae05b52207db7"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Forces françaises",
+      "relation": "LOCATED_IN",
+      "target": "N'Djamena",
+      "evidence": "nos forces françaises qui sont présentes depuis 1960 quasiment sans discontinuer à N'Djamena",
+      "confidence": 1.0,
+      "source_id": "Organization_e47c9289783e60ac7485416175d8d79a950edf046d26c1257cda3972e624777b",
+      "target_id": "City_f8a953a62424441c54eed3bbd1ae139b4a373ae6e4e65df2dbb183b8775a4ea4"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SUPPORTS",
+      "target": "Tchad",
+      "evidence": "Et je souhaite que l'Union européenne soit aux côtés du Tchad pour ces échéances.",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "Country_4559f6f8af30c0e115367f99db7a2d2bff5c4fb5ef7ec890af7e5e1662fd701e"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Jovenel Moïse",
+      "id": "Person_384bfb1c64b95cd0e7ca6a4fe4dbe2d05755015665cc02da8b02df2df008ccb7"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Haïti",
+      "id": "Country_26eb6b2804b8c516c8aba8f54ce10584b06e2fe603cba2ec2cfdfa5b73cb8a92"
+    },
+    {
+      "type": "Event",
+      "name": "Sommet One Planet",
+      "id": "Event_1a2fba0df7f71a29c0fcd0cfad0fc23f1aae8449c4f57a5952c8962573052ab4"
+    },
+    {
+      "type": "Organization",
+      "name": "CARICOM",
+      "id": "Organization_eb155c0267727985c6abf0acaccc39c0532ca686c26540c914b03b512e2a8950"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation",
+      "id": "Organization_18af68777a4d6ae41f2ba0269344c361e809374c7a78801c4adead07f5ab5761"
+    },
+    {
+      "type": "Organization",
+      "name": "La Francophonie",
+      "id": "Organization_147923c935644cb42f4806d52ac6113641a4461fa5871335cd873d0432dda13f"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "adaptation et de gestion des bassins versants",
+      "id": "Theme_5f1f349b6c8ca43fdbb8ee9d12f759e9cc3881d33f9b84259cf392173536d2d3"
+    },
+    {
+      "type": "Theme",
+      "name": "électrification",
+      "id": "Theme_5a330a16d0590e3766cd55707c3837d518e8a0cb07d5eb80981f61e17b01917b"
+    },
+    {
+      "type": "Organization",
+      "name": "Expertise France",
+      "id": "Organization_6d3e2fbb4db61c03baebe301a34de980a779d04d5562c8b13c7b058d8d08aa9e"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française de développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds monétaire international",
+      "id": "Organization_ea510a567f72e30e0268e3e6ccaa15fe3579eeab3ddd63cf65e4879cc4e70e8d"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Sommet One Planet",
+      "relation": "ANNOUNCED",
+      "target": "Sommet One Planet",
+      "evidence": "pour son premier déplacement en Europe, à l'occasion du Sommet One Planet, où il interviendra demain",
+      "confidence": 1.0,
+      "source_id": "Event_1a2fba0df7f71a29c0fcd0cfad0fc23f1aae8449c4f57a5952c8962573052ab4",
+      "target_id": "Event_1a2fba0df7f71a29c0fcd0cfad0fc23f1aae8449c4f57a5952c8962573052ab4"
+    },
+    {
+      "source": "Haïti",
+      "relation": "VISITED",
+      "target": "Haïti",
+      "evidence": "Haïti pourrait devenir à ce titre l'un des premiers, si ce n'est le premier pays à obtenir un projet d'adaptation dans le cadre de ce Fonds vert.",
+      "confidence": 1.0,
+      "source_id": "Country_26eb6b2804b8c516c8aba8f54ce10584b06e2fe603cba2ec2cfdfa5b73cb8a92",
+      "target_id": "Country_26eb6b2804b8c516c8aba8f54ce10584b06e2fe603cba2ec2cfdfa5b73cb8a92"
+    }
+  ]
+}

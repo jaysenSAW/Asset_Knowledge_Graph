@@ -1,0 +1,808 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Léa SALAMÉ",
+      "id": "Person_1eabf4608fbd194a6c880193180fa060322584ac4207dff94b17cc41186dac99"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Gilles BOULEAU",
+      "id": "Person_e5f9687a430c33e6e5b66680269653640448311a6a2a637dd70a3e9a65f6baca"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "fierté d'être français",
+      "id": "Theme_01a97926911cb100a831072e1f284fa6acbc1251c152a33fa08268a3c579c017"
+    },
+    {
+      "type": "Theme",
+      "name": "fête nationale",
+      "id": "Theme_28572e950e0c673d82207d1536304fdaaa0fb6a01ecf1c4803e1e15b14c530f5"
+    },
+    {
+      "type": "Theme",
+      "name": "armées",
+      "id": "Theme_f2cbd7b6734caf8165b4c1211bb61206ddd73bf549ff9daaee32d30c380865a3"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid-19",
+      "id": "Theme_d5e7dbe0204945df0a66692ca666448a467d14bc7f36bc2b7afe79af217b2384"
+    },
+    {
+      "type": "Theme",
+      "name": "soignants",
+      "id": "Theme_b13cc9fc05c4812442eb32d6a982fae92924d3c9b59d27a4783a0b9569fa04a8"
+    },
+    {
+      "type": "Theme",
+      "name": "crise sanitaire",
+      "id": "Theme_743ee24ed44703d4666d6b5cf4b4d242d463d4e45a0472c4fa437ed044489173"
+    },
+    {
+      "type": "Theme",
+      "name": "crise économique",
+      "id": "Theme_c046c6202ba5e7f4aa642f625e76f8b67a318a713f7d4c8000cfc9d499996d13"
+    },
+    {
+      "type": "Theme",
+      "name": "familles des victimes",
+      "id": "Theme_93c30822d9dde87952889cc5863b7963cac8ee7da74a21d317667915882458e3"
+    },
+    {
+      "type": "Country",
+      "name": "Notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "Theme",
+      "name": "Chaos",
+      "id": "Theme_3cb51109fce6a914da0f3ee5391e1f401735502476a127b66a29eb76a00e3eb4"
+    },
+    {
+      "type": "Theme",
+      "name": "Grand fracas",
+      "id": "Theme_561ecd0452f0cbd4ebfab480495f6d7cfd2d9418c6417e2762d3d83223af4b8e"
+    },
+    {
+      "type": "Theme",
+      "name": "Histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "Attentats",
+      "id": "Theme_8012ef402146af8ee27cefa38131adb4a5076562becaf5a77b7b6f009a1f0a65"
+    },
+    {
+      "type": "Theme",
+      "name": "Terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "Chômage de masse",
+      "id": "Theme_2e7523bff4ae8d10a7d5b78086ff56eed9b29a156fa8521fde0b54d081d4fbad"
+    },
+    {
+      "type": "Theme",
+      "name": "Crise d'un modèle méritocratique républicain",
+      "id": "Theme_ad0282345253e9a50d4912fb7de5601a73977e7405c08d97facbffa7889d8083"
+    },
+    {
+      "type": "Theme",
+      "name": "Crise sociale",
+      "id": "Theme_5a19a75794dcc6a23dada6413677c40d6cdce5413bb02ea7c3a09d95bdbabcc9"
+    },
+    {
+      "type": "Theme",
+      "name": "Gilets jaunes",
+      "id": "Theme_8f74b99fc1d48348105a160d175272a280f47837e13087a1a7a26b8eb7f33983"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir d'achat",
+      "id": "Theme_63effc12fc7fbc533757050c1218d45395229580f9c3bfcec7f32cb9090cc9f2"
+    },
+    {
+      "type": "Theme",
+      "name": "projet de société",
+      "id": "Theme_1c79b47353e299e3eee491a5a446bd5220aae02098b968dd70dc9605dff51628"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Édouard PHILIPPE",
+      "id": "Person_eee3db1b9dc22c9e1de6f90e00c02ebfd810f3c94392c588dbce10d535fca9d6"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence",
+      "id": "Theme_00b20302d5f64b56a882fa76ac635bfb2d5b859939516a451a03216995d89940"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtrise de sa vie",
+      "id": "Theme_5ee8b146695cefc433921d184dfc88752e4a43f184be7ed407a369fac23ce45d"
+    },
+    {
+      "type": "Theme",
+      "name": "chemin de justice",
+      "id": "Theme_6633e98196bbb67a869a38254621e0975805b7d779d6b51f845bcafbdcd92eb8"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle social",
+      "id": "Theme_84e716fb96d816e1a7cec10303220f68a6aaf5c7e5b53934555aa33e88fc517d"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue social",
+      "id": "Theme_ee894356fb7b18c232f5f8942280aa5130fa4a4bf5c6ae081e42c62ae85a0fce"
+    },
+    {
+      "type": "Person",
+      "name": "Jean CASTEX",
+      "id": "Person_cddec1ff1a0921139c822cebc3e0c9b0d0624d1a1641c9abfeb8daaafb8d1bf6"
+    },
+    {
+      "type": "Person",
+      "name": "Prades",
+      "id": "Person_97a56b1c00db94dec6c7e3e530acf2c9005f13976ef239017b32552f362a8a7c"
+    },
+    {
+      "type": "Organization",
+      "name": "nouvelle équipe gouvernementale",
+      "id": "Organization_a91127716301ce7860dc076332d2f5468aa638fb68f786ac474ef0a0aea0110e"
+    },
+    {
+      "type": "Organization",
+      "name": "les partenaires sociaux",
+      "id": "Organization_51bc3c07a1defbd971afc18fc4917433d72b0bf3235a185a8bedb31ce7cedfcd"
+    },
+    {
+      "type": "Person",
+      "name": "Gérald DARMANIN",
+      "id": "Person_26fce8f686185cecdd6045c5b584a52c237e63abd49d841c4332d6da4d506022"
+    },
+    {
+      "type": "Person",
+      "name": "DARMANIN",
+      "id": "Person_fbb6c8bc1fe3482e56eb52ebeaa864c947268390e02ff990789ee4817c04f8c0"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Person",
+      "name": "Olivier VÉRAN",
+      "id": "Person_70a8be6aeb2eeab8418a1cbb93e6e507476af848f047cd646fbdac514898bac5"
+    },
+    {
+      "type": "Person",
+      "name": "Oui",
+      "id": "Person_bffb2fdc02be8723ce8f9782bbbd02bd86561e50e4273673cf1a873c5f9652f4"
+    },
+    {
+      "type": "City",
+      "name": "Mayenne",
+      "id": "City_a7e58aa5031d98c31774109d05f6062569993821a5af89e8713ebc33fabb5125"
+    },
+    {
+      "type": "City",
+      "name": "Oise",
+      "id": "City_8bb013e9bdfe0803095a5bf200c724348f11369b926c2d3ac56630a4c4d22502"
+    },
+    {
+      "type": "Theme",
+      "name": "confinement",
+      "id": "Theme_0f45bb70a21246322d7cfb478164222695e0d01460bf96452caf268399a36f94"
+    },
+    {
+      "type": "Theme",
+      "name": "rentrée des classes",
+      "id": "Theme_30ee1e8113697fe0ca65001e12aa36de0184c84589de871336c99999ca97df4a"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement en ligne",
+      "id": "Theme_5133a669be6dd796fc31ee986ecc96d238600b3f3e2a7dc78698501435ebd7c8"
+    },
+    {
+      "type": "Theme",
+      "name": "décrocheurs",
+      "id": "Theme_9a6add182fc832a9c6e98496fb8069f983231fe0e37930cea16f7701e6c32a8c"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation",
+      "id": "Theme_01dbd75772ce2e01acf43a9eed5bfc3d66a83ad34f48105944d56c5bf0aaa34b"
+    },
+    {
+      "type": "Person",
+      "name": "professeur RAOULT",
+      "id": "Person_4def7459f418d43a1ab9bd80b5af0d1ad3dfccbbb68cd1cf047fbaf1cca527f9"
+    },
+    {
+      "type": "Person",
+      "name": "mon épouse",
+      "id": "Person_65551c424854d82f2d90f70ebf9ddb439d847aa1d2694e27951e7010e4cc995c"
+    },
+    {
+      "type": "Person",
+      "name": "un politique",
+      "id": "Person_f4f2986a033f34337e9bfadecf368e4096822ee0730333e2d3e1879c582d178d"
+    },
+    {
+      "type": "Person",
+      "name": "le professeur RAOULT",
+      "id": "Person_df41e3de0f13698928b0d0bd57822bdee298b1f10ce5cfff98c73e717491bfb1"
+    },
+    {
+      "type": "Theme",
+      "name": "rationalité scientifique",
+      "id": "Theme_f9f0de5adffcf5c5f9d343b9697c9f19499877e66c6d10c96f9cb8679f9a38a5"
+    },
+    {
+      "type": "Theme",
+      "name": "pays des Lumières",
+      "id": "Theme_b242f3fd8c08c998e7e225254691c932e9e6b56a10b53be7708c2feeda1890de"
+    },
+    {
+      "type": "Country",
+      "name": "la République",
+      "id": "Country_8ece1ca643efc6be6485040a8d42357a81f22c38694d9ca8a56d37a688baf2b0"
+    },
+    {
+      "type": "Organization",
+      "name": "Sanofi",
+      "id": "Organization_5de41446321ded92c12fbd89ce8d6d33248cd6c7f3775680f7c00fa1456b3d98"
+    },
+    {
+      "type": "Country",
+      "name": "Amérique du Sud",
+      "id": "Country_32948a1769ccd4bf4a282d88d33f388fe28536517aa3928d111c5d21183bd30e"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation mondiale de la santé",
+      "id": "Organization_f5757579822029fdeb945a55b4b8ef80b363463b0aa95c3bb36a34804eb108f0"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Japonais",
+      "id": "Organization_fb4a2a83bcfba59ad2b678311a9017feedb37c38f263461ce2eabc3e0887cfe8"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération sanitaire",
+      "id": "Theme_0b3afc696d950683485deae389b865ad99c02cce572ebd8a122c3089ff1d7e64"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalisme sanitaire",
+      "id": "Theme_6af2cf1630d06fcbe6fdd47a5d8b64d17da147cf2091a048820268f8416ac34a"
+    },
+    {
+      "type": "Theme",
+      "name": "patriotisme industriel",
+      "id": "Theme_8ee1bc0c33b8c29b44ba81762b04802337ead808dedea54e16623ffa770f12da"
+    },
+    {
+      "type": "Theme",
+      "name": "patriotisme",
+      "id": "Theme_087acc9b6c0e8015662dfef66f194239c6c87d3b7a1bdb126f4aa128ad0c4225"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "plan de relance",
+      "id": "Theme_0284b43f69888e3ab0015c645b207cd8a09e25a57ef364a712d8ad0acf0ba263"
+    },
+    {
+      "type": "Theme",
+      "name": "art de vivre à la française",
+      "id": "Theme_5c337e8b90968c421bb00433a261600495fdbbb0783bd7c02c4840cd4a585b4d"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur de la culture",
+      "id": "Theme_461b46b54023c1e7e68595561184a19754ba242d5ccb34c8172cfa3bbb11fb73"
+    },
+    {
+      "type": "Theme",
+      "name": "aéronautique",
+      "id": "Theme_75d0f3d5ff64c56475546f5da42c78e140e4b2c5b8253cc541c75517a1fd1d42"
+    },
+    {
+      "type": "Theme",
+      "name": "automobile",
+      "id": "Theme_0d8fe91ee5d13a11b2f8cdf024edbf4a4c18c1cf149667d4cbedfbc587eb7f9c"
+    },
+    {
+      "type": "Theme",
+      "name": "licenciements",
+      "id": "Theme_443eba719ba5268b897615d8794670c114bfb8d741a0eb3340ed5e86a7062311"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage partiel",
+      "id": "Theme_224db8296e56db7cddb54ca5f9e355f099b05bfc12a1836807c84af9ab39d89c"
+    },
+    {
+      "type": "Theme",
+      "name": "prêt garanti aux entreprises",
+      "id": "Theme_970ec5556cd555be013c18433acd583cdede93078351464ed71afff93ef81477"
+    },
+    {
+      "type": "Theme",
+      "name": "reports de charges",
+      "id": "Theme_2cecd68d0431c6f9ebe9ebed2212711da80e1ff6bdf7e9e4accad71bf1804d48"
+    },
+    {
+      "type": "Theme",
+      "name": "exonérations de charges",
+      "id": "Theme_a8b5853ca9f08ea9922248113e0809ca6b9e2cf2447f1bee6eb26daf2f806bc5"
+    },
+    {
+      "type": "Person",
+      "name": "J'ai réuni dans cette salle ici",
+      "id": "Person_4071183e45066e79c4ce05c5a5c4b5570aa1246a11b179e0fb38d1c0f85dba53"
+    },
+    {
+      "type": "Organization",
+      "name": "l'ensemble des partenaires sociaux",
+      "id": "Organization_4236d85716ed275ccdef4d99ded6b9e681fc9226edb6799ff06d77a92b28c6da"
+    },
+    {
+      "type": "Theme",
+      "name": "activité partielle de longue durée",
+      "id": "Theme_282e396dcfa5e889cbfc7f0833c8956e880c36d7ed1c3861849bf13f33bdb6e9"
+    },
+    {
+      "type": "Theme",
+      "name": "anti-licenciements",
+      "id": "Theme_f5fb3aa2c043cf59f1cb727016f23d1be99fdaf68d298e5210eb81b5e84c79d7"
+    },
+    {
+      "type": "Organization",
+      "name": "Derichebourg",
+      "id": "Organization_48b36a238c12761ae983509e0763ed66fc9fd6cb4b28a8338a4c71c00e1a317d"
+    },
+    {
+      "type": "Organization",
+      "name": "Airbus",
+      "id": "Organization_41a65ef42423e17c2e554b35b23788a40b455d82f989891061352dba64083a6e"
+    },
+    {
+      "type": "Theme",
+      "name": "modération salariale",
+      "id": "Theme_134aa8eb718a78f7ae6956b126acdb39ab5586fbdbc590c9175dddcd8189039c"
+    },
+    {
+      "type": "Theme",
+      "name": "intéressement",
+      "id": "Theme_91231995eed00be0b60eae66fb9aa7451485ddf04ce8583ce37044cc4f8f1c14"
+    },
+    {
+      "type": "Theme",
+      "name": "participation",
+      "id": "Theme_85fdf3848efe4d99bf43da0a3ed4f17f1c826db205e8527369171dc754bcf21a"
+    },
+    {
+      "type": "Theme",
+      "name": "intéressement et de participation",
+      "id": "Theme_e4edbbc0d606d87a0c8133a95ebdb924cee9e59d21df8c948aed03841bd0870b"
+    },
+    {
+      "type": "Theme",
+      "name": "dividendes",
+      "id": "Theme_6a5026def898b44df4e232ea8eb4ec3ae9035f167e1df23db0b4b65836a53261"
+    },
+    {
+      "type": "Theme",
+      "name": "effort",
+      "id": "Theme_bbc0483f0da6a6341360b086154415ab379cb11db967c512d7d0a53a7ca2e016"
+    },
+    {
+      "type": "Theme",
+      "name": "formations",
+      "id": "Theme_69f287e343dbccf01ac37a421d37dbda3bc03cd334ec5affea272b0f4f64ea7b"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "activité partielle",
+      "id": "Theme_4bbaf9c7ed9b1e14a7561c0bb9301c03e550857d10cef180b334ec9e8097d1a6"
+    },
+    {
+      "type": "Theme",
+      "name": "renovation thermique des bâtiments",
+      "id": "Theme_a607b26899a05c104a66bdd076d5ac02bf0c2d323123b1ddd9dea9bfc249efd1"
+    },
+    {
+      "type": "Theme",
+      "name": "filière hydrogène",
+      "id": "Theme_bac24b42dde03b2b06e8f50f7d039147d0eba89d1d91e5e426cbae5b2e2d2449"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Theme",
+      "name": "l'apprentissage",
+      "id": "Theme_52dbac3dc7f038744d9ba62c41fdad9c59a50ffc75cb5b7906410ef599b2c592"
+    },
+    {
+      "type": "Theme",
+      "name": "les contrats professionnalisants",
+      "id": "Theme_2a3fa802d64c1a47e6ef839439ba520c93ab12c36ecd86943e7c0bc9bbafcc40"
+    },
+    {
+      "type": "Theme",
+      "name": "les stages",
+      "id": "Theme_044e8e9e7e1d0762616bdd7acd58f2129830a58895019f4476685a2fe8607ee9"
+    },
+    {
+      "type": "Theme",
+      "name": "le service civique",
+      "id": "Theme_81614da16798ed163ead6ba2a54ae13c36a27da7e2916071d47041fc4a4f2e6a"
+    },
+    {
+      "type": "Theme",
+      "name": "service civique",
+      "id": "Theme_1367ae18078b1cc8bd8ad118db4585db8b2c09130dea3a650519c6bf5c8e0460"
+    },
+    {
+      "type": "Organization",
+      "name": "CGT",
+      "id": "Organization_bce95be5cb0d0b90a5b1eb59084d7785fbcedf472f14ef5f77a6e1ced216ff35"
+    },
+    {
+      "type": "Organization",
+      "name": "Medef",
+      "id": "Organization_e773fd3926a09640d954acd859b36176e0b98a6274c6a39e749c06e47f3e27f7"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance",
+      "id": "Theme_eb42bc9a4c0e3c4863f2af9c41baa2a8f3b5a02bf55c6c74f6658aeb303b2108"
+    },
+    {
+      "type": "Theme",
+      "name": "impôts",
+      "id": "Theme_e039bfc7ccff8aa85085db8ce217e7430b68e294f8d0bde57c171f438f07c4c9"
+    },
+    {
+      "type": "Theme",
+      "name": "engagements publics",
+      "id": "Theme_d3b99a2afba84ee81c9965cdb615b2dcedf30b948dd006e259c50dc9130fd462"
+    },
+    {
+      "type": "Theme",
+      "name": "industriel",
+      "id": "Theme_f4a0cd2a3677e7ed90924f359616e647a4a4b1296fad61661f9f9c73e1c82f5b"
+    },
+    {
+      "type": "Theme",
+      "name": "écologique",
+      "id": "Theme_4a5667ffbfa78eac219711f4d9b571ef99fe5b175ad5274135818143d09caefb"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène",
+      "id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "type": "Theme",
+      "name": "renovation thermique",
+      "id": "Theme_62b13b7afa53840683ef65c98caa45c3b98848174b3df3377cd3ea58ea078c7f"
+    },
+    {
+      "type": "Theme",
+      "name": "eau",
+      "id": "Theme_63c3f847c9887c4e51c719979f77a2f6f52bec3bb93b8204957d5290860a00e7"
+    },
+    {
+      "type": "Theme",
+      "name": "dette covid",
+      "id": "Theme_3e0957a4a6ff6a1cc8476d2ace2d70e0155f0bd81b82e14e943d9c5f40b9a725"
+    },
+    {
+      "type": "Theme",
+      "name": "financements européens",
+      "id": "Theme_9a6f57c0a01858731a7c850a696a9966b9ffc8bf7031d71ac19247a47706d85c"
+    },
+    {
+      "type": "Person",
+      "name": "la chancelière",
+      "id": "Person_450f783eb1e216b2ce6c00e928795e1a645efedb70000d99cc33b3ff58369e32"
+    },
+    {
+      "type": "Person",
+      "name": "moi-même",
+      "id": "Person_8d566310710bd7381db144ddfcafa026338a9fda50aea373d11e6f74a6b6f2d4"
+    },
+    {
+      "type": "City",
+      "name": "Strasbourg",
+      "id": "City_aa11677b0eceda0a1a5c819294f251193f8da741293fef8eef09bee04f4b354a"
+    },
+    {
+      "type": "City",
+      "name": "Bordeaux",
+      "id": "City_ec6760adfddeb4aa228eab33177f9fcda347d6fe13cd536c166f0da4cdf9d1ef"
+    },
+    {
+      "type": "Organization",
+      "name": "Convention dite citoyenne",
+      "id": "Organization_0d52cf8b8dfb9abc97e07ac7b11c3f93f05d9a4140a0aafc7e4dabc2dee1b800"
+    },
+    {
+      "type": "Theme",
+      "name": "référendum",
+      "id": "Theme_4a9f20d7b6af8f6b0d5ae6a3799b5ea2f2d92359d5af489792d864166bcaf9f8"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme constitutionnelle",
+      "id": "Theme_504657c6f3a306b081426fc2881da83b270659c1561956dc3308b0a51f9e55fb"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le réchauffement climatique",
+      "id": "Theme_87fcffeb0b095d638b1ce229a807c21b51759f54208553ace6ac1f29815655a0"
+    },
+    {
+      "type": "Theme",
+      "name": "respect de la biodiversité",
+      "id": "Theme_b3e7d24ca8f0bff17afe70e3900e7348c6f844dacf554f13ca55ef11d4806e89"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "rénovation",
+      "id": "Theme_60f9fb1f963613a148ee392f030833b2514019bc95b9ed7b58e14d364005f743"
+    },
+    {
+      "type": "Theme",
+      "name": "transition",
+      "id": "Theme_e63e6ab1512da86e741fe3d7ec082523f6b684c749eb3aef27e0dfd412c0a6b6"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction du trafic",
+      "id": "Theme_0795673ba89053092c522e628e5d13a41c7f6402812ce9cbc6fbf2d531fc96d1"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique",
+      "id": "Theme_82634c5567e29ec1e0f256205be4191228a3b7329a743da05d0f47189c5b7272"
+    },
+    {
+      "type": "Organization",
+      "name": "compagnie Air France",
+      "id": "Organization_de4190f28169be3e0ae1c24fa16558fad803a7379a7bd1ef88805a5ff8312643"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Brive",
+      "id": "City_2c827317377374dd392ab32ecfde60c491d5bb49c5e115c2a0ece4190efe76e7"
+    },
+    {
+      "type": "City",
+      "name": "Toulouse",
+      "id": "City_aa695a1a8591febfa119cbccca39b2add1951395a057a7f2fdbd29e7adde06ae"
+    },
+    {
+      "type": "City",
+      "name": "Pau",
+      "id": "City_aae88dca61617f4b2361b23b514b33d2f48d85277532d7af51eb52097994042e"
+    },
+    {
+      "type": "Person",
+      "name": "De Gaulle",
+      "id": "Person_37f95bd08a7aed96ec78152708e15ac7b0aeadf9b6ed76c9324554a4a27abf09"
+    },
+    {
+      "type": "City",
+      "name": "France",
+      "id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    },
+    {
+      "type": "Theme",
+      "name": "crise inédite",
+      "id": "Theme_a39d05d17ff767a2a2fdd3167148b5d93991f0c18ac13372b15822f427bb5d90"
+    },
+    {
+      "type": "Theme",
+      "name": "relance industrielle",
+      "id": "Theme_80aa654fabf5df062de4c9317baed5e271245e417a3ff4083a9377791f1f7bcb"
+    },
+    {
+      "type": "Theme",
+      "name": "alimentation saine",
+      "id": "Theme_447ccea4f12febf023b501d4024f3cf14406f60827659ddcbc2e2cd8da2dd28a"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté agricole",
+      "id": "Theme_45c6e553c9fd325fb307467d342448119391fe39890ca1ae4315d21ddd2ff25c"
+    },
+    {
+      "type": "City",
+      "name": "Mairie",
+      "id": "City_f674cb042f8b2e1f083510c0baedae27bc35aadb41f919740b91648eb2625926"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "Élections municipales",
+      "id": "Theme_8c7aa5074a11e230989fdca6c05fc4e56348e2d351e0b3ce8f82adc64d51a25b"
+    },
+    {
+      "type": "Theme",
+      "name": "École",
+      "id": "Theme_e4023600e045c977a775d339830e8508634d36394f9b8486f09d01cdd3b05e6b"
+    },
+    {
+      "type": "Theme",
+      "name": "Usine",
+      "id": "Theme_7afbade9f386c368eca1c5a531ef1e5c1da28fb0917f45ca65d824e6e0cce1e4"
+    },
+    {
+      "type": "Theme",
+      "name": "Entreprise",
+      "id": "Theme_25b5d00575bee3dcf8351135c79afd8d31a4fc928ff5c84dbe75baa0bdcddeb1"
+    },
+    {
+      "type": "Theme",
+      "name": "14 juillet",
+      "id": "Theme_a9f19ff4e7ab5bd45c3738c2463ab4983de968828130e80aadaadcd330dc58c0"
+    },
+    {
+      "type": "Theme",
+      "name": "discrimination",
+      "id": "Theme_92d7d1d37614eb7e3178c40e62a9c7211cba91c8c31af61eb0c9f5faa02beefb"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    },
+    {
+      "type": "Person",
+      "name": ";",
+      "id": "Person_d9a2714ab76cf1cad4aeee70cdd7a8bbf67abb5c36ad60f8ea17545109af83f1"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Sanofi",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Sanofi dont le siège est en France",
+      "confidence": 1.0,
+      "source_id": "Organization_5de41446321ded92c12fbd89ce8d6d33248cd6c7f3775680f7c00fa1456b3d98",
+      "target_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "pour sécuriser la production des médicaments sur le sol européen pour les Européens en même temps",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "coopération sanitaire",
+      "relation": "MENTIONS",
+      "target": "coopération sanitaire",
+      "evidence": ". C'est ça la coopération sanitaire à laquelle je crois.",
+      "confidence": 1.0,
+      "source_id": "Theme_0b3afc696d950683485deae389b865ad99c02cce572ebd8a122c3089ff1d7e64",
+      "target_id": "Theme_0b3afc696d950683485deae389b865ad99c02cce572ebd8a122c3089ff1d7e64"
+    }
+  ]
+}

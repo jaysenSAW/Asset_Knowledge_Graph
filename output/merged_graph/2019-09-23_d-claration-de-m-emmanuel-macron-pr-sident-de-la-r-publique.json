@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Bhoutan",
+      "id": "Country_69876a90a6d57ef8951b5dfc722ab53db9de7bc21cf0a9902c3d3cdad4630dbe"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Chili",
+      "id": "Country_c0d4881c53036bf1949a279e19e404943cec83d8c7607b89f66e74188cb94b92"
+    },
+    {
+      "type": "Person",
+      "name": "PIÑERA",
+      "id": "Person_212125ccbd8b24474c76d1236a8769115f1a2b61918f17f1abd90544ed575c52"
+    },
+    {
+      "type": "Country",
+      "name": "Grande Bretagne",
+      "id": "Country_f05f35768ba761eb65ace9f5bc7e60cc3ac0b1b11e185085fb3c9d47cc2c5a7f"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Grande Bretagne",
+      "relation": "ALLIED_WITH",
+      "target": "Chili",
+      "evidence": "le Chili est une étape essentielle avant la Grande Bretagne l'année suivante.",
+      "confidence": 1.0,
+      "source_id": "Country_f05f35768ba761eb65ace9f5bc7e60cc3ac0b1b11e185085fb3c9d47cc2c5a7f",
+      "target_id": "Country_c0d4881c53036bf1949a279e19e404943cec83d8c7607b89f66e74188cb94b92"
+    }
+  ]
+}

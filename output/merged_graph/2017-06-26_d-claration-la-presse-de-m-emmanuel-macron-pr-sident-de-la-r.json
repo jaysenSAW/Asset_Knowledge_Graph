@@ -1,0 +1,126 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Porochenko",
+      "id": "Person_bfeb6764ef8dfcf16aa35e99de426cc1045e67f3f58a08b48f073da2189eddfd"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Kiev",
+      "id": "City_3a24ad0eca3d75099401ab5d6c0c64d5783ac0ba23b6fb1b4f257d3e923cb404"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Person",
+      "name": "Poutine",
+      "id": "Person_cd18bc7f49bb7d64b17bcbd894d6a8752a9076a00deeefdb299e52309a31d8e5"
+    },
+    {
+      "type": "Event",
+      "name": "G20",
+      "id": "Event_6bc087d66e8d1ddf6a5ae30e3642286778f8e399748bba7b4ef548cec3b0b638"
+    },
+    {
+      "type": "City",
+      "name": "Crimée",
+      "id": "City_dac87d04b076cdb964c0439950924c7c76bfc0f48e233e8cd7119baf0a98d741"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Minsk",
+      "id": "Country_7690281d620aab97b7e585e9339f093e6b3085413ff873279b2fd99dad601543"
+    },
+    {
+      "type": "Country",
+      "name": "Poutine",
+      "id": "Country_201825849c1ad5f55ed33610c094df65ed1e9c476609849f41af125397d235c5"
+    },
+    {
+      "type": "Country",
+      "name": "Porochenko",
+      "id": "Country_1acb8f5376eda1d907abd3541816261ae21de1675614f16f8183f94e664bae4f"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Porochenko",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "le président Porochenko d'être ici aujourd'hui à Paris",
+      "confidence": 1.0,
+      "source_id": "Country_1acb8f5376eda1d907abd3541816261ae21de1675614f16f8183f94e664bae4f",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Ukraine",
+      "evidence": "la France, et plus largement l'Union européenne, tout comme les pays du G7, continuent à accompagner l'Ukraine dans ce processus de réformes internes ambitieuses pour rapprocher nos standards de gouvernance",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SUPPORTS",
+      "target": "Ukraine",
+      "evidence": "la France, et plus largement l'Union européenne, tout comme les pays du G7, continuent à accompagner l'Ukraine dans ce processus de réformes internes ambitieuses pour rapprocher nos standards de gouvernance",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "G7",
+      "relation": "SUPPORTS",
+      "target": "Ukraine",
+      "evidence": "la France, et plus largement l'Union européenne, tout comme les pays du G7, continuent à accompagner l'Ukraine dans ce processus de réformes internes ambitieuses pour rapprocher nos standards de gouvernance",
+      "confidence": 1.0,
+      "source_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Allemagne",
+      "evidence": "La France reste profondément engagée, aux côtés de l'Allemagne,",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Sommet climat du Secrétaire général",
+      "id": "Organization_806bb0cb5eb0c02629fbb2d77e3c105b2c52d1751a5ae1774e876739645d40c3"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds vert",
+      "id": "Organization_f4d22b2542a787376596b7e5ed9d8f60f9bb50c68f482d67467a6738f0077405"
+    },
+    {
+      "type": "Organization",
+      "name": "réunion d'octobre",
+      "id": "Organization_3c0df1a76f0a7e8d1024e6eee5d43b395e4a9a3b522298427676e81d9964bc56"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Organization",
+      "name": "plan justement du rehaussement du prix du carbone",
+      "id": "Organization_bc2040bef9a195065755810889bc717c02c538a64c140ce8fec197c9dc906b69"
+    },
+    {
+      "type": "Organization",
+      "name": "taxation aux frontières",
+      "id": "Organization_b831076f3b4d291444a054d8e2f268557e2aad6fdc83c1bb315d1218a4ff177c"
+    },
+    {
+      "type": "Organization",
+      "name": "intégration des objectifs climatiques dans notre agenda commercial",
+      "id": "Organization_4cba8061e03caf4a8b43cf02d22e6882501bf0cb766d760dc9680d9762ba9239"
+    },
+    {
+      "type": "Organization",
+      "name": "objectif zéro carbone - zéro déforestation",
+      "id": "Organization_71cb9b5b3fd856e4f7acb0ea73038cb64184a784f594d83ea0e6acb7fbbae5dd"
+    },
+    {
+      "type": "Organization",
+      "name": "2020",
+      "id": "Organization_856a5d903a9e6dd72727394f7dd379ad66cedd9583b020dd9396ca3f896e804b"
+    },
+    {
+      "type": "Organization",
+      "name": "agenda européen",
+      "id": "Organization_7401c254d4e664ae2ceee9b91b6c77d274ac074ef04059294423745da7ce7ee4"
+    },
+    {
+      "type": "Organization",
+      "name": "agenda climatique",
+      "id": "Organization_0a01c7b6e6bb9b8ba9c3240d0783c4bc28afd18734bf4b999178aaa16daa4ab4"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Colombie",
+      "id": "Country_745684a15e3161927f996f47ab1b856fb30beed90b50d25e0a7011f567849707"
+    },
+    {
+      "type": "Country",
+      "name": "Chili",
+      "id": "Country_c0d4881c53036bf1949a279e19e404943cec83d8c7607b89f66e74188cb94b92"
+    },
+    {
+      "type": "Country",
+      "name": "Norvège",
+      "id": "Country_01255a6d7078545605faae7f3b57607774761cefa10e25e0bff7873d4b8710cd"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Bolivie",
+      "id": "Country_39fd8f15716f15c04cf185f921126ecb8aad6c9012545a3ce99a8928fc8b62e5"
+    },
+    {
+      "type": "Country",
+      "name": "Suriname",
+      "id": "Country_d37738d2813378d76f4c4b37fda3f9052ae49cb064593d9bb3ebabe5fcbc7066"
+    },
+    {
+      "type": "Person",
+      "name": "Alexandre",
+      "id": "Person_003dfa70ed5f8e507780a422ceaf6c1361fe82ea82c792ace6ad3aa2225d4b8f"
+    },
+    {
+      "type": "Person",
+      "name": "Johnson",
+      "id": "Person_56556f3f9edf2f9254ba3bf864066b037e80534e33239f4c0abbd6b902a6487c"
+    },
+    {
+      "type": "Person",
+      "name": "Merkel",
+      "id": "Person_11ad4e67ef3a2e4b330ebc39970509630c2fce5702d04790e6328b02bf6b451d"
+    },
+    {
+      "type": "Person",
+      "name": "Trump",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Person",
+      "name": "Rohani",
+      "id": "Person_5be35d3545e171c16a12f205cc0a3f1241399de2f0c1f29836e710b842709c85"
+    },
+    {
+      "type": "Country",
+      "name": "Brésil",
+      "id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Event",
+      "name": "frappes du 14 septembre dernier",
+      "id": "Event_79147c3e2efc6bb8d7268af4988a7988997d865096bc5660e995542b5f5e5626"
+    },
+    {
+      "type": "Person",
+      "name": "Rodolphe Alexandre",
+      "id": "Person_da44d225d1b898e00921d7dc584eb9f2aad557becde30517715a55384a5cb5d3"
+    },
+    {
+      "type": "Organization",
+      "name": "Grand Conseil coutumier",
+      "id": "Organization_fdb55d2adf8d3a9c99500d000aa31885714583d69dd292398fd61735eb9addb3"
+    },
+    {
+      "type": "Organization",
+      "name": "parc",
+      "id": "Organization_d0760030d31cd3a60ed17fc09e820f08d7ba0cd38eb5c94a9089716583a0b9a9"
+    },
+    {
+      "type": "Country",
+      "name": "Guyane",
+      "id": "Country_784c3a53dbc879c108f7f1ab802a3d742fd7099e54765ef584384dcfdb508762"
+    },
+    {
+      "type": "Country",
+      "name": "Yémen",
+      "id": "Country_de51d54261cb8914709944f249dba3ae2116dddd8c4ef0b43eb863a17255b45e"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Irak",
+      "id": "Country_99792b4385035d3a51b12170d270a96604af5ab8e0945708f2a19bcc0e41b04c"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Law",
+      "name": "JCPoA",
+      "id": "Law_cd9d8b356cf6d3818412114e08cbf5d6222ecd78d96784758afa8eeb031792c6"
+    },
+    {
+      "type": "Person",
+      "name": "Mahmoud Abbas",
+      "id": "Person_fc08fe098c11a7c1e7297888ced97715fb660bd10cc46ce52e3ceb8295ea7c08"
+    },
+    {
+      "type": "Person",
+      "name": "Sissi",
+      "id": "Person_acb29ad3a6a9954f0b69005dd1a51b58028559cfce76add38635a6463cb2decb"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Person",
+      "name": "Donald Trump",
+      "id": "Person_0733a79f3150052cccafd940cdbbd3c8e236062bb642b00d56f0ff8484ba3762"
+    },
+    {
+      "type": "Person",
+      "name": "Le président Trump",
+      "id": "Person_fa178fdde9360ca435451f2988e210651a3c3151ee91fb7d29f534b5a1fcc686"
+    },
+    {
+      "type": "Country",
+      "name": "l'Iran",
+      "id": "Country_c9c25ad7f0e2ca2c86abde75610068558a63a48c20afddb019bb81ee26c06cfe"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité régionale",
+      "id": "Theme_0822bd4ffe1b26c7d13875640566d51e9564c617c49df861936a62d729db6314"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité des flux maritimes",
+      "id": "Theme_d3f7b3be8a59f56055ff8eea55423c883701018030449b13f45d06edf01a1557"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurisation des flux maritimes",
+      "id": "Theme_b687fb0362c7232d0c4710e40d163c3f12f2add181b30f4c4e9713ed64b05963"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité du détroit d'Ormuz",
+      "id": "Theme_6fe1eab0dae8379c10169b7799ba69d6d3ba512c0582f7a2f69592596328bb2b"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Person",
+      "name": "le président Abbas",
+      "id": "Person_16e9aad27e6f4fe876979e19dfa90459736343802c87f93497602901461cd2ce"
+    },
+    {
+      "type": "Person",
+      "name": "M. Rohani",
+      "id": "Person_dd8f26d481bc7998d59d6e725befc7db71801db17850fda1f304165b830c2b8c"
+    },
+    {
+      "type": "Person",
+      "name": "R",
+      "id": "Person_030e557c237684d8058e1b7148ed718582878b1980659a5ba153e4a55404ccfb"
+    },
+    {
+      "type": "City",
+      "name": "Téhéran",
+      "id": "City_9baca922efb5792d170a3c29204d900e1d302a4ef126dfdf1b4ba8c3575dac31"
+    },
+    {
+      "type": "Person",
+      "name": "le Premier ministre pakistanais",
+      "id": "Person_457267f3e64b2316e199f55745f746b7790190fd3def3bdb1fa7a09b780eb730"
+    },
+    {
+      "type": "Organization",
+      "name": "ONU",
+      "id": "Organization_8fe3e517167eebcfcb1c541c20f6aeb0a346c6c70b461e4d8ec8a469cdf70167"
+    },
+    {
+      "type": "Country",
+      "name": "Pakistan",
+      "id": "Country_aef1eb401e9b4c99e1e5c80afe260a2710f72e056ce27c1b853c015c5890eebc"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité",
+      "id": "Organization_baa57920608812f1a905ee605e7e26f62ded68ec5607802bf97048747ea47f2f"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "New York",
+      "id": "City_e29f957fb97945a6b5a1886762f22b8c0c8061e5f79a9f14d6144141a5106e51"
+    },
+    {
+      "type": "Theme",
+      "name": "crise climatique",
+      "id": "Theme_3e86287b9007dc7cf116e0f678ff3a9925fa42111528a26c250fc10e64358d7f"
+    },
+    {
+      "type": "Theme",
+      "name": "JCPoA",
+      "id": "Theme_9a6c8c02fde46dce20d9d0c1fa5565392c068201836ba9f7be2cc4095d5db816"
+    },
+    {
+      "type": "City",
+      "name": "Elysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité carbone 2050",
+      "id": "Theme_5c2b05535af63e9f00b6d9046c001bb47707b89f31e9cd56a8461b1520f16824"
+    },
+    {
+      "type": "Theme",
+      "name": "dynamique amazonienne",
+      "id": "Theme_e2c13cd5176b2871302e38c6abcda9b05fd1a58ce3ef407e2881298904294964"
+    },
+    {
+      "type": "Theme",
+      "name": "forêt tropicale",
+      "id": "Theme_5fd78945147fb7ce1f858cc3e3a68fd6eeab92a9b33dfacca4f2956b1464ac07"
+    },
+    {
+      "type": "Theme",
+      "name": "Amazonie - Bassin du Congo",
+      "id": "Theme_9432e37898f787600d5c1db1ac5865bba697a3cc3b613353b7155907abb01aa3"
+    },
+    {
+      "type": "Theme",
+      "name": "océans",
+      "id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "type": "Law",
+      "name": "Accord de Paris",
+      "id": "Law_cd8b0ed5bd6d7c10b803a393cbdcace05ca0db0f17b36ece29f3b3d3b07b6d15"
+    },
+    {
+      "type": "Person",
+      "name": "M. le Président",
+      "id": "Person_7862f76c81da2366b333dc6cbcaf512a9ae591d32b1f30adb3e6fac3a787bd2a"
+    },
+    {
+      "type": "Person",
+      "name": "le président de Lituanie",
+      "id": "Person_ce85fe2fc842c0445c44f9f1595f93ece813966fd66db1d80767aa67425992c7"
+    },
+    {
+      "type": "Person",
+      "name": "le président Rohani",
+      "id": "Person_749d5c2d73c4880fe8749477f83ddd6b3314183a2cec7e6b3fa255ae66b4c449"
+    },
+    {
+      "type": "Country",
+      "name": "Région",
+      "id": "Country_7c818ed21327e22bae058222222b7459519f1b9df8c73c3e4f08aff70bb2bc0c"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "forêt amazonienne",
+      "id": "Theme_6d08dfd549ab4f07c42f68dded4379f13b92c1d1015ff961f8e251d3895ccc89"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "feux",
+      "id": "Theme_8141fd19135b672b92536eff46dc887c488cb108dc3afee3d7123f5f43f19116"
+    },
+    {
+      "type": "Theme",
+      "name": "reconquête de la forêt tropicale",
+      "id": "Theme_f354b3f2070762f848729e9ee127ae2c889d69a237aeadcb06e4318947b3c510"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Sommet climat du Secrétaire général",
+      "relation": "PROPOSED",
+      "target": "Fonds vert",
+      "evidence": "Cette assemblée générale des Nations unies a été l'occasion d'abord de prendre plusieurs engagements lors du Sommet climat du Secrétaire général, à la fois en confirmant l'engagement français sur le Fonds vert et préparer la réunion d'octobre sur ce sujet.",
+      "confidence": 1.0,
+      "source_id": "Organization_806bb0cb5eb0c02629fbb2d77e3c105b2c52d1751a5ae1774e876739645d40c3",
+      "target_id": "Organization_f4d22b2542a787376596b7e5ed9d8f60f9bb50c68f482d67467a6738f0077405"
+    },
+    {
+      "source": "Sommet climat du Secrétaire général",
+      "relation": "PROPOSED",
+      "target": "réunion d'octobre",
+      "evidence": "Cette assemblée générale des Nations unies a été l'occasion d'abord de prendre plusieurs engagements lors du Sommet climat du Secrétaire général, à la fois en confirmant l'engagement français sur le Fonds vert et préparer la réunion d'octobre sur ce sujet.",
+      "confidence": 1.0,
+      "source_id": "Organization_806bb0cb5eb0c02629fbb2d77e3c105b2c52d1751a5ae1774e876739645d40c3",
+      "target_id": "Organization_3c0df1a76f0a7e8d1024e6eee5d43b395e4a9a3b522298427676e81d9964bc56"
+    },
+    {
+      "source": "Brésil",
+      "relation": "LOCATED_IN",
+      "target": "Brésil",
+      "evidence": "le président Alexandre et le gouverneur brésilien qui représentait aussi plusieurs Etats brésiliens",
+      "confidence": 1.0,
+      "source_id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae",
+      "target_id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae"
+    },
+    {
+      "source": "Guyane",
+      "relation": "LOCATED_IN",
+      "target": "Rodolphe Alexandre",
+      "evidence": "J'avais souhaité associer tout à la fois le président de la collectivité de Guyane Rodolphe Alexandre",
+      "confidence": 1.0,
+      "source_id": "Country_784c3a53dbc879c108f7f1ab802a3d742fd7099e54765ef584384dcfdb508762",
+      "target_id": "Person_da44d225d1b898e00921d7dc584eb9f2aad557becde30517715a55384a5cb5d3"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Etats-Unis d'Amérique",
+      "evidence": "Je l'ai dit également l'un à l'autre la France est à disposition et je considère que ce débat doit être amorcé entre les Etats-Unis d'Amérique et l'Iran",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Iran",
+      "evidence": "Je l'ai dit également l'un à l'autre la France est à disposition et je considère que ce débat doit être amorcé entre les Etats-Unis d'Amérique et l'Iran",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "source": "Etats-Unis d'Amérique",
+      "relation": "LOCATED_IN",
+      "target": "Etats-Unis d'Amérique",
+      "evidence": "Etats-Unis d'Amérique",
+      "confidence": 1.0,
+      "source_id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc",
+      "target_id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "source": "Iran",
+      "relation": "LOCATED_IN",
+      "target": "Iran",
+      "evidence": "Iran",
+      "confidence": 1.0,
+      "source_id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8",
+      "target_id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Etats-Unis d'Amérique",
+      "evidence": "Je l'ai dit également l'un à l'autre la France est à disposition et je considère que ce débat doit être amorcé entre les Etats-Unis d'Amérique et l'Iran",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Iran",
+      "evidence": "Je l'ai dit également l'un à l'autre la France est à disposition et je considère que ce débat doit être amorcé entre les Etats-Unis d'Amérique et l'Iran",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "source": "Trump",
+      "relation": "VISITED",
+      "target": "Téhéran",
+      "evidence": "le président Trump aura l'occasion d'aller à Téhéran",
+      "confidence": 1.0,
+      "source_id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8",
+      "target_id": "City_9baca922efb5792d170a3c29204d900e1d302a4ef126dfdf1b4ba8c3575dac31"
+    },
+    {
+      "source": "Trump",
+      "relation": "VISITED",
+      "target": "Iran",
+      "evidence": "le président Trump aura l'occasion d'aller à Téhéran en Iran",
+      "confidence": 1.0,
+      "source_id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8",
+      "target_id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "source": "océans",
+      "relation": "MENTIONS",
+      "target": "océans",
+      "evidence": "Il faut la poursuivre et avoir des résultats. Il faut maintenant qu'on pense la même chose sur les océans",
+      "confidence": 1.0,
+      "source_id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee",
+      "target_id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "source": "Accord de Paris",
+      "relation": "MENTIONS",
+      "target": "Accord de Paris",
+      "evidence": "Je note que la Russie a ratifié l'Accord de Paris hier, ce qui était un signal extrêmement important",
+      "confidence": 1.0,
+      "source_id": "Law_cd8b0ed5bd6d7c10b803a393cbdcace05ca0db0f17b36ece29f3b3d3b07b6d15",
+      "target_id": "Law_cd8b0ed5bd6d7c10b803a393cbdcace05ca0db0f17b36ece29f3b3d3b07b6d15"
+    }
+  ]
+}

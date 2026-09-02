@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Les Etats-Unis d'Amérique",
+      "id": "Country_877636b7dfbfb2a9c688f4cf5fc5d4825bbf9fb8ed23006be0353cf79798bedd"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité humaine",
+      "id": "Theme_a68e650cb082f90e106ea6655faf8989cb9854b36f5542c5c40eb1819a7d6ba1"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "respect de l'autre",
+      "id": "Theme_f9d3cb60973fd1289a253ec293dee03d1acbfefc10a96bcb53c32017213b889d"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Country",
+      "name": "United States",
+      "id": "Country_f668e1595b988748a3c6ae59bbbf6c75a0df6aff6c29c255a886437d67f87aa6"
+    },
+    {
+      "type": "City",
+      "name": "Washington DC",
+      "id": "City_4175cd9b32bf9101984f4dc2b8ee78fceefd72fb59c422da2c6ccec67439f42e"
+    },
+    {
+      "type": "Person",
+      "name": "Biden",
+      "id": "Person_a6340ab64c46aeadd1097acfefb827e46a05d300bf00b1f9552a5a11a4bc9685"
+    },
+    {
+      "type": "City",
+      "name": "Capitole",
+      "id": "City_b2e3d2e0c2cf9453ae8ad7f3cbfb66fc0c7466ded1b6800d899a3ebf74c4a274"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "les Etats-Unis d'Amérique",
+      "relation": "SUPPORTS",
+      "target": "la France",
+      "evidence": "Les Etats-Unis d'Amérique, durant le XXème siècle, lors des deux guerres mondiales, se sont tenus aux côtés de la France à chaque fois que son indépendance, sa liberté, furent menacées",
+      "confidence": 1.0,
+      "source_id": "Country_877636b7dfbfb2a9c688f4cf5fc5d4825bbf9fb8ed23006be0353cf79798bedd",
+      "target_id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "source": "États-Unis d'Amérique",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "La France, avec Alexis de Tocqueville, a reconnu les Etats-Unis d'Amérique comme un emblème de la démocratie.",
+      "confidence": 1.0,
+      "source_id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "États-Unis d'Amérique",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "Les Etats-Unis d'Amérique, durant le XXème siècle, lors des deux guerres mondiales, se sont tenus aux côtés de la France à chaque fois que son indépendance, sa liberté, furent menacées.",
+      "confidence": 1.0,
+      "source_id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "États-Unis d'Amérique",
+      "relation": "SPOKE_ABOUT",
+      "target": "liberté",
+      "evidence": "Les Etats-Unis d'Amérique, durant le XXème siècle, lors des deux guerres mondiales, se sont tenus aux côtés de la France à chaque fois que son indépendance, sa liberté, furent menacées.",
+      "confidence": 1.0,
+      "source_id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc",
+      "target_id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "source": "États-Unis d'Amérique",
+      "relation": "SPOKE_ABOUT",
+      "target": "indépendance",
+      "evidence": "Les Etats-Unis d'Amérique, durant le XXème siècle, lors des deux guerres mondiales, se sont tenus aux côtés de la France à chaque fois que son indépendance, sa liberté, furent menacées.",
+      "confidence": 1.0,
+      "source_id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc",
+      "target_id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    }
+  ]
+}

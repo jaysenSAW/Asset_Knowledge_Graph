@@ -1,0 +1,555 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Président de la République populaire de Chine",
+      "id": "Person_4e74b24b942bd45176632062060f2b031214a637bcecd381ff8525de84d3141b"
+    },
+    {
+      "type": "Person",
+      "name": "mesdames messieurs les ministres",
+      "id": "Person_5e7680f9e0cf20417a04b3690c36604462afe819b0cb3c14af79f79a2d414464"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "City",
+      "name": "Niancheng",
+      "id": "City_7f7f2fc4755299bede13491118ae6d6524aa7d8d76354faaf0885b39f474feb2"
+    },
+    {
+      "type": "Person",
+      "name": "Chancelière fédérale d'Allemagne",
+      "id": "Person_3b1d555927541a526ce1ff63bbb3b858a426b2874c4f253cebc22de2ec815f14"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la Commission européenne",
+      "id": "Person_46d8af0966fe18e8c3885d8be3ab87d7de5f78323002096d93ea3bbcfee3240c"
+    },
+    {
+      "type": "City",
+      "name": "Xi'an",
+      "id": "City_dc5941b30a5c14acd7124fb0d94b75a19be0a8120906fdbdc7012cfa4f0143de"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations Unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Notre relation bilatérale",
+      "id": "Organization_c8249363050cce6da7849f9b707f2557cf1a128b3591e1eb76c127bb92873b7f"
+    },
+    {
+      "type": "City",
+      "name": "Taishan",
+      "id": "City_dfe62b8d4be32a2f628365af39319c2a13bc0a1f8637d89092d937e80b527c7f"
+    },
+    {
+      "type": "Organization",
+      "name": "A320",
+      "id": "Organization_278f1310941b23198fdc5f6e48dc1c42d17675a91e045f3a5db56c89fa02cdde"
+    },
+    {
+      "type": "Organization",
+      "name": "gros porteur A350",
+      "id": "Organization_2a748adc689b1639ebe7569b0e484a9026235eafea04e6b989864475c726c7a1"
+    },
+    {
+      "type": "Organization",
+      "name": "Foire de Shanghai sur les importations",
+      "id": "Organization_404edd0732801388688fd7530367faae43d8bfee699b91792b55cd5f2b8a72ca"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds d'investissements d'1 milliard d'euros",
+      "id": "Organization_a3004a6984be7c55d926045023cef950f13accaf618ba83ffd30bb21c012d034"
+    },
+    {
+      "type": "Organization",
+      "name": "nos grands groupes",
+      "id": "Organization_2013fc452b23274feb52600a78e992c9f42615ce1be7fe0fa2ef65427fc6fa42"
+    },
+    {
+      "type": "Organization",
+      "name": "nos petites et moyennes entreprises",
+      "id": "Organization_b23e9151c70583249da7731b4ea28054e45f4619895a4f909dbd5cfe3caf929c"
+    },
+    {
+      "type": "Organization",
+      "name": "nos entreprises de taille intermédiaire",
+      "id": "Organization_dbf84f96b3d845705b97f7f29ad1ea579ada3c0181c56152fc686d2141008547"
+    },
+    {
+      "type": "City",
+      "name": "Shanghai",
+      "id": "City_1c69547961fb5f027655eaa1583e9c736a388752921f6ea9540cf7bc2079ec4e"
+    },
+    {
+      "type": "City",
+      "name": "Shenzhen",
+      "id": "City_014633e5f546171bb5ea682b9c27966a59d76f3f5f75e7cd4ea2fdb467d45ebc"
+    },
+    {
+      "type": "Organization",
+      "name": "Centre Pompidou",
+      "id": "Organization_368c9f0a561f1b9776f167fbb7739e7e80c4ae84c02c5720aa8f38885674fecc"
+    },
+    {
+      "type": "Organization",
+      "name": "musée Rodin",
+      "id": "Organization_14a036f4abe30be7c12153ee5df33b878fc078986078dde5eda8efc949466798"
+    },
+    {
+      "type": "Theme",
+      "name": "sciences",
+      "id": "Theme_3ebeecd2a84459e8fb954db7bd12fdb1625a168f165adb02b0341c3206571db8"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies",
+      "id": "Theme_13d59bafdc47af3e410af65db9d4750021cd91a0bdfe8882fa42d2d9c12e506d"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "pollution industrielle",
+      "id": "Theme_629949186978f48038253ecb73fc107982da10fb27bb23a229e064d84d88587e"
+    },
+    {
+      "type": "Theme",
+      "name": "surcapacités",
+      "id": "Theme_90c6e14f6729b87bc3472aebb167846790f43c93d86941a03908cc9ab5667a6e"
+    },
+    {
+      "type": "Theme",
+      "name": "spatial",
+      "id": "Theme_be04ff49df6f9224cf87b09d0c072d2df359f83a584eeef7deff7e1835862166"
+    },
+    {
+      "type": "Theme",
+      "name": "observation des océans",
+      "id": "Theme_b50308504cd14d877a7fb4f313f61714883af12d599e5a7812b2038bec1b72dd"
+    },
+    {
+      "type": "Theme",
+      "name": "astrophysique",
+      "id": "Theme_eecafd78b33fd6de7379d9d47cc60c4a03aeaf33826d1b745bd55c6ad0a5f189"
+    },
+    {
+      "type": "Theme",
+      "name": "surveillance du climat",
+      "id": "Theme_6b0f2dcbf8079c1da385efa1def50abbe5389c9b44a52aad8835a7a120e6ed04"
+    },
+    {
+      "type": "Theme",
+      "name": "exploration spatiale",
+      "id": "Theme_53d315dde34281236be967d1e10e6e7b450975b7f2db302bf5198bc7329ab412"
+    },
+    {
+      "type": "Theme",
+      "name": "face cachée de la lune",
+      "id": "Theme_e36c2524ea6eadce0f386446040fe062f1fd67bf7d2feb1a837848198f265d33"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "dynamisme",
+      "id": "Theme_d3f4fbd0cc8001cf59323ed28c6974bbfb41d9e63b93bb9e0e6903ce34cf3511"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut du monde arabe",
+      "id": "Organization_96b952d84a2165936bff2e929dba5d9eb4b480988a0b41298ee3cc1dfbd205ae"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut franco-chinois de management de la culture et des arts",
+      "id": "Organization_5e3f0d878812391a497c37f849c6615e327c09676df332eed3f0377f7bcdddd9"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Versailles",
+      "id": "City_005c3dd556787a48d85e917c1629f8b41dea2f726d89283e42c5cd7448b7c82a"
+    },
+    {
+      "type": "City",
+      "name": "Cité Interdite",
+      "id": "City_1338077295bae2feabc73b8121f69329dd313b8015cb63e5a6c0bab9fa7487db"
+    },
+    {
+      "type": "Person",
+      "name": "Chuan LAI (phon.)",
+      "id": "Person_1555ec625c08e750fff5fe899e1ca6e926483f8a6066987362d8796856825153"
+    },
+    {
+      "type": "Person",
+      "name": "Deng XIAOPING",
+      "id": "Person_0b0e4d8b818b5bcf45fb2a74720b9ce4e297365d2d4865d5753eba2fe6df3f64"
+    },
+    {
+      "type": "Person",
+      "name": "Paul VALÉRY",
+      "id": "Person_22e5247efbb476809edc20f2610a5f34251c5ab06544522a299c597887a01d07"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité",
+      "id": "Theme_5f3e34c6020caac848a6e2d71bdfd1fe751959c4e195a8c097e09b990d89fd12"
+    },
+    {
+      "type": "Theme",
+      "name": "formation professionnelle",
+      "id": "Theme_d846003645ad5e5e511208f664265ae5edc2a1f2c5d843f3ff4622d434eb6c71"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération éducative et linguistique",
+      "id": "Theme_f3ced969b1e0e4823465e10a8c70076046b4ab2645dfa6e644463ab8ffd2a28b"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux Olympiques de 2022",
+      "id": "Event_b5253868cc2664465e9c38366e9faeeb857fe6f7d2932bf3bc8f83777c5dd16f"
+    },
+    {
+      "type": "City",
+      "name": "Clairefontaine",
+      "id": "City_64fc27e9389d10f12b0b56dc829d734f4e0b0583e1d4d678249673d86a31e650"
+    },
+    {
+      "type": "City",
+      "name": "Pékin",
+      "id": "City_c33b28c48b13d634999d50013f1cdd989b8055c898dcd822f8e335c15db449dc"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "Partenariat",
+      "id": "Theme_02440e7a1226a40030b255df60faa6f895303652ce187ab029b21f1a1c31c4e5"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariat économique et commercial",
+      "id": "Theme_a7b8a93d165096a51b862420cb20465f81ea984b5baf67646e3d7bea7c9bedc6"
+    },
+    {
+      "type": "Theme",
+      "name": "conflictualité",
+      "id": "Theme_0ccb313b8c65731a956716e3e88a5c13c63f5e08b337455b02bfdde6922c17f8"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "routes de la soie",
+      "id": "Theme_130ca9175f86fd2d9ed1f58542a08ad4f294a0e74add50357427a664ecebddb2"
+    },
+    {
+      "type": "Theme",
+      "name": "normes internationales",
+      "id": "Theme_83eab1397f6e06bb5e8aca5701b2c8823eda8eb703c80bad8509e72764a54c58"
+    },
+    {
+      "type": "Theme",
+      "name": "G20",
+      "id": "Theme_54ecd60ef908d3cd5742fcaa9465cdabad3eb7ede51b5f4128de8db51cd3e891"
+    },
+    {
+      "type": "Theme",
+      "name": "engagements climatiques",
+      "id": "Theme_ce8735f19e3249fe1266d6c31cede0d9216b34166b868b2ac8106b98374c3682"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements stratégiques",
+      "id": "Theme_2130ed05a9865ad5a542eb58a247ef495091ee58eae67a85a2d0fc15851650f8"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructures critiques",
+      "id": "Theme_71fafbfba58b1786af0992c2fc51a32ee6fa7710a83e5577ee6c35a0a2760399"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "discrimination",
+      "id": "Theme_92d7d1d37614eb7e3178c40e62a9c7211cba91c8c31af61eb0c9f5faa02beefb"
+    },
+    {
+      "type": "Country",
+      "name": "nos deux pays",
+      "id": "Country_2bd470f2122568640e3762e9bf14400458b6f8d21f909f537011d97d9af8f053"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de Sécurité des Nations Unies",
+      "id": "Organization_6bf65c40c2dc11306e0f78e403029002e380728d5788808146d88e7f36b63686"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Corée",
+      "id": "Country_8784379f3643bada41cd3ba24c8f27b8c4cf0ce606280f5024e4321bafbe0fdb"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction des gaz à effet de serre",
+      "id": "Theme_f4fb7ab66664a87c5d079ae5150e9d1df12b28a9c864fc7a4b28e69afe4c43e7"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité des standards énergétiques",
+      "id": "Theme_4b648f55609cd4a74cd877d9e8df24574ebad06892bed5798f713e226ee3e2b6"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le changement climatique",
+      "id": "Theme_504686eaf9da17780b058a13a2594c933d7291c47e42289f4aad3ccb5bf3924b"
+    },
+    {
+      "type": "Theme",
+      "name": "accord de Paris",
+      "id": "Theme_152a851eb1dbb7769682151519941e34f537ce302d4e0686a44e31473c8febaf"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Organization",
+      "name": "COP24",
+      "id": "Organization_ff1c0d1b2800526fce6c7357c33053503f2bff3ec92d5e1148cad146bb5585e5"
+    },
+    {
+      "type": "City",
+      "name": "New York",
+      "id": "City_e29f957fb97945a6b5a1886762f22b8c0c8061e5f79a9f14d6144141a5106e51"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique des rivaux stratégiques",
+      "id": "Country_60f6409886e429691ee31be401a19f3c98fdc98cb4a45f5b02fd865e79ded357"
+    },
+    {
+      "type": "Organization",
+      "name": "G5 Sahel",
+      "id": "Organization_731d6944c0a31ed0fe261575f2573caac7a90e8ab6d60ef9a3df3e2391b9c38e"
+    },
+    {
+      "type": "Country",
+      "name": "Sénégal",
+      "id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "type": "Organization",
+      "name": "AFD",
+      "id": "Organization_083867e3b191ef83df992d01216f1dd45eab3c38e55042c0d9fc4313c8b5fd52"
+    },
+    {
+      "type": "Organization",
+      "name": "CDB",
+      "id": "Organization_4832d7eebc4d3defbfe18c1bc66d58d7a6af7b51a2e707399772380b13a53ba3"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Chine",
+      "evidence": "face au risque de destruction du système multilatéral, la Chine et la France - membres permanents du Conseil de Sécurité des Nations Unies - ont la responsabilité de tracer les voies de l'équilibre, de la coopération",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Chine",
+      "evidence": "la France était présente, et cela nécessite notamment un meilleur accès au marché pour nos entreprises en Chine",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "Centre Pompidou",
+      "relation": "LOCATED_IN",
+      "target": "Shanghai",
+      "evidence": "Les projets de Centre Pompidou à Shanghai",
+      "confidence": 1.0,
+      "source_id": "Organization_368c9f0a561f1b9776f167fbb7739e7e80c4ae84c02c5720aa8f38885674fecc",
+      "target_id": "City_1c69547961fb5f027655eaa1583e9c736a388752921f6ea9540cf7bc2079ec4e"
+    },
+    {
+      "source": "Chine",
+      "relation": "VISITED",
+      "target": "Versailles",
+      "evidence": "la Chine à Versailles",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "City_005c3dd556787a48d85e917c1629f8b41dea2f726d89283e42c5cd7448b7c82a"
+    },
+    {
+      "source": "Chine",
+      "relation": "VISITED",
+      "target": "Cité Interdite",
+      "evidence": "la Chine à Versailles et la Cité Interdite",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "City_1338077295bae2feabc73b8121f69329dd313b8015cb63e5a6c0bab9fa7487db"
+    },
+    {
+      "source": "Institut franco-chinois de management de la culture et des arts",
+      "relation": "PROPOSED",
+      "target": "Shanghai",
+      "evidence": "la mise en place à la rentrée prochaine, à Shanghai, d'un institut franco-chinois de management de la culture et des arts",
+      "confidence": 1.0,
+      "source_id": "Organization_5e3f0d878812391a497c37f849c6615e327c09676df332eed3f0377f7bcdddd9",
+      "target_id": "City_1c69547961fb5f027655eaa1583e9c736a388752921f6ea9540cf7bc2079ec4e"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Chine",
+      "evidence": "C'est d'ailleurs sur ce point ce que la France et la Chine font aujourd'hui, en adoptant une liste de projets concrets en pays tiers qui respectent ces critères.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "en France comme en Europe",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "G20",
+      "relation": "ALLIED_WITH",
+      "target": "COP24",
+      "evidence": "Comme nous l'avons fait en marge du G20 pour la COP24",
+      "confidence": 1.0,
+      "source_id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655",
+      "target_id": "Organization_ff1c0d1b2800526fce6c7357c33053503f2bff3ec92d5e1148cad146bb5585e5"
+    },
+    {
+      "source": "Chine",
+      "relation": "SUPPORTS",
+      "target": "G5 Sahel",
+      "evidence": "Je salue la contribution importante apportée par la Chine aux pays de la force conjointe du G5 Sahel",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Organization_731d6944c0a31ed0fe261575f2573caac7a90e8ab6d60ef9a3df3e2391b9c38e"
+    },
+    {
+      "source": "Chine",
+      "relation": "ALLIED_WITH",
+      "target": "Europe",
+      "evidence": "confiant sur le partenariat que la Chine et l'Europe sont en train de consolider",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    }
+  ]
+}

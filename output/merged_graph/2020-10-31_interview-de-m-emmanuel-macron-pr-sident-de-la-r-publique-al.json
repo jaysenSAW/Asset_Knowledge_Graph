@@ -1,0 +1,1185 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Event",
+      "name": "décapitation d'un professeur",
+      "id": "Event_f52f53c9da4b8a8a3d358dcae03e4bd990aa14528d746c0ea4f24ce25d24e0c7"
+    },
+    {
+      "type": "Event",
+      "name": "décapitation de deux personnes",
+      "id": "Event_5493cf91974caa205b395f43effccedc602c3326402198ace8e07ea3ac33bfe3"
+    },
+    {
+      "type": "Event",
+      "name": "attaque aux coups de couteau d'une troisième",
+      "id": "Event_a416c39bf756b53296a21f696ccaa0c840ceb3f64aa5c56e5d82a63f6eb9501c"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "City",
+      "name": "Notre-Dame de Nice",
+      "id": "City_35eb8bdd232e0417e2b3619544b4d73e0fa1cf97b9faf94cc6786d0886fb1ed4"
+    },
+    {
+      "type": "Person",
+      "name": "Le Président de la République",
+      "id": "Person_3a23c0261e50cfcafeab3872d343a5f3fae86dee0bce4035dc7c00a5c001708f"
+    },
+    {
+      "type": "Organization",
+      "name": "Al Jazeera",
+      "id": "Organization_43203387d621f033801a76c54413dd9a6561fe017818217a59d8b2b3cb4952d1"
+    },
+    {
+      "type": "City",
+      "name": "Conflans-Sainte-Honorine",
+      "id": "City_bba6a8c7d204246ad005f744b6f5921d163c6a7c1b4b2622bd8e4f2c1791364d"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de croire ou de ne pas croire",
+      "id": "Theme_199aedf172d88225810bbeb3a8a4842b04153a8756be55ebb77c472adfe08834"
+    },
+    {
+      "type": "Theme",
+      "name": "société",
+      "id": "Theme_23d952489b07041be7b06f706f86ec7cfc55af055e1b2e2f815671e6fa2ef5ed"
+    },
+    {
+      "type": "Theme",
+      "name": "transcendance",
+      "id": "Theme_54f7391623bf420e489298f59bcf8b24d03428d617c6389008f2836d0ff0b3ff"
+    },
+    {
+      "type": "Theme",
+      "name": "droit",
+      "id": "Theme_809b6d16ebe657005418287171a0ff40ba1f2fc184046e82a8dbc6d9366cc1a9"
+    },
+    {
+      "type": "Theme",
+      "name": "Etat",
+      "id": "Theme_c451812b709f5d8690c76df683e36155876c418f88e2cd52acc1ca612abf0b32"
+    },
+    {
+      "type": "Theme",
+      "name": "religion",
+      "id": "Theme_164a57edd3bd6e51e9da15e6b184baa243f42cb6bd764af8a346437a5132deac"
+    },
+    {
+      "type": "Person",
+      "name": "le Pape",
+      "id": "Person_b892ccea5f97390169faa601c95150d74bc555e7adaaee2aabf860099f46d7c4"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "vérité",
+      "id": "Theme_953d05a2f3d8c50ee08e03421281e20b608a47762bf4a8ec7bc5f2621cb382c1"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "extrémistes violents",
+      "id": "Theme_c8621f819285c1bb8ffa2a08ffb6f34e578cc235cf598e7147a1d981d22ae17a"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Theme",
+      "name": "laïcité",
+      "id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de culte",
+      "id": "Theme_d25e7ce6fc0b51c23d45cb519eee66e13ff1010ae79e25a89f1377f798f0624c"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de conscience",
+      "id": "Theme_d629fee88dcca2a4abc3b120e22b75234ca0ea2a050baf8d27e11c46ff72d2a5"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté d'expression",
+      "id": "Theme_acb0e9d3f3d2ce06e5a0aea13fc6160588104e35cb96880d570891860752245a"
+    },
+    {
+      "type": "Country",
+      "name": "Danemark",
+      "id": "Country_e69e28cfa71a672f3c4d4f769e9cbc72220f20bc192eea020c4483eaecfef07b"
+    },
+    {
+      "type": "Theme",
+      "name": "caricatures",
+      "id": "Theme_ff9fe42505656528880abffbe1760830c37caf73ee5209bca9adee64c547b908"
+    },
+    {
+      "type": "Theme",
+      "name": "Charlie Hebdo",
+      "id": "Theme_c1fe80e0d9511ec09e9b710a13a5f452e9dcae76b264fb460202c001c75cf182"
+    },
+    {
+      "type": "Theme",
+      "name": "dieu des chrétiens",
+      "id": "Theme_261e267c31c4070ca8ef4e6c3205c3c49df0dad28deb96ededa67ebbc38f4afb"
+    },
+    {
+      "type": "Theme",
+      "name": "religion juive",
+      "id": "Theme_1f87108f346d3f0c1e0e929787d55cfefd22e5918f62db95d56f1ae7419737aa"
+    },
+    {
+      "type": "Theme",
+      "name": "rabbins",
+      "id": "Theme_c95ebc9320427a2f390e75c5681264665013b6e9376bdd6887759d513970b9ac"
+    },
+    {
+      "type": "Theme",
+      "name": "prophète Muhammad",
+      "id": "Theme_305575343d222f79d756fdd0f6557f9e72e14ede90b106bf89058b617d2bf21b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République française",
+      "id": "Person_d9487f4c6430f9fe432bdc287b96673e513bcaafb70a75702fcd163cb17cf139"
+    },
+    {
+      "type": "Theme",
+      "name": "théologie",
+      "id": "Theme_8d386c5783a5f6f18119f412358772474029de76c6edb81e6634d0de12a21a6d"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de dire, d'écrire, de penser, de dessiner",
+      "id": "Theme_3d94f2886ba91f68384fbe37bdd3670d98320651bf3954a90a4a542370802941"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté du peuple français",
+      "id": "Theme_c10eae4a19542a6ba31b2b3aa64b5e83067c5602f04f9b5a0846e2e8e9228245"
+    },
+    {
+      "type": "Theme",
+      "name": "violence physique",
+      "id": "Theme_8209e999820f19992cb5d08bb283e1e75574ce59eca1282d59e12598698fe356"
+    },
+    {
+      "type": "Person",
+      "name": "M. Samuel PATY",
+      "id": "Person_9a75f30dddaaea0e9bcfd6230ef8e330ff5a1e986c76845d9843abc0a074b4b7"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    },
+    {
+      "type": "Country",
+      "name": "la République",
+      "id": "Country_8ece1ca643efc6be6485040a8d42357a81f22c38694d9ca8a56d37a688baf2b0"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre moral",
+      "id": "Theme_cdd4f18c5d5abfac2462c83e72bd72cbbad21e55d8fe648446ec72e002e93fbf"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre religieux",
+      "id": "Theme_a0e6398028d3bf3bb99aa7b7cfc501b1d866ecca0113ddceb93188a4e5b01568"
+    },
+    {
+      "type": "Theme",
+      "name": "coexister côte à côte",
+      "id": "Theme_8c5a9fd9fb5d09f00fb40e566eda087f0a59503e497f05b8077972cc472af54d"
+    },
+    {
+      "type": "Theme",
+      "name": "valeur",
+      "id": "Theme_5d2c6cf72920e0e1284fb097f9df226aa7b78ef0173abebfc6ba002b392f08fd"
+    },
+    {
+      "type": "Theme",
+      "name": "Lumières",
+      "id": "Theme_6732c62137d1ca5442c751181b48396d98b70fee8cb1aa8e0c63bf00da0f0544"
+    },
+    {
+      "type": "Theme",
+      "name": "respect",
+      "id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "type": "Theme",
+      "name": "calme",
+      "id": "Theme_8c4d278fcafe74d68310330f4f79a9203c7f63ab212e64342855c4b137af8a1a"
+    },
+    {
+      "type": "Theme",
+      "name": "musulman",
+      "id": "Theme_7c3b07f7bb633012654f5937eadc7606cf298086ecfb546ac906c35f60ca4648"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "compréhension mutuelle",
+      "id": "Theme_a2795e532adad9eaeb6184eae78ffb722bd75cb12b8fbd38d732ff39c0261fce"
+    },
+    {
+      "type": "Theme",
+      "name": "caricature",
+      "id": "Theme_3f877671de2a4e8a8d67946ba8baad5b02ac9fb534524e67c5d03bd14d261491"
+    },
+    {
+      "type": "Theme",
+      "name": "stigmatisation",
+      "id": "Theme_a515e2029ff8f199fb79487cfa08a91e4bdbd99faf986c47f99cbc07a8f6c47b"
+    },
+    {
+      "type": "Law",
+      "name": "lois viennent du 19è siècle",
+      "id": "Law_2f87638646cd4000763a20c39974786aba7091da01ed5d48459a35a925ea5459"
+    },
+    {
+      "type": "Theme",
+      "name": "connaître les uns les autres",
+      "id": "Theme_50b7dc46fdefbe82ec2429f13d049337aabb8353b613c296d9087f2a292b78b8"
+    },
+    {
+      "type": "Theme",
+      "name": "comprendre d'où nos lois, d'où nos habitudes viennent",
+      "id": "Theme_80e8a849c851c2b211013b97de4802748884dca33097cc0cfc9c0c85cef8949b"
+    },
+    {
+      "type": "Theme",
+      "name": "islam",
+      "id": "Theme_879a3cfc5efad5941cda162521e02918b759b90b3a493f5fc7fe8acef42c3cc0"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémitisme",
+      "id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "type": "Theme",
+      "name": "racisme",
+      "id": "Theme_8ca275a05cedf5deee96a6c7b9825aa608c84ae00aa7af40d901092936df4d19"
+    },
+    {
+      "type": "Theme",
+      "name": "révisionnisme historique",
+      "id": "Theme_42d474b1db881a4768521b61dcc3b185c2626e5aeec30ceacec90742963f8a93"
+    },
+    {
+      "type": "Theme",
+      "name": "Shoah",
+      "id": "Theme_02306b8c83b38064c0db2c7e85a92e7907e1d8cad078ff92cd101059830bb40a"
+    },
+    {
+      "type": "Person",
+      "name": "Jacques CHIRAC",
+      "id": "Person_c5baa8a5552da44162bf6dc8ec3626534a46a25097e452f9b23cbe169ac46f3e"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Etat français",
+      "id": "Organization_defd41e6440921a04a2b21d7edc4b23b3bc235b850b031a7438c42803272f976"
+    },
+    {
+      "type": "Theme",
+      "name": "violence",
+      "id": "Theme_2e88abc315f2f0443a0e5b9fd8eae9a399f515b08101974ade6d7c352b827448"
+    },
+    {
+      "type": "Theme",
+      "name": "religions",
+      "id": "Theme_6e2cbb67692d3852185df1b00c23666ffa73058e6369c2a46b8718987e59e099"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "presse libre",
+      "id": "Theme_77da17209af0c111c2e88b19f3c7a3d22b00b86fe9c5c192a360dfa1301d2701"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "boycott",
+      "id": "Theme_591386a720013620a11143a96a0962f62416a9c48807c2c9409ecb9fc72fbc88"
+    },
+    {
+      "type": "Theme",
+      "name": "parole d'un journaliste",
+      "id": "Theme_48ab8ec79245b3e916367d9f4ddee46acb9aed1021aec922a2b956954dd253a5"
+    },
+    {
+      "type": "Theme",
+      "name": "pays de liberté et de Lumières",
+      "id": "Theme_4ce0a58dd42bd170da99e46148bf8caa293ff16a74e3d933184f25c1a00d687b"
+    },
+    {
+      "type": "Theme",
+      "name": "violences",
+      "id": "Theme_e1be313a671c9fc82f0ddae646c23fae1b533f1f5e446ce338dc737f703e7023"
+    },
+    {
+      "type": "Theme",
+      "name": "dirigeants politiques et religieux",
+      "id": "Theme_651e6030390ddeee535654f921bc44f262f74c48798709f75d13a787b07daff6"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorism",
+      "id": "Theme_a348838fece2a9c780044dab4f291a936095c2be9a10ee5e2924e483e90652b2"
+    },
+    {
+      "type": "Theme",
+      "name": "musulmans",
+      "id": "Theme_177f18f8b3c79b1133ab3b3e025da3f051a9ae3d657b3ce9769935ceaa00b055"
+    },
+    {
+      "type": "Theme",
+      "name": "séparatismes",
+      "id": "Theme_4726866f81803f68b0e8b5dc9eefe061a1cb9ceb7d3902c6c3289e234f928f20"
+    },
+    {
+      "type": "Theme",
+      "name": "lois de la République française",
+      "id": "Theme_7c225bfcb6ade8e3118a71de684da56f3e0c2d070221346ed01238e1361460b9"
+    },
+    {
+      "type": "Theme",
+      "name": "séparation",
+      "id": "Theme_1a333b382d711436fe1a3551219154bc29226d28fd2e56d9374897cf99c80454"
+    },
+    {
+      "type": "Theme",
+      "name": "extrémisme violent",
+      "id": "Theme_a5622b4d935e6fbcd9ac6ad7e8da14febc4b23bb89ad1d5d79802ea7b201a5c6"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Sorbonne",
+      "id": "City_be809d89796ecb5c6df9354a01dfd395a79d98455adce499fa3da8fcbb92297c"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil français du culte musulman",
+      "id": "Organization_ee5b09a39bb47f3aa259d3611199ede75f8e02673a7c2c4cdaebd23c12c1314f"
+    },
+    {
+      "type": "Organization",
+      "name": "Grande Mosquée de Paris",
+      "id": "Organization_8a1329b9434ae739fc060d4a2aaf3a2cb8a99607e5f397bea0cf9b9106cfa98c"
+    },
+    {
+      "type": "Person",
+      "name": "L'islam",
+      "id": "Person_20739f14a132fa74365985d708234acf812557cdce827219ac6fe4caa404cf85"
+    },
+    {
+      "type": "Event",
+      "name": "discours des Mureaux",
+      "id": "Event_717086c3abf2ad7c12711def453ceccb1d4205caf89ec037facd91e75edeb8fe"
+    },
+    {
+      "type": "Theme",
+      "name": "sortie du reste du monde de groupes humains",
+      "id": "Theme_8f6a4446c6189e39ea55a20bcf075d0c26fe75ab570424dd8793d7cebe5bf458"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Country",
+      "name": "Afghanistan",
+      "id": "Country_5ea7a9152b57f52d563390097c0d7ee8c7520b1a7fb13ff16e8c8d519cc49736"
+    },
+    {
+      "type": "City",
+      "name": "Bardo",
+      "id": "City_4aa9ca9085ba0782ad5ff74e28bcb47504f84e53e782dd94f82d7f2148022125"
+    },
+    {
+      "type": "Theme",
+      "name": "idéologie de mort",
+      "id": "Theme_7cae2161ff2355d67e7abb92096dacef99293076627e92a811c74f0e3e9386d8"
+    },
+    {
+      "type": "Organization",
+      "name": "Al-Qaïda",
+      "id": "Organization_bf25542b87b4b23bcee39255ca5ca0d6897f09a0f6109db4092621436e90d39d"
+    },
+    {
+      "type": "Organization",
+      "name": "Daesh",
+      "id": "Organization_6f4f4741851bf496fdc34449a8c801ff142b91daa3d53a81e778a2e943039001"
+    },
+    {
+      "type": "Organization",
+      "name": "État islamique au Grand Sahara",
+      "id": "Organization_6c328141adf69b068ba09405025123763fe2caa36656cf2dca171784f99b9690"
+    },
+    {
+      "type": "Theme",
+      "name": "idéologie",
+      "id": "Theme_6460e7c19c6ad2b98e2fb9bc7db7106749144dbebd802d4cc2d6a6c5f085c1c1"
+    },
+    {
+      "type": "Theme",
+      "name": "crime",
+      "id": "Theme_db330a2a11d40b4e6bec137e92e76aab86f023cd4a611c4517ae51010bb9d5ac"
+    },
+    {
+      "type": "Theme",
+      "name": "vivre ensemble",
+      "id": "Theme_c8f39597cb6f6a5f51beb0d3d5df7b457b87ff1c25c1365ff27848cedfed37c2"
+    },
+    {
+      "type": "Person",
+      "name": "Les musulmans en France",
+      "id": "Person_24997f69a3e81575a96b174b178a0c137a21b2398225c2ac328329334eea885a"
+    },
+    {
+      "type": "Person",
+      "name": "Les musulmans français",
+      "id": "Person_61bc9363bd96de8408da984d151099a1708375e9f80e7ca1f381e5de91a4c712"
+    },
+    {
+      "type": "Theme",
+      "name": "paix entre les religions",
+      "id": "Theme_cb270e69b93617355ad42ae3637d1d0d2c8f84da8a39fa1a5bfb51fcfc50ee26"
+    },
+    {
+      "type": "Theme",
+      "name": "l'islam",
+      "id": "Theme_58d62a08f3006617d21252980fb905309044d7a49fe28e5fe7da21c45e0eae53"
+    },
+    {
+      "type": "Theme",
+      "name": "la religion",
+      "id": "Theme_cac07ed073eef5e3052eea99d348ded9219291dd76738767b0bb0c2c03f1a4a2"
+    },
+    {
+      "type": "Theme",
+      "name": "la France",
+      "id": "Theme_d74d12f8e458e25d1453ffec7a60f792986077acd08fa5d37ec5d758b605ddf6"
+    },
+    {
+      "type": "Theme",
+      "name": "les femmes",
+      "id": "Theme_939aa7278ec40a6ab4f47774b2002b4e9e9e6c20d3aa39a246017a7a2edec959"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement",
+      "id": "Theme_efc3dc97047baa5c3d3ee692ed991601fa0b8b2e5b98fe282efd49cfc58792e6"
+    },
+    {
+      "type": "Theme",
+      "name": "droits",
+      "id": "Theme_7eb56e86691d574c7d0fa41bffcd50417ad7abbc021dc12800cf78099a3cc7c5"
+    },
+    {
+      "type": "Theme",
+      "name": "colonialisme",
+      "id": "Theme_3830ee81fee28a1f3887c4e24d4619d1fa3f1179649acedddacb3c95001820fe"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "réconciliation",
+      "id": "Theme_8d5bbf9fa4c18c27128cf4e69eeb853866d5a0e8340a4579e43a6868a65b691b"
+    },
+    {
+      "type": "Theme",
+      "name": "discours",
+      "id": "Theme_42d86966ace3014198cfd46fd8c2da2d992819e32c2f4179ebb3d09957486747"
+    },
+    {
+      "type": "Theme",
+      "name": "extrémistes",
+      "id": "Theme_6fb2fbc29a2819190786cefb5004350b3ff384c26bbb4853ca6c4bbf36883ce8"
+    },
+    {
+      "type": "Theme",
+      "name": "terroristes",
+      "id": "Theme_d59b3e6917526ee527ce5381bb55f583e532c879252957540d72a0f1fce69b53"
+    },
+    {
+      "type": "Theme",
+      "name": "ressentiment",
+      "id": "Theme_ce1c07cac0c46e166fe75b71adeedf4650bcb45fc85070ce3393b0bdb6f3d48c"
+    },
+    {
+      "type": "Theme",
+      "name": "Occident",
+      "id": "Theme_dea91ba94eb74b28e338de093a6ce7e83f89196b4fc61aadd80dfd3264069ba6"
+    },
+    {
+      "type": "Theme",
+      "name": "colonisation",
+      "id": "Theme_b78d0740bedb498a350916bf8866af693325dff7395243e61bd9f4bbd4167acc"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyenneté",
+      "id": "Theme_299e26433fd038aaeb6d9c98e39f7323f3f780a7ec7bf9addad3444e3982be18"
+    },
+    {
+      "type": "Country",
+      "name": "Grande-Bretagne",
+      "id": "Country_01f8c19fe3ec039f49ac5d3312a1bdf3402aafbc92d573434c30d8340e48ca94"
+    },
+    {
+      "type": "Law",
+      "name": "loi de liberté, la laïcité",
+      "id": "Law_ce987c28c013ad9bcab5dfc58f2c498e266afc102aee4db170e898a6c207fa38"
+    },
+    {
+      "type": "Theme",
+      "name": "séparation de l'Eglise et de l'Etat",
+      "id": "Theme_bdbcc941184e0ffba232636cf67bb93cd6fbfb2d27bb8ed22fa9cbaf0b11aa0c"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité",
+      "id": "Theme_ce79b22200861c8e67f9bcee44711ef2dacf6c8e12a39328ae196caf09932c92"
+    },
+    {
+      "type": "Theme",
+      "name": "foulard",
+      "id": "Theme_f63feede928847dc9bc750aadf2c1960776a984ff1f82c739766d7b1f2778f5e"
+    },
+    {
+      "type": "Theme",
+      "name": "croix",
+      "id": "Theme_21c62b33d4e994d87a6ce88a23be168b65f8c27916b38abe7be7e43dcf63b9f2"
+    },
+    {
+      "type": "Theme",
+      "name": "kippa",
+      "id": "Theme_8dc900cb5d550fe802bdcf7f1df11c32c03bcbc9313e2cddd7f8df200f331645"
+    },
+    {
+      "type": "Theme",
+      "name": "civilisation musulmane",
+      "id": "Theme_664fdb291348a224822d91cfbe7f1ccef9c2ff58290962b9b7e19e0df5a42297"
+    },
+    {
+      "type": "Theme",
+      "name": "islam des Lumières",
+      "id": "Theme_2a3b813913891a86196fdf7a9a52b0a924728676ca0a47ba7fa6f593ea7e2327"
+    },
+    {
+      "type": "Theme",
+      "name": "multiculturalisme",
+      "id": "Theme_e8c4db5796117761bc44af7abb45175065407f9e3dfe1003e60450c91caad92b"
+    },
+    {
+      "type": "Theme",
+      "name": "religieux",
+      "id": "Theme_243fb3e82fdd3ff5f2ae5e7770e737e73ee7faaa2bce789a06b8d232e05de390"
+    },
+    {
+      "type": "Theme",
+      "name": "politique",
+      "id": "Theme_1cb4f0bce716a6b484eef837bedaa9ad546521428b441b7a4baa167af1dc28bc"
+    },
+    {
+      "type": "Theme",
+      "name": "harmonie",
+      "id": "Theme_daff773f7b2652348c039fbc2b696cf5263b1927aadb7ebc485ea4025401b63f"
+    },
+    {
+      "type": "Theme",
+      "name": "representation du monde",
+      "id": "Theme_78363675d1db1745ad1f0d48c77c56c0cf252882185dba1c69f9c1c7dc4eae5e"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Theme",
+      "name": "comprendre",
+      "id": "Theme_4f2d462fded97ea3c7a2fe94391b4ec3adac4eb3e58667662b0b7ef40b820aa5"
+    },
+    {
+      "type": "Theme",
+      "name": "accepter l'altérité",
+      "id": "Theme_6003e024544e276c090d0868f0a0971424533d36ca6caafb5eaf2e1eaeedb499"
+    },
+    {
+      "type": "Theme",
+      "name": "bâtir une représentation commune",
+      "id": "Theme_588d908d65ebcb7e22175035a9be8a2eaecf7d9d0069a0ea6bbf5ae8cd7b3331"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue permanent",
+      "id": "Theme_1a954d04514e04f5597d9b43a662ffc84eba73b6c98737d1c4d05dc54f879732"
+    },
+    {
+      "type": "Theme",
+      "name": "lois",
+      "id": "Theme_766b24b40ca0257b39bc7b38835ebf4e150e279ff118a5f34e52aceb71952783"
+    },
+    {
+      "type": "Theme",
+      "name": "droits civils et politiques",
+      "id": "Theme_b49657393be16ae1ae01c01e0bcdf828fb1b36a33f13eff667894fbcc6b76276"
+    },
+    {
+      "type": "Theme",
+      "name": "obligations envers la société",
+      "id": "Theme_f333d3e9bed215bf62332a4eec6df3c72cc3245e81fefe8ec06cc6bdc10570a6"
+    },
+    {
+      "type": "Theme",
+      "name": "loi",
+      "id": "Theme_aaa751cd5b857da1d5f067b90439cca5af7e59784eb0537f6c5b647db27ec7a1"
+    },
+    {
+      "type": "Theme",
+      "name": "monde",
+      "id": "Theme_36839915f4f916c517dee200dc570577a7da1e70f69dc68e095ea54120f4c55e"
+    },
+    {
+      "type": "Theme",
+      "name": "brutalité",
+      "id": "Theme_480125a918ec7bc2f286a229cfb8a0b04b4d5bf6733d776c5d95d78ffe49edbe"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle pour l'avenir",
+      "id": "Theme_6fb333bf0e7f958216b6e17391ac8042d7865fdd498c96fc0eae68c3c4309f78"
+    },
+    {
+      "type": "Country",
+      "name": "Turquie",
+      "id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Person",
+      "name": "ERDOGAN",
+      "id": "Person_c65ec610e31eea4a697ac0f459d6485db532134c1d61c6fbd7f82ed7fc84e894"
+    },
+    {
+      "type": "Theme",
+      "name": "amitié",
+      "id": "Theme_da59468cff46157116230d1b59468dc6ee8497b19a27cf4c7344818aedeeeb88"
+    },
+    {
+      "type": "Theme",
+      "name": "velléités impériales",
+      "id": "Theme_2d04fa0b165f2aeeb0f27a19f407521f0db5bc65f7339f0f2c5c876e3808108e"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition internationale",
+      "id": "Organization_7b89a1467cc89820b1fb4481a79347c722225e2808346a9f3c2a9057936e89e4"
+    },
+    {
+      "type": "Organization",
+      "name": "forces démocratiques syriennes",
+      "id": "Organization_1eb2c30af7069b6b154d52d66da3355f58a2cd30b6cd55edb7ac7d56aa2b70e6"
+    },
+    {
+      "type": "Organization",
+      "name": "combattants kurdes",
+      "id": "Organization_2bc53c9df81096d3bc1cdcd50f09d95a464b90b431b6c7e467e8b499df863ea3"
+    },
+    {
+      "type": "Country",
+      "name": "Chypre",
+      "id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Person",
+      "name": "Charles MICHEL",
+      "id": "Person_05cf848e8ad58cffcfcde7ca7c613e57a1c5ba41f9eb925d6b63fd4b86807b19"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-François CHAMPOLLION",
+      "id": "Person_04646b52cafb46f8ed4331fe551873791ba6b5147255de999f26d20451b63751"
+    },
+    {
+      "type": "Theme",
+      "name": "pierre de Rosette",
+      "id": "Theme_5db5a53bad5feb8ba0b62a2dad2fca122cb87974db79ffff0284f41ab7f999db"
+    },
+    {
+      "type": "Theme",
+      "name": "relations culturelles",
+      "id": "Theme_64ec7e28c5c1e7bb449579ad82804afab0276b8e1002dbeac4953bc78c3500f1"
+    },
+    {
+      "type": "Theme",
+      "name": "connaissance mutuelle",
+      "id": "Theme_5e1c05178fc7c040c76bc0138a228d16b7683d62e48c0e55dbe622fbf660f685"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement supérieur",
+      "id": "Theme_7358df2b51617f762113656dad284efe5d3bfcb777ab4f84d15615a00bd96f14"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche académique et culturelle",
+      "id": "Theme_ba8bf30be1d08a80649fe541cf8788046ee5cfefad0b00177cfff0c325187f82"
+    },
+    {
+      "type": "Theme",
+      "name": "chaires à l'Université française",
+      "id": "Theme_eb755aa99f3a631f857a542800f744b3de9cb0c9e8e68e7c5070c7a85a1ea663"
+    },
+    {
+      "type": "Theme",
+      "name": "Maghreb",
+      "id": "Theme_2ed62611cbe55afc26628503f8788290a7ce2334f7b1a52a4180486048343424"
+    },
+    {
+      "type": "Theme",
+      "name": "Proche et Moyen-Orient",
+      "id": "Theme_40a94f9ca42da420ce9dcedc7093588cbe8eef27c2c27be06f6f9d9f4393a427"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariats",
+      "id": "Theme_84487f85920a01eef370c99e7050da97326069387eeb01a99526c8b0243acd8d"
+    },
+    {
+      "type": "Theme",
+      "name": "connaissance",
+      "id": "Theme_b95f8e0ec3586745d1662f7770a2df991c48ffdfaeec3bfb3d9087f8fe11f379"
+    },
+    {
+      "type": "Theme",
+      "name": "raison",
+      "id": "Theme_9e9d8f485579e57f1eef713302cd106d43b9f1ff37f7d0bbbf7fe3484509fd78"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération scientifique",
+      "id": "Theme_05106a5cd3ae652a5b2043ee12a5ba6068956aad20a9c9b27c2666f633c4b7e2"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "peur",
+      "id": "Theme_738708750471a3b2e2ee4af7e7441623b0486e69c4ecf7d601645e10149e55db"
+    },
+    {
+      "type": "Theme",
+      "name": "incompréhension",
+      "id": "Theme_8c73c01e6889895d3e5d814c1e50578294c0efb6d1d770d0689ae346605769d1"
+    },
+    {
+      "type": "Theme",
+      "name": "haine",
+      "id": "Theme_1109211ae99f54d538f05e8b1e3badcdc61927baacdf16dc2f914c62e0db0430"
+    },
+    {
+      "type": "Theme",
+      "name": "ignorance",
+      "id": "Theme_9df0908859edca245f2759dc5b4f44429f6d350c89f4c2d0242f64336fc009e4"
+    },
+    {
+      "type": "Theme",
+      "name": "tyrans",
+      "id": "Theme_97874359feb9ffecf82236909380660685cc551dda39198eb0b77082ba8f22e7"
+    },
+    {
+      "type": "Theme",
+      "name": "compréhension",
+      "id": "Theme_95220a7cd32cac9f322e786c3f21a17d2a53ad11fa39b724edc5119e9aa919f8"
+    },
+    {
+      "type": "Theme",
+      "name": "visage de l'autre",
+      "id": "Theme_cbfc3db7aff2befee017682d60f2c2088a05b2476d6c0b028540b9ebc6679a8c"
+    },
+    {
+      "type": "Theme",
+      "name": "civilisation européenne",
+      "id": "Theme_1bd555b515b54b8ca951befc0295a4ead9f5a22ef539b5c733ebefb011f621e2"
+    },
+    {
+      "type": "Theme",
+      "name": "philosophie française",
+      "id": "Theme_312f4dc1bf8de36490f5270cc008468a7f1a4becf21605d4b1ab54605dbe25e4"
+    },
+    {
+      "type": "Theme",
+      "name": "culture française",
+      "id": "Theme_45bc5c9c1bf0a9e3092bdb49c612c2ca700113284f50aa2b6ee45ebf2c1030fd"
+    },
+    {
+      "type": "Theme",
+      "name": "civilisations",
+      "id": "Theme_506b6e2197d002b79edb5176896c65aa33f39d343a9c4f830a2690aae8060c97"
+    },
+    {
+      "type": "Theme",
+      "name": "extrémistes dans la durée",
+      "id": "Theme_d60ac8172b2ca0c6fb2f6f18e457983f5ee01e673f5a3f8f600c9b2d082173d6"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir",
+      "id": "Theme_45e075e7203f6c269008206942696177cc8c6767a9f6d434d554ed62c55c6774"
+    },
+    {
+      "type": "Theme",
+      "name": "respect mutuel",
+      "id": "Theme_2c6dfcf94fcd2f072eba296aa9e40a533361420dfd2cb1b87a50c434435b3be9"
+    },
+    {
+      "type": "Theme",
+      "name": "combats ardus",
+      "id": "Theme_1eb65189c35e3ed280d16a1fc7828e57c2b52d8d89e0af28658f0c1f806e53f2"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "laïcité",
+      "evidence": "C'est ça, ce qu'on appelle aussi souvent la laïcité, parce que la France a vécu une histoire qui est plutôt d'abord avec la religion catholique. Nous avons bâti nos lois, qui sont le fruit de l'esprit des Lumières, nos lois sont l'émanation du peuple français, de ce peuple souverain.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Danemark",
+      "evidence": "Je rappelle qu'il y a maintenant un peu plus de 15 ans, il a donné lieu à des polémiques terribles avec le Danemark aussi et le soutien de la France à ce moment-là, et aujourd'hui donc avec la France.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_e69e28cfa71a672f3c4d4f769e9cbc72220f20bc192eea020c4483eaecfef07b"
+    },
+    {
+      "source": "le Président de la République",
+      "relation": "SPOKE_ABOUT",
+      "target": "France",
+      "evidence": "la France, quiconque qui est journaliste peut s'exprimer librement sur le Président de la République",
+      "confidence": 1.0,
+      "source_id": "Person_3a23c0261e50cfcafeab3872d343a5f3fae86dee0bce4035dc7c00a5c001708f",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Le Président de la République",
+      "relation": "MENTIONS",
+      "target": "Le Président de la République",
+      "evidence": "Le Président de la République",
+      "confidence": 1.0,
+      "source_id": "Person_3a23c0261e50cfcafeab3872d343a5f3fae86dee0bce4035dc7c00a5c001708f",
+      "target_id": "Person_3a23c0261e50cfcafeab3872d343a5f3fae86dee0bce4035dc7c00a5c001708f"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "antisémitisme",
+      "evidence": "La France combat l'antisémitisme et le racisme sous toutes ses formes et l'antisémitisme en tant qu'elle est l'attaque, la remise en question, la haine contre un peuple, mais contre tous les peuples.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "racisme",
+      "evidence": "La France combat l'antisémitisme et le racisme sous toutes ses formes et l'antisémitisme en tant qu'elle est l'attaque, la remise en question, la haine contre un peuple, mais contre tous les peuples.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_8ca275a05cedf5deee96a6c7b9825aa608c84ae00aa7af40d901092936df4d19"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "révisionnisme historique",
+      "evidence": "Il y a en France une loi qui pénalise en effet le révisionnisme historique parce que beaucoup de gens ont construit l'antisémitisme sur la négation de ce qu'était la Shoah.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_42d474b1db881a4768521b61dcc3b185c2626e5aeec30ceacec90742963f8a93"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Shoah",
+      "evidence": "Il y a en France une loi qui pénalise en effet le révisionnisme historique parce que beaucoup de gens ont construit l'antisémitisme sur la négation de ce qu'était la Shoah.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_02306b8c83b38064c0db2c7e85a92e7907e1d8cad078ff92cd101059830bb40a"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "les critiques que la France a subies ces dernières semaines",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "lois de la République française",
+      "evidence": "Et on va surtout s'assurer, ce qui pour moi est essentiel en France, que toute personne quel que soit son culte — ce n'est pas mon sujet — quelle que soit sa religion, mais respecte pleinement les lois de la République française.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_7c225bfcb6ade8e3118a71de684da56f3e0c2d070221346ed01238e1361460b9"
+    },
+    {
+      "source": "Les musulmans en France",
+      "relation": "MENTIONS",
+      "target": "Les musulmans français",
+      "evidence": "Les musulmans en France ont besoin, les musulmans français.",
+      "confidence": 1.0,
+      "source_id": "Person_24997f69a3e81575a96b174b178a0c137a21b2398225c2ac328329334eea885a",
+      "target_id": "Person_61bc9363bd96de8408da984d151099a1708375e9f80e7ca1f381e5de91a4c712"
+    },
+    {
+      "source": "laïcité",
+      "relation": "MENTIONS",
+      "target": "laïcité",
+      "evidence": "Je vais vous dire d'abord pourquoi il y en a une, ce que c'est que la laïcité et pourquoi il y a des différences avec d'autres sociétés",
+      "confidence": 1.0,
+      "source_id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb",
+      "target_id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "source": "Turquie",
+      "relation": "SPOKE_ABOUT",
+      "target": "velléités impériales",
+      "evidence": "Je note que la Turquie a des velléités impériales dans la région et je pense que ces velléités impériales ne sont pas une bonne chose pour la stabilité de la région, voilà",
+      "confidence": 1.0,
+      "source_id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f",
+      "target_id": "Theme_2d04fa0b165f2aeeb0f27a19f407521f0db5bc65f7339f0f2c5c876e3808108e"
+    },
+    {
+      "source": "États-Unis d'Amérique",
+      "relation": "LOCATED_IN",
+      "target": "coalition internationale",
+      "evidence": "Les États-Unis d'Amérique étaient présents sur le sol, nous l'étions dans le cadre, nous étions présents dans la région par voie aérienne dans le cadre de la coalition internationale.",
+      "confidence": 1.0,
+      "source_id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc",
+      "target_id": "Organization_7b89a1467cc89820b1fb4481a79347c722225e2808346a9f3c2a9057936e89e4"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Charles MICHEL",
+      "evidence": "le président Charles MICHEL a très clairement soutenu la France dans les attaques auxquelles elle fait face aujourd'hui et il a rappelé d'ailleurs la Turquie à ses devoirs.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Person_05cf848e8ad58cffcfcde7ca7c613e57a1c5ba41f9eb925d6b63fd4b86807b19"
+    },
+    {
+      "source": "connaissance mutuelle",
+      "relation": "MENTIONS",
+      "target": "connaissance mutuelle",
+      "evidence": "En renforçant la connaissance mutuelle.",
+      "confidence": 1.0,
+      "source_id": "Theme_5e1c05178fc7c040c76bc0138a228d16b7683d62e48c0e55dbe622fbf660f685",
+      "target_id": "Theme_5e1c05178fc7c040c76bc0138a228d16b7683d62e48c0e55dbe622fbf660f685"
+    },
+    {
+      "source": "enseignement supérieur",
+      "relation": "MENTIONS",
+      "target": "enseignement supérieur",
+      "evidence": "investir dans notre enseignement supérieur, notre recherche académique et culturelle",
+      "confidence": 1.0,
+      "source_id": "Theme_7358df2b51617f762113656dad284efe5d3bfcb777ab4f84d15615a00bd96f14",
+      "target_id": "Theme_7358df2b51617f762113656dad284efe5d3bfcb777ab4f84d15615a00bd96f14"
+    },
+    {
+      "source": "chaires à l'Université française",
+      "relation": "MENTIONS",
+      "target": "chaires à l'Université française",
+      "evidence": "recréer des chaires à l'Université française",
+      "confidence": 1.0,
+      "source_id": "Theme_eb755aa99f3a631f857a542800f744b3de9cb0c9e8e68e7c5070c7a85a1ea663",
+      "target_id": "Theme_eb755aa99f3a631f857a542800f744b3de9cb0c9e8e68e7c5070c7a85a1ea663"
+    },
+    {
+      "source": "Maghreb",
+      "relation": "MENTIONS",
+      "target": "Maghreb",
+      "evidence": "sur le Maghreb",
+      "confidence": 1.0,
+      "source_id": "Theme_2ed62611cbe55afc26628503f8788290a7ce2334f7b1a52a4180486048343424",
+      "target_id": "Theme_2ed62611cbe55afc26628503f8788290a7ce2334f7b1a52a4180486048343424"
+    },
+    {
+      "source": "civilisation musulmane",
+      "relation": "MENTIONS",
+      "target": "civilisation musulmane",
+      "evidence": "sur la civilisation musulmane",
+      "confidence": 1.0,
+      "source_id": "Theme_664fdb291348a224822d91cfbe7f1ccef9c2ff58290962b9b7e19e0df5a42297",
+      "target_id": "Theme_664fdb291348a224822d91cfbe7f1ccef9c2ff58290962b9b7e19e0df5a42297"
+    },
+    {
+      "source": "partenariats",
+      "relation": "MENTIONS",
+      "target": "partenariats",
+      "evidence": "multiplier les partenariats",
+      "confidence": 1.0,
+      "source_id": "Theme_84487f85920a01eef370c99e7050da97326069387eeb01a99526c8b0243acd8d",
+      "target_id": "Theme_84487f85920a01eef370c99e7050da97326069387eeb01a99526c8b0243acd8d"
+    },
+    {
+      "source": "peur",
+      "relation": "MENTIONS",
+      "target": "peur",
+      "evidence": "Ce qui nourrit la peur, c'est l'incompréhension. Ce qui nourrit la haine, c'est l'ignorance. Et les tyrans de ce monde entretiennent cela",
+      "confidence": 1.0,
+      "source_id": "Theme_738708750471a3b2e2ee4af7e7441623b0486e69c4ecf7d601645e10149e55db",
+      "target_id": "Theme_738708750471a3b2e2ee4af7e7441623b0486e69c4ecf7d601645e10149e55db"
+    },
+    {
+      "source": "incompréhension",
+      "relation": "MENTIONS",
+      "target": "incompréhension",
+      "evidence": "Ce qui nourrit la peur, c'est l'incompréhension. Ce qui nourrit la haine, c'est l'ignorance. Et les tyrans de ce monde entretiennent cela",
+      "confidence": 1.0,
+      "source_id": "Theme_8c73c01e6889895d3e5d814c1e50578294c0efb6d1d770d0689ae346605769d1",
+      "target_id": "Theme_8c73c01e6889895d3e5d814c1e50578294c0efb6d1d770d0689ae346605769d1"
+    },
+    {
+      "source": "haine",
+      "relation": "MENTIONS",
+      "target": "haine",
+      "evidence": "Ce qui nourrit la peur, c'est l'incompréhension. Ce qui nourrit la haine, c'est l'ignorance. Et les tyrans de ce monde entretiennent cela",
+      "confidence": 1.0,
+      "source_id": "Theme_1109211ae99f54d538f05e8b1e3badcdc61927baacdf16dc2f914c62e0db0430",
+      "target_id": "Theme_1109211ae99f54d538f05e8b1e3badcdc61927baacdf16dc2f914c62e0db0430"
+    },
+    {
+      "source": "ignorance",
+      "relation": "MENTIONS",
+      "target": "ignorance",
+      "evidence": "Ce qui nourrit la peur, c'est l'incompréhension. Ce qui nourrit la haine, c'est l'ignorance. Et les tyrans de ce monde entretiennent cela",
+      "confidence": 1.0,
+      "source_id": "Theme_9df0908859edca245f2759dc5b4f44429f6d350c89f4c2d0242f64336fc009e4",
+      "target_id": "Theme_9df0908859edca245f2759dc5b4f44429f6d350c89f4c2d0242f64336fc009e4"
+    },
+    {
+      "source": "tyrans",
+      "relation": "MENTIONS",
+      "target": "tyrans",
+      "evidence": "Et les tyrans de ce monde entretiennent cela",
+      "confidence": 1.0,
+      "source_id": "Theme_97874359feb9ffecf82236909380660685cc551dda39198eb0b77082ba8f22e7",
+      "target_id": "Theme_97874359feb9ffecf82236909380660685cc551dda39198eb0b77082ba8f22e7"
+    }
+  ]
+}

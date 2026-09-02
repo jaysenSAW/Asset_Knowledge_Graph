@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Sa Majesté le roi de Jordanie",
+      "id": "Person_cc591ed766d92df95db5fcdf564e1eb78f6edfde0037a41f1a507b0cb93b3215"
+    },
+    {
+      "type": "Country",
+      "name": "Jordanie",
+      "id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Sa Majesté le Roi",
+      "id": "Person_87db3e81d8b57351337057cd7759f53633cdeed11e28fe18a7793297435bb597"
+    },
+    {
+      "type": "Country",
+      "name": "Moyen-Orient",
+      "id": "Country_2de49a8ab091aa1bdb7077eae809b237c5996590ecd7c342f4752b3b30411fb1"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition internationale contre Daech",
+      "id": "Organization_75fa3480f95148eec64eead2ea5634e5488c89eafbb6f63294c715845b7524ed"
+    },
+    {
+      "type": "Organization",
+      "name": "base H5 de la France",
+      "id": "Organization_82c720e0c73ffe41b0f6f0c8d6737e54ebff03cc33f3ccee84637212c99b8e9b"
+    },
+    {
+      "type": "Organization",
+      "name": "opération Chamal",
+      "id": "Organization_d5b874d22cd219b274b652d5e2d1c30a975fa8b233b29f7bc8844b17743cc76e"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Theme",
+      "name": "crise en Syrie",
+      "id": "Theme_8064b1ab8ee3bd32b8633f6c74c3cb9c6fc0355fba3984e26403950834cb7671"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilisation militaire",
+      "id": "Theme_54f769a93db9fa63dabb3804b4fbc9e61985abd530b32e2e0d4f452f7bf91b5d"
+    },
+    {
+      "type": "Theme",
+      "name": "solution diplomatique et politique inclusive",
+      "id": "Theme_48c64ba22f32a90ddb7b40048d9268db97b74c7c0da53584b570c6cc952d10f6"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Turquie",
+      "id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Person",
+      "name": "Sa Majesté",
+      "id": "Person_5b6c7550df7a10a221424bca2a1f0238b5e889e724545a2bed7410385683373e"
+    },
+    {
+      "type": "City",
+      "name": "Jérusalem",
+      "id": "City_dfd40d6188dd9c7a0e31e67df7305e4c1dacdce3131ca878deef88ad6b482beb"
+    },
+    {
+      "type": "Person",
+      "name": "Votre Majesté",
+      "id": "Person_10b22c1e0e9370208c28fd1134da0dd5862c710b36f9190bee209e513ee2740c"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Journalistes",
+      "id": "Person_12fd42724078c1374b021fea2eafce935351fb77124747da30a19c299003d1a1"
+    },
+    {
+      "type": "City",
+      "name": "Mossoul",
+      "id": "City_616bcd94d786f6653c04193eb8dc958b26e7193ceb30e8fdf0bf92fd2ac15c7b"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Jordanie",
+      "relation": "MEMBER_OF",
+      "target": "coalition internationale contre Daech",
+      "evidence": "La Jordanie est en effet un membre important et efficace de la coalition internationale contre Daech",
+      "confidence": 1.0,
+      "source_id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad",
+      "target_id": "Organization_75fa3480f95148eec64eead2ea5634e5488c89eafbb6f63294c715845b7524ed"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Jordanie",
+      "evidence": "la France est le premier investisseur non arabe en Jordanie",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad"
+    }
+  ]
+}

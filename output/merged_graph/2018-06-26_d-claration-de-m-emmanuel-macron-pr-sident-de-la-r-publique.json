@@ -1,0 +1,533 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "chers amis",
+      "id": "Person_ea6752ea13b7e38cb244013342b4e04afa9dd5dcbf74d7e84b37acdece219eb9"
+    },
+    {
+      "type": "City",
+      "name": "Vatican",
+      "id": "City_5ff37feb031b7c262f11482fd54e4e203a613e84ab692c07dac938627952366c"
+    },
+    {
+      "type": "Organization",
+      "name": "communauté ecclésiastique française",
+      "id": "Organization_2538eab327c793f7ef08fc36f9fb758b4627e4815afe5fd6c778eb14aa7a661a"
+    },
+    {
+      "type": "Organization",
+      "name": "équipe de France",
+      "id": "Organization_59d91c5e57b057e81dd2bdeb049eaaab7fa528cfb9f27de8c467cde68dc5d58a"
+    },
+    {
+      "type": "Event",
+      "name": "match de l'équipe de France dans ce Mondial",
+      "id": "Event_b2008905d77bf3e9f0393e4e781f8e5423fb3ebfc7d450b480ab8f203a4ad473"
+    },
+    {
+      "type": "City",
+      "name": "basilique",
+      "id": "City_ca3d385093e74add5dd0b75b3f7a93919c6f8d566f4dfe26f5c3e75e6b3ccd6c"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Eglise catholique",
+      "id": "Organization_116fa0b54dec68ca338be57112ad92bda7d619f17c1a3996d942887a285a336c"
+    },
+    {
+      "type": "Person",
+      "name": "Son Excellence",
+      "id": "Person_9f14dbfdc9ba9fda97f1c04bbe9c7b53006964117ff046c452a2664efd196281"
+    },
+    {
+      "type": "Person",
+      "name": "chanoine",
+      "id": "Person_53dd75aedb0253d08dd5d3aaa1a269a098721335117e6b5ec04a110e8b0d7cc1"
+    },
+    {
+      "type": "Theme",
+      "name": "laïcité",
+      "id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "séparation de l'Eglise et de l'Etat",
+      "id": "Theme_bdbcc941184e0ffba232636cf67bb93cd6fbfb2d27bb8ed22fa9cbaf0b11aa0c"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre temporel et d'un ordre spirituel",
+      "id": "Theme_b99b8cc29a0c9eec6fc837810c983a6525c528d2ff4193e4954de26318103975"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre politique",
+      "id": "Theme_975a0c45ecc5b228a18691c596815b52eea05486bea99ba0222eb54ebfae9edc"
+    },
+    {
+      "type": "Theme",
+      "name": "affaires politiques",
+      "id": "Theme_bb645dc10493cf78d6ce54d00209c3ed716466020ae53be3cf7066635d51d0cf"
+    },
+    {
+      "type": "Theme",
+      "name": "croire et de ne pas croire",
+      "id": "Theme_03e979bc8784adbefeb5356f76157d9ad2c3a6aab992de59d461f087d8095faa"
+    },
+    {
+      "type": "Theme",
+      "name": "règles de la République",
+      "id": "Theme_b2fa9fbb3ee35a3e6f69355a68f7363999c84e9dfbdfe2af0714233c32ba9975"
+    },
+    {
+      "type": "Person",
+      "name": "Sa Sainteté le pape François",
+      "id": "Person_df4be275f4bfa085515dd0815887335623480668f2b04c1405f0ad9171e5d63e"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Eglise catholique",
+      "id": "Organization_56062771e9b27a17e8231899cce51470bc638c22b599d419566494d8b3462bce"
+    },
+    {
+      "type": "Organization",
+      "name": "la République",
+      "id": "Organization_e41bd6d4bc20385559e93b64f4c300ddc29c99329a92c535c8ad8cb846bfc167"
+    },
+    {
+      "type": "Theme",
+      "name": "Religion",
+      "id": "Theme_164a57edd3bd6e51e9da15e6b184baa243f42cb6bd764af8a346437a5132deac"
+    },
+    {
+      "type": "Theme",
+      "name": "Pudibonderie",
+      "id": "Theme_0dec0ae3c2ced4e2782842903b15ddb445a413e5b6f951ace1f2ec3b48bd5f0d"
+    },
+    {
+      "type": "Theme",
+      "name": "Cachez cette religion",
+      "id": "Theme_5bd1abf481e8a93fe1495fa402a4a5abf99bddb05e83614b1c64620d55829ebc"
+    },
+    {
+      "type": "Theme",
+      "name": "Croyance",
+      "id": "Theme_7ca855526b01f6f5a0059b2d7a2a697a96d14ac177d55b13d44151cf8f3cec11"
+    },
+    {
+      "type": "Theme",
+      "name": "Convictions philosophiques",
+      "id": "Theme_2502204addfb6efdae90d7c9da5af02d039287d7c1a71db5ffdd1e217b2db90b"
+    },
+    {
+      "type": "Theme",
+      "name": "Agnosticisme",
+      "id": "Theme_8240046df903c8f477e05ba598738a802ec9e727d5511e6d05260288a6bbed3e"
+    },
+    {
+      "type": "Theme",
+      "name": "Multiséculaire",
+      "id": "Theme_0492c24a2fa50457e8262a1fd834d24269da3c3833e10ef017002f8fc5a4a3d4"
+    },
+    {
+      "type": "Theme",
+      "name": "monde en bouleversement profond",
+      "id": "Theme_bdbf2c31c75b93d2d793530ab4552dddc52a4ce6547a33b3a31584a1073283a4"
+    },
+    {
+      "type": "Theme",
+      "name": "technologique",
+      "id": "Theme_6faf403f653ffc842186e1192d1b144875f75b192d91950d019299d189088ace"
+    },
+    {
+      "type": "Theme",
+      "name": "économique",
+      "id": "Theme_de8c5f08079b0bf4f9f7bd98c3f8bd602423fcb95de67ccf12a419cbbd53dff2"
+    },
+    {
+      "type": "Theme",
+      "name": "géopolitique",
+      "id": "Theme_c3c610b50522db7d266b422a266b556f7825401c0d3b51ae9196e65d10f33b65"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire de la France",
+      "id": "Theme_fa39d12639f6655a42f6a54a265dab60e2b2a7030ef8a0bd2f1b9d49dd9ca823"
+    },
+    {
+      "type": "Organization",
+      "name": "République française",
+      "id": "Organization_ad5fb0d5edccf615eb0fa61d5ae500010dc747b15f10207a0529cc6fbc964fda"
+    },
+    {
+      "type": "Organization",
+      "name": "Vatican",
+      "id": "Organization_44ba646a396325dc3ead17434abc7a98a06ac36bf9792c042b1e1a049af389b9"
+    },
+    {
+      "type": "Theme",
+      "name": "lois bioéthiques",
+      "id": "Theme_4a9379435fdc722f6ca96e77b0d045991450edc21d1ac619abb8f992096a8ac7"
+    },
+    {
+      "type": "Theme",
+      "name": "relations entre les religions",
+      "id": "Theme_ae08d37c5d2410fd8dc6027e10edb1c0603ff966f6a0c51dfd7fe6ef17691e16"
+    },
+    {
+      "type": "Theme",
+      "name": "migrants",
+      "id": "Theme_1d074596036ecc51c01601d267df6a6b94c8b4eb098d626c77b299ecdf632428"
+    },
+    {
+      "type": "Theme",
+      "name": "sujets géopolitiques",
+      "id": "Theme_00f973904b66533278acbe2a707af3b3f71ec0251df92a5fb3b0b4e8a56444ea"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire contemporaine",
+      "id": "Theme_1b98f785091bc9938d2a3888e66f733c38eba4c162f7c212f2e235e68d38c5c8"
+    },
+    {
+      "type": "Theme",
+      "name": "traditions",
+      "id": "Theme_1651eef163003c3be7a9b45c113a290cfbd374435450e28b26c67c7227cf28b4"
+    },
+    {
+      "type": "Theme",
+      "name": "considération pour la personne",
+      "id": "Theme_1461903eeafa71c77107942c35a4e47d937c5c3d4861fdbcae0d6de58c333adb"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité de chacun",
+      "id": "Theme_91247794bb92b3e187cc8b3a3546f317f76eae06d2cb842fc4c976b293ec3921"
+    },
+    {
+      "type": "Theme",
+      "name": "droits comme un absolu",
+      "id": "Theme_c1fe2efb9070e526b2ecc457eeb7d6c580d75f033e9855073a748a773bb82990"
+    },
+    {
+      "type": "Theme",
+      "name": "universel",
+      "id": "Theme_af6169ca6d2a11a500827febfcd4b6f024b79ecf0ee483745ba7cd18b13fa770"
+    },
+    {
+      "type": "Theme",
+      "name": "art de la précaution",
+      "id": "Theme_99b13a53c2f98ed1e24cecd575be4df35a038f0c2ad743e380e6fe93c73a44fd"
+    },
+    {
+      "type": "Theme",
+      "name": "prudence",
+      "id": "Theme_1d635bc36c00e069cbb9d85758acac3b462336022c3a35c442ad602271b73b4b"
+    },
+    {
+      "type": "Theme",
+      "name": "humilité",
+      "id": "Theme_1f533297e3d3c61ce159bbf9cbd3fe9dcc2068121ee47dca573ec1423280f2dd"
+    },
+    {
+      "type": "Theme",
+      "name": "principes",
+      "id": "Theme_97c5aa60bd71c598edaaf76fd6b884a4ae393b0774135332a05c72af7bc82042"
+    },
+    {
+      "type": "Theme",
+      "name": "réel",
+      "id": "Theme_d66e433f5c96a7e9c57fcab0aa6579e80e3471e07c0d135d03a4aa631f53cde5"
+    },
+    {
+      "type": "Theme",
+      "name": "peurs",
+      "id": "Theme_5467548b402804ea9f29376842dbc22856f50e3debd3f3f63979f8d498741ffc"
+    },
+    {
+      "type": "Theme",
+      "name": "imperfections",
+      "id": "Theme_de9769bd5b18309c6c5d1fb2dbbb1fedc1c5fbbac05438fcb5f2175045e80d13"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Person",
+      "name": "j'ai",
+      "id": "Person_11dc8f890b0c964b83ea9b1735ebebcd698833b5d636e3dbbd33637c9106eda2"
+    },
+    {
+      "type": "Country",
+      "name": "République française",
+      "id": "Country_49b9d5ff89f5b83fd1c60176c2e2e09c17d9e900c7df8d9d8068f97029ef2d5c"
+    },
+    {
+      "type": "City",
+      "name": "France",
+      "id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    },
+    {
+      "type": "Person",
+      "name": "Henri IV",
+      "id": "Person_eadafbcc178b352324847579dcf0bc6eec77be1d1a32f9506c8d09150b83bfb7"
+    },
+    {
+      "type": "City",
+      "name": "l'Eglise",
+      "id": "City_ac935c5ebddc5717b2ac52399bb2a0fca0c221939cb3e8b1a7ade5b1d7d2166e"
+    },
+    {
+      "type": "City",
+      "name": "la plus vieille mais la plus grande des églises d'Europe",
+      "id": "City_fb3778db44698b055829d9470a1162daaddb198b99546378118953b0784c3db8"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "déséquilibre",
+      "id": "Theme_2750a6a8d72d888d43323bfb93e3c6a079247e70210a760f96c34959c465f3ed"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Theme",
+      "name": "insécurité",
+      "id": "Theme_c7a368bf598bca497caed4dd3d3f42ab5d1c9b08009fd42e199fd3976aac0fe6"
+    },
+    {
+      "type": "Theme",
+      "name": "intranquillité",
+      "id": "Theme_bb8fd167cec052c2dc8b08db5e2ecdb376c1bab8d54b4a39299ad4f0832d32d0"
+    },
+    {
+      "type": "Theme",
+      "name": "crise politique",
+      "id": "Theme_2af875b46664227124dc6e0094d3246a6066dee6e69396c4a4559917824c0c28"
+    },
+    {
+      "type": "Theme",
+      "name": "crise migratoire",
+      "id": "Theme_26ddd1819da3462f219f9685a8838f0cad9c6704543579786b15d339febefece"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "projet",
+      "id": "Theme_e14263541610d680dfa39ef9a4ababe5c0301050559f560e38f9c0bf71776801"
+    },
+    {
+      "type": "Theme",
+      "name": "société",
+      "id": "Theme_23d952489b07041be7b06f706f86ec7cfc55af055e1b2e2f815671e6fa2ef5ed"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "message",
+      "id": "Theme_3329b4692176025ad2ab438a9f92aa12026b4c9e0fe8e583f35caed82407c5bc"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition française",
+      "id": "Theme_55e926ff19086aae1a78c303fb8ccfceb5071dfaf0724537cd604eea9c2f71ac"
+    },
+    {
+      "type": "Theme",
+      "name": "échange",
+      "id": "Theme_48895a359422c5ce427b83fdc9d6c341c0e15e08a4a23097a39a9fc48a41247d"
+    },
+    {
+      "type": "Theme",
+      "name": "controverse",
+      "id": "Theme_76f838b04db8d425c932ba171b96fa3716a2c551933c32936ee4341b4805990f"
+    },
+    {
+      "type": "Theme",
+      "name": "discussion",
+      "id": "Theme_26c4245fdc8fc84ccb2723e2b71e8fe98e954675f47dcba561f709b9d76e61ec"
+    },
+    {
+      "type": "Theme",
+      "name": "cheminement conjoint",
+      "id": "Theme_b25aa9fba50da892baab588faa346be0acff5e246566a3cf3c75a9df6dd0073c"
+    },
+    {
+      "type": "Person",
+      "name": "Père HAMEL",
+      "id": "Person_545971773f2fb797de833de049c3c0caffe42e059a116577cfbaff2a10f98b6b"
+    },
+    {
+      "type": "Theme",
+      "name": "irénisme",
+      "id": "Theme_cdf09c0c428a847080bca3b47a8c2d52ccbd0fbd78f0fbf82c058b27124a93dc"
+    },
+    {
+      "type": "Theme",
+      "name": "mandat",
+      "id": "Theme_1c1553b50ea918e040f5b180345647cf523aa8b4aaf976b5d7d5b5deecb47e1c"
+    },
+    {
+      "type": "Theme",
+      "name": "tâches",
+      "id": "Theme_bcc2abcb2ebe18cd71ad7f0bc38fd3dba9db77528348d8735fc438c9692ee884"
+    },
+    {
+      "type": "Theme",
+      "name": "fonctions",
+      "id": "Theme_0626488e74093f91bf4a8761b6de9f5421f0d1c7e9f5be952ac2406abcea2b52"
+    },
+    {
+      "type": "Theme",
+      "name": "message de la France",
+      "id": "Theme_095734e95e819acbda170f840ef49c3fe7d8221d66e426d8293f8386c041d8a3"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue indispensable",
+      "id": "Theme_2e336a16c28556fb672485f70d74f3a4dcfca13d1cda126f2cdbdb81dda9d3fe"
+    },
+    {
+      "type": "Theme",
+      "name": "visite",
+      "id": "Theme_0b2b560dbd9f65e7fc7469f18c9ae93a30de59a248d3b6fbbea78750db06de43"
+    },
+    {
+      "type": "Theme",
+      "name": "ambassadeur",
+      "id": "Theme_84b9b97efc3f1fbe90137d859d6245d3af6ba0472f3ad5a9d33effa2c1f99b64"
+    },
+    {
+      "type": "Theme",
+      "name": "délégation",
+      "id": "Theme_7b933955060944187e6b7be04aa6cb16f07b252c9198285e9f3997cecc838f21"
+    },
+    {
+      "type": "Theme",
+      "name": "spiritualité",
+      "id": "Theme_9be741dbf9feb14dddcf5f1c70228793c2776335da341afff0c9264673d6bf93"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "Eglise catholique",
+      "evidence": "c'était aussi l'occasion de rappeler le statut un peu à part, ou le lien un peu à part de la France avec l'Eglise catholique.",
+      "confidence": 1.0,
+      "source_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4",
+      "target_id": "Organization_116fa0b54dec68ca338be57112ad92bda7d619f17c1a3996d942887a285a336c"
+    },
+    {
+      "source": "République française",
+      "relation": "ALLIED_WITH",
+      "target": "Vatican",
+      "evidence": "le lien particulier qu'il y a aussi entre la République française et le Vatican",
+      "confidence": 1.0,
+      "source_id": "Country_49b9d5ff89f5b83fd1c60176c2e2e09c17d9e900c7df8d9d8068f97029ef2d5c",
+      "target_id": "Organization_44ba646a396325dc3ead17434abc7a98a06ac36bf9792c042b1e1a049af389b9"
+    },
+    {
+      "source": "art de la précaution",
+      "relation": "MENTIONS",
+      "target": "prudence",
+      "evidence": "L'art de la précaution dont il a parlé à plusieurs reprises, la prudence, ce n'est pas se calfeutrer dans le refus du monde, ou la volonté de ne pas voir ou de ne pas toucher : c'est l'inverse.",
+      "confidence": 1.0,
+      "source_id": "Theme_99b13a53c2f98ed1e24cecd575be4df35a038f0c2ad743e380e6fe93c73a44fd",
+      "target_id": "Theme_1d635bc36c00e069cbb9d85758acac3b462336022c3a35c442ad602271b73b4b"
+    },
+    {
+      "source": "République française",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Et dans ce dialogue unique qu'il y a entre la République française, la France et le Vatican,",
+      "confidence": 1.0,
+      "source_id": "Country_49b9d5ff89f5b83fd1c60176c2e2e09c17d9e900c7df8d9d8068f97029ef2d5c",
+      "target_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    },
+    {
+      "source": "République française",
+      "relation": "LOCATED_IN",
+      "target": "Vatican",
+      "evidence": "Et dans ce dialogue unique qu'il y a entre la République française, la France et le Vatican,",
+      "confidence": 1.0,
+      "source_id": "Country_49b9d5ff89f5b83fd1c60176c2e2e09c17d9e900c7df8d9d8068f97029ef2d5c",
+      "target_id": "Organization_44ba646a396325dc3ead17434abc7a98a06ac36bf9792c042b1e1a049af389b9"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "vous êtes ici avec une part de France, dans ce lieu un peu particulier du monde",
+      "confidence": 1.0,
+      "source_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4",
+      "target_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "dialogue",
+      "evidence": "le dialogue que nous avons entre le Vatican et la France est dans cette période, indispensable",
+      "confidence": 1.0,
+      "source_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4",
+      "target_id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "Les catholiques en France ont su poursuivre ce chemin difficultueux",
+      "confidence": 1.0,
+      "source_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4",
+      "target_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    }
+  ]
+}

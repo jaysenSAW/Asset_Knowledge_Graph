@@ -1,0 +1,146 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Nouvelle-Calédonie",
+      "id": "Country_55a69be2de7bce6a0a3ef0dc0899835c52a9dcb4b1cc9e9c104595177589d1e9"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation des Nations Unies",
+      "id": "Organization_707b7e4fb958022ac09c7c735de46bff28a624e5777366c77b47ed95be05ca58"
+    },
+    {
+      "type": "Country",
+      "name": "République française",
+      "id": "Country_49b9d5ff89f5b83fd1c60176c2e2e09c17d9e900c7df8d9d8068f97029ef2d5c"
+    },
+    {
+      "type": "Country",
+      "name": "Océanie",
+      "id": "Country_8eba38ccc6f755f1cfaf87d227c0c34f311487d16313d9996b931f405dcf10be"
+    },
+    {
+      "type": "City",
+      "name": "Ouvéa",
+      "id": "City_aba990f4b70b12145047fe4f6a8d5fd83a7ce4f7f6e335b69cb0045c6d0a3395"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Calédoniens",
+      "id": "City_6640117d8ccf07a975a3270dd146862c067ce3549b181d104dfff5d0710a0703"
+    },
+    {
+      "type": "Person",
+      "name": "chef de l'Etat",
+      "id": "Person_a21527649bbfd62dac3e2cf4931e684d9c1799d20ddf58a650fd19848a486257"
+    },
+    {
+      "type": "City",
+      "name": "Nouvelle-Calédonie",
+      "id": "City_cc4b506740f7c1968790c319d6f12845d814677cd83a29590ede16c2994049d5"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité",
+      "id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "Océanie",
+      "id": "Theme_e81da3429cd8abfe7517ea3187c9cef1505ca48cca48653e7504f5d984a771c1"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Nouvelle-Calédonie",
+      "relation": "LOCATED_IN",
+      "target": "Nouvelle-Calédonie",
+      "evidence": "L'organisation de ce scrutin était prévue par l'accord historique vieux de 30 ans, qui avait permis à la Nouvelle-Calédonie de retrouver la paix civile dans le dialogue et le respect mutuel.",
+      "confidence": 1.0,
+      "source_id": "City_cc4b506740f7c1968790c319d6f12845d814677cd83a29590ede16c2994049d5",
+      "target_id": "City_cc4b506740f7c1968790c319d6f12845d814677cd83a29590ede16c2994049d5"
+    },
+    {
+      "source": "chef de l'Etat",
+      "relation": "SPOKE_ABOUT",
+      "target": "France",
+      "evidence": "Je veux aussi dire la fierté pour le chef de l'Etat que la majorité des Calédoniens ait choisi la France.",
+      "confidence": 1.0,
+      "source_id": "Person_a21527649bbfd62dac3e2cf4931e684d9c1799d20ddf58a650fd19848a486257",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "État",
+      "relation": "SUPPORTS",
+      "target": "Nouvelle-Calédonie",
+      "evidence": "l'Etat est engagé au côté de la Nouvelle-Calédonie, pour garantir dans la durée la dignité de toutes les composantes de la société",
+      "confidence": 1.0,
+      "source_id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612",
+      "target_id": "City_cc4b506740f7c1968790c319d6f12845d814677cd83a29590ede16c2994049d5"
+    },
+    {
+      "source": "Nouvelle-Calédonie",
+      "relation": "SPOKE_ABOUT",
+      "target": "paix",
+      "evidence": "Le seul vainqueur c'est le processus en faveur de la paix qui porte la Nouvelle-Calédonie depuis 30 ans",
+      "confidence": 1.0,
+      "source_id": "City_cc4b506740f7c1968790c319d6f12845d814677cd83a29590ede16c2994049d5",
+      "target_id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "source": "République française",
+      "relation": "SPOKE_ABOUT",
+      "target": "Océanie",
+      "evidence": "Ces valeurs sont celles de la République française, comme elles sont celles de l'Océanie.",
+      "confidence": 1.0,
+      "source_id": "Country_49b9d5ff89f5b83fd1c60176c2e2e09c17d9e900c7df8d9d8068f97029ef2d5c",
+      "target_id": "Theme_e81da3429cd8abfe7517ea3187c9cef1505ca48cca48653e7504f5d984a771c1"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "type": "Event",
+      "name": "La prise de la Bastille",
+      "id": "Event_e30031c41fd9c2c76762bbc418f5cb034d7992562693bc9a3d78fe7ff22dd50b"
+    },
+    {
+      "type": "Event",
+      "name": "Le 14 Juillet",
+      "id": "Event_db52125fdf96c0dd694f102940822e06d875a0c8401739b658f73ec74e8f2059"
+    },
+    {
+      "type": "Theme",
+      "name": "la liberté",
+      "id": "Theme_b4f2ceee5041de1b6f6c1b60d537c35ed0190e4e1f6c1709eed6d1073078c55a"
+    },
+    {
+      "type": "Theme",
+      "name": "la défense de la patrie",
+      "id": "Theme_1af42d227565197bfa5c40421df9c2f7d10435f371ac1f8304c674b89d9e5caa"
+    },
+    {
+      "type": "Theme",
+      "name": "la protection de ses intérêts supérieurs",
+      "id": "Theme_eecdebb25a02bfa4677e8e0c4bc43fe782fffb263215e7a340b06f4fa10126fd"
+    },
+    {
+      "type": "Theme",
+      "name": "l'esprit de sacrifice",
+      "id": "Theme_6c60171b99ba28e1b760fc554976be82f480ca6d18361ff15c85254edd2210a6"
+    },
+    {
+      "type": "Theme",
+      "name": "l'état militaire",
+      "id": "Theme_80bca6cecef71a9340cd07d8ecea76847e13bc99a0b02d018e8bd9d29ea28a62"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation au service des opérations",
+      "id": "Theme_2ef0d7b9eec596c34bfd82433696bc7cb5ed394d32c1857f30dc65878612d92c"
+    },
+    {
+      "type": "Theme",
+      "name": "préparation de l'avenir",
+      "id": "Theme_e28192e92ac623ebee9f94ee5f14b5ca73b0809be3315716085d060e2a85e1d2"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement européen",
+      "id": "Theme_f67cf7d250d0b98a128ddfe094b4202745e5196cfa88359466aebb578ea8ff5e"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité de notre Nation",
+      "id": "Theme_2b2e29597f955b95cbfe6b060f820ceb70f501909f517c4e5b614b3c246d2e88"
+    },
+    {
+      "type": "Theme",
+      "name": "construction d'une Europe de la défense",
+      "id": "Theme_857df1864e6009c4a0314c3a2c27d5ded9745949a93234a858924d17863d1d9d"
+    },
+    {
+      "type": "Theme",
+      "name": "Initiative européenne d'intervention",
+      "id": "Theme_429656e32498237765d438d4ea49da7504052148c1e19f681b29855a23c9b33e"
+    },
+    {
+      "type": "Law",
+      "name": "loi de programmation militaire",
+      "id": "Law_33a7ceba1063d109ae9b37ebd3b66d0456905f4041a294907e5c29ef210f7d85"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "City",
+      "name": "Alliance atlantique",
+      "id": "City_61e63c2bd38cdfa3653294058c023f6038802e7f92353c13ce3fe0a89e87e76c"
+    },
+    {
+      "type": "Event",
+      "name": "défilé du 14 juillet 1919",
+      "id": "Event_db36d79e777d78e623b9246f4d9689027002b0b9647e14bc38a28d04c455599f"
+    },
+    {
+      "type": "Event",
+      "name": "défilé 2019",
+      "id": "Event_2f5845a5ce628b9579158f49a6bbd330273b7e41d5acee0be2ce2733e7169138"
+    },
+    {
+      "type": "Theme",
+      "name": "blessés",
+      "id": "Theme_bc56c708d86e30fd93d80e297fff7d255ba78c5a19cced2a8ff2717db16fbb2f"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement vers la reconstruction",
+      "id": "Theme_d2887457f3564a6e68136fe281d5b8c19f7c64014bf2182aa4e5ec0d8956286f"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "construction d'une Europe de la défense",
+      "evidence": "La construction d'une Europe de la défense, en lien avec l'Alliance atlantique dont nous fêtons les 70 ans, est pour la France une priorité.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_857df1864e6009c4a0314c3a2c27d5ded9745949a93234a858924d17863d1d9d"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Alliance atlantique",
+      "evidence": "La construction d'une Europe de la défense, en lien avec l'Alliance atlantique dont nous fêtons les 70 ans, est pour la France une priorité.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "City_61e63c2bd38cdfa3653294058c023f6038802e7f92353c13ce3fe0a89e87e76c"
+    }
+  ]
+}

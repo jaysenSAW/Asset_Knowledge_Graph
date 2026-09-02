@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Président SISSI",
+      "id": "Person_4c4d8f1f8a9a8f3a95b874aad82358c58f50a60086d3fd37b02ea4d25879da52"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Caire",
+      "id": "City_5b2dfa238bd26a074305b4824e4212c9ccab9d48bfe885cdb8b099f436c13d71"
+    },
+    {
+      "type": "Country",
+      "name": "Égypte",
+      "id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "type": "Organization",
+      "name": "partenaires européens",
+      "id": "Organization_ccb297bd7a0305ae344644945fcaa88dae92cf45e32969353241ecaac8855dc2"
+    },
+    {
+      "type": "Organization",
+      "name": "alliés dans la région",
+      "id": "Organization_fc291545e3513649303e12df27e9e09537bfbd954d33faa70f33b99726408e0c"
+    },
+    {
+      "type": "Event",
+      "name": "Forum de dialogue",
+      "id": "Event_17907d9f9f343043a71114a8463326e0f9695182c032cf50d21457e1caa7ad02"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité politique",
+      "id": "Theme_7975a47f2e9c8f1b14a61bb6a42a096a690b134338ce50e619ef770358367764"
+    },
+    {
+      "type": "Theme",
+      "name": "reprise durable de la production pétrolière",
+      "id": "Theme_bd580652d69ade8e51156f6f79a7c2942821731f2593c93ac4dec6085862f7c1"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations Unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Country",
+      "name": "États riverains",
+      "id": "Country_aa1c3caae3d83adb9aa895f942d4d7cfa87fb71643fc331dfac5e4809a43dab2"
+    },
+    {
+      "type": "Country",
+      "name": "États de Méditerranée orientale",
+      "id": "Country_2b77ffea09a836c795f70bbd25678a0b5ee13fad6dfecb981ff68149b439212d"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Country",
+      "name": "Pays ami",
+      "id": "Country_9c1229d7767468d441a0fbde57d57dc5be88468a07915c8eb95a08e82eeec9a1"
+    },
+    {
+      "type": "Country",
+      "name": "Proche-Orient",
+      "id": "Country_ea96081c3dc607260da7be0bce2be5c4e658fe0319110fa930660594f5cfce74"
+    },
+    {
+      "type": "Person",
+      "name": "SISSI",
+      "id": "Person_acb29ad3a6a9954f0b69005dd1a51b58028559cfce76add38635a6463cb2decb"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "ONG",
+      "id": "Organization_3e1586cef038ea96d5ab3c5a2d6496c339bffcc013fa18af180a38657091796f"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Président SISSI",
+      "relation": "VISITED",
+      "target": "Caire",
+      "evidence": "Le Président SISSI m'avait reçu au Caire en janvier 2019.",
+      "confidence": 1.0,
+      "source_id": "Person_4c4d8f1f8a9a8f3a95b874aad82358c58f50a60086d3fd37b02ea4d25879da52",
+      "target_id": "City_5b2dfa238bd26a074305b4824e4212c9ccab9d48bfe885cdb8b099f436c13d71"
+    },
+    {
+      "source": "Égypte",
+      "relation": "LOCATED_IN",
+      "target": "Égypte",
+      "evidence": "À ce titre, le rôle de l'Égypte est fondamental.",
+      "confidence": 1.0,
+      "source_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c",
+      "target_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Égypte",
+      "evidence": "les moyens de renforcer l'appui de la France à l'Égypte",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    }
+  ]
+}

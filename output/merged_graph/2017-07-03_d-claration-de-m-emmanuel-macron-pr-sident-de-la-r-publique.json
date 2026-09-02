@@ -1,0 +1,1816 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "Congrès",
+      "id": "Organization_fc8b7ed7e0d5fbbb878ba9554c43f4429ae7518ebdb347a118221743efd279bc"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    },
+    {
+      "type": "Person",
+      "name": "Président du Congrès",
+      "id": "Person_ac967d9978f4c00cbfe1be19cbcaa5253f1300e0dc8c9ca1fe4e05891ada5dfd"
+    },
+    {
+      "type": "Person",
+      "name": "Président du Sénat",
+      "id": "Person_12198938ac86d6c80f522482cd27b288ff7d09c4d67fa849f2fe969cbe12f3ce"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "députés",
+      "id": "Person_24f87c83485b16f1da12360291fd8e1a845252d33c8549c8c56d85601262fcbd"
+    },
+    {
+      "type": "Person",
+      "name": "sénateurs",
+      "id": "Person_2a024872c8fe6f58c470d7b03547afc5018d31a6553545f5a7de3751e591edd1"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance en nous",
+      "id": "Theme_72c3a5bf0fcb970885eda38c547efb7ae01ded5af459f1c1d8068c05aeb1e535"
+    },
+    {
+      "type": "Theme",
+      "name": "force",
+      "id": "Theme_692ec114325b782d4c086becfab4bd9bf5c9449c59ddd4c7e36828f9035301a5"
+    },
+    {
+      "type": "Theme",
+      "name": "idéaux",
+      "id": "Theme_8da289a38159a2386f6a9b1bbc2c378d3b860a38939ea44f0ba7fe0a28a5adcf"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de conquête",
+      "id": "Theme_51c3cfef8e848bcc7d945767c82a9d15c8a0c4f68260a2ae16c22c50b55b3a33"
+    },
+    {
+      "type": "Theme",
+      "name": "monde politique",
+      "id": "Theme_a9a72d302bbe06e642d03937aff3dffe9d9f8a3b0a991173655457090d692e94"
+    },
+    {
+      "type": "Theme",
+      "name": "querelles",
+      "id": "Theme_a76a6358dc74bad3af6bb4cfcfe353a08685c560e64851c0a3b19b71df1b6455"
+    },
+    {
+      "type": "Theme",
+      "name": "ambitions creuses",
+      "id": "Theme_3b6dda4806fc9071983f5f652e5ac3c06f49bdac9855a10344311dae33e1ebd2"
+    },
+    {
+      "type": "Theme",
+      "name": "amour de la patrie",
+      "id": "Theme_be22eb20a33bea4e7a9ab6f92f577493c0bbc3fef2cacb8b33ab7415c360e8a4"
+    },
+    {
+      "type": "Theme",
+      "name": "solitude des collines de Haute-Provence",
+      "id": "Theme_a9cd22f53815530888158d657020f3f26de4b52e8a932658af139994327be1f1"
+    },
+    {
+      "type": "Theme",
+      "name": "tristesse des grands ensembles",
+      "id": "Theme_b9ad393efc5e7c0fda8ce40745610cabeb5534c212101db127a6ab96bd27ee2d"
+    },
+    {
+      "type": "Theme",
+      "name": "déserts industriels",
+      "id": "Theme_6bb5cd273bd95899ac8490f6c9af9bf62348efe0124d59c4f11995d77487543d"
+    },
+    {
+      "type": "Theme",
+      "name": "gaité surprenante des commencements",
+      "id": "Theme_8111b4d5d526daf8e7009e6924b41e1bbc055e2e2ac83855f5702653c3a3c4ee"
+    },
+    {
+      "type": "Theme",
+      "name": "suffrage direct",
+      "id": "Theme_c173f82d25ad0de5989e81ae4940551fed911dffb10f89bd59cd1da24af92a19"
+    },
+    {
+      "type": "Theme",
+      "name": "suffrage indirect",
+      "id": "Theme_4be23cf767a1395fb0098978d44e4bdcd97c8f4f32ba008df7911ea1ba275b52"
+    },
+    {
+      "type": "Theme",
+      "name": "campagne",
+      "id": "Theme_fef1d4adf9885ab805a4f2d352eecffc5b1d44f58c9398feb8e305cb187afb8a"
+    },
+    {
+      "type": "Theme",
+      "name": "opinions",
+      "id": "Theme_273993d479772732af3981b2326c264053bfe674b9479d8af9baeef304eebe86"
+    },
+    {
+      "type": "Theme",
+      "name": "alternance profonde",
+      "id": "Theme_e77ded9c7a3d45f0fa3cef43c02e5b2e967f037b07782c3cf917876f3eeebd8b"
+    },
+    {
+      "type": "Theme",
+      "name": "espoirs nouveaux",
+      "id": "Theme_38903ed21086332084159d70e2fa66ee75a01c3c8191062de071dbd7fec28957"
+    },
+    {
+      "type": "Theme",
+      "name": "suffrage universel direct",
+      "id": "Theme_f0b89dc3bbabfae78507fa26fa0b38dfac68d81a673dad58cab25979a82e3316"
+    },
+    {
+      "type": "Theme",
+      "name": "ascèse",
+      "id": "Theme_5b7bdd9af928221a4ff83c061f1862c28865c1a7ed7e40a1fddeeeec66eb5619"
+    },
+    {
+      "type": "Theme",
+      "name": "exigence",
+      "id": "Theme_c131dd5143ce13311cd70f33a101ad29fecee96fab2354e08c7026967efd65d1"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité",
+      "id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "type": "Theme",
+      "name": "cynisme",
+      "id": "Theme_75fe2ef52aeb15b4811a8935bf3f5e56aba490dc2aa350bea37e541ceeca353b"
+    },
+    {
+      "type": "Theme",
+      "name": "découragement",
+      "id": "Theme_b2c850bc35c4fb35c28abe35c7cf47f623dd894a480bda0730887fb48fd31b48"
+    },
+    {
+      "type": "Theme",
+      "name": "platitude",
+      "id": "Theme_b3ecbd01c00a46a0f51e86201e2706999347cc7c8757ac4ed3875bd50191237f"
+    },
+    {
+      "type": "Theme",
+      "name": "échec",
+      "id": "Theme_6661bf4093188fe3046b6171d7194604f552338f722540c136cf6a63d1e5232b"
+    },
+    {
+      "type": "Theme",
+      "name": "scepticisme",
+      "id": "Theme_9708d96ced9a62c94c69a980d3469b5b458af0c6e88b861d19500d5b80f93f60"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "colère",
+      "id": "Theme_4e30994df9e9eac88bc1882bf63418ce377af79a6f9e3df68de8115525b914eb"
+    },
+    {
+      "type": "Theme",
+      "name": "dégoût",
+      "id": "Theme_5da773f63113a4cf4ff6b40f2b7a332e34b40bcb0839faee7cbdc738b4a0d7ea"
+    },
+    {
+      "type": "Theme",
+      "name": "mandat",
+      "id": "Theme_1c1553b50ea918e040f5b180345647cf523aa8b4aaf976b5d7d5b5deecb47e1c"
+    },
+    {
+      "type": "Theme",
+      "name": "climat de faux procès",
+      "id": "Theme_1e4a6d3963727d17932c340738808146742d018ad973ee41698fe079aa1dba6b"
+    },
+    {
+      "type": "Theme",
+      "name": "débat public",
+      "id": "Theme_e4961c27a31b14a49c5f38cf276348d71d30d6cd1e990ac0c3b8d11e8c939ef0"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle social",
+      "id": "Theme_84e716fb96d816e1a7cec10303220f68a6aaf5c7e5b53934555aa33e88fc517d"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés",
+      "id": "Theme_2460d11dd8890d0086c346c7c4f9479cbb7c560ab3409a92f103572ef8fa5209"
+    },
+    {
+      "type": "Theme",
+      "name": "réalité",
+      "id": "Theme_f61fac0cb01c1748ffc105c9942e7a6ac63b121d7cabbc89d6b44d21af9b5a97"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté de la Nation",
+      "id": "Theme_58cfef7a8c6058e43e23d9da8b45ce38ffd96ec3207e1a0fa4da5fc4c53c1ca0"
+    },
+    {
+      "type": "Theme",
+      "name": "Aliénation à la nouvelle division du travail",
+      "id": "Theme_59ee9b60950dddb68402227b826488ce6fe8ec4a4d74895e331505443a9091d2"
+    },
+    {
+      "type": "Theme",
+      "name": "Aliénation à la misère",
+      "id": "Theme_b468ec1388e5279b7f96eb30581a6d229dfbba81e052988d2dea33bce1221ad9"
+    },
+    {
+      "type": "Theme",
+      "name": "Aliénation à la contrainte financière",
+      "id": "Theme_bc2f0b70add402156f644476e20fb0f3666adeb5428f7ed72631615d0b42d361"
+    },
+    {
+      "type": "Theme",
+      "name": "Aliénation à la terreur islamiste",
+      "id": "Theme_e98b246dc8583dfd23d4c6fd4da6437de98f0daa34d043e33c0be1cce703bb3d"
+    },
+    {
+      "type": "Theme",
+      "name": "Aliénation de notre avenir",
+      "id": "Theme_e0904b3f464830c666c586e9086baf2659d2670ed2e0dfedf0e526d83e3eb3fc"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique",
+      "id": "Theme_82634c5567e29ec1e0f256205be4191228a3b7329a743da05d0f47189c5b7272"
+    },
+    {
+      "type": "Theme",
+      "name": "planète",
+      "id": "Theme_38e28b3e4c13e58b47932666932d6ebab6edc14f0cd7822041d0e68c7b34f00c"
+    },
+    {
+      "type": "Theme",
+      "name": "Aliénation de notre vie",
+      "id": "Theme_dade6e61ef8b37ddfbc5f3a95c53f43b947134e2d94b3b0c7b2e8c85c4b0c759"
+    },
+    {
+      "type": "Theme",
+      "name": "aliments que nous mangeons",
+      "id": "Theme_27fca32ddcf2b6d0f616908e6bc3d32bd71730403db20bfb752facab501ec510"
+    },
+    {
+      "type": "Theme",
+      "name": "air que nous respirons",
+      "id": "Theme_6b867883307658ab30b0b967d8939b50fcb564b77ee3fbd422fc4969d073825b"
+    },
+    {
+      "type": "Theme",
+      "name": "eau que nous buvons",
+      "id": "Theme_f455992d95189775dc005e4541f7241a8a06ec3c455241cccd92ae68b91c2eaa"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvement",
+      "id": "Theme_16335ab41e584ebe27b59c787f2f8077ea6a0a5734e31ad98cbea739e7abbf01"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie créatrice",
+      "id": "Theme_65684adebe9673798db18fab3e2d51e764a7a448c74135155abee987c5887414"
+    },
+    {
+      "type": "Theme",
+      "name": "France arrêtée",
+      "id": "Theme_a375c0d60ee52de42a9c16c9adac56323e5d3b613d801b85ee54af4e65ecd755"
+    },
+    {
+      "type": "Theme",
+      "name": "France apeurée",
+      "id": "Theme_4d07867e388f50fb60f7f326d0fd6bca348717715cdbb6a292d83ce0d424f16e"
+    },
+    {
+      "type": "Theme",
+      "name": "mission historique",
+      "id": "Theme_b909480f0f3d301120d6a5cd6729541b0dc8ea8b333112a065299b93234487ff"
+    },
+    {
+      "type": "Theme",
+      "name": "créativité",
+      "id": "Theme_550d4dc699a796ca3be62727957df316896d3858817d9e91c8d89c6f5b2da032"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de justice",
+      "id": "Theme_eb760d2086b1b7d3074d0ca570fd58393e739ae2214def276bb2f3dea2641da2"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence",
+      "id": "Theme_00b20302d5f64b56a882fa76ac635bfb2d5b859939516a451a03216995d89940"
+    },
+    {
+      "type": "Theme",
+      "name": "société de la justice",
+      "id": "Theme_f49f4ff4aa21871bf8083d4b0c917141697f3744c8c443026c2ff98ae5b422ea"
+    },
+    {
+      "type": "Theme",
+      "name": "société de la rente",
+      "id": "Theme_9f7982f817aa669c84486c5c19df66a687e9b140a66a2c5bcf10d084ebe7270d"
+    },
+    {
+      "type": "Theme",
+      "name": "renouveau",
+      "id": "Theme_5d8fc2be1dc6397d4e8934ad4ce45276ddd883c2d8f9ee9dfcbcd03e4fd3e054"
+    },
+    {
+      "type": "Theme",
+      "name": "efforts",
+      "id": "Theme_c96d831a6754ffa95e8bc1e0bfe3b9c55879db650a6d47a923f8d2cafb2d7010"
+    },
+    {
+      "type": "Theme",
+      "name": "soif de renouvellement",
+      "id": "Theme_2301712a79cb606585856a231c96c1524539f031c5a9253033ebc28ff6413b7f"
+    },
+    {
+      "type": "Theme",
+      "name": "mandat du peuple",
+      "id": "Theme_e21cc786d9c8d3c07a64d121f2e59280ad537e59c3662a80a40de02e6d021778"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "changement",
+      "id": "Theme_9cbd2940971cb3818b27107e1516d6b75fd81b314ac194ecdd6122f84d5d454a"
+    },
+    {
+      "type": "Theme",
+      "name": "comportements",
+      "id": "Theme_a73fbf3708430c6663203f4d652195de6ca30911871fd1774a7d038a53fe0bcf"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "concitoyens",
+      "id": "Theme_0ff3925b7ba63cbf673a2472bfd56efd3c66e053d51097b02b91824a782e7ed5"
+    },
+    {
+      "type": "Theme",
+      "name": "politique",
+      "id": "Theme_1cb4f0bce716a6b484eef837bedaa9ad546521428b441b7a4baa167af1dc28bc"
+    },
+    {
+      "type": "Theme",
+      "name": "petits arrangements",
+      "id": "Theme_3407be8af7583e918aca35a9caed4d5c5d0707c1076e31baa72fe7e40730069f"
+    },
+    {
+      "type": "Law",
+      "name": "la loi que le gouvernement proposera",
+      "id": "Law_62f9472c73803ae307a82e344080704c3026189b827abf9d9c80775c2a53197f"
+    },
+    {
+      "type": "Theme",
+      "name": "société de confiance",
+      "id": "Theme_f9f0235745da9301e2641d7a3f26617b47416be87c6809e64cc1658210a48d24"
+    },
+    {
+      "type": "Theme",
+      "name": "corruption ordinaire",
+      "id": "Theme_06e4aa8fdecaab44609e1c4d3722d2bf47f5982e190bc76e99644f20af38d08b"
+    },
+    {
+      "type": "Theme",
+      "name": "opacité",
+      "id": "Theme_1b80095fa73acfa5ad991394aa07a15f871415c2e28687f562c2104ca74bfe31"
+    },
+    {
+      "type": "Theme",
+      "name": "clientélisme",
+      "id": "Theme_aef603da70683bee6be934e00c8090af870c131dd5c9c2876a4dddbd19687c06"
+    },
+    {
+      "type": "Theme",
+      "name": "société de la délation",
+      "id": "Theme_15eea6b5fe2e4ab329cdb2088d7ceae2ef12c60258f4b48f4628525d75c68c85"
+    },
+    {
+      "type": "Theme",
+      "name": "soupçon généralisé",
+      "id": "Theme_fd83464bfae3b75d7947d7ed24568a1dacf92444fbc878b2470e5f749108f149"
+    },
+    {
+      "type": "Theme",
+      "name": "impunité",
+      "id": "Theme_b7595ba35933731a3885c61f353aae7eced51b66fcc5b11e42bd71d8e2d4bdb2"
+    },
+    {
+      "type": "Law",
+      "name": "loi du gouvernement",
+      "id": "Law_d53662b833735128fa7c50087dbbebbf1fca20ab1873adb8597c45ee182b5ac2"
+    },
+    {
+      "type": "Theme",
+      "name": "frénésie",
+      "id": "Theme_b735a745021ebe1e1df5c83c968748b59174af08e36872ebc38cfc9f85123566"
+    },
+    {
+      "type": "Theme",
+      "name": "fidélité historique",
+      "id": "Theme_172d12b69feb613a1f38eaf3baa0466c2f69d6c0d819cc5c631ac0b27e4992b5"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire pro-coloniale",
+      "id": "Theme_939f9ced74067eeb6ddb478f9300be131b2455cd345a4c45fc282a09c552b21e"
+    },
+    {
+      "type": "Theme",
+      "name": "repentance",
+      "id": "Theme_b0a2f3d499ef327faaf4ebbff2e05bb0b50d639b357dc94d41d067ce69ac18b7"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire identitaire",
+      "id": "Theme_9467f6758ca37941920113648a64202cf14859de619e2d85467d6414b9bde7a5"
+    },
+    {
+      "type": "Theme",
+      "name": "multiculturelle",
+      "id": "Theme_2f3615fefce3500a32f68d0c062e03f7c2476795ca67e0ea0735b70640b2fd79"
+    },
+    {
+      "type": "Theme",
+      "name": "fermée",
+      "id": "Theme_c85da485cb924efd9507df23d45e923f3d51cba0fc76bf4fd0550515195f4acc"
+    },
+    {
+      "type": "Theme",
+      "name": "ouverte",
+      "id": "Theme_bd1544bca453c8ba0a7a89429c8fdfc796ee35d3fa6ff0394bb6923c998059a1"
+    },
+    {
+      "type": "Theme",
+      "name": "roman national",
+      "id": "Theme_c14c242c3ab1acfa85367f420c9ffbfb15da3121d7556f743d13a8060bf1d633"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire de France",
+      "id": "Theme_ba653bbf5de0c55f35346e1848a09370b27b6c2277c7e7a500609784071ceec0"
+    },
+    {
+      "type": "Theme",
+      "name": "action résolue",
+      "id": "Theme_cf5212a74bef9b18caeb52c2fd09aa333ef8da3c70ae91cd75f3bea827c09997"
+    },
+    {
+      "type": "Theme",
+      "name": "progressisme",
+      "id": "Theme_e622a6fdfeabe4623f346e3d7973479d34cb3febff58b73fe25b80a995267e6a"
+    },
+    {
+      "type": "Theme",
+      "name": "action",
+      "id": "Theme_3ffce4f33762a0b7ea9b1cd6439622fbef0109ddce7d1e3c85d98922fcce7c5a"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité partagée",
+      "id": "Theme_b56020c04cf99e8dc22662cd79eaf084e438f2a0a339d13b28fbcef5cb87ac60"
+    },
+    {
+      "type": "Theme",
+      "name": "fidélité",
+      "id": "Theme_1b6a91a20c1ccf6c2cbbf43eca23d1e9abe6432e4773a61a3803de0c4465912b"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "république",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "homme",
+      "id": "Theme_acc589b846708b69c385eab991cb15a0e0d88162b57a670355c0413fdb7bb158"
+    },
+    {
+      "type": "Theme",
+      "name": "destin",
+      "id": "Theme_d09e3903dadfffc2520eda8a2b2d6964de6c594e64c980c6854196aff3f81626"
+    },
+    {
+      "type": "Theme",
+      "name": "valeur indépassable",
+      "id": "Theme_87de37f82be171172085a6048da243f8f6a1ca09eaddecdf4d199a7003b6e411"
+    },
+    {
+      "type": "Theme",
+      "name": "grandeur",
+      "id": "Theme_2091530389bac6d11d451e111434d593d21b5188ba5b976d87fec244bf6427a3"
+    },
+    {
+      "type": "Theme",
+      "name": "société des entrepreneurs",
+      "id": "Theme_a1b23c10b4025d41375161ebb3e67a8afde9f100812566f9338d72495cb4c069"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Edouard PHILIPPE",
+      "id": "Person_eee3db1b9dc22c9e1de6f90e00c02ebfd810f3c94392c588dbce10d535fca9d6"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation profonde",
+      "id": "Theme_aeb011aee1b03a9cc6d55974232f391cd3cb5affa1833a554e1bfcf158ccb627"
+    },
+    {
+      "type": "Theme",
+      "name": "République forte",
+      "id": "Theme_92f4a93b31a0425bb442b639d211c7d7cfaa5589b9069933cb6d395bcb6b138a"
+    },
+    {
+      "type": "Theme",
+      "name": "Institutions puissantes",
+      "id": "Theme_049cae96875ff1b5d5e9d3f48c390b41b78d8f608d370d8f4481eac87fec9bd0"
+    },
+    {
+      "type": "Theme",
+      "name": "Représentativité",
+      "id": "Theme_da99741fab0b7633cb8de5ff0529fdf1469d1b305e6040e3aa6d19e8aa1bd58f"
+    },
+    {
+      "type": "Theme",
+      "name": "Responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "vitesse",
+      "id": "Theme_983f3aaa3b293b9619b8bf177eacbf4e6d86bf371d4ee6727a7e34575aedb62b"
+    },
+    {
+      "type": "Theme",
+      "name": "prolifération législative",
+      "id": "Theme_0d97233477997c3c3cfb4ba2889181a68f8c5da6afe48f8270d953d71b79eca0"
+    },
+    {
+      "type": "Theme",
+      "name": "vigueur",
+      "id": "Theme_656c99973a3ba35a62e4f8ce7de3064d4e2467e6d393e7e89340650eff67806a"
+    },
+    {
+      "type": "Theme",
+      "name": "sens",
+      "id": "Theme_a497d3133b843f82d7a6211f676857634d7c3318e72e0acb4e21f67160639131"
+    },
+    {
+      "type": "Theme",
+      "name": "circonstance",
+      "id": "Theme_bcb3eea095583ec5b227942410dcd72e1c36a63087d51be8c73546b74ae5f7c3"
+    },
+    {
+      "type": "Theme",
+      "name": "imprévu",
+      "id": "Theme_8d69a2c1720756615558ee3baee8fdcf64a30b29dd551fb8b9957128c94e9848"
+    },
+    {
+      "type": "Theme",
+      "name": "travail du législateur",
+      "id": "Theme_9d4562b7a29f55dcf993b9d86efa5602ad59a5725c6ea4070c53af4cf37c4c5f"
+    },
+    {
+      "type": "Theme",
+      "name": "loi",
+      "id": "Theme_aaa751cd5b857da1d5f067b90439cca5af7e59784eb0537f6c5b647db27ec7a1"
+    },
+    {
+      "type": "Law",
+      "name": "ces lois",
+      "id": "Law_a6e64424a957ea1fabb5164f4312feddd5b2127f312aa09758b8dfbafb0caa11"
+    },
+    {
+      "type": "Theme",
+      "name": "la dignité législative",
+      "id": "Theme_21cc438de76c93bd3526b4488ffe4124ff58a26da03f9bdb56f3915966ced8ad"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue social",
+      "id": "Theme_ee894356fb7b18c232f5f8942280aa5130fa4a4bf5c6ae081e42c62ae85a0fce"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme",
+      "id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "type": "Theme",
+      "name": "lois",
+      "id": "Theme_766b24b40ca0257b39bc7b38835ebf4e150e279ff118a5f34e52aceb71952783"
+    },
+    {
+      "type": "Law",
+      "name": "encadrement des pratiques issues du numérique",
+      "id": "Law_16a1577478600c5754ff136652cb19622f1cf919ff9af72e55b1e3f320512138"
+    },
+    {
+      "type": "Theme",
+      "name": "vie privée de nos concitoyens",
+      "id": "Theme_05bbeb87f2558daaebefef8c8a249f552baa49a8e41e50309773f8ede176a1a7"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité nationale",
+      "id": "Theme_6e3c575bba1d32c7b65c86a9f29d3ebac5a19094274e080661e1e152cbba68a5"
+    },
+    {
+      "type": "Theme",
+      "name": "travail parlementaire",
+      "id": "Theme_d4c26eefc7a459bc39b5adf1b134c83656ee953971593d155c35c926f73807ce"
+    },
+    {
+      "type": "Theme",
+      "name": "moyens",
+      "id": "Theme_f93c94428a89608982dc63333411fda610bd8010d778906c19788a577d156d43"
+    },
+    {
+      "type": "Theme",
+      "name": "parlementaires",
+      "id": "Theme_889001cd42eca1c8593ab8df46e4a7eba2da6bd184285a24cc21ec80c26e6796"
+    },
+    {
+      "type": "Theme",
+      "name": "collaborateurs",
+      "id": "Theme_f5b75750ec19ade054d42e4370b04cfd76cdd8af07881857162de1aaa5459316"
+    },
+    {
+      "type": "Theme",
+      "name": "antiparlementarisme",
+      "id": "Theme_b8433a3b724f8ac1de1252dc428edf5bf631488393425e6478e9d30e12a57ee8"
+    },
+    {
+      "type": "Theme",
+      "name": "pédagogie",
+      "id": "Theme_b22ddb6d3f49bf2d8dc94bc5cfaf692d45125c42d41bf64f6f59788dbe134874"
+    },
+    {
+      "type": "Person",
+      "name": "SIEYES",
+      "id": "Person_dc18df82564c6ad7f9ceb2d22e8cf5eb499f0861b87723cd5536b6c9b2fd731f"
+    },
+    {
+      "type": "Person",
+      "name": "MIRABEAU",
+      "id": "Person_4e5037a773697eb41bbbf77fee40b7fa2a26a69ed1726fb914065e4eb2b09e67"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "Parlement",
+      "id": "Person_73cc120314f627bee35cec9e67360af8c2076c41d9c555a81f93d6d46ea77d0b"
+    },
+    {
+      "type": "Country",
+      "name": "notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil Economique, Social et Environnemental",
+      "id": "Organization_19616598c591f7775dc5770d3ae318d6bd8d68743a97bbefcc32b6afe92e1609"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil Economique Social et Environnemental",
+      "id": "Organization_61176af2d42d536587e1fc2a28f6e2174b025bfee6b8fbeb78b2ed1fbbd56076"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Theme",
+      "name": "consultation",
+      "id": "Theme_f3fbe9d52f9b5417105677fc030a98ce50f90d1c1d04d9c9e470f09829cbcd27"
+    },
+    {
+      "type": "Theme",
+      "name": "société civile",
+      "id": "Theme_4ba7aa942ccd795edd1260d2b484f3fbe0834828833209e75aa0f515937ce888"
+    },
+    {
+      "type": "Theme",
+      "name": "procédures",
+      "id": "Theme_eadb30aff3ccccd0da665303dde6fb7bab63f35b109b026e43e778fa66178d98"
+    },
+    {
+      "type": "Theme",
+      "name": "fabrique de la loi",
+      "id": "Theme_6c04b7837d3f1e0206c569713c49d0e3af4990156a6097174bbe498bc9097f4e"
+    },
+    {
+      "type": "Theme",
+      "name": "sensibilités",
+      "id": "Theme_d2d0eb33795541994e3fbc1a4e639a30252e72b2979815fa63b91da8eb3ce3e3"
+    },
+    {
+      "type": "Theme",
+      "name": "compétences",
+      "id": "Theme_f4baf676a1a91b846e556f812ea2e6452ecc1b7c2b3a87f971cd7e60c4b42995"
+    },
+    {
+      "type": "Theme",
+      "name": "entreprise",
+      "id": "Theme_25b5d00575bee3dcf8351135c79afd8d31a4fc928ff5c84dbe75baa0bdcddeb1"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Theme",
+      "name": "entrepreneurs",
+      "id": "Theme_e4207dcc762b06be54e50b07a23efe4d7d2f6d0bccaf7dc9fdc8677ecb225d0a"
+    },
+    {
+      "type": "Theme",
+      "name": "syndicats",
+      "id": "Theme_1ae0284e65b8364130d03a515b7f1f6d8958c4b912b7e58579e8bb90922da0dd"
+    },
+    {
+      "type": "Theme",
+      "name": "salariés",
+      "id": "Theme_04243cc57664609d80cdd5312a0df5335f0df59472995bbc5fa4cd059e41fc5d"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendants",
+      "id": "Theme_4bf9baff950068802ae2673a9dffcbd46038ebfcecc229f7cd8b1b1338d1db59"
+    },
+    {
+      "type": "Theme",
+      "name": "associations",
+      "id": "Theme_ba784fb43b994117eb1ae0415261deea69166fb8bcdf66cb084dfc838d7b5c36"
+    },
+    {
+      "type": "Theme",
+      "name": "organisations non gouvernementales",
+      "id": "Theme_c0c1c6662440583835c609bd032aa500bf4f67b00869627229ccb0d3b78d2136"
+    },
+    {
+      "type": "Theme",
+      "name": "droit de pétition",
+      "id": "Theme_601f9abddea86b2b306b491bd3edef48c9f414ee6e84ad0b6965ff09e06fc1e5"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "débat démocratique",
+      "id": "Theme_f032dcd1a3f7c73090cd6fa39e732c1b44c67b8fc04095965d3f941892d1f21c"
+    },
+    {
+      "type": "Theme",
+      "name": "débat parlementaire",
+      "id": "Theme_83abb24df793624931c3631ec5c203f4b5d51c502e27daa588a3c084d39e4fb5"
+    },
+    {
+      "type": "Theme",
+      "name": "société",
+      "id": "Theme_23d952489b07041be7b06f706f86ec7cfc55af055e1b2e2f815671e6fa2ef5ed"
+    },
+    {
+      "type": "Theme",
+      "name": "Parlement",
+      "id": "Theme_0aa78d53784e191882011a40fcb9467df4a94551b7260c35671be73a5220154c"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle",
+      "id": "Theme_56a9d80cc5c5f0db6a7fca8c1a2a686f455c689decc2e4e4abf4b873bfde1657"
+    },
+    {
+      "type": "Theme",
+      "name": "majorité",
+      "id": "Theme_75ae488d573565097dbda670bba857b3b5afe8114a6881faa012b320a16fee3f"
+    },
+    {
+      "type": "Theme",
+      "name": "oppositions",
+      "id": "Theme_095b9eb5d0db5d91de72d63c818353db941fc2a7bcfb93b6a518972179b433c7"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité politique",
+      "id": "Theme_7865e37096afb8e542ca6182797d24e1b774737bffaf74e7a8ff964cb617c645"
+    },
+    {
+      "type": "Organization",
+      "name": "Cour de Justice de la République",
+      "id": "Organization_d671704b5f58bab465f13926b8ce698ced918d9de1e028749ae496390b1fcde2"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil supérieur de la magistrature",
+      "id": "Organization_83c96c33ddcdd90adef26417991592ad4ff79cf8c6366fbacd54f118e3d0c7a5"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Garde des Sceaux",
+      "id": "Person_02c0a99d5cab81101e8da4605a5b91b5299feaeb0ddfdc626bd921666f435eed"
+    },
+    {
+      "type": "Person",
+      "name": "nos concitoyens",
+      "id": "Person_05d0c72ed8dc65ddc645a6c5341657deeb75fb3e8829a1ec53404203b192df76"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte civique",
+      "id": "Theme_44beaddd2c4c7749dc0f8b097beb7b884de1d8cf0c6e2c81222527a9bd6d051b"
+    },
+    {
+      "type": "Theme",
+      "name": "contrat social",
+      "id": "Theme_26747a190034894253a929003fa19df349606f2d4d42502999bfa3d3810599e9"
+    },
+    {
+      "type": "Theme",
+      "name": "centralisation jacobine",
+      "id": "Theme_f4908327ee0962274171218add08f0a8842f07915f748edb3b97fa15e06e7bcb"
+    },
+    {
+      "type": "Theme",
+      "name": "pactes girondins",
+      "id": "Theme_f3fa8b299f66d08aed8c760027711275f90ad25bf59ea677ad2b2c347fc97d11"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de confiance",
+      "id": "Theme_37a254c92f09e093b5afb080ecaee87560a010f0e55fab1188004d6745b913e6"
+    },
+    {
+      "type": "Theme",
+      "name": "République contractuelle",
+      "id": "Theme_7902240044bacae6f734f7708ce34c91d034e13702b44499dc8f67b8db1e5983"
+    },
+    {
+      "type": "Theme",
+      "name": "autorité",
+      "id": "Theme_212da0e5472584111e4a785cdbfbba838d07d4e4248f7c7854a87bd77295e2dd"
+    },
+    {
+      "type": "Theme",
+      "name": "concorde",
+      "id": "Theme_f65df85d0fefabdfe7fa762e21d45e7beb890a9796dcfbdde60b126b127f1610"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de nos institutions",
+      "id": "Theme_73c277ef78120630315bc33291db7e5462eaa721f5f6d3821024202f4c6d1cc4"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtrise de son destin",
+      "id": "Theme_5e51b4256fc6aef4b66d279fcc9e5e1064707a89509d9c47bc5e8a64d99f991d"
+    },
+    {
+      "type": "Theme",
+      "name": "fierté de reprendre en main le fil de son histoire",
+      "id": "Theme_55cdcad0b89511a5c934f5ca667494f424e10593a99f65d6d9ed4ebf1196194e"
+    },
+    {
+      "type": "Theme",
+      "name": "réconciliation de notre pays",
+      "id": "Theme_3003caca47fcec17c8941d1362ea39786d40ee3c68bbae009501ae56b3d3f01b"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté forte",
+      "id": "Theme_07904d014ac4dcf34fd0d929a627a9fb71d0036a00de1d0a8cef8be4e84db681"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit des Lumières",
+      "id": "Theme_cb122845cbd95fc128738274e43c9d0e7919e450fe58d9872fdc8ddfc2ad2a1e"
+    },
+    {
+      "type": "Theme",
+      "name": "la liberté forte",
+      "id": "Theme_f8cba48fd325fca7a6cb08c38dbacf442aca6bf5b48d976cef596c6c3a5d27b0"
+    },
+    {
+      "type": "Theme",
+      "name": "les mobilités",
+      "id": "Theme_32dce2a25b29cfc02d21f93635ae0aff528132a144b1949f309801ce4d1fb020"
+    },
+    {
+      "type": "Theme",
+      "name": "les accès",
+      "id": "Theme_d73e142b34adf64ef0daf7a69821b7c8228bf61f90eb20a4fa5c264295b8b3f6"
+    },
+    {
+      "type": "Person",
+      "name": "Simone VEIL",
+      "id": "Person_4da84d085d0414be46d06181049192bfa187ee57577e2d7a7fe5104add18936e"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "exploration",
+      "id": "Theme_d64dbac8e193fa58efcdfa2d24dc18c52c715f0eb75760fa622697fefc4ca5b6"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurités",
+      "id": "Theme_53d533301f3371fc992f3f97511aab038c0b1971339c5506869a16613903d648"
+    },
+    {
+      "type": "Theme",
+      "name": "transformations économiques et sociales",
+      "id": "Theme_d79ef5acb417e85e9f8e986a3f415f8fb94908d0a06e0e9240b358aadb04d28a"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurités individuelles",
+      "id": "Theme_e99aad48045005afeda1bea087d084942be84c52eee207551cfdc800fba6eeaa"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "exclusion",
+      "id": "Theme_374bdba9be410457596454ef71bdf9e1ab6458e147f0a2d52e1ac2c7b6537608"
+    },
+    {
+      "type": "Theme",
+      "name": "société des statuts",
+      "id": "Theme_4941a3e4e809ad83ae44bdcf78bb37a9eeb1ad6b039828d6c1d5df59bb44a066"
+    },
+    {
+      "type": "Theme",
+      "name": "victimes",
+      "id": "Theme_a7999a7eb951899aed75926ae55f67d0af5112abf84acf85b01699a89996cd84"
+    },
+    {
+      "type": "Theme",
+      "name": "France endeuillée",
+      "id": "Theme_4688cb9b96a8866553e5b8143a7fd6ac2fb39a0c9750af2e14d18729522b82a8"
+    },
+    {
+      "type": "Theme",
+      "name": "nihilisme",
+      "id": "Theme_6fa3c230bdd77332320636b8bc3b85d1094df7c1b51f8c9594901f049709b831"
+    },
+    {
+      "type": "Theme",
+      "name": "code pénal",
+      "id": "Theme_54ead393f48fd7cb1d005fb6bf3ed5d53e5a214c66b91695c5c2050322f1c406"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoirs des magistrats",
+      "id": "Theme_f9e282f3b63d33ad160daaff4ac765b0e050091cf997dd24148d1c1c487f04a5"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte",
+      "id": "Theme_7708840b3d68c43d6a94a7b54aa6236d0d1084de70b1696c5042b52121652089"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "pays rassemblé, uni sur ses principes",
+      "id": "Theme_1dc5ea36616df4463b087751dbb7873556045a0fa578ba293fb8619326ef1f3f"
+    },
+    {
+      "type": "Theme",
+      "name": "société pleinement consciente de ce qui la fonde",
+      "id": "Theme_9b01e140bb43d39a203edb0fd8334a9a96edd1249af41369f560791cb6f09dc5"
+    },
+    {
+      "type": "Theme",
+      "name": "aliénation",
+      "id": "Theme_0de6dc0351f4de085b6788f5170832c5a7c19c0a1c3b8f19e5e5d2f36e2231b3"
+    },
+    {
+      "type": "Theme",
+      "name": "volonté de nos adversaires",
+      "id": "Theme_c1f99ce373edcb60cab9ccb19880e5f2ea1211a974dd50aa4fab418eb428465b"
+    },
+    {
+      "type": "Theme",
+      "name": "Constitution",
+      "id": "Theme_eb4b390baab57a0b5493dd655d96373dd60c1ce0a0b39dbd0a66ba091f181c89"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de conscience",
+      "id": "Theme_d629fee88dcca2a4abc3b120e22b75234ca0ea2a050baf8d27e11c46ff72d2a5"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté intellectuelle",
+      "id": "Theme_ad1ce37f0449928ef8a3d5cc4d99aa778989febe8541d9895164e8dfaf9cfc20"
+    },
+    {
+      "type": "Theme",
+      "name": "obscurantisme",
+      "id": "Theme_4a24212db9727059b9b326cb8f096cf94fed1ceca851b8d4a98d5c11af866309"
+    },
+    {
+      "type": "Theme",
+      "name": "Lumières",
+      "id": "Theme_6732c62137d1ca5442c751181b48396d98b70fee8cb1aa8e0c63bf00da0f0544"
+    },
+    {
+      "type": "Theme",
+      "name": "laïcité",
+      "id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités",
+      "id": "Organization_82cf8945d6e172880b094d7d80042a3a79f86b02e8d1d1f8c4efe9bbfd946230"
+    },
+    {
+      "type": "Organization",
+      "name": "associations",
+      "id": "Organization_093357ed588ea24809b2100d18e873165901f63f0760d7b30cd7fed20c85113a"
+    },
+    {
+      "type": "Organization",
+      "name": "fondations",
+      "id": "Organization_567181127ac996789fea72150d5bcb80f25b3afdd8eccedcd25982dc4093bb83"
+    },
+    {
+      "type": "Theme",
+      "name": "inclusion",
+      "id": "Theme_e76e5f6a4a72bb46a7b477ecf0d0161f48afc10a4cf4adcb9bbdfc9a6f6dc2b3"
+    },
+    {
+      "type": "Theme",
+      "name": "réussite française",
+      "id": "Theme_052b40db7f6d9da39ef6340fe9a15a346389cae7f486e169d40f3515b9dcaef5"
+    },
+    {
+      "type": "Theme",
+      "name": "pauvreté",
+      "id": "Theme_95b7ed519406cd062b2738f35707ce2b499fc7f2e5179d4c674216f14032a781"
+    },
+    {
+      "type": "Theme",
+      "name": "contraintes du réel",
+      "id": "Theme_9a3317021d0429ff4f0814e8d1f8c6dedb0cc9d78af3cdeab9815b7b9df91196"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes économiques et sociales",
+      "id": "Theme_4ede514a1bc31365287ff57583fc824618e1e1c4da65a2a864b5cef11485a69a"
+    },
+    {
+      "type": "Theme",
+      "name": "part maudite",
+      "id": "Theme_f8c00105a076142efca849afc86498907cfd17edb4d2fd7b7bd358a4c9431796"
+    },
+    {
+      "type": "Person",
+      "name": "Georges BATAILLE",
+      "id": "Person_6da322941f936ed87dfd534f19e4230fdd04eef4a106f99b33939903b68efadc"
+    },
+    {
+      "type": "Theme",
+      "name": "sociétés modernes",
+      "id": "Theme_a9f51e741dc5459837cfafde38fa9ff6e8c0bf985ef8ab5887bcf367de64554f"
+    },
+    {
+      "type": "Theme",
+      "name": "appartenance",
+      "id": "Theme_58a55c5540e1c9a09bf18cfcde6ed0fe12db1ad70eb95582e062c230491c1f89"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "école",
+      "id": "Theme_e4023600e045c977a775d339830e8508634d36394f9b8486f09d01cdd3b05e6b"
+    },
+    {
+      "type": "Theme",
+      "name": "université",
+      "id": "Theme_7d5b550e5a2ab05efa6a5e8d896240e9e05847533196eb76b0e3ecd52ba4907a"
+    },
+    {
+      "type": "Theme",
+      "name": "familles",
+      "id": "Theme_7803335bd4102638e9751d299f711150ecf341d6610d43b5b977c8b5e87c589e"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "langue",
+      "id": "Theme_503878fae38cf6a116099ef03b8fe0423aa370b33f0af8b6450b8ae129feef43"
+    },
+    {
+      "type": "Theme",
+      "name": "savoirs",
+      "id": "Theme_008a46ee68af63ee8a0b5d6276c8b9a4e409a2fdbd9310905fd09973c7f80015"
+    },
+    {
+      "type": "Theme",
+      "name": "crise morale et de civilisation",
+      "id": "Theme_8af9a352eb2dcc157864de6f164e18bfc3616e3d2472e0795ab6459ca14b49b2"
+    },
+    {
+      "type": "Theme",
+      "name": "imaginaire puissant et désirable",
+      "id": "Theme_91b74c95c085b52bea69cc4b75868c5fee83943be23cfcb125ca0c76f43a2a0d"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence",
+      "id": "Theme_03b687ae69479c829a7f30314ea23d1b3a6d4c82f2cea3968ce973b361cfd0cd"
+    },
+    {
+      "type": "Theme",
+      "name": "chercheurs",
+      "id": "Theme_27b19537bc2e5f22d12f1962f8f70e1ee1a330abc70b7478cf5d5d7563117776"
+    },
+    {
+      "type": "Theme",
+      "name": "grands physiciens",
+      "id": "Theme_aeb142f141d77f05383c1271404ce543ddaf0c68c6e66e545815db28f4781989"
+    },
+    {
+      "type": "Theme",
+      "name": "grands médecins",
+      "id": "Theme_3f64a4be1e74a2311b4e7c36ce845422c4947db25582cf24054dfbe8360cba40"
+    },
+    {
+      "type": "Theme",
+      "name": "inventeurs",
+      "id": "Theme_165feec0036f5f2d2dfd2707bc00cce6624b35881b1a1b1d15b1c1363e335f11"
+    },
+    {
+      "type": "Theme",
+      "name": "innovateurs",
+      "id": "Theme_27df10546bfe564172431544bdd05950305e5d41ec40af0ab3923057bdfbbe84"
+    },
+    {
+      "type": "Theme",
+      "name": "écrivains",
+      "id": "Theme_b9b58ba8ba8ddb6f1b8d5c9f5b17ca087b51564d11e0f2fbd01b20f37ec4f857"
+    },
+    {
+      "type": "Theme",
+      "name": "philosophes",
+      "id": "Theme_611f46c014543807e3b4722d393fe819d1b4a0a12e67336f207924ff7f377c10"
+    },
+    {
+      "type": "Theme",
+      "name": "historiens",
+      "id": "Theme_b1d24864b97b64a2bb4a64074e9d1b1d1d8bafecb97a97e5142c5ea9ac854138"
+    },
+    {
+      "type": "Theme",
+      "name": "cinéastes",
+      "id": "Theme_5beaf6bb7910a542e6d52fda566e13f74acfd421af1603ae229e718621bbcf7d"
+    },
+    {
+      "type": "Theme",
+      "name": "peintres",
+      "id": "Theme_ee3b0a92b96302dc71858ad99f61291a9108ffeba4da4f4ea2e54274b0338d06"
+    },
+    {
+      "type": "Theme",
+      "name": "musiciens",
+      "id": "Theme_b5995a8230b29de93a30f06fe51a3b125a9ee3fe1044c5e0d9d85fcf6aaa980a"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence française",
+      "id": "Theme_36ec550bf5c26a99853b9061b595c4a07ba391ab9abf436330133aad112eb150"
+    },
+    {
+      "type": "Theme",
+      "name": "principes de lasile",
+      "id": "Theme_647f9b7b07d79a4386f1cd86c5c3786e39ecc74a0c91667b47d035fab586f4b4"
+    },
+    {
+      "type": "Theme",
+      "name": "système",
+      "id": "Theme_8d2bd4c17ae9f6aedd7a809555b1cce0c3cd227f3ba23f2a66d0a3fd1d2e5161"
+    },
+    {
+      "type": "Theme",
+      "name": "demandes de protection",
+      "id": "Theme_f15c35d6be882a2a4bc81828ccfce4ae9ab4ef6bf8b51eca138afc19100421ec"
+    },
+    {
+      "type": "Theme",
+      "name": "hommes et de femmes menacés par la guerre et la persécution",
+      "id": "Theme_c6fe89a5080e0325d95713613041940e2708cf6c22cc900b63966dab0b128bcd"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveau projet humaniste",
+      "id": "Theme_4bdb30fb03f1d4dce29eca0434912a3ac7f4be27f39a8c42a62a0bea028aa6d9"
+    },
+    {
+      "type": "Theme",
+      "name": "alimentation saine et durable",
+      "id": "Theme_247acf3faac853882a92f67db2192f18fde7f122933f7558533be165ce7dc28d"
+    },
+    {
+      "type": "Theme",
+      "name": "finance équitable",
+      "id": "Theme_3c593099ada98126368e0c1de8807d117266b13a64baa0bf863f154a079fab52"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction des émissions",
+      "id": "Theme_724f2b13f834a9be336785302d20af1ccd3384923baff65e6333996b0cec038a"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie",
+      "id": "Theme_fa010b2e87d32c400a0a52b10fe00d186b07d80baf9792842d534698bb9241c6"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "interventionnisme public",
+      "id": "Theme_b18648373ef58da09654e10684b6b36e3d6b0c5419fcd2e9694230c588cddfa0"
+    },
+    {
+      "type": "Theme",
+      "name": "services publics",
+      "id": "Theme_9d23f2423869f33761b54988a51c02bcaaec512697b3c1f29a8001cba8569472"
+    },
+    {
+      "type": "Theme",
+      "name": "fonctionnaires",
+      "id": "Theme_4de027c6504244be99deae69cf5298fcec372d5c2dbea3f572ced83faaf4677d"
+    },
+    {
+      "type": "Theme",
+      "name": "droit du travail",
+      "id": "Theme_3e6f6ba2d1e13d1b978b7a38d281243d03e1a75275e705359bab62c4061bb76c"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "menaces",
+      "id": "Theme_5201cf50196d98191911da5de2cdaf6bf22b8dd545685ef548c3099e082fe05c"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance",
+      "id": "Theme_d8895f67d26ec9bc257a9b6d9015cbffdb3029611e550d517fabb25ec9d2c101"
+    },
+    {
+      "type": "Theme",
+      "name": "sociétés",
+      "id": "Theme_fe833d4653f5c9552e8c9c71993635978cec94fe799b0a35befc37cf9a873a5d"
+    },
+    {
+      "type": "Theme",
+      "name": "guerres régionales",
+      "id": "Theme_8a5dbb619d148178d2172bbad31965c7adf57432ca58143c7b0825887a0b61db"
+    },
+    {
+      "type": "Theme",
+      "name": "alliances",
+      "id": "Theme_a4e8b448156bfbbc4fec59d51b9add10c25db7f224734e8d13a3d4a0545bb154"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre multilatéral",
+      "id": "Theme_34c1a403d1eaca28ad82809174319d9c81868477bde366eaf9fba2f29611dec4"
+    },
+    {
+      "type": "Theme",
+      "name": "régimes autoritaires",
+      "id": "Theme_3b56a8b302aada058cc635e25f3ae62daab2def7792cce1c636c18d54f21a42f"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre du tout contre tous",
+      "id": "Theme_374ad309b2fe106d5c54ebc51f79a7bad8ea037fc11c4099c2cbe25623fe186d"
+    },
+    {
+      "type": "Theme",
+      "name": "dérive du monde",
+      "id": "Theme_2058e4e57d27e19367be16a45d3b28ab7fc646428d36dbcc17008c3d32058fb4"
+    },
+    {
+      "type": "Theme",
+      "name": "négociation",
+      "id": "Theme_cd534909538d9126e7d675840d69d6bf8a610fcc86f290154dc42ad3edc6363f"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Country",
+      "name": "Levant",
+      "id": "Country_2f6cd024613a3e3a716284591d0c921310d3a2267fc6598a46557ae67ac39cec"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Golfe",
+      "id": "Country_ac8661770dc3026e069383e9514a9b33c6c82098bc7578ff7900f3e2e3bde5f1"
+    },
+    {
+      "type": "Organization",
+      "name": "nos armées",
+      "id": "Organization_166049284ebdc85e0c7ecc46d864ee94e3f8377d231b7f0123832256924e45b1"
+    },
+    {
+      "type": "Organization",
+      "name": "Nos forces armées",
+      "id": "Organization_bd810b6e189b5fad5bc9692c4c036c345fc1bc355135d4980fae7bfda629bb15"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "bien commun universel",
+      "id": "Theme_7ff82a00b2d21e87181a0a07fed4d3b809777470919a8473dc8efafb3f7d6551"
+    },
+    {
+      "type": "Theme",
+      "name": "démocraties",
+      "id": "Theme_56cab7a53aa93e99087fecefd082e66c8d079b1bc5400d121f702e8873b1648d"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs libérales",
+      "id": "Theme_33fc17c3ce50bcc4b2563848d3d952d1f5fa70f31f6c1578e25078abdb5c0226"
+    },
+    {
+      "type": "Theme",
+      "name": "économie de marché",
+      "id": "Theme_c84ff9c3c2c5e2417647e15e07e2a0aa64369f1d3b40bfd4c8c00a9d34df36d4"
+    },
+    {
+      "type": "Theme",
+      "name": "classes moyennes",
+      "id": "Theme_51e81a3a86f221548aab0ff37af5181c0703af7bed5eeb5c9d9976386a312914"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre international",
+      "id": "Theme_289a437b7ebd1758f517244ffb7920e1783b8884a6c25a392dab8d910194a767"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "crises migratoires",
+      "id": "Theme_5d932f20408b38e0064f8fc1420b2f1d2ec27aef1e4560529cc841b1a87aeaad"
+    },
+    {
+      "type": "Theme",
+      "name": "développement",
+      "id": "Theme_9f563f6fb56281bb29449c280e882333dd332f1e1e2aa5ff1e49c8654dc6f9a4"
+    },
+    {
+      "type": "Theme",
+      "name": "indispensable maintien de nos frontières",
+      "id": "Theme_6493ebbcf072b077230a61718e621c61f6d33e8313b68e609fe61a03d1499c67"
+    },
+    {
+      "type": "Theme",
+      "name": "une Europe plus forte et refondée",
+      "id": "Theme_6241cdd8f6c033a9fc316dc16d3b24c40887d2f7d7fc3c84734a97f7a0905fa7"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès",
+      "id": "Theme_99fbe2fae74b83c0fb6be33e85f58e86e641fe47059e9c1672808dfbdcf5b5bd"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "Brexit",
+      "id": "Theme_6006dbbb0e4a76c11c05251b591ad1a5519dc0dbc5901d62bec55283dfbb2868"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "circulation des personnes et des biens",
+      "id": "Theme_6aeff68f907f62770e41d79687d8e55cae543fd17f45ca5932b533dbe0c70d7a"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "monétaire et fiscal",
+      "id": "Theme_0dc6e650e15de983da69cd5fc1fc8f634c2f956e8ce1a5b8f9199f78ecd9975f"
+    },
+    {
+      "type": "Theme",
+      "name": "culturelle",
+      "id": "Theme_f161bcc017396ba95fc2fdeb91bd58c459cf7773eccb821992887f63b6db7f38"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "justice sociale",
+      "id": "Theme_16246dbe3ca0ed4236e5c329e66d245294225d55aa4b83a70118af87947fda7a"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition européenne",
+      "id": "Theme_b9cc755f285245b083b8958673504dcd560871076cd5d85cb3fb08a1ec12002b"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement européen",
+      "id": "Theme_f67cf7d250d0b98a128ddfe094b4202745e5196cfa88359466aebb578ea8ff5e"
+    },
+    {
+      "type": "Theme",
+      "name": "visionnaires des siècles passés",
+      "id": "Theme_5d0a26c1bbbdc3f0dbf47b69ce6073adc61c66b4f7b3760480e4bfe452057d2a"
+    },
+    {
+      "type": "Theme",
+      "name": "rivalité",
+      "id": "Theme_d5e1ffde3023427213a13fc7231db75bd30e6c48b5429c743c0b316793554c26"
+    },
+    {
+      "type": "Theme",
+      "name": "union des forces",
+      "id": "Theme_1932b2908ac1823b94838939d749bf21ed51870b465fd88f9cd8d25a3affebf7"
+    },
+    {
+      "type": "Theme",
+      "name": "hégémonie",
+      "id": "Theme_57c11ef80057a84fd995626118ac010a2970c0b0b8280613a50e626e0862ae48"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibre respectueux",
+      "id": "Theme_4332c7cf48453700e8237ee15a229680eef7805c74a263cf4a3afb553ca0345c"
+    },
+    {
+      "type": "Theme",
+      "name": "Union",
+      "id": "Theme_dff137f3d672747b8fe186a3b160ca368ea9a4a12f63bf57b4170d4fa5e7f401"
+    },
+    {
+      "type": "Theme",
+      "name": "défis de la modernité",
+      "id": "Theme_a3aa8db7fb634cf16d8389c6a514b6fd9ba1b64e2a12b99a4c3a50a79ef08462"
+    },
+    {
+      "type": "Theme",
+      "name": "transition numérique",
+      "id": "Theme_e0a76a48c21ea818fd9ce341506e55efda05bd398e6515f7f291fa137dc24d00"
+    },
+    {
+      "type": "Theme",
+      "name": "Humanisme contemporain",
+      "id": "Theme_9e08a325ddc256130c751e3c7375c2f7470467cdfa71b46fbe0b816b1aadd2e7"
+    },
+    {
+      "type": "Theme",
+      "name": "fanatisme",
+      "id": "Theme_f71ce0efe10900c3f2b977acd3836e5aecd8aef8f939d0b73e27d7c22c85185f"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorism",
+      "id": "Theme_a348838fece2a9c780044dab4f291a936095c2be9a10ee5e2924e483e90652b2"
+    },
+    {
+      "type": "Person",
+      "name": "Fernand BRAUDEL",
+      "id": "Person_d686edafe93db11864c19bfec01cab6c3c7d7ab7b39461ebb47ed3e82cfe9796"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Parlementaires",
+      "id": "Person_ee51dc2324bec5b163f1b8c4d3c4713f0a34d4232a11b6a3033c9f8b0c2a0fa2"
+    },
+    {
+      "type": "Person",
+      "name": "Simone WEIL",
+      "id": "Person_c1dbb05b80e7521e58230cf678cfd0d0e5a8a2c4f0d330dec664cdccad8e3c9f"
+    },
+    {
+      "type": "Theme",
+      "name": "espoir français",
+      "id": "Theme_e7ad1546d8b3c17c1d77197383bc5bcb54113529e9a9cf7d7dd6b6aeb4573edb"
+    },
+    {
+      "type": "Theme",
+      "name": "forces adverses",
+      "id": "Theme_3a1d9c23b6135c184d3222ef63f305c61372e341a06a6bda552a6a22481e086e"
+    },
+    {
+      "type": "Theme",
+      "name": "devoir",
+      "id": "Theme_6e292e98f50e3e850a47789cf53027b698a287df6c8abcf7e9b5bbd3cf317de6"
+    },
+    {
+      "type": "Theme",
+      "name": "moment que traverse notre pays",
+      "id": "Theme_d9f59dd639b00aeb5646947e06f9e58fdf0f81e075b0aac5f1e9c29ef7612fa1"
+    },
+    {
+      "type": "Theme",
+      "name": "service que le peuple français attend de nous",
+      "id": "Theme_59e42231b4dcfccb78de0775dd871629bc30cebbff699c3fac4b6bb2cfbb452e"
+    },
+    {
+      "type": "Theme",
+      "name": "promesse de nos commencements",
+      "id": "Theme_e746bedc48d1f6d77aa6118943616df9ee10936d0c3c3366a38106d3bcad094f"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "mandat",
+      "relation": "MENTIONS",
+      "target": "mandat",
+      "evidence": "Ce mandat du peuple que nous avons reçu, quel est-il exactement ?",
+      "confidence": 1.0,
+      "source_id": "Theme_1c1553b50ea918e040f5b180345647cf523aa8b4aaf976b5d7d5b5deecb47e1c",
+      "target_id": "Theme_1c1553b50ea918e040f5b180345647cf523aa8b4aaf976b5d7d5b5deecb47e1c"
+    },
+    {
+      "source": "démocratie",
+      "relation": "MENTIONS",
+      "target": "démocratie",
+      "evidence": "Là aussi, il en va de la représentativité de notre démocratie.",
+      "confidence": 1.0,
+      "source_id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd",
+      "target_id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "source": "débat démocratique",
+      "relation": "MENTIONS",
+      "target": "débat démocratique",
+      "evidence": "le débat démocratique et plus particulièrement le débat parlementaire retrouveront",
+      "confidence": 1.0,
+      "source_id": "Theme_f032dcd1a3f7c73090cd6fa39e732c1b44c67b8fc04095965d3f941892d1f21c",
+      "target_id": "Theme_f032dcd1a3f7c73090cd6fa39e732c1b44c67b8fc04095965d3f941892d1f21c"
+    },
+    {
+      "source": "débat parlementaire",
+      "relation": "MENTIONS",
+      "target": "débat parlementaire",
+      "evidence": "le débat démocratique et plus particulièrement le débat parlementaire retrouveront",
+      "confidence": 1.0,
+      "source_id": "Theme_83abb24df793624931c3631ec5c203f4b5d51c502e27daa588a3c084d39e4fb5",
+      "target_id": "Theme_83abb24df793624931c3631ec5c203f4b5d51c502e27daa588a3c084d39e4fb5"
+    },
+    {
+      "source": "Simone VEIL",
+      "relation": "MENTIONS",
+      "target": "Simone VEIL",
+      "evidence": "Ce beau combat dont notre pays a perdu il y a quelques jours, quelques jours à peine, une figure essentielle en Madame Simone VEIL.",
+      "confidence": 1.0,
+      "source_id": "Person_4da84d085d0414be46d06181049192bfa187ee57577e2d7a7fe5104add18936e",
+      "target_id": "Person_4da84d085d0414be46d06181049192bfa187ee57577e2d7a7fe5104add18936e"
+    },
+    {
+      "source": "pays rassemblé, uni sur ses principes",
+      "relation": "SUPPORTS",
+      "target": "société pleinement consciente de ce qui la fonde",
+      "evidence": "Un pays rassemblé, uni sur ses principes, une société pleinement consciente de ce qui la fonde sont invincibles.",
+      "confidence": 1.0,
+      "source_id": "Theme_1dc5ea36616df4463b087751dbb7873556045a0fa578ba293fb8619326ef1f3f",
+      "target_id": "Theme_9b01e140bb43d39a203edb0fd8334a9a96edd1249af41369f560791cb6f09dc5"
+    },
+    {
+      "source": "part maudite",
+      "relation": "MENTIONS",
+      "target": "part maudite",
+      "evidence": "Il faudra aussi savoir trouver ce que Georges BATAILLE appelait « notre part maudite », une place, une considération, une vraie réponse enfin.",
+      "confidence": 1.0,
+      "source_id": "Theme_f8c00105a076142efca849afc86498907cfd17edb4d2fd7b7bd358a4c9431796",
+      "target_id": "Theme_f8c00105a076142efca849afc86498907cfd17edb4d2fd7b7bd358a4c9431796"
+    },
+    {
+      "source": "Georges BATAILLE",
+      "relation": "MENTIONS",
+      "target": "part maudite",
+      "evidence": "Il faudra aussi savoir trouver ce que Georges BATAILLE appelait « notre part maudite »",
+      "confidence": 1.0,
+      "source_id": "Person_6da322941f936ed87dfd534f19e4230fdd04eef4a106f99b33939903b68efadc",
+      "target_id": "Theme_f8c00105a076142efca849afc86498907cfd17edb4d2fd7b7bd358a4c9431796"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France est un pays qui résiste aussi longtemps quil est possible de ne pas réformer, un pays qui se cabre quand on lui parle mal, quand on ne lui explique pas, quand on ne le respecte pas, quand on ne parle pas à sa dignité et à son intelligence !",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "paix",
+      "evidence": "La vocation de la France, sa fidélité à son histoire est de savoir construire la paix et promouvoir la dignité des personnes.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    }
+  ]
+}

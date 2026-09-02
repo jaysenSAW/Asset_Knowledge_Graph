@@ -1,0 +1,724 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la Ministre des Armées",
+      "id": "Person_58f9004827302f1948ae100e4d68b9928fb33486be40eb694e2db2c7e3d75dc0"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les Ministres",
+      "id": "Person_04725bf2245672793e76174d8746ec28f46c281ef73283bf9390941f137cf2cf"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les Elus",
+      "id": "Person_271cb721002ea7abe3b15bcad709df18a3cf4248d0db3ac918f9fa8e5753ec04"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le chef d'état-major des armées",
+      "id": "Person_1f83a1b709c29b766edb6b98978d332e04de52962a1652e0a4e20e351b1b05e0"
+    },
+    {
+      "type": "Person",
+      "name": "Officiers, sous-officiers, officiers mariniers, soldats, marins et aviateurs",
+      "id": "Person_b7614b797d5a0c6b614dfafc78774a8cbcd68cd23466bd9b5721f6cc204d8917"
+    },
+    {
+      "type": "City",
+      "name": "Champs-Elysées",
+      "id": "City_737794ff8e60390744973453898930ac065fdbfc8849d572c4492e1ea970058b"
+    },
+    {
+      "type": "Person",
+      "name": "votre conjoint",
+      "id": "Person_530fedcfd915319e07b051524c10f64268f28a09118f40032c20905ea5c9e151"
+    },
+    {
+      "type": "Person",
+      "name": "votre famille",
+      "id": "Person_2f0c18c4fda55508ea99ef76d8607fe8b4f08e60b9b1e098be74e67127225a66"
+    },
+    {
+      "type": "Person",
+      "name": "vos enfants",
+      "id": "Person_515247a3130a6d7949900e12d80e0f6d584584f98001528b1be462ce7b9bf1b6"
+    },
+    {
+      "type": "Person",
+      "name": "vos proches",
+      "id": "Person_081d432c092dedb96dbf0e1ee86053908b22c02370a2380a4073c3b45f42a0ae"
+    },
+    {
+      "type": "Person",
+      "name": "votre ministre",
+      "id": "Person_7a0cefb488c146de5bc5ed75b6fc81d4f1fe8752c04917b80febb041b746391e"
+    },
+    {
+      "type": "Person",
+      "name": "vos chefs",
+      "id": "Person_f76990e24455e4e09f46244970d46f0a8402dc4cff2005576b870b09cb85b140"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Gao",
+      "id": "City_9b0a9a5699617f07e7aa938c7f8dee1b52cad593e5a92a9337cda07458f482a5"
+    },
+    {
+      "type": "City",
+      "name": "l'Hexagone",
+      "id": "City_20d2ba72fae4e896203fa2a78c8264d90e5c7b46f7a17f728ea23c43a1481af9"
+    },
+    {
+      "type": "City",
+      "name": "les Outre-Mer",
+      "id": "City_41f627471e49c78e8952dab5ab4db2b1d32c94326b398639c8faad51ca38eb4a"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "courage",
+      "id": "Theme_4eb0829b6b279fcb2a945b12114e4f8976954c7a7fcf9391f504d523ee63a88b"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité",
+      "id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "type": "Theme",
+      "name": "difficultés",
+      "id": "Theme_226532f438cde63f47e643da8611130719f5ea2c4e92e7b9231e918ca90b560d"
+    },
+    {
+      "type": "Theme",
+      "name": "protection",
+      "id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "type": "Theme",
+      "name": "danger",
+      "id": "Theme_444bf7dd695459d067cc328fb8231323d472ac2b905eb1adf38771ea0a70e3ba"
+    },
+    {
+      "type": "Theme",
+      "name": "menace",
+      "id": "Theme_f3c948c57f7b769db8cf4e82bceeb7838b60a1fc4b69cc76b34b2369f29abc35"
+    },
+    {
+      "type": "Theme",
+      "name": "opérations",
+      "id": "Theme_a889d7eed866311f00e75329ed786f2cddd91a17c9537e4f920634cdfce3e96e"
+    },
+    {
+      "type": "Theme",
+      "name": "armées",
+      "id": "Theme_f2cbd7b6734caf8165b4c1211bb61206ddd73bf549ff9daaee32d30c380865a3"
+    },
+    {
+      "type": "Theme",
+      "name": "territoire national",
+      "id": "Theme_89a9d3788080db2196b5e8d3207bc9bf297aac09558ed987edfc35bdbe856e15"
+    },
+    {
+      "type": "Theme",
+      "name": "monde",
+      "id": "Theme_36839915f4f916c517dee200dc570577a7da1e70f69dc68e095ea54120f4c55e"
+    },
+    {
+      "type": "Organization",
+      "name": "armées",
+      "id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab"
+    },
+    {
+      "type": "Organization",
+      "name": "DGA",
+      "id": "Organization_dd765c535b316b7386231efd44e18c2229fa874ed4e2f61166e993556122635d"
+    },
+    {
+      "type": "Organization",
+      "name": "CEA",
+      "id": "Organization_56bee4e69d140d03f96302b407e9a57182af007e69e3a0511d3d22f4e01718b0"
+    },
+    {
+      "type": "Theme",
+      "name": "dissuasion",
+      "id": "Theme_f24de2941f32c3ba0adcee4f66a7efe25f851c9977d13617739aecd363151721"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêts vitaux",
+      "id": "Theme_252042cb505f30e4db2df980501341d434ed234a4bf9be25b6bac0b33ae8aec8"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Organization",
+      "name": "Barkhane",
+      "id": "Organization_e54f566ab6b27cae3cc1917ae6d401f506be9fa0b59d5e884d97d8e2aae1a82f"
+    },
+    {
+      "type": "City",
+      "name": "Sahel",
+      "id": "City_92fe9646c051c53241e17f3fdb2c650a6e9fa01c7eb8480b47877e959ee0b5fe"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Organization",
+      "name": "G5 Sahel",
+      "id": "Organization_731d6944c0a31ed0fe261575f2573caac7a90e8ab6d60ef9a3df3e2391b9c38e"
+    },
+    {
+      "type": "Person",
+      "name": "Madame von der LEYEN",
+      "id": "Person_9e3795e33d46d356c9c6cdfb58bff3f3b42e5a057623863512c12865f8f44036"
+    },
+    {
+      "type": "Organization",
+      "name": "MINUSMA",
+      "id": "Organization_ca97eba974d956f03896c8dba73f0ff213915a352452accbe7ee16ab48ee356a"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliance pour le Sahel",
+      "id": "Organization_c3876035d5822097fdf46465bdd2616eb45ed52ea9a91f05a7f60ad8705ce7bc"
+    },
+    {
+      "type": "City",
+      "name": "Bamako",
+      "id": "City_4f639f1af21a3fa724a7dd0dd3fc27ab3754b26e27b2b2daedebb582f264453f"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "City",
+      "name": "Mossoul",
+      "id": "City_616bcd94d786f6653c04193eb8dc958b26e7193ceb30e8fdf0bf92fd2ac15c7b"
+    },
+    {
+      "type": "Country",
+      "name": "Irak",
+      "id": "Country_99792b4385035d3a51b12170d270a96604af5ab8e0945708f2a19bcc0e41b04c"
+    },
+    {
+      "type": "Country",
+      "name": "Levant",
+      "id": "Country_2f6cd024613a3e3a716284591d0c921310d3a2267fc6598a46557ae67ac39cec"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition internationale",
+      "id": "Organization_7b89a1467cc89820b1fb4481a79347c722225e2808346a9f3c2a9057936e89e4"
+    },
+    {
+      "type": "Organization",
+      "name": "Daech",
+      "id": "Organization_29dbc689382b03a0461f60f5b49453c647eb8d5462c8e491c8f8521e53f511fb"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "City",
+      "name": "Raqqa",
+      "id": "City_b8efe0339c7202c85f4208b4e08371c72760b471c13c3fa781c43632f446cbba"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "Country",
+      "name": "Nigeria",
+      "id": "Country_dec6d7826327dc7bafe39e959e4f081c81efc380c2b1cd786c364126e96624bd"
+    },
+    {
+      "type": "Country",
+      "name": "Cameroun",
+      "id": "Country_3dbed6a774b1c2a19e9d3ef0f7db7ed85220ea9016220d7e1e7d4036e88053f9"
+    },
+    {
+      "type": "Country",
+      "name": "Tchad",
+      "id": "Country_4559f6f8af30c0e115367f99db7a2d2bff5c4fb5ef7ec890af7e5e1662fd701e"
+    },
+    {
+      "type": "Country",
+      "name": "Niger",
+      "id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb"
+    },
+    {
+      "type": "Organization",
+      "name": "Boko Haram",
+      "id": "Organization_ca77dd8c41543c0c68de07cfd6206c080e663c84990b1bca9d629226240ef2dd"
+    },
+    {
+      "type": "Organization",
+      "name": "Nos armées",
+      "id": "Organization_166049284ebdc85e0c7ecc46d864ee94e3f8377d231b7f0123832256924e45b1"
+    },
+    {
+      "type": "Organization",
+      "name": "centres opérationnels",
+      "id": "Organization_625f8dcc2667d931f10034e7f2f912eee477598bcd372433c2e08e1c8280488d"
+    },
+    {
+      "type": "Organization",
+      "name": "sémaphores",
+      "id": "Organization_6474ab58720c5b6405410e4403a94d20f5f743ddda731b1b40077fb0a1c9e97e"
+    },
+    {
+      "type": "Organization",
+      "name": "vigies",
+      "id": "Organization_66022e07620dae092681fba7c12fc82dbac85e6d53bcec2c23e2c0306f5520d1"
+    },
+    {
+      "type": "Organization",
+      "name": "tours de contrôle",
+      "id": "Organization_3d2070c9ea06f2541f779f04cb606c6a19fca958a77666c0f1f9d415378750da"
+    },
+    {
+      "type": "Organization",
+      "name": "avions de chasse",
+      "id": "Organization_f0f10037e45a9110d83a2cf2c7a8d91a76732349bbd1d8c2785a66a27d5265ef"
+    },
+    {
+      "type": "Organization",
+      "name": "hélicoptères",
+      "id": "Organization_adae4564e197d9b0e97d10c7ef7c78c8a0fd3cc43dfc2d11d8ba7482826d1980"
+    },
+    {
+      "type": "Organization",
+      "name": "aéronefs de patrouille maritime",
+      "id": "Organization_d490f571f847ed519cfac73b145c740dad860f1a4fc31a90ebcc721a78848a9c"
+    },
+    {
+      "type": "Organization",
+      "name": "bâtiments",
+      "id": "Organization_b97c06c31dfa65647f8078946cf69cbda179998a99b2395456ca4f03dcb65778"
+    },
+    {
+      "type": "Organization",
+      "name": "opération Sentinelle",
+      "id": "Organization_7a27a263a09cbd276a49082fee4b3b78c4c9e6efd0a472825f8ed601c19b80cd"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre",
+      "id": "Organization_bcfcec7de2d7b4cf53f630b8f4bda4918808fa7973b4a27375e60cdb59c5914a"
+    },
+    {
+      "type": "Organization",
+      "name": "chef d'état-major des armées",
+      "id": "Organization_4ea682f17f91e625f7a7218f4b9b7488865d249b28b46c88ead6f915283a7942"
+    },
+    {
+      "type": "Organization",
+      "name": "Centre national de contre-terrorisme",
+      "id": "Organization_efaf1923f68c4c1a7f9b372e121af8a2d7929da782a626c2110561cec3f9b3a2"
+    },
+    {
+      "type": "Theme",
+      "name": "renseignement",
+      "id": "Theme_1bd572f1ca13b8479be85804edd66328f5597f364182396425372029ab896b3f"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme",
+      "id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "type": "Theme",
+      "name": "vulnérabilités",
+      "id": "Theme_4fde1ca29280a2ddd4c83a20bb418983e7294d37f741ef03fea8d4600dfca9ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Garde nationale",
+      "id": "Organization_35acc6d9813aa412432f1fb3a70c28b3dfb54a9f4f4a451ce4a547fc98e455f7"
+    },
+    {
+      "type": "Organization",
+      "name": "Réserves opérationnelles",
+      "id": "Organization_304f2b0f2c4279d6640c9524d8518b53e4a359c2da9eac91b0046c39c0202c17"
+    },
+    {
+      "type": "Theme",
+      "name": "service national universel",
+      "id": "Theme_aac51ed073ec968cdf55805e1637ecd4d52aa84e531553ee107ef36a913fffc9"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement collectif",
+      "id": "Theme_351cb822091e1d8b01c7f0fcbe9e3651d784ff9e740262d70941e3c7c8beb223"
+    },
+    {
+      "type": "Theme",
+      "name": "société stable et équilibrée",
+      "id": "Theme_41ddb94d94f81da2a0dd7f8d3acb24836791e1c991752932bb2f675b6a7db9f5"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Law",
+      "name": "loi de programmation militaire",
+      "id": "Law_33a7ceba1063d109ae9b37ebd3b66d0456905f4041a294907e5c29ef210f7d85"
+    },
+    {
+      "type": "Theme",
+      "name": "budget de la Défense",
+      "id": "Theme_5abcf0c3dfa9bfaa36e6eb97aa6a9ae35b27735325d16ed5d0b234f5c9f54965"
+    },
+    {
+      "type": "Theme",
+      "name": "mauvaises habitudes",
+      "id": "Theme_306390a7236c925703e60d4aff774622fa6e985968e1dd29227b739bd328d73e"
+    },
+    {
+      "type": "Theme",
+      "name": "sens du devoir",
+      "id": "Theme_ea2215b4d80002a7dab97e9bf55248d09ec71d1ebc1e57c52fe829b9035d95a6"
+    },
+    {
+      "type": "Theme",
+      "name": "sens de la réserve",
+      "id": "Theme_773098cca0be2d2240a1a35072c686a1fb17eff47b064ca3f65eb2130bde2e07"
+    },
+    {
+      "type": "Theme",
+      "name": "ministères",
+      "id": "Theme_13431cbbc9ff7554de5f35cc27f5d487345b1dfe066c268b0d7f4ae81c45e556"
+    },
+    {
+      "type": "Theme",
+      "name": "loi de finances",
+      "id": "Theme_0f948285a239f73494ff951b05d80bca94040f8e29199563d8f47d5b5ebce8bd"
+    },
+    {
+      "type": "Theme",
+      "name": "commandes militaires",
+      "id": "Theme_ba3704098d6a8ee2a63717b046c3b283e0d70412dd174d7c817b33deb982ab24"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "zone euro",
+      "id": "Country_bb6d36990a6bef0215c78761fe4ea7cac3c03f5e88219a0aa20efef5c18b6798"
+    },
+    {
+      "type": "Law",
+      "name": "loi de finances initiale",
+      "id": "Law_fab73bb8378b4d79330fa4b94bd8d8b6b31f6964d679fee70d589c296f3c1d5d"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "menaces",
+      "id": "Theme_5201cf50196d98191911da5de2cdaf6bf22b8dd545685ef548c3099e082fe05c"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques de puissance",
+      "id": "Theme_32d1bee6ffacacb74e1ff46a04feda3cb5b3d347d44b07a44d01c16ec32e8375"
+    },
+    {
+      "type": "Theme",
+      "name": "idées obscurantistes",
+      "id": "Theme_4936da7633b79b42f46bee5ba0b29eaf74fe7f52983d1cf355527fb428a925ca"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "flux migratoires",
+      "id": "Theme_9e6d4c759ee92484ff473b38a5e603ba3348666ce3bde9fd0a3f57c9da966f9f"
+    },
+    {
+      "type": "Theme",
+      "name": "intervention",
+      "id": "Theme_9c986a0e34764e19608258385d1f9397e4a35e13f7f991d33392520a3f3f32fe"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention",
+      "id": "Theme_b5d3262ef3c58743a1781f267abe9b162422a835f4df383fc4856acb883ee6a0"
+    },
+    {
+      "type": "Theme",
+      "name": "action civilo-militaire",
+      "id": "Theme_f65316676f954109c6230495c878907a850dbf1cfb2691af7d3cb0f2ae348ba1"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "paix durable",
+      "id": "Theme_7f2a3ea855cc2d556d4a06a9259a5acf1687b182503a7617fa3fb25f1a55cdb8"
+    },
+    {
+      "type": "Theme",
+      "name": "racines de la violence",
+      "id": "Theme_b8b13c46264d6034b0298bd237c839b5615b4dfaceb26459fd883ab32e58820b"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "développement",
+      "id": "Theme_9f563f6fb56281bb29449c280e882333dd332f1e1e2aa5ff1e49c8654dc6f9a4"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Event",
+      "name": "Grande guerre",
+      "id": "Event_cdbadf62994411662d4a2d78127b7f801afbb9f4f22081d7d44bc49039aa6c63"
+    },
+    {
+      "type": "Person",
+      "name": "TRUMP",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Person",
+      "name": "Anciens combattants",
+      "id": "Person_a1c5bbd6bdd4fb5d99781b44534f5c5d40c4f274c0a83f9f2e7aaeefdbd310d9"
+    },
+    {
+      "type": "Person",
+      "name": "Anciens militaires",
+      "id": "Person_c510c9d70c115c0efd0b9c7b7493ed94aab8bde266862018ee283225a238a064"
+    },
+    {
+      "type": "Person",
+      "name": "nos militaires d'active",
+      "id": "Person_ad74361bf3294bfc2e2bf619fa20d9b58ba9f326b9de0c5655ae3ffba85a2387"
+    },
+    {
+      "type": "Organization",
+      "name": "Office national des anciens combattants et victimes de guerres",
+      "id": "Organization_4a8c5c9d5d195dcc979df558ba4f3cdcbeaa60ca2cbdf48508ff9f6e61e66cdb"
+    },
+    {
+      "type": "Theme",
+      "name": "pupilles de la Nation",
+      "id": "Theme_b2efc1d521d90163d5811f161e63d6b89ce3a1cc46a4d62d7f69d727fac09263"
+    },
+    {
+      "type": "Theme",
+      "name": "combattants",
+      "id": "Theme_b4a095480c36e0191e51a93238ac65adfd1608f6facb6c98fd8b46a30f16f839"
+    },
+    {
+      "type": "Theme",
+      "name": "guerres",
+      "id": "Theme_1e54399c3e4dfb567cbd812434538394e310041b229559b071495f94d0277ffd"
+    },
+    {
+      "type": "Theme",
+      "name": "attentats",
+      "id": "Theme_8012ef402146af8ee27cefa38131adb4a5076562becaf5a77b7b6f009a1f0a65"
+    },
+    {
+      "type": "Theme",
+      "name": "lucidité",
+      "id": "Theme_4099e0d4448e9ac755c30017163a73e18c5117274d3a050a943bbe9dde267bf8"
+    },
+    {
+      "type": "Theme",
+      "name": "humilité",
+      "id": "Theme_1f533297e3d3c61ce159bbf9cbd3fe9dcc2068121ee47dca573ec1423280f2dd"
+    },
+    {
+      "type": "Theme",
+      "name": "volonté",
+      "id": "Theme_16b93f9ed8b73b81c97ecd0a6cdb37d8a5b24c3afd93e53085d57fee061b7ba6"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "armées",
+      "relation": "LOCATED_IN",
+      "target": "territoire national",
+      "evidence": "Aujourd'hui, les armées sont engagées de manière particulièrement importante sur le territoire national et partout dans le monde, dans de nombreuses opérations.",
+      "confidence": 1.0,
+      "source_id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab",
+      "target_id": "Theme_89a9d3788080db2196b5e8d3207bc9bf297aac09558ed987edfc35bdbe856e15"
+    },
+    {
+      "source": "armées",
+      "relation": "LOCATED_IN",
+      "target": "monde",
+      "evidence": "Aujourd'hui, les armées sont engagées de manière particulièrement importante sur le territoire national et partout dans le monde, dans de nombreuses opérations.",
+      "confidence": 1.0,
+      "source_id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab",
+      "target_id": "Theme_36839915f4f916c517dee200dc570577a7da1e70f69dc68e095ea54120f4c55e"
+    },
+    {
+      "source": "armées",
+      "relation": "LOCATED_IN",
+      "target": "DGA",
+      "evidence": "Celles et ceux qui contribuent à cette mission permanente, sous les mers, dans les airs et plus largement dans les armées, à la DGA et au CEA, ont un rôle essentiel",
+      "confidence": 1.0,
+      "source_id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab",
+      "target_id": "Organization_dd765c535b316b7386231efd44e18c2229fa874ed4e2f61166e993556122635d"
+    },
+    {
+      "source": "armées",
+      "relation": "LOCATED_IN",
+      "target": "CEA",
+      "evidence": "Celles et ceux qui contribuent à cette mission permanente, sous les mers, dans les airs et plus largement dans les armées, à la DGA et au CEA, ont un rôle essentiel",
+      "confidence": 1.0,
+      "source_id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab",
+      "target_id": "Organization_56bee4e69d140d03f96302b407e9a57182af007e69e3a0511d3d22f4e01718b0"
+    },
+    {
+      "source": "armées",
+      "relation": "SPOKE_ABOUT",
+      "target": "terrorisme",
+      "evidence": "Depuis maintenant plus de deux ans, nos armées sont aussi totalement mobilisées pour relever le défi du terrorisme",
+      "confidence": 1.0,
+      "source_id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab",
+      "target_id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "source": "G5 Sahel",
+      "relation": "LOCATED_IN",
+      "target": "Sahel",
+      "evidence": "lors du sommet du G5 Sahel",
+      "confidence": 1.0,
+      "source_id": "Organization_731d6944c0a31ed0fe261575f2573caac7a90e8ab6d60ef9a3df3e2391b9c38e",
+      "target_id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "source": "G5 Sahel",
+      "relation": "ALLIED_WITH",
+      "target": "Sahel",
+      "evidence": "lors du sommet du G5 Sahel",
+      "confidence": 1.0,
+      "source_id": "Organization_731d6944c0a31ed0fe261575f2573caac7a90e8ab6d60ef9a3df3e2391b9c38e",
+      "target_id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "source": "Mossoul",
+      "relation": "VISITED",
+      "target": "Irak",
+      "evidence": "En Irak, Mossoul est tombée après de durs combats.",
+      "confidence": 1.0,
+      "source_id": "City_616bcd94d786f6653c04193eb8dc958b26e7193ceb30e8fdf0bf92fd2ac15c7b",
+      "target_id": "Country_99792b4385035d3a51b12170d270a96604af5ab8e0945708f2a19bcc0e41b04c"
+    },
+    {
+      "source": "Syrie",
+      "relation": "LOCATED_IN",
+      "target": "Raqqa",
+      "evidence": "En Syrie, la reprise de Raqqa est engagée",
+      "confidence": 1.0,
+      "source_id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594",
+      "target_id": "City_b8efe0339c7202c85f4208b4e08371c72760b471c13c3fa781c43632f446cbba"
+    },
+    {
+      "source": "Centre national de contre-terrorisme",
+      "relation": "PROPOSED",
+      "target": "renseignement",
+      "evidence": "La création que j'ai voulue du Centre national de contre-terrorisme répond à cette logique : renforcer la coordination des services, favoriser le partage d'informations, garantir la bonne utilisation des dispositifs disponibles et développer la coopération européenne et internationale en matière de renseignement et de lutte contre le terrorisme.",
+      "confidence": 1.0,
+      "source_id": "Organization_efaf1923f68c4c1a7f9b372e121af8a2d7929da782a626c2110561cec3f9b3a2",
+      "target_id": "Theme_1bd572f1ca13b8479be85804edd66328f5597f364182396425372029ab896b3f"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "la France et l'Europe seront confrontées",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "TRUMP",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Le Président TRUMP est venu spécialement à Paris pour le 14 juillet",
+      "confidence": 1.0,
+      "source_id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    }
+  ]
+}

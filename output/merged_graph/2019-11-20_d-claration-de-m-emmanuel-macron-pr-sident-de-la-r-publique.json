@@ -1,0 +1,665 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Audrey AZOULAY",
+      "id": "Person_c2611ca78cb0e4c4879137743ff8f26c71a52dc02de63dc652fb76402ac47b1c"
+    },
+    {
+      "type": "Person",
+      "name": "Jacques TOUBON",
+      "id": "Person_873d5c31d6b08467d48740c01a8c383e36f2befa141d174a581d848ef8959542"
+    },
+    {
+      "type": "Organization",
+      "name": "Unesco",
+      "id": "Organization_44cf334686fd664fecedb6944caa3782522449e029aa1a57346edd5f2ff5eebd"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations Unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "BLUM",
+      "id": "Person_2de1f4d3c4e971285944c031f855c9279fbc9018e61daf9d90986c6429570fba"
+    },
+    {
+      "type": "Person",
+      "name": "Secrétaire général des Nations Unies",
+      "id": "Person_3b6f20ae4bd585c52c5f2277b37c10222936d306e89369f76e71cd74b30442be"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'enfant",
+      "id": "Theme_dee6a76e8f1e28a0a0e5681c80a388e2c3a9d6d1af6f5d73a289897fec5af47c"
+    },
+    {
+      "type": "Theme",
+      "name": "charte",
+      "id": "Theme_7a8a6e002a320705abf35e3d86b8f097a65f43e8c0dff9286dec783af4954e7f"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Défenseur des droits",
+      "id": "Person_0aad673759fccd83a6374227ad1a0d02a800fd197ca66fa048d72ae834549ed5"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la directrice générale",
+      "id": "Person_1f36d9d1dfda127e323341a112da647c9c3147dfbb2519bd416ca34ec413df47"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Event",
+      "name": "la rédaction de ce texte",
+      "id": "Event_bf357f816eea69fbd91c6daa04f56e1264bb04e9b9808de219c044827af40b31"
+    },
+    {
+      "type": "Theme",
+      "name": "les droits de l'enfant",
+      "id": "Theme_cd2eb4c2c86da45e251181be12fa5daeada6848c86a46e8d316578b668583563"
+    },
+    {
+      "type": "Theme",
+      "name": "l'éducation",
+      "id": "Theme_b4ee4945bc9ae091724f02d14c60a9a73fc2ddc23c02f91911dc77d8468eb950"
+    },
+    {
+      "type": "Theme",
+      "name": "la formation des esprits",
+      "id": "Theme_3f9ccb6da99db17a8b59b5575b4fef434990e0c51f262c3825137bb70d18247e"
+    },
+    {
+      "type": "Person",
+      "name": "RABELAIS",
+      "id": "Person_c6d0be465948938e3b78ba96073ea7716f8a2940ff2305e92f11c44cf50d91d8"
+    },
+    {
+      "type": "Person",
+      "name": "ROUSSEAU",
+      "id": "Person_c6a9bfab0d0f95bf5a5b431a2183ff53de64d8423f5b965f1949081dc9f401b1"
+    },
+    {
+      "type": "Person",
+      "name": "Françoise DOLTO",
+      "id": "Person_97c308c50ca8317222a5d920b8773c8b8a9e53c3a8dd56da494d020a92293c00"
+    },
+    {
+      "type": "Organization",
+      "name": "Défenseur des droits",
+      "id": "Organization_37b61a7c66c67b63fd1f013d8c76185cb39b9ef90404e9ffc6dea818ad85ce94"
+    },
+    {
+      "type": "Organization",
+      "name": "Défenseure des enfants",
+      "id": "Organization_b2ace0540153e976cb5bba736f08ba03a1e00fe18ea1ec38e1400d73c5c443ec"
+    },
+    {
+      "type": "Organization",
+      "name": "associations",
+      "id": "Organization_093357ed588ea24809b2100d18e873165901f63f0760d7b30cd7fed20c85113a"
+    },
+    {
+      "type": "Organization",
+      "name": "travailleurs sociaux",
+      "id": "Organization_a68fcdaa852e48cf67cdc19b6408311f9d89b0efe7050942ea1f078aec9a52fa"
+    },
+    {
+      "type": "Organization",
+      "name": "magistrats",
+      "id": "Organization_0cc1af25a3da5555c9015b01d29a875ec88c0cc90db61c48f6ae8949cf028116"
+    },
+    {
+      "type": "Organization",
+      "name": "départements",
+      "id": "Organization_94239122cf0c8845f4a2ab4552c55409511e0595b36da6c7478d71cfd24822e8"
+    },
+    {
+      "type": "Organization",
+      "name": "services",
+      "id": "Organization_9b130930fe50b8f0fb77c92f19a716a0391a392b46cba419828704d2adbc10e0"
+    },
+    {
+      "type": "Organization",
+      "name": "éducateurs",
+      "id": "Organization_230c01bbf42ec4913dc69eb694d1dc10cea449c40c210d830956ab0dc0e631fa"
+    },
+    {
+      "type": "Theme",
+      "name": "droits",
+      "id": "Theme_7eb56e86691d574c7d0fa41bffcd50417ad7abbc021dc12800cf78099a3cc7c5"
+    },
+    {
+      "type": "Person",
+      "name": "nos professeurs et nos éducateurs",
+      "id": "Person_9b0df040b29113187d616425c71d381335afe70f1736056e4574a07b06ac6e4a"
+    },
+    {
+      "type": "Person",
+      "name": "nos enfants",
+      "id": "Person_6ba125e6c8bf73cb0c7fab8eae95c83e8b2cda5c81835fcf0696debca8abb434"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement de la petite enfance",
+      "id": "Theme_773c31b1f1e43be5f4eae78cee4137004a89bfe1e72743b8d206a134a86f71aa"
+    },
+    {
+      "type": "Theme",
+      "name": "bon citoyen",
+      "id": "Theme_bc57e0314d5a10026a0e6e8229e0b4b5f9b457863be56395120b9086d2ce37d3"
+    },
+    {
+      "type": "Theme",
+      "name": "heureux",
+      "id": "Theme_a8eb04a959cb92c6e75d96f509f918aa1079ead544fcc819879d94e5140a6f34"
+    },
+    {
+      "type": "Theme",
+      "name": "école",
+      "id": "Theme_e4023600e045c977a775d339830e8508634d36394f9b8486f09d01cdd3b05e6b"
+    },
+    {
+      "type": "Theme",
+      "name": "fragiles",
+      "id": "Theme_4d513da25c824f499fdc72f6e2e7a4d3130eed8d9b5e4cb29cceb875c3e5045a"
+    },
+    {
+      "type": "Theme",
+      "name": "difficulté à l'école",
+      "id": "Theme_fc74897b90e1d679807426a6a3135c650dcb86275f4e047c334544c8ce55ceb6"
+    },
+    {
+      "type": "Theme",
+      "name": "auxiliaires de vie scolaire",
+      "id": "Theme_bfd1e6b6e925a2e69783e5c8112e0da5a6939189dca0d7da2e346d697c838f33"
+    },
+    {
+      "type": "Theme",
+      "name": "obligation d'aller à l'école",
+      "id": "Theme_a9698736a2386d00d59767953de300690b118ca5627acb7141adddd0fa80f52c"
+    },
+    {
+      "type": "Person",
+      "name": "Boris CYRULNIK",
+      "id": "Person_99c79978825f1fb3739de9df3d6fa1aa827d71f00954df19f7827b4ccf80125e"
+    },
+    {
+      "type": "Theme",
+      "name": "1000 premiers jours",
+      "id": "Theme_ab57b35deb8fc39e9dc1af18c93455a267945ea09ea108328815e63f34c04238"
+    },
+    {
+      "type": "Theme",
+      "name": "difficulté économique",
+      "id": "Theme_d62eeafe53ac873add92d8bc86ff0e9b498370cf1a73a03f126cfe161d7c2a19"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "visites médicales",
+      "id": "Theme_f94dfe1fd8fd9d3bb06d4cb27fee5a6e5d8134c6eca06cb3727ced863c4650ea"
+    },
+    {
+      "type": "Theme",
+      "name": "l'autisme",
+      "id": "Theme_461d3b07ad9acba65f9602993ce49577c62a96fa3a167e771b83475dfdd70190"
+    },
+    {
+      "type": "Theme",
+      "name": "pathologies",
+      "id": "Theme_1cc507541291c93f0c1dbe74a6f27f1e41cd1a36bc5f85b4724c4fc9906faed5"
+    },
+    {
+      "type": "Theme",
+      "name": "congés parentaux",
+      "id": "Theme_21c7409511f8a6492ccaafac48bae93e44df34a6d5b0f8f6565772b584f472db"
+    },
+    {
+      "type": "Theme",
+      "name": "crèches",
+      "id": "Theme_3b8d20054e5632ec194baca716ecd036da3c57d80da2379d43d3d3d1f1d97d13"
+    },
+    {
+      "type": "Country",
+      "name": "Finlande",
+      "id": "Country_07de2e54c1d716feb24d42a643c5de89dc1f04a79da8dcb0fd46d71f88bd7006"
+    },
+    {
+      "type": "Theme",
+      "name": "protéger nos enfants",
+      "id": "Theme_56f846df3ad7ca59eb51d989fb3849fcc32ffb39384ec5caac4cbf1250aa4403"
+    },
+    {
+      "type": "Theme",
+      "name": "dire",
+      "id": "Theme_c73f8aa4c81fedb452ad59ac3618ae56199782f9ac513335168d50ee5fed166f"
+    },
+    {
+      "type": "Theme",
+      "name": "faire respecter leur corps",
+      "id": "Theme_46555cb0a7d4fb643c27a0923f292844c65b3e2432c40fa271f1346673247cb6"
+    },
+    {
+      "type": "Theme",
+      "name": "écouter",
+      "id": "Theme_1270a427931870b3fee19593dd50de01d89d5881850a0f7f9e234e5a13e317ef"
+    },
+    {
+      "type": "Theme",
+      "name": "droit d'ingérence",
+      "id": "Theme_8150aefd7916289c865ad3cd475d2ba870c5c52b567980d56a699f8e9e1c28d4"
+    },
+    {
+      "type": "Person",
+      "name": "mon épouse",
+      "id": "Person_65551c424854d82f2d90f70ebf9ddb439d847aa1d2694e27951e7010e4cc995c"
+    },
+    {
+      "type": "Person",
+      "name": "le ministre de l'Éducation nationale",
+      "id": "Person_858b4a41add0e19d705a5f4c11ff0c8a04b8fc4d6f0aebe7b1d2c0419f6b32fc"
+    },
+    {
+      "type": "Person",
+      "name": "le secrétaire d'Etat",
+      "id": "Person_aa51fa5675697ef7a89181221fd1d4f0f8d20eede498e176815f6966b2c5b8b2"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Theme",
+      "name": "handicap",
+      "id": "Theme_07d6ad7e725b76cce5982a9a7f704af8d13d05bfc2d725640eb7ad805850ae06"
+    },
+    {
+      "type": "Theme",
+      "name": "aide sociale à l'enfance",
+      "id": "Theme_e18fa04830d89f99a65594c9c3c34899f132eb7f97c8c321622da4f600e179a0"
+    },
+    {
+      "type": "Theme",
+      "name": "consultation d'images pédopornographiques",
+      "id": "Theme_6bf769f63e960dd6c3df0e095a81165b0b250fe778c060d092726e7f399e6ee9"
+    },
+    {
+      "type": "Organization",
+      "name": "combattants",
+      "id": "Organization_6478f09d52f81a7b203a8816f9971bb6b49f22af6092458ce479b7d510827375"
+    },
+    {
+      "type": "Law",
+      "name": "consultation d'images pédopornographiques",
+      "id": "Law_58233612cbf5b18c8b0699c5ea82f70cb4cd569f4cdbae1038af440b25c113c0"
+    },
+    {
+      "type": "Law",
+      "name": "inscription automatique au fichier judiciaire national",
+      "id": "Law_9c798e6a96a46d633bf84700c5cf6530d7f33f235ac45a720207df5f804f8853"
+    },
+    {
+      "type": "Law",
+      "name": "FIJAIS",
+      "id": "Law_35e97a8281ad0766220493438e154f9469399b4b1b99bb2a00f6547c41c6c0a1"
+    },
+    {
+      "type": "Organization",
+      "name": "crèche",
+      "id": "Organization_159f3b975bbdc90d81180ffd467409a3267d2a65b18c279cb937e82fe7cb7177"
+    },
+    {
+      "type": "Organization",
+      "name": "école",
+      "id": "Organization_eeefce2b4dbb182b00249b5feb8e2ee8a2560ad7e579bd18bc0e7a515dc421ea"
+    },
+    {
+      "type": "Organization",
+      "name": "administration",
+      "id": "Organization_de755aed002a3c987b3f78b3c66d241020c9a308b87afdc8e84e60816316224d"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Theme",
+      "name": "protection des enfants dans l'espace numérique",
+      "id": "Theme_eba0168f59a8f057b2a6c0bd1b61167c7a9c138a08572be3b190aa987dfd02c4"
+    },
+    {
+      "type": "Theme",
+      "name": "contenus pornographiques",
+      "id": "Theme_57402d62227b17f672f67134f0f8ad2320986dd8fccf51dfecdacab6b6ee05f2"
+    },
+    {
+      "type": "Theme",
+      "name": "pornographie",
+      "id": "Theme_868c0941e33b8ede61f51fed88a55471e439297ec4a7ad6ffe4793b246ca8737"
+    },
+    {
+      "type": "Theme",
+      "name": "réseaux sociaux",
+      "id": "Theme_3db7ca95fe1fa04399ef5baef0f73a5aef029bba3765cf3d4b022b0f025fd769"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "sexualité",
+      "id": "Theme_c555587a4c22646015b36fceab7d9a5c2c35217f6c54c313a19802736ff023ed"
+    },
+    {
+      "type": "Theme",
+      "name": "publicités",
+      "id": "Theme_d0355737b2a651bc6fb4bf75c30cef83f8e9d50f5893d966ef9140eeecf04742"
+    },
+    {
+      "type": "Theme",
+      "name": "mesures",
+      "id": "Theme_3a5f972b4190098f1bfb68dee47806a59c66e0680ac4bc23d7ad0e2a0d5702aa"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle parental",
+      "id": "Theme_4412efdeb8ae50c0050bccb4df171dd935e361386cbf4eb9fb7dc91d04035f02"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre public",
+      "id": "Theme_81f6659f1f0773c33fb44826282a3a9607166da9710d86c7b3894f4e726c01c9"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "sanctions",
+      "id": "Theme_cc609b67ce79c18e469b868785645e8ac15295942ba88c097a9620d856801064"
+    },
+    {
+      "type": "Theme",
+      "name": "sites pornographiques",
+      "id": "Theme_de70abe42e5055d1b784a178aa7d7767d4d04e1feaad34646bd021c6034d7b45"
+    },
+    {
+      "type": "Theme",
+      "name": "mineurs",
+      "id": "Theme_618eb3ab99abf0d438f97332e90b3a8b5eeb95bd75932735efbe888b65ab7e37"
+    },
+    {
+      "type": "Theme",
+      "name": "Code pénal",
+      "id": "Theme_54ead393f48fd7cb1d005fb6bf3ed5d53e5a214c66b91695c5c2050322f1c406"
+    },
+    {
+      "type": "Theme",
+      "name": "pornographie des mineurs",
+      "id": "Theme_f22e664d6b0d1d0567a29f219b5db2044d701d0e266a981f9e1726e04c9a3791"
+    },
+    {
+      "type": "Theme",
+      "name": "vérificateurs d'âge",
+      "id": "Theme_0a374f09c89aa2f713afc2f0cf6b8474dfdff61634a844c3c3c9363b627b77c3"
+    },
+    {
+      "type": "Theme",
+      "name": "Conseil supérieur de l'audiovisuel",
+      "id": "Theme_08e79544d4f51a0ea5c074c4da4893d55117ae76c21b637da42dd2eec2297476"
+    },
+    {
+      "type": "Law",
+      "name": "nouvelle obligation",
+      "id": "Law_951309f1ef7e3abdc6dc189dadf40e85f33f029f4e21d7b0b2400ea1448faa9c"
+    },
+    {
+      "type": "Organization",
+      "name": "CSA",
+      "id": "Organization_cb409fe7d3a617806c1efbea97c47bc39bb2f544c50117a3ef33eb8feeb58bd6"
+    },
+    {
+      "type": "Theme",
+      "name": "harcèlement en ligne",
+      "id": "Theme_34e3d5638979b80759def4137a5a03fbca2207f2af793402a04f426a7355b36b"
+    },
+    {
+      "type": "Theme",
+      "name": "protection des enfants dans le monde numérique",
+      "id": "Theme_085db96caf0f34635b96fbafc0a550ae3e1520c5def11c34e7e4f9013601cbfe"
+    },
+    {
+      "type": "Country",
+      "name": "Belgique",
+      "id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "cyberharcèlement",
+      "id": "Theme_b0934bb090278ef2b79ae3f0935417067b1cd276634cfaef00c590eb121282f9"
+    },
+    {
+      "type": "Theme",
+      "name": "haine en ligne",
+      "id": "Theme_f3fbbf0885973ae120ceefc1e1d4234db26b081a0eda29ddc110bd10d775f0e4"
+    },
+    {
+      "type": "Theme",
+      "name": "pédo-criminalité",
+      "id": "Theme_eaac1090916e898ac54206042153d8aa6e598d71be31965e7041b68b1593ee03"
+    },
+    {
+      "type": "Theme",
+      "name": "diffusion d'images d'enfants en ligne",
+      "id": "Theme_145d8a2fd5861d5fcc71a38a31ccaabd04924394bc3caaeefecb4f40a5321c1d"
+    },
+    {
+      "type": "Theme",
+      "name": "accès en ligne à des contenus illicites",
+      "id": "Theme_6e3c49f6888b9c6f1af47eb8d3da4768c1cab24faa931d6c8edd0e8f49d84480"
+    },
+    {
+      "type": "Theme",
+      "name": "exposition précoce aux écrans",
+      "id": "Theme_58e5f6505b754e4f10e5e4fadbecd120f322195d87ab2ac90756736da8a3806e"
+    },
+    {
+      "type": "Theme",
+      "name": "protéger la vie privée et les données personnelles des enfants",
+      "id": "Theme_acce69daf02863fd59cdb5550e1f2354bebd6b64eaca61379df69e6b4971367b"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Theme",
+      "name": "parole",
+      "id": "Theme_0aa6d3d46bcff975a313a13babad2c365f73e30ffc801d0658ec8b8f56302f1d"
+    },
+    {
+      "type": "Theme",
+      "name": "innocence",
+      "id": "Theme_13a6f27e9b6e63814a65321344b08561e941483070b495cdc3399fe8539f93b0"
+    },
+    {
+      "type": "Theme",
+      "name": "amour",
+      "id": "Theme_3a5fa60fb30b2a65d0328c3db513d4a49419124aa60224aeebe7150286ebbbb0"
+    },
+    {
+      "type": "Theme",
+      "name": "amitié",
+      "id": "Theme_da59468cff46157116230d1b59468dc6ee8497b19a27cf4c7344818aedeeeb88"
+    },
+    {
+      "type": "Theme",
+      "name": "innocent",
+      "id": "Theme_59ea88cea749f41be0085c6d33a3dcc9ec6ad48d9a8f42e23e68be8f1341881b"
+    },
+    {
+      "type": "City",
+      "name": "l'Elysée",
+      "id": "City_3eae2ad22a9341b8bf38bfebad3b2e5c05027e88193e4abae8bd3981a710e7e8"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "les droits de l'enfant",
+      "evidence": "Il y a en France cette histoire justement de la reconnaissance de ce que sont les droits de l'enfant, de l'importance de l'éducation, de la formation des esprits, de l'éducation des jeunes gens, d'abord il faut bien le dire des jeunes garçons et en France, plus tôt qu'ailleurs des jeunes filles aussi et de cette conscience que l'enfant avait un droit particulier dans la société",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_cd2eb4c2c86da45e251181be12fa5daeada6848c86a46e8d316578b668583563"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "les droits de l'enfant",
+      "evidence": "Il y a en France cette histoire justement de la reconnaissance de ce que sont les droits de l'enfant, de l'importance de l'éducation, de la formation des esprits, de l'éducation des jeunes gens, d'abord il faut bien le dire des jeunes garçons et en France, plus tôt qu'ailleurs des jeunes filles aussi et de cette conscience que l'enfant avait un droit particulier dans la société",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_cd2eb4c2c86da45e251181be12fa5daeada6848c86a46e8d316578b668583563"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "l'éducation",
+      "evidence": "Il y a en France cette histoire justement de la reconnaissance de ce que sont les droits de l'enfant, de l'importance de l'éducation, de la formation des esprits, de l'éducation des jeunes gens, d'abord il faut bien le dire des jeunes garçons et en France, plus tôt qu'ailleurs des jeunes filles aussi et de cette conscience que l'enfant avait un droit particulier dans la société",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_b4ee4945bc9ae091724f02d14c60a9a73fc2ddc23c02f91911dc77d8468eb950"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "la formation des esprits",
+      "evidence": "Il y a en France cette histoire justement de la reconnaissance de ce que sont les droits de l'enfant, de l'importance de l'éducation, de la formation des esprits, de l'éducation des jeunes gens, d'abord il faut bien le dire des jeunes garçons et en France, plus tôt qu'ailleurs des jeunes filles aussi et de cette conscience que l'enfant avait un droit particulier dans la société",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_3f9ccb6da99db17a8b59b5575b4fef434990e0c51f262c3825137bb70d18247e"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "les droits de l'enfant",
+      "evidence": "Il y a en France cette histoire justement de la reconnaissance de ce que sont les droits de l'enfant, de l'importance de l'éducation, de la formation des esprits, de l'éducation des jeunes gens, d'abord il faut bien le dire des jeunes garçons et en France, plus tôt qu'ailleurs des jeunes filles aussi et de cette conscience que l'enfant avait un droit particulier dans la société",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_cd2eb4c2c86da45e251181be12fa5daeada6848c86a46e8d316578b668583563"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "l'éducation",
+      "evidence": "Il y a en France cette histoire justement de la reconnaissance de ce que sont les droits de l'enfant, de l'importance de l'éducation, de la formation des esprits, de l'éducation des jeunes gens, d'abord il faut bien le dire des jeunes garçons et en France, plus tôt qu'ailleurs des jeunes filles aussi et de cette conscience que l'enfant avait un droit particulier dans la société",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_b4ee4945bc9ae091724f02d14c60a9a73fc2ddc23c02f91911dc77d8468eb950"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "la formation des esprits",
+      "evidence": "Il y a en France cette histoire justement de la reconnaissance de ce que sont les droits de l'enfant, de l'importance de l'éducation, de la formation des esprits, de l'éducation des jeunes gens, d'abord il faut bien le dire des jeunes garçons et en France, plus tôt qu'ailleurs des jeunes filles aussi et de cette conscience que l'enfant avait un droit particulier dans la société",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_3f9ccb6da99db17a8b59b5575b4fef434990e0c51f262c3825137bb70d18247e"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "Défenseur des droits",
+      "evidence": "avec cette fierté de ce que la France a fait porter, avec aussi beaucoup d'humilité. Humilité devant tout le travail qui est fait chaque jour par le Défenseur des droits",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_37b61a7c66c67b63fd1f013d8c76185cb39b9ef90404e9ffc6dea818ad85ce94"
+    },
+    {
+      "source": "Code pénal",
+      "relation": "MENTIONS",
+      "target": "pornographie des mineurs",
+      "evidence": "on va maintenant enfin préciser dans notre Code pénal que le simple fait de déclarer son âge en ligne ne constitue pas une protection suffisante contre l'accès à la pornographie des mineurs de moins de 15 ans",
+      "confidence": 1.0,
+      "source_id": "Theme_54ead393f48fd7cb1d005fb6bf3ed5d53e5a214c66b91695c5c2050322f1c406",
+      "target_id": "Theme_f22e664d6b0d1d0567a29f219b5db2044d701d0e266a981f9e1726e04c9a3791"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Belgique",
+      "evidence": "Il suffirait d'ouvrir un site en Belgique, en Allemagne ou ailleurs pour arriver au même résultat sans qu'il puisse être régulé en France.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Allemagne",
+      "evidence": "Il suffirait d'ouvrir un site en Belgique, en Allemagne ou ailleurs pour arriver au même résultat sans qu'il puisse être régulé en France.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    }
+  ]
+}

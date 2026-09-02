@@ -1,0 +1,549 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Le Premier Ministre",
+      "id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "type": "Organization",
+      "name": "son Gouvernement",
+      "id": "Organization_d49495bc0a0a0325c090b1b1be1c5f5e6dcb632e7e8e7ec6fcdad25dbdc83971"
+    },
+    {
+      "type": "Organization",
+      "name": "le Parlement",
+      "id": "Organization_3b98b5f0abf8de7aca3ae5fb5dbe595730fd9a3929e3ace625352b07811a79b9"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "indemnisation du chômage",
+      "id": "Theme_dbb3ff52a00bc75e176aa36cb621fcb3125bf1c73c3d4e1b5c7ee343ee05266d"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation du secteur public",
+      "id": "Theme_2e257afa1781e6d015787374404a1788f6d85dfba11c3e1b289c89e909cd8edc"
+    },
+    {
+      "type": "Theme",
+      "name": "système de retraite",
+      "id": "Theme_1dabb9e207d4d8ad771de26af11fe6558e6491e7ba6e6017a12a8e6e76995126"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurités du XXIème siècle",
+      "id": "Theme_4aaa05d3c9fe77f6d60a6656d1021b94fb49fb34592aaf394b4995af72514619"
+    },
+    {
+      "type": "Theme",
+      "name": "injustices",
+      "id": "Theme_0855c0e2dc1112337e3cd6841ffa76fd1676a6bcadc7979d4dcfe94cb98b8912"
+    },
+    {
+      "type": "Theme",
+      "name": "mondialisation",
+      "id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef"
+    },
+    {
+      "type": "Theme",
+      "name": "système administratif",
+      "id": "Theme_cb6046f8226a472688f2383389e6da9d43616d4ad5cd183af7462e39f1ae5d20"
+    },
+    {
+      "type": "Theme",
+      "name": "idéaux",
+      "id": "Theme_8da289a38159a2386f6a9b1bbc2c378d3b860a38939ea44f0ba7fe0a28a5adcf"
+    },
+    {
+      "type": "Theme",
+      "name": "social",
+      "id": "Theme_f56a2d9d095e45391d6aec33e39ec6cf633c5a21bda6f8e4cb689786529558da"
+    },
+    {
+      "type": "Theme",
+      "name": "politique",
+      "id": "Theme_1cb4f0bce716a6b484eef837bedaa9ad546521428b441b7a4baa167af1dc28bc"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement",
+      "id": "Theme_b53e869b761ff3b2e610c18e6c0fd53e10ad5d2a8ba8bf353be9d0f1148d8c43"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre international",
+      "id": "Theme_289a437b7ebd1758f517244ffb7920e1783b8884a6c25a392dab8d910194a767"
+    },
+    {
+      "type": "Theme",
+      "name": "puissances étrangères",
+      "id": "Theme_49a3491d2aa391e2bebb29596dc1aaf81e29c41df04edabd039cd232b6751181"
+    },
+    {
+      "type": "Theme",
+      "name": "partis extrémistes",
+      "id": "Theme_da739e8b704ddcf6e62f5c1bf16fe5b92c7f16af2aa69fee0fa622f03400cddb"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "Terrorisme islamiste",
+      "id": "Theme_a9eaf0302d5db7c86ac3be0f721cdf7888fc1e055956fd5acf13cfc9bdc4c7b2"
+    },
+    {
+      "type": "Theme",
+      "name": "Changements technologiques",
+      "id": "Theme_e57c84a3e8befff4027de97c32146dc56b8f82dc9548c8e2a450f16826f7537a"
+    },
+    {
+      "type": "Theme",
+      "name": "Intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "Capitalisme ultralibéral et financier",
+      "id": "Theme_0810ed1e1ecd79c1e164b97122b2b0ecb07401ed0a3f84f9e6584b2bdf6626b4"
+    },
+    {
+      "type": "Theme",
+      "name": "Malaise dans la civilisation occidentale",
+      "id": "Theme_a8b5b8707feab23f3317edbe9eaba48169e870f9546c80f4a9044fd4fe0f5394"
+    },
+    {
+      "type": "Theme",
+      "name": "défi immense",
+      "id": "Theme_b5f3feea793fbac8137bdd0a70aaff0d6f72820a3bb36e71933ad542caa99e60"
+    },
+    {
+      "type": "Theme",
+      "name": "malaise",
+      "id": "Theme_22c6f6104bd0628b51b4d9eee5962b225bb9095505fd1b12d19f627ab8b4c96a"
+    },
+    {
+      "type": "Theme",
+      "name": "place",
+      "id": "Theme_0ef1846a2bee0e14ecaa026bae0fbb262c82b1f41f54d8065bea4418eb28ff34"
+    },
+    {
+      "type": "Theme",
+      "name": "rôle",
+      "id": "Theme_20c7bbfccbba692f8461652e95278ec0e9dcfe72f1bfdf4eace059032535b591"
+    },
+    {
+      "type": "Theme",
+      "name": "vision",
+      "id": "Theme_c996c28d111a61e21f650845477f42357c36d4fc90aa72077328f52a6f12e6b7"
+    },
+    {
+      "type": "Theme",
+      "name": "l'homme au coeur de ce projet contemporain",
+      "id": "Theme_9a0903554e2dcc45226fab7dff7c6982742608ac06a5147fa046b4039b9d6f65"
+    },
+    {
+      "type": "Theme",
+      "name": "constance et de détermination",
+      "id": "Theme_ba1deb28ea073617b979f034cd4a67de351b102187a2eaada8b249af8c1f285c"
+    },
+    {
+      "type": "Theme",
+      "name": "réponse",
+      "id": "Theme_6399fe0e5d5d3fbe794fbc4d5e762ca0181d92326b8b9faa609e13afc104c3a2"
+    },
+    {
+      "type": "Theme",
+      "name": "projet profondément français et européen",
+      "id": "Theme_3eb6bb83f6248a8000e791c12201b9d87614e04232ab106e6349b70c0c415885"
+    },
+    {
+      "type": "Theme",
+      "name": "renaissance de notre monde et de notre quotidien",
+      "id": "Theme_89db90d7956ce06436441060ec674b68fb6803fde750b3af105c56a279309c6a"
+    },
+    {
+      "type": "Theme",
+      "name": "voeux",
+      "id": "Theme_ac1f761ae6086d3d49d6662c19506fafbd22f6949d22ddae2894d5940b71350f"
+    },
+    {
+      "type": "Theme",
+      "name": "mensonges",
+      "id": "Theme_f97c8567fcc204f120a2e2d9f9a9842c91c54db649c24a44f643be00ee9f46e4"
+    },
+    {
+      "type": "Theme",
+      "name": "ambiguïtés",
+      "id": "Theme_faf32dcb5161d0f96949272cd397b2dec838b2f61e43d77c409b1ad95bf5dd66"
+    },
+    {
+      "type": "Theme",
+      "name": "travailler moins, gagner plus",
+      "id": "Theme_3598f04392f35a3eebc24848d659f9f15b7dd261b09d00414fb8d6476e356a11"
+    },
+    {
+      "type": "Theme",
+      "name": "baisser nos impôts et accroître nos dépenses",
+      "id": "Theme_a90335ddb07ed3bf799750b7c00b270af3c499edbd26abf6aa465f88aab8be84"
+    },
+    {
+      "type": "Theme",
+      "name": "rien changer à nos habitudes",
+      "id": "Theme_8a52a8eb12fe3f9e8aa6124a4111c1e0c7f7a37b2d3bdffca65e3f7c7cca74a4"
+    },
+    {
+      "type": "Theme",
+      "name": "réalité",
+      "id": "Theme_f61fac0cb01c1748ffc105c9942e7a6ac63b121d7cabbc89d6b44d21af9b5a97"
+    },
+    {
+      "type": "Theme",
+      "name": "économies du monde",
+      "id": "Theme_777bb68a1776c2dedf9e078cccaf0a0ef2cb743333f5a2fbf27c3a12285f1bbe"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructures",
+      "id": "Theme_d711aaaa56cea790c01e9aeb41b7659ac488b2a837642df3eed8eeb83ff64968"
+    },
+    {
+      "type": "Theme",
+      "name": "scolarité",
+      "id": "Theme_ffb3cd2f808ad5e930a1963a62a32ab60d2b930b608538cb243b5d961a53c6ca"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarités",
+      "id": "Theme_8438a68d6c21b1e7648e93c6bc3378cba4d0f1d8f9f81ab516486edce3a17409"
+    },
+    {
+      "type": "Theme",
+      "name": "dépenser toujours davantage",
+      "id": "Theme_eaa703500941507899621475a38d4431f13fae3b250ae5d056313871a117d024"
+    },
+    {
+      "type": "Theme",
+      "name": "services publics",
+      "id": "Theme_9d23f2423869f33761b54988a51c02bcaaec512697b3c1f29a8001cba8569472"
+    },
+    {
+      "type": "Theme",
+      "name": "médecins",
+      "id": "Theme_8a538d7c7f7c7155eb2b555969d906c92bb91e14c49e8bf6f1dab0688e532a9b"
+    },
+    {
+      "type": "Theme",
+      "name": "téléphone portable",
+      "id": "Theme_2ddf16b903f07f40b7b2a8d6df41cd853f2e4ac0a60ec476712d929847e1236a"
+    },
+    {
+      "type": "Theme",
+      "name": "internet",
+      "id": "Theme_b2fe891aa35fd742a9d80ce9a95e251708bf7d5247e0de5318494530042b42d7"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie robuste",
+      "id": "Theme_455915a55f7863181e36b137fc4ea7f93c3a57d463cfa9edad82c85778b00ca2"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance démocratique",
+      "id": "Theme_40911b9eb9374d37bd2b6cac83809fcb94c33305d7a335ef4c4230a1717c3f0e"
+    },
+    {
+      "type": "Theme",
+      "name": "vérité de l'information",
+      "id": "Theme_2d166992b2403ac9614ac19a0a11b7023ac0867f1baec3d3100b3f634893992a"
+    },
+    {
+      "type": "Theme",
+      "name": "écoute",
+      "id": "Theme_017a044094f914c9343722408bf87a204e9211da6bfc96da1c55b198156c7228"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Theme",
+      "name": "humilité",
+      "id": "Theme_1f533297e3d3c61ce159bbf9cbd3fe9dcc2068121ee47dca573ec1423280f2dd"
+    },
+    {
+      "type": "Theme",
+      "name": "vérité",
+      "id": "Theme_953d05a2f3d8c50ee08e03421281e20b608a47762bf4a8ec7bc5f2621cb382c1"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité",
+      "id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyen",
+      "id": "Theme_3515b336f7eb21634ee1bfa63899ffcde84562f306c01ba3f97e7964f4af529c"
+    },
+    {
+      "type": "Theme",
+      "name": "Nation",
+      "id": "Theme_60ff600be5c454bb618a1597d939fb190f2d7774c810094fe4274df593f1b232"
+    },
+    {
+      "type": "Theme",
+      "name": "respect",
+      "id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Theme",
+      "name": "droits",
+      "id": "Theme_7eb56e86691d574c7d0fa41bffcd50417ad7abbc021dc12800cf78099a3cc7c5"
+    },
+    {
+      "type": "Theme",
+      "name": "devoirs",
+      "id": "Theme_a7ec0a3fec1e331ba79e6a952f9cfc0ca61edb651ea38d5b70c80c3711f335ba"
+    },
+    {
+      "type": "Person",
+      "name": "mes chers compatriotes",
+      "id": "Person_b6b29c7b55b71aae52b700aaa89778c04669d873e35a8a1d54782abede5f747b"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre républicain",
+      "id": "Theme_77d3a0a111edf05bff6e66acf4bf7258f655df974a77634f3f77748e86c2c197"
+    },
+    {
+      "type": "Theme",
+      "name": "despotisme",
+      "id": "Theme_a340ed5865037ede68d6cccab2e75dedaa5edccac3c6b30648e50ebfe17b09a7"
+    },
+    {
+      "type": "Theme",
+      "name": "tyrannie",
+      "id": "Theme_d89a6fe0e98a629eee6a80bb4c7b6790d4bb937ada1b54e00aee25ad1f13addf"
+    },
+    {
+      "type": "Theme",
+      "name": "peuple",
+      "id": "Theme_c53378f156a2733092f2b3a214527d24b8656ec789a413bc8f9fd4ab7b1c9aa3"
+    },
+    {
+      "type": "Theme",
+      "name": "Etat de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Theme",
+      "name": "espoir",
+      "id": "Theme_15b08556ab7e3f525e36fa50726d1f343b990ff53d11dc75bcc38e329d23a485"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie industrielle",
+      "id": "Theme_a3fe2f20065008ddda4f770fd20a83fcaf16c9c8c2de415141ba66e8e0a91ec0"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarités nouvelles",
+      "id": "Theme_8db110e54780b000aa8e9aa02f264fcc9ef99527546f8eb58220971bdcf03d92"
+    },
+    {
+      "type": "Theme",
+      "name": "alimentation",
+      "id": "Theme_c513edee71bdf794af7ba878fb763b9cc4a3e831c494d701c86bdd518ebd85ab"
+    },
+    {
+      "type": "Theme",
+      "name": "justice fiscale",
+      "id": "Theme_515625e855315c03e348b74cd214cfee70d454324bed171afcdf661f169b214e"
+    },
+    {
+      "type": "Theme",
+      "name": "protéger les peuples",
+      "id": "Theme_bfcd2dbbb21dc1a421a146b6a2aefcb3dcef4a9ccc3a1906b7ae536cf6e8ad26"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations",
+      "id": "Theme_cac93d346afb10556cd477074f8fd5e7de6a6b6e234704cdc92ccd1aae71876c"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "effort",
+      "id": "Theme_bbc0483f0da6a6341360b086154415ab379cb11db967c512d7d0a53a7ca2e016"
+    },
+    {
+      "type": "Theme",
+      "name": "sens",
+      "id": "Theme_a497d3133b843f82d7a6211f676857634d7c3318e72e0acb4e21f67160639131"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtrise",
+      "id": "Theme_dd8da3a914a8526e692609bb97f8b9438ed9519eda73b2c9ab8e5c8933efd9b9"
+    },
+    {
+      "type": "Theme",
+      "name": "patrie",
+      "id": "Theme_4079aa9734c9091368bffcf632034e06cecaadec102a482fdcc6b4ec9873a5eb"
+    },
+    {
+      "type": "Theme",
+      "name": "espoir français et européen",
+      "id": "Theme_05901c68e4e993d962abbfdf09d7c2cc3c006066ad1a8d8a677a0b822a317af6"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Terrorisme islamiste",
+      "relation": "MENTIONS",
+      "target": "Terrorisme islamiste",
+      "evidence": "Le terrorisme islamiste continue aussi de sévir ; il change et sur tous les continents se déploie.",
+      "confidence": 1.0,
+      "source_id": "Theme_a9eaf0302d5db7c86ac3be0f721cdf7888fc1e055956fd5acf13cfc9bdc4c7b2",
+      "target_id": "Theme_a9eaf0302d5db7c86ac3be0f721cdf7888fc1e055956fd5acf13cfc9bdc4c7b2"
+    },
+    {
+      "source": "Changements technologiques",
+      "relation": "MENTIONS",
+      "target": "Changements technologiques",
+      "evidence": "Enfin, des changements technologiques profonds, au premier rang desquels l'intelligence artificielle, transforment rapidement notre manière de nous soigner, nous déplacer, nous former, produire",
+      "confidence": 1.0,
+      "source_id": "Theme_e57c84a3e8befff4027de97c32146dc56b8f82dc9548c8e2a450f16826f7537a",
+      "target_id": "Theme_e57c84a3e8befff4027de97c32146dc56b8f82dc9548c8e2a450f16826f7537a"
+    },
+    {
+      "source": "Intelligence artificielle",
+      "relation": "MENTIONS",
+      "target": "Intelligence artificielle",
+      "evidence": "Enfin, des changements technologiques profonds, au premier rang desquels l'intelligence artificielle, transforment rapidement notre manière de nous soigner, nous déplacer, nous former, produire",
+      "confidence": 1.0,
+      "source_id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89",
+      "target_id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "source": "Capitalisme ultralibéral et financier",
+      "relation": "MENTIONS",
+      "target": "Capitalisme ultralibéral et financier",
+      "evidence": "le capitalisme ultralibéral et financier trop souvent guidé par le court terme et l'avidité de quelques-uns, va vers sa fin",
+      "confidence": 1.0,
+      "source_id": "Theme_0810ed1e1ecd79c1e164b97122b2b0ecb07401ed0a3f84f9e6584b2bdf6626b4",
+      "target_id": "Theme_0810ed1e1ecd79c1e164b97122b2b0ecb07401ed0a3f84f9e6584b2bdf6626b4"
+    },
+    {
+      "source": "Malaise dans la civilisation occidentale",
+      "relation": "MENTIONS",
+      "target": "Malaise dans la civilisation occidentale",
+      "evidence": "notre malaise dans la civilisation occidentale et la crise de notre rêve européen sont là",
+      "confidence": 1.0,
+      "source_id": "Theme_a8b5b8707feab23f3317edbe9eaba48169e870f9546c80f4a9044fd4fe0f5394",
+      "target_id": "Theme_a8b5b8707feab23f3317edbe9eaba48169e870f9546c80f4a9044fd4fe0f5394"
+    },
+    {
+      "source": "dialogue",
+      "relation": "MENTIONS",
+      "target": "vérité",
+      "evidence": "Il n'y a pas une vérité et je crois même que chacun d'entre nous commence à se fourvoyer dans l'erreur quand nous affirmons les choses sans dialoguer, sans les confronter au réel ou aux arguments des autres.",
+      "confidence": 1.0,
+      "source_id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc",
+      "target_id": "Theme_953d05a2f3d8c50ee08e03421281e20b608a47762bf4a8ec7bc5f2621cb382c1"
+    },
+    {
+      "source": "citoyen",
+      "relation": "MENTIONS",
+      "target": "Nation",
+      "evidence": "Je suis profondément convaincu que chaque citoyen est nécessaire pour le projet de la Nation.",
+      "confidence": 1.0,
+      "source_id": "Theme_3515b336f7eb21634ee1bfa63899ffcde84562f306c01ba3f97e7964f4af529c",
+      "target_id": "Theme_60ff600be5c454bb618a1597d939fb190f2d7774c810094fe4274df593f1b232"
+    }
+  ]
+}

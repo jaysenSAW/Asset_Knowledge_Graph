@@ -1,0 +1,1876 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "Elysée",
+      "id": "Organization_725b0ae84b2560c5a76cd9b2ac7aeb7c63d091a9d05dd8afa72db0ccb7147c4d"
+    },
+    {
+      "type": "Organization",
+      "name": "forces de sécurité intérieure",
+      "id": "Organization_7cccac05f47c7cdb99a2b4772424d34aa6ec0600812df86d18a9f6fffbd3a8ed"
+    },
+    {
+      "type": "Organization",
+      "name": "préfets",
+      "id": "Organization_de684efc2174ee3a7076db54d156af9c9f6f81205a168aca516bd643b128943f"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "menace terroriste",
+      "id": "Theme_f72d3dcf49eb88c83ce83dde773d7af102060e7e2da2f4d3e52a25f8d66870c7"
+    },
+    {
+      "type": "Theme",
+      "name": "violence",
+      "id": "Theme_2e88abc315f2f0443a0e5b9fd8eae9a399f515b08101974ade6d7c352b827448"
+    },
+    {
+      "type": "Theme",
+      "name": "délinquance du quotidien",
+      "id": "Theme_eed402aeb29350d34ade32173762e06dce82e560fbd20b977b1ad8d53981b27c"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurisation de nos événements culturels et festifs",
+      "id": "Theme_7c85e479921a8a5345a95246ff0177562c7108f711e5d49aaad77a05708b1d41"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Country",
+      "name": "la République",
+      "id": "Country_8ece1ca643efc6be6485040a8d42357a81f22c38694d9ca8a56d37a688baf2b0"
+    },
+    {
+      "type": "Organization",
+      "name": "la nation",
+      "id": "Organization_3a24f127af0db13cebed8eefdb560d89fc798cb8d027ce1edb1220d20d7236ca"
+    },
+    {
+      "type": "Organization",
+      "name": "Sentinelle",
+      "id": "Organization_4a61289569a171a17e8aa02c348f58245c53c1da3b84f90dc12448da9803a0b4"
+    },
+    {
+      "type": "Organization",
+      "name": "l'État",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme",
+      "id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "risque terroriste",
+      "id": "Theme_7059f5264ab16f7c76aade222cfce6df7a5bbcc2955bd7f00339afa3b1c0253e"
+    },
+    {
+      "type": "Theme",
+      "name": "menace",
+      "id": "Theme_f3c948c57f7b769db8cf4e82bceeb7838b60a1fc4b69cc76b34b2369f29abc35"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurisation des grands événements",
+      "id": "Theme_18093f67b088e2747c0367e543143610f874237714afd333ded802068b58befa"
+    },
+    {
+      "type": "Theme",
+      "name": "lieux publics",
+      "id": "Theme_ad8b803e521aa6ef07e4e9cdf88539e973d8ab3ab7e77b897bb6348dd0a171fa"
+    },
+    {
+      "type": "Theme",
+      "name": "écoles",
+      "id": "Theme_a79652d352eb39af9161521ccf210bca649e1816674d0e4fa0bd8889e03ac877"
+    },
+    {
+      "type": "Theme",
+      "name": "lieux de culte",
+      "id": "Theme_7609d67cff0f9bf4ae3139c63ddc54debd4b6334306db00e224cc07d2f88ed29"
+    },
+    {
+      "type": "Theme",
+      "name": "frontières",
+      "id": "Theme_2cd955c9a002255c9c4db835b43368ec22c183622dce92ef1191d4bdfa43a6bb"
+    },
+    {
+      "type": "Theme",
+      "name": "réseaux de transport",
+      "id": "Theme_6af104772241608e8f5cbd96783b346d9663344ce87328826f8b73e209d16458"
+    },
+    {
+      "type": "Person",
+      "name": "BOUSQUET",
+      "id": "Person_0010c9638b9bd2ae187038b958853c827a2642d1475ccd7819cddc0726bd9bc1"
+    },
+    {
+      "type": "City",
+      "name": "Elysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "Organization",
+      "name": "EMOPT",
+      "id": "Organization_cb3ac80bdbded108212dcf6a7c5c0023a9058acd3f3454db191b74a59e612038"
+    },
+    {
+      "type": "Organization",
+      "name": "UCLAT",
+      "id": "Organization_92b8daf74f1015b8831151d465693ca2a8a01a1618fa6947bdb59da3dec14b7d"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère de l'intérieur",
+      "id": "Organization_2b1a74ed7124fcaf53172ac64cf65a9c88f17f11a38bde240e1be1030d8f821c"
+    },
+    {
+      "type": "Organization",
+      "name": "policer",
+      "id": "Organization_e473bbe7cdb1e0aa0dde2e1ca56d6531d4589cfda5e543cb0fbfb215fd8bbe59"
+    },
+    {
+      "type": "Organization",
+      "name": "gendarme",
+      "id": "Organization_cdee0ac0daffa5d5242800346bcf56c2c7cc58d9fbf816f459a128e4371d06c5"
+    },
+    {
+      "type": "Theme",
+      "name": "renseignement",
+      "id": "Theme_1bd572f1ca13b8479be85804edd66328f5597f364182396425372029ab896b3f"
+    },
+    {
+      "type": "Theme",
+      "name": "fichiers de renseignements",
+      "id": "Theme_6c129c1012536b3b20520a9292e27fbf11c2e0cf379ee5f5b41387b89863a065"
+    },
+    {
+      "type": "Theme",
+      "name": "renseignement territorial et pénitentiaire",
+      "id": "Theme_565e42c6ab9ec546756bf2ad414d87276d25ec67ea05d63e0dfb55d6f7db3f65"
+    },
+    {
+      "type": "Theme",
+      "name": "renseignement classique",
+      "id": "Theme_528236231ea0d32885485162fbde74f069f6a07a4c3ab3d3bb45c9bf8122d045"
+    },
+    {
+      "type": "Theme",
+      "name": "circuits de décision",
+      "id": "Theme_9f2b49eb8d8d1dedef084bd89858445067f04c8bf7cbe2ae644ef0ab210f76d7"
+    },
+    {
+      "type": "Theme",
+      "name": "remontée",
+      "id": "Theme_a382dfa57b222080b69e14f925e72e996bb95064c86582d7d1d3c35bf678e049"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence opérationnelle",
+      "id": "Theme_c8961cc7e7c4e33130044b6a5ebb183362e1fa71a414cd129a284f2c2c0140dd"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité intérieure",
+      "id": "Theme_56c5273d2bfceb725815b5a9a8050ceef3cfdc60410a030f361785ff50aeec5e"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de l'Intérieur",
+      "id": "Organization_9ee800613fe4ef77794905dc31745b48ecfcc7ba142a75ef23ebaa037aa7e671"
+    },
+    {
+      "type": "Organization",
+      "name": "garde des Sceaux",
+      "id": "Organization_3bc33c4e0679e381ad3ef3e292c29ebc7111411d9d505617a33e22a34c378378"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme islamiste",
+      "id": "Theme_a9eaf0302d5db7c86ac3be0f721cdf7888fc1e055956fd5acf13cfc9bdc4c7b2"
+    },
+    {
+      "type": "Theme",
+      "name": "état d'urgence",
+      "id": "Theme_8a1b20d0a7e22c6834602eec7167a59ca5408106918f9595871b33263eb2760e"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil d'Etat",
+      "id": "Organization_7d48790e534959984e940cd4d9d9507c1c67b7fcbed172bfdefc6d911b3981cb"
+    },
+    {
+      "type": "Organization",
+      "name": "juge judiciaire",
+      "id": "Organization_ca648755153cc27f4aa23bb440e7e0d93f48061ab9a73ce4f7aef13036023090"
+    },
+    {
+      "type": "Organization",
+      "name": "juge administratif",
+      "id": "Organization_f0e70dd2ce74ac3754b073fcdc3f539d2c06f63726c5f2abdc102aa14cc63050"
+    },
+    {
+      "type": "Law",
+      "name": "cette loi",
+      "id": "Law_2dcb3cf30e0338c5e9f11f3a2a2dfe7ba1479e1ccbb36533df2ef61636014a1e"
+    },
+    {
+      "type": "Organization",
+      "name": "groupe majoritaire",
+      "id": "Organization_2fb942210b47bc6cbb425ec3d46ae4cb665e23682901174698fe1681a26eb5a7"
+    },
+    {
+      "type": "Organization",
+      "name": "députés d'autres groupes parlementaires",
+      "id": "Organization_c89090d3f8157e5679412394ddabe279a39a03f64260e1f9c2767dc44dbcdf51"
+    },
+    {
+      "type": "Theme",
+      "name": "police administrative",
+      "id": "Theme_bb7ed91f8d324faadf634f8e2dd9fd3b3fb1af6fc719e61c41b0822f09a103e1"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés individuelles",
+      "id": "Theme_759ccdc015d83cf60a6046b0b9d40b9d6f2ba26eed4cc7fc4859025eb4ae5ca8"
+    },
+    {
+      "type": "Theme",
+      "name": "vocation originelle",
+      "id": "Theme_cf889ce1d8b202b0af11f28403e3ba4132bf372ab503134f9936ffdb794e9b4b"
+    },
+    {
+      "type": "Theme",
+      "name": "texte",
+      "id": "Theme_71cfcd5e12274c57c31792a48737a28159a84272f0fcc50d810bf37224ee2280"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation collective",
+      "id": "Theme_79218b53157fe5e1e2665da4332c81c5325af4c9e81b83af934e497d950b640a"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de chacun",
+      "id": "Theme_f01888903ec9e8df983d39a62a597adedc5e686f6c7ce046c3172b688b0d03b4"
+    },
+    {
+      "type": "Theme",
+      "name": "mesures de surveillance",
+      "id": "Theme_58b5ca168f0240bb919f3649251b414537bf80d4c8df1298ebaf83fc1d7511fa"
+    },
+    {
+      "type": "Theme",
+      "name": "visite domiciliaire",
+      "id": "Theme_c3cb296a4c079026788200cdfcb7f3df27ef195d152cbf4847f4f98b97ac0ddb"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorism",
+      "id": "Theme_a348838fece2a9c780044dab4f291a936095c2be9a10ee5e2924e483e90652b2"
+    },
+    {
+      "type": "Law",
+      "name": "la loi",
+      "id": "Law_06ff4a6150586f7a90556b37e4d18bb94a678233510c532c9deb930d175a1290"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention des actes de terrorisme",
+      "id": "Theme_c4dd1377f434eeb2804057ea34596e8b43318742a02ded92010cf0d2bb8490fc"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité de l'action des forces de sécurité",
+      "id": "Theme_0c38e59408521849a582d4ea3373ef3ff9774273b235ff2f626f630cfdf41bdc"
+    },
+    {
+      "type": "Theme",
+      "name": "opération Sentinelle",
+      "id": "Theme_ad8c660f759daae8607054d48a9cd09e42262313250a563517cadfa220077462"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Organization",
+      "name": "Partenaires",
+      "id": "Organization_f0e9f397279f24993b14a3317977081b4ba58a82afd0fa5c1dcadef87d23fdb8"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la propagande jihadiste sur Internet",
+      "id": "Theme_b78a76f0b9d7a13afa1819bb97596a48cccedd0db9b96a9c83b35a0a69fbdb53"
+    },
+    {
+      "type": "Event",
+      "name": "conférence de lutte contre le financement du terrorisme lié aux activités de Daesh et d'Al-Qaïda",
+      "id": "Event_1505e857208de8d59d47a9c2ee77e3a1b13897623f17f1a3faff4b46cbde59d9"
+    },
+    {
+      "type": "City",
+      "name": "Trappes",
+      "id": "City_6cfcf9f63c7d97f63074a9c7573d71ae63a9f6372cc1009a101d056a4274e709"
+    },
+    {
+      "type": "City",
+      "name": "Yvelines",
+      "id": "City_7903265aff05073cb1bd90b0d47456961f9fd2d7f0ac6c70238cce117c7f276f"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre",
+      "id": "Organization_bcfcec7de2d7b4cf53f630b8f4bda4918808fa7973b4a27375e60cdb59c5914a"
+    },
+    {
+      "type": "Organization",
+      "name": "services sociaux",
+      "id": "Organization_ef95715757bb95ec5bed9a463785588a6985e810d9f3ff8f4bab1b81cb9af0f2"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités territoriales",
+      "id": "Organization_0a60af9062d171d1595f93fdf0e1ec5531b2a4a8c4cb1f6341762a0df5e03438"
+    },
+    {
+      "type": "Organization",
+      "name": "associations",
+      "id": "Organization_093357ed588ea24809b2100d18e873165901f63f0760d7b30cd7fed20c85113a"
+    },
+    {
+      "type": "Organization",
+      "name": "services éducatifs",
+      "id": "Organization_5c309a96eceb2f2e39470a17db245e4b747630714b390a10455e7895f158dd84"
+    },
+    {
+      "type": "Organization",
+      "name": "magistrats",
+      "id": "Organization_0cc1af25a3da5555c9015b01d29a875ec88c0cc90db61c48f6ae8949cf028116"
+    },
+    {
+      "type": "Theme",
+      "name": "phénomène",
+      "id": "Theme_4d530c15e3d9da59c27b2f0c0a7ea0caad12a3d39d8a7ee0634e052d460cd99e"
+    },
+    {
+      "type": "Theme",
+      "name": "thèses radicales",
+      "id": "Theme_02bc0984eb975cea83abffe851fe3ed10cebb5fdd0575a850d6956cd1b3d9bc1"
+    },
+    {
+      "type": "Theme",
+      "name": "violence extrême",
+      "id": "Theme_f27bcaeb6bb5f8b21dabff7d3a41d71b55737c92a25571ea69170e0e6a6cfa9d"
+    },
+    {
+      "type": "Theme",
+      "name": "grande pauvreté",
+      "id": "Theme_97278d9f0e5f3cc56e9b566affaede8b9d4a5af5c8de25e2babc307d419b41db"
+    },
+    {
+      "type": "Theme",
+      "name": "délitement des structures familiales",
+      "id": "Theme_2a87f6bd6bd333a2a98259751036bf22d9d3907d5ec11ffd206d796430a3be30"
+    },
+    {
+      "type": "Theme",
+      "name": "affaiblissement de nos structures éducatives",
+      "id": "Theme_6fbdd18e48e3be221d1b0f065d02141a562b115607068679e4a23f2903c6687e"
+    },
+    {
+      "type": "Theme",
+      "name": "absence totale de mobilité économique et sociale",
+      "id": "Theme_088b6e92112e379f899c6d89aa3d9a4d90cc86413f2c2913bdfb222cd8340034"
+    },
+    {
+      "type": "Theme",
+      "name": "radicalisation violente",
+      "id": "Theme_34177b338abe7b28b42031930f0479494aebc05eea2b4d9d19e1363d00e1ef2d"
+    },
+    {
+      "type": "Theme",
+      "name": "travail de celles et ceux qui sont devenus les artisans d'une radicalisation violente",
+      "id": "Theme_bf56557d088a7a317614980abfe7d33101217c026e87520da8d1bf3966a11482"
+    },
+    {
+      "type": "Theme",
+      "name": "bataille intraitable à l'égard de celles et ceux qui radicalisent, prêchent ou poussent à l'acte terroriste",
+      "id": "Theme_08f289b8158e46dba77e17e64abfeac8defa9dc70375344c636d51923075d1e6"
+    },
+    {
+      "type": "Theme",
+      "name": "lutter contre la ghettoïsation de certains quartiers",
+      "id": "Theme_5428b4dbd08105b48cffede59380a5286c4c2f702bb71e040f0c701a68e33d32"
+    },
+    {
+      "type": "Theme",
+      "name": "assignation à résidence de certains de nos concitoyens",
+      "id": "Theme_f638ee5aca1eca985254f7c999d3018970f22212fec043a1e45ae0bfaf5288b4"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité de tous les jours",
+      "id": "Theme_0501fd3a54fc1e6573b62b158a2894412c23392ec4d242efe87b53b377644d0b"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre public",
+      "id": "Theme_81f6659f1f0773c33fb44826282a3a9607166da9710d86c7b3894f4e726c01c9"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la délinquance",
+      "id": "Theme_775060dd1743d2515fbe8579a0428a06e11b6c3f780f11735b81eda95301d417"
+    },
+    {
+      "type": "Theme",
+      "name": "maintien de l'ordre républicain",
+      "id": "Theme_ceae6700b7887e58c4c1bd3f5a38f169994a5e663bd6290d4056bf275128e3bc"
+    },
+    {
+      "type": "Theme",
+      "name": "exercice de nos libertés individuelles",
+      "id": "Theme_2a7db2884449883d32c4c573726da5e7e9d39254916c8554c27c3eead9c52520"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Lille",
+      "id": "City_5984d05b4d6278317898653aaa663f1a3e582cba7d4bd2eff1bd3bc5a5d5e889"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité d'un événement",
+      "id": "Theme_3bbbc19b23c975067c78afe00cc073d6004f1f3c9427892f30a1cf9662c9ffee"
+    },
+    {
+      "type": "Theme",
+      "name": "maintien de l'ordre",
+      "id": "Theme_5406010ef8f9af9aa4048840b15508a4bb3ce98188009f99fb1d7917332fe201"
+    },
+    {
+      "type": "Theme",
+      "name": "libre expression",
+      "id": "Theme_b8ad8b9f7684059362648686b8c87a53b73c19fc627f8fe5c4dad91364692b03"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "accueil et d'asile",
+      "id": "Theme_3b38e90218ff6439043c6d832af4f84d2c1a101fc2ae51f71391389b4e1787e1"
+    },
+    {
+      "type": "Theme",
+      "name": "pression migratoire",
+      "id": "Theme_2057ad6aca45f1b30d2f73c28075b635c430964e1be334f4b06266c2cdf10931"
+    },
+    {
+      "type": "Theme",
+      "name": "basculements géopolitiques",
+      "id": "Theme_cc873bb96b097127d77f59d94f2b4841fc79d9444104346555300be69b234c3d"
+    },
+    {
+      "type": "Theme",
+      "name": "instabilités au nord de l'Afrique",
+      "id": "Theme_bdd868152c321a8875ad6baf38f122d8a09eb0ae46354992a2eca90376728f40"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveau nomadisme international",
+      "id": "Theme_828b6c0e236cd0a25101682b64fc3f0941747ba531d1393a21d213e452ee41ca"
+    },
+    {
+      "type": "Theme",
+      "name": "crises climatiques",
+      "id": "Theme_6e69bd2a84bd71f26c4098e363a933e582926a6256b87b3c30f044e990142dfa"
+    },
+    {
+      "type": "Theme",
+      "name": "déstabilisations économiques et sociales",
+      "id": "Theme_72eb2ee6c85a66e6a54d711e5eae8fb46558d1aabc5ccbd0884d6e7ddeab20eb"
+    },
+    {
+      "type": "Theme",
+      "name": "asile",
+      "id": "Theme_cd88f89a51614f7b8addc880c2aac7c86f554a1aa7bc17024cc6a92883621591"
+    },
+    {
+      "type": "Theme",
+      "name": "accueil",
+      "id": "Theme_631c2fc6627d70a4b94aaf156130a29c81c545a53446711b3f1e1e4c93b417f1"
+    },
+    {
+      "type": "Theme",
+      "name": "tensions contemporaines",
+      "id": "Theme_6234603d1f3c99845ad64fc410a366aff6e5041a8a5fc28e837e377ca2a8444a"
+    },
+    {
+      "type": "Theme",
+      "name": "droit d'asile",
+      "id": "Theme_a81084e788c48c89a0e2207025ddc0b45bb48104d0a4e55811c46fa436818ff4"
+    },
+    {
+      "type": "Person",
+      "name": "Orléans",
+      "id": "Person_25c7fbbd2dd1c4786632ccaa9206990ea5d6fec434f7b3b1ee45637b93954b43"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Theme",
+      "name": "laisser vivre dans la rue",
+      "id": "Theme_c686053595d27a64bf2653f515b874130dce61e1984d78d18dabe81d822a8b87"
+    },
+    {
+      "type": "Organization",
+      "name": "OFII",
+      "id": "Organization_2291dfd4f851120027cbe9dcb65bab3adcf653ded3c4bc0e36b032ab59d487e4"
+    },
+    {
+      "type": "Organization",
+      "name": "OFPRA",
+      "id": "Organization_e98ff105e8c6194d893a07d1818478d7cce7d5e66017a775c954fda346348298"
+    },
+    {
+      "type": "Organization",
+      "name": "CNDA",
+      "id": "Organization_dee7cdc160caa8d9bc3e530a2b58a119f6b2544de2f051c06ba9b08cbd43f000"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre d'Etat, ministre de l'Intérieur",
+      "id": "Organization_98c8afdfcb4de41fe0f15376dc387b09367e8c2385a63be05f23a754211f9dbf"
+    },
+    {
+      "type": "Theme",
+      "name": "défis mondiaux",
+      "id": "Theme_c3148c51a138276f88131c254cda0494ec4126c6e7093a2809aff7408ab30a72"
+    },
+    {
+      "type": "Theme",
+      "name": "misère",
+      "id": "Theme_e5fe8aa4113e8afa8c41be65477328f8742799cae67cc0603b7f0d9c9ec84bd9"
+    },
+    {
+      "type": "Person",
+      "name": "le ministre de l'Intérieur",
+      "id": "Person_0da8fe3d498eb45e80d5b6201ac06d3cb85c26558b2a64ef9394203d50329c39"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Charles",
+      "id": "City_625a8f2dc932178197f86b696a7bbde2044c7610b7c45f951a4afc968f39735f"
+    },
+    {
+      "type": "Organization",
+      "name": "Inspection Générale de l'Administration",
+      "id": "Organization_2334037cdc40a5e3a4ed8f6d2e45cf4a9c4e37210bc5930d1dd734fd7678b073"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "équipe préfectorale du Rhône",
+      "id": "Organization_5f09a06bc6f3677b853c6299e09db8afa23790f26376b5a6d892f7b388356562"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation",
+      "id": "Theme_01dbd75772ce2e01acf43a9eed5bfc3d66a83ad34f48105944d56c5bf0aaa34b"
+    },
+    {
+      "type": "Theme",
+      "name": "procédures",
+      "id": "Theme_eadb30aff3ccccd0da665303dde6fb7bab63f35b109b026e43e778fa66178d98"
+    },
+    {
+      "type": "Theme",
+      "name": "moyens budgétaires et humains",
+      "id": "Theme_8931c3289c6e2d42a5678888e3dc71ab739a9a032e68eb946b94ff630fd0adbf"
+    },
+    {
+      "type": "Theme",
+      "name": "étrangers en situation irrégulière",
+      "id": "Theme_e54b2a1017865bfa352ea191ba1fbdbc29d4e0c21a15e44ec1f62e59117a1e8d"
+    },
+    {
+      "type": "Theme",
+      "name": "loi",
+      "id": "Theme_aaa751cd5b857da1d5f067b90439cca5af7e59784eb0537f6c5b647db27ec7a1"
+    },
+    {
+      "type": "Theme",
+      "name": "éloignement",
+      "id": "Theme_bf65f666ffd0ad1710eac7d65e09c0bf01292afd795196eac10c986211bbc6b8"
+    },
+    {
+      "type": "Theme",
+      "name": "pays d'accueil",
+      "id": "Theme_a05197caa58e2dd50e4ffa53d47bcf5e88d10ae7bd2712049f353b93c6c820a0"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme",
+      "id": "Theme_d10bce3b67531a6774cd57104a434124f2a796f10cbfff22bb37dbeba66cb515"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité des politiques publiques",
+      "id": "Theme_a83895ecde97f96b280eafafe7d97fc3530e9f55222637d4e2040584e279f811"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle",
+      "id": "Theme_56a9d80cc5c5f0db6a7fca8c1a2a686f455c689decc2e4e4abf4b873bfde1657"
+    },
+    {
+      "type": "Theme",
+      "name": "reconduite",
+      "id": "Theme_58b4b6a84baa65069d6fa7ad5f1d653ec91d7486aaee330cf290a66f5a639333"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration",
+      "id": "Theme_56ec1521640ee7901aceb6075eed1a37e2a9c16262cd4f911266166ee5562133"
+    },
+    {
+      "type": "Theme",
+      "name": "fausses identités",
+      "id": "Theme_8c034ac2f103908ce9622ff77397539f6a9769710f826f8306560cfac235dca9"
+    },
+    {
+      "type": "Theme",
+      "name": "biométrie",
+      "id": "Theme_f1af30accc38d2458be9d2a68216f499f7ea4e0262dab202e5f4315c295fe2b2"
+    },
+    {
+      "type": "Theme",
+      "name": "régulation des flux migratoires",
+      "id": "Theme_b045050d77ee16d60b63e9fdbcc96a52e40955d488dc40c6a2bd47e61fe9a5f5"
+    },
+    {
+      "type": "Theme",
+      "name": "lois",
+      "id": "Theme_766b24b40ca0257b39bc7b38835ebf4e150e279ff118a5f34e52aceb71952783"
+    },
+    {
+      "type": "Theme",
+      "name": "insécurité routière",
+      "id": "Theme_cba8cd5201c621caeb716eab7d4b5b8e2b6ba72cd7ef0cbb73170676d4e6d4fe"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Martin",
+      "id": "City_bf279675277b85a1d038861ac98b8b0a9f6f40dfebd678fd910dfb68248309b9"
+    },
+    {
+      "type": "City",
+      "name": "Antilles",
+      "id": "City_e5bf4545ed45774c0c3f23ddc5c82d372bd391973d5a7361a2921e17ad411050"
+    },
+    {
+      "type": "Organization",
+      "name": "forces de sécurité civile",
+      "id": "Organization_a56d8e48f14dd9e1b5e0df7994a3937f9b8ca8f189964fed5c606ba750453192"
+    },
+    {
+      "type": "Country",
+      "name": "la Nation",
+      "id": "Country_61c6600a9dfecb7802535439b1c2021f46b863fad7604b75fa9e7664b1f68784"
+    },
+    {
+      "type": "Person",
+      "name": "Ahmed MERABET",
+      "id": "Person_fbefa01599100a9f9a86b0ed46c94ff9877477dfa31aab093807974f6bb835bb"
+    },
+    {
+      "type": "Person",
+      "name": "Franck BRINSOLARO",
+      "id": "Person_59c8fa1c577927198f29150e3738578eca78586372ed9c937c66ca54fc235fbc"
+    },
+    {
+      "type": "Person",
+      "name": "Clarissa JEAN-PHILIPPE",
+      "id": "Person_c94ff4f51a30865e6892b91f12173353ab0b84ff5bba80adc4c78266fb071b87"
+    },
+    {
+      "type": "Person",
+      "name": "Jessica SCHNEIDER",
+      "id": "Person_ac62f115c918d3d934f5149570dcdc8eefcec1f7fef2ea58d40e4fdb594a6b16"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Baptiste CHASSAING",
+      "id": "Person_64408adf62b3c5fbf111a51288c0d30a2bf23ca32c8b1403f671a1a5d4c49a79"
+    },
+    {
+      "type": "Person",
+      "name": "Xavier JUGELE",
+      "id": "Person_15c8a2529159f7177517ecd3701de2bdf7f7c8480003bb63ae7afc13ce5cea8c"
+    },
+    {
+      "type": "City",
+      "name": "Magnanville",
+      "id": "City_3de80fb2d5fa94bf0d9d3382c72ea4cae727543d4525d451e2993597d539e2b9"
+    },
+    {
+      "type": "City",
+      "name": "Champs-Elysées",
+      "id": "City_737794ff8e60390744973453898930ac065fdbfc8849d572c4492e1ea970058b"
+    },
+    {
+      "type": "Organization",
+      "name": "gendarmes",
+      "id": "Organization_dd1fa107e8d2fc3c011bc045275f305ea89fbc5965d66e5b1e01470d5734dc21"
+    },
+    {
+      "type": "Event",
+      "name": "manifestations contre la loi Travail",
+      "id": "Event_21f52ee0ad4ec877ce463262f465fd4487a2057a3dfa7cae3f8718fbfbc43ed7"
+    },
+    {
+      "type": "Person",
+      "name": "Vincent RUIZ",
+      "id": "Person_8988d507bf135f7a3d84c29520b19c6c27210833c6537d812c5071b64a9d856d"
+    },
+    {
+      "type": "Organization",
+      "name": "forces de l'ordre",
+      "id": "Organization_8dc73a3ce58bd863b368fbcaf066bb1888740d708d6e194d2b36e502d59dbf25"
+    },
+    {
+      "type": "Organization",
+      "name": "policiers",
+      "id": "Organization_29f7b170b9b51ef4b73ad455c2d7b7b464617edcef8e00b495abd08bee51658c"
+    },
+    {
+      "type": "City",
+      "name": "Grigny",
+      "id": "City_65c1c5422f68e8f5d5a602ff96843dc309e7506fb16b7e1e461bbe61d643da5b"
+    },
+    {
+      "type": "Theme",
+      "name": "agressions",
+      "id": "Theme_a9f13de43a85e79f397f58cfce316eac011e2784f534dca1a56e22fb3e380d0b"
+    },
+    {
+      "type": "Theme",
+      "name": "refus d'obtempérer",
+      "id": "Theme_d8a0f25884168f4aae57a799666892fa09e6849c24fe28d0f3d6f4e04f783cd1"
+    },
+    {
+      "type": "Theme",
+      "name": "forces de l'ordre",
+      "id": "Theme_809864be8dc32044dcdf711ea2d6475b2aa8ed737b25638076fa75973025c671"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention des suicides",
+      "id": "Theme_f1289c53d994551e9f5ffade45f77ecdb6737b2ea3826387a344513c66363d1a"
+    },
+    {
+      "type": "City",
+      "name": "Rennes",
+      "id": "City_d564c2200c14023b5758335386ec1655d70c5022fa6bc14c1788fc91523130e8"
+    },
+    {
+      "type": "Theme",
+      "name": "anonymat",
+      "id": "Theme_8e5afed1cb4b25349d0d1893256e864269adbc9a45874d734ac23f1c08f70e6d"
+    },
+    {
+      "type": "Theme",
+      "name": "loi sécurité intérieure et lutte contre le terrorisme",
+      "id": "Theme_61a69f292e2997cc427136fa7facd731271a3f739c9e683fa5e196f41054f15b"
+    },
+    {
+      "type": "City",
+      "name": "Limoges",
+      "id": "City_3edaab92b8c6f84e7582af4a0347249e87400fc1df802fc9918dcead88e995c1"
+    },
+    {
+      "type": "City",
+      "name": "Grenoble",
+      "id": "City_fa629d484a8f9aa39ff5e4109dbd2c0dfebcc0de6a03a19ba5127cdeac55b4c2"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs",
+      "id": "Person_625fe3a313c056b9dc1724205255b9a7767c4b46670f91284ff4a20cb9382408"
+    },
+    {
+      "type": "Theme",
+      "name": "exemplarité",
+      "id": "Theme_8bb9d16c94b82758bad9baf6cec2c0cf51f606eb0ba1cc7df384d2dc8604d742"
+    },
+    {
+      "type": "Theme",
+      "name": "relations avec la population",
+      "id": "Theme_25ef86a012daecc33e6d613de57610cc696ba88ea0ee93a448edea50004467d7"
+    },
+    {
+      "type": "Theme",
+      "name": "sanction",
+      "id": "Theme_29de762b4d94d1c2bfb96115ce40169b65c65dd23e6e0b6ded05461168366740"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle d'identité",
+      "id": "Theme_f6bb6832ce04b26fde41a4a36402cd29b04032045301391fb01c0d4e39ec788a"
+    },
+    {
+      "type": "Theme",
+      "name": "quartiers les plus sensibles",
+      "id": "Theme_05a119baa0bee2eaa78dc7ede56d6a31ff98d493a2590063e7701c6b202d42c8"
+    },
+    {
+      "type": "Theme",
+      "name": "conflictualité",
+      "id": "Theme_0ccb313b8c65731a956716e3e88a5c13c63f5e08b337455b02bfdde6922c17f8"
+    },
+    {
+      "type": "Organization",
+      "name": "Police de sécurité du quotidien",
+      "id": "Organization_3a633ff054efb670864229cbf7f7c36711c12b889675df497ff2fd29f3507c2e"
+    },
+    {
+      "type": "Organization",
+      "name": "l'institution que vous servez",
+      "id": "Organization_44a52a312f3fec1a08080f35759475613598fa8e71ba042716d1da998f5cccfb"
+    },
+    {
+      "type": "Theme",
+      "name": "la sécurité intérieure",
+      "id": "Theme_663da3a78db9e3d37b8bfa3a873ffccd7547ec0242284e48e5d52202ba9d083c"
+    },
+    {
+      "type": "Theme",
+      "name": "la lutte contre l'insécurité",
+      "id": "Theme_524b828be31947211b3d9802a0b89573664a1cbc2a03a92bf1c048f614f89a6b"
+    },
+    {
+      "type": "Theme",
+      "name": "la police de sécurité du quotidien",
+      "id": "Theme_61efa21ceb859d1e4a975298d32dd3ca2f33b5cc05c5235796f4e6921090cef6"
+    },
+    {
+      "type": "Theme",
+      "name": "le terrorisme",
+      "id": "Theme_9637db07ecdb952d07e8123baf4df08e8f504fbcd111f02eba48391038e8864e"
+    },
+    {
+      "type": "Theme",
+      "name": "insécurité",
+      "id": "Theme_c7a368bf598bca497caed4dd3d3f42ab5d1c9b08009fd42e199fd3976aac0fe6"
+    },
+    {
+      "type": "Theme",
+      "name": "infractions subies au quotidien",
+      "id": "Theme_2ed8dc88056062baa429765f612ef6a98d8ac403e99e85c1a82e60d787bcbe60"
+    },
+    {
+      "type": "Theme",
+      "name": "cambriolages",
+      "id": "Theme_6cf7b3b54d19912996f86a5ba9fe37686a8c6d973119b98076547f8c33634687"
+    },
+    {
+      "type": "Theme",
+      "name": "campements illicites",
+      "id": "Theme_662ab6372ade90f562e01844b2899d9994621cd836e127afb6f4d87eae963b83"
+    },
+    {
+      "type": "Theme",
+      "name": "rodéos sauvages",
+      "id": "Theme_f48ecb200b191cfa8f9015876b8daefd52bb5ee8f285ca1448179180f2fee55a"
+    },
+    {
+      "type": "Theme",
+      "name": "occupations des halls d'immeubles",
+      "id": "Theme_9ca7a018414359c8879c80c6a03adc22d9cb92d091b3739d97a02120566e530b"
+    },
+    {
+      "type": "Theme",
+      "name": "incivilités dans la rue",
+      "id": "Theme_c4b7e93d8837d0bf8c1a81cef6e4b289efa968acb7da0b641c29b06e620eb24d"
+    },
+    {
+      "type": "Theme",
+      "name": "harcèlement de rue pour les femmes",
+      "id": "Theme_9e565737885b15253ebbc18a42cd344df4d4c89cb180ffb875e714ca7687c466"
+    },
+    {
+      "type": "Theme",
+      "name": "policier",
+      "id": "Theme_3e544a34c572934421d7771276c02c92dbc0a4b5fa91ec72340655430b79eea7"
+    },
+    {
+      "type": "Theme",
+      "name": "autorité",
+      "id": "Theme_212da0e5472584111e4a785cdbfbba838d07d4e4248f7c7854a87bd77295e2dd"
+    },
+    {
+      "type": "Theme",
+      "name": "règles de vie en société",
+      "id": "Theme_bfaa2636eaba3f6cd77c9026bba9016d2946ed5a3f3ba0ada617ad96aed38e60"
+    },
+    {
+      "type": "Theme",
+      "name": "modes d'action",
+      "id": "Theme_e6042b8859feb6922f5f51bcb2746d3f383aa3c87c2ea72255144dbbbe8c48c8"
+    },
+    {
+      "type": "Theme",
+      "name": "éducateurs",
+      "id": "Theme_4441911d6a7d03b92ba6f19f0ce8ea27db1c60f8434042e824c4e8f4c76ebfc8"
+    },
+    {
+      "type": "Theme",
+      "name": "associations",
+      "id": "Theme_ba784fb43b994117eb1ae0415261deea69166fb8bcdf66cb084dfc838d7b5c36"
+    },
+    {
+      "type": "Theme",
+      "name": "élus locaux",
+      "id": "Theme_621da262bf8760024810f6b2ae1ed66d0383b08345c2953953224f2d11029587"
+    },
+    {
+      "type": "Theme",
+      "name": "police municipale",
+      "id": "Theme_595cb1306518c661fa21e397f3f0b7a6d4251fb71fc992ca9e9bbd56c52f2009"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité publique",
+      "id": "Theme_7e26a3d2301e343d026e68c0164cc09ce1684d5bb6f47ff3a0fe5ee183d4be8b"
+    },
+    {
+      "type": "Theme",
+      "name": "service de la population",
+      "id": "Theme_8cc39a2ad85e956378bc1b08b9831b0bc60bf213d52a9eadf8d5606e8861775e"
+    },
+    {
+      "type": "Theme",
+      "name": "petite et moyenne délinquance",
+      "id": "Theme_c6cc9e0aa0ddf56c2f09a9d48a4fd5bbe92351f7f787203025b4a990088c31e5"
+    },
+    {
+      "type": "Theme",
+      "name": "grande criminalité",
+      "id": "Theme_2b5ec97915219470b21f2c370ed2685043f64f05961ef36a10269d71b1713402"
+    },
+    {
+      "type": "Theme",
+      "name": "cadre d'action renouvelé",
+      "id": "Theme_33d196f01176e6d82068fa5576dd1694bf78a871c650052286dfaa52a39550e7"
+    },
+    {
+      "type": "Theme",
+      "name": "police de sécurité du quotidien",
+      "id": "Theme_66451fe7df5b8eb4e6a95e24960b78b38fb3398968a6e102e813e00001b799e1"
+    },
+    {
+      "type": "Organization",
+      "name": "associations d'élus",
+      "id": "Organization_9b3d4303966aaf6931eb132d712233798153bea7ff297ec31501d1ac412aa91d"
+    },
+    {
+      "type": "Organization",
+      "name": "organisations syndicales de la police nationale",
+      "id": "Organization_fe16fdf82bc56e840d5f74f8f03ee613103d9e0db59153a91b05693bb1a90a85"
+    },
+    {
+      "type": "Organization",
+      "name": "structures de concertation de la gendarmerie nationale",
+      "id": "Organization_2f961470c789fe21e254875083cb2a467ed9db08283f3c36ea34f16043607c4b"
+    },
+    {
+      "type": "Organization",
+      "name": "représentants des policiers municipaux",
+      "id": "Organization_c0300cc06945ae0f67332b4b7dd7a07ed213c2614a3bfe2c7270e29047e9441d"
+    },
+    {
+      "type": "Organization",
+      "name": "personnes de la sécurité privée",
+      "id": "Organization_3c563609ecee63f6e916c9e2bc445c460e7332f64703a48c4d7ed5c478225fe1"
+    },
+    {
+      "type": "Organization",
+      "name": "transports",
+      "id": "Organization_c21100ff3d0725c98a3bcca003ccaf9291e7630d8d60d40da57ca32d61292db3"
+    },
+    {
+      "type": "Organization",
+      "name": "chercheurs",
+      "id": "Organization_04e826d053f44d5a36fa3a4783e1fbb200cbdd2f99fa9752d6a2aaf5a4fd2549"
+    },
+    {
+      "type": "Organization",
+      "name": "universitaires",
+      "id": "Organization_5186634188d2b6c1449664a29fdafc52345870c72759daa47d8d2a45fa55c88b"
+    },
+    {
+      "type": "Organization",
+      "name": "police nationale",
+      "id": "Organization_219ccc80259d1ab3e7562ec99cab97311c046678c28849f091e91e80feac2093"
+    },
+    {
+      "type": "Organization",
+      "name": "police municipale",
+      "id": "Organization_ec0302f5a69a76516d082883d3d4be333fedfc4e0b6c438065a402ac9b9dbfca"
+    },
+    {
+      "type": "Organization",
+      "name": "sécurité privée",
+      "id": "Organization_9343b0bb17dd7e2bb5640538643f4650ee746adaf5faf75b6e646a82df81eb3e"
+    },
+    {
+      "type": "Organization",
+      "name": "fonctionnaires de police",
+      "id": "Organization_2a58a0f23f8c80865341e66b75752e2de339160682e770a007947a9b153d3964"
+    },
+    {
+      "type": "Organization",
+      "name": "militaires de la Gendarmerie nationale",
+      "id": "Organization_301817acd57ac1f1e9229585a7606cf1c28dd911163eca57fcdacc0d6ae27467"
+    },
+    {
+      "type": "Organization",
+      "name": "élus locaux",
+      "id": "Organization_4d0134946d1a9782e19d340e8c35e84487bc60452ac6543007e248dd37479e52"
+    },
+    {
+      "type": "Organization",
+      "name": "autres acteurs de la sécurité",
+      "id": "Organization_6cba15f7a6e98fae68fdc826f6a33e6dbbe31bf6633ed84c22f967a8039b46b2"
+    },
+    {
+      "type": "Organization",
+      "name": "autorité judiciaire",
+      "id": "Organization_cbcdc5d1469fbe0ba14f31717c0649cdb00064c7fbbf86cf2d9ecbf0112ab9c6"
+    },
+    {
+      "type": "Theme",
+      "name": "service du citoyen",
+      "id": "Theme_f2dd654bdb42a942ce719f5c79d55d44783879440b50806f009bac030ff46a7b"
+    },
+    {
+      "type": "Theme",
+      "name": "satisfaction des besoins des usagers",
+      "id": "Theme_1293ae55cbbe3caf8dd57652a6cbca162f22e7c38ad5d55b7fdfd304fa313965"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité du quotidien",
+      "id": "Theme_72145a6cdc283e4a0c091e79c5e14ee079aeba1d2dac97be97aee052cd446ab3"
+    },
+    {
+      "type": "Theme",
+      "name": "concertations",
+      "id": "Theme_2dae325ca42451113fba6b8d7f08b95e4eabf86a7634fec9850c807d097e2f85"
+    },
+    {
+      "type": "Theme",
+      "name": "modernisation des outils de travail des forces de sécurité",
+      "id": "Theme_b95600642a77ff36c6978c00aec3321f4eefcbd1f5eb4f7b4fafe3ef3a87741e"
+    },
+    {
+      "type": "Theme",
+      "name": "caméras piétons",
+      "id": "Theme_b340f35f103c6f739c80da5ed5fa20cd8b82406a39d6bb5fa0858d3a3d283bba"
+    },
+    {
+      "type": "Theme",
+      "name": "locaux d'accueil véhicules",
+      "id": "Theme_9f5ff452bdc96e045b0dd4692d963ca49e4aa91721955b36e4d37c78d40fa589"
+    },
+    {
+      "type": "Theme",
+      "name": "participation citoyenne",
+      "id": "Theme_f926e1a21111671abed72270e6b74b45aa7b9584e1e4bd7f56246aa080f73c1e"
+    },
+    {
+      "type": "Theme",
+      "name": "société de vigilance",
+      "id": "Theme_4969c7f525d19d3aff3ccd5298045e3b28ed6bc99aacad2f564381b3eb429947"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme de la police de sécurité du quotidien",
+      "id": "Theme_51842726c846379dd6f494bb3a8435d7287f4bf3feebb4eb36893c164db4c5fa"
+    },
+    {
+      "type": "Theme",
+      "name": "concertation",
+      "id": "Theme_d3f8a45df0325edd93f67492d7ebd72cb7c6b497b5986d8daf6b87fa3af7fed5"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation de cette mission essentielle",
+      "id": "Theme_c81c49dacb25b10b14e4926e11da4abf66b6c21e325d85816646a9c0a9b4986e"
+    },
+    {
+      "type": "Theme",
+      "name": "défiance qui s'est parfois instaurée dans certains quartiers",
+      "id": "Theme_1c28bad03a689e6c5bb6acf2b677e43585002b39b4b74a1bac72dc74d6121980"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme de la procédure pénale",
+      "id": "Theme_4ea44e60733cfc82c464a9945bcd5367523bb6fccfd0feccd36bc18ec2d90d76"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses judiciaires",
+      "id": "Theme_bf17f6bb4c007abae991a1ad60ff6b8abd2ce789516b7fa52d2506626106f4f9"
+    },
+    {
+      "type": "Theme",
+      "name": "forfaitisation de certains délits",
+      "id": "Theme_99efd70240033befe8fd0391c0e283558a87cad6a122ef4f029c0475d4517067"
+    },
+    {
+      "type": "Theme",
+      "name": "réponse pénale",
+      "id": "Theme_458044507db3ea39df85a3222177aad2b7ee7b9979d4522b8871a51724004015"
+    },
+    {
+      "type": "Theme",
+      "name": "droit des étrangers",
+      "id": "Theme_6ec85312bc79effe6488b9ddbc99bd7595bbf0827dec90ab8767afc199b2db53"
+    },
+    {
+      "type": "Theme",
+      "name": "réalité de la réponse pénale",
+      "id": "Theme_2cdf2b5f9e8c9aa71b38a14546d42d65f5942672125f2b3028865b089617c469"
+    },
+    {
+      "type": "Theme",
+      "name": "thrombose de l'activité judiciaire",
+      "id": "Theme_6c09a62f3c808c4bc650378c3853352c3bd54c282368ae4113edd01e1150964b"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses qui parfois durent des mois et des mois",
+      "id": "Theme_5a4b43f1edb489526d29cc137b051747514606500cff6c59dce2a4e7b61d5398"
+    },
+    {
+      "type": "Theme",
+      "name": "moyens supplémentaires",
+      "id": "Theme_94e9458e4afd53b85fdb29c4f8f2994c3fbda0867d5c05cd807f641ac8a1f3e7"
+    },
+    {
+      "type": "Theme",
+      "name": "chantiers de la justice",
+      "id": "Theme_4c3157c93ae0dc4190e803247460b956880ba231af80cf8f15709098d9b5bde8"
+    },
+    {
+      "type": "Theme",
+      "name": "sens au travail des officiers de police judiciaire",
+      "id": "Theme_19bf894267fdf9705f8f960c2e641a537173a60c2f7613a45758f7a2059683c8"
+    },
+    {
+      "type": "Theme",
+      "name": "magistrats",
+      "id": "Theme_1b62fa9d98f3fc9f8d1147c68f1c1a05303735bdc05995a8239ae14793407b47"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification de la procédure pénale",
+      "id": "Theme_3079ed43960f57ab7ef17cbc542dea9b0f71aec50ee2118817fc6e68aedb39e2"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme et simplification des cadres d'enquête",
+      "id": "Theme_82a81226050cdd64460b7e5d2408046d735d46e365b09196e71e00ec7f49bcc9"
+    },
+    {
+      "type": "Theme",
+      "name": "harmonisation des régimes procéduraux",
+      "id": "Theme_d38aab1eca4b6073e3c710a095aff11a0d756f37637b8cb8b07559086ac43b7f"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoirs respectifs des officiers et des agents de police judiciaire",
+      "id": "Theme_2fed76b8f43ab41cd86b2228a1bfd7a2be99a206295b0a328f7f09e5df4c917b"
+    },
+    {
+      "type": "Theme",
+      "name": "allègement du formalisme des actes",
+      "id": "Theme_1581b8d04725522d7615fec422063a4d8f938cd599ecc28d4477cfc27bbf77f0"
+    },
+    {
+      "type": "Theme",
+      "name": "oralisation de certaines procédures enregistrées avec les techniques contemporaines",
+      "id": "Theme_5d8f09b85587864164fd562c51efdd572b75567ab50f59e186e0ee458e65c522"
+    },
+    {
+      "type": "Theme",
+      "name": "dématérialisation et accès simplifié aux fichiers",
+      "id": "Theme_cc22d09faf6e9656fd34ec8ddc1592863df5de2f2fef5367f86bf65588b30987"
+    },
+    {
+      "type": "Theme",
+      "name": "prise de plainte à distance",
+      "id": "Theme_9a1057e82b164b16f719103061d18fc971483cb7ef7ce415ceef4d9c5f9559f5"
+    },
+    {
+      "type": "Theme",
+      "name": "mission",
+      "id": "Theme_ccdd4dbdd0b77e3998dd06aa95f6adbd98c258e86ae158425d21f328328b4951"
+    },
+    {
+      "type": "Theme",
+      "name": "sens de la mission",
+      "id": "Theme_7670819796c0188882a97e71e1651d8dddf126ec3585ab3365d8808a7301fb5e"
+    },
+    {
+      "type": "Theme",
+      "name": "priorités",
+      "id": "Theme_2fc06aee79bff738a314bbb6ebe37cc71d3e10a182bc10e57c5e0c5950264c51"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "procédures obsolètes",
+      "id": "Theme_1fc084d5dad3aa42b8a2fd7975352a670bde99a21287511c1573e068fc833a64"
+    },
+    {
+      "type": "Theme",
+      "name": "défis",
+      "id": "Theme_5a6aef98f24c26e747d7ee3628cc4cefe7a02e552336681ab6dcd972be5b12a5"
+    },
+    {
+      "type": "Theme",
+      "name": "respect des libertés individuelles",
+      "id": "Theme_f8e3cc4fbdf5a8e668189311d9d460b671988a200bfafc5cf4e0c07349c97b69"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité de l'Etat républicain",
+      "id": "Theme_2224ab00bb204ee69810221727837150a4006504f729f265e4f815150cba239d"
+    },
+    {
+      "type": "Theme",
+      "name": "travail des magistrats",
+      "id": "Theme_d988ee6c783f34b673106a4a2f35c6f0a1fe84dc0045c36970bb6ceb595ef7c3"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "souffrance",
+      "id": "Theme_0c3071918aa68c376b3aa12a734d48070bd74043ced36cc28e2da83f40a9e42c"
+    },
+    {
+      "type": "Theme",
+      "name": "contraintes excessives",
+      "id": "Theme_11a2d2a3a62cf6d632ee6226771cc0cbc3fcb31797018569e82ae59ce306c3b7"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations",
+      "id": "Theme_3957cb051014b00717e7b2ec655cbcfa47c99687835fe48f9d3a8fbe1cedaead"
+    },
+    {
+      "type": "Theme",
+      "name": "mesures d'éloignement",
+      "id": "Theme_16e110b8ba38fea35a96710d383b74411afd12a26ed23f225093425e18da5123"
+    },
+    {
+      "type": "Theme",
+      "name": "travail plus efficace",
+      "id": "Theme_02cfd5198a15a750d699f01eebfa198b5788708dfcbfb1e9df2242083ca1e15c"
+    },
+    {
+      "type": "Person",
+      "name": "Votre",
+      "id": "Person_7317a3886a408dcce68640a26221253dacea28ea58a931eaa24671ae561087d9"
+    },
+    {
+      "type": "Organization",
+      "name": "vos représentants",
+      "id": "Organization_b86346cc5c36c630ff9b0da82e449ac7bfdb4aea0a4c8f9416bea8b184bf127a"
+    },
+    {
+      "type": "Organization",
+      "name": "vos organisations syndicales",
+      "id": "Organization_00f87e5427ec21b067c3e3c3b4f84e8a1050d8e0f955c0d0b85f720f46e0ffe3"
+    },
+    {
+      "type": "Organization",
+      "name": "les agents",
+      "id": "Organization_5d9f9d199a3dcb4d7a8c23524491854e6adc6d039722935c2d0fcc9cff24adb9"
+    },
+    {
+      "type": "Organization",
+      "name": "celles et ceux qui portent vos voix syndicales",
+      "id": "Organization_fefb95e9a0491ce9dab4e30286395c8393b342a8aa62d5b8ba1d95477cd99f74"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "crédits d'investissement",
+      "id": "Theme_99402a48392405ee0c28ec6b9cdd71cf7cc987410a0f4ba9310b80f83c233bba"
+    },
+    {
+      "type": "Theme",
+      "name": "rattrapage",
+      "id": "Theme_e347253122aaccf837ad8907dcd88c59c4ed23a3742d6e812ba31c6b0417c8df"
+    },
+    {
+      "type": "Organization",
+      "name": "nos forces de sécurité intérieure",
+      "id": "Organization_5cf9ac4c14ef19a74aed8b2e0c84fd7a17f375f78a35a343285ec4a4030d8a6b"
+    },
+    {
+      "type": "Country",
+      "name": "notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Person",
+      "name": "ministre de l'Intérieur",
+      "id": "Person_0d5830ce010b09a893018977c517ee33baca96610b7d2f80003b744b76230d9b"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte antiterroriste",
+      "id": "Theme_8fae943f2741afdc9e19120fed043ab4408a5624c778eee45499db07646b1e7b"
+    },
+    {
+      "type": "Theme",
+      "name": "recrutement",
+      "id": "Theme_dc4a51d6853c4a656f70dd021f7954af49386c033fd11547f64cc55d4ae66a46"
+    },
+    {
+      "type": "Theme",
+      "name": "effectifs",
+      "id": "Theme_27befe9ee3e53b2e38baf2b2272857bfe697805a8a949273129ef26910f0b30d"
+    },
+    {
+      "type": "Theme",
+      "name": "conditions de travail",
+      "id": "Theme_216aa5bb4ef0f659e46bccbac16308fd5c845abd1f38958510f22fe8f53286bc"
+    },
+    {
+      "type": "Theme",
+      "name": "immobilier",
+      "id": "Theme_328854fd072ea7bd8958941f2facbb4644d45bfb0439d6f77511859602252f89"
+    },
+    {
+      "type": "Theme",
+      "name": "budget immobilier",
+      "id": "Theme_a63789418522c0f7ecf915b025c496b2b9b3cc6649495ee78bb9291c24ac04e2"
+    },
+    {
+      "type": "Theme",
+      "name": "proximité",
+      "id": "Theme_512affcdb611a8ab0309827f6dae30cbff289bc99e4d1dd87a95e6a228b90684"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "attentes locales",
+      "id": "Theme_6b9327107fd5c73804c464adbadea326c7d59dc590cd9dfb3160d3b257a02cb4"
+    },
+    {
+      "type": "Theme",
+      "name": "déconcentration",
+      "id": "Theme_b1ff4bf432bbe91fab75861d69d7cda5ad1342f94ce23dd2d9e5d73b3cfff24c"
+    },
+    {
+      "type": "Theme",
+      "name": "contraintes du terrain",
+      "id": "Theme_fee6b04fbe99a3bd77669c8e81dbc0cac3c14d2ce6affdf5644f9250af484f09"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère de la Défense",
+      "id": "Organization_33a2a88f09bc185205284e909c0ef8683f2c0a177b26a18734cbdff7126494a2"
+    },
+    {
+      "type": "Organization",
+      "name": "bases interarmées de défense",
+      "id": "Organization_6e9b5bda9eae5cc33fd6b4a0d585312aae878c70fbc4c7fbff538eafbd968800"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétariats généraux à l'administration du ministère de l'Intérieur",
+      "id": "Organization_5b995e4e28ecaed3807f0540fb968686d4fff1fb16e15277e70107782e0886a0"
+    },
+    {
+      "type": "Theme",
+      "name": "temps de travail",
+      "id": "Theme_f84f48560252003ddb4994f1f06d787405627dcfd67c5b18b9fd8b1941ae6999"
+    },
+    {
+      "type": "Organization",
+      "name": "gendarmerie",
+      "id": "Organization_b95753ed271ade5dcf1b54deee1f75640b2715635daabd28dba268524f6e100e"
+    },
+    {
+      "type": "Organization",
+      "name": "militaires",
+      "id": "Organization_9b8d566f761970686e25f83e3740890ff73ce69186e6043ccaae953b533f4eed"
+    },
+    {
+      "type": "Organization",
+      "name": "police",
+      "id": "Organization_dc301df473166c63b52caf113c7750a660022b2ff499ea992891073f92e5a736"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation numérique",
+      "id": "Theme_d318c2f86921804391bbc676073257d45bb14c7d08f63aa65f5bf7796b4958ef"
+    },
+    {
+      "type": "Theme",
+      "name": "numérisation",
+      "id": "Theme_50905116b58d71fb611a012a8f989a8547a38622832cfa8ac5a6f5aa23f431c0"
+    },
+    {
+      "type": "Theme",
+      "name": "service public de la sécurité",
+      "id": "Theme_e527b4b1ec3471727453586f43f8b56e1022abfd1e3a91a63c50d705e4bbe82d"
+    },
+    {
+      "type": "Theme",
+      "name": "appels de secours",
+      "id": "Theme_526060ca1bb84c4207d3832f8e3c8148be2bd127d5cc106e40c066d63146c028"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation organisationnelle",
+      "id": "Theme_c2adf8bfc325c7031ce3a53eb56fc6c7f27a68c7079e4eb7d4ddf893a5daad80"
+    },
+    {
+      "type": "Theme",
+      "name": "plainte en ligne",
+      "id": "Theme_de76d0b0aed2346f41529adf33421a749c0ea4293da344f51643c8b422b2532e"
+    },
+    {
+      "type": "Theme",
+      "name": "logiciel de procédure",
+      "id": "Theme_e0c551fab1cbe534d39b0e754322f7d08e0126dbdfc4a5e052c958fa7ffc2a9a"
+    },
+    {
+      "type": "Person",
+      "name": "Le Premier ministre",
+      "id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "type": "Event",
+      "name": "le grand plan d'investissement",
+      "id": "Event_dd3195cd6becc943381863e212f1bc35e06b85320bbddd6f872a7a9ae07dcf96"
+    },
+    {
+      "type": "Organization",
+      "name": "sapeurs-pompiers",
+      "id": "Organization_65af48d7150af973eae0e7628bcf4a3d991ebef47542190435e0b835efee6a7f"
+    },
+    {
+      "type": "Organization",
+      "name": "sécurité civile",
+      "id": "Organization_e4b46a9de4af23e7c994ea55bf57a84132eaded6de1bc7aa45afbbcb2801f8f4"
+    },
+    {
+      "type": "Organization",
+      "name": "grand plan d'investissement",
+      "id": "Organization_19dd84abb63f0153d2732f19272b32b4e45a122386b988d64af18fbc820ecaca"
+    },
+    {
+      "type": "Organization",
+      "name": "agents de terrain",
+      "id": "Organization_30a12dd556d6a7b97c93a4eac34d695bc66725ecafc68a1b0aced2f494eb32bc"
+    },
+    {
+      "type": "Organization",
+      "name": "contrôle aux frontières",
+      "id": "Organization_32765264839c10d957509b2ee5c442761917ea8c793bbe612663981dd060c052"
+    },
+    {
+      "type": "Organization",
+      "name": "Eurodac",
+      "id": "Organization_4c98b758eab008cc77eace0c23d42bb027c5150c715bcdc12cb719ec899d5a5b"
+    },
+    {
+      "type": "Organization",
+      "name": "SIS",
+      "id": "Organization_f4258ca31ba6fcbb6d24afbb6f7a4a11a97342caeb8ec3fa2924fa272cf91789"
+    },
+    {
+      "type": "Organization",
+      "name": "chantier",
+      "id": "Organization_46efc6485879a61d92a2186d0220a7515e4ade536f239f326e7ecbf34702c71f"
+    },
+    {
+      "type": "Organization",
+      "name": "interopérabilité des systèmes d'information en matière migratoire et de sécurité",
+      "id": "Organization_371dfd45ab3e058bb3ceddf693261ed03329f49a4233e130b74bf73138ec6ac3"
+    },
+    {
+      "type": "Person",
+      "name": "J'ai",
+      "id": "Person_11dc8f890b0c964b83ea9b1735ebebcd698833b5d636e3dbbd33637c9106eda2"
+    },
+    {
+      "type": "Theme",
+      "name": "moyens",
+      "id": "Theme_f93c94428a89608982dc63333411fda610bd8010d778906c19788a577d156d43"
+    },
+    {
+      "type": "Theme",
+      "name": "transformations culturelles",
+      "id": "Theme_46398c1b1d57517c6ce6619ae1c48e2290b8c1670cf78c1b35386e02a5d8035a"
+    },
+    {
+      "type": "Theme",
+      "name": "modernisation",
+      "id": "Theme_e9e0d9744d7e90ca4567e16e41f34ba1a3d63acd9dd475854e47dbfdaf126d09"
+    },
+    {
+      "type": "Person",
+      "name": "le ministre d'Etat",
+      "id": "Person_be762e1ea8b3ba42914877b64ca2e874e451af8920cd7ce58ec301fd54856a2c"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Royaume-Uni",
+      "evidence": "La France, par ailleurs, avec le Royaume-Uni, a pris une initiative en matière de lutte contre la propagande jihadiste sur Internet",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "conférence de lutte contre le financement du terrorisme lié aux activités de Daesh et d'Al-Qaïda",
+      "evidence": "nous avons pris l'initiative d'une conférence de lutte contre le financement du terrorisme lié aux activités de Daesh et d'Al-Qaïda qui sera organisée début avril 2018 par la France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Event_1505e857208de8d59d47a9c2ee77e3a1b13897623f17f1a3faff4b46cbde59d9"
+    },
+    {
+      "source": "sécurité de tous les jours",
+      "relation": "MENTIONS",
+      "target": "sécurité de tous les jours",
+      "evidence": "La sécurité de tous les jours et l'ordre public sont, bien évidemment, comme je l'ai rappelé, au coeur de votre quotidien et de ce qu'attendent aussi nos concitoyens.",
+      "confidence": 1.0,
+      "source_id": "Theme_0501fd3a54fc1e6573b62b158a2894412c23392ec4d242efe87b53b377644d0b",
+      "target_id": "Theme_0501fd3a54fc1e6573b62b158a2894412c23392ec4d242efe87b53b377644d0b"
+    },
+    {
+      "source": "ordre public",
+      "relation": "MENTIONS",
+      "target": "ordre public",
+      "evidence": "La sécurité de tous les jours et l'ordre public sont, bien évidemment, comme je l'ai rappelé, au coeur de votre quotidien et de ce qu'attendent aussi nos concitoyens.",
+      "confidence": 1.0,
+      "source_id": "Theme_81f6659f1f0773c33fb44826282a3a9607166da9710d86c7b3894f4e726c01c9",
+      "target_id": "Theme_81f6659f1f0773c33fb44826282a3a9607166da9710d86c7b3894f4e726c01c9"
+    },
+    {
+      "source": "lutte contre la délinquance",
+      "relation": "MENTIONS",
+      "target": "lutte contre la délinquance",
+      "evidence": "A côté de la lutte contre la délinquance, il est un domaine au coeur des missions des forces de l'ordre, c'est celui du maintien de l'ordre républicain.",
+      "confidence": 1.0,
+      "source_id": "Theme_775060dd1743d2515fbe8579a0428a06e11b6c3f780f11735b81eda95301d417",
+      "target_id": "Theme_775060dd1743d2515fbe8579a0428a06e11b6c3f780f11735b81eda95301d417"
+    },
+    {
+      "source": "maintien de l'ordre républicain",
+      "relation": "MENTIONS",
+      "target": "maintien de l'ordre républicain",
+      "evidence": "A côté de la lutte contre la délinquance, il est un domaine au coeur des missions des forces de l'ordre, c'est celui du maintien de l'ordre républicain.",
+      "confidence": 1.0,
+      "source_id": "Theme_ceae6700b7887e58c4c1bd3f5a38f169994a5e663bd6290d4056bf275128e3bc",
+      "target_id": "Theme_ceae6700b7887e58c4c1bd3f5a38f169994a5e663bd6290d4056bf275128e3bc"
+    },
+    {
+      "source": "exercice de nos libertés individuelles",
+      "relation": "MENTIONS",
+      "target": "exercice de nos libertés individuelles",
+      "evidence": "Garantir l'exercice de nos libertés individuelles, quel que soit le niveau de la menace, quel que soit le contexte sécuritaire, fait partie de vos missions les plus nobles.",
+      "confidence": 1.0,
+      "source_id": "Theme_2a7db2884449883d32c4c573726da5e7e9d39254916c8554c27c3eead9c52520",
+      "target_id": "Theme_2a7db2884449883d32c4c573726da5e7e9d39254916c8554c27c3eead9c52520"
+    },
+    {
+      "source": "Vincent RUIZ",
+      "relation": "VISITED",
+      "target": "ministre de l'Intérieur",
+      "evidence": "Et j'ai une pensée particulière pour Vincent RUIZ qui souffre dans sa chair, après la sauvage agression dont il a été victime à Grigny l'an dernier, et que le ministre de l'Intérieur a visité il y a quelques jours, le 8 octobre dernier",
+      "confidence": 1.0,
+      "source_id": "Person_8988d507bf135f7a3d84c29520b19c6c27210833c6537d812c5071b64a9d856d",
+      "target_id": "Person_0d5830ce010b09a893018977c517ee33baca96610b7d2f80003b744b76230d9b"
+    },
+    {
+      "source": "ministre de l'Intérieur",
+      "relation": "VISITED",
+      "target": "Vincent RUIZ",
+      "evidence": "Et j'ai une pensée particulière pour Vincent RUIZ qui souffre dans sa chair, après la sauvage agression dont il a été victime à Grigny l'an dernier, et que le ministre de l'Intérieur a visité il y a quelques jours, le 8 octobre dernier",
+      "confidence": 1.0,
+      "source_id": "Person_0d5830ce010b09a893018977c517ee33baca96610b7d2f80003b744b76230d9b",
+      "target_id": "Person_8988d507bf135f7a3d84c29520b19c6c27210833c6537d812c5071b64a9d856d"
+    },
+    {
+      "source": "ministre de l'Intérieur",
+      "relation": "VISITED",
+      "target": "Grigny",
+      "evidence": "Et j'ai une pensée particulière pour Vincent RUIZ qui souffre dans sa chair, après la sauvage agression dont il a été victime à Grigny l'an dernier, et que le ministre de l'Intérieur a visité il y a quelques jours, le 8 octobre dernier",
+      "confidence": 1.0,
+      "source_id": "Person_0d5830ce010b09a893018977c517ee33baca96610b7d2f80003b744b76230d9b",
+      "target_id": "City_65c1c5422f68e8f5d5a602ff96843dc309e7506fb16b7e1e461bbe61d643da5b"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "contrôle d'identité",
+      "evidence": "la France est le pays qui pratique le plus le contrôle d'identité, largement plus que tous nos voisins européens.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_f6bb6832ce04b26fde41a4a36402cd29b04032045301391fb01c0d4e39ec788a"
+    },
+    {
+      "source": "insécurité",
+      "relation": "MENTIONS",
+      "target": "insécurité",
+      "evidence": "La sécurité du quotidien, c'est lutter contre tout ce qui fait naître chez nos concitoyens les sentiments d'insécurité qui leur donnent l'image de l'impuissance publique.",
+      "confidence": 1.0,
+      "source_id": "Theme_c7a368bf598bca497caed4dd3d3f42ab5d1c9b08009fd42e199fd3976aac0fe6",
+      "target_id": "Theme_c7a368bf598bca497caed4dd3d3f42ab5d1c9b08009fd42e199fd3976aac0fe6"
+    },
+    {
+      "source": "sécurité publique",
+      "relation": "MENTIONS",
+      "target": "sécurité publique",
+      "evidence": "transformer, à redonner du sens à l'action de la sécurité publique",
+      "confidence": 1.0,
+      "source_id": "Theme_7e26a3d2301e343d026e68c0164cc09ce1684d5bb6f47ff3a0fe5ee183d4be8b",
+      "target_id": "Theme_7e26a3d2301e343d026e68c0164cc09ce1684d5bb6f47ff3a0fe5ee183d4be8b"
+    },
+    {
+      "source": "service de la population",
+      "relation": "MENTIONS",
+      "target": "service de la population",
+      "evidence": "le service de la population, la lutte contre la délinquance et la criminalité du quotidien",
+      "confidence": 1.0,
+      "source_id": "Theme_8cc39a2ad85e956378bc1b08b9831b0bc60bf213d52a9eadf8d5606e8861775e",
+      "target_id": "Theme_8cc39a2ad85e956378bc1b08b9831b0bc60bf213d52a9eadf8d5606e8861775e"
+    },
+    {
+      "source": "lutte contre le terrorisme",
+      "relation": "MENTIONS",
+      "target": "lutte contre le terrorisme",
+      "evidence": "la priorité donnée à la lutte contre le terrorisme",
+      "confidence": 1.0,
+      "source_id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e",
+      "target_id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "source": "petite et moyenne délinquance",
+      "relation": "MENTIONS",
+      "target": "petite et moyenne délinquance",
+      "evidence": "la petite et moyenne délinquance ne s'oppose pas à celle contre le terrorisme et la grande criminalité",
+      "confidence": 1.0,
+      "source_id": "Theme_c6cc9e0aa0ddf56c2f09a9d48a4fd5bbe92351f7f787203025b4a990088c31e5",
+      "target_id": "Theme_c6cc9e0aa0ddf56c2f09a9d48a4fd5bbe92351f7f787203025b4a990088c31e5"
+    },
+    {
+      "source": "grande criminalité",
+      "relation": "MENTIONS",
+      "target": "grande criminalité",
+      "evidence": "la petite et moyenne délinquance ne s'oppose pas à celle contre le terrorisme et la grande criminalité",
+      "confidence": 1.0,
+      "source_id": "Theme_2b5ec97915219470b21f2c370ed2685043f64f05961ef36a10269d71b1713402",
+      "target_id": "Theme_2b5ec97915219470b21f2c370ed2685043f64f05961ef36a10269d71b1713402"
+    },
+    {
+      "source": "cadre d'action renouvelé",
+      "relation": "MENTIONS",
+      "target": "cadre d'action renouvelé",
+      "evidence": "un cadre d'action renouvelé",
+      "confidence": 1.0,
+      "source_id": "Theme_33d196f01176e6d82068fa5576dd1694bf78a871c650052286dfaa52a39550e7",
+      "target_id": "Theme_33d196f01176e6d82068fa5576dd1694bf78a871c650052286dfaa52a39550e7"
+    },
+    {
+      "source": "police de sécurité du quotidien",
+      "relation": "MENTIONS",
+      "target": "police de sécurité du quotidien",
+      "evidence": "la police de sécurité du quotidien",
+      "confidence": 1.0,
+      "source_id": "Theme_66451fe7df5b8eb4e6a95e24960b78b38fb3398968a6e102e813e00001b799e1",
+      "target_id": "Theme_66451fe7df5b8eb4e6a95e24960b78b38fb3398968a6e102e813e00001b799e1"
+    },
+    {
+      "source": "modernisation des outils de travail des forces de sécurité",
+      "relation": "MENTIONS",
+      "target": "caméras piétons",
+      "evidence": "la modernisation des outils de travail des forces de sécurité doit être accentuée, caméras piétons",
+      "confidence": 1.0,
+      "source_id": "Theme_b95600642a77ff36c6978c00aec3321f4eefcbd1f5eb4f7b4fafe3ef3a87741e",
+      "target_id": "Theme_b340f35f103c6f739c80da5ed5fa20cd8b82406a39d6bb5fa0858d3a3d283bba"
+    },
+    {
+      "source": "budget immobilier",
+      "relation": "MENTIONS",
+      "target": "immobilier",
+      "evidence": "le budget immobilier dont nous disposons est sans précédent",
+      "confidence": 1.0,
+      "source_id": "Theme_a63789418522c0f7ecf915b025c496b2b9b3cc6649495ee78bb9291c24ac04e2",
+      "target_id": "Theme_328854fd072ea7bd8958941f2facbb4644d45bfb0439d6f77511859602252f89"
+    },
+    {
+      "source": "ministère de la Défense",
+      "relation": "ALLIED_WITH",
+      "target": "ministère de l'Intérieur",
+      "evidence": "A l'image de la réforme conduite par le ministère de la Défense, avec la création des bases interarmées de défense, le ministère de l'Intérieur doit aller au bout de cette réforme au niveau zonal",
+      "confidence": 1.0,
+      "source_id": "Organization_33a2a88f09bc185205284e909c0ef8683f2c0a177b26a18734cbdff7126494a2",
+      "target_id": "Organization_2b1a74ed7124fcaf53172ac64cf65a9c88f17f11a38bde240e1be1030d8f821c"
+    },
+    {
+      "source": "Le Premier ministre",
+      "relation": "ANNOUNCED",
+      "target": "le grand plan d'investissement",
+      "evidence": "Le Premier ministre a présenté il y a quelques semaines le grand plan d'investissement.",
+      "confidence": 1.0,
+      "source_id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff",
+      "target_id": "Event_dd3195cd6becc943381863e212f1bc35e06b85320bbddd6f872a7a9ae07dcf96"
+    },
+    {
+      "source": "agents de terrain",
+      "relation": "VISITED",
+      "target": "Europe",
+      "evidence": "l'Europe puisse donner tous les moyens juridiques et techniques aux agents de terrain",
+      "confidence": 1.0,
+      "source_id": "Organization_30a12dd556d6a7b97c93a4eac34d695bc66725ecafc68a1b0aced2f494eb32bc",
+      "target_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "accéder plus facilement aux grandes applications informatiques européennes",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Président des Etats-Unis d'Amérique",
+      "id": "Person_f2f8b7faa29d7ef9e1a7a43f1e100fa1b6e56679ec9e6ecabcb086bd85cacc61"
+    },
+    {
+      "type": "Person",
+      "name": "Président TRUMP",
+      "id": "Person_9d787453218ebafb5af4581cdb7aced0dbcbda10c3b5f953d94154dad3b197b3"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Law",
+      "name": "Accord de Paris",
+      "id": "Law_cd8b0ed5bd6d7c10b803a393cbdcace05ca0db0f17b36ece29f3b3d3b07b6d15"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "Accord de Paris pour le climat",
+      "id": "Theme_8a3d4094b7dfdb59e19ab4ee949689b75fc20ce2894e53f10fd92f0323746895"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Accord de Paris",
+      "evidence": "La France ce soir appelle l'ensemble des pays signataires à demeurer dans le cadre de l'Accord de Paris",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Law_cd8b0ed5bd6d7c10b803a393cbdcace05ca0db0f17b36ece29f3b3d3b07b6d15"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Vous trouverez dans la France une seconde patrie",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Accord de Paris pour le climat",
+      "evidence": "En décembre 2015, la France a réussi ce tour de force de faire signer 195 pays, de leur faire signer un engagement commun, l'Accord de Paris pour le climat.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_8a3d4094b7dfdb59e19ab4ee949689b75fc20ce2894e53f10fd92f0323746895"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "Accord de Paris pour le climat",
+      "evidence": "En décembre 2015, la France a réussi ce tour de force de faire signer 195 pays, de leur faire signer un engagement commun, l'Accord de Paris pour le climat.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_8a3d4094b7dfdb59e19ab4ee949689b75fc20ce2894e53f10fd92f0323746895"
+    }
+  ]
+}

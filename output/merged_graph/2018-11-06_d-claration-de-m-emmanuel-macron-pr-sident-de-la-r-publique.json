@@ -1,0 +1,326 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Président du Conseil régional",
+      "id": "Person_573578ce8dcc0cbd0d0df64d3b962407bd6d8cd3892f9ff551d383aabd8949b4"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président du Conseil départemental",
+      "id": "Person_ed23b450f0ef4975a677c78549b852e0bd6220615dfe342c23dd98aaf4590810"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Préfet de région",
+      "id": "Person_262d45b0f794c0ed4606bab776c03492a8313f55013aa3d5b0872d5773b9035c"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Préfète",
+      "id": "Person_708b880772f160c9289726fd2cc99d52276509f529d5545869aaf0914ef3f7b3"
+    },
+    {
+      "type": "Person",
+      "name": "chère famille Genevoix",
+      "id": "Person_6072d02d3c41b436a9e8f1d80210174087eb467e188fa68e262ccafbaf475047"
+    },
+    {
+      "type": "Person",
+      "name": "chère famille Porchon",
+      "id": "Person_7ccaeb76764f23575f607619985d096fc75614e0dffe1621a2f93db96d08d73d"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Clemenceau",
+      "id": "Person_394b5fbe6d2b8c1f74e0dea68ff2c3b8c092a212a6019de77f81776bb259eba5"
+    },
+    {
+      "type": "Person",
+      "name": "Poincaré",
+      "id": "Person_7b4635eb3cc667b2ef999be06e574985099585ba57642ef7fe86d227662e3183"
+    },
+    {
+      "type": "Theme",
+      "name": "patrie",
+      "id": "Theme_4079aa9734c9091368bffcf632034e06cecaadec102a482fdcc6b4ec9873a5eb"
+    },
+    {
+      "type": "Theme",
+      "name": "civilité",
+      "id": "Theme_72156dc6741fea5b65cb96211c56232e5ff5b1141ca80226d02eed71102cda5d"
+    },
+    {
+      "type": "Theme",
+      "name": "rapport entre les êtres",
+      "id": "Theme_9630134ba48139f56c5ba5d3a6f15988b642e41b6d768bca146ea9b8e07232b0"
+    },
+    {
+      "type": "Theme",
+      "name": "conception de la vie",
+      "id": "Theme_9a58cad599ed6303ea2404bfd86fa85b951eaa8206bcbf4aa39b3d2dded0238d"
+    },
+    {
+      "type": "Theme",
+      "name": "relation à notre passé",
+      "id": "Theme_1b3af4c1f4feb53823ada4a329f661ac0aafd2d9a14bce3810cd7aca39e3b8af"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "envahisseur",
+      "id": "Theme_6323e84a45914f962acad88d4d9eed8f41b898e27dd316f094fba4219198c996"
+    },
+    {
+      "type": "Theme",
+      "name": "idéalisme",
+      "id": "Theme_0b892946c8066e7ce9b0a11f142ae0723cbb43fa01b2bce8b343e0ee7ccc9343"
+    },
+    {
+      "type": "Theme",
+      "name": "courage",
+      "id": "Theme_4eb0829b6b279fcb2a945b12114e4f8976954c7a7fcf9391f504d523ee63a88b"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de justice",
+      "id": "Theme_eb760d2086b1b7d3074d0ca570fd58393e739ae2214def276bb2f3dea2641da2"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "générosité",
+      "id": "Theme_d4ebaf9775b43ff18ffebb5252cba8c64ff5877c57aaa93c2812f2471b3396aa"
+    },
+    {
+      "type": "Theme",
+      "name": "patriotisme",
+      "id": "Theme_087acc9b6c0e8015662dfef66f194239c6c87d3b7a1bdb126f4aa128ad0c4225"
+    },
+    {
+      "type": "Theme",
+      "name": "amitié entre les peuples",
+      "id": "Theme_12207b886625b88e14a035af3dfca583d13667d8931af80d3f61bf8933e1c0a6"
+    },
+    {
+      "type": "Event",
+      "name": "Grande Guerre",
+      "id": "Event_cdbadf62994411662d4a2d78127b7f801afbb9f4f22081d7d44bc49039aa6c63"
+    },
+    {
+      "type": "Event",
+      "name": "guerre ressurgir en Europe",
+      "id": "Event_d236bd2329753f895b83ccd6f0ed1a7f89ba1729297e3f7eac1edf98ebc97a4b"
+    },
+    {
+      "type": "Theme",
+      "name": "Grande Guerre",
+      "id": "Theme_fb270281150fc245c92c50cb03b90f12f8c032b8af5b9fed626bac08c5f27b9a"
+    },
+    {
+      "type": "Theme",
+      "name": "14-18",
+      "id": "Theme_c3a3d2ce990b9d058960e9057d99aae2328de89737253e1fce0447131e1edcfe"
+    },
+    {
+      "type": "Theme",
+      "name": "chaos et de mort",
+      "id": "Theme_02a3de41dcdb87a4d855735ce9be8bcd269e9c93379ac182e56c9f7f3116af5c"
+    },
+    {
+      "type": "Theme",
+      "name": "sociétés",
+      "id": "Theme_fe833d4653f5c9552e8c9c71993635978cec94fe799b0a35befc37cf9a873a5d"
+    },
+    {
+      "type": "Theme",
+      "name": "Dast",
+      "id": "Theme_163a2ac7bad4ae8b1d413d0634ff8f94b040c2d0417e772baa0d97e16c2c992f"
+    },
+    {
+      "type": "Theme",
+      "name": "Pannechon",
+      "id": "Theme_e0d92159a33f97ef9684886e1abb18453c7c82f226d16f3c1b6c9b662a9d8f4d"
+    },
+    {
+      "type": "Theme",
+      "name": "Prêtre",
+      "id": "Theme_24d1388f3ce71056b302eb22898784d3624a28dd310bddc111d81cf84a99f2f7"
+    },
+    {
+      "type": "Theme",
+      "name": "Thellier",
+      "id": "Theme_12b9ed012f38510958be454468502768e483a8d12f9ada3a7f81cf62acf3fcf8"
+    },
+    {
+      "type": "Theme",
+      "name": "Rive",
+      "id": "Theme_38323575b1c0c03f28c184f4dc85d167ed438f8c49f1e1cbe853f45354f854e2"
+    },
+    {
+      "type": "Theme",
+      "name": "lieutenant Porchon",
+      "id": "Theme_2520fbf4a92ff2d7abec4a84ecc971251148d9140971053d3be21840aaf22e43"
+    },
+    {
+      "type": "Theme",
+      "name": "soldat de 14",
+      "id": "Theme_b32dda0c19fa85bda6592745041be402ab5dac0f39bfc379d952d7c075a5949d"
+    },
+    {
+      "type": "Theme",
+      "name": "Ceux de 14",
+      "id": "Theme_0663970e035bebb61dcbf9b9ac9cfece5aa51dd48d5aafb5c60f1429cb4ab91b"
+    },
+    {
+      "type": "City",
+      "name": "Meuse",
+      "id": "City_0439f754d001b3bed7d5e35a90f73a9c628cfa2a7261535d8200ddb9e0913040"
+    },
+    {
+      "type": "Person",
+      "name": "Maurice Genevoix",
+      "id": "Person_9cc484d878c64e919cefde85d12ea6c9b1d7b85d096d88ba824bb62713477117"
+    },
+    {
+      "type": "Theme",
+      "name": "France généreuse et fière",
+      "id": "Theme_d81ae3901eb21b069db06b4a21cd9e939530490e2474ea84e7d71951a4b043c6"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "droit",
+      "id": "Theme_809b6d16ebe657005418287171a0ff40ba1f2fc184046e82a8dbc6d9366cc1a9"
+    },
+    {
+      "type": "Event",
+      "name": "fin de la Grande Guerre",
+      "id": "Event_a96861c69bf9b0fd5ec37b7438673761cf7807e082fca6ff67eb13bb53b5c218"
+    },
+    {
+      "type": "City",
+      "name": "Panthéon",
+      "id": "City_43a1ef0fe679cc862b9a773e30d5fc43b5e2f3b92f6a29dee095a06aca903639"
+    },
+    {
+      "type": "Person",
+      "name": "les soldats de l'an II",
+      "id": "Person_a500c771086cb57a31e53c80208217923eb538a715c5ae8bf54a14ad2ab89a83"
+    },
+    {
+      "type": "Person",
+      "name": "les combattants de 1870",
+      "id": "Person_d89d8bfb03810d0cf74488bea49eb8a2a1846b6c7b5826d9728d2f776cb16fda"
+    },
+    {
+      "type": "Person",
+      "name": "les morts de 1830",
+      "id": "Person_488890c9033e868e60b5ccfb641d55a46595976fd9f5bb35202f89063a53c18d"
+    },
+    {
+      "type": "Person",
+      "name": "les écrivains morts pour la France pendant la Grande Guerre",
+      "id": "Person_92201ffa1e9e45894bcb062b7284a9e3e4b61c67b5180bfd644827955150872e"
+    },
+    {
+      "type": "Person",
+      "name": "les Justes",
+      "id": "Person_095c66ce6a155991f456dd064b07fda0323b443a8736d7aaa0b41f8da2677573"
+    },
+    {
+      "type": "Person",
+      "name": "les femmes engagées aux côtés des combattants",
+      "id": "Person_ba83570f2f6cd8fc06677befa462b757cd14e764149e5979d02804cec7e98a46"
+    },
+    {
+      "type": "Person",
+      "name": "Maurice Genevox",
+      "id": "Person_134a4516bab3f5938e3780386e860661e8123a26f561c7b2537f8782f355ccff"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "France",
+      "evidence": "choisiraient aussi de mourir pour cette cause sacrée : la France.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "conception de la vie",
+      "evidence": "une certaine conception de la vie, de la liberté, du droit, une certaine relation à notre passé, à notre histoire et donc à notre avenir, que tout cela qu'on appelait la France devait résister et survivre",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_9a58cad599ed6303ea2404bfd86fa85b951eaa8206bcbf4aa39b3d2dded0238d"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "relation à notre passé",
+      "evidence": "une certaine conception de la vie, de la liberté, du droit, une certaine relation à notre passé, à notre histoire et donc à notre avenir, que tout cela qu'on appelait la France devait résister et survivre",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_1b3af4c1f4feb53823ada4a329f661ac0aafd2d9a14bce3810cd7aca39e3b8af"
+    },
+    {
+      "source": "Grande Guerre",
+      "relation": "MENTIONS",
+      "target": "Grande Guerre",
+      "evidence": "Des Poilus qui avaient survécu à la Grande Guerre moururent dans leur pleine maturité à l'été 40.",
+      "confidence": 1.0,
+      "source_id": "Theme_fb270281150fc245c92c50cb03b90f12f8c032b8af5b9fed626bac08c5f27b9a",
+      "target_id": "Theme_fb270281150fc245c92c50cb03b90f12f8c032b8af5b9fed626bac08c5f27b9a"
+    },
+    {
+      "source": "soldat de 14",
+      "relation": "MENTIONS",
+      "target": "soldat de 14",
+      "evidence": "Sous ces noms d'emprunt recouvrant des êtres bien réels et même sous le nom bien réel du lieutenant Porchon, la figure du soldat de 14 s'est gravée dans nos mémoires, parce qu'elle s'était d'abord gravée dans celle de Maurice Genevoix qui y consacra ce livre incomparable, Ceux de 14.",
+      "confidence": 1.0,
+      "source_id": "Theme_b32dda0c19fa85bda6592745041be402ab5dac0f39bfc379d952d7c075a5949d",
+      "target_id": "Theme_b32dda0c19fa85bda6592745041be402ab5dac0f39bfc379d952d7c075a5949d"
+    }
+  ]
+}

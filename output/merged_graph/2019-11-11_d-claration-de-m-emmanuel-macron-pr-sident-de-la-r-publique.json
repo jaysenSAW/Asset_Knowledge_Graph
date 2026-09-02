@@ -1,0 +1,637 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Sénat",
+      "id": "Person_7e68447f1fff5598debf68f88e590723f4177208acb10cd696ea6f7e3498c1e1"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le vice-président de l'Assemblée nationale",
+      "id": "Person_93336fbbbcb80dc66b5c9e94d4d8dbd820cad409da6c62c4474d5964f8ea5d93"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les ministres",
+      "id": "Person_04725bf2245672793e76174d8746ec28f46c281ef73283bf9390941f137cf2cf"
+    },
+    {
+      "type": "Person",
+      "name": "Madame le maire de Paris",
+      "id": "Person_6009ea9fbc3533c0872c388dd59ccbf2553c218b8ad49041c47228bb28e16950"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les élus",
+      "id": "Person_271cb721002ea7abe3b15bcad709df18a3cf4248d0db3ac918f9fa8e5753ec04"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le chef d'état-major des armées",
+      "id": "Person_1f83a1b709c29b766edb6b98978d332e04de52962a1652e0a4e20e351b1b05e0"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les chefs d'état-major",
+      "id": "Person_8373ccb7e035324f6fedef08ce7f74bda07d7236d70a69ec873bc531e1fe1fef"
+    },
+    {
+      "type": "Person",
+      "name": "Officiers, sous-officiers et militaires du rang",
+      "id": "Person_9a7f9e98157aefe009d6679b430e8650b7e99be58315ea019877370b0a4dfee0"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les représentants du monde combattant",
+      "id": "Person_d4c06eed3bd40e2026d61f78a7b6a9d5a67e66dab6e255416a9169098d0fc73c"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les membres des familles de militaires morts pour la France en opérations extérieures",
+      "id": "Person_35c502c6955a029df91dd5082ea55f85032f8c51f8830e82c356f5053e583492"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs",
+      "id": "Person_625fe3a313c056b9dc1724205255b9a7767c4b46670f91284ff4a20cb9382408"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "République",
+      "id": "Organization_0eac6305aac01bf684a6d57836831f1443587a4616a4d6b56b3d3c1e778ca152"
+    },
+    {
+      "type": "Organization",
+      "name": "Armées",
+      "id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab"
+    },
+    {
+      "type": "Organization",
+      "name": "Soldat inconnu",
+      "id": "Organization_0b25869472002a431310b7bc72ba4f06d0bc4d5b924b9f45c6a84849771c8ffe"
+    },
+    {
+      "type": "Event",
+      "name": "Armistice de 1918",
+      "id": "Event_bcab3451654e71a624444dc50028e32be3a38c395f76c5bf32ce8658dbff43d5"
+    },
+    {
+      "type": "Event",
+      "name": "Première Guerre Mondiale",
+      "id": "Event_5c2b8eb302bf6065a5cd1c5988ce7663201e0b30e003923a8c736603a1b517af"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Eugénie DJENDI",
+      "id": "Person_3a50df81fe0311831e155bcca351dbb9bc5e30a8b506e7facf255be7cfeb4cf9"
+    },
+    {
+      "type": "City",
+      "name": "Vaugirard",
+      "id": "City_509217af03d1f800980d349179d0c8ecd8d9079d4d9a0a2e5807f72ebc1b2787"
+    },
+    {
+      "type": "City",
+      "name": "Ravensbrück",
+      "id": "City_ba5559f571cd3d51a744b7e964a7773c6faf4e52c21338de69a53b4af63c32f9"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Person",
+      "name": "Nicolas SARKOZY",
+      "id": "Person_2cc0890d53d00df41342ecdfe549156f7ec8193b9b942eb2e2ac3f6e3fed29ce"
+    },
+    {
+      "type": "Person",
+      "name": "François HOLLANDE",
+      "id": "Person_2c9e09179c21899d7e3c93e300ca8a504da99ff5bbeb4149aa2c13ca2cfe6917"
+    },
+    {
+      "type": "City",
+      "name": "Mali",
+      "id": "City_4f79c841ef037402d7aad343addb0a62403378d74d261ea1c268f43d58eca66d"
+    },
+    {
+      "type": "City",
+      "name": "France",
+      "id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    },
+    {
+      "type": "Person",
+      "name": "Marc LAYCURAS",
+      "id": "Person_80ea0d1fd51ef67b395d2297fc73b7348fd86f5bfec40cd34234a623542fb19e"
+    },
+    {
+      "type": "Person",
+      "name": "Cédric de PIERREPONT",
+      "id": "Person_be27f9322d7bc18f0199442aef32e983b28cc3efb71015537877c6ba89f81b65"
+    },
+    {
+      "type": "Person",
+      "name": "Alain BERTONCELLO",
+      "id": "Person_60d8761bb4d664d0ab8b2bbda4b402037d96d416e63eeb9d282899d09ba6dd3a"
+    },
+    {
+      "type": "Person",
+      "name": "Erwan POTIER",
+      "id": "Person_b06b2718c573641e2ec79d460ffa71f4c94b1b25824b1d55083f7a550167af98"
+    },
+    {
+      "type": "Person",
+      "name": "Ronan POINTEAU",
+      "id": "Person_322d8c882b3d3a27aacca566d5d3742f833952052f5adf1a00c52e5e50117b60"
+    },
+    {
+      "type": "Organization",
+      "name": "associations combattantes",
+      "id": "Organization_cd7d8014e5d764dc12bd4ac23c4e172d9b094347e2451dd2e756357e96522c18"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "défense de nos concitoyens",
+      "id": "Theme_a3b74167437510aacadf19b4d490211678db660c590ea2b3ce3aa57d963f05e4"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de nos intérêts",
+      "id": "Theme_42ff072c1dcc076b2a0de658a6924a62da053643809baef7f8c4fb4dd776958d"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité du monde",
+      "id": "Theme_4461703bcbbc280000ebce5bb70327559d7d9237365450f6cdb42e75ed627225"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité",
+      "id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "type": "Theme",
+      "name": "honneur",
+      "id": "Theme_ea5594653008766fd662b55a97d7fd869d455e7de170f6055248cf3b342cb8c7"
+    },
+    {
+      "type": "Theme",
+      "name": "sacrifice suprême",
+      "id": "Theme_e46f92671513f9080e7a00c98a6cd0713fbcc71232d863f181687dc0092f127e"
+    },
+    {
+      "type": "Theme",
+      "name": "Mort pour la France",
+      "id": "Theme_a6367db267c6122848427fa3d29f8879b2e5b6e80945d5865bd3df030681bd2a"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "sacrifice",
+      "id": "Theme_6b8a3684826d581fcdd28581a15f9ac101e25c9b111de574e59fa8e12850e9a4"
+    },
+    {
+      "type": "City",
+      "name": "Tchad",
+      "id": "City_5d6b47b9546c6eeae1e5d04c7a6e16db5f0b983d4e484650aa91db1dcaad6336"
+    },
+    {
+      "type": "City",
+      "name": "Liban",
+      "id": "City_5f6f6f6681c56da9f131e84a28daf3f291f509f5abb7c8d604a160092a688e16"
+    },
+    {
+      "type": "City",
+      "name": "Irak",
+      "id": "City_5e67e1a21b4a3bfe9a4eca74c85bf96405cb2cb7d4defa31cf7b16de070e31d4"
+    },
+    {
+      "type": "City",
+      "name": "Balkans",
+      "id": "City_01fd53bbe1993198b70c5bad3d977b4975ebaf57c12d850470b4e78d2d38a6d7"
+    },
+    {
+      "type": "City",
+      "name": "Syrie",
+      "id": "City_23da89808cb9c6c5ee156135d5e5744c6a2aeb2aa141c20e4e0db6a6bd4c346c"
+    },
+    {
+      "type": "City",
+      "name": "Burkina Faso",
+      "id": "City_e9be8b3c53c2032e1945dc95c1ceef825fde0684cddc9af843ad704730e9e2a3"
+    },
+    {
+      "type": "Theme",
+      "name": "militaire",
+      "id": "Theme_703a1ce8bacc621e7371ce6f7d31802464ec3feacc2fcae60e2b209e5a44c132"
+    },
+    {
+      "type": "Theme",
+      "name": "combattants",
+      "id": "Theme_b4a095480c36e0191e51a93238ac65adfd1608f6facb6c98fd8b46a30f16f839"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "famille",
+      "id": "Theme_77531ab96ac1f800b81a0eea16189f3877bb131fa537c133a4c0268dd1e3c138"
+    },
+    {
+      "type": "Theme",
+      "name": "absence",
+      "id": "Theme_78e99b8cf15b985448fd6127630f91d36a539926bcb64d143387565115379517"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "soldats inconnus d'hier",
+      "id": "Theme_31446c4805a86568618bcb337f1ddb89707ce4cdcb9bb613faf5a345f7bb1c0f"
+    },
+    {
+      "type": "Theme",
+      "name": "soldats méconnus d'aujourd'hui",
+      "id": "Theme_bb44d3f867a20e8e74919f3b500b05a2c675d4618a4c3acc333fa6d45da240ad"
+    },
+    {
+      "type": "Theme",
+      "name": "soldats morts loin de la France",
+      "id": "Theme_11a680c1fbc36191f056b42cc4a54449ab6e985cde59020ef8823d9fb2b38180"
+    },
+    {
+      "type": "Theme",
+      "name": "sol de France",
+      "id": "Theme_10dc974c61ff7858ea876469e9a9e52b19cf55ad257cc0fa0ef0552e2670b4cf"
+    },
+    {
+      "type": "Theme",
+      "name": "œuvre",
+      "id": "Theme_e7898a4bef6642f1703c021e5675245a1d8d4047efdd1cadc191152599aa5e94"
+    },
+    {
+      "type": "Theme",
+      "name": "capitale",
+      "id": "Theme_8b99b01a8a3166f21e3fbb688751028449a4a3b920ea1e9d42db1c58cc2721df"
+    },
+    {
+      "type": "Theme",
+      "name": "vie de notre pays",
+      "id": "Theme_da4f4fcaf3cbb15a0551c0040d16449de9878ba3dcdca6f6dd0dea2027fd6369"
+    },
+    {
+      "type": "Theme",
+      "name": "gloire",
+      "id": "Theme_d803fedd67e7e5aefc1533bb577fa82832a89812c9e0aa32fe51965c7afc47f4"
+    },
+    {
+      "type": "Theme",
+      "name": "monument",
+      "id": "Theme_e2563392dfc35bd7913e1f4b43625fe0a1e9e607d426ae6a6a69c74c8c2691b1"
+    },
+    {
+      "type": "Theme",
+      "name": "force tragique",
+      "id": "Theme_96edd1d2a8bf5aab07b2f1d1cc2f78415e1f5ce1fdc064648cbd1e4f38d7b1e1"
+    },
+    {
+      "type": "Theme",
+      "name": "tombeaux des héros militaires de jadis",
+      "id": "Theme_2e6e173b5bf0955c33328295333420b1f3d4b4df146a72d000e3dc33972500ca"
+    },
+    {
+      "type": "Theme",
+      "name": "double colonne des pleurants d'albâtre",
+      "id": "Theme_344a5bca73c77dcc2bd79f7e002bb4eb68ce0770f1aa7a24d66dce0b073d75dc"
+    },
+    {
+      "type": "Theme",
+      "name": "gisants des grands sénéchaux de France",
+      "id": "Theme_74be0c477267f9d52bb60bb927814b8250cdda81efe5865fcea6f2f1dc5b25b6"
+    },
+    {
+      "type": "Theme",
+      "name": "huit poilus de bronze",
+      "id": "Theme_2c1c34870dd454c21f78d20dd4eea9d2bf7c66fed1fa6762097c403d4505246f"
+    },
+    {
+      "type": "Theme",
+      "name": "maréchal Foch",
+      "id": "Theme_2abefa5cc68ad85109d8d0bc0a393b484f2950d7ec0dc34fe558d3cf0dcdbb0b"
+    },
+    {
+      "type": "Theme",
+      "name": "nécropole des Invalides",
+      "id": "Theme_44df315b385b07117ebaceb9cf2607aa4ded1864188fdcc37a287429097cbde0"
+    },
+    {
+      "type": "Theme",
+      "name": "pénombre des tombeaux ou des cryptes",
+      "id": "Theme_74295a38e16a1f508b7c8d09555cbeff530b24047461468960eead0081c88679"
+    },
+    {
+      "type": "Theme",
+      "name": "lumière de la France",
+      "id": "Theme_6c49bc5f744076bcd0b3c63b2db5b711394e1cfaba7588dd05d4576a7d143f53"
+    },
+    {
+      "type": "Theme",
+      "name": "brise d'un jardin",
+      "id": "Theme_6997385a206eab0ba191bd1cce75e39b42f96835653a75a5fb2cbf30f3566469"
+    },
+    {
+      "type": "Theme",
+      "name": "chaleur des regards et des mémoires",
+      "id": "Theme_b7a88b844a5f62f61a9f1d9a0fdac6cfac2d035bb1b89f96af629342866d9b7b"
+    },
+    {
+      "type": "Person",
+      "name": "le mort",
+      "id": "Person_37ac80c36b0f48a4d5e7c68c481172a82b8de2670de4bd54ae9bae6163efe419"
+    },
+    {
+      "type": "Person",
+      "name": "les six épaules de nos soldats",
+      "id": "Person_67d2e016a13d8c74e7fb456b13d75ec9ee71fb7fbc4f39784d79840d59896756"
+    },
+    {
+      "type": "Person",
+      "name": "Chères familles",
+      "id": "Person_010935f30eade2be2e73125e839d919402d84205d7fd91dab5268b3a1a23a54a"
+    },
+    {
+      "type": "Person",
+      "name": "La République",
+      "id": "Person_b3c29de4ff019369ed7121a86252dd265484581c26d7952ba6e177791510683c"
+    },
+    {
+      "type": "Theme",
+      "name": "mémorial",
+      "id": "Theme_fbe1a87d13214ce78ee7ef715e13b5495727beb3eb3c337eeb3555eb4a83db40"
+    },
+    {
+      "type": "Theme",
+      "name": "commémoration",
+      "id": "Theme_b4a0d6156ad811be1f46e18ca8a07a77cfe99d1b246ddf897f47d11faf3419b7"
+    },
+    {
+      "type": "Theme",
+      "name": "recueillement",
+      "id": "Theme_5da86ad4382aa43e9541c5d9ef63636f6341554cefc6303fbe21a256679a775b"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "mémoire nationale",
+      "id": "Theme_e1eb511b13f3d876f72bae536843f7e7b94ae2a3d7e5c6c483c5420f36336d8a"
+    },
+    {
+      "type": "Theme",
+      "name": "combats passés",
+      "id": "Theme_a4448e4700b9686a83983c68ed47a2705ab9b19854835b872daa7e40ec82b2bb"
+    },
+    {
+      "type": "Theme",
+      "name": "combats d'aujourd'hui",
+      "id": "Theme_529350274d6ae29cd585175810fda0cca9041a9250e975ba87ab684acc1a0b6e"
+    },
+    {
+      "type": "Theme",
+      "name": "monde",
+      "id": "Theme_36839915f4f916c517dee200dc570577a7da1e70f69dc68e095ea54120f4c55e"
+    },
+    {
+      "type": "Theme",
+      "name": "nécropole nationale de Fleury-devant-Douaumont",
+      "id": "Theme_8abc9176e2dfca2e727a152296191854f4554f1f0782f29ccddc028790ee6eba"
+    },
+    {
+      "type": "Theme",
+      "name": "mémorial du débarquement de Provence",
+      "id": "Theme_de8d35f02380055535f7dd0d1f2ef39f62e0d184621fbc6d2dc2b2b1cbecbcd4"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre d'Indochine",
+      "id": "Theme_96378905633164001a6a54e1a034d6e41090d4eea7e2b39687214761ab705942"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte indéfectible",
+      "id": "Theme_fb06699661b91ac81a9047726e693543e2867a1988aba6fe7dff3dd1ffa8eee1"
+    },
+    {
+      "type": "Theme",
+      "name": "noble",
+      "id": "Theme_3d2b1e775430ab5adcb994cb5092076cd7c28d77a4a15860e84cf41c3278434e"
+    },
+    {
+      "type": "Theme",
+      "name": "Morts pour la France",
+      "id": "Theme_7aa954d120c4f8b9f163989dbf92f5f587579e68bf97f532811ddf3e16b1922f"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Depuis un siècle désormais, chaque 11 novembre, les Français se rassemblent pour commémorer l'Armistice de 1918, la fin des combats de la Première Guerre Mondiale, ces quatre années qui plongèrent la France, l'Europe et le monde dans la souffrance et la désolation.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Armistice de 1918",
+      "evidence": "Depuis un siècle désormais, chaque 11 novembre, les Français se rassemblent pour commémorer l'Armistice de 1918, la fin des combats de la Première Guerre Mondiale, ces quatre années qui plongèrent la France, l'Europe et le monde dans la souffrance et la désolation.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Event_bcab3451654e71a624444dc50028e32be3a38c395f76c5bf32ce8658dbff43d5"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Première Guerre Mondiale",
+      "evidence": "Depuis un siècle désormais, chaque 11 novembre, les Français se rassemblent pour commémorer l'Armistice de 1918, la fin des combats de la Première Guerre Mondiale, ces quatre années qui plongèrent la France, l'Europe et le monde dans la souffrance et la désolation.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Event_5c2b8eb302bf6065a5cd1c5988ce7663201e0b30e003923a8c736603a1b517af"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "Armistice de 1918",
+      "evidence": "Depuis un siècle désormais, chaque 11 novembre, les Français se rassemblent pour commémorer l'Armistice de 1918, la fin des combats de la Première Guerre Mondiale, ces quatre années qui plongèrent la France, l'Europe et le monde dans la souffrance et la désolation.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Event_bcab3451654e71a624444dc50028e32be3a38c395f76c5bf32ce8658dbff43d5"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "Première Guerre Mondiale",
+      "evidence": "Depuis un siècle désormais, chaque 11 novembre, les Français se rassemblent pour commémorer l'Armistice de 1918, la fin des combats de la Première Guerre Mondiale, ces quatre années qui plongèrent la France, l'Europe et le monde dans la souffrance et la désolation.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Event_5c2b8eb302bf6065a5cd1c5988ce7663201e0b30e003923a8c736603a1b517af"
+    },
+    {
+      "source": "Marc LAYCURAS",
+      "relation": "SPOKE_ABOUT",
+      "target": "France",
+      "evidence": "C'est pourquoi, en présence des emblèmes de leurs unités, nous avons également rendu hommage aux cinq militaires morts pour la France cette année : Marc LAYCURAS, Cédric de PIERREPONT, Alain BERTONCELLO, Erwan POTIER et Ronan POINTEAU, tué au Mali le 2 novembre dernier.",
+      "confidence": 1.0,
+      "source_id": "Person_80ea0d1fd51ef67b395d2297fc73b7348fd86f5bfec40cd34234a623542fb19e",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "Cédric de PIERREPONT",
+      "relation": "SPOKE_ABOUT",
+      "target": "France",
+      "evidence": "C'est pourquoi, en présence des emblèmes de leurs unités, nous avons également rendu hommage aux cinq militaires morts pour la France cette année : Marc LAYCURAS, Cédric de PIERREPONT, Alain BERTONCELLO, Erwan POTIER et Ronan POINTEAU, tué au Mali le 2 novembre dernier.",
+      "confidence": 1.0,
+      "source_id": "Person_be27f9322d7bc18f0199442aef32e983b28cc3efb71015537877c6ba89f81b65",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "Alain BERTONCELLO",
+      "relation": "SPOKE_ABOUT",
+      "target": "France",
+      "evidence": "C'est pourquoi, en présence des emblèmes de leurs unités, nous avons également rendu hommage aux cinq militaires morts pour la France cette année : Marc LAYCURAS, Cédric de PIERREPONT, Alain BERTONCELLO, Erwan POTIER et Ronan POINTEAU, tué au Mali le 2 novembre dernier.",
+      "confidence": 1.0,
+      "source_id": "Person_60d8761bb4d664d0ab8b2bbda4b402037d96d416e63eeb9d282899d09ba6dd3a",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "Erwan POTIER",
+      "relation": "SPOKE_ABOUT",
+      "target": "France",
+      "evidence": "C'est pourquoi, en présence des emblèmes de leurs unités, nous avons également rendu hommage aux cinq militaires morts pour la France cette année : Marc LAYCURAS, Cédric de PIERREPONT, Alain BERTONCELLO, Erwan POTIER et Ronan POINTEAU, tué au Mali le 2 novembre dernier.",
+      "confidence": 1.0,
+      "source_id": "Person_b06b2718c573641e2ec79d460ffa71f4c94b1b25824b1d55083f7a550167af98",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "Ronan POINTEAU",
+      "relation": "SPOKE_ABOUT",
+      "target": "France",
+      "evidence": "C'est pourquoi, en présence des emblèmes de leurs unités, nous avons également rendu hommage aux cinq militaires morts pour la France cette année : Marc LAYCURAS, Cédric de PIERREPONT, Alain BERTONCELLO, Erwan POTIER et Ronan POINTEAU, tué au Mali le 2 novembre dernier.",
+      "confidence": 1.0,
+      "source_id": "Person_322d8c882b3d3a27aacca566d5d3742f833952052f5adf1a00c52e5e50117b60",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Balkans",
+      "evidence": "des Balkans à la Syrie et au Burkina Faso, vous avez fait honneur à la France, partout, à chaque fois.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "City_01fd53bbe1993198b70c5bad3d977b4975ebaf57c12d850470b4e78d2d38a6d7"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Syrie",
+      "evidence": "des Balkans à la Syrie et au Burkina Faso, vous avez fait honneur à la France, partout, à chaque fois.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "City_23da89808cb9c6c5ee156135d5e5744c6a2aeb2aa141c20e4e0db6a6bd4c346c"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Burkina Faso",
+      "evidence": "des Balkans à la Syrie et au Burkina Faso, vous avez fait honneur à la France, partout, à chaque fois.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "City_e9be8b3c53c2032e1945dc95c1ceef825fde0684cddc9af843ad704730e9e2a3"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Morts pour la France",
+      "evidence": "À nos Morts pour la France en opérations extérieures, la Nation est infiniment reconnaissante.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_7aa954d120c4f8b9f163989dbf92f5f587579e68bf97f532811ddf3e16b1922f"
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Charles",
+      "id": "Person_3613e689bc0927513e7606f7e724c8ae0303e9df2f07360796de29b42593d942"
+    },
+    {
+      "type": "Person",
+      "name": "Louise",
+      "id": "Person_7876236c9afc2b1dba7861be58a349bc14040a5380564fdf559c1f17de15b1e4"
+    },
+    {
+      "type": "Person",
+      "name": "Déby",
+      "id": "Person_793a8607693743744989115a477113cea5424e96964d96ca432d8771e2a41195"
+    },
+    {
+      "type": "Person",
+      "name": "Keïta",
+      "id": "Person_7afa585ed631b42676184960beacfbb42c867560dc4a0a2ba76c9ad95d9cf112"
+    },
+    {
+      "type": "Person",
+      "name": "Issoufou",
+      "id": "Person_1e56a1ae74a3ad07d4ca26e4fb67e1e4ddd17f67381e1af197649a78e6322632"
+    },
+    {
+      "type": "Person",
+      "name": "Kaboré",
+      "id": "Person_f9a245d818a4549fd49b99424d527c9e7c979f6a9af8d4a791b5041172455270"
+    },
+    {
+      "type": "Person",
+      "name": "Ghazouani",
+      "id": "Person_214fe91cac880c3989795eca859d7264b56952778965f7652378689935fedb87"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Secrétaire général des Nations unies",
+      "id": "Person_cd1644258b3342ab998d3631640e60ba98e6001d9f851efa786f2cfa8f15c7e1"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président de la Commission",
+      "id": "Person_8a6818024141f3d630bd9dac01c346daebd936d5dc55ea5db9d93046b7837644"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Haut Représentant",
+      "id": "Person_ec24151862a5f7eb40a32c45f9eda17e7b155258fbb9a7a4ae50ed7704de13e0"
+    },
+    {
+      "type": "Organization",
+      "name": "G5 Sahel",
+      "id": "Organization_731d6944c0a31ed0fe261575f2573caac7a90e8ab6d60ef9a3df3e2391b9c38e"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "City",
+      "name": "Pau",
+      "id": "City_aae88dca61617f4b2361b23b514b33d2f48d85277532d7af51eb52097994042e"
+    },
+    {
+      "type": "City",
+      "name": "Niamey",
+      "id": "City_3d5649a53fd34f76fb9bdbf1cbca0ba29ac1e3f9144355b26d8e6de930f68b39"
+    },
+    {
+      "type": "City",
+      "name": "château",
+      "id": "City_28c7ac75b13a41b85b3a67832ffb2fd6b05d9fb949d9d65a2625b332f9e962c7"
+    },
+    {
+      "type": "City",
+      "name": "Parlement",
+      "id": "City_96fbcf81f9939a6161595c92a751ea27a9ad951c235be960da68830b43c9886e"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Africains du G5 Sahel",
+      "id": "Country_7e3d92f8f9110a41afbf44c0a594fb65139ecc5487b14bc08ddf1b9605e4b791"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir législatif",
+      "id": "Theme_7132e408bd2aff5cccff2f057379eb8dd58a1be4ea283825b7df7aa3de229b03"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir exécutif",
+      "id": "Theme_2d99fde408e47b58e9edc12c8a50f05c07d6ecb29a6ff6da0befd978d578695a"
+    },
+    {
+      "type": "Theme",
+      "name": "conflit",
+      "id": "Theme_c5df677153d0b9960d87a7cc1c81b7c456008a70cab549159756fed685546c73"
+    },
+    {
+      "type": "Theme",
+      "name": "attaques des groupes armés terroristes",
+      "id": "Theme_3825f1e9ca7e754e9659a7bf483b7393b2f85da13d92753bfaaddd405c7259ae"
+    },
+    {
+      "type": "Country",
+      "name": "Niger",
+      "id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb"
+    },
+    {
+      "type": "Person",
+      "name": "Président Kaboré",
+      "id": "Person_472b5836e2e9358f08830d70ab9b812f80dd1cdfa5828e41a84459d3abfb3468"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Country",
+      "name": "Moyen-Orient",
+      "id": "Country_2de49a8ab091aa1bdb7077eae809b237c5996590ecd7c342f4752b3b30411fb1"
+    },
+    {
+      "type": "Country",
+      "name": "Tchad",
+      "id": "Country_4559f6f8af30c0e115367f99db7a2d2bff5c4fb5ef7ec890af7e5e1662fd701e"
+    },
+    {
+      "type": "Country",
+      "name": "G5 Sahel",
+      "id": "Country_8b87440514f9b979dfca2bb06fd26314c4b3a1a97109158848fccc714e2e6627"
+    },
+    {
+      "type": "City",
+      "name": "Barkhane",
+      "id": "City_49709f68822a0c925a85bf2e3a01963f9ad545c15ce3391e4d7ce18349c9296f"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "Country",
+      "name": "Burkina",
+      "id": "Country_42356bc20193c95665895d02c634d4b391d5968dc93514ecd3de0795cccdc103"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat islamique du Grand Sahara",
+      "id": "Organization_1edfef6ac10f2718b2bd4c25bac9bbad86d1181e1e8aa2314baae5c772556605"
+    },
+    {
+      "type": "Organization",
+      "name": "force Barkhane",
+      "id": "Organization_fe914cb7824defdb611b647d052551157b0515ae6bc59afed95181dd624977e1"
+    },
+    {
+      "type": "Organization",
+      "name": "force conjointe du G5 Sahel",
+      "id": "Organization_5c4479713a0b4baca5d3ea4716f637b060039e8817580904ebc3df79c0bf0ab4"
+    },
+    {
+      "type": "Organization",
+      "name": "Barkhane",
+      "id": "Organization_e54f566ab6b27cae3cc1917ae6d401f506be9fa0b59d5e884d97d8e2aae1a82f"
+    },
+    {
+      "type": "Organization",
+      "name": "Task force Takuba",
+      "id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Sahéliens",
+      "id": "Country_3c4025afa8d5958c0660ec505d47f2b9bca13b746ea4e08a0fdb49b4e780c6df"
+    },
+    {
+      "type": "Theme",
+      "name": "consolidation de l'Etat",
+      "id": "Theme_68e3ab13f96b1064d9c8ff7af58527c18f9f9e67cb230f563ba60d1ab19048d6"
+    },
+    {
+      "type": "Theme",
+      "name": "retour de l'Etat",
+      "id": "Theme_f0b645cca91123ab69feaf418c71da6cb1c6bf73d5066507d76eceef3ec66488"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté nationale",
+      "id": "Theme_908cda9c0e0225bccd231ecd5a892555b929eb93d34e7963cfae442ed2c7548c"
+    },
+    {
+      "type": "Organization",
+      "name": "MINUSMA",
+      "id": "Organization_ca97eba974d956f03896c8dba73f0ff213915a352452accbe7ee16ab48ee356a"
+    },
+    {
+      "type": "Organization",
+      "name": "EUTM",
+      "id": "Organization_3e7eb34b16f38d1f7c84316daf53f25d3546d68846b59d13fc579bc13c1d3c2a"
+    },
+    {
+      "type": "Organization",
+      "name": "EUCAP",
+      "id": "Organization_28d82f004f0ec1aaef60c9028cf5b31cdbdf7fc5e5d49ff74652dfe7cd85edcb"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Union africaine",
+      "id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "type": "Organization",
+      "name": "CEDEAO",
+      "id": "Organization_ff1e778bfbd4255ebdecd974262a24f3693a795ac79ed21770872fa52242ac89"
+    },
+    {
+      "type": "City",
+      "name": "Bruxelles",
+      "id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "type": "Person",
+      "name": "Michel",
+      "id": "Person_ac9938878c7e5cc0d539c8f51b48c646dc89fa8148a7eea629e93eb5c96981a1"
+    },
+    {
+      "type": "Person",
+      "name": "Borrell",
+      "id": "Person_9d546eb34652ca127ecc345b5531a062de0be5e45b24a779f9be7b885518c5d0"
+    },
+    {
+      "type": "Person",
+      "name": "Merkel",
+      "id": "Person_11ad4e67ef3a2e4b330ebc39970509630c2fce5702d04790e6328b02bf6b451d"
+    },
+    {
+      "type": "Country",
+      "name": "Mauritanie",
+      "id": "Country_f6f04beb41c51169b0ac43b82b76afeaca4b16fd7d8a8e7ca3ca9d31b4a68854"
+    },
+    {
+      "type": "Country",
+      "name": "la communauté internationale",
+      "id": "Country_cb3aba919077b32f02b6b9d96513ec7dee48b4ca498ce602ac429f82ba6ca784"
+    },
+    {
+      "type": "Country",
+      "name": "les Etats présents",
+      "id": "Country_69424eca5d23186e404b83434e01f6bd139139323c2c9da2e09c1276ca85f250"
+    },
+    {
+      "type": "City",
+      "name": "la région du lac Tchad",
+      "id": "City_fe8f59cb254726e54d98a9960a7b1a4ac5615f032603b96a86f67075dbb8a199"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaire général des Nations Unies",
+      "id": "Organization_a14eee1e3a8a821ea04df284e91497a10873b7097175330675866dfd17057983"
+    },
+    {
+      "type": "Person",
+      "name": "le président du Conseil européen",
+      "id": "Person_992e0ea3168f0735eadd20e84bccec636c53ec6bf6e85d65c65a35e51ba14a1b"
+    },
+    {
+      "type": "Person",
+      "name": "le Haut représentant de l'Union européenne",
+      "id": "Person_4c4de592d5ee800d19821aa3dcbca928006172b1af081de800a45dd7c26690cd"
+    },
+    {
+      "type": "Person",
+      "name": "le secrétaire général des Nations unies",
+      "id": "Person_c75c563781f8003a9209b7422a8fea6ced27933973a99fc18fe3955b819e1136"
+    },
+    {
+      "type": "Person",
+      "name": "le président de la Commission de l'Union africaine",
+      "id": "Person_fe5929074629a82b6fdb1fe7c26b6dd0ace6a66abc2b574a07d275f4b61bd211"
+    },
+    {
+      "type": "Person",
+      "name": "la secrétaire générale de la Francophonie",
+      "id": "Person_9ab02d7acbd9b2a0fe63b0aedfaa1f90bbf2118adf5c0ab1c9a284803cb3d940"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "En France, il est composé de deux chambres : l'Assemblée nationale et le Sénat",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "consolidation de l'Etat",
+      "relation": "MENTIONS",
+      "target": "consolidation de l'Etat",
+      "evidence": "L'objectif politique c'est la consolidation de l'Etat, le retour de l'Etat partout et dans toutes les régions.",
+      "confidence": 1.0,
+      "source_id": "Theme_68e3ab13f96b1064d9c8ff7af58527c18f9f9e67cb230f563ba60d1ab19048d6",
+      "target_id": "Theme_68e3ab13f96b1064d9c8ff7af58527c18f9f9e67cb230f563ba60d1ab19048d6"
+    },
+    {
+      "source": "retour de l'Etat",
+      "relation": "MENTIONS",
+      "target": "retour de l'Etat",
+      "evidence": "L'objectif politique c'est la consolidation de l'Etat, le retour de l'Etat partout et dans toutes les régions.",
+      "confidence": 1.0,
+      "source_id": "Theme_f0b645cca91123ab69feaf418c71da6cb1c6bf73d5066507d76eceef3ec66488",
+      "target_id": "Theme_f0b645cca91123ab69feaf418c71da6cb1c6bf73d5066507d76eceef3ec66488"
+    },
+    {
+      "source": "souveraineté nationale",
+      "relation": "MENTIONS",
+      "target": "souveraineté nationale",
+      "evidence": "le but de nos ennemis c'est l'effondrement de la souveraineté nationale",
+      "confidence": 1.0,
+      "source_id": "Theme_908cda9c0e0225bccd231ecd5a892555b929eb93d34e7963cfae442ed2c7548c",
+      "target_id": "Theme_908cda9c0e0225bccd231ecd5a892555b929eb93d34e7963cfae442ed2c7548c"
+    },
+    {
+      "source": "Merkel",
+      "relation": "SPOKE_ABOUT",
+      "target": "Sahel",
+      "evidence": "remercier aussi la chancelière Merkel pour son engagement au travers de l'Alliance pour le Sahel et le Partenariat pour la sécurité du Sahel que nous avions lancés ensemble à Biarritz.",
+      "confidence": 1.0,
+      "source_id": "Person_11ad4e67ef3a2e4b330ebc39970509630c2fce5702d04790e6328b02bf6b451d",
+      "target_id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "source": "les Etats présents",
+      "relation": "ALLIED_WITH",
+      "target": "la communauté internationale",
+      "evidence": "les Etats présents et la communauté internationale continuent d'agir",
+      "confidence": 1.0,
+      "source_id": "Country_69424eca5d23186e404b83434e01f6bd139139323c2c9da2e09c1276ca85f250",
+      "target_id": "Country_cb3aba919077b32f02b6b9d96513ec7dee48b4ca498ce602ac429f82ba6ca784"
+    }
+  ]
+}

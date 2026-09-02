@@ -1,0 +1,521 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Shanghai",
+      "id": "City_1c69547961fb5f027655eaa1583e9c736a388752921f6ea9540cf7bc2079ec4e"
+    },
+    {
+      "type": "City",
+      "name": "Pékin",
+      "id": "City_c33b28c48b13d634999d50013f1cdd989b8055c898dcd822f8e335c15db449dc"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "André Malraux",
+      "id": "Person_a2afa04e2522ad2e0cdc970e4610b64df19206a761988198ee15067b70b0a675"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Xi Jinping",
+      "id": "Person_99ed88f08de36d905de647d17f10a961ac301c5544f4432e1a832eca6c8adb41"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Person",
+      "name": "Serge",
+      "id": "Person_0287ef4244462f68ea92de71664b8fe4bb23be6211b3b85203dd1fe128b6c51b"
+    },
+    {
+      "type": "City",
+      "name": "Versailles",
+      "id": "City_005c3dd556787a48d85e917c1629f8b41dea2f726d89283e42c5cd7448b7c82a"
+    },
+    {
+      "type": "Organization",
+      "name": "Orchestre national de France",
+      "id": "Organization_bb605676f5d8e5672a8a47f0a3e5d3981a3e574bcfdcaa663d19d01a3b763ba9"
+    },
+    {
+      "type": "Organization",
+      "name": "Bourgeois gentilhomme",
+      "id": "Organization_60c741723efcaf34240b8145411e45e0aeb548e18899979832256d581fccce48"
+    },
+    {
+      "type": "Organization",
+      "name": "Cité de Versailles",
+      "id": "Organization_9b0bcc85bbb46f14f7e2c31c9f47c97e5e9e469bec88437d8a45851fc59e44af"
+    },
+    {
+      "type": "Organization",
+      "name": "Cité interdite",
+      "id": "Organization_6904f563a42943867cc3a9f0633d0c61386d6e89f12f2d7a6e29ba4e45a512ee"
+    },
+    {
+      "type": "Organization",
+      "name": "Musée Rodin",
+      "id": "Organization_14a036f4abe30be7c12153ee5df33b878fc078986078dde5eda8efc949466798"
+    },
+    {
+      "type": "Organization",
+      "name": "Musée national Picasso",
+      "id": "Organization_8d1b923c7098cdb1cd23d5c8f6e01bdd60983b9e1d0f7d3f3e9af276165d6960"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation Giacometti",
+      "id": "Organization_15b390788e804351b5a181bbd612ef57b735827cfaf67e7aa36a9bf4fc79ed07"
+    },
+    {
+      "type": "Organization",
+      "name": "The Cube",
+      "id": "Organization_2ca59f68a23372ae4b9c488f8335771e3a711582a1a6862493d279646a44295c"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération patrimoniale",
+      "id": "Theme_097c60be2ae2b765ace070e60a812719b8eb51f23cfccea5946e64b9770b419f"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche sur les monuments historiques",
+      "id": "Theme_c0558a7af91b8b641b07fa67b535e7a6cc7878335fdc5564a19854340ee6cf5f"
+    },
+    {
+      "type": "Theme",
+      "name": "circulation des oeuvres d'art",
+      "id": "Theme_e01a44b7d31a002dc69c56794854fad190d393918cccf29a5f923e75da41a7a1"
+    },
+    {
+      "type": "Theme",
+      "name": "échange d'artistes",
+      "id": "Theme_fcd827130143dace086215e3c371f82f2c018092205edef0ebffdab41dfc7487"
+    },
+    {
+      "type": "Theme",
+      "name": "année franco chinoise du tourisme culturel",
+      "id": "Theme_f49badc1b9e27225b2c6186223b7cb9798bdbfd7977fec6c034d20ebe59d510b"
+    },
+    {
+      "type": "Theme",
+      "name": "coproductions de films",
+      "id": "Theme_ca632719d14adcdbd0d96072ff98dc63997f51f144d273a20116512887e161b1"
+    },
+    {
+      "type": "Theme",
+      "name": "imaginaire chinois ouvert au monde",
+      "id": "Theme_0ce6eab1b46acfe9312c46db298517bfdbe5e05c96003469c9aaf25610d05a0c"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelle étape de notre héros français Astérix",
+      "id": "Theme_7ab0c4a6a2d76807fc61d4ffcd754f3bbf1c8708a9c756092675c06704f8d5f6"
+    },
+    {
+      "type": "Theme",
+      "name": "routes de la soie",
+      "id": "Theme_130ca9175f86fd2d9ed1f58542a08ad4f294a0e74add50357427a664ecebddb2"
+    },
+    {
+      "type": "Theme",
+      "name": "imaginaire croisé",
+      "id": "Theme_5293577289527cca2743d57f40d30ff1f8da6e0a535c228a2a9f0c6b9abb72a7"
+    },
+    {
+      "type": "Theme",
+      "name": "attraction et de la force du modèle touristique chinois et français",
+      "id": "Theme_296dbf778a9c54b673d738bd376e976aa24bd1ac4e09c8387689be8e2b119ab8"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité à créer un imaginaire ensemble",
+      "id": "Theme_d9d5f3c6acbe453106aa6f62ba2ef42dd5dfdfb5877dfc7c23cc3420d8c3a7e2"
+    },
+    {
+      "type": "Person",
+      "name": "Abderrahmane Sissako",
+      "id": "Person_502e001bde033b86be9c06a587ca81062f6df68fe475aa9a6398b2a37f3abc10"
+    },
+    {
+      "type": "Person",
+      "name": "Gong Li",
+      "id": "Person_d11b2c43e6f83a33894d1c0e715dc7c16bfeed4f5b85782effa3de991a24b526"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Michel Jarre",
+      "id": "Person_2e6ef6b01d9e952227ef5782670c0f1ec5a538cf8b25d74e62b9b7cdb16be070"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Organization",
+      "name": "Centre Pompidou West Bund Project",
+      "id": "Organization_3bcaec546755178253f1d563e9d692c2deee929178d91b4abd7e6203c27bfc8e"
+    },
+    {
+      "type": "Person",
+      "name": "David Chipperfield",
+      "id": "Person_941001f44ae297cef818be0704b9a5b9014d76a382b94ca1b6ff1fd31613bf84"
+    },
+    {
+      "type": "Person",
+      "name": "Jean Nouvel",
+      "id": "Person_a68c5daebac9bf0635fab0d0980416954c71c8aa7eff13a4c4085da7282123cc"
+    },
+    {
+      "type": "Person",
+      "name": "Christian de Portzamparc",
+      "id": "Person_53fb9c8392b0e851483815935335a1ebb4a2bfe7fb96f2ef5683eac9d81f2306"
+    },
+    {
+      "type": "Organization",
+      "name": "Centre Pompidou",
+      "id": "Organization_368c9f0a561f1b9776f167fbb7739e7e80c4ae84c02c5720aa8f38885674fecc"
+    },
+    {
+      "type": "Person",
+      "name": "Serge Lavigne",
+      "id": "Person_63de1c623e9376ff9913d8a90abdd6491739958bde8fbc5d4cb758f3bd2f8519"
+    },
+    {
+      "type": "Person",
+      "name": "Pompidou",
+      "id": "Person_e602b10826fa4f151251a3a10b510422dd30f8feb548f4fc993f0c9e6351d3dc"
+    },
+    {
+      "type": "Theme",
+      "name": "art moderne",
+      "id": "Theme_7fba6d62ba0d3fbbca070a5d2d72e504518ef6890bbd77537d2428358ae6af04"
+    },
+    {
+      "type": "Theme",
+      "name": "réconciliation",
+      "id": "Theme_8d5bbf9fa4c18c27128cf4e69eeb853866d5a0e8340a4579e43a6868a65b691b"
+    },
+    {
+      "type": "Theme",
+      "name": "beauté",
+      "id": "Theme_64896009cff86011d589ead988dbbfaa1ba408a73b6fda2b9529d89a3ba3e9fd"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence",
+      "id": "Theme_03b687ae69479c829a7f30314ea23d1b3a6d4c82f2cea3968ce973b361cfd0cd"
+    },
+    {
+      "type": "Theme",
+      "name": "esthétique",
+      "id": "Theme_9810d6c34c8534e64f3a73107c669632c15904f2362679a1a404be87a51758aa"
+    },
+    {
+      "type": "Theme",
+      "name": "art",
+      "id": "Theme_6ed805edbb8eef4acbfa46f80c86538afc8b5485c0144e0929dce3cb2898ba5e"
+    },
+    {
+      "type": "Person",
+      "name": "Kandinsky",
+      "id": "Person_314bf175b7b6d5719bee2dcdc8d08b3d6d9a302fde91f935440f846ec0544ac6"
+    },
+    {
+      "type": "Person",
+      "name": "Messager",
+      "id": "Person_e99eaf2e583ec7ab22a57442b9e1ff2c82643a86023fa0a13b90350744038b52"
+    },
+    {
+      "type": "Person",
+      "name": "Delaunay",
+      "id": "Person_702acba67a1004967167148729ea9a56dd7c266f4943b06db881108db6283a22"
+    },
+    {
+      "type": "Person",
+      "name": "Pollock",
+      "id": "Person_bb48cd914a04743d6dd30bd8bbaebc87e90910b1a72413af8b46a83ef79ad8d4"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "Malraux",
+      "id": "Person_0ce61647fce54f1f571d92ca89b3e92f71c946262711d7ebbf0465fd715a038d"
+    },
+    {
+      "type": "Theme",
+      "name": "réconciliation des espaces et des temps",
+      "id": "Theme_5887ff50c61b7fcfeda7106a3493d62408a54e884ae6e665b9e36ac90e797020"
+    },
+    {
+      "type": "Theme",
+      "name": "Centre Pompidou",
+      "id": "Theme_82f9fcd065b2ca7986c0b0d4b8349cbd26596775f80ff7497642703190616f1d"
+    },
+    {
+      "type": "Theme",
+      "name": "Centre Pompidou West Bund",
+      "id": "Theme_fdcc92be7f328d8a319444d19ef77e1a84fc71aa7fc3a08b2515f5d4703aec97"
+    },
+    {
+      "type": "Theme",
+      "name": "universel",
+      "id": "Theme_af6169ca6d2a11a500827febfcd4b6f024b79ecf0ee483745ba7cd18b13fa770"
+    },
+    {
+      "type": "Theme",
+      "name": "démarche universelle",
+      "id": "Theme_a4c8813ed54fbf0d57c199bd3d10b317514213d473701ed4d930ff1c2042d93b"
+    },
+    {
+      "type": "Theme",
+      "name": "différences",
+      "id": "Theme_d282dd1d33264358689ec6672c8c07cf98fd479e4fb0831c8a479c2f2e3067d8"
+    },
+    {
+      "type": "Theme",
+      "name": "moment particulier de nos histoires",
+      "id": "Theme_1453323451c2252e48a6f3edda53a67d35d1a18e337f1e09280a5484db216a41"
+    },
+    {
+      "type": "Theme",
+      "name": "invariants",
+      "id": "Theme_84da30cc790849582736566c0603fbcfcbca53bc5b10b7b0ef61d6cba73ddf84"
+    },
+    {
+      "type": "Theme",
+      "name": "différences profondes",
+      "id": "Theme_e11dfebcf217d39044d86d0e696ffe2d02228d0f96b0b5c9e748eaf211e3e4cc"
+    },
+    {
+      "type": "Theme",
+      "name": "abolition des différences",
+      "id": "Theme_c63a904fec80701766635c416a3ca3e56ea7c7c3cae67d6aa805a33aba054d2e"
+    },
+    {
+      "type": "Theme",
+      "name": "dialoguer des identités",
+      "id": "Theme_0dbeb71ad4e29e0e6d150bbb71cd269c6d718ffc2c388be37f3b437638a68e9d"
+    },
+    {
+      "type": "Theme",
+      "name": "esthétiques profondément différentes",
+      "id": "Theme_f25bd8b71a1eda849eec316fa9c9e91306600d7f04e7831a7ba8df1714df7f6d"
+    },
+    {
+      "type": "Theme",
+      "name": "approches éminemment subjectives",
+      "id": "Theme_fbc8fe6fd3c631a15af5734063c7c47d5f50da0c5af9f60a3d8de7868fde1a5d"
+    },
+    {
+      "type": "Country",
+      "name": "Hongrois",
+      "id": "Country_39dd50468ef6e5aa6552364ae4751ed795e451b1a8f07fde1482bc51fe6416f6"
+    },
+    {
+      "type": "Person",
+      "name": "Huang Yong Ping",
+      "id": "Person_e37376be002ad92126d4d3ab346449481e14f9a182361ca5d2fd21f110224646"
+    },
+    {
+      "type": "Person",
+      "name": "Shen Yuan",
+      "id": "Person_b49566fd451d4cdcafdd3098cd9b6186adcda7d3716260c5c9f08dbee964c98d"
+    },
+    {
+      "type": "Theme",
+      "name": "tension entre des identités",
+      "id": "Theme_b19cfcf05ebe2fb2792361183ce32ab81cf4d7ef349bc202cac431865e65bb70"
+    },
+    {
+      "type": "Theme",
+      "name": "forces culturelles profondes",
+      "id": "Theme_40ee6176a5c17686f07a38145bd4acf80c22108059b7d18612fc7e06aeb173ba"
+    },
+    {
+      "type": "Theme",
+      "name": "univers et des imaginaires",
+      "id": "Theme_1a0c36e11c3293eac4ad3179dea46053d0701ab41ec752d68d0c73c067b72d94"
+    },
+    {
+      "type": "Theme",
+      "name": "Chan",
+      "id": "Theme_a3478aacfb578813bb31674669035ce7fbcb183c868f78b3f616e49a0dbda23e"
+    },
+    {
+      "type": "Theme",
+      "name": "Dada",
+      "id": "Theme_e35c978632c5981c4523702bc5f877f3b0c526ab24acbff9b3764817455c8c08"
+    },
+    {
+      "type": "Theme",
+      "name": "l'esprit chinois",
+      "id": "Theme_9c402cb62d95df71f72559b9e30c29128ee8f73b9a5d11274a4ca7dfbd8351c5"
+    },
+    {
+      "type": "Theme",
+      "name": "l'imaginaire européen",
+      "id": "Theme_9295f4c0f36f3d3e4af896cc6488142604353033d79ffa19c22fc0f9c243bd40"
+    },
+    {
+      "type": "Theme",
+      "name": "la transgression européenne",
+      "id": "Theme_aeae837489ce3ebfb26a66775b25445100fed5f0b455100f94f56187762dd76d"
+    },
+    {
+      "type": "Theme",
+      "name": "l'art",
+      "id": "Theme_c3ce4bc774a3dc347aeb610f4b360b7975f3b42b62369e8e5fba2fd11eed9194"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue entre deux univers",
+      "id": "Theme_dd4bbd6e838f4021220ba4edaf8aa42b087622e3912d8c13ceaef63d9ba0525f"
+    },
+    {
+      "type": "Theme",
+      "name": "tension entre ces derniers",
+      "id": "Theme_cb55333b646607f85adc808458cfeef9f69798fe422ee4c0d4c20721f62ddfd5"
+    },
+    {
+      "type": "Theme",
+      "name": "créer sera difficile",
+      "id": "Theme_fbe4b3e9c07763142a9433cb04cfcf63793a5cb4f3cc44463629fb6dd15e7409"
+    },
+    {
+      "type": "Theme",
+      "name": "oeuvres qui seront difficiles à montrer",
+      "id": "Theme_ab26f55cce33cc83ac8207ed93e42c361805b514a8913972755ba8e6502f1363"
+    },
+    {
+      "type": "Theme",
+      "name": "silences qui diront",
+      "id": "Theme_61a78792c8264e1f698c5d1088ba4eab38bce61f8e36fa293b88b6c22289ca9f"
+    },
+    {
+      "type": "Theme",
+      "name": "contournements qui aideront à faire",
+      "id": "Theme_0f923638296187887974ccdefd2452c15e9bbe89475938fa04f4b7588187fcf3"
+    },
+    {
+      "type": "Theme",
+      "name": "art de l'esquive",
+      "id": "Theme_6db98914bba96e72adff76b36a29ede9ac26435ce91eb121c41474b2e752ebaa"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité dans ces silences, ces contournements à reconnaître les absolus profonds",
+      "id": "Theme_b22ae66c066e23b984ac8087545c5d8ee87d6f6fc0add5fee21f36e23f681ef0"
+    },
+    {
+      "type": "Theme",
+      "name": "artistes chinois",
+      "id": "Theme_4f5cf580fd2adcbf0432592fc14581cdc01dbbd8f81631fe07ca5a8d878357f1"
+    },
+    {
+      "type": "Theme",
+      "name": "artistes français",
+      "id": "Theme_328330430ca1aad7e30e40d34496a56522b4da04b88dd877de76107d66d25d3e"
+    },
+    {
+      "type": "Theme",
+      "name": "artistes européens",
+      "id": "Theme_20b218cd8cc8f73ac3134337806b2150229f38ad2893dbe982a3c4ac0627371f"
+    },
+    {
+      "type": "Person",
+      "name": "Bernard",
+      "id": "Person_5a677faa80f5cfc749ddbd86b6e57a7a2f26c19c05adcf79898d6c9b94581eba"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Shanghai",
+      "evidence": "sur ce que le commerce, l'art, l'intelligence ont représenté du lien entre Shanghai et la France depuis tant de décennies",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "City_1c69547961fb5f027655eaa1583e9c736a388752921f6ea9540cf7bc2079ec4e"
+    },
+    {
+      "source": "Chine",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "la confiance réciproque, la coopération de plus en plus sûre entre la Chine et la France",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Jean-Michel Jarre",
+      "relation": "MENTIONS",
+      "target": "réchauffement climatique",
+      "evidence": "le projet de concert de Jean-Michel Jarre ralliant l'imaginaire culturel, la musique, l'innovation musicale et notre combat commun contre le réchauffement climatique",
+      "confidence": 1.0,
+      "source_id": "Person_2e6ef6b01d9e952227ef5782670c0f1ec5a538cf8b25d74e62b9b7cdb16be070",
+      "target_id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "source": "Centre Pompidou West Bund Project",
+      "relation": "LOCATED_IN",
+      "target": "Shanghai",
+      "evidence": "à Shanghai pour l'ouverture de ce centre et de ce Centre Pompidou West Bund Project",
+      "confidence": 1.0,
+      "source_id": "Organization_3bcaec546755178253f1d563e9d692c2deee929178d91b4abd7e6203c27bfc8e",
+      "target_id": "City_1c69547961fb5f027655eaa1583e9c736a388752921f6ea9540cf7bc2079ec4e"
+    },
+    {
+      "source": "Centre Pompidou",
+      "relation": "PROPOSED",
+      "target": "Pompidou",
+      "evidence": "Et comme je le disais, il était dans les gènes le projet initial du Centre Pompidou dès 1977, et Serge Lavigne a tout à l'heure cité le président Pompidou,",
+      "confidence": 1.0,
+      "source_id": "Theme_82f9fcd065b2ca7986c0b0d4b8349cbd26596775f80ff7497642703190616f1d",
+      "target_id": "Person_e602b10826fa4f151251a3a10b510422dd30f8feb548f4fc993f0c9e6351d3dc"
+    }
+  ]
+}

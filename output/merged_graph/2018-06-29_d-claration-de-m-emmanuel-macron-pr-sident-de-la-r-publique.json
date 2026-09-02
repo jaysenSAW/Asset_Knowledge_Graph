@@ -1,0 +1,515 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "City",
+      "name": "La Sorbonne",
+      "id": "City_4f9b6ee4d3239bf46fce8dcae626629d0a1573c59a7e3f0af396de57006a99d0"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Person",
+      "name": "secrétaire général de l'OTAN",
+      "id": "Person_a7b198dbade53431782035d4f9524bc2ce231973ea740bcca611044682f0e68e"
+    },
+    {
+      "type": "Organization",
+      "name": "Allemagne",
+      "id": "Organization_018c9dfa0083ec0dabf7f5fa4d500a808dc906a97b04b4073ac572e7d605d126"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Theme",
+      "name": "taxation des grandes entreprises",
+      "id": "Theme_ccc2a89a54cfeaae213c42193d5388dffdc9a555a3ee91e98624e6fb70df3c2d"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation de rupture",
+      "id": "Theme_15cfadec6c52ce9c8f308f6aa83b4ac35cf91e6a01d1b7584afa46fa4534e02b"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté militaire",
+      "id": "Theme_479eb2cb3680dc07267b43b0c7ccd54b41a48d6f0c3097c9092fa898f872cdc8"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme de l'OMC",
+      "id": "Theme_e6107c8b35095d150c25d2ae17ac2080e4d09d9bcba027b90b5b4cf6a6505184"
+    },
+    {
+      "type": "Theme",
+      "name": "dysfonctionnements actuels du multilatéralisme commercial",
+      "id": "Theme_7a8156497627b50653ed93f2b8da547f1f49b1e0c09b958309428725cf40dbd1"
+    },
+    {
+      "type": "Theme",
+      "name": "fracture croissante",
+      "id": "Theme_d1640a41b16b090fef30b03c678e1b3dd2ea655adcac4621b5b29d72063be70d"
+    },
+    {
+      "type": "Person",
+      "name": "Michel BARNIER",
+      "id": "Person_6a04ceb187264fb3e394a2093779ba135fd7a574bf1489892666c3bcc42b5af6"
+    },
+    {
+      "type": "Organization",
+      "name": "Vingt-Sept",
+      "id": "Organization_bf7a4b4b6be04984f64bc5a7b3c48dd204bb23d1f9b4ce5391183dbee97930e9"
+    },
+    {
+      "type": "Event",
+      "name": "Brexit",
+      "id": "Event_0ac67d48e8e41ceea068da2f23e9edbc22fff9ab2df624ff61fe96e032c92341"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations",
+      "id": "Theme_cac93d346afb10556cd477074f8fd5e7de6a6b6e234704cdc92ccd1aae71876c"
+    },
+    {
+      "type": "Theme",
+      "name": "unité et l'efficacité",
+      "id": "Theme_a23108b45352731314f932f9b62bfa25d6e85236ab3b25a178d1e3899d2af0f2"
+    },
+    {
+      "type": "Theme",
+      "name": "crise réelle",
+      "id": "Theme_9adb2c675a1546f225157e54954969529b8c4f418f30fba1a28ddebc348cb1d8"
+    },
+    {
+      "type": "Theme",
+      "name": "tension forte",
+      "id": "Theme_5c822d0c13bfeb24dc4adea68ddb62b520d621eaa370254a59d27259bcacf5fc"
+    },
+    {
+      "type": "Theme",
+      "name": "travail, un engagement fort",
+      "id": "Theme_166bf25b24e6d04feb6df5b9aea62329cfc6320f58dd654a6d21dfd997897478"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Theme",
+      "name": "Histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "droit d'asile",
+      "id": "Theme_a81084e788c48c89a0e2207025ddc0b45bb48104d0a4e55811c46fa436818ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "protection des femmes et des hommes",
+      "id": "Theme_ee43632eb5bd76e625ab6233d36ae7401c42e3caa023ff7a9cedbaa918c9c659"
+    },
+    {
+      "type": "Theme",
+      "name": "phénomène migratoire",
+      "id": "Theme_28ba34ba610b81922681ea093cab65c5896baa671980c787b2bf3c0b33d6df95"
+    },
+    {
+      "type": "Theme",
+      "name": "cohésion européenne",
+      "id": "Theme_47c12d46077517cf302009e86ff40fb997bed2d2b3ba768133a1854ad1c848a4"
+    },
+    {
+      "type": "Theme",
+      "name": "frontières",
+      "id": "Theme_2cd955c9a002255c9c4db835b43368ec22c183622dce92ef1191d4bdfa43a6bb"
+    },
+    {
+      "type": "Theme",
+      "name": "peurs",
+      "id": "Theme_5467548b402804ea9f29376842dbc22856f50e3debd3f3f63979f8d498741ffc"
+    },
+    {
+      "type": "Theme",
+      "name": "extrêmes",
+      "id": "Theme_c31fa51fc0c77a9930a418e47137a72e725c9cb20b5a68a20ed1d0b7c0e12a83"
+    },
+    {
+      "type": "Theme",
+      "name": "politique nationale",
+      "id": "Theme_7458826f3dcf949191e8ac157df0efe66f56cc030064b574c85648d77b75c1bb"
+    },
+    {
+      "type": "Theme",
+      "name": "repli nationaliste",
+      "id": "Theme_f88a076c95e1893b2ba914f011d7459cc475313c0ce5b8277e4475dba6594d4f"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "travail européen",
+      "id": "Theme_aeb109a749cfe08efc3595080c3e3b3a1deb33cae27a078ed218db0bcf44f782"
+    },
+    {
+      "type": "Theme",
+      "name": "accord européen",
+      "id": "Theme_c7c6eab48ccdf4428c9f2a3a996f7bbc798b0470105ae1821fd1e9aa9eef1321"
+    },
+    {
+      "type": "Theme",
+      "name": "fascination du pire",
+      "id": "Theme_ad84b43f671bae78ec40244ee566077c978d4d095cb4f3e1d06fe9c4ebf5b0c4"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Organization",
+      "name": "HCR",
+      "id": "Organization_eed8ccc365fb5e9dfd2c26ef707d95970e863e306093728e7a74ad082e729428"
+    },
+    {
+      "type": "Organization",
+      "name": "OIM",
+      "id": "Organization_f42df887f1690195d7a437c6ef28c711f63e4f1fbe98e8aa3d68ec9f3502c772"
+    },
+    {
+      "type": "Organization",
+      "name": "Union africaine",
+      "id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Country",
+      "name": "Niger",
+      "id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "asile",
+      "id": "Theme_cd88f89a51614f7b8addc880c2aac7c86f554a1aa7bc17024cc6a92883621591"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre SANCHEZ",
+      "id": "Person_c9c4a11b7e2270faafbc4bd37cce08c260c0e8871c802dfa8c4487efef8b18e8"
+    },
+    {
+      "type": "Organization",
+      "name": "Frontex",
+      "id": "Organization_cbdb0eee01084bb1a5fedf8bca44d43c75443fe28058a38db5b9fe66d2293089"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Law",
+      "name": "Accords de Dublin",
+      "id": "Law_0cf478808a268c2d2f2c73bb3928ddfad8851c042149a7413c82f804a189a5c9"
+    },
+    {
+      "type": "Person",
+      "name": "Le Premier ministre grec",
+      "id": "Person_e2b32d5c2e071a42f349611aba4e79ed5016df0e5713e441ffa0d69341beda26"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Theme",
+      "name": "priorité",
+      "id": "Theme_a732896fa3c6f8fc1a58980e9e09102746df04a640a21b3c47b85acde88a2df5"
+    },
+    {
+      "type": "Theme",
+      "name": "directives",
+      "id": "Theme_2df22e1ee9e9033dfee1f8c45c915bde520013a0c58ad34412f971a24c266ba9"
+    },
+    {
+      "type": "Theme",
+      "name": "règles d'enregistrement",
+      "id": "Theme_4fde925f2eaddf9f7ac261dc378b434d09ba44b6191b8eb1ba433b8037539708"
+    },
+    {
+      "type": "Theme",
+      "name": "modalités",
+      "id": "Theme_69f8af394a8429a19e0483c0be30dee2ad6ebaec48d02d2dc77957e6ff46e974"
+    },
+    {
+      "type": "Theme",
+      "name": "principes",
+      "id": "Theme_97c5aa60bd71c598edaaf76fd6b884a4ae393b0774135332a05c72af7bc82042"
+    },
+    {
+      "type": "Theme",
+      "name": "accord",
+      "id": "Theme_0b2df016a46af61e5cf597152a6927f3908f2e525170825ef36df6fa7215075f"
+    },
+    {
+      "type": "Theme",
+      "name": "rôle",
+      "id": "Theme_20c7bbfccbba692f8461652e95278ec0e9dcfe72f1bfdf4eace059032535b591"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions nationales",
+      "id": "Theme_21f07ec58562ee4e508a846f902ec6295690d62c370e55215ad91bdddfaa4fc4"
+    },
+    {
+      "type": "Theme",
+      "name": "modalités techniques",
+      "id": "Theme_96524e36c74e14ce05b4399d29b70a5a71ea7012405b3e204bc4d377c4ba4faf"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques",
+      "id": "Theme_ba19f95cfce8651b7911006a78fd0bb6aabbd2835fa43c9b908e59faca1f07ca"
+    },
+    {
+      "type": "Theme",
+      "name": "protection frontières",
+      "id": "Theme_606c341052edeea0a7fc6d59bdcd508f896a9c171933fe45deac05828f170d74"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvement primaire",
+      "id": "Theme_4543bd43b71c95c9cb9fc8d4efcdc2c74e97de090d41b9b48ae97e04ac7cb86a"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvement secondaire",
+      "id": "Theme_5c0ed8d1fb48e4f7eb45c81d44205336655fe41a73252200a8cdae74339e5eed"
+    },
+    {
+      "type": "Person",
+      "name": "CENTENO",
+      "id": "Person_83c9b309f4b79b2ef802c63c2d08b1170803021c9594fb3a8d351978aa34c2d9"
+    },
+    {
+      "type": "Person",
+      "name": "TUSK",
+      "id": "Person_696b755e679c115c9f6fe644e17e8c4d0cb16d23fcedb9f3198454427354202f"
+    },
+    {
+      "type": "Organization",
+      "name": "Eurogroupe",
+      "id": "Organization_c78bda6fc5dcd6817fef5ca4bcb593bb87b3b6ee9b3dbf8a938e0a0216b38091"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme de la zone euro",
+      "id": "Theme_8213bd8f69d28dd5a0f300217bab4b19588f5855d54045d7e874631ff5fcc880"
+    },
+    {
+      "type": "Theme",
+      "name": "union bancaire",
+      "id": "Theme_f9c841f93a94134a4e484b837202a4153798333567ec2947cd74ae78cf37b30d"
+    },
+    {
+      "type": "Theme",
+      "name": "filet de sécurité",
+      "id": "Theme_4d871a309c6e6ea1a963818055c88e240faca19f80ab94e6e14e296091cafb74"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Claude JUNCKER",
+      "id": "Person_018ad92ac24b1bede412a8dff92c33707979ba084ec4d716dbd48c8d106c3fe0"
+    },
+    {
+      "type": "Person",
+      "name": "Donald TUSK",
+      "id": "Person_c8435a5cdcea4099d6c924ba132ea5ba2e75da5b0b552e240905ebd720e370b6"
+    },
+    {
+      "type": "Person",
+      "name": "Boyko BORISOV",
+      "id": "Person_7d8557746de94c16d30f5f69e553272825e7d43248bec504528591aed255ee3b"
+    },
+    {
+      "type": "Person",
+      "name": "KURZ",
+      "id": "Person_cb202f10f833a7635c567320fdb99e3018dae95c69477e45fce29985f71d4709"
+    },
+    {
+      "type": "Person",
+      "name": "MERKEL",
+      "id": "Person_11ad4e67ef3a2e4b330ebc39970509630c2fce5702d04790e6328b02bf6b451d"
+    },
+    {
+      "type": "City",
+      "name": "Meseberg",
+      "id": "City_0f880e493293c8daef379f305ba658991b0238c6d42d5aa841e8146f6a409469"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "ALLIED_WITH",
+      "target": "Europe",
+      "evidence": "là où de trop nombreux pays considéraient que l'Europe n'était pas ce qui les protégeait vraiment",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Allemagne",
+      "relation": "SPOKE_ABOUT",
+      "target": "taxation des grandes entreprises",
+      "evidence": "l'Allemagne et la France, sur une juste taxation des grandes entreprises",
+      "confidence": 1.0,
+      "source_id": "Organization_018c9dfa0083ec0dabf7f5fa4d500a808dc906a97b04b4073ac572e7d605d126",
+      "target_id": "Theme_ccc2a89a54cfeaae213c42193d5388dffdc9a555a3ee91e98624e6fb70df3c2d"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "taxation des grandes entreprises",
+      "evidence": "l'Allemagne et la France, sur une juste taxation des grandes entreprises",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_ccc2a89a54cfeaae213c42193d5388dffdc9a555a3ee91e98624e6fb70df3c2d"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "compte tenu des inégalités qui existent entre l'Europe et l'Afrique",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Afrique",
+      "relation": "LOCATED_IN",
+      "target": "Afrique",
+      "evidence": "compte tenu de la dynamique démographique de l'Afrique, compte tenu des zones de conflits, diverses et variées en Afrique",
+      "confidence": 1.0,
+      "source_id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b",
+      "target_id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "source": "droit d'asile",
+      "relation": "MENTIONS",
+      "target": "phénomène migratoire",
+      "evidence": "Le droit d'asile, ce n'est pas la totalité du phénomène migratoire et il est important de le rappeler.",
+      "confidence": 1.0,
+      "source_id": "Theme_a81084e788c48c89a0e2207025ddc0b45bb48104d0a4e55811c46fa436818ff4",
+      "target_id": "Theme_28ba34ba610b81922681ea093cab65c5896baa671980c787b2bf3c0b33d6df95"
+    },
+    {
+      "source": "cohésion européenne",
+      "relation": "MENTIONS",
+      "target": "frontières",
+      "evidence": "Il y a une cohésion européenne à tenir et donc une légitime protection de nos frontières, une légitime organisation, pour que les cohésions nationales ne cèdent pas et que nous ne laissions monter les peurs et avec elles les extrêmes dans les différents pays européens.",
+      "confidence": 1.0,
+      "source_id": "Theme_47c12d46077517cf302009e86ff40fb997bed2d2b3ba768133a1854ad1c848a4",
+      "target_id": "Theme_2cd955c9a002255c9c4db835b43368ec22c183622dce92ef1191d4bdfa43a6bb"
+    },
+    {
+      "source": "cohésion européenne",
+      "relation": "MENTIONS",
+      "target": "peurs",
+      "evidence": "Il y a une cohésion européenne à tenir et donc une légitime protection de nos frontières, une légitime organisation, pour que les cohésions nationales ne cèdent pas et que nous ne laissions monter les peurs et avec elles les extrêmes dans les différents pays européens.",
+      "confidence": 1.0,
+      "source_id": "Theme_47c12d46077517cf302009e86ff40fb997bed2d2b3ba768133a1854ad1c848a4",
+      "target_id": "Theme_5467548b402804ea9f29376842dbc22856f50e3debd3f3f63979f8d498741ffc"
+    },
+    {
+      "source": "cohésion européenne",
+      "relation": "MENTIONS",
+      "target": "extrêmes",
+      "evidence": "Il y a une cohésion européenne à tenir et donc une légitime protection de nos frontières, une légitime organisation, pour que les cohésions nationales ne cèdent pas et que nous ne laissions monter les peurs et avec elles les extrêmes dans les différents pays européens.",
+      "confidence": 1.0,
+      "source_id": "Theme_47c12d46077517cf302009e86ff40fb997bed2d2b3ba768133a1854ad1c848a4",
+      "target_id": "Theme_c31fa51fc0c77a9930a418e47137a72e725c9cb20b5a68a20ed1d0b7c0e12a83"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Libye",
+      "evidence": "C'est exactement ce que la France, avec quelques autres, a pu pratiquer à la fin de l'été dernier, en Libye,",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Niger",
+      "evidence": "C'est exactement ce que la France, avec quelques autres, a pu pratiquer à la fin de l'été dernier, en Libye, ce que nous avions aussi pratiqué avec le Niger.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "entities": [
+    {
+      "type": "Event",
+      "name": "fêtes du Nouvel An et du Noël orthodoxe",
+      "id": "Event_bc18a502fb70cb23e13150b9cb650e3968139325254f4c70dd0d52174b4433fb"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "Groupe de Contact Trilatéral",
+      "id": "Organization_cebfdcd3c8a2ba36f4b1b1ca432a735eed369d461bf82b677af705db0e439325"
+    },
+    {
+      "type": "Theme",
+      "name": "cessez-le-feu solide, complet et durable",
+      "id": "Theme_c0c627d02ec15f81113dfc09de33eaf5f642346fce7dd2cf9aab4a78a1ec110b"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement sûr et sécurisé",
+      "id": "Theme_43a7684660b80207d8015159974d0f806783eb954b1816f72165f64bc3c9d64d"
+    },
+    {
+      "type": "Theme",
+      "name": "mesures humanitaires essentielles",
+      "id": "Theme_f226a5767f006ed4138c2aaec2e3e7d5a3f7aca2b9bc3588642c6285fe94b12a"
+    },
+    {
+      "type": "Theme",
+      "name": "accords de Minsk",
+      "id": "Theme_7c268878643a25358986ea25226d2f9eb295b9dac18e3ecb48d0caf55a6b5050"
+    },
+    {
+      "type": "Country",
+      "name": "Crimée",
+      "id": "Country_f315dce129b4eee893df2fd109a16948410082438bc8b2934492a5699a3a607f"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": ";",
+      "id": "Person_d9a2714ab76cf1cad4aeee70cdd7a8bbf67abb5c36ad60f8ea17545109af83f1"
+    },
+    {
+      "type": "Person",
+      "name": "Angela Merkel",
+      "id": "Person_077e47899275e1cda2b2d7e530bf5f66693f699c895edfd079b62025ba358a5f"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Groupe de Contact Trilatéral",
+      "relation": "SUPPORTS",
+      "target": "cessez-le-feu solide, complet et durable",
+      "evidence": "la déclaration du Groupe de Contact Trilatéral du 27 décembre 2018, exprimant l'engagement à un cessez-le-feu solide, complet et durable dans l'est de l'Ukraine",
+      "confidence": 1.0,
+      "source_id": "Organization_cebfdcd3c8a2ba36f4b1b1ca432a735eed369d461bf82b677af705db0e439325",
+      "target_id": "Theme_c0c627d02ec15f81113dfc09de33eaf5f642346fce7dd2cf9aab4a78a1ec110b"
+    },
+    {
+      "source": "Russie",
+      "relation": "LOCATED_IN",
+      "target": "Crimée",
+      "evidence": "La situation des droits de l'Homme en Crimée, illégalement annexée par la Russie",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Country_f315dce129b4eee893df2fd109a16948410082438bc8b2934492a5699a3a607f"
+    }
+  ]
+}

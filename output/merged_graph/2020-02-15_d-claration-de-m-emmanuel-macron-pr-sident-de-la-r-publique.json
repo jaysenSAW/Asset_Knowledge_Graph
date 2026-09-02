@@ -1,0 +1,893 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur l'Ambassadeur",
+      "id": "Person_ca63df6e99fdaff6436f8fd8ee480f34c6752e2fbbae13fb9d4ec2653a96ecad"
+    },
+    {
+      "type": "Theme",
+      "name": "affaiblissement de l'Occident",
+      "id": "Theme_f8cd6eee9dc0e62a0ce5e8c524cd8a05e83f1a049bf9c672b9ff1dffd89f3cac"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "militaire",
+      "id": "Theme_703a1ce8bacc621e7371ce6f7d31802464ec3feacc2fcae60e2b209e5a44c132"
+    },
+    {
+      "type": "Theme",
+      "name": "émergence chinoise",
+      "id": "Theme_563e8aac93f4f145299bffac84c0d0926634ecff969f37e43ddd8f83e79affc7"
+    },
+    {
+      "type": "Theme",
+      "name": "puissances régionales",
+      "id": "Theme_a9ad8cd07bc5f4bab39ab78d3da023c9d7cbccf6a6fb147581c3a658a41d3cd2"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "pays souverains",
+      "id": "Country_158888f19bfc59ba7b55905e9edc7046b3ad4d9e81b31192a0a343db19107b98"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "City",
+      "name": "Monnaie unique",
+      "id": "City_193b54efb3541bb745da5169908a05378136ef94d0c5ace5dc1be00cd97ae177"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "zone euro",
+      "id": "Organization_2f6a079aced661f0f4634969da31afaf96d2da3c7a204087ef923b740e9a6b97"
+    },
+    {
+      "type": "Country",
+      "name": "russe",
+      "id": "Country_f9af5a1b6aec61a1549477d540f476a9ee0cc9a0f24d925ff6d72b10b198e1a7"
+    },
+    {
+      "type": "Country",
+      "name": "Middle-East",
+      "id": "Country_03737ec08ba2d5301ac2b585000fedf1542455787aa8eaa16deca60cce7d6d79"
+    },
+    {
+      "type": "Country",
+      "name": "Africaine",
+      "id": "Country_95b7d323e4d99f0549fd51dd02014102671f484f230c8a4fd3e264d2f883d169"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Person",
+      "name": "M. Wolfgang Ischinger",
+      "id": "Person_30204dc11394e35def2c119acd7257b996a0e8bd86535697333a1780bcb73c98"
+    },
+    {
+      "type": "Person",
+      "name": "Président Steinmeier",
+      "id": "Person_8fa5ddfc868779df348d5fe0e225af3e6fa29cba3982d849aa3d48cd47e97f40"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Person",
+      "name": "Wolfgang Ischinger",
+      "id": "Person_108d582a8686c1c5a82669b0a69d2b966d3448e4bd468edfaebbaf56eba48733"
+    },
+    {
+      "type": "Person",
+      "name": "Joschka Fischer",
+      "id": "Person_d44a04ed26c5596ffdf1fb56fef9ffcf25972e4f81e1defc28546f57fd055a10"
+    },
+    {
+      "type": "Country",
+      "name": "Germany",
+      "id": "Country_2ac0d9c2ebd9734575f29063406a0e556d16b7f47846a1afec593691188fd092"
+    },
+    {
+      "type": "Theme",
+      "name": "crise des démocraties européennes",
+      "id": "Theme_d6abcb6a889f9387a9a5808a69df3ac4f6c439c85efa7ba719e52a7746abf4b9"
+    },
+    {
+      "type": "Theme",
+      "name": "extrêmes montent",
+      "id": "Theme_cb8650accad37feaacf965d7b8a7bf6f3e925b76ffdb1b0cf7151d88d89163e1"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Person",
+      "name": "Thierry Breton",
+      "id": "Person_ed07c18dffcb9fae761ce572565c69ef328ed102cba549a93712a74c9b49f469"
+    },
+    {
+      "type": "Person",
+      "name": "Borrell",
+      "id": "Person_9d546eb34652ca127ecc345b5531a062de0be5e45b24a779f9be7b885518c5d0"
+    },
+    {
+      "type": "Person",
+      "name": "Michel",
+      "id": "Person_ac9938878c7e5cc0d539c8f51b48c646dc89fa8148a7eea629e93eb5c96981a1"
+    },
+    {
+      "type": "Person",
+      "name": "Von der Leyen",
+      "id": "Person_7ecadb921e073f1e4cad22bad4171dd07ba08b78183ee978ed19113794203019"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "5G",
+      "id": "Theme_47152ec4fdb1e969992c2378861e2673bb6d49339b0f5a5b037d241db358a595"
+    },
+    {
+      "type": "Theme",
+      "name": "cloud",
+      "id": "Theme_e66cd9d6a24ef776a6c7ab7baa4f744b43da9329db88ba3ef4c45f6a0784f29f"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "migratoires",
+      "id": "Theme_4bbdce90827705337141ea1d1b16c6f4419aafda0cf3ec13423b18dc89d4c870"
+    },
+    {
+      "type": "Theme",
+      "name": "échelle",
+      "id": "Theme_a2a710daaa61e648ddb8a7a92569087c8ea474f5b5aff6f40864a6e2f7894dce"
+    },
+    {
+      "type": "Theme",
+      "name": "marché",
+      "id": "Theme_76b587f8a62b78fb8b124eb91eab358c378581eb13b577e1047967a9693cee69"
+    },
+    {
+      "type": "Theme",
+      "name": "ambitions",
+      "id": "Theme_b2e054ccf61a68384bf0d359faf40b89edb8a2672321be3c540e1494bad0fc18"
+    },
+    {
+      "type": "Theme",
+      "name": "perspective européenne",
+      "id": "Theme_c2702ad6b10da2d991612fc99722c418cdf7ecd0adbbb7c71d51f458385e2b37"
+    },
+    {
+      "type": "Theme",
+      "name": "risques",
+      "id": "Theme_797c3ec4399b9e1c1ce15d7275922c2cfffa32a985c6cfdc4c0cee64e6e589ad"
+    },
+    {
+      "type": "Theme",
+      "name": "relation",
+      "id": "Theme_fc3f8ca92bd960f135d0e7b38c01fb10a5a17472804a1b435d0dabdb2d0b6778"
+    },
+    {
+      "type": "Theme",
+      "name": "futur",
+      "id": "Theme_f2be055a4c8fb180c91c7b6145c207571d430d8fdc8ca459b7dcf2b4eb979c61"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "Policy-mix européen",
+      "id": "Theme_2b8c8aa47640585066c32517ee4610a660f6ea12df8102e2dd6f42ae3b89e6d0"
+    },
+    {
+      "type": "Theme",
+      "name": "budget",
+      "id": "Theme_476c75e33f21fc15bc5588b5d07c657897da27f908716f5af56abf04963f337c"
+    },
+    {
+      "type": "Theme",
+      "name": "PNB européen",
+      "id": "Theme_1511bc4851da52284beb9a69257d7635a1cd0ef50ce25bb6155f75ca7af46ede"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Theme",
+      "name": "consolidation budgétaire",
+      "id": "Theme_bdbd056f2099824831e739014d4ee32dd0e778acc75940a6b33ad5633888b2d1"
+    },
+    {
+      "type": "Theme",
+      "name": "financement public et privé en Europe",
+      "id": "Theme_f2f8df67225c9c4571a01618de809bd28abaea5111169e122e4898b8676822bc"
+    },
+    {
+      "type": "Theme",
+      "name": "épargne en Europe",
+      "id": "Theme_6439f3293349618d38a76c3ec90316b63c6e72a624df044abbcceb6dcffe4156"
+    },
+    {
+      "type": "Organization",
+      "name": "les Américains",
+      "id": "Organization_af883b943b80090b60765d9fd83988929a9c362d64a1ec6261c465014ac1c95e"
+    },
+    {
+      "type": "Organization",
+      "name": "les Chinois",
+      "id": "Organization_b31fc53dad8ccfecf2b7a36edc0b90e3ce6f94626ca29338474061608e5a9718"
+    },
+    {
+      "type": "Theme",
+      "name": "crise financière",
+      "id": "Theme_da6935f8fabfc5c3dc5d8c5bc4fcd3a0098663f8e9d84beabb6e8d608760f142"
+    },
+    {
+      "type": "Theme",
+      "name": "crise migratoire",
+      "id": "Theme_26ddd1819da3462f219f9685a8838f0cad9c6704543579786b15d339febefece"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté individuelle",
+      "id": "Theme_8a862910c8f3162ef48216be2bd8ffef08e21e3b4623304ba550fb395c122909"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès pour les classes moyennes",
+      "id": "Theme_36d97d998424aa094a1b10b30557a551311a175e242202fdd8507fc5e7cd7a40"
+    },
+    {
+      "type": "Theme",
+      "name": "économie sociale de marché",
+      "id": "Theme_49602913441f2253972d20149b92e5162a88a3015553c121bd01215a279cf30c"
+    },
+    {
+      "type": "Theme",
+      "name": "doute démocratique",
+      "id": "Theme_fca0626ec991437f3e5f270f1b0585d0258dbf8872f15cd118c944f33e0c89d1"
+    },
+    {
+      "type": "Theme",
+      "name": "aventure européenne",
+      "id": "Theme_83c3c70ecf42f043c1a85194d16c5c01eeb963c17203b24d8d8bf88d78e0e68e"
+    },
+    {
+      "type": "Organization",
+      "name": "Conférence",
+      "id": "Organization_21ed5472547eb62919aad41ad19a945317d59b6e6b4ce67395affaf835d1b9e5"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds européen de la défense",
+      "id": "Organization_9b841d2c1e12e23aecf288210cd6bddfb1a197dd874493e2cc1563ba5b0a0f75"
+    },
+    {
+      "type": "Organization",
+      "name": "Initiative européenne d'intervention",
+      "id": "Organization_18ff18e14207235a5d30ef246a30ad9f58e4b380744c166a704b3cd22f38a781"
+    },
+    {
+      "type": "Organization",
+      "name": "SCAF",
+      "id": "Organization_ec8086fb48414cb81060508a5dcf78ea4bbe2d9d38a7da88e8f845bcc7143bf6"
+    },
+    {
+      "type": "Organization",
+      "name": "MGCS",
+      "id": "Organization_46bbf1ed9047883ef7641ad916c63afab34eaf6c3017ad0dc0845095aabb2e7e"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe de la défense",
+      "id": "Theme_d488a2eb389ffd7a51db81916674d2c1c5302f5c6339f996ea167cdd961cb4e8"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Grande-Bretagne",
+      "id": "Country_01f8c19fe3ec039f49ac5d3312a1bdf3402aafbc92d573434c30d8340e48ca94"
+    },
+    {
+      "type": "Country",
+      "name": "Europe de l'Ouest",
+      "id": "Country_f655b73fec2533360053d26c3c0a5ed0a80d714e794152c09925273a8b89694b"
+    },
+    {
+      "type": "Theme",
+      "name": "principes",
+      "id": "Theme_97c5aa60bd71c598edaaf76fd6b884a4ae393b0774135332a05c72af7bc82042"
+    },
+    {
+      "type": "Theme",
+      "name": "lignes rouges",
+      "id": "Theme_a317c54f786641f13243252e653b691b222207186d610fa6601719a33eba5132"
+    },
+    {
+      "type": "Theme",
+      "name": "puissances",
+      "id": "Theme_da387b9ae19ddd153d02245abe008fd63161d44ffe0acde1095052df88e309d6"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "election",
+      "id": "Theme_e87526ca2e3a9a68c6a48a533c6dde6b42ac0c26884b757eb4090eab71cf70df"
+    },
+    {
+      "type": "Theme",
+      "name": "conflits gelés",
+      "id": "Theme_097a84784a1dbabee7e679bf102a25d341a094617a178226cfcc9d9fc80419a7"
+    },
+    {
+      "type": "Theme",
+      "name": "systèmes de défiance",
+      "id": "Theme_21b484eac42c001900008cee98c89752d54602fb7b42de03ffaa03cee8cc0204"
+    },
+    {
+      "type": "Theme",
+      "name": "conflictualité sur le cyber",
+      "id": "Theme_a6c8697c46e0650d3a29789a392c175e600ffc5e917321a32c091263b4697a35"
+    },
+    {
+      "type": "Theme",
+      "name": "sanctions",
+      "id": "Theme_cc609b67ce79c18e469b868785645e8ac15295942ba88c097a9620d856801064"
+    },
+    {
+      "type": "Person",
+      "name": "Zelensky",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "Person",
+      "name": "Poutine",
+      "id": "Person_cd18bc7f49bb7d64b17bcbd894d6a8752a9076a00deeefdb299e52309a31d8e5"
+    },
+    {
+      "type": "Person",
+      "name": "chancelière",
+      "id": "Person_7d2fcfcf22739da18ebd1f49e189f8526bb5823736ec50738825e69c09c7a889"
+    },
+    {
+      "type": "Country",
+      "name": "Normandie",
+      "id": "Country_202c4bb67de59d5a9af81e24953d397a0f19c17083672e07c383e1dd0ee14360"
+    },
+    {
+      "type": "Country",
+      "name": "Berlin",
+      "id": "Country_f09b7e90997e93ed6d6247cdc84143d23ededca85015d67b72f9185b5744ae1b"
+    },
+    {
+      "type": "Country",
+      "name": "Conseil de sécurité",
+      "id": "Country_d853359b69c2b74ada27facd44e117f497ca1714fcc7129c2242914d4f5f1763"
+    },
+    {
+      "type": "Law",
+      "name": "traité d'Aix-la-Chapelle",
+      "id": "Law_0e19c88257aeaa1212543e7d519eb7507789ed619e52497b44e56efd8a7f64b0"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "produit intérieur brut",
+      "id": "Theme_c0510488306fb98a1c86eb12e80f0c769e25d16d6f977d0fea3b5973301cba88"
+    },
+    {
+      "type": "Theme",
+      "name": "économie moyenne",
+      "id": "Theme_5d4c62bf8309d55e94e93d6bd9ca9c86426c07f50d40ca67a260df72cf0d9a08"
+    },
+    {
+      "type": "Theme",
+      "name": "crédibilité",
+      "id": "Theme_54614c8cd4a24192e52c3c7e6be0b6a027b9e193d7017b0c714ff3e9c1991da6"
+    },
+    {
+      "type": "Theme",
+      "name": "faiblesse",
+      "id": "Theme_cc08f6d537e7f00c3b7945cfa3bf684c3912f53da3c9492170ff3519ec0578c6"
+    },
+    {
+      "type": "Theme",
+      "name": "désaccords",
+      "id": "Theme_6aa7b04e0c05e71fe44af117846f5191f911c4cc915763a40ffa5860fe5853ef"
+    },
+    {
+      "type": "Theme",
+      "name": "rôle",
+      "id": "Theme_20c7bbfccbba692f8461652e95278ec0e9dcfe72f1bfdf4eace059032535b591"
+    },
+    {
+      "type": "Theme",
+      "name": "crises régionales",
+      "id": "Theme_d069fb7b9e19c912b791e84714cce227b73a071a7f9b862786a5763a9dcd59e0"
+    },
+    {
+      "type": "Theme",
+      "name": "Syrie",
+      "id": "Theme_9412bf159aa0ad8f020b6d123edf8a9ec6dbdde869bde3018871bf6585e95324"
+    },
+    {
+      "type": "Theme",
+      "name": "Libye",
+      "id": "Theme_cc607050f04c90b6a0210c3feaef635eb65f1fdd6651d753a9a5ffac7228fc19"
+    },
+    {
+      "type": "Theme",
+      "name": "sujets africains",
+      "id": "Theme_d9696d63d18e3bef38d739504c27c8ba1df685734cfc1da3e41591ef25ac90d2"
+    },
+    {
+      "type": "City",
+      "name": "Pologne",
+      "id": "City_60ea318c25836bfd2c4b33d97547bc88cf722b16aefbd6ac48b29b67416bcdc5"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds européen de défense",
+      "id": "Organization_aa692554becf825c1b986c02556f05c3884cad8407f221b6aeadfc225dc28581"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Country",
+      "name": "Finlande",
+      "id": "Country_07de2e54c1d716feb24d42a643c5de89dc1f04a79da8dcb0fd46d71f88bd7006"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité",
+      "id": "Organization_baa57920608812f1a905ee605e7e26f62ded68ec5607802bf97048747ea47f2f"
+    },
+    {
+      "type": "Theme",
+      "name": "légalité",
+      "id": "Theme_985d757024f33e06be32a7da5a7d020c813c69000c62dd34fd76be6fcca86c81"
+    },
+    {
+      "type": "Theme",
+      "name": "mutations du système médiatico-technologique",
+      "id": "Theme_4e31848fe4ede552c9f4d8c6bd6e2834e4410947c4efdb5c9df7a8a3618620e1"
+    },
+    {
+      "type": "Theme",
+      "name": "deep fake",
+      "id": "Theme_c2332d079df53595e999d3fb3388a98433c9ee229875c29513c73b342cb72566"
+    },
+    {
+      "type": "Theme",
+      "name": "anticorps",
+      "id": "Theme_3f3ce87e3d9385ab1848267d2a7a2de453d3db882d8c8a363b98ada384087027"
+    },
+    {
+      "type": "Theme",
+      "name": "systèmes démocratiques",
+      "id": "Theme_d1501edd55128914fb9e657a66f43eedcff53511aec20391dbcdb72e6ae924cc"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de conscience de la presse",
+      "id": "Theme_431e5e8bc24f63841e2a1ddeb6cf8e9b331c0c8083f56269cd68e18bfb38b10d"
+    },
+    {
+      "type": "Theme",
+      "name": "circulation de l'information",
+      "id": "Theme_177507bd92152cb6f007af8f7245173e4f336fda4f0ebe177bdce99967a09e77"
+    },
+    {
+      "type": "Theme",
+      "name": "déstabilisation",
+      "id": "Theme_ab7112e8da6c328b234234ef31deae9d7d80c095c311c928bbd80f066c9bef11"
+    },
+    {
+      "type": "Theme",
+      "name": "criminalité en ligne",
+      "id": "Theme_7f3454121f6d22af96ae095132fda30d353f482598b3cae3325443ca9045c26d"
+    },
+    {
+      "type": "Organization",
+      "name": "nos partenaires",
+      "id": "Organization_92f46688650eb6e6612d5555db91d7fd7afd39ce87b0ead417138d47ad1fb71d"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie chinoise",
+      "id": "Theme_c42a7f7bb449ed327af159b1e107eef08ca446252ab47fd289a83d2d6d9cc20c"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie américaine",
+      "id": "Theme_dd7a7abc7efc285de02a5102727771b79ce9be75a15c7c0fd2b4304123a311d7"
+    },
+    {
+      "type": "Country",
+      "name": "Macédoine du Nord",
+      "id": "Country_fb91200a1161735dd6d2574283f5a04cb7ff72db34387badb2946664d52f0583"
+    },
+    {
+      "type": "Country",
+      "name": "Albanie",
+      "id": "Country_7933b01c103ab008a5a551143eb5ed6e123541a3cac366f8229076928099e05d"
+    },
+    {
+      "type": "Theme",
+      "name": "règles de discussion sur l'élargissement",
+      "id": "Theme_9ce4c796555acc110e2539a1d576ee134a0b860616b47993b1355a0eb2961a54"
+    },
+    {
+      "type": "Theme",
+      "name": "discussion pour l'élargissement",
+      "id": "Theme_cf845291f68646dd7171b711a967f58c759c2363148a27fa465df782cc9819a1"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements dans un pays qui a ouvert les négociations et qui progresse",
+      "id": "Theme_0484ae46011c538ab5333dbb0d13c289998b77b5d08a93ab2e1ad65e2035f6c2"
+    },
+    {
+      "type": "Theme",
+      "name": "téléologique",
+      "id": "Theme_d2e12c24c35793911efe3ee89d851f3148ad97072e564bc13a4f46e65bd7336f"
+    },
+    {
+      "type": "Theme",
+      "name": "théologique",
+      "id": "Theme_cba335d712745413ed62d50a7e4fa1f7da144f6992a3a5c2e2b2a45eca86454e"
+    },
+    {
+      "type": "Country",
+      "name": "Serbie",
+      "id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b"
+    },
+    {
+      "type": "Person",
+      "name": "Vucic",
+      "id": "Person_6f3c3da24ac559af74538fad6aa368a5e718fc1b25dd27e44a1abfaffacc0749"
+    },
+    {
+      "type": "Theme",
+      "name": "hypocrisie collective",
+      "id": "Theme_63a042359744408ef67ad6bc286dfdc24f624434aa37ffded3ae9a2de2a0298c"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence",
+      "id": "Theme_5dd492310229e6422561fb6ee7825d44da04ee46fef898be05f57442adb06a51"
+    },
+    {
+      "type": "Theme",
+      "name": "politique étrangère européenne commune",
+      "id": "Theme_a16a5317af7174c17eb2460007f040026d52db2fa87ce7edebadf1167fc296a2"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Person",
+      "name": "Merkel",
+      "id": "Person_11ad4e67ef3a2e4b330ebc39970509630c2fce5702d04790e6328b02bf6b451d"
+    },
+    {
+      "type": "Person",
+      "name": "Umberto Eco",
+      "id": "Person_363231d34d9e220e429b40a226e3574d86c704f7d1355f57fbf4d79b770ec8ee"
+    },
+    {
+      "type": "Theme",
+      "name": "plurilinguisme",
+      "id": "Theme_6bd9e731b6b6c196182120fc563cc86f30c516ea997b1584d98f12d81eb4e73c"
+    },
+    {
+      "type": "Theme",
+      "name": "hégémonie",
+      "id": "Theme_57c11ef80057a84fd995626118ac010a2970c0b0b8280613a50e626e0862ae48"
+    },
+    {
+      "type": "Theme",
+      "name": "dette",
+      "id": "Theme_070cb48b73787684ff56be5de37c3feabdc52a4c87883769b454e502f3f2e5b5"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "pays souverains",
+      "evidence": "Et donc je vois cette Europe, selon les choix d'ailleurs des pays souverains, à plusieurs cercles",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_158888f19bfc59ba7b55905e9edc7046b3ad4d9e81b31192a0a343db19107b98"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "l'Europe sur les trente prochaines années",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Europe",
+      "relation": "ALLIED_WITH",
+      "target": "Europe",
+      "evidence": "une reconsidération de la relation avec l'Europe",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Monnaie unique de plusieurs États membres de l'Union européenne qui forment la zone euro",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "zone euro",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "Monnaie unique de plusieurs États membres de l'Union européenne qui forment la zone euro",
+      "confidence": 1.0,
+      "source_id": "Organization_2f6a079aced661f0f4634969da31afaf96d2da3c7a204087ef923b740e9a6b97",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "source": "Europe",
+      "relation": "SUPPORTS",
+      "target": "Europe",
+      "evidence": "une Europe qui aura su bâtir les termes de sa souveraineté sur ces grands sujets, d'une plus grande unité, d'une plus grande vitalité démocratique et qui saura aussi retrouver un certain goût pour l'avenir",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Europe",
+      "relation": "SUPPORTS",
+      "target": "Russie",
+      "evidence": "La politique avec la Russie doit être une politique européenne, elle ne peut pas être simplement une politique transatlantique",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "source": "Wolfgang Ischinger",
+      "relation": "MEMBER_OF",
+      "target": "Conférence",
+      "evidence": "Intervention de M. Wolfgang Ischinger, président de la Conférence",
+      "confidence": 1.0,
+      "source_id": "Person_108d582a8686c1c5a82669b0a69d2b966d3448e4bd468edfaebbaf56eba48733",
+      "target_id": "Organization_21ed5472547eb62919aad41ad19a945317d59b6e6b4ce67395affaf835d1b9e5"
+    },
+    {
+      "source": "OTAN",
+      "relation": "ALLIED_WITH",
+      "target": "OTAN",
+      "evidence": "l'OTAN et l'Europe de la défense. Ce n'est pas une alternative, mais c'est la conséquence logique de la situation que nous avons vu ces dernières années.",
+      "confidence": 1.0,
+      "source_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0",
+      "target_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Europe de la défense",
+      "evidence": "la France croit à une Europe de la défense",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_d488a2eb389ffd7a51db81916674d2c1c5302f5c6339f996ea167cdd961cb4e8"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "OTAN",
+      "evidence": "la France contribue dans le cadre de l'OTAN, en matière nucléaire",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "source": "Allemagne",
+      "relation": "MENTIONS",
+      "target": "nucléaire",
+      "evidence": "l'Allemagne a su avoir un débat sur le nucléaire",
+      "confidence": 1.0,
+      "source_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6",
+      "target_id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "sanctions",
+      "evidence": "nos sanctions et les contre-sanctions nous coûtent au moins aussi cher que les Russes si ce n'est plus, à nous Européens",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_cc609b67ce79c18e469b868785645e8ac15295942ba88c097a9620d856801064"
+    },
+    {
+      "source": "Russie",
+      "relation": "MEMBER_OF",
+      "target": "Conseil de sécurité",
+      "evidence": "La Russie est un membre permanent du Conseil de sécurité",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Organization_baa57920608812f1a905ee605e7e26f62ded68ec5607802bf97048747ea47f2f"
+    },
+    {
+      "source": "Pologne",
+      "relation": "VISITED",
+      "target": "Pologne",
+      "evidence": "Je l'ai dit en Pologne : moi, je ne suis pas pro-russe, je ne suis pas non plus anti-russe, je suis pro-européen.",
+      "confidence": 1.0,
+      "source_id": "City_60ea318c25836bfd2c4b33d97547bc88cf722b16aefbd6ac48b29b67416bcdc5",
+      "target_id": "City_60ea318c25836bfd2c4b33d97547bc88cf722b16aefbd6ac48b29b67416bcdc5"
+    },
+    {
+      "source": "Conférence",
+      "relation": "MEMBER_OF",
+      "target": "M. Wolfgang Ischinger",
+      "evidence": "Intervention de M. Wolfgang Ischinger, président de la Conférence",
+      "confidence": 1.0,
+      "source_id": "Organization_21ed5472547eb62919aad41ad19a945317d59b6e6b4ce67395affaf835d1b9e5",
+      "target_id": "Person_30204dc11394e35def2c119acd7257b996a0e8bd86535697333a1780bcb73c98"
+    },
+    {
+      "source": "M. Wolfgang Ischinger",
+      "relation": "MEMBER_OF",
+      "target": "Conférence",
+      "evidence": "Intervention de M. Wolfgang Ischinger, président de la Conférence",
+      "confidence": 1.0,
+      "source_id": "Person_30204dc11394e35def2c119acd7257b996a0e8bd86535697333a1780bcb73c98",
+      "target_id": "Organization_21ed5472547eb62919aad41ad19a945317d59b6e6b4ce67395affaf835d1b9e5"
+    },
+    {
+      "source": "Vucic",
+      "relation": "SUPPORTS",
+      "target": "Serbie",
+      "evidence": "Allez aujourd'hui en Serbie, le président Vucic fait un formidable travail et c'est un dirigeant pour qui j'ai beaucoup de respect et il a beaucoup de leadership dans son pays.",
+      "confidence": 1.0,
+      "source_id": "Person_6f3c3da24ac559af74538fad6aa368a5e718fc1b25dd27e44a1abfaffacc0749",
+      "target_id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b"
+    }
+  ]
+}

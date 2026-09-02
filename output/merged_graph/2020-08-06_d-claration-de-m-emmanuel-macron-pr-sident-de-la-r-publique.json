@@ -1,0 +1,130 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "défis",
+      "id": "Theme_5a6aef98f24c26e747d7ee3628cc4cefe7a02e552336681ab6dcd972be5b12a5"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions",
+      "id": "Theme_18664bd237fcedb75da4a7e7984e1f0da956288dfd4e0aa5b7933dc5c243b257"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue de vérité",
+      "id": "Theme_54b535f5cfbcca003baa6fbf96815ca25fd08cf582d718f3f7f2b0b081ef6bf9"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Beyrouth",
+      "id": "City_280b6ea335965e79e491c845075dc6e63bb6a6dea253e0a2298779065c28a11e"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération européenne",
+      "id": "Theme_bbf325248bdb8ab51adedfa248ddc2abc2c4cdc1a83b204d815f65c09534d43d"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération internationale",
+      "id": "Theme_f1c50b725549c07d125f90bd43162db61122bbdc0b4302fc683cdd91bd964215"
+    },
+    {
+      "type": "Person",
+      "name": "le président de la République",
+      "id": "Person_3a23c0261e50cfcafeab3872d343a5f3fae86dee0bce4035dc7c00a5c001708f"
+    },
+    {
+      "type": "Person",
+      "name": "le premier ministre",
+      "id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "type": "Country",
+      "name": "le Liban",
+      "id": "Country_425ff4bcee800b2f1f62a96ed0220611cd81a68670a819dccabdb00437373f30"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "aide",
+      "id": "Theme_eef9a924d4a046745a3ec143a931431faf63993ce4a9af79df7ceb8aa49f0ec0"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien",
+      "id": "Theme_4dfac92dac64c205c1c0e703283d4ba045cb9535e4f0c0a54df8ba969e6e1575"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "marchés publics",
+      "id": "Theme_466272421287eaa7c0c7ea804903b05498a177185093080ee24419e3a6b4bb55"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la corruption",
+      "id": "Theme_0963572c55ffc2e8acb743ba6d8d5a15fc12f225111a3f11f5c025ebdcfc50fd"
+    },
+    {
+      "type": "City",
+      "name": "Résidence des Pins",
+      "id": "City_b52ebb8fb76a06b3b851052b421a1c79df14c6e4d186f64f3bcc9fc1fd10431e"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Liban",
+      "evidence": "c'est le Liban, parce que c'est la France",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    }
+  ]
+}

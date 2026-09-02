@@ -1,0 +1,2030 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Président du Congrès",
+      "id": "Person_8e5f1c4cf8d34a80cb78cb9aaeac8721efa123507d172259ed3f8390d16e1f8c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président du Sénat",
+      "id": "Person_7e68447f1fff5598debf68f88e590723f4177208acb10cd696ea6f7e3498c1e1"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Membres du Gouvernement",
+      "id": "Person_b0c82e775ca921fdb6bffbfe38b2ce9e8d919640585f2d3caa7296555c09da61"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Députés",
+      "id": "Person_870263315d8653f47b8d94234219b763ac0df091b6fdad9e12220c6ce7961825"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Sénateurs",
+      "id": "Person_b736e95d9b191cf5e23b789d31786cdb97098efc8e7ccf127e1a2e5c1ec3866b"
+    },
+    {
+      "type": "Theme",
+      "name": "déclassement",
+      "id": "Theme_a2e12abbbac03ce9ac823f4b39928a5d2b43415d568849830e28854e093741df"
+    },
+    {
+      "type": "Theme",
+      "name": "impuissance publique",
+      "id": "Theme_48a35995dcafe10b031e23ea60c39dfc6a0772810aec2ef70d39b18948b5f668"
+    },
+    {
+      "type": "Theme",
+      "name": "discours de soi-disant puissants",
+      "id": "Theme_fc4d1b47d10a80fab08863c8a607a6f29a5f5ae430a4c14bc5941afc0cb94f86"
+    },
+    {
+      "type": "Theme",
+      "name": "humilité",
+      "id": "Theme_1f533297e3d3c61ce159bbf9cbd3fe9dcc2068121ee47dca573ec1423280f2dd"
+    },
+    {
+      "type": "Theme",
+      "name": "doute",
+      "id": "Theme_b3b081dbd3be26ce4dc38c383e7ab13b57b7b7f96babca1610e79249d756d92b"
+    },
+    {
+      "type": "Theme",
+      "name": "mission",
+      "id": "Theme_ccdd4dbdd0b77e3998dd06aa95f6adbd98c258e86ae158425d21f328328b4951"
+    },
+    {
+      "type": "Theme",
+      "name": "devoir",
+      "id": "Theme_6e292e98f50e3e850a47789cf53027b698a287df6c8abcf7e9b5bbd3cf317de6"
+    },
+    {
+      "type": "Theme",
+      "name": "colère",
+      "id": "Theme_4e30994df9e9eac88bc1882bf63418ce377af79a6f9e3df68de8115525b914eb"
+    },
+    {
+      "type": "Theme",
+      "name": "peur",
+      "id": "Theme_738708750471a3b2e2ee4af7e7441623b0486e69c4ecf7d601645e10149e55db"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques",
+      "id": "Theme_ba19f95cfce8651b7911006a78fd0bb6aabbd2835fa43c9b908e59faca1f07ca"
+    },
+    {
+      "type": "Theme",
+      "name": "blocages",
+      "id": "Theme_d8e8260fbc85f85013261170f9b10cea11bb262ab25c31850a4c32402f546506"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "scandale du tirage au sort à l'université",
+      "id": "Theme_1a0c9da80c5e86c589db8140e220d759c10b301884a485b2623745d62f2d5975"
+    },
+    {
+      "type": "Theme",
+      "name": "école",
+      "id": "Theme_e4023600e045c977a775d339830e8508634d36394f9b8486f09d01cdd3b05e6b"
+    },
+    {
+      "type": "Theme",
+      "name": "transmission",
+      "id": "Theme_5f3b7befdd4615ff5f6f2392f77484bd002f10d099d2c30e336f50361b9fc447"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme",
+      "id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "type": "Theme",
+      "name": "état d'urgence",
+      "id": "Theme_8a1b20d0a7e22c6834602eec7167a59ca5408106918f9595871b33263eb2760e"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "budget",
+      "id": "Theme_476c75e33f21fc15bc5588b5d07c657897da27f908716f5af56abf04963f337c"
+    },
+    {
+      "type": "Theme",
+      "name": "militaires",
+      "id": "Theme_0c756a5991b7169a697228d428598d7616da077324aca9584933329c0d6c8c1c"
+    },
+    {
+      "type": "Theme",
+      "name": "marché du travail",
+      "id": "Theme_f5e9bbfaff78ce38af872761ee060706073cabea11bd7bb0715da817d3545a3b"
+    },
+    {
+      "type": "Theme",
+      "name": "service public du transport",
+      "id": "Theme_b0fae8b484d623897698321defa7e1690d535d0a33c19d042d4875bce4a8ad87"
+    },
+    {
+      "type": "Theme",
+      "name": "SNCF",
+      "id": "Theme_f46b780a767450478a55f54ac9051d4449a941bd86f39d72f71cc6ce9ce21bd3"
+    },
+    {
+      "type": "Theme",
+      "name": "formation professionnelle",
+      "id": "Theme_d846003645ad5e5e511208f664265ae5edc2a1f2c5d843f3ff4622d434eb6c71"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "logement",
+      "id": "Theme_5482b77c02cb27b743d7ba44022361e1f99e9ac6c8c98c177add71ee6c65ef55"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "chantier institutionnel",
+      "id": "Theme_c9dd0fb41a74fbd59b154f6062c757bdad308b3d29b60ca908125fc5c89ddd89"
+    },
+    {
+      "type": "Theme",
+      "name": "Liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Person",
+      "name": "Edouard PHILIPPE",
+      "id": "Person_eee3db1b9dc22c9e1de6f90e00c02ebfd810f3c94392c588dbce10d535fca9d6"
+    },
+    {
+      "type": "Law",
+      "name": "projet de loi constitutionnelle",
+      "id": "Law_c42553bb0daec73e741f72b8c189c37aeee7cb68b0edfeba967dec69799bee8e"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Country",
+      "name": "Nations unies",
+      "id": "Country_de27ef02ae2f885df42f17298e258623101c6c37feb12bb5fe5c02d0f56327a3"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibre",
+      "id": "Theme_ede0979eeee4eba930de1ebb03996586b198a6fc0509b20fb3e9a71e3c756919"
+    },
+    {
+      "type": "Theme",
+      "name": "droits humains",
+      "id": "Theme_16ed3695cc76ed7471225903673086d1563ce5d9b005ae616133d4c3464f5712"
+    },
+    {
+      "type": "Theme",
+      "name": "déclassement économique",
+      "id": "Theme_cc04937d53a6f46983db61031778a6096c7d096fa2889f2dfaa302f116d56a35"
+    },
+    {
+      "type": "Theme",
+      "name": "peur culturelle",
+      "id": "Theme_3473b89efdb5e77f291e70c430a80aa237ae6ff72f41bb393d89ea4013a1ffcf"
+    },
+    {
+      "type": "Theme",
+      "name": "économie solide",
+      "id": "Theme_6a8000e20d9d7402deff5b7c279292a6ca62756d0fd1a6c2a342e86545187c01"
+    },
+    {
+      "type": "Theme",
+      "name": "économie forte",
+      "id": "Theme_7c2ed7964047c65697f48647f23479437e7c7d41230f7f330cbbf0f9abc10d15"
+    },
+    {
+      "type": "Theme",
+      "name": "taxation des produits de l'épargne",
+      "id": "Theme_7e5c661a4a0909e3ddc154d185dd73d491d3e02ff969bb020a762d83f6471365"
+    },
+    {
+      "type": "Theme",
+      "name": "impôt sur la fortune",
+      "id": "Theme_6105febdd4307ade59c1c98f497e82ac408081c476f28ff62e64c37bd84dcdfd"
+    },
+    {
+      "type": "Theme",
+      "name": "politique pour les entreprises",
+      "id": "Theme_d10833f624f5f6be6c07bc95c172048d8cf6ff7575444d2d5670a2f541e60dec"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "services publics",
+      "id": "Theme_9d23f2423869f33761b54988a51c02bcaaec512697b3c1f29a8001cba8569472"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle économique",
+      "id": "Theme_80418596f24a7e18a9d08e45ff80642084d95eab1f2a40ec0319281afd03dc7a"
+    },
+    {
+      "type": "Theme",
+      "name": "plan d'investissement",
+      "id": "Theme_7ad869b784afce0ffa6a94119832fe04de2f0bcb09767ba1b9ae431a9e8b9115"
+    },
+    {
+      "type": "Theme",
+      "name": "épargne des Français",
+      "id": "Theme_6d3ea586fefb44bdb7da15ebe19221082cc4809b7d73b4f71822b861a5a39dbe"
+    },
+    {
+      "type": "Theme",
+      "name": "capital des sociétés françaises",
+      "id": "Theme_9b6b748656412f9c23f1a24b510dadeadb0a8ee674e72159ee1b3a559587c951"
+    },
+    {
+      "type": "Theme",
+      "name": "capitalisme populaire",
+      "id": "Theme_b17b782f52e7e5ace336b8a24a4ba69828a7896150ae289d7cd1c350c7084e22"
+    },
+    {
+      "type": "Theme",
+      "name": "participation",
+      "id": "Theme_85fdf3848efe4d99bf43da0a3ed4f17f1c826db205e8527369171dc754bcf21a"
+    },
+    {
+      "type": "Theme",
+      "name": "intéressement",
+      "id": "Theme_91231995eed00be0b60eae66fb9aa7451485ddf04ce8583ce37044cc4f8f1c14"
+    },
+    {
+      "type": "Theme",
+      "name": "castes",
+      "id": "Theme_30d290c5b2adb678551243ea102a3066f8b8b818b41bca5f59d86663bf2c51ae"
+    },
+    {
+      "type": "Theme",
+      "name": "rentes",
+      "id": "Theme_80fd8985a5691777fbec44a93877eb238192651ac0ef1d6e03a15716f41eb26c"
+    },
+    {
+      "type": "Theme",
+      "name": "privilèges",
+      "id": "Theme_37419c938c1880f255daf5d42eb3c346f351ef8af177fc6055e35a52d876aec9"
+    },
+    {
+      "type": "Theme",
+      "name": "réussites",
+      "id": "Theme_9c387870988e13840a9cc92f0d03c3da083fccaa159d64f899d205d2ef570f61"
+    },
+    {
+      "type": "Theme",
+      "name": "enrichissement pécuniaire",
+      "id": "Theme_9ce9152ce04efaf649259abc7be0dd86ee2571f9bc06e7f7edbb39d497e4c448"
+    },
+    {
+      "type": "Theme",
+      "name": "richesse",
+      "id": "Theme_ebc8abe7c633e7ee08027166a01273668d756f2c85fd37ecd47f23f726532022"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "équité",
+      "id": "Theme_28391c28c6a49398e573138b23af11aa006467af4435d0dd33e93d38e865a874"
+    },
+    {
+      "type": "Theme",
+      "name": "partager le gâteau",
+      "id": "Theme_48b8a1931b67db01c6adc4383467668ebd00f88a01a2bca3b57c81e3f2e89700"
+    },
+    {
+      "type": "Theme",
+      "name": "gâteau",
+      "id": "Theme_d90e94738eab70ff8307440eae7edfeac9f15b4645a8ce0b565f1f6f3db8ece2"
+    },
+    {
+      "type": "Theme",
+      "name": "actionnaires",
+      "id": "Theme_6a1c735845a49ca855a0b69cd7c10e3e327b83626dc0ea069165c48cb4a67f82"
+    },
+    {
+      "type": "Theme",
+      "name": "dirigeants",
+      "id": "Theme_927e3da009504678c8a05ad8e8c4354ff2bcd6463af1c7c66414c48a057deb48"
+    },
+    {
+      "type": "Theme",
+      "name": "travailleurs",
+      "id": "Theme_874e3fed642323c857c341dea5c2fbdf29315ba3ac8f80e1c0eddb1a5e844f77"
+    },
+    {
+      "type": "Theme",
+      "name": "producteurs",
+      "id": "Theme_4f2c37690bc04864304c8ff8b297ae290a8029c5df7b003f113ec01413f7562d"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscalité",
+      "id": "Theme_8f3af7311a6bcfd253a580ecacd3fb0434ee40de042b8221f99b1b400f0a3b76"
+    },
+    {
+      "type": "Country",
+      "name": "Luxembourg",
+      "id": "Country_88797ed5e26a1c6d46b1adb12833226b925f1283df47dafab01291d972c4c769"
+    },
+    {
+      "type": "Country",
+      "name": "Suisse",
+      "id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "type": "Country",
+      "name": "Caïmans",
+      "id": "Country_81a3b2e3632332d750cb38dfb2da5956eb652096379d9f26fa1fb1fe3adc5980"
+    },
+    {
+      "type": "Theme",
+      "name": "libérer l'investissement",
+      "id": "Theme_9f011c20d159fdd61012ae4df130d19bc083430255632803a55ccebfece10417"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscalité adaptée, compétitive",
+      "id": "Theme_247e23b53721beb5acdea47c3f276fa55249de654f00d37a9cfd0b0cfae15ba0"
+    },
+    {
+      "type": "Theme",
+      "name": "investisseurs étrangers",
+      "id": "Theme_dfd14d24bc825fb2a571711f20b216753df34e0df2d4b925c18e5533c6386ea4"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre",
+      "id": "Theme_244f853f7768b172bfa360b452830e952b38961f6c116ca930bd4c844fe28eff"
+    },
+    {
+      "type": "Theme",
+      "name": "initiative",
+      "id": "Theme_de30b556c83148d7da8a2b461685f8903286a2dfdf747461e7333bba67da048b"
+    },
+    {
+      "type": "Theme",
+      "name": "règles nouvelles",
+      "id": "Theme_e9a91de99651a5b1780aad1f6c0a4b7a0a2dfa3830b74a48929e81e8c9654d4a"
+    },
+    {
+      "type": "Theme",
+      "name": "baisse de la fiscalité",
+      "id": "Theme_4928a610ed3f803957ad5683802cf08e248b4f62e9d48b1a8a51da84643e5398"
+    },
+    {
+      "type": "Theme",
+      "name": "développement de l'investissement public",
+      "id": "Theme_9de297a0610fd6179bf1502a9137e1f215f89ee9e575ca34a28f9f8d10f2ba08"
+    },
+    {
+      "type": "Theme",
+      "name": "choix forts et courageux",
+      "id": "Theme_12f2abf64610a4f28923be24ef6e83a691cc1955f95128c6855c93f8fcedf9ad"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Etat",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Theme",
+      "name": "baisse des impôts",
+      "id": "Theme_2e57621ab074c2babf366e299c02309c66e7345c8f5955f0341a1d838d2da6fe"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction des déficits publics",
+      "id": "Theme_5970f767e3b33163a66bcc7a72e36a018f2c69cfd746df4eec00d3299f580b9b"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes fiscales",
+      "id": "Theme_60cdb5bc1afca29ece110e0d4fa97309bc5c373fff08729fdaf47fcf5e11a772"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance des entreprises",
+      "id": "Theme_42bd0f163e127310964f937f36f644bede10871c141d641f68d60c412dc00e8b"
+    },
+    {
+      "type": "Theme",
+      "name": "loi Pacte",
+      "id": "Theme_b3b6b37c47fb9ffa5a8ad8b2db4485f1c1773dfd6ca7b2a7deab267147f4c747"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "économie de demain",
+      "id": "Theme_faff5241a4b53aed780373233bbf728903fefa92c19c84028f9200a4a7008e8e"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie nationale",
+      "id": "Theme_50832c5349d9d03770ce6df76fe8e823438f97bfbe7c2a35f9d0125ba549866f"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "créations d'emplois",
+      "id": "Theme_0d84d80e25aee33b0a6cbe3cf84e9dcba79f89e96d2cbeb19c60e94613fd9d4d"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveaux métiers",
+      "id": "Theme_75cbfec0cea6e6337c4a7f881a7df8b0456d9d2f131724a1ad47d90102efb970"
+    },
+    {
+      "type": "Theme",
+      "name": "principes éthiques",
+      "id": "Theme_28fdf8a04340ae7042b5a6006b2f135fe64320c68e8509ca506b885b18d850bb"
+    },
+    {
+      "type": "Organization",
+      "name": "grands groupes étrangers",
+      "id": "Organization_930cbd8fd38af93d116fb0c897c6765e27e00a2a309340c7dee2302f2973fa6b"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "géants du numérique",
+      "id": "Organization_48520d231f4c17e5e51df74ed09b8d08969bc44cf3b5fd37677c24af352d60f4"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté alimentaire",
+      "id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence",
+      "id": "Theme_00b20302d5f64b56a882fa76ac635bfb2d5b859939516a451a03216995d89940"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "bien-être",
+      "id": "Theme_9fd29c576d10d80e812430eb0b481c700cc034e122056a439fc86b261f347533"
+    },
+    {
+      "type": "Theme",
+      "name": "territoires",
+      "id": "Theme_66de4f396b7cd7f12f716e7146777cfaec081e489f77ec12af0287dcfb14bf40"
+    },
+    {
+      "type": "Law",
+      "name": "loi mettant fin à la recherche et à l'exploitation d'hydrocarbures en France",
+      "id": "Law_a97dacaec53b4e20d7df7b4639b3e0918090f41e742b5f25b449c310bc79182f"
+    },
+    {
+      "type": "Theme",
+      "name": "utilisation du glyphosate",
+      "id": "Theme_d60d9edc31b0384bf1d07ddf403e9c88d7803da9d6654a12721f1ef7dea02bae"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle français",
+      "id": "Theme_0d3df02cd334d3c2b7591afc6b2dc4a0c2077c25f0583a1e1a515af6d2552441"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle social",
+      "id": "Theme_84e716fb96d816e1a7cec10303220f68a6aaf5c7e5b53934555aa33e88fc517d"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités de destin",
+      "id": "Theme_952f7cf0fdc353e647b57cb732cb1b2c39970a57759dcdfe207f26c9c94cc129"
+    },
+    {
+      "type": "Theme",
+      "name": "talents",
+      "id": "Theme_3b7a6c56442c49486f7601fa3bced61cced2f4aadaf5f134fda32ff8e738503d"
+    },
+    {
+      "type": "Theme",
+      "name": "effort",
+      "id": "Theme_bbc0483f0da6a6341360b086154415ab379cb11db967c512d7d0a53a7ca2e016"
+    },
+    {
+      "type": "Theme",
+      "name": "mérite",
+      "id": "Theme_3d393f153734585dc0f11a629fab7f6d2a8c5c0aea0a8cfc412dc946e49aecc5"
+    },
+    {
+      "type": "Theme",
+      "name": "émancipation de chacun",
+      "id": "Theme_8af961825337cb12aa5b61164b09733ede4cfee28724ee2018fe9a82168de996"
+    },
+    {
+      "type": "Theme",
+      "name": "politique sociale",
+      "id": "Theme_92347f6162dfa4d47aeb8d7946491ae5df51edd3e3581c13390550290dbc7924"
+    },
+    {
+      "type": "Theme",
+      "name": "politique de l'émancipation",
+      "id": "Theme_31eade0ee1c2ee31f3d7f9f88c6538965ff1c85033d0bfab83fe5652af1e9959"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "justice sociale",
+      "id": "Theme_16246dbe3ca0ed4236e5c329e66d245294225d55aa4b83a70118af87947fda7a"
+    },
+    {
+      "type": "Theme",
+      "name": "orientation",
+      "id": "Theme_74039395f94b06baaf3782d15df5ce6738621f26f63d04c0fc5af90d91a6c498"
+    },
+    {
+      "type": "Theme",
+      "name": "baccalauréat",
+      "id": "Theme_a85ebca50c789018d33ab41a94b09fb29f263c787acb24e2aa09b4b9d870a244"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyenneté émancipée",
+      "id": "Theme_d0fa5cb14458c8831334a7abba204831d6aec704b531cbe889245927666cd4a5"
+    },
+    {
+      "type": "Theme",
+      "name": "idéal français des Lumières",
+      "id": "Theme_b8ed145e6fdbcc2f6fa40e20e4886fe97be3ff825822b0363b43b02234eb2159"
+    },
+    {
+      "type": "Theme",
+      "name": "émancipation",
+      "id": "Theme_f065c4ae0b5f92b698169ed43af465c75aa8cc1a41199ad1c664e2181d37ea78"
+    },
+    {
+      "type": "Theme",
+      "name": "insertion dans l'emploi",
+      "id": "Theme_588e13e35f90b528041f53c95a5aeb1d1a4506b869f9da92ae2c288ab3010eba"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité sociale",
+      "id": "Theme_a71823c8e996f3be4acae99f33c90e3cfc5cf4086aa0aa3483e464e25afcd124"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage de la jeunesse",
+      "id": "Theme_093ab374bab187b6463968a85ec9b450c0a521682c60923bdcd714c0781d6b6c"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "filières professionnelles et technologiques",
+      "id": "Theme_a605bc24384d2e1a4ff79c5efeafddab1d013f9d17448655e3a4e4e0a0e2911b"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement dans les compétences",
+      "id": "Theme_6290209207973c103c35f381e8fa78935d4e58cdacf40b6b2562b5f321ab859a"
+    },
+    {
+      "type": "Theme",
+      "name": "émancipation par le travail",
+      "id": "Theme_ed1f641dd4099f6f67c86d0c09a80280e767e765a649bf88ce8e45468701bc5a"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "Assurance Chômage",
+      "id": "Theme_041e5fd2a41ca852fdd42f9b2fcdbd8c70a98c307e95ddc73446940aba53f44c"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès économique",
+      "id": "Theme_fdeea86e9d620f52ebb90d134b6e7cc4436b9857d32d4b2f4cf0fda2b1f3ac6e"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès social",
+      "id": "Theme_2f7553bdf9b7dad3dd8acbe2b7a2aa2ec68183e2026bae8c0a998d173dec0017"
+    },
+    {
+      "type": "Law",
+      "name": "projet de loi avenir professionnel",
+      "id": "Law_1096f184c4cb7cbdbcf402d89e358e5b7cdecd64c9654a591c0fa7f566c76fec"
+    },
+    {
+      "type": "Person",
+      "name": "le Premier ministre",
+      "id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "type": "Theme",
+      "name": "République contractuelle",
+      "id": "Theme_7902240044bacae6f734f7708ce34c91d034e13702b44499dc8f67b8db1e5983"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveau contrat social",
+      "id": "Theme_2a7e701a49faadc7127ba91a607a63d1a7f30edc29e36bf17e5bd0c10cab262d"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité femmes-hommes",
+      "id": "Theme_b1412bfc5fe321352e19c1089b6777bc07a0d41d11ab4e4379792d47c6d6ee06"
+    },
+    {
+      "type": "Theme",
+      "name": "santé au travail",
+      "id": "Theme_90e3f612f53adda2fff616863ea6730166884a3bb8db37341ad63f7a11120b69"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance durable",
+      "id": "Theme_85ceea8afa74ea0d9dba64c15f162a35e765f916671c618ec4100c37c5f965c1"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance partagée",
+      "id": "Theme_763b54ebe7c02d3b5353ff02877ddf0577fc63f5305567b37b4dc66b4fecda89"
+    },
+    {
+      "type": "Organization",
+      "name": "100 premières entreprises françaises",
+      "id": "Organization_2760376524b307ae0630db11a3471dfa2f75e7535bcdbad34d6f7eb017b01daa"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes territoriales",
+      "id": "Theme_dfac66bea435ec6fcbdb519726a87c5453bfd9551a167eeb8227803e45bc398b"
+    },
+    {
+      "type": "Theme",
+      "name": "politique territoriale",
+      "id": "Theme_7afa9f709acba29fdcd5814e353047b4d21dffb9ed9f1bc6be8ae3a397e762cf"
+    },
+    {
+      "type": "Theme",
+      "name": "décentralisation",
+      "id": "Theme_8cdbeea2048deb633c4b678480b824c211c9c3809c1c56bd2de057c9fda69508"
+    },
+    {
+      "type": "Theme",
+      "name": "rééquilibrage des territoires",
+      "id": "Theme_2f92dcf3c5568d7ed278fb6311eb907b34dd179fef05411fe4b7d8dc8ea91bf0"
+    },
+    {
+      "type": "Theme",
+      "name": "installation d'activités économiques",
+      "id": "Theme_ffa30ec6fe57e3c0b3bf03b38dea2cc99651fb957240218335809550bba0d430"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement des services de l'Etat",
+      "id": "Theme_66c3e6851f2536ea7d737b125162dd2c4d76e0546d31a88e9eddef449f40db24"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité",
+      "id": "Theme_c0c7ac09de675363c9d53f15a566349ed64362b25c3d655fbb35e7325ae1bbf8"
+    },
+    {
+      "type": "Theme",
+      "name": "société",
+      "id": "Theme_23d952489b07041be7b06f706f86ec7cfc55af055e1b2e2f815671e6fa2ef5ed"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité",
+      "id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité nationale",
+      "id": "Theme_4f1b80e4bf99097256687568dcb68b221fb0eadb91c3bb0597db899daa266e2d"
+    },
+    {
+      "type": "Theme",
+      "name": "Sécurité sociale",
+      "id": "Theme_6bc8554cb5a6e887e61ca01ff0eb8003fb0972afe2162ba6703c5d3e2fe48648"
+    },
+    {
+      "type": "Theme",
+      "name": "soins",
+      "id": "Theme_9590d039f0ee71396459da676ffc492546b4ce5d319260d29824a802f94c7248"
+    },
+    {
+      "type": "Theme",
+      "name": "angoisses",
+      "id": "Theme_2208d9598d9f2fc7988ef5169fa21478a526db13373b43e8491a60d44feb786a"
+    },
+    {
+      "type": "Theme",
+      "name": "perte d'autonomie",
+      "id": "Theme_5df9c97bfcef664fd7fd648dc33f9f623f60083f9273919609475e7adde5df0b"
+    },
+    {
+      "type": "Theme",
+      "name": "retraites",
+      "id": "Theme_3af91d5fbe538fb5e115cb46f6b82bdfecc19d4df88acc9d5b39949b912f4ccb"
+    },
+    {
+      "type": "Theme",
+      "name": "État Providence",
+      "id": "Theme_45c70f9c669375e99cd7682164f150a7264ed1cf4087fa52307b690433da33c4"
+    },
+    {
+      "type": "Theme",
+      "name": "économie de l'innovation et de la compétence",
+      "id": "Theme_7bc23fad2a8075a1f4e77dba14343a537b4718a52c7c13c3f26643049ed2650b"
+    },
+    {
+      "type": "Theme",
+      "name": "Régime de retraite",
+      "id": "Theme_50f47bc191c3c0aea6620dd817e7953158fd699de7b6b9d6aada27ca61718219"
+    },
+    {
+      "type": "Theme",
+      "name": "Pensions de réversion",
+      "id": "Theme_07c6a48e3daa68f3601838a48cf92ad4991495f9de0459c9517a5fab3c093e14"
+    },
+    {
+      "type": "Theme",
+      "name": "Système de retraite",
+      "id": "Theme_1dabb9e207d4d8ad771de26af11fe6558e6491e7ba6e6017a12a8e6e76995126"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité entre générations",
+      "id": "Theme_f2b3a93f0276cf33662c96b786d93b4bdf62b0608891ce49cbb54796109b07fc"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation de soins sur le territoire national",
+      "id": "Theme_6029cc8aee8d3b2b52c155f9158fd949ec1e36ef13d67bfb2ed6e2475fe63d99"
+    },
+    {
+      "type": "Theme",
+      "name": "Plus civique et responsabilisant",
+      "id": "Theme_96c7cc2e654699517503773caabbafa58ad44de984e960e3d5e3112d18fb79a4"
+    },
+    {
+      "type": "Theme",
+      "name": "cotisation salariale",
+      "id": "Theme_20b2a1f06f0b08c7e237509ebf14afda498c015a0dc721a9034140df80b535d0"
+    },
+    {
+      "type": "Theme",
+      "name": "CSG",
+      "id": "Theme_24af8a203d480e9b6e84fcbdcedaf70661369200dca0f10f81f1c1448f062daa"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir d'achat",
+      "id": "Theme_63effc12fc7fbc533757050c1218d45395229580f9c3bfcec7f32cb9090cc9f2"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "droits",
+      "id": "Theme_7eb56e86691d574c7d0fa41bffcd50417ad7abbc021dc12800cf78099a3cc7c5"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "cotisations des salariés",
+      "id": "Theme_3691d13a69701bdfdfeefe9d4332d74cc176d26deddcf117534bf87e83c206e9"
+    },
+    {
+      "type": "Theme",
+      "name": "cotisations des employeurs",
+      "id": "Theme_37c04b10ea669135b63c85f71fc40153378370a064f8dfdf80a99b63dfb4d41b"
+    },
+    {
+      "type": "Theme",
+      "name": "droit au chômage",
+      "id": "Theme_a169227192736923097309463a578a0d44ad32eed29fd3f7a5346cbed6f6025e"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte républicain",
+      "id": "Theme_c98c949393cdb8550216c8b2075a6692f1fc34fb8a5596ed3a95ada2975a985a"
+    },
+    {
+      "type": "Theme",
+      "name": "minima sociaux",
+      "id": "Theme_487c4b5ec758d28ae0a899369111751523995f65119b984511a287efe28e8eaa"
+    },
+    {
+      "type": "Theme",
+      "name": "enfants",
+      "id": "Theme_7de947c62c1a6fc458ce30539d584aaffa8475ea67a8e2e4d56519f2862cb657"
+    },
+    {
+      "type": "Theme",
+      "name": "pauvreté",
+      "id": "Theme_95b7ed519406cd062b2738f35707ce2b499fc7f2e5179d4c674216f14032a781"
+    },
+    {
+      "type": "Theme",
+      "name": "conséquences dramatiques",
+      "id": "Theme_4657368af15ec88bdd0b65936320486c9b57a8f2890609cfe8b133d24476e8f5"
+    },
+    {
+      "type": "Theme",
+      "name": "enfants en danger",
+      "id": "Theme_4558d01f8872ec08c854f53b6e4a9eb512a6e51f6b3fd5e4162581e128a4cb47"
+    },
+    {
+      "type": "Theme",
+      "name": "maltraités",
+      "id": "Theme_253e8dfdf72b8209623b799d7782ae13f661ded05ea0b6ad19ab563a711c8abb"
+    },
+    {
+      "type": "Theme",
+      "name": "handicap",
+      "id": "Theme_07d6ad7e725b76cce5982a9a7f704af8d13d05bfc2d725640eb7ad805850ae06"
+    },
+    {
+      "type": "Theme",
+      "name": "réinsertion dans l'école",
+      "id": "Theme_d1cacdebe112b5a53f02b9e36902f8232753e48da18e8d9aec4b21c6ebfc2afd"
+    },
+    {
+      "type": "Theme",
+      "name": "droit de vote",
+      "id": "Theme_314389fbceea301f2b54d994777e1151c7a3d4d1d8271fba3db65820207cbca8"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la pauvreté",
+      "id": "Theme_ab8e8f859f334c17b54a9d9d0794df43cbbe9c994f1fd97114aaa4720284ff30"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement social",
+      "id": "Theme_4051a916576f0d5a344161c964fc2813653fa49a908dfdd614cb3ba5ed90a7bd"
+    },
+    {
+      "type": "Theme",
+      "name": "droits fondamentaux",
+      "id": "Theme_d9b4fe1c479d332e7300e316d32c15aeb5cb1ac64fafb3edc188bbdc443faa35"
+    },
+    {
+      "type": "Theme",
+      "name": "situation de dépendance",
+      "id": "Theme_39af486772939b59031cde2970b81e82d303a8d1b280306e42562612253fa718"
+    },
+    {
+      "type": "Theme",
+      "name": "angoisse des personnes âgées",
+      "id": "Theme_2844e470e024e6d981dac31480aae6ac28b241cf2ee4c33b3ed8a176537cd7a1"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance",
+      "id": "Theme_eb42bc9a4c0e3c4863f2af9c41baa2a8f3b5a02bf55c6c74f6658aeb303b2108"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveau risque social",
+      "id": "Theme_5b7677eadfe5ee6075adf7fffbb0528767c78ccda6041eaf7efe28ef510bb627"
+    },
+    {
+      "type": "Theme",
+      "name": "angoisse",
+      "id": "Theme_a87d238cf2667a0f54139ddfe68aada0d20b40896077ee5828db2c5684eb0fe2"
+    },
+    {
+      "type": "Organization",
+      "name": "EHPAD",
+      "id": "Organization_e83a012702f4d80942d026aa461d151cb1a6b8d2a9413d21e0327d67005aee4d"
+    },
+    {
+      "type": "Theme",
+      "name": "peur d'un effacement culturel",
+      "id": "Theme_7b7cd86226c724d49b1cdc29e670a4adcaefc9f62da44f2a30f2614545bd6b8b"
+    },
+    {
+      "type": "Theme",
+      "name": "déclin lent de ses propres repères",
+      "id": "Theme_f83855e9bbb54a6bf4861f8f5d51588c8f6e147652529e132d9888e8a1787313"
+    },
+    {
+      "type": "Theme",
+      "name": "repères historiques",
+      "id": "Theme_481d21e9e5e9bea1aeea9b3ff9dd23f62bb2fa5892b7dfc4399de462129a408a"
+    },
+    {
+      "type": "Theme",
+      "name": "peur culturelle, civilisationnelle",
+      "id": "Theme_7e1facd68ba116a0a6afd5e2642a6308606fddeecaea4a77623e1b366f11def4"
+    },
+    {
+      "type": "Theme",
+      "name": "tensions de notre société",
+      "id": "Theme_ebf69dd3ac6096ee43294886d656c14f343f3e93867b1bfba017d66058f5f32a"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "insécurité",
+      "id": "Theme_c7a368bf598bca497caed4dd3d3f42ab5d1c9b08009fd42e199fd3976aac0fe6"
+    },
+    {
+      "type": "Theme",
+      "name": "classes populaires et moyennes",
+      "id": "Theme_54387980d6d9718df7d20ac9de9652b1a06b8731fc269091016e0d289141c7e7"
+    },
+    {
+      "type": "Theme",
+      "name": "population",
+      "id": "Theme_ffccf5c878663c1495aa01ad149b08bd26e169cef2911bac384ee91631db0792"
+    },
+    {
+      "type": "Theme",
+      "name": "autorité",
+      "id": "Theme_212da0e5472584111e4a785cdbfbba838d07d4e4248f7c7854a87bd77295e2dd"
+    },
+    {
+      "type": "Theme",
+      "name": "abandon",
+      "id": "Theme_48bcc35c4ce2c5c0896552e5c495c21216383251976cb518893f1477da6abddf"
+    },
+    {
+      "type": "Theme",
+      "name": "oubli",
+      "id": "Theme_def0ce51aca29bd2e6e3d08fcec1d90b49631a5ce0ed573351e9a2b1a300fe10"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme de la procédure pénale",
+      "id": "Theme_4ea44e60733cfc82c464a9945bcd5367523bb6fccfd0feccd36bc18ec2d90d76"
+    },
+    {
+      "type": "Theme",
+      "name": "autorité de la République",
+      "id": "Theme_add1e6b1232948cff6c032198645ac1c51f09a262a5356ccdf320c3e4409bde7"
+    },
+    {
+      "type": "Theme",
+      "name": "peine",
+      "id": "Theme_66bcb0e0189e40e9357d233c5c4698c899fe7af3c4b8f68813b57e957765d475"
+    },
+    {
+      "type": "Theme",
+      "name": "prison",
+      "id": "Theme_a2a60fd220af321541ecca4ccdadb71eb6932351fa4a293e7fcba457432d48b7"
+    },
+    {
+      "type": "Theme",
+      "name": "occupations illégales du domaine public",
+      "id": "Theme_1db6f24e9a38632c1fd201ba269c0543758fedfafb7880d2a9a616619b71e033"
+    },
+    {
+      "type": "Theme",
+      "name": "loi sécurité intérieure et lutte contre le terrorisme",
+      "id": "Theme_61a69f292e2997cc427136fa7facd731271a3f739c9e683fa5e196f41054f15b"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme islamiste",
+      "id": "Theme_a9eaf0302d5db7c86ac3be0f721cdf7888fc1e055956fd5acf13cfc9bdc4c7b2"
+    },
+    {
+      "type": "Theme",
+      "name": "attaques",
+      "id": "Theme_cc47c43cea8a7668dfecf5247b07bfa44fd6db36d0c540718497071d37604c66"
+    },
+    {
+      "type": "Theme",
+      "name": "génération",
+      "id": "Theme_ebd6e511ce08f31c6fb10d3a240a4261fa16b7b0e6fc36cf928c9880a64a00b8"
+    },
+    {
+      "type": "Theme",
+      "name": "soldats",
+      "id": "Theme_b523a6145b05cc101cac9f494cae76fd4d6bc35d3bf7de03abcfc438a84c99da"
+    },
+    {
+      "type": "Theme",
+      "name": "ennemi djihadiste",
+      "id": "Theme_ed5380e711f331154dfa3b993fdb87d47a8f3326fd257fc4c5ac824a5913097c"
+    },
+    {
+      "type": "Theme",
+      "name": "forces de sécurité intérieure",
+      "id": "Theme_aba281ec39f7c10378ad4af42b16273252f708012ad1111a5e6aeb21b9d3df89"
+    },
+    {
+      "type": "Theme",
+      "name": "laïcité",
+      "id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "type": "Theme",
+      "name": "service national universel",
+      "id": "Theme_aac51ed073ec968cdf55805e1637ecd4d52aa84e531553ee107ef36a913fffc9"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "respect",
+      "id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "type": "Theme",
+      "name": "considération",
+      "id": "Theme_1ce5f635cefd05aef61fd28a0d024f10eb1f2daff0a1b886f95452b28f48cf7b"
+    },
+    {
+      "type": "Theme",
+      "name": "irrespect",
+      "id": "Theme_bb50aaab133a8ea2537e510f5516d4bfc50f8bf013b7d1f65d745bcee2ecc7d7"
+    },
+    {
+      "type": "Theme",
+      "name": "violence",
+      "id": "Theme_2e88abc315f2f0443a0e5b9fd8eae9a399f515b08101974ade6d7c352b827448"
+    },
+    {
+      "type": "Theme",
+      "name": "femmes",
+      "id": "Theme_6cefe79fcc2d94b362c08802e35592ec94d444fa1fceecb124f2402df513ea70"
+    },
+    {
+      "type": "Theme",
+      "name": "harcèlement",
+      "id": "Theme_e2c66265441bc2b8509125c89fec9ed5665ee39f39c14231d721897b19f22c01"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalité des salaires",
+      "id": "Theme_83c2372e1c3b7d3a7598cf7bafe0b77c53c8f0e1b998a897cb8e1ce1357acbd4"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité salariale",
+      "id": "Theme_f6774130e83b40578988b01f570703da951f51356974e847eeb4bc830e517243"
+    },
+    {
+      "type": "Theme",
+      "name": "stigmate",
+      "id": "Theme_35004c786b0cfc7fb733eedd6456a34e6915acb8e16516b96899ed13cd957c3b"
+    },
+    {
+      "type": "Theme",
+      "name": "condescendance",
+      "id": "Theme_68227a82210078a93e4d9a9dfd735b69ead9de34db584e0b0c9f3604ea30b789"
+    },
+    {
+      "type": "Theme",
+      "name": "société républicaine",
+      "id": "Theme_d5c7b60c5f683b1d1352186f0e3b50454bd6e605ff58f8077158b7fd09baf376"
+    },
+    {
+      "type": "Theme",
+      "name": "rénovation urbaine",
+      "id": "Theme_554862da6c39ebfa987419bb5747063b2f09331c486ad208ee9e4eb0f2e9576d"
+    },
+    {
+      "type": "Theme",
+      "name": "école adaptée",
+      "id": "Theme_b08b5c9989c43f29e598d4d9bfca14c6f5705376ff809247cbffd7b7f1ba5b69"
+    },
+    {
+      "type": "Theme",
+      "name": "islam",
+      "id": "Theme_879a3cfc5efad5941cda162521e02918b759b90b3a493f5fc7fe8acef42c3cc0"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté individuelle",
+      "id": "Theme_8a862910c8f3162ef48216be2bd8ffef08e21e3b4623304ba550fb395c122909"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de pensée",
+      "id": "Theme_93791cc40d43f5c06cd568610c04cfb13a5688c69dd7b10c986ef708e3b34506"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité des femmes et des hommes",
+      "id": "Theme_a324f8ecf6788618c8b521976be62d459e2a972f3a34651b64ac8ec1fbf7d98e"
+    },
+    {
+      "type": "Theme",
+      "name": "choix individuels",
+      "id": "Theme_cd2b9745219bdff48af1373cb8ecdfd37bc943f5a221f40cb4bbc20180fe099b"
+    },
+    {
+      "type": "Theme",
+      "name": "dogme religieux",
+      "id": "Theme_39db19e0aef94a71384243c46950eb88c867236430928336119ed336eadb953c"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre public",
+      "id": "Theme_81f6659f1f0773c33fb44826282a3a9607166da9710d86c7b3894f4e726c01c9"
+    },
+    {
+      "type": "Theme",
+      "name": "civilité ordinaire",
+      "id": "Theme_486e666c734a9d42c5d35f2ebbc871261e77382b7e1cd973ca903d437a5124a0"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "singularité",
+      "id": "Theme_d1dc211b5de2cd7df5a9e694635b6787ff5a95fcec38af17fa20e06b5d10e256"
+    },
+    {
+      "type": "Theme",
+      "name": "traditions",
+      "id": "Theme_1651eef163003c3be7a9b45c113a290cfbd374435450e28b26c67c7227cf28b4"
+    },
+    {
+      "type": "Theme",
+      "name": "patrimoine",
+      "id": "Theme_f6e24cc0a7fb8f4e53711f9bbde0b780c864eea0f41ca2c6dfa23caff8fe4496"
+    },
+    {
+      "type": "Theme",
+      "name": "langue française",
+      "id": "Theme_dbd6263c7cca8332912699118bf4ad9eba7ae111caa7c2ce2b316a49ebe74a53"
+    },
+    {
+      "type": "Theme",
+      "name": "politique culturelle",
+      "id": "Theme_e81f63074f3d4a6e2e56f622ea5b99fa967496b799ff59c11971b66bb144f03d"
+    },
+    {
+      "type": "Theme",
+      "name": "accès à la culture par l'école",
+      "id": "Theme_e95be90e126bfc8b1b825354846bc4196298b93210cdef5bf49846f7ef8cb7bd"
+    },
+    {
+      "type": "Theme",
+      "name": "culture française plurielle et vivante",
+      "id": "Theme_d209f328b34d4439a1ae9508db6632d5a35a77293017fba717e32c4b6f43bd3f"
+    },
+    {
+      "type": "Theme",
+      "name": "imaginaire français",
+      "id": "Theme_bfd73ba9035acead596293697021dfe45126fe103d59eb927a1f8bf59853f72e"
+    },
+    {
+      "type": "Theme",
+      "name": "cohésion nationale",
+      "id": "Theme_698c7f71286d93cfb04d480356d487cff65c86a9c33fe1d320b5047352711418"
+    },
+    {
+      "type": "Theme",
+      "name": "rapport à l'autre, l'étranger",
+      "id": "Theme_8db341216265e75349d2108eba96420b0e058c7b2eec77c0092f4ce4359a9e36"
+    },
+    {
+      "type": "Theme",
+      "name": "émotion",
+      "id": "Theme_7389467e2ded5a60cc6abeae36d04559f45df40ed465d309a6e67f726941378d"
+    },
+    {
+      "type": "Theme",
+      "name": "fermeture et le repli nationaliste",
+      "id": "Theme_ee6b180b75cc4d2c78aee59c2dcc5fa7d4135b83f19f4221b422bd662b4834e4"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "asile",
+      "id": "Theme_cd88f89a51614f7b8addc880c2aac7c86f554a1aa7bc17024cc6a92883621591"
+    },
+    {
+      "type": "Theme",
+      "name": "règles précises",
+      "id": "Theme_65d329efdd909ab9ea772cc7f69faa0d9520ce270754d5e1aef6123ec135a08d"
+    },
+    {
+      "type": "Theme",
+      "name": "frontières",
+      "id": "Theme_2cd955c9a002255c9c4db835b43368ec22c183622dce92ef1191d4bdfa43a6bb"
+    },
+    {
+      "type": "Theme",
+      "name": "nation",
+      "id": "Theme_60ff600be5c454bb618a1597d939fb190f2d7774c810094fe4274df593f1b232"
+    },
+    {
+      "type": "Theme",
+      "name": "défis contemporains",
+      "id": "Theme_bae366bbac54eedd7c8baeb6da671659e3907aa25b30a31b46cb567f8dcefaac"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération en Europe",
+      "id": "Theme_70f9f750dafa6a69b40f0143405a0fb0cecb5a46d9ba3a92e2de6c2b1602ab13"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "désespoir",
+      "id": "Theme_6c762ea5b6b506b9f04fcae8199f77ffdc384d1f8fee1a812eb1348994668d81"
+    },
+    {
+      "type": "Theme",
+      "name": "golfe de Guinée",
+      "id": "Theme_29204db373b1368a31d9dc0aed37b278bfd1aee9275c975a2a8fb04b1997db74"
+    },
+    {
+      "type": "Theme",
+      "name": "Sahel",
+      "id": "Theme_cd986f2263174ad819b8ad3548781ecb091479ae8b61a4f4462e31e7dc9af4e6"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariat",
+      "id": "Theme_02440e7a1226a40030b255df60faa6f895303652ce187ab029b21f1a1c31c4e5"
+    },
+    {
+      "type": "Theme",
+      "name": "Histoire contemporaine",
+      "id": "Theme_1b98f785091bc9938d2a3888e66f733c38eba4c162f7c212f2e235e68d38c5c8"
+    },
+    {
+      "type": "Theme",
+      "name": "île",
+      "id": "Theme_2696b71200345c90f8bb112eb717c392e1419d028cab987a6996afa5826f67d8"
+    },
+    {
+      "type": "Theme",
+      "name": "frontières communes en Europe",
+      "id": "Theme_c6b44674af75567afd09c3817bc17b43457411711221438b2f5db180dc6d64b8"
+    },
+    {
+      "type": "Theme",
+      "name": "politique de responsabilité et de solidarité",
+      "id": "Theme_a4c2902331df97f68ddf9902997dad135c80763707d1bc91b1b644e3a80de2a0"
+    },
+    {
+      "type": "Theme",
+      "name": "politique nationaliste de court terme",
+      "id": "Theme_b9f0704279d4828c20314f8052101215fc9c8b2aba09239f6906dd361f7cc784"
+    },
+    {
+      "type": "Theme",
+      "name": "situation migratoire",
+      "id": "Theme_3213dd47e6533983d096c278304e6621d0f6f005e6f236edd671342fd1cdefe2"
+    },
+    {
+      "type": "Theme",
+      "name": "division",
+      "id": "Theme_51226e2119e097a2d00a987884a7ffc43fa4ce2314906ee31389014c78119404"
+    },
+    {
+      "type": "Theme",
+      "name": "situations différentes",
+      "id": "Theme_dca795399741bef3cb870c60d1473078b5082623d4edb4ed4622b42eeab16240"
+    },
+    {
+      "type": "Theme",
+      "name": "pays en guerre",
+      "id": "Theme_e1e3f8ecfc6da90ee95cbfb0f773e8e7b49134863e44390f4a70b75a729eff07"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre républicain",
+      "id": "Theme_77d3a0a111edf05bff6e66acf4bf7258f655df974a77634f3f77748e86c2c197"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté civique",
+      "id": "Theme_3d4c81065e20b0d44d5aac77a9afcd6454b584ce0b199fef4510f5ca847acf83"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance du XXIe siècle",
+      "id": "Theme_d1c73eb09f7b76af40610f670023b49922771dc6da69acb61ce41cee7cc99f8a"
+    },
+    {
+      "type": "Theme",
+      "name": "sujétion des individus",
+      "id": "Theme_ae257f3fd72b8b5c820902601299deca0f2c17b822219f1e81bacc2ad8a378ef"
+    },
+    {
+      "type": "Theme",
+      "name": "recul des libertés",
+      "id": "Theme_066f4a0b8eb55bff7743874f6b0f8f4b5c7cf07334f1e2dcac4d2deeb29c228e"
+    },
+    {
+      "type": "Theme",
+      "name": "affaiblissement des droits",
+      "id": "Theme_7aa7c2f06b2534946d6c4125d79391745cfd498afa93bdfc0962d599b71b4578"
+    },
+    {
+      "type": "Theme",
+      "name": "effacement",
+      "id": "Theme_214517213cc5838fe38561fa74213ede127fa09d89f3102904731c66c7449bcd"
+    },
+    {
+      "type": "Theme",
+      "name": "insécurité culturelle et civilisationnelle",
+      "id": "Theme_5787252e45ce127b317eb1aa639ea2e07a66f852c03e00acecdd9998f697bb46"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "défis",
+      "id": "Theme_5a6aef98f24c26e747d7ee3628cc4cefe7a02e552336681ab6dcd972be5b12a5"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "travail détaché",
+      "id": "Theme_9c3190d5fbfa16e0eca20e42c2467489b00f6bf31f79855f3c0d5296139210fb"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêts communs",
+      "id": "Theme_fc7e5da7d412673314d71a1e885eb1a9964e6ca5c9bcf9557e454d4c11cc6e69"
+    },
+    {
+      "type": "Theme",
+      "name": "budget de la zone euro",
+      "id": "Theme_c4cb74cd31595f310be79e24011993e0cb6a415cef48f6741b5869e5b39c5b4f"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "avancées réelles",
+      "id": "Theme_2d477f31ac963ed69177016cd327b67ebafc1c78ba1bd66e6ef5f59aacb70b6c"
+    },
+    {
+      "type": "Theme",
+      "name": "doutes",
+      "id": "Theme_a95e0ad1215c59151708c5f87b303c1d63371bbe751bf977bb072d282c4c034a"
+    },
+    {
+      "type": "Theme",
+      "name": "divisions",
+      "id": "Theme_ce451808c01abd1c5ee14311852bad0d7a31777f5f93d1177ebc0268ac0aca6c"
+    },
+    {
+      "type": "Theme",
+      "name": "changements politiques",
+      "id": "Theme_4033ba5c3f41828c27bc7559aaf06596aaf9ed2b5eeb7345d377ec7c3fc4f3ce"
+    },
+    {
+      "type": "Theme",
+      "name": "sécuritaires",
+      "id": "Theme_c50c2cb216536878a9418a1748a43ff3130486ea9434edd63fd3152546be2cc4"
+    },
+    {
+      "type": "Theme",
+      "name": "migratoires",
+      "id": "Theme_4bbdce90827705337141ea1d1b16c6f4419aafda0cf3ec13423b18dc89d4c870"
+    },
+    {
+      "type": "Theme",
+      "name": "technologiques",
+      "id": "Theme_3387b356920b52f77a440500372cf4d412f883bb374a2525140456269475372e"
+    },
+    {
+      "type": "Theme",
+      "name": "combats d'aujourd'hui",
+      "id": "Theme_529350274d6ae29cd585175810fda0cca9041a9250e975ba87ab684acc1a0b6e"
+    },
+    {
+      "type": "Theme",
+      "name": "enjeux contemporains",
+      "id": "Theme_6d7403c4095485f0ebf2c0af1afc8aeb4ee5664f420b1715639f62b4a4466f54"
+    },
+    {
+      "type": "Theme",
+      "name": "défis commerciaux",
+      "id": "Theme_a4cb5fdcf9a6eaa7b862ce83b9d466322ad078646528cf0086e119bea5d5f39c"
+    },
+    {
+      "type": "Theme",
+      "name": "défis du climat",
+      "id": "Theme_5c3a4951bdce5bd8488a91774302dd0af9d11c67e95e5ca9d3105acfd9df9d77"
+    },
+    {
+      "type": "Theme",
+      "name": "défis de la défense",
+      "id": "Theme_ac84ba52d13b5c98e4d0b980f901e0944686347a744eef6f46b617ea6fabecbc"
+    },
+    {
+      "type": "Theme",
+      "name": "défis économiques et monétaires",
+      "id": "Theme_99f36d12c5691af5daa9e5209ded332113563141a0e57f54d7f3a6030efe6532"
+    },
+    {
+      "type": "Theme",
+      "name": "défi migratoire",
+      "id": "Theme_df55d202ff4ca3ccc56f0a0e679f3bf4764dadff9b9c1f4804f8c8194ecbf44d"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération européenne",
+      "id": "Theme_bbf325248bdb8ab51adedfa248ddc2abc2c4cdc1a83b204d815f65c09534d43d"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe de demain",
+      "id": "Theme_2f278fa2a9a3af5402f387358da7e9bc9fe81bcf7c86912064215f8d637b6b65"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe des peuples",
+      "id": "Theme_ff4209262a8b60544c81c972c959913e252deab73fad0950a6c712aa4e0c6015"
+    },
+    {
+      "type": "Theme",
+      "name": "coalition de volonté et d'ambition",
+      "id": "Theme_4b418aa9a424b42b74ea3238770d015d21068e067617df72cb5f513622ddb033"
+    },
+    {
+      "type": "Theme",
+      "name": "progressistes",
+      "id": "Theme_9ba361e777918b4bb449ae896718cf24444bf58648392a83dca617cb06f6986f"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalistes",
+      "id": "Theme_864b41a47f9bafd5b9f46cf74ff47c9c4920e291e43fef34dd85bebe82f726e4"
+    },
+    {
+      "type": "Theme",
+      "name": "l'élection européenne de 2019",
+      "id": "Theme_cfc4009eb10c14190b3279044b8d121ef1cf01a220143b0037cffd6c30a1f2d8"
+    },
+    {
+      "type": "Theme",
+      "name": "la puissance européenne",
+      "id": "Theme_b3f3d420e4d4f5d60c58f58cbe5db86bb697dbed3d4d2bb00256ac362cd504a4"
+    },
+    {
+      "type": "Theme",
+      "name": "l'indépendance européenne",
+      "id": "Theme_d285bac1b36be8eaaf906e4fd2e042716887cf9aa7499c9966265b3c7f41f738"
+    },
+    {
+      "type": "Theme",
+      "name": "la conscience européenne",
+      "id": "Theme_097f26a4338408ff07e6c885c7d2a20dc82f180850a646a1ea26f28466ddca24"
+    },
+    {
+      "type": "Theme",
+      "name": "l'Europe des assis",
+      "id": "Theme_58719150a7d7fc15293d4c5f8ee7cf3493d8f0d88a429b37280af1b040b2c4c0"
+    },
+    {
+      "type": "Theme",
+      "name": "l'Europe des assoupis",
+      "id": "Theme_691c858acbcf4618a419f7527d2cab8fc3128be8e4439ad7a090a5cbd32213d4"
+    },
+    {
+      "type": "Theme",
+      "name": "un repli nationaliste",
+      "id": "Theme_38a622b7bf95268fb835e746b0c5ff8a83854ef1cbbc7b1acb62c4a17e9f588f"
+    },
+    {
+      "type": "Theme",
+      "name": "un progressisme contemporain",
+      "id": "Theme_998622aa476c760df4a323fa33f27a35941b2991e0b6c6ed7b7dfa62b2aa6030"
+    },
+    {
+      "type": "Theme",
+      "name": "la voix de la raison",
+      "id": "Theme_c4f78233614d837ee2efe732b3e0b6c544480eb3e3e13dada15ee2cdba728f51"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Theme",
+      "name": "projet français",
+      "id": "Theme_781ee3eac1cc60bc488ccc88620b65661f5bc0b30aabcd2993c9ec6c17645c9a"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance du XXIème siècle",
+      "id": "Theme_890acbadce7232a71777d480451b7c0319bc701444372172bd1eab96ccd610e9"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès",
+      "id": "Theme_99fbe2fae74b83c0fb6be33e85f58e86e641fe47059e9c1672808dfbdcf5b5bd"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité de l'individu",
+      "id": "Theme_01967c626c6596cd6e6b93b406cdf82efc351108bd2fe6793be842aa230c31dd"
+    },
+    {
+      "type": "Theme",
+      "name": "force juste de la République",
+      "id": "Theme_6134e59ca704b0cbbc229a9b4f32a8cb5d7fe822df6cd62ffb8ded90616ff98e"
+    },
+    {
+      "type": "Theme",
+      "name": "grandeur de la France",
+      "id": "Theme_5571a1e208cbefc9aa30b2f40f3bceb46453b73ab73dd576c49c11622cc4cf3a"
+    },
+    {
+      "type": "Theme",
+      "name": "patriotisme",
+      "id": "Theme_087acc9b6c0e8015662dfef66f194239c6c87d3b7a1bdb126f4aa128ad0c4225"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "discours de soi-disant puissants",
+      "relation": "MENTIONS",
+      "target": "discours de soi-disant puissants",
+      "evidence": "discours de soi-disant puissants qui ne changent jamais rien",
+      "confidence": 1.0,
+      "source_id": "Theme_fc4d1b47d10a80fab08863c8a607a6f29a5f5ae430a4c14bc5941afc0cb94f86",
+      "target_id": "Theme_fc4d1b47d10a80fab08863c8a607a6f29a5f5ae430a4c14bc5941afc0cb94f86"
+    },
+    {
+      "source": "colère",
+      "relation": "MENTIONS",
+      "target": "colère",
+      "evidence": "La colère enfin, née de la fin des ambitions collectives et de la fin des ambitions familiales et personnelles.",
+      "confidence": 1.0,
+      "source_id": "Theme_4e30994df9e9eac88bc1882bf63418ce377af79a6f9e3df68de8115525b914eb",
+      "target_id": "Theme_4e30994df9e9eac88bc1882bf63418ce377af79a6f9e3df68de8115525b914eb"
+    },
+    {
+      "source": "Iran",
+      "relation": "MENTIONS",
+      "target": "Iran",
+      "evidence": "les tensions avec l'Iran",
+      "confidence": 1.0,
+      "source_id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8",
+      "target_id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "Europe",
+      "evidence": "les divisions de l'Europe",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "Edouard PHILIPPE",
+      "relation": "MEMBER_OF",
+      "target": "Gouvernement",
+      "evidence": "Je remercie ici très vivement le Premier ministre, Edouard PHILIPPE, et son Gouvernement d'avoir inlassablement consulté, discuté, échangé pour mener les transformations nécessaires au pays.",
+      "confidence": 1.0,
+      "source_id": "Person_eee3db1b9dc22c9e1de6f90e00c02ebfd810f3c94392c588dbce10d535fca9d6",
+      "target_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "source": "politique pour les entreprises",
+      "relation": "MENTIONS",
+      "target": "politique pour les entreprises",
+      "evidence": "Une politique pour les entreprises, ce n'est pas une politique pour les riches, c'est une politique pour toute la nation, une politique pour l'emploi, une politique pour les services publics, une politique pour ceux qui restent en marge, faute de travail et faute de revenus.",
+      "confidence": 1.0,
+      "source_id": "Theme_d10833f624f5f6be6c07bc95c172048d8cf6ff7575444d2d5670a2f541e60dec",
+      "target_id": "Theme_d10833f624f5f6be6c07bc95c172048d8cf6ff7575444d2d5670a2f541e60dec"
+    },
+    {
+      "source": "plan d'investissement",
+      "relation": "MENTIONS",
+      "target": "plan d'investissement",
+      "evidence": "L'investissement est celui de la nation, celui de l'Etat avec un grand plan d'investissement de 50 milliards d'euros, mais doit aussi être celui de chaque citoyen.",
+      "confidence": 1.0,
+      "source_id": "Theme_7ad869b784afce0ffa6a94119832fe04de2f0bcb09767ba1b9ae431a9e8b9115",
+      "target_id": "Theme_7ad869b784afce0ffa6a94119832fe04de2f0bcb09767ba1b9ae431a9e8b9115"
+    },
+    {
+      "source": "épargne des Français",
+      "relation": "MENTIONS",
+      "target": "épargne des Français",
+      "evidence": "C'est pourquoi l'épargne des Français doit se mobiliser au service de l'économie.",
+      "confidence": 1.0,
+      "source_id": "Theme_6d3ea586fefb44bdb7da15ebe19221082cc4809b7d73b4f71822b861a5a39dbe",
+      "target_id": "Theme_6d3ea586fefb44bdb7da15ebe19221082cc4809b7d73b4f71822b861a5a39dbe"
+    },
+    {
+      "source": "capital des sociétés françaises",
+      "relation": "MENTIONS",
+      "target": "capital des sociétés françaises",
+      "evidence": "Les Français doivent reconquérir leurs parts dans le capital des sociétés françaises.",
+      "confidence": 1.0,
+      "source_id": "Theme_9b6b748656412f9c23f1a24b510dadeadb0a8ee674e72159ee1b3a559587c951",
+      "target_id": "Theme_9b6b748656412f9c23f1a24b510dadeadb0a8ee674e72159ee1b3a559587c951"
+    },
+    {
+      "source": "capitalisme populaire",
+      "relation": "MENTIONS",
+      "target": "capitalisme populaire",
+      "evidence": "C'est ce cadre que vous avez construit lors des dernières lois budgétaires. Les Français doivent reconquérir leurs parts dans le capital des sociétés françaises. L'utilisation de leur épargne, mais aussi leur association plus étroite au capital des entreprises dont ils sont salariés sont la clé d'un capitalisme populaire retrouvé.",
+      "confidence": 1.0,
+      "source_id": "Theme_b17b782f52e7e5ace336b8a24a4ba69828a7896150ae289d7cd1c350c7084e22",
+      "target_id": "Theme_b17b782f52e7e5ace336b8a24a4ba69828a7896150ae289d7cd1c350c7084e22"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "fiscalité",
+      "evidence": "Libérer l'investissement en France par une fiscalité adaptée, compétitive",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_8f3af7311a6bcfd253a580ecacd3fb0434ee40de042b8221f99b1b400f0a3b76"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "investissement",
+      "evidence": "Libérer l'investissement en France par une fiscalité adaptée, compétitive",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "économie de demain",
+      "evidence": "La France doit aussi renouer avec une politique de filières ambitieuse et choisir des secteurs clés où elle concentrera les efforts publics et privés et ainsi créer les conditions qui feront de notre pays la terre privilégiée de l'économie de demain.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_faff5241a4b53aed780373233bbf728903fefa92c19c84028f9200a4a7008e8e"
+    },
+    {
+      "source": "stratégie nationale",
+      "relation": "MENTIONS",
+      "target": "intelligence artificielle",
+      "evidence": "C'est pour cela que j'ai présenté en février une stratégie nationale, européenne pour le déploiement de l'intelligence artificielle.",
+      "confidence": 1.0,
+      "source_id": "Theme_50832c5349d9d03770ce6df76fe8e823438f97bfbe7c2a35f9d0125ba549866f",
+      "target_id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Commission européenne",
+      "evidence": "C'est pourquoi la France, avec nombre de ses partenaires, soutiendra la proposition de la Commission européenne d'apporter une taxe sur le chiffre d'affaires sur les géants du numérique qui, aujourd'hui, ne paient pas d'impôts dans nos pays.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "source": "progrès social",
+      "relation": "MENTIONS",
+      "target": "dignité",
+      "evidence": "le progrès social passe aussi par un élan collectif pour assurer la dignité de chacun, c'est cela la solidarité nationale.",
+      "confidence": 1.0,
+      "source_id": "Theme_2f7553bdf9b7dad3dd8acbe2b7a2aa2ec68183e2026bae8c0a998d173dec0017",
+      "target_id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "source": "progrès social",
+      "relation": "MENTIONS",
+      "target": "solidarité nationale",
+      "evidence": "le progrès social passe aussi par un élan collectif pour assurer la dignité de chacun, c'est cela la solidarité nationale.",
+      "confidence": 1.0,
+      "source_id": "Theme_2f7553bdf9b7dad3dd8acbe2b7a2aa2ec68183e2026bae8c0a998d173dec0017",
+      "target_id": "Theme_4f1b80e4bf99097256687568dcb68b221fb0eadb91c3bb0597db899daa266e2d"
+    },
+    {
+      "source": "Sécurité sociale",
+      "relation": "MENTIONS",
+      "target": "Sécurité sociale",
+      "evidence": "C'était l'intuition fondamentale qui a présidé au sortir de la Seconde Guerre mondiale à la création de notre Sécurité sociale ; 70 ans plus tard, nous pouvons en être fiers, mais nous devons aussi lucidement regarder en face nos échecs, nos insuffisances ou ce qu'il faut améliorer.",
+      "confidence": 1.0,
+      "source_id": "Theme_6bc8554cb5a6e887e61ca01ff0eb8003fb0972afe2162ba6703c5d3e2fe48648",
+      "target_id": "Theme_6bc8554cb5a6e887e61ca01ff0eb8003fb0972afe2162ba6703c5d3e2fe48648"
+    },
+    {
+      "source": "Assurance Chômage",
+      "relation": "MENTIONS",
+      "target": "cotisation salariale",
+      "evidence": "en matière d'Assurance Chômage a ainsi supprimé toute cotisation salariale",
+      "confidence": 1.0,
+      "source_id": "Theme_041e5fd2a41ca852fdd42f9b2fcdbd8c70a98c307e95ddc73446940aba53f44c",
+      "target_id": "Theme_20b2a1f06f0b08c7e237509ebf14afda498c015a0dc721a9034140df80b535d0"
+    },
+    {
+      "source": "sécurité",
+      "relation": "SPOKE_ABOUT",
+      "target": "sécurité",
+      "evidence": "la sécurité est le premier pilier",
+      "confidence": 1.0,
+      "source_id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d",
+      "target_id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "source": "insécurité",
+      "relation": "SPOKE_ABOUT",
+      "target": "insécurité",
+      "evidence": "l'insécurité frappe avant tout les plus modestes, les quartiers les plus populaires, les classes populaires et moyennes",
+      "confidence": 1.0,
+      "source_id": "Theme_c7a368bf598bca497caed4dd3d3f42ab5d1c9b08009fd42e199fd3976aac0fe6",
+      "target_id": "Theme_c7a368bf598bca497caed4dd3d3f42ab5d1c9b08009fd42e199fd3976aac0fe6"
+    },
+    {
+      "source": "classes populaires et moyennes",
+      "relation": "SPOKE_ABOUT",
+      "target": "classes populaires et moyennes",
+      "evidence": "les classes populaires et moyennes qui n'ont pas forcément choisi là où elles habitent et en subissent toutes les conséquences",
+      "confidence": 1.0,
+      "source_id": "Theme_54387980d6d9718df7d20ac9de9652b1a06b8731fc269091016e0d289141c7e7",
+      "target_id": "Theme_54387980d6d9718df7d20ac9de9652b1a06b8731fc269091016e0d289141c7e7"
+    },
+    {
+      "source": "population",
+      "relation": "SPOKE_ABOUT",
+      "target": "population",
+      "evidence": "cette proximité de la population et de la police qui donne un visage à l'autorité",
+      "confidence": 1.0,
+      "source_id": "Theme_ffccf5c878663c1495aa01ad149b08bd26e169cef2911bac384ee91631db0792",
+      "target_id": "Theme_ffccf5c878663c1495aa01ad149b08bd26e169cef2911bac384ee91631db0792"
+    },
+    {
+      "source": "autorité",
+      "relation": "SPOKE_ABOUT",
+      "target": "autorité",
+      "evidence": "qui donne un visage à l'autorité et qui conjure le sentiment d'abandon ou d'oubli de populations",
+      "confidence": 1.0,
+      "source_id": "Theme_212da0e5472584111e4a785cdbfbba838d07d4e4248f7c7854a87bd77295e2dd",
+      "target_id": "Theme_212da0e5472584111e4a785cdbfbba838d07d4e4248f7c7854a87bd77295e2dd"
+    },
+    {
+      "source": "abandon",
+      "relation": "SPOKE_ABOUT",
+      "target": "abandon",
+      "evidence": "le sentiment d'abandon ou d'oubli de populations",
+      "confidence": 1.0,
+      "source_id": "Theme_48bcc35c4ce2c5c0896552e5c495c21216383251976cb518893f1477da6abddf",
+      "target_id": "Theme_48bcc35c4ce2c5c0896552e5c495c21216383251976cb518893f1477da6abddf"
+    },
+    {
+      "source": "oubli",
+      "relation": "SPOKE_ABOUT",
+      "target": "oubli",
+      "evidence": "le sentiment d'abandon ou d'oubli de populations",
+      "confidence": 1.0,
+      "source_id": "Theme_def0ce51aca29bd2e6e3d08fcec1d90b49631a5ce0ed573351e9a2b1a300fe10",
+      "target_id": "Theme_def0ce51aca29bd2e6e3d08fcec1d90b49631a5ce0ed573351e9a2b1a300fe10"
+    },
+    {
+      "source": "jeunesse",
+      "relation": "SPOKE_ABOUT",
+      "target": "asile",
+      "evidence": "Cette jeunesse, aujourd'hui, qui quitte l'Afrique pour prendre tous les risques et qui n'a pas droit dans une large majorité à l'asile, c'est la jeunesse du désespoir, c'est la jeunesse à qui on n'a plus donné de projet, qui vient du golfe de Guinée ou d'une bonne partie du Sahel.",
+      "confidence": 1.0,
+      "source_id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788",
+      "target_id": "Theme_cd88f89a51614f7b8addc880c2aac7c86f554a1aa7bc17024cc6a92883621591"
+    },
+    {
+      "source": "jeunesse",
+      "relation": "SPOKE_ABOUT",
+      "target": "désespoir",
+      "evidence": "Cette jeunesse, aujourd'hui, qui quitte l'Afrique pour prendre tous les risques et qui n'a pas droit dans une large majorité à l'asile, c'est la jeunesse du désespoir, c'est la jeunesse à qui on n'a plus donné de projet, qui vient du golfe de Guinée ou d'une bonne partie du Sahel.",
+      "confidence": 1.0,
+      "source_id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788",
+      "target_id": "Theme_6c762ea5b6b506b9f04fcae8199f77ffdc384d1f8fee1a812eb1348994668d81"
+    },
+    {
+      "source": "jeunesse",
+      "relation": "SPOKE_ABOUT",
+      "target": "golfe de Guinée",
+      "evidence": "Cette jeunesse, aujourd'hui, qui quitte l'Afrique pour prendre tous les risques et qui n'a pas droit dans une large majorité à l'asile, c'est la jeunesse du désespoir, c'est la jeunesse à qui on n'a plus donné de projet, qui vient du golfe de Guinée ou d'une bonne partie du Sahel.",
+      "confidence": 1.0,
+      "source_id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788",
+      "target_id": "Theme_29204db373b1368a31d9dc0aed37b278bfd1aee9275c975a2a8fb04b1997db74"
+    },
+    {
+      "source": "jeunesse",
+      "relation": "SPOKE_ABOUT",
+      "target": "Sahel",
+      "evidence": "Cette jeunesse, aujourd'hui, qui quitte l'Afrique pour prendre tous les risques et qui n'a pas droit dans une large majorité à l'asile, c'est la jeunesse du désespoir, c'est la jeunesse à qui on n'a plus donné de projet, qui vient du golfe de Guinée ou d'une bonne partie du Sahel.",
+      "confidence": 1.0,
+      "source_id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788",
+      "target_id": "Theme_cd986f2263174ad819b8ad3548781ecb091479ae8b61a4f4462e31e7dc9af4e6"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "grandeur de la France",
+      "evidence": "Notre seule idéologie c'est la grandeur de la France",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_5571a1e208cbefc9aa30b2f40f3bceb46453b73ab73dd576c49c11622cc4cf3a"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "mesdames messieurs les ministres",
+      "id": "Person_5e7680f9e0cf20417a04b3690c36604462afe819b0cb3c14af79f79a2d414464"
+    },
+    {
+      "type": "Person",
+      "name": "madame la maire de Paris",
+      "id": "Person_639a68cc38e6bd85f394a4a276f80fe38a25807b078f088aa59008fc98929683"
+    },
+    {
+      "type": "Person",
+      "name": "monseigneur",
+      "id": "Person_248ecf626b94b720ea76ed557f80278814eb05411406114374970f8f8ed4508b"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le préfet de police",
+      "id": "Person_b5218a645875194289ca03565086a91ac1f505adc31bfba463a4cf7fbe55eb29"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur chef d'état-major de l'armée de terre",
+      "id": "Person_4748bbbf5b4231173d5ea205eae1fde1c781b312012cdb0e2ea31fb5fb844586"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le gouverneur militaire de Paris",
+      "id": "Person_67664399016bd706787d98a295c363f6c8af847fbeb2824beb4858b2e3dbca0b"
+    },
+    {
+      "type": "Person",
+      "name": "mon général",
+      "id": "Person_4dee393bdf6e0458a49fe665cb1b9812a87a215316714163b3cd889ba32cad32"
+    },
+    {
+      "type": "Person",
+      "name": "mesdames messieurs les élus",
+      "id": "Person_c7c39d6256204f3f230fdad35b11bf421921c4b8e56d5a77afbd0f00e3410a4a"
+    },
+    {
+      "type": "Person",
+      "name": "mesdames messieurs les représentants des associations de sécurité civile",
+      "id": "Person_7a3517cceb31226635b8ab62cb2c05dfcb26d1e623df4015db5802839532b415"
+    },
+    {
+      "type": "Person",
+      "name": "officiers",
+      "id": "Person_c8171bd3ed8cbc7cf669a5a86eabca249295516f0d8bd47e68ece1fee0d459b1"
+    },
+    {
+      "type": "Person",
+      "name": "sous-officiers",
+      "id": "Person_b457902fde2b230441235d641cfdd79714ee61c5664555cbf1d0e91e8aa0361e"
+    },
+    {
+      "type": "Person",
+      "name": "gradés",
+      "id": "Person_969d90ae66e1fa7c470b73eaa7994edbcfef7eef86b5686115f69cc478070e77"
+    },
+    {
+      "type": "Person",
+      "name": "sapeurs",
+      "id": "Person_941c423e40c44a208d7a2430d486b6104ef969d6ee779bc7cd34eab1a3da3581"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "sa Sainteté le Pape",
+      "id": "Person_47485efc546ec301b0ecaad8265c2b5059cbe0628df2e859d3b23009175479ac"
+    },
+    {
+      "type": "City",
+      "name": "Notre-Dame de Paris",
+      "id": "City_44911f880fe4b42a406eb7c8fab48472dbf8026b5667bd35240a8cb7e9b396dc"
+    },
+    {
+      "type": "Person",
+      "name": "militaires de la brigade de sapeurs-pompiers de Paris",
+      "id": "Person_30244fc7df0f69f6bcc0787f00e1648e1fd8be4e75d4cdd86681f755aeb2049f"
+    },
+    {
+      "type": "Person",
+      "name": "sapeurs-pompiers venus de la grande couronne parisienne",
+      "id": "Person_929b92659d40032acb41bf31c21a839d27edbfb4c00a2db995972d871757c777"
+    },
+    {
+      "type": "Person",
+      "name": "policiers",
+      "id": "Person_ec322c42e55c7a2a2245f3ab1992d7cc0ee6af74c8aa61b1242bdd67b494342d"
+    },
+    {
+      "type": "Organization",
+      "name": "Croix-Rouge",
+      "id": "Organization_01fecaa163d7e056b48092fa26c2fd9328fce93f0766ba87ba0a0cf3ddd755fb"
+    },
+    {
+      "type": "Organization",
+      "name": "sécurité civile",
+      "id": "Organization_e4b46a9de4af23e7c994ea55bf57a84132eaded6de1bc7aa45afbbcb2801f8f4"
+    },
+    {
+      "type": "Organization",
+      "name": "préfecture de police",
+      "id": "Organization_a7307f8129e3ce1d5ec191feade2c250d4900c0f6cdd0f881cfbf9084c66a836"
+    },
+    {
+      "type": "Organization",
+      "name": "ville de Paris",
+      "id": "Organization_97cc371ae4602f2ca2f7f099230ce14a1200a5a9099963d7417d3fb28416dc7b"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Organization",
+      "name": "services de l'État",
+      "id": "Organization_0e4c3b002b7e0b947f150ac5ade5255303027617ed7e319cef90365be1d32acb"
+    },
+    {
+      "type": "Organization",
+      "name": "sapeurs-pompiers de Paris",
+      "id": "Organization_2d3b3aaba14ba9e1997557e228a12d915dfdc50a9a20d04131b4e2a3f2c5ff9a"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Country",
+      "name": "La France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "Person",
+      "name": "mesdames et messieurs les sapeurs-pompiers",
+      "id": "Person_4c9a2c3aeb50685be3f95e8f0efef99ba4013f4ab60b97890ef8262c31fcb8d1"
+    },
+    {
+      "type": "Person",
+      "name": "le Premier ministre",
+      "id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "type": "Person",
+      "name": "les ministres",
+      "id": "Person_78d76679e74b5a51cda29b8e650dbdf68ea42269e62f817210484c9a0fd92759"
+    },
+    {
+      "type": "Person",
+      "name": "madame le maire de Paris",
+      "id": "Person_6009ea9fbc3533c0872c388dd59ccbf2553c218b8ad49041c47228bb28e16950"
+    },
+    {
+      "type": "Theme",
+      "name": "fierté",
+      "id": "Theme_7eff11c9eca34cecf2a19a02da7d290b3f85a6dd0840cac5b971ec01a30659d3"
+    },
+    {
+      "type": "Theme",
+      "name": "beauté",
+      "id": "Theme_64896009cff86011d589ead988dbbfaa1ba408a73b6fda2b9529d89a3ba3e9fd"
+    },
+    {
+      "type": "Theme",
+      "name": "brigade",
+      "id": "Theme_6edc6141c2454805ddea7e2436a5ef6fe1a5458e5a8668201fcdec758b331587"
+    },
+    {
+      "type": "Theme",
+      "name": "État",
+      "id": "Theme_c451812b709f5d8690c76df683e36155876c418f88e2cd52acc1ca612abf0b32"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance publique",
+      "id": "Theme_a916ec0b096a1b4be5930c925ee5e5ee8d1e59b65f3949a2d3fd03e6fa54f1f1"
+    },
+    {
+      "type": "Theme",
+      "name": "feu",
+      "id": "Theme_dcf5fbb966a358e6cf24ef60807acc80e6115e63658cecaea7df859ca2410585"
+    },
+    {
+      "type": "Theme",
+      "name": "menace",
+      "id": "Theme_f3c948c57f7b769db8cf4e82bceeb7838b60a1fc4b69cc76b34b2369f29abc35"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation",
+      "id": "Theme_01dbd75772ce2e01acf43a9eed5bfc3d66a83ad34f48105944d56c5bf0aaa34b"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "courage",
+      "id": "Theme_4eb0829b6b279fcb2a945b12114e4f8976954c7a7fcf9391f504d523ee63a88b"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Person",
+      "name": "GEORGELIN",
+      "id": "Person_9471e8b73f02f4f5d81af5fd5ee6eb9f264c7505e2387e96f37b7ddb5dbb3b17"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "City",
+      "name": "Notre-Dame",
+      "id": "City_53c3f777884e31a5acc4f71ab8497789b78b3fa0f6030df8fb3024485c574073"
+    },
+    {
+      "type": "Theme",
+      "name": "courage et de dévouement",
+      "id": "Theme_86d4cba070b76509c162b0fee83649c2488183683eaf335450ef614953033e0a"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité des inconnus",
+      "id": "Theme_b3d92644b681361d2989095c595059f0d522c6479d73d6d58b7d8a2c92eb64e9"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement total",
+      "id": "Theme_c617483a30a25ded1a46cc117e5e6f516f7f3bb0a3d74a56437012274778b5e6"
+    },
+    {
+      "type": "Theme",
+      "name": "rebâtir",
+      "id": "Theme_fc9393a2e819e615d408890741dad41486b2169d8104a56ce79975cbeeacae7c"
+    },
+    {
+      "type": "Theme",
+      "name": "refaire",
+      "id": "Theme_448ba67ad109afdaa35c3c251620b07a3f5439f4eafb2db43205d70b19e3a49e"
+    },
+    {
+      "type": "Theme",
+      "name": "ré-habiter",
+      "id": "Theme_0359221a47092ee89c99cc0b94b6643ea6a5eb9e282bd2520fb8e923ea6cf145"
+    },
+    {
+      "type": "Person",
+      "name": "chacune et chacun",
+      "id": "Person_e261179cc749bf7ae77af16584511bf4771495014e47387e3cbdba81ed7e95e3"
+    },
+    {
+      "type": "Country",
+      "name": "le pays",
+      "id": "Country_a03263ca275efa2d2c5ee5e45853980c9a341766037b1334f390d85cd0705136"
+    },
+    {
+      "type": "Theme",
+      "name": "risques pris",
+      "id": "Theme_86ceb2e2e81f462147383db95ed2296db2d6a4ca729ec712793fd95d50f8e2aa"
+    },
+    {
+      "type": "Theme",
+      "name": "présences qui ont rassuré",
+      "id": "Theme_289f961cc11adea729173e648fedfae252fe4c28d44243b0da76064b84581261"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "madame la maire de Paris",
+      "relation": "LOCATED_IN",
+      "target": "Paris",
+      "evidence": "madame la maire de Paris",
+      "confidence": 1.0,
+      "source_id": "Person_639a68cc38e6bd85f394a4a276f80fe38a25807b078f088aa59008fc98929683",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "Notre-Dame de Paris",
+      "relation": "LOCATED_IN",
+      "target": "Paris",
+      "evidence": "Notre-Dame de Paris c'est la cathédrale du peuple de Paris",
+      "confidence": 1.0,
+      "source_id": "City_44911f880fe4b42a406eb7c8fab48472dbf8026b5667bd35240a8cb7e9b396dc",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "La France",
+      "relation": "LOCATED_IN",
+      "target": "La France",
+      "evidence": "La France sidérée voit la flèche qui commence à prendre feu, qui s'écroule sur elle-même et tombe.",
+      "confidence": 1.0,
+      "source_id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93",
+      "target_id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    }
+  ]
+}

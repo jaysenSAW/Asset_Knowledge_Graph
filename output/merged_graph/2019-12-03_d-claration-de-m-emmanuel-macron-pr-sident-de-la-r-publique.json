@@ -1,0 +1,1319 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Frédéric Moncany",
+      "id": "Person_211dbc88cd9254a00a713b1d6367ea548a057b78241f0ce19be7d1c027551acd"
+    },
+    {
+      "type": "Person",
+      "name": "Louis Echelard",
+      "id": "Person_05c0cc89da38e6700c08f255c3642a7a39483e6b2c01ea2b7d4cfc8e027758bc"
+    },
+    {
+      "type": "City",
+      "name": "Montpellier",
+      "id": "City_a4b08d8442d3c90fe9eb3313e4500d0e3a904f2fb68190ad2b4820a2e2aeb0a7"
+    },
+    {
+      "type": "City",
+      "name": "Londres",
+      "id": "City_46110e3e9c35de9d2cda1109fbec5fe7701b958198ac1143e8e5aa66bd4be03f"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Event",
+      "name": "Edit de Nantes",
+      "id": "Event_e28365e1f7c17bc4fa262bfaf4862d9bcf5e1227427000f09cbce92d89c5f65d"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "Theme",
+      "name": "océan",
+      "id": "Theme_d9e868203b07b52a7c9d4fa83502dacf76661258b1ac6c4cc5ad58b658c169b9"
+    },
+    {
+      "type": "Theme",
+      "name": "bien commun",
+      "id": "Theme_0fa516cd569c8f13d481b0e582c31b41d3a0d36c665a0708ec2cf6a366f2de3f"
+    },
+    {
+      "type": "Event",
+      "name": "prochain Congrès mondial de la nature en juin 2020",
+      "id": "Event_337c711505bfde53a3b4d71c5266b3b215d0140b1d554fe26c957b3aac409882"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "émissions",
+      "id": "Theme_09730bbfc9d41b4c62e15ec5dd2926c6cc32776390e00a6abbac2b63dfe4c313"
+    },
+    {
+      "type": "Theme",
+      "name": "minerais",
+      "id": "Theme_c8ec5fae29db26112ce41742604377e3b1d06d7cc95ecd2477ab6097e5ef9a70"
+    },
+    {
+      "type": "Theme",
+      "name": "océans",
+      "id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "type": "Theme",
+      "name": "réserves d'hydrocarbures",
+      "id": "Theme_0faf15f8fa277f99d50eb0181d413b2f0ba06e2560a7178f268aa8e95d3b06ec"
+    },
+    {
+      "type": "Theme",
+      "name": "explorations et exploitations",
+      "id": "Theme_1b61a2219607c67b39c65edf226715ea72f334bad14bf82e5070093dc709c5cb"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies renouvelables",
+      "id": "Theme_912e2c1b6d76c17cfecb65f028f348cae97ce3cd43f48890e5f528fb3273c56f"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "oxygène",
+      "id": "Theme_3b411e0a1232132c78df2aa0be2cef4fde1d9233d716fd7041c47f7cc9618012"
+    },
+    {
+      "type": "Theme",
+      "name": "carbone",
+      "id": "Theme_88dffe735e7fae4c0d1aab165fdb44afd8d6e9582246e923413a6f6a30057cb8"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement",
+      "id": "Theme_3e22cc17b8a738b9c161efa6fb946acce0d66152e18a96a0a8a9e99a15eeee91"
+    },
+    {
+      "type": "Theme",
+      "name": "acidification",
+      "id": "Theme_cdd097a9692fbf62b735f926d5c1553d70027573ae71c5069f8ac1cdf27ef946"
+    },
+    {
+      "type": "Theme",
+      "name": "coraux",
+      "id": "Theme_00929fb3de65466e7bf856d78aad25ff65ddc46e22aa81834c520ff914e2722b"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le réchauffement climatique",
+      "id": "Theme_87fcffeb0b095d638b1ce229a807c21b51759f54208553ace6ac1f29815655a0"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte pour la biodiversité",
+      "id": "Theme_63dc002892d0c215ef360f5697df8a1975f29ca8d2a58c20fe05a6832d27c973"
+    },
+    {
+      "type": "Theme",
+      "name": "protéger l'océan",
+      "id": "Theme_71cd38b20f5939ee48bd8b96bcb5e7627a1c0f3ae1095b9ca70b53f0da2d3e47"
+    },
+    {
+      "type": "Theme",
+      "name": "préservation de l'Amazonie",
+      "id": "Theme_3456154bdcd9f5140463243cbd119a936782a4c49f32ff69f5c85d8a8118f2cd"
+    },
+    {
+      "type": "Theme",
+      "name": "poumon vert",
+      "id": "Theme_28c959f35b0f5782b2353689cc9fc9196cb4938393f94004a57c494cb0e0514b"
+    },
+    {
+      "type": "Theme",
+      "name": "GIEC",
+      "id": "Theme_2e19bd2624cf4de45370a2b417977b65603f46eb76a44c2550a80a11429a6f5c"
+    },
+    {
+      "type": "Theme",
+      "name": "Nations Unies",
+      "id": "Theme_b85379c9bee57eef9de38c321e2d649220c360a7fa56a4d6c5af4234d21f4c97"
+    },
+    {
+      "type": "Theme",
+      "name": "gigantesques courants thermohalins",
+      "id": "Theme_4a56b26c1f5a76bd573a8aec6783f3d4a5f137f92562e2e2dfa267a8f9a8c205"
+    },
+    {
+      "type": "Theme",
+      "name": "fonte des glaces arctiques",
+      "id": "Theme_33ef4be2ec4245d4199b49951be00e509ac2f33637e32518966186c269e5a2df"
+    },
+    {
+      "type": "Theme",
+      "name": "sécheresse au Sahel",
+      "id": "Theme_37988cd7c0694c885ac660b231431ff4da6b17e3d3613fec7fd3fabe177ee907"
+    },
+    {
+      "type": "Theme",
+      "name": "cyclones tropicaux",
+      "id": "Theme_bf017e4e9a704bfec4cd4d3c6124b873f5f98b32afc1813daf1806bb18f71a6b"
+    },
+    {
+      "type": "Theme",
+      "name": "submersion des côtes",
+      "id": "Theme_63a044f96d50e77ce5efb7be667abd138f3ece96c04e9925cce21b21d72ebecd"
+    },
+    {
+      "type": "Theme",
+      "name": "érosion côtière",
+      "id": "Theme_0390bad15f3a33c489e08545dfb6f27d85731dfbcf3ff7d0194926da3916e781"
+    },
+    {
+      "type": "Theme",
+      "name": "trait côtier",
+      "id": "Theme_cda16c316fa8f37849b15cdd41a01a01ff52b41eee951bf9704208f4c75f0cc0"
+    },
+    {
+      "type": "Theme",
+      "name": "crise des sargasses",
+      "id": "Theme_07c03ad60bcfe0905cc76a97de82377da4a4036b9900c7302de9d8d0429b41d5"
+    },
+    {
+      "type": "Theme",
+      "name": "phénomènes complexes",
+      "id": "Theme_7aa221c06aeee146fe8177c13d554775c956b2999ff092497da59733d545bea1"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibre fragile des écosystèmes océaniques",
+      "id": "Theme_0bcbf9c31709c4bf2d77ee5feaf97b1dfd9ee086ba08ed1008f093fd6b65fe73"
+    },
+    {
+      "type": "Theme",
+      "name": "documenter les écosystèmes naturels",
+      "id": "Theme_89b223bc58408c7e5d1bbc85f229549361ce752ac419544095d6d3270ccda595"
+    },
+    {
+      "type": "Theme",
+      "name": "station de recherche",
+      "id": "Theme_3f14c03fd796035300f6eee54c485af503fbe73c06ef390306315d1ade8dbb9b"
+    },
+    {
+      "type": "Theme",
+      "name": "Îles Eparses",
+      "id": "Theme_9659a7eb3960697a7f8c847edaafbca29552721d2b525c855bc652bcb9c00194"
+    },
+    {
+      "type": "Organization",
+      "name": "Ifremer",
+      "id": "Organization_470bd464aa4532ea3f706954f4ca7850d0e73ee2278c3764e95e344a78b7f1b6"
+    },
+    {
+      "type": "Organization",
+      "name": "Argo",
+      "id": "Organization_857a3ffa53ebcd310eb14a4ffca6c0bc850a907c1370ad1b1ab6e89372624133"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre des transitions et de la recherche",
+      "id": "Organization_55e6334ff45ac57b99a551736b9c40dd28957b65f2245968f87fdf28d9da86b3"
+    },
+    {
+      "type": "Organization",
+      "name": "CNRS",
+      "id": "Organization_9797a7b293510a1bf26addf4f9eb951f6a91dfb71b6b8d8c7031c08fb95a0fa4"
+    },
+    {
+      "type": "Law",
+      "name": "loi de programmation de recherche",
+      "id": "Law_e639278ea33e5aa084e5afa7508b99a1e43158a2e25ce1728e2f3e3caa848c6d"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "développement durable",
+      "id": "Theme_5f1bb520fa5de98e4e876d04cd83bf58d961cf1f5d62571cbb08cbca34482cec"
+    },
+    {
+      "type": "Theme",
+      "name": "sciences océaniques",
+      "id": "Theme_855755a88cf47e63b937b910f6b90a662defc394ca620a928d429023bde335ee"
+    },
+    {
+      "type": "Theme",
+      "name": "accord sur la haute mer",
+      "id": "Theme_66d5731fe89a8dcec545c24591ce37fd0477c4a691713be4ea63087d4daa1a96"
+    },
+    {
+      "type": "Theme",
+      "name": "aires protégées en haute mer",
+      "id": "Theme_7f40ee6058703d41af41c04f6bf80a2962e847ac56b762d6be0f91ab5ae67f75"
+    },
+    {
+      "type": "Theme",
+      "name": "partage des données",
+      "id": "Theme_cd82d542122bde875c80b5ffdd02293fedbf6693645deb8e9f4b41efd34249ca"
+    },
+    {
+      "type": "City",
+      "name": "Guyane",
+      "id": "City_214e958a910168a0c70fe7c025f359f9d6fa07e07914ddb157b36fd05d706ed1"
+    },
+    {
+      "type": "City",
+      "name": "Guadeloupe",
+      "id": "City_31dc7614597a9b1a20af10480699c293505cd808e95212580670b8b5ad49dea5"
+    },
+    {
+      "type": "City",
+      "name": "Martinique",
+      "id": "City_e722b3719750b15524a6440d0eb57a596985cde19dd59e12cad730325aa3b4b6"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Pierre-et-Miquelon",
+      "id": "City_b8d51aa830cfbed47e7ddc85e48854af8082559576e967b384ea5b665394abf9"
+    },
+    {
+      "type": "City",
+      "name": "Nouvelle-Calédonie",
+      "id": "City_cc4b506740f7c1968790c319d6f12845d814677cd83a29590ede16c2994049d5"
+    },
+    {
+      "type": "City",
+      "name": "Polynésie",
+      "id": "City_103d11482639dfde531a4dc1072ea2ddc0c4aad84839afc490792d292fce95c1"
+    },
+    {
+      "type": "City",
+      "name": "Wallis et Futuna",
+      "id": "City_3f024953c32079027f4cf25a383338953f870b0babcabadff09c2f5f2185a3f1"
+    },
+    {
+      "type": "City",
+      "name": "Clipperton",
+      "id": "City_6f2eaf791d3511d4644c1de2c0eab7a2c21028ea1e7fee75fe45e154fc4ef8f7"
+    },
+    {
+      "type": "City",
+      "name": "Réunion",
+      "id": "City_d430b37268f49a517af1ba43c391b87d171cbac56fd1a5a50d7b9459f8e5b245"
+    },
+    {
+      "type": "City",
+      "name": "Mayotte",
+      "id": "City_3dec527a64f181a960dc6a603b915acb2fd5fe3edc9a3709d2a6990c3fb25dc8"
+    },
+    {
+      "type": "City",
+      "name": "Terre Adélie",
+      "id": "City_2e002ec180314edf436489590b3f0fcbb22c7ce4f6225c3a7323353a722c19a4"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Pierre",
+      "id": "City_a91baa48199c7af7f5c91867784f65615c243bef11aa2386e56a23f541544d68"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de la biodiversité en haute mer",
+      "id": "Theme_6b14eb5fdca5ea32683814985af081e85e07298d97896e31a6e5064fb3091daf"
+    },
+    {
+      "type": "Theme",
+      "name": "cétacés",
+      "id": "Theme_047878f3c540c36734d8ca4cb1a718b9e9acbe08a65f84ca416c79c97f64edc1"
+    },
+    {
+      "type": "Theme",
+      "name": "captures accidentelles",
+      "id": "Theme_69ef200bf7a4a3c7d43e9a7e047b0e24e34fb1c45c6770e387a169150ef8b3d1"
+    },
+    {
+      "type": "Theme",
+      "name": "dispositifs de dissuasion acoustique",
+      "id": "Theme_a10259654f6082283722db7bd1f59f0a724c80220799905907c28cd546b06e8f"
+    },
+    {
+      "type": "Theme",
+      "name": "chalutiers pélagiques",
+      "id": "Theme_2caf01cbc5230b2e069c9e5cfa115bd1d043ba56048156736a8d3e9b14ad9241"
+    },
+    {
+      "type": "Theme",
+      "name": "golfe de Gascogne",
+      "id": "Theme_3e8a9a663ff98538dcd3da3a21b5311017940852cff9522e9e763af789e53ea6"
+    },
+    {
+      "type": "Theme",
+      "name": "aires protégées",
+      "id": "Theme_8cfd9446603a602258e7c7f8c68b9b12b25616732444996d956f396e9d4f09d7"
+    },
+    {
+      "type": "Theme",
+      "name": "réconciliation des usages de la mer",
+      "id": "Theme_180816ac2fca4134a1582515a61554f68888a780dd9f45c46c13d47a09be5b97"
+    },
+    {
+      "type": "City",
+      "name": "mer Méditerranée",
+      "id": "City_feeadc31d98cf79a0e8dc472ded1c5adb23a2ca1febe1d8e4c1a8c9cae284bcf"
+    },
+    {
+      "type": "Theme",
+      "name": "preservation de la biodiversité",
+      "id": "Theme_e5621c577504ffeeae1780d7dfcf2daf2598eb95da56cb30e1dc2b8aac956c51"
+    },
+    {
+      "type": "Theme",
+      "name": "régénération des réserves halieutiques",
+      "id": "Theme_7d0fb9397155a96bd714a2bd0b7a7b7dcc6d73a4bf065ba471f27d8e36b19aa1"
+    },
+    {
+      "type": "Theme",
+      "name": "pêche électrique",
+      "id": "Theme_0f6955e92fefca52e98731b21033ca99d59325abb3f24311e8aac70623f01219"
+    },
+    {
+      "type": "Theme",
+      "name": "préservation des réserves halieutiques",
+      "id": "Theme_ece9a1e11fdca8ddf075d61f9fece7d3320d36ad8e228bb44920fec179826aca"
+    },
+    {
+      "type": "Theme",
+      "name": "respect de la biodiversité",
+      "id": "Theme_b3e7d24ca8f0bff17afe70e3900e7348c6f844dacf554f13ca55ef11d4806e89"
+    },
+    {
+      "type": "Theme",
+      "name": "activité durable de pêche",
+      "id": "Theme_31101c46eb64552b1beb30eea1a53a9176fe6b647bf50874f34b14b50e1b1613"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "quotas",
+      "id": "Theme_c0e41bbba0fb51b76dd271028dc738e2322b90d04b477101d89c279afb4fd811"
+    },
+    {
+      "type": "Law",
+      "name": "loi",
+      "id": "Law_485a9dc7d96da743855079c7a36cf38d2dd611ec76c37030d236a6e1748b6bcc"
+    },
+    {
+      "type": "Theme",
+      "name": "économie circulaire",
+      "id": "Theme_c93a4be8fd3388cf648eb3a4d186c022f82f2a0a4b99d9e0f647327fa3be01a5"
+    },
+    {
+      "type": "Theme",
+      "name": "recyclage",
+      "id": "Theme_110a35edaf41339b012b1a6ef4da87c96d5dda347f6e851a86d1e5afb8ece38c"
+    },
+    {
+      "type": "Theme",
+      "name": "plastique",
+      "id": "Theme_aabb2c81d054eb93e0fc30957aa719de8ea5ea6c380d2dda3d337f9ab881b0ec"
+    },
+    {
+      "type": "Theme",
+      "name": "déchets",
+      "id": "Theme_4390b1fb338ecd5ed5f931d1775787ca1d8b80b00097080005096c9f345a427e"
+    },
+    {
+      "type": "Theme",
+      "name": "émissions de gaz à effet de serre",
+      "id": "Theme_ed9f7cf3d7ee07aba9d9e74b8f8c24dd7532efa4103d2a039fbe32c0a9c361ee"
+    },
+    {
+      "type": "Organization",
+      "name": "One Planet Summit",
+      "id": "Organization_a4bcf4f73de7aa31dde53c7e27b7803611f4df4940694e62fcec28d53f077699"
+    },
+    {
+      "type": "Organization",
+      "name": "OMI",
+      "id": "Organization_b1aaaf5d48af96e6fa0848b024a969f6df43b2a9cc2edd375be77d2414235136"
+    },
+    {
+      "type": "Organization",
+      "name": "cluster maritime français",
+      "id": "Organization_0bdddc977ded2f4a61b48becba1466a46f84b49718031d2181f5684295740ef8"
+    },
+    {
+      "type": "Person",
+      "name": "président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Organization",
+      "name": "CMA CGM",
+      "id": "Organization_819865fb75c778bbfb012c0391c93269eb51cd3deb91195ae1751d80ae2fe585"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "préservation de l'océan",
+      "id": "Theme_1be7a52280544f85249af137202dedc9fd62ad105a035d5b00de0a40f988237a"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Theme",
+      "name": "développement de nos sociétés",
+      "id": "Theme_6eef0051ee3db551e35c83d00ea9df3311c384d5a17ffda8954b1b7ad515ab01"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Theme",
+      "name": "pêche",
+      "id": "Theme_0287cf7c46b5cffa29a4a5314ed2687af9e7319d0afd8684279cd081076f2ad5"
+    },
+    {
+      "type": "Theme",
+      "name": "pêcheurs",
+      "id": "Theme_0a80a01764c03a20896b08d299500982a6ac3ae34c6f84501ebe40ed1bdae27e"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "Brexit",
+      "id": "Theme_6006dbbb0e4a76c11c05251b591ad1a5519dc0dbc5901d62bec55283dfbb2868"
+    },
+    {
+      "type": "Theme",
+      "name": "durabilité",
+      "id": "Theme_587ac60fafd91880456f3a58959448680f3d222ce5a7bf3163f44e212c5ccfd2"
+    },
+    {
+      "type": "Theme",
+      "name": "traçabilité",
+      "id": "Theme_fdb323df86c609fa6cc0a2d2be8514ec9667540875e30df3bba49f467e5f1b33"
+    },
+    {
+      "type": "Theme",
+      "name": "réserves halieutiques",
+      "id": "Theme_489a8d3d3b82dcb17ac7818c92705652b53f204466c0d0d3b366849e89a670f1"
+    },
+    {
+      "type": "Theme",
+      "name": "pratiques de pêche",
+      "id": "Theme_6a71f6d72178b2bba0347a5d1c1aa942db16d2b8029534e49c43eb8b359c4dbf"
+    },
+    {
+      "type": "Theme",
+      "name": "pêche durable",
+      "id": "Theme_e2ca3916af705960d5ad29e3a5aeac0b8a113c81f7a7044017de3daa1da8e5f3"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "alimentation de qualité",
+      "id": "Theme_b9c7c3da0d3aa90dfb57ae189b287b260364933d7fc2ad19ce6359630d392947"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "action économique",
+      "id": "Theme_eb6db5f9de8118b09ca693458a6823889d86532973bca2f98b291e8a5d3b5a2d"
+    },
+    {
+      "type": "Theme",
+      "name": "force économique",
+      "id": "Theme_f37fa02ebedd60c9714a0c9a5faa40730e4157404752016dc946aa399f2e1f03"
+    },
+    {
+      "type": "Theme",
+      "name": "force économique et écologique",
+      "id": "Theme_e70a156d7c8f70202aebe7cbffe8d2f886dff75a44a8cb2c090cb42f314bfdd3"
+    },
+    {
+      "type": "Theme",
+      "name": "défis écologiques",
+      "id": "Theme_fcdd3fef4427c70f3ec1f4324493063207c9e14d75ad2e833af5c4702e874608"
+    },
+    {
+      "type": "Organization",
+      "name": "industrie française",
+      "id": "Organization_46e47d4b4f527a94f7fa6135c92af170fefa0ad737dacb02bd1924ec98b5d013"
+    },
+    {
+      "type": "Organization",
+      "name": "Naval Group",
+      "id": "Organization_ff71490861e1d075fc0f9da66ae2e44afb21b8fc692a498ac9841b2b54302ccb"
+    },
+    {
+      "type": "City",
+      "name": "Cherbourg",
+      "id": "City_afbb121c0a173f111ee212e04474639df6dc09425295185121fecc1de8e7b660"
+    },
+    {
+      "type": "Organization",
+      "name": "CORIMER",
+      "id": "Organization_31fa6cedd714176e1b53d50441c9480a88138174e746cd6f821d9daab1b2d142"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscal",
+      "id": "Theme_62da44281a03809efceb75cc42b4602a6b314a9a994506bd3ef6970c43af3e77"
+    },
+    {
+      "type": "Theme",
+      "name": "aéronautique",
+      "id": "Theme_75d0f3d5ff64c56475546f5da42c78e140e4b2c5b8253cc541c75517a1fd1d42"
+    },
+    {
+      "type": "Theme",
+      "name": "maritime",
+      "id": "Theme_f08f7edea0cfbb698969e14637cac9dcd795da989e87cfd27128611e8729ffa4"
+    },
+    {
+      "type": "Organization",
+      "name": "Le Havre",
+      "id": "Organization_06fdc90bd35a40dd099be050ccfa92912f1eebe0dcb8600bc3547e159093a167"
+    },
+    {
+      "type": "Organization",
+      "name": "Marseille",
+      "id": "Organization_c7877e8f3560bd0ee37c7971ddd532ed8ab91038dadf842bb633302d357bc2a4"
+    },
+    {
+      "type": "Organization",
+      "name": "Dunkerque",
+      "id": "Organization_1cb217d91550ce3119fb614ec06107f0d1c54cd9496042aeccd8f61f735e4128"
+    },
+    {
+      "type": "City",
+      "name": "Nesles",
+      "id": "City_13e163efbf1955f84cc5c64f00d7a2f9913e30a4a1cc8add062357939cd600ab"
+    },
+    {
+      "type": "City",
+      "name": "Havre",
+      "id": "City_ecc572ab37ee0d31d1c4838737d0e0d1dacaf3b30f8f53f9f123a171fec60476"
+    },
+    {
+      "type": "City",
+      "name": "Seine",
+      "id": "City_9929220d5e345c5949c2abc9e16751001a108eb36b2e1c4f82423603b773377f"
+    },
+    {
+      "type": "City",
+      "name": "Hauts-de-France",
+      "id": "City_c06e31908f8e6669695b5bad7aea2c7e7a7ff7c2dd1b6f6a3f93ba7930c5c3ab"
+    },
+    {
+      "type": "Country",
+      "name": "le nôtre",
+      "id": "Country_1c49997089e7b46fec8ca5e8e657a2cef15fd34d5aca2b34ad6ab5564a549e50"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Nazaire",
+      "id": "City_b2ff4452f5bd748822be1bb280b16d94d815afb227b7714e9c1ee424c8e9eb82"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Etat",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Theme",
+      "name": "cluster maritime",
+      "id": "Theme_ef0aa0cc971e4834a6b48a35f6521ce060b53bcc2e52658f6be63fc454097122"
+    },
+    {
+      "type": "Theme",
+      "name": "éolien en mer",
+      "id": "Theme_ca0364dde1e8690787417ca79bef4f133eaba6f31056c70ecbf428cf9b6f7cc3"
+    },
+    {
+      "type": "Theme",
+      "name": "procédures administratives",
+      "id": "Theme_f0bd79b316e0f069f7d82b255590110e20c0b381d48892d38867fc211ea108bd"
+    },
+    {
+      "type": "Theme",
+      "name": "leadership",
+      "id": "Theme_036cad7a6846a7baecd836858d5b209056188f46e3d5171aa4c5a85110511636"
+    },
+    {
+      "type": "Organization",
+      "name": "Secrétariat général de la mer",
+      "id": "Organization_b0f6faf000813f8079c12ba4af85ad522c64d218854bd38f948aa1a697e85f85"
+    },
+    {
+      "type": "Organization",
+      "name": "comité France Océan",
+      "id": "Organization_e888e871037d240e1c281f32fc1acfdbd53c8287e5a25789fe754d63d16d6d26"
+    },
+    {
+      "type": "Organization",
+      "name": "comité France maritime",
+      "id": "Organization_fef91949841f5cdd5fb386b53ced26d7ba6953f6b1cf96b96d82d4dc2ecb3b44"
+    },
+    {
+      "type": "Theme",
+      "name": "voie bleue",
+      "id": "Theme_51c2039d25beb4d23eba6d066f92f5892d2f56bc97ddf411f3039764741f428d"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité maritime",
+      "id": "Theme_b166c0b081a2737dbcfdca45e809ad97bd4e728cb4a2eb81dccbe03640829e5c"
+    },
+    {
+      "type": "Theme",
+      "name": "économie maritime",
+      "id": "Theme_fa5ebf1e61c9720043f18fccaf36f4ca19cb1cc2316376c249b16f70d3aeb488"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité en mer",
+      "id": "Theme_77d702fa6d6ffe7a07a9e3ea61bbd6b288cdb55a186e15ca70effaeeb0965594"
+    },
+    {
+      "type": "Theme",
+      "name": "mondialisation",
+      "id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef"
+    },
+    {
+      "type": "Theme",
+      "name": "grands échanges",
+      "id": "Theme_b7e1c6499422c977cadbd8bea0388aee00cf0b9b8462e2caa58d5709fa2dcc08"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce mondial",
+      "id": "Theme_c408a62ba9338ba3e6cffffb16298b7a713dac8318daf2c976e8586fbf6183b8"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance",
+      "id": "Theme_d8895f67d26ec9bc257a9b6d9015cbffdb3029611e550d517fabb25ec9d2c101"
+    },
+    {
+      "type": "Theme",
+      "name": "interconnexion",
+      "id": "Theme_aecb7c68c3a7be7424b9ed2604939abd9683eb34c516e3c69d503ad8c8bfb827"
+    },
+    {
+      "type": "Organization",
+      "name": "Armée",
+      "id": "Organization_3bf765da6cbe3e09f539c1cc50012592c9974d6fd490f56374cf9d5b10480558"
+    },
+    {
+      "type": "Organization",
+      "name": "Marine nationale",
+      "id": "Organization_7407237783f4b9b1ef18b190427227372b9fe900c27f2ff8249cb3a970d8a8a7"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégique",
+      "id": "Theme_babc2e2cb71abc7c22abc65e62f304d6775efebf2c13b7c66a9a53363ab08099"
+    },
+    {
+      "type": "Theme",
+      "name": "géopolitique",
+      "id": "Theme_c3c610b50522db7d266b422a266b556f7825401c0d3b51ae9196e65d10f33b65"
+    },
+    {
+      "type": "City",
+      "name": "détroit d'Ormuz",
+      "id": "City_38e864968a1a9602caac2361678371163a31ef8fe57640f9985ffbd79e928f4e"
+    },
+    {
+      "type": "City",
+      "name": "Brest",
+      "id": "City_b8b2fe8f774eb8e0b0c96130393db97310dc549fba8a16f4944bf6c52d878f33"
+    },
+    {
+      "type": "City",
+      "name": "Delhi",
+      "id": "City_fa6ec024c693eafb32bfbe248132f1173fff22271761a2772af4d44089c10a63"
+    },
+    {
+      "type": "City",
+      "name": "Singapour",
+      "id": "City_8ba913021c902ae21b18a69e1a0a2e4a8f64c6f04e97ac7a35a53014c45ee212"
+    },
+    {
+      "type": "City",
+      "name": "Madagascar",
+      "id": "City_24e7a82084f72f6ec2ab3018d50ec538af49f2d28183fc64796410011020f2b7"
+    },
+    {
+      "type": "Theme",
+      "name": "ressources halieutiques",
+      "id": "Theme_799d7702026f9caf6b1e644f50cea02d8b5a88c05e63d48424e11483f0cba520"
+    },
+    {
+      "type": "Country",
+      "name": "Madagascar",
+      "id": "Country_046f08abf1d94f4d41c14567e4ae97e69354fa633d3e7431eb39abae118ce9fa"
+    },
+    {
+      "type": "City",
+      "name": "Îles Eparses",
+      "id": "City_7918fa1d202138b4148f5d9d799d3e82db7dd96a973406eeb6f1ef5b2c86b624"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "City",
+      "name": "Conseil de sécurité",
+      "id": "City_00466a051a7bb83c883eaf8df66d43d78e7e9cfcc7d56e0ff6565d4eb644e882"
+    },
+    {
+      "type": "Country",
+      "name": "Australie",
+      "id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2"
+    },
+    {
+      "type": "Country",
+      "name": "Japon",
+      "id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Event",
+      "name": "Dialogue de Shangri-La",
+      "id": "Event_aecbfb4a6e66951a7f6eab2a5de41592de8095d43b507bb85fe222451a904b69"
+    },
+    {
+      "type": "Organization",
+      "name": "Symposium des marines de l'océan Indien",
+      "id": "Organization_2243aca8171a79134f2df77f781fd38b82774e340a74dacf17ce2c795eb49eaa"
+    },
+    {
+      "type": "Organization",
+      "name": "marine nationale hauturière et océanique",
+      "id": "Organization_c3c0fd7f864aea262cd9b6b54310e1da24e3dd36d454cadffaedbac5d1ca0012"
+    },
+    {
+      "type": "Organization",
+      "name": "marine",
+      "id": "Organization_f7756b41b964eede3c598acba391a223c04f8e1894b360aac173f1d7d996bbdb"
+    },
+    {
+      "type": "Law",
+      "name": "loi de programmation militaire",
+      "id": "Law_33a7ceba1063d109ae9b37ebd3b66d0456905f4041a294907e5c29ef210f7d85"
+    },
+    {
+      "type": "Theme",
+      "name": "surveillance",
+      "id": "Theme_9b6d830b4a4d060fa685db98e6f111057dcb02502b90fa7f0f5048038850879b"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement",
+      "id": "Theme_b53e869b761ff3b2e610c18e6c0fd53e10ad5d2a8ba8bf353be9d0f1148d8c43"
+    },
+    {
+      "type": "Theme",
+      "name": "programmation militaire",
+      "id": "Theme_c14375c88ea4c9004ae95553cf532eb6ad8e7053c511769b0bf538093553ded2"
+    },
+    {
+      "type": "Theme",
+      "name": "mer",
+      "id": "Theme_b1a24b13b90ad7732cbd050cf358171fb18dc420a0e123fc9065e483dd2cd376"
+    },
+    {
+      "type": "Theme",
+      "name": "bâtiments de soutien et d'assistance",
+      "id": "Theme_ed9240f8d79c935ccda1b5de4abd45e24dfe259f624e739d37e340c8e1b23742"
+    },
+    {
+      "type": "Theme",
+      "name": "patrouilleurs légers",
+      "id": "Theme_4e1894b91e05487d16400bf162689cb286678a1037b2d8d5982f13fb1a8faca3"
+    },
+    {
+      "type": "Theme",
+      "name": "zone euro",
+      "id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de nos espaces maritimes",
+      "id": "Theme_06a59916091495159de35d3c939e73208a4df175ac601125b52c3d1aced82291"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance maritime d'équilibre",
+      "id": "Theme_d56a86310e745913848c2c068d60d68eb1ed8151113cd695eee3ad2c72c5dce7"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre des Armées",
+      "id": "Organization_618d202d4050be5fd66098a66b2321c33b1fb9b24fa91c0e1f4c708c0005524e"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "CIMER",
+      "id": "Organization_265524a6bd39844b520f4a5be5666680808bc8cf8eab623dbf50376c225d3f21"
+    },
+    {
+      "type": "Organization",
+      "name": "FDI",
+      "id": "Organization_3ea362a2db03facf60e5cf541adef70acd7854201aeea790fb2e40416668bdcc"
+    },
+    {
+      "type": "City",
+      "name": "Lorient",
+      "id": "City_a14301e5d17483c9ae1404e67505d05b243b585731b03cd33a775960f46425e8"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie",
+      "id": "Theme_fa010b2e87d32c400a0a52b10fe00d186b07d80baf9792842d534698bb9241c6"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité d'agrégation",
+      "id": "Theme_e58c3bca1600fca8501e77819835292a0899f0e9ac86853be75b365e48ccc959"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance militaire",
+      "id": "Theme_3f0e29a4c944c8e64fb8918029fcc35899fcb22da64d1f203d7c0e6d35ccf8eb"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité maritime européenne",
+      "id": "Theme_320ca4d4c946dbe0741e86a7ea477aac74ac09d37d87af88db6d91ebdb189f2a"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "filière",
+      "id": "Theme_16360cf3c4c1acac392348248e1a0ee1b299df9fccfaba5966cb092cddab6831"
+    },
+    {
+      "type": "Theme",
+      "name": "petites et moyennes entreprises",
+      "id": "Theme_902f17a8b9dd425160ef6c24df16d578bb5c112d6f5c113f182b9b36e510efed"
+    },
+    {
+      "type": "Theme",
+      "name": "commandes",
+      "id": "Theme_c4781181f1e90cd2222b64139bf8863ce4bf8e63819bf1cccfae8024160dedee"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance maritime",
+      "id": "Theme_d235aa33d4711fe631f0a93d2d65084bc6418258f63059a0bee5bfd992f09e14"
+    },
+    {
+      "type": "Organization",
+      "name": "SNSM",
+      "id": "Organization_cdf4cd5509556d4d1d00fc11032af5205be44c77937eceb6591d8dae6f847ddc"
+    },
+    {
+      "type": "Organization",
+      "name": "CROSS",
+      "id": "Organization_29a6dab31ad6111536f16f555602d13b22a9b390e1ab7f4b911acccfdd0928df"
+    },
+    {
+      "type": "Organization",
+      "name": "Sables-d'Olonne",
+      "id": "Organization_3bf5acfba740a67c840d7103682d9182fb1f6e0d7a8e4a0df46bdc04ad17f5fd"
+    },
+    {
+      "type": "Person",
+      "name": "les parlementaires",
+      "id": "Person_e01544e6749f01e7ac687b00f54af44740cbdd6d54e1d561ee1713ef6c4397a5"
+    },
+    {
+      "type": "Person",
+      "name": "les élus",
+      "id": "Person_61a93aeed6dc9ab2a8ad46703523067d51028750e6624dc4391e55b7f7974e4c"
+    },
+    {
+      "type": "Person",
+      "name": "les enfants de sauveteurs bénévoles décédés",
+      "id": "Person_2473b4763b89094201b2f0fc1d45ad11008b25b9407f5d51c317a9e2eeab3533"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale",
+      "id": "Organization_8f8e5049d1c21e2291ca3d39865c23e9d20927413f7abca05a47b2572d99f6e2"
+    },
+    {
+      "type": "Person",
+      "name": "le président de LA GORCE",
+      "id": "Person_2d49bc98613cb776a14d2e2c7f335cfb0de071c11d1ff55af38ccfb9c6e61403"
+    },
+    {
+      "type": "Theme",
+      "name": "fondamentaux",
+      "id": "Theme_eaa4ef18961b5f0eb5184944bf22c793a53513dd4848d57d17d76afbfabf16d7"
+    },
+    {
+      "type": "Theme",
+      "name": "bravoure",
+      "id": "Theme_bdf854e5a6868bc67223c137824d4dd6ccd4c45d7bb7cbc85bc5b587ff7deaac"
+    },
+    {
+      "type": "Theme",
+      "name": "humilité",
+      "id": "Theme_1f533297e3d3c61ce159bbf9cbd3fe9dcc2068121ee47dca573ec1423280f2dd"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit d'équipage",
+      "id": "Theme_eac024040c7dc088e12f8de61b9a8cf7c694e6e0fd7a3e086977eb3a61a0126d"
+    },
+    {
+      "type": "Theme",
+      "name": "XXIème siècle",
+      "id": "Theme_f0cf8d206834b6597b0182187edfa8df487594395958212107f2f9b9f41e0814"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce",
+      "id": "Theme_030aa67661fc7f420b2620eaa40b472d5e87b4aea26693aacbd98e388c58bb88"
+    },
+    {
+      "type": "Theme",
+      "name": "connexions",
+      "id": "Theme_f6d726eafa652868f8fdb5a971299d7c3596b75cdf7fd54c867f30f50c8b9f3a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "océan",
+      "relation": "SPOKE_ABOUT",
+      "target": "oxygène",
+      "evidence": "L'oxygène que nous respirons, l'océan en produit plus de la moitié.",
+      "confidence": 1.0,
+      "source_id": "Theme_d9e868203b07b52a7c9d4fa83502dacf76661258b1ac6c4cc5ad58b658c169b9",
+      "target_id": "Theme_3b411e0a1232132c78df2aa0be2cef4fde1d9233d716fd7041c47f7cc9618012"
+    },
+    {
+      "source": "océan",
+      "relation": "SPOKE_ABOUT",
+      "target": "carbone",
+      "evidence": "Le stockage du carbone qui permet de réguler le climat, de freiner le réchauffement, l'océan toujours constitue le premier puits de carbone du monde.",
+      "confidence": 1.0,
+      "source_id": "Theme_d9e868203b07b52a7c9d4fa83502dacf76661258b1ac6c4cc5ad58b658c169b9",
+      "target_id": "Theme_88dffe735e7fae4c0d1aab165fdb44afd8d6e9582246e923413a6f6a30057cb8"
+    },
+    {
+      "source": "océan",
+      "relation": "SPOKE_ABOUT",
+      "target": "climat",
+      "evidence": "Le stockage du carbone qui permet de réguler le climat, de freiner le réchauffement, l'océan toujours constitue le premier puits de carbone du monde.",
+      "confidence": 1.0,
+      "source_id": "Theme_d9e868203b07b52a7c9d4fa83502dacf76661258b1ac6c4cc5ad58b658c169b9",
+      "target_id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "source": "océan",
+      "relation": "SPOKE_ABOUT",
+      "target": "réchauffement",
+      "evidence": "Le stockage du carbone qui permet de réguler le climat, de freiner le réchauffement, l'océan toujours constitue le premier puits de carbone du monde.",
+      "confidence": 1.0,
+      "source_id": "Theme_d9e868203b07b52a7c9d4fa83502dacf76661258b1ac6c4cc5ad58b658c169b9",
+      "target_id": "Theme_3e22cc17b8a738b9c161efa6fb946acce0d66152e18a96a0a8a9e99a15eeee91"
+    },
+    {
+      "source": "Nations Unies",
+      "relation": "MENTIONS",
+      "target": "Nations Unies",
+      "evidence": "ce sont les Nations Unies, qui ont fait de cette décennie celle des recherches sur les océans",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "station de recherche",
+      "relation": "LOCATED_IN",
+      "target": "Îles Eparses",
+      "evidence": "Et c'est à cet égard le sens de la station de recherche qui sera installée sur les Îles Eparses dès l'année prochaine conformément à l'engagement que j'ai pris il y a quelques semaines.",
+      "confidence": 1.0,
+      "source_id": "Theme_3f14c03fd796035300f6eee54c485af503fbe73c06ef390306315d1ade8dbb9b",
+      "target_id": "City_7918fa1d202138b4148f5d9d799d3e82db7dd96a973406eeb6f1ef5b2c86b624"
+    },
+    {
+      "source": "Nations unies",
+      "relation": "PROPOSED",
+      "target": "accord sur la haute mer",
+      "evidence": "un accord sur la haute mer sous l'égide des Nations unies, un accord qui permette de créer des aires protégées en haute mer, d'y imposer des études d'impacts pour certains projets et qui fasse du partage des données la norme.",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Theme_66d5731fe89a8dcec545c24591ce37fd0477c4a691713be4ea63087d4daa1a96"
+    },
+    {
+      "source": "Nations unies",
+      "relation": "SPOKE_ABOUT",
+      "target": "développement durable",
+      "evidence": "Cette décennie est cruciale, et c'est tout le sens de la décennie des Nations unies pour les sciences océaniques au service du développement durable 2021-2030, et nous serons au rendez-vous.",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Theme_5f1bb520fa5de98e4e876d04cd83bf58d961cf1f5d62571cbb08cbca34482cec"
+    },
+    {
+      "source": "Nations unies",
+      "relation": "SPOKE_ABOUT",
+      "target": "océan",
+      "evidence": "Cette décennie est cruciale, et c'est tout le sens de la décennie des Nations unies pour les sciences océaniques au service du développement durable 2021-2030, et nous serons au rendez-vous.",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Theme_d9e868203b07b52a7c9d4fa83502dacf76661258b1ac6c4cc5ad58b658c169b9"
+    },
+    {
+      "source": "Nations unies",
+      "relation": "SPOKE_ABOUT",
+      "target": "sciences océaniques",
+      "evidence": "Cette décennie est cruciale, et c'est tout le sens de la décennie des Nations unies pour les sciences océaniques au service du développement durable 2021-2030, et nous serons au rendez-vous.",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Theme_855755a88cf47e63b937b910f6b90a662defc394ca620a928d429023bde335ee"
+    },
+    {
+      "source": "Nations unies",
+      "relation": "SPOKE_ABOUT",
+      "target": "aires protégées en haute mer",
+      "evidence": "un accord sur la haute mer sous l'égide des Nations unies, un accord qui permette de créer des aires protégées en haute mer, d'y imposer des études d'impacts pour certains projets et qui fasse du partage des données la norme.",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Theme_7f40ee6058703d41af41c04f6bf80a2962e847ac56b762d6be0f91ab5ae67f75"
+    },
+    {
+      "source": "Nations unies",
+      "relation": "SPOKE_ABOUT",
+      "target": "partage des données",
+      "evidence": "un accord sur la haute mer sous l'égide des Nations unies, un accord qui permette de créer des aires protégées en haute mer, d'y imposer des études d'impacts pour certains projets et qui fasse du partage des données la norme.",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Theme_cd82d542122bde875c80b5ffdd02293fedbf6693645deb8e9f4b41efd34249ca"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France est la deuxième puissance maritime mondiale, la deuxième zone économique exclusive du monde, près de 11 millions de kilomètres carrés, une présence grâce aux territoires d'outre-mer, Madame la Ministre, sur tous les océans du globe, dans l'Atlantique avec la Guyane, la Guadeloupe, la Martinique, Saint-Pierre-et-Miquelon, dans le Pacifique avec la Nouvelle-Calédonie, la Polynésie, Wallis et Futuna, Clipperton, dans l'océan Indien avec la Réunion et Mayotte, jusqu'en Antarctique avec la Terre Adélie, jusqu'aux confins de l'Arctique avec Saint-Pierre, que j'évoquais tout à l'heure pour l'Atlantique.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "cluster maritime français",
+      "evidence": "remercier et exprimer toute ma reconnaissance au cluster maritime français, aux armateurs de France",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_0bdddc977ded2f4a61b48becba1466a46f84b49718031d2181f5684295740ef8"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "la France et l'Europe continueront d'être aux côtés de nos pêcheurs",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "CORIMER",
+      "relation": "SPOKE_ABOUT",
+      "target": "innovation",
+      "evidence": "le remarquable travail engagé par le CORIMER, qui, depuis cette année, expertise les projets de la filière et facilite la mobilisation de l'ensemble des dispositifs de soutien à l'innovation existants",
+      "confidence": 1.0,
+      "source_id": "Organization_31fa6cedd714176e1b53d50441c9480a88138174e746cd6f821d9daab1b2d142",
+      "target_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "source": "Havre",
+      "relation": "LOCATED_IN",
+      "target": "Seine",
+      "evidence": "port du Havre - Seine - canal Seine-Nord",
+      "confidence": 1.0,
+      "source_id": "City_ecc572ab37ee0d31d1c4838737d0e0d1dacaf3b30f8f53f9f123a171fec60476",
+      "target_id": "City_9929220d5e345c5949c2abc9e16751001a108eb36b2e1c4f82423603b773377f"
+    },
+    {
+      "source": "grands échanges",
+      "relation": "SPOKE_ABOUT",
+      "target": "commerce mondial",
+      "evidence": "Les grands échanges, aujourd'hui, continuent de se faire par la mer, par les grands détroits, par les deux ou trois épicentres de notre commerce mondial, et ce commerce est maritime.",
+      "confidence": 1.0,
+      "source_id": "Theme_b7e1c6499422c977cadbd8bea0388aee00cf0b9b8462e2caa58d5709fa2dcc08",
+      "target_id": "Theme_c408a62ba9338ba3e6cffffb16298b7a713dac8318daf2c976e8586fbf6183b8"
+    },
+    {
+      "source": "Armée",
+      "relation": "SUPPORTS",
+      "target": "Marine nationale",
+      "evidence": "Il n'y a d'armée que d'hommes, il n'y a de Marine que d'hommes. Ce sont les femmes et les hommes engagés dans la Marine nationale qui font cette force et cette capacité à assurer ces missions",
+      "confidence": 1.0,
+      "source_id": "Organization_3bf765da6cbe3e09f539c1cc50012592c9974d6fd490f56374cf9d5b10480558",
+      "target_id": "Organization_7407237783f4b9b1ef18b190427227372b9fe900c27f2ff8249cb3a970d8a8a7"
+    },
+    {
+      "source": "Marine nationale",
+      "relation": "SUPPORTS",
+      "target": "Armée",
+      "evidence": "Il n'y a d'armée que d'hommes, il n'y a de Marine que d'hommes. Ce sont les femmes et les hommes engagés dans la Marine nationale qui font cette force et cette capacité à assurer ces missions",
+      "confidence": 1.0,
+      "source_id": "Organization_7407237783f4b9b1ef18b190427227372b9fe900c27f2ff8249cb3a970d8a8a7",
+      "target_id": "Organization_3bf765da6cbe3e09f539c1cc50012592c9974d6fd490f56374cf9d5b10480558"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Madagascar",
+      "evidence": "C'est pourquoi par exemple lorsque Madagascar a à lutter contre la piraterie en mer, contre l'exploitation de ses réserves halieutiques elle appelle la France et notre marine pour la protéger",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_046f08abf1d94f4d41c14567e4ae97e69354fa633d3e7431eb39abae118ce9fa"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SPOKE_ABOUT",
+      "target": "zone euro",
+      "evidence": "Monnaie unique de plusieurs États membres de l'Union européenne qui forment la zone euro",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    }
+  ]
+}

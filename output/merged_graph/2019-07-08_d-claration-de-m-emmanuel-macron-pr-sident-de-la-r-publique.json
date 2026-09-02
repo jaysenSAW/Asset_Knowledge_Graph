@@ -1,0 +1,522 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "le premier ministre",
+      "id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "type": "Person",
+      "name": "les ministres",
+      "id": "Person_78d76679e74b5a51cda29b8e650dbdf68ea42269e62f817210484c9a0fd92759"
+    },
+    {
+      "type": "Person",
+      "name": "les présidents",
+      "id": "Person_7d90dc14a2d36716c36d6460a552dfaa621ad8d960de91d637dad957ee47c8c5"
+    },
+    {
+      "type": "Person",
+      "name": "les parlementaires",
+      "id": "Person_e01544e6749f01e7ac687b00f54af44740cbdd6d54e1d561ee1713ef6c4397a5"
+    },
+    {
+      "type": "Person",
+      "name": "les maires",
+      "id": "Person_28684f806a56b5b294eb1f2bafb3cf3796d7986543ecf3d7a9424df1cfc6a195"
+    },
+    {
+      "type": "Person",
+      "name": "les préfets",
+      "id": "Person_5d206fee0479214cdcda373b847eb3addf5824d3dd45604f8518402f1074b568"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Etats généraux",
+      "id": "Organization_193ae19a57e90282af296156200e33c00c2fdd3869eb821959da6d84a1319a0a"
+    },
+    {
+      "type": "Organization",
+      "name": "Elysée",
+      "id": "Organization_725b0ae84b2560c5a76cd9b2ac7aeb7c63d091a9d05dd8afa72db0ccb7147c4d"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaires d'État",
+      "id": "Organization_8e1c30d7292f37306d79d2962f39e05a81c9565675fd36c8251619de54d5d4ca"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre des Outre-mer",
+      "id": "Organization_f6fadbf7e9cb9852f3b83d4558992406dc4b5168d7bf887d2256c3bc7b041ccd"
+    },
+    {
+      "type": "Theme",
+      "name": "fatalité",
+      "id": "Theme_91821ece115556da69fe9d01e520831311b2c3c97a6959ffb0c6b4ce8b578a77"
+    },
+    {
+      "type": "Theme",
+      "name": "retard",
+      "id": "Theme_ad2a4ca35efc36f927e76668c117be4994fff9d9c9f595b366ed800d0fb5d5b4"
+    },
+    {
+      "type": "Theme",
+      "name": "décrochage",
+      "id": "Theme_a1c5576ffec335036f8b88290140734cf1b5cee417ebe748810671da2f4c7273"
+    },
+    {
+      "type": "Country",
+      "name": "Outre-mer",
+      "id": "Country_57005feee6c75f873a27dd7fbdec8692c779a2ba288ac57afbdc2cd300e7d079"
+    },
+    {
+      "type": "Law",
+      "name": "copie budgétaire pour l'année prochaine et les années à venir",
+      "id": "Law_32ba743b422c30d8c23474f0a633adc53b73c2c0d79c6ce195df61cabd1830dc"
+    },
+    {
+      "type": "Theme",
+      "name": "économies sur les Outre-mer",
+      "id": "Theme_58894f7c6bee238238ef18e225943f158778a71f9418949add0476cad9dea7f3"
+    },
+    {
+      "type": "Theme",
+      "name": "rabais",
+      "id": "Theme_bc96e022a7692560a1939d160779d7b13a6fecccd169ad2695e91c108ce3647d"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement de 2 milliards 100 millions d'euros pour les territoires ultramarins",
+      "id": "Theme_9e9ba5026340e2bdd0ab57eec0056065f577f83e61ecf67f24663689ae56ae19"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies renouvelables",
+      "id": "Theme_912e2c1b6d76c17cfecb65f028f348cae97ce3cd43f48890e5f528fb3273c56f"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles mobilités",
+      "id": "Theme_30353e6cde408ccc505123a9406f8504b92649841ad749812c3180cf13e1a551"
+    },
+    {
+      "type": "Person",
+      "name": "Annick GIRARDIN",
+      "id": "Person_a34175f24b9e7a627683c472eb2b346881ccee8844ff51bffb7c24b989293a43"
+    },
+    {
+      "type": "Person",
+      "name": "Georges PATIENT",
+      "id": "Person_6cba678f30162c6c0070aa6ee31c0d1ff14e8df4b0f4e6242227b1875867c36d"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-René CAZENEUVE",
+      "id": "Person_38fb0f9ed215d1246fe715183e242ef3c98e96557589a1b26674620b24cf375b"
+    },
+    {
+      "type": "Person",
+      "name": "nos concitoyens",
+      "id": "Person_05d0c72ed8dc65ddc645a6c5341657deeb75fb3e8829a1ec53404203b192df76"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "secrétaires d'État",
+      "id": "Person_5796469a1008de243871637159be351576614777885dbe8359021422d7df5a40"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Brésil",
+      "id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "le premier ministre de Jamaïque",
+      "id": "Person_304a2bdbe0e60f3f7bd554aa92a9d0fe2c68b6caf8d41700f848a68d67ea79ac"
+    },
+    {
+      "type": "Country",
+      "name": "Jamaïque",
+      "id": "Country_3f60bce3bdcad6584ca95e75025300056cca028ed142da3ad5c606d743d1b053"
+    },
+    {
+      "type": "Country",
+      "name": "Caraïbes",
+      "id": "Country_586a3a194bf5942a66b881bc3813d9be8088b78d544ebdbd5079ede1568cf734"
+    },
+    {
+      "type": "Country",
+      "name": "Cher président",
+      "id": "Country_64c48dda1e4e3c5bff14102214e0f44935003ac3c07a74ae84f1dcf74d20da12"
+    },
+    {
+      "type": "City",
+      "name": "la Réunion",
+      "id": "City_3b93fbd63e92e372eeab86c6771fca89e2c870d4314aebfaf2af5a56934fa6b2"
+    },
+    {
+      "type": "City",
+      "name": "Mayotte",
+      "id": "City_3dec527a64f181a960dc6a603b915acb2fd5fe3edc9a3709d2a6990c3fb25dc8"
+    },
+    {
+      "type": "City",
+      "name": "Madagascar",
+      "id": "City_24e7a82084f72f6ec2ab3018d50ec538af49f2d28183fc64796410011020f2b7"
+    },
+    {
+      "type": "City",
+      "name": "Wallis et Futuna",
+      "id": "City_3f024953c32079027f4cf25a383338953f870b0babcabadff09c2f5f2185a3f1"
+    },
+    {
+      "type": "Country",
+      "name": "Madagascar",
+      "id": "Country_046f08abf1d94f4d41c14567e4ae97e69354fa633d3e7431eb39abae118ce9fa"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Australie",
+      "id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2"
+    },
+    {
+      "type": "Country",
+      "name": "Nouvelle-Zélande",
+      "id": "Country_80bad93f7b963239646a7f56fd94d25d28ff91f84bb39af18dbb2d11c840f36f"
+    },
+    {
+      "type": "Country",
+      "name": "Chili",
+      "id": "Country_c0d4881c53036bf1949a279e19e404943cec83d8c7607b89f66e74188cb94b92"
+    },
+    {
+      "type": "Country",
+      "name": "Canada",
+      "id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Pierre-de-Miquelon",
+      "id": "City_3d112367349c2b8ba6bbd15206e92c8321c30cb5fbc4f70a111ecca4653235e6"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Pierre-et-Miquelon",
+      "id": "City_b8d51aa830cfbed47e7ddc85e48854af8082559576e967b384ea5b665394abf9"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "Theme",
+      "name": "fierté territoriale",
+      "id": "Theme_dd2e962e2de29cba89a8f3b2c0915af77062abf1b1b2f684fb24782ff7db4829"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité",
+      "id": "Theme_5f3e34c6020caac848a6e2d71bdfd1fe751959c4e195a8c097e09b990d89fd12"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "sujet géostratégique",
+      "id": "Theme_675bf747134cb1b5e8375efacafa1798753c26e1a68c65df42a57daebfb330f8"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition française",
+      "id": "Theme_55e926ff19086aae1a78c303fb8ccfceb5071dfaf0724537cd604eea9c2f71ac"
+    },
+    {
+      "type": "Theme",
+      "name": "force",
+      "id": "Theme_692ec114325b782d4c086becfab4bd9bf5c9449c59ddd4c7e36828f9035301a5"
+    },
+    {
+      "type": "Theme",
+      "name": "vitalité",
+      "id": "Theme_6cae20f54e9800819737ab331cc42040a07cc132f27ad4bac939248e800630ad"
+    },
+    {
+      "type": "Theme",
+      "name": "vibration",
+      "id": "Theme_daf06312b7c855b4cdcb0842dcf80530d070f80191097631d2552e9133d6d0ab"
+    },
+    {
+      "type": "Theme",
+      "name": "diversité culturelle",
+      "id": "Theme_dd28cf53b2792f1006b6f16784cf8e15a0b07101e54df6d56740147f561843dc"
+    },
+    {
+      "type": "Theme",
+      "name": "Outre-mer",
+      "id": "Theme_64c7afb8abd6650f75e245cc5aca9bedfee6167f1f691c6bf4d5a30512dcf9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "conversion du regard",
+      "id": "Theme_fd924080f4c838cbbe278a56c8cedc165d8e5887aba4db8d1ef02cd067085ea5"
+    },
+    {
+      "type": "Theme",
+      "name": "parole crédible",
+      "id": "Theme_edaf39f406e9e40ed525c12d813b85ee5043b8e5cff53a656965de3096c1f874"
+    },
+    {
+      "type": "Theme",
+      "name": "accès à l'école",
+      "id": "Theme_6b92d3402142c408baaf4b1ae2346f30131bd4fe29fdd6e85a82c9cc6dc0f041"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité des soins",
+      "id": "Theme_9fdf889c71fa8b6ba881f134be34a7d85543857d217e0aee9f4f8c7bbd38cb01"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructures",
+      "id": "Theme_d711aaaa56cea790c01e9aeb41b7659ac488b2a837642df3eed8eeb83ff64968"
+    },
+    {
+      "type": "Theme",
+      "name": "cherté de la vie",
+      "id": "Theme_644e821eed223ca4e761d91f896abb6e92096cfe92fd22b0709c4032a733ef58"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre public économique",
+      "id": "Theme_dc2b04a7a86b452d1bc867a7e26c6c5d382e071c2c1b107c8040aaafb3f071ea"
+    },
+    {
+      "type": "Theme",
+      "name": "bonne concurrence",
+      "id": "Theme_76573d5118ea9de732d800b68a152eba4532fc00a1331f3528cf829d0d938292"
+    },
+    {
+      "type": "Theme",
+      "name": "mensonges",
+      "id": "Theme_f97c8567fcc204f120a2e2d9f9a9842c91c54db649c24a44f643be00ee9f46e4"
+    },
+    {
+      "type": "Theme",
+      "name": "proximité avec l'ensemble des ultramarins",
+      "id": "Theme_54518a57a0b1bd6cb98618a933bfc7c15f76f97fe778d49b57b60b57ae03826f"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "change",
+      "id": "Theme_6a7e8f9f2a65bdf67df938d97fc93b476bc7a78292b456ee91f8db61650a832a"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "action politique",
+      "id": "Theme_5113dd211af6f7dc574f60bd19a1a5fd41cb0f37feb825bbbe40a3fa0cc4a860"
+    },
+    {
+      "type": "Theme",
+      "name": "vie de la cité",
+      "id": "Theme_5f5ecdd6a84e6af8f97f14efc6f226192dcb73cc0958d4a8de2ccebe46782b4a"
+    },
+    {
+      "type": "Theme",
+      "name": "État",
+      "id": "Theme_c451812b709f5d8690c76df683e36155876c418f88e2cd52acc1ca612abf0b32"
+    },
+    {
+      "type": "Theme",
+      "name": "nation française",
+      "id": "Theme_3c39fb8d91069ea26ee449d084afb951ca67235b6733b2fc4a7b20e159dbbe76"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Etats généraux",
+      "relation": "LOCATED_IN",
+      "target": "Elysée",
+      "evidence": "des Etats généraux que nous avions conclus ensemble à l'Elysée",
+      "confidence": 1.0,
+      "source_id": "Organization_193ae19a57e90282af296156200e33c00c2fdd3869eb821959da6d84a1319a0a",
+      "target_id": "Organization_725b0ae84b2560c5a76cd9b2ac7aeb7c63d091a9d05dd8afa72db0ccb7147c4d"
+    },
+    {
+      "source": "gouvernement",
+      "relation": "MEMBER_OF",
+      "target": "Premier ministre",
+      "evidence": "gouvernement\nOrgane collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale",
+      "confidence": 1.0,
+      "source_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f",
+      "target_id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "source": "gouvernement",
+      "relation": "MEMBER_OF",
+      "target": "ministres",
+      "evidence": "gouvernement\nOrgane collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale",
+      "confidence": 1.0,
+      "source_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f",
+      "target_id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "source": "gouvernement",
+      "relation": "MEMBER_OF",
+      "target": "secrétaires d'État",
+      "evidence": "gouvernement\nOrgane collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale",
+      "confidence": 1.0,
+      "source_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f",
+      "target_id": "Person_5796469a1008de243871637159be351576614777885dbe8359021422d7df5a40"
+    },
+    {
+      "source": "le premier ministre",
+      "relation": "ANNOUNCED",
+      "target": "copie budgétaire pour l'année prochaine et les années à venir",
+      "evidence": "le premier ministre est en train de terminer la copie budgétaire pour l'année prochaine et les années à venir",
+      "confidence": 1.0,
+      "source_id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff",
+      "target_id": "Law_32ba743b422c30d8c23474f0a633adc53b73c2c0d79c6ce195df61cabd1830dc"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Ce sont aussi des territoires qu'on doit prendre comme des points de référence dans ce qu'est la France dans le reste du monde",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "le premier ministre de Jamaïque",
+      "relation": "LOCATED_IN",
+      "target": "Jamaïque",
+      "evidence": "le premier ministre de Jamaïque",
+      "confidence": 1.0,
+      "source_id": "Person_304a2bdbe0e60f3f7bd554aa92a9d0fe2c68b6caf8d41700f848a68d67ea79ac",
+      "target_id": "Country_3f60bce3bdcad6584ca95e75025300056cca028ed142da3ad5c606d743d1b053"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Caraïbes",
+      "evidence": "il regarde la France comme une puissance Caraïbes",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Country_586a3a194bf5942a66b881bc3813d9be8088b78d544ebdbd5079ede1568cf734"
+    },
+    {
+      "source": "ambition française",
+      "relation": "MENTIONS",
+      "target": "Outre-mer",
+      "evidence": "cette part d'ambition française par-delà les mers et dans tous les continents qui est portée à travers nos Outre-mer",
+      "confidence": 1.0,
+      "source_id": "Theme_55e926ff19086aae1a78c303fb8ccfceb5071dfaf0724537cd604eea9c2f71ac",
+      "target_id": "Theme_64c7afb8abd6650f75e245cc5aca9bedfee6167f1f691c6bf4d5a30512dcf9dc"
+    }
+  ]
+}

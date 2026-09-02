@@ -1,0 +1,70 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "exigence",
+      "id": "Theme_c131dd5143ce13311cd70f33a101ad29fecee96fab2354e08c7026967efd65d1"
+    },
+    {
+      "type": "Theme",
+      "name": "rugby",
+      "id": "Theme_9025081226d2529a3fe913b8c02916b39d3d82c0c56d533d5651a6da1742d20d"
+    },
+    {
+      "type": "Theme",
+      "name": "collectif",
+      "id": "Theme_ce0e3932802721bc79338038503affd2519d7b2eab36d4e100483a6236017ed7"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "humilité",
+      "id": "Theme_1f533297e3d3c61ce159bbf9cbd3fe9dcc2068121ee47dca573ec1423280f2dd"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Organization",
+      "name": "rugby",
+      "id": "Organization_a4a3085ed8dd561897fb053954c23fdd8bfa9529ae2dc5848acd807a8fa9d191"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "rugby",
+      "evidence": "C'est-à-dire, tous ceux qui sont engagés depuis le début de votre carrière qui continuent à s'engager partout en France pour que le rugby soit ce qu'il est.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_a4a3085ed8dd561897fb053954c23fdd8bfa9529ae2dc5848acd807a8fa9d191"
+    }
+  ]
+}

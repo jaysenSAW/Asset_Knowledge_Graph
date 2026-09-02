@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "type": "Event",
+      "name": "Armistice du 11 novembre 1918",
+      "id": "Event_f68f0eba8110852e71e05cde8cb6e4396f01713b49a3f7435cb911e71b1ae85d"
+    },
+    {
+      "type": "Event",
+      "name": "Première Guerre mondiale",
+      "id": "Event_5c2b8eb302bf6065a5cd1c5988ce7663201e0b30e003923a8c736603a1b517af"
+    },
+    {
+      "type": "City",
+      "name": "Compiègne",
+      "id": "City_49a561adfef77b76e74d86dd0bf2a6b4eaa1a5e75544be79a9bac7e8fe34cb71"
+    },
+    {
+      "type": "Theme",
+      "name": "Victoire",
+      "id": "Theme_bc5162946a99751f00c6537625622b6ae1680aea4c10b965a4a4776b8e270137"
+    },
+    {
+      "type": "Theme",
+      "name": "Paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "City",
+      "name": "nos communes",
+      "id": "City_0b556946749a488441772088c9317c6c449e992f944c4bc4e5cb10ed5a9fe3a3"
+    },
+    {
+      "type": "City",
+      "name": "nos villages",
+      "id": "City_d7fc6db4884c6b9f05bfa9a7373b21802789106c3be94b839de594d92c0ceca5"
+    },
+    {
+      "type": "City",
+      "name": "nos villes",
+      "id": "City_186896d4a19a2dbe52cb531cc15bdc4aae7633f1dfe85d2a23859ef91bc130d3"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Pacifique",
+      "id": "Country_fb13f49510e4991c246a7df143a4e90afbd5647b097e58a7081571c5cdd07b6f"
+    },
+    {
+      "type": "Country",
+      "name": "Amérique",
+      "id": "Country_bdf5427b1f0e60ff34b28f54ad2193969879bd4b7d05d9d5de81174f08b9b502"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "Vigilance",
+      "id": "Theme_7947493fd74075297abd4b9b2189ee53f32921bc45d7d7f45d833cef7c3ec4dc"
+    },
+    {
+      "type": "Theme",
+      "name": "Grande Guerre",
+      "id": "Theme_fb270281150fc245c92c50cb03b90f12f8c032b8af5b9fed626bac08c5f27b9a"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe en paix",
+      "id": "Theme_aa2ab7fae94f8dd90eb82755079f5cb50d43727e523089b78943cd8f10acd182"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Armistice du 11 novembre 1918",
+      "relation": "ANNOUNCED",
+      "target": "Première Guerre mondiale",
+      "evidence": "Un siècle que l'Armistice du 11 novembre 1918 est venu mettre un terme aux combats fratricides de la Première Guerre mondiale.",
+      "confidence": 1.0,
+      "source_id": "Event_f68f0eba8110852e71e05cde8cb6e4396f01713b49a3f7435cb911e71b1ae85d",
+      "target_id": "Event_5c2b8eb302bf6065a5cd1c5988ce7663201e0b30e003923a8c736603a1b517af"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "sur ce sol de France qu'ils n'avaient jamais vu et qu'ils ont pourtant vaillamment défendu.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Allemagne",
+      "evidence": "Nous savons que l'Europe unie, forgée autour de la réconciliation de la France et de l'Allemagne, est un bien plus fragile que jamais.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "Vigilance",
+      "relation": "MENTIONS",
+      "target": "Grande Guerre",
+      "evidence": "Vigilance ! Tel est le sentiment que doit nous inspirer le souvenir de l'effroyable hécatombe de la Grande Guerre.",
+      "confidence": 1.0,
+      "source_id": "Theme_7947493fd74075297abd4b9b2189ee53f32921bc45d7d7f45d833cef7c3ec4dc",
+      "target_id": "Theme_fb270281150fc245c92c50cb03b90f12f8c032b8af5b9fed626bac08c5f27b9a"
+    }
+  ]
+}

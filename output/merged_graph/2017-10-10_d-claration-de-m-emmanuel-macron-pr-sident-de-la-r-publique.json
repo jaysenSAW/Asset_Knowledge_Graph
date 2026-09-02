@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Francfort",
+      "id": "City_a2e75a6c105b4014d7068c08a69b30dbfdfdbb688bd5494fa0f77cb366d30e88"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "GOETHE",
+      "id": "Person_ee6f5c4d6b17b6320700cbc4b9bc13b0a8fdedffde951cdd79392cf8d6307d84"
+    },
+    {
+      "type": "Country",
+      "name": "Suisse",
+      "id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "type": "Country",
+      "name": "Luxembourg",
+      "id": "Country_88797ed5e26a1c6d46b1adb12833226b925f1283df47dafab01291d972c4c769"
+    },
+    {
+      "type": "City",
+      "name": "Main",
+      "id": "City_e15ce8ed397de0e73b6e9af08f5aff1af67e28e5ff905adc31fc66d59240ce94"
+    },
+    {
+      "type": "City",
+      "name": "Rhin",
+      "id": "City_c06c2efd0867fd6b0bfa3a85b3ea933bb86853dadb1b6130966a198c0d997497"
+    },
+    {
+      "type": "City",
+      "name": "Allemagne",
+      "id": "City_980147a2dfaf1b478b8a1eeb266cc1d3913f8ab6b2aaf5b014de229763fb9c6c"
+    },
+    {
+      "type": "City",
+      "name": "Mitteleuropa",
+      "id": "City_0267dc9fec1e8530a1f0df7e83db60dea03b7ca77c99f1239b83fe5eca6153c2"
+    },
+    {
+      "type": "City",
+      "name": "Danube",
+      "id": "City_b5662f64d4eeac022c5e901098f1ff5356b7fa641558482b4f9af1bfa14823cc"
+    },
+    {
+      "type": "City",
+      "name": "Goethe",
+      "id": "City_4de9815be10d50d848c84fbb86f59c3a5f43b2726b34daba43a9835e6e479b47"
+    },
+    {
+      "type": "Theme",
+      "name": "littérature",
+      "id": "Theme_78ba2a7bd2758a35334d63320c788ed0003767d14ad19f765bce76ab995a9af9"
+    },
+    {
+      "type": "City",
+      "name": "Vieux pont",
+      "id": "City_30cbcc8fdc974ff98478e81c8dd0d36f5a806def36a04753c3e7c9fd8294cdc1"
+    },
+    {
+      "type": "Theme",
+      "name": "francophonie",
+      "id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "type": "Theme",
+      "name": "langue française",
+      "id": "Theme_dbd6263c7cca8332912699118bf4ad9eba7ae111caa7c2ce2b316a49ebe74a53"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "KAFKA",
+      "id": "Person_0e2c9745cde39aa20edfa83413b377ed59a73bb99ae613c8fa311369c6d40090"
+    },
+    {
+      "type": "Person",
+      "name": "RILKE",
+      "id": "Person_f717a1cbb3d7f4ad8d53e324f0197cb20d6a74ea7229fc2b4ed16726b4c7de46"
+    },
+    {
+      "type": "Theme",
+      "name": "pacifiques",
+      "id": "Theme_b6f9ed58ebb978cf4f7a30c452ae252dab5970d1d4fcc0394e638059fcf1277a"
+    },
+    {
+      "type": "Theme",
+      "name": "civilisation",
+      "id": "Theme_55506e6b6a566c3a1ba5bfa8aa2636a9d0eca0526c32a3b767eb8f396191dc34"
+    },
+    {
+      "type": "Theme",
+      "name": "langue",
+      "id": "Theme_503878fae38cf6a116099ef03b8fe0423aa370b33f0af8b6450b8ae129feef43"
+    },
+    {
+      "type": "Theme",
+      "name": "textes",
+      "id": "Theme_996a91b8a1e763817b8b269cc0fb275c573747e2ec27edc2860236404a15d866"
+    },
+    {
+      "type": "Theme",
+      "name": "langues",
+      "id": "Theme_2c590b7db4f32e2c4a3f2f7fc25bb4040c508c86add27ac82e0b62f41cb6c557"
+    },
+    {
+      "type": "Theme",
+      "name": "grand livre",
+      "id": "Theme_58a3af13c8290a263affb80e03ce25577a86e9ea1636b1e2d5722cba7ea2f502"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Francfort",
+      "relation": "LOCATED_IN",
+      "target": "Allemagne",
+      "evidence": "Oui, l'histoire de Francfort se confond largement avec celle de l'Allemagne, de sa culture, de son art, de son économie",
+      "confidence": 1.0,
+      "source_id": "City_a2e75a6c105b4014d7068c08a69b30dbfdfdbb688bd5494fa0f77cb366d30e88",
+      "target_id": "City_980147a2dfaf1b478b8a1eeb266cc1d3913f8ab6b2aaf5b014de229763fb9c6c"
+    },
+    {
+      "source": "Francfort",
+      "relation": "ALLIED_WITH",
+      "target": "Suisse",
+      "evidence": "Et je ne veux pas voir le moindre des hasards ici si nous nous retrouvons avec des Allemands, des femmes et des hommes de la société de Francfort, des Lyonnaises et des Lyonnais que je reconnais compte tenu du partenariat qui vous lie, mais aussi les Belges, les Suisses, les Luxembourgeois",
+      "confidence": 1.0,
+      "source_id": "City_a2e75a6c105b4014d7068c08a69b30dbfdfdbb688bd5494fa0f77cb366d30e88",
+      "target_id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "source": "Francfort",
+      "relation": "ALLIED_WITH",
+      "target": "Luxembourg",
+      "evidence": "Et je ne veux pas voir le moindre des hasards ici si nous nous retrouvons avec des Allemands, des femmes et des hommes de la société de Francfort, des Lyonnaises et des Lyonnais que je reconnais compte tenu du partenariat qui vous lie, mais aussi les Belges, les Suisses, les Luxembourgeois",
+      "confidence": 1.0,
+      "source_id": "City_a2e75a6c105b4014d7068c08a69b30dbfdfdbb688bd5494fa0f77cb366d30e88",
+      "target_id": "Country_88797ed5e26a1c6d46b1adb12833226b925f1283df47dafab01291d972c4c769"
+    },
+    {
+      "source": "Main",
+      "relation": "LOCATED_IN",
+      "target": "Allemagne",
+      "evidence": "Le Main, c'est ce fleuve aux deux sources qui traverse l'Allemagne",
+      "confidence": 1.0,
+      "source_id": "City_e15ce8ed397de0e73b6e9af08f5aff1af67e28e5ff905adc31fc66d59240ce94",
+      "target_id": "City_980147a2dfaf1b478b8a1eeb266cc1d3913f8ab6b2aaf5b014de229763fb9c6c"
+    },
+    {
+      "source": "langue française",
+      "relation": "MENTIONS",
+      "target": "langue française",
+      "evidence": "c'est une source inépuisable pour comprendre le monde qui nous entoure, c'est l'universel qui se bat dans chacun de nos particularismes, ce sont tous nos patois, toutes nos langues vernaculaires comme autant d'affluents dans le fleuve de la langue française qui, continent à travers continent, déploient la richesse et la force de notre langue commune",
+      "confidence": 1.0,
+      "source_id": "Theme_dbd6263c7cca8332912699118bf4ad9eba7ae111caa7c2ce2b316a49ebe74a53",
+      "target_id": "Theme_dbd6263c7cca8332912699118bf4ad9eba7ae111caa7c2ce2b316a49ebe74a53"
+    }
+  ]
+}

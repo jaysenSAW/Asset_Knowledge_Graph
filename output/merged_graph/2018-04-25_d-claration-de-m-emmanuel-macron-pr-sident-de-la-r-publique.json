@@ -1,0 +1,767 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Organization",
+      "name": "Chambre des représentants",
+      "id": "Organization_73f3067959e7749f5e0cc3899efbe4e93916ecbc49010146f08ee17336334fdc"
+    },
+    {
+      "type": "Organization",
+      "name": "Congrès des Etats-Unis",
+      "id": "Organization_aded85311fa429cdf2ac9fda6ac452fd9e1c35c44a04b1451b13caf7dda82ef8"
+    },
+    {
+      "type": "Person",
+      "name": "Charles L'Enfant",
+      "id": "Person_6a955ab5a6fabd93dc358b6dbc8fef3f6a8127a5ff08a3d815522b383e1260ac"
+    },
+    {
+      "type": "Person",
+      "name": "Donald Trump",
+      "id": "Person_0733a79f3150052cccafd940cdbbd3c8e236062bb642b00d56f0ff8484ba3762"
+    },
+    {
+      "type": "Person",
+      "name": "le Président de la Chambre des représentants",
+      "id": "Person_7469bb48be5902aaa9f2910d9335992389568580a859021e1c6137a2d5b78e42"
+    },
+    {
+      "type": "City",
+      "name": "capitale",
+      "id": "City_7a07616d304660df8ae6a5fd18cd19939141b7900471392200544e6a42726216"
+    },
+    {
+      "type": "City",
+      "name": "Washington",
+      "id": "City_ee7e345909a6fe1df02cbeb0ed489e719cbdc04c7a27e2818d861e092cc9ad8a"
+    },
+    {
+      "type": "Person",
+      "name": "Voltaire",
+      "id": "Person_98d809b8b0ea8eb4b5f99cac06fe6f2d38ed186f5180cdcfee0dd884eb751568"
+    },
+    {
+      "type": "Person",
+      "name": "Benjamin Franklin",
+      "id": "Person_0a17da3825ebb3fd75b430a2519b3922eff7877f71a357ff19a821c32fcdb9ff"
+    },
+    {
+      "type": "Person",
+      "name": "John Adams",
+      "id": "Person_5b0a67833a368ff56db5e1e8289502107fc914b291f87851bbe3371abe2c259f"
+    },
+    {
+      "type": "Person",
+      "name": "La Fayette",
+      "id": "Person_81d86fc862d51be3338df9f59acad76a3f705f70c60893b9bdc453542b65be2b"
+    },
+    {
+      "type": "Person",
+      "name": "George Washington",
+      "id": "Person_4774364dda1e7df4c4bf16ac56ed6c8e95d38e0bceed94693fa5ba19ba9e813d"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyenneté",
+      "id": "Theme_299e26433fd038aaeb6d9c98e39f7323f3f780a7ec7bf9addad3444e3982be18"
+    },
+    {
+      "type": "Person",
+      "name": "Alan Seeger",
+      "id": "Person_6aa65c3213041a7ce253baf133ea261c8fa240545df13cb5b895effbbf471281"
+    },
+    {
+      "type": "City",
+      "name": "Belloy-en-Santerre",
+      "id": "City_8fece39aaacd34f77fa90bc7cde8a5167dcdbce2ce4e6069f6373c7f445c5ea6"
+    },
+    {
+      "type": "City",
+      "name": "Amiens",
+      "id": "City_50d7edfea5352d1c2108d0e10ba4a285b0b793521bb528b9194a13254a40c572"
+    },
+    {
+      "type": "Event",
+      "name": "Première Guerre mondiale",
+      "id": "Event_5c2b8eb302bf6065a5cd1c5988ce7663201e0b30e003923a8c736603a1b517af"
+    },
+    {
+      "type": "Event",
+      "name": "Deuxième Guerre mondiale",
+      "id": "Event_6980b4b2116fbbe56842d095d9f47bd4a43244d43cb034c49b5984a8859ac269"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "impérialisme",
+      "id": "Theme_bbbda9f8ccd9f65e9586b77c0086782f0c5a68d5e62f7be59c61e15c202b5c01"
+    },
+    {
+      "type": "Theme",
+      "name": "nazisme",
+      "id": "Theme_6c161fc313c2ef1c8691d3243809af8084b936dbcb11873d68398b8339555f12"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "travail inachevé",
+      "id": "Theme_07aecdbf9539c48fdeb2a45ceb6f11f851723b6f5157919a7f526a342005b0b2"
+    },
+    {
+      "type": "Person",
+      "name": "Martin Luther King",
+      "id": "Person_d62d245f3b42266df6b620f80b60fcc367bf8536ed7057fde476c687cbc941d1"
+    },
+    {
+      "type": "Person",
+      "name": "James Baldwin",
+      "id": "Person_a4bc96219777e4986c0a65ffea63c7492177bbc9df13abb520c291649cf77c03"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Wright",
+      "id": "Person_cb45db2c9334e49434fe3f2ad6e9d8384144ec4ffa38c8a7adc0b0ad5f267528"
+    },
+    {
+      "type": "Person",
+      "name": "Simone de Beauvoir",
+      "id": "Person_3dab98718b175e6274866834da1170351429ae6aa9313df54872b8326a1ad51a"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "Amérique",
+      "id": "Organization_2e07ba0e91fb18547c24f6342365939c22dd0599b683073cd878f70834e9d0ee"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Theme",
+      "name": "droits civiques",
+      "id": "Theme_d320ce0e751f92cae9860e0a4faa0e9f8d4c09a39fce844ce473fccd0c95a315"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité des sexes",
+      "id": "Theme_37a6bb1370638c43dcbf773811e3bb11f0a6c89a220e56571423e0d8c4fd1622"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvement #MeToo",
+      "id": "Theme_aa74e8a8f78c8fc315675eda86144e3cb457aba75d88f66fb70c57d2e7d15c80"
+    },
+    {
+      "type": "Theme",
+      "name": "francophonie",
+      "id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "type": "City",
+      "name": "Nouvelle-Orléans",
+      "id": "City_3d35c65e53555a7d7bc0f427f425f4c69bf2042a7027c694859a2fe1021c68a5"
+    },
+    {
+      "type": "City",
+      "name": "Seattle",
+      "id": "City_f7031670f67589d327a21008aab5688c4766a690c51429439a2c9372572693c8"
+    },
+    {
+      "type": "Country",
+      "name": "Amérique",
+      "id": "Country_bdf5427b1f0e60ff34b28f54ad2193969879bd4b7d05d9d5de81174f08b9b502"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Jefferson",
+      "id": "Person_d4527cfc0da13a422bc349f3b5e59c5143dc814c006efb2371e7fcc8d0043f70"
+    },
+    {
+      "type": "City",
+      "name": "Monticello",
+      "id": "City_076276418c7f8842b7ad8c1135072b950c24ff871f4e56bf632b5644c9d548fa"
+    },
+    {
+      "type": "Person",
+      "name": "Hemingway",
+      "id": "Person_4d15c3370201c2daad31a356971bc2dcb57b657f1706898c1ae11176223dbc4f"
+    },
+    {
+      "type": "Person",
+      "name": "Chateaubriand",
+      "id": "Person_c2836a4f951581ed214e714de70f3612c74fadf36a0a24f312f363304dcefe99"
+    },
+    {
+      "type": "Person",
+      "name": "Faulkner",
+      "id": "Person_7007d43ff2a02d036cbf6e305516cf8ed436be58c7a6a48639f959189fd01cbc"
+    },
+    {
+      "type": "City",
+      "name": "Louisiane",
+      "id": "City_4b983277b1e375443526fe76ea6bc14f4c5a9c6a9ec146aa81335560e78ee8ae"
+    },
+    {
+      "type": "City",
+      "name": "Mississippi",
+      "id": "City_1d0c9b5dbd64004038fc24cec510f3d33f0c704b619d7a7413fd16f4e8bb1afc"
+    },
+    {
+      "type": "Theme",
+      "name": "médecine",
+      "id": "Theme_f3ce7496d603dcb85ba3fdf8a80ffbbd3a1823495c1458b7eeb214eb8eed8d44"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche scientifique",
+      "id": "Theme_bd9126cf2e30b975b36295a2931b0a8bf107c342744075b1fca848051a313a63"
+    },
+    {
+      "type": "Theme",
+      "name": "affaires",
+      "id": "Theme_efc374b69b2ff2f3d295f3aaefa5e54444881ac6f7ef8216dd317a7730e0988c"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Person",
+      "name": "Theodore Roosevelt",
+      "id": "Person_b5f99b6fc82e2d69676e3d4369a2c339b88e49a574aa0a2bebce2909824d288a"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs occidentales",
+      "id": "Theme_e0a51642c80df79a554d1008cdc6fc5b89e72c92d738b5f466dccab13a8128ac"
+    },
+    {
+      "type": "Theme",
+      "name": "principes",
+      "id": "Theme_97c5aa60bd71c598edaaf76fd6b884a4ae393b0774135332a05c72af7bc82042"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre mondial",
+      "id": "Theme_50fb2f589fc6440016033c8ab6799227c70efab0404a538098ed47dc4d10ebf1"
+    },
+    {
+      "type": "Theme",
+      "name": "questions",
+      "id": "Theme_3b52f676bcf2857627c13abe2fccc2705ca722dabf54508a29a0df895875aa4d"
+    },
+    {
+      "type": "Theme",
+      "name": "doutes",
+      "id": "Theme_a95e0ad1215c59151708c5f87b303c1d63371bbe751bf977bb072d282c4c034a"
+    },
+    {
+      "type": "Event",
+      "name": "Seconde Guerre mondiale",
+      "id": "Event_aa598b7435f3cc09e365f657cf81e9286ff31ba745caeefa70923626f946c7cf"
+    },
+    {
+      "type": "Theme",
+      "name": "Etat de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Theme",
+      "name": "Valeurs fondamentales",
+      "id": "Theme_70805a2b7bc4190a40bd913870592e4a83662b5419bbe69cbab5a4df67fe5a31"
+    },
+    {
+      "type": "Theme",
+      "name": "Inégalités créées par la mondialisation",
+      "id": "Theme_f9a0a19909614a3f88200eb9096e6491104c2856dbf503adc515f36a4275217b"
+    },
+    {
+      "type": "Theme",
+      "name": "Refus du libéralisme",
+      "id": "Theme_fb340ae1ab2ece56b6e7605e0e2bbd6423114b43e8bcedda3300c2738a9c8718"
+    },
+    {
+      "type": "Theme",
+      "name": "Déstabilisation de la communauté internationale",
+      "id": "Theme_2b08a7dea6735633a9036369347dec44062b383544f710855dfe619568cb093c"
+    },
+    {
+      "type": "Country",
+      "name": "Aux Etats-Unis",
+      "id": "Country_c8b6e18223ef632fc1d335e550a38f9b11e3ce588dd28cd06ee5950a34a1b3ec"
+    },
+    {
+      "type": "Country",
+      "name": "en Europe",
+      "id": "Country_a0638700c5dff5cadde54f359ce3fc5958e8f1e8e7eb97e3e371328d604f7f3a"
+    },
+    {
+      "type": "Person",
+      "name": "Franklin Delano Roosevelt",
+      "id": "Person_80d02b92090ba19c2dbf1ca31411f9e63f931d817ce3c22845a233c82597a013"
+    },
+    {
+      "type": "Organization",
+      "name": "ONU",
+      "id": "Organization_8fe3e517167eebcfcb1c541c20f6aeb0a346c6c70b461e4d8ec8a469cdf70167"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre libéral",
+      "id": "Theme_d4360dc27250c895c508dae6426549a6651d60dcc52fd204648bf4ce64df50fb"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalisme",
+      "id": "Theme_d0f339441ee20ce073228a015cda668179f9e724fa0f925bc928aa3557010053"
+    },
+    {
+      "type": "Theme",
+      "name": "modèles de côté",
+      "id": "Theme_0abca8a23f7b10e5026bfa4360117eacceb9e7b082fc788a865283e35c4f6cb4"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses communes",
+      "id": "Theme_69579e4920f3a7100411907fb17b4899a15e897f7ecac79fbb64138ef6bb40a4"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Person",
+      "name": "le président des Etats-Unis",
+      "id": "Person_c50490c2d45cdf8747812dce0556717f5281924f692ff2d23ac693346521dd96"
+    },
+    {
+      "type": "Country",
+      "name": "les Etats-Unis",
+      "id": "Country_8df3466244b292649c597b8b512edd3db82a8841945a4706149665c969f501ec"
+    },
+    {
+      "type": "Country",
+      "name": "l'Europe",
+      "id": "Country_22c6a9031acb88b09b90ce4000e1a54cc5401d4a34558d7df28560e8576fb0e6"
+    },
+    {
+      "type": "Organization",
+      "name": "cette assemblée",
+      "id": "Organization_e2cb4b05b310e3490f3a54992727cac662fbd8f48da2d2068d9ccaa844c4a667"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation mondiale du commerce",
+      "id": "Organization_279680ad64a597c5effc113dc4b3abd9bc4b6f6f07c59018604598bd2e0baca8"
+    },
+    {
+      "type": "Theme",
+      "name": "préoccupations légitimes",
+      "id": "Theme_2f02d892435e7c5581a5e922ec25fe4f5d2888b6f9912ad1fa0d327aa670aa44"
+    },
+    {
+      "type": "Theme",
+      "name": "déséquilibres commerciaux",
+      "id": "Theme_347a5f43b4a603462ad296359a2ef210e775ef8526af88791ed37ac1fb9d7874"
+    },
+    {
+      "type": "Theme",
+      "name": "excédents",
+      "id": "Theme_2fcca9a87af682981d3107732a4c45947755462b808eba4e69d8a43178ae1916"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités excédentaires",
+      "id": "Theme_4ff31d743a7640fbc1227bd057ccc3c232b1f566b05146f5d82490f46e08ad29"
+    },
+    {
+      "type": "Theme",
+      "name": "respect de la vie privée",
+      "id": "Theme_2d8aab16dec3d53e0c85b225e2506f653692abfa587076c9820a86234d2e47b2"
+    },
+    {
+      "type": "Theme",
+      "name": "données personnelles",
+      "id": "Theme_9f9370077fb97cbbcf480c0bec7be4f09123d630c199238d14bfdd878e1424da"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Law",
+      "name": "nouveau règlement pour la protection des données",
+      "id": "Law_9dc0d0b282b7be5a8471af5ec1ca7fa82a2631625c0f28638e8cad325fb78e02"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "spéculation financière",
+      "id": "Theme_ec6ebf2ec31ef435c86f4257a516a086a5d70724b2ccd146814a06dd86d89b2e"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêts de la classe moyenne",
+      "id": "Theme_a586f31b0c0d55bb8542bf8443c8ac05d642a19597be96fd5250ba9ad5dd18c6"
+    },
+    {
+      "type": "Theme",
+      "name": "démocraties",
+      "id": "Theme_56cab7a53aa93e99087fecefd082e66c8d079b1bc5400d121f702e8873b1648d"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir meilleur",
+      "id": "Theme_4e65d3a6fbfa42ac08cef52dc727204027d21dd15059bba081d39ef7c4a48bb6"
+    },
+    {
+      "type": "Theme",
+      "name": "industries actuelles",
+      "id": "Theme_6b220c50e9a4ed2ca32df5a56f0bb7cc1dffd0b55f510e8ac4665585e0279306"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le changement climatique",
+      "id": "Theme_504686eaf9da17780b058a13a2594c933d7291c47e42289f4aad3ccb5bf3924b"
+    },
+    {
+      "type": "Theme",
+      "name": "économie sobre en carbone",
+      "id": "Theme_bc4b26f34090a375364676af489006c494d870538918603cfbab9b40b723b94f"
+    },
+    {
+      "type": "Theme",
+      "name": "planète",
+      "id": "Theme_38e28b3e4c13e58b47932666932d6ebab6edc14f0cd7822041d0e68c7b34f00c"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "fake news",
+      "id": "Theme_a515c0835333c3660ced327727f6f035f701c56d0749d650df3ebae9ac458d0a"
+    },
+    {
+      "type": "Theme",
+      "name": "corruption de l'information",
+      "id": "Theme_5e38868a836336792256db982c19283d32c9964567f308b4d1b1d2c7ee67b616"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Organization",
+      "name": "Les Etats-Unis",
+      "id": "Organization_63dfcee9cb3118cfd55f59d44a41bb8752f3e6be6f39950a9189f73d2b44d48e"
+    },
+    {
+      "type": "Organization",
+      "name": "La France",
+      "id": "Organization_f0dc3d1cb8e9214f15bc0f50d04be2ee46c400d75c6b4fb0f660fab0b83501ac"
+    },
+    {
+      "type": "Law",
+      "name": "l'accord nucléaire de 2015",
+      "id": "Law_3862224058046c2717033599a6921a0266640b63e917a076c4ee9692f64020b3"
+    },
+    {
+      "type": "Person",
+      "name": "votre président",
+      "id": "Person_ec09243f6300d7c7b7f9e6befd8cd419bc9ab3364af631212778720bcc51f0ba"
+    },
+    {
+      "type": "Person",
+      "name": "le président Trump",
+      "id": "Person_fa178fdde9360ca435451f2988e210651a3c3151ee91fb7d29f534b5a1fcc686"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations Unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "City",
+      "name": "Moyen-Orient",
+      "id": "City_e3a36401cd3c67dbbe7c2b8aa9a0e76c382ae4cc2064d464cb5959c85f6f2f8d"
+    },
+    {
+      "type": "City",
+      "name": "Yémen",
+      "id": "City_73d8af42bb1cbf9da702c313108acdb0316282a51cfd1b9e44a8383a185b94fa"
+    },
+    {
+      "type": "City",
+      "name": "Liban",
+      "id": "City_5f6f6f6681c56da9f131e84a28daf3f291f509f5abb7c8d604a160092a688e16"
+    },
+    {
+      "type": "City",
+      "name": "Irak",
+      "id": "City_5e67e1a21b4a3bfe9a4eca74c85bf96405cb2cb7d4defa31cf7b16de070e31d4"
+    },
+    {
+      "type": "City",
+      "name": "Syrie",
+      "id": "City_23da89808cb9c6c5ee156135d5e5744c6a2aeb2aa141c20e4e0db6a6bd4c346c"
+    },
+    {
+      "type": "Person",
+      "name": "Bachar el-Assad",
+      "id": "Person_cd2146993696bc2a293b383140982b3e93546b2cf372def811ab58af7a181514"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Person",
+      "name": "Trump",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "City",
+      "name": "Sahel",
+      "id": "City_92fe9646c051c53241e17f3fdb2c650a6e9fa01c7eb8480b47877e959ee0b5fe"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "Person",
+      "name": "General de Gaulle",
+      "id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "Person",
+      "name": "le peuple américain",
+      "id": "Person_f4fc4e3476bbaabf3eb6bf23644d7ee8aaf5d4db8a6439d9e968063932b06c26"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Etats-Unis",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "Le miracle de la relation entre les Etats-Unis et la France tient à ce que nous n'avons jamais perdu ce lien particulier profondément enraciné non seulement dans notre histoire mais aussi dans notre chair.",
+      "confidence": 1.0,
+      "source_id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "Voltaire",
+      "relation": "LOCATED_IN",
+      "target": "Paris",
+      "evidence": "le philosophe français Voltaire et Benjamin Franklin se rencontrèrent à Paris.",
+      "confidence": 1.0,
+      "source_id": "Person_98d809b8b0ea8eb4b5f99cac06fe6f2d38ed186f5180cdcfee0dd884eb751568",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "démocratie",
+      "relation": "MENTIONS",
+      "target": "culture",
+      "evidence": "La démocratie repose aussi sur la faculté de décrire librement le présent et sur la capacité d'inventer l'avenir. C'est ce que nous apporte la culture.",
+      "confidence": 1.0,
+      "source_id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd",
+      "target_id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Les Etats-Unis sont le premier partenaire scientifique de la France.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "Etats-Unis",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Les Etats-Unis sont le premier partenaire scientifique de la France.",
+      "confidence": 1.0,
+      "source_id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "Europe",
+      "relation": "ALLIED_WITH",
+      "target": "Etats-Unis",
+      "evidence": "l'Europe et les Etats-Unis doivent faire face ensemble aux grands défis mondiaux de ce siècle",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "source": "Aux Etats-Unis",
+      "relation": "LOCATED_IN",
+      "target": "en Europe",
+      "evidence": "Aux Etats-Unis comme en Europe",
+      "confidence": 1.0,
+      "source_id": "Country_c8b6e18223ef632fc1d335e550a38f9b11e3ce588dd28cd06ee5950a34a1b3ec",
+      "target_id": "Country_a0638700c5dff5cadde54f359ce3fc5958e8f1e8e7eb97e3e371328d604f7f3a"
+    },
+    {
+      "source": "Etats-Unis",
+      "relation": "SUPPORTS",
+      "target": "multilatéralisme",
+      "evidence": "Ce sont les Etats-Unis qui ont inventé le multilatéralisme. Ce sont eux qui doivent maintenant contribuer à le préserver et à le réinventer.",
+      "confidence": 1.0,
+      "source_id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61",
+      "target_id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "source": "le président des Etats-Unis",
+      "relation": "SUPPORTS",
+      "target": "cette assemblée",
+      "evidence": "Avec le président des Etats-Unis et le soutien de chacun des 535 membres de cette assemblée représentant l'ensemble de la nation américaine, nous pouvons contribuer activement, ensemble, à bâtir l'ordre mondial du XXIe siècle, dans l'intérêt de nos concitoyens.",
+      "confidence": 1.0,
+      "source_id": "Person_c50490c2d45cdf8747812dce0556717f5281924f692ff2d23ac693346521dd96",
+      "target_id": "Organization_e2cb4b05b310e3490f3a54992727cac662fbd8f48da2d2068d9ccaa844c4a667"
+    },
+    {
+      "source": "les Etats-Unis",
+      "relation": "LOCATED_IN",
+      "target": "l'Europe",
+      "evidence": "Les Etats-Unis et l'Europe ont un rôle historique à jouer à cet égard.",
+      "confidence": 1.0,
+      "source_id": "Organization_63dfcee9cb3118cfd55f59d44a41bb8752f3e6be6f39950a9189f73d2b44d48e",
+      "target_id": "Country_22c6a9031acb88b09b90ce4000e1a54cc5401d4a34558d7df28560e8576fb0e6"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "PROPOSED",
+      "target": "nouveau règlement pour la protection des données",
+      "evidence": "L'Union européenne a adopté un nouveau règlement pour la protection des données.",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "Law_9dc0d0b282b7be5a8471af5ec1ca7fa82a2631625c0f28638e8cad325fb78e02"
+    },
+    {
+      "source": "États-Unis",
+      "relation": "ALLIED_WITH",
+      "target": "Royaume-Uni",
+      "evidence": "les Etats-Unis et la France, avec le Royaume-Uni, ont agi pour détruire des installations chimiques et restaurer la crédibilité de la communauté internationale.",
+      "confidence": 1.0,
+      "source_id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61",
+      "target_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "source": "Les Etats-Unis",
+      "relation": "LOCATED_IN",
+      "target": "la France",
+      "evidence": "Vive l'amitié entre la France et les Etats-Unis d'Amérique !",
+      "confidence": 1.0,
+      "source_id": "Organization_63dfcee9cb3118cfd55f59d44a41bb8752f3e6be6f39950a9189f73d2b44d48e",
+      "target_id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "source": "le peuple américain",
+      "relation": "SUPPORTS",
+      "target": "Les Etats-Unis",
+      "evidence": "Les Etats-Unis et le peuple américain représentent une part essentielle de notre confiance en l'avenir, en la démocratie, en ce que les femmes et les hommes peuvent accomplir dans ce monde lorsqu'ils sont mus par des idéaux élevés et par une foi inébranlable en l'humanité et le progrès.",
+      "confidence": 1.0,
+      "source_id": "Person_f4fc4e3476bbaabf3eb6bf23644d7ee8aaf5d4db8a6439d9e968063932b06c26",
+      "target_id": "Organization_63dfcee9cb3118cfd55f59d44a41bb8752f3e6be6f39950a9189f73d2b44d48e"
+    }
+  ]
+}

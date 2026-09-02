@@ -1,0 +1,134 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Édouard PHILIPPE",
+      "id": "Person_eee3db1b9dc22c9e1de6f90e00c02ebfd810f3c94392c588dbce10d535fca9d6"
+    },
+    {
+      "type": "Person",
+      "name": "Jean CASTEX",
+      "id": "Person_cddec1ff1a0921139c822cebc3e0c9b0d0624d1a1641c9abfeb8daaafb8d1bf6"
+    },
+    {
+      "type": "Organization",
+      "name": "services",
+      "id": "Organization_9b130930fe50b8f0fb77c92f19a716a0391a392b46cba419828704d2adbc10e0"
+    },
+    {
+      "type": "Law",
+      "name": "loi de la République",
+      "id": "Law_69249a7740577daad02016c40b0d950e1335bba923440ce54b5ba16c284d09c9"
+    },
+    {
+      "type": "City",
+      "name": "Seine-Saint-Denis",
+      "id": "City_233e3fc86b8f043950204615411942c8588180dc642497379d45e4cfe79480da"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de l'Intérieur",
+      "id": "Organization_9ee800613fe4ef77794905dc31745b48ecfcc7ba142a75ef23ebaa037aa7e671"
+    },
+    {
+      "type": "Organization",
+      "name": "services de l'État",
+      "id": "Organization_0e4c3b002b7e0b947f150ac5ade5255303027617ed7e319cef90365be1d32acb"
+    },
+    {
+      "type": "Organization",
+      "name": "préfet",
+      "id": "Organization_4c7322a03d6a97bd6ea7156c5e22375cfac81c92f5e437ef451d5ccfc0a3ca42"
+    },
+    {
+      "type": "Organization",
+      "name": "ministères",
+      "id": "Organization_696c363a57ae330a953dc89267d9d9b51610d900737aa748bf687e311c22c8b6"
+    },
+    {
+      "type": "Person",
+      "name": "Cheikh Yassine",
+      "id": "Person_1c1361b377b431b924a7015cdbd99eb5c00df1f03424cf917387b658684deffd"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Organization",
+      "name": "Formation collégiale",
+      "id": "Organization_669f1470d7dee4ce409164d35aae3c327715703d86cb780f7c956bf49ab41e7f"
+    },
+    {
+      "type": "Event",
+      "name": "attentat de vendredi",
+      "id": "Event_421f8ff7f1e703acb3255c14eef24bc9ee80cf3f34b73da7deb6de64c20c89f5"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la radicalisation",
+      "id": "Theme_8f8ed07c75c9fb68620c9ce544c591336429a6ef9b9bcc6b89b8066fc433e442"
+    },
+    {
+      "type": "Theme",
+      "name": "islamisme radical",
+      "id": "Theme_06829bcd6bf40a8e2dac81c4467b9e53d66545abf8a314e409ce5ec5fdf7943a"
+    },
+    {
+      "type": "Theme",
+      "name": "déclaration",
+      "id": "Theme_d31d451debce8f067a52013aab819408e722f9c8f9f058be802c457e0d540c64"
+    },
+    {
+      "type": "Theme",
+      "name": "attentat de Conflans-Sainte-Honorine",
+      "id": "Theme_e21c2f54e7fd3736c87c384e706151ddeab91d195365baaa5a5cd7d65451a29f"
+    },
+    {
+      "type": "Theme",
+      "name": "islamisme",
+      "id": "Theme_27ff0eb45f552b5e6602a1bf852cc23216c3ada655875d16e062ab82be2f2021"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "ministre de l'Intérieur",
+      "relation": "LOCATED_IN",
+      "target": "Seine-Saint-Denis",
+      "evidence": "Nous venons, avec le ministre de l'Intérieur, ici même dans la préfecture de Seine-Saint-Denis",
+      "confidence": 1.0,
+      "source_id": "Organization_9ee800613fe4ef77794905dc31745b48ecfcc7ba142a75ef23ebaa037aa7e671",
+      "target_id": "City_233e3fc86b8f043950204615411942c8588180dc642497379d45e4cfe79480da"
+    },
+    {
+      "source": "ministre de l'Intérieur",
+      "relation": "VISITED",
+      "target": "Seine-Saint-Denis",
+      "evidence": "Nous venons, avec le ministre de l'Intérieur, ici même dans la préfecture de Seine-Saint-Denis",
+      "confidence": 1.0,
+      "source_id": "Organization_9ee800613fe4ef77794905dc31745b48ecfcc7ba142a75ef23ebaa037aa7e671",
+      "target_id": "City_233e3fc86b8f043950204615411942c8588180dc642497379d45e4cfe79480da"
+    }
+  ]
+}

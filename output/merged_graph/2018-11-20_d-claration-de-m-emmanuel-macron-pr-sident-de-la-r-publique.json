@@ -1,0 +1,844 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame",
+      "id": "Person_6ace0972a12e8e17957064d9f2ab5c314f0de15e6db0c156bc4d6af16f1e6022"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur les Ministres",
+      "id": "Person_febee5f4b3fe91bb14dc7ddba228b2f3526ec205945eae7f532a2045967c169b"
+    },
+    {
+      "type": "Person",
+      "name": "Madame l'Ambassadeur",
+      "id": "Person_ceef8c16930cb7f4b2305b17c2010db3ccda24f367b6f4418cde75d1312c6135"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames",
+      "id": "Person_902acab7ae062adc10320743d44fdc1ffa5eaa234e19e777cfff0f7a794e845f"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les Parlementaires",
+      "id": "Person_9721d90198df552b1c882b8e3717fc4e60d77853de2fc40ce1560ac0113ff824"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs",
+      "id": "Person_5e27fa7c5bdc6bf2a2b2dfa28469fb1f53f1c6d238a1b9870de385953dc8571f"
+    },
+    {
+      "type": "Person",
+      "name": "mes chers compatriotes",
+      "id": "Person_b6b29c7b55b71aae52b700aaa89778c04669d873e35a8a1d54782abede5f747b"
+    },
+    {
+      "type": "Country",
+      "name": "Françaises",
+      "id": "Country_95c8321085c65da7ffec984645e9a2e077a5704fae0920de6687c6f58ff32761"
+    },
+    {
+      "type": "Country",
+      "name": "Français",
+      "id": "Country_c4dad1af940aa0201c7e313e6b26e7081226df3348f51555a362f8ecdb3ac4c0"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Organization",
+      "name": "Entreprises, associations, organisations",
+      "id": "Organization_1eb41f74386ed9187423aeb230d3749eb46496c7ed6460ad834186929f6299fd"
+    },
+    {
+      "type": "Person",
+      "name": "Président POMPIDOU",
+      "id": "Person_af2557ee733eb3546acd3d7cfe5c4453bf81c8b02d1391391cebf268066e885d"
+    },
+    {
+      "type": "Country",
+      "name": "Belgique",
+      "id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Hauts-de-France",
+      "id": "City_c06e31908f8e6669695b5bad7aea2c7e7a7ff7c2dd1b6f6a3f93ba7930c5c3ab"
+    },
+    {
+      "type": "City",
+      "name": "Grand Est",
+      "id": "City_cc46f7d24c7d4373356f70794764c39d58948bde0ecdb5980a07022713090ff2"
+    },
+    {
+      "type": "City",
+      "name": "Bruxelles",
+      "id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "type": "City",
+      "name": "Uccle",
+      "id": "City_a9d0349cd4af11fb62c7056dbeacec8ff1a967f1b785601d03b2eee3b1c8a286"
+    },
+    {
+      "type": "City",
+      "name": "Anvers",
+      "id": "City_f4d88f131edd5ec6677e2d8cec55df7bb646174a69c28ca442a3e90952accb1c"
+    },
+    {
+      "type": "Person",
+      "name": "Madame l'Ambassadrice",
+      "id": "Person_783c16ac4383b349a3f46b496464b07a42e68af0a7f102a08c0670a6b1e248c5"
+    },
+    {
+      "type": "Person",
+      "name": "Pieyre-Alexandre ANGLADE",
+      "id": "Person_a1b027bb1b42910793af9b0c43f406428b9a0ca8f6f8e07597250775da7e2cc7"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "les femmes et hommes de culture",
+      "id": "Person_acea4807ea6e0895697744ebda332ae87c03da5f9b1758c86e7510d32dcc9292"
+    },
+    {
+      "type": "Person",
+      "name": "les entrepreneurs culturels",
+      "id": "Person_e02c592b281fd05fdd48bf8e1a7feb7dca344626b282dd023f43350f5f0367a0"
+    },
+    {
+      "type": "Organization",
+      "name": "Salon du Livre",
+      "id": "Organization_61d4967d47efc9f20cab06d485bb95888c37199b6b3b4f5ab298a11fa27f4668"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme",
+      "id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "type": "City",
+      "name": "Molenbeek",
+      "id": "City_d079d91e8f2f483598f44eec153f0af353e9a64c3af5c31a45ead956e6e5e772"
+    },
+    {
+      "type": "City",
+      "name": "Louvain",
+      "id": "City_e80dcf2feba298491a57be2165262983793a2cbc232ff56040f3effaada2dbb5"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance économique",
+      "id": "Theme_ef310c23658e43aeea7061a18b2d0ee2a261b80d96a5f8bd01849ba57f7d6095"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance d'inspiration pour l'Europe",
+      "id": "Theme_58cfb56638336053fa13dc7d4f760711c37eee0a141086226c305fa4d6c9dc58"
+    },
+    {
+      "type": "Person",
+      "name": "Edouard Philippe",
+      "id": "Person_eee3db1b9dc22c9e1de6f90e00c02ebfd810f3c94392c588dbce10d535fca9d6"
+    },
+    {
+      "type": "Law",
+      "name": "une loi promulguée il y a quelques semaines",
+      "id": "Law_38db656fe4353debcca2d63f71c27a021829828bc5aa6b2a3b8f2b4678c17328"
+    },
+    {
+      "type": "Theme",
+      "name": "apprenantes",
+      "id": "Theme_d7aa97be961428de2bc10967444210616709136708ac0e74c066985bcc0273e5"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "alternance",
+      "id": "Theme_e3f21d31fa72ff483f36fce87cb36e1f9390ee2f85d5501c603b5e049f66f775"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Law",
+      "name": "durée légale du temps de travail",
+      "id": "Law_d75586d133c27f613786cd3757c1e9ef1efbbea103559da527101e2dc41a1e19"
+    },
+    {
+      "type": "Law",
+      "name": "loi",
+      "id": "Law_485a9dc7d96da743855079c7a36cf38d2dd611ec76c37030d236a6e1748b6bcc"
+    },
+    {
+      "type": "Law",
+      "name": "lois prétendues protectrices",
+      "id": "Law_b8418b3a7b7b033b9922919600e90fef90c8d79178f513621c8c8463af0d504e"
+    },
+    {
+      "type": "Law",
+      "name": "rigides",
+      "id": "Law_83c0dac5f63f23b8a743e62e01f7e3866444aafb5d3026ebb88129d9b1b0c0b8"
+    },
+    {
+      "type": "Theme",
+      "name": "cycles économiques",
+      "id": "Theme_c73533d36e5dd8a956b516dfa469dbca8501b5c0bbd146b8bf890687736a6a01"
+    },
+    {
+      "type": "Theme",
+      "name": "variations",
+      "id": "Theme_9b6250bff84ff1316fd2b5081dd1d8beebd9fd4491c461a24b88205f7828da8d"
+    },
+    {
+      "type": "Theme",
+      "name": "évolution de notre société",
+      "id": "Theme_bdf03f562688f0dd5429ca3c7583c839191558824a0594e2c0344b04c8f5a820"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "formés",
+      "id": "Theme_1b3710577ddb637e8faac0f482cb39906b722f7133de86100c92ac939fc4a20e"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunes",
+      "id": "Theme_a20dcaf37efe496f33d1e4c4be9f3c3dabe56fc83fe45c815f1d76fdaaef0dcf"
+    },
+    {
+      "type": "Theme",
+      "name": "formation continue",
+      "id": "Theme_d18e1a9a5a0d28b86c4c26d89c7251127d3b6568d657b729496a9bce421860ba"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôles",
+      "id": "Theme_64043a3024d453b0d075acae2d790b2b8c5bbf83a239e7a0512368a98a588527"
+    },
+    {
+      "type": "Theme",
+      "name": "offres d'emploi",
+      "id": "Theme_894f485155c1ccf7ff4a564116274146906be38e2cd9aecbd8e0a9c80602418a"
+    },
+    {
+      "type": "Theme",
+      "name": "système d'indemnisation du chômage",
+      "id": "Theme_3467a0910907cee638129c84a1847fed64fc4c89a39ae56a9ac46c4c9f8caff0"
+    },
+    {
+      "type": "Country",
+      "name": "notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Theme",
+      "name": "mérite",
+      "id": "Theme_3d393f153734585dc0f11a629fab7f6d2a8c5c0aea0a8cfc412dc946e49aecc5"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Theme",
+      "name": "redressement français",
+      "id": "Theme_6da61dba9b6b356f7a984a859e0f88ef141bff94bef64fcef49adf538ff6909a"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir d'achat",
+      "id": "Theme_63effc12fc7fbc533757050c1218d45395229580f9c3bfcec7f32cb9090cc9f2"
+    },
+    {
+      "type": "Theme",
+      "name": "travail et de production",
+      "id": "Theme_263c38057880024424a3d5b18c7a564965e84dbecf0c997b339206aa70cdd1f4"
+    },
+    {
+      "type": "Theme",
+      "name": "gâteau",
+      "id": "Theme_d90e94738eab70ff8307440eae7edfeac9f15b4645a8ce0b565f1f6f3db8ece2"
+    },
+    {
+      "type": "Theme",
+      "name": "formation professionnelle",
+      "id": "Theme_d846003645ad5e5e511208f664265ae5edc2a1f2c5d843f3ff4622d434eb6c71"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "digital",
+      "id": "Theme_b6b89ff1774153e15bd0edfe749c79fc690e98e41fe3dafd0d5406a2ef47a438"
+    },
+    {
+      "type": "Theme",
+      "name": "macro-économique",
+      "id": "Theme_91f8e14a0e200e9ea79dcfa3baf688f4134042bfa84cd6051a440166815292a9"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "services",
+      "id": "Theme_8299ccf1b63b51d91e44358ba39932fb7db2cd2f142bfe27817e5ce17318f1ca"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "capital humain",
+      "id": "Theme_5d98d8ae18c55bfe3c10e087fd2be3e19506c07d67ad5d77bdaf0fff4dcd51b9"
+    },
+    {
+      "type": "Theme",
+      "name": "capital productif",
+      "id": "Theme_1aa194ae3ad020fc2408a2f885fcdbae95ae4696477fc398bdce0718309ebb89"
+    },
+    {
+      "type": "Theme",
+      "name": "impôt sur la fortune",
+      "id": "Theme_6105febdd4307ade59c1c98f497e82ac408081c476f28ff62e64c37bd84dcdfd"
+    },
+    {
+      "type": "Theme",
+      "name": "taxation de tous les revenus du capital",
+      "id": "Theme_699246e454f7bf20191bcc63dd4f837fafd0012d41a32a2fa9424970533c4acd"
+    },
+    {
+      "type": "Theme",
+      "name": "Flat Tax à 30 %",
+      "id": "Theme_20a80152f5ac2515af4f0d06edbdc08dfbbcc3aef80ef6332736a1b7adf501a9"
+    },
+    {
+      "type": "Theme",
+      "name": "transition",
+      "id": "Theme_e63e6ab1512da86e741fe3d7ec082523f6b684c749eb3aef27e0dfd412c0a6b6"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "Trente Glorieuses",
+      "id": "Theme_2795d77e1b9ea52f1a36b8be10b91cf895713de2fa4121b6d04a00bace240255"
+    },
+    {
+      "type": "Theme",
+      "name": "grandes puissances",
+      "id": "Theme_baf6ea28523611c56db57c9d00dd3851d38b0dea3e998ed35f21e1f1129f602f"
+    },
+    {
+      "type": "Theme",
+      "name": "société",
+      "id": "Theme_23d952489b07041be7b06f706f86ec7cfc55af055e1b2e2f815671e6fa2ef5ed"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement",
+      "id": "Theme_b53e869b761ff3b2e610c18e6c0fd53e10ad5d2a8ba8bf353be9d0f1148d8c43"
+    },
+    {
+      "type": "Theme",
+      "name": "transition environnementale",
+      "id": "Theme_5e37f3c8c60f20746d380d6a4139d2d781d2b492c1e0d454b607399b998a41b3"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle de production durable",
+      "id": "Theme_621bc316a794b053f506699c5d973d4d18944c477586ca5880043337c3286ebe"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction massive des émissions",
+      "id": "Theme_664923bd0880869b994f80e2a1da1075cd5dcdac73c3fd446280b7da0f866387"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de responsabilité",
+      "id": "Theme_e70b57dd3fd93b3f3d6cd80a8d61bf0ce65e9eaa76aae7eae8397728c4359455"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition alimentaire et agricole française",
+      "id": "Theme_25894e035bc323e19e6380375f9b77c257809c1a0f1cac9aa1d8be98ecc9f42b"
+    },
+    {
+      "type": "Theme",
+      "name": "phytosanitaires",
+      "id": "Theme_f8490ae1e64807cebd778887223fedf07829f3b18da7872033889333008de85f"
+    },
+    {
+      "type": "Theme",
+      "name": "modes de production",
+      "id": "Theme_591211c7405d7be78c877bd4587aef4c6358a54fa9a72b34196c2ce6250682e0"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence collective",
+      "id": "Theme_41d7be80f8ed67f68733fb95f4852bb9637c4b75ca4552f86a47481fec3d9998"
+    },
+    {
+      "type": "Theme",
+      "name": "transition digitale",
+      "id": "Theme_ac5f24eea1105ebc49a698278922395a489f558acce0b65867c583d8701c1c68"
+    },
+    {
+      "type": "Theme",
+      "name": "fracture numérique",
+      "id": "Theme_9a8016f3ae2ca30c2f0efde3cb0bc301e3ce84522b2380e8358f7e34cae3668c"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie intelligence artificielle",
+      "id": "Theme_1c4996ce2ba781958c0cca5d9ca2abacb2677ad35ae1f08efed715dca23c927f"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement",
+      "id": "Theme_efc3dc97047baa5c3d3ee692ed991601fa0b8b2e5b98fe282efd49cfc58792e6"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement dans la recherche et le développement",
+      "id": "Theme_f4aa0d76d8cc2886264c7a49c42ed6cf7be49b36a7cc6caf6ea8747bcf39d30e"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation de notre tissu productif",
+      "id": "Theme_a426c62c99f2f845a1589b31677f36d60b8bf649a9e21255fbe8f8a565a90ceb"
+    },
+    {
+      "type": "Theme",
+      "name": "cohésion nationale",
+      "id": "Theme_698c7f71286d93cfb04d480356d487cff65c86a9c33fe1d320b5047352711418"
+    },
+    {
+      "type": "Theme",
+      "name": "service national universel",
+      "id": "Theme_aac51ed073ec968cdf55805e1637ecd4d52aa84e531553ee107ef36a913fffc9"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyenneté",
+      "id": "Theme_299e26433fd038aaeb6d9c98e39f7323f3f780a7ec7bf9addad3444e3982be18"
+    },
+    {
+      "type": "Theme",
+      "name": "auteurs",
+      "id": "Theme_42cb9a8e4e0b7a4109f171e6bd9168fb4e8bbdb4e4b6cdfffd535c480f0d9528"
+    },
+    {
+      "type": "Theme",
+      "name": "imaginaire français",
+      "id": "Theme_bfd73ba9035acead596293697021dfe45126fe103d59eb927a1f8bf59853f72e"
+    },
+    {
+      "type": "Theme",
+      "name": "territoires",
+      "id": "Theme_66de4f396b7cd7f12f716e7146777cfaec081e489f77ec12af0287dcfb14bf40"
+    },
+    {
+      "type": "Theme",
+      "name": "émancipation économique et sociale",
+      "id": "Theme_1dbad05469c0a18a1f122499678ab162a5bba575f406636c819e6afa200fca3c"
+    },
+    {
+      "type": "Theme",
+      "name": "justice territoriale",
+      "id": "Theme_c3e27c7719cfadbafc56906142bdf6b18ef054063faac9f159d5ffe12c434472"
+    },
+    {
+      "type": "Theme",
+      "name": "émancipation des individus",
+      "id": "Theme_f26f9825847b0b09010229337f53da089bf82c8852e3c58aaed99f2d782d291e"
+    },
+    {
+      "type": "Theme",
+      "name": "école",
+      "id": "Theme_e4023600e045c977a775d339830e8508634d36394f9b8486f09d01cdd3b05e6b"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "entreprenariat",
+      "id": "Theme_76ad9bc9b5172ac0e0c0fe73b885dc54a90957e21e4a73713d2c2391226e8dec"
+    },
+    {
+      "type": "Theme",
+      "name": "intégration",
+      "id": "Theme_9b465ab894b8bfb75cfe85c6c2a62e461ff9c28c3f3b9628dee65738a7b3c1de"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation des religions",
+      "id": "Theme_381ddcf1a0fba898125e26978611cb66a249f272d1c80b71aea0b30eb6dcf499"
+    },
+    {
+      "type": "Theme",
+      "name": "lois de la République",
+      "id": "Theme_5c7ebd3b5c9fd42c79f6332c2a377359069f377ea52a7436d108e37979813708"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Etat",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Theme",
+      "name": "travail et de mérite",
+      "id": "Theme_7894c4dee03a1226df8bc69bbd71f2b3f6e8cb8cf35d22a13d8961837ef41ccd"
+    },
+    {
+      "type": "Theme",
+      "name": "transitions au pluriel",
+      "id": "Theme_17256a5fc137e06f984252c80a4a4f69fcece8ca39767d978602825aa3fe7a1f"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance éducative",
+      "id": "Theme_04997f0730d626aace0229be05dff221eddde1694da608c324cf9a6213524fff"
+    },
+    {
+      "type": "Event",
+      "name": "élections européennes",
+      "id": "Event_c1f2e9b3212020f2f1d354731367cda16b34d0de25e7a2e8ddb388ff15bc626b"
+    },
+    {
+      "type": "Theme",
+      "name": "sens de l'universel",
+      "id": "Theme_9711b1abee6eb297c17e5c3d585dc3ee6aeba83af0a46a0c458666b4173bf441"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "Histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "Front national",
+      "id": "Theme_50c3eafda51c7a6937922330ba1556f10f15350fcab714a8fb90ff5e40c4f74e"
+    },
+    {
+      "type": "Theme",
+      "name": "extrêmes",
+      "id": "Theme_c31fa51fc0c77a9930a418e47137a72e725c9cb20b5a68a20ed1d0b7c0e12a83"
+    },
+    {
+      "type": "Theme",
+      "name": "partis nationalistes",
+      "id": "Theme_37d23b515fecf1136efd00160d853a7703c44489036174a886623e6bf68dddd4"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "Union bancaire",
+      "id": "Theme_f9c841f93a94134a4e484b837202a4153798333567ec2947cd74ae78cf37b30d"
+    },
+    {
+      "type": "Theme",
+      "name": "Démantèlement de l'Europe",
+      "id": "Theme_cf60af54788d92578f31f3be83d338736110ef72198bea8bff9d86bff24ec842"
+    },
+    {
+      "type": "Theme",
+      "name": "l'Europe",
+      "id": "Theme_81b7414e372defdec7d2fbba9beb2ffc6573e5f21c7e3614a4af9e4b4d91410d"
+    },
+    {
+      "type": "Theme",
+      "name": "les élections",
+      "id": "Theme_72c7c86b3927d68a8925eb398d935b7bf620a1453e19a717d90af01419d68b21"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "démagogues",
+      "id": "Theme_077792e5001f9de32b7625ec90de4377b1e8fcba25e20a007b241d8336e09e9b"
+    },
+    {
+      "type": "Country",
+      "name": "Américains",
+      "id": "Country_6deacfea67d43d8edf2e015f463699edc5cfeb9009ed4e46fcc78a0336700d79"
+    },
+    {
+      "type": "Country",
+      "name": "Chinois",
+      "id": "Country_8a2104f7b82499fab39ff741fc89db263c1a058b792c58e43313b16680417483"
+    },
+    {
+      "type": "Theme",
+      "name": "cyberattaques",
+      "id": "Theme_8b366adba9bc7e60236c9235812ed1f4309c1f1068ddd054f3bf447276b1002a"
+    },
+    {
+      "type": "Theme",
+      "name": "données individuelles",
+      "id": "Theme_afdc97fad798f8629151674533f1f8661cbcaa8d8cb0716fe91dc8c62973a47c"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "protection",
+      "id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "type": "Theme",
+      "name": "risques migratoires",
+      "id": "Theme_5feb77b74ed9779eb678b1f87fda121da3c996a890f94cfa2949b656376f398c"
+    },
+    {
+      "type": "Theme",
+      "name": "Etat de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition collective",
+      "id": "Theme_8e3a023db835358852361702d4cce35f75b6bfe21c8d4eed12a9f3dfef002a5d"
+    },
+    {
+      "type": "Theme",
+      "name": "volonté de protéger",
+      "id": "Theme_b32cb8b131bb11f42633ccc7e9c99057b5701ada7dafe9df1e0c120d85c9eff9"
+    },
+    {
+      "type": "City",
+      "name": "BOZAR",
+      "id": "City_72deb3fe2e180ea866a40f9e050c9f14929c83c571a0a77bf6e6041fe8336a55"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Person",
+      "name": "mes chers amis",
+      "id": "Person_928addbcc526072ee197e54d32f7216fd858e7a76df582007df6b673d997757e"
+    },
+    {
+      "type": "Country",
+      "name": "la Belgique",
+      "id": "Country_a887151bbfde52563a674e4cd7a45aa44e821026c054f98ede0ecfda9ca85bfc"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "Country",
+      "name": "l'Europe",
+      "id": "Country_22c6a9031acb88b09b90ce4000e1a54cc5401d4a34558d7df28560e8576fb0e6"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Belgique",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La frontière entre la Belgique et la France, c'est la plus longue frontière métropolitaine pour notre pays.",
+      "confidence": 1.0,
+      "source_id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "puissance économique",
+      "evidence": "C'est de refaire de la France une grande puissance économique",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_ef310c23658e43aeea7061a18b2d0ee2a261b80d96a5f8bd01849ba57f7d6095"
+    },
+    {
+      "source": "durée légale du temps de travail",
+      "relation": "MENTIONS",
+      "target": "loi",
+      "evidence": "Fini les débats théoriques sur une durée légale du temps de travail qui ne serait définie que par la loi.",
+      "confidence": 1.0,
+      "source_id": "Law_d75586d133c27f613786cd3757c1e9ef1efbbea103559da527101e2dc41a1e19",
+      "target_id": "Law_485a9dc7d96da743855079c7a36cf38d2dd611ec76c37030d236a6e1748b6bcc"
+    },
+    {
+      "source": "cohésion nationale",
+      "relation": "MENTIONS",
+      "target": "territoires",
+      "evidence": "Cette politique de cohésion nationale, c'est aussi une politique des territoires",
+      "confidence": 1.0,
+      "source_id": "Theme_698c7f71286d93cfb04d480356d487cff65c86a9c33fe1d320b5047352711418",
+      "target_id": "Theme_66de4f396b7cd7f12f716e7146777cfaec081e489f77ec12af0287dcfb14bf40"
+    },
+    {
+      "source": "cohésion nationale",
+      "relation": "MENTIONS",
+      "target": "émancipation économique et sociale",
+      "evidence": "Cette politique de cohésion nationale, c'est aussi une politique des territoires et de l'émancipation économique et sociale",
+      "confidence": 1.0,
+      "source_id": "Theme_698c7f71286d93cfb04d480356d487cff65c86a9c33fe1d320b5047352711418",
+      "target_id": "Theme_1dbad05469c0a18a1f122499678ab162a5bba575f406636c819e6afa200fca3c"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la France est l'un de ces peuples qui ont le sens de l'universel",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Front national",
+      "evidence": "En France, il y a près de cinq ans, le parti qui a gagné les élections européennes est le Front national",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_50c3eafda51c7a6937922330ba1556f10f15350fcab714a8fb90ff5e40c4f74e"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "L'Europe est ce seul espace de coopération qui permet de nous protéger vraiment.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "ambition collective",
+      "relation": "MENTIONS",
+      "target": "ambition collective",
+      "evidence": "d'avoir une ambition collective",
+      "confidence": 1.0,
+      "source_id": "Theme_8e3a023db835358852361702d4cce35f75b6bfe21c8d4eed12a9f3dfef002a5d",
+      "target_id": "Theme_8e3a023db835358852361702d4cce35f75b6bfe21c8d4eed12a9f3dfef002a5d"
+    },
+    {
+      "source": "BOZAR",
+      "relation": "LOCATED_IN",
+      "target": "BOZAR",
+      "evidence": "à BOZAR",
+      "confidence": 1.0,
+      "source_id": "City_72deb3fe2e180ea866a40f9e050c9f14929c83c571a0a77bf6e6041fe8336a55",
+      "target_id": "City_72deb3fe2e180ea866a40f9e050c9f14929c83c571a0a77bf6e6041fe8336a55"
+    },
+    {
+      "source": "la Belgique",
+      "relation": "ALLIED_WITH",
+      "target": "la France",
+      "evidence": "ambassadeurs de la France et de l'amitié entre la France et la Belgique",
+      "confidence": 1.0,
+      "source_id": "Country_a887151bbfde52563a674e4cd7a45aa44e821026c054f98ede0ecfda9ca85bfc",
+      "target_id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "source": "la France",
+      "relation": "LOCATED_IN",
+      "target": "l'Europe",
+      "evidence": "ambassadeurs de la France et de l'amitié entre la France et la Belgique, merci d'être ces ambassadeurs de l'Europe !",
+      "confidence": 1.0,
+      "source_id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93",
+      "target_id": "Country_22c6a9031acb88b09b90ce4000e1a54cc5401d4a34558d7df28560e8576fb0e6"
+    }
+  ]
+}

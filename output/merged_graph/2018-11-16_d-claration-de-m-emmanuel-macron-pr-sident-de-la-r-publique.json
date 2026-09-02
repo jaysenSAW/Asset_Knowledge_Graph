@@ -1,0 +1,504 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les Parlementaires",
+      "id": "Person_513d1485982528e0834eb4f4c38b73da53f9e4817cd30f728fe27e32d9fc11d3"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente du Conseil régional",
+      "id": "Person_75f883ce412ea691982fa9a5af22054d4eb489f793e0d83c1e144a337670b8f2"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente du Conseil départemental",
+      "id": "Person_9cc61b7b2edca3a2cf3bbdf961e2add113659f0bae7c3fb6041e0f13c27a0106"
+    },
+    {
+      "type": "Theme",
+      "name": "humanité",
+      "id": "Theme_ebe8df3ac285e08d8c5b09a171c984dd674712e8f6706876ba58be414310d3e9"
+    },
+    {
+      "type": "Theme",
+      "name": "œuvres",
+      "id": "Theme_9f58a80d4ddd250aa4b48c0d813526e87e54ce2ef2f45f8619b709c063a19b5e"
+    },
+    {
+      "type": "Theme",
+      "name": "musée",
+      "id": "Theme_b11e0811ef01199590a2b1938b4c831f984dce7a1ea1ff388a7cb829595881d5"
+    },
+    {
+      "type": "Theme",
+      "name": "collection",
+      "id": "Theme_75a2afc2ad4c441dcad95f4152a4ca07c2b008014112a1a84d0c95dabe46009a"
+    },
+    {
+      "type": "Theme",
+      "name": "esthétiques",
+      "id": "Theme_f25b5a101a07c6b22e20a221c1ebae4b095629401f7881424e91edb7ab3ca0c2"
+    },
+    {
+      "type": "Theme",
+      "name": "courants",
+      "id": "Theme_fb7de0cbea4c3855817d26284af6d92b05044cbf8c54ff8317db155ec62ebe00"
+    },
+    {
+      "type": "Theme",
+      "name": "sensibilités",
+      "id": "Theme_d2d0eb33795541994e3fbc1a4e639a30252e72b2979815fa63b91da8eb3ce3e3"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "regards",
+      "id": "Theme_5780974045d7b2744d73ac11ee4431f87c85308b0db342406e2c1f41f99f9512"
+    },
+    {
+      "type": "Theme",
+      "name": "dessins",
+      "id": "Theme_f30a06fb145943c91731867071a3b56094b94ff69fd8c8f6aae9dcfd492ae137"
+    },
+    {
+      "type": "Theme",
+      "name": "XVIIIe",
+      "id": "Theme_5da5094f25004f6386f7e1b6d557a3b15c356a4f3b6d8c5bf2eac882bec9b60c"
+    },
+    {
+      "type": "Theme",
+      "name": "collectionneurs",
+      "id": "Theme_59bf138c08974c472d9a25c19fe9f323f83ec092544603d807f8044a3b2180f2"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "trésor encyclopédique",
+      "id": "Theme_daded092832725c3f692c71791b171583a736d1eda4a3edf435054b5283269d6"
+    },
+    {
+      "type": "City",
+      "name": "Besançon",
+      "id": "City_689bd81a18e9b8c5e224b112eebb5a17053deab3529bdfabeb135b2ee2d6df60"
+    },
+    {
+      "type": "Organization",
+      "name": "musée",
+      "id": "Organization_97891246d0be8ca1bbd8de5fe14f084edf6eb1d2d9b54862ee6b2159e1f7e2af"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Directeur",
+      "id": "Person_a72eada1ec2002512e5b2debfc8141db7f0771fd002e532e9f3bfcc893ac1e33"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue constant",
+      "id": "Theme_c9a4b60fd009abe8f76e62f7189decc92f60a5c6c97d7554a9e5944c409b3f60"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité à marier",
+      "id": "Theme_58f2abde948f13c1a0a6e8c712f5f66f0908f9f528af78660da181ef10f785b0"
+    },
+    {
+      "type": "Theme",
+      "name": "talents du pays",
+      "id": "Theme_cbc5ae6a55a00a361a7b515296f19b4b911760fe16c2842bf67485b434cd30ed"
+    },
+    {
+      "type": "Theme",
+      "name": "grands collectionneurs",
+      "id": "Theme_117af428802bebabb29d85b4601649daa27478816e89dbc86b635ec9a012dd4a"
+    },
+    {
+      "type": "Theme",
+      "name": "collection unique",
+      "id": "Theme_e43c585ab6fce5b4e376483b469173f09395b63aa82d88c435dd35a007cbc9be"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Ministre de la Culture",
+      "id": "Person_e9371038a7c8bcb38e8378a694db58cce5b71ed660fbf8ee92adb034255735eb"
+    },
+    {
+      "type": "Person",
+      "name": "Adelfo SCARANELLO",
+      "id": "Person_892148acb0122e76141680c4db48f95d37b0db81d22f8d873a4dba4468da8ef9"
+    },
+    {
+      "type": "Organization",
+      "name": "musée des Beaux-Arts et d'Archéologie de Besançon",
+      "id": "Organization_43925529e09ec9f6d60508d7743406148541360618a0393eaaa1acdecb158d97"
+    },
+    {
+      "type": "Person",
+      "name": "Marnotte",
+      "id": "Person_df17d37316fe369179e1839b94dd3a2be865905fc462c03a36c7ffda9469358c"
+    },
+    {
+      "type": "Person",
+      "name": "Miquel",
+      "id": "Person_62af2f26d09c3b02b5e2e257d520508f66ded3b0d50583a6bc340312a6ca6a45"
+    },
+    {
+      "type": "Person",
+      "name": "Victor Hugo",
+      "id": "Person_6d98b7360277ea4560e5ef78ccc22709417d9d4b98a51ca35197b48f487916bc"
+    },
+    {
+      "type": "Theme",
+      "name": "architecture du XXe siècle",
+      "id": "Theme_a494786771b6de7a1ac0a92301e62ebe7f1a697cfd6f3e0f83abc3b4d2c72569"
+    },
+    {
+      "type": "Theme",
+      "name": "collections",
+      "id": "Theme_b2a1bb0b1886258451e402cf24727feae425eda4aba680a037a18625d2d553d4"
+    },
+    {
+      "type": "Theme",
+      "name": "accrochages de tous les siècles",
+      "id": "Theme_333589af62478e42a37b0abd6cee2f4541cb6c6deffb0294c0b21e2d4d641719"
+    },
+    {
+      "type": "Theme",
+      "name": "lumière du jour",
+      "id": "Theme_e6e4266df2b41d0b6f3eb6f18bda4c88ef64cdfd6f5bb284c27ec2c40243fa3e"
+    },
+    {
+      "type": "Theme",
+      "name": "expérience esthétique unique",
+      "id": "Theme_976b067250446380857912373a0f3636726f5b3666db8038cd81df7c1d34097c"
+    },
+    {
+      "type": "Theme",
+      "name": "rêve de Malraux",
+      "id": "Theme_18c2c5a5c7bed7e38747107112bdfd8cb656e1addfd59a52d807617b41266270"
+    },
+    {
+      "type": "Theme",
+      "name": "musée imaginaire",
+      "id": "Theme_c359ae2e27bad71ca23b770d60f7d86dcd82901cf751d983a00e9484d7b06ee4"
+    },
+    {
+      "type": "Theme",
+      "name": "expression esthétique",
+      "id": "Theme_2c2b123a06b79b0e6e1661b82f4cc4fa641b60bc2ff742b3233842efc570a63d"
+    },
+    {
+      "type": "Theme",
+      "name": "lieux uniques",
+      "id": "Theme_800ccdc5c0f6615b36772eea19258150383f5d0f03114f625b579e0c464ea9b7"
+    },
+    {
+      "type": "Theme",
+      "name": "musées",
+      "id": "Theme_49e5e04de2bfb6fe6f90e62ad24089495cbfaf08bb6e4c06b260a9659cc43769"
+    },
+    {
+      "type": "Theme",
+      "name": "accessibilité",
+      "id": "Theme_1957b4ea681f1942db363acf7d64fc551e0bf71ec8a778fb83fdde0f41a61e3b"
+    },
+    {
+      "type": "Theme",
+      "name": "Mesures d'adaptation et d'aménagement de l'espace social destinées à en faciliter l'accès aux personnes handicapées ou à mobilité réduite",
+      "id": "Theme_b6c0e828c2e07934884917c3902798ce3bd97cd8419135477b320545370313d2"
+    },
+    {
+      "type": "Theme",
+      "name": "création",
+      "id": "Theme_a463f772ae14adf1d9f578edb8f3a9be473efc5135b65450d927e8cdeac7a890"
+    },
+    {
+      "type": "Theme",
+      "name": "sensibilité",
+      "id": "Theme_4545956afc14ab867078843dbbddc7c755993f84f4d8128d88d6ae1c7f1b58ea"
+    },
+    {
+      "type": "Theme",
+      "name": "Beau",
+      "id": "Theme_adc07a0860e338f4664572b7cc5683440122576353bd6a46f01a95e679efc9b2"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalité",
+      "id": "Theme_f706c7e04957ec4ad8e5a194d8033e71e6efdf65205139fdead9a63d8ec2b6c2"
+    },
+    {
+      "type": "Theme",
+      "name": "art officiel",
+      "id": "Theme_ba88f183f47c856f60b2be470c7531c50f01a4e427975750a553c4098c9cad1e"
+    },
+    {
+      "type": "Theme",
+      "name": "esthétique",
+      "id": "Theme_9810d6c34c8534e64f3a73107c669632c15904f2362679a1a404be87a51758aa"
+    },
+    {
+      "type": "Theme",
+      "name": "gadget",
+      "id": "Theme_d88f58a52b77b93119cd00e2ea045b0ff3f98c58fb28460058f037a010b4862a"
+    },
+    {
+      "type": "Theme",
+      "name": "parcours",
+      "id": "Theme_46cb4e90d94a456e335c529001af8c42f78fc7a805d5bf37fcdf7846dfd98143"
+    },
+    {
+      "type": "Theme",
+      "name": "temps à l'école",
+      "id": "Theme_4333569df78f80266b93a81d1a0842125e9c801cc15a9a65100e6aa4d15ae3ca"
+    },
+    {
+      "type": "Theme",
+      "name": "habitudes",
+      "id": "Theme_14b3da1d365ab1b7ed09d1cfa11cf23a7fb9eb971576144ce71e1dc864096457"
+    },
+    {
+      "type": "Theme",
+      "name": "parents",
+      "id": "Theme_00abb9e437fd8465aceea8c1beed8f4d6a6b80e23ac29b2d5e353d06e64e928f"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Organization",
+      "name": "Département",
+      "id": "Organization_65342a3058a1ad25a78cffc0983aa3df5a8430ca321be6260c6764f73d048f10"
+    },
+    {
+      "type": "Organization",
+      "name": "Région",
+      "id": "Organization_63f7a47a75715c9c27edcabe3ee93e2bac09d0c6b542f047f7c253738775aafd"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "émancipation",
+      "id": "Theme_f065c4ae0b5f92b698169ed43af465c75aa8cc1a41199ad1c664e2181d37ea78"
+    },
+    {
+      "type": "Theme",
+      "name": "accès",
+      "id": "Theme_964024a58480ebf1bb2311a85afaee7099584623128aedaa5f5cd31d4b1c9276"
+    },
+    {
+      "type": "Theme",
+      "name": "ouverture",
+      "id": "Theme_d26e5520976d90b087bf131ac2ad0a496e1e510b33f2d5f036ee68ae2c8b562e"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités territoriales",
+      "id": "Organization_0a60af9062d171d1595f93fdf0e1ec5531b2a4a8c4cb1f6341762a0df5e03438"
+    },
+    {
+      "type": "Organization",
+      "name": "élus du territoire",
+      "id": "Organization_8be72a6e5d05dd491e3fe70dc51660f2f5db5960a8e0a181bfb79cfdc607ffb6"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "mécènes",
+      "id": "Organization_53f598b0bd36cd9f6e3cc25d72d182bbce5b23b9eaa527316c1faafdc6a7f77b"
+    },
+    {
+      "type": "Organization",
+      "name": "acteurs privés",
+      "id": "Organization_bc59bd9b51acda699ea79b384c07cbab4423ecf18ab4ab0ad06c43cb401b0e8a"
+    },
+    {
+      "type": "Organization",
+      "name": "secteur privé",
+      "id": "Organization_3745e8a399783e7a84a94aac910ff2ad210aa46fde84b6dfe1092fdd58c457dd"
+    },
+    {
+      "type": "Organization",
+      "name": "concitoyens",
+      "id": "Organization_c6c3e69657e198da98817081ef490db8814f4622f047d75d1f3d58639a748fbf"
+    },
+    {
+      "type": "Person",
+      "name": "Madame",
+      "id": "Person_6ace0972a12e8e17957064d9f2ab5c314f0de15e6db0c156bc4d6af16f1e6022"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente du département",
+      "id": "Person_b7c171fa983d1a40dea8a556f425fe8432c74d9901e3b6771796936197eb158a"
+    },
+    {
+      "type": "City",
+      "name": "Monsieur le Maire",
+      "id": "City_5c460d801f963642a03915d29acd93f0e28ba285b8d9f6d2f0aae873c8ddba9c"
+    },
+    {
+      "type": "Organization",
+      "name": "UNESCO",
+      "id": "Organization_44cf334686fd664fecedb6944caa3782522449e029aa1a57346edd5f2ff5eebd"
+    },
+    {
+      "type": "Organization",
+      "name": "Cité des Arts",
+      "id": "Organization_d96e1760722d75d8f2f172ba7ed2e8435129b8111d8ed43b0a2d8edf764a32d9"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "City",
+      "name": "Dijon",
+      "id": "City_4b72995d2a8f6f4f0754aa0966f3f2034f9ddebf2b295d3052b33040dac27622"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Theme",
+      "name": "catalogue des désirs",
+      "id": "Theme_46bf2b9484561e9c010ef7c5b214f4d9b4003122c1facd1dd758f94382792470"
+    },
+    {
+      "type": "Theme",
+      "name": "expositions",
+      "id": "Theme_22843953084f5fe481e1a59f1dfd568f5dbbeedd24d582d4dac6f8700e2416f1"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "artistes",
+      "id": "Theme_03a7dfb7846bc5f465b150fab1640cb2380901875d8af55ff6e6b0621f11985c"
+    },
+    {
+      "type": "Theme",
+      "name": "territoires",
+      "id": "Theme_66de4f396b7cd7f12f716e7146777cfaec081e489f77ec12af0287dcfb14bf40"
+    },
+    {
+      "type": "Theme",
+      "name": "décentralisation",
+      "id": "Theme_8cdbeea2048deb633c4b678480b824c211c9c3809c1c56bd2de057c9fda69508"
+    },
+    {
+      "type": "Theme",
+      "name": "politique culturelle",
+      "id": "Theme_e81f63074f3d4a6e2e56f622ea5b99fa967496b799ff59c11971b66bb144f03d"
+    },
+    {
+      "type": "Theme",
+      "name": "créativité",
+      "id": "Theme_550d4dc699a796ca3be62727957df316896d3858817d9e91c8d89c6f5b2da032"
+    },
+    {
+      "type": "Theme",
+      "name": "artistes contemporains",
+      "id": "Theme_7a0efdd91fbc36e0fe8b4a4d26bdcab7d649a543d17cb945c3d1b08dd2559742"
+    },
+    {
+      "type": "Theme",
+      "name": "art d'aujourd'hui",
+      "id": "Theme_896afe723db74ea34377bf8384648ab00e08c5853ba56b54742c9975f2c7cc7d"
+    },
+    {
+      "type": "Theme",
+      "name": "musée des Beaux-Arts et d'Archéologie de Besançon",
+      "id": "Theme_3b06ff28fb230f95e2beec006f3e3638453693f507e720e907b6eb864b3ec1a4"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "pays",
+      "id": "Theme_5836828ee3d8fa593516bc08496d10257dac03542b9574bc9646bddf731326cb"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "musée",
+      "relation": "LOCATED_IN",
+      "target": "Besançon",
+      "evidence": "C'est ensuite un musée qui retranscrit de l'archéologie et donc de l'Antiquité bisontine [Antiquité gallo-romaine de Besançon]",
+      "confidence": 1.0,
+      "source_id": "Organization_97891246d0be8ca1bbd8de5fe14f084edf6eb1d2d9b54862ee6b2159e1f7e2af",
+      "target_id": "City_689bd81a18e9b8c5e224b112eebb5a17053deab3529bdfabeb135b2ee2d6df60"
+    },
+    {
+      "source": "musée des Beaux-Arts et d'Archéologie de Besançon",
+      "relation": "LOCATED_IN",
+      "target": "Besançon",
+      "evidence": "musée des Beaux-Arts et d'Archéologie de Besançon",
+      "confidence": 1.0,
+      "source_id": "Theme_3b06ff28fb230f95e2beec006f3e3638453693f507e720e907b6eb864b3ec1a4",
+      "target_id": "City_689bd81a18e9b8c5e224b112eebb5a17053deab3529bdfabeb135b2ee2d6df60"
+    }
+  ]
+}

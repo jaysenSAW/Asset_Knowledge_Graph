@@ -1,0 +1,682 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "les agents de la préfecture",
+      "id": "Person_f0bb96fb6f1812e5e358777f2b403a4817d993851ffffe75c2f0d8c8f37722c8"
+    },
+    {
+      "type": "Person",
+      "name": "l'ensemble des maires",
+      "id": "Person_3f15cfd942a193828f165e73146a00ff2d4c226e92cc0e7e31b70a7cab4d6d71"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Ministre de l'Intérieur",
+      "id": "Person_3eed46fa691cf2c51499b4b90bc43d477b245de16f959bf813ef1f255279f518"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les Parlementaires",
+      "id": "Person_513d1485982528e0834eb4f4c38b73da53f9e4817cd30f728fe27e32d9fc11d3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le maire d'Orléans",
+      "id": "Person_c17bda3122801c8f63bc1a82f2b4b6d0ff2050a7c026e6de6d8df6ea136ea973"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le maire de Saint-Jean-La-Ruelle",
+      "id": "Person_fcff1f4fa3b4099de1faf0fbfe2abb62b144f719fe790156f91efa338e463708"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs",
+      "id": "Person_625fe3a313c056b9dc1724205255b9a7767c4b46670f91284ff4a20cb9382408"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Préfet",
+      "id": "Person_53c349332859a6f29fc7e202b933842f8a6c690203ea9dd3a5a57a1f2636c209"
+    },
+    {
+      "type": "Person",
+      "name": "demandeurs d'asile",
+      "id": "Person_70452ea293d5603acf9ab15a4bf462961ccde64e9ac32e3644173f6b08042e5c"
+    },
+    {
+      "type": "Person",
+      "name": "travailleurs sociaux",
+      "id": "Person_18ed95a7d82528592db5bba872a099e1429b117abc8bc5323c189d4a68cfb2d0"
+    },
+    {
+      "type": "Person",
+      "name": "familles",
+      "id": "Person_3435fb257588db7297164d16c8377c352d677cd5c77eb8969a73691ea8fb9ad9"
+    },
+    {
+      "type": "Person",
+      "name": "cérémonie",
+      "id": "Person_45e7124d61ef6f30f6733dcd54777ec4d3120175484badc8196238c205553eab"
+    },
+    {
+      "type": "Person",
+      "name": "décret de naturalisation",
+      "id": "Person_5e0bae4671d086e9aaa910f239bec31067bb424909686b46871bae7fba3bbf26"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "volonté commune",
+      "id": "Theme_f993bd2c87aab16eb8bee7127c42de31a30d120c8f605baa4f781a9078a480c4"
+    },
+    {
+      "type": "Theme",
+      "name": "Histoire de France",
+      "id": "Theme_ba653bbf5de0c55f35346e1848a09370b27b6c2277c7e7a500609784071ceec0"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "devoir",
+      "id": "Theme_6e292e98f50e3e850a47789cf53027b698a287df6c8abcf7e9b5bbd3cf317de6"
+    },
+    {
+      "type": "Theme",
+      "name": "défis collectifs",
+      "id": "Theme_df8efc320a0842f1ee277a5b8591ea1d0faf923ab6c133e96d8929f0bb911415"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "universalisme",
+      "id": "Theme_be32ff05b2d5c9dc371964e8c9dccc99b005e4d31ab9d2adc606d6ba1924a69d"
+    },
+    {
+      "type": "Theme",
+      "name": "peur de l'autre",
+      "id": "Theme_c49409a55d23aa1fc711627015b31d1685729f4b367e7a83447aaddda05548e6"
+    },
+    {
+      "type": "Theme",
+      "name": "rétrécissement",
+      "id": "Theme_0cb8a8b7201c1a9194b8e4b4b62d275d0e41c692758757773d820d33343969c1"
+    },
+    {
+      "type": "Theme",
+      "name": "injustice",
+      "id": "Theme_f50d0badc765b4168fd5c9e2bc18a19ca3762b14518aa59aa8a19218df31b713"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité",
+      "id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "type": "Theme",
+      "name": "vocation",
+      "id": "Theme_933ff8674e801be7fbc4d23eb08e35d59b244a11f8d4cbda5be83d5ae10e6e8c"
+    },
+    {
+      "type": "Theme",
+      "name": "peurs",
+      "id": "Theme_5467548b402804ea9f29376842dbc22856f50e3debd3f3f63979f8d498741ffc"
+    },
+    {
+      "type": "Theme",
+      "name": "repli",
+      "id": "Theme_90ce70dc1d4f9a64f6559f5bc5abd8aa0b0ca7c794b84d279d5871f113e03fa7"
+    },
+    {
+      "type": "Theme",
+      "name": "bons sentiments",
+      "id": "Theme_c1d03e6977d320f816c9ab66e54fb55277c1d409c4a1903fc155214799decd52"
+    },
+    {
+      "type": "Theme",
+      "name": "générosité",
+      "id": "Theme_d4ebaf9775b43ff18ffebb5252cba8c64ff5877c57aaa93c2812f2471b3396aa"
+    },
+    {
+      "type": "Theme",
+      "name": "idéaux",
+      "id": "Theme_8da289a38159a2386f6a9b1bbc2c378d3b860a38939ea44f0ba7fe0a28a5adcf"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "accueil",
+      "id": "Theme_631c2fc6627d70a4b94aaf156130a29c81c545a53446711b3f1e1e4c93b417f1"
+    },
+    {
+      "type": "Country",
+      "name": "Notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Country",
+      "name": "République",
+      "id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    },
+    {
+      "type": "City",
+      "name": "Proche et Moyen-Orient",
+      "id": "City_e060881869bea8a6c175e4379e0a8377c2b8cac2658b9e7e1676bac857344e1b"
+    },
+    {
+      "type": "City",
+      "name": "Balkans",
+      "id": "City_01fd53bbe1993198b70c5bad3d977b4975ebaf57c12d850470b4e78d2d38a6d7"
+    },
+    {
+      "type": "City",
+      "name": "Afrique",
+      "id": "City_e81979a21143817a99ac592e6ba21932628674ed0da410c41538620d061eb868"
+    },
+    {
+      "type": "City",
+      "name": "Méditerranée",
+      "id": "City_9d0a5741de9fafb94e045360dddcff5fd3320003f53cc0eee5bebfef6e12abe6"
+    },
+    {
+      "type": "Theme",
+      "name": "asile",
+      "id": "Theme_cd88f89a51614f7b8addc880c2aac7c86f554a1aa7bc17024cc6a92883621591"
+    },
+    {
+      "type": "Theme",
+      "name": "droit d'asile",
+      "id": "Theme_a81084e788c48c89a0e2207025ddc0b45bb48104d0a4e55811c46fa436818ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "persécutés",
+      "id": "Theme_03efa24ff50a6abacbb5a4acd02cdda5140c81bc573ac40fd29b83bc05ff599e"
+    },
+    {
+      "type": "Theme",
+      "name": "combattants de la liberté",
+      "id": "Theme_d1d223ee76ead8e6fa1409bd29f6b6fada3e427309f649bf174b4d95aa7a3e99"
+    },
+    {
+      "type": "Theme",
+      "name": "misère",
+      "id": "Theme_e5fe8aa4113e8afa8c41be65477328f8742799cae67cc0603b7f0d9c9ec84bd9"
+    },
+    {
+      "type": "Theme",
+      "name": "angoisse",
+      "id": "Theme_a87d238cf2667a0f54139ddfe68aada0d20b40896077ee5828db2c5684eb0fe2"
+    },
+    {
+      "type": "Theme",
+      "name": "exilés",
+      "id": "Theme_5713c9744f6306d0fefab66c5592008854078437ca64644a38fe1613d33e829b"
+    },
+    {
+      "type": "Theme",
+      "name": "migrants",
+      "id": "Theme_1d074596036ecc51c01601d267df6a6b94c8b4eb098d626c77b299ecdf632428"
+    },
+    {
+      "type": "Theme",
+      "name": "pays sûrs",
+      "id": "Theme_27ba587f79ab864a2426785fd46872ac1ad81368e93f78c8e914609031245f5d"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations économiques",
+      "id": "Theme_cb5ede6c808958ebca74638d96e67c6e9a076bd1d0fd45ac34f57c64d8d4817c"
+    },
+    {
+      "type": "Theme",
+      "name": "passeurs",
+      "id": "Theme_51147051753b171560a1292d277ba89cff9e1b6064706be24d8ffdf6e8a0f211"
+    },
+    {
+      "type": "Theme",
+      "name": "banditisme",
+      "id": "Theme_3ae9cc3891aacf590129726f06e9ff92547b373a033437eb8a9d8adf29edfd82"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "City",
+      "name": "Libye",
+      "id": "City_2d5b93c767cca6c774dcaffe6d4db358e20f76255d46ec7fb9cefcdbf343a8c0"
+    },
+    {
+      "type": "Theme",
+      "name": "migrants économiques",
+      "id": "Theme_f4b9212807c7a71c92518a5f32b2039b59a83f165fa00ecb872ed0c60f7992a8"
+    },
+    {
+      "type": "Theme",
+      "name": "réfugiés demandant l'asile politique",
+      "id": "Theme_83d1c34758d305b03b6cd471b7869fdd09a72f3fcbfb200a116cd6680051315c"
+    },
+    {
+      "type": "Theme",
+      "name": "difficultés économiques",
+      "id": "Theme_3757e9d81009402aa9ce3ef7b912132afb5c4b76264baf4b87a68f13827e69d6"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "City",
+      "name": "Orléans",
+      "id": "City_558cf35877fb477f9e5997fa223af29045c163833253c8aaf8d9d9e3db8820fe"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Person",
+      "name": "SARRAJ",
+      "id": "Person_a1ffdcf9cf789ac04268127c8f29ba48f69ffd35ab0c58433a74d4e760c83d82"
+    },
+    {
+      "type": "Person",
+      "name": "HAFTAR",
+      "id": "Person_c23a7b44a8ef6463412e86413a438efcb64d0f197a71b028104bdb6a798e32f6"
+    },
+    {
+      "type": "Country",
+      "name": "Niger",
+      "id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliance pour le Sahel",
+      "id": "Organization_c3876035d5822097fdf46465bdd2616eb45ed52ea9a91f05a7f60ad8705ce7bc"
+    },
+    {
+      "type": "City",
+      "name": "Bamako",
+      "id": "City_4f639f1af21a3fa724a7dd0dd3fc27ab3754b26e27b2b2daedebb582f264453f"
+    },
+    {
+      "type": "Country",
+      "name": "Africain",
+      "id": "Country_698477977960eea221b48ef749235cdb4b76cadf5c10309acc73346625c29054"
+    },
+    {
+      "type": "Theme",
+      "name": "exigence française",
+      "id": "Theme_80856aaa870024e6494337fe4f98c4193f7050dafdd6ee66dae7059dd9e50f0e"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de celles et ceux qui risquent leur vie",
+      "id": "Theme_1d2af36535515124e2bf4fee3a4f5acc3fe9cfbb39240058747ed30a61d2a1b9"
+    },
+    {
+      "type": "Theme",
+      "name": "se battre pour la liberté",
+      "id": "Theme_dd9213f205e977e575423dfbe669397484ce83f3dce08dcadbce130cdb164dbc"
+    },
+    {
+      "type": "Theme",
+      "name": "démanteler les filières terroristes",
+      "id": "Theme_1507ce87f7a65feffa8b0d3373727a3c2f1b0f538d6be3544f4ca43769891dec"
+    },
+    {
+      "type": "Theme",
+      "name": "accueil de ceux qui sont en besoin de protection",
+      "id": "Theme_23136284c0a5cfae694dff562dec0cde75460e3c02a7c8d9fceaae4c3c315d89"
+    },
+    {
+      "type": "Theme",
+      "name": "réalité d'un droit",
+      "id": "Theme_9b4d1017a3294fc9dbb2d7606e4657143ef8ee04c0834e37267a9599ce313268"
+    },
+    {
+      "type": "Person",
+      "name": "Simone WEIL",
+      "id": "Person_c1dbb05b80e7521e58230cf678cfd0d0e5a8a2c4f0d330dec664cdccad8e3c9f"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "crise migratoire",
+      "id": "Theme_26ddd1819da3462f219f9685a8838f0cad9c6704543579786b15d339febefece"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Etats d'origine",
+      "id": "Country_b1f32d6c61b962b57ae5a2c954264c0589a1c09389dc2071486c63348adeee9c"
+    },
+    {
+      "type": "Organization",
+      "name": "OFPRA",
+      "id": "Organization_e98ff105e8c6194d893a07d1818478d7cce7d5e66017a775c954fda346348298"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Ministre d'Etat, ministre de l'Intérieur",
+      "id": "Person_031c3fa9b9b7fd663b0ef07f336ec01c98e9e14c00ba7f277e70e79eabf1dcd1"
+    },
+    {
+      "type": "Organization",
+      "name": "vos services",
+      "id": "Organization_4bdfcc1e58b6db4689c6148ab4945b4ef208a0e94878386c66b167ec469f8a71"
+    },
+    {
+      "type": "Organization",
+      "name": "toutes les associations",
+      "id": "Organization_e8467049676f7ac771ac8790975f5d6dd6d454212b3e9ba6f562001d4ac8befb"
+    },
+    {
+      "type": "Organization",
+      "name": "toutes les collectivités locales",
+      "id": "Organization_458fb54d137512b3655edace9fc8964824be305acbf7e9b60cc24ca9ae552ef0"
+    },
+    {
+      "type": "Organization",
+      "name": "l'OFPRA",
+      "id": "Organization_3fad380cdb2e15248cc2d7b8d35f6eca483d1d8d62ce0cfdf3c9b1a8f87a5f49"
+    },
+    {
+      "type": "Organization",
+      "name": "la CNDA",
+      "id": "Organization_46189410111673945819f009df23bbab5ca3a82614c10817555356db261e4b3b"
+    },
+    {
+      "type": "Theme",
+      "name": "traitement administratif",
+      "id": "Theme_10997774cda2eab59a35dc5541ca05e5259b0917c06988f5ce73cc9fc4b95682"
+    },
+    {
+      "type": "Theme",
+      "name": "système",
+      "id": "Theme_8d2bd4c17ae9f6aedd7a809555b1cce0c3cd227f3ba23f2a66d0a3fd1d2e5161"
+    },
+    {
+      "type": "Theme",
+      "name": "politique de reconduite aux frontières",
+      "id": "Theme_aabadf35bc3ba68a81df3b2cd649f503b6b2d1f516b950eb2235ff9c2b565538"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalité",
+      "id": "Theme_c6557f034a83ec628847c245a4a083f3472ceb878e620b798e2c4c4daea24f91"
+    },
+    {
+      "type": "Theme",
+      "name": "précarité",
+      "id": "Theme_7d215c4da17753ff0025006f673473ca77cf2f6fdcb96fd766c5f0e720f4fb51"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "procédures",
+      "id": "Theme_eadb30aff3ccccd0da665303dde6fb7bab63f35b109b026e43e778fa66178d98"
+    },
+    {
+      "type": "Theme",
+      "name": "CNDA",
+      "id": "Theme_acc903815c4218247d342bd8b6964b8b67182b2a45af500f66383e67754c4df4"
+    },
+    {
+      "type": "Theme",
+      "name": "accueil des réfugiés",
+      "id": "Theme_05b93ea48370f477253f208e9b039d849a2626a1465722660d2d2d796037e281"
+    },
+    {
+      "type": "Theme",
+      "name": "intégration dans la République",
+      "id": "Theme_556a0accdbb544f0799ad26cebd54857277548fe6261101990c6748a61b2475f"
+    },
+    {
+      "type": "Theme",
+      "name": "logement durable",
+      "id": "Theme_b7a02462f877fd6c60708472663594a49a340b5a4d2e1b095fd71ba8cc78b792"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "procédures de retour",
+      "id": "Theme_a409a8ffa268353eed5a041fc99ec675bc86b8e86d7ad528712c59fa232638b6"
+    },
+    {
+      "type": "Theme",
+      "name": "développement et de coopération",
+      "id": "Theme_8f1028fe9b845e72565b712aaea0b3bd89ce580ddd979467071aab0fc3a5ed09"
+    },
+    {
+      "type": "Theme",
+      "name": "violences",
+      "id": "Theme_e1be313a671c9fc82f0ddae646c23fae1b533f1f5e446ce338dc737f703e7023"
+    },
+    {
+      "type": "Theme",
+      "name": "traitements indignes",
+      "id": "Theme_f0b4e3b43bc65e6c36589f8829df6bde5dead41d95b1d36b939dbb430e83c177"
+    },
+    {
+      "type": "Theme",
+      "name": "comportements de rejet",
+      "id": "Theme_0fb37323694c95496090b7a0a5e47f5cd6035ccb5fefe02c9388d40e4482a638"
+    },
+    {
+      "type": "Theme",
+      "name": "murs",
+      "id": "Theme_4cc0a53e0c80ba96cc1a747ffdac7604161cbc6189b07d86cb65ff715a91198e"
+    },
+    {
+      "type": "Theme",
+      "name": "incompréhension",
+      "id": "Theme_8c73c01e6889895d3e5d814c1e50578294c0efb6d1d770d0689ae346605769d1"
+    },
+    {
+      "type": "Theme",
+      "name": "peur",
+      "id": "Theme_738708750471a3b2e2ee4af7e7441623b0486e69c4ecf7d601645e10149e55db"
+    },
+    {
+      "type": "Theme",
+      "name": "délinquance",
+      "id": "Theme_9ff0654d948659717628f932e41df01a9007422e2d02c90e5c4c198c80fc1032"
+    },
+    {
+      "type": "Theme",
+      "name": "rigueur",
+      "id": "Theme_ced594acbb918da251fbeaa5295cc98309db209f00becec0832165c6ea0fdd1d"
+    },
+    {
+      "type": "Theme",
+      "name": "traitement digne",
+      "id": "Theme_15c29617b97f0de2abbeccbf4ae115f245c8e91ba951342abe7c45ad44d8f569"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité des contrôles",
+      "id": "Theme_38828e1a64ec4652e4bf9608f2d0d27944081080138752405294f309bd0e16ed"
+    },
+    {
+      "type": "Theme",
+      "name": "règles à respecter",
+      "id": "Theme_a5aad5dc65510cee921ad6329b7bb09ac558c0a0ed8e8189dfe284f6d24dee45"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme",
+      "id": "Theme_d10bce3b67531a6774cd57104a434124f2a796f10cbfff22bb37dbeba66cb515"
+    },
+    {
+      "type": "Theme",
+      "name": "Liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "Egalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Theme",
+      "name": "Fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "réel",
+      "id": "Theme_d66e433f5c96a7e9c57fcab0aa6579e80e3471e07c0d135d03a4aa631f53cde5"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "vous incarnerez la France",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "idéaux",
+      "evidence": "Et en vous accueillant aujourd'hui parmi ses citoyens, la France démontre qu'elle n'est pas une communauté de sang, mais une communauté d'idéaux, de destin, de valeurs, une communauté que rapproche cette conception commune de la vie ensemble et de la valeur de l'homme.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_8da289a38159a2386f6a9b1bbc2c378d3b860a38939ea44f0ba7fe0a28a5adcf"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "valeurs",
+      "evidence": "Et en vous accueillant aujourd'hui parmi ses citoyens, la France démontre qu'elle n'est pas une communauté de sang, mais une communauté d'idéaux, de destin, de valeurs, une communauté que rapproche cette conception commune de la vie ensemble et de la valeur de l'homme.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "asile",
+      "evidence": "La France doit jouer pleinement son rôle à l'égard de ceux qui sont en besoin manifeste de protection, et qui relèvent de ce fait du droit d'asile, les persécutés, les combattants de la liberté.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_cd88f89a51614f7b8addc880c2aac7c86f554a1aa7bc17024cc6a92883621591"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "droit d'asile",
+      "evidence": "La France doit jouer pleinement son rôle à l'égard de ceux qui sont en besoin manifeste de protection, et qui relèvent de ce fait du droit d'asile, les persécutés, les combattants de la liberté.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_a81084e788c48c89a0e2207025ddc0b45bb48104d0a4e55811c46fa436818ff4"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "persécutés",
+      "evidence": "La France doit jouer pleinement son rôle à l'égard de ceux qui sont en besoin manifeste de protection, et qui relèvent de ce fait du droit d'asile, les persécutés, les combattants de la liberté.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_03efa24ff50a6abacbb5a4acd02cdda5140c81bc573ac40fd29b83bc05ff599e"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "combattants de la liberté",
+      "evidence": "La France doit jouer pleinement son rôle à l'égard de ceux qui sont en besoin manifeste de protection, et qui relèvent de ce fait du droit d'asile, les persécutés, les combattants de la liberté.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_d1d223ee76ead8e6fa1409bd29f6b6fada3e427309f649bf174b4d95aa7a3e99"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "l'Union européenne, et à tout le moins, la France",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "République",
+      "relation": "MENTIONS",
+      "target": "République",
+      "evidence": "A ce moment où ces idéaux se croisent avec le quotidien, je vous le dis à vous qui devenez aujourd'hui citoyens Français, je le dis aux maires qui sont ici présents, dont je sais la charge, et à l'ensemble des élus de la République, nous avons des différences, des discordes, notre peuple est grand parce qu'il est aussi un peu plus critique, mais n'oublions jamais ce qui nous rassemble au-delà de tout ça, ce sont ces idéaux conjugués au réel. C'est cela la tâche à laquelle nous devons nous atteler, plus grande encore chaque jour, et à laquelle, je dois vous le dire, à vos côtés, et pour vous, je ne cèderai rien, ni des idéaux, ni du réel.",
+      "confidence": 1.0,
+      "source_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    }
+  ]
+}

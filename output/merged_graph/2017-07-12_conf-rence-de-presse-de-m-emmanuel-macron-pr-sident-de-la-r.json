@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Paolo",
+      "id": "Person_c4665486b7d420785fa3582d3d895c8c7ad158feaa6452c9e1742804e0b6aebd"
+    },
+    {
+      "type": "Person",
+      "name": "Angela",
+      "id": "Person_f5838b292df0ac2c4afafc7946e13d71da37e0fb3a65ee0cc13dbe5880598d53"
+    },
+    {
+      "type": "Person",
+      "name": "MERKEL",
+      "id": "Person_11ad4e67ef3a2e4b330ebc39970509630c2fce5702d04790e6328b02bf6b451d"
+    },
+    {
+      "type": "Person",
+      "name": "GENTILONI",
+      "id": "Person_3d99d0f4434c81c0b71b2e09eb5e849743536afe9c57590e8512ab7e8c161775"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Zone Euro",
+      "id": "Organization_2f6a079aced661f0f4634969da31afaf96d2da3c7a204087ef923b740e9a6b97"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Erythrée",
+      "id": "Country_088d9f7697effd35349cd63410d4cf4e17de34c281229bd3abe140453146e4dd"
+    },
+    {
+      "type": "Theme",
+      "name": "réfugiés politiques",
+      "id": "Theme_9d21fc79237ad9750f7ec86a426783bcf18d0644727461776a072bda6de2335b"
+    },
+    {
+      "type": "Theme",
+      "name": "migrants économiques",
+      "id": "Theme_f4b9212807c7a71c92518a5f32b2039b59a83f165fa00ecb872ed0c60f7992a8"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Person",
+      "name": "l'Italie",
+      "id": "Person_76fd1c61ef95961ba6a3a2409feda3d8fe038ea6d51b8cc653ee48baf41643ed"
+    },
+    {
+      "type": "Person",
+      "name": "l'Allemagne",
+      "id": "Person_5fb2808ad22386f5790fceecfa6b644dd755695c3b812cf7897d8f56221e07d7"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliance pour le Sahel",
+      "id": "Organization_c3876035d5822097fdf46465bdd2616eb45ed52ea9a91f05a7f60ad8705ce7bc"
+    },
+    {
+      "type": "Organization",
+      "name": "nous",
+      "id": "Organization_1abd5dcfaef874841c719199a08352984f3121ba4d175d7705d1c0f89b7da3de"
+    },
+    {
+      "type": "Country",
+      "name": "Africains",
+      "id": "Country_5b8f784698912cadad1504ddc86f8e9a7a1d4295190faaa9461f1f7f5adf1539"
+    },
+    {
+      "type": "Theme",
+      "name": "trafic",
+      "id": "Theme_615426dcd3396cc472876d269ef0cb74f0de92c7b5df68b1339290d62a6ad79c"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "nous",
+      "relation": "SPOKE_ABOUT",
+      "target": "trafic",
+      "evidence": "si nous voulons agir efficacement contre les trafics et le terrorisme",
+      "confidence": 1.0,
+      "source_id": "Organization_1abd5dcfaef874841c719199a08352984f3121ba4d175d7705d1c0f89b7da3de",
+      "target_id": "Theme_615426dcd3396cc472876d269ef0cb74f0de92c7b5df68b1339290d62a6ad79c"
+    },
+    {
+      "source": "nous",
+      "relation": "SPOKE_ABOUT",
+      "target": "terrorisme",
+      "evidence": "si nous voulons agir efficacement contre les trafics et le terrorisme",
+      "confidence": 1.0,
+      "source_id": "Organization_1abd5dcfaef874841c719199a08352984f3121ba4d175d7705d1c0f89b7da3de",
+      "target_id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    }
+  ]
+}

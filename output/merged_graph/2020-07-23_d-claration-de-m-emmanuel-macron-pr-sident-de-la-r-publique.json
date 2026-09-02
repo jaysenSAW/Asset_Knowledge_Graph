@@ -1,0 +1,152 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Nícos",
+      "id": "Person_7a763f14f0cac6ae6300700a6a6b285fff0f880e9b7ecd3447200f513f6ec2e3"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Bruxelles",
+      "id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Méditerranée",
+      "id": "City_9d0a5741de9fafb94e045360dddcff5fd3320003f53cc0eee5bebfef6e12abe6"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "MED 7",
+      "id": "Organization_6955a4083af6bc1c1d67ea2687be1c94f91df9ac2a37abdd0a7fee946f502793"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "francophonie",
+      "id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération économique",
+      "id": "Theme_4d9ad0755f2213e9c13c8d6817f70b09eaacd493f7665cb114cf5731864a45d8"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Anastasiádes",
+      "id": "Person_815e1753616539aa4d3d8bc45bf4242c5862dadb18eb562f905800d08c6b26f3"
+    },
+    {
+      "type": "Country",
+      "name": "Turquie",
+      "id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Chypre",
+      "id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "City",
+      "name": "Libye",
+      "id": "City_2d5b93c767cca6c774dcaffe6d4db358e20f76255d46ec7fb9cefcdbf343a8c0"
+    },
+    {
+      "type": "Event",
+      "name": "opération IRINI",
+      "id": "Event_605978cbc23c23e8e0c572c499d1495a607f21cb12456df4de5aa7766399651d"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Nícos",
+      "relation": "LOCATED_IN",
+      "target": "Bruxelles",
+      "evidence": "cher Nícos d'être aujourd'hui à Paris et je suis très heureux de vous accueillir quelques jours après l'accord historique que nous avons conclu à Bruxelles",
+      "confidence": 1.0,
+      "source_id": "Person_7a763f14f0cac6ae6300700a6a6b285fff0f880e9b7ecd3447200f513f6ec2e3",
+      "target_id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "source": "Nícos",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "cher Nícos d'être aujourd'hui à Paris",
+      "confidence": 1.0,
+      "source_id": "Person_7a763f14f0cac6ae6300700a6a6b285fff0f880e9b7ecd3447200f513f6ec2e3",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Chypre",
+      "evidence": "Cher Nícos, je veux ici une nouvelle fois redire la pleine solidarité de la France avec Chypre, mais également avec la Grèce, face aux violations de leur souveraineté par la Turquie.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Grèce",
+      "evidence": "Cher Nícos, je veux ici une nouvelle fois redire la pleine solidarité de la France avec Chypre, mais également avec la Grèce, face aux violations de leur souveraineté par la Turquie.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    }
+  ]
+}

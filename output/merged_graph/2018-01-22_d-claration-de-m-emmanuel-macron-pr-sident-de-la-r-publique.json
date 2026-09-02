@@ -1,0 +1,1321 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier président",
+      "id": "Person_3ea2eac37fa88b6a80d77f22a9d8412681da2049e1b08335f637f3e2058748c4"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Procureur général",
+      "id": "Person_cd2637689f59087172c5b087191cabc4702deb6ede2c3d4d048d9ce1d9652591"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Sénat",
+      "id": "Person_7e68447f1fff5598debf68f88e590723f4177208acb10cd696ea6f7e3498c1e1"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les ministres",
+      "id": "Person_04725bf2245672793e76174d8746ec28f46c281ef73283bf9390941f137cf2cf"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les élus",
+      "id": "Person_271cb721002ea7abe3b15bcad709df18a3cf4248d0db3ac918f9fa8e5753ec04"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les magistrats",
+      "id": "Person_c921c18c1ec3756b59af5fb5c04f23eb1fac6154fcebceed2cdb11b5f115e76b"
+    },
+    {
+      "type": "Theme",
+      "name": "approche budgétaire et financière",
+      "id": "Theme_806423e538437d6f6518d6ac231c7388f356734bb51ee8649e145770a6c72f3c"
+    },
+    {
+      "type": "Theme",
+      "name": "finances publiques",
+      "id": "Theme_5c2dc2f996e67f8ddbe79eb535369467c79e0718dbddb27732da4838032796fd"
+    },
+    {
+      "type": "Theme",
+      "name": "dépense publique",
+      "id": "Theme_a8265cf0f6670ba05e534f6d96a314e65b318185a8145429d94a4f2106d1635f"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscalité",
+      "id": "Theme_8f3af7311a6bcfd253a580ecacd3fb0434ee40de042b8221f99b1b400f0a3b76"
+    },
+    {
+      "type": "Theme",
+      "name": "dette publique",
+      "id": "Theme_04c73e126a8e518b12ab072eb8d806e3213e17326efcb7c968c0f14dc5de8908"
+    },
+    {
+      "type": "Organization",
+      "name": "Cour des comptes",
+      "id": "Organization_3903d3595adb5588f0a630a5719b5112d3ab24ed926648d0df47a0bc320e7052"
+    },
+    {
+      "type": "Theme",
+      "name": "injustices",
+      "id": "Theme_0855c0e2dc1112337e3cd6841ffa76fd1676a6bcadc7979d4dcfe94cb98b8912"
+    },
+    {
+      "type": "Theme",
+      "name": "inefficacités",
+      "id": "Theme_3c9bdc2224cfcbc5c889d249c1150fc6616204fd48f0359e84e35aa369a8b011"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "effets",
+      "id": "Theme_8cdb46317618a6789898fff7ba577ff511e5cf9200b9099d6de777862501118e"
+    },
+    {
+      "type": "Theme",
+      "name": "causes profondes",
+      "id": "Theme_b820cf4b18a1bd59b9dcc8e7533cb31f2a61ec36133684515e271e7aef4974eb"
+    },
+    {
+      "type": "Theme",
+      "name": "formation professionnelle",
+      "id": "Theme_d846003645ad5e5e511208f664265ae5edc2a1f2c5d843f3ff4622d434eb6c71"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "logement",
+      "id": "Theme_5482b77c02cb27b743d7ba44022361e1f99e9ac6c8c98c177add71ee6c65ef55"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation publique",
+      "id": "Theme_129d192909cf3e26380c59f83ccc15398cd63d71eec98d1031c9956b4bd26b57"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme profonde",
+      "id": "Theme_885744a35765a228bcac4905abe68316a8ae1594d253d19d5c2fca5c6d0109ac"
+    },
+    {
+      "type": "Theme",
+      "name": "discipline budgétaire",
+      "id": "Theme_9e59506fec1b9fa4406262adb9d5e2c6a7fad78f173c4abe9decc458b89a9e14"
+    },
+    {
+      "type": "Theme",
+      "name": "dérapage des dépenses",
+      "id": "Theme_e5e3be37cf048f59894ebb04c333de9b13efd55f6303a3de66a8a5a324a0fef0"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte de stabilité",
+      "id": "Theme_4ca8ecb2c876420d71783f238b7248fd7962ad195f76409e4f5d30b7dfc3b8c9"
+    },
+    {
+      "type": "Law",
+      "name": "surtaxe d'impôt sur les sociétés",
+      "id": "Law_3d45e1d3656e60a2616e53654ba72c4308b022c230e8b534603000d1d49f47ee"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil constitutionnel",
+      "id": "Organization_c856e421415fa3c1c9ca6b7d4e820fae68e01b58b97177b13f2e6143a448f79d"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "impôts",
+      "id": "Theme_e039bfc7ccff8aa85085db8ce217e7430b68e294f8d0bde57c171f438f07c4c9"
+    },
+    {
+      "type": "Theme",
+      "name": "déficit public",
+      "id": "Theme_1fd166c015850d9cf37d578984b0b912714f91505d57920ef1771fb27e5441f3"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructures",
+      "id": "Theme_d711aaaa56cea790c01e9aeb41b7659ac488b2a837642df3eed8eeb83ff64968"
+    },
+    {
+      "type": "Theme",
+      "name": "politique de transformation",
+      "id": "Theme_d5755701ffb14fb339554b735e5bd8d48bb6fa54f9949739d7a20d577a6a1278"
+    },
+    {
+      "type": "Theme",
+      "name": "politique d'investissement",
+      "id": "Theme_a97f129cd4c43e53ba7e03792820572a571ee532280b9d66262910a81eb8abc0"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes importantes en matière d'emploi",
+      "id": "Theme_0d5dbcf3e8530d1d06b81b9e1b5da8332e09e14e5c82344c5bafd78a0923f1f5"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanismes d'indemnisation",
+      "id": "Theme_b2e7860144faa215225043f9317472e8b7b5cd3d3489d515a4707766d4d9d056"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacités",
+      "id": "Theme_8926c412446cbd40504a755504bc691f7b74ea5fad72ac43216e57d848532a8c"
+    },
+    {
+      "type": "Theme",
+      "name": "dysfonctionnements du marché du travail",
+      "id": "Theme_7e615c3fbc15fcdd0625d4c9590b339e49a69df2fdca8739584f1cedd31708ed"
+    },
+    {
+      "type": "Theme",
+      "name": "chiffres de l'Assurance chômage",
+      "id": "Theme_595618daf3446ab9bed325038f9c0d4474251781b0c0755e72cf8e0bfa747211"
+    },
+    {
+      "type": "Theme",
+      "name": "coût pour la collectivité",
+      "id": "Theme_05e83cb86f2afefc94e2ad8045a25c05eb59a4708689b4e072e9835d6c4936da"
+    },
+    {
+      "type": "Theme",
+      "name": "formation continue",
+      "id": "Theme_d18e1a9a5a0d28b86c4c26d89c7251127d3b6568d657b729496a9bce421860ba"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "inefficacité de la dépense publique",
+      "id": "Theme_ca6772db621e5644121bcffa76ced63b75630670c97fba81ed3819246194e0d9"
+    },
+    {
+      "type": "Theme",
+      "name": "prévisibilité",
+      "id": "Theme_cb0bb3b9c123a87193dc5df76fea9a8e9537c3f66c671c75a8fc73c4c012edb0"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction de la dépense publique",
+      "id": "Theme_6b4f534c316a262cdb8654e0a7db1cfc83007bb9c4be1bf77c5bd74760a409d5"
+    },
+    {
+      "type": "Theme",
+      "name": "visibilité",
+      "id": "Theme_f59a7fbc64425457d75c34d0bff557a4fa6deb3b2e067b747f711e04c9e5e6db"
+    },
+    {
+      "type": "Theme",
+      "name": "crédibilité de l'État",
+      "id": "Theme_ee58d17ed67d6144e41bc6a7bfd218633d0b2e9532c041458b61e712367a866b"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Country",
+      "name": "le nôtre",
+      "id": "Country_1c49997089e7b46fec8ca5e8e657a2cef15fd34d5aca2b34ad6ab5564a549e50"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques publiques",
+      "id": "Theme_9d085612d695bebf0ac290a8aa0f64b70489199699576ec72f03d69038edc0ef"
+    },
+    {
+      "type": "Theme",
+      "name": "budget",
+      "id": "Theme_476c75e33f21fc15bc5588b5d07c657897da27f908716f5af56abf04963f337c"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Law",
+      "name": "LOLF",
+      "id": "Law_37b419a43aa81f48e893a8b960f2fb28bdaf8ab622e998e96799b480856a322f"
+    },
+    {
+      "type": "Organization",
+      "name": "Action Publique 2022",
+      "id": "Organization_50e792932d825d75e4935d9d75f1b54e536faa7054a9b1f5b4df62aac6b990b3"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Theme",
+      "name": "retour à l'équilibre structurel de nos finances publiques",
+      "id": "Theme_4bc23fd17e69de5f7427ab53529d473232c7a1553d7deec350b5e17dae64ed3f"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "trajectoire claire de réformes",
+      "id": "Theme_c690dfb0818e45f5261bd9209969dfe505da75609fbbd1155fdacbc82c6788f1"
+    },
+    {
+      "type": "Theme",
+      "name": "horizon de moyen terme",
+      "id": "Theme_bae37deaa21caf1601587f7e6bf444368bf8ec96691c9a704024f5a396201c9f"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Theme",
+      "name": "efficience budgétaire",
+      "id": "Theme_717330187c1ae47bb8e2df277c48739527e350c9d48703d789840f5941b65d56"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité du service public",
+      "id": "Theme_11bfefcc123c16434b3ea3331f91be3dd0334eeb618950b1599143215cf57565"
+    },
+    {
+      "type": "Theme",
+      "name": "fonction publique",
+      "id": "Theme_203fcdbba74e6ea78df45b8c410550f655a8d51288a1e0df6bb4a3d01c5c6bd6"
+    },
+    {
+      "type": "Theme",
+      "name": "récompense",
+      "id": "Theme_890afee5260b1401d796fb27a49f23a04c263df1c46da804f4f42ab001f40cfd"
+    },
+    {
+      "type": "Theme",
+      "name": "évaluation",
+      "id": "Theme_ea7fd98e58a66d73c0259bc6f8dfbbac84c8bd6786088d5c2f8f9b7739a8c420"
+    },
+    {
+      "type": "Theme",
+      "name": "Action Publique 2022",
+      "id": "Theme_57a2b0c70afcf148279c25b8061695b96826be3e7864c3467d74aa487ca86c00"
+    },
+    {
+      "type": "Person",
+      "name": "le ministre de l'Action publique et des Comptes publics",
+      "id": "Person_61b8d792ad2cee80ba2923cfa41c1d85c4b8e69b748b9536cce858ba244fb4f3"
+    },
+    {
+      "type": "Theme",
+      "name": "administration plus déconcentrée, plus responsabilisée",
+      "id": "Theme_f4ba7b51065807e16232e5511372d09983e3128f6b9c99c204053955acffcab5"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté et de souplesse",
+      "id": "Theme_8a15f2c5500a10090dbbe198dc7e9529dd1cbc90ad255a85d37e60cea4c70461"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation",
+      "id": "Theme_20f02849c6d3fef1e0f7fdcc6fcd9d5a1930a7b08f24aabfc14521d8b9ed907d"
+    },
+    {
+      "type": "Organization",
+      "name": "comité interministériel de la transformation publique",
+      "id": "Organization_cd7aa9f4884b159b7f2b0fe699812d878ecfef16f82fb24d212cec0838ef7bcd"
+    },
+    {
+      "type": "Theme",
+      "name": "grand plan d'investissement",
+      "id": "Theme_261ed6f21f212e02b171aa8003820c12a91965672d67139f9df42bab42534bdb"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds de transformation de l'action publique",
+      "id": "Theme_a0af5a161b5311069347ae2ddd8ced4d601b9aa76fd8f019b79b229e7b252143"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "Protection sociale",
+      "id": "Theme_3e44f1f1c91271f91a440ea8e7a93aa8c79e8d543177b5ac9da384a1345397dd"
+    },
+    {
+      "type": "Theme",
+      "name": "Formation initiale et continue",
+      "id": "Theme_1102bd55eeb271f46b62427076f0adcb70bbd0beee9be3a361cee7dcbc11137f"
+    },
+    {
+      "type": "Theme",
+      "name": "Nouveaux risques",
+      "id": "Theme_c3c39817588ce950fe8f250ccf9dfe88768f340b71beef1e66f00bad2e7ba2c0"
+    },
+    {
+      "type": "Theme",
+      "name": "Réformes paramétriques",
+      "id": "Theme_624086cc64094f7be551636f11c95c346320096bf0d5713efda25a72ee5d22ea"
+    },
+    {
+      "type": "Theme",
+      "name": "Économie de la connaissance et l'innovation",
+      "id": "Theme_4b9d2723035fe31e97b9d9df3b8a69fd2756fa4b0c1ef02b4127b51bc892a709"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Paul DELEVOYE",
+      "id": "Person_913ad6d45e9096d46587ef8d6d66a1cbf2af1b00b236507c6830552ea2c53025"
+    },
+    {
+      "type": "Theme",
+      "name": "reforme des retraites",
+      "id": "Theme_ae6f140a2bf4540ac22483b55136d236eb6e86bd69dacfe0d5bbca80f072d941"
+    },
+    {
+      "type": "Theme",
+      "name": "lisibilité",
+      "id": "Theme_cea3be29db337669c0591b4e4b845703dd75ce47117df3a32874c2be8897d6eb"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "régime de retraite",
+      "id": "Theme_50f47bc191c3c0aea6620dd817e7953158fd699de7b6b9d6aada27ca61718219"
+    },
+    {
+      "type": "Theme",
+      "name": "carrières non linéaires",
+      "id": "Theme_0dd7eab9de9c8ebc9632da03cd710a2daa0b15dbc9d596ad82359b83cff97b91"
+    },
+    {
+      "type": "Theme",
+      "name": "consensus productif",
+      "id": "Theme_d2181f3557baf5e412109706535cb5842199017abd6abb2fa302d877a6693c12"
+    },
+    {
+      "type": "Theme",
+      "name": "régimes de retraite",
+      "id": "Theme_830ce2ed8f3644f6931d63e2b6d798ab40e4d79cbb71b4ac6a024bdea4572274"
+    },
+    {
+      "type": "Theme",
+      "name": "action publique",
+      "id": "Theme_548ddddc23f39dc2669e7b6e395c1e497b6a2f5fd1d83085a7af337638f0ddf2"
+    },
+    {
+      "type": "Theme",
+      "name": "gestionnaires publics",
+      "id": "Theme_53a014213849b703ab313daac6eb6d896209eb962796fbbe4324d0c456982f77"
+    },
+    {
+      "type": "Theme",
+      "name": "cadre budgétaire",
+      "id": "Theme_d66985b0369dd9843e9bc1082461bfd51338919b30a3e8a3971d642e7a2b1cf9"
+    },
+    {
+      "type": "Theme",
+      "name": "comptabilité publique",
+      "id": "Theme_b4e6b79a8c278a4cd77539b54a1fc64d207bccce7601075ceff78e95486eba03"
+    },
+    {
+      "type": "Theme",
+      "name": "régulation budgétaire",
+      "id": "Theme_b8b462e51b475fcde7cf0001300912eb6484e9fceb937e0ff1ccf836ec7fe2f9"
+    },
+    {
+      "type": "Organization",
+      "name": "Actions Publique 2022",
+      "id": "Organization_9f1fb473c168ccf621f511e54973c4ad33a136404678069c99ebfccae71f3f91"
+    },
+    {
+      "type": "Organization",
+      "name": "Cour de discipline budgétaire et financière",
+      "id": "Organization_0ed72b772e6109173324c408d34f03433c89d68d468188647100735a519f6d86"
+    },
+    {
+      "type": "Theme",
+      "name": "Cour de justice de la République",
+      "id": "Theme_d163462376e830b938fe8e3d9e83cd7cb491fb7454be010bc9d486b2658dea23"
+    },
+    {
+      "type": "Theme",
+      "name": "contractualisation",
+      "id": "Theme_77235822d07086650d4b29f780bf3b9929fcd4b66fc7db53dcb1b7f329a307a4"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de responsabilité",
+      "id": "Theme_e70b57dd3fd93b3f3d6cd80a8d61bf0ce65e9eaa76aae7eae8397728c4359455"
+    },
+    {
+      "type": "Theme",
+      "name": "contractualiser avec l'Etat",
+      "id": "Theme_6b4a4a0f02c948c9d5178380bce575a73364048ca960f45c47bde604ce11bb3f"
+    },
+    {
+      "type": "Theme",
+      "name": "baisse unilatérale et aveugle de la dotation",
+      "id": "Theme_fbc571b0abcf4dc692fed3c0647f9f7c84c1df01de77051216b7d0017dda06a0"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes importantes",
+      "id": "Theme_b2a80d069138e32d3a0e11e33701a3d4d12ed25e69af4225b082e20b3ad8b794"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance pour l'Assurance-maladie",
+      "id": "Theme_d44d12202e68b369569af5c93f405203f31386642d078b9a8b43f2c49b52db3b"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtrise financière",
+      "id": "Theme_c7492006910c13bfaaf196a7ff63caf6e0f15a9c40914e66a5f9a8caffdb7f7e"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques d'adaptation de l'offre",
+      "id": "Theme_d3d422616f97ecc95e95d92f95911852849ec753806a4e12a7ac17e33b11158b"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement réaliste",
+      "id": "Theme_9fb09d7a67a6754f5a080b6af9ef4859b6da752637bc0ee9ec0d6a0cdc22d615"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie nationale de santé",
+      "id": "Theme_0e1bc4101df1dba3235fa06b2d39e63182e6be71b6af706ebfdca20d37eec60a"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention",
+      "id": "Theme_b5d3262ef3c58743a1781f267abe9b162422a835f4df383fc4856acb883ee6a0"
+    },
+    {
+      "type": "Theme",
+      "name": "assurance-chômage",
+      "id": "Theme_0cdccf0c3ba3fc3de60c095bff1d2417a011b4868123679ae1f4eab2983557f3"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibre financier",
+      "id": "Theme_803899783067a3d87407649567ca7033dc3372ae172a2a6796b4a1c3541a9c31"
+    },
+    {
+      "type": "Theme",
+      "name": "comptes",
+      "id": "Theme_cd826114287189f7c6b362c85db28e2fa6bbe330a72f51c5f2a2532574fac0af"
+    },
+    {
+      "type": "Theme",
+      "name": "marché du travail",
+      "id": "Theme_f5e9bbfaff78ce38af872761ee060706073cabea11bd7bb0715da817d3545a3b"
+    },
+    {
+      "type": "Theme",
+      "name": "révision constitutionnelle",
+      "id": "Theme_684abfa687a99c87b47213e68046a07dbeb077a3c22c516e2e7061e023dc2b6c"
+    },
+    {
+      "type": "Theme",
+      "name": "Parlement",
+      "id": "Theme_0aa78d53784e191882011a40fcb9467df4a94551b7260c35671be73a5220154c"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle",
+      "id": "Theme_56a9d80cc5c5f0db6a7fca8c1a2a686f455c689decc2e4e4abf4b873bfde1657"
+    },
+    {
+      "type": "Theme",
+      "name": "action gouvernementale",
+      "id": "Theme_0f513d5476395c9055d1d1e6c48e86c18cfe018302aa3e1058197d4b61a2fa95"
+    },
+    {
+      "type": "Theme",
+      "name": "2008",
+      "id": "Theme_fdb2d9dda6a9724b72afb57d2c3e874f8f564781e998de774b80529ac088ab14"
+    },
+    {
+      "type": "Theme",
+      "name": "exercice parlementaire",
+      "id": "Theme_8b699d7586dc1c7fba5d6f741332692f0dfe3ef7c68895f5c7dc50350289c8ac"
+    },
+    {
+      "type": "Theme",
+      "name": "remontrance",
+      "id": "Theme_b379943b5a5fa174050cdff277685b6801de1e30d65d8cd6d79a37e858f1e6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "Edits",
+      "id": "Theme_e7e0e7c8dbbfcd5bdf04590bb39da2454a26b61b2f15cf5868f6bff9ec3f46b7"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêt du peuple",
+      "id": "Theme_c9f54058635905ca34f0840f6941e625cc35d5fb2d948501799bf30f9e35bd17"
+    },
+    {
+      "type": "Theme",
+      "name": "lois fondamentales du royaume",
+      "id": "Theme_fe80318b6cbaa8ce56ab61a6486d4779980b124ad3478b3146c980deaa014603"
+    },
+    {
+      "type": "Theme",
+      "name": "culture de l'évaluation",
+      "id": "Theme_19d97120e1597f64abb0373bc8e9fdf0a76080c14589be196285c77166efdaa0"
+    },
+    {
+      "type": "Theme",
+      "name": "débats a priori",
+      "id": "Theme_63906ed92bf2fceaeb8a4d2946d1fbd086395b9fbb925c84d9b36f235addfe4e"
+    },
+    {
+      "type": "Theme",
+      "name": "principes sur des textes peu éclairés par la pratique",
+      "id": "Theme_1e990e8ebebc66b8521a740371bf477c13c954e92c8ddd7658ded1905078f205"
+    },
+    {
+      "type": "Theme",
+      "name": "risques",
+      "id": "Theme_797c3ec4399b9e1c1ce15d7275922c2cfffa32a985c6cfdc4c0cee64e6e589ad"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "débat",
+      "id": "Theme_0b58e1a0fcdb8371d4b6af48f51c7da634083d74ba893b640e5e939e959827a2"
+    },
+    {
+      "type": "Theme",
+      "name": "expérimentation",
+      "id": "Theme_650d8add293f690fe2511266e14f30591af865c47ebc0d119cb8aee1de32f6b0"
+    },
+    {
+      "type": "Theme",
+      "name": "Praemeditatio malorum",
+      "id": "Theme_425e50a137187422f35578bcee33e3e679df2af716a7cde0367df0d497d5fbc2"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblées",
+      "id": "Organization_1897783fc7b0726b34866bb1857f2abbef729ed95cd66df5c44a2e412e2a86a3"
+    },
+    {
+      "type": "Organization",
+      "name": "commissions concernées",
+      "id": "Organization_f8e178773a9cf08344c67614daf2dc224fb23753f8758e8f649c9606e587c6dc"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Theme",
+      "name": "compte-rendu",
+      "id": "Theme_0281a0ebbfbc8914ac264d8beb9aace78ddc3a9b4746d38550967c2390047b8b"
+    },
+    {
+      "type": "Theme",
+      "name": "exécution budgétaire",
+      "id": "Theme_fed6a2414bbbb7209baf3368e82c01295d023d3f7d929ad9bb8e0c45aa2310f4"
+    },
+    {
+      "type": "Theme",
+      "name": "résultats ministériels",
+      "id": "Theme_caefbdcec2d1a66cdd1d28e16910d4ea8f37c02ba7146dd747dd55c0e3c7ece5"
+    },
+    {
+      "type": "Theme",
+      "name": "application des lois",
+      "id": "Theme_3bec11f8fc506706507817c22024e15834912fe78134afa7a0ce1914ecb0aee6"
+    },
+    {
+      "type": "Theme",
+      "name": "performance des politiques publiques",
+      "id": "Theme_fd64c4f14e7922e986decf1a1bccdced2f8aae71a6210d70b7a1b05050bfcb5a"
+    },
+    {
+      "type": "Theme",
+      "name": "rapports de synthèse des résultats budgétaires et financiers",
+      "id": "Theme_ea4fd2e773c5a954e45a5640390e11cd4f4ab483afd34799101a50db19f8299a"
+    },
+    {
+      "type": "Organization",
+      "name": "usagers",
+      "id": "Organization_fdb04f8c457b4da1f0225a1ddb8190e877adf92feebc09145d6bdde2878e822a"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "analyse des résultats de l'action publique",
+      "id": "Theme_19349d21d3126d6b221ecf388e899ce1b013fee11ccea084c6c887ad77f44861"
+    },
+    {
+      "type": "Theme",
+      "name": "indicateurs de qualité du service public",
+      "id": "Theme_b9f2344b533fe5fa5cfa494e7c7851f869cc24c7a6a8eea8910735344c8c7749"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution numérique",
+      "id": "Theme_764904241b824b4e86923082255159c9ad6d80c0c130a75c1c1b8c4ca69ac6e5"
+    },
+    {
+      "type": "Organization",
+      "name": "exécutif",
+      "id": "Organization_81dd8b0b153b5d781fee872445ef31381fa59f8f59187ddf09a9d8718eedb6a7"
+    },
+    {
+      "type": "Theme",
+      "name": "bonnes pratiques",
+      "id": "Theme_496f4352b12f6eeb4219b4f034a1f88ab5531e01087783c859c45d2ec52694f6"
+    },
+    {
+      "type": "Theme",
+      "name": "évaluation de la performance des politiques publiques",
+      "id": "Theme_be33c2d739118b7c81b918cad80f41ec026e5a5e68d8cfcb7d0cc3228bce84b4"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques du logement",
+      "id": "Theme_e8fd3730c560e69385554f71459227f54f220003b0d5108d4c34d4b9b8200098"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques de solidarité",
+      "id": "Theme_240eeb8363917ba3a74ade33d0e750a076cb9487b9b4113de909d4d6165820ee"
+    },
+    {
+      "type": "Theme",
+      "name": "audiovisuel public",
+      "id": "Theme_42caaa06f102c770a63050a4f53981585bfff9d57575446b550e12a5f9d02bfc"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme des réseaux de collecte des prélèvements obligatoires",
+      "id": "Theme_df04b0b930df584d06a5fd4dec7a6a021848ff15636352bf48cd519649daa90a"
+    },
+    {
+      "type": "Theme",
+      "name": "services déconcentrés de l'État",
+      "id": "Theme_9f3d9a96ae349c754bd3ec5fbda574574c3ae57b3d5fce304b091daad7402c6f"
+    },
+    {
+      "type": "Law",
+      "name": "article 15 de notre Déclaration des Droits de L'Homme",
+      "id": "Law_10cf5e61f3783a0abcf4d04e7966cf680f0216d0dcfd6261c8f5b233d18d3e62"
+    },
+    {
+      "type": "Organization",
+      "name": "Cour",
+      "id": "Organization_783c7d5392573344af76cded49d28486f6b2a1cf83d26b7d3fa08137adada26c"
+    },
+    {
+      "type": "Theme",
+      "name": "tabagisme",
+      "id": "Theme_5f11ec573be68131a13699fccaed63efce9f73c972d54f061929fe27425d297d"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre l'alcool",
+      "id": "Theme_acb84cff8b8da9286e2fe4db51006222688a8ae2fdb5a798d1b36f5715dffcba"
+    },
+    {
+      "type": "Theme",
+      "name": "autisme",
+      "id": "Theme_7fab7f18f21eef20057b729823d0eaa0923c3d67d5a124865def7a0d6d83cb81"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation de la fonction d'évaluation du système éducatif",
+      "id": "Theme_094d141ab8cdbdd0badff6cd664220f79ec1acea00bce31f65d04aa739c2e006"
+    },
+    {
+      "type": "Theme",
+      "name": "efficience",
+      "id": "Theme_99892e38cfaa09a14f09b2e948b67ddf820bace5106655507abe7afd741dc053"
+    },
+    {
+      "type": "Organization",
+      "name": "comité d'évaluation et de contrôle des politiques publiques de l'Assemblée nationale",
+      "id": "Organization_f3453e73cfe65d21c5b54fc21810d3045d8da523152b2eda0624b7a4bfd648c1"
+    },
+    {
+      "type": "Theme",
+      "name": "plasticité",
+      "id": "Theme_b613101c0a888ea89264591bed0bbd49883b85d6cdcfae7daaae7c251ab57bb3"
+    },
+    {
+      "type": "Theme",
+      "name": "réorganisation des Chambres",
+      "id": "Theme_496a08e1b1516115b9b798ee89f14d7ca132b15dd76b1fcbb902fe7bd685776d"
+    },
+    {
+      "type": "Theme",
+      "name": "compétence",
+      "id": "Theme_aab181de6c1179cb760c70910101b5f79e69faf1747bbb6bfab21d1b452101fc"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtrise des outils d'évaluation à 360 degrés des politiques publiques",
+      "id": "Theme_abf865ae83589fc9d8ee9794cdc69443443dfbc6c5c560f69669b1c37c46c9f3"
+    },
+    {
+      "type": "Theme",
+      "name": "analyse comptable et financière",
+      "id": "Theme_99bf6e446f59ddbb091e1de2d130c98711c6d1a9e5ca4f1301ebfd27112bea15"
+    },
+    {
+      "type": "Theme",
+      "name": "analyse économétrique",
+      "id": "Theme_92a86f08556e3a4e95196e9a733547f81dc2f5aef086a1b200ff7a72b051706e"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "gestion",
+      "id": "Theme_65544aefee094f2f38ab0c64b390525800cdc8db02ac638dd232654f72265b2c"
+    },
+    {
+      "type": "Theme",
+      "name": "expertise technique",
+      "id": "Theme_1eb62d4acd688403464eee3239007a59992dc073f1ca341afdf7a6cdc8fb8d50"
+    },
+    {
+      "type": "Theme",
+      "name": "allers et retours",
+      "id": "Theme_06ad6cee8a2eaa0d66d8ff7552abc8aabb3ae074313668a5cd695642884828f7"
+    },
+    {
+      "type": "Theme",
+      "name": "performance",
+      "id": "Theme_6ce0b2eabdae7f187ae56228d60690c938fd1c30b26c22d51f29255401d62c5c"
+    },
+    {
+      "type": "Theme",
+      "name": "service public",
+      "id": "Theme_8b37015ab8cc5bb4cc96441ff954f74d0609a857b4fbc784b367f676546b7722"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence",
+      "id": "Theme_00b20302d5f64b56a882fa76ac635bfb2d5b859939516a451a03216995d89940"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs de politique publique",
+      "id": "Theme_b327f18530058f6020d63454b8f84546079b00b34302dfd2b7859540e3924feb"
+    },
+    {
+      "type": "Theme",
+      "name": "indicateurs de performances",
+      "id": "Theme_5ac32a794e5a45f59283fbc3c6a1d07c82617562158b22252cb9eb6ec06445df"
+    },
+    {
+      "type": "Theme",
+      "name": "Etat au service d'une société de confiance",
+      "id": "Theme_57780a11fa209fc99fa4c99ddf9e3c89016391917740016a3c536cce8793f34f"
+    },
+    {
+      "type": "Law",
+      "name": "projet de loi pour un Etat au service d'une société de confiance",
+      "id": "Law_4b1adfa5d3ed12bf0564f384d4fe83e80b247c24b0ce0bfe0e8c59ee2d0616c6"
+    },
+    {
+      "type": "Theme",
+      "name": "droit à l'erreur",
+      "id": "Theme_e3d0e8f65b1fad8abca73e1e91287ec33936c82a887ba62092cfe526f54ff5ec"
+    },
+    {
+      "type": "Theme",
+      "name": "premier contrôle",
+      "id": "Theme_734640a6be66202206e16e96787f842b41847a8e99dfab919ae6f9c7fa6f6fba"
+    },
+    {
+      "type": "Theme",
+      "name": "rapport entre l'administration et nos concitoyens",
+      "id": "Theme_2bd23e2b7e86077965f195edc457400a01b5ecb5a2265110f91853c430445e62"
+    },
+    {
+      "type": "Person",
+      "name": "votre",
+      "id": "Person_7317a3886a408dcce68640a26221253dacea28ea58a931eaa24671ae561087d9"
+    },
+    {
+      "type": "Organization",
+      "name": "les hauts fonctionnaires",
+      "id": "Organization_82ae24d2c452fc9439c1e62fe8ed314444af85bd59c4e17222eceb13b1dec73a"
+    },
+    {
+      "type": "Organization",
+      "name": "les grands corps",
+      "id": "Organization_46b8403c646ba578fb7e29bbdc327f530084fc08a6c31365405d40360cefbe2d"
+    },
+    {
+      "type": "Organization",
+      "name": "les cadres supérieurs de l'Etat",
+      "id": "Organization_37b37a2c61b310b38d2a06d21a57baef4777bcfbe33d15c7025b8ea711bbf09d"
+    },
+    {
+      "type": "Organization",
+      "name": "la fonction publique",
+      "id": "Organization_b9b437fd398a568032eb6d0c391819aca3b80b0b3a09e424f2e5e83d259e7299"
+    },
+    {
+      "type": "Organization",
+      "name": "la haute fonction publique",
+      "id": "Organization_d668fb8e39b0ea2ec780a5dacc9feccb0793f90f4fa65598caafc523534b82fa"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme de la haute fonction publique",
+      "id": "Theme_ad4dfb043406affe56249b311a99809acb20b9eefa168b83ba1656b7cf0297c8"
+    },
+    {
+      "type": "Theme",
+      "name": "manuvre à nos hauts fonctionnaires",
+      "id": "Theme_50b925d2e7c31a8d07e5959bfae5c8178cf323c2fc415644d8abfbe4eb4e50cf"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilités clarifiées",
+      "id": "Theme_af03d1517ffc25fa10f2b2245a1b9c95dba115a43e60169126a03a79a884dd53"
+    },
+    {
+      "type": "Theme",
+      "name": "moyens redéployés",
+      "id": "Theme_2455281916f20ae28aada8e46d36f799485ba6ed886dec0af219d677c191c83e"
+    },
+    {
+      "type": "Organization",
+      "name": "l'ENA",
+      "id": "Organization_e467931f9f0c25d4ca902d850518ff24b777cc8409a916f0170b3ca192e88ab6"
+    },
+    {
+      "type": "Theme",
+      "name": "l'action publique",
+      "id": "Theme_71c68f58e5aa844eac1a8ae53ddd0e0c53455cf25ab92730bcb1794241baced8"
+    },
+    {
+      "type": "Theme",
+      "name": "l'Education",
+      "id": "Theme_b4ee4945bc9ae091724f02d14c60a9a73fc2ddc23c02f91911dc77d8468eb950"
+    },
+    {
+      "type": "Theme",
+      "name": "le Logement",
+      "id": "Theme_75a315e6967329a2c0520cf6e1cff0c69784a2bd841fa46efa381b81546edf40"
+    },
+    {
+      "type": "Theme",
+      "name": "les Affaires sociales",
+      "id": "Theme_58a7db32ba0411ecf282024e0230f3568432f2b6a6d6496d67959f762f4169d5"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "mollesse",
+      "id": "Theme_4ecb06b89a2c67ccee28a2660403d12798a3dffeca548a794208834bac3e52ba"
+    },
+    {
+      "type": "Theme",
+      "name": "langueur",
+      "id": "Theme_cd389353b4740431ca0761fedfefed7231047984d3f4444fafee63d62eb521b7"
+    },
+    {
+      "type": "Theme",
+      "name": "habitudes de l'échec",
+      "id": "Theme_6b0afb480abc052759dc4d601bf5944a69ae24ebcc024d2995a6649e83e53cd4"
+    },
+    {
+      "type": "Theme",
+      "name": "impérities",
+      "id": "Theme_9cd669ce6da794d1f9ef2fb1911862f04c4274b39d7de55a0f92220a88aea4f1"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Julien GRACQ",
+      "id": "Person_468b2d0101fbdf073ff80fa7294246160081c63311b033ef875a6c3fdf6e2d13"
+    },
+    {
+      "type": "Theme",
+      "name": "morale de l'action",
+      "id": "Theme_eb22bde74ad184135d553d4f8e2774a426dc2d32217102885aa16b2742fdfa09"
+    },
+    {
+      "type": "Theme",
+      "name": "conflit étrange",
+      "id": "Theme_af7e6ad4cea767ad26c820839cc3f51324f039601dccd8142279bfe5782f9463"
+    },
+    {
+      "type": "Theme",
+      "name": "ennemi invisible",
+      "id": "Theme_e66d4a15ca621445cbc2ab2a6308b5c4f62bbd247e849f153f38cb8947fbd95b"
+    },
+    {
+      "type": "Theme",
+      "name": "générosités de la vie",
+      "id": "Theme_bd8eaba330aa8ed6f6c78541ee59003689291bb6465422116e417952be0b64e0"
+    },
+    {
+      "type": "Theme",
+      "name": "combat quotidien",
+      "id": "Theme_cf45b372c01e8c7759ac15837a4d3e929e87333987e872c41623a1a166cb472d"
+    },
+    {
+      "type": "Theme",
+      "name": "exigence de la transformation publique ensemble",
+      "id": "Theme_c7d5049173897d4701e6e1f16316e9fc28eb9da39020755b963bf987e1eb2e06"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames",
+      "id": "Person_902acab7ae062adc10320743d44fdc1ffa5eaa234e19e777cfff0f7a794e845f"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs",
+      "id": "Person_f27b5af1bc038777658a99e84131fc89b6bc627216336555716549913787fd22"
+    },
+    {
+      "type": "Person",
+      "name": "Alain",
+      "id": "Person_399af3dd294076a9dbeacb0f2341bc007dd4342a12e7ee0425737473a4fc7cc8"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "budget",
+      "relation": "MENTIONS",
+      "target": "budget",
+      "evidence": "il faut cependant dépasser cette dimension, comme je viens de le dire, et ma conviction est que dans le cadre d'un budget maîtrisé la politique publique est avant tout l'expression d'une réponse à un problème donné, à un défi posé par l'évolution du monde",
+      "confidence": 1.0,
+      "source_id": "Theme_476c75e33f21fc15bc5588b5d07c657897da27f908716f5af56abf04963f337c",
+      "target_id": "Theme_476c75e33f21fc15bc5588b5d07c657897da27f908716f5af56abf04963f337c"
+    },
+    {
+      "source": "LOLF",
+      "relation": "MENTIONS",
+      "target": "LOLF",
+      "evidence": "c'est l'esprit même de la LOLF.",
+      "confidence": 1.0,
+      "source_id": "Law_37b419a43aa81f48e893a8b960f2fb28bdaf8ab622e998e96799b480856a322f",
+      "target_id": "Law_37b419a43aa81f48e893a8b960f2fb28bdaf8ab622e998e96799b480856a322f"
+    },
+    {
+      "source": "Cour des comptes",
+      "relation": "SPOKE_ABOUT",
+      "target": "retour à l'équilibre structurel de nos finances publiques",
+      "evidence": "La Cour des comptes sera, j'en suis certain, la gardienne vigilante des engagements d'un retour à l'équilibre structurel de nos finances publiques",
+      "confidence": 1.0,
+      "source_id": "Organization_3903d3595adb5588f0a630a5719b5112d3ab24ed926648d0df47a0bc320e7052",
+      "target_id": "Theme_4bc23fd17e69de5f7427ab53529d473232c7a1553d7deec350b5e17dae64ed3f"
+    },
+    {
+      "source": "Action Publique 2022",
+      "relation": "PROPOSED",
+      "target": "réformes",
+      "evidence": "le chantier « Action Publique 2022 » qui permettra de nous doter, pour chaque domaine de politique publique, d'une trajectoire claire de réformes",
+      "confidence": 1.0,
+      "source_id": "Theme_57a2b0c70afcf148279c25b8061695b96826be3e7864c3467d74aa487ca86c00",
+      "target_id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "source": "Action Publique 2022",
+      "relation": "SPOKE_ABOUT",
+      "target": "trajectoire claire de réformes",
+      "evidence": "le chantier « Action Publique 2022 » qui permettra de nous doter, pour chaque domaine de politique publique, d'une trajectoire claire de réformes",
+      "confidence": 1.0,
+      "source_id": "Theme_57a2b0c70afcf148279c25b8061695b96826be3e7864c3467d74aa487ca86c00",
+      "target_id": "Theme_c690dfb0818e45f5261bd9209969dfe505da75609fbbd1155fdacbc82c6788f1"
+    },
+    {
+      "source": "fonction publique",
+      "relation": "MENTIONS",
+      "target": "récompense",
+      "evidence": "Il y a la récompense offerte à celui qui transforme, il y a aussi l'évaluation juste qu'on doit à celui qui n'en fait rien, et il y a collectivement une énergie à redonner à la fonction publique par la transformation de son action au quotidien, et c'est bien dans cette voie, qui n'est pas médiane, mais qui, je crois, est juste, que nous voulons construire cette transformation.",
+      "confidence": 1.0,
+      "source_id": "Theme_203fcdbba74e6ea78df45b8c410550f655a8d51288a1e0df6bb4a3d01c5c6bd6",
+      "target_id": "Theme_890afee5260b1401d796fb27a49f23a04c263df1c46da804f4f42ab001f40cfd"
+    },
+    {
+      "source": "fonction publique",
+      "relation": "MENTIONS",
+      "target": "évaluation",
+      "evidence": "Il y a la récompense offerte à celui qui transforme, il y a aussi l'évaluation juste qu'on doit à celui qui n'en fait rien, et il y a collectivement une énergie à redonner à la fonction publique par la transformation de son action au quotidien, et c'est bien dans cette voie, qui n'est pas médiane, mais qui, je crois, est juste, que nous voulons construire cette transformation.",
+      "confidence": 1.0,
+      "source_id": "Theme_203fcdbba74e6ea78df45b8c410550f655a8d51288a1e0df6bb4a3d01c5c6bd6",
+      "target_id": "Theme_ea7fd98e58a66d73c0259bc6f8dfbbac84c8bd6786088d5c2f8f9b7739a8c420"
+    },
+    {
+      "source": "Premier ministre",
+      "relation": "ANNOUNCED",
+      "target": "comité interministériel de la transformation publique",
+      "evidence": "Le Premier ministre réunira début février les ministres en comité interministériel de la transformation publique",
+      "confidence": 1.0,
+      "source_id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3",
+      "target_id": "Organization_cd7aa9f4884b159b7f2b0fe699812d878ecfef16f82fb24d212cec0838ef7bcd"
+    },
+    {
+      "source": "reforme des retraites",
+      "relation": "SPOKE_ABOUT",
+      "target": "carrières non linéaires",
+      "evidence": "et qui ne doivent pas être pénalisés par des carrières non linéaires, passant du public au privé, du salariat à l'entrepreneuriat, et inversement, mais aussi lisibilité et efficacité pour le pilotage financier de notre système de retraite, afin de le sortir de cet état de crise perpétuel où chaque réforme des retraites est, en quelque sorte, une modification de dernière minute, nécessaire et toujours justifiée en termes de finances publiques, mais qui endommage la confiance et qui ne change pas les règles fondamentales de son fonctionnement.",
+      "confidence": 1.0,
+      "source_id": "Theme_ae6f140a2bf4540ac22483b55136d236eb6e86bd69dacfe0d5bbca80f072d941",
+      "target_id": "Theme_0dd7eab9de9c8ebc9632da03cd710a2daa0b15dbc9d596ad82359b83cff97b91"
+    },
+    {
+      "source": "révision constitutionnelle",
+      "relation": "MENTIONS",
+      "target": "Parlement",
+      "evidence": "la révision constitutionnelle que j'ai voulu lancer vise notamment à donner au Parlement un rôle accru en matière de contrôle et d'évaluation de l'action gouvernementale.",
+      "confidence": 1.0,
+      "source_id": "Theme_684abfa687a99c87b47213e68046a07dbeb077a3c22c516e2e7061e023dc2b6c",
+      "target_id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "source": "révision constitutionnelle",
+      "relation": "MENTIONS",
+      "target": "contrôle",
+      "evidence": "la révision constitutionnelle que j'ai voulu lancer vise notamment à donner au Parlement un rôle accru en matière de contrôle et d'évaluation de l'action gouvernementale.",
+      "confidence": 1.0,
+      "source_id": "Theme_684abfa687a99c87b47213e68046a07dbeb077a3c22c516e2e7061e023dc2b6c",
+      "target_id": "Theme_56a9d80cc5c5f0db6a7fca8c1a2a686f455c689decc2e4e4abf4b873bfde1657"
+    },
+    {
+      "source": "révision constitutionnelle",
+      "relation": "MENTIONS",
+      "target": "action gouvernementale",
+      "evidence": "la révision constitutionnelle que j'ai voulu lancer vise notamment à donner au Parlement un rôle accru en matière de contrôle et d'évaluation de l'action gouvernementale.",
+      "confidence": 1.0,
+      "source_id": "Theme_684abfa687a99c87b47213e68046a07dbeb077a3c22c516e2e7061e023dc2b6c",
+      "target_id": "Theme_0f513d5476395c9055d1d1e6c48e86c18cfe018302aa3e1058197d4b61a2fa95"
+    },
+    {
+      "source": "gouvernement",
+      "relation": "SUPPORTS",
+      "target": "Parlement",
+      "evidence": "Il est donc naturel que le gouvernement et le Parlement s'appuient sur vous pour nourrir ce nouveau rythme démocratique que nous voulons initier.",
+      "confidence": 1.0,
+      "source_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f",
+      "target_id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "source": "gouvernement",
+      "relation": "OPPOSES",
+      "target": "Cour des comptes",
+      "evidence": "Le gouvernement, quant à lui, aura plus que jamais besoin d'être audité et conseillé pour faire de l'évaluation le moteur de sa transformation, et je souhaite que la Cour des comptes puisse pleinement s'investir dans ce chantier.",
+      "confidence": 1.0,
+      "source_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f",
+      "target_id": "Organization_3903d3595adb5588f0a630a5719b5112d3ab24ed926648d0df47a0bc320e7052"
+    },
+    {
+      "source": "Parlement",
+      "relation": "VISITED",
+      "target": "Cour des comptes",
+      "evidence": "Les Assemblées auront besoin d'être fermement appuyées chaque année dans ce printemps de l'évaluation dont nous dessinons les contours, et qui mieux que la Cour des comptes pourrait assister le Parlement dans ce rôle.",
+      "confidence": 1.0,
+      "source_id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb",
+      "target_id": "Organization_3903d3595adb5588f0a630a5719b5112d3ab24ed926648d0df47a0bc320e7052"
+    },
+    {
+      "source": "gouvernement",
+      "relation": "SPOKE_ABOUT",
+      "target": "évaluation",
+      "evidence": "Le gouvernement, quant à lui, aura plus que jamais besoin d'être audité et conseillé pour faire de l'évaluation le moteur de sa transformation, et je souhaite que la Cour des comptes puisse pleinement s'investir dans ce chantier.",
+      "confidence": 1.0,
+      "source_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f",
+      "target_id": "Theme_ea7fd98e58a66d73c0259bc6f8dfbbac84c8bd6786088d5c2f8f9b7739a8c420"
+    },
+    {
+      "source": "Cour",
+      "relation": "MENTIONS",
+      "target": "tabagisme",
+      "evidence": "la Cour a apporté au débat public également de nouveaux éclairages, je pense au tabagisme",
+      "confidence": 1.0,
+      "source_id": "Organization_783c7d5392573344af76cded49d28486f6b2a1cf83d26b7d3fa08137adada26c",
+      "target_id": "Theme_5f11ec573be68131a13699fccaed63efce9f73c972d54f061929fe27425d297d"
+    },
+    {
+      "source": "Cour des comptes",
+      "relation": "SPOKE_ABOUT",
+      "target": "compétence",
+      "evidence": "je ne doute pas que la Cour des comptes continuera de montrer sa compétence",
+      "confidence": 1.0,
+      "source_id": "Organization_3903d3595adb5588f0a630a5719b5112d3ab24ed926648d0df47a0bc320e7052",
+      "target_id": "Theme_aab181de6c1179cb760c70910101b5f79e69faf1747bbb6bfab21d1b452101fc"
+    },
+    {
+      "source": "Cour des comptes",
+      "relation": "SPOKE_ABOUT",
+      "target": "maîtrise des outils d'évaluation à 360 degrés des politiques publiques",
+      "evidence": "la Cour des comptes continuera de montrer sa compétence dans la maîtrise des outils d'évaluation à 360 degrés des politiques publiques",
+      "confidence": 1.0,
+      "source_id": "Organization_3903d3595adb5588f0a630a5719b5112d3ab24ed926648d0df47a0bc320e7052",
+      "target_id": "Theme_abf865ae83589fc9d8ee9794cdc69443443dfbc6c5c560f69669b1c37c46c9f3"
+    },
+    {
+      "source": "projet de loi pour un Etat au service d'une société de confiance",
+      "relation": "MENTIONS",
+      "target": "Etat au service d'une société de confiance",
+      "evidence": "C'est tout l'esprit du projet de loi pour un Etat au service d'une société de confiance actuellement défendu par le ministre de l'Action et des comptes publics devant le Parlement, qui instituera notamment le droit à l'erreur, sur lequel je m'étais engagé, mais une nouvelle forme de rapport entre l'administration et nos concitoyens, rétablissant la confiance, changeant les modalités du premier contrôle, la relation au quotidien et valorisant, donnant un socle juridique à ces indicateurs que je viens d'évoquer.",
+      "confidence": 1.0,
+      "source_id": "Law_4b1adfa5d3ed12bf0564f384d4fe83e80b247c24b0ce0bfe0e8c59ee2d0616c6",
+      "target_id": "Theme_57780a11fa209fc99fa4c99ddf9e3c89016391917740016a3c536cce8793f34f"
+    },
+    {
+      "source": "projet de loi pour un Etat au service d'une société de confiance",
+      "relation": "SUPPORTS",
+      "target": "Etat au service d'une société de confiance",
+      "evidence": "C'est tout l'esprit du projet de loi pour un Etat au service d'une société de confiance actuellement défendu par le ministre de l'Action et des comptes publics devant le Parlement, qui instituera notamment le droit à l'erreur, sur lequel je m'étais engagé, mais une nouvelle forme de rapport entre l'administration et nos concitoyens, rétablissant la confiance, changeant les modalités du premier contrôle, la relation au quotidien et valorisant, donnant un socle juridique à ces indicateurs que je viens d'évoquer.",
+      "confidence": 1.0,
+      "source_id": "Law_4b1adfa5d3ed12bf0564f384d4fe83e80b247c24b0ce0bfe0e8c59ee2d0616c6",
+      "target_id": "Theme_57780a11fa209fc99fa4c99ddf9e3c89016391917740016a3c536cce8793f34f"
+    },
+    {
+      "source": "projet de loi pour un Etat au service d'une société de confiance",
+      "relation": "MENTIONS",
+      "target": "droit à l'erreur",
+      "evidence": "C'est tout l'esprit du projet de loi pour un Etat au service d'une société de confiance actuellement défendu par le ministre de l'Action et des comptes publics devant le Parlement, qui instituera notamment le droit à l'erreur, sur lequel je m'étais engagé, mais une nouvelle forme de rapport entre l'administration et nos concitoyens, rétablissant la confiance, changeant les modalités du premier contrôle, la relation au quotidien et valorisant, donnant un socle juridique à ces indicateurs que je viens d'évoquer.",
+      "confidence": 1.0,
+      "source_id": "Law_4b1adfa5d3ed12bf0564f384d4fe83e80b247c24b0ce0bfe0e8c59ee2d0616c6",
+      "target_id": "Theme_e3d0e8f65b1fad8abca73e1e91287ec33936c82a887ba62092cfe526f54ff5ec"
+    },
+    {
+      "source": "projet de loi pour un Etat au service d'une société de confiance",
+      "relation": "MENTIONS",
+      "target": "premier contrôle",
+      "evidence": "C'est tout l'esprit du projet de loi pour un Etat au service d'une société de confiance actuellement défendu par le ministre de l'Action et des comptes publics devant le Parlement, qui instituera notamment le droit à l'erreur, sur lequel je m'étais engagé, mais une nouvelle forme de rapport entre l'administration et nos concitoyens, rétablissant la confiance, changeant les modalités du premier contrôle, la relation au quotidien et valorisant, donnant un socle juridique à ces indicateurs que je viens d'évoquer.",
+      "confidence": 1.0,
+      "source_id": "Law_4b1adfa5d3ed12bf0564f384d4fe83e80b247c24b0ce0bfe0e8c59ee2d0616c6",
+      "target_id": "Theme_734640a6be66202206e16e96787f842b41847a8e99dfab919ae6f9c7fa6f6fba"
+    },
+    {
+      "source": "projet de loi pour un Etat au service d'une société de confiance",
+      "relation": "MENTIONS",
+      "target": "rapport entre l'administration et nos concitoyens",
+      "evidence": "C'est tout l'esprit du projet de loi pour un Etat au service d'une société de confiance actuellement défendu par le ministre de l'Action et des comptes publics devant le Parlement, qui instituera notamment le droit à l'erreur, sur lequel je m'étais engagé, mais une nouvelle forme de rapport entre l'administration et nos concitoyens, rétablissant la confiance, changeant les modalités du premier contrôle, la relation au quotidien et valorisant, donnant un socle juridique à ces indicateurs que je viens d'évoquer.",
+      "confidence": 1.0,
+      "source_id": "Law_4b1adfa5d3ed12bf0564f384d4fe83e80b247c24b0ce0bfe0e8c59ee2d0616c6",
+      "target_id": "Theme_2bd23e2b7e86077965f195edc457400a01b5ecb5a2265110f91853c430445e62"
+    },
+    {
+      "source": "projet de loi pour un Etat au service d'une société de confiance",
+      "relation": "MENTIONS",
+      "target": "confiance",
+      "evidence": "C'est tout l'esprit du projet de loi pour un Etat au service d'une société de confiance actuellement défendu par le ministre de l'Action et des comptes publics devant le Parlement, qui instituera notamment le droit à l'erreur, sur lequel je m'étais engagé, mais une nouvelle forme de rapport entre l'administration et nos concitoyens, rétablissant la confiance, changeant les modalités du premier contrôle, la relation au quotidien et valorisant, donnant un socle juridique à ces indicateurs que je viens d'évoquer.",
+      "confidence": 1.0,
+      "source_id": "Law_4b1adfa5d3ed12bf0564f384d4fe83e80b247c24b0ce0bfe0e8c59ee2d0616c6",
+      "target_id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Amiens",
+      "id": "City_50d7edfea5352d1c2108d0e10ba4a285b0b793521bb528b9194a13254a40c572"
+    },
+    {
+      "type": "Country",
+      "name": "Australie",
+      "id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2"
+    },
+    {
+      "type": "City",
+      "name": "Villers-Bretonneux",
+      "id": "City_73ac45ecef2e130e070ed1def0b55cb3f2ea192a392110100163f35164a59735"
+    },
+    {
+      "type": "Event",
+      "name": "ANZAC Day",
+      "id": "Event_25bb419d3974f836be371f2783c78f3efcfc94c97afba4353c97b31b4e8a2a61"
+    },
+    {
+      "type": "Event",
+      "name": "Première Guerre mondiale",
+      "id": "Event_5c2b8eb302bf6065a5cd1c5988ce7663201e0b30e003923a8c736603a1b517af"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Event",
+      "name": "G20",
+      "id": "Event_6bc087d66e8d1ddf6a5ae30e3642286778f8e399748bba7b4ef548cec3b0b638"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme",
+      "id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce",
+      "id": "Theme_030aa67661fc7f420b2620eaa40b472d5e87b4aea26693aacbd98e388c58bb88"
+    },
+    {
+      "type": "Theme",
+      "name": "économie internationale",
+      "id": "Theme_c48b67df4c28ae71ec65e1a0974b40438f85ec372405fad780e5a273102f14ae"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "COP21",
+      "id": "Theme_5eeb45b09d9b325f297dad2ca9c5894e803316dfa61fbaee7c4fc534ab0b5099"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention des catastrophes naturelles",
+      "id": "Theme_dfdb059e54694f5a62e42ac7c98564b17769d41b985b53e19452d710862764e6"
+    },
+    {
+      "type": "Theme",
+      "name": "protection des océans",
+      "id": "Theme_8e5e7e42e10a8aa49364eeca435fd7ad610b961ece5e4c34fd8b7adb5e0b03c4"
+    },
+    {
+      "type": "Country",
+      "name": "Asie Pacifique",
+      "id": "Country_02209022179f6e152a11a103e98e3338b1159d58781546378e4b4aec33d39156"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Organization",
+      "name": "DCNS",
+      "id": "Organization_1fd11ba931bb5c999a18a48cc5dd84aa8d3f9d5596ec8638be25df2d4d29e2ef"
+    },
+    {
+      "type": "Organization",
+      "name": "NAVAL GROUP",
+      "id": "Organization_ff71490861e1d075fc0f9da66ae2e44afb21b8fc692a498ac9841b2b54302ccb"
+    },
+    {
+      "type": "Organization",
+      "name": "600 entreprises françaises",
+      "id": "Organization_aeb6912a07721b7af7faf2889f5a17354112fe2b030d681c18297f86c98f15d3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Australie",
+      "relation": "SPOKE_ABOUT",
+      "target": "Première Guerre mondiale",
+      "evidence": "sans l'Australie durant la Première Guerre mondiale et sans le courage des jeunes soldats australiens, la vie n'aurait sans doute pas été la même",
+      "confidence": 1.0,
+      "source_id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2",
+      "target_id": "Event_5c2b8eb302bf6065a5cd1c5988ce7663201e0b30e003923a8c736603a1b517af"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "lutte contre le terrorisme",
+      "evidence": "Sur le sujet de la lutte contre le terrorisme, la France et l'Australie partagent des visions extrêmement communes",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "source": "DCNS",
+      "relation": "MEMBER_OF",
+      "target": "NAVAL GROUP",
+      "evidence": "DCNS en particulier devenu NAVAL GROUP",
+      "confidence": 1.0,
+      "source_id": "Organization_1fd11ba931bb5c999a18a48cc5dd84aa8d3f9d5596ec8638be25df2d4d29e2ef",
+      "target_id": "Organization_ff71490861e1d075fc0f9da66ae2e44afb21b8fc692a498ac9841b2b54302ccb"
+    },
+    {
+      "source": "600 entreprises françaises",
+      "relation": "LOCATED_IN",
+      "target": "Australie",
+      "evidence": "plus de 600 entreprises françaises qui sont implantées en Australie",
+      "confidence": 1.0,
+      "source_id": "Organization_aeb6912a07721b7af7faf2889f5a17354112fe2b030d681c18297f86c98f15d3",
+      "target_id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2"
+    },
+    {
+      "source": "Australie",
+      "relation": "LOCATED_IN",
+      "target": "Australie",
+      "evidence": "L'Australie est un pays qui fascine les jeunes talents européens et français",
+      "confidence": 1.0,
+      "source_id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2",
+      "target_id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2"
+    }
+  ]
+}

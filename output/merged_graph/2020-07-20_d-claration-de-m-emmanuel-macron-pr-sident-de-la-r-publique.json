@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "règles de fonctionnement du fonds de relance",
+      "id": "Theme_4bc15b995e87f40b466b620e2504f185169fbdfe00fbb565c046b2f7c9a433ae"
+    },
+    {
+      "type": "Theme",
+      "name": "montant total du fonds de relance",
+      "id": "Theme_962393637a36507e560443bea8589a3e021580af2eccde06f9ebb473f318588d"
+    },
+    {
+      "type": "Theme",
+      "name": "part de subventions",
+      "id": "Theme_c26f606e99956af2026e7606633018d64ee7a347fc078dad82c900cc367ecae9"
+    },
+    {
+      "type": "Theme",
+      "name": "politique climatique",
+      "id": "Theme_d48a7e7eb8ebf299b2d33d67e2cd766ff2e16dc762c59e177640c8d1ee7cdbf4"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "plan de relance",
+      "id": "Theme_0284b43f69888e3ab0015c645b207cd8a09e25a57ef364a712d8ad0acf0ba263"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "City",
+      "name": "Zone euro",
+      "id": "City_04a63efcd11069b1c9c3dbd98896e42812253f9619c6256eeb5d778c5c49d331"
+    },
+    {
+      "type": "Law",
+      "name": "état de droit",
+      "id": "Law_a3b9fb2b79a6382998745e5ff4ffe237547c86d792c6585bd70650992808b64b"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de compromis",
+      "id": "Theme_612f24f4eb776b7398f73b8257c71554bdb77981366a0dc1824d20a4dc9e0bbd"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition européenne",
+      "id": "Theme_b9cc755f285245b083b8958673504dcd560871076cd5d85cb3fb08a1ec12002b"
+    },
+    {
+      "type": "Person",
+      "name": "chancelière Merkel",
+      "id": "Person_13c2c8ea40d1883e090c9d7b848b097d539b9ebe95d4deaaba00f62af3b98964"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "Zone euro",
+      "evidence": "Monnaie unique de plusieurs États membres de l'Union européenne qui forment la zone euro",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "City_04a63efcd11069b1c9c3dbd98896e42812253f9619c6256eeb5d778c5c49d331"
+    }
+  ]
+}

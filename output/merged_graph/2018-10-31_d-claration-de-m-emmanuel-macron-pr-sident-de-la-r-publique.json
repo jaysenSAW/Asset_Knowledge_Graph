@@ -1,0 +1,110 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Ethiopie",
+      "id": "Country_cb2fb8b2f18824af30704cca4972a1e4e17d083abddfb8b7768c6b43dff1b11d"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Union africaine",
+      "id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre d'Ethiopie",
+      "id": "Person_d97bccc9f025cbeb834549c6f8a1fc2113da45580c9f14f44385a6cc99e2af50"
+    },
+    {
+      "type": "Person",
+      "name": "Abiy AHMED",
+      "id": "Person_ac7e26c7e9b0479e18a430d86f2d7d723950a613ac9de5641c0e24c6c1327c85"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Élysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française de Développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "Theme",
+      "name": "patrimoniaux",
+      "id": "Theme_dcbb3ed7f1269b3331c676f3debdfe81cc31206513914ea373dc36f5edafbe57"
+    },
+    {
+      "type": "Theme",
+      "name": "archéologiques",
+      "id": "Theme_fd0ead7da8ad3acc8335323f9099331df63159a9e83a0a32f698a4fe17d45eeb"
+    },
+    {
+      "type": "Theme",
+      "name": "muséaux",
+      "id": "Theme_d03d8a56e20011a43481c597d107460e62a7a60b5a692d3d6f435286d634b9ea"
+    },
+    {
+      "type": "Person",
+      "name": "madame Sahle-Work ZEWDE",
+      "id": "Person_b939fa701dd3ccfb6958ee38247c0176ee813f5c314274e8b7ff4d69b2f517dc"
+    },
+    {
+      "type": "City",
+      "name": "Addis-Abeba",
+      "id": "City_021c87c57be34252d20194f9e9dcdb449a1d7b15d744702b6db4d4193eecdf3b"
+    },
+    {
+      "type": "Organization",
+      "name": "lycée français d'Addis-Abeba",
+      "id": "Organization_fef4ac6adf8d13075fe90616e274a5420a1b5289bc7a8a5d1ac4cd358219f9d4"
+    },
+    {
+      "type": "Organization",
+      "name": "Montpellier",
+      "id": "Organization_2080b4f13564e0f6ffc9d2a4334a5329ad3ed95bbb58bee87250063bad392999"
+    },
+    {
+      "type": "Organization",
+      "name": "équipe de France de Football",
+      "id": "Organization_8640b9d4931ba83e6ccb3e3729b83b51119f37ca16e85120aaf677f5891b024d"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "G7",
+      "evidence": "à travers le rôle que la France aura au sein du G7",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    }
+  ]
+}
