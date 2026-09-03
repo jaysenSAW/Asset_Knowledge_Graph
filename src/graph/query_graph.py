@@ -94,7 +94,7 @@ def generate_cypher_query(user_question: str, NEO4J_SCHEMA_PROMPT: str, model: s
 
 
 
-def ask_graph(question: str, NEO4J_SCHEMA_PROMPT: str, driver, model="qwen2.5-coder:7b"):
+def ask_graph(question: str, NEO4J_SCHEMA_PROMPT: str, driver, model="qwen2.5-coder:7b", display_query :bool = False):
     """_summary_
 
     Args:
@@ -108,7 +108,8 @@ def ask_graph(question: str, NEO4J_SCHEMA_PROMPT: str, driver, model="qwen2.5-co
     """
     # Create cypher query
     cypher_query = generate_cypher_query(question, NEO4J_SCHEMA_PROMPT, model=model)
-    print(f"\nCypher query\n{cypher_query}\n")
+    if display_query:
+        print(f"\nCypher query\n{cypher_query}\n")
     
     # replace $query_embedding 
     params = {}
