@@ -21,6 +21,12 @@ try:
 except ImportError:
     _JSON_REPAIR_AVAILABLE = False
 
+def check_database_empty(driver) -> bool:
+    """Check if the database is empty or not"""
+    with driver.session() as session:
+        result = session.run("MATCH (n) RETURN count(n) AS count")
+        count = result.single()["count"]
+        return count == 0
 
 def create_entity_id(entity_type, name):
     """create unique id by using couple
