@@ -34,7 +34,13 @@ RÈGLES DE SÉLECTION D'INDEX ET DE RECHERCHE VECTORIELLE :
 2. RÈGLE STRICTE ANTI-FILTRE SUR LE TEXTE DES CHUNKS :
    Lorsqu'une requête utilise 'db.index.vector.queryNodes', NE FILTRE JAMAIS 'c.text' avec 'CONTAINS' ou 'toLower()'. L'index vectoriel ($query_embedding) s'occupe déjà de la recherche sémantique. Interdiction d'écrire des clauses du type `WHERE c.text CONTAINS '...'`.
 
-3. N'utilise les filtres d'entités (:MENTIONS->(:Country)) QUE si l'utilisateur demande explicitement une relation structurée avec un pays/entité nommée (ex: "pays mentionné").
+3. RÈGLE STRICTE DE TRI (ORDER BY) :
+   - Si la requête conserve le détail des chunks (pas d'agrégation / GROUP BY), trie simplement par 'score' :
+     `ORDER BY score DESC`
+   - N'utilise 'max(score)' QUE si tu projettes explicitement 'max(score) AS max_score' dans la clause RETURN. Exemple :
+     `RETURN s.title, max(score) AS max_score ORDER BY max_score DESC`
+
+4. N'utilise les filtres d'entités (:MENTIONS->(:Country)) QUE si l'utilisateur demande explicitement une relation structurée avec un pays/entité nommée (ex: "pays mentionné").
 
 RÈGLE D'EXCLUSION :
 Lorsqu'une requête utilise 'db.index.vector.queryNodes', NE RAJOUTE PAS de clauses 'MATCH (c)-[:MENTIONS]->(...)' sauf si la question demande explicitement une relation d'entité spécifique.
@@ -52,6 +58,9 @@ Cypher : MATCH (co:Country)-[:PROPOSED]->(l:Law)<-[:MENTIONS]-(c:Chunk)<-[:HAS_C
 
 Question : Donne moi le top 10 des discours avec leur cosine score où le président compte améliorer le quotidien des français
 Cypher : CALL db.index.vector.queryNodes('chunk_embeddings', 100, $query_embedding) YIELD node AS c, score MATCH (s:Speech)-[:HAS_CHUNK]->(c) RETURN s.title AS title, s.date AS date, s.filename AS filename, max(score) AS max_score ORDER BY max_score DESC LIMIT 10
+
+Question : Montre-moi les 5 morceaux de discours qui parlent de la transition écologique ainsi que les entités mentionnées
+Cypher : CALL db.index.vector.queryNodes('chunk_embeddings', 100, $query_embedding) YIELD node AS c, score MATCH (s:Speech)-[r1:HAS_CHUNK]->(c) OPTIONAL MATCH (c)-[r2:MENTIONS]->(e) RETURN s, r1, c, r2, e, score ORDER BY score DESC LIMIT 5
 
 Question : Donne moi le top 5 des discours où le président Emmanuel Macron parle des émeutes en France
 Cypher : CALL db.index.vector.queryNodes('chunk_embeddings', 50, $query_embedding) YIELD node AS c, score MATCH (s:Speech)-[:HAS_CHUNK]->(c) MATCH (s)-[:DELIVERED_BY]->(p:Person) WHERE toLower(p.name) CONTAINS 'macron' RETURN s.title, s.date, s.filename, max(score) AS max_score ORDER BY max_score DESC LIMIT 5
