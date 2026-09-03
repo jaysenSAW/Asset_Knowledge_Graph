@@ -142,3 +142,48 @@ Données Neo4j : {graph_results}
         options={"temperature": 0.1}
     )
     return response["message"]["content"].strip()
+
+
+def ask_graph_with_subgraph(question, prompt_schema, driver, llm_model, debug=False):
+    """
+    Exécute la requête RAG et extrait à la fois les données texte et la structure
+    du sous-graphe (nœuds et relations) pour l'affichage visuel.
+    """
+    # 1. Génération de la requête Cypher et calcul de l'embedding de la question
+    cypher_query = generate_cypher(question, prompt_schema, llm_model)
+    if debug:
+        print(f"\n[DEBUG] Cypher Query:\n{cypher_query}\n")
+        
+    query_embedding = compute_query_embedding(question)
+    
+    nodes, edges, raw_data = [], [], []
+    seen_nodes = set()
+
+    # 2. Exécution Cypher et parsing de la structure du graphe
+    with driver.session() as session:
+        result = session.run(cypher_query, parameters={"query_embedding": query_embedding})
+        
+        for record in result:
+            raw_data.append(record.data())
+            
+            # Parcours des éléments retournés par la requête pour extraire les nœuds et relations
+            for value in record.values():
+                # Gestion des Nœuds Neo4j
+                if hasattr(value, "labels"):
+                    node_id = str(value.element_id if hasattr(value, "element_id") else value.id)
+                    if node_id not in seen_nodes:
+                        seen_nodes.add(node_id)
+                        nodes.append({
+                            "id": node_id,
+                            "label": list(value.labels)[0] if value.labels else "Unknown",
+                            "properties": dict(value)
+                        })
+                # Gestion des Relations Neo4j
+                elif hasattr(value, "type"):
+                    edges.append({
+                        "source": str(value.start_node.element_id if hasattr(value.start_node, "element_id") else value.start_node.id),
+                        "target": str(value.end_node.element_id if hasattr(value.end_node, "element_id") else value.end_node.id),
+                        "type": value.type
+                    })
+
+    return raw_data, {"nodes": nodes, "edges": edges}
