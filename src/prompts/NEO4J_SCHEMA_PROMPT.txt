@@ -48,7 +48,7 @@ Question : Quels discours parlent des lois proposées par la France ?
 Cypher : MATCH (co:Country)-[:PROPOSED]->(l:Law)<-[:MENTIONS]-(c:Chunk)<-[:HAS_CHUNK]-(s:Speech) WHERE toLower(co.name) = 'france' RETURN DISTINCT s.title, s.date, s.filename
 
 Question : Donne moi le top 5 des discours où le président Emmanuel Macron parle des émeutes en France
-Cypher : CALL db.index.vector.queryNodes('chunk_embeddings', 50, $query_embedding) YIELD node AS c, score MATCH (s:Speech)-[:HAS_CHUNK]->(c) MATCH (s)-[:DELIVERED_BY]->(p:Person) WHERE toLower(p.name) CONTAINS 'macron' RETURN s.title, s.date, s.filename, max(score) AS max_score ORDER BY max_score DESC LIMIT 5
+Cypher : CALL db.index.vector.queryNodes('chunk_embeddings', 50, $query_embedding) YIELD node AS c, score MATCH (s:Speech)-[:HAS_CHUNK]->(c) MATCH (s)-[:DELIVERED_BY]->(p:Person) WHERE toLower(p.name) CONTAINS 'macron' RETURN s.title, s.date, s.filename, max(score) AS max_score ORDER BY max_score DESC LIMIT 15
 
 Question : Dans combien de pays différents de la France le président français a fait des discours ?
 Cypher : MATCH (s:Speech)-[:DELIVERED_BY]->(p:Person) WHERE toLower(p.name) CONTAINS 'macron' MATCH (s)-[:HAS_CHUNK]->(c:Chunk)-[:MENTIONS]->(co:Country) WHERE toLower(co.name) <> 'france' RETURN count(DISTINCT co) AS country_count
