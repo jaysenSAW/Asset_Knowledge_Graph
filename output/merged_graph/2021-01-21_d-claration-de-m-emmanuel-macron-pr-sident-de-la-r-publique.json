@@ -1,0 +1,907 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Saclay",
+      "id": "City_caf8bceac7e04858a0b95144bf9f86be7269fc1af57b57e4f15c33a4d0125d5f"
+    },
+    {
+      "type": "Organization",
+      "name": "l'ensemble des équipes",
+      "id": "Organization_399cdfb4e22c4ffeb4b01b6891b6f3528ec575e2dd87304118bc6b55ed283681"
+    },
+    {
+      "type": "Person",
+      "name": "madame la présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Organization",
+      "name": "l'ensemble des organismes",
+      "id": "Organization_b1822b151fb8b75be9b4d000631487e92155f5de2c8f79ea3f331f72d1db36b8"
+    },
+    {
+      "type": "Organization",
+      "name": "les élus",
+      "id": "Organization_4a7f3a5ca734846b957b16488af056e3200a06dc53033acb9cd57e663556ed2d"
+    },
+    {
+      "type": "Organization",
+      "name": "l'ensemble des services de l'Etat sur le territoire",
+      "id": "Organization_cad284aacb2ca649761ae2fb8df9db6be559bdb2960185e02455ebad9efd857a"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le préfet",
+      "id": "Person_53c349332859a6f29fc7e202b933842f8a6c690203ea9dd3a5a57a1f2636c209"
+    },
+    {
+      "type": "City",
+      "name": "Plateau",
+      "id": "City_e8959d856457d610e58cbc85f87875b048e09e18d6bb7c3f6eaa708fa3292be1"
+    },
+    {
+      "type": "Organization",
+      "name": "C2N",
+      "id": "Organization_2a28210f9624ec1e33db43caa8363ce80cdfcf740acdf4640e7aaf5335b4237f"
+    },
+    {
+      "type": "Theme",
+      "name": "contraintes du quotidien",
+      "id": "Theme_c25ceed1c23adddb20e5ad2cbe2eb4b9386f583a020fbc9e8c385e6f5751ae48"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Person",
+      "name": "madame la ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "j'étais venu m'adresser à vous",
+      "id": "Person_85dd924f1332999918bcdf43c20ab93e6c2d1c01f481d0ad8f51bbff639b53b1"
+    },
+    {
+      "type": "Organization",
+      "name": "Université Paris-Saclay",
+      "id": "Organization_b8a9d7fa5e7a73c496eb5373c1f2b9117806ce48dd02b3ffa9f92cabd5b6d203"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut polytechnique de Paris",
+      "id": "Organization_2b967d3f03dd326555244cd887da17a36c969c1d6ff06b545da7281bdb721762"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "établissement public",
+      "id": "Organization_57c58430e105af2bba468fbd8cf7caa79a1a4e87e99fdf17292175a288cd89fc"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Versailles",
+      "id": "City_005c3dd556787a48d85e917c1629f8b41dea2f726d89283e42c5cd7448b7c82a"
+    },
+    {
+      "type": "City",
+      "name": "Orly",
+      "id": "City_da52c39cabdcdd5e4a63475d168bce87939fc4e74e8a4782043fd2cff3daaae3"
+    },
+    {
+      "type": "City",
+      "name": "Massy-Palaiseau",
+      "id": "City_dba4539d8bd2274169a9a969aa5fd78c73a580879643d7f6a1d316b847bf3767"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition d'un pays",
+      "id": "Theme_6b0e0b143f90df67b7812a17fd2d7efae2ea5cc5ee74a5105245dd55c7a5bc6e"
+    },
+    {
+      "type": "Theme",
+      "name": "nation ouverte",
+      "id": "Theme_f35875fc41a0e79bbd97c6983abed8c0393c2e8e3936b8da1419f22e6364b791"
+    },
+    {
+      "type": "Theme",
+      "name": "loi de programmation pluriannuelle pour la recherche",
+      "id": "Theme_272a01855db2e27bf274efeacd6915921cbfb9fb8dfb4553551fcf64acb05cb1"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie de la Covid-19",
+      "id": "Theme_a12087dddf0048ef447530490134739c8ae38fb2d7104ef4bf13f1d5844e0b7e"
+    },
+    {
+      "type": "Theme",
+      "name": "climatiques",
+      "id": "Theme_4e3f3b1c5960ae7ebf22ebf2c75efb3a1c4a8c97a5ab6c598e5546d7a2129a59"
+    },
+    {
+      "type": "Theme",
+      "name": "sanitaires",
+      "id": "Theme_2f9e5d010767cf31e881358b7be5cb25d3e7ac2450e78cbf0cbb458971b0f965"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "quantique",
+      "id": "Theme_a55a5e9c04e9e49c2efc55c9c97fdcdd3149041e81aa26bd45766547b9155e23"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégies de recherche",
+      "id": "Theme_5c22d7b8d5f0898e5781af1daf588c083d67ac258290902847f6e074125e9671"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité à produire de la recherche fondamentale",
+      "id": "Theme_e091e045e50ae2cc68d0402ff90f4a0de48d64f703674358c9e8d9ba7c953c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies stratégiques",
+      "id": "Theme_b8b630450f26517ab937b1bbe6651359a9a8dcc615ae28bb2dc6d52087d64b39"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté française",
+      "id": "Theme_9818ea861fb6a9b4f7b15f4a484860ecb47733d1dd31b5d91945a05f2ae011ee"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie quantique",
+      "id": "Theme_075121443e8e33565de9eb20c4cbd91e92aae369793c084b3d313970abaed33a"
+    },
+    {
+      "type": "Theme",
+      "name": "microélectronique",
+      "id": "Theme_57a09c41f39f435b4cfacfc34a1f321fa0b7c09aca57ea8f73addbe76667e795"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies de la santé",
+      "id": "Theme_bca3ab7e8ae43c668a37b2a9820f18748ed4117ecb535f4b658d03826a53d58e"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "physique quantique",
+      "id": "Theme_22829d0bf893fb7c15fe8f21a8e16969edce0904112f878ca1797ec373982a4f"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "développement durable",
+      "id": "Theme_5f1bb520fa5de98e4e876d04cd83bf58d961cf1f5d62571cbb08cbca34482cec"
+    },
+    {
+      "type": "Theme",
+      "name": "production agricole",
+      "id": "Theme_52e8416d561886c6a49b2c8456117a3828d515ce31da84e920d0817c9e6cdb01"
+    },
+    {
+      "type": "Theme",
+      "name": "coronavirus",
+      "id": "Theme_4bded5c57cff866d2e999626cf9775e5dd7ba8763552a20f19532983132195d7"
+    },
+    {
+      "type": "Theme",
+      "name": "ordinateurs quantiques",
+      "id": "Theme_f37d11305aa92dbcf239dd004174d45d1725078541fed0a12deb98b425d899e9"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "cybersécurité",
+      "id": "Theme_7a7cca556d551b9b5266cdc687341603275f2a9d8ba680e9e25daeeddb894a52"
+    },
+    {
+      "type": "Person",
+      "name": "Alain ASPECT",
+      "id": "Person_f2e7d667a5b742053975a9686e9421b7beb262ac992efbb10938a56951c970c6"
+    },
+    {
+      "type": "Person",
+      "name": "Albert FERT",
+      "id": "Person_d4ed5a98dba4fd3ec8fca50a8ebed4a17256d54faeace4a74b971f228af79ce9"
+    },
+    {
+      "type": "Person",
+      "name": "Serge HAROCHE",
+      "id": "Person_a9f8c70a8b9bd75aa706c89c020c69d40c7404ec04be7bd429f79d9f0aeaf560"
+    },
+    {
+      "type": "Person",
+      "name": "Vincent BOUCHIAT",
+      "id": "Person_952ab66d660a51e56c88e4fd1c20b94f67ddbcc8a63071064ec405243e87cc3e"
+    },
+    {
+      "type": "Person",
+      "name": "Daniel ESTEVE",
+      "id": "Person_6e51974c55443be239bb8df2958fc808aae83b6f7ca3a6eeb9a580d916cdd67a"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut d'optique",
+      "id": "Organization_9fe3442d3a67cfd956e22d68cfc34e77b0ce98dbf907902ed6c1690a1f02c45b"
+    },
+    {
+      "type": "Organization",
+      "name": "Thalès",
+      "id": "Organization_526fb42462754e4ed1d9b1f923fabafa25efc27388c70819465567502848194f"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut Néel",
+      "id": "Organization_eeb5f80a5a8186168cf509567ef4f8877ebb867f01b40d2f7dc7feb4790c8ef8"
+    },
+    {
+      "type": "Organization",
+      "name": "CEA",
+      "id": "Organization_56bee4e69d140d03f96302b407e9a57182af007e69e3a0511d3d22f4e01718b0"
+    },
+    {
+      "type": "Organization",
+      "name": "CNRS",
+      "id": "Organization_9797a7b293510a1bf26addf4f9eb951f6a91dfb71b6b8d8c7031c08fb95a0fa4"
+    },
+    {
+      "type": "Organization",
+      "name": "université de Grenoble",
+      "id": "Organization_e4c5f8cadb8028836cffabc5543205b6cfa7ebe407ce0ad8e0c8793103644cce"
+    },
+    {
+      "type": "Organization",
+      "name": "Atos",
+      "id": "Organization_01847f8686f99d4942e3102be70fb4268fad1bdfdda377c553c1345c932ea952"
+    },
+    {
+      "type": "Organization",
+      "name": "INRIA",
+      "id": "Organization_5219b7db9fd3ef2c48b004e6ce3de3c211c2ea34a75203009621b05e8e0f84b2"
+    },
+    {
+      "type": "Organization",
+      "name": "Bpifrance",
+      "id": "Organization_a9ccdc3b7703f243a8222d62576aea819b2390487b9cbaf2500a76a84e916f9b"
+    },
+    {
+      "type": "Organization",
+      "name": "Quantonation",
+      "id": "Organization_ad44ab0a731138aad17c8cbacf001c47371d9c469d6083a29ddf8eb775ac8829"
+    },
+    {
+      "type": "Organization",
+      "name": "Quandela",
+      "id": "Organization_49682979458c0fa20b2a2b5ccea823719963835b354d67e8757fe37970415f60"
+    },
+    {
+      "type": "Organization",
+      "name": "Pasqal",
+      "id": "Organization_c59ea1c7387ca7c921c504525a9ba613462f174e0f602d0a780c7ee417e70fdb"
+    },
+    {
+      "type": "Organization",
+      "name": "CryptoNext",
+      "id": "Organization_9935eb999f690e895eb55a5fb4f9169bbc8554a6619d3dd988f71ae3cdfc0ee4"
+    },
+    {
+      "type": "Organization",
+      "name": "Very Cloud",
+      "id": "Organization_a413b4076bfb6fd0a5eafda73733b3c29e7bf8cf8f99cec4df07c72175189c86"
+    },
+    {
+      "type": "Organization",
+      "name": "Alice & Bob",
+      "id": "Organization_327bec686a3e230d91a8a139f7a78ac302d3bb550fa4cc619381646ce8a9dcee"
+    },
+    {
+      "type": "Person",
+      "name": "anciens doctorants ou chercheurs",
+      "id": "Person_d42a0ddfea573c3443ebb7582d46fd750b41cf369c7539947318389945a72ddd"
+    },
+    {
+      "type": "Organization",
+      "name": "ces entreprises prometteuses",
+      "id": "Organization_7012829b5b0aaf0ebd8eb7c22cfada88310ec0619f0ec716a23422819af5e1ef"
+    },
+    {
+      "type": "Organization",
+      "name": "ces startups",
+      "id": "Organization_afdfd46792bb20e7bbcf001ce721847598447595e2888ad0ff8622deea763018"
+    },
+    {
+      "type": "Organization",
+      "name": "ces grands groupes",
+      "id": "Organization_5cd516d1cb0a52263c297136d8be86ebecd2b150fb15c665a28caaec218d6974"
+    },
+    {
+      "type": "Organization",
+      "name": "Total",
+      "id": "Organization_559564d9b17106b6bb250c645551ad905b530d212d84a924205cddb718712d8e"
+    },
+    {
+      "type": "Organization",
+      "name": "EDF",
+      "id": "Organization_a2183f95d437456d4b4affc3a6618e8faf7d161757f235e7560aeca5540433a9"
+    },
+    {
+      "type": "Country",
+      "name": "Etat",
+      "id": "Country_774c8b6f22f0c8760528588f5b156b73633c371f2c54fca0f8d2cff44b6c65d9"
+    },
+    {
+      "type": "Theme",
+      "name": "carrières scientifiques",
+      "id": "Theme_1a49eed0a19eb3876bc1b63e01f386a6ebe3a61f1a9fc0f9f808526b759fb420"
+    },
+    {
+      "type": "Theme",
+      "name": "statut mal payé",
+      "id": "Theme_0f441912f05c98e9878fb715b49224db8a9fcf16dea005505ecd388e7cf767c2"
+    },
+    {
+      "type": "Theme",
+      "name": "carrières longues",
+      "id": "Theme_db7d48c4e98dda451cdafad79362c01674f270dca7bbc73272be20dcdd269b00"
+    },
+    {
+      "type": "Theme",
+      "name": "financement",
+      "id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941"
+    },
+    {
+      "type": "Theme",
+      "name": "appel à projet",
+      "id": "Theme_350691a8f388f3d85ab82bb19b691ca1653c1d34b6121c2b5a113a6baa06af49"
+    },
+    {
+      "type": "Theme",
+      "name": "administratif",
+      "id": "Theme_da40a5cc2dfaf6d2b2208c7d6d7ff9a8796880019a7ff3cc15dab73777a5589b"
+    },
+    {
+      "type": "Theme",
+      "name": "charge administrative",
+      "id": "Theme_4ee5d1d98d0295a0ae299e352498da6c860bb9810b63ca73c2328a7b210ed9ca"
+    },
+    {
+      "type": "Theme",
+      "name": "contrat",
+      "id": "Theme_f8b80a7b20332405dccec20cde71a9459d22273c38955f98f55992b928dedccf"
+    },
+    {
+      "type": "Law",
+      "name": "Pacte",
+      "id": "Law_441f9eb4736893cc7e856af00528b73d4789dbc937b4ac79ecdaa4f30f915044"
+    },
+    {
+      "type": "Law",
+      "name": "loi pour la recherche",
+      "id": "Law_1871bc216ec4b239462bc6ba59e26c6c555ae7ff04f0e6ef9f646e4e1718f7b4"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification de ce système",
+      "id": "Theme_66aa67bd91e09a220d90d3ebf621ef04ea593e1fca2dcb0396388a30c9f0e929"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance entre la nation et ses chercheurs",
+      "id": "Theme_a5768a28c24b89711f64d3a75d656952baf01dc88e711039a372a1aa954bcdce"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "temporalités",
+      "id": "Theme_858a61301ca51eee5d788a92a536e447f1b7ef107767d978f06a362929bd30e9"
+    },
+    {
+      "type": "Theme",
+      "name": "10 ans",
+      "id": "Theme_5b8cd851bd1deb6a0fa25f21390fcdc17745c1ee71b6ab416bec9448de233175"
+    },
+    {
+      "type": "Theme",
+      "name": "5 ans",
+      "id": "Theme_ba89a049e1413d6eedf4fd7e3663a4c9f749eea8582aefcad35ceaae85e75ab3"
+    },
+    {
+      "type": "Theme",
+      "name": "2 à 5 ans",
+      "id": "Theme_4ebbbae500aaf2e1d64405078fd69bc0255f3c3d4392b68bfc34d498fbd2f1a0"
+    },
+    {
+      "type": "Theme",
+      "name": "visibilité",
+      "id": "Theme_f59a7fbc64425457d75c34d0bff557a4fa6deb3b2e067b747f711e04c9e5e6db"
+    },
+    {
+      "type": "Theme",
+      "name": "plan décennal",
+      "id": "Theme_4d8dda181691e1e8c6e6ce56d2958731fd397a1146c93861a49ce1d6e88cf254"
+    },
+    {
+      "type": "Theme",
+      "name": "carrière des jeunes chercheurs",
+      "id": "Theme_4bb6aaefc35c020b1ceb7e375461ecc2527a7b86f117da976d23c91bf7c4926d"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien aux initiatives d'excellence",
+      "id": "Theme_9556f8100f2d530502f63d856053650ae7c5ae1fe49c66377c9be1d5d86f66da"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche fondamentale",
+      "id": "Theme_5b637107b2e6442540f6ca357c9306acb8a414a3fb26c475c58bdf959a08e1dd"
+    },
+    {
+      "type": "Theme",
+      "name": "statut de chercheur et d'enseignant chercheur",
+      "id": "Theme_8fa265a13ca8bb115016d2a7936d2ab279e5517110537ba012d855bcac342512"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "DGE",
+      "id": "Organization_e202bb9276980a6b4d8f0b3775cce552c3458fcc27947b038bf8e53c973787f0"
+    },
+    {
+      "type": "Organization",
+      "name": "DGRI",
+      "id": "Organization_8dfee4257b9be404b0c0d616b33bde6235c0c2f72a2be1d8350c3671ded1fede"
+    },
+    {
+      "type": "Organization",
+      "name": "DGA",
+      "id": "Organization_dd765c535b316b7386231efd44e18c2229fa874ed4e2f61166e993556122635d"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies quantiques",
+      "id": "Theme_8626f9f463ed7b615a46b2e1ada3a2a0f05fa96839a7913314f7b37bf94f855e"
+    },
+    {
+      "type": "Theme",
+      "name": "simulateurs d'ordinateurs quantiques",
+      "id": "Theme_3fe4c80b5fca08ead7c846686636d7e6456850398d7f3458ff1ebe8de8300bcb"
+    },
+    {
+      "type": "Theme",
+      "name": "chimie",
+      "id": "Theme_fb027b9d696290e3ba13a41e41b2b3f70c3f7d8e45b42ae67f387bfef898944b"
+    },
+    {
+      "type": "Theme",
+      "name": "logistique",
+      "id": "Theme_b0840907ce02d2e2070f928f1de591cf6bed0600fe265dc6a5a7612bc61203ad"
+    },
+    {
+      "type": "City",
+      "name": "Grenoble",
+      "id": "City_fa629d484a8f9aa39ff5e4109dbd2c0dfebcc0de6a03a19ba5127cdeac55b4c2"
+    },
+    {
+      "type": "Theme",
+      "name": "capteurs quantiques",
+      "id": "Theme_22b9bcfce98a81e6857c47c4852d53531aa83f54e8d4336177b6d15660042df5"
+    },
+    {
+      "type": "Theme",
+      "name": "cryptographie post-quantique",
+      "id": "Theme_0d113771aea94e8624bd44ac93149ee2ab37090e82424914cba4672061b82ed8"
+    },
+    {
+      "type": "Theme",
+      "name": "communications quantiques",
+      "id": "Theme_f8a4caf33172068d038d722fdd8a0dfd42df0003d9917085af09c05d73b58ad4"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtrise d'états intriqués à distance",
+      "id": "Theme_7b6f20b3b8dae245f48c1b7e7a257033799b2a9842abbd4c64b01051fe5dcdb5"
+    },
+    {
+      "type": "Theme",
+      "name": "transport fidèle de l'information quantique à température ambiante",
+      "id": "Theme_39a1601ce0c17fedfd497f2c265e155947841196f4a018c4355dc2931064e9fe"
+    },
+    {
+      "type": "Theme",
+      "name": "cryogénie",
+      "id": "Theme_bc81828c26c2a42d344c613be5ad94a0129bf3f2c2ae646dfee35208910538ad"
+    },
+    {
+      "type": "Theme",
+      "name": "formations en physique quantique",
+      "id": "Theme_89ee3b49d55c4e6d7e9b27c5e076b9d8d67851b07a0c9199e1aa8a2fd58b77ec"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le directeur général",
+      "id": "Person_8777b82fe982332d2c4f6fd3f160581898a8126a2867a4743b0efb9b0c7dd20f"
+    },
+    {
+      "type": "Theme",
+      "name": "compétition internationale",
+      "id": "Theme_6c52336cdf05a0c5fa4a9150a137742c2aa3f5b376b6e38a22b42eedece14388"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité des talents",
+      "id": "Theme_8e7c39a100f9dd81d4febeeb7fd48c0b48a2957a599ccb72334a519d7ba4b471"
+    },
+    {
+      "type": "Theme",
+      "name": "interdisciplinarité",
+      "id": "Theme_e89a0df5050416d099e86465ec6e1a0865583b20ff38e67ed4330698bc13506e"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Person",
+      "name": "présidents",
+      "id": "Person_7968d5e00c3858839e40468d3fbda6f7f1a95135564545f7370b5a0a48cd1f9a"
+    },
+    {
+      "type": "Person",
+      "name": "directeurs généraux",
+      "id": "Person_66fa4f4b17ecff27d1a58fe1bf58af8eaf3450b97f5b3d6e1355d96f4ccc40aa"
+    },
+    {
+      "type": "Theme",
+      "name": "programme prioritaire de recherche",
+      "id": "Theme_09f650b1dc0191b9b376bf685f55b3ab2e5aeb5572252a015e018ff416af0e4f"
+    },
+    {
+      "type": "Theme",
+      "name": "lancement des projets concrets",
+      "id": "Theme_adcadd37b77ddab63b9ff834327bab6607bde9f906e6ed569934e2439ad2704f"
+    },
+    {
+      "type": "Theme",
+      "name": "financements concrets",
+      "id": "Theme_91d9d5e31dba44ec03ba3545f4dd10028daa5323cf2b6857bebb6eabe76742ff"
+    },
+    {
+      "type": "Theme",
+      "name": "consolider l'écosystème",
+      "id": "Theme_dc83f967c964ca096341b264c71476088c7ae04d63a1614ea3ef38e8dad5a311"
+    },
+    {
+      "type": "Theme",
+      "name": "financements européens",
+      "id": "Theme_9a6f57c0a01858731a7c850a696a9966b9ffc8bf7031d71ac19247a47706d85c"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Country",
+      "name": "Irlande",
+      "id": "Country_add775eaec2849b9c8b5c4b21cad022c0c1d91850b7cab89dc8138b97a441bbd"
+    },
+    {
+      "type": "Country",
+      "name": "Autriche",
+      "id": "Country_c68a479343ec0ea52bfa053ac2e047c2edaade30d4c6d16515e2d110863f8dd8"
+    },
+    {
+      "type": "City",
+      "name": "Bruyères-le-Châtel",
+      "id": "City_c3d0b6633f01ac6d6acb1a460d41ccd2aa47229fa10d7da421d958db5f1d0b1a"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie européenne",
+      "id": "Theme_9f2d9669fd6bd7f0c519e9178f9aa5629f4017072e03d9dbd959f30f0e1c4ee3"
+    },
+    {
+      "type": "Theme",
+      "name": "hub quantique européen",
+      "id": "Theme_65b3d6df1b517eac6b2120155ae90d7a64c732e4bd1f84dad5e58649ea413f98"
+    },
+    {
+      "type": "Theme",
+      "name": "ordinateur quantique universel",
+      "id": "Theme_f3cb19a7bd52e3c7d2d7fc35d54d660652ae3e1e616c489c978c3e94e84b8825"
+    },
+    {
+      "type": "Theme",
+      "name": "résilience",
+      "id": "Theme_ae0698b8a130cd1cd5df43fe5e3e189eb0c16712f2fa72aeeed81640c8d2a14e"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "défiance",
+      "id": "Theme_26f925bddc8a43c12ab0bfb589da2b6992c796a21526bbc5f3a574840d25778c"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "technologie",
+      "id": "Theme_f50f2e73d342423ab68fbb527a8e6f41bb64bfac8440718a497ef6f75a9032d8"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "talents",
+      "id": "Theme_3b7a6c56442c49486f7601fa3bced61cced2f4aadaf5f134fda32ff8e738503d"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtrise complète de cette chaîne de valeur",
+      "id": "Theme_bb29f5f295b768342065806d462e45d26884081662bb8ac129bd698253182c43"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "stratégie quantique",
+      "relation": "MENTIONS",
+      "target": "stratégie quantique",
+      "evidence": "La stratégie quantique a, à cet égard, une importance capitale.",
+      "confidence": 1.0,
+      "source_id": "Theme_075121443e8e33565de9eb20c4cbd91e92aae369793c084b3d313970abaed33a",
+      "target_id": "Theme_075121443e8e33565de9eb20c4cbd91e92aae369793c084b3d313970abaed33a"
+    },
+    {
+      "source": "développement durable",
+      "relation": "MENTIONS",
+      "target": "développement durable",
+      "evidence": "développement durable\nDéveloppement qui répond aux besoins du présent sans compromettre la capacité des générations futures à répondre aux leurs",
+      "confidence": 1.0,
+      "source_id": "Theme_5f1bb520fa5de98e4e876d04cd83bf58d961cf1f5d62571cbb08cbca34482cec",
+      "target_id": "Theme_5f1bb520fa5de98e4e876d04cd83bf58d961cf1f5d62571cbb08cbca34482cec"
+    },
+    {
+      "source": "coronavirus",
+      "relation": "MENTIONS",
+      "target": "coronavirus",
+      "evidence": "à l'heure où les supercalculateurs du monde entier sont mobilisés pour rechercher des traitements pour lutter contre le coronavirus",
+      "confidence": 1.0,
+      "source_id": "Theme_4bded5c57cff866d2e999626cf9775e5dd7ba8763552a20f19532983132195d7",
+      "target_id": "Theme_4bded5c57cff866d2e999626cf9775e5dd7ba8763552a20f19532983132195d7"
+    },
+    {
+      "source": "ordinateurs quantiques",
+      "relation": "MENTIONS",
+      "target": "ordinateurs quantiques",
+      "evidence": "les ordinateurs quantiques pourraient devenir dans le futur l'une des armes les plus puissantes jamais conçues contre les crises sanitaires.",
+      "confidence": 1.0,
+      "source_id": "Theme_f37d11305aa92dbcf239dd004174d45d1725078541fed0a12deb98b425d899e9",
+      "target_id": "Theme_f37d11305aa92dbcf239dd004174d45d1725078541fed0a12deb98b425d899e9"
+    },
+    {
+      "source": "sécurité",
+      "relation": "MENTIONS",
+      "target": "sécurité",
+      "evidence": "Et je n'évoque même pas là toutes les implications et les applications dans le domaine de la sécurité, de la défense,",
+      "confidence": 1.0,
+      "source_id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d",
+      "target_id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "source": "défense",
+      "relation": "MENTIONS",
+      "target": "défense",
+      "evidence": "Et je n'évoque même pas là toutes les implications et les applications dans le domaine de la sécurité, de la défense,",
+      "confidence": 1.0,
+      "source_id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830",
+      "target_id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "source": "cybersécurité",
+      "relation": "MENTIONS",
+      "target": "cybersécurité",
+      "evidence": "pour nous aider dans la lutte en matière de cybersécurité.",
+      "confidence": 1.0,
+      "source_id": "Theme_7a7cca556d551b9b5266cdc687341603275f2a9d8ba680e9e25daeeddb894a52",
+      "target_id": "Theme_7a7cca556d551b9b5266cdc687341603275f2a9d8ba680e9e25daeeddb894a52"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "CEA",
+      "evidence": "la France, le CEA, hébergera la première infrastructure au monde d'ordinateurs quantiques hybrides.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_56bee4e69d140d03f96302b407e9a57182af007e69e3a0511d3d22f4e01718b0"
+    },
+    {
+      "source": "Atos",
+      "relation": "ALLIED_WITH",
+      "target": "Pasqal",
+      "evidence": "des partenariats industriels comme celui récemment conclu en ce sens entre Atos et la startup Pasqal",
+      "confidence": 1.0,
+      "source_id": "Organization_01847f8686f99d4942e3102be70fb4268fad1bdfdda377c553c1345c932ea952",
+      "target_id": "Organization_c59ea1c7387ca7c921c504525a9ba613462f174e0f602d0a780c7ee417e70fdb"
+    },
+    {
+      "source": "Thalès",
+      "relation": "SPOKE_ABOUT",
+      "target": "capteurs quantiques",
+      "evidence": "On a vu tout à l'heure l'excellence de la recherche entre Thalès et le CNRS, un autre laboratoire d'exception sur le Plateau, mais pour réussir à complètement transformer, là aussi, la technologie des capteurs qui changera la vie : pour notre aéronautique civil et militaire, pour nos sous-marins, pour tant d'applications, les capteurs quantiques sont une transformation profonde.",
+      "confidence": 1.0,
+      "source_id": "Organization_526fb42462754e4ed1d9b1f923fabafa25efc27388c70819465567502848194f",
+      "target_id": "Theme_22b9bcfce98a81e6857c47c4852d53531aa83f54e8d4336177b6d15660042df5"
+    },
+    {
+      "source": "INRIA",
+      "relation": "SPOKE_ABOUT",
+      "target": "cryptographie post-quantique",
+      "evidence": "150 millions d'euros seront consacrés à la cryptographie post-quantique pour sécuriser les communications avec des protocoles résistant aux méthodes de calcul des futurs ordinateurs quantiques. Alice et Bob, Thales, INRIA sont des acteurs décisifs, privés et publics dans ce domaine et là aussi, ce sont des transformations profondes pour notre sécurité nationale, pour l'avancée, justement, de notre recherche.",
+      "confidence": 1.0,
+      "source_id": "Organization_5219b7db9fd3ef2c48b004e6ce3de3c211c2ea34a75203009621b05e8e0f84b2",
+      "target_id": "Theme_0d113771aea94e8624bd44ac93149ee2ab37090e82424914cba4672061b82ed8"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Autriche",
+      "evidence": "Un consortium est déjà sur les rails entre la France, l'Allemagne, l'Italie, l'Espagne, l'Irlande et l'Autriche",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_c68a479343ec0ea52bfa053ac2e047c2edaade30d4c6d16515e2d110863f8dd8"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Irlande",
+      "evidence": "Un consortium est déjà sur les rails entre la France, l'Allemagne, l'Italie, l'Espagne, l'Irlande et l'Autriche",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_add775eaec2849b9c8b5c4b21cad022c0c1d91850b7cab89dc8138b97a441bbd"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Espagne",
+      "evidence": "Un consortium est déjà sur les rails entre la France, l'Allemagne, l'Italie, l'Espagne, l'Irlande et l'Autriche",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Italie",
+      "evidence": "Un consortium est déjà sur les rails entre la France, l'Allemagne, l'Italie, l'Espagne, l'Irlande et l'Autriche",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Allemagne",
+      "evidence": "Un consortium est déjà sur les rails entre la France, l'Allemagne, l'Italie, l'Espagne, l'Irlande et l'Autriche",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "stratégie européenne",
+      "relation": "MENTIONS",
+      "target": "stratégie européenne",
+      "evidence": "et, en tout cas, celui du plateau et de ses partenaires, nous avons la capacité d'être l'un des grands points de consolidation de cette stratégie européenne qu'on va maintenant pousser.",
+      "confidence": 1.0,
+      "source_id": "Theme_9f2d9669fd6bd7f0c519e9178f9aa5629f4017072e03d9dbd959f30f0e1c4ee3",
+      "target_id": "Theme_9f2d9669fd6bd7f0c519e9178f9aa5629f4017072e03d9dbd959f30f0e1c4ee3"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "technologies quantiques",
+      "evidence": "La France fera tout pour favoriser les collaborations européennes autour de l'ordinateur quantique universel. Tout l'enjeu est de faire de l'Europe le centre de gravité majeur des technologies quantiques.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_8626f9f463ed7b615a46b2e1ada3a2a0f05fa96839a7913314f7b37bf94f855e"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "ordinateur quantique universel",
+      "evidence": "La France fera tout pour favoriser les collaborations européennes autour de l'ordinateur quantique universel.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_f3cb19a7bd52e3c7d2d7fc35d54d660652ae3e1e616c489c978c3e94e84b8825"
+    }
+  ]
+}

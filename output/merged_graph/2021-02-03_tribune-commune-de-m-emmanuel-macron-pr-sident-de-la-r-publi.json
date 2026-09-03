@@ -1,0 +1,502 @@
+{
+  "entities": [
+    {
+      "type": "Event",
+      "name": "déclaration du Millénaire",
+      "id": "Event_ea76240d46f226335afb4278c1523cc4b4380f26c77b4f38b1921127411e44ee"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération internationale",
+      "id": "Theme_f1c50b725549c07d125f90bd43162db61122bbdc0b4302fc683cdd91bd964215"
+    },
+    {
+      "type": "Theme",
+      "name": "faim",
+      "id": "Theme_84d04b13566eb705d1c35eddd1bb563db6d7a3c3cb9e100281091d8f34dc65e2"
+    },
+    {
+      "type": "Theme",
+      "name": "extrême pauvreté",
+      "id": "Theme_4d289da1308d588b6566b71adc5f76d421030785515dd77f64d72a06ae30c4a3"
+    },
+    {
+      "type": "Theme",
+      "name": "dégradation de l'environnement",
+      "id": "Theme_482f7b088b41fad8c2847dba98a0ef9bee630951162312f6340855d6da9f7bd4"
+    },
+    {
+      "type": "Theme",
+      "name": "maladies",
+      "id": "Theme_3390e19ad62e7c7eb33986b5d6650911d87022c469335bbfd9d32bdaf499ec42"
+    },
+    {
+      "type": "Theme",
+      "name": "chocs économiques",
+      "id": "Theme_94326be54b7eb25af45a1aef4992b8e2faac29c667850b963aed0de3632b70ea"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Theme",
+      "name": "état de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation mondiale de la santé (OMS)",
+      "id": "Organization_317b65f56c638dbe83be4c9ff657eee0cacc0f2a6fcc6afef4899d4c1e6da2bd"
+    },
+    {
+      "type": "Theme",
+      "name": "tests",
+      "id": "Theme_fdf1d5641fec5f24415773e5b0302e1613caa6158c1dc73743f946066c8f243a"
+    },
+    {
+      "type": "Theme",
+      "name": "traitements",
+      "id": "Theme_161919ea1b4b78ef3ea88ea35a478bc7ced96bde8f69565062d857b9c504f204"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccins",
+      "id": "Theme_285c234b84ef6ba1444c75fa4fb284e57557192a16508630af6134cc975797f3"
+    },
+    {
+      "type": "Theme",
+      "name": "accélérateur \"ACT\"",
+      "id": "Theme_2dbdea054e67724ab427f2e8a43cd4e4501869c6ed4f2b70bcd318b5d191c790"
+    },
+    {
+      "type": "Theme",
+      "name": "libre circulation des données",
+      "id": "Theme_b5e79d7ab30094e5b0a420392dbd2b64f70cf29254266aba832dde6472bdbd7e"
+    },
+    {
+      "type": "Theme",
+      "name": "propriété intellectuelle",
+      "id": "Theme_e93a9cdedc8c0f209853c358a4a86a8c2496ed656002f532970b5b5d994bd0a5"
+    },
+    {
+      "type": "Theme",
+      "name": "développement durable",
+      "id": "Theme_5f1bb520fa5de98e4e876d04cd83bf58d961cf1f5d62571cbb08cbca34482cec"
+    },
+    {
+      "type": "Theme",
+      "name": "richesse",
+      "id": "Theme_ebc8abe7c633e7ee08027166a01273668d756f2c85fd37ecd47f23f726532022"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalisme",
+      "id": "Theme_d0f339441ee20ce073228a015cda668179f9e724fa0f925bc928aa3557010053"
+    },
+    {
+      "type": "Theme",
+      "name": "protectionnisme",
+      "id": "Theme_f908a3ce2a62f196e9b3881f0b81ce31f64eb6d35dede2a07725ea9d130f54a7"
+    },
+    {
+      "type": "Theme",
+      "name": "crises majeures",
+      "id": "Theme_ff270e08cc56ef047aa962182a3eb190de9adff848515d9ec13713710e5b7929"
+    },
+    {
+      "type": "Theme",
+      "name": "chocs",
+      "id": "Theme_c1ad3629b379d567d852136dbdf7d157cd84c29114b4855031ea9497f94bb611"
+    },
+    {
+      "type": "Theme",
+      "name": "causes structurelles",
+      "id": "Theme_9d3252b4c8c3ca367dec89fb2a58f192b5418236c4cc80defb06ccb8a6a1015d"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir meilleur",
+      "id": "Theme_4e65d3a6fbfa42ac08cef52dc727204027d21dd15059bba081d39ef7c4a48bb6"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité carbone",
+      "id": "Theme_13578b8136640a21c92a662f7e77d4879f6ceffb4dd1652ae120a6e9e44f65d3"
+    },
+    {
+      "type": "Theme",
+      "name": "pauvreté",
+      "id": "Theme_95b7ed519406cd062b2738f35707ce2b499fc7f2e5179d4c674216f14032a781"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalité",
+      "id": "Theme_f706c7e04957ec4ad8e5a194d8033e71e6efdf65205139fdead9a63d8ec2b6c2"
+    },
+    {
+      "type": "Event",
+      "name": "COP26",
+      "id": "Event_e69a65b2074e540b5ff86bbbd0ab0f14581c32a7088a4afd0043457bf4fcdfea"
+    },
+    {
+      "type": "City",
+      "name": "Glasgow",
+      "id": "City_726ac906699adbe83a450e28c7895be09a0fb5957dc572393ab4c3dccdc37e12"
+    },
+    {
+      "type": "Country",
+      "name": "Ecosse",
+      "id": "Country_be3a0ce5a81026b4e134d8bf2a37b3cc0331503e305ac496c5c75509977f3493"
+    },
+    {
+      "type": "Theme",
+      "name": "mondialisation",
+      "id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef"
+    },
+    {
+      "type": "Theme",
+      "name": "riches et pauvres",
+      "id": "Theme_7991e0eb8a0ae37f9972cc1a141be187bd6926ed08e923f4cdec1178bcd14a4c"
+    },
+    {
+      "type": "Theme",
+      "name": "femmes",
+      "id": "Theme_6cefe79fcc2d94b362c08802e35592ec94d444fa1fceecb124f2402df513ea70"
+    },
+    {
+      "type": "Theme",
+      "name": "hommes",
+      "id": "Theme_09f2138883d7cd96629d576e7e8775ee98528d3dbea45c99bfed6cef5514ee46"
+    },
+    {
+      "type": "Theme",
+      "name": "récession",
+      "id": "Theme_5cc6e7bc29c6ae32fdd939c3fdfbe171661476ab4f8d7255c5e9982e12d77570"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance solidaire et durable",
+      "id": "Theme_b0146d4a3a17f8876e7d4e9ebf71a3041cc8e742dc1a1951bf3cf55764088117"
+    },
+    {
+      "type": "Theme",
+      "name": "Organisation mondiale du commerce",
+      "id": "Theme_db75b3a20767dd6a224ec1f6e6e767b19e7014e3b770bb8607cd529b9eaa17fb"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce international",
+      "id": "Theme_20efc1ae9695eb29a44ef1bad4e91af53e6234327e597db61f23e9e8a5e1a5b4"
+    },
+    {
+      "type": "Theme",
+      "name": "reprise économique",
+      "id": "Theme_34614875c1844e3517ca1ec6b8253b85e97a6b4d44d0591dbe7ac9bf5dbd836c"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement",
+      "id": "Theme_b53e869b761ff3b2e610c18e6c0fd53e10ad5d2a8ba8bf353be9d0f1148d8c43"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "normes sociales",
+      "id": "Theme_fee1b8b85d7052accff5397191f39ec1157e0ab120c8c75a42f6b090d194e7b0"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Organization",
+      "name": "Pacte avec l'Afrique du G20",
+      "id": "Organization_46eb46fc25b409d947a95173bcefb2305dee56e38af48154e115d3f433eb4ba8"
+    },
+    {
+      "type": "Organization",
+      "name": "Club de Paris",
+      "id": "Organization_4b2d8c602e3cc738e5e7b4d2a519c90877291f45a4e96047c54807fc12ba7491"
+    },
+    {
+      "type": "Organization",
+      "name": "Initiative de suspension du service de la dette",
+      "id": "Organization_af13da7d8271ff69d5a576ea1cd45706df75d7c18407358f41e0d4e7fc322309"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds monétaire international",
+      "id": "Organization_ea510a567f72e30e0268e3e6ccaa15fe3579eeab3ddd63cf65e4879cc4e70e8d"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès",
+      "id": "Theme_99fbe2fae74b83c0fb6be33e85f58e86e641fe47059e9c1672808dfbdcf5b5bd"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies",
+      "id": "Theme_13d59bafdc47af3e410af65db9d4750021cd91a0bdfe8882fa42d2d9c12e506d"
+    },
+    {
+      "type": "Theme",
+      "name": "haine",
+      "id": "Theme_1109211ae99f54d538f05e8b1e3badcdc61927baacdf16dc2f914c62e0db0430"
+    },
+    {
+      "type": "Theme",
+      "name": "crimes graves",
+      "id": "Theme_399bdb127545c78361103f5bbe9e582d6fc166cfb4ee5a4c0038988dd7c17895"
+    },
+    {
+      "type": "Theme",
+      "name": "initiatives existantes",
+      "id": "Theme_46b8ade0a9da7a0d1cd7abe045ad7f8cb23bd48b889632634dbf9b1fe30d8d04"
+    },
+    {
+      "type": "Theme",
+      "name": "problématiques fiscales",
+      "id": "Theme_64e65f8537e904e82188ba98320d848a3446c5e1562c9afee243914e5e639510"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation numérique de l'économie",
+      "id": "Theme_b6e2a7d6064db29a523ac2ac073156e4a2cb2f2d7fca59c55d7a1bc3a4492ed2"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence fiscale dommageable",
+      "id": "Theme_a95bcea3923ccef90e2d65cfc8ae6cff5c9d32ab928e40399c6e2a1ef8e3fb2d"
+    },
+    {
+      "type": "Theme",
+      "name": "crise sanitaire",
+      "id": "Theme_743ee24ed44703d4666d6b5cf4b4d242d463d4e45a0472c4fa437ed044489173"
+    },
+    {
+      "type": "Theme",
+      "name": "études",
+      "id": "Theme_efe6a3f3a9fcb8ea16f6a77256aebc525f2a25d7e199b20f4bdddd2ddb09b472"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement",
+      "id": "Theme_efc3dc97047baa5c3d3ee692ed991601fa0b8b2e5b98fe282efd49cfc58792e6"
+    },
+    {
+      "type": "Theme",
+      "name": "compétences",
+      "id": "Theme_f4baf676a1a91b846e556f812ea2e6452ecc1b7c2b3a87f971cd7e60c4b42995"
+    },
+    {
+      "type": "Theme",
+      "name": "connaissances scientifiques de base",
+      "id": "Theme_3c9bdb3be672bdd6c63c5fdea68393f94c18ce235c43d57acd8c43b155492e3a"
+    },
+    {
+      "type": "Theme",
+      "name": "curiosité",
+      "id": "Theme_cd4328f303709e423d25bf1bc22d7a6d080dd4ba9c74a5bd49f60763d0c70dc0"
+    },
+    {
+      "type": "Theme",
+      "name": "autres cultures",
+      "id": "Theme_bc260f9186cb2622b92791a3765c2ce7289a34615c82010bbd97521885f33000"
+    },
+    {
+      "type": "Theme",
+      "name": "tolérance",
+      "id": "Theme_6e5e7c602a3b0bc37fca405b6502b456d69828fa8906a21bc3f5dfcfefbef09a"
+    },
+    {
+      "type": "Theme",
+      "name": "pluralisme",
+      "id": "Theme_a741080b365c82e9b6aec87ddae77303587c9136d76c01e63c366a9fbbe60422"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de conscience",
+      "id": "Theme_d629fee88dcca2a4abc3b120e22b75234ca0ea2a050baf8d27e11c46ff72d2a5"
+    },
+    {
+      "type": "Theme",
+      "name": "civilisations",
+      "id": "Theme_506b6e2197d002b79edb5176896c65aa33f39d343a9c4f830a2690aae8060c97"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "Déclaration universelle des droits de l'homme",
+      "id": "Theme_bcca37fa9d2924498b99d60a882e860d86d8f876f25584ff27c0052100cac81d"
+    },
+    {
+      "type": "Theme",
+      "name": "Forum de Paris sur la paix",
+      "id": "Theme_62dc9bf68b9d4e914deb99de4b0b8ee84032f38e9749c34520a36c595caf63f1"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Nations unies",
+      "relation": "ALLIED_WITH",
+      "target": "Nations unies",
+      "evidence": "travailler ensemble avec les Nations unies, les organisations régionales, les enceintes internationales comme le G7 et le G20 et des coalitions ad hoc pour relever les défis mondiaux d'aujourd'hui et de demain.",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "Nations unies",
+      "relation": "ALLIED_WITH",
+      "target": "G7",
+      "evidence": "travailler ensemble avec les Nations unies, les organisations régionales, les enceintes internationales comme le G7 et le G20 et des coalitions ad hoc pour relever les défis mondiaux d'aujourd'hui et de demain.",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "source": "Nations unies",
+      "relation": "ALLIED_WITH",
+      "target": "G20",
+      "evidence": "travailler ensemble avec les Nations unies, les organisations régionales, les enceintes internationales comme le G7 et le G20 et des coalitions ad hoc pour relever les défis mondiaux d'aujourd'hui et de demain.",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "source": "Glasgow",
+      "relation": "LOCATED_IN",
+      "target": "Ecosse",
+      "evidence": "Dans la perspective de la COP26 de Glasgow (Ecosse)",
+      "confidence": 1.0,
+      "source_id": "City_726ac906699adbe83a450e28c7895be09a0fb5957dc572393ab4c3dccdc37e12",
+      "target_id": "Country_be3a0ce5a81026b4e134d8bf2a37b3cc0331503e305ac496c5c75509977f3493"
+    },
+    {
+      "source": "pandémie",
+      "relation": "MENTIONS",
+      "target": "pandémie",
+      "evidence": "La pandémie a provoqué la pire crise économique que le monde ait connue depuis la seconde guerre mondiale",
+      "confidence": 1.0,
+      "source_id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75",
+      "target_id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "source": "mondialisation",
+      "relation": "MENTIONS",
+      "target": "pauvreté",
+      "evidence": "la mondialisation et la coopération internationale ont permis à des centaines de millions de personnes de sortir de la pauvreté",
+      "confidence": 1.0,
+      "source_id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef",
+      "target_id": "Theme_95b7ed519406cd062b2738f35707ce2b499fc7f2e5179d4c674216f14032a781"
+    },
+    {
+      "source": "multilatéralisme",
+      "relation": "MENTIONS",
+      "target": "civilisations",
+      "evidence": "Plutôt que d'opposer les civilisations et les valeurs les unes aux autres, nous devons bâtir un multilatéralisme plus solidaire, dans le respect de nos différences et de nos valeurs communes inscrites dans la Déclaration universelle des droits de l'homme.",
+      "confidence": 1.0,
+      "source_id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91",
+      "target_id": "Theme_506b6e2197d002b79edb5176896c65aa33f39d343a9c4f830a2690aae8060c97"
+    },
+    {
+      "source": "multilatéralisme",
+      "relation": "MENTIONS",
+      "target": "valeurs",
+      "evidence": "Plutôt que d'opposer les civilisations et les valeurs les unes aux autres, nous devons bâtir un multilatéralisme plus solidaire, dans le respect de nos différences et de nos valeurs communes inscrites dans la Déclaration universelle des droits de l'homme.",
+      "confidence": 1.0,
+      "source_id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91",
+      "target_id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "source": "multilatéralisme",
+      "relation": "MENTIONS",
+      "target": "Déclaration universelle des droits de l'homme",
+      "evidence": "Plutôt que d'opposer les civilisations et les valeurs les unes aux autres, nous devons bâtir un multilatéralisme plus solidaire, dans le respect de nos différences et de nos valeurs communes inscrites dans la Déclaration universelle des droits de l'homme.",
+      "confidence": 1.0,
+      "source_id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91",
+      "target_id": "Theme_bcca37fa9d2924498b99d60a882e860d86d8f876f25584ff27c0052100cac81d"
+    }
+  ]
+}

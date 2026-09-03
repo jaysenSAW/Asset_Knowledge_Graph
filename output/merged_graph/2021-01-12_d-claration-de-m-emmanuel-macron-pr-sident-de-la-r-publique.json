@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "spatial",
+      "id": "Theme_be04ff49df6f9224cf87b09d0c072d2df359f83a584eeef7deff7e1835862166"
+    },
+    {
+      "type": "Theme",
+      "name": "lanceurs",
+      "id": "Theme_ee82d0944cab95a5472201ed04594db2abd8b99a8ff55d054ba0d7dd1e790a26"
+    },
+    {
+      "type": "Theme",
+      "name": "projets",
+      "id": "Theme_66f49419a113c04506cfe1d65197bfb53ae53f9dbf09ed39ec1767eb9d460736"
+    },
+    {
+      "type": "Theme",
+      "name": "compétition mondiale",
+      "id": "Theme_bf25841d528985b2a9560cc0a85c8fe0b149fe4d6320622c84bd449d56b75b20"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Person",
+      "name": "BRETON",
+      "id": "Person_1d8a63afce5c16ef3bab5fc5616069fc31cba8aa4b190d93a939b5f4ee137835"
+    },
+    {
+      "type": "City",
+      "name": "Vernon",
+      "id": "City_1b7caca7f81a06c1ad9a08193bed73978761314f227ff6af721b559d51857b9e"
+    },
+    {
+      "type": "Organization",
+      "name": "Groupe Ariane",
+      "id": "Organization_5b5dd87531dcb5bda0c9dd6a578f1d58c5350447d828e8ac83e968edceec477a"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène",
+      "id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "type": "Theme",
+      "name": "propulsion à hydrogène",
+      "id": "Theme_77d528d7dd73da50c95a81af05a3e412b630cb5b5125ce642099a1b44c0bd9fe"
+    },
+    {
+      "type": "Theme",
+      "name": "filière hydrogène française",
+      "id": "Theme_7915cf1adead593449efad13dfe120dd02d6f3a61e9a5a3fe149109c974bb927"
+    },
+    {
+      "type": "Theme",
+      "name": "relance",
+      "id": "Theme_89b3bcb48b8cc3439eb43c613ac6bd35725f85c44b2759c02b21de9a2a64abee"
+    },
+    {
+      "type": "Theme",
+      "name": "crise sanitaire",
+      "id": "Theme_743ee24ed44703d4666d6b5cf4b4d242d463d4e45a0472c4fa437ed044489173"
+    },
+    {
+      "type": "Theme",
+      "name": "conséquences économiques et sociales",
+      "id": "Theme_45a67891d078e1e8fb92e29f74931ba6ffe07c863e168898b2b4256582a6a020"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Theme",
+      "name": "ambitions",
+      "id": "Theme_b2e054ccf61a68384bf0d359faf40b89edb8a2672321be3c540e1494bad0fc18"
+    },
+    {
+      "type": "Organization",
+      "name": "Groupe",
+      "id": "Organization_d509ff8379e986a0cbf6929030166183c4d55af367e9e173fe914065c792098e"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "spatial",
+      "evidence": "La France croit au spatial comme une filière d'excellence d'aujourd'hui et de demain.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_be04ff49df6f9224cf87b09d0c072d2df359f83a584eeef7deff7e1835862166"
+    },
+    {
+      "source": "Groupe Ariane",
+      "relation": "SUPPORTS",
+      "target": "filière hydrogène française",
+      "evidence": "c'est aussi une contribution du Groupe Ariane, du site de Vernon, à la filière hydrogène française que nous voulons accélérer.",
+      "confidence": 1.0,
+      "source_id": "Organization_5b5dd87531dcb5bda0c9dd6a578f1d58c5350447d828e8ac83e968edceec477a",
+      "target_id": "Theme_7915cf1adead593449efad13dfe120dd02d6f3a61e9a5a3fe149109c974bb927"
+    }
+  ]
+}
