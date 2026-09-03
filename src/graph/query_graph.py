@@ -145,30 +145,31 @@ Données Neo4j : {graph_results}
 
 
 def ask_graph_with_subgraph(question, prompt_schema, driver, llm_model, debug=False):
+    """_summary_
+
+    Args:
+        question (_type_): _description_
+        prompt_schema (_type_): _description_
+        driver (_type_): _description_
+        llm_model (_type_): _description_
+        debug (bool, optional): _description_. Defaults to False.
+
+    Returns:
+        _type_: _description_
     """
-    Exécute la requête RAG et extrait à la fois les données texte et la structure
-    du sous-graphe (nœuds et relations) pour l'affichage visuel.
-    """
-    # 1. Génération de la requête Cypher et calcul de l'embedding de la question
-    cypher_query = generate_cypher(question, prompt_schema, llm_model)
-    if debug:
-        print(f"\n[DEBUG] Cypher Query:\n{cypher_query}\n")
-        
-    query_embedding = compute_query_embedding(question)
+    # Create cypher query
+    raw_data = ask_graph(question, prompt_schema, driver, llm_model, debug)
     
-    nodes, edges, raw_data = [], [], []
+    if not isinstance(raw_data, list):
+        return raw_data, {"nodes": [], "edges": []}
+
+    nodes, edges = [], []
     seen_nodes = set()
 
-    # 2. Exécution Cypher et parsing de la structure du graphe
-    with driver.session() as session:
-        result = session.run(cypher_query, parameters={"query_embedding": query_embedding})
-        
-        for record in result:
-            raw_data.append(record.data())
-            
-            # Parcours des éléments retournés par la requête pour extraire les nœuds et relations
+    # 2. Parsing node and label structure from raw_data
+    for record in raw_data:
+        if isinstance(record, dict):
             for value in record.values():
-                # Gestion des Nœuds Neo4j
                 if hasattr(value, "labels"):
                     node_id = str(value.element_id if hasattr(value, "element_id") else value.id)
                     if node_id not in seen_nodes:
@@ -178,7 +179,6 @@ def ask_graph_with_subgraph(question, prompt_schema, driver, llm_model, debug=Fa
                             "label": list(value.labels)[0] if value.labels else "Unknown",
                             "properties": dict(value)
                         })
-                # Gestion des Relations Neo4j
                 elif hasattr(value, "type"):
                     edges.append({
                         "source": str(value.start_node.element_id if hasattr(value.start_node, "element_id") else value.start_node.id),
