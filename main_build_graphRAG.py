@@ -4,7 +4,7 @@ parser = argparse.ArgumentParser()
 
 parser.add_argument('-f', '--folder', default='data/discours-presidents/', help='folder with speeches')
 parser.add_argument('-llm', '--llm_model', default="qwen2.5:7b", help='llm model')
-parser.add_argument('-p', '--prompt_template', default="src/prompts/prepare_llm_output_graph_production.json")
+# parser.add_argument('-p', '--prompt_template', default="src/prompts/prepare_llm_output_graph_production.json")
 parser.add_argument('-r', '--prompt_RAG', default="src/prompts/prompt_RAG_production_v4.txt")
 parser.add_argument('-n', '--neo4j_para', default="credential.json", help='USER, UI and PASSWORD for neo4j')
 parser.add_argument('-log', '--log_path', default="output/log_graph.txt", help='log_graph.txt')
@@ -106,7 +106,7 @@ if os.path.exists(args.neo4j_para):
     print("Load cypher script for constraint")
     create_constraints(
         driver,
-        os.path.join("src", "graph", "graph_constraint.txt")
+        os.path.join("src", "preprocessing", "graph_constraint.txt")
     )
     print("Neo4j is connected !")
 
