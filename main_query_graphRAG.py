@@ -3,8 +3,8 @@ parser = argparse.ArgumentParser()
 
 
 parser.add_argument('-f', '--folder', default='data/discours-presidents/', help='folder with speeches')
-parser.add_argument('-llm', '--llm_cypher', default="qwen2.5-coder:7b", help='llm model')
-parser.add_argument('-chat', '--llm_chat', default="qwen2.5:7b", help='llm model')
+parser.add_argument('-llm', '--llm_cypher', default="qwen2.5-coder:7b", help='Model used to translate natural langage into a cypher query')
+parser.add_argument('-chat', '--llm_chat', default="qwen2.5:7b", help='Model used for final answer change it to \'mistral:7b-instruct\'')
 parser.add_argument('-q', '--question', default="Combien de discours parle de la guerre en Ukraine ? Je veux une confidence de 0.6 au moins")
 parser.add_argument('-n', '--neo4j_para', default="credential.json", help='USER, UI and PASSWORD for neo4j')
 parser.add_argument('-s', '--schema_prompt_path', default="src/prompts/NEO4J_SCHEMA_PROMPT.txt", help='')
