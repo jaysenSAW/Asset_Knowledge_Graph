@@ -4,6 +4,7 @@ parser = argparse.ArgumentParser()
 
 parser.add_argument('-f', '--folder', default='data/discours-presidents/', help='folder with speeches')
 parser.add_argument('-llm', '--llm_cypher', default="qwen2.5-coder:7b", help='llm model')
+parser.add_argument('-chat', '--llm_chat', default="qwen2.5:7b", help='llm model')
 parser.add_argument('-q', '--question', default="Combien de discours parle de la guerre en Ukraine ? Je veux une confidence de 0.6 au moins")
 parser.add_argument('-n', '--neo4j_para', default="credential.json", help='USER, UI and PASSWORD for neo4j')
 parser.add_argument('-s', '--schema_prompt_path', default="src/prompts/NEO4J_SCHEMA_PROMPT.txt", help='')
@@ -19,7 +20,6 @@ from neo4j import GraphDatabase
 import os
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed, TimeoutError as FutureTimeoutError
-import warnings
 import logging
 import warnings
 os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
@@ -44,6 +44,7 @@ NEO4J_SCHEMA_PROMPT_path = args.schema_prompt_path
 question = args.question
 llm_cypher = args.llm_cypher
 debug_mode = args.debug_mode
+model_llm = args.llm_chat
 
 # Check the presence of credential.json 
 if os.path.exists("credential.json"):
@@ -85,7 +86,7 @@ else:
 
 raw_result = ask_graph(question, NEO4J_SCHEMA_PROMPT, driver, llm_cypher, debug_mode)
 if args.chatbot_mode:
-    final_answer = answer_user(question, raw_result)
+    final_answer = answer_user(question, raw_result, model_llm)
     print(f"\nRéponse finale :\n{final_answer}")
 else:
     print(f"Réponse finale :\n{raw_result}")
