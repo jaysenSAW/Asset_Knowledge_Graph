@@ -1,0 +1,161 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "déséquilibres mondiaux",
+      "id": "Theme_96f2e8d43d4d75fe83be040e6775becc373d2d1c68d7ee341c048da6c580ff1a"
+    },
+    {
+      "type": "Theme",
+      "name": "crise financière de 2007-2008",
+      "id": "Theme_c45d8e8c9ccb72cdb94ce05af9fbdb174bec77b18925ca6c93d97078d75f4b57"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Person",
+      "name": "Hélène Rey",
+      "id": "Person_ccdc3d341b3414e10b89e98dd847947b37524271b57a1d58e8bfe3e80ea590a4"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds monétaire international",
+      "id": "Organization_ea510a567f72e30e0268e3e6ccaa15fe3579eeab3ddd63cf65e4879cc4e70e8d"
+    },
+    {
+      "type": "Organization",
+      "name": "Groupe des économistes internationaux",
+      "id": "Organization_c4b32e20ae2e34b34e0cf6c36ec41d17322f7f5c78025fd84f70686f0eaa77a1"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Organization",
+      "name": "États-Unis",
+      "id": "Organization_3b08eb2671279e09493fe87c31cd8efb8ef559ae7445896c53ad72240e970f09"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Organization",
+      "name": "Chine",
+      "id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4"
+    },
+    {
+      "type": "Organization",
+      "name": "Africains",
+      "id": "Organization_7262b8f4a71e0e60f7117ce9ad867747b78a29c4008bc583d1d3f03a7f0e2802"
+    },
+    {
+      "type": "Organization",
+      "name": "Nairobi",
+      "id": "Organization_60a4b4bd9d5e0fdc2ed2d26c11c506235cd4159cfc33cbda35689f758aefe902"
+    },
+    {
+      "type": "Theme",
+      "name": "rééquilibrer nos modèles de croissance",
+      "id": "Theme_620655ef7eccee8e9025ed7581f1f91b7a8e4e0f0044e8336bb70645201ab5fe"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Person",
+      "name": "Kristalina",
+      "id": "Person_018ba67c02889f4c8e61c05cbe986e1d4f2cca52d074ce99d70c4895060781f7"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance stable et durable",
+      "id": "Theme_80642bb1cacdbfac80dabc4b82ce4465cac963053482d088d3c14b9113c4137b"
+    },
+    {
+      "type": "Organization",
+      "name": "FMI",
+      "id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Hélène Rey",
+      "relation": "PROPOSED",
+      "target": "Groupe des économistes internationaux",
+      "evidence": "le Fonds monétaire international et le Groupe des économistes internationaux présidé par Hélène Rey",
+      "confidence": 1.0,
+      "source_id": "Person_ccdc3d341b3414e10b89e98dd847947b37524271b57a1d58e8bfe3e80ea590a4",
+      "target_id": "Organization_c4b32e20ae2e34b34e0cf6c36ec41d17322f7f5c78025fd84f70686f0eaa77a1"
+    },
+    {
+      "source": "G20",
+      "relation": "LOCATED_IN",
+      "target": "États-Unis",
+      "evidence": "du G20 présidé par les États-Unis",
+      "confidence": 1.0,
+      "source_id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655",
+      "target_id": "Organization_3b08eb2671279e09493fe87c31cd8efb8ef559ae7445896c53ad72240e970f09"
+    },
+    {
+      "source": "États-Unis",
+      "relation": "MEMBER_OF",
+      "target": "G20",
+      "evidence": "du G20 présidé par les États-Unis",
+      "confidence": 1.0,
+      "source_id": "Organization_3b08eb2671279e09493fe87c31cd8efb8ef559ae7445896c53ad72240e970f09",
+      "target_id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "source": "États-Unis",
+      "relation": "ALLIED_WITH",
+      "target": "Europe",
+      "evidence": "La resynchronisation et la coordination d'une bonne approche entre l'Europe, la Chine et les États-Unis sont absolument essentielles à cet égard",
+      "confidence": 1.0,
+      "source_id": "Organization_3b08eb2671279e09493fe87c31cd8efb8ef559ae7445896c53ad72240e970f09",
+      "target_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "source": "États-Unis",
+      "relation": "ALLIED_WITH",
+      "target": "Chine",
+      "evidence": "La resynchronisation et la coordination d'une bonne approche entre l'Europe, la Chine et les États-Unis sont absolument essentielles à cet égard",
+      "confidence": 1.0,
+      "source_id": "Organization_3b08eb2671279e09493fe87c31cd8efb8ef559ae7445896c53ad72240e970f09",
+      "target_id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4"
+    }
+  ]
+}

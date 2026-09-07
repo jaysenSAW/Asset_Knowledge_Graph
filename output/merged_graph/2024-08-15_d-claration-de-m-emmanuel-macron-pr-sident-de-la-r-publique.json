@@ -1,0 +1,485 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Tarente",
+      "id": "City_cb280af68086df3380a04cf9655bbcbb481961566b3af61eba5893bddc188f9c"
+    },
+    {
+      "type": "City",
+      "name": "Oran",
+      "id": "City_4e7d8ecdb9cca860de15290282dbb073d3f89594ca6f879d464519cf235e16da"
+    },
+    {
+      "type": "City",
+      "name": "Brindisi",
+      "id": "City_3c2c34068d746e8dcda5e745274402ac5090ddfd3f6d3154a33ecccab11d1900"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Maximin",
+      "id": "City_db668ddf34af00afe1266fb236061c9098550fc86a979d450d46b6c6c00c9522"
+    },
+    {
+      "type": "City",
+      "name": "Lavandou",
+      "id": "City_b1e4ae7d17690036db682f1f88a1acc8eafa823c4c506f8b9b924c3119f3ab33"
+    },
+    {
+      "type": "City",
+      "name": "Corse",
+      "id": "City_16f784e293f33726279f3f43c311b4c6996cd29064ae7f0a470010a8505ad63a"
+    },
+    {
+      "type": "Event",
+      "name": "Débarquement de Normandie",
+      "id": "Event_56782d126e638986af1e860f0216455438b4fff4ad61f04f03892b02e16562f5"
+    },
+    {
+      "type": "Event",
+      "name": "opération Dragoon",
+      "id": "Event_26daf87962146b55fdf230d07ad6635d80b03ab532ca55a72d9c55a47ca414f6"
+    },
+    {
+      "type": "Theme",
+      "name": "attaque des Alliés en Provence",
+      "id": "Theme_9cb8d61e3d105d50dd523162fe4597f1e2ee5eec38179f51258a229d8d7b09a0"
+    },
+    {
+      "type": "Theme",
+      "name": "raids aériens des Alliés",
+      "id": "Theme_42b1cffedcbd85246f71031947d948144d253305c7fcba41f8f85cb7f0ad8ac3"
+    },
+    {
+      "type": "Person",
+      "name": "Albert Thorel",
+      "id": "Person_a2cc1dbe4e80ef71a910fe385551fd70a157447a89a963548c464b53ed425f65"
+    },
+    {
+      "type": "City",
+      "name": "Canadel",
+      "id": "City_d49d1ab5e1d18044d72862dcbb46f1ed2b1d339d08a389ad8bc9086cd4b1aed5"
+    },
+    {
+      "type": "Organization",
+      "name": "Armée d'Afrique",
+      "id": "Organization_4526a9f5f8802e38f5f5dd2ba8d071ead2059c31e00d2a5a305149546474febc"
+    },
+    {
+      "type": "Event",
+      "name": "15 août 1944",
+      "id": "Event_c7abf97190c8e594f8672f78fab456345cb065b40c46f962495313d0ff3afc46"
+    },
+    {
+      "type": "Organization",
+      "name": "Wehrmacht",
+      "id": "Organization_27a758ecb9b54349fa4bf1f74ca9dc26d5c9abe2b130acc99dad78704f9a0309"
+    },
+    {
+      "type": "Organization",
+      "name": "commandos américains",
+      "id": "Organization_8c3a6201657375f9eccee8a84bd29247dac8e3bf9f19cc7efa599c507d58e289"
+    },
+    {
+      "type": "Organization",
+      "name": "commandos d'Afrique",
+      "id": "Organization_abfc4dc592b323b69559c057c0a9540e514eb037afff8bf6f8f89f38459708bd"
+    },
+    {
+      "type": "Organization",
+      "name": "Groupe Naval de la marine",
+      "id": "Organization_4fbf4d47baed87e4022234cf8eb5b715a98a8674e1104a10b1b97ebd13fa5b51"
+    },
+    {
+      "type": "City",
+      "name": "Alpha",
+      "id": "City_6cc647577af8bbf125da8f41a76199ad787239b8f2e157d6116cbbbc159b2eee"
+    },
+    {
+      "type": "City",
+      "name": "Ramatuelle",
+      "id": "City_7030c68d72c1adc37eb2d62c10bc2da18958d61bc46ba93daacbf27dd840985a"
+    },
+    {
+      "type": "City",
+      "name": "Cavalaire",
+      "id": "City_9c876b1021dc5ded2f90ac63dd674898003c4f94ff9781387495dd64cc9592cf"
+    },
+    {
+      "type": "City",
+      "name": "Sainte-Maxime",
+      "id": "City_1362f2cb19040baacf923b90b688f2cebc935a4b1f18f8d96193f1f8ff31548f"
+    },
+    {
+      "type": "City",
+      "name": "Fréjus Saint-Raphaël",
+      "id": "City_c8dfcc37c51bccf2b8be8fa646543aacf68f59c296db1a23c277697787d7cabb"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Tropez",
+      "id": "City_d887171cc4b6173e7e1f8a114d6e82e5c357e04dbcab3e9d74ee33b6902a5c05"
+    },
+    {
+      "type": "City",
+      "name": "Dramont",
+      "id": "City_54b915fd30185e03698319b7b1af02d48125ec1e6193fec8429de6e93776e0b3"
+    },
+    {
+      "type": "City",
+      "name": "Agay",
+      "id": "City_a9955fedd1ad8798639ec78269db1224c9d08007661e2e4d2fb02b473972803c"
+    },
+    {
+      "type": "City",
+      "name": "Maures",
+      "id": "City_dae5085f38931559cfca4fb8cd71b1736efa75e72d2b5013c98a5f507a4b61a9"
+    },
+    {
+      "type": "City",
+      "name": "Argens",
+      "id": "City_10dfe5452c1f32b267434cdaa083cb348dc038e47031df11b66d50725561af6a"
+    },
+    {
+      "type": "City",
+      "name": "Normandie",
+      "id": "City_f0fe3a8c9028ddfa11298d6496804a09e1a0ab72a0ef8225769f14175bfca277"
+    },
+    {
+      "type": "City",
+      "name": "Provence",
+      "id": "City_02563396c2e1a5b02a9aa4678b67397e930cb5ad9d86981d6f4514102ab8d4fd"
+    },
+    {
+      "type": "City",
+      "name": "Tunisie",
+      "id": "City_4ebe1f8631875802a2e51bc83e7788f378ec4a250cdafdfa5d7d635086e3db6e"
+    },
+    {
+      "type": "City",
+      "name": "Italie",
+      "id": "City_ae1ff6c5e597920cdf80fe85e6d3897e418ab4fb8428a49061eabdddb846cb42"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Tchad",
+      "id": "Country_4559f6f8af30c0e115367f99db7a2d2bff5c4fb5ef7ec890af7e5e1662fd701e"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Theme",
+      "name": "bravoure",
+      "id": "Theme_bdf854e5a6868bc67223c137824d4dd6ccd4c45d7bb7cbc85bc5b587ff7deaac"
+    },
+    {
+      "type": "Theme",
+      "name": "Marseillaise",
+      "id": "Theme_4460d5b548e447137603cce9ee47f85a59b17b82a11dbfd1dbf637adeb3a8a3d"
+    },
+    {
+      "type": "Person",
+      "name": "lieutenant-colonel Bouvet",
+      "id": "Person_02857be44f65944719fa58ce7ef1efd441d838db13f73fea7e5b0e8aa30a4981"
+    },
+    {
+      "type": "Person",
+      "name": "Hubert Germain",
+      "id": "Person_fda3eb803d6a356785cabfc7e2b406bda6bc3cf0a4d3e13dc400fa15ddedb3dd"
+    },
+    {
+      "type": "Person",
+      "name": "Mohammed Ben Bakr",
+      "id": "Person_b4214067b3389405958dd019724e46331f29807424de3a22e4afa40ed6b2a67c"
+    },
+    {
+      "type": "Person",
+      "name": "François",
+      "id": "Person_07a26eada3bea8925d19823c760899e81628842c9796c28dcb2f5a9b5091294b"
+    },
+    {
+      "type": "Person",
+      "name": "Boudjemah",
+      "id": "Person_4a0647af79ea35edacff0bc8d43751018dd755dff20592e1712bdfd098692806"
+    },
+    {
+      "type": "Person",
+      "name": "Ari",
+      "id": "Person_8ae5a1e9253603b3a3a6513805e1f1fcb85cae256a1306450f12441467c8a3dc"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre",
+      "id": "Person_fa16f1679c2039a4a2cb8a520bd4c3b061b2268bb43032bde61fbde9221abf1c"
+    },
+    {
+      "type": "Person",
+      "name": "Niakara",
+      "id": "Person_a8dae1f0a3ae6adc5fa87b17d76d65592f9f1834f89e5d162e9085d745ab9a0f"
+    },
+    {
+      "type": "Person",
+      "name": "Lattre de Tassigny",
+      "id": "Person_a6ba098fa95decae41fe054622f2596ced4ef8a9a7af91519282ffff43c41760"
+    },
+    {
+      "type": "City",
+      "name": "Toulon",
+      "id": "City_e269c743821deaa732a9c8c1951186d7a971393eded589032f1026304a7b1fa7"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "Person",
+      "name": "capitaine Thorel",
+      "id": "Person_0bc31458dc0474f85523ca9ef6094d3a5d3b69f6e5e7de7f9d7cef8c1f0756e1"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "City",
+      "name": "Mauvanne",
+      "id": "City_7ef46fb9ccbd730797251e2d2d27fa9e3b45ea9f1cc4b92a64759d607919425f"
+    },
+    {
+      "type": "City",
+      "name": "Hyères",
+      "id": "City_9e4dfc3768d93d789777d9d63faeaedc58791dee6f316f0a89687e9e92afa875"
+    },
+    {
+      "type": "City",
+      "name": "Gapeau",
+      "id": "City_42145c6d381bee6012530150a5ad9210ea3e2868cbd1098b0b69f0a08d9a97e8"
+    },
+    {
+      "type": "City",
+      "name": "Aubagne",
+      "id": "City_f5c090043c7c5beea9554c4f2fbc197e9dd4d7fc63286c95c98097260ab91544"
+    },
+    {
+      "type": "City",
+      "name": "Estaque",
+      "id": "City_e7863d8be742e4124b2a55de907908925021280953015de9bebec7fb28cb9e83"
+    },
+    {
+      "type": "City",
+      "name": "Réformés",
+      "id": "City_5bf08484f2769e8eed936a5bd290fc256c76c5a693c2d927bc38f5a6f5b72b90"
+    },
+    {
+      "type": "City",
+      "name": "Frioul",
+      "id": "City_7c4710dce1096c2ab5965c7b8920c3b60e4472681320b722baafd3b4adb474c1"
+    },
+    {
+      "type": "City",
+      "name": "Nod",
+      "id": "City_adf90df3421d97ff70556f753e2595380e1fb437c0da691ed931c5f3a711020e"
+    },
+    {
+      "type": "City",
+      "name": "Autun",
+      "id": "City_e39a250a0d81f2abd0e8f40494dc56ab379a738dc4de2ca35b912f0c4524823b"
+    },
+    {
+      "type": "City",
+      "name": "Bourgogne",
+      "id": "City_20ce9e67c82976d44e649b6647a1ec9c3fb7585ec1c3d39ce0eb6ad57f520e31"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "City",
+      "name": "Strasbourg",
+      "id": "City_aa11677b0eceda0a1a5c819294f251193f8da741293fef8eef09bee04f4b354a"
+    },
+    {
+      "type": "City",
+      "name": "Ardennes",
+      "id": "City_30cda7bfc036d354443a31130f2e94a77f76589bdb6b7eab89c030f554f78eaa"
+    },
+    {
+      "type": "City",
+      "name": "Boulouris",
+      "id": "City_e70f1a0b840ff3f8afac7a0f6b59d4e12c16ec2ca1cb062550464fd823b31c78"
+    },
+    {
+      "type": "City",
+      "name": "Algérie",
+      "id": "City_66dd739476a643901f2ecc6f56244d5f2db1cdebaafb107ed4637ba9a1ac3235"
+    },
+    {
+      "type": "City",
+      "name": "Maroc",
+      "id": "City_8b8df3961aec3b0b766cefd78aca384d535b3787b18638173551bd7f8c590ab5"
+    },
+    {
+      "type": "City",
+      "name": "Antilles",
+      "id": "City_e5bf4545ed45774c0c3f23ddc5c82d372bd391973d5a7361a2921e17ad411050"
+    },
+    {
+      "type": "City",
+      "name": "Pacifique",
+      "id": "City_86d894f7cacff03f5e070c0097c5ac9cd80c8cf63f1870ca124f48b4a63245ae"
+    },
+    {
+      "type": "City",
+      "name": "Méditerranée",
+      "id": "City_9d0a5741de9fafb94e045360dddcff5fd3320003f53cc0eee5bebfef6e12abe6"
+    },
+    {
+      "type": "Person",
+      "name": "de Lattre de Tassigny",
+      "id": "Person_0357b44bf91cf98ba1486607202359dd457acca51a8b4e9f646a2eba3147912c"
+    },
+    {
+      "type": "Event",
+      "name": "capitulation de l'Allemagne nazie",
+      "id": "Event_75e95b9ee451735c2dbc145d68c79b7318b77b1b472e90e9c59811879088f865"
+    },
+    {
+      "type": "Event",
+      "name": "libération de Strasbourg",
+      "id": "Event_569558068603a1961ae700e64611279cf6ae100356c46a0efb8a7c107b9acc5c"
+    },
+    {
+      "type": "Person",
+      "name": "Mon Seigneur",
+      "id": "Person_d5d49a76a495e423ac8ed3ba2cf70324da63397bff1bc6a739824e166bf0cd08"
+    },
+    {
+      "type": "Country",
+      "name": "Gabon",
+      "id": "Country_a658795cede51ea1a101d56d0808106f76a3dbd2b389704965a890d52c372aab"
+    },
+    {
+      "type": "Country",
+      "name": "Togo",
+      "id": "Country_dae71a4fbfc8675abf55156c3648647167d40129ef5c756655850ee28a8fd62b"
+    },
+    {
+      "type": "Country",
+      "name": "Côte d'Ivoire",
+      "id": "Country_02a4cf0b159c169388d9cae695c5828d01927abf33bf75e323c8f187cdde6be9"
+    },
+    {
+      "type": "Country",
+      "name": "Madagascar",
+      "id": "Country_046f08abf1d94f4d41c14567e4ae97e69354fa633d3e7431eb39abae118ce9fa"
+    },
+    {
+      "type": "Country",
+      "name": "Senegal",
+      "id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "type": "Country",
+      "name": "Congo",
+      "id": "Country_f04e6bc67b933f4bf357928b05123c6f394bed09b5517b5fe0ecd602a29433ec"
+    },
+    {
+      "type": "Country",
+      "name": "Benin",
+      "id": "Country_c3395c64119478dc1af6c765d093cbbe534bb2cd0360c733cb028110c15a0d93"
+    },
+    {
+      "type": "Country",
+      "name": "Burkina Faso",
+      "id": "Country_25620c9b179f9856d99bd300333d09db3313570df4e4a382daed52285812dd64"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "Country",
+      "name": "Niger",
+      "id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Theme",
+      "name": "souffle",
+      "id": "Theme_9cf02891abd5b5e4f09ea4bf5f0cf50575f014c2c936f1c2bc3cb813d24c89b0"
+    },
+    {
+      "type": "Theme",
+      "name": "sacrifice",
+      "id": "Theme_6b8a3684826d581fcdd28581a15f9ac101e25c9b111de574e59fa8e12850e9a4"
+    },
+    {
+      "type": "Theme",
+      "name": "volonté",
+      "id": "Theme_16b93f9ed8b73b81c97ecd0a6cdb37d8a5b24c3afd93e53085d57fee061b7ba6"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "invincible été",
+      "id": "Theme_3865963d6eeb45612a7be9c4b5916f50443d7bbc163e795970da8fc4fa040290"
+    },
+    {
+      "type": "Country",
+      "name": "Provence",
+      "id": "Country_862e44763c5e69527269f26ef5330d101f1b3027395eb849923b08247e85097b"
+    },
+    {
+      "type": "Country",
+      "name": "République",
+      "id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "15 août 1944",
+      "relation": "ANNOUNCED",
+      "target": "15 août 1944",
+      "evidence": "Aux premières heures de la nuit du 15 août 1944",
+      "confidence": 1.0,
+      "source_id": "Event_c7abf97190c8e594f8672f78fab456345cb065b40c46f962495313d0ff3afc46",
+      "target_id": "Event_c7abf97190c8e594f8672f78fab456345cb065b40c46f962495313d0ff3afc46"
+    }
+  ]
+}

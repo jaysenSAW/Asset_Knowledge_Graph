@@ -1,0 +1,862 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Dominique",
+      "id": "Person_e7ac08513df7bdab3837da2c924013527c1eb8e1de7e87b586108f0f01b7cf64"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "mon épouse",
+      "id": "Person_65551c424854d82f2d90f70ebf9ddb439d847aa1d2694e27951e7010e4cc995c"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les ministres",
+      "id": "Person_df98c9cabd69056dc2dbae7ad5aa8390dd768609332bdc8c9a4dafe6f2e4b762"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les parlementaires",
+      "id": "Person_513d1485982528e0834eb4f4c38b73da53f9e4817cd30f728fe27e32d9fc11d3"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les présidentes et présidents",
+      "id": "Person_ac8d0781144495d308d00bfba91a41649ec0c6afe0f198ef4fcd2ed732087a9e"
+    },
+    {
+      "type": "Person",
+      "name": "chers artisans",
+      "id": "Person_39bc60f35a7a41326095554042bcf23cad8b8f75f2215f7bab977c62c8f5e266"
+    },
+    {
+      "type": "Person",
+      "name": "chers chefs",
+      "id": "Person_bed41916dee21c5c7957d761e15d4fbd3112b67607d86a6bdd9aca8d94f2bfea"
+    },
+    {
+      "type": "Person",
+      "name": "chers représentants de nos savoir-faire artisanaux",
+      "id": "Person_01fdee208fea76d8ff4b5f9051cfd6399fc1871d43f3a97e584fb1ffdf022f2b"
+    },
+    {
+      "type": "Organization",
+      "name": "UNESCO",
+      "id": "Organization_44cf334686fd664fecedb6944caa3782522449e029aa1a57346edd5f2ff5eebd"
+    },
+    {
+      "type": "City",
+      "name": "Golfe",
+      "id": "City_7ef40e08c4f0e4f705b67abd1348fd230083fa3aad4a6b5ff37d3a6510f5c73d"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Country",
+      "name": "Asie",
+      "id": "Country_125df38c941d6e9ca59fdabf4abad62d160982babf9162638b212439be445421"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir-faire",
+      "id": "Theme_e020add04380980015c543dc696b8b323483b7b82c6c387324d2986f12998c1a"
+    },
+    {
+      "type": "Theme",
+      "name": "convivialité",
+      "id": "Theme_f2c5edd0ce5a8605a8d1bca4cf839f5d48cc2f71af199a1f6d2174eefb3b1f86"
+    },
+    {
+      "type": "Theme",
+      "name": "boulangerie artisanale",
+      "id": "Theme_be11971e42f81c1b42df9be00e04376012fafae448ad14762b25dab06469a4f0"
+    },
+    {
+      "type": "Theme",
+      "name": "boulangerie pâtisserie",
+      "id": "Theme_38090185bd27f8a2df35d4c8c6248a5fc8cd97e6b071a7fab2d930ebc6aa4106"
+    },
+    {
+      "type": "Person",
+      "name": "nos lauréats",
+      "id": "Person_0987958a387d219b160152863e0b152544b954c13e4fed381378f33e340cb2ed"
+    },
+    {
+      "type": "Person",
+      "name": "nos lauréates",
+      "id": "Person_0cfc885c128e20342bfb0e889317e405b634da57f13563885abc1f7c17788bbc"
+    },
+    {
+      "type": "Person",
+      "name": "nos WorldSkills",
+      "id": "Person_cf0b928243d8844371cab247064775a17cc0c4513f8668265d5d3015ec5cf3df"
+    },
+    {
+      "type": "Person",
+      "name": "les élèves des lycées professionnels en CAP, en bac pro, formation complémentaire ou BTS",
+      "id": "Person_900cd0578d87f230a2d92bbc096bc65f4b25aa70901f74e2ecd83fbf7881a477"
+    },
+    {
+      "type": "Person",
+      "name": "leurs professeurs",
+      "id": "Person_b9e3c13e6b7b70f5702d0ee5e7da72f7e858693ec586522962cb4abaf82b88ba"
+    },
+    {
+      "type": "Person",
+      "name": "leurs proviseurs",
+      "id": "Person_bf6f3bd22d75a8b96af14b7fbc593ce878f587de28332fd243e0f8260dd00f9a"
+    },
+    {
+      "type": "Theme",
+      "name": "boulangerie",
+      "id": "Theme_e4a07d2350e232331deeec501c34f29ba8f45bc41375c6ea7f4c63421bcbd30c"
+    },
+    {
+      "type": "Theme",
+      "name": "pâtisserie",
+      "id": "Theme_a2ea61b40ac1ac8957263b18071b1f52e81c045217f9211939b10744a176a37c"
+    },
+    {
+      "type": "Theme",
+      "name": "confiserie",
+      "id": "Theme_f38ef58b8a56c0de11c05d7cd11ae49517c19fa7675bb13a3c64f32d2df5e2bc"
+    },
+    {
+      "type": "Theme",
+      "name": "charcuterie",
+      "id": "Theme_b9c86233efeed9ef682fb09f8037e9a1886757528853003fcea859ad95210b3b"
+    },
+    {
+      "type": "Theme",
+      "name": "fruits primeurs",
+      "id": "Theme_e05fe57941be17b37badd60d903288e6c267d13e848805948852cdce5df479b1"
+    },
+    {
+      "type": "Theme",
+      "name": "glaces et sorbets",
+      "id": "Theme_24c98fb710c021f3694f32aa4e1800e2b232716e71273559e890c6ed1421a477"
+    },
+    {
+      "type": "Theme",
+      "name": "desserts",
+      "id": "Theme_fb14fcc857d5ac18abc1312ca3d1b625574e268e0e06ec287408e20c4add184a"
+    },
+    {
+      "type": "Theme",
+      "name": "restauration",
+      "id": "Theme_bf4153d0094d9a9380f243363e8bbd3facb007e9672e2af30ebb3c3e24533f61"
+    },
+    {
+      "type": "Theme",
+      "name": "cuisine",
+      "id": "Theme_020b270717fc047998746e55bd6cd06a58931666e8c98100ee3cbb0ba42e37e4"
+    },
+    {
+      "type": "Theme",
+      "name": "sommellerie",
+      "id": "Theme_e7ebf572cecf2d778fa6bab1908d15d076db070fa211d9fb114a9ef90508bccc"
+    },
+    {
+      "type": "Theme",
+      "name": "poissonnerie",
+      "id": "Theme_23636207c07481fda8abd57682963b46e0b36bb2ef01d4741396de054fa450af"
+    },
+    {
+      "type": "Theme",
+      "name": "chocolaterie",
+      "id": "Theme_0bbe24f6865fc62e3b89a0bbde251db06875d98aa97557a8274709ad268f0183"
+    },
+    {
+      "type": "Theme",
+      "name": "cuisine froide",
+      "id": "Theme_b26aad37762e282fe5a87933ab6dfb9aab43dbe4f2913b2942d962dc891ad96b"
+    },
+    {
+      "type": "Theme",
+      "name": "torréfaction",
+      "id": "Theme_6d9785ab393488074cfde3923f6315d86490657c872c11b148f48565a7df193e"
+    },
+    {
+      "type": "Theme",
+      "name": "barman",
+      "id": "Theme_b58a601737507329b8996cdeb0b464118becdd4b58a1392229ef638b04611d6f"
+    },
+    {
+      "type": "Theme",
+      "name": "fromagerie",
+      "id": "Theme_2a49fefd139b0a911441b5454105730b5013a2fa94dc928180a9caceb9ab5dc4"
+    },
+    {
+      "type": "Theme",
+      "name": "services et arts de la table",
+      "id": "Theme_ca1670426f0bb75694cbf393fb37e0f45df05d08e4cf1fdc055c46d8ae9912c1"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Theme",
+      "name": "coût de la vie",
+      "id": "Theme_e130dd6efe5cd396e62fb0745f73fff6fdcaa0d4444ec590d42ad1f82daa9d29"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibre",
+      "id": "Theme_ede0979eeee4eba930de1ebb03996586b198a6fc0509b20fb3e9a71e3c756919"
+    },
+    {
+      "type": "Theme",
+      "name": "civisme",
+      "id": "Theme_2214233d5e1aae88ec20b37e8942e4fa39cc154f98ceee5169d2fdaedd0ee067"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "volonté",
+      "id": "Theme_16b93f9ed8b73b81c97ecd0a6cdb37d8a5b24c3afd93e53085d57fee061b7ba6"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Serge Papin",
+      "id": "Person_e4d9f5e5e53e2b55d721b9071af4cac2f5b48851ec8b8f44b436ed9025300174"
+    },
+    {
+      "type": "Event",
+      "name": "assises de la restauration et des métiers de bouche",
+      "id": "Event_94f5e9f48b1a16cf2489e6ba11cc8403d378a69c3cf77abfd058cc86b546c98d"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité",
+      "id": "Theme_3ca1b64490b5262af08e9f6b9b23312ee1d75f2317299eb58ba6eb450eef6651"
+    },
+    {
+      "type": "Theme",
+      "name": "authenticité",
+      "id": "Theme_cf8043e6df6cb232c999ba64547ee7670b0004c6cdda427092c1f5fe287aa4aa"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "gastronomie",
+      "id": "Theme_95de876b1173e4eff212fc36e76d6c5f96b693492bb23438c8897dfee2f77158"
+    },
+    {
+      "type": "Theme",
+      "name": "labels",
+      "id": "Theme_9f208c2639b0de4db01eb14f8f88f2b968888a63f5071f4eca14a685a0105a45"
+    },
+    {
+      "type": "Theme",
+      "name": "mention « Fait maison »",
+      "id": "Theme_4ad6a51f1b7bc1aaca0ba5d0a5e82c34ae84da07737331b0d208237dcadd45fe"
+    },
+    {
+      "type": "Theme",
+      "name": "restaurateur",
+      "id": "Theme_b22a2d636c7be683adbe3e8d197999f257cf27b253d7abf3b90a2dc893b44665"
+    },
+    {
+      "type": "Theme",
+      "name": "chef",
+      "id": "Theme_0f63e5db6231eae7e3244910c0a55d6b89bf1a02f6dc44483ca8e32565c05d50"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers",
+      "id": "Theme_305de45577953bd04165ca22cf0089e5defd686499397a72c39942ab978c3083"
+    },
+    {
+      "type": "Theme",
+      "name": "exigences de qualité",
+      "id": "Theme_7061c3f30319ddb445c6b1c0b5f0427e65736fe214098c940fdc1e7a688476d8"
+    },
+    {
+      "type": "Theme",
+      "name": "critères",
+      "id": "Theme_70b45d8b68722e418054a5a901858a35cc20f372585d2ea505f4d2088605abf2"
+    },
+    {
+      "type": "Theme",
+      "name": "débats fiscaux",
+      "id": "Theme_d9f7c20631faee2a1d437edc2d0e7c4a4bac7bdc7a5034a39492aec184bf0b6e"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "complexité",
+      "id": "Theme_27c01b9a6ed16656216c519ea323a370bb4cd448ad815d900508a077faa76f0c"
+    },
+    {
+      "type": "Theme",
+      "name": "recrutement",
+      "id": "Theme_dc4a51d6853c4a656f70dd021f7954af49386c033fd11547f64cc55d4ae66a46"
+    },
+    {
+      "type": "Theme",
+      "name": "droit du travail",
+      "id": "Theme_3e6f6ba2d1e13d1b978b7a38d281243d03e1a75275e705359bab62c4061bb76c"
+    },
+    {
+      "type": "Theme",
+      "name": "distinction entre salariat et travail indépendant",
+      "id": "Theme_2a028de8d579b0a8c1ad0e8fbc05eb6a4af28ffe5eed2c9ae0ba455cc0eaa5df"
+    },
+    {
+      "type": "Organization",
+      "name": "EDF",
+      "id": "Organization_a2183f95d437456d4b4affc3a6618e8faf7d161757f235e7560aeca5540433a9"
+    },
+    {
+      "type": "Theme",
+      "name": "arts de la table",
+      "id": "Theme_9cd6eaf4e9fd89826650c6f9d8a68c8e4581e3388a2c131d491f226fdf988b6e"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers agricoles",
+      "id": "Theme_2ce6e687f131758d02a6a04afb70d628304801382ae6141df0eefdfffe8e944b"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Theme",
+      "name": "jour du travail",
+      "id": "Theme_d353192a22576b21b6b0a5ad1f0813c9ead1d34528c779c43f92706a91668390"
+    },
+    {
+      "type": "Theme",
+      "name": "baguettes",
+      "id": "Theme_a5b196714c8b9513c9b2d8df23df96f955b5b1021eec30e83ffed80f2b6a21d4"
+    },
+    {
+      "type": "Theme",
+      "name": "muguet",
+      "id": "Theme_63f6e4616f34dea701173fe9409d67cf0c5cce38589a7718cb1a0a8f0dcb8670"
+    },
+    {
+      "type": "Theme",
+      "name": "restaurant",
+      "id": "Theme_e86d446e8a901084e24f0edbde34517b0713dd2eff9f23720789a9e74138744e"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôles",
+      "id": "Theme_64043a3024d453b0d075acae2d790b2b8c5bbf83a239e7a0512368a98a588527"
+    },
+    {
+      "type": "Theme",
+      "name": "redressements",
+      "id": "Theme_82040fe890a32f55880ae4e41b0c9e722cb5f04a14ff4bd077422b366cd03367"
+    },
+    {
+      "type": "Theme",
+      "name": "insécurité",
+      "id": "Theme_c7a368bf598bca497caed4dd3d3f42ab5d1c9b08009fd42e199fd3976aac0fe6"
+    },
+    {
+      "type": "Theme",
+      "name": "travailler le 1?? mai",
+      "id": "Theme_dc830d3b037d52f779442da900cc78f653494f9d618129aec4e41e32d619010b"
+    },
+    {
+      "type": "Law",
+      "name": "proposition de loi",
+      "id": "Law_64ac7ec2a37fbb0220b77a5ae3669f70a312fab7ba1148143351248d5222a79f"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée",
+      "id": "Organization_6921896197ce8ef36bbf1c5a01e3c2313dc4612ab56b6c36f488227dff065439"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité juridique",
+      "id": "Theme_eb70ac56004f8e4f258e6026723affde503629473fb14a3917f571d1a8934a46"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de l'Épiphanie",
+      "id": "Theme_965118e12814523fe48b1c229f17b9cb864162d5af7ce07af7fa2acb4d7b522f"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de Noël",
+      "id": "Theme_51ede07615aaee2335584c5f8caac5b9bed236441f0ec42511869e75194abef8"
+    },
+    {
+      "type": "Theme",
+      "name": "équipe de France",
+      "id": "Theme_bfd35c1cb43e96806f0e9142e82ead2ef5f210e490c25defd95612b8a19731a8"
+    },
+    {
+      "type": "Theme",
+      "name": "difficultés",
+      "id": "Theme_226532f438cde63f47e643da8611130719f5ea2c4e92e7b9231e918ca90b560d"
+    },
+    {
+      "type": "Theme",
+      "name": "miracles",
+      "id": "Theme_01c67e1faf972fcb77d53295b55c61ec44d3261346209afcfae5191322a3be85"
+    },
+    {
+      "type": "Theme",
+      "name": "WorldSkills",
+      "id": "Theme_5fe30d0964898d468402cd2ee38131e2eb42f94d961ed46ec60357f3ac01d8c2"
+    },
+    {
+      "type": "Theme",
+      "name": "budget",
+      "id": "Theme_476c75e33f21fc15bc5588b5d07c657897da27f908716f5af56abf04963f337c"
+    },
+    {
+      "type": "Theme",
+      "name": "règles claires",
+      "id": "Theme_28cfa984df3c040cd6c4e928bda9a0bcaab8aaa837a80c45f6ba7735bc26073f"
+    },
+    {
+      "type": "Theme",
+      "name": "syndicats",
+      "id": "Theme_1ae0284e65b8364130d03a515b7f1f6d8958c4b912b7e58579e8bb90922da0dd"
+    },
+    {
+      "type": "Theme",
+      "name": "équipe",
+      "id": "Theme_acf94ea658c106dd392e858fcc0f8eb35cc425dd6be8c367d32dc196b38a669d"
+    },
+    {
+      "type": "Organization",
+      "name": "L'équipe de France",
+      "id": "Organization_a9734cb45291f41032008b4eabb960c31f96419c0483a12d217515b6af0d680a"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "secrétaires d'État",
+      "id": "Person_5796469a1008de243871637159be351576614777885dbe8359021422d7df5a40"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculteurs",
+      "id": "Theme_e8bb23c61a62a4b8bc09ad80c4affb7a3e5f469e23f1498946a2d5acd6c09f59"
+    },
+    {
+      "type": "Theme",
+      "name": "artisans",
+      "id": "Theme_31e3dadae2654be8c91d3f4c46407fb89ac95a07fabd3820ee6dec7d91ab6910"
+    },
+    {
+      "type": "Theme",
+      "name": "restaurateurs",
+      "id": "Theme_a421e9d343decbe2a8fe719e6d2b13d224e9ec756b49ece5a98cb04103f07f4d"
+    },
+    {
+      "type": "Theme",
+      "name": "boulangers",
+      "id": "Theme_1bf96403264ece4b009ddcc407b9494118cd0f75fb813bb89cee39d59062ef49"
+    },
+    {
+      "type": "Theme",
+      "name": "cafés",
+      "id": "Theme_4942e9b1ac97951a815450676c2cf5841ad5f7592f6f3758008e862a0404a9e3"
+    },
+    {
+      "type": "Theme",
+      "name": "bistrots",
+      "id": "Theme_ac941b43408add5eb8e0f1c37e001dfb4e83f1f54e3fb0aa5230c0636414957f"
+    },
+    {
+      "type": "Theme",
+      "name": "croissants",
+      "id": "Theme_9ff20686f92c2a1580a336d77daf226412278f18748123bb413270f41381dfee"
+    },
+    {
+      "type": "Theme",
+      "name": "fidélité",
+      "id": "Theme_1b6a91a20c1ccf6c2cbbf43eca23d1e9abe6432e4773a61a3803de0c4465912b"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien",
+      "id": "Theme_4dfac92dac64c205c1c0e703283d4ba045cb9535e4f0c0a54df8ba969e6e1575"
+    },
+    {
+      "type": "Theme",
+      "name": "reconnaissance",
+      "id": "Theme_24e4cd0fe4314d21fe51891238282e7ad3290eb5e3e25cf1b43cf34fb381606e"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "galette",
+      "id": "Theme_6005653007a8167fb7b3cda2ffb28eec96e14025cf27da57a1892c2219e0db9e"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtres de stage",
+      "id": "Theme_2f14df5046b1e1cc9b6f6c3fceaf4d1c328a98ce56b5a7cfbe0cfd7622c46c06"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtres d'apprentissage",
+      "id": "Theme_007b65804b655fb8c55796b7e336ea14a6f45efeefd62103e8e2fce98072114e"
+    },
+    {
+      "type": "Theme",
+      "name": "génération",
+      "id": "Theme_ebd6e511ce08f31c6fb10d3a240a4261fa16b7b0e6fc36cf928c9880a64a00b8"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Allez au fin fond du Golfe, aux États-Unis d'Amérique, au cœur de l'Asie, vous avez des Françaises et des Français qui font rayonner la baguette française, les croissants, la meringue, nos crêpes, tous ces produits qui sont au cœur de nos savoir-faire et qui sont un peu de ce visage de la France.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "savoir-faire",
+      "evidence": "Allez au fin fond du Golfe, aux États-Unis d'Amérique, au cœur de l'Asie, vous avez des Françaises et des Français qui font rayonner la baguette française, les croissants, la meringue, nos crêpes, tous ces produits qui sont au cœur de nos savoir-faire et qui sont un peu de ce visage de la France.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_e020add04380980015c543dc696b8b323483b7b82c6c387324d2986f12998c1a"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "convivialité",
+      "evidence": "C'est aussi cet art de la table que nous aimons partager, convivialité, c'est ce qui irrigue nos territoires, nos villages, et en même temps, c'est ce qui fait rayonner la France à l'autre bout du monde.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_f2c5edd0ce5a8605a8d1bca4cf839f5d48cc2f71af199a1f6d2174eefb3b1f86"
+    },
+    {
+      "source": "confiserie",
+      "relation": "MENTIONS",
+      "target": "confiserie",
+      "evidence": "confiserie",
+      "confidence": 1.0,
+      "source_id": "Theme_f38ef58b8a56c0de11c05d7cd11ae49517c19fa7675bb13a3c64f32d2df5e2bc",
+      "target_id": "Theme_f38ef58b8a56c0de11c05d7cd11ae49517c19fa7675bb13a3c64f32d2df5e2bc"
+    },
+    {
+      "source": "charcuterie",
+      "relation": "MENTIONS",
+      "target": "charcuterie",
+      "evidence": "charcuterie",
+      "confidence": 1.0,
+      "source_id": "Theme_b9c86233efeed9ef682fb09f8037e9a1886757528853003fcea859ad95210b3b",
+      "target_id": "Theme_b9c86233efeed9ef682fb09f8037e9a1886757528853003fcea859ad95210b3b"
+    },
+    {
+      "source": "fruits primeurs",
+      "relation": "MENTIONS",
+      "target": "fruits primeurs",
+      "evidence": "fruits primeurs",
+      "confidence": 1.0,
+      "source_id": "Theme_e05fe57941be17b37badd60d903288e6c267d13e848805948852cdce5df479b1",
+      "target_id": "Theme_e05fe57941be17b37badd60d903288e6c267d13e848805948852cdce5df479b1"
+    },
+    {
+      "source": "glaces et sorbets",
+      "relation": "MENTIONS",
+      "target": "glaces et sorbets",
+      "evidence": "glaces et sorbets",
+      "confidence": 1.0,
+      "source_id": "Theme_24c98fb710c021f3694f32aa4e1800e2b232716e71273559e890c6ed1421a477",
+      "target_id": "Theme_24c98fb710c021f3694f32aa4e1800e2b232716e71273559e890c6ed1421a477"
+    },
+    {
+      "source": "desserts",
+      "relation": "MENTIONS",
+      "target": "desserts",
+      "evidence": "desserts",
+      "confidence": 1.0,
+      "source_id": "Theme_fb14fcc857d5ac18abc1312ca3d1b625574e268e0e06ec287408e20c4add184a",
+      "target_id": "Theme_fb14fcc857d5ac18abc1312ca3d1b625574e268e0e06ec287408e20c4add184a"
+    },
+    {
+      "source": "restauration",
+      "relation": "MENTIONS",
+      "target": "restauration",
+      "evidence": "restauration",
+      "confidence": 1.0,
+      "source_id": "Theme_bf4153d0094d9a9380f243363e8bbd3facb007e9672e2af30ebb3c3e24533f61",
+      "target_id": "Theme_bf4153d0094d9a9380f243363e8bbd3facb007e9672e2af30ebb3c3e24533f61"
+    },
+    {
+      "source": "cuisine",
+      "relation": "MENTIONS",
+      "target": "cuisine",
+      "evidence": "cuisine",
+      "confidence": 1.0,
+      "source_id": "Theme_020b270717fc047998746e55bd6cd06a58931666e8c98100ee3cbb0ba42e37e4",
+      "target_id": "Theme_020b270717fc047998746e55bd6cd06a58931666e8c98100ee3cbb0ba42e37e4"
+    },
+    {
+      "source": "sommellerie",
+      "relation": "MENTIONS",
+      "target": "sommellerie",
+      "evidence": "sommellerie",
+      "confidence": 1.0,
+      "source_id": "Theme_e7ebf572cecf2d778fa6bab1908d15d076db070fa211d9fb114a9ef90508bccc",
+      "target_id": "Theme_e7ebf572cecf2d778fa6bab1908d15d076db070fa211d9fb114a9ef90508bccc"
+    },
+    {
+      "source": "poissonnerie",
+      "relation": "MENTIONS",
+      "target": "poissonnerie",
+      "evidence": "poissonnerie",
+      "confidence": 1.0,
+      "source_id": "Theme_23636207c07481fda8abd57682963b46e0b36bb2ef01d4741396de054fa450af",
+      "target_id": "Theme_23636207c07481fda8abd57682963b46e0b36bb2ef01d4741396de054fa450af"
+    },
+    {
+      "source": "chocolaterie",
+      "relation": "MENTIONS",
+      "target": "chocolaterie",
+      "evidence": "chocolaterie",
+      "confidence": 1.0,
+      "source_id": "Theme_0bbe24f6865fc62e3b89a0bbde251db06875d98aa97557a8274709ad268f0183",
+      "target_id": "Theme_0bbe24f6865fc62e3b89a0bbde251db06875d98aa97557a8274709ad268f0183"
+    },
+    {
+      "source": "cuisine froide",
+      "relation": "MENTIONS",
+      "target": "cuisine froide",
+      "evidence": "cuisine froide",
+      "confidence": 1.0,
+      "source_id": "Theme_b26aad37762e282fe5a87933ab6dfb9aab43dbe4f2913b2942d962dc891ad96b",
+      "target_id": "Theme_b26aad37762e282fe5a87933ab6dfb9aab43dbe4f2913b2942d962dc891ad96b"
+    },
+    {
+      "source": "torréfaction",
+      "relation": "MENTIONS",
+      "target": "torréfaction",
+      "evidence": "torréfaction",
+      "confidence": 1.0,
+      "source_id": "Theme_6d9785ab393488074cfde3923f6315d86490657c872c11b148f48565a7df193e",
+      "target_id": "Theme_6d9785ab393488074cfde3923f6315d86490657c872c11b148f48565a7df193e"
+    },
+    {
+      "source": "barman",
+      "relation": "MENTIONS",
+      "target": "barman",
+      "evidence": "barman",
+      "confidence": 1.0,
+      "source_id": "Theme_b58a601737507329b8996cdeb0b464118becdd4b58a1392229ef638b04611d6f",
+      "target_id": "Theme_b58a601737507329b8996cdeb0b464118becdd4b58a1392229ef638b04611d6f"
+    },
+    {
+      "source": "fromagerie",
+      "relation": "MENTIONS",
+      "target": "fromagerie",
+      "evidence": "fromagerie",
+      "confidence": 1.0,
+      "source_id": "Theme_2a49fefd139b0a911441b5454105730b5013a2fa94dc928180a9caceb9ab5dc4",
+      "target_id": "Theme_2a49fefd139b0a911441b5454105730b5013a2fa94dc928180a9caceb9ab5dc4"
+    },
+    {
+      "source": "services et arts de la table",
+      "relation": "MENTIONS",
+      "target": "services et arts de la table",
+      "evidence": "services et arts de la table",
+      "confidence": 1.0,
+      "source_id": "Theme_ca1670426f0bb75694cbf393fb37e0f45df05d08e4cf1fdc055c46d8ae9912c1",
+      "target_id": "Theme_ca1670426f0bb75694cbf393fb37e0f45df05d08e4cf1fdc055c46d8ae9912c1"
+    },
+    {
+      "source": "qualité",
+      "relation": "MENTIONS",
+      "target": "labels",
+      "evidence": "la reconnaissance de la qualité et du travail bien fait, avec justement une adaptation des labels et mentions existants",
+      "confidence": 1.0,
+      "source_id": "Theme_3ca1b64490b5262af08e9f6b9b23312ee1d75f2317299eb58ba6eb450eef6651",
+      "target_id": "Theme_9f208c2639b0de4db01eb14f8f88f2b968888a63f5071f4eca14a685a0105a45"
+    },
+    {
+      "source": "authenticité",
+      "relation": "MENTIONS",
+      "target": "gastronomie",
+      "evidence": "Ce sont des évolutions pragmatiques qui visent à protéger l'authenticité et la transparence qui font la force de notre gastronomie",
+      "confidence": 1.0,
+      "source_id": "Theme_cf8043e6df6cb232c999ba64547ee7670b0004c6cdda427092c1f5fe287aa4aa",
+      "target_id": "Theme_95de876b1173e4eff212fc36e76d6c5f96b693492bb23438c8897dfee2f77158"
+    },
+    {
+      "source": "transparence",
+      "relation": "MENTIONS",
+      "target": "gastronomie",
+      "evidence": "Ce sont des évolutions pragmatiques qui visent à protéger l'authenticité et la transparence qui font la force de notre gastronomie",
+      "confidence": 1.0,
+      "source_id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3",
+      "target_id": "Theme_95de876b1173e4eff212fc36e76d6c5f96b693492bb23438c8897dfee2f77158"
+    },
+    {
+      "source": "labels",
+      "relation": "PROPOSED",
+      "target": "critères",
+      "evidence": "Je sais que les travaux se poursuivent avec le ministre en ce début d'année pour parachever les critères, l'application de ces labels",
+      "confidence": 1.0,
+      "source_id": "Theme_9f208c2639b0de4db01eb14f8f88f2b968888a63f5071f4eca14a685a0105a45",
+      "target_id": "Theme_70b45d8b68722e418054a5a901858a35cc20f372585d2ea505f4d2088605abf2"
+    },
+    {
+      "source": "mention « Fait maison »",
+      "relation": "SPOKE_ABOUT",
+      "target": "qualité",
+      "evidence": "la simplification de la mention « Fait maison » pour en faciliter son usage, l'adapter à la réalité de vos métiers et maintenir les exigences de qualité",
+      "confidence": 1.0,
+      "source_id": "Theme_4ad6a51f1b7bc1aaca0ba5d0a5e82c34ae84da07737331b0d208237dcadd45fe",
+      "target_id": "Theme_3ca1b64490b5262af08e9f6b9b23312ee1d75f2317299eb58ba6eb450eef6651"
+    },
+    {
+      "source": "chef",
+      "relation": "SPOKE_ABOUT",
+      "target": "restaurateur",
+      "evidence": "la refonte du titre de maître restaurateur qui met à l'honneur nos chefs et restaurateurs et leurs engagements",
+      "confidence": 1.0,
+      "source_id": "Theme_0f63e5db6231eae7e3244910c0a55d6b89bf1a02f6dc44483ca8e32565c05d50",
+      "target_id": "Theme_b22a2d636c7be683adbe3e8d197999f257cf27b253d7abf3b90a2dc893b44665"
+    },
+    {
+      "source": "métiers",
+      "relation": "SPOKE_ABOUT",
+      "target": "qualité",
+      "evidence": "pour encourager pleinement la qualité et différencier les métiers, quand il y a derrière, justement, ce « Fait maison »",
+      "confidence": 1.0,
+      "source_id": "Theme_305de45577953bd04165ca22cf0089e5defd686499397a72c39942ab978c3083",
+      "target_id": "Theme_3ca1b64490b5262af08e9f6b9b23312ee1d75f2317299eb58ba6eb450eef6651"
+    },
+    {
+      "source": "Président",
+      "relation": "SUPPORTS",
+      "target": "agriculteurs",
+      "evidence": "un Président qui continueront de se battre pour nos agriculteurs, pour nos artisans, pour nos restaurateurs, et évidemment pour nos boulangers.",
+      "confidence": 1.0,
+      "source_id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d",
+      "target_id": "Theme_e8bb23c61a62a4b8bc09ad80c4affb7a3e5f469e23f1498946a2d5acd6c09f59"
+    },
+    {
+      "source": "Président",
+      "relation": "SUPPORTS",
+      "target": "artisans",
+      "evidence": "un Président qui continueront de se battre pour nos agriculteurs, pour nos artisans, pour nos restaurateurs, et évidemment pour nos boulangers.",
+      "confidence": 1.0,
+      "source_id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d",
+      "target_id": "Theme_31e3dadae2654be8c91d3f4c46407fb89ac95a07fabd3820ee6dec7d91ab6910"
+    },
+    {
+      "source": "Président",
+      "relation": "SUPPORTS",
+      "target": "restaurateurs",
+      "evidence": "un Président qui continueront de se battre pour nos agriculteurs, pour nos artisans, pour nos restaurateurs, et évidemment pour nos boulangers.",
+      "confidence": 1.0,
+      "source_id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d",
+      "target_id": "Theme_a421e9d343decbe2a8fe719e6d2b13d224e9ec756b49ece5a98cb04103f07f4d"
+    },
+    {
+      "source": "Président",
+      "relation": "SUPPORTS",
+      "target": "boulangers",
+      "evidence": "un Président qui continueront de se battre pour nos agriculteurs, pour nos artisans, pour nos restaurateurs, et évidemment pour nos boulangers.",
+      "confidence": 1.0,
+      "source_id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d",
+      "target_id": "Theme_1bf96403264ece4b009ddcc407b9494118cd0f75fb813bb89cee39d59062ef49"
+    }
+  ]
+}

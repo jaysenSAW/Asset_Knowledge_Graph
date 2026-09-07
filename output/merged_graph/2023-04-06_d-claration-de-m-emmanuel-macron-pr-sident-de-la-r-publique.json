@@ -1,0 +1,472 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les ministres",
+      "id": "Person_df98c9cabd69056dc2dbae7ad5aa8390dd768609332bdc8c9a4dafe6f2e4b762"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les ambassadeurs",
+      "id": "Person_567943aaeee84087c641c208b10bcd89c2e29ae8cfe11864995dc3f7389a530d"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les journalistes",
+      "id": "Person_bb3a128f6233a9b68a1d87ec975864fc53697828b756ac99db438a631e4483ab"
+    },
+    {
+      "type": "Person",
+      "name": "Présidente de la Commission européenne VON DER LEYEN",
+      "id": "Person_4a2098f99a94add6467371dc8d9c31f00f37b63926510183858275b868386f00"
+    },
+    {
+      "type": "Person",
+      "name": "Président JUNCKER",
+      "id": "Person_dc66760dfccb9f94a11cfdfd1e5052abd46a5f675d08552e5fa319589e660210"
+    },
+    {
+      "type": "Person",
+      "name": "Chancelière MERKEL",
+      "id": "Person_13c2c8ea40d1883e090c9d7b848b097d539b9ebe95d4deaaba00f62af3b98964"
+    },
+    {
+      "type": "Person",
+      "name": "j'étais",
+      "id": "Person_5bde8f1841c8fc103ed472e4aa822c16c1f4e69ff26505cb54bbf8c2ef3e97d2"
+    },
+    {
+      "type": "City",
+      "name": "Xi'an",
+      "id": "City_dc5941b30a5c14acd7124fb0d94b75a19be0a8120906fdbdc7012cfa4f0143de"
+    },
+    {
+      "type": "Country",
+      "name": "notre relation",
+      "id": "Country_84be08cfb95d54f3c34ce723f651bfdc93dd72a774b80446bd2ec48d0228b12b"
+    },
+    {
+      "type": "Theme",
+      "name": "routes de la soie",
+      "id": "Theme_130ca9175f86fd2d9ed1f58542a08ad4f294a0e74add50357427a664ecebddb2"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles pistes de coopération",
+      "id": "Theme_b518ce0776ca7849860d9eced667b8c40297fe6a2647e0e709975ac8e66442b8"
+    },
+    {
+      "type": "Theme",
+      "name": "de nouveaux équilibres",
+      "id": "Theme_edec70286f8dad72597ffc9be00bb8735d7211cbc07cbc2318b937099ca016c8"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Arabie saoudite",
+      "id": "Country_ba5ae4e1d0c1b62b96b20dbc4dfa5a4f386fc0140b81ffc4ec2b12c13be70858"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Country",
+      "name": "Corée du Nord",
+      "id": "Country_d403bea44d70f65c1c477a18701e0bf7d2b84fd75e947a1213736b8cdf536760"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité",
+      "id": "Organization_baa57920608812f1a905ee605e7e26f62ded68ec5607802bf97048747ea47f2f"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Troisième Forum sur les nouvelles routes de la soie",
+      "id": "Organization_0612b48318e1b23b3e8490258e9c080ba15f6374e7450b6630bb30afe71c380f"
+    },
+    {
+      "type": "Organization",
+      "name": "Sommet que la France coorganisera avec le Costa Rica pour les océans",
+      "id": "Organization_a292b938904143f09b939036baae91a52d96d3310ff17117d615484d5d671539"
+    },
+    {
+      "type": "Organization",
+      "name": "Sommet des Nations unies en 2025",
+      "id": "Organization_e4707d516988ebf66d82c4757aa2e6bbbc069fc4490548170f7a8df9a4cc446a"
+    },
+    {
+      "type": "Organization",
+      "name": "Sommet de juin sur le nouveau pacte financier mondial",
+      "id": "Organization_b6c38f90d53b722ac12187e08b77acabff1c07882fbdcae9078b45237f03c562"
+    },
+    {
+      "type": "City",
+      "name": "Montréal",
+      "id": "City_99afea798c48333043a2c59b590333b7f5d46230e2a7913f4b7a60f102d557f1"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "City",
+      "name": "Kunming",
+      "id": "City_76764ef2d6ee9b2b41c2f5742ab4018bf1dad456dffed61bb377791662be2ff8"
+    },
+    {
+      "type": "Country",
+      "name": "Emirats arabes unis",
+      "id": "Country_02da2051b5b49f4cccf63ff0675abe8e1fc2d1961a4264fcb31498ee4e262b19"
+    },
+    {
+      "type": "Country",
+      "name": "Pays les plus endettés",
+      "id": "Country_5a64d3d74ebe426457b74a780d04351a4b2f0f050e9200ecda7455f5fe7dfdea"
+    },
+    {
+      "type": "Country",
+      "name": "Pays les plus pauvres",
+      "id": "Country_bd2183a49292fa086d404d6beef9678c14cea8fc12370a43be3d1c351bc094e3"
+    },
+    {
+      "type": "Country",
+      "name": "Pays en développement",
+      "id": "Country_1060c6b5a171a72aa8d0f1d37a086532aa48c2b60d402ffd183f94283ec20fdf"
+    },
+    {
+      "type": "Person",
+      "name": "VON DER LEYEN",
+      "id": "Person_7ecadb921e073f1e4cad22bad4171dd07ba08b78183ee978ed19113794203019"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française de développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "Theme",
+      "name": "réciprocité",
+      "id": "Theme_1b37fc484f110f328995191a754632a8389a87872b23218610754a3c73014027"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvel équilibre",
+      "id": "Theme_1bed4a0257a0fd928f1a59e26a12027bead32e02c0d510c6d3185b8a7e999f6a"
+    },
+    {
+      "type": "Theme",
+      "name": "agricole et agroalimentaire",
+      "id": "Theme_8de9805acc8a05b9be289d967cad1ca3fa3490cb1af20bce4da357d41cbb8f0c"
+    },
+    {
+      "type": "Theme",
+      "name": "secteurs",
+      "id": "Theme_bbeae9db215032ed52b93ab56c0df6e05e5a413df7b125b1bde0fb86968f3b4b"
+    },
+    {
+      "type": "Theme",
+      "name": "bœuf",
+      "id": "Theme_7b5b58ac7e93ff08bd3445c380fa521f7c0ef72b36f89b0f57ba04b09ee6de27"
+    },
+    {
+      "type": "Theme",
+      "name": "vins et spiritueux",
+      "id": "Theme_03064f276d7d852027acde77f33c8a83283c3d026a87b4ca1c78a3343defbdc2"
+    },
+    {
+      "type": "Theme",
+      "name": "aquaculture",
+      "id": "Theme_cb8c4a82058cfbb09578790aed0821689a0e23ebdef2023b828a4442261aec60"
+    },
+    {
+      "type": "Theme",
+      "name": "porc",
+      "id": "Theme_1764699ba4da3c05421c347771e7b34dfccef2e79fb5463e3526dcfbeaaffdef"
+    },
+    {
+      "type": "Theme",
+      "name": "produits",
+      "id": "Theme_f2189a4074c53e651fdc58cec51db8f2918431f102abdc823c9899a478e9aec4"
+    },
+    {
+      "type": "Theme",
+      "name": "consommateurs chinois",
+      "id": "Theme_8607163e7df521d9ccd86775d8f63f22360cfd0b120ea199eca16359a877630b"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de l'Agriculture et de la souveraineté alimentaire",
+      "id": "Organization_9f656fc6982c1931e462c08f7736fd6f9ae2e40648002b4ccb51fd710ffba7e6"
+    },
+    {
+      "type": "Organization",
+      "name": "président du cluster maritime de La Réunion",
+      "id": "Organization_2ebddf4091132c2d9ce70c191e21649c3ab7c6f6a95e36c64e10c4de58e811a7"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des entreprises franco-chinoises",
+      "id": "Organization_e3403677c22455016c0068b7314e9653bf720aac9a57998ccfab9e59fc8d56f0"
+    },
+    {
+      "type": "Theme",
+      "name": "relations bilatérales",
+      "id": "Theme_408b8bd1217d67f46d5809cb71154f9c8f9ae41670a929f6870ba2f4b85a5c66"
+    },
+    {
+      "type": "Theme",
+      "name": "tourisme culturel",
+      "id": "Theme_3a5b4c29afc032c2b3363ea49e8319412e051109789e03ae2f85504ee09a24d5"
+    },
+    {
+      "type": "Theme",
+      "name": "patrimoine",
+      "id": "Theme_f6e24cc0a7fb8f4e53711f9bbde0b780c864eea0f41ca2c6dfa23caff8fe4496"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers d'arts",
+      "id": "Theme_f0f865a8b091a590a734ab0c3adcb657f9f60fed58695383b1c1ad0b5ca03f8c"
+    },
+    {
+      "type": "Theme",
+      "name": "secteurs culturels",
+      "id": "Theme_4c8a03bd8b4bef3d938d2dca65d9201a56b94927d1a8f238d535cd25c7916d4e"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Country",
+      "name": "nos deux pays",
+      "id": "Country_2bd470f2122568640e3762e9bf14400458b6f8d21f909f537011d97d9af8f053"
+    },
+    {
+      "type": "Theme",
+      "name": "respect",
+      "id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "type": "Theme",
+      "name": "leçons",
+      "id": "Theme_00f5e92225d9d2c25d9c99a2fde296d8de6182a604677dcfd69649d3d181faa9"
+    },
+    {
+      "type": "Theme",
+      "name": "résultats",
+      "id": "Theme_52c04f17f67dd39c37208223246d2b167ee7df2590aca77966c5b534cdcac05a"
+    },
+    {
+      "type": "Theme",
+      "name": "tempérament",
+      "id": "Theme_81432137aa70eb57f191959262c4a41947bb0a5f8c0ae3e3daf929f505e16897"
+    },
+    {
+      "type": "Theme",
+      "name": "conscience profonde",
+      "id": "Theme_206074380565f0ef2cfac76a0dd21c7ea93b6deab6cc6d14f757ade10730e334"
+    },
+    {
+      "type": "Country",
+      "name": "la guerre",
+      "id": "Country_656235ac2ebc4ef83c6d8d3aebbc534b5262bbab5401e22da09034559efd894a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Président",
+      "relation": "SPOKE_ABOUT",
+      "target": "Président JUNCKER",
+      "evidence": "où le Président JUNCKER s'était joint à nous avec à l'époque aussi, la Chancelière MERKEL",
+      "confidence": 1.0,
+      "source_id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d",
+      "target_id": "Person_dc66760dfccb9f94a11cfdfd1e5052abd46a5f675d08552e5fa319589e660210"
+    },
+    {
+      "source": "Président",
+      "relation": "SPOKE_ABOUT",
+      "target": "Chancelière MERKEL",
+      "evidence": "où le Président JUNCKER s'était joint à nous avec à l'époque aussi, la Chancelière MERKEL",
+      "confidence": 1.0,
+      "source_id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d",
+      "target_id": "Person_13c2c8ea40d1883e090c9d7b848b097d539b9ebe95d4deaaba00f62af3b98964"
+    },
+    {
+      "source": "notre relation",
+      "relation": "LOCATED_IN",
+      "target": "notre relation",
+      "evidence": "construction progressive de notre relation",
+      "confidence": 1.0,
+      "source_id": "Country_84be08cfb95d54f3c34ce723f651bfdc93dd72a774b80446bd2ec48d0228b12b",
+      "target_id": "Country_84be08cfb95d54f3c34ce723f651bfdc93dd72a774b80446bd2ec48d0228b12b"
+    },
+    {
+      "source": "routes de la soie",
+      "relation": "MENTIONS",
+      "target": "routes de la soie",
+      "evidence": "imaginaires communs sur les routes de la soie",
+      "confidence": 1.0,
+      "source_id": "Theme_130ca9175f86fd2d9ed1f58542a08ad4f294a0e74add50357427a664ecebddb2",
+      "target_id": "Theme_130ca9175f86fd2d9ed1f58542a08ad4f294a0e74add50357427a664ecebddb2"
+    },
+    {
+      "source": "nouvelles pistes de coopération",
+      "relation": "MENTIONS",
+      "target": "nouvelles pistes de coopération",
+      "evidence": "tracer littéralement de nouvelles pistes de coopération",
+      "confidence": 1.0,
+      "source_id": "Theme_b518ce0776ca7849860d9eced667b8c40297fe6a2647e0e709975ac8e66442b8",
+      "target_id": "Theme_b518ce0776ca7849860d9eced667b8c40297fe6a2647e0e709975ac8e66442b8"
+    },
+    {
+      "source": "de nouveaux équilibres",
+      "relation": "MENTIONS",
+      "target": "de nouveaux équilibres",
+      "evidence": "travailler à une méthode pour parvenir à de nouveaux équilibres",
+      "confidence": 1.0,
+      "source_id": "Theme_edec70286f8dad72597ffc9be00bb8735d7211cbc07cbc2318b937099ca016c8",
+      "target_id": "Theme_edec70286f8dad72597ffc9be00bb8735d7211cbc07cbc2318b937099ca016c8"
+    },
+    {
+      "source": "Russie",
+      "relation": "LOCATED_IN",
+      "target": "Ukraine",
+      "evidence": "la Russie en Ukraine",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "C'est aujourd'hui le cas de l'Ukraine qui, n'étant pas membre de l'Union européenne mais ayant cette perspective, est un pays européen.",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "VISITED",
+      "target": "Europe",
+      "evidence": "C'est aujourd'hui le cas de l'Ukraine qui, n'étant pas membre de l'Union européenne mais ayant cette perspective, est un pays européen.",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "MEMBER_OF",
+      "target": "Europe",
+      "evidence": "C'est aujourd'hui le cas de l'Ukraine qui, n'étant pas membre de l'Union européenne mais ayant cette perspective, est un pays européen.",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Chine",
+      "relation": "SUPPORTS",
+      "target": "Pays les plus endettés",
+      "evidence": "je compte beaucoup sur le rôle que la Chine aura à jouer, à la fois vis-à-vis des pays les plus endettés",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Country_5a64d3d74ebe426457b74a780d04351a4b2f0f050e9200ecda7455f5fe7dfdea"
+    },
+    {
+      "source": "Agence française de développement",
+      "relation": "LOCATED_IN",
+      "target": "Chine",
+      "evidence": "l'action de l'Agence française de développement qui se focalise en Chine sur la lutte contre le changement climatique, en s'appuyant sur l'expertise de nos entreprises.",
+      "confidence": 1.0,
+      "source_id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "ministre de l'Agriculture et de la souveraineté alimentaire",
+      "relation": "MENTIONS",
+      "target": "secteurs",
+      "evidence": "Je suis venu avec le ministre de l'Agriculture et de la souveraineté alimentaire, le président du cluster maritime de La Réunion, pour témoigner justement de l'importance de ces secteurs dans notre France, qu'elle soit métropolitaine, comme ultramarine.",
+      "confidence": 1.0,
+      "source_id": "Organization_9f656fc6982c1931e462c08f7736fd6f9ae2e40648002b4ccb51fd710ffba7e6",
+      "target_id": "Theme_bbeae9db215032ed52b93ab56c0df6e05e5a413df7b125b1bde0fb86968f3b4b"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "c'est en tout cas cette voie que veut porter à la France.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Person",
+      "name": "Présidente",
+      "id": "Person_e7114032cb4e034e59385925dc9528250fc45013f7a472cd52c034b91a0b4763"
+    },
+    {
+      "type": "Person",
+      "name": "Compatriotes",
+      "id": "Person_001a4cd7d5ccbd2fe897e22660603f55473d585828976f6e12b964cf37700fd5"
+    },
+    {
+      "type": "Person",
+      "name": "Amis américains",
+      "id": "Person_48b8a07012d9629dd63b0b8836987752878d6d78739fbd6b77bd7a1b5cf11d6e"
+    },
+    {
+      "type": "Organization",
+      "name": "administration Trump",
+      "id": "Organization_7c6445e36dcddbd61e9b509a9852e5af6ff13cf8ef2088ff5fcdfa816d792533"
+    },
+    {
+      "type": "Organization",
+      "name": "administration Biden",
+      "id": "Organization_7721f51504f12550f6311062c5657a6397decbcb9dd4d3f1a9ba1db2d198c060"
+    },
+    {
+      "type": "Organization",
+      "name": "associations",
+      "id": "Organization_093357ed588ea24809b2100d18e873165901f63f0760d7b30cd7fed20c85113a"
+    },
+    {
+      "type": "Organization",
+      "name": "conseillers consulaires",
+      "id": "Organization_092a75cfb66e90a1d55f21d460c256301d008fe7fa2c0dbadae84587e306fb2d"
+    },
+    {
+      "type": "Organization",
+      "name": "conseillers du commerce extérieur",
+      "id": "Organization_d539839d3e3f9a6d2b9ecc35fcea576a39496e60601db3a9a990bf26cb2e757f"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Theme",
+      "name": "liens entre les États-Unis d'Amérique et la France",
+      "id": "Theme_438aa539233485302080b004070a87dde4d8f7ad34ac0972c12c188f45ad1cb6"
+    },
+    {
+      "type": "Person",
+      "name": "Président Biden",
+      "id": "Person_aea56d2d88e0b36498ee7706d9018312202b07c7c9e23874f6e8d9f1972b7994"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialiser notre pays",
+      "id": "Theme_0fb7ec156693a76a538d377d46bde3ae37676b5a67292159b77870d6b6e4f63f"
+    },
+    {
+      "type": "Theme",
+      "name": "une grande Nation attractive",
+      "id": "Theme_0d574e794d5bee9b14098d00c69d4e561dec48a9a389484f3820519e5a96c4e1"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes du marché du travail",
+      "id": "Theme_47544c23c018742ba802b65cce3324997255db4fb7a1227e04cf7dc2434a97cf"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscalité",
+      "id": "Theme_8f3af7311a6bcfd253a580ecacd3fb0434ee40de042b8221f99b1b400f0a3b76"
+    },
+    {
+      "type": "Theme",
+      "name": "transports",
+      "id": "Theme_533d2529ff9a7f6bf394d1e74146c9b14e56ed95da235efb27978e0422b519a2"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Country",
+      "name": "Notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois industriels",
+      "id": "Theme_560b9eaf9a55845d873a23b23f8e9d04b1dacdad027f1dfcab2f455adcab461a"
+    },
+    {
+      "type": "Theme",
+      "name": "startups",
+      "id": "Theme_b3fedf1927a7ff9f9b930ba12d4dcb168cbce6318c5601c66dc5821cf26b6a3d"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "plan d'action",
+      "id": "Theme_e89590927f494136ceee4d460b27b7cd6a042ba7b15d7503b195172737892c89"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Américains",
+      "id": "Country_6deacfea67d43d8edf2e015f463699edc5cfeb9009ed4e46fcc78a0336700d79"
+    },
+    {
+      "type": "Country",
+      "name": "Français",
+      "id": "Country_c4dad1af940aa0201c7e313e6b26e7081226df3348f51555a362f8ecdb3ac4c0"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Theme",
+      "name": "Inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "Augmentation générale et durable des prix",
+      "id": "Theme_5eb116de1d5e16531ecfc3d1ce72deda9884f4175ae830ddb36e0359ccec5368"
+    },
+    {
+      "type": "Theme",
+      "name": "Reduction Act",
+      "id": "Theme_9880699f9f529bc605ddc3ddaa96f0654b981e45952b921dfffa738ac77e7eaf"
+    },
+    {
+      "type": "Theme",
+      "name": "Chips Act",
+      "id": "Theme_65b3c62a70a49d6441de46267ea6616440071736aa63684bacdaf1ff9fb5accd"
+    },
+    {
+      "type": "City",
+      "name": "Washington",
+      "id": "City_ee7e345909a6fe1df02cbeb0ed489e719cbdc04c7a27e2818d861e092cc9ad8a"
+    },
+    {
+      "type": "City",
+      "name": "La Nouvelle-Orléans",
+      "id": "City_bd05b4beeef7a8776691ac102cde03bb9fc1223850b057494322c5ea77e7efec"
+    },
+    {
+      "type": "Person",
+      "name": "nos jeunesses",
+      "id": "Person_ffb45fd3b42d02dc5300fb9707c56aaa80314190ca7cff7b33decea40c07a620"
+    },
+    {
+      "type": "Organization",
+      "name": "nos enseignants",
+      "id": "Organization_46184c75af9000cb3c05f8fb73b9176296e8358fcb41d2c7e12883ebcc21b25d"
+    },
+    {
+      "type": "Organization",
+      "name": "nos volontaires internationaux",
+      "id": "Organization_67808fce8293ae337b2ea8d6270a24fb46dc6f57719b8aa84107dc4d3d588448"
+    },
+    {
+      "type": "Organization",
+      "name": "lycées français",
+      "id": "Organization_3570d14a80e66b393d2336ee9e96e6a730be9c508d5501b7355e5037f7e049d9"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliances françaises",
+      "id": "Organization_99993a6cc2929b3dbb4e0bf5bf447b79fdf44f6f9861082b51f5d752a33fc488"
+    },
+    {
+      "type": "Organization",
+      "name": "FLAM",
+      "id": "Organization_4164e8653c0b9114eb14fe60d6126cee62798e23cf43b387f632668555161b1e"
+    },
+    {
+      "type": "Organization",
+      "name": "Chanel",
+      "id": "Organization_00c5945ef977fb5ad2bc54c36f91d73c14b72c480a16f1ae64b1ad547b69cf6d"
+    },
+    {
+      "type": "Organization",
+      "name": "34 écoles publiques",
+      "id": "Organization_e0e8f1445a495191a7f1469805bc2f248d647bcf6f8201b8fa6053676c46aa67"
+    },
+    {
+      "type": "City",
+      "name": "Nouvelle-Orléans",
+      "id": "City_3d35c65e53555a7d7bc0f427f425f4c69bf2042a7027c694859a2fe1021c68a5"
+    },
+    {
+      "type": "Theme",
+      "name": "français",
+      "id": "Theme_31256713966363216a0829e4571c45ca5252777a0b51e3eb51c248981e94773b"
+    },
+    {
+      "type": "Theme",
+      "name": "multilinguisme",
+      "id": "Theme_5eff75c84067bd4019dcae02d8980d91db9751aab5abba8ca94016ccf872e8eb"
+    },
+    {
+      "type": "Theme",
+      "name": "émancipation",
+      "id": "Theme_f065c4ae0b5f92b698169ed43af465c75aa8cc1a41199ad1c664e2181d37ea78"
+    },
+    {
+      "type": "City",
+      "name": "Caraïbes",
+      "id": "City_00f24e8aa1dfb6fcd17fd136278222a6ae32e433f81a0d99e1a6a0625a0b395e"
+    },
+    {
+      "type": "City",
+      "name": "continent africain",
+      "id": "City_75900de3695291a1ce8433633e4121cfea8334ae8940e5a2be7910c31c5510f9"
+    },
+    {
+      "type": "Organization",
+      "name": "programmes de mobilité universitaire et scientifique",
+      "id": "Organization_b14b1086f57a5b4cc0df44b22835bb8ce564e3e8c112ad981356381be59b01ee"
+    },
+    {
+      "type": "Organization",
+      "name": "CNRS",
+      "id": "Organization_9797a7b293510a1bf26addf4f9eb951f6a91dfb71b6b8d8c7031c08fb95a0fa4"
+    },
+    {
+      "type": "Organization",
+      "name": "CEA",
+      "id": "Organization_56bee4e69d140d03f96302b407e9a57182af007e69e3a0511d3d22f4e01718b0"
+    },
+    {
+      "type": "Organization",
+      "name": "CNES",
+      "id": "Organization_9cac143218443645cc33132f43bf3a030f9b428a1f2d8be5768d3563ede6e5b8"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilités universitaires et scientifiques",
+      "id": "Theme_71afe8841eccdd4c8ee0d47617bb1d5b06be3b1d1e052e2236ccf3a34b56bab2"
+    },
+    {
+      "type": "Person",
+      "name": "Agnès Varda",
+      "id": "Person_02d3bfd2e762799d17a683befa48b3361901954403926d2283262459f30099c5"
+    },
+    {
+      "type": "Person",
+      "name": "Euzhan Palcy",
+      "id": "Person_b02131d60cf783c606dca9b02e7ee3fb986b39ca084f075316d75a0a7d62ff00"
+    },
+    {
+      "type": "Theme",
+      "name": "art de vivre à la française",
+      "id": "Theme_5c337e8b90968c421bb00433a261600495fdbbb0783bd7c02c4840cd4a585b4d"
+    },
+    {
+      "type": "Theme",
+      "name": "cinéma",
+      "id": "Theme_1535a7883e8329d1216c195b6afd3d5bc6d95b6cba0353551bde9b1592e3fc37"
+    },
+    {
+      "type": "Theme",
+      "name": "musique",
+      "id": "Theme_ecb1b66e3ea8d262536d0325c74a647aa416593747c0c0e6ade0d2920db330d8"
+    },
+    {
+      "type": "Theme",
+      "name": "création",
+      "id": "Theme_a463f772ae14adf1d9f578edb8f3a9be473efc5135b65450d927e8cdeac7a890"
+    },
+    {
+      "type": "Theme",
+      "name": "designers",
+      "id": "Theme_eb3835a1100b737fd892f64a8ccf4fc7e31f24a8eb29eb6dec2e0d53158b8385"
+    },
+    {
+      "type": "Theme",
+      "name": "architectes",
+      "id": "Theme_c718bd7b5292a49ae7e9d480220d7a970120e6cd31a1ad7678bd0ed58ddde188"
+    },
+    {
+      "type": "Organization",
+      "name": "Villa Albertine",
+      "id": "Organization_209d7f0997770d531c816763d5b27fc79c0a1ef3e8282dfccf397b424ed009a0"
+    },
+    {
+      "type": "Organization",
+      "name": "Louvre",
+      "id": "Organization_1125368efe4b84a3d59c8eba4b20adb70d7f0b4ee6c3796b871dc59ba5fbf221"
+    },
+    {
+      "type": "Organization",
+      "name": "Orangerie",
+      "id": "Organization_b4294bd5db96d8527e0f32efe2b16b4e12c57ce5095d2970510e51985339bbcc"
+    },
+    {
+      "type": "Organization",
+      "name": "Orsay",
+      "id": "Organization_e97bd025068c4cbadf46e909ef1fa8db8bf0cc2e159ca8ad684b7a30c4d6279f"
+    },
+    {
+      "type": "Theme",
+      "name": "relation franco-américaine",
+      "id": "Theme_33d814773bced96f36aea82a8a4b57e223cc1035f8ce51eadd4e71ec36fda271"
+    },
+    {
+      "type": "Theme",
+      "name": "gastronomie",
+      "id": "Theme_95de876b1173e4eff212fc36e76d6c5f96b693492bb23438c8897dfee2f77158"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir-faire",
+      "id": "Theme_e020add04380980015c543dc696b8b323483b7b82c6c387324d2986f12998c1a"
+    },
+    {
+      "type": "Organization",
+      "name": "UNESCO",
+      "id": "Organization_44cf334686fd664fecedb6944caa3782522449e029aa1a57346edd5f2ff5eebd"
+    },
+    {
+      "type": "Person",
+      "name": "Dominique Anract",
+      "id": "Person_8d445db96076a8f20951947dace481c942f597f24bf5b203cc817d0481d901b1"
+    },
+    {
+      "type": "City",
+      "name": "New York",
+      "id": "City_e29f957fb97945a6b5a1886762f22b8c0c8061e5f79a9f14d6144141a5106e51"
+    },
+    {
+      "type": "Organization",
+      "name": "boulangers de France",
+      "id": "Organization_0eaf4fd89a6a0ecc116fba857b89943560b9919ccf725e2fe239cd2fdc39a427"
+    },
+    {
+      "type": "City",
+      "name": "l'Elysée",
+      "id": "City_3eae2ad22a9341b8bf38bfebad3b2e5c05027e88193e4abae8bd3981a710e7e8"
+    },
+    {
+      "type": "City",
+      "name": "Monsieur Colombo",
+      "id": "City_3b27b1046ccbf5c8cdae610302498603ad958a97353f47db760cfc63282ad43e"
+    },
+    {
+      "type": "City",
+      "name": "Côte Rôtie",
+      "id": "City_1a186b7d17cfd56e85ee1b1986a48f9129155db9d771a38e8b442beff47dce7c"
+    },
+    {
+      "type": "Theme",
+      "name": "spiritueux",
+      "id": "Theme_5b447cb9c77c44faa6b2562875f0a53a33127c96ff52b2753c42df0dc7344171"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois sur le territoire",
+      "id": "Theme_301273fb49a8b4cc6cd3604eae62a5ffaac70239b64f26c3aaa4d690c88c2f92"
+    },
+    {
+      "type": "Theme",
+      "name": "rêves qu'on offre à nos enfants",
+      "id": "Theme_79396c0066a89b9c8f369671d74641955164eb5272d6367f915d83e9289e9922"
+    },
+    {
+      "type": "Theme",
+      "name": "French touch",
+      "id": "Theme_5b253ab995a63918669344e24560e5bf7b7be6c12433886e8b60dfe88b95d020"
+    },
+    {
+      "type": "Theme",
+      "name": "âme",
+      "id": "Theme_373c5b326206319a94755ce970d7c5d613b94f714d5e26f1bd4c06635bda703a"
+    },
+    {
+      "type": "Organization",
+      "name": "tech française",
+      "id": "Organization_9bd022e12821ed5db634850890a06a5b8a6ac57a941383662d14efb64384db99"
+    },
+    {
+      "type": "Organization",
+      "name": "industrie",
+      "id": "Organization_c29ab41786806ed3c65b3e25fbc6e013b5076108df9d3975b13e8138439d008f"
+    },
+    {
+      "type": "Organization",
+      "name": "nucléaire",
+      "id": "Organization_2238fdd0cc643ed2df39482621f0a8ba5dd9501e837d061ca2e4190db9b800da"
+    },
+    {
+      "type": "Organization",
+      "name": "baguette française",
+      "id": "Organization_8f008caa8a5da897d357d1c31482916787b7b14312dcd3a2a007e6c1b1ef3c06"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialiser",
+      "id": "Theme_950504beb4a0299f0249ef3cc77dd296f4a86890c62b1f5e15ebc8af4c6c9984"
+    },
+    {
+      "type": "Theme",
+      "name": "exporter",
+      "id": "Theme_141f512e7e7236476516dfbb81c11f629885803c64afbd0d1488576990a3b4b7"
+    },
+    {
+      "type": "Theme",
+      "name": "balance commerciale",
+      "id": "Theme_bbfff4b6058a131c1b31d6981b0274e8ef8f9d1af471e693ae9a09c7cbd1580d"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariats",
+      "id": "Theme_84487f85920a01eef370c99e7050da97326069387eeb01a99526c8b0243acd8d"
+    },
+    {
+      "type": "Theme",
+      "name": "projets d'investissement conjoints",
+      "id": "Theme_5353f17e79f7aa9bf214f42ed8b42aa49b4b8ff5e7d9b2307a21228a4d8725f3"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue stratégique post-IRA",
+      "id": "Theme_a0f98d29dd8a6520f2d4a76def41f485a3503646d234c1f744da653cd2a27bf8"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Theme",
+      "name": "tourisme",
+      "id": "Theme_6230ab46b903a54cbd735ffcdd8016d5b3ccadaf12ae9993a40cfa32b83e758f"
+    },
+    {
+      "type": "Person",
+      "name": "le premier conseil franco-américain d'affaires",
+      "id": "Person_4aba4339c5cbf9c427e4f951a123905ca7515e28731bf2f3dc4ac3c58a5c6bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "visas particuliers E1 et E2",
+      "id": "Theme_5787e5408ab0230804a9119128553159489f735740a0070e82fc459bd5a16946"
+    },
+    {
+      "type": "Organization",
+      "name": "nos communautés d'affaires",
+      "id": "Organization_2a5bd2e1354ae2db9c41dc675bc08d7a35205cc1fbf3467a33a1c172a3c75c93"
+    },
+    {
+      "type": "Organization",
+      "name": "nos administrations",
+      "id": "Organization_9d4fef90b09ae492723784c61273396e0c4da96c29ddd9f01686fe494882ce26"
+    },
+    {
+      "type": "Organization",
+      "name": "nos parlementaires",
+      "id": "Organization_1c8fc697ca5f3b665f0f02c597da57b1d89d69dc549ef639086d0a488e64c451"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "forêts",
+      "id": "Theme_1240508ec111d344871ee2eca4741bff873de4cefa7235aaf1e7b0be5524767e"
+    },
+    {
+      "type": "Theme",
+      "name": "financement des changements climatiques",
+      "id": "Theme_9af51241a11524d220923ecb89f1178ff44a5c98eb60d5a7af7406d2fea9b436"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "valeur",
+      "id": "Theme_5d2c6cf72920e0e1284fb097f9df226aa7b78ef0173abebfc6ba002b392f08fd"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Notre pays",
+      "relation": "MENTIONS",
+      "target": "emplois industriels",
+      "evidence": "Notre pays a recréé des emplois industriels.",
+      "confidence": 1.0,
+      "source_id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539",
+      "target_id": "Theme_560b9eaf9a55845d873a23b23f8e9d04b1dacdad027f1dfcab2f455adcab461a"
+    },
+    {
+      "source": "Notre pays",
+      "relation": "MENTIONS",
+      "target": "startups",
+      "evidence": "Notre pays est celui ces dernières années, où l'on crée le plus de startups, où on lève les plus gros tickets d'Europe et est redevenu, malgré les vicissitudes, le pays le plus attractif du continent européen ces trois dernières années.",
+      "confidence": 1.0,
+      "source_id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539",
+      "target_id": "Theme_b3fedf1927a7ff9f9b930ba12d4dcb168cbce6318c5601c66dc5821cf26b6a3d"
+    },
+    {
+      "source": "Etats-Unis d'Amérique",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "La convergence entre les Etats-Unis d'Amérique et la France et les autres Européens est clé à cet égard, et elle est réelle depuis le premier jour du conflit. Elle est extrêmement importante.",
+      "confidence": 1.0,
+      "source_id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Euzhan Palcy",
+      "relation": "MENTIONS",
+      "target": "cinéma",
+      "evidence": "Euzhan Palcy a reçu il y a quelques jours à nouveau une formidable reconnaissance du monde du cinéma américain et mondial",
+      "confidence": 1.0,
+      "source_id": "Person_b02131d60cf783c606dca9b02e7ee3fb986b39ca084f075316d75a0a7d62ff00",
+      "target_id": "Theme_1535a7883e8329d1216c195b6afd3d5bc6d95b6cba0353551bde9b1592e3fc37"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "investissements",
+      "evidence": "On veut avoir beaucoup plus de projets d'investissements. Je le disais, la France est le pays le plus attractif. On compte bien le rester. Et donc aidez-nous à avoir encore plus d'investissements américains sur le sol français et aidez-nous à développer encore plus d'investissements français et européens sur le sol américain dans lesquels vous pourrez justement donner des opportunités à vos enfants et vos amis.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "biodiversité",
+      "evidence": "et la France, dans les prochains mois, va tenir des sommets importants sur la biodiversité et les forêts au premier trimestre",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "forêts",
+      "evidence": "et la France, dans les prochains mois, va tenir des sommets importants sur la biodiversité et les forêts au premier trimestre",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_1240508ec111d344871ee2eca4741bff873de4cefa7235aaf1e7b0be5524767e"
+    }
+  ]
+}

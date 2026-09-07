@@ -1,0 +1,451 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "l'Elysée",
+      "id": "City_3eae2ad22a9341b8bf38bfebad3b2e5c05027e88193e4abae8bd3981a710e7e8"
+    },
+    {
+      "type": "Organization",
+      "name": "jury",
+      "id": "Organization_ec27d8bf2a35987d6b7112b20409c35cdfee53aabe33dab0b27d86cbb60486e9"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "laureats de cette exposition du Fabriqué en France",
+      "id": "Organization_3d7398fe747b96d78560bc61e423ed9ff59842b4c8d2b16f570332e8f70b75f7"
+    },
+    {
+      "type": "Event",
+      "name": "la première édition",
+      "id": "Event_7b2fc6c6d33f38678178865d9ace18d77e42e857dda434ca7cea8aa21e1387b7"
+    },
+    {
+      "type": "Event",
+      "name": "la pandémie",
+      "id": "Event_f42939bd930b1db7f96a26ce7cda475deeb02300ade6aa5004323a92078ea75a"
+    },
+    {
+      "type": "Country",
+      "name": "notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Elysée",
+      "id": "Organization_8ade91dd6d4855784bc162734bd4db917ec7c5c4ba5ee8105b1eff2671dc1666"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Bpifrance",
+      "id": "Organization_a9ccdc3b7703f243a8222d62576aea819b2390487b9cbaf2500a76a84e916f9b"
+    },
+    {
+      "type": "Organization",
+      "name": "plan de relance",
+      "id": "Organization_87f3f6dff2f97de8766dde130c158e23651f5c5bf6c91edc9543a70ae66396d8"
+    },
+    {
+      "type": "Theme",
+      "name": "engagements",
+      "id": "Theme_554a26aec35e81e580ab9d2c7687a8b8f68c677d4623a5bb7acc53a20b14ae5c"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir-faire",
+      "id": "Theme_e020add04380980015c543dc696b8b323483b7b82c6c387324d2986f12998c1a"
+    },
+    {
+      "type": "City",
+      "name": "Haute-Loire",
+      "id": "City_55a2907fe00fc18b34b1fef13d812f43df2926fddf2a82e9f8489eec44865f42"
+    },
+    {
+      "type": "City",
+      "name": "Cholet",
+      "id": "City_5f2caf84eb8be5a82e2bbd2d42b4d1044f91ee3e0ff3f7ca82e84fdf2700a00f"
+    },
+    {
+      "type": "City",
+      "name": "Haute-Vienne",
+      "id": "City_9e24c133141efe75ffff85a4af5f8fa1279d2365991eb293cf27a1e8397ca3fc"
+    },
+    {
+      "type": "Organization",
+      "name": "Toutenkamion",
+      "id": "Organization_db6680188ac5f91a651e239aa603623a1eb6294aa4ca6f23374b7eeb52d6b759"
+    },
+    {
+      "type": "Organization",
+      "name": "Martinique",
+      "id": "Organization_0f9f90133d0d801599c8e7e2f8aab3b3254c8878658d5f55a6723868598ae94e"
+    },
+    {
+      "type": "Organization",
+      "name": "Clément",
+      "id": "Organization_50907b43241314a0745ef9e17c14e75e802e51ab41942c5b38fb9ada48530837"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "Pequignet",
+      "id": "Organization_bac98119339a6df59cc71924633df8460e3fcbbb282d184a1ac3c9c4b5494e99"
+    },
+    {
+      "type": "Organization",
+      "name": "Mersen Boostec",
+      "id": "Organization_5b88fa171cf11a6852253fb2a08a3edd72a0e29ba55ce684e049675e1215e530"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir d'achat",
+      "id": "Theme_63effc12fc7fbc533757050c1218d45395229580f9c3bfcec7f32cb9090cc9f2"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité",
+      "id": "Theme_3ca1b64490b5262af08e9f6b9b23312ee1d75f2317299eb58ba6eb450eef6651"
+    },
+    {
+      "type": "Theme",
+      "name": "valeur ajoutée",
+      "id": "Theme_3fa6a49ecbd7d4386fc60e7e062fc99e0a9166eef8822f2e7690891386aeae4e"
+    },
+    {
+      "type": "Theme",
+      "name": "compétence",
+      "id": "Theme_aab181de6c1179cb760c70910101b5f79e69faf1747bbb6bfab21d1b452101fc"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "compagnonnage",
+      "id": "Theme_59cf487a9fecc29ca0c4d1a742e620051a849590ec324e8c9d56af4dca2106c3"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "production",
+      "id": "Theme_e8edecdd5abbd5917963b54df9936db4bdcba4f90bb9a98a9174725c74a9b1a4"
+    },
+    {
+      "type": "Theme",
+      "name": "patriotisme",
+      "id": "Theme_087acc9b6c0e8015662dfef66f194239c6c87d3b7a1bdb126f4aa128ad0c4225"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "autarcie",
+      "id": "Theme_4454b3c888257f2e6ec8d8a4b914c5d04342dec5d4b3fe0bee56c0302683ff25"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération choisie",
+      "id": "Theme_17b3dcd118b90addb1c61577da496500e4827cc2c4f2317273a397ba458570b5"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "économie circulaire",
+      "id": "Theme_c93a4be8fd3388cf648eb3a4d186c022f82f2a0a4b99d9e0f647327fa3be01a5"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction du coût carbone",
+      "id": "Theme_79d681712c4183970cc2f5f20c418b32d56fa940d7dea986528d6affd6b8302f"
+    },
+    {
+      "type": "Theme",
+      "name": "décroissance",
+      "id": "Theme_a506811afc5b531fb8ac259972bf41f7734022d294c3663ef55760825f312dc1"
+    },
+    {
+      "type": "Theme",
+      "name": "interdiction",
+      "id": "Theme_74dcdf25adfe34a2a7aa4c6ca66ded401553af8bc25c63bf2f0270dd0d2fe905"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois de qualité",
+      "id": "Theme_8d17306a979a0486fbdded1a9417a2e0e7c12f7b17b0beb9fd16c2f5966ec352"
+    },
+    {
+      "type": "Theme",
+      "name": "logistique",
+      "id": "Theme_b0840907ce02d2e2070f928f1de591cf6bed0600fe265dc6a5a7612bc61203ad"
+    },
+    {
+      "type": "Theme",
+      "name": "filières françaises",
+      "id": "Theme_a6965cdf999c0bb8d32a7a75d1a329e59ccf146d8c24ebf5c8bde215d1928847"
+    },
+    {
+      "type": "Theme",
+      "name": "producteurs",
+      "id": "Theme_4f2c37690bc04864304c8ff8b297ae290a8029c5df7b003f113ec01413f7562d"
+    },
+    {
+      "type": "Theme",
+      "name": "consommateurs",
+      "id": "Theme_0784ff60b7d9e8a405ef6505a999846a43b414da4b205540147ae3dfdeaa2ca0"
+    },
+    {
+      "type": "Theme",
+      "name": "fleurs françaises",
+      "id": "Theme_c7c1bd57371ee5286e4080ea7f1c94ec06c9f542db94910a18dc2ba548cfdb63"
+    },
+    {
+      "type": "Organization",
+      "name": "ARGENE",
+      "id": "Organization_22b105d6f37490aebca89282a16265672d89a5ef0ea890bf97f7fb9cf1b734cd"
+    },
+    {
+      "type": "City",
+      "name": "Ariège",
+      "id": "City_c44b99ce1cbbc6bcc970d79a663a0104c8aecbc02c9209824f96a76eefdaf5f5"
+    },
+    {
+      "type": "Theme",
+      "name": "Fabriqué en France",
+      "id": "Theme_44e284456bbd01e7ca448508cd5a2174d809c2a92e98a2c438856e864dde5088"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence",
+      "id": "Theme_ed714e04f0072912f37b05dc73e487727a8c579005e7b04f4ac05a26f6929b10"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "filière",
+      "id": "Theme_16360cf3c4c1acac392348248e1a0ee1b299df9fccfaba5966cb092cddab6831"
+    },
+    {
+      "type": "Theme",
+      "name": "caoutchouc",
+      "id": "Theme_94d7854c1ad159fd8daaf07b685866f762f71586051e2b24a25f9d2e193cb140"
+    },
+    {
+      "type": "Theme",
+      "name": "automobile",
+      "id": "Theme_0d8fe91ee5d13a11b2f8cdf024edbf4a4c18c1cf149667d4cbedfbc587eb7f9c"
+    },
+    {
+      "type": "Theme",
+      "name": "développement de l'emploi",
+      "id": "Theme_053512475f45590a7095f44f2e83e7e290a805271ead6f0db40ddca516efc444"
+    },
+    {
+      "type": "Theme",
+      "name": "création de CDI",
+      "id": "Theme_10dfc4cb92282aeadefe6b2ea8fd714b0dc853af7ecf9a6c3842b5374ac7ecfe"
+    },
+    {
+      "type": "Theme",
+      "name": "discours de défaite",
+      "id": "Theme_dcc76c27a055332a566cce93badac1e8e3150874ba0065e305bfb9978b738722"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit français",
+      "id": "Theme_d2580ac4c0269bfa8a8284cee54a4276bb58c02486be636f101d487efe558c2d"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "conquête du monde",
+      "id": "Theme_8a249a1e71be3557449501438abc013de157a2d39c165b70d33bac69cbc5404d"
+    },
+    {
+      "type": "Theme",
+      "name": "ancrage",
+      "id": "Theme_bd4f2d0c6d2bb008e06141b2decda4f4be08949dd04aeb132f443630a0e0b790"
+    },
+    {
+      "type": "Theme",
+      "name": "sens des valeurs",
+      "id": "Theme_b010bb060e82dae45ef740e22e7df286cc45973b9b7357843f8eda5f93d29cce"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme",
+      "id": "Theme_d10bce3b67531a6774cd57104a434124f2a796f10cbfff22bb37dbeba66cb515"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "salon made in France",
+      "id": "Organization_4ad351a210a7ddf209835e626990976d94f91f39bf483861d6e974d9c7b2ea94"
+    },
+    {
+      "type": "Organization",
+      "name": "CCI",
+      "id": "Organization_3332fa4b259ff242c849bf0f3bc9cc9af884414bb4f14734648e8a87776ee121"
+    },
+    {
+      "type": "Organization",
+      "name": "réseaux consulaires",
+      "id": "Organization_00dd3039c2cdea2976a9b881d222805ae6b583ba521391751241122db521acc2"
+    },
+    {
+      "type": "Organization",
+      "name": "EPV",
+      "id": "Organization_ce67c26bbf3c606af10428db9eb6ca63dc69fd216edaecd9e9cf00708447cccf"
+    },
+    {
+      "type": "Organization",
+      "name": "préfets",
+      "id": "Organization_de684efc2174ee3a7076db54d156af9c9f6f81205a168aca516bd643b128943f"
+    },
+    {
+      "type": "Organization",
+      "name": "entrepreneurs",
+      "id": "Organization_5a8502b360fb833d669beb83e59ed6be17864399aefdd49b308f6b111d37a6c1"
+    },
+    {
+      "type": "Organization",
+      "name": "entrepreneuses",
+      "id": "Organization_bf8c9c0786637a9da13dce0d8e0613ebc9a45a24fb72bcddbae3010fbdae72e0"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "ministres",
+      "relation": "MEMBER_OF",
+      "target": "jury",
+      "evidence": "remercier les membres du jury avec les ministres qui ont donné de leur temps",
+      "confidence": 1.0,
+      "source_id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52",
+      "target_id": "Organization_ec27d8bf2a35987d6b7112b20409c35cdfee53aabe33dab0b27d86cbb60486e9"
+    },
+    {
+      "source": "Bpifrance",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "Bpifrance, largement mobilisé aujourd'hui justement aussi aux côtés du jury et des entreprises présentes",
+      "confidence": 1.0,
+      "source_id": "Organization_a9ccdc3b7703f243a8222d62576aea819b2390487b9cbaf2500a76a84e916f9b",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Bpifrance",
+      "evidence": "Bpifrance, largement mobilisé aujourd'hui justement aussi aux côtés du jury et des entreprises présentes",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_a9ccdc3b7703f243a8222d62576aea819b2390487b9cbaf2500a76a84e916f9b"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "patriotisme",
+      "evidence": "Le fabriqué en France, c'est la vision d'un patriotisme conquérant",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_087acc9b6c0e8015662dfef66f194239c6c87d3b7a1bdb126f4aa128ad0c4225"
+    },
+    {
+      "source": "ARGENE",
+      "relation": "LOCATED_IN",
+      "target": "Ariège",
+      "evidence": "l'entreprise ARGENE en Ariège",
+      "confidence": 1.0,
+      "source_id": "Organization_22b105d6f37490aebca89282a16265672d89a5ef0ea890bf97f7fb9cf1b734cd",
+      "target_id": "City_c44b99ce1cbbc6bcc970d79a663a0104c8aecbc02c9209824f96a76eefdaf5f5"
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Services de l'État",
+      "id": "Organization_0e4c3b002b7e0b947f150ac5ade5255303027617ed7e319cef90365be1d32acb"
+    },
+    {
+      "type": "Organization",
+      "name": "Élus",
+      "id": "Organization_2a8112b51d960018957700054cee7823bd277e9fa862e3ed8cf1b64ea1800278"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "débat public",
+      "id": "Theme_e4961c27a31b14a49c5f38cf276348d71d30d6cd1e990ac0c3b8d11e8c939ef0"
+    },
+    {
+      "type": "Theme",
+      "name": "élections",
+      "id": "Theme_53c6f851145b388d937e8048a52ad1a92ded631ccdcd1d297c9ed87f0dd6d1ea"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le réchauffement climatique",
+      "id": "Theme_87fcffeb0b095d638b1ce229a807c21b51759f54208553ace6ac1f29815655a0"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "rénovation thermique des bâtiments",
+      "id": "Theme_a607b26899a05c104a66bdd076d5ac02bf0c2d323123b1ddd9dea9bfc249efd1"
+    },
+    {
+      "type": "Theme",
+      "name": "moyens de déplacement",
+      "id": "Theme_195723c3616baaae5fc67a3f1cc6bc400c8001872b70f463d1aa7b555881093b"
+    },
+    {
+      "type": "Theme",
+      "name": "artificialisation des sols",
+      "id": "Theme_39752edbbe1f059fcb90bc998a02a5818b639ee5f4794a978d28a28f36f8e0e3"
+    },
+    {
+      "type": "Theme",
+      "name": "usage unique du plastique",
+      "id": "Theme_f65b6f14790a28c351386646c248ca378c3cf6d9b389eb748e7623c02d76b5fd"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction de nos émissions de CO2",
+      "id": "Theme_48e070fae07ed782f715851885944e71983d80321d773a3700c1fbd33c664555"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de la biodiversité",
+      "id": "Theme_0d2dafdd5c5fb3db91b912ee5d42cc3feebacb37dc25720a19708674012c48aa"
+    },
+    {
+      "type": "Theme",
+      "name": "grand débat",
+      "id": "Theme_45777651cdae7b19bf5f433ab14149404b004f3e4649634fe4983001a0d6c8ca"
+    },
+    {
+      "type": "Theme",
+      "name": "impôt sur le revenu",
+      "id": "Theme_14e17d265b9f8432182b053ff441c3c4044e27475a78f4abc2c9aea1abc13fbc"
+    },
+    {
+      "type": "Theme",
+      "name": "Maisons France Services",
+      "id": "Theme_abb8f7258c1012d4dc2a555c8ea2b9b6627f3a853971b8d89b69953bfc86a924"
+    },
+    {
+      "type": "Theme",
+      "name": "sous-préfectures",
+      "id": "Theme_052eb6d54a39e3839f1414fc3dcc7c4f5ce77dc8a7f8e5780203c5900f83991d"
+    },
+    {
+      "type": "Theme",
+      "name": "petites lignes de chemin de fer",
+      "id": "Theme_ac502b93a6b391608e038ba37a85fd131bd4a7a770f4672dbaa8f87a530077cb"
+    },
+    {
+      "type": "Theme",
+      "name": "familles monoparentales",
+      "id": "Theme_d37db9d169d343c5fcec346140991d76a4af11612b8abe22483a032fd6b309e7"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil national de la refondation",
+      "id": "Organization_82eba171cc2f6c080e4b3ced9059f9da8f0a146cc9c1e8f5ce0611423002b79f"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "forces syndicales",
+      "id": "Organization_6f695d6d073f1dd07c796132e60b7c0611cae26d5df7357534ee6838b3e690e7"
+    },
+    {
+      "type": "Organization",
+      "name": "forces politiques",
+      "id": "Organization_6b78e3d66c7462eefce73641dc0590e3d5f6cfc9cfdf9ca1170e25dafa9f75e8"
+    },
+    {
+      "type": "Organization",
+      "name": "associations d'élus",
+      "id": "Organization_9b3d4303966aaf6931eb132d712233798153bea7ff297ec31501d1ac412aa91d"
+    },
+    {
+      "type": "Organization",
+      "name": "forces vives de la société",
+      "id": "Organization_b5e3495f4c943e1ff388877b293fbebc49a2b91db2c630432321b83d4fe00d43"
+    },
+    {
+      "type": "Organization",
+      "name": "ONG",
+      "id": "Organization_3e1586cef038ea96d5ab3c5a2d6496c339bffcc013fa18af180a38657091796f"
+    },
+    {
+      "type": "Organization",
+      "name": "chambres",
+      "id": "Organization_3f3fe42d32a415900e3daf8fc21422bc786b2b73f032d0001d6e8ffb03e51ce0"
+    },
+    {
+      "type": "Organization",
+      "name": "Plan",
+      "id": "Organization_adb46b20cec7f324af71e4744f7bbe0f12092fc3dc518be5a13d0445cdc982d5"
+    },
+    {
+      "type": "Theme",
+      "name": "faits",
+      "id": "Theme_88cb5c9d48b70b281661aa194e12b285035f7f71c557892bfd2a2cb00233ef87"
+    },
+    {
+      "type": "Theme",
+      "name": "situation du pays sur le plan économique, social, en termes de climat, de biodiversité, d'inégalités",
+      "id": "Theme_7368c40a90063f6a150bb2b776f3bd7e767ed216672e247622134f9f0fd144b2"
+    },
+    {
+      "type": "Theme",
+      "name": "consensus",
+      "id": "Theme_6bef32d603c8e354337a4b76bc89d9db5807ec9d9dd1900c8584ffabca9d2f41"
+    },
+    {
+      "type": "Theme",
+      "name": "désaccords",
+      "id": "Theme_6aa7b04e0c05e71fe44af117846f5191f911c4cc915763a40ffa5860fe5853ef"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "transition",
+      "id": "Theme_e63e6ab1512da86e741fe3d7ec082523f6b684c749eb3aef27e0dfd412c0a6b6"
+    },
+    {
+      "type": "Theme",
+      "name": "transition productive",
+      "id": "Theme_09a8fb4294d809aa2eafd9d16dc969c95739fbfd77f386a6b7d397f920a3101c"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle social",
+      "id": "Theme_84e716fb96d816e1a7cec10303220f68a6aaf5c7e5b53934555aa33e88fc517d"
+    },
+    {
+      "type": "Theme",
+      "name": "transition climatique",
+      "id": "Theme_e75feae75fc3fc33a1090e46506e630bfc0c68d201d672aba551e5a19141a63a"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "transition démographique",
+      "id": "Theme_5a223223630b9625f9a9d92d2745994fae863df10e378083408789e55b1d0d23"
+    },
+    {
+      "type": "Theme",
+      "name": "vieillissement de la population",
+      "id": "Theme_d891dc6a43299ee63b11e5205aa2d267cffc6dd1fba1896851f07f307f5e78ab"
+    },
+    {
+      "type": "Theme",
+      "name": "transition numérique",
+      "id": "Theme_e0a76a48c21ea818fd9ce341506e55efda05bd398e6515f7f291fa137dc24d00"
+    },
+    {
+      "type": "Theme",
+      "name": "comportement",
+      "id": "Theme_d8bfaed68f29b7e005e70ca9d68630fce5fb89648c6fbc40e047f7b4f6c8c7eb"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation de notre production",
+      "id": "Theme_043fe41ef0656796be81002e71525ae62ca1ca6904f9fa59c8aebc3aafea5835"
+    },
+    {
+      "type": "Theme",
+      "name": "transition du travail",
+      "id": "Theme_4906804430f281d2d7a02cc93f9f829739241ed32180c4599a64754dbd5bef51"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "école",
+      "id": "Theme_e4023600e045c977a775d339830e8508634d36394f9b8486f09d01cdd3b05e6b"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "démographie",
+      "id": "Theme_69e2141ba394337f9d0dd9609b4acc190997a81473105a6e5ff07f619beeae4c"
+    },
+    {
+      "type": "Theme",
+      "name": "vieillissement",
+      "id": "Theme_6e04ac07e6d70fdfdd12b303eb1c69193771ae51e798bb847501f3ff2e512197"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Theme",
+      "name": "Conseil national de la refondation",
+      "id": "Theme_fadcb5d2565d18fe32e5c26fd562034585c0fa72734b5c921424ce5637c29bf3"
+    },
+    {
+      "type": "Theme",
+      "name": "refondation",
+      "id": "Theme_77f52f9a94df7b14cffe3784911589107317c54ec7d6127ec1cc1495c5ea5075"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses pédagogiques",
+      "id": "Theme_60288dde92e310c36b188d80641baf9ac72a8b37a853adab9ccfb88df9df55cb"
+    },
+    {
+      "type": "Organization",
+      "name": "administration",
+      "id": "Organization_de755aed002a3c987b3f78b3c66d241020c9a308b87afdc8e84e60816316224d"
+    },
+    {
+      "type": "Organization",
+      "name": "rectorats",
+      "id": "Organization_76e9264166a7eea7533618884d19adb370ceba9a26206a241fb17df72598ba67"
+    },
+    {
+      "type": "Organization",
+      "name": "administration centrale",
+      "id": "Organization_e3066963cf144479b1e2a1f062d9624cf4475f5a44e74140e20938a768e81c0f"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Theme",
+      "name": "changement",
+      "id": "Theme_9cbd2940971cb3818b27107e1516d6b75fd81b314ac194ecdd6122f84d5d454a"
+    },
+    {
+      "type": "Theme",
+      "name": "financements",
+      "id": "Theme_f5b16af1090bbb07202f52148fe77da568c0b0d74e40c85c9e6976adf7133cf5"
+    },
+    {
+      "type": "Theme",
+      "name": "urgences",
+      "id": "Theme_55f3b2f16fa26f3e98c9cce91e25cbf1500141c0784cb67043d43751bc2c3521"
+    },
+    {
+      "type": "Theme",
+      "name": "hôpital",
+      "id": "Theme_d420f2bb9f5a09610e3b110f4c52800854e6b339d3213f84c5834a8537d4a774"
+    },
+    {
+      "type": "Theme",
+      "name": "déserts médicaux",
+      "id": "Theme_90235477061eda83e182f329c6c2f9f2ccbe44c4d3105adcad5a33997cc61177"
+    },
+    {
+      "type": "Theme",
+      "name": "moyens",
+      "id": "Theme_f93c94428a89608982dc63333411fda610bd8010d778906c19788a577d156d43"
+    },
+    {
+      "type": "Theme",
+      "name": "terrain",
+      "id": "Theme_ffd9b963d6da27c525c7b854044f9ef0b51768fe89403a7b7afb1d13078b07ea"
+    },
+    {
+      "type": "Theme",
+      "name": "professionnels de santé",
+      "id": "Theme_069122b31fe7967ec27c378e62e04ae04bc32a49e10f37d443455d70bd428bc0"
+    },
+    {
+      "type": "Theme",
+      "name": "soignants",
+      "id": "Theme_b13cc9fc05c4812442eb32d6a982fae92924d3c9b59d27a4783a0b9569fa04a8"
+    },
+    {
+      "type": "Theme",
+      "name": "paramédicaux",
+      "id": "Theme_9f57501e65f208e708f6954cad3e0cf5b1d2d9315ac76ff3b21aee5390be5589"
+    },
+    {
+      "type": "Theme",
+      "name": "associations",
+      "id": "Theme_ba784fb43b994117eb1ae0415261deea69166fb8bcdf66cb084dfc838d7b5c36"
+    },
+    {
+      "type": "Theme",
+      "name": "élus",
+      "id": "Theme_f113fc009d13bd82f33ae7e561fc0eb471b92d27c763d54b74cfb9efcf86aac9"
+    },
+    {
+      "type": "Theme",
+      "name": "patients",
+      "id": "Theme_7127ee4010bfc97fc8ad37f59a1725a213bfb779416926f28602667c2f5c89d1"
+    },
+    {
+      "type": "Theme",
+      "name": "étudiants",
+      "id": "Theme_5a6dea4ce3005b04f54c86246d8370c481bfd768371a72c32f25a07ebf220efd"
+    },
+    {
+      "type": "Theme",
+      "name": "chef-lieu voisin",
+      "id": "Theme_8c9aa6b7686f2558cacb348a354cf014b815b4aeffb431f25d54654015876a22"
+    },
+    {
+      "type": "Theme",
+      "name": "capitale régionale",
+      "id": "Theme_f96042484ea966aca9c27382815bd10db72e471bb0876189b072bd9c44d43fca"
+    },
+    {
+      "type": "Theme",
+      "name": "libéraux",
+      "id": "Theme_cd883969f4aca06596d3b559d9946616371fb477f7932c131596c00b4d346bac"
+    },
+    {
+      "type": "Person",
+      "name": "les acteurs",
+      "id": "Person_85772517057717251460893c9840a78ed380dc78aabdc72fbb33600dfbd95b9b"
+    },
+    {
+      "type": "Organization",
+      "name": "nos agences régionales de santé",
+      "id": "Organization_7f89c19db6e5735d9e9a49d8626a6980192e91c166c33ca0abf8a3fbfdc083ea"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Theme",
+      "name": "besoins sur le territoire",
+      "id": "Theme_c9d1d9d5432d2da4b7b5979d40a7af278a8be74c0e3a9dd2bb6fb2bdefa1aa66"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses très différenciées",
+      "id": "Theme_2bef51723b345e1857aacc293e74d211c6019fc8fcb93ab3af896c9e26e3dc03"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvement de transformation dans nos hôpitaux",
+      "id": "Theme_09057a69732304b70ac23c429a5e702039f75117d0debaec8f824e638c884591"
+    },
+    {
+      "type": "Theme",
+      "name": "redonner le pouvoir au niveau du service",
+      "id": "Theme_afa692c84ec45e116fd814e35ae0cb37c27e272c9fe03fdfe3cb5e9ddf200c5b"
+    },
+    {
+      "type": "Theme",
+      "name": "plus de responsabilité aux soignants",
+      "id": "Theme_1b77cd590c74e80f1b2e7ceb5ff6110abfaef136042021310f1d6cecf364fec6"
+    },
+    {
+      "type": "Theme",
+      "name": "révolutions de l'école",
+      "id": "Theme_0dfb79aab119b8547e1762a4d6a4eb1b0d20c19d8f17580c3267594695eeaaaa"
+    },
+    {
+      "type": "Theme",
+      "name": "Notre école et notre santé",
+      "id": "Theme_0413e1a24815e55ae561ec86d8daee7711f1faed262bd9b21e1caf5f3e1d5162"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "démocratie",
+      "relation": "MENTIONS",
+      "target": "démocratie",
+      "evidence": "dans notre démocratie quelque chose qui au fond n’est pas totalement abouti",
+      "confidence": 1.0,
+      "source_id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd",
+      "target_id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "source": "débat public",
+      "relation": "MENTIONS",
+      "target": "débat public",
+      "evidence": "le débat public, et nous l'avons vu lors des dernières élections",
+      "confidence": 1.0,
+      "source_id": "Theme_e4961c27a31b14a49c5f38cf276348d71d30d6cd1e990ac0c3b8d11e8c939ef0",
+      "target_id": "Theme_e4961c27a31b14a49c5f38cf276348d71d30d6cd1e990ac0c3b8d11e8c939ef0"
+    },
+    {
+      "source": "élections",
+      "relation": "MENTIONS",
+      "target": "élections",
+      "evidence": "lors des dernières élections",
+      "confidence": 1.0,
+      "source_id": "Theme_53c6f851145b388d937e8048a52ad1a92ded631ccdcd1d297c9ed87f0dd6d1ea",
+      "target_id": "Theme_53c6f851145b388d937e8048a52ad1a92ded631ccdcd1d297c9ed87f0dd6d1ea"
+    }
+  ]
+}

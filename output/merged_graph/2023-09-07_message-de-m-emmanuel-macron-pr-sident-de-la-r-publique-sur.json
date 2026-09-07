@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Iohannis",
+      "id": "Person_fdbba5546892d7c9200d37fe5920863be1b577df4eca4e048af712463af1dc8a"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "City",
+      "name": "Bucarest",
+      "id": "City_a4add7413cdba306715cb8d7cf729fb1c2e843ed93a2071c9790e03073280ca1"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "Initiative des Trois Mers",
+      "id": "Organization_8f3e661ed186df542eafb454cbe397ab113d115a240e4bcc22269e36cac0f2ae"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaires d'État",
+      "id": "Organization_8e1c30d7292f37306d79d2962f39e05a81c9565675fd36c8251619de54d5d4ca"
+    },
+    {
+      "type": "Organization",
+      "name": "institutions financières internationales et régionales",
+      "id": "Organization_2e33150d992d3d2d25007285fa2ce3720574f2a045f2ece0348ae62626ca0f14"
+    },
+    {
+      "type": "Organization",
+      "name": "Agenda de Versailles",
+      "id": "Organization_cd244459c91221791f81c27ff7ca16093c537462eb919b59abf513dc54a62679"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Theme",
+      "name": "développement des énergies renouvelables",
+      "id": "Theme_9bacd7b40c224ee0e95d905485d8674be710c4e7d2dae2306fe02d27fdecc9eb"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "filière hydrogène",
+      "id": "Theme_bac24b42dde03b2b06e8f50f7d039147d0eba89d1d91e5e426cbae5b2e2d2449"
+    },
+    {
+      "type": "Theme",
+      "name": "construction de capacités de stockage électrique",
+      "id": "Theme_477b3f6461867673943fbc95bf8ed0f5f76a3a958e9dec9a1e6a7cc33a447e70"
+    },
+    {
+      "type": "Theme",
+      "name": "digitalisation des réseaux de transmission",
+      "id": "Theme_eedadf9a450c2b5bf2e4c4eb87c8225b55ea0d64e8801e2e92643ee20b11cff5"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Union européenne",
+      "relation": "SUPPORTS",
+      "target": "Initiative des Trois Mers",
+      "evidence": "Il est important que l'Initiative des Trois Mers s'inscrive pleinement dans les objectifs que s'est fixée l'Union européenne et puisse constituer un levier supplémentaire, au travers des projets soutenus, afin de relever ces défis de la transition climatique, énergétique et numérique.",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Organization_8f3e661ed186df542eafb454cbe397ab113d115a240e4bcc22269e36cac0f2ae"
+    }
+  ]
+}

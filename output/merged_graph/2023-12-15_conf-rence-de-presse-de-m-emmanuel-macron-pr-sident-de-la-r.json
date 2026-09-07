@@ -1,0 +1,910 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Elia Toledano",
+      "id": "Person_d051b8f596daf75b942efe3bda5c3a8754092f8cfde2e9003e922dbf7e55a04c"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "Hamas",
+      "id": "Organization_5b6d0f92f49aab219651139d5508991f2fc27fd6b9372da1329d20e55cce795d"
+    },
+    {
+      "type": "Event",
+      "name": "Conseil européen",
+      "id": "Event_f6b4f74a61ab568661381726f0f0d902d89dd9d9b5451a72f8c23ec06d82641f"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Moldavie",
+      "id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    },
+    {
+      "type": "Country",
+      "name": "Bosnie-Herzégovine",
+      "id": "Country_ee09eb61c43bcafaabb66781d6b07da485be52fe58acd536caa36130e10d92d3"
+    },
+    {
+      "type": "Country",
+      "name": "Géorgie",
+      "id": "Country_a38e53f25dc17ba56e34f25dac0bd1320cab5e1847a90b817b7fc11f35777b75"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil européen",
+      "id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de l'Union européenne",
+      "id": "Organization_0f747165c9521ca8f0bd2bc016ae4f2fc3c2e5412c2fd372afe073d26a89b3c4"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe élargie",
+      "id": "Theme_2dc4c8b968ce7873b5875232afe7bc14af94a65c3e36f171a2ce8a37d0bdeaa2"
+    },
+    {
+      "type": "Country",
+      "name": "Hongrie",
+      "id": "Country_bda46faa77361ae198107f51212ef1953770a2e61d32ec39881204c04aa0bda3"
+    },
+    {
+      "type": "Theme",
+      "name": "paquet asile migration",
+      "id": "Theme_dbbccd3864a5207702b5c59594187d4b9f00590ad0d65412bea84033fbaf2240"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien à l'Ukraine",
+      "id": "Theme_9285b9eff6dee59058b442137ef16d66cf8db40262fba4733becd769ddae634e"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "migration",
+      "id": "Theme_01a5c75184775cff4173ec0fbbc450fb35e1b7e33254192f0b79aede45c55a7a"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "droit international",
+      "id": "Theme_5ed1c962a2e6badfcec01090455d807b7559f5af1344fea3604e0c342da4d8f1"
+    },
+    {
+      "type": "Theme",
+      "name": "droit humanitaire",
+      "id": "Theme_56ecab10fd00ebb2ad40c78f28d342d9062fce6188923330c65516c20bbde3ee"
+    },
+    {
+      "type": "Theme",
+      "name": "Hamas",
+      "id": "Theme_1b1eca03664fa0e5f29c8962630e72f0f657d19950744ae3eebdbd4c25bef862"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme",
+      "id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "type": "Theme",
+      "name": "otages",
+      "id": "Theme_9016d06ca4c5fb13236611b2b050f7f268c4f7b3656ad7aaa66451e7c6e4c594"
+    },
+    {
+      "type": "Theme",
+      "name": "initiative de paix et de sécurité",
+      "id": "Theme_137756b5b7befaabf7a608793d28ea6d6efb453d48f068f45cdd483f9ef48b57"
+    },
+    {
+      "type": "Theme",
+      "name": "détroit d'Ormuz",
+      "id": "Theme_03a892634473c5e3b8b98dd5d005b1b1c0220356fd21e8d6d18fee776a6d7c0a"
+    },
+    {
+      "type": "Theme",
+      "name": "Mer Rouge",
+      "id": "Theme_a1b72fdcd734a5d35ab95be93e58c5536678f124fb8918b9d9283fbffc7e7e40"
+    },
+    {
+      "type": "Country",
+      "name": "Hamas",
+      "id": "Country_664ba06f90f7d7b4b326982afebee134092d48624510c1de058deb1ef0567bc3"
+    },
+    {
+      "type": "Country",
+      "name": "Houthi",
+      "id": "Country_5463322b98a54da70b3a94fadfb83ea00969cebe156b5ee03c9a68fff51580a5"
+    },
+    {
+      "type": "Organization",
+      "name": "Marine française",
+      "id": "Organization_591c05560ee25e290d5c1b8e3e74c22cfdf45ec983e6daeda09b8a3dc6e463d8"
+    },
+    {
+      "type": "Organization",
+      "name": "Haut représentant",
+      "id": "Organization_a8d607b6a976a7f402878d99f8ed55e28b18a415b34c2118c54b41c98bfa7c0a"
+    },
+    {
+      "type": "Person",
+      "name": "nos forces",
+      "id": "Person_66ea8b7ff6552ffcc0c8c878d2d0433fa0dd12bf04da0fa569bc8103cd0f17ca"
+    },
+    {
+      "type": "Country",
+      "name": "Jordanie",
+      "id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad"
+    },
+    {
+      "type": "Organization",
+      "name": "initiative française",
+      "id": "Organization_9c358eafab020efc710e4ad0d3716bd9bd969a3c7672147f90350a6fdbec4020"
+    },
+    {
+      "type": "Organization",
+      "name": "UNRWA",
+      "id": "Organization_666b5c6e7e99d707e9bb51e53458f2bc1b0520f6213165f59e4bc2be4c794d90"
+    },
+    {
+      "type": "City",
+      "name": "Dixmude",
+      "id": "City_2ea331afa98a44d59999c6e7efce3b4bb1f4245df0adfbff5daa02e3c499ff3f"
+    },
+    {
+      "type": "Country",
+      "name": "Egypt",
+      "id": "Country_355990e2e13e99b32c866e97fa0c335ddda6959ea86db963f3c2e43df00f65c8"
+    },
+    {
+      "type": "Country",
+      "name": "Jordan",
+      "id": "Country_4c4d2fd24ca3f7a3d4c1d84bc9d6a94f93db37b6319716d71c8222377bf10a86"
+    },
+    {
+      "type": "Country",
+      "name": "Qatar",
+      "id": "Country_e5da689c325f619f1d122e0f9316e196ec475beef981feeb9a11d61cf1162518"
+    },
+    {
+      "type": "Organization",
+      "name": "la région",
+      "id": "Organization_7cc139ce07dd74730da06dde682ac092bf242bfd13769d63e7875993317a9b0c"
+    },
+    {
+      "type": "Organization",
+      "name": "l'agenda de Versailles",
+      "id": "Organization_9c3abc5641595ab6c8bb899a643763e047ef66fa1a240396e02f50245557e09f"
+    },
+    {
+      "type": "Organization",
+      "name": "la boussole stratégique",
+      "id": "Organization_e9c6760fb39a12e162a2f9c1a021987767314fb5a3682523b117637174cd6bef"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie industrielle de défense européenne",
+      "id": "Theme_f6eeb10af650af5b32582238269eef259b2b197e783962d006bac1a42f466c6f"
+    },
+    {
+      "type": "Theme",
+      "name": "programme européen d'investissement de défense",
+      "id": "Theme_489e985b437f6c1139be7d38b5262b61bb55ad7b7ccc1360c3b318921393d108"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence européenne",
+      "id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "type": "Theme",
+      "name": "acquisitions conjointes",
+      "id": "Theme_8b52f146098c9f8699e16868e0cbb2f0670a5f9f21e1bf7d6667811fbe4fbc6b"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations",
+      "id": "Theme_cac93d346afb10556cd477074f8fd5e7de6a6b6e234704cdc92ccd1aae71876c"
+    },
+    {
+      "type": "Theme",
+      "name": "franchissements irréguliers des frontières de l'Union européenne",
+      "id": "Theme_e6d7553e1fb786e237cc9ecad5928b2a08058dd68d93aed0f6125c7f89320a30"
+    },
+    {
+      "type": "Theme",
+      "name": "demandes d'asile",
+      "id": "Theme_10182878b8869b36327e552b0bff982911212a3d9bdbaf041bfab3dfb5e43d91"
+    },
+    {
+      "type": "Theme",
+      "name": "débats nationaux",
+      "id": "Theme_4a7623c27afe74829b8ab9a493f7f7a4f73afd1619cc7eab1a0d2ede03fc1bc5"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration",
+      "id": "Theme_56ec1521640ee7901aceb6075eed1a37e2a9c16262cd4f911266166ee5562133"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte asile et immigration",
+      "id": "Theme_a9adc8a9cc20c9648e4dba30087c249318358adc9161b7e071ae90f33edce03b"
+    },
+    {
+      "type": "Theme",
+      "name": "politique",
+      "id": "Theme_1cb4f0bce716a6b484eef837bedaa9ad546521428b441b7a4baa167af1dc28bc"
+    },
+    {
+      "type": "Theme",
+      "name": "flux",
+      "id": "Theme_01a5ab1f1ea9f4fb0bd10b310ab582a45ca34c636f7e05227c93b655ae894faf"
+    },
+    {
+      "type": "Theme",
+      "name": "personnes",
+      "id": "Theme_f9223d5d44531d26b676e50cc0c81abc9533202a1da3b402c2a4c24d26b895e3"
+    },
+    {
+      "type": "Theme",
+      "name": "retour",
+      "id": "Theme_b062048f240d11bf37385422fea4ac6559e6884490a0b7971cec1542ebf8472c"
+    },
+    {
+      "type": "Country",
+      "name": "Tunisie",
+      "id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "type": "Country",
+      "name": "Égypte",
+      "id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "type": "Organization",
+      "name": "Union",
+      "id": "Organization_c5e6111e2f8f6f0562a02b73ac74432a5ad7b8c26582b37eb43d1209716aa442"
+    },
+    {
+      "type": "Organization",
+      "name": "Institutions européennes",
+      "id": "Organization_38b4ed56e5e512930e7674f67e546a02e96305e9f6339846df0433435c533235"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "Pacte vert",
+      "id": "Theme_a4de949c56bba5859977ad02094f6337390f627da595817042c6df2e1d0bb842"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Event",
+      "name": "COP 28",
+      "id": "Event_8a96eccdc1196c73060675c3bb15fbcf8ee04fb96334ec543ea748d3bbe3b1b9"
+    },
+    {
+      "type": "City",
+      "name": "Dubaï",
+      "id": "City_ababa2aadb9a2b164595fb94f7aee6c193e50e0a989e54ede0b17014ca945fb5"
+    },
+    {
+      "type": "Theme",
+      "name": "sortie des énergies fossiles",
+      "id": "Theme_e5d885eaeeef7a128cef6bddd844136b94eb44a1be1d7d8068e9a2b61bff67aa"
+    },
+    {
+      "type": "Theme",
+      "name": "charbon",
+      "id": "Theme_548bb5ce8df69ec8043411bf054457e539ac5bba47798110164f1896a83f7cd8"
+    },
+    {
+      "type": "Theme",
+      "name": "pétrole",
+      "id": "Theme_3260ac0f04251087e1b398b0d2bf276cec225dfc5f0db44e9872e55badaa7627"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz",
+      "id": "Theme_23c772ec8e48db56d58d61be20b92c8c3f24d744a200ab1b8ff2005eef4b1e48"
+    },
+    {
+      "type": "Theme",
+      "name": "augmentation de nos capacités de renouvelables et de nucléaire",
+      "id": "Theme_1832a1e96dd47dab094a046e2bf55619dbeb1b4ca84d1f88ac4fd3407f89d798"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie énergétique",
+      "id": "Theme_95ba507f1c4133b084eadafe25b1b0ac52a23f3bd126450bac5c35205a24f288"
+    },
+    {
+      "type": "Person",
+      "name": "Viktor ORBAN",
+      "id": "Person_2b34948d035a10190e4e39fb301751eefe11f1cea31616d1118468fe7c79587a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "ORBAN",
+      "id": "Person_7da59bcc46bce5361009a1668f91866b29bcac4188fac1b5dd306794c3f69d04"
+    },
+    {
+      "type": "Theme",
+      "name": "avancées politiques",
+      "id": "Theme_26da84a3d74fca204f256ab4c61a376808b2e437b0f0ffa9d6641c1dcd2a0d56"
+    },
+    {
+      "type": "Theme",
+      "name": "budget",
+      "id": "Theme_476c75e33f21fc15bc5588b5d07c657897da27f908716f5af56abf04963f337c"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêts stratégiques",
+      "id": "Theme_0dc61ae09e0d2d4ff74fd05f6c52efb32347375dff180fa9dc77c3ee3e36e371"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "textes constitutifs",
+      "id": "Theme_8ad9b7c482ee31937f61426cb7d26b8beff6d1de2da53941dce116d073b4a2f1"
+    },
+    {
+      "type": "Person",
+      "name": "MERKEL",
+      "id": "Person_11ad4e67ef3a2e4b330ebc39970509630c2fce5702d04790e6328b02bf6b451d"
+    },
+    {
+      "type": "Theme",
+      "name": "vertu du dialogue",
+      "id": "Theme_d4d52a46e692b29b51d53fd64e42667908a57f768b86d9e66bf7886f8d749825"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de responsabilité",
+      "id": "Theme_e70b57dd3fd93b3f3d6cd80a8d61bf0ce65e9eaa76aae7eae8397728c4359455"
+    },
+    {
+      "type": "Theme",
+      "name": "divergences de vues",
+      "id": "Theme_1f8c3d942c891f942ea3b7d11c05302112a4024ef87049378998a96ac6894c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "discussions de fond",
+      "id": "Theme_43862bc15ebeee88785488b8fcf3183580b8b68580fc353a5407cf20b29dc1a5"
+    },
+    {
+      "type": "Theme",
+      "name": "rapport de la Commission européenne",
+      "id": "Theme_650958ff7c2d1fe7df47f8a0d5b77e25afa98b94efc619d06b4bd440d75b0bb0"
+    },
+    {
+      "type": "Organization",
+      "name": "la présidence du Conseil",
+      "id": "Organization_41e1fd02f0ac6e70347e8e521d285fe697166aa78e7cea0248767e90f09d1dcd"
+    },
+    {
+      "type": "Organization",
+      "name": "la Commission",
+      "id": "Organization_99e9e0c6dabbe98de51a6718fcdaa4dee9d73e201e37cf2658b0ba93b17a9320"
+    },
+    {
+      "type": "Person",
+      "name": "Vladimir POUTINE",
+      "id": "Person_ba07bc360f6d694c7c43cab878adc061217ec2b08d23eedefe4d5e2a082ef89c"
+    },
+    {
+      "type": "Person",
+      "name": "Poutine",
+      "id": "Person_cd18bc7f49bb7d64b17bcbd894d6a8752a9076a00deeefdb299e52309a31d8e5"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Law",
+      "name": "article 49.3",
+      "id": "Law_a032f96456aa7ac8b7e4db31a4cf6c8e176e84384a3be11fd62657836fa8c232"
+    },
+    {
+      "type": "Theme",
+      "name": "loi immigration",
+      "id": "Theme_fb62553ecd8e6b3f1101110be6dc9df150a5863df5821892bd2ce6357cb758b0"
+    },
+    {
+      "type": "Theme",
+      "name": "contexte",
+      "id": "Theme_c112533bf7c012ebc666cc48681d138894427fe94f8808a4cc2fb23bb6f86231"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Denis",
+      "id": "City_acf9929591513d125b5101d62125f4ef879ee32404b222f6f37eb40e3766657e"
+    },
+    {
+      "type": "Organization",
+      "name": "La France Insoumise",
+      "id": "Organization_8ff0e5cff05d66c41677ad125127a6242083140dac7aaa1bb96e510da2a30b97"
+    },
+    {
+      "type": "Organization",
+      "name": "Rassemblement national",
+      "id": "Organization_b6bbc269d39949f0e9d15a2b164366674f31ac973cb66d82d7826ba68012b9f0"
+    },
+    {
+      "type": "Organization",
+      "name": "Parti socialiste",
+      "id": "Organization_ac7333c2983e1a13d83736e0e64c16b8ea7b660f786be2d3f5ce9e71bc05f5d2"
+    },
+    {
+      "type": "Organization",
+      "name": "Les Républicains",
+      "id": "Organization_ac3f716b8453b6a51aaa7e25ff7d70ae3ddaae22143a044d938cbbb7a1156ce7"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration illégale",
+      "id": "Theme_c5cd078fa0f1ea1fd30498ed7b15d726ec99038ad9baa48a38eb410d226ad042"
+    },
+    {
+      "type": "Theme",
+      "name": "trafiquants",
+      "id": "Theme_a0317ccde936cb854608f0d5d5fa033cc82670477f9c1c26604c6e01ef5301fb"
+    },
+    {
+      "type": "Theme",
+      "name": "misère",
+      "id": "Theme_e5fe8aa4113e8afa8c41be65477328f8742799cae67cc0603b7f0d9c9ec84bd9"
+    },
+    {
+      "type": "Person",
+      "name": "Première ministre",
+      "id": "Person_9ff0e19887e4e2b35684ac675f8d2d31181408c695aaac854cf451fc260b4b47"
+    },
+    {
+      "type": "Person",
+      "name": "ministre de l'Intérieur",
+      "id": "Person_0d5830ce010b09a893018977c517ee33baca96610b7d2f80003b744b76230d9b"
+    },
+    {
+      "type": "Organization",
+      "name": "forces",
+      "id": "Organization_ad3535ca2e930c9a0af99489f1c1eda5ecf66906f8f7a9dece4145bb18b66efb"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "majorité",
+      "id": "Organization_58fd1a72a1ccd4574f5bf9ada4a868dcf464a6eea77cf06d3508abb210b1503e"
+    },
+    {
+      "type": "Organization",
+      "name": "forces d'opposition",
+      "id": "Organization_96cb48f1c1fb286403a46c4a172ab91fa85295b2eca180e78c5b25abe98418b6"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de nos frontières extérieures",
+      "id": "Theme_b92a4c62ed13c2f9fb27b4755eaf75545c73fa346b2c620f86bab23edcf713a6"
+    },
+    {
+      "type": "Theme",
+      "name": "lien avec les pays d'origine et de transit",
+      "id": "Theme_1fe9e1dacab3c2d8d159836d46576da83e33c4c6855748a7dba5ad890c2dfc9d"
+    },
+    {
+      "type": "Theme",
+      "name": "règles plus rigoureuses",
+      "id": "Theme_c680b67972ddd4d7ddb1a6ab324c125e61a5b007d95d964600fd07f553c44650"
+    },
+    {
+      "type": "Theme",
+      "name": "veto",
+      "id": "Theme_55e8e6e54ee58aaa5b8d0f3ea2fb07101e134fad124b2c734274953bb402b570"
+    },
+    {
+      "type": "Theme",
+      "name": "traités",
+      "id": "Theme_c3a272c2dfd1846286ad96d7b4d2b02792dfcdb0dfaf3631d96b3027831db940"
+    },
+    {
+      "type": "Theme",
+      "name": "processus d'élargissement et de modification des traités",
+      "id": "Theme_b242b6e400f80125032dab72397541f1f252b01265324351945744a0b04e8ed7"
+    },
+    {
+      "type": "Theme",
+      "name": "conférence intergouvernementale",
+      "id": "Theme_2f2ad7f6650a0be3b4cd254723d2aea04964f55a964af8b06aab5e0b126d2efb"
+    },
+    {
+      "type": "Theme",
+      "name": "règle de vote à l'unanimité",
+      "id": "Theme_3d01b211c0d0da9c11a414b0b8b894aa0cc7ee625d7819a90d8d0408ca02b643"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernements populistes",
+      "id": "Theme_9703cc4375d250619cfa4aeb45c9fb94b68245b62434567529904b9e502d4788"
+    },
+    {
+      "type": "Country",
+      "name": "Arabie Saoudite",
+      "id": "Country_ba5ae4e1d0c1b62b96b20dbc4dfa5a4f386fc0140b81ffc4ec2b12c13be70858"
+    },
+    {
+      "type": "Country",
+      "name": "Emirats Arabes Unis",
+      "id": "Country_02da2051b5b49f4cccf63ff0675abe8e1fc2d1961a4264fcb31498ee4e262b19"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre des Armées",
+      "id": "Organization_618d202d4050be5fd66098a66b2321c33b1fb9b24fa91c0e1f4c708c0005524e"
+    },
+    {
+      "type": "Organization",
+      "name": "industriels",
+      "id": "Organization_e1239d6bdf2e17c31d84d78eb67804da9b9324192903c03c7b5fe428acf9fb17"
+    },
+    {
+      "type": "Person",
+      "name": "David CAMERON",
+      "id": "Person_b5e7be5b344e3e1bcc0c183c57bc895fe6c441c4b62d50c257a2e2f1c7cfbe29"
+    },
+    {
+      "type": "Country",
+      "name": "Britanniques",
+      "id": "Country_2b303b326941cb94a150f8b43c140a0dbdb1ed904a9e55869de5327035e618ec"
+    },
+    {
+      "type": "Theme",
+      "name": "géopolitique",
+      "id": "Theme_c3c610b50522db7d266b422a266b556f7825401c0d3b51ae9196e65d10f33b65"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "marché unique",
+      "id": "Theme_20dd50ae164d3f152ef77948cb732b929faf16e2e579353a7a6ed58d27740261"
+    },
+    {
+      "type": "Theme",
+      "name": "union des marchés de capitaux",
+      "id": "Theme_ffbd374b132546644a7bcb53d5fe086abbb62193f28333285e352c75123c6ee9"
+    },
+    {
+      "type": "Theme",
+      "name": "coopérations renforcées",
+      "id": "Theme_3d1b7ed8eadfb7274af418cfc4c05bad639171a8e56acf8e96046356b00a8929"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Person",
+      "name": "Olaf SCHOLZ",
+      "id": "Person_7cf2dcc30d3aa074ce7408ccfda92d570e9ebc66f3f3a2c14ad98461cf11902b"
+    },
+    {
+      "type": "Person",
+      "name": "SCHOLZ",
+      "id": "Person_0c7fab8756c3ac2e66d8de7c95955b7b68d04ffe7e2f4299f2e2297b6ce8db13"
+    },
+    {
+      "type": "Person",
+      "name": "MICHEL",
+      "id": "Person_ac9938878c7e5cc0d539c8f51b48c646dc89fa8148a7eea629e93eb5c96981a1"
+    },
+    {
+      "type": "Person",
+      "name": "MELONI",
+      "id": "Person_2024173fb3999feb1f00a389002a8404036ad1da056a5fd9923b5572b354108d"
+    },
+    {
+      "type": "Person",
+      "name": "RUTTE",
+      "id": "Person_007163acd833b9183910ab00e3705fae7bd6b0bd3976ba4a8c8cf31c05d4cc39"
+    },
+    {
+      "type": "Theme",
+      "name": "Proche-Orient",
+      "id": "Theme_752c1951b6317203119602993bcc14f1b2811425611233a4a5011d1b42eb3868"
+    },
+    {
+      "type": "Person",
+      "name": "ZELENSKY",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "City",
+      "name": "Ormuz",
+      "id": "City_628a8c80d1f68f9b6623fcce8aa10c78aaa4f268c571ec5c052095f2aafa695b"
+    },
+    {
+      "type": "City",
+      "name": "Rouge",
+      "id": "City_e60c6b3a09bf0237ecf861d5294e7c70ff16e9c6f6ef5127b857d9334e3a4aec"
+    },
+    {
+      "type": "Theme",
+      "name": "humanitaire",
+      "id": "Theme_a35f29190c83d157961edb88bb847f1cd0abc804956f7076491c1850ea8e45e2"
+    },
+    {
+      "type": "Theme",
+      "name": "sécuritaire",
+      "id": "Theme_72f5edd5ac96365ec2ada45dd7fd05195434a4e6fc122f253df0b95e8b44076f"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "textes communs",
+      "id": "Theme_ed4113572065aa7f07b93d127623b32744a868a66d8c754c3c0af0dc2341ae2b"
+    },
+    {
+      "type": "Theme",
+      "name": "consensus",
+      "id": "Theme_6bef32d603c8e354337a4b76bc89d9db5807ec9d9dd1900c8584ffabca9d2f41"
+    },
+    {
+      "type": "Theme",
+      "name": "ceasefire",
+      "id": "Theme_f6cbb2a612db74a48a2e3e4abe3ac9d5c49370c9754df5028c46a55f096933a0"
+    },
+    {
+      "type": "Theme",
+      "name": "policy",
+      "id": "Theme_0c5f24f4f8e8f80d4c3b112b0f8132cbb1d3217d487d23f5396f0248e577a7a8"
+    },
+    {
+      "type": "Theme",
+      "name": "Middle East",
+      "id": "Theme_5e57cd6ee1173f4a210003bfb3c8b05c3aa5169310164bd8df470d34e04cb908"
+    },
+    {
+      "type": "Theme",
+      "name": "Israel",
+      "id": "Theme_2df9409bcba810cc0a889253fbf49eedc86164de70f44159adcb60ac27059320"
+    },
+    {
+      "type": "Theme",
+      "name": "Palestine",
+      "id": "Theme_8f9eb16f27c1e9d2c0cba639b387aab42f995204adcc94afdaac97fdd7610052"
+    },
+    {
+      "type": "City",
+      "name": "Gaza",
+      "id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "type": "Country",
+      "name": "Hungary",
+      "id": "Country_3cb72891fcb73e5bf3767a19121ea3fb0caf1ece0450ebe6a3f5cce73584029e"
+    },
+    {
+      "type": "Country",
+      "name": "Slovakia",
+      "id": "Country_26a6c4a96ec60994dacec22f546970bebd979b7cd3f4e92df37e8e48e092dc18"
+    },
+    {
+      "type": "Person",
+      "name": "Prime Minister ORBAN",
+      "id": "Person_fe96da869a0bd7b9adb8b49dae22902d6e9aa3d29f598335601b557ca5b3326e"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Conseil européen",
+      "relation": "MEMBER_OF",
+      "target": "Conseil européen",
+      "evidence": "C'est un message politique du Conseil européen qui a été permis en décidant aussi d'ouvrir les négociations d'adhésion pour la Moldavie et de permettre les avancées pour la Bosnie Herzégovine et la Géorgie.",
+      "confidence": 1.0,
+      "source_id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277",
+      "target_id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "SPOKE_ABOUT",
+      "target": "soutien à l'Ukraine",
+      "evidence": "soutien à l'Ukraine et financer la défense, l'innovation, etc.",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Theme_9285b9eff6dee59058b442137ef16d66cf8db40262fba4733becd769ddae634e"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "SPOKE_ABOUT",
+      "target": "défense",
+      "evidence": "soutien à l'Ukraine et financer la défense, l'innovation, etc.",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "SPOKE_ABOUT",
+      "target": "innovation",
+      "evidence": "soutien à l'Ukraine et financer la défense, l'innovation, etc.",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "source": "houthi",
+      "relation": "ALLIED_WITH",
+      "target": "Israël",
+      "evidence": "si un groupe terroriste hors Hamas est très actif dans la région et vient déstabiliser, pas simplement Israël, mais les Américains à nous tous, ce sont les houthis",
+      "confidence": 1.0,
+      "source_id": "Country_5463322b98a54da70b3a94fadfb83ea00969cebe156b5ee03c9a68fff51580a5",
+      "target_id": "Theme_2df9409bcba810cc0a889253fbf49eedc86164de70f44159adcb60ac27059320"
+    },
+    {
+      "source": "nos forces",
+      "relation": "LOCATED_IN",
+      "target": "Jordanie",
+      "evidence": "aux côtés de nos forces qui sont déployées depuis plusieurs années, depuis que nous nous battons contre Daesh, en Jordanie.",
+      "confidence": 1.0,
+      "source_id": "Person_66ea8b7ff6552ffcc0c8c878d2d0433fa0dd12bf04da0fa569bc8103cd0f17ca",
+      "target_id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad"
+    },
+    {
+      "source": "Parti socialiste",
+      "relation": "ALLIED_WITH",
+      "target": "Les Républicains",
+      "evidence": "le Parti socialiste et Les Républicains ont décidé de se joindre",
+      "confidence": 1.0,
+      "source_id": "Organization_ac7333c2983e1a13d83736e0e64c16b8ea7b660f786be2d3f5ce9e71bc05f5d2",
+      "target_id": "Organization_ac3f716b8453b6a51aaa7e25ff7d70ae3ddaae22143a044d938cbbb7a1156ce7"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "ce que nous sommes en train de faire en France de ce que nous avons bâti et ce que nous sommes en train de finaliser en européen",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "Union",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la France était l'un des seuls pays de l'Union",
+      "confidence": 1.0,
+      "source_id": "Organization_c5e6111e2f8f6f0562a02b73ac74432a5ad7b8c26582b37eb43d1209716aa442",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Jordanie",
+      "evidence": "la France était l'un des seuls pays de l'Union à voter aux côtés de la Jordanie",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad"
+    },
+    {
+      "source": "ORBAN",
+      "relation": "OPPOSES",
+      "target": "Slovakia",
+      "evidence": "I think, honestly, about Slovakia, because Slovakia was waiting this box to get concrete money at the end of this year, and it was blocked by the decision of Prime Minister ORBAN.",
+      "confidence": 1.0,
+      "source_id": "Person_7da59bcc46bce5361009a1668f91866b29bcac4188fac1b5dd306794c3f69d04",
+      "target_id": "Country_26a6c4a96ec60994dacec22f546970bebd979b7cd3f4e92df37e8e48e092dc18"
+    }
+  ]
+}

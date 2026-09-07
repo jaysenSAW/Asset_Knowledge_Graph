@@ -1,0 +1,658 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "le ministre de l'Intérieur et des Outre-mer",
+      "id": "Person_90b32664456bbe99a5b1131841fbd2620fc21027e7e6acff18097d120a71e68e"
+    },
+    {
+      "type": "Person",
+      "name": "le ministre des Armées",
+      "id": "Person_a808088de480444a3470b239727237d245dd2c922524465fa8de83624debf591"
+    },
+    {
+      "type": "Person",
+      "name": "la ministre déléguée aux Outre-mer",
+      "id": "Person_dc7de02d0cc9b26d1b90a3833f0a8ca087e2d48b2558ccd65b863d89453f6458"
+    },
+    {
+      "type": "Person",
+      "name": "nos deux gendarmes",
+      "id": "Person_7349c7a4d7a2bc6f00031e2d80fad9aaf4525563bffb4d241efcb829c4baaa5f"
+    },
+    {
+      "type": "City",
+      "name": "Nouméa",
+      "id": "City_10e87d0ad00cea43b0c74980a4133dbbcbcfc590abadea96325fa25a17c93058"
+    },
+    {
+      "type": "Country",
+      "name": "République",
+      "id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    },
+    {
+      "type": "Organization",
+      "name": "forces de sécurité intérieure",
+      "id": "Organization_7cccac05f47c7cdb99a2b4772424d34aa6ec0600812df86d18a9f6fffbd3a8ed"
+    },
+    {
+      "type": "City",
+      "name": "Nouvelle-Calédonie",
+      "id": "City_cc4b506740f7c1968790c319d6f12845d814677cd83a29590ede16c2994049d5"
+    },
+    {
+      "type": "Event",
+      "name": "émeutes de l'usine du Sud",
+      "id": "Event_da7767b45f44dea023927691fc83c8ff418fc1f6ee7548b9c01fb6d50c157331"
+    },
+    {
+      "type": "Event",
+      "name": "référendum",
+      "id": "Event_cefaa5ab45bed5d1f8fb065a3babf3a3f4ba57b3ee4332ce8fed1535cdec853b"
+    },
+    {
+      "type": "Organization",
+      "name": "GIGN",
+      "id": "Organization_0063f02f00c2885468e4d55e13f6c3dedbf82a40242ba95ed29df88564955eda"
+    },
+    {
+      "type": "Organization",
+      "name": "RAID",
+      "id": "Organization_4e988ef79257c1f9df358bbb4aca1a2ec7c20d81bebf940a5a74618fc88e6a0b"
+    },
+    {
+      "type": "Organization",
+      "name": "OPJ",
+      "id": "Organization_a37518fbebe0b15c84f195cbf22b1156a558992c0e90e8bb374bc6b53ca7f120"
+    },
+    {
+      "type": "Organization",
+      "name": "magistrats",
+      "id": "Organization_0cc1af25a3da5555c9015b01d29a875ec88c0cc90db61c48f6ae8949cf028116"
+    },
+    {
+      "type": "Theme",
+      "name": "ravitaillement",
+      "id": "Theme_22773fa427f2d20d54d2e5aead11fc7ca76ac12c72b0ada7ccd64afe610def95"
+    },
+    {
+      "type": "Theme",
+      "name": "accès à la santé",
+      "id": "Theme_2413c5615d7977065506fb0161d7eb88db96c2b3578de05910ccdab598a6e6b2"
+    },
+    {
+      "type": "Theme",
+      "name": "maladies lourdes",
+      "id": "Theme_ee7d78608d10a15e1a8f1a745c088d5ae9f52ba7924ad55a594e9bc33e878b7e"
+    },
+    {
+      "type": "Theme",
+      "name": "soins",
+      "id": "Theme_9590d039f0ee71396459da676ffc492546b4ce5d319260d29824a802f94c7248"
+    },
+    {
+      "type": "Theme",
+      "name": "barrages",
+      "id": "Theme_e5c1b64f1b7abc669eb07e1bdd83b9ab7bf7166bdd291eb8e94cdbfbf8a58114"
+    },
+    {
+      "type": "Theme",
+      "name": "situations de blocage",
+      "id": "Theme_9fc015991ba0cd817dc486fb5d1dff0dd72d1510571b8c3a0a0f69c40c5a582b"
+    },
+    {
+      "type": "Theme",
+      "name": "forces de l'ordre",
+      "id": "Theme_809864be8dc32044dcdf711ea2d6475b2aa8ed737b25638076fa75973025c671"
+    },
+    {
+      "type": "Theme",
+      "name": "polices municipales",
+      "id": "Theme_a6ba002d6a8831ca345e7a2e64830d0a4b5ef8bdcd1e09857892aef768c50d85"
+    },
+    {
+      "type": "Theme",
+      "name": "personnels compétents des collectivités locales",
+      "id": "Theme_1483cae18bf3ec904384c9cb7b7e33ecfef322874a1d497574534a49d9dc4901"
+    },
+    {
+      "type": "Theme",
+      "name": "forces armées",
+      "id": "Theme_d8834c13c1a5854a9cea1da6179caa6dac476e3d96b5e0993dd6cbf4c71dee1d"
+    },
+    {
+      "type": "Theme",
+      "name": "calme",
+      "id": "Theme_8c4d278fcafe74d68310330f4f79a9203c7f63ab212e64342855c4b137af8a1a"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre",
+      "id": "Theme_244f853f7768b172bfa360b452830e952b38961f6c116ca930bd4c844fe28eff"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien",
+      "id": "Theme_4dfac92dac64c205c1c0e703283d4ba045cb9535e4f0c0a54df8ba969e6e1575"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "reconstruction",
+      "id": "Theme_7a606d7a97559cf8d4038ed157bac225304abdcd1ede6a81d3526d62e8a84b31"
+    },
+    {
+      "type": "Organization",
+      "name": "CESE",
+      "id": "Organization_e4d5beb8da032e1833600a006ca46dda9f5a7002c96431d0b8809193fc691b3b"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur REQUIN",
+      "id": "Person_fabd9a9d07dfeb381610866e8eb2855971d848013a480d7509e3697110461751"
+    },
+    {
+      "type": "City",
+      "name": "Grand Nouméa",
+      "id": "City_3cb6fccd24a43c90cc010ebe54291b0d5a8613b0ada6b75f654293716a9fc7b0"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de l'Économie et des Finances",
+      "id": "Organization_fec57f79c99b1c57c3c46c975b9baf29090a6e082cf239eab7c3dfe0ab5b3fb3"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités territoriales",
+      "id": "Organization_0a60af9062d171d1595f93fdf0e1ec5531b2a4a8c4cb1f6341762a0df5e03438"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités locales",
+      "id": "Organization_2fae242312875653ff5cfec98b1986979a6f1eeae3923af72e0f0d372f21a51a"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités",
+      "id": "Organization_82cf8945d6e172880b094d7d80042a3a79f86b02e8d1d1f8c4efe9bbfd946230"
+    },
+    {
+      "type": "Theme",
+      "name": "reconstruction économique",
+      "id": "Theme_af54e3f25112de1afbd794170178f0cae52fd62fe9b0d256b78c809f68517828"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie économique",
+      "id": "Theme_dfb2105abb405ec81b3e8649984296452b4c07a86554804f243b71e5901fef2d"
+    },
+    {
+      "type": "Theme",
+      "name": "diversification",
+      "id": "Theme_8d8f304823b7b2419ba7155aa164a07d1b7191781b634006cf9dfbbc3e8d038c"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir du nickel",
+      "id": "Theme_0be038411847f45b0bc0fec9f8fff3e569fcdaf9e851c254f753e602d6b42010"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "chemin politique",
+      "id": "Theme_3abc5292098accdb5a9931c722efcbda60d85dd16fad0dc1b979549192ca9d26"
+    },
+    {
+      "type": "Theme",
+      "name": "accords de Nouméa",
+      "id": "Theme_b9b0e563ae89e4c9afe597634653dd380a1d0a6855ff7df24d52e04eac428f93"
+    },
+    {
+      "type": "Theme",
+      "name": "préambule",
+      "id": "Theme_b9c7f9d2543d32e2645fd3eee5228728995699f6b97b63d0a273dcd044f5c198"
+    },
+    {
+      "type": "Theme",
+      "name": "passé",
+      "id": "Theme_4c601b71b511f2e5831fbb1ce633fd7c37f7924a30c6cbc7915825ad42458283"
+    },
+    {
+      "type": "Theme",
+      "name": "Nouvelle-Calédonie",
+      "id": "Theme_fa09b8d902200b6da2f7e0c63ae293d14c0b880f2d7d4ee43c6a2022c97893f3"
+    },
+    {
+      "type": "Theme",
+      "name": "peuple kanak",
+      "id": "Theme_a0d268c56c54872540aa8247135a4176adb6f2042c0cc3f9d8ec5f81a44ed91e"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire commune",
+      "id": "Theme_3c0fe2c45669633b618d2fc8b339e80285fb0a7d417da2a94c640ec3bd832c6c"
+    },
+    {
+      "type": "Theme",
+      "name": "destin commun",
+      "id": "Theme_9d76d2d6359d22c80d1ec6b3ccd3a6aae7d864740501c34857b3223a5b4880eb"
+    },
+    {
+      "type": "Theme",
+      "name": "rééquilibrage",
+      "id": "Theme_d39ca2d547fa7b085465647fd428f8a9a5ec35f5add8721bbf9b6b3374d6a1c1"
+    },
+    {
+      "type": "Theme",
+      "name": "transferts de compétences",
+      "id": "Theme_ba5b3fb0e72d635920d8e4e3b8a360b62e6098bd33aadf8605693db569477d0e"
+    },
+    {
+      "type": "Theme",
+      "name": "question minière",
+      "id": "Theme_d4510143ba0517990a8e9d0c4dce709486744c4d3ad51356319d623201f5c528"
+    },
+    {
+      "type": "Theme",
+      "name": "trois référendums",
+      "id": "Theme_c2a5bdcf7d783bc54c774a698c0a39da3d42e52ba8cc90844b81c1cdcb09ccac"
+    },
+    {
+      "type": "Country",
+      "name": "Etat",
+      "id": "Country_774c8b6f22f0c8760528588f5b156b73633c371f2c54fca0f8d2cff44b6c65d9"
+    },
+    {
+      "type": "Theme",
+      "name": "référendum",
+      "id": "Theme_4a9f20d7b6af8f6b0d5ae6a3799b5ea2f2d92359d5af489792d864166bcaf9f8"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccination",
+      "id": "Theme_08727af7b4e202025a46e53a3b86d689aba5e9aaeb127cbebab4949a61c65b87"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Person",
+      "name": "MAPOU",
+      "id": "Person_c9b679c5df5bd558773be1f6bdefa720012d9bc839b9e358864dd9c698c3a3e4"
+    },
+    {
+      "type": "Theme",
+      "name": "désaccord politique",
+      "id": "Theme_25a7ceaf282f419a64f40e4a194c8ee28691a8d59f7a671e87b30c4a782e3ebc"
+    },
+    {
+      "type": "Theme",
+      "name": "dégel du corps électoral",
+      "id": "Theme_b5caeb2d7e445ba2b8b02e1dfa2cf73eb62cb7a1dc05bffd856a1f3b501f1e83"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "accord global",
+      "id": "Theme_947af16b521efbd6ea0fc852e93f97153fafd934e59358aa57fe16e538dc1372"
+    },
+    {
+      "type": "Theme",
+      "name": "accords précités",
+      "id": "Theme_dd65aa383825a7924bae44c9f265f6a52fa2cfe03d82964ab6eefcfb988d6bc9"
+    },
+    {
+      "type": "Theme",
+      "name": "provinciales",
+      "id": "Theme_8d2baf8a5e897faaf80c32b2004727960091de86220965c5802df933a39829e1"
+    },
+    {
+      "type": "Theme",
+      "name": "solidité et la continuité de l'île",
+      "id": "Theme_16a399f79943f34374c1404240bf410024405d985e5e310a3a4483b56cb94168"
+    },
+    {
+      "type": "Theme",
+      "name": "reconnaissance pleine et entière du peuple kanak",
+      "id": "Theme_166d7f51520a72a965012cbf64c7f832c9a5465d1be6cbe60a6bd3c1d5bb6a58"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    },
+    {
+      "type": "Organization",
+      "name": "FLNKS",
+      "id": "Organization_b85df02df103e058c1321f217a69ed5d85b885e9d9c06c6bfb2f7fd4e5c5797e"
+    },
+    {
+      "type": "Organization",
+      "name": "CCAT",
+      "id": "Organization_b19a56929308da6923b64d3f420c87ee354eca652352dbaed2d2c4014f8d1db9"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue politique",
+      "id": "Theme_48765d14d5711fdb6f23d1ad62a0ae424b0e257532677490a571806e5683460c"
+    },
+    {
+      "type": "Theme",
+      "name": "retour au calme",
+      "id": "Theme_93657471630650339d3ba3ee03a9eb39520c1267832f514640215a2ddccc12b0"
+    },
+    {
+      "type": "Theme",
+      "name": "suite institutionnelle",
+      "id": "Theme_40474b887e15e7ebcfe1720adaf00af5c9ff6103b6fe2837e9f3b1a76852f6a3"
+    },
+    {
+      "type": "Person",
+      "name": "BASTILLE",
+      "id": "Person_8e6dab0d9c2bad72fcd2fbdeaf410e9134ea9f0d869b0934965d55af63b8df30"
+    },
+    {
+      "type": "Person",
+      "name": "POTIER",
+      "id": "Person_99870f77f5273074ba6a51ce8c8ea884e4e60c0616be49d139d7ff5ab4c4d07a"
+    },
+    {
+      "type": "Person",
+      "name": "THIERS",
+      "id": "Person_eab34bb3520f27ebc689177f0dc464804aaeeae7e1c2db502fc184b49281663d"
+    },
+    {
+      "type": "Theme",
+      "name": "corps électoral",
+      "id": "Theme_f0d74b2081e9604b083935301a9c304fc268f22cf6959b99d77d225bff7480ce"
+    },
+    {
+      "type": "Theme",
+      "name": "dégel",
+      "id": "Theme_4727077f790ebab091f2a432965c408ec1fe538e135c86cc70e731d22a8c81f7"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation des pouvoirs",
+      "id": "Theme_5f555ecab5ea868c17efae1b4cb11b19ec05be274c068d80e341f11683cd084d"
+    },
+    {
+      "type": "Theme",
+      "name": "répartition des sièges",
+      "id": "Theme_ef6033022806af91399dfe86cd6b55058d6540fa7b9a1e1d1fb17244a3f86d32"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyenneté",
+      "id": "Theme_299e26433fd038aaeb6d9c98e39f7323f3f780a7ec7bf9addad3444e3982be18"
+    },
+    {
+      "type": "Theme",
+      "name": "lien social",
+      "id": "Theme_f004b914709cdf714feffb920fc6a17331831dda932dd1f41e833ebdc92bd916"
+    },
+    {
+      "type": "Theme",
+      "name": "contrat social",
+      "id": "Theme_26747a190034894253a929003fa19df349606f2d4d42502999bfa3d3810599e9"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités économiques",
+      "id": "Theme_bc588c3ec666569273c1845654a16cd6795137fa35073003b7e7f862343cfbd1"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités femmes-hommes",
+      "id": "Theme_d3a6560a636f037ba8607701d4aec7aadeff377d7a127ab81d489143f4fd91bd"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir économique",
+      "id": "Theme_cc3fd741c49730db759472eefb23aca9e335c25755aa838c42540b55d196b653"
+    },
+    {
+      "type": "Theme",
+      "name": "nickel",
+      "id": "Theme_81757ad3e2c41d17b3b4d6c4b61cf295c9dbba7318474a1d3939a46b7a792e9d"
+    },
+    {
+      "type": "Theme",
+      "name": "vote d'autodétermination",
+      "id": "Theme_76f784b703d05a6818da7ca8f01727ffbc39be55d898ae9e78fb9320195328ea"
+    },
+    {
+      "type": "Theme",
+      "name": "Constitution",
+      "id": "Theme_eb4b390baab57a0b5493dd655d96373dd60c1ce0a0b39dbd0a66ba091f181c89"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Theme",
+      "name": "violences",
+      "id": "Theme_e1be313a671c9fc82f0ddae646c23fae1b533f1f5e446ce338dc737f703e7023"
+    },
+    {
+      "type": "Theme",
+      "name": "état d'urgence",
+      "id": "Theme_8a1b20d0a7e22c6834602eec7167a59ca5408106918f9595871b33263eb2760e"
+    },
+    {
+      "type": "Theme",
+      "name": "négociations",
+      "id": "Theme_4d064003cc5b671abd28afd991a250ae1ec2105087df838ea8c47f7d0e4ed9f2"
+    },
+    {
+      "type": "Theme",
+      "name": "détresse",
+      "id": "Theme_d6a52f91336f95622e485a7f597089be85810069ee793a174cee29af70b90329"
+    },
+    {
+      "type": "Theme",
+      "name": "découragement",
+      "id": "Theme_b2c850bc35c4fb35c28abe35c7cf47f623dd894a480bda0730887fb48fd31b48"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Country",
+      "name": "Nouvelle-Calédonie",
+      "id": "Country_55a69be2de7bce6a0a3ef0dc0899835c52a9dcb4b1cc9e9c104595177589d1e9"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Person",
+      "name": "des forces économiques",
+      "id": "Person_15439c71190757833411c7ff5d8bee219606e97da9203ce84fa6fee8ede9f126"
+    },
+    {
+      "type": "Organization",
+      "name": "L'Eveil",
+      "id": "Organization_1565bfe41a257585b97e97b9aa6aef9cd2ad8ab0d8d931ad72c7eff6f303cea5"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvement politique",
+      "id": "Theme_7f1009622645ce090389bdaba06c5b4eebbd7eb23aaa190ec8b8d05537fc748c"
+    },
+    {
+      "type": "Theme",
+      "name": "violence",
+      "id": "Theme_2e88abc315f2f0443a0e5b9fd8eae9a399f515b08101974ade6d7c352b827448"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre républicain",
+      "id": "Theme_77d3a0a111edf05bff6e66acf4bf7258f655df974a77634f3f77748e86c2c197"
+    },
+    {
+      "type": "Organization",
+      "name": "Congrès",
+      "id": "Organization_fc8b7ed7e0d5fbbb878ba9554c43f4429ae7518ebdb347a118221743efd279bc"
+    },
+    {
+      "type": "Person",
+      "name": "Marine LE PEN",
+      "id": "Person_1179b0c2380f623448f854923bef27989e28a4ba5c870013266b50f39aeefe35"
+    },
+    {
+      "type": "City",
+      "name": "Mayotte",
+      "id": "City_3dec527a64f181a960dc6a603b915acb2fd5fe3edc9a3709d2a6990c3fb25dc8"
+    },
+    {
+      "type": "Theme",
+      "name": "euro",
+      "id": "Theme_709528d8ce93bba87ada5be2754665013742700bb20381da4551b98a54e333b5"
+    },
+    {
+      "type": "Theme",
+      "name": "politique agricole commune",
+      "id": "Theme_1796b813e5674c322f458d3ac2c8fc1be8b4bd91d83b6c1ca5b3aed930fc94bd"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Monsieur REQUIN",
+      "relation": "PROPOSED",
+      "target": "reconstruction",
+      "evidence": "une mission compétente sur la reconstruction, présidée par Monsieur REQUIN",
+      "confidence": 1.0,
+      "source_id": "Person_fabd9a9d07dfeb381610866e8eb2855971d848013a480d7509e3697110461751",
+      "target_id": "Theme_7a606d7a97559cf8d4038ed157bac225304abdcd1ede6a81d3526d62e8a84b31"
+    },
+    {
+      "source": "Nouvelle-Calédonie",
+      "relation": "SPOKE_ABOUT",
+      "target": "stratégie économique",
+      "evidence": "l'ensemble des parties prenantes - ça renvoie, je vais y venir, aux accords qui sont à négocier - devra aussi définir une stratégie économique plus largement pour la Nouvelle-Calédonie",
+      "confidence": 1.0,
+      "source_id": "Country_55a69be2de7bce6a0a3ef0dc0899835c52a9dcb4b1cc9e9c104595177589d1e9",
+      "target_id": "Theme_dfb2105abb405ec81b3e8649984296452b4c07a86554804f243b71e5901fef2d"
+    },
+    {
+      "source": "Nouvelle-Calédonie",
+      "relation": "SPOKE_ABOUT",
+      "target": "diversification",
+      "evidence": "l'ensemble des parties prenantes - ça renvoie, je vais y venir, aux accords qui sont à négocier - devra aussi définir une stratégie économique plus largement pour la Nouvelle-Calédonie qui pense sa diversification",
+      "confidence": 1.0,
+      "source_id": "Country_55a69be2de7bce6a0a3ef0dc0899835c52a9dcb4b1cc9e9c104595177589d1e9",
+      "target_id": "Theme_8d8f304823b7b2419ba7155aa164a07d1b7191781b634006cf9dfbbc3e8d038c"
+    },
+    {
+      "source": "Etat",
+      "relation": "PROPOSED",
+      "target": "référendum",
+      "evidence": "Ces accords prévoyaient trois référendums : le premier a été demandé par l'Etat",
+      "confidence": 1.0,
+      "source_id": "Country_774c8b6f22f0c8760528588f5b156b73633c371f2c54fca0f8d2cff44b6c65d9",
+      "target_id": "Theme_4a9f20d7b6af8f6b0d5ae6a3799b5ea2f2d92359d5af489792d864166bcaf9f8"
+    },
+    {
+      "source": "référendum",
+      "relation": "MENTIONS",
+      "target": "référendum",
+      "evidence": "référendums qui étaient bien prévus par les accords",
+      "confidence": 1.0,
+      "source_id": "Theme_4a9f20d7b6af8f6b0d5ae6a3799b5ea2f2d92359d5af489792d864166bcaf9f8",
+      "target_id": "Theme_4a9f20d7b6af8f6b0d5ae6a3799b5ea2f2d92359d5af489792d864166bcaf9f8"
+    },
+    {
+      "source": "vaccination",
+      "relation": "MENTIONS",
+      "target": "vaccination",
+      "evidence": "politique de vaccination inédite dans la région",
+      "confidence": 1.0,
+      "source_id": "Theme_08727af7b4e202025a46e53a3b86d689aba5e9aaeb127cbebab4949a61c65b87",
+      "target_id": "Theme_08727af7b4e202025a46e53a3b86d689aba5e9aaeb127cbebab4949a61c65b87"
+    },
+    {
+      "source": "Covid",
+      "relation": "MENTIONS",
+      "target": "Covid",
+      "evidence": "face au Covid",
+      "confidence": 1.0,
+      "source_id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb",
+      "target_id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "source": "crise",
+      "relation": "MENTIONS",
+      "target": "crise",
+      "evidence": "crises qui ont pu apparaître",
+      "confidence": 1.0,
+      "source_id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1",
+      "target_id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    }
+  ]
+}

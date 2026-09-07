@@ -1,0 +1,332 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Nikol",
+      "id": "Person_3a0ae756f21e901e651e447b07e3290b104dc67864390c620d348df117b32012"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Baptiste Lemoyne",
+      "id": "Person_c8a46542257b27ddfff96ddd341c8121a6e1ebe8c4ef6049ed1816012f0bfd0d"
+    },
+    {
+      "type": "Person",
+      "name": "M. le Premier ministre",
+      "id": "Person_8969f170ea04bdc7bc6e0071398f7de20b0aa7c501a30faeb5e364f2d2fb3c10"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Arménie",
+      "id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace"
+    },
+    {
+      "type": "Organization",
+      "name": "CCAF",
+      "id": "Organization_70bea89e5f705ba1a89ba153f2b9a292b93ac4759d2a070e5f7dbdd2bc9ca55d"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "nos deux pays",
+      "id": "Country_2bd470f2122568640e3762e9bf14400458b6f8d21f909f537011d97d9af8f053"
+    },
+    {
+      "type": "Theme",
+      "name": "conflit d'aujourd'hui",
+      "id": "Theme_d0f7ff562ccb346bec37fcc6f7a019b170eadc65cfadd8a7681d52b7960341db"
+    },
+    {
+      "type": "Person",
+      "name": "Youri Djorkaeff",
+      "id": "Person_3b581acebfcc0d8c00747256924d9ae34d11838a3805ccad3a71285d531dbc86"
+    },
+    {
+      "type": "Organization",
+      "name": "équipe de France",
+      "id": "Organization_59d91c5e57b057e81dd2bdeb049eaaab7fa528cfb9f27de8c467cde68dc5d58a"
+    },
+    {
+      "type": "Organization",
+      "name": "Assistance publique des hôpitaux de Paris",
+      "id": "Organization_83d6c029236ac1315a97c08050cc52d6baae0cb6ae228b709b2af756e69aed10"
+    },
+    {
+      "type": "Organization",
+      "name": "Hospices civils de Lyon",
+      "id": "Organization_89abaea464165ad0f25e6cc1cbd1040cd31552b8089d56260855e24abf984e70"
+    },
+    {
+      "type": "Person",
+      "name": "Charles Aznavour",
+      "id": "Person_23512f8780298baeff465d32f51ef96019e8c8fe850a02c87cf90b9c36adb807"
+    },
+    {
+      "type": "Person",
+      "name": "Kristina Aznavour",
+      "id": "Person_850031501a469e1b88b03d20ca215b8a7637889770bf64680a686fb3e382f4b4"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut français d'Arménie",
+      "id": "Organization_10b8706771ca8edf53e7ed7ac0d3bb58ead2a67e86e7744c1cd16289813a700a"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut national du patrimoine",
+      "id": "Organization_cc8fa5e96e27599724c0b65bb068b0471eee33a1970755ff4464810b2ebc8e62"
+    },
+    {
+      "type": "Person",
+      "name": "Président Aliev",
+      "id": "Person_b5b192b1c08e629c6090f094a966d237741ceb9611f87f7eb3deda6809eb124d"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre Pachinian",
+      "id": "Person_8db0b1c71a7045baeb0cfa095b1b27c45c1344565f2602df2f2a3b0bd908649d"
+    },
+    {
+      "type": "Organization",
+      "name": "Unesco",
+      "id": "Organization_44cf334686fd664fecedb6944caa3782522449e029aa1a57346edd5f2ff5eebd"
+    },
+    {
+      "type": "Organization",
+      "name": "ALIPH",
+      "id": "Organization_1b76973a4cfaf30df3deb11195accfe94b7b9dae514c58f94c9e09659fb0690a"
+    },
+    {
+      "type": "Organization",
+      "name": "société civile",
+      "id": "Organization_cfc44263322b67a27cc2200265a0b8a1a8911b42c8ea280edd04d4199e8faf68"
+    },
+    {
+      "type": "Organization",
+      "name": "organisations publiques",
+      "id": "Organization_5ffcde91626c12895d78619620b106cd59807eed29c3999be9663eb305e2f993"
+    },
+    {
+      "type": "Organization",
+      "name": "associations",
+      "id": "Organization_093357ed588ea24809b2100d18e873165901f63f0760d7b30cd7fed20c85113a"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités territoriales",
+      "id": "Organization_0a60af9062d171d1595f93fdf0e1ec5531b2a4a8c4cb1f6341762a0df5e03438"
+    },
+    {
+      "type": "City",
+      "name": "Haut-Karabagh",
+      "id": "City_6a1da599eec86ded3cf8058975eb15fedcd5274dd77998537ccd0c25a34638d5"
+    },
+    {
+      "type": "Event",
+      "name": "Ambitions France-Arménie",
+      "id": "Event_b58e364539d276f4e83077dd1abd7540da70230d314fa905628792fdf33628f0"
+    },
+    {
+      "type": "Country",
+      "name": "Caucase",
+      "id": "Country_4018e15b3168f991126becaf94ee54ba1321b69c156fe1792ad6a368048a8081"
+    },
+    {
+      "type": "Person",
+      "name": "Charles Michel",
+      "id": "Person_05cf848e8ad58cffcfcde7ca7c613e57a1c5ba41f9eb925d6b63fd4b86807b19"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "City",
+      "name": "groupe de Minsk",
+      "id": "City_4469e426f5ca41debe00eb19c7b1873d421d0a2ce019dea2830c47a07ccda0c1"
+    },
+    {
+      "type": "Theme",
+      "name": "libération des prisonniers",
+      "id": "Theme_9ede10f5b38d353afb851270f0b7aed53fb4b3feb1a7a95055f3dfc7ad4f2a25"
+    },
+    {
+      "type": "Theme",
+      "name": "délimitation de la frontière",
+      "id": "Theme_16bc92f76e2b99d071c7599efd5001b9b0bd1a118b5c1d071a30dba493e66c15"
+    },
+    {
+      "type": "Theme",
+      "name": "désenclavement de la région",
+      "id": "Theme_5da50931e97105574780abf331176c162652701a1295298a3a2fee65cf70057e"
+    },
+    {
+      "type": "Theme",
+      "name": "sauvegarde du patrimoine",
+      "id": "Theme_5d3d7fb5ea2deed34129cb7212fd77fdeaee33343d0a8b5f9e26b5c5995e74a0"
+    },
+    {
+      "type": "Theme",
+      "name": "règlement de la question du Haut-Karabagh",
+      "id": "Theme_22f7a6e5fb35d144b1cc477d85ffe7a3638fdbf85490e990db1df404685020e6"
+    },
+    {
+      "type": "Theme",
+      "name": "traité de paix et dans la durée",
+      "id": "Theme_6a1d12942610acbaf6934c752ad83f427b665d1899c2825301aca07517735a52"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "reprise",
+      "id": "Theme_5b6ccccbb0487b9ef12cb70fd78a8f4d3f481a60fb5b5f8e937ddbde12464a60"
+    },
+    {
+      "type": "Theme",
+      "name": "résilience",
+      "id": "Theme_ae0698b8a130cd1cd5df43fe5e3e189eb0c16712f2fa72aeeed81640c8d2a14e"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "économie innovante",
+      "id": "Theme_d9ad2cdf38be258907925bd0d4f93f8da1c9f478af7429a01ec85717c653d249"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructures ferroviaires",
+      "id": "Theme_f5558790e702c1d874005830d4ea03be7b7d35bc2583a84ba2246f4f8e229388"
+    },
+    {
+      "type": "Theme",
+      "name": "normalisation",
+      "id": "Theme_1fa370e7b5d007800e8d6ba31ddeacbb52df1e65721b18b2649834053a4282ce"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibres profonds",
+      "id": "Theme_dc5b2107629d9fa5c568f87ed8c40d1df161313f60f1764207414f85d417ff7c"
+    },
+    {
+      "type": "Country",
+      "name": "Marioupol",
+      "id": "Country_d01a8c61b49d8ea624d8864086287822e111819b28a0148055cabe0166238bcf"
+    },
+    {
+      "type": "Country",
+      "name": "Biélorussie",
+      "id": "Country_d3816fb7d670df3cea12e7e8411d28852edf0204d5e8d3ae6ce239ee8c7380bb"
+    },
+    {
+      "type": "Country",
+      "name": "Balkans occidentaux",
+      "id": "Country_3312664190f53ae194c056f4d8b70cad1750c96de278aff51862dceeb579d7fc"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "révisionnisme historique",
+      "id": "Theme_42d474b1db881a4768521b61dcc3b185c2626e5aeec30ceacec90742963f8a93"
+    },
+    {
+      "type": "Theme",
+      "name": "empire",
+      "id": "Theme_2e416499fe28bccddad9729211a1fb15781f322ad54b439c52ab9c0b06bcd310"
+    },
+    {
+      "type": "Theme",
+      "name": "frontières",
+      "id": "Theme_2cd955c9a002255c9c4db835b43368ec22c183622dce92ef1191d4bdfa43a6bb"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Arménie",
+      "relation": "SPOKE_ABOUT",
+      "target": "Ukraine",
+      "evidence": "ce qui se passe évidemment en Ukraine aujourd'hui n'est pas sans conséquence dans le reste de la région, et n'est pas sans conséquence pour l'Arménie",
+      "confidence": 1.0,
+      "source_id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "LOCATED_IN",
+      "target": "Ukraine",
+      "evidence": "ce qui se passe en Ukraine n'est pas sans conséquence et on le revoit avec à nouveau des violences, avec à nouveau des événements inquiétants qui réapparaissent",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "je veux ici vous dire l'engagement de la France, l'engagement de la France pour ramener la paix en Ukraine, mais aussi pour continuer d'encourager une stabilité durable dans le Caucase.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "groupe de Minsk",
+      "relation": "LOCATED_IN",
+      "target": "groupe de Minsk",
+      "evidence": "groupe de Minsk",
+      "confidence": 1.0,
+      "source_id": "City_4469e426f5ca41debe00eb19c7b1873d421d0a2ce019dea2830c47a07ccda0c1",
+      "target_id": "City_4469e426f5ca41debe00eb19c7b1873d421d0a2ce019dea2830c47a07ccda0c1"
+    }
+  ]
+}

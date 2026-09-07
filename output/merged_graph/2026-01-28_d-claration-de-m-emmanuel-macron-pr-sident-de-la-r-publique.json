@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Mette Frederiksen",
+      "id": "Person_e4a38a0e24b33538b0dccfefb754a76015f8365fa1ce332803fafd762c82cb23"
+    },
+    {
+      "type": "Person",
+      "name": "Jens Frederik",
+      "id": "Person_11339b46a215dd3ccea1f3b82bb0506e03092bc2d0e40a86a2815febbae74def"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Danemark",
+      "id": "Country_e69e28cfa71a672f3c4d4f769e9cbc72220f20bc192eea020c4483eaecfef07b"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Nuuk",
+      "id": "City_29fb607917524eb93f70959cea659ee71bce3703f9efd3d3bd09421550e8093b"
+    },
+    {
+      "type": "Country",
+      "name": "Groenland",
+      "id": "Country_0f897434ce26b8831f906c9dd215aa3340d503848b76263e2cf97b72d633a61f"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Première ministre",
+      "id": "Person_5a6bde008a448ebb4d985596bfbfaf903f8af9466a7cee3eba7e49b7a48c6247"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "City",
+      "name": "Arctique",
+      "id": "City_bf08458eef6ceb4a859bb51fe3c3e3c5f5bf52d2f5a3f0b396567377e972b4d8"
+    },
+    {
+      "type": "Event",
+      "name": "réchauffement climatique",
+      "id": "Event_f8a292ee4338abe2d0207cf99235b297d769723ac5974d5c95999df2e4e87d19"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume de Danemark",
+      "id": "Country_f999ac95718949c3a730440eea94d3dc41ea0004db8a4211bcbab25f40ff8a15"
+    },
+    {
+      "type": "Theme",
+      "name": "développement durable",
+      "id": "Theme_5f1bb520fa5de98e4e876d04cd83bf58d961cf1f5d62571cbb08cbca34482cec"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "City",
+      "name": "Groenland",
+      "id": "City_b0d68430a416964be588460953d586557981f13ab05ea2f9051202ac2a20dbb3"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Royaume de Danemark",
+      "evidence": "La France restera engagée auprès du Royaume de Danemark.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_f999ac95718949c3a730440eea94d3dc41ea0004db8a4211bcbab25f40ff8a15"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "Groenland",
+      "evidence": "partenariat stratégique signé en 2023 entre l'Union européenne et le Groenland",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "City_b0d68430a416964be588460953d586557981f13ab05ea2f9051202ac2a20dbb3"
+    }
+  ]
+}

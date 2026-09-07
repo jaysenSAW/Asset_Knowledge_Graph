@@ -1,0 +1,534 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Person",
+      "name": "Kyriákos",
+      "id": "Person_75e7ab48028f90baa9dfc5d8ebb31e49ca0947587a1d7c1ef76e15a7bbbfea31"
+    },
+    {
+      "type": "Person",
+      "name": "M. Le Premier ministre",
+      "id": "Person_8969f170ea04bdc7bc6e0071398f7de20b0aa7c501a30faeb5e364f2d2fb3c10"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Organization",
+      "name": "Euronext",
+      "id": "Organization_1858ee1f99588ada7ced7ecbee5aebc8bb5ccecbe8ba0fea683eb6e738c39abf"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "M. Kyriákos MITSOTAKIS",
+      "id": "Person_2bd0628b2535191cbe734ae5a06e0b91b9f553f2c08a81d59d2858ff246dc57e"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "réglementations nationales",
+      "id": "Theme_9ad200353b45f84676903ec548dc5e9faf0011148ffe4d1d4209f84fa5cea10c"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité de production",
+      "id": "Theme_93484815461f891b59e70843d40514f16237c151a0413940ce4b47d4ddbe5d00"
+    },
+    {
+      "type": "Country",
+      "name": "La Chine",
+      "id": "Country_9e78cf2c68a62ff9caa0b194d4ab4fd644fe800fed648bf7ae22b25bcb325241"
+    },
+    {
+      "type": "Country",
+      "name": "les États-Unis",
+      "id": "Country_8df3466244b292649c597b8b512edd3db82a8841945a4706149665c969f501ec"
+    },
+    {
+      "type": "Country",
+      "name": "l'Union européenne",
+      "id": "Country_1021d6c3288321fbdee02eafd85060fdac817b26a216f2e154ae1cf4dbd769d1"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "réglementation",
+      "id": "Theme_74fae1af7be6fa31bf7459ade5fc88f3736f3705b227f72c59a2973c5080f8d2"
+    },
+    {
+      "type": "Theme",
+      "name": "secteurs clés",
+      "id": "Theme_62b64da458b295424a0e553292774b2a02411e4d3f2d313140121b7d47950344"
+    },
+    {
+      "type": "Theme",
+      "name": "démocraties",
+      "id": "Theme_56cab7a53aa93e99087fecefd082e66c8d079b1bc5400d121f702e8873b1648d"
+    },
+    {
+      "type": "Theme",
+      "name": "réseaux sociaux",
+      "id": "Theme_3db7ca95fe1fa04399ef5baef0f73a5aef029bba3765cf3d4b022b0f025fd769"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunes",
+      "id": "Theme_a20dcaf37efe496f33d1e4c4be9f3c3dabe56fc83fe45c815f1d76fdaaef0dcf"
+    },
+    {
+      "type": "Theme",
+      "name": "enfants",
+      "id": "Theme_7de947c62c1a6fc458ce30539d584aaffa8475ea67a8e2e4d56519f2862cb657"
+    },
+    {
+      "type": "Theme",
+      "name": "adolescents",
+      "id": "Theme_bd8599fffc61160216536902cfbf87bd69d221482de446df5bcd72940b46ac74"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "terrain de jeu égal",
+      "id": "Theme_8e7fc4a4158987b59f0116b4e01718713f099e9be11e744b92e86ec044d01d1c"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence loyale",
+      "id": "Theme_8a144e25f057d5e5fee29c471c91e89862f01f2645b35e3ae096d67a54a4daf8"
+    },
+    {
+      "type": "Theme",
+      "name": "protectionnisme",
+      "id": "Theme_f908a3ce2a62f196e9b3881f0b81ce31f64eb6d35dede2a07725ea9d130f54a7"
+    },
+    {
+      "type": "Theme",
+      "name": "libre-échange",
+      "id": "Theme_11f794fdeca6a8d909f37695828f89e06d5897ccf5c1092cb09eac0104c371dc"
+    },
+    {
+      "type": "Theme",
+      "name": "surproduction",
+      "id": "Theme_76b850bd39dd1ddc351a983718e4443c06262e52ed497a075c861f2915bb7b66"
+    },
+    {
+      "type": "Theme",
+      "name": "surcapacité",
+      "id": "Theme_64c54afadaffab5d87d450ce3d4120dcab39c5030131a645d9eecf4201a6960f"
+    },
+    {
+      "type": "Theme",
+      "name": "aide extrême",
+      "id": "Theme_aa2f8f0f4194a31adf5ce479f47ad9f6f71fbeda15474ba956ca5c66b1e1452b"
+    },
+    {
+      "type": "Theme",
+      "name": "Chine",
+      "id": "Theme_60e22f6f55efb75450ae5980d22f5e4862b01c3b90e96e3ea3a1abf9fd1e06ca"
+    },
+    {
+      "type": "Theme",
+      "name": "États-Unis",
+      "id": "Theme_8319569c5bb8aed048187c706d75db55efa09140cdeb5ff7856d13f7bd3e8a8a"
+    },
+    {
+      "type": "Theme",
+      "name": "minéraux critiques",
+      "id": "Theme_573acd4aee5ddf600fa87127b9276c58272af3572b4952161109a4a52f89f35e"
+    },
+    {
+      "type": "Theme",
+      "name": "terres rares",
+      "id": "Theme_f7252f0b63c5dbd962be628be26728a4d12c2de743c24a064bdebad009d3acdf"
+    },
+    {
+      "type": "Person",
+      "name": "Kyriákos MITSOTAKIS",
+      "id": "Person_00cd752eeef87a93946ae279b4bfb79a04b4d97f195350dfa3b7af7a23542121"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité de mettre notre épargne au bon endroit",
+      "id": "Theme_769654214312e9ebc30ab166ccc8e878a0d40e710377403309286d619264cb24"
+    },
+    {
+      "type": "Theme",
+      "name": "création d'activités",
+      "id": "Theme_1add24a2f08b92fe6f71540ae149113be3324dc28758c2a0dd15432f7522edca"
+    },
+    {
+      "type": "Theme",
+      "name": "monde",
+      "id": "Theme_36839915f4f916c517dee200dc570577a7da1e70f69dc68e095ea54120f4c55e"
+    },
+    {
+      "type": "Person",
+      "name": "Trump",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "City",
+      "name": "Ormuz",
+      "id": "City_628a8c80d1f68f9b6623fcce8aa10c78aaa4f268c571ec5c052095f2aafa695b"
+    },
+    {
+      "type": "Person",
+      "name": "un président américain",
+      "id": "Person_2747027bc3de94225605e36bd2a1715d51dfbec19f645827a3dade547001822c"
+    },
+    {
+      "type": "Person",
+      "name": "un président russe",
+      "id": "Person_45360022f520cd89bd1245ca7ef84aab9acc479bcf0af1538182b22b76750407"
+    },
+    {
+      "type": "Person",
+      "name": "un président chinois",
+      "id": "Person_5d2cee36ca871d82ae484f3c78f82845c71b253ecaeb3e4ee4022b4821833fad"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Union européenne",
+      "id": "Organization_673fab4d08769d234a4cf43038f4d756b18cf5311dd75f678634c6bceba1dcb3"
+    },
+    {
+      "type": "Theme",
+      "name": "l'Ukraine",
+      "id": "Theme_23753e00f679964c14bc065963575677dd334b22315718fd4ff2c754f2844927"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Law",
+      "name": "sanctions",
+      "id": "Law_7da9f0cd6ef5b8d4fe8b6ebaf57750f2aa59b61807a151731585e7b449346247"
+    },
+    {
+      "type": "Country",
+      "name": "Canada",
+      "id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3"
+    },
+    {
+      "type": "Organization",
+      "name": "Airbus",
+      "id": "Organization_41a65ef42423e17c2e554b35b23788a40b455d82f989891061352dba64083a6e"
+    },
+    {
+      "type": "Organization",
+      "name": "Eurofighters",
+      "id": "Organization_19c189e50f5fcfb29064d1ed4c6d8121b839625d41710ed60d3b28f92f7dbeef"
+    },
+    {
+      "type": "City",
+      "name": "Kimon",
+      "id": "City_26331bf27331da2273ca87b41e7a838e7d8c385d11170f060a18497b349e4d39"
+    },
+    {
+      "type": "Person",
+      "name": "Poutine",
+      "id": "Person_cd18bc7f49bb7d64b17bcbd894d6a8752a9076a00deeefdb299e52309a31d8e5"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Person",
+      "name": "le président américain",
+      "id": "Person_e409ec0f749e949ab8c110b3c7c20f89f5aad1d5a9bad5b1beeeeed5256c3f68"
+    },
+    {
+      "type": "Organization",
+      "name": "l'OTAN",
+      "id": "Organization_6801c0bcd92fa36ca3bc07b22f11c1084143f957ccb1f2497af70668dd8324d2"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Europe",
+      "id": "Organization_6fa6f500ef51880fb674d0a54de528cbcdf4ce0a1f0ccc716cb080bb6788383c"
+    },
+    {
+      "type": "Organization",
+      "name": "la coalition des pays volontaires",
+      "id": "Organization_c2d56397eea2bf2abb0067bb9099fa204d048c82eaa804f8053e76ae094f48cf"
+    },
+    {
+      "type": "Organization",
+      "name": "la Chine",
+      "id": "Organization_56bbc2d6a5889f56ee397b7c412076dcfc27f5d8199ff86a33e069291c0b0af0"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie stratégique",
+      "id": "Theme_029a7236b3291ee261cba1740f38d69601586a351be77e7e7290bab2819fd644"
+    },
+    {
+      "type": "Theme",
+      "name": "interopérabilité",
+      "id": "Theme_d30b0e2a94b7cc4d4b3d72660705257b5da2f8abc2f492285515a01c324087ad"
+    },
+    {
+      "type": "Theme",
+      "name": "pilier européen",
+      "id": "Theme_140610a509d653c91fec566fa26d751b380da79e81e1ddf9822aa6312ef8fa12"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités de défense de l'Europe",
+      "id": "Theme_67955412e6877287dec02b36271c89320402299b31221ea2b0b7eee92a995fa4"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur Trump",
+      "id": "Person_ff7884d3774ad25d2a8abcaf040f80b44375a79bcc580a5dba6675cf4aab68b5"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur Obama",
+      "id": "Person_c6828371185e9ec0814e2bcb32fdd07a02fcc65a2420217886af6bf1af3e4b00"
+    },
+    {
+      "type": "Country",
+      "name": "Amérique",
+      "id": "Country_bdf5427b1f0e60ff34b28f54ad2193969879bd4b7d05d9d5de81174f08b9b502"
+    },
+    {
+      "type": "Country",
+      "name": "Afghanistan",
+      "id": "Country_5ea7a9152b57f52d563390097c0d7ee8c7520b1a7fb13ff16e8c8d519cc49736"
+    },
+    {
+      "type": "Country",
+      "name": "nos pays",
+      "id": "Country_0aebaac6c0b4cedc336e01f1d7aeed319b030c3cfc41632b79be2d790a1fdc24"
+    },
+    {
+      "type": "Theme",
+      "name": "défendre nos pays, notre continent",
+      "id": "Theme_8444178c2555e78a4366769d2316eefc57d31d3918db7aa31997e74985b87e09"
+    },
+    {
+      "type": "Theme",
+      "name": "renforcer notre indépendance",
+      "id": "Theme_6504e9d80e47af138c58fb0dbd46097c0195e9ce7407feba2de6d9e2ebbb1faf"
+    },
+    {
+      "type": "Country",
+      "name": "américain",
+      "id": "Country_66eccd638083622e05cd0ef48037de6b04eb60ee747feb8d33dc389f380fb06b"
+    },
+    {
+      "type": "Organization",
+      "name": "Journaliste",
+      "id": "Organization_298402a5aaeec35245710796d6d30a9862ac394f8dd2db2c31ae37270f2e6c5a"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur Giscard D'Estaing",
+      "id": "Person_7e8b137c3bc4ee715ad7c6afca05f2c01f79b0a15ecb5c8dd7c7b5a3cd5780a8"
+    },
+    {
+      "type": "Country",
+      "name": "Chypre",
+      "id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "type": "Country",
+      "name": "États",
+      "id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "type": "Country",
+      "name": "continent",
+      "id": "Country_70122ce479c34a2c3db699f771d0b6020ffa29892cb4ccd1e29e10cc6676178c"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance géopolitique",
+      "id": "Theme_25ee90c95c7531ca8572f45d06df344016c2d129840d07e28080302827df3096"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Grèce",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "la Grèce et la France, ces derniers mois, nous avons agi de concert dès le premier moment, dès les premières attaques de l'Iran.",
+      "confidence": 1.0,
+      "source_id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Grèce",
+      "evidence": "en train d'améliorer les rapports entre la France et la Grèce",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "source": "La Chine",
+      "relation": "LOCATED_IN",
+      "target": "Allemagne",
+      "evidence": "L'année dernière, la Chine a contribué à détruire des milliers d'emplois en Allemagne.",
+      "confidence": 1.0,
+      "source_id": "Organization_56bbc2d6a5889f56ee397b7c412076dcfc27f5d8199ff86a33e069291c0b0af0",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "Trump",
+      "relation": "SPOKE_ABOUT",
+      "target": "Europe",
+      "evidence": "Trump dit que l'Europe est gâtée, qu'elle a sous-traité sa défense aux États-Unis.",
+      "confidence": 1.0,
+      "source_id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8",
+      "target_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "source": "Trump",
+      "relation": "SPOKE_ABOUT",
+      "target": "États-Unis",
+      "evidence": "Trump dit que l'Europe est gâtée, qu'elle a sous-traité sa défense aux États-Unis.",
+      "confidence": 1.0,
+      "source_id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8",
+      "target_id": "Theme_8319569c5bb8aed048187c706d75db55efa09140cdeb5ff7856d13f7bd3e8a8a"
+    },
+    {
+      "source": "Chine",
+      "relation": "LOCATED_IN",
+      "target": "Chine",
+      "evidence": "la deuxième priorité, c'est la Chine.",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "Afghanistan",
+      "relation": "LOCATED_IN",
+      "target": "Afghanistan",
+      "evidence": "Voyons ce qui a été fait en Afghanistan ou les autres décisions qui ont été prises.",
+      "confidence": 1.0,
+      "source_id": "Country_5ea7a9152b57f52d563390097c0d7ee8c7520b1a7fb13ff16e8c8d519cc49736",
+      "target_id": "Country_5ea7a9152b57f52d563390097c0d7ee8c7520b1a7fb13ff16e8c8d519cc49736"
+    }
+  ]
+}

@@ -1,0 +1,801 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la Première ministre",
+      "id": "Person_5a6bde008a448ebb4d985596bfbfaf903f8af9466a7cee3eba7e49b7a48c6247"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "baisse des émissions de CO2",
+      "id": "Theme_30ff884dadf2b9f39693a20d79670027197c97f12e4c6b6c4835242514c4aaa7"
+    },
+    {
+      "type": "Theme",
+      "name": "adaptation",
+      "id": "Theme_e71a9802c8e075959f0598a084eb8681d6a670fbfe504db980bedbeee665cb50"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendances",
+      "id": "Theme_14de542cd66252bc7dd38d12cbadc101d38c3b269a47ae1437ae7786869af7a7"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialisation",
+      "id": "Theme_ac8bdfb33c3783eee726437d1158d9c6c216120e43edc6178969ee44f5098ca1"
+    },
+    {
+      "type": "Theme",
+      "name": "plein emploi",
+      "id": "Theme_2a448e8543fa37515f8306b37c9e0bce2b2c535e0733a499a4bec870b1e709ef"
+    },
+    {
+      "type": "Theme",
+      "name": "transition juste",
+      "id": "Theme_72773a680df723a867d0f8c8833aae0795416960764dbc1129bf9570da01abc5"
+    },
+    {
+      "type": "Theme",
+      "name": "planification écologique",
+      "id": "Theme_353ff9750d63642f47e2df36d699fbb5981bfadd30ad85f156049e052a8e7c13"
+    },
+    {
+      "type": "Theme",
+      "name": "transition",
+      "id": "Theme_e63e6ab1512da86e741fe3d7ec082523f6b684c749eb3aef27e0dfd412c0a6b6"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique, environnementale et des territoires",
+      "id": "Theme_7880baed2254e5b2f9597c9adc0f06658fe7f37c087aa3d3d63a469c35ef838c"
+    },
+    {
+      "type": "Theme",
+      "name": "transition énergétique",
+      "id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté écologique",
+      "id": "Theme_c13e2ab9cf3323d846fa10ba63129e0e2e10a52c715ea1c1fc195227d463c2fb"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie batterie",
+      "id": "Theme_d0e2ac003fad0551c03fcfb6cd43a0849d68a85c2955cfdeacf7bba4f52f054a"
+    },
+    {
+      "type": "City",
+      "name": "Hauts-de-France",
+      "id": "City_c06e31908f8e6669695b5bad7aea2c7e7a7ff7c2dd1b6f6a3f93ba7930c5c3ab"
+    },
+    {
+      "type": "Theme",
+      "name": "réduire nos émissions de CO2",
+      "id": "Theme_23a65a05752dddb6b5c86a1896cff984e3ac5b7d278b987bd72f93d7a40de903"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie biodiversité",
+      "id": "Theme_0761129f843c2115558049ebcb10c8339bbbf0e2e5fd63c7f2d8e80816fdff4c"
+    },
+    {
+      "type": "Theme",
+      "name": "plan d'adaptation",
+      "id": "Theme_82d628f2e4828287879084024d9f6eb70e325dc06051418a9bdc0a41b4a470ad"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "artificialisation des sols",
+      "id": "Theme_39752edbbe1f059fcb90bc998a02a5818b639ee5f4794a978d28a28f36f8e0e3"
+    },
+    {
+      "type": "Theme",
+      "name": "forêts",
+      "id": "Theme_1240508ec111d344871ee2eca4741bff873de4cefa7235aaf1e7b0be5524767e"
+    },
+    {
+      "type": "Theme",
+      "name": "travail pour la biodiversité",
+      "id": "Theme_995689fbe0c016d45373f0a50d8d137b539f64d54d1961c335695ae01f259679"
+    },
+    {
+      "type": "Theme",
+      "name": "Montagne d'or en Guyane",
+      "id": "Theme_cc32fc49154beedd6953e52934d58b936aad37650a3d9bf74897afdf8e9603bb"
+    },
+    {
+      "type": "Theme",
+      "name": "Europa City en région parisienne",
+      "id": "Theme_0f7b026abed7398ba7bd812a87785a00d7a2a2a69c502c913a97c51d54883a54"
+    },
+    {
+      "type": "Theme",
+      "name": "sobriété mesurée",
+      "id": "Theme_c53fa4c427a4ab97963aa770d7d5889dc4e92060254b760f0f16d04321470969"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation technologique",
+      "id": "Theme_56e05cd703c6686501d6042f262124b8c820fd8c3e444b697ddb1bad04eb11b4"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie française",
+      "id": "Theme_6b4039896c42e9fd1e7dcfe97856ce082687a73a463cc29339a40ce219099fb2"
+    },
+    {
+      "type": "Theme",
+      "name": "politique d'innovation",
+      "id": "Theme_45e238b956a8e95a13183f7067117d7fd7a89c1fd98a2a3df49f39c875aa538b"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation de tous les comportements",
+      "id": "Theme_131a775b06171ca7d5307247a676ab595b65f63b9513a868366e6109a2eef9e5"
+    },
+    {
+      "type": "Theme",
+      "name": "étiquetage",
+      "id": "Theme_1c1bec627856785eba95b25a79547fbca74ab2e10c6e0cc4cd7c44361bd1eb62"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilisation",
+      "id": "Theme_dcfb1b0ae520df5be8b7ceee566269ad2eaa42250fcfd510dbb9fff2e632578d"
+    },
+    {
+      "type": "Theme",
+      "name": "financeurs",
+      "id": "Theme_31f5d2b3994437b7da2de6ace69728332cfcf9582df5fedde2fe6eb5d0fac965"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanismes d'éco-conditionnalité",
+      "id": "Theme_09e87e596c51c88981136899fd7f3d829211d0d4548591aaeb9e80ee046019f8"
+    },
+    {
+      "type": "Theme",
+      "name": "ministères",
+      "id": "Theme_13431cbbc9ff7554de5f35cc27f5d487345b1dfe066c268b0d7f4ae81c45e556"
+    },
+    {
+      "type": "Theme",
+      "name": "consommateur",
+      "id": "Theme_d7a6d5120cfabbdea100424357af8d28cb232cc2d99cad37ee97b8886f4fe546"
+    },
+    {
+      "type": "Theme",
+      "name": "producteurs",
+      "id": "Theme_4f2c37690bc04864304c8ff8b297ae290a8029c5df7b003f113ec01413f7562d"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie du déni",
+      "id": "Theme_df86cfb3c1a69d204b79981002be43fadf7ce4a82ee97163d5e701f1da6b2f8c"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie de la cure",
+      "id": "Theme_ff7faec25ef4e01ccc874fc79370f778a6854aac4c4d2bbec623f1cc72f6fe3f"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies fossiles",
+      "id": "Theme_b6c35f61d1a981309cce533ddbf6a71e259f9c267d021131e611f1b7a3f5f978"
+    },
+    {
+      "type": "Theme",
+      "name": "charbon",
+      "id": "Theme_548bb5ce8df69ec8043411bf054457e539ac5bba47798110164f1896a83f7cd8"
+    },
+    {
+      "type": "Theme",
+      "name": "pétrole",
+      "id": "Theme_3260ac0f04251087e1b398b0d2bf276cec225dfc5f0db44e9872e55badaa7627"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz",
+      "id": "Theme_23c772ec8e48db56d58d61be20b92c8c3f24d744a200ab1b8ff2005eef4b1e48"
+    },
+    {
+      "type": "Theme",
+      "name": "sortie du charbon",
+      "id": "Theme_0335ea3b2fad6c0ac9ff79473c205a8eba2fd1082da6fe0b7df633598c0b97aa"
+    },
+    {
+      "type": "Theme",
+      "name": "GIEC",
+      "id": "Theme_2e19bd2624cf4de45370a2b417977b65603f46eb76a44c2550a80a11429a6f5c"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie souveraine",
+      "id": "Theme_d0bff37ac0a0eb5303557e378cff56b151e386dad525d6e2544f35c0d8962f2f"
+    },
+    {
+      "type": "Theme",
+      "name": "sobriété et efficacité énergétique",
+      "id": "Theme_3ac6a1068b8363c428e559aa6fa0e911a28759b12d73811977c125d306f92084"
+    },
+    {
+      "type": "Theme",
+      "name": "déploiement des ENR",
+      "id": "Theme_cf002864407461e7496c507c453a5cd6f6ec019ac89b0bd5f0afd10d38891d55"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie dite de Belfort",
+      "id": "Theme_76cfb4b32e9903e4afde5cdcb6f6016ac8083d663bd340b4f55eb6a9b073e7c6"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation de notre production d'énergie",
+      "id": "Theme_7e6a7ede59d9d7d96d27a2b82775485916523d3ba26f746ea36691f99aac814b"
+    },
+    {
+      "type": "Theme",
+      "name": "loi sur la production d'énergie",
+      "id": "Theme_b2143eeefeebfc26f2494d38b5e2c13062fefc65ef92af388ce1f2c8f14fc14f"
+    },
+    {
+      "type": "Theme",
+      "name": "taxe carbone aux frontières",
+      "id": "Theme_178d7854997eeb31acaf22594023d0ffe0e17432683475f858653123d2ed34c7"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie du made in Europe",
+      "id": "Theme_7d9c215de80c33f1c4aa98d6d6518c953d70ee621651ddd87cc8a69bcf6284f2"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction d'émissions",
+      "id": "Theme_bb57e8cf77657b649846519e1acf12854e3073354ae30184dab6b713a67becfb"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement massif",
+      "id": "Theme_7f6457c13218df6c66c91ba765c3115800c462d74fd5d920377b8465539a66f9"
+    },
+    {
+      "type": "Theme",
+      "name": "effort collectif",
+      "id": "Theme_cb02d96cd66ab882c508e7aa43b1a6b8676b9ec035e7eb02e27441d339eeccfe"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique",
+      "id": "Theme_82634c5567e29ec1e0f256205be4191228a3b7329a743da05d0f47189c5b7272"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté de nos matières premières",
+      "id": "Theme_740f49d78825ac415c38bed9a6f7b4612ce006e6621bb28ef424a4dc437f8d67"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène",
+      "id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "type": "Theme",
+      "name": "capture et séquestration de carbone",
+      "id": "Theme_ab639d342e2654a4d247b33e97a283a0813a2a291838d7ccd6a2b4c3e7a038dc"
+    },
+    {
+      "type": "Theme",
+      "name": "loi pluriannuelle de l'enseignement supérieur et de la recherche",
+      "id": "Theme_b0f3add2f06c113ddf922b0049005361b5f44d6c955f1e52d03eb2129b9f82ab"
+    },
+    {
+      "type": "Theme",
+      "name": "mission France 2030",
+      "id": "Theme_0b1607f2c68e5b34e219521a0d8d881d1b906c5ebdbbff4ccec7e965a474718b"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie créatrice de valeur",
+      "id": "Theme_0bdd4050553fa0397cf9eee48041bf7ee1d3644929350d5b9662b50c4dc643c7"
+    },
+    {
+      "type": "Theme",
+      "name": "transports",
+      "id": "Theme_533d2529ff9a7f6bf394d1e74146c9b14e56ed95da235efb27978e0422b519a2"
+    },
+    {
+      "type": "Theme",
+      "name": "aménagement du territoire",
+      "id": "Theme_9e9369f994405421b8a467e4f718ddb95a9ba773ccddab6b96990cd73ffd5e8b"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité de nos territoires",
+      "id": "Theme_cab0dd82a986e55f93d897bfb05862ad8cf64e16beb3cebb6139963a355ebf3c"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "RER métropolitains",
+      "id": "Theme_979094a9ace0b02d703a132a2c624d43b17b8ed12dd70d14dcd75251dc1287db"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "Région",
+      "id": "Organization_63f7a47a75715c9c27edcabe3ee93e2bac09d0c6b542f047f7c253738775aafd"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie ferroviaire",
+      "id": "Theme_68327914bcc40670a61f2907458f96fac5e810e641bba578eea0ae2ee50b3c16"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "voiture électrique",
+      "id": "Theme_f76e85ad7b28d0914e73f01e6eac5e300199fbdc73094f49a777d12557b25c47"
+    },
+    {
+      "type": "Theme",
+      "name": "batteries électriques",
+      "id": "Theme_761658a4d46dd4a8a739d988d1dcca8fa209d5dd7a0f44441b555ae6efde6d92"
+    },
+    {
+      "type": "Theme",
+      "name": "valeur économique",
+      "id": "Theme_dde1d73bae2e18413e69e37104488d40693be1429e6bc7da7aae38bae8f2769f"
+    },
+    {
+      "type": "Theme",
+      "name": "logement",
+      "id": "Theme_5482b77c02cb27b743d7ba44022361e1f99e9ac6c8c98c177add71ee6c65ef55"
+    },
+    {
+      "type": "Theme",
+      "name": "chaudières à gaz",
+      "id": "Theme_2488e171b83fa2acea2513d428bfa7b3d72f7b6fade4713cb8b2459ab37b044d"
+    },
+    {
+      "type": "Theme",
+      "name": "pompes à chaleur",
+      "id": "Theme_0410fd8743134947a4d68328a21d189a689a7cdd394cfa3dee8a685c6ebf9b6f"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie agricole",
+      "id": "Theme_e5d663f447613413f891dc70ad91bccd3df9a457142ea3e84894aa2342336b81"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie forêt",
+      "id": "Theme_77dbe7b079ea7e9d43aec63bbb98ff42992a3c8f7159fabe35a3f16c7f17a3c0"
+    },
+    {
+      "type": "Theme",
+      "name": "biomasse",
+      "id": "Theme_058a109a6793919ce4d52a78b5c8048d8e8d978224ca222511c53bd1b38f1504"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie compétitive",
+      "id": "Theme_f48385bcaf52e594492abbed5ac41b9348483098f69fb4e0b27c30ffae65bb61"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions décarbonées",
+      "id": "Theme_6f6eb9239d33f5d56e621d70ed8e9ec77a0d6a5a4196c1503e84fec25bff690c"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie économique",
+      "id": "Theme_dfb2105abb405ec81b3e8649984296452b4c07a86554804f243b71e5901fef2d"
+    },
+    {
+      "type": "Law",
+      "name": "Projet de loi",
+      "id": "Law_3c6308d41a4aa0d9948ad60b46254d755112c1aaebbb9f19c6159a5e7497200c"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "visibilité",
+      "id": "Theme_f59a7fbc64425457d75c34d0bff557a4fa6deb3b2e067b747f711e04c9e5e6db"
+    },
+    {
+      "type": "Theme",
+      "name": "prix de l'électricité",
+      "id": "Theme_b2bce92a33fb5ac5fb9ec594b4380ce0fa639ddd88e76c6343f3d2b46ffc7abd"
+    },
+    {
+      "type": "Organization",
+      "name": "Électricité De France",
+      "id": "Organization_d9a05450a58b449285e9e61906a946fca48024bba18ba5bf53ccec612c9de44b"
+    },
+    {
+      "type": "City",
+      "name": "Belfort",
+      "id": "City_4723be1893b1bd6916be5d7cf46ebef2f7bca1962d744681fffa2e9ed607087c"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie planifiée",
+      "id": "Theme_82d0829785b9874ce3839f6447de849fb5709748a5e3622a1eaf5bfbba6a663c"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Organization",
+      "name": "Caisse des dépôts et Consignations",
+      "id": "Organization_6c653c3f53cfbf6a802f4e193d30815ed9c8913bdbc0bff26dff7097e182d52c"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie européenne de décarbonation",
+      "id": "Theme_0ab801812cf912d1263b876a2ab71193a146df78aa9b6182452ae4e4f186d1a5"
+    },
+    {
+      "type": "Theme",
+      "name": "crédits carbone",
+      "id": "Theme_7a93119948528ec5c9c07e60711b91bf65ffd0f5f6e42da2705cf411c534ea2e"
+    },
+    {
+      "type": "Theme",
+      "name": "crédits biodiversité",
+      "id": "Theme_fd11dae8d459c9afd89a79ca0d3f75832c0f0da7ac31a2f84ee0cb9f8b8652ce"
+    },
+    {
+      "type": "Theme",
+      "name": "leasing",
+      "id": "Theme_3a2b2b6551ebe167d8a71dbf9213936590e17dab711b7efbab79f66f1e5bfe3a"
+    },
+    {
+      "type": "Theme",
+      "name": "véhicules électriques",
+      "id": "Theme_597ebf0f0545ed57ae5e62552be322b744bf08dcf937fbc03f464ca89c539c24"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "accessibilité",
+      "id": "Theme_1957b4ea681f1942db363acf7d64fc551e0bf71ec8a778fb83fdde0f41a61e3b"
+    },
+    {
+      "type": "Theme",
+      "name": "logement social",
+      "id": "Theme_e5d35ea458c0933a3270e4625354763c3f7e503717d0d72d2f281914d2e55908"
+    },
+    {
+      "type": "Theme",
+      "name": "rénovation thermique",
+      "id": "Theme_62b13b7afa53840683ef65c98caa45c3b98848174b3df3377cd3ea58ea078c7f"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement",
+      "id": "Theme_d41a2410d8b1353cdac216ebec7bce81e567ae80b1d56a5c5b7942fee7e103c4"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie accessible et juste",
+      "id": "Theme_840245723fb71cee67defccb918f803298fecf578b662423d0fbe642d3f85793"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance",
+      "id": "Theme_eb42bc9a4c0e3c4863f2af9c41baa2a8f3b5a02bf55c6c74f6658aeb303b2108"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement dans la recherche d'investissements",
+      "id": "Theme_33c5fd319bc880d4e091656e0ac164aa54076eb056bff62fc9f85fe18cfd69ff"
+    },
+    {
+      "type": "Theme",
+      "name": "différences entre pays européens",
+      "id": "Theme_22661de14e90308365af232df4417fa0881b60da17d19cc7ed8cee5b06603e53"
+    },
+    {
+      "type": "Theme",
+      "name": "cohérence au niveau européen international",
+      "id": "Theme_344b40c4b66ba427c8ca34ae86b384cf39820741929c95d850c4693d7efc2423"
+    },
+    {
+      "type": "Theme",
+      "name": "clauses miroirs",
+      "id": "Theme_a8ddcbbd0cf5d2fa81c5013d2dd23a96ef5c8c0e6ca776167e6e381e5cde4ce7"
+    },
+    {
+      "type": "Theme",
+      "name": "régalien",
+      "id": "Theme_1832def87b304572621a7fe84f82900a3b8408b2622dcb7f4737b70a7aea03f6"
+    },
+    {
+      "type": "Theme",
+      "name": "agrivoltaïsme",
+      "id": "Theme_bc5a56e652e7b7dc0f1d2370caf733fa706b3b3f20901ec7347e6e167a8d1ba3"
+    },
+    {
+      "type": "Theme",
+      "name": "carburants durables",
+      "id": "Theme_ba51c84f076c441d8c34b72c8c9169a758d7d05e401a175d3e46f419dbfb078e"
+    },
+    {
+      "type": "Theme",
+      "name": "forêt",
+      "id": "Theme_a96720c890a4e5c15eb45a949001e285e64b1843a718f2f04c32024d421834e9"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie forestière",
+      "id": "Theme_3a0e395bdc57b71e1bd13698f755bfca13023e863373953515a74e555ef5c356"
+    },
+    {
+      "type": "Theme",
+      "name": "cadre de vie",
+      "id": "Theme_738afbb84edfb6df6fe1b19e928c9709e8552c712f25e4814b3ea1ad0a100018"
+    },
+    {
+      "type": "Theme",
+      "name": "paysages",
+      "id": "Theme_2be707bdd39280478c29eff99aa40ad9f0a1d2c90ac1a7beec664bee0f9f18bc"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "concertation",
+      "id": "Theme_d3f8a45df0325edd93f67492d7ebd72cb7c6b497b5986d8daf6b87fa3af7fed5"
+    },
+    {
+      "type": "Theme",
+      "name": "débat",
+      "id": "Theme_0b58e1a0fcdb8371d4b6af48f51c7da634083d74ba893b640e5e939e959827a2"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs nationaux",
+      "id": "Theme_e4348b90127a696059f06b1e66343698205b54aaf3f6ffae9e88a27b2d7db3d5"
+    },
+    {
+      "type": "Theme",
+      "name": "indicateurs",
+      "id": "Theme_f17cdd277a2777d6a596206e2bcc34b4219fada1c44dab8080503e80a7be5287"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilités",
+      "id": "Theme_0c8b0cae3c88823ec6c009ff69f50304d7a21a2e1dfd3f1af86073b2ad007fec"
+    },
+    {
+      "type": "Theme",
+      "name": "budgets verts territoriaux",
+      "id": "Theme_f55d1cca9e2042fbec8009bb3a78d612718471c32b3f0c96367d17ac3114eb3f"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés d'action",
+      "id": "Theme_250507430be5ef87b0f48974159ed26d96335eab98fb14ffed7082d0d6e0350c"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs clairs",
+      "id": "Theme_bb66cce4df296939a62c0a7939a258f888c8f6f86c1b4f5c5eedd9b0480d5e94"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilités partagées",
+      "id": "Theme_7d1517aeacf76ee2f2ff0ca1a12f58990423fa2493bde341c170b87b333a50cb"
+    },
+    {
+      "type": "Theme",
+      "name": "intercommunalités d'agglomération",
+      "id": "Theme_d29c29e91568de54869519f0ff8de04d4e566b3773dbb7724322608f1967477f"
+    },
+    {
+      "type": "Theme",
+      "name": "départements",
+      "id": "Theme_d17a3a67fc8799d0a073e6b664d334f3e743140ccd357e9acdf91ea1c5464293"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation industrielle",
+      "id": "Theme_8ed25a6ea43d467005a4447bac855ff77596d42aca72fe5964100a1b2bf0a341"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie d'investissement",
+      "id": "Theme_cf805d444640f2631c240ac508b4c1abf405443740414967eca4cc84067c1e94"
+    },
+    {
+      "type": "Theme",
+      "name": "océans",
+      "id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "type": "Theme",
+      "name": "Pacte de Paris pour les peuples et la planète",
+      "id": "Theme_714d31089bc4dafe48b170a8131ac9c6a955999183a636e8a15fdc0715ab3658"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie à la française",
+      "id": "Theme_7c83a62c4d652c71aaac8474e39c763d511522dc049709bab326d638277eef90"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition climatique",
+      "id": "Theme_d50478b703462e76561468f6ea79501963d98f0863f2930591c593aad98ac7c1"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie industrielle",
+      "id": "Theme_d2deab5ce79fbf100d2436325b9b57c661113458286f2c0607cacac7dd65e714"
+    },
+    {
+      "type": "Theme",
+      "name": "création d'emplois",
+      "id": "Theme_6504e6ace9950bb650ef42114b8bffda2376af147acc77f9ae8f22ffc17f02cd"
+    },
+    {
+      "type": "Person",
+      "name": "Première ministre",
+      "id": "Person_9ff0e19887e4e2b35684ac675f8d2d31181408c695aaac854cf451fc260b4b47"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétariat général à la transition écologique",
+      "id": "Organization_001d49abe24ee535d598c7d49077f7ba0d66cf67b45d57800485e01781935d4e"
+    },
+    {
+      "type": "Event",
+      "name": "COP 28",
+      "id": "Event_8a96eccdc1196c73060675c3bb15fbcf8ee04fb96334ec543ea748d3bbe3b1b9"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "stratégie dite de Belfort",
+      "relation": "MENTIONS",
+      "target": "écologie souveraine",
+      "evidence": "L'écologie souveraine, c'est aussi celle que nous avons déployée à travers la stratégie dite de Belfort",
+      "confidence": 1.0,
+      "source_id": "Theme_76cfb4b32e9903e4afde5cdcb6f6016ac8083d663bd340b4f55eb6a9b073e7c6",
+      "target_id": "Theme_d0bff37ac0a0eb5303557e378cff56b151e386dad525d6e2544f35c0d8962f2f"
+    },
+    {
+      "source": "stratégie économique",
+      "relation": "SUPPORTS",
+      "target": "stratégie économique",
+      "evidence": "D'abord, c'est cohérent avec la stratégie économique qui est la nôtre, celle que nous déployons à travers le programme qui nous permet aujourd'hui d'être le pays le plus attractif d'Europe et nous allons continuer de le faire.",
+      "confidence": 1.0,
+      "source_id": "Theme_dfb2105abb405ec81b3e8649984296452b4c07a86554804f243b71e5901fef2d",
+      "target_id": "Theme_dfb2105abb405ec81b3e8649984296452b4c07a86554804f243b71e5901fef2d"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "cadre de vie",
+      "evidence": "Travailler pour, au fond, protéger notre nature et nos paysages, ce qui montre que notre écologie est aussi une stratégie de préservation de notre cadre de vie, de notre richesse de biodiversité et au fond, de nos paysages qui constituent l'identité profonde de la France.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_738afbb84edfb6df6fe1b19e928c9709e8552c712f25e4814b3ea1ad0a100018"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "paysages",
+      "evidence": "Travailler pour, au fond, protéger notre nature et nos paysages, ce qui montre que notre écologie est aussi une stratégie de préservation de notre cadre de vie, de notre richesse de biodiversité et au fond, de nos paysages qui constituent l'identité profonde de la France.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_2be707bdd39280478c29eff99aa40ad9f0a1d2c90ac1a7beec664bee0f9f18bc"
+    },
+    {
+      "source": "indicateurs",
+      "relation": "SPOKE_ABOUT",
+      "target": "responsabilités",
+      "evidence": "Notre objectif est maintenant que ces objectifs nationaux soient partagés au niveau des territoires et qu'ils soient déclinés avec, au fond, des objectifs qui sont eux intangibles et une liberté qui est donnée sur les moyens et le chemin des indicateurs et des responsabilités clairement établies.",
+      "confidence": 1.0,
+      "source_id": "Theme_f17cdd277a2777d6a596206e2bcc34b4219fada1c44dab8080503e80a7be5287",
+      "target_id": "Theme_0c8b0cae3c88823ec6c009ff69f50304d7a21a2e1dfd3f1af86073b2ad007fec"
+    }
+  ]
+}

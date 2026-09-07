@@ -1,0 +1,185 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Maia",
+      "id": "Person_8a0188d9cc8feaba65a14415aa707bd01c59e3a01e91f2376263c79eccebd3ef"
+    },
+    {
+      "type": "Person",
+      "name": "Donald",
+      "id": "Person_685ed33d56cef655070350aedeecf9bcd80bae66ae445ce15176e9969573d931"
+    },
+    {
+      "type": "Person",
+      "name": "Friedrich",
+      "id": "Person_1083a7cf6386411c9c12cb828a8344d613f0a85d0b0033df38ef59e02c43a479"
+    },
+    {
+      "type": "Country",
+      "name": "Moldavie",
+      "id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    },
+    {
+      "type": "City",
+      "name": "Chisinau",
+      "id": "City_eaae05dcf2d975c5d8dac6141919a11452e41511928c2565b04e422fd1b9d428"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Pologne",
+      "id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française de développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "Organization",
+      "name": "Arte",
+      "id": "Organization_f58db3f881206566fe228d63930c2b1b964d697d1ae5ba56c44e82e571431563"
+    },
+    {
+      "type": "Organization",
+      "name": "RFI",
+      "id": "Organization_d7ff5384aa02e169030a1113e65e1b8ab50682680203ec25855f0ac6c6b3c57e"
+    },
+    {
+      "type": "Organization",
+      "name": "La Sorbonne",
+      "id": "Organization_f65a93dd0a01aaf006383556e0a6b19e7dedafb3528246cbb48b11b058b626ea"
+    },
+    {
+      "type": "Organization",
+      "name": "Université d'État de Moldavie",
+      "id": "Organization_4d5a976af969981c55ecb10292007646d15a1093567b067e5f4f9ef46a78484a"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "City",
+      "name": "Moldavie",
+      "id": "City_0dd7ebb757dc56da846b0dc7592a3f4c814b8e2c7a98acf00e0831ad5fa55585"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Moldavie",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "la Moldavie a franchi une étape nouvelle de son histoire en déposant sa candidature en vue d'intégrer l'Union européenne.",
+      "confidence": 1.0,
+      "source_id": "City_0dd7ebb757dc56da846b0dc7592a3f4c814b8e2c7a98acf00e0831ad5fa55585",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Moldavie",
+      "evidence": "la France continuera, pour cette raison, d'apporter un soutien déterminé à la Moldavie",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "City_0dd7ebb757dc56da846b0dc7592a3f4c814b8e2c7a98acf00e0831ad5fa55585"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "en France, en Allemagne, en Pologne, partout en Union européenne",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "source": "Arte",
+      "relation": "LOCATED_IN",
+      "target": "Moldavie",
+      "evidence": "le lancement en Moldavie et en Roumanie de la plateforme numérique de la chaîne européenne Arte",
+      "confidence": 1.0,
+      "source_id": "Organization_f58db3f881206566fe228d63930c2b1b964d697d1ae5ba56c44e82e571431563",
+      "target_id": "City_0dd7ebb757dc56da846b0dc7592a3f4c814b8e2c7a98acf00e0831ad5fa55585"
+    },
+    {
+      "source": "Arte",
+      "relation": "LOCATED_IN",
+      "target": "Roumanie",
+      "evidence": "le lancement en Moldavie et en Roumanie de la plateforme numérique de la chaîne européenne Arte",
+      "confidence": 1.0,
+      "source_id": "Organization_f58db3f881206566fe228d63930c2b1b964d697d1ae5ba56c44e82e571431563",
+      "target_id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "source": "Russie",
+      "relation": "LOCATED_IN",
+      "target": "Ukraine",
+      "evidence": "la guerre d'agression déclenchée par la Russie contre l'Ukraine",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    }
+  ]
+}

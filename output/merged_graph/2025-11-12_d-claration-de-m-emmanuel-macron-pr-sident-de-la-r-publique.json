@@ -1,0 +1,940 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame",
+      "id": "Person_6ace0972a12e8e17957064d9f2ab5c314f0de15e6db0c156bc4d6af16f1e6022"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les ministres",
+      "id": "Person_68c8bae1f1f0fa1fad64e1609435c27e59bb98f2bf0b5bf15ffe20298d0f898b"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames",
+      "id": "Person_902acab7ae062adc10320743d44fdc1ffa5eaa234e19e777cfff0f7a794e845f"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les parlementaires",
+      "id": "Person_9721d90198df552b1c882b8e3717fc4e60d77853de2fc40ce1560ac0113ff824"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la présidente de la région d'Occitanie",
+      "id": "Person_fd72f3e7f457ff5a826a52a60307c716b5c83014acdf28ed03a6e1c52523dda1"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le maire de Toulouse",
+      "id": "Person_02fd9a7dbf722a2a016f99d1e8ce9ac782562f18f3274a92c79204a365ae3d42"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le préfet de région",
+      "id": "Person_262d45b0f794c0ed4606bab776c03492a8313f55013aa3d5b0872d5773b9035c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le chef d'état-major des armées",
+      "id": "Person_1f83a1b709c29b766edb6b98978d332e04de52962a1652e0a4e20e351b1b05e0"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le secrétaire général de la Défense et de la Sécurité nationale",
+      "id": "Person_27a94b30da2a3dc2c9857c9e36ebf7bfce1469098fd658916cc470fcdc4f4ec2"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le délégué général pour l'armement",
+      "id": "Person_38ee4d4512a5653554542f76aca6918d970f3dd16d5af5aa1ce3c43f8d183ef5"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le chef d'état-major de l'armée de l'Air et de l'Espace",
+      "id": "Person_3f739b84e89f7a4fec88032f0486b7226f9f96f9da6a09c698aa168c1eb79910"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les officiers généraux",
+      "id": "Person_f9a002e5d7901854c8248fc6e46d314419343c0a5dfcafd83dd45fa5712a5928"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président directeur général du CNES",
+      "id": "Person_4ff3378b7610734c509e320b041d1a9e29cce257fccb69576935c173456696e3"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les acteurs du spatial en vos grades et qualités",
+      "id": "Person_3c8cf3eb56001654940ef33cd4f6fd793dedffd7958dd55e3e79740bc8053912"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les industriels, chers amis",
+      "id": "Person_7508565c76f6f0c014abd387fb1fb38deeddede3c6151d6310b4f41c916e7010"
+    },
+    {
+      "type": "Person",
+      "name": "Steinmeier",
+      "id": "Person_46e9ca99644b3f938c45596ea72b10314db89e6ed3671b68f16651c9c972434c"
+    },
+    {
+      "type": "Person",
+      "name": "Boualem Sansal",
+      "id": "Person_c078073c9c70cdae5721be1a0241704b69387a5ac1fd3c71cb5408b1bcd3e518"
+    },
+    {
+      "type": "Person",
+      "name": "Tebboune",
+      "id": "Person_a96f4087f34b05cd302870060c83f6216edfd06fc91f090a6cf332f8089041e5"
+    },
+    {
+      "type": "Person",
+      "name": "Christophe Gleizes",
+      "id": "Person_66da4bf9811108846d3cc9f7d5f9040be34e6e6a8f36542f22570fc4209caea5"
+    },
+    {
+      "type": "Organization",
+      "name": "SGDSN",
+      "id": "Organization_7ef0da7e105ab67895b9c5ab26feea20b645f71e91a481b1873b0799bb167589"
+    },
+    {
+      "type": "Organization",
+      "name": "Commandement de l'espace",
+      "id": "Organization_858d4027024c7765886967da23a4b046071dcb477b9279a48741f40a424a6c5a"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Allemagne",
+      "id": "Organization_4d0c3a44ee5910fa2ef9436dbd3172dd1ad6aabc8054b6d85c3f06a46e446fb7"
+    },
+    {
+      "type": "Organization",
+      "name": "la nation",
+      "id": "Organization_3a24f127af0db13cebed8eefdb560d89fc798cb8d027ce1edb1220d20d7236ca"
+    },
+    {
+      "type": "Organization",
+      "name": "l'État",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Theme",
+      "name": "Stratégie nationale spatiale",
+      "id": "Theme_c592bc59f9dad6d731dfb65c3bdb3955d1b95fb80884406a491934c05d82746f"
+    },
+    {
+      "type": "Theme",
+      "name": "Stratégique",
+      "id": "Theme_babc2e2cb71abc7c22abc65e62f304d6775efebf2c13b7c66a9a53363ab08099"
+    },
+    {
+      "type": "Theme",
+      "name": "Spatiale",
+      "id": "Theme_2acded9b4f5532e69c40fe1342c6e86d46d7dc9aa10e678b496ba2f7c1c25a89"
+    },
+    {
+      "type": "Person",
+      "name": "Mon général",
+      "id": "Person_4dee393bdf6e0458a49fe665cb1b9812a87a215316714163b3cd889ba32cad32"
+    },
+    {
+      "type": "Organization",
+      "name": "nos industriels, nos entreprises, nos sous-traitants, nos startups, nos ingénieurs, l'ensemble, celles et ceux qui constituent cet écosystème dual essentiel à l'indépendance de la nation",
+      "id": "Organization_e6fd3ff491d01744d0b3f1f7e9ff8d36c7a4267dc54233b1b9e4416e0e94e284"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie",
+      "id": "Theme_fa010b2e87d32c400a0a52b10fe00d186b07d80baf9792842d534698bb9241c6"
+    },
+    {
+      "type": "Theme",
+      "name": "action",
+      "id": "Theme_3ffce4f33762a0b7ea9b1cd6439622fbef0109ddce7d1e3c85d98922fcce7c5a"
+    },
+    {
+      "type": "Theme",
+      "name": "spatial",
+      "id": "Theme_be04ff49df6f9224cf87b09d0c072d2df359f83a584eeef7deff7e1835862166"
+    },
+    {
+      "type": "Theme",
+      "name": "suivi du climat",
+      "id": "Theme_a4bd6477577ea306cd86240ff245769c9b69722b5793b12671797f6dd4e48d46"
+    },
+    {
+      "type": "Theme",
+      "name": "espace",
+      "id": "Theme_1079951084765f97ec568b6af52f4f01fb8e7320c4a80499a9534a7cd945d3c6"
+    },
+    {
+      "type": "Law",
+      "name": "traité sur l'espace de 1967",
+      "id": "Law_191175a9b94396ba8729e3d391267a5baf0775d439cb2a7e86ed046fbdef6bbb"
+    },
+    {
+      "type": "Theme",
+      "name": "espionnage",
+      "id": "Theme_23084f103a4edf57d32f4a1e5f711f2406892e543732c1a979aca32d3413b0d1"
+    },
+    {
+      "type": "Theme",
+      "name": "attaques cyber",
+      "id": "Theme_a1c6d93edf6e6da20070f5eae0fc5dd5ba96444ac1b26eaa705dc262f114b6af"
+    },
+    {
+      "type": "Theme",
+      "name": "essais de missiles antisatellites",
+      "id": "Theme_0e12542b2d867315e518be46ce3f3bfe92e1b946cb221cd30efb4dda92212a40"
+    },
+    {
+      "type": "Theme",
+      "name": "développement d'armes antisatellites",
+      "id": "Theme_d5d7530882de672dd32b84194153d0d52942868a9f1f16682a6914f58b647eb8"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "supériorité opérationnelle",
+      "id": "Theme_def506dceb99dc3aec6eaeb5db99298403d3bcdad883c6b77c86921710061c59"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité d'action",
+      "id": "Theme_f1e4043dad7a98a09359d7dbcf6bf6eaeefefe80b394051e6e107f1ecb2e3ad6"
+    },
+    {
+      "type": "Theme",
+      "name": "réactivité",
+      "id": "Theme_c7681427331574e7b58082fb239799ea1e63cab35ec7564a14ec4948fc8fc7ca"
+    },
+    {
+      "type": "Theme",
+      "name": "continuum aérospatial",
+      "id": "Theme_4cfe02c4001860d29db819474812a6dcf3a58b0df20fc4307494f6d3245f1084"
+    },
+    {
+      "type": "Organization",
+      "name": "armée de l'air",
+      "id": "Organization_f09e07e662def1011eb4be3663c10c61af866239b1425538446cf5cb0e9d2080"
+    },
+    {
+      "type": "Organization",
+      "name": "stratégie spatiale de défense de 2019",
+      "id": "Organization_34c046e1420e0fcb651a2a198e4a7ce3406fb28876c977cd56b183d2f197039e"
+    },
+    {
+      "type": "Organization",
+      "name": "loi de programmation militaire",
+      "id": "Organization_76b66b39647839e012c619705decae475388c17584a2f950466b3ba0b67fe643"
+    },
+    {
+      "type": "Organization",
+      "name": "Orbit guard",
+      "id": "Organization_4e6988ffb356431a42aaee830df0fe74c482898464cb61513679ba779c299a8f"
+    },
+    {
+      "type": "Organization",
+      "name": "Toutatis",
+      "id": "Organization_77adb02e46ca35e7086a43a930f6751acd359682ecdb3868cf9cfb271028d371"
+    },
+    {
+      "type": "Organization",
+      "name": "programme Jewel",
+      "id": "Organization_bfe091ad6ffb2214d9f1fa00f2d82e04789b66ac0d8a5b2a2b966acc378b1229"
+    },
+    {
+      "type": "Organization",
+      "name": "radar Aurore",
+      "id": "Organization_1a7857503df96ae0ca642ee8b666015a141ed2cfe9d71dd29eeab1184c3ca89e"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Organization",
+      "name": "DGA",
+      "id": "Organization_dd765c535b316b7386231efd44e18c2229fa874ed4e2f61166e993556122635d"
+    },
+    {
+      "type": "Organization",
+      "name": "CNES",
+      "id": "Organization_9cac143218443645cc33132f43bf3a030f9b428a1f2d8be5768d3563ede6e5b8"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "City",
+      "name": "Toulouse",
+      "id": "City_aa695a1a8591febfa119cbccca39b2add1951395a057a7f2fdbd29e7adde06ae"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie spatiale",
+      "id": "Theme_ffd8bf1fb0d4dfe59b3cb56c8bdda57fa8188ab9fbc9ea4bc0b45514854189f1"
+    },
+    {
+      "type": "Theme",
+      "name": "militaire",
+      "id": "Theme_703a1ce8bacc621e7371ce6f7d31802464ec3feacc2fcae60e2b209e5a44c132"
+    },
+    {
+      "type": "Theme",
+      "name": "compétences",
+      "id": "Theme_f4baf676a1a91b846e556f812ea2e6452ecc1b7c2b3a87f971cd7e60c4b42995"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies",
+      "id": "Theme_13d59bafdc47af3e410af65db9d4750021cd91a0bdfe8882fa42d2d9c12e506d"
+    },
+    {
+      "type": "Theme",
+      "name": "culture duale",
+      "id": "Theme_f8e3273f5097d17ad77681c5651411e0ea0eaf2cc3ba85d17d2db6ea411f2822"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité industrielle",
+      "id": "Theme_b3866bd7c8468237a90e463548729042b9cdd8b927ca01fcc71274e170ccb863"
+    },
+    {
+      "type": "Theme",
+      "name": "acteurs industriels",
+      "id": "Theme_61ad0fd10557bb0bb5c5217812f98dab4a33c89756ef9fc13260279d2eb1d3b6"
+    },
+    {
+      "type": "Theme",
+      "name": "développement des systèmes complexes",
+      "id": "Theme_e35cb5543b5f3e29074b597ecee9bc381bc64cd72c4c1c1a7104449c98acb826"
+    },
+    {
+      "type": "Theme",
+      "name": "lancement",
+      "id": "Theme_80ddbc04bc2002b6e9e0505a0b587128d583348cdb2eda5e65254397751cbd96"
+    },
+    {
+      "type": "Theme",
+      "name": "agence spatiale",
+      "id": "Theme_44f47459ff2bb940f965abf753a162d6ba7e18b22a4b85e60a55b671f7bfc437"
+    },
+    {
+      "type": "Theme",
+      "name": "programmes en coopération",
+      "id": "Theme_06bcefdaa90222d3cf605af1db433cdd076a2e82ed04c70775ed7930fb65b3a4"
+    },
+    {
+      "type": "Theme",
+      "name": "James Webb",
+      "id": "Theme_1e765645453000e5786652d11037feb13effc39bf809c6c4b912268af199fb77"
+    },
+    {
+      "type": "Theme",
+      "name": "mission scientifique",
+      "id": "Theme_60e75918cab33579b97142efc86f2455f622510429b3ac65a2b942f4e625508a"
+    },
+    {
+      "type": "Theme",
+      "name": "mission martienne",
+      "id": "Theme_bf32dd694eab1c50d377f71e4014ebef327c0a0a3d8a65accf16d52379d56398"
+    },
+    {
+      "type": "Theme",
+      "name": "territoires ultramarins",
+      "id": "Theme_c214153e6da680f34a40102a34c46882e137b51a1e273ef493e7219fa4908799"
+    },
+    {
+      "type": "Organization",
+      "name": "Centre spatial Guyanais",
+      "id": "Organization_a2c9416c6542ad31a5531fb50586b97dbcb6fffeaca6d51ba8e5b754599fade2"
+    },
+    {
+      "type": "Organization",
+      "name": "Ariane",
+      "id": "Organization_478416fe6d8bf83c013c13de12a820b567372e4a36ae63140f3e0c34bb016397"
+    },
+    {
+      "type": "Organization",
+      "name": "Ariane 6",
+      "id": "Organization_b49be0842b3ad476e01e2175f7c1b60d8c4edbde3ae6f6612b5b12b776b64575"
+    },
+    {
+      "type": "City",
+      "name": "Séville",
+      "id": "City_4467c6a58ab69492d6fd1bf71c081a221b5bed0ca422b805e12f44cea0ef6e52"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "City",
+      "name": "Kourou",
+      "id": "City_21161d842497288ff66b9d6c76b94d753f7fed7767c22aba35d24543195b701d"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "exploration spatiale",
+      "id": "Theme_53d315dde34281236be967d1e10e6e7b450975b7f2db302bf5198bc7329ab412"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement",
+      "id": "Theme_3e22cc17b8a738b9c161efa6fb946acce0d66152e18a96a0a8a9e99a15eeee91"
+    },
+    {
+      "type": "Theme",
+      "name": "dérèglement climatique",
+      "id": "Theme_60205647b2eeaf601ee4e2e6b9ea7a92cc19a6fd1c5394651d737742ade35773"
+    },
+    {
+      "type": "Theme",
+      "name": "combat contre le réchauffement et le dérèglement climatique",
+      "id": "Theme_4a5e595ef673e9b775ee6699382171678a7abe9355008faafbd8549de4a7b6fe"
+    },
+    {
+      "type": "Person",
+      "name": "Sophie Adenot",
+      "id": "Person_9a2a62da06183639c2941ff243b82952c6745c2ca1061be2d5c00460661225f0"
+    },
+    {
+      "type": "Theme",
+      "name": "exploration",
+      "id": "Theme_d64dbac8e193fa58efcdfa2d24dc18c52c715f0eb75760fa622697fefc4ca5b6"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "production",
+      "id": "Theme_e8edecdd5abbd5917963b54df9936db4bdcba4f90bb9a98a9174725c74a9b1a4"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance spatiale",
+      "id": "Theme_9d562edb33923484d3772ce749fe76b798172c31528315800eb9036b4cb663a7"
+    },
+    {
+      "type": "Theme",
+      "name": "rayonnement",
+      "id": "Theme_c1b6a67635f2de758ff017569f527eb636a5ffce1b9a38245bd5bd72a6f30f26"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement",
+      "id": "Theme_d41a2410d8b1353cdac216ebec7bce81e567ae80b1d56a5c5b7942fee7e103c4"
+    },
+    {
+      "type": "Theme",
+      "name": "programmes",
+      "id": "Theme_c18b745bf98ca2491319b2b39d196c7b9292031ddb179301ec3a14e21d9cba43"
+    },
+    {
+      "type": "Theme",
+      "name": "agences",
+      "id": "Theme_38c6436777f53f180d2ab39d75181b2fc3fa5de4f857b200f19b665c063dd7d0"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Japon",
+      "id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Émirats arabes unis",
+      "id": "Country_02da2051b5b49f4cccf63ff0675abe8e1fc2d1961a4264fcb31498ee4e262b19"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe spatiale",
+      "id": "Theme_a04942ad59d26e23973950574254f1ce465e080771dc384ef90cb624d2187536"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe du spatial",
+      "id": "Theme_a7cb6e29aee7ebdfefc2a0542cfb95b196dc7197c114e3e93bd28f96eabd4bc1"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie nationale",
+      "id": "Theme_50832c5349d9d03770ce6df76fe8e823438f97bfbe7c2a35f9d0125ba549866f"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanisme du retour géographique",
+      "id": "Theme_aa39e5281db94ae2811064335bd508c8b92860822f5798fb22dc2d4f2c8de413"
+    },
+    {
+      "type": "Theme",
+      "name": "start-up",
+      "id": "Theme_33e2d329ff92597c91b43e7cf32cae9c4b37c80d9339d9a1576899b1b9c99b2f"
+    },
+    {
+      "type": "Theme",
+      "name": "scale-up",
+      "id": "Theme_980d076bd64c1d22cad1e54bb02a7a70a2fd7cfb6d48253214d36825eb3506c9"
+    },
+    {
+      "type": "Theme",
+      "name": "approche commune",
+      "id": "Theme_55dfdbba4e615dd6f25aa8cef72786fdcb9dbea78a04a29f8bafabe765bdc68b"
+    },
+    {
+      "type": "Theme",
+      "name": "start-up au niveau critique",
+      "id": "Theme_c929e682b8b83beca2d2d7981034fea5ae433077ae4ed411f505a7ae93f64140"
+    },
+    {
+      "type": "Organization",
+      "name": "TAS",
+      "id": "Organization_0aa67318505b03b8af523ab0f6a14376dac12386a6b02984a7b82619690fa2e7"
+    },
+    {
+      "type": "Organization",
+      "name": "ADS",
+      "id": "Organization_34c810dfd0f5b64e32f6afd46494eefd5da0e3d239f072cde6ab44de335ca2b3"
+    },
+    {
+      "type": "Organization",
+      "name": "Telespazio",
+      "id": "Organization_c0592b3388ad4ed7a8b06c0ee1d284d79b56258529ad2b7738a9ae0b50ef4b65"
+    },
+    {
+      "type": "Organization",
+      "name": "Eutelsat",
+      "id": "Organization_5e26d593cc87b2ce4a87a680835d6476ca2dabbd3ad71a5a4d4593c7e8b0b9db"
+    },
+    {
+      "type": "Theme",
+      "name": "lanceur",
+      "id": "Theme_68a70e855e12de96d179d92e37b7f1c48a5066746d16b55f6af34110e615a1b0"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence européenne",
+      "id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "type": "Theme",
+      "name": "protectionnisme",
+      "id": "Theme_f908a3ce2a62f196e9b3881f0b81ce31f64eb6d35dede2a07725ea9d130f54a7"
+    },
+    {
+      "type": "Theme",
+      "name": "automobile",
+      "id": "Theme_0d8fe91ee5d13a11b2f8cdf024edbf4a4c18c1cf149667d4cbedfbc587eb7f9c"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "digital",
+      "id": "Theme_b6b89ff1774153e15bd0edfe749c79fc690e98e41fe3dafd0d5406a2ef47a438"
+    },
+    {
+      "type": "Theme",
+      "name": "financement institutionnel",
+      "id": "Theme_6f095f8447d8bea14c1000072c48340c3381127371fab85ea674f119ab6a2541"
+    },
+    {
+      "type": "Theme",
+      "name": "consolidateur de la demande",
+      "id": "Theme_a58292799396adf3df64a15c456f01e5afaf4cd4375b0e16515edf4bfc9ccdf7"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "achats sur étagère de solutions américaines",
+      "id": "Theme_bfb3302287abd616a4b2c7b22d51644146ce4ec80785c3b3e29755d0dec32921"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance",
+      "id": "Theme_b922336e378de1f3bd3c36e9805efd63ad949f8fbff73adbfc2b3826e811ee6a"
+    },
+    {
+      "type": "Theme",
+      "name": "vision",
+      "id": "Theme_c996c28d111a61e21f650845477f42357c36d4fc90aa72077328f52a6f12e6b7"
+    },
+    {
+      "type": "Theme",
+      "name": "pilotage politique",
+      "id": "Theme_ee3a025f2c85b617fe323e4e269480f2eeff11b87fc24df49ee87e206f6d1b97"
+    },
+    {
+      "type": "Theme",
+      "name": "programme IRIS²",
+      "id": "Theme_200070d12a534508867c1e77c356aa88f39ff98a9fc660b44bfd1deaca51a587"
+    },
+    {
+      "type": "Theme",
+      "name": "connectivité",
+      "id": "Theme_f587392e440f5c42673ceb86fe91840d4e3c4188c1fc41e8ddbbd4dfda4f259f"
+    },
+    {
+      "type": "Theme",
+      "name": "accélération",
+      "id": "Theme_9406033de4bdd19e92a66c46369f0023da04040909b90e0a99230637771a150d"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelle gouvernance",
+      "id": "Theme_c5d92355508a64e27482e0d6118b0e6002a7397192f6fbb77b3526b597dbdad6"
+    },
+    {
+      "type": "Theme",
+      "name": "trajectoire financière",
+      "id": "Theme_c76d92f42c4bb9e5b7dfe4e5caeb7aeae8cb6f19d432b3f8b91f8800b191e81f"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "trajectoire militaire",
+      "id": "Theme_d1ccfecf0657abbabe1720a6b87757481b7b33c12dfbe0a85547728ac0e57f58"
+    },
+    {
+      "type": "Theme",
+      "name": "activités duales",
+      "id": "Theme_81de2eba23008cb38abc02488ac121971e0a04d8fe48f6b9bec93c70f58b0c5f"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition spatiale",
+      "id": "Theme_48773fd4383268ed6ea7422d951ae999afb762b6083cc05ebbd4e6a1570e3c25"
+    },
+    {
+      "type": "Theme",
+      "name": "finances publiques",
+      "id": "Theme_5c2dc2f996e67f8ddbe79eb535369467c79e0718dbddb27732da4838032796fd"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté stratégique",
+      "id": "Theme_9c7fe66a5cbafd4373495c3672d69f8027e7fdde37bc32140b1578781db93a2f"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération européenne",
+      "id": "Theme_bbf325248bdb8ab51adedfa248ddc2abc2c4cdc1a83b204d815f65c09534d43d"
+    },
+    {
+      "type": "Theme",
+      "name": "CNES",
+      "id": "Theme_3c02b3a153e45dfd583e99d23522f565dac2a25cfda4139eb681a99dc3ff302f"
+    },
+    {
+      "type": "Theme",
+      "name": "ESA",
+      "id": "Theme_b1a2ab02975301f9b5ed22f1a3e20dc7c931df8d3c4ec81d69d9e533edc70849"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pesquet",
+      "id": "Person_241474bf55bd90edc10417451b5cef432a25a03392ff00ea21be75cbfffdb38e"
+    },
+    {
+      "type": "Person",
+      "name": "Hélène Huby",
+      "id": "Person_e13c25c464879f9f3181d8c114ffdd099dde4338df93c238c03a01d44f706c8b"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès",
+      "id": "Theme_99fbe2fae74b83c0fb6be33e85f58e86e641fe47059e9c1672808dfbdcf5b5bd"
+    },
+    {
+      "type": "Theme",
+      "name": "connaissance",
+      "id": "Theme_b95f8e0ec3586745d1662f7770a2df991c48ffdfaeec3bfb3d9087f8fe11f379"
+    },
+    {
+      "type": "Theme",
+      "name": "spatiales",
+      "id": "Theme_4eb4b7743a9056a48631be5a219a0b55317558852c0d277b759bacb854423e6f"
+    },
+    {
+      "type": "Theme",
+      "name": "bouleversements radicaux",
+      "id": "Theme_6e090ddc72228a4f5d9ee9ca6edf6062734c05a51694b870256b9ad4cfae5583"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance de notre nation",
+      "id": "Theme_e68b20653a97f3d3bb50ad2058d8c52ab375051d46d76c1ae727e0e35a43f809"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie de notre accès à l'espace",
+      "id": "Theme_ed5083cde8e7945ed724dd439197c83aa7ca090dc57ab2e4189883d2e05ec7f6"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités d'action",
+      "id": "Theme_c0ea47fe3ec86fca9b4127fb917582c6c0973e0ad0f1f53bbbb86cfdb5582fce"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès humain",
+      "id": "Theme_86be73c531f1fc59296886bba3640f96146b74aa3a66a4a31c43d05539c41724"
+    },
+    {
+      "type": "Theme",
+      "name": "espérance universelle",
+      "id": "Theme_6422d775fa990e3bcb9ad83fd72fc82e087912d4f9d92a52338f29e8200655bc"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition de recherche",
+      "id": "Theme_ca545156eb032a733a57fbb275cd5757a60c2198d72a76f3f23ec45b21ce5927"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté académique",
+      "id": "Theme_2810eab9a0fa4f77dd16f7b23382677897e66d3edb17b676e2cb59a83c0af34d"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance universitaire",
+      "id": "Theme_fd6ceb0d76b9446da9eeb71082332352d99c4524579d81fb61dd489402c55c8a"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition industrielle",
+      "id": "Theme_e9a947075ee9cfb6382451c9e679e8b0eea72e4070a5ad87d0cdfce9be971397"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche et militaire",
+      "id": "Theme_8b526f3f41a5bc7f7d383946556eca577cd801aaacd875f004cb68de5bc6d252"
+    },
+    {
+      "type": "Theme",
+      "name": "commandement de l'espace",
+      "id": "Theme_32ee31d23f4f2383f37ab9a3c39ae9ca68b99541cd1d9def03059ecc6a3aea3d"
+    },
+    {
+      "type": "Theme",
+      "name": "LPM",
+      "id": "Theme_6b036ae5ae972532a4c08a91d6fea58ef99dbd0eccdf11520f1beb2290726d57"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "indépendance",
+      "evidence": "l'indépendance de la France aujourd'hui dépend de sa capacité d'action et de son indépendance dans le spatial",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "action",
+      "evidence": "l'indépendance de la France aujourd'hui dépend de sa capacité d'action et de son indépendance dans le spatial",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_3ffce4f33762a0b7ea9b1cd6439622fbef0109ddce7d1e3c85d98922fcce7c5a"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "spatial",
+      "evidence": "l'indépendance de la France aujourd'hui dépend de sa capacité d'action et de son indépendance dans le spatial",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_be04ff49df6f9224cf87b09d0c072d2df359f83a584eeef7deff7e1835862166"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "pour la France et pour l'Europe",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "Europe",
+      "evidence": "pour la France et pour l'Europe",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Europe spatiale",
+      "relation": "SPOKE_ABOUT",
+      "target": "coopération",
+      "evidence": "Parlant de coopération, je veux dire un mot ici d'Europe spatiale et d'Europe du spatial.",
+      "confidence": 1.0,
+      "source_id": "Theme_a04942ad59d26e23973950574254f1ce465e080771dc384ef90cb624d2187536",
+      "target_id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "source": "France 2030",
+      "relation": "SPOKE_ABOUT",
+      "target": "approche commune",
+      "evidence": "Ce que nous avons su faire en France avec France 2030, avec nos grands programmes, avec nos organismes, il faut maintenant le dupliquer au niveau européen avec une vraie approche commune.",
+      "confidence": 1.0,
+      "source_id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2",
+      "target_id": "Theme_55dfdbba4e615dd6f25aa8cef72786fdcb9dbea78a04a29f8bafabe765bdc68b"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Eutelsat",
+      "evidence": "C'est aussi pour cela que la France soutient Eutelsat, seul opérateur européen détenteur d'une constellation en orbite basse qui doit se mettre au service de l'Europe et est un élément déterminant de cette compétitivité.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_5e26d593cc87b2ce4a87a680835d6476ca2dabbd3ad71a5a4d4593c7e8b0b9db"
+    },
+    {
+      "source": "préférence européenne",
+      "relation": "MENTIONS",
+      "target": "compétitivité",
+      "evidence": "Après la compétitivité, le deuxième aspect sur lequel je voulais revenir pour notre Europe du spatial, c'est celui de la préférence européenne.",
+      "confidence": 1.0,
+      "source_id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9",
+      "target_id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "source": "préférence européenne",
+      "relation": "MENTIONS",
+      "target": "protectionnisme",
+      "evidence": "Cette préférence européenne, ce n'est pas un gros mot et ce n'est pas du protectionnisme.",
+      "confidence": 1.0,
+      "source_id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9",
+      "target_id": "Theme_f908a3ce2a62f196e9b3881f0b81ce31f64eb6d35dede2a07725ea9d130f54a7"
+    },
+    {
+      "source": "CNES",
+      "relation": "ALLIED_WITH",
+      "target": "Italie",
+      "evidence": "J'ai demandé au CNES de se rapprocher de ses homologues allemands et italiens",
+      "confidence": 1.0,
+      "source_id": "Theme_3c02b3a153e45dfd583e99d23522f565dac2a25cfda4139eb681a99dc3ff302f",
+      "target_id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    }
+  ]
+}

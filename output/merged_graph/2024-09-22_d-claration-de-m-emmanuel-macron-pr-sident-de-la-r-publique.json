@@ -1,0 +1,536 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Andrea",
+      "id": "Person_e9260a153c405ed9d834ed2f5c7590b01e508af8d32eb7053dbcf60f9ca44017"
+    },
+    {
+      "type": "Organization",
+      "name": "communauté de Sant'Egidio",
+      "id": "Organization_56d82a5b7245b745857f78dd30a34a7dd6fef8b688f0ea642d0f25fbf157b5d8"
+    },
+    {
+      "type": "Event",
+      "name": "retour de la guerre sur notre continent européen",
+      "id": "Event_fa61a204c31c17112b8c4b0fd1c04991c97c37f602928d93111e7cea51da2664"
+    },
+    {
+      "type": "Event",
+      "name": "guerre terrible au Proche-Orient",
+      "id": "Event_757fbb02315b192600997a516d5ae5eb50c45551a104cfe5111dfc2045444c1b"
+    },
+    {
+      "type": "Event",
+      "name": "attaques terroristes du Hamas",
+      "id": "Event_70f5f69465f54bfa0c6cbb05f74c4c1ded74f5b8c98d8c31a8c03e589106459b"
+    },
+    {
+      "type": "Event",
+      "name": "bombardements sur Gaza",
+      "id": "Event_c69e748d81ef910c7914add7d8e2addbf68acfb9f173947a3f6a75beaa55c61c"
+    },
+    {
+      "type": "Event",
+      "name": "guerre à Gaza",
+      "id": "Event_18d1ee88e1d50d2cd00eaaba226378d071d3e8a96389dd1ab39ae0ffdd8f267a"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Person",
+      "name": "Grand Rabbin KORSIA",
+      "id": "Person_b974ce085ee7360e5986ff773bdaa3a1541724ede93a205a67a43178811febbf"
+    },
+    {
+      "type": "Theme",
+      "name": "impérialisme nationaliste",
+      "id": "Theme_b6c1c0a1ecabfa10ac02003931a5194da400e41306771d65f34cf7d366e054a0"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvements terroristes",
+      "id": "Theme_e3e66c5916d08ded18730a1e5d3fcf1d8d080d75a7a68251da4e129cfd237899"
+    },
+    {
+      "type": "Theme",
+      "name": "religions",
+      "id": "Theme_6e2cbb67692d3852185df1b00c23666ffa73058e6369c2a46b8718987e59e099"
+    },
+    {
+      "type": "Theme",
+      "name": "dérèglement contemporain",
+      "id": "Theme_50400388f00f669de60942306222e37b3958058c44ef06180107c45543e82ba8"
+    },
+    {
+      "type": "Theme",
+      "name": "climatique",
+      "id": "Theme_4abf026fe9ca32e0caff98a931369a221f531d982e6efa70c6c21719a6ce0a0d"
+    },
+    {
+      "type": "Theme",
+      "name": "technologique",
+      "id": "Theme_6faf403f653ffc842186e1192d1b144875f75b192d91950d019299d189088ace"
+    },
+    {
+      "type": "Theme",
+      "name": "unanimisme",
+      "id": "Theme_b710cd5ad1a424cbf60651cae68339e8012459b15462da92782a2fb10352a380"
+    },
+    {
+      "type": "Theme",
+      "name": "grands accords",
+      "id": "Theme_9ec1f4c014be5b074ae2e33cceaf1a81291683079e14e9385bf4c4392413aaaf"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "Jeux Olympiques et Paralympiques",
+      "id": "Theme_e940994183ddb2a3bfc99aa453c9ec13fbc6cde398c01cfa60d9491bbb2d9fa5"
+    },
+    {
+      "type": "Theme",
+      "name": "reconstruction de Notre Dame",
+      "id": "Theme_265b8acb4c33643a8073b8c7d4dfc8e153c852fec1b8f474e2149efd37f4c74b"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "conflit",
+      "id": "Theme_c5df677153d0b9960d87a7cc1c81b7c456008a70cab549159756fed685546c73"
+    },
+    {
+      "type": "Theme",
+      "name": "obsession humaniste",
+      "id": "Theme_c9124b0bada5bb31a7ff6293e3b25ed94a5db51c04ac16e2fc6f33ecd39c97d2"
+    },
+    {
+      "type": "Theme",
+      "name": "respect",
+      "id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité",
+      "id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "type": "Theme",
+      "name": "déshumanisation",
+      "id": "Theme_2a566514248c073e4c7470a9175f2d9a9d247ff5314ac9b7daf9479c7d51d3d9"
+    },
+    {
+      "type": "Theme",
+      "name": "fracas",
+      "id": "Theme_262ab6b9e6102599edc73b17b31694e83aec255085f23e626c7d974bff39084c"
+    },
+    {
+      "type": "Theme",
+      "name": "montée des émotions négatives",
+      "id": "Theme_b79ed11935b2fda1ca7dcd78941b1302e9368d14672bf1c16275df3a64d57cb6"
+    },
+    {
+      "type": "Theme",
+      "name": "ignorance",
+      "id": "Theme_9df0908859edca245f2759dc5b4f44429f6d350c89f4c2d0242f64336fc009e4"
+    },
+    {
+      "type": "Theme",
+      "name": "séparation",
+      "id": "Theme_1a333b382d711436fe1a3551219154bc29226d28fd2e56d9374897cf99c80454"
+    },
+    {
+      "type": "Theme",
+      "name": "ennemi",
+      "id": "Theme_86784d438210720af6d39c6aa61fdf50ed701dca442d8f18ff766fc9dbf08e73"
+    },
+    {
+      "type": "Event",
+      "name": "attaque terroriste du 7 octobre",
+      "id": "Event_f98ccf2955c4c60976fee9e7872823049d8cb3d2e1691532ba82c8ce01b0e0a7"
+    },
+    {
+      "type": "City",
+      "name": "Gaza",
+      "id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "type": "Organization",
+      "name": "UNRWA",
+      "id": "Organization_666b5c6e7e99d707e9bb51e53458f2bc1b0520f6213165f59e4bc2be4c794d90"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Person",
+      "name": "leur humanité",
+      "id": "Person_60ae06b7c7abc64fff0bed482495c3d41be3a17bc233c4d6f5da23a2adaf862a"
+    },
+    {
+      "type": "Country",
+      "name": "le territoire français",
+      "id": "Country_db8ecfc880b02e74e0315cd7c5b9a4adcb6bd0f689412c6809eb906464787536"
+    },
+    {
+      "type": "Person",
+      "name": "nos citoyens",
+      "id": "Person_258416d192b7722282ea289fe6d797aa4631880a5b96497f7dea521621285b2a"
+    },
+    {
+      "type": "Person",
+      "name": "monseigneur",
+      "id": "Person_248ecf626b94b720ea76ed557f80278814eb05411406114374970f8f8ed4508b"
+    },
+    {
+      "type": "Theme",
+      "name": "réhumaniser",
+      "id": "Theme_ec30bea1a41e69c604fa57f231e6100ef88aeebd200e1ca033c4b16457ff0958"
+    },
+    {
+      "type": "Theme",
+      "name": "connaître",
+      "id": "Theme_726df39424447b596a7bdba1b129605f63346630af545dfcf4393288cea604bb"
+    },
+    {
+      "type": "Theme",
+      "name": "comprendre",
+      "id": "Theme_4f2d462fded97ea3c7a2fe94391b4ec3adac4eb3e58667662b0b7ef40b820aa5"
+    },
+    {
+      "type": "Theme",
+      "name": "patience",
+      "id": "Theme_57b77b434fc82d3f141f35f1bc08a01078acc717fc4753851424847bf73d0bd4"
+    },
+    {
+      "type": "Theme",
+      "name": "regard",
+      "id": "Theme_951d113a7e3e93dea0caf23367d8dca562c3ad1b59b2f02fa1c82c67bc0a36fc"
+    },
+    {
+      "type": "Theme",
+      "name": "drame",
+      "id": "Theme_9c20728ecf6b37bb67831d210c0216001764300b070f85190a0f6d06f9dbee4f"
+    },
+    {
+      "type": "Theme",
+      "name": "école",
+      "id": "Theme_e4023600e045c977a775d339830e8508634d36394f9b8486f09d01cdd3b05e6b"
+    },
+    {
+      "type": "Theme",
+      "name": "classe",
+      "id": "Theme_198019a2b7cd1384ef15e77c1b5b2d90ae5514bd755dd2910c5e10fcc499e35f"
+    },
+    {
+      "type": "Theme",
+      "name": "philosophiques",
+      "id": "Theme_538c14900c34a1de21dcd7ad5ead1b58f7598afefa8776600bd8b18d88ad5de2"
+    },
+    {
+      "type": "Theme",
+      "name": "libertariens",
+      "id": "Theme_0c5ce97cece1af1ed50664b83b465a7c98f816d6c2448ccaf2a9b299100f30f7"
+    },
+    {
+      "type": "Theme",
+      "name": "conquérir une autre planète",
+      "id": "Theme_aa77c1600efc6e9eefc2e20eed975ce90afd8b7a554d4d20bf9d9c752881fde0"
+    },
+    {
+      "type": "Theme",
+      "name": "harmonieux",
+      "id": "Theme_6415150bd93216b000daf0225987118449d023f018972797476385e029d1d8a6"
+    },
+    {
+      "type": "Theme",
+      "name": "guerres",
+      "id": "Theme_1e54399c3e4dfb567cbd812434538394e310041b229559b071495f94d0277ffd"
+    },
+    {
+      "type": "Theme",
+      "name": "effondrement moral",
+      "id": "Theme_33afa8b6424e4225e5ee296821aa4b5e047c27c048561f70e87e7e8db7f270fa"
+    },
+    {
+      "type": "Theme",
+      "name": "épuisement",
+      "id": "Theme_1b49000ab280c2bc0d9ae941abcd7f555f44682070f052a04cf1a9bfc1d8f2c6"
+    },
+    {
+      "type": "Theme",
+      "name": "détruire l'ennemi",
+      "id": "Theme_854581fbc83a289772319ee37814c66aae29a55eb9e2952c8e577160ad19d156"
+    },
+    {
+      "type": "Theme",
+      "name": "imagination",
+      "id": "Theme_ff7c604bd93b7293060cfdedaf4865482f982f271879fbb7f5e18338d246b252"
+    },
+    {
+      "type": "Theme",
+      "name": "cours",
+      "id": "Theme_ceb983fd72492eaf64380b403476c645e1693e4d71bf54694c96a9741570557a"
+    },
+    {
+      "type": "Theme",
+      "name": "référence",
+      "id": "Theme_885ecee974940ac5578a7e92bfb694602f1471f66a6c251c9040026d1b12912f"
+    },
+    {
+      "type": "Theme",
+      "name": "copie",
+      "id": "Theme_6be29e65339ee86840fcb899804770a71bce3764221ba6b3b977e3bd7e850ccd"
+    },
+    {
+      "type": "Theme",
+      "name": "représentation",
+      "id": "Theme_a9a7b5a593ca9a95597f9519c3d596cd1d671aca81e04e133c5ba26de66efd38"
+    },
+    {
+      "type": "Theme",
+      "name": "copiste",
+      "id": "Theme_ec2eb575da8718642cc27d755ecb64815ab582413ab8a49b118816596499025c"
+    },
+    {
+      "type": "Theme",
+      "name": "créateur",
+      "id": "Theme_bcb80da5be40ac6766161bd320b94b4888330153ee22bec134789a513e21e5fc"
+    },
+    {
+      "type": "Theme",
+      "name": "expert",
+      "id": "Theme_d0fe34a4291739477bff0054d95c2d76c371c801cf90e6d32ae679ceb4379a07"
+    },
+    {
+      "type": "Theme",
+      "name": "passé",
+      "id": "Theme_4c601b71b511f2e5831fbb1ce633fd7c37f7924a30c6cbc7915825ad42458283"
+    },
+    {
+      "type": "Theme",
+      "name": "nostalgie",
+      "id": "Theme_b4fa46c4992c30da74d47ea7c24c540859dea25e24de387648b2c4636b77405b"
+    },
+    {
+      "type": "Theme",
+      "name": "identité",
+      "id": "Theme_4f543f4a07c2f288f23ef16d94246f7c22b38ac986042e48f59a6ca4b459f4dd"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "nostalgie de la paix",
+      "id": "Theme_19b48a81ef8f19134158e35d26e08d488fdfc4166e4e6026c41e5c27ae8c7c1b"
+    },
+    {
+      "type": "Theme",
+      "name": "volonté",
+      "id": "Theme_16b93f9ed8b73b81c97ecd0a6cdb37d8a5b24c3afd93e53085d57fee061b7ba6"
+    },
+    {
+      "type": "Theme",
+      "name": "obsession du passé",
+      "id": "Theme_42b0052c8008f00ce1d457cc64d0be402ff304ee12a7ad44014020f608e46aa5"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations",
+      "id": "Theme_3957cb051014b00717e7b2ec655cbcfa47c99687835fe48f9d3a8fbe1cedaead"
+    },
+    {
+      "type": "Theme",
+      "name": "charbon et l'acier",
+      "id": "Theme_0da762975b8fb3313c19be0b8ebe221aa2b9e9ff31fc38df8fdea0346beddb96"
+    },
+    {
+      "type": "Theme",
+      "name": "Shoah",
+      "id": "Theme_02306b8c83b38064c0db2c7e85a92e7907e1d8cad078ff92cd101059830bb40a"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre civile européenne",
+      "id": "Theme_961ef8e01239337715edbb43f6694e98680f440df73cf100838f9f36f9b34933"
+    },
+    {
+      "type": "Theme",
+      "name": "paix européenne",
+      "id": "Theme_496285f5b29d441f2cabef7d5e1974c605e06c2656219ed051d1d40d67265587"
+    },
+    {
+      "type": "Theme",
+      "name": "paix de demain",
+      "id": "Theme_31aa7639b2e5269cb123a4983a8c9856dcba7ee53929c5e2e730372ff6297946"
+    },
+    {
+      "type": "Theme",
+      "name": "réconciliation avec les Balkans",
+      "id": "Theme_7fa75a06f026b4985650fec32e15a99b6e85e70bb4141ec8bca78a31b291abc8"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation de l'Europe",
+      "id": "Theme_8254934fb16644f13ef1ae52650c721e575fd42eaabcdf021e512274e7fcbfc2"
+    },
+    {
+      "type": "Theme",
+      "name": "rapport à la Russie",
+      "id": "Theme_68f6960f1c8c1c6643fc72ea6d789ee76c20088529b67c05147382179acdc2a0"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvel ordre international",
+      "id": "Theme_7a0f78bce5ad4690d756bb59d9577d3e56524351f53314102807b82cf5d41adc"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre international",
+      "id": "Theme_289a437b7ebd1758f517244ffb7920e1783b8884a6c25a392dab8d910194a767"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution technologique",
+      "id": "Theme_719afa0a84af6343b9781dc90c8e39f82790b022ed9041bd2100c17b29e4d1da"
+    },
+    {
+      "type": "Organization",
+      "name": "l'ONU",
+      "id": "Organization_d60e4e17cc4c740bb3ec497e8e51798e7112d24f019493cf543fd180eff9142b"
+    },
+    {
+      "type": "Organization",
+      "name": "la Banque mondiale",
+      "id": "Organization_76c0c13fbd4a9f14b10134fa4ceb9f61da7e2cafbe4ca53d70c29748005a8d6e"
+    },
+    {
+      "type": "Law",
+      "name": "le Pacte de Paris pour les peuples et la planète",
+      "id": "Law_5ea39f0b0278f29ad9a305d3a0a204b239ae6f72e1e15607df0e1bebaa2ce248"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "unanimisme",
+      "relation": "MENTIONS",
+      "target": "unanimisme",
+      "evidence": "Celle par lesquelles l'unanimisme se fait qui permet de bâtir les grands accords que nous savons encore trouver",
+      "confidence": 1.0,
+      "source_id": "Theme_b710cd5ad1a424cbf60651cae68339e8012459b15462da92782a2fb10352a380",
+      "target_id": "Theme_b710cd5ad1a424cbf60651cae68339e8012459b15462da92782a2fb10352a380"
+    },
+    {
+      "source": "unanimisme",
+      "relation": "MENTIONS",
+      "target": "grands accords",
+      "evidence": "Celle par lesquelles l'unanimisme se fait qui permet de bâtir les grands accords que nous savons encore trouver",
+      "confidence": 1.0,
+      "source_id": "Theme_b710cd5ad1a424cbf60651cae68339e8012459b15462da92782a2fb10352a380",
+      "target_id": "Theme_9ec1f4c014be5b074ae2e33cceaf1a81291683079e14e9385bf4c4392413aaaf"
+    },
+    {
+      "source": "grands accords",
+      "relation": "MENTIONS",
+      "target": "climat",
+      "evidence": "Celle par lesquelles l'unanimisme se fait qui permet de bâtir les grands accords que nous savons encore trouver, comme en effet celui pour le climat",
+      "confidence": 1.0,
+      "source_id": "Theme_9ec1f4c014be5b074ae2e33cceaf1a81291683079e14e9385bf4c4392413aaaf",
+      "target_id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "source": "Jeux Olympiques et Paralympiques",
+      "relation": "MENTIONS",
+      "target": "Jeux Olympiques et Paralympiques",
+      "evidence": "Autour de ces Jeux Olympiques et Paralympiques, celui, Monseigneur ULRICH l'évoquait, que nous avons tous vu depuis 5 ans autour de la reconstruction de Notre Dame",
+      "confidence": 1.0,
+      "source_id": "Theme_e940994183ddb2a3bfc99aa453c9ec13fbc6cde398c01cfa60d9491bbb2d9fa5",
+      "target_id": "Theme_e940994183ddb2a3bfc99aa453c9ec13fbc6cde398c01cfa60d9491bbb2d9fa5"
+    },
+    {
+      "source": "reconstruction de Notre Dame",
+      "relation": "MENTIONS",
+      "target": "reconstruction de Notre Dame",
+      "evidence": "Autour de ces Jeux Olympiques et Paralympiques, celui, Monseigneur ULRICH l'évoquait, que nous avons tous vu depuis 5 ans autour de la reconstruction de Notre Dame",
+      "confidence": 1.0,
+      "source_id": "Theme_265b8acb4c33643a8073b8c7d4dfc8e153c852fec1b8f474e2149efd37f4c74b",
+      "target_id": "Theme_265b8acb4c33643a8073b8c7d4dfc8e153c852fec1b8f474e2149efd37f4c74b"
+    },
+    {
+      "source": "guerre",
+      "relation": "OPPOSES",
+      "target": "paix",
+      "evidence": "Céder quelque chose à la guerre, c'est trahir ceux qui ont combattu à nos côtés hier. À l'inverse, la paix à une forme de précarité ontologique, profonde, parce qu'elle est faite de renoncement.",
+      "confidence": 1.0,
+      "source_id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51",
+      "target_id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "source": "paix",
+      "relation": "MENTIONS",
+      "target": "guerre",
+      "evidence": "C'est pour ça qu'en effet, nous parlions ensemble il y a deux ans, d'une paix qui est toujours impure, de quelque chose qui se fait sur des compromis, des acceptations. Mais la paix est toujours infiniment plus fragile en cela, même à partir du moment de la seconde où la guerre est revenue.",
+      "confidence": 1.0,
+      "source_id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503",
+      "target_id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "source": "drame",
+      "relation": "MENTIONS",
+      "target": "guerre",
+      "evidence": "partout où nous avons les signaux faibles de cela, le drame est déjà là et s'annonce et la guerre devient inarrêtable",
+      "confidence": 1.0,
+      "source_id": "Theme_9c20728ecf6b37bb67831d210c0216001764300b070f85190a0f6d06f9dbee4f",
+      "target_id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "source": "école",
+      "relation": "MENTIONS",
+      "target": "classe",
+      "evidence": "partout où on peut – et les religions que vous représentez ici jouent un rôle fondamental à cet égard, et la France s'honore de les y aider, en particulier au Proche-Orient – partout où on peut sauver une école, protéger une classe, on sauve un peu de ce chemin possible",
+      "confidence": 1.0,
+      "source_id": "Theme_e4023600e045c977a775d339830e8508634d36394f9b8486f09d01cdd3b05e6b",
+      "target_id": "Theme_198019a2b7cd1384ef15e77c1b5b2d90ae5514bd755dd2910c5e10fcc499e35f"
+    },
+    {
+      "source": "paix",
+      "relation": "MENTIONS",
+      "target": "Europe",
+      "evidence": "Nous avons imaginé l'Europe qui est la création la plus inédite qui soit, une création politique non hégémonique, bâtissant la paix et la prospérité, mutualisant ce par quoi la France et l'Allemagne jusque-là se faisaient la guerre, en commençant par le charbon et l'acier, les deux armes de destruction.",
+      "confidence": 1.0,
+      "source_id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Marc Bloch",
+      "id": "Person_6c4608685cc7356213e997f258bcccb96ef14022a4557a9476ed88c662fbd314"
+    },
+    {
+      "type": "Organization",
+      "name": "Sorbonne",
+      "id": "Organization_2da20fc04b6c37fe451b69f45776a5d047cb444cdf09f2e8da175f1232a18a6a"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "lyonnaise",
+      "id": "City_07f4f8560b1b18614766118c0c79a90ee27061e041aff84d58bac71cda836eee"
+    },
+    {
+      "type": "City",
+      "name": "champ",
+      "id": "City_393752b16e3d043aae453508d868a69ef25fc70b22c284c97a933f46cd5d3ed6"
+    },
+    {
+      "type": "Organization",
+      "name": "Réseau",
+      "id": "Organization_1935afa650ce6b2ad05602870a5542f2fe0c4add37cde3fd7f8e5c3a02c2d981"
+    },
+    {
+      "type": "Person",
+      "name": "Lucien Febvre",
+      "id": "Person_8c2ff1814ee59058ede12b9b7ced960a02c7ba17613953268091e1b45978a0ac"
+    },
+    {
+      "type": "Person",
+      "name": "Fernand de Brinon",
+      "id": "Person_04ca6ba060dbbbf6dd98d129242461536c84f65d42d18233f5983513d23ecf4d"
+    },
+    {
+      "type": "Person",
+      "name": "Jérôme Carcopino",
+      "id": "Person_16bcb31b36fd4e116a8e352d5e67ebb9c0290f5ce2fc1b4a246caa9f267c870b"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial",
+      "id": "Organization_48efbe1c55bde37d157aab1b68e48c4afae50c83425df2a53641485a38040dd1"
+    },
+    {
+      "type": "Organization",
+      "name": "État français",
+      "id": "Organization_8668f3cbdbe019c9f85f8818d05456a2fd9b1c0ecbd5f57fddbcc6ccc55136f2"
+    },
+    {
+      "type": "Organization",
+      "name": "École des Annales",
+      "id": "Organization_fed928830ca35126bc5ee4fcc25f0bb032148d8f5f02e38181425240b525b4a6"
+    },
+    {
+      "type": "Organization",
+      "name": "Université de Strasbourg",
+      "id": "Organization_edf0c8d779d5b4cd6fe074e8a2bcf4a7eea9df355cf23da410955ec2be16ff93"
+    },
+    {
+      "type": "Organization",
+      "name": "Université",
+      "id": "Organization_a5c3614f5b6446015a3d4c1cc713fd650d6556f6f3cb7caee2828ec9bcf89b99"
+    },
+    {
+      "type": "Organization",
+      "name": "Vichy",
+      "id": "Organization_0fc3d91666fca3efeb74bd569dd318da3d058cfd5fda0ce158b03db639c60c45"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémitisme",
+      "id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "type": "Theme",
+      "name": "juif",
+      "id": "Theme_d789e52e69aeccff9f302bed1443fe709c0b53f39a35bf54fa7810d499caff0c"
+    },
+    {
+      "type": "Theme",
+      "name": "statuts des Juifs",
+      "id": "Theme_08b2623ed49ac2d772a1e8a0439f49a7e73036fd95a10291259bf3b0b88f6720"
+    },
+    {
+      "type": "Theme",
+      "name": "loi de juillet 1941",
+      "id": "Theme_9f5f3951fc866890aec01589ff19802990bedadb0173ba9740ea7d26e8002411"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Person",
+      "name": "Jean Moulin",
+      "id": "Person_7a31bd4caf84b8ba31eac59cfa7fb2777ad0ae3b615d6577d48eff4436b7427a"
+    },
+    {
+      "type": "Person",
+      "name": "Achille Peretti",
+      "id": "Person_c5ca44c3e7f63eab6a4eb211d593c2092262c0026c2695801ce2cab58d903099"
+    },
+    {
+      "type": "Person",
+      "name": "Paul Didier",
+      "id": "Person_5b71d4e855588d237dd3302627b2429597595a1381d961f118b21090cc631d87"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre-Henri Teitgen",
+      "id": "Person_72472832f3e65e8931bb3cccf6f034bb0cd383b04239f1c253c4b48887ac567f"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre Dac",
+      "id": "Person_e3cbf7348441f5165e1f36ef2b2546d72cde13b81221df0226bba131b17dc091"
+    },
+    {
+      "type": "Person",
+      "name": "Adélaïde Hautval",
+      "id": "Person_2066d4ef1362c81ca7d94c88063ffada25f77a617b3a0f8f2068b44a1c702077"
+    },
+    {
+      "type": "Person",
+      "name": "Maurice Pessis",
+      "id": "Person_17a89388881e197bcb018f17bb9b3ea16a3b4440371c57e5cb37522c52cae447"
+    },
+    {
+      "type": "Person",
+      "name": "Maurice Blanchard",
+      "id": "Person_8eae6ca8d54f340e239266570ae470d830cc9c5d0dc441b5b7a136b25aa27fdb"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur Rolin",
+      "id": "Person_61b561b4a769d3f75361318c0a52aaa93320127c327249f83c69b571b2f4275d"
+    },
+    {
+      "type": "Person",
+      "name": "Henri Frenay",
+      "id": "Person_2e767c98c5a10c89571b1d7c52ea0aa6ae63ba8147b6b306222ec001c1138ebc"
+    },
+    {
+      "type": "Person",
+      "name": "François de Menthon",
+      "id": "Person_f779dec5526777b2ec6e27d1e68434a555a352f650af5fcc4476eb4f762e5b67"
+    },
+    {
+      "type": "Person",
+      "name": "Alexandre Parodi",
+      "id": "Person_dd100672fc3a1a1548e215f73418351f0d3c6bba57937e75c3fde3210d6689c7"
+    },
+    {
+      "type": "Person",
+      "name": "Michel Debré",
+      "id": "Person_1dc9c0c7d3fb8f9a7d472fac1553dbe1bf54435bbeb1d2ccbea2457b9039d434"
+    },
+    {
+      "type": "Person",
+      "name": "Simonne",
+      "id": "Person_ae54cbf723759ca5d4bc8d8b8bdc8f4a444e214cae56d2b57af36717b0c5d76f"
+    },
+    {
+      "type": "Person",
+      "name": "Klaus Barbie",
+      "id": "Person_f5b60df84144aa793d07f29e2ba5896e7064cdda432f22e6a164b90a7a42af64"
+    },
+    {
+      "type": "Person",
+      "name": "Francis André",
+      "id": "Person_218a1805bf499607e388b36de3565889c14a52e1c1772f287daed1497559f526"
+    },
+    {
+      "type": "Person",
+      "name": "gueule tordue",
+      "id": "Person_b2d7774ab07c398fb9554c2f2d1a28b8728343edd3952140261d4610582b779e"
+    },
+    {
+      "type": "Organization",
+      "name": "Milice",
+      "id": "Organization_d2c670cf7e894b115a3d539cf9b33d1ffbeb8efc8b4c8e202f28f723fdd0e3b1"
+    },
+    {
+      "type": "Organization",
+      "name": "Prison de Montluc",
+      "id": "Organization_ccda3bc8b241febe9003ca46e557fcf644c35c5165a701dc6e28f2018da1791e"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "passé",
+      "id": "Theme_4c601b71b511f2e5831fbb1ce633fd7c37f7924a30c6cbc7915825ad42458283"
+    },
+    {
+      "type": "Theme",
+      "name": "terroriste",
+      "id": "Theme_995b294b824204612733b8b134f5715c371f159b076e5a082a5829ba2055a94b"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre civile",
+      "id": "Theme_96b88ec824855b6df0f12cc198b6911e55edb2047b485eabb0bf5df3c89ce2bc"
+    },
+    {
+      "type": "Theme",
+      "name": "défaite",
+      "id": "Theme_5d2e2dcea020c3163e796cf50110e069d136e8ea9ac56b7378e31ce59ea96783"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État",
+      "id": "Organization_2e87b80d05da954904064e134e37af29a9b3758a76fc2f408a27095dea004f71"
+    },
+    {
+      "type": "Person",
+      "name": "Blum",
+      "id": "Person_2de1f4d3c4e971285944c031f855c9279fbc9018e61daf9d90986c6429570fba"
+    },
+    {
+      "type": "Theme",
+      "name": "L'Etrange défaite",
+      "id": "Theme_c1e75b956b29179f88c2aa2e73486de375ccfb3003af16705ec6606684c28ad0"
+    },
+    {
+      "type": "Theme",
+      "name": "Front populaire",
+      "id": "Theme_348d2f22aa6bd7fea936a7c22070ce96aefb507ef3ad65940eb985c150d36031"
+    },
+    {
+      "type": "Theme",
+      "name": "perte de toute force morale de la Nation",
+      "id": "Theme_6590d332ee27357f8d3f5cfa8a0463b3aae7a3d0317441c3b8017cf2ece44270"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de défaite",
+      "id": "Theme_825b50d2a0645ea7073f28bdc296b60cf954b6159dc89e8c7973ed17edc40210"
+    },
+    {
+      "type": "Theme",
+      "name": "dirigeants des gouvernements Blum",
+      "id": "Theme_7482e70e462867f35a42bdf7e44e775caff0ef407e06e73590d8063eb8fd278b"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de Vichy",
+      "id": "Theme_7b13de057bfdb7292c14402c7edd8f13b8f3cf9a6bc1b1218f9dbe0613598488"
+    },
+    {
+      "type": "Theme",
+      "name": "fascination pour la force brute",
+      "id": "Theme_447021b3229834ddaa965354a088b9a8a37f11c0453cfcde11a0bb132399a16e"
+    },
+    {
+      "type": "Person",
+      "name": "Alice",
+      "id": "Person_f3eb0b6905e3793e6e4c72f282d221e85a5cdb299022b4e9d0a4040e005a2800"
+    },
+    {
+      "type": "Person",
+      "name": "Étienne",
+      "id": "Person_558752abe5fae457849c74c800ca9a0a4227586473d93be1c943c39dcd0458bf"
+    },
+    {
+      "type": "Person",
+      "name": "Louis",
+      "id": "Person_3ec8bc85f01efaf42be0b28bfb831b3120ac5f422264faa7d8e260c776bd6fba"
+    },
+    {
+      "type": "Person",
+      "name": "Daniel",
+      "id": "Person_60b6a76aaf50c7fe43e83da309a088bbae1bcf4512b3737ab745697a002b4fcd"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Paul",
+      "id": "Person_8a089620ad561bd17e9b6780bcb9d8650329f1772c236e6d6ca8def6033d3cc7"
+    },
+    {
+      "type": "Person",
+      "name": "Suzanne",
+      "id": "Person_c98b1f42089f96933f73e84a3f7c5d6f4165c56e8c28be2482f9061584139112"
+    },
+    {
+      "type": "Person",
+      "name": "Carlo Ginzburg",
+      "id": "Person_9fee5a766c988e398dc6f94d13f5ab20f10de4c77bee9fc358bce9161b4ecaf1"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "méthode scientifique",
+      "id": "Theme_36733520e98d07c38e268e624e0bf660e7749383adf9f5a886e33d06a1db451b"
+    },
+    {
+      "type": "Theme",
+      "name": "rapport au fait",
+      "id": "Theme_6fa4e8ad6c800ba025a00594df41df6f1e5a7eac302f317bf34a13463965488a"
+    },
+    {
+      "type": "Theme",
+      "name": "construction de la vérité",
+      "id": "Theme_b17f26fe29fc1bf1307a7b09227ff8df1bd7f0b9d2e48bbc59eb3c32b0808c17"
+    },
+    {
+      "type": "Theme",
+      "name": "sociétés humaines",
+      "id": "Theme_d9563530d40f55d7152d7a677c8b42b7db35dcd4a0cff8a4b2d526b818918a44"
+    },
+    {
+      "type": "Theme",
+      "name": "rapports sociaux",
+      "id": "Theme_885d3a09944ca0aed15eb834870038f198e6f043b303176161b3d2d46c9f27a5"
+    },
+    {
+      "type": "Theme",
+      "name": "religieux",
+      "id": "Theme_243fb3e82fdd3ff5f2ae5e7770e737e73ee7faaa2bce789a06b8d232e05de390"
+    },
+    {
+      "type": "Theme",
+      "name": "imaginaires",
+      "id": "Theme_afb4727e610213c277cb799d06c5c2b69347f6c03352e1f4896a5477127af735"
+    },
+    {
+      "type": "Theme",
+      "name": "vérité",
+      "id": "Theme_953d05a2f3d8c50ee08e03421281e20b608a47762bf4a8ec7bc5f2621cb382c1"
+    },
+    {
+      "type": "Theme",
+      "name": "façons de sentir et penser",
+      "id": "Theme_f865ff815141fcec335a9b5dd747526ef6bbfeeb33218eb35c62175248c4336c"
+    },
+    {
+      "type": "Theme",
+      "name": "outillage mental",
+      "id": "Theme_6d1c0a5182b80a9517b79b5aa4666ca12a21c5cbaf2cb9ab224d726743014a07"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "science",
+      "id": "Theme_d67c10976c1585f4e9e05fc3bac6b493bcfd249cfb52bacfebf7d74d2b724f45"
+    },
+    {
+      "type": "Theme",
+      "name": "Raison",
+      "id": "Theme_9e9d8f485579e57f1eef713302cd106d43b9f1ff37f7d0bbbf7fe3484509fd78"
+    },
+    {
+      "type": "Theme",
+      "name": "affaire Dreyfus",
+      "id": "Theme_521b167e227f27c006b1402e2da5c63ebb7cf4a5c64ed3f88ae2e5930a6988a0"
+    },
+    {
+      "type": "Theme",
+      "name": "Résistance",
+      "id": "Theme_e76d4a7d077688683b8612822efb91314ca3d8a465e71434c7d639fcd7efc3a4"
+    },
+    {
+      "type": "Person",
+      "name": "Simonne Bloch",
+      "id": "Person_6443d5aeca22a509333c3bf1d5c913ab030c14b8db3bd38432081d8a52e8d8c3"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "printemps",
+      "id": "Theme_531707aa7f8f58377b5d90c752a30e1f903ce2aeff56a8574169690b0a3b9b66"
+    },
+    {
+      "type": "Theme",
+      "name": "patrie",
+      "id": "Theme_4079aa9734c9091368bffcf632034e06cecaadec102a482fdcc6b4ec9873a5eb"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "État français",
+      "relation": "OPPOSES",
+      "target": "Marc Bloch",
+      "evidence": "Les hommes au service de l'État français ne voient en Marc Bloch que le juif. Le juif malfaisant, funeste, nocif. Coupable parce que juif.",
+      "confidence": 1.0,
+      "source_id": "Organization_8668f3cbdbe019c9f85f8818d05456a2fd9b1c0ecbd5f57fddbcc6ccc55136f2",
+      "target_id": "Person_6c4608685cc7356213e997f258bcccb96ef14022a4557a9476ed88c662fbd314"
+    },
+    {
+      "source": "Vichy",
+      "relation": "PROPOSED",
+      "target": "guerre civile",
+      "evidence": "Sa mort est même revendiquée par le chef de la Milice, Joseph Darnand, terrible aveu qui marque alors la volonté des derniers fidèles de Vichy d'entraîner le pays dans la guerre civile",
+      "confidence": 1.0,
+      "source_id": "Organization_0fc3d91666fca3efeb74bd569dd318da3d058cfd5fda0ce158b03db639c60c45",
+      "target_id": "Theme_96b88ec824855b6df0f12cc198b6911e55edb2047b485eabb0bf5df3c89ce2bc"
+    },
+    {
+      "source": "Marc Bloch",
+      "relation": "SPOKE_ABOUT",
+      "target": "dirigeants des gouvernements Blum",
+      "evidence": "Marc Bloch est sévère avec les dirigeants des gouvernements Blum qui n'ont pas vu le pire advenir,",
+      "confidence": 1.0,
+      "source_id": "Person_6c4608685cc7356213e997f258bcccb96ef14022a4557a9476ed88c662fbd314",
+      "target_id": "Theme_7482e70e462867f35a42bdf7e44e775caff0ef407e06e73590d8063eb8fd278b"
+    },
+    {
+      "source": "Marc Bloch",
+      "relation": "MENTIONS",
+      "target": "Simonne",
+      "evidence": "Marc Bloch est inséparable de Simonne, son amour, son éternelle victoire, sans qui il n'aurait pu accomplir son œuvre.",
+      "confidence": 1.0,
+      "source_id": "Person_6c4608685cc7356213e997f258bcccb96ef14022a4557a9476ed88c662fbd314",
+      "target_id": "Person_ae54cbf723759ca5d4bc8d8b8bdc8f4a444e214cae56d2b57af36717b0c5d76f"
+    },
+    {
+      "source": "Marc Bloch",
+      "relation": "SPOKE_ABOUT",
+      "target": "méthode scientifique",
+      "evidence": "l'Histoire sert à chercher la vérité et à trouver la liberté. Inspiré par son père, lui-même professeur d'histoire antique, et son frère médecin, Marc Bloch a placé la méthode scientifique au cœur de sa discipline",
+      "confidence": 1.0,
+      "source_id": "Person_6c4608685cc7356213e997f258bcccb96ef14022a4557a9476ed88c662fbd314",
+      "target_id": "Theme_36733520e98d07c38e268e624e0bf660e7749383adf9f5a886e33d06a1db451b"
+    },
+    {
+      "source": "Marc Bloch",
+      "relation": "MENTIONS",
+      "target": "Histoire",
+      "evidence": "Ainsi Marc Bloch lie-t-il France et Histoire, République et science",
+      "confidence": 1.0,
+      "source_id": "Person_6c4608685cc7356213e997f258bcccb96ef14022a4557a9476ed88c662fbd314",
+      "target_id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "source": "Marc Bloch",
+      "relation": "MENTIONS",
+      "target": "République",
+      "evidence": "Ainsi Marc Bloch lie-t-il France et Histoire, République et science",
+      "confidence": 1.0,
+      "source_id": "Person_6c4608685cc7356213e997f258bcccb96ef14022a4557a9476ed88c662fbd314",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "source": "Marc Bloch",
+      "relation": "MENTIONS",
+      "target": "science",
+      "evidence": "Ainsi Marc Bloch lie-t-il France et Histoire, République et science",
+      "confidence": 1.0,
+      "source_id": "Person_6c4608685cc7356213e997f258bcccb96ef14022a4557a9476ed88c662fbd314",
+      "target_id": "Theme_d67c10976c1585f4e9e05fc3bac6b493bcfd249cfb52bacfebf7d74d2b724f45"
+    },
+    {
+      "source": "Marc Bloch",
+      "relation": "SPOKE_ABOUT",
+      "target": "affaire Dreyfus",
+      "evidence": "Oui, pour Marc Bloch, adolescent au temps de l'affaire Dreyfus, la République organise la confrontation respectueuse des faits, des idées, donne sa place à la science et à la justice, libère de la dépendance aux croyances faciles et de la crédulité aux fausses nouvelles.",
+      "confidence": 1.0,
+      "source_id": "Person_6c4608685cc7356213e997f258bcccb96ef14022a4557a9476ed88c662fbd314",
+      "target_id": "Theme_521b167e227f27c006b1402e2da5c63ebb7cf4a5c64ed3f88ae2e5930a6988a0"
+    }
+  ]
+}

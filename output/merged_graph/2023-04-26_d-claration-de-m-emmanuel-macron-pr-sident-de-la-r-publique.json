@@ -1,0 +1,956 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "CNH",
+      "id": "Organization_9b072cd2fec610c4646ee9843fe74d43fb38d6a5a8280e9071f903580ce383a4"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Event",
+      "name": "pandémie",
+      "id": "Event_e3c6bbe9c3ea36bf8eae5821d4fbc5c578f155ccb91b3dd1a0f93926ebdd6e3e"
+    },
+    {
+      "type": "Event",
+      "name": "rendez-vous électoraux",
+      "id": "Event_36e888c18dea0063291e44f0640a7b99a759b5e957edc11646de06ad44b2fa96"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Première ministre",
+      "id": "Person_5a6bde008a448ebb4d985596bfbfaf903f8af9466a7cee3eba7e49b7a48c6247"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la défenseure des Droits",
+      "id": "Person_00a2f2c9a497bf5f753cd72b5e1935f19fb5f858d8ffb04f1f90d39d3a36ef2c"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les parlementaires",
+      "id": "Person_ee51dc2324bec5b163f1b8c4d3c4713f0a34d4232a11b6a3033c9f8b0c2a0fa2"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le préfet de la région d'Île de France, préfet de Paris",
+      "id": "Person_3f425fc9a19122d54eaedf3ec656018216297ed4a743906e1a1e0686427e6c9c"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les élus",
+      "id": "Person_271cb721002ea7abe3b15bcad709df18a3cf4248d0db3ac918f9fa8e5753ec04"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil national consultatif des personnes handicapées",
+      "id": "Person_655ccd146a65fc6e9f972a64035e244232fbdea077682a4c951aafd3a681837d"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le haut-commissaire à l'Emploi et à l'Engagement des Entreprises",
+      "id": "Person_396bccd6a5e0d7fb27694f8d04452b19060eb603b321da9c61e34ce822a0b045"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs",
+      "id": "Person_625fe3a313c056b9dc1724205255b9a7767c4b46670f91284ff4a20cb9382408"
+    },
+    {
+      "type": "Person",
+      "name": "Première ministre",
+      "id": "Person_9ff0e19887e4e2b35684ac675f8d2d31181408c695aaac854cf451fc260b4b47"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "formation professionnelle",
+      "id": "Theme_d846003645ad5e5e511208f664265ae5edc2a1f2c5d843f3ff4622d434eb6c71"
+    },
+    {
+      "type": "Theme",
+      "name": "participation à la vie sociale",
+      "id": "Theme_85d250330ba78d09d5da1d54cdea85a41892f0b83e7439fb06725810a9648c11"
+    },
+    {
+      "type": "Theme",
+      "name": "orientation",
+      "id": "Theme_74039395f94b06baaf3782d15df5ce6738621f26f63d04c0fc5af90d91a6c498"
+    },
+    {
+      "type": "Theme",
+      "name": "protection sociale",
+      "id": "Theme_3e44f1f1c91271f91a440ea8e7a93aa8c79e8d543177b5ac9da384a1345397dd"
+    },
+    {
+      "type": "Theme",
+      "name": "décence",
+      "id": "Theme_2eb7cd4589e64c1c93264a2eb5ea7af5a5f5d4f2249319a658b8d8daf5cbe478"
+    },
+    {
+      "type": "Theme",
+      "name": "silence",
+      "id": "Theme_d8abd9a22fb4c4d3199f6408ca04cd0301506eb1e43b0db826c16d07c7331109"
+    },
+    {
+      "type": "Theme",
+      "name": "résistance",
+      "id": "Theme_e76d4a7d077688683b8612822efb91314ca3d8a465e71434c7d639fcd7efc3a4"
+    },
+    {
+      "type": "Theme",
+      "name": "handicap",
+      "id": "Theme_07d6ad7e725b76cce5982a9a7f704af8d13d05bfc2d725640eb7ad805850ae06"
+    },
+    {
+      "type": "Theme",
+      "name": "conversion profonde des regards et des esprits",
+      "id": "Theme_cea58a2f2ad6bb00b93c76535735a427fb559175bf0e2e516897d2d11b80be13"
+    },
+    {
+      "type": "Theme",
+      "name": "question du handicap",
+      "id": "Theme_6c1b848860f46fd321829e3a64501e52f7a867bccea45beba67ff9ed0a6d9775"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques publiques",
+      "id": "Theme_9d085612d695bebf0ac290a8aa0f64b70489199699576ec72f03d69038edc0ef"
+    },
+    {
+      "type": "Theme",
+      "name": "société",
+      "id": "Theme_23d952489b07041be7b06f706f86ec7cfc55af055e1b2e2f815671e6fa2ef5ed"
+    },
+    {
+      "type": "Theme",
+      "name": "Nation",
+      "id": "Theme_60ff600be5c454bb618a1597d939fb190f2d7774c810094fe4274df593f1b232"
+    },
+    {
+      "type": "Organization",
+      "name": "ONU",
+      "id": "Organization_8fe3e517167eebcfcb1c541c20f6aeb0a346c6c70b461e4d8ec8a469cdf70167"
+    },
+    {
+      "type": "Organization",
+      "name": "Convention internationale des droits des personnes handicapées",
+      "id": "Organization_15e1f684dd4924f94423908d9378acf443e2a3265bd53e7c14e7a80527e2098f"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Theme",
+      "name": "droits des personnes handicapées",
+      "id": "Theme_6125c6cbf565b29134cde45d7e998aa70cd6e4015ab6571a5fe0f8432cfe4a41"
+    },
+    {
+      "type": "Theme",
+      "name": "situation décrite",
+      "id": "Theme_a70aacd0f2926f22609fce113bceecbe60488537ddb2e4973820736d8900638c"
+    },
+    {
+      "type": "Theme",
+      "name": "barrières",
+      "id": "Theme_7323eb24158b83b514b3c599c7a5ac653a7a8ede26e469d91ad326d67f31c6b5"
+    },
+    {
+      "type": "Theme",
+      "name": "diagnostics pour la petite enfance",
+      "id": "Theme_24ef4f1a95d2ba1fd0285b3f9270d56d61cb7475a238e4be1d2dc2e7c301fa66"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie autisme",
+      "id": "Theme_78a4aa8a0d1b0a8420b2d4c82439d3d50a89f3b8942e8f466b11107fe139f786"
+    },
+    {
+      "type": "Theme",
+      "name": "repérage précoce",
+      "id": "Theme_08631fac0601d47bf4ca0b82dbf131b44373acdaf8272543fd2d2c0cc214b5aa"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie pour l'autisme",
+      "id": "Theme_1d40742b2cdc62dcfec03d4d69c7c6c1ade31cd080ec76bd47309df074a691cc"
+    },
+    {
+      "type": "Theme",
+      "name": "Maison de l'autisme",
+      "id": "Theme_becd504c66de354902400f9a805f2b537c1008bfd9d6e7c0191b11d1feaa8ff9"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie de l'autisme",
+      "id": "Theme_c7ca1d7eaacd48f4fd1751b07377902009853561c869f7b4eee51457a0fd66d8"
+    },
+    {
+      "type": "Theme",
+      "name": "service public",
+      "id": "Theme_8b37015ab8cc5bb4cc96441ff954f74d0609a857b4fbc784b367f676546b7722"
+    },
+    {
+      "type": "Theme",
+      "name": "continuité",
+      "id": "Theme_3e7bbeb7269187009dde8dbf7c0ae12f2405fde6715a6e5d3a6d53ca6657ffbc"
+    },
+    {
+      "type": "Theme",
+      "name": "mutabilité",
+      "id": "Theme_b10c076473726a088f943b5cfe6be8b9fc676a0cf67f38cb7cf0a347f6f37e23"
+    },
+    {
+      "type": "Theme",
+      "name": "repérage",
+      "id": "Theme_725c573306b4fd7b146b6f71dc57e87f7b985d04c25a08b7977cdd02532da7a6"
+    },
+    {
+      "type": "Theme",
+      "name": "évaluation",
+      "id": "Theme_ea7fd98e58a66d73c0259bc6f8dfbbac84c8bd6786088d5c2f8f9b7739a8c420"
+    },
+    {
+      "type": "Theme",
+      "name": "intervention précoce",
+      "id": "Theme_0e7e3197014bb7ad446dd35751f31f08a8b3ceb347d4802166fd37f85fb4c23c"
+    },
+    {
+      "type": "Theme",
+      "name": "Crèche",
+      "id": "Theme_23e6d5355ca5af47591ceb2856398f99b3cb062ff95bf2f061de7645f6890ad4"
+    },
+    {
+      "type": "Theme",
+      "name": "famille",
+      "id": "Theme_77531ab96ac1f800b81a0eea16189f3877bb131fa537c133a4c0268dd1e3c138"
+    },
+    {
+      "type": "Theme",
+      "name": "séances",
+      "id": "Theme_9ea95d417bd9f1b861e5a336d13611b954db6427eb29c693e5409910eb44ab78"
+    },
+    {
+      "type": "Theme",
+      "name": "Caisses primaires d’Assurance maladie",
+      "id": "Theme_20aba6806358c9990fc9f9e1eecc6d2708c121646eff3d35dbb3954538700c97"
+    },
+    {
+      "type": "Theme",
+      "name": "diagnostic",
+      "id": "Theme_0c9e832054bee402487c3a92254bcf1730b8b2a01cae9c2fa512b8c5daadbd96"
+    },
+    {
+      "type": "Theme",
+      "name": "inclusion",
+      "id": "Theme_e76e5f6a4a72bb46a7b477ecf0d0161f48afc10a4cf4adcb9bbdfc9a6f6dc2b3"
+    },
+    {
+      "type": "Theme",
+      "name": "inclusion scolaire",
+      "id": "Theme_b5551cfd002f6fdb9eaedab502355b026a5936861426c8622875b0c5307c6850"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution silencieuse",
+      "id": "Theme_c7817ca567f35353ab2dc281ba71a3189666c11422a32935fc378bea20f23a91"
+    },
+    {
+      "type": "Theme",
+      "name": "petite révolution silencieuse",
+      "id": "Theme_40fdcb695fb849f5cefe501d745839c7ab35d375f15c82e58f88e7bbda6dc01b"
+    },
+    {
+      "type": "Organization",
+      "name": "notre école",
+      "id": "Organization_496346380abb8fa99deeb272cd6673d49896b50050e62f8a95e25e5890d9d2ce"
+    },
+    {
+      "type": "Organization",
+      "name": "accompagnants",
+      "id": "Organization_0bbb8a4ae6345893ee7043050c4262edbf082c4d059f3d3a694afe8fa50a3971"
+    },
+    {
+      "type": "Organization",
+      "name": "enseignants",
+      "id": "Organization_cb0c86c4ba5ed671af0f0d34a4479dafecef0e092a952bfffb309dbfa4fce509"
+    },
+    {
+      "type": "Organization",
+      "name": "AESH",
+      "id": "Organization_c8d0f0dbfa77100d662f8afa6492847452d335b138febe9a0038e856f3f1be1d"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement",
+      "id": "Theme_d41a2410d8b1353cdac216ebec7bce81e567ae80b1d56a5c5b7942fee7e103c4"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte",
+      "id": "Theme_08510afdf50053fa9af48009d3326ffa3ca70e4a355802c742667dc8276fcc6f"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre",
+      "id": "Organization_bcfcec7de2d7b4cf53f630b8f4bda4918808fa7973b4a27375e60cdb59c5914a"
+    },
+    {
+      "type": "Theme",
+      "name": "sécuriser leur situation professionnelle",
+      "id": "Theme_5c9b296b2dafe99feed414afb219868f5dac41d18272461f1121a6205901e2a1"
+    },
+    {
+      "type": "Theme",
+      "name": "valorisation",
+      "id": "Theme_19b10d0415b50f36beb86a61baecf782c2d39aa18b414ca8fd26a1af8f98a787"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation",
+      "id": "Theme_01dbd75772ce2e01acf43a9eed5bfc3d66a83ad34f48105944d56c5bf0aaa34b"
+    },
+    {
+      "type": "Country",
+      "name": "République",
+      "id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    },
+    {
+      "type": "Organization",
+      "name": "CAF",
+      "id": "Organization_fa74d451028948e137156cd071a089f5b36dc63d50abb18eb7f984aa5029a1ba"
+    },
+    {
+      "type": "Organization",
+      "name": "crèches",
+      "id": "Organization_10d5faa6ebc4d9938cc9de5b7f28cc1933739c7fc7273bceaf7a542b60e83df2"
+    },
+    {
+      "type": "Organization",
+      "name": "ASE",
+      "id": "Organization_024d55ca7a302c0086ff03a1ca48da5a3d3690179a511fadc1c446f8a7b1ff87"
+    },
+    {
+      "type": "Theme",
+      "name": "transport scolaire",
+      "id": "Theme_2979357649df7fdcf28e5fc567a9fc9d48f82bb49eee92e4487394d57335d22b"
+    },
+    {
+      "type": "Theme",
+      "name": "temps périscolaire",
+      "id": "Theme_5892cf975d4126dc8ccd611f9651be855ff16066bf76b99b8795c967979d640d"
+    },
+    {
+      "type": "Theme",
+      "name": "allocations",
+      "id": "Theme_df014a56043e232c6efdb8ed14e943e9d355e6d3a1b74b29d8c742aecf8b5372"
+    },
+    {
+      "type": "Theme",
+      "name": "enfance",
+      "id": "Theme_f49b22e01bd397bae33f15c69a93ef721a078706f98b86bac8fac04bfa5be7af"
+    },
+    {
+      "type": "Person",
+      "name": "HAUSSOULIER",
+      "id": "Person_73edfc6c88292c5b66ea837bc9459fb64748b67eb3f5a79a818b416e4cb08b70"
+    },
+    {
+      "type": "Person",
+      "name": "Lucie CARRASCO",
+      "id": "Person_df05e199dfbde74d2b853c678adbf15d67dfb266c00c812e447c76c66af70f2e"
+    },
+    {
+      "type": "Theme",
+      "name": "accessibilité",
+      "id": "Theme_1957b4ea681f1942db363acf7d64fc551e0bf71ec8a778fb83fdde0f41a61e3b"
+    },
+    {
+      "type": "Theme",
+      "name": "Mesures d'adaptation et d'aménagement de l'espace social destinées à en faciliter l'accès aux personnes handicapées ou à mobilité réduite",
+      "id": "Theme_b6c0e828c2e07934884917c3902798ce3bd97cd8419135477b320545370313d2"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie financière",
+      "id": "Theme_e05902aa6fb24e358ab057e08d5a640eb7af7e543ff1a2ea64562639e4c3adb0"
+    },
+    {
+      "type": "Theme",
+      "name": "bourses sur critères sociaux",
+      "id": "Theme_19db5ad86e74ed9de50e37e9f2f69ec2b39c556b516c93944563011ae72ad66d"
+    },
+    {
+      "type": "City",
+      "name": "Pau",
+      "id": "City_aae88dca61617f4b2361b23b514b33d2f48d85277532d7af51eb52097994042e"
+    },
+    {
+      "type": "Theme",
+      "name": "lycée professionnel",
+      "id": "Theme_82d8f5ba45d8801be83bdb04478d40f5921345a3a1bce486c86a294aee9df0a3"
+    },
+    {
+      "type": "Theme",
+      "name": "lycée classique",
+      "id": "Theme_56b107b596fa7ffa5695a9d16eee5cf4af8d77b6403a26479dd69cc686001b49"
+    },
+    {
+      "type": "Theme",
+      "name": "plein emploi",
+      "id": "Theme_2a448e8543fa37515f8306b37c9e0bce2b2c535e0733a499a4bec870b1e709ef"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement professionnel ordinaire de droit commun",
+      "id": "Theme_5090968ad247bcc80e1fa3fc94de3f7041f686636cf06b9cf62828093de1082a"
+    },
+    {
+      "type": "Theme",
+      "name": "mesures concrètes",
+      "id": "Theme_35aaf5a82b69c2378b0bd251dcc98b9486b2c23ad71c4cd318b47205bfcd2352"
+    },
+    {
+      "type": "Law",
+      "name": "texte de loi plein emploi",
+      "id": "Law_b6f50d2bbbece86ce4e3125d4103c399990efb3c311d5d4c7418030d7b9cb331"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Theme",
+      "name": "réflexion",
+      "id": "Theme_0ff6773a7b7ae8eb026c8455e177172ce0f3f6a3e48675dbd4e642b2b7100c4f"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle des ESAT",
+      "id": "Theme_136299d20d1754e6bee59bc63b0a8d20a668bab9c34909c8b4b992f8a919c8fd"
+    },
+    {
+      "type": "Theme",
+      "name": "SMIC",
+      "id": "Theme_5cb436cdf6ba1e12f4f1df827a4c496e937f7fa2a1ab62708fd0152d80bc2130"
+    },
+    {
+      "type": "Theme",
+      "name": "négociation",
+      "id": "Theme_cd534909538d9126e7d675840d69d6bf8a610fcc86f290154dc42ad3edc6363f"
+    },
+    {
+      "type": "Theme",
+      "name": "feuilles de route",
+      "id": "Theme_e04ee1e5eda49e1cf82a9f05c64862d66d282e63c3f44c3f41d3017f16acf178"
+    },
+    {
+      "type": "Theme",
+      "name": "Gouvernement",
+      "id": "Theme_ad2d9e27236e987d62a7370d7eeb742fb1026f33930ec1eba6c818585bfeae54"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi des personnes handicapées",
+      "id": "Theme_d278856f000df0fdfbbab2a7cc4f500d0cb5183fc2ce99c3391bb11d6f743f05"
+    },
+    {
+      "type": "Theme",
+      "name": "vendeur polyvalent",
+      "id": "Theme_31b864a1457623d353aadd3b12bef1f208e64854bfcf57433c57f1b562009e5d"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi public",
+      "id": "Theme_b7e75a6ebbb3595d227288f1d87547592bbb9a7ac2c5b5d2a02d94c3359026da"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "Mesures d'adaptation et d'aménagement de l'espace social",
+      "id": "Theme_ed1c95a42def2f5f07d4ad4a35b1510ca0d63e4c7228c1ec5d3f3df9f46c8947"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "système de sanction",
+      "id": "Theme_ae3b989e641d1150e218a1bbae76d0f05d46c2c4cc78c7cd4a98da6a7f84f36b"
+    },
+    {
+      "type": "Theme",
+      "name": "parole publique",
+      "id": "Theme_74eb84dee90b53873f679aed8f77afc3b07e08bcedd0a4a326cacad070e87829"
+    },
+    {
+      "type": "Law",
+      "name": "charte d'engagement",
+      "id": "Law_ece0c262f5feec5575333234ca0945cb1427f20903041be4767f4c5d0a94f801"
+    },
+    {
+      "type": "Organization",
+      "name": "ARF",
+      "id": "Organization_e5d9bffc9a5205b4850efbdf65c54929d35c27d5ce442b23e70a6f5e00ebb24a"
+    },
+    {
+      "type": "Organization",
+      "name": "ADF",
+      "id": "Organization_2aea3aa256c20bd15a537870c14bcf01f511a7a891293e6697173f80f5e7b5f6"
+    },
+    {
+      "type": "Organization",
+      "name": "AMF",
+      "id": "Organization_df8b5a81aad4ff1078b9d591844c60ac7a16eca7774470397d22b480ebea881c"
+    },
+    {
+      "type": "Organization",
+      "name": "France urbaine",
+      "id": "Organization_bc68309c814223c588a77cc57ecc826f648b3f840a62deb32c5b2d7f6fcc417e"
+    },
+    {
+      "type": "Theme",
+      "name": "logement",
+      "id": "Theme_5482b77c02cb27b743d7ba44022361e1f99e9ac6c8c98c177add71ee6c65ef55"
+    },
+    {
+      "type": "Theme",
+      "name": "transport",
+      "id": "Theme_1a641d5b69608bdb03696d1cece984f99de2b357f066e5c6d65727885433491c"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "communication gouvernementale",
+      "id": "Theme_b119db2e81733d88e8b00f83416be799f48e7987a1657d3dfe6a7077bcd271cf"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "Augmentation générale et durable des prix",
+      "id": "Theme_5eb116de1d5e16531ecfc3d1ce72deda9884f4175ae830ddb36e0359ccec5368"
+    },
+    {
+      "type": "Theme",
+      "name": "déconjugalisation de l’AAH",
+      "id": "Theme_0cbc80738b52c3db4f4e0e8a8e8353dd356024cee787e561afe0fdde312508d3"
+    },
+    {
+      "type": "Theme",
+      "name": "amour",
+      "id": "Theme_3a5fa60fb30b2a65d0328c3db513d4a49419124aa60224aeebe7150286ebbbb0"
+    },
+    {
+      "type": "Theme",
+      "name": "AAH",
+      "id": "Theme_4fbb2e4425eb89b741c611943edd13c70a43dd8845e46cf429b9f5f03dbbd6b3"
+    },
+    {
+      "type": "Theme",
+      "name": "compensation",
+      "id": "Theme_7ec0ae23971e35bf38a82cf95dd1e345d3fcdb1b7d4e58ad2804f3b3d2557785"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie",
+      "id": "Theme_fa010b2e87d32c400a0a52b10fe00d186b07d80baf9792842d534698bb9241c6"
+    },
+    {
+      "type": "Theme",
+      "name": "charges",
+      "id": "Theme_68cae62b9db50483ed6ec8bea83f672bf7f0c6d9e97ccf867a80cd80e6a7556b"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi direct",
+      "id": "Theme_ec28bbb421ff7f23a4cc3b886555ea66cd0acc358f8b73572ccd07389c628d60"
+    },
+    {
+      "type": "Theme",
+      "name": "aide à domicile",
+      "id": "Theme_6216049464147c6d0e7009ad2fe42fb273728883d84aea06e4be9eae7c51a420"
+    },
+    {
+      "type": "Theme",
+      "name": "fauteuils roulants",
+      "id": "Theme_02584db2388cee4caa4c807468bfe2886b2ca286631ef7422d76f4e5ab99c2c9"
+    },
+    {
+      "type": "Theme",
+      "name": "mesure de justice sociale",
+      "id": "Theme_31c319a7864ab2975fab27ef691ecd489d006441c617c0ac3683071b91760179"
+    },
+    {
+      "type": "Theme",
+      "name": "pratique sportive",
+      "id": "Theme_4f3e56f287cddefa9615fb93c643f59cc5648efc76e9aa2621bce55c849cedc6"
+    },
+    {
+      "type": "Theme",
+      "name": "soutiens",
+      "id": "Theme_58725dfc5e40684a2d3b3605b307e2ed48c62f4c1df0ae1043587fef44163b67"
+    },
+    {
+      "type": "Organization",
+      "name": "départements",
+      "id": "Organization_94239122cf0c8845f4a2ab4552c55409511e0595b36da6c7478d71cfd24822e8"
+    },
+    {
+      "type": "Organization",
+      "name": "MDPH",
+      "id": "Organization_e44b4461f95c52c839a56fe0af8791127dc797d79c383ef0b58da234a629c057"
+    },
+    {
+      "type": "Theme",
+      "name": "disparités de situation",
+      "id": "Theme_87e762e52a34c6943b99fc501788095fee3c7488761975982f6415e210601fed"
+    },
+    {
+      "type": "Person",
+      "name": "Sophie CLUZEL",
+      "id": "Person_3bd4c73e0524aaa2e21b56586a3b1e0e523f477e4cdd77c9a536b48d6802bf47"
+    },
+    {
+      "type": "Theme",
+      "name": "statuts à vie",
+      "id": "Theme_f240ded447967a8cf8af030f0633f500a06976ee1c203aafb9d9597b909a0032"
+    },
+    {
+      "type": "Theme",
+      "name": "cartes mobilité, inclusion, transport",
+      "id": "Theme_2f100f3e9de08e5bf7c9793b2b50264e9c490e552eaec43d077de72647b47da0"
+    },
+    {
+      "type": "Theme",
+      "name": "droits à l’AAH",
+      "id": "Theme_46977b0d538931809b78001280ddd3caa3ed544181e8c9642d807fafacb32519"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions médico-sociales",
+      "id": "Theme_95b5861fd9d98cd5b46df53281a34f541876284a1a7bd023ce408ab5ec82a9ce"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien",
+      "id": "Theme_4dfac92dac64c205c1c0e703283d4ba045cb9535e4f0c0a54df8ba969e6e1575"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation",
+      "id": "Theme_20f02849c6d3fef1e0f7fdcc6fcd9d5a1930a7b08f24aabfc14521d8b9ed907d"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers",
+      "id": "Theme_305de45577953bd04165ca22cf0089e5defd686499397a72c39942ab978c3083"
+    },
+    {
+      "type": "Theme",
+      "name": "structures",
+      "id": "Theme_f36561dba884e7d5276bcf3b4fe26858360459066be42e0ecda7a6a5284d1b73"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle social de handicap",
+      "id": "Theme_52e149eb00ddc1699b5747a63fdac667b7514449f8fbf20e7711467c73b9cc44"
+    },
+    {
+      "type": "Theme",
+      "name": "désinstitutionnalisation",
+      "id": "Theme_1170c22fd9b4446bdd811bd80cd3980265c918064e672e6f99fcc4c063dca377"
+    },
+    {
+      "type": "Theme",
+      "name": "discrimination",
+      "id": "Theme_92d7d1d37614eb7e3178c40e62a9c7211cba91c8c31af61eb0c9f5faa02beefb"
+    },
+    {
+      "type": "Theme",
+      "name": "loi",
+      "id": "Theme_aaa751cd5b857da1d5f067b90439cca5af7e59784eb0537f6c5b647db27ec7a1"
+    },
+    {
+      "type": "Theme",
+      "name": "code électoral",
+      "id": "Theme_5ce6ccc0eb600e6b2836ffee5b485ffba73d538f7fbafa74eab789c7afa8ae80"
+    },
+    {
+      "type": "Theme",
+      "name": "droit de vote",
+      "id": "Theme_314389fbceea301f2b54d994777e1151c7a3d4d1d8271fba3db65820207cbca8"
+    },
+    {
+      "type": "Theme",
+      "name": "tutelle",
+      "id": "Theme_687159aef7bd8838bb9460670387e2ffe15b9c39c9fd47105b023dc358dd1ff3"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyenneté",
+      "id": "Theme_299e26433fd038aaeb6d9c98e39f7323f3f780a7ec7bf9addad3444e3982be18"
+    },
+    {
+      "type": "Theme",
+      "name": "bien-être",
+      "id": "Theme_9fd29c576d10d80e812430eb0b481c700cc034e122056a439fc86b261f347533"
+    },
+    {
+      "type": "Organization",
+      "name": "CCNE",
+      "id": "Organization_578ad7c503af129da3ccebe4ab81265e04491f8b772411706093e9e40a2e045b"
+    },
+    {
+      "type": "Organization",
+      "name": "CNCPH",
+      "id": "Organization_46d2e9a8771072ceb45959cf485717686c53ec96f80d1b3d7dc406bc6ead14fe"
+    },
+    {
+      "type": "Theme",
+      "name": "violences sexuelles",
+      "id": "Theme_75775adaeed309eb58d5b53d732a2bac8730b7dbbeee7e18d771a97ad950be5f"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux olympiques et paralympiques de Paris 2024",
+      "id": "Event_1ae4d36308606f90c2113e0b012457983e3b0411623d26036ff77980805decc6"
+    },
+    {
+      "type": "Theme",
+      "name": "inclusivité",
+      "id": "Theme_0b4c6511bcab556a39d7d22de2c520940c0c921a62d047421af3f24219c6b5e6"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux",
+      "id": "Event_59d935c0288050345943c5d428c64b40792adaadc34699cea9d7368ab03eb0bb"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "Pass’sport",
+      "id": "Organization_b37ef4f3670931b5fd5d9e7164993a8859308d28a6cc80d4ac23ebd42459e170"
+    },
+    {
+      "type": "City",
+      "name": "Ile-de-France",
+      "id": "City_6349e60746c9118a2ba6922d1bbbd1c4062d83cbfd4dea802d514820c7d9dd69"
+    },
+    {
+      "type": "Organization",
+      "name": "clubs de sport",
+      "id": "Organization_d284e0454a93aa87a6629b0e4f237c09b5afd093490c5f587ef52da29ca30309"
+    },
+    {
+      "type": "Organization",
+      "name": "fondations privées",
+      "id": "Organization_69758abb88b0ee644c4405d64513f1025dc882e36fc96ca6b4d75519cc664f83"
+    },
+    {
+      "type": "Organization",
+      "name": "milieu médico-social",
+      "id": "Organization_81f1fee65abb56005fc38fdc9c2ea5fc37a2f516a55c1aabbab4907735fe79ee"
+    },
+    {
+      "type": "Organization",
+      "name": "mouvement sportif",
+      "id": "Organization_a9940e847ace72c75d917bfc10f300bdad6d81a3de689f954922744c11938475"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention santé",
+      "id": "Theme_8ca5028c7d9ee8b2cb3d50cdd4c06cb2ea462d7993a166382e50dc6621f0b1a5"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance renforcée",
+      "id": "Theme_d55b082b860f67a6a65c6ca4f959c1ccedb1029501baf6d2037610a562b9ec3e"
+    },
+    {
+      "type": "Theme",
+      "name": "mission",
+      "id": "Theme_ccdd4dbdd0b77e3998dd06aa95f6adbd98c258e86ae158425d21f328328b4951"
+    },
+    {
+      "type": "Theme",
+      "name": "comité de suivi",
+      "id": "Theme_bf8bc5cfac48833bb941fee19a437cc80e9dc9703bbf2c90b64b73e2c6339aeb"
+    },
+    {
+      "type": "Theme",
+      "name": "avancées et des difficultés",
+      "id": "Theme_37cbd0b91832f7fda01691b8f5784ae171170fc7651f57c76d7355fdcd23d6d5"
+    },
+    {
+      "type": "Theme",
+      "name": "espace social",
+      "id": "Theme_21522032bae77e271588bdc25405ee2dedf1cd04a36145ae8dd96ba65d40a37e"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La précédente édition de la CNH était ici même, on s'en souvient, en février 2020, et c'était l'un des derniers temps fort nationaux avant que la France ne bascule dans la pandémie.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "pandémie",
+      "evidence": "La précédente édition de la CNH était ici même, on s'en souvient, en février 2020, et c'était l'un des derniers temps fort nationaux avant que la France ne bascule dans la pandémie.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Event_e3c6bbe9c3ea36bf8eae5821d4fbc5c578f155ccb91b3dd1a0f93926ebdd6e3e"
+    },
+    {
+      "source": "ONU",
+      "relation": "ANNOUNCED",
+      "target": "Convention internationale des droits des personnes handicapées",
+      "evidence": "les remarques de l'ONU de septembre 2021, après l'audition de la France sur l'application de la Convention internationale des droits des personnes handicapées",
+      "confidence": 1.0,
+      "source_id": "Organization_8fe3e517167eebcfcb1c541c20f6aeb0a346c6c70b461e4d8ec8a469cdf70167",
+      "target_id": "Organization_15e1f684dd4924f94423908d9378acf443e2a3265bd53e7c14e7a80527e2098f"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Convention internationale des droits des personnes handicapées",
+      "evidence": "l'audition de la France sur l'application de la Convention internationale des droits des personnes handicapées",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_15e1f684dd4924f94423908d9378acf443e2a3265bd53e7c14e7a80527e2098f"
+    },
+    {
+      "source": "notre école",
+      "relation": "SPOKE_ABOUT",
+      "target": "petite révolution silencieuse",
+      "evidence": "Cette petite révolution silencieuse, elle a été conduite, d’abord par de meilleures formations en accompagnement de notre école, et aussi le financement et la création de nouveaux postes d’accompagnants supplémentaires qui bénéficient d’une formation et des aides spécifiques, qui ont été sortis de la précarité administrative, revalorisés.",
+      "confidence": 1.0,
+      "source_id": "Organization_496346380abb8fa99deeb272cd6673d49896b50050e62f8a95e25e5890d9d2ce",
+      "target_id": "Theme_40fdcb695fb849f5cefe501d745839c7ab35d375f15c82e58f88e7bbda6dc01b"
+    },
+    {
+      "source": "CNH",
+      "relation": "ANNOUNCED",
+      "target": "mesure de justice sociale",
+      "evidence": "C'est une mesure importante, une mesure de justice sociale qui me tient à cœur et qui fait partie de la feuille de route de cette CNH.",
+      "confidence": 1.0,
+      "source_id": "Organization_9b072cd2fec610c4646ee9843fe74d43fb38d6a5a8280e9071f903580ce383a4",
+      "target_id": "Theme_31c319a7864ab2975fab27ef691ecd489d006441c617c0ac3683071b91760179"
+    },
+    {
+      "source": "départements",
+      "relation": "SUPPORTS",
+      "target": "MDPH",
+      "evidence": "des départements, des MDPH qui doivent devenir des véritables lieux d'accueil, de coordination et d'accompagnement, des lieux à l'écoute, pleinement réactifs.",
+      "confidence": 1.0,
+      "source_id": "Organization_94239122cf0c8845f4a2ab4552c55409511e0595b36da6c7478d71cfd24822e8",
+      "target_id": "Organization_e44b4461f95c52c839a56fe0af8791127dc797d79c383ef0b58da234a629c057"
+    },
+    {
+      "source": "État",
+      "relation": "SPOKE_ABOUT",
+      "target": "accessibilité",
+      "evidence": "L'accessibilité de ces Jeux continuera de mobiliser largement les services de l'État dans les semaines et les mois qui viennent.",
+      "confidence": 1.0,
+      "source_id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612",
+      "target_id": "Theme_1957b4ea681f1942db363acf7d64fc551e0bf71ec8a778fb83fdde0f41a61e3b"
+    },
+    {
+      "source": "État",
+      "relation": "SPOKE_ABOUT",
+      "target": "Jeux",
+      "evidence": "L'accessibilité de ces Jeux continuera de mobiliser largement les services de l'État dans les semaines et les mois qui viennent.",
+      "confidence": 1.0,
+      "source_id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612",
+      "target_id": "Event_59d935c0288050345943c5d428c64b40792adaadc34699cea9d7368ab03eb0bb"
+    },
+    {
+      "source": "Jeux",
+      "relation": "LOCATED_IN",
+      "target": "Ile-de-France",
+      "evidence": "Nous déploierons un continuum de solutions de transport complémentaire en multipliant par 5 le nombre de taxis accessibles en circulation en Ile-de-France, avec l'objectif d'atteindre les 1000 pour les Jeux ou en mettant en place un service de navettes PMR pendant les Jeux.",
+      "confidence": 1.0,
+      "source_id": "Event_59d935c0288050345943c5d428c64b40792adaadc34699cea9d7368ab03eb0bb",
+      "target_id": "City_6349e60746c9118a2ba6922d1bbbd1c4062d83cbfd4dea802d514820c7d9dd69"
+    }
+  ]
+}

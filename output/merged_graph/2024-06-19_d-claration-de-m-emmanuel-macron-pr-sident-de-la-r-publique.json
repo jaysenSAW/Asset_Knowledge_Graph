@@ -1,0 +1,132 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Luís",
+      "id": "Person_fb9279875759fa97c6ca07a4ffc565105736e52bcba8536f0ab3235a6c9026b1"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Event",
+      "name": "50ème anniversaire de la Révolution des oeillets",
+      "id": "Event_bb508abdf0630c0decf9b44b06ca9047f8e96e9d86b1f1f7969ac8e1334ae0ad"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "City",
+      "name": "Lisbonne",
+      "id": "City_3b2c76f6fdbcedd0f2f1da00e9207b46fcf90052897133894e132919592a443d"
+    },
+    {
+      "type": "Organization",
+      "name": "Grand Paris",
+      "id": "Organization_7d6cbdf8e73ed67342a28861ccef5852b02d95a4193d34df0ef8e7b11cb72cdb"
+    },
+    {
+      "type": "Organization",
+      "name": "Vhils",
+      "id": "Organization_3592d603229c51025394ed919b1096cf236ae31fc47cdca0bebc16a2d2bb6658"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Portugal",
+      "id": "Country_cf5e0a7a677f823b7b8ff468282692a5b0531c04401a108b2b705a578a7907b7"
+    },
+    {
+      "type": "Organization",
+      "name": "Parti populaire européen",
+      "id": "Organization_1c00d7a1170a30967f3e5e818d815f823fc831685dfbeb4713121478ccd9f0e4"
+    },
+    {
+      "type": "Organization",
+      "name": "Renaissance",
+      "id": "Organization_ed1024e67fe5cbebef76f0cda8b96961e3bd827c120b3ce0466dc53bb1950865"
+    },
+    {
+      "type": "Country",
+      "name": "Grande-Bretagne",
+      "id": "Country_01f8c19fe3ec039f49ac5d3312a1bdf3402aafbc92d573434c30d8340e48ca94"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Portugal",
+      "evidence": "ce lien se nourrit par une communauté française établie au Portugal importante, vivante, innovante, et une communauté luso-descendante vivante en France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_cf5e0a7a677f823b7b8ff468282692a5b0531c04401a108b2b705a578a7907b7"
+    },
+    {
+      "source": "Parti populaire européen",
+      "relation": "ALLIED_WITH",
+      "target": "Renaissance",
+      "evidence": "une coalition stable et pro-européenne, alliant la droite modérée du Parti populaire européen, les socio-démocrates et la famille centriste de Renaissance se soit constituée",
+      "confidence": 1.0,
+      "source_id": "Organization_1c00d7a1170a30967f3e5e818d815f823fc831685dfbeb4713121478ccd9f0e4",
+      "target_id": "Organization_ed1024e67fe5cbebef76f0cda8b96961e3bd827c120b3ce0466dc53bb1950865"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Assemblée nationale",
+      "evidence": "En France, il est composé de deux chambres : l'Assemblée nationale et le Sénat",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Sénat",
+      "evidence": "En France, il est composé de deux chambres : l'Assemblée nationale et le Sénat",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Sa Majesté le Roi Abdallah",
+      "id": "Person_6fbd1d5bce9d94480b7d5845322f7b7380c5a3e359d627bcf05be494822fefa1"
+    },
+    {
+      "type": "Person",
+      "name": "Votre Majesté",
+      "id": "Person_10b22c1e0e9370208c28fd1134da0dd5862c710b36f9190bee209e513ee2740c"
+    },
+    {
+      "type": "Person",
+      "name": "messieurs les ministres",
+      "id": "Person_68c8bae1f1f0fa1fad64e1609435c27e59bb98f2bf0b5bf15ffe20298d0f898b"
+    },
+    {
+      "type": "Person",
+      "name": "mesdames",
+      "id": "Person_902acab7ae062adc10320743d44fdc1ffa5eaa234e19e777cfff0f7a794e845f"
+    },
+    {
+      "type": "Person",
+      "name": "messieurs les ambassadrices et ambassadeurs",
+      "id": "Person_38b0eba79a33dadb4d09fc92ce972b431dafcacae1a34d573762df5685bec614"
+    },
+    {
+      "type": "Person",
+      "name": "messieurs",
+      "id": "Person_f27b5af1bc038777658a99e84131fc89b6bc627216336555716549913787fd22"
+    },
+    {
+      "type": "Country",
+      "name": "Jordanie",
+      "id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Gaza",
+      "id": "Country_f741c8e877191162ded6fc94d0c300c6ede478a83314a82ec20031055452f4f2"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Aqaba",
+      "id": "Country_ea8be7ea270d32607905c9aa2c8584407ae398c11c14ad0fc9469ef94872fd56"
+    },
+    {
+      "type": "Country",
+      "name": "Cisjordanie",
+      "id": "Country_745d1cc4b98bc0b4232be96facaad25d821a3008fd397de7738c24c2718b3d51"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "City",
+      "name": "Gaza",
+      "id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Organization",
+      "name": "Hamas",
+      "id": "Organization_5b6d0f92f49aab219651139d5508991f2fc27fd6b9372da1329d20e55cce795d"
+    },
+    {
+      "type": "Person",
+      "name": "Trump",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Person",
+      "name": "Sa Majesté",
+      "id": "Person_5b6c7550df7a10a221424bca2a1f0238b5e889e724545a2bed7410385683373e"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Person",
+      "name": "le prince héritier Mohammed bin Salmane",
+      "id": "Person_6f058b861a698ad078f90f78788bb6c08b3c24b84546bb6e12ff921f53cd9427"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Jordanie",
+      "evidence": "à chaque fois que la sécurité et la stabilité de la Jordanie seraient contestées, la France sera là.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Union européenne",
+      "evidence": "La signature, il y a peu, d'un partenariat stratégique entre l'Union européenne et la Jordanie illustre l'étroitesse de nos relations et la confiance que la France comme l'Union européenne ont dans leur amitié et leur partenariat avec vous.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "source": "Jordanie",
+      "relation": "LOCATED_IN",
+      "target": "Cisjordanie",
+      "evidence": "la situation en Cisjordanie est particulièrement inquiétante",
+      "confidence": 1.0,
+      "source_id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad",
+      "target_id": "Country_745d1cc4b98bc0b4232be96facaad25d821a3008fd397de7738c24c2718b3d51"
+    },
+    {
+      "source": "Jordanie",
+      "relation": "LOCATED_IN",
+      "target": "Gaza",
+      "evidence": "Et je vous remercie de cette visite en vous souhaitant le meilleur pour ce Ramadan. Alors que la guerre à Gaza reprend, la situation en Cisjordanie est particulièrement inquiétante",
+      "confidence": 1.0,
+      "source_id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad",
+      "target_id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "source": "Votre Majesté",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Votre Majesté, vous à voir à Paris aujourd'hui",
+      "confidence": 1.0,
+      "source_id": "Person_10b22c1e0e9370208c28fd1134da0dd5862c710b36f9190bee209e513ee2740c",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    }
+  ]
+}

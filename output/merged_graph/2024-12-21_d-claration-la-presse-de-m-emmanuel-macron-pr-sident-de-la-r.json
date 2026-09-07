@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Djibouti",
+      "id": "Country_32bee6ebc5c3133f71b43f845212f046e8162209903296ded3ab9b14b529833b"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Soudan",
+      "id": "Country_fffd3368e10c4710d9cc6fc24f457d5063e1f139e3b5edad1f5dd5a7da0d1c49"
+    },
+    {
+      "type": "Country",
+      "name": "Mayotte",
+      "id": "Country_ad754e5b773bfdd18e543edc4bb8096ec2beb96f290dfe7dceb336826527bbd2"
+    },
+    {
+      "type": "City",
+      "name": "Djibouti",
+      "id": "City_0c1f44bacfd2514d28aa0c06e700ddf6f96d2b5ae6509a07553e8ad6e3eac477"
+    },
+    {
+      "type": "Organization",
+      "name": "AFD",
+      "id": "Organization_083867e3b191ef83df992d01216f1dd45eab3c38e55042c0d9fc4313c8b5fd52"
+    },
+    {
+      "type": "Theme",
+      "name": "décentralisation",
+      "id": "Theme_8cdbeea2048deb633c4b678480b824c211c9c3809c1c56bd2de057c9fda69508"
+    },
+    {
+      "type": "Theme",
+      "name": "travaux d'assainissement",
+      "id": "Theme_76e632c8a1c712a1f99e5ebf055ff3b87125f719238b8f57a7de842ec8764723"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération spatiale",
+      "id": "Theme_74b66db0ec5f2ccca22a953b7c22390dfaeac135f3d3e7d489de4f91e5e1db99"
+    },
+    {
+      "type": "Theme",
+      "name": "agence propre",
+      "id": "Theme_3d3ac45a4641af77cdffc2cf7bb971d36256270146fb9dd21b7a2219b1acf6d2"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvel aéroport",
+      "id": "Theme_0676047588c4fcbf1dc4e364866c8ee17e891c071d49e6a9f8934e3496b66bb7"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda régional",
+      "id": "Theme_972d9f25a247204a12f90832ee69444a77968fb9245df1d428d2ae4b83531c30"
+    },
+    {
+      "type": "Country",
+      "name": "Éthiopie",
+      "id": "Country_cb2fb8b2f18824af30704cca4972a1e4e17d083abddfb8b7768c6b43dff1b11d"
+    },
+    {
+      "type": "Country",
+      "name": "Somalie",
+      "id": "Country_637e69441ef95c7cface99f6cd515957278579b2984691d5488f93172157803a"
+    },
+    {
+      "type": "Person",
+      "name": "GUELLEH",
+      "id": "Person_b26955ec4b0e3c989d287163153fcd62227263d3c0cb00176678fa63ffe8fdae"
+    },
+    {
+      "type": "Organization",
+      "name": "IGAD",
+      "id": "Organization_ad12e4b3e5bfe9eeb9a15a997e90e9ef85f216c55d6cacae7782d1615a311f6f"
+    },
+    {
+      "type": "Country",
+      "name": "un pays ami",
+      "id": "Country_21052568cab9a60270f7e728d1ad334919c1b5f28ec3c6f859443d3b83d7a9c3"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Éthiopie",
+      "relation": "ALLIED_WITH",
+      "target": "Somalie",
+      "evidence": "processus de dialogue qui a avancé de façon décisive entre l'Éthiopie et la Somalie",
+      "confidence": 1.0,
+      "source_id": "Country_cb2fb8b2f18824af30704cca4972a1e4e17d083abddfb8b7768c6b43dff1b11d",
+      "target_id": "Country_637e69441ef95c7cface99f6cd515957278579b2984691d5488f93172157803a"
+    }
+  ]
+}

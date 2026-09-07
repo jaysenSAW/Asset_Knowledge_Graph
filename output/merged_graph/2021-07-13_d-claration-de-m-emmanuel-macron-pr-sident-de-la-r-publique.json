@@ -1,0 +1,900 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la ministre des Armées",
+      "id": "Person_58f9004827302f1948ae100e4d68b9928fb33486be40eb694e2db2c7e3d75dc0"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la ministre déléguée auprès de la ministre des Armées",
+      "id": "Person_643d49b6b21ef3480204c36e3d2198a3de03520c55fb57877379d7762796c534"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les parlementaires",
+      "id": "Person_513d1485982528e0834eb4f4c38b73da53f9e4817cd30f728fe27e32d9fc11d3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le chef d'état-major des Armées",
+      "id": "Person_1f83a1b709c29b766edb6b98978d332e04de52962a1652e0a4e20e351b1b05e0"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le délégué général pour l'Armement",
+      "id": "Person_38ee4d4512a5653554542f76aca6918d970f3dd16d5af5aa1ce3c43f8d183ef5"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la secrétaire générale pour l'Administration",
+      "id": "Person_beac9665dfdda49c9aaf01d8c2a011423945e1f65544bfbb73698337a3713148"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les chefs d'état-major",
+      "id": "Person_8373ccb7e035324f6fedef08ce7f74bda07d7236d70a69ec873bc531e1fe1fef"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les officiers généraux, officiers, sous-officiers, officiers mariniers, soldats, marins et aviateurs",
+      "id": "Person_362bf9d47219504b9ac55fcad6fb61d7b85bbfa71569dd8365e260cd2609069c"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs",
+      "id": "Person_625fe3a313c056b9dc1724205255b9a7767c4b46670f91284ff4a20cb9382408"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "nos jeunes du SNU",
+      "id": "Person_4e336c154c9724f09bf3b192f0d5b3433e605e9d91027d17c2499f0592ee1275"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "relance",
+      "id": "Theme_89b3bcb48b8cc3439eb43c613ac6bd35725f85c44b2759c02b21de9a2a64abee"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance",
+      "id": "Theme_d8895f67d26ec9bc257a9b6d9015cbffdb3029611e550d517fabb25ec9d2c101"
+    },
+    {
+      "type": "Theme",
+      "name": "Fête nationale",
+      "id": "Theme_28572e950e0c673d82207d1536304fdaaa0fb6a01ecf1c4803e1e15b14c530f5"
+    },
+    {
+      "type": "Theme",
+      "name": "Solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "Fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "Blessés",
+      "id": "Theme_bc56c708d86e30fd93d80e297fff7d255ba78c5a19cced2a8ff2717db16fbb2f"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "mémoire",
+      "id": "Theme_3c9e6d3a23e7c3fe0d187e98745e316e283ccf9f53618547ce1cecd4b8f46fb9"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "passé",
+      "id": "Theme_4c601b71b511f2e5831fbb1ce633fd7c37f7924a30c6cbc7915825ad42458283"
+    },
+    {
+      "type": "Theme",
+      "name": "gloire",
+      "id": "Theme_d803fedd67e7e5aefc1533bb577fa82832a89812c9e0aa32fe51965c7afc47f4"
+    },
+    {
+      "type": "Theme",
+      "name": "échecs",
+      "id": "Theme_3ae1961d8f6aadd1d939066236f331ef5b32d7fb3f0b5867a076a4b2385323f2"
+    },
+    {
+      "type": "Theme",
+      "name": "serment de Koufra",
+      "id": "Theme_95c9e4b8386ff41d165821f5e1bed8b8827b09888527d17e689fabb65216c6b1"
+    },
+    {
+      "type": "Person",
+      "name": "la ministre déléguée auprès de la ministre des Armées",
+      "id": "Person_e441cbd9d7f3d8fcc7bb7fed3ceaf8bad97086d9ea3c3d6c9e8df8b7f434e4e6"
+    },
+    {
+      "type": "Organization",
+      "name": "SGDSN",
+      "id": "Organization_7ef0da7e105ab67895b9c5ab26feea20b645f71e91a481b1873b0799bb167589"
+    },
+    {
+      "type": "Organization",
+      "name": "Service historique de la défense",
+      "id": "Organization_51bdcf9f9f634a72a931f20390a08fa123d9f0d06dab082a5ec1553759005154"
+    },
+    {
+      "type": "Organization",
+      "name": "Armées",
+      "id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab"
+    },
+    {
+      "type": "Organization",
+      "name": "service militaire adapté",
+      "id": "Organization_6bf0576bc820b7397c3b4bb170d2407c422c056402148b3258f8410c195f9900"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre",
+      "id": "Organization_bcfcec7de2d7b4cf53f630b8f4bda4918808fa7973b4a27375e60cdb59c5914a"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "officiers généraux",
+      "id": "Organization_5ee33e2f2036c535203ff2c5e6c9b8a974d2abd5146d5d8454b1916b69d25b06"
+    },
+    {
+      "type": "Organization",
+      "name": "Haut Comité d'évaluation de la condition militaire",
+      "id": "Organization_ec83c5051d7e6d9070ebcaf7e67a60b2e916b43798affe7309f575054308e43c"
+    },
+    {
+      "type": "Person",
+      "name": "CEMA",
+      "id": "Person_456cdf0bba18b712506f285fe02abc1f737a9fab1feb915d9d4155e746672ea2"
+    },
+    {
+      "type": "Person",
+      "name": "ministre",
+      "id": "Person_3ffa6811c83c16bf59edf782cd334ba6a4263e78436004596c3f8ab18adabbc4"
+    },
+    {
+      "type": "Person",
+      "name": "parlementaires",
+      "id": "Person_f776f3632f1ed78988bba7d749c456d845615687691859ede8cc82b6d5ad5b53"
+    },
+    {
+      "type": "Person",
+      "name": "parlementaires européens",
+      "id": "Person_ad9da348ddd928b926da371351459b7cb3188dec50469fb5a18b5cbe0d4c80d2"
+    },
+    {
+      "type": "Organization",
+      "name": "CSFM",
+      "id": "Organization_9fcad603f5f07fe04b01ebcd8ce056fb93ba0eee15a1cf22705ce1a063906240"
+    },
+    {
+      "type": "Organization",
+      "name": "Elysée",
+      "id": "Organization_725b0ae84b2560c5a76cd9b2ac7aeb7c63d091a9d05dd8afa72db0ccb7147c4d"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat-Major",
+      "id": "Organization_11ad107b97777c91b30bf75c4673f7975ab8dbbb0b788dadf235b1a41e61501f"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement militaire",
+      "id": "Theme_6e834ab6aab0085f0fbaf729f55dd288fa3293c8b5c6daa4902bc99ea35db747"
+    },
+    {
+      "type": "Theme",
+      "name": "plan famille",
+      "id": "Theme_f51f289eb3a6a94f6ba83066d820ef04d4e03fbf365d9192d81f33224050d686"
+    },
+    {
+      "type": "Theme",
+      "name": "Mort pour la France",
+      "id": "Theme_a6367db267c6122848427fa3d29f8879b2e5b6e80945d5865bd3df030681bd2a"
+    },
+    {
+      "type": "Theme",
+      "name": "Mort pour le service de la Nation",
+      "id": "Theme_3107fe8843953c365b8d61f75f6f203c25310072e6cf13b0c411284945a8f42e"
+    },
+    {
+      "type": "Theme",
+      "name": "Mort pour le service de la République",
+      "id": "Theme_d6f142546774e415c60c0130a730d96ac018c296e8bcf312bc0bac3b8d3a53ff"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Organization",
+      "name": "nos services de soutien",
+      "id": "Organization_1b21f9c82e37b109dbb4cb39c205e5ee5a9378f2f368074cb4b6cd786a5a0f6a"
+    },
+    {
+      "type": "Organization",
+      "name": "nos réservistes",
+      "id": "Organization_d32403b5e5bebe53fc34856a83f76726d9d67f2bf414f73de54157a8f6968376"
+    },
+    {
+      "type": "Theme",
+      "name": "volonté",
+      "id": "Theme_16b93f9ed8b73b81c97ecd0a6cdb37d8a5b24c3afd93e53085d57fee061b7ba6"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités",
+      "id": "Theme_f67733f3466da72fbbbebbc7487147453db83c420d3b564d9c993d9a23f111a7"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "loi de programmation militaire",
+      "id": "Theme_a31ae1838a7ee49c488464985e40f77b97ec43be4cd2b944e3eea9a188dde74a"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre des Armées",
+      "id": "Organization_618d202d4050be5fd66098a66b2321c33b1fb9b24fa91c0e1f4c708c0005524e"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Law",
+      "name": "LPM",
+      "id": "Law_b26edc2c07271e5637a73a7792871b805b4972da531b22c6b18d1ec9a47c1ea1"
+    },
+    {
+      "type": "Person",
+      "name": "nos grands partenaires européens",
+      "id": "Person_f0f410078c976fbd6f8ea32bc076c9a522d6639e6a0d7107e33f01937e3c56e6"
+    },
+    {
+      "type": "Person",
+      "name": "nos partenaires allemands",
+      "id": "Person_a1419a5edd62c34b8132a28277a634a4772cf20b6d3a3697cc2acf8fbc7692b3"
+    },
+    {
+      "type": "Person",
+      "name": "les Espagnols",
+      "id": "Person_8b0dd654c53cd60001ef1bbdd0ad4e14f0c107e8fe7d742e167a738d32bacb70"
+    },
+    {
+      "type": "Person",
+      "name": "industriels ici présents",
+      "id": "Person_685bbb52a00fe33dabbf83e515878a3cdfc033026b6fb33a3216e28accb732cb"
+    },
+    {
+      "type": "Person",
+      "name": "notre délégué général",
+      "id": "Person_3def27c04a1295f74ecfe01105601b3b65a656099a6ba3f4c83d8dd31453bedf"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Organization",
+      "name": "Délégation générale pour l'armement",
+      "id": "Organization_15011b52676e4a6ddf427c7d1bdd0ee32780efcb75b431acfda3d4f30faae6c0"
+    },
+    {
+      "type": "Country",
+      "name": "Notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses novatrices",
+      "id": "Theme_5f601baaa789f97e375657768f2375b6b2ebf65266c2cd4cf9b005e76a2c8eff"
+    },
+    {
+      "type": "Theme",
+      "name": "scénarios",
+      "id": "Theme_b28aac2a1cf487bb02c7b0f4b67585510ed1a20cb6198570b09fb06a4aa1eaac"
+    },
+    {
+      "type": "Theme",
+      "name": "Red Team",
+      "id": "Theme_60a5507c0ee1562544b5d76cc898b274fb5bcf353cc44ceda66a91d6dd4f701c"
+    },
+    {
+      "type": "Theme",
+      "name": "militaire",
+      "id": "Theme_703a1ce8bacc621e7371ce6f7d31802464ec3feacc2fcae60e2b209e5a44c132"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie de défense",
+      "id": "Theme_09b61c92558f06c363a00e54db0598d2d3e9c369b6557d614e38e0faec84c117"
+    },
+    {
+      "type": "Theme",
+      "name": "export",
+      "id": "Theme_cd3d89660284092de2bdd09f3c4fb9b581189c8fdaca6f692c50ba2f2d515d78"
+    },
+    {
+      "type": "Theme",
+      "name": "marchés",
+      "id": "Theme_3ef379134f511844c59c5e2cb01bb038134f237291f07468999b2caac324c81e"
+    },
+    {
+      "type": "Theme",
+      "name": "armées",
+      "id": "Theme_f2cbd7b6734caf8165b4c1211bb61206ddd73bf549ff9daaee32d30c380865a3"
+    },
+    {
+      "type": "Theme",
+      "name": "rusticité",
+      "id": "Theme_ca5aef6a373d3fc1f110bd6868ccfbec52d733d34f5c6439ec4dda4ba5fb8548"
+    },
+    {
+      "type": "Theme",
+      "name": "partenaires",
+      "id": "Theme_4fbc1a8aa80faeb31aadf80c3c8981c699d756065dc09be404605fa87653d4ea"
+    },
+    {
+      "type": "Organization",
+      "name": "plus de 21 000 petites et moyennes entreprises",
+      "id": "Organization_c3873ce15856b9a924de82ad9b1fb9c4667efd96c09bf20fc7008f2ece356ce1"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégique",
+      "id": "Theme_babc2e2cb71abc7c22abc65e62f304d6775efebf2c13b7c66a9a53363ab08099"
+    },
+    {
+      "type": "Theme",
+      "name": "Sahel",
+      "id": "Theme_cd986f2263174ad819b8ad3548781ecb091479ae8b61a4f4462e31e7dc9af4e6"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratique",
+      "id": "Theme_4a2e8c96b50d5e6f67480772a7fffec19a19685fc82cf1d425631d21923778a1"
+    },
+    {
+      "type": "Theme",
+      "name": "droits fondamentaux",
+      "id": "Theme_d9b4fe1c479d332e7300e316d32c15aeb5cb1ac64fafb3edc188bbdc443faa35"
+    },
+    {
+      "type": "Theme",
+      "name": "G5",
+      "id": "Theme_d5f72653bdf522a4d74a0dac2fa35bd31a33deb319cddd08ff689bbb072652f7"
+    },
+    {
+      "type": "Theme",
+      "name": "Coalition pour le Sahel",
+      "id": "Theme_b52cace321dfe33b4642b29961dec365ee3c52fe62ed8610340493c3be797269"
+    },
+    {
+      "type": "Theme",
+      "name": "partenaires européens",
+      "id": "Theme_c516036c1990e4b22c08d9c671a210cd10ccfbc2af424287ecd60683c5beb187"
+    },
+    {
+      "type": "Organization",
+      "name": "armée française",
+      "id": "Organization_8b1ae6ddd87c1709fc6cba326077c7fe19dd1ad649c1e5b03acb30b28ad8c92a"
+    },
+    {
+      "type": "Organization",
+      "name": "opération Barkhane",
+      "id": "Organization_f267f0bc44ffda12998f49e0f0838f220bc43cd6bdc5b4ffebb4d1717180398c"
+    },
+    {
+      "type": "City",
+      "name": "Niamey",
+      "id": "City_3d5649a53fd34f76fb9bdbf1cbca0ba29ac1e3f9144355b26d8e6de930f68b39"
+    },
+    {
+      "type": "City",
+      "name": "N'Djamena",
+      "id": "City_f8a953a62424441c54eed3bbd1ae139b4a373ae6e4e65df2dbb183b8775a4ea4"
+    },
+    {
+      "type": "Organization",
+      "name": "Sabres",
+      "id": "Organization_b2a296ab0c5133543b2efaf69d46157aa018e61f790dddb4153789d9d4bca708"
+    },
+    {
+      "type": "Organization",
+      "name": "Takuba",
+      "id": "Organization_5e0498cb1e8a628f779fccd563b427fec129a09dd22149d8a719746303e0a921"
+    },
+    {
+      "type": "Organization",
+      "name": "neuf partenaires européens",
+      "id": "Organization_cd6e5b75b505f28edbe45115531478852a9351b9b41665cf1dd701ce87c641b2"
+    },
+    {
+      "type": "Organization",
+      "name": "partenaires internationaux",
+      "id": "Organization_4a88090d98cb84fbf1651bb6cffe9accb6fb4204987f969e224645c0a64748d1"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique de l'Ouest",
+      "id": "Country_df438d81bbe833913e5cfeaa21832951116c283585cd4772f67742b3b7f8d95f"
+    },
+    {
+      "type": "Country",
+      "name": "Nations alliées européennes",
+      "id": "Country_19ca71d841cabd3c967475a73242bb7a0af722592c93982cf52168f17a98c0d0"
+    },
+    {
+      "type": "City",
+      "name": "Sahel",
+      "id": "City_92fe9646c051c53241e17f3fdb2c650a6e9fa01c7eb8480b47877e959ee0b5fe"
+    },
+    {
+      "type": "Organization",
+      "name": "Barkhane",
+      "id": "Organization_e54f566ab6b27cae3cc1917ae6d401f506be9fa0b59d5e884d97d8e2aae1a82f"
+    },
+    {
+      "type": "Organization",
+      "name": "Taskforce Takuba",
+      "id": "Organization_326522ce132c5df244558b14b01d6b12b154252802a536a59d2719a07ff5974f"
+    },
+    {
+      "type": "Organization",
+      "name": "EUTM Mali",
+      "id": "Organization_6ac29de94860713c4d2bff9e52aa8ccb48cc256dda9a40817d4ee846590fca29"
+    },
+    {
+      "type": "Organization",
+      "name": "Irini",
+      "id": "Organization_ef99f996042778948c1aea2b1578696d5050d9b0e08e4d1d20a3af1740d6914f"
+    },
+    {
+      "type": "Organization",
+      "name": "AGENOR",
+      "id": "Organization_c3008766e7640cb99fc67cf9a7e1a5c108775c5e56258fce729766d6b492c29f"
+    },
+    {
+      "type": "Organization",
+      "name": "IEI",
+      "id": "Organization_20fc27936c27a1d5790bb4d8eeaf96199d17613b9f23ce23694eb8fab7898016"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération européenne",
+      "id": "Theme_bbf325248bdb8ab51adedfa248ddc2abc2c4cdc1a83b204d815f65c09534d43d"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "capacitaire",
+      "id": "Theme_02c0e65c30a5a6664efcab330e4ac3fe5ef30cc7d7125758452b98c8b45e4447"
+    },
+    {
+      "type": "Theme",
+      "name": "projets industriels",
+      "id": "Theme_90500742d40b0a895b76fb2a5806af82a51823b9fff810dd265d48a385a5b191"
+    },
+    {
+      "type": "Theme",
+      "name": "opérations conjointes",
+      "id": "Theme_ddbb4ababd64debed684fc6e1fcc445fc9963eea89a8fedfe27d970ef13401a6"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Theme",
+      "name": "conflictualité",
+      "id": "Theme_0ccb313b8c65731a956716e3e88a5c13c63f5e08b337455b02bfdde6922c17f8"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance militaire",
+      "id": "Theme_3f0e29a4c944c8e64fb8918029fcc35899fcb22da64d1f203d7c0e6d35ccf8eb"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance d'équilibre",
+      "id": "Theme_956338aa7aacb8e19b173f147b404dd612fa18bf98121a15dd0db9bc5d933dfd"
+    },
+    {
+      "type": "Theme",
+      "name": "voix",
+      "id": "Theme_2692f6b133485f39aa0d25d2c45cb55363602c49ebe739a7ce59382557be58f4"
+    },
+    {
+      "type": "Theme",
+      "name": "dissuasion",
+      "id": "Theme_f24de2941f32c3ba0adcee4f66a7efe25f851c9977d13617739aecd363151721"
+    },
+    {
+      "type": "Theme",
+      "name": "missions",
+      "id": "Theme_aa32f1db72030ed46235d72605062f3792844fbd59dba1b6254ca1afd526c813"
+    },
+    {
+      "type": "Country",
+      "name": "Nations",
+      "id": "Country_3a0a9b52ddd0029b77b821ff3803f9e4a94a15f550135571a32e9771a932ff31"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre froide",
+      "id": "Theme_77c195437cd0c1a5f7f2d5934bc748823d87f8a5701f21ada04ec3d74e9ac381"
+    },
+    {
+      "type": "Theme",
+      "name": "violence",
+      "id": "Theme_2e88abc315f2f0443a0e5b9fd8eae9a399f515b08101974ade6d7c352b827448"
+    },
+    {
+      "type": "Theme",
+      "name": "armements",
+      "id": "Theme_31df085509ff2b0cb9316234a488ede05c2c6c18484d232610433e6309478147"
+    },
+    {
+      "type": "Theme",
+      "name": "désarmement",
+      "id": "Theme_524877e519938d0899090ed86d9804dd3f2708b218a5fc92a34831106fc0c1d3"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Organization",
+      "name": "Viginum",
+      "id": "Organization_dcc4f624ab03895a7da0c6cf845743ce935fd85bf4523def7423c315e4e5c77b"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariats",
+      "id": "Theme_84487f85920a01eef370c99e7050da97326069387eeb01a99526c8b0243acd8d"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance",
+      "id": "Theme_eb42bc9a4c0e3c4863f2af9c41baa2a8f3b5a02bf55c6c74f6658aeb303b2108"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariat européen",
+      "id": "Theme_c4fa4e31d93dc480d7e1967b7729ecc646d7b7e7b5238f3f034bad1ebbb28fda"
+    },
+    {
+      "type": "Theme",
+      "name": "otanien",
+      "id": "Theme_75b8b86a0e791ca1eaad5d0a2cbdfc28535f181398b9abf6f0c6e727347601c7"
+    },
+    {
+      "type": "Theme",
+      "name": "résistances",
+      "id": "Theme_37deb2bac1d77a3ce6372f024e6d19c915c5fa0c89e29a82d82533b7f4b3c3bc"
+    },
+    {
+      "type": "Theme",
+      "name": "conflictualité nouvelle",
+      "id": "Theme_d249c1c9232bbf55b23a6db1e45a21d0b33789ce809a1dd1aabba13226d2e5b1"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "voisinage européen",
+      "id": "Theme_4169ec0901d88ae05912664db89e268508d06f23e230a83e1554c2f06d25af73"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité des Balkans",
+      "id": "Theme_dd42b1e42e84293618e03cca46dfb0c5f3bb55354ba0295440d50667ad992d87"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité du voisinage européen",
+      "id": "Theme_2b9a9fffdead9bd8b42a05c393c1cf9bc97b93c8a9ec23a58e60d9a1ddd5f812"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité au Sahel",
+      "id": "Theme_45c8b92c6b12ece42409a741d14b0fed6f13544736081a8588a211f2980c3a78"
+    },
+    {
+      "type": "Theme",
+      "name": "alliances",
+      "id": "Theme_a4e8b448156bfbbc4fec59d51b9add10c25db7f224734e8d13a3d4a0545bb154"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariats équilibrés",
+      "id": "Theme_65b377f7177b2d6cbc1fd7bf2008797be58f803b3be4fc358e78ffea34fd272d"
+    },
+    {
+      "type": "City",
+      "name": "Polynésie française",
+      "id": "City_237a60578d5c1c77f63402715dbac21747d712c1c60c6abd087f2decd30bb0e0"
+    },
+    {
+      "type": "City",
+      "name": "Nouvelle-Calédonie",
+      "id": "City_cc4b506740f7c1968790c319d6f12845d814677cd83a29590ede16c2994049d5"
+    },
+    {
+      "type": "City",
+      "name": "Mayotte",
+      "id": "City_3dec527a64f181a960dc6a603b915acb2fd5fe3edc9a3709d2a6990c3fb25dc8"
+    },
+    {
+      "type": "City",
+      "name": "La Réunion",
+      "id": "City_3b93fbd63e92e372eeab86c6771fca89e2c870d4314aebfaf2af5a56934fa6b2"
+    },
+    {
+      "type": "Person",
+      "name": "Général LAVIGNE",
+      "id": "Person_b69822b4c1810177b4106a2778b0299480e62dca7889aa5f4af15e71856ff8c4"
+    },
+    {
+      "type": "Organization",
+      "name": "armée de l'air",
+      "id": "Organization_f09e07e662def1011eb4be3663c10c61af866239b1425538446cf5cb0e9d2080"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat-Major de l'armée de l'air et de l'espace",
+      "id": "Organization_ad812ab949e92555d56e02607c1f31babb7fdf43ecbd5365dbd54eaf59e0e9a7"
+    },
+    {
+      "type": "Person",
+      "name": "Général LECOINTRE",
+      "id": "Person_2d577d9e6aeeb1138d7a05b5cf3a36d5c803cc5fc487c957f14da0ba077b33f5"
+    },
+    {
+      "type": "City",
+      "name": "Hamilton",
+      "id": "City_555d36cf1d5ea84f8912475f63fbeed6b9ad1c4e583facf40dac4ebb9aee52e4"
+    },
+    {
+      "type": "City",
+      "name": "Barkhane",
+      "id": "City_49709f68822a0c925a85bf2e3a01963f9ad545c15ce3391e4d7ce18349c9296f"
+    },
+    {
+      "type": "Person",
+      "name": "mon Général",
+      "id": "Person_4dee393bdf6e0458a49fe665cb1b9812a87a215316714163b3cd889ba32cad32"
+    },
+    {
+      "type": "Theme",
+      "name": "défense de la Nation",
+      "id": "Theme_45fcfe9ce0c57e3260871dc9e409038bdd30a7600120965d8186a2329dfaf1e3"
+    },
+    {
+      "type": "Person",
+      "name": "Général BURKHARD",
+      "id": "Person_45edc8e381ab9c8a53b84a504cc2abc95d4d44e671d88af3ced8b550025445eb"
+    },
+    {
+      "type": "Person",
+      "name": "Général SCHILL",
+      "id": "Person_3c2b4261313f2ba3472db4d79a9a6694ac49fd24e372fc5b1a959ce75e529096"
+    },
+    {
+      "type": "Person",
+      "name": "général MILLE",
+      "id": "Person_516d092f227fe507751b98bde5acc6a88acd7bb665ab35ff8db801a52e2c7cbf"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "relance",
+      "relation": "MENTIONS",
+      "target": "relance",
+      "evidence": "La relance, c'est la relance de notre volonté, de nos capacités, de notre industrie.",
+      "confidence": 1.0,
+      "source_id": "Theme_89b3bcb48b8cc3439eb43c613ac6bd35725f85c44b2759c02b21de9a2a64abee",
+      "target_id": "Theme_89b3bcb48b8cc3439eb43c613ac6bd35725f85c44b2759c02b21de9a2a64abee"
+    },
+    {
+      "source": "loi de programmation militaire",
+      "relation": "MENTIONS",
+      "target": "loi de programmation militaire",
+      "evidence": "Cette promesse contenue dans la loi de programmation militaire a été tenue.",
+      "confidence": 1.0,
+      "source_id": "Theme_a31ae1838a7ee49c488464985e40f77b97ec43be4cd2b944e3eea9a188dde74a",
+      "target_id": "Theme_a31ae1838a7ee49c488464985e40f77b97ec43be4cd2b944e3eea9a188dde74a"
+    },
+    {
+      "source": "Europe",
+      "relation": "ANNOUNCED",
+      "target": "souveraineté européenne",
+      "evidence": "l'horizon d'une souveraineté européenne s'est singulièrement rapproché",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "coopération européenne",
+      "evidence": "durant ces 4 dernières années, construit un socle de coopération européenne inédit",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Theme_bbf325248bdb8ab51adedfa248ddc2abc2c4cdc1a83b204d815f65c09534d43d"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "défense",
+      "evidence": "L'Europe de la défense n'avait jamais autant avancé",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "source": "Etat-Major de l'armée de l'air et de l'espace",
+      "relation": "MEMBER_OF",
+      "target": "armée de l'air",
+      "evidence": "Etat-Major de l'armée de l'air et de l'espace",
+      "confidence": 1.0,
+      "source_id": "Organization_ad812ab949e92555d56e02607c1f31babb7fdf43ecbd5365dbd54eaf59e0e9a7",
+      "target_id": "Organization_f09e07e662def1011eb4be3663c10c61af866239b1425538446cf5cb0e9d2080"
+    }
+  ]
+}

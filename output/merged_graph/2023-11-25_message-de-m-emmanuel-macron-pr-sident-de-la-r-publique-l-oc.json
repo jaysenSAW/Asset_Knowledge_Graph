@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "violence",
+      "id": "Theme_2e88abc315f2f0443a0e5b9fd8eae9a399f515b08101974ade6d7c352b827448"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité entre les femmes et les hommes",
+      "id": "Theme_b484a156d9d64e08166b13528c3fa60f7e66a7f8a085ad36db2ca83767aac644"
+    },
+    {
+      "type": "Theme",
+      "name": "oppression",
+      "id": "Theme_df6ad5e2ede4452692bcd732b468e04f82be651efb99e1a44e33dad25046f120"
+    },
+    {
+      "type": "Theme",
+      "name": "sévices",
+      "id": "Theme_0ce57a92e49ce7073f6096449681ac3fbfce47a0afe189fd450657501c519276"
+    },
+    {
+      "type": "Theme",
+      "name": "emprise",
+      "id": "Theme_f123aafe6fe48b3c67f2b50af44b52404b335b3563a5bd82cbe77476e844f46b"
+    },
+    {
+      "type": "Theme",
+      "name": "Grenelle des violences faites aux femmes",
+      "id": "Theme_b9cef200989126a6a67c1b721e97d0fef62fabdb6a8329b0bbd3d286541e2244"
+    },
+    {
+      "type": "Theme",
+      "name": "MeToo",
+      "id": "Theme_05bedc3e745aa7b2608fee60cae33feb70bd9626edf7e2dbef85b2cfc70b62dd"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité",
+      "id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "type": "Theme",
+      "name": "humanité",
+      "id": "Theme_ebe8df3ac285e08d8c5b09a171c984dd674712e8f6706876ba58be414310d3e9"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention",
+      "id": "Theme_b5d3262ef3c58743a1781f267abe9b162422a835f4df383fc4856acb883ee6a0"
+    },
+    {
+      "type": "Theme",
+      "name": "violences faites aux femmes",
+      "id": "Theme_43efd737d86fa6cbeae42d883838ee75aa4f5ae2335d3214773d627c8c06583b"
+    },
+    {
+      "type": "Theme",
+      "name": "violences conjugales",
+      "id": "Theme_8bc54e1e689ed6771157dd22b47347879376792a23e4a2044133fcc255e1f52d"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement des victimes",
+      "id": "Theme_b504bd106f5724cb06c9c4cb32586fdee994479fa8fc217f2cc7c2ace4342ed6"
+    },
+    {
+      "type": "Theme",
+      "name": "secret médical",
+      "id": "Theme_eeefe4d16a33df16f64cc35e505289cfc1f74e564d97f6402c48d04f68c7f787"
+    },
+    {
+      "type": "Theme",
+      "name": "condamnations",
+      "id": "Theme_0c1c694db6ef3d5946356121be2d0d4b7406fac44603f7fca17aa22deb3fd78b"
+    },
+    {
+      "type": "Theme",
+      "name": "hébergement d'urgence",
+      "id": "Theme_0c501c696d34834982cd0188a1d6e5f83b9a5680d5efabdcebfaa0bb30e034bd"
+    },
+    {
+      "type": "Theme",
+      "name": "forces de sécurité",
+      "id": "Theme_8eba3893dbaf802f7f798e75c993310a216b3053f562c96826354dbe13531ad7"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention des violences intrafamiliales",
+      "id": "Theme_3a0c8180fd465e7a0faf390fcfb8daaf209fbd3fb870be679b6bfaedf9ae9c8d"
+    },
+    {
+      "type": "Theme",
+      "name": "séparation",
+      "id": "Theme_1a333b382d711436fe1a3551219154bc29226d28fd2e56d9374897cf99c80454"
+    },
+    {
+      "type": "Theme",
+      "name": "pack Nouveau départ",
+      "id": "Theme_490c8ef62d54ba385ab89ed5dca9e2138342026460c47b155cecfab43a1f07dd"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "forces de sécurité",
+      "relation": "MENTIONS",
+      "target": "violences conjugales",
+      "evidence": "244 000 victimes de violences conjugales ont été enregistrées cette année par les forces de sécurité.",
+      "confidence": 1.0,
+      "source_id": "Theme_8eba3893dbaf802f7f798e75c993310a216b3053f562c96826354dbe13531ad7",
+      "target_id": "Theme_8bc54e1e689ed6771157dd22b47347879376792a23e4a2044133fcc255e1f52d"
+    }
+  ]
+}

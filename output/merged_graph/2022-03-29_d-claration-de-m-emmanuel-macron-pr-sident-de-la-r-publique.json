@@ -1,0 +1,614 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "CADOT",
+      "id": "Person_96da9adfbceab58fd793a8a4b20d5fdc4bdf098055e660707ed5ed8de1df2139"
+    },
+    {
+      "type": "Person",
+      "name": "ESTANGUET",
+      "id": "Person_26483616176d89629ee7eb7c0e37b931d754ab5958ed404478a16a19dbbd6654"
+    },
+    {
+      "type": "Person",
+      "name": "Grand Chancelier de la Légion d'Honneur",
+      "id": "Person_deeb0dbf415f1a9be0edb0f302a6da76d28f329723f167122da78d1622375bb6"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Grand Chancelier de la Légion d'Honneur",
+      "id": "Person_59ff927918970f11d2ea7e60e25073d204cf6d5140136b4bf63f0ee6bf391adc"
+    },
+    {
+      "type": "Person",
+      "name": "Médaillés",
+      "id": "Person_990db3746c6115046e5b3411a149b16be4847736a1599b1b7369f33c169d36fe"
+    },
+    {
+      "type": "Person",
+      "name": "Membres de la délégation française aux Jeux Olympiques et Paralympiques de Pékin",
+      "id": "Person_0e18af1735729e07410a7c9cd14f54ebabc1e63030240115c0070bf9e202bed9"
+    },
+    {
+      "type": "City",
+      "name": "Pékin",
+      "id": "City_c33b28c48b13d634999d50013f1cdd989b8055c898dcd822f8e335c15db449dc"
+    },
+    {
+      "type": "Theme",
+      "name": "honneur",
+      "id": "Theme_ea5594653008766fd662b55a97d7fd869d455e7de170f6055248cf3b342cb8c7"
+    },
+    {
+      "type": "Theme",
+      "name": "rêve",
+      "id": "Theme_779ee8cf184660befb95c38167d6ceef6be3bd616b0186682de447aa2ed4dad1"
+    },
+    {
+      "type": "Theme",
+      "name": "courage",
+      "id": "Theme_4eb0829b6b279fcb2a945b12114e4f8976954c7a7fcf9391f504d523ee63a88b"
+    },
+    {
+      "type": "Theme",
+      "name": "abnégation",
+      "id": "Theme_aa9cdd8fd555897755b17e142427f336407697133578b22f8f621c6e4044a7a7"
+    },
+    {
+      "type": "Theme",
+      "name": "collectif",
+      "id": "Theme_ce0e3932802721bc79338038503affd2519d7b2eab36d4e100483a6236017ed7"
+    },
+    {
+      "type": "City",
+      "name": "Montpellier",
+      "id": "City_a4b08d8442d3c90fe9eb3313e4500d0e3a904f2fb68190ad2b4820a2e2aeb0a7"
+    },
+    {
+      "type": "City",
+      "name": "Courchevel",
+      "id": "City_977e76ba9da150ef7019b07ea67ae332b947cd5e799119fc31762503e8da2e4a"
+    },
+    {
+      "type": "Country",
+      "name": "Suisse",
+      "id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "type": "Country",
+      "name": "Estonie",
+      "id": "Country_6ff0b5ecfc1dfa115390e0dbd3c73b3225e6b079de5c8428b3dad412d2b52103"
+    },
+    {
+      "type": "Country",
+      "name": "Norvège",
+      "id": "Country_01255a6d7078545605faae7f3b57607774761cefa10e25e0bff7873d4b8710cd"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux d'hiver",
+      "id": "Event_020aec43670ce20aacfb3b06be2814977fd9df19d508b81d1467403b86a65164"
+    },
+    {
+      "type": "City",
+      "name": "Pyeongchang",
+      "id": "City_8d8ebea757369f844a6d25a6613425ba31f1ca2b6362e618a1c95a175c9ed700"
+    },
+    {
+      "type": "Person",
+      "name": "vos clubs sportifs",
+      "id": "Person_5eaa5a4cb7f8a609a0a6169d6b1b9a270b7231962fd04326e64e29805153bb95"
+    },
+    {
+      "type": "Person",
+      "name": "vos entraîneurs",
+      "id": "Person_a0d3268c6ff7407546cfb3a334cb79cf00f457667e72ef8f1cb05714cd1e85fa"
+    },
+    {
+      "type": "Person",
+      "name": "les préparateurs physiques",
+      "id": "Person_4fa4dbbba7a6b2368b979135a8a94f86343cf31ec6f48f73a088027e9bb542e8"
+    },
+    {
+      "type": "Person",
+      "name": "vos fédérations",
+      "id": "Person_bc5e78b94b98a8ede0067fba2dfe42899cb8051d2ed561f90e2bc105334835fb"
+    },
+    {
+      "type": "Person",
+      "name": "vos familles",
+      "id": "Person_b4ff40f6a4262f022f7fa5183e1f0cea61b42d15001e19345a0f72519114fc22"
+    },
+    {
+      "type": "Person",
+      "name": "vos coéquipiers",
+      "id": "Person_3c3c21fa1f800580a448be7e2aa731fc1c3c0e6401b36cc9ddb57da198b4c6d8"
+    },
+    {
+      "type": "Person",
+      "name": "la nation tricolore",
+      "id": "Person_8de096f3d6ef7bf0acd58512365e9b6ca69e535980c4591c8d29772b7ab23243"
+    },
+    {
+      "type": "Person",
+      "name": "famille olympique",
+      "id": "Person_2de732a06e7f44ef917b6a4623006618ade0fcb0e8065206885f06875211901b"
+    },
+    {
+      "type": "Person",
+      "name": "civils",
+      "id": "Person_80f26eb87dc0740eed0997a09a2cadc20426c11e6b3ab16ec4911410a3d994c2"
+    },
+    {
+      "type": "Person",
+      "name": "militaires",
+      "id": "Person_8660f297e59a663c959da123e975f4b55a6b3e575c6aba80c95d08b1eb7e957b"
+    },
+    {
+      "type": "Organization",
+      "name": "cette alliance sacrée",
+      "id": "Organization_058f4eb85c4f4ae22646d93d2eea841601b51213cc7bd22510b4490315dc5893"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Person",
+      "name": "Kevin ROLLAND",
+      "id": "Person_8c60529c360f0ff310999096b87c7537cb36a07360932dad8b77f488f043e8e2"
+    },
+    {
+      "type": "Organization",
+      "name": "nos athlètes paralympiques",
+      "id": "Organization_2b6ffb8a5e259cf0910ca804ce2930b31507781616b8bd6c801fae11e21e395c"
+    },
+    {
+      "type": "Person",
+      "name": "Tessa",
+      "id": "Person_1da1489b54fb17e2c145884da633536846339fcaf665f15af654fa23b33f018a"
+    },
+    {
+      "type": "Person",
+      "name": "Perrine",
+      "id": "Person_8d9334c7125d326a42b5e64dd9f5b70dd7ec7b85ea787579031a3c9d3a747d9e"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitions olympiques et paralympiques",
+      "id": "Theme_21e294df5e1d3fa6c24749a46e0c304a67410a8bdcd3a62890c210a052e39939"
+    },
+    {
+      "type": "Theme",
+      "name": "médailles",
+      "id": "Theme_994036ad39e4d72b18817ebb12c080dd8d791ce299eb9a9ee7c22eda1d4d21f7"
+    },
+    {
+      "type": "Theme",
+      "name": "biathlètes tricolores",
+      "id": "Theme_fb164aac9eb7fa1b3e6c317056a2e1b573b84f0d5ac8b8cdbc70784c6226baeb"
+    },
+    {
+      "type": "Person",
+      "name": "Martin FOURCADE",
+      "id": "Person_37b652bdd29f6b08b44061e9ee8b66e272964a078e0087a8f230099d8a4f0acc"
+    },
+    {
+      "type": "Person",
+      "name": "Quentin FILLON MAILLET",
+      "id": "Person_b67e874798f8291b4d06e41dfc6ed1a6887e14a65bed8e50c9e74bff13e32083"
+    },
+    {
+      "type": "Person",
+      "name": "Justine",
+      "id": "Person_b89495605bd12bccd6f5b25581453e617dd74f1df4115d560ef4bb74f2ad945c"
+    },
+    {
+      "type": "Person",
+      "name": "Florence BAVEREL-ROBERT",
+      "id": "Person_afe621302e96967c2d195a9829dabedba1e863af4c576937231507dfe37de395"
+    },
+    {
+      "type": "Person",
+      "name": "Anaïs CHEVALIER-BOUCHET",
+      "id": "Person_7dddb3fb8b56d44f205bc6f3a5ca9298aada3997ea9d5467812fa07d7be20ee0"
+    },
+    {
+      "type": "Person",
+      "name": "Émilien JACQUELIN",
+      "id": "Person_487eb14d8f18a829c69183b5233fe43a9099cdea437501708a1d0b87b7538d0b"
+    },
+    {
+      "type": "Country",
+      "name": "Pékin",
+      "id": "Country_ec732655cb0c8953e37a5c258d76d6ec48c8219cd2d8d154aa8b81a54e21d747"
+    },
+    {
+      "type": "Person",
+      "name": "Simon DESTHIEUX",
+      "id": "Person_57f60118776e228f281a0453fe49422461c33e2a8cc88d86235cfb40905f4221"
+    },
+    {
+      "type": "Person",
+      "name": "Fabien CLAUDE",
+      "id": "Person_3767fcda244f97b899fa03d672e8dce31e4ec012e7cce9eacbf3350534531522"
+    },
+    {
+      "type": "City",
+      "name": "Corée",
+      "id": "City_19098e5e1da2719161d4f5d7ce43616a19de275bd2005423b4735a06dbe987e8"
+    },
+    {
+      "type": "City",
+      "name": "Vosges",
+      "id": "City_fc841fc710a737a7b7302d992715d0f5bf59a3e86e249dd769b0d68ad37293fc"
+    },
+    {
+      "type": "City",
+      "name": "Bassurois",
+      "id": "City_4328043f6b484ee2fbb43422f391b2a4ac07e9a479dc763f13a0bef05d6a2291"
+    },
+    {
+      "type": "Person",
+      "name": "Julia SIMON",
+      "id": "Person_80727084e585e519e817b04fe8f2f2c42e2662b9ae77bce3a2c9ef4e6917c406"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Clément NOËL",
+      "id": "Person_f272bcd218aad5220b747e0527c93d64280f02b1431faf570f10b58c540ce4ec"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Claude KILLY",
+      "id": "Person_8c25d9a07fe7b83a7f8f6f3dbe895d2550dbce841b936c924da138c08d2fe5dd"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Pierre VIDAL",
+      "id": "Person_e431cefa3774eef9201907e349b61ba2822237a609f4ee2772025540de00ac52"
+    },
+    {
+      "type": "Person",
+      "name": "Tess LEDEUX",
+      "id": "Person_86fe0cbe52fa2bdf16272ea689c0c272d731742f660b37c3b1f3a6e1c4eba31d"
+    },
+    {
+      "type": "Person",
+      "name": "Chloé TRESPEUCH",
+      "id": "Person_eedf741bd8f849391d76b5b6c425adbcb1296c6498752cb70c06fe628e85f34e"
+    },
+    {
+      "type": "Person",
+      "name": "Mathieu FAIVRE",
+      "id": "Person_e41bf12822be50b8620048ae89a0b42e5598411c3988bb6e5dea56970bfa67b1"
+    },
+    {
+      "type": "Person",
+      "name": "Richard JOUVE",
+      "id": "Person_9dd3aa5358926dd1fbc7e5f2b8bd741f281c126746b35ceb7333375fb3f9fd30"
+    },
+    {
+      "type": "Person",
+      "name": "Hugo LAPALUS",
+      "id": "Person_8c98316a3d59f85f34c6e2eaf38919e6eca2b935f9da96d9d44e54b558933059"
+    },
+    {
+      "type": "Person",
+      "name": "Clément PARISSE",
+      "id": "Person_a7b0790edeb5679d2f088699a582547331a5d3675c2101e55168ebfd982ae41d"
+    },
+    {
+      "type": "Person",
+      "name": "Maurice MANIFICAT",
+      "id": "Person_963d02754fd2b21e21c9c0bbb97965de3a8832ace18b1b78bb68d50ccbd44de1"
+    },
+    {
+      "type": "Person",
+      "name": "Gabriella PAPADAKIS",
+      "id": "Person_483983e1fe850f4f4cf9607b02d64ac937885ad94f2fa9097bc51eeac1ef3996"
+    },
+    {
+      "type": "Person",
+      "name": "Guillaume CIZERON",
+      "id": "Person_2687e4241d364f532d4e054df53d79671330a8823ec1af1ec0a5555bd998d450"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de l'Éducation nationale, de la Jeunesse et des Sports",
+      "id": "Organization_95764c4d40a7a827acb7ef380d8f1b9da9f94e41681845ca4d10088204b95066"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre des Sports",
+      "id": "Organization_48504b385a2f19289b4bfd49fade8f1db3d5c89e95bd36f0dadf67ab542f97cc"
+    },
+    {
+      "type": "Theme",
+      "name": "statut pour les athlètes paralympiques",
+      "id": "Theme_19858363dbd3ac8af333b92c65ad6cd48f9ad6fa1bb94ddfcffa9dc9a9f22d9d"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme en cours",
+      "id": "Theme_d67a7ecec3f5cfa38031acf4448458c5d610a4ec9a1ec8821082f55946951fbb"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur BAUCHET",
+      "id": "Person_379e86bf09b41eda671e6f53db931bae64831462a30c450301c5c4b9684cb1ea"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux de Pyeongchang",
+      "id": "Event_fe82a73f1177711ccd16cbece92d06ec7891f1a207e6b66b6f3f631092e4f6eb"
+    },
+    {
+      "type": "Person",
+      "name": "Benjamin DAVIET",
+      "id": "Person_f9ea6f6fbb7c242ea6f2f0e08697b29e7c09ce53c6df0bdf4313a776836b75fd"
+    },
+    {
+      "type": "Theme",
+      "name": "accident de mobylette",
+      "id": "Theme_f62d46437213b26581080c1dd79faa2a815589fe896ddd57f062c688f6307813"
+    },
+    {
+      "type": "Theme",
+      "name": "décuple champion olympique",
+      "id": "Theme_a1613d76d2062d7fad949bac41ce59667b8debaba6afeb0fd38ffb5014ae8ef7"
+    },
+    {
+      "type": "Person",
+      "name": "Cécile HERNANDEZ",
+      "id": "Person_cf23feeac3eb612de02e041468a5dbc82071fc87325aa22589fc450921651fd0"
+    },
+    {
+      "type": "Organization",
+      "name": "Jeux de Londres",
+      "id": "Organization_48a6e63fd07834f013172e385f613fe4bb2e504f5fa6d4970831ac0ec2545c48"
+    },
+    {
+      "type": "Theme",
+      "name": "ténacité",
+      "id": "Theme_8712c0654abfbb227ab810654d74539499e4d29aa20d58914dec0faf85847b7b"
+    },
+    {
+      "type": "Theme",
+      "name": "mental de guerrière",
+      "id": "Theme_5b699cfe68ed7d8e5bd9c22da76002d34578402840d40326c2b288b80b89c864"
+    },
+    {
+      "type": "Theme",
+      "name": "participer à ces Jeux",
+      "id": "Theme_b7c33b673a3e6f4a2d6007686fe1517db2d85a0e300153d329cc7b50a6cff20d"
+    },
+    {
+      "type": "Person",
+      "name": "Maxime MONTAGGIONI",
+      "id": "Person_6def5362de272479648dfe9a1a31c02ebd51fd73dab5bd5828ea55684e45cafd"
+    },
+    {
+      "type": "Person",
+      "name": "Marie BOCHET",
+      "id": "Person_2fbaacd54bca9037a972c116c4893796a72d899966cc3698d4ef72ebfd7a9e66"
+    },
+    {
+      "type": "Theme",
+      "name": "snowboard",
+      "id": "Theme_fa02392fe99b3b16dabdf2a10580a35c5ac6f08e7abf89d20a8cf52e4e7579c3"
+    },
+    {
+      "type": "Theme",
+      "name": "taekwondo",
+      "id": "Theme_1a07470a5d00d651cfd333462074426650acd0eaaf523f60e2e7df7f8b3d6d96"
+    },
+    {
+      "type": "Person",
+      "name": "Anthony CHALENÇON",
+      "id": "Person_8a25475fb2bea49fc73e3b2f545a3a5ed5fcb3cde1f66e0edede39b1511c15ca"
+    },
+    {
+      "type": "Person",
+      "name": "Brice OTTONELLO",
+      "id": "Person_9eb37c1d995eac60bf5b1f5920cab62973732098a290f49ea99672fc891f54ac"
+    },
+    {
+      "type": "Person",
+      "name": "Alexandre POUYÉ",
+      "id": "Person_0f2dcc1a0a198fcbd66550368f80a6d04ee449780c03971e4652e59f756cc1dc"
+    },
+    {
+      "type": "Person",
+      "name": "Hyacinthe DELEPLACE",
+      "id": "Person_84644f4f19221ded432bcc5fc1c82cbf9ca60e842288611d02e32efe926769d6"
+    },
+    {
+      "type": "Person",
+      "name": "Valentin GIRAUD MOINE",
+      "id": "Person_c3a39b3450cfa4c1803ffba797a8c024eac922db5a3d61e332e38ccc5a45339b"
+    },
+    {
+      "type": "Event",
+      "name": "rendez-vous de 2024",
+      "id": "Event_d69bfced9207809487ebe550bf7bb2815f7bff4bc446ec43a67ecd8346b6b10b"
+    },
+    {
+      "type": "Theme",
+      "name": "place du sport dans le quotidien de notre pays",
+      "id": "Theme_867141837ea2486c217ecb65e99a4a97fbdbf4ebcbbb8a97b18742ebc38ff96d"
+    },
+    {
+      "type": "Theme",
+      "name": "construire l'après carrière",
+      "id": "Theme_6a2af73bc4ebe664b8009705b60498a8a9b6f1c51d2bae81b84eec08c516b12a"
+    },
+    {
+      "type": "Organization",
+      "name": "armées",
+      "id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab"
+    },
+    {
+      "type": "Organization",
+      "name": "nos J.O.",
+      "id": "Organization_e567e4029a64dcde2b938ed598f3532657373d2c86857afae4288b4b9c25c192"
+    },
+    {
+      "type": "Organization",
+      "name": "Les Jeux de Milan",
+      "id": "Organization_531b7fa02ce4cf3b5ad411b8ba09bcab64b838e287ce77aab318587927d3e043"
+    },
+    {
+      "type": "Organization",
+      "name": "Mondiaux en France en 2023",
+      "id": "Organization_6986ade7794102688bfa659a59469bcf30954ade53eedb3cabefbafc709419eb"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien de l'État",
+      "id": "Theme_bd34da974ccccb29f5a89d82c462f875f71a04bfd53b6e50178cecc7d7b1c9b1"
+    },
+    {
+      "type": "Theme",
+      "name": "candidature de Méribel et Courchevel",
+      "id": "Theme_686f73b4eb6342abb745bdb45cc82509710f5dfdd7624b262c9944530cdb584b"
+    },
+    {
+      "type": "Theme",
+      "name": "Mondiaux de 2023",
+      "id": "Theme_963551f01d3cf8f0d89a2636b83de024db69394e276a2a28b6364662a91610a9"
+    },
+    {
+      "type": "Theme",
+      "name": "soutenue et accompagnée par un plan exceptionnel",
+      "id": "Theme_0c3ff450fbfd436229b85e72fc20a9cef627808ecf1d1127ca0fa3996783868c"
+    },
+    {
+      "type": "Theme",
+      "name": "économie de la montagne",
+      "id": "Theme_cf168a222b5816d3136e63f487d9c051953287fe10ef35da03d48173533b7844"
+    },
+    {
+      "type": "Theme",
+      "name": "sports d'hiver",
+      "id": "Theme_032e747a5f581634f0d50da2bebf76b49aed13e98199994a8f583438fbd3f7e9"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibres",
+      "id": "Theme_b894be6dd2881b319ec21f2bbcd0455bce14339d3a5228ad72b0d1d1569b9749"
+    },
+    {
+      "type": "Person",
+      "name": "Christian",
+      "id": "Person_9a83329596640ad2d313092f1d4f984b96735b0cde9ebbab33844828d4be4151"
+    },
+    {
+      "type": "City",
+      "name": "Provence-Alpes-Côte d'Azur",
+      "id": "City_87f40cd773cf148ad767a74499f9c85f04899fe56064ac9fec8e287b0452f51f"
+    },
+    {
+      "type": "Country",
+      "name": "République",
+      "id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    },
+    {
+      "type": "Organization",
+      "name": "nos champions",
+      "id": "Organization_48f02d7767180a2d906e3c8d0caac01255cc2bfcbbe4c69a8a407678109bbdb1"
+    },
+    {
+      "type": "Person",
+      "name": "champions",
+      "id": "Person_3b3ee26a02f70c783e5bba21e53bd798ed4d591c33dd69c21547fcb843df5352"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "vos clubs sportifs",
+      "relation": "VISITED",
+      "target": "vos clubs sportifs",
+      "evidence": "Unis, vous l'êtes avec vos clubs sportifs qui vous ont accueilli dès votre plus jeune âge",
+      "confidence": 1.0,
+      "source_id": "Person_5eaa5a4cb7f8a609a0a6169d6b1b9a270b7231962fd04326e64e29805153bb95",
+      "target_id": "Person_5eaa5a4cb7f8a609a0a6169d6b1b9a270b7231962fd04326e64e29805153bb95"
+    },
+    {
+      "source": "vos coéquipiers",
+      "relation": "VISITED",
+      "target": "vos coéquipiers",
+      "evidence": "Unis, vous l'êtes également avec vos coéquipiers",
+      "confidence": 1.0,
+      "source_id": "Person_3c3c21fa1f800580a448be7e2aa731fc1c3c0e6401b36cc9ddb57da198b4c6d8",
+      "target_id": "Person_3c3c21fa1f800580a448be7e2aa731fc1c3c0e6401b36cc9ddb57da198b4c6d8"
+    },
+    {
+      "source": "la nation tricolore",
+      "relation": "VISITED",
+      "target": "la nation tricolore",
+      "evidence": "Unis, vous l'êtes avec la nation tricolore car malgré les gradins, je le sais, qui étaient presque vides, tout le pays était derrière vous",
+      "confidence": 1.0,
+      "source_id": "Person_8de096f3d6ef7bf0acd58512365e9b6ca69e535980c4591c8d29772b7ab23243",
+      "target_id": "Person_8de096f3d6ef7bf0acd58512365e9b6ca69e535980c4591c8d29772b7ab23243"
+    },
+    {
+      "source": "Fabien CLAUDE",
+      "relation": "LOCATED_IN",
+      "target": "Vosges",
+      "evidence": "Une médaille aussi pour les Vosges, grâce à notre bassurois, Fabien CLAUDE",
+      "confidence": 1.0,
+      "source_id": "Person_3767fcda244f97b899fa03d672e8dce31e4ec012e7cce9eacbf3350534531522",
+      "target_id": "City_fc841fc710a737a7b7302d992715d0f5bf59a3e86e249dd769b0d68ad37293fc"
+    },
+    {
+      "source": "Fabien CLAUDE",
+      "relation": "LOCATED_IN",
+      "target": "Bassurois",
+      "evidence": "Une médaille aussi pour les Vosges, grâce à notre bassurois, Fabien CLAUDE",
+      "confidence": 1.0,
+      "source_id": "Person_3767fcda244f97b899fa03d672e8dce31e4ec012e7cce9eacbf3350534531522",
+      "target_id": "City_4328043f6b484ee2fbb43422f391b2a4ac07e9a479dc763f13a0bef05d6a2291"
+    },
+    {
+      "source": "Maxime MONTAGGIONI",
+      "relation": "PROPOSED",
+      "target": "snowboard",
+      "evidence": "Le snowboard français fut aussi à l'honneur au plus haut niveau chez les hommes avec l'or en bandes slalom pour Maxime MONTAGGIONI",
+      "confidence": 1.0,
+      "source_id": "Person_6def5362de272479648dfe9a1a31c02ebd51fd73dab5bd5828ea55684e45cafd",
+      "target_id": "Theme_fa02392fe99b3b16dabdf2a10580a35c5ac6f08e7abf89d20a8cf52e4e7579c3"
+    },
+    {
+      "source": "Provence-Alpes-Côte d'Azur",
+      "relation": "PROPOSED",
+      "target": "Jeux d'hiver",
+      "evidence": "la région Provence-Alpes-Côte d'Azur, envisagent de postuler à l'accueil des Jeux d'hiver",
+      "confidence": 1.0,
+      "source_id": "City_87f40cd773cf148ad767a74499f9c85f04899fe56064ac9fec8e287b0452f51f",
+      "target_id": "Event_020aec43670ce20aacfb3b06be2814977fd9df19d508b81d1467403b86a65164"
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame",
+      "id": "Person_6ace0972a12e8e17957064d9f2ab5c314f0de15e6db0c156bc4d6af16f1e6022"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les ministres",
+      "id": "Person_68c8bae1f1f0fa1fad64e1609435c27e59bb98f2bf0b5bf15ffe20298d0f898b"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la députée",
+      "id": "Person_0a30cb8e7df3047d7884f8d8226cd04c18067f9296fb505416bfaa64a701961f"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs",
+      "id": "Person_5e27fa7c5bdc6bf2a2b2dfa28469fb1f53f1c6d238a1b9870de385953dc8571f"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le préfet",
+      "id": "Person_53c349332859a6f29fc7e202b933842f8a6c690203ea9dd3a5a57a1f2636c209"
+    },
+    {
+      "type": "Organization",
+      "name": "un grand industriel français",
+      "id": "Organization_60a6eb596af81cdb0ccd014638fd4b7c590fda13299e170811174b4d52a7a1ce"
+    },
+    {
+      "type": "City",
+      "name": "Le Bourget",
+      "id": "City_e55cb668f0c83089f5c890107839b7cd0fb20841b58cfd45209b9ea688406ee4"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Airbus",
+      "id": "Organization_41a65ef42423e17c2e554b35b23788a40b455d82f989891061352dba64083a6e"
+    },
+    {
+      "type": "Organization",
+      "name": "les sous-traitants",
+      "id": "Organization_3827784b20b6020185e533979842a0d1b52de7e716f2e7e5248b3857cc39525c"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "émissions",
+      "id": "Theme_09730bbfc9d41b4c62e15ec5dd2926c6cc32776390e00a6abbac2b63dfe4c313"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "crises Covid",
+      "id": "Theme_04ba771aff323597ed031748f6f38d21f8601341436dc3a124ffabbc906e6ff6"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "titane",
+      "id": "Theme_886d4b66a3bb80c8e81592abc41b6056e58e110fe0a6b68f53732c9e5fcf8c6b"
+    },
+    {
+      "type": "Theme",
+      "name": "SAF",
+      "id": "Theme_81dc296e1977ae81425bde83915b1cd2de405e6b8cc40d0a8376e85b33bed5c5"
+    },
+    {
+      "type": "City",
+      "name": "Villaroche",
+      "id": "City_c6bb6fab217992209a21796f7cd92ad4d93f83a02b9cac4da5ae00be6742cefd"
+    },
+    {
+      "type": "City",
+      "name": "Dunkerque",
+      "id": "City_bda376ce18a11cdf6e31dcf1317332d2be264fba8faae021745f7e792736d7b0"
+    },
+    {
+      "type": "City",
+      "name": "La Mède",
+      "id": "City_61fc899ad2ef50fdc4f9a34c892fe03bfb7c115d6ace2d8d1ef6d25492054eb3"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "City",
+      "name": "Élysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "Theme",
+      "name": "avion ultra sobre",
+      "id": "Theme_52dbeb481b6761eca9eef30c8c88c9b075cce2773d079c7691c71cb41a4d160a"
+    },
+    {
+      "type": "Organization",
+      "name": "CORAC",
+      "id": "Organization_521da0dd8c6760ec5f7a26b7d86b74605ce4c464d949a1c9e14ab8f733b1a57f"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "Salon du Bourget",
+      "id": "Organization_7339d7204179df82ffe0a706b21fc12e85819d79d226334c2b92c55ce3f9fee1"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité avec les PME-TPE",
+      "id": "Theme_86351c42da45c6de97c3299d4b6850bef420827fe1e86534d959e95f650366b5"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Organization",
+      "name": "moteur LEAP",
+      "id": "Organization_88e93c7c95b268e2b2b6801428878bbae5aa7e1ab685565c2d72dddd6acd400f"
+    },
+    {
+      "type": "Organization",
+      "name": "A350",
+      "id": "Organization_1990e58fbd1792d86aea6b25a309d2e8045bfcd610a08a71738a52dc038e5cc5"
+    },
+    {
+      "type": "Organization",
+      "name": "H160",
+      "id": "Organization_21ae094a8d971a4806fc96f4d5913f0d605f849f627162ef022342aabfec4ea7"
+    },
+    {
+      "type": "Organization",
+      "name": "RISE",
+      "id": "Organization_fb34f86c9f139f139e232d397b4374d97b67b988ad0ffae352fc173c8bad12fc"
+    },
+    {
+      "type": "Organization",
+      "name": "CORAC 2ème génération",
+      "id": "Organization_051bb783b08d311097e05a557a8d76fbedc60b75ed879ee0c12fc221d8063cb6"
+    },
+    {
+      "type": "Organization",
+      "name": "Airbus Toulouse",
+      "id": "Organization_63c868338487f29abe62fd79aed8667e20781625c19c8216fe32b6a790be7c0b"
+    },
+    {
+      "type": "Organization",
+      "name": "DAHER",
+      "id": "Organization_cea02ab0149624a66198e849bef2a62219270529bb6c0748762cd77aade0cc59"
+    },
+    {
+      "type": "City",
+      "name": "Tarbes",
+      "id": "City_5a9f96bd4c1a9298f501753b18dc70904372f6e58b33ced48f303575cd2a7343"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation",
+      "id": "Theme_20f02849c6d3fef1e0f7fdcc6fcd9d5a1930a7b08f24aabfc14521d8b9ed907d"
+    },
+    {
+      "type": "Theme",
+      "name": "petits avions électriques",
+      "id": "Theme_b5a97f87f035c2c15d565fa0a803d533f14e7bbc35af02ebe2e71905e394c9e3"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène",
+      "id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "type": "Organization",
+      "name": "Beyond Aero",
+      "id": "Organization_fc0e3984df986be47232d54cc954aecaf46602af448beaf1eae9e228d5c41206"
+    },
+    {
+      "type": "Organization",
+      "name": "Elixir Aircraft",
+      "id": "Organization_3b719b6384866f208aefc7ac83badb053ace05b7645c1c4b030d7164d08ec8d5"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "chaîne",
+      "id": "Theme_4c4935035d507987f06d4b897a2b2a65a60623c502a75f13ce1f22c8c491c4fc"
+    },
+    {
+      "type": "Theme",
+      "name": "normes",
+      "id": "Theme_63b2bd4eb30422d7f3e9df259557711eba985b3d7f2995b7837452ba98b6b0b4"
+    },
+    {
+      "type": "Theme",
+      "name": "levier",
+      "id": "Theme_77730b327c0a46e0a8b8aa2c2a04f1700d80b637b80eab6e6994925f841b2354"
+    },
+    {
+      "type": "Theme",
+      "name": "carburants durables",
+      "id": "Theme_ba51c84f076c441d8c34b72c8c9169a758d7d05e401a175d3e46f419dbfb078e"
+    },
+    {
+      "type": "Organization",
+      "name": "filière",
+      "id": "Organization_ae62d0f214f56797d584fe787159543236f098548aacd27380fd2be6c6e993ea"
+    },
+    {
+      "type": "Organization",
+      "name": "Américains",
+      "id": "Organization_a7ae557303f344529102efa41a29a33645c780b50569877d161f7648723e7dcd"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Organization",
+      "name": "LEAP",
+      "id": "Organization_70fffcde586ae9ec213f0f5d182781e6706cdb8c019127969af57f521b1c4459"
+    },
+    {
+      "type": "Organization",
+      "name": "ENGIE",
+      "id": "Organization_8c5573022fe930b26f9875ad9ce269f1b2a5bcafa36e461aaf878a9b621e666d"
+    },
+    {
+      "type": "Organization",
+      "name": "TotalEnergies",
+      "id": "Organization_07adeb396fe407b20b78f848872d848eeaf46feffffea0fdffc80d8b0c6ee531"
+    },
+    {
+      "type": "Organization",
+      "name": "Avril",
+      "id": "Organization_ce610b9d19e0ff777c75d15ae4ed21ad94f8cf76a259ae0b8ed8727cccdbef0c"
+    },
+    {
+      "type": "Organization",
+      "name": "BioTJet",
+      "id": "Organization_012d30bedede4d1cb3ce93eabd93efd4f57cecaf0ea52c5dd4efa8035b330462"
+    },
+    {
+      "type": "City",
+      "name": "Lacq",
+      "id": "City_61463aa884e4b55295028435746ccaf82ce56d360fe248079c948e7f898c7226"
+    },
+    {
+      "type": "Organization",
+      "name": "un jeune acteur français",
+      "id": "Organization_9ee0fc22633871d996efcfd7bf02593892b1c550a299c0e3c112210ffce99ffe"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur d'avenir",
+      "id": "Theme_d144c57c91e4048df37106f2934cafde66a5df8a9f105a23d7a097cc57e1ac6d"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "balance commerciale",
+      "id": "Theme_bbfff4b6058a131c1b31d6981b0274e8ef8f9d1af471e693ae9a09c7cbd1580d"
+    },
+    {
+      "type": "Theme",
+      "name": "aéronautique",
+      "id": "Theme_75d0f3d5ff64c56475546f5da42c78e140e4b2c5b8253cc541c75517a1fd1d42"
+    },
+    {
+      "type": "Theme",
+      "name": "moteurs aux avions",
+      "id": "Theme_1aa715f59574dcdb8cf70433a494fc53ca28f5c6c616da0243e2457998e6486e"
+    },
+    {
+      "type": "Organization",
+      "name": "une très grande nation de l'aéronautique",
+      "id": "Organization_6d28b95b6935f52b99d01dfb15ff81b311b79677af4e278c30435dd953abe382"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Allemagne",
+      "evidence": "C'est la même chose qu'on va devoir faire sur les SAF. Ce qu'on doit réussir à viser, c'est que dans cinq ans, dans dix ans, dans vingt ans, on aura des moteurs à Villaroche qui pourront voler avec des réservoirs qui seront faits en Allemagne, un avion qui sera assemblé entre la France et l'Allemagne, et puis des batteries qui seront recyclées à Dunkerque avec du SAF qu'on aura produit sur différents sites français, de La Mède à ailleurs.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "Allemagne",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "C'est la même chose qu'on va devoir faire sur les SAF. Ce qu'on doit réussir à viser, c'est que dans cinq ans, dans dix ans, dans vingt ans, on aura des moteurs à Villaroche qui pourront voler avec des réservoirs qui seront faits en Allemagne, un avion qui sera assemblé entre la France et l'Allemagne, et puis des batteries qui seront recyclées à Dunkerque avec du SAF qu'on aura produit sur différents sites français, de La Mède à ailleurs.",
+      "confidence": 1.0,
+      "source_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "CORAC",
+      "relation": "PROPOSED",
+      "target": "moteur LEAP",
+      "evidence": "C'est précisément le CORAC qui nous a permis de contribuer à financer le moteur LEAP",
+      "confidence": 1.0,
+      "source_id": "Organization_521da0dd8c6760ec5f7a26b7d86b74605ce4c464d949a1c9e14ab8f733b1a57f",
+      "target_id": "Organization_88e93c7c95b268e2b2b6801428878bbae5aa7e1ab685565c2d72dddd6acd400f"
+    },
+    {
+      "source": "CORAC",
+      "relation": "PROPOSED",
+      "target": "A350",
+      "evidence": "C'est précisément le CORAC qui nous a permis de contribuer à financer le moteur LEAP, l'A350",
+      "confidence": 1.0,
+      "source_id": "Organization_521da0dd8c6760ec5f7a26b7d86b74605ce4c464d949a1c9e14ab8f733b1a57f",
+      "target_id": "Organization_1990e58fbd1792d86aea6b25a309d2e8045bfcd610a08a71738a52dc038e5cc5"
+    },
+    {
+      "source": "CORAC",
+      "relation": "PROPOSED",
+      "target": "H160",
+      "evidence": "C'est précisément le CORAC qui nous a permis de contribuer à financer le moteur LEAP, l'A350, les nouveaux hélicoptères, le H160 et d'autres",
+      "confidence": 1.0,
+      "source_id": "Organization_521da0dd8c6760ec5f7a26b7d86b74605ce4c464d949a1c9e14ab8f733b1a57f",
+      "target_id": "Organization_21ae094a8d971a4806fc96f4d5913f0d605f849f627162ef022342aabfec4ea7"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "on est en train de passer au niveau européen",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "source": "BioTJet",
+      "relation": "LOCATED_IN",
+      "target": "Lacq",
+      "evidence": "BioTJet qui est un projet de biocarburant, va ouvrir à Lacq",
+      "confidence": 1.0,
+      "source_id": "Organization_012d30bedede4d1cb3ce93eabd93efd4f57cecaf0ea52c5dd4efa8035b330462",
+      "target_id": "City_61463aa884e4b55295028435746ccaf82ce56d360fe248079c948e7f898c7226"
+    }
+  ]
+}

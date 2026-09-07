@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Kyriákos",
+      "id": "Person_75e7ab48028f90baa9dfc5d8ebb31e49ca0947587a1d7c1ef76e15a7bbbfea31"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "City",
+      "name": "Élysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "Organization",
+      "name": "mécanisme européen de protection civile",
+      "id": "Organization_4897f4b0b644f6a2c5b631a6699a385fd9ea052a39895b9a7611f8f25b280aaf"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie de défense",
+      "id": "Theme_09b61c92558f06c363a00e54db0598d2d3e9c369b6557d614e38e0faec84c117"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Kiev",
+      "id": "Country_9e3f844c13614388e99b7633ba8db3cb97d96cecfdca1ed81c35738997f7d0ce"
+    },
+    {
+      "type": "City",
+      "name": "États",
+      "id": "City_db2f32ffe20d216d5a76deb6d5bc67ca286f30f8da8185b2c557e1f678043c1c"
+    },
+    {
+      "type": "Theme",
+      "name": "sûreté nucléaire",
+      "id": "Theme_7b3ed617c4fbdebd0ed42ddbcae8ce1d2a8b31137758b6e295425f1a261684f9"
+    },
+    {
+      "type": "Theme",
+      "name": "crise alimentaire mondiale",
+      "id": "Theme_180742d255626b919ca9c1d0f0d4195769dce2bfdb773c6aae5ed7b06b3287bb"
+    },
+    {
+      "type": "Country",
+      "name": "États membres",
+      "id": "Country_454c710321513a03401dc403e939fc29614c251ebb3d57f24bb638c90c7a0244"
+    },
+    {
+      "type": "Country",
+      "name": "Méditerranée orientale",
+      "id": "Country_189462dad222c64321928401de63db9d51e41fa95acff447937a14111bff8d8d"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "mécanisme européen de protection civile",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "le mécanisme européen de protection civile qui organise notre solidarité dans la gestion de crise et des situations d'urgence fonctionne bien et vite.",
+      "confidence": 1.0,
+      "source_id": "Organization_4897f4b0b644f6a2c5b631a6699a385fd9ea052a39895b9a7611f8f25b280aaf",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    }
+  ]
+}

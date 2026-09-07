@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Country",
+      "name": "Finlande",
+      "id": "Country_07de2e54c1d716feb24d42a643c5de89dc1f04a79da8dcb0fd46d71f88bd7006"
+    },
+    {
+      "type": "Country",
+      "name": "Suède",
+      "id": "Country_f0680f074258c0cbb263830557969af01c50840b9cdfd249ff5c18418896a4ff"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "Country",
+      "name": "Pologne",
+      "id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Zelensky",
+      "id": "Country_6e5dcb389d5960471345fbf2153e4de1b334d9ebd9a26fd88ce3596d27a8ff69"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "zone euro",
+      "id": "Organization_2f6a079aced661f0f4634969da31afaf96d2da3c7a204087ef923b740e9a6b97"
+    },
+    {
+      "type": "Person",
+      "name": "Président Zelensky",
+      "id": "Person_bbebccf7a88a11670d740b9652bce1d58f18c5d063b871b9c2c0f42098904f38"
+    },
+    {
+      "type": "Theme",
+      "name": "euro",
+      "id": "Theme_709528d8ce93bba87ada5be2754665013742700bb20381da4551b98a54e333b5"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliance",
+      "id": "Organization_95af021c95cd459ec4f7a1413f8e14fe71372143b9a0fb0437794fbf735a2133"
+    },
+    {
+      "type": "Person",
+      "name": "Jens",
+      "id": "Person_47d7f63ac16729524919ee60f275dc79b1a89a53cabca2535b8de4535d3c3ac7"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Washington",
+      "id": "City_ee7e345909a6fe1df02cbeb0ed489e719cbdc04c7a27e2818d861e092cc9ad8a"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités nationales de défense",
+      "id": "Theme_f7de02caac7651d8ff3c270878393631fd651193e923088122342b35a1b923d7"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne et l'OTAN",
+      "id": "Organization_5c40c5a12e8f56f4c80a65b48b46f41db9745859a0061e029f59ee230eeab151"
+    },
+    {
+      "type": "Theme",
+      "name": "défense européenne",
+      "id": "Theme_42dae70f7120df2113261b5fe10cbe41df3d2c3b15c7b3dc8221a1048c488a0c"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Union européenne et l'OTAN",
+      "relation": "ALLIED_WITH",
+      "target": "OTAN",
+      "evidence": "et nous l'avons rappelé en renforçant le partenariat stratégique entre l'Union européenne et l'OTAN",
+      "confidence": 1.0,
+      "source_id": "Organization_5c40c5a12e8f56f4c80a65b48b46f41db9745859a0061e029f59ee230eeab151",
+      "target_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    }
+  ]
+}

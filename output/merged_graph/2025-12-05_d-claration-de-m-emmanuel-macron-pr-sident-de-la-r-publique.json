@@ -1,0 +1,842 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les ministres",
+      "id": "Person_df98c9cabd69056dc2dbae7ad5aa8390dd768609332bdc8c9a4dafe6f2e4b762"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les ambassadeurs",
+      "id": "Person_ba7c87f840ebfbe3650854f03dba2ddc859a227c17aeb24c0f7c67e59602dff7"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs",
+      "id": "Person_5e27fa7c5bdc6bf2a2b2dfa28469fb1f53f1c6d238a1b9870de385953dc8571f"
+    },
+    {
+      "type": "Person",
+      "name": "chers étudiants",
+      "id": "Person_427eb7174621b44b144a922fce9a138417f598dacfa4b654fc9f1e5927a793c6"
+    },
+    {
+      "type": "Person",
+      "name": "chers professeurs",
+      "id": "Person_258dd246c2177c446199de2534d757bdd10fd652c436a53bac9ad2dafe5bf03e"
+    },
+    {
+      "type": "Person",
+      "name": "votre président",
+      "id": "Person_ec09243f6300d7c7b7f9e6befd8cd419bc9ab3364af631212778720bcc51f0ba"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "rivalité géopolitique",
+      "id": "Theme_64d2f7b82d42144ce2a7d9381fcb199183e7ed7224429f85b1985c31290769bb"
+    },
+    {
+      "type": "Theme",
+      "name": "crise climatique",
+      "id": "Theme_3e86287b9007dc7cf116e0f678ff3a9925fa42111528a26c250fc10e64358d7f"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "transition démographique",
+      "id": "Theme_5a223223630b9625f9a9d92d2745994fae863df10e378083408789e55b1d0d23"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité des Nations unies",
+      "id": "Organization_6bf65c40c2dc11306e0f78e403029002e380728d5788808146d88e7f36b63686"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Chine",
+      "id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Organization",
+      "name": "États-Unis",
+      "id": "Organization_3b08eb2671279e09493fe87c31cd8efb8ef559ae7445896c53ad72240e970f09"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "conflits",
+      "id": "Theme_c8dada83bc9f875690ebf45f2f35fa2a2c3744cd07e0f2646a262af9b8e292dd"
+    },
+    {
+      "type": "Theme",
+      "name": "transformations",
+      "id": "Theme_a5cf38e56ec6f568347c7e4d2787de5c2d1a159cf3d75e70f9e82534a2b594ec"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "climatiques",
+      "id": "Theme_4e3f3b1c5960ae7ebf22ebf2c75efb3a1c4a8c97a5ab6c598e5546d7a2129a59"
+    },
+    {
+      "type": "Theme",
+      "name": "océans",
+      "id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "marché",
+      "id": "Theme_76b587f8a62b78fb8b124eb91eab358c378581eb13b577e1047967a9693cee69"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement direct",
+      "id": "Theme_04fb7ec3acecf496628a6f7e6722c797e0fef7d59a0262577be7a57fc2434c34"
+    },
+    {
+      "type": "Theme",
+      "name": "technologie",
+      "id": "Theme_f50f2e73d342423ab68fbb527a8e6f41bb64bfac8440718a497ef6f75a9032d8"
+    },
+    {
+      "type": "Theme",
+      "name": "transition énergétique",
+      "id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7"
+    },
+    {
+      "type": "Theme",
+      "name": "climatique",
+      "id": "Theme_4abf026fe9ca32e0caff98a931369a221f531d982e6efa70c6c21719a6ce0a0d"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité",
+      "id": "Theme_5f3e34c6020caac848a6e2d71bdfd1fe751959c4e195a8c097e09b990d89fd12"
+    },
+    {
+      "type": "Theme",
+      "name": "rivalité sino-américaine",
+      "id": "Theme_2bd9c45c8824c0bed006c6cf96c4387c3211035ff6e4f64ca9631e616fc99648"
+    },
+    {
+      "type": "Theme",
+      "name": "P5",
+      "id": "Theme_ed0b7fb7598a9aed86f96bad23b78ab046888b97354a70838be392665840b23d"
+    },
+    {
+      "type": "Theme",
+      "name": "enceintes onusiennes",
+      "id": "Theme_cd6002b4739f8ebe3ca6380f6a64c5cb861b8ce674ab44312170489c1e5c29ad"
+    },
+    {
+      "type": "Organization",
+      "name": "votre université",
+      "id": "Organization_d52ba7dbc855d081ca055984fccd157f991baaa043dd5cba9a5cddb44ddd7493"
+    },
+    {
+      "type": "Organization",
+      "name": "plusieurs ministres",
+      "id": "Organization_5013525a3888563147a8d21857ca73bad39e678e7b9663e1006a6e9ba4a2d04d"
+    },
+    {
+      "type": "Organization",
+      "name": "une trentaine d'établissements supérieurs d'enseignement en France, de recherche",
+      "id": "Organization_7b9f288dab6f49a745382703ae2e301658b92fa86915a645604d4f95ea1edf49"
+    },
+    {
+      "type": "Person",
+      "name": "Xi Jinping",
+      "id": "Person_99ed88f08de36d905de647d17f10a961ac301c5544f4432e1a832eca6c8adb41"
+    },
+    {
+      "type": "City",
+      "name": "Versailles",
+      "id": "City_005c3dd556787a48d85e917c1629f8b41dea2f726d89283e42c5cd7448b7c82a"
+    },
+    {
+      "type": "City",
+      "name": "Sichuan",
+      "id": "City_0fcd55d8011edd9d925d43a725be84ee0676de0703eb2eecd9ba30b0f98f3cda"
+    },
+    {
+      "type": "Organization",
+      "name": "musée Guimet",
+      "id": "Organization_d8b84bc02df56a1208f0e68fc875ea555f138a0379e0b0815a04b6813c100f76"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de la nation française",
+      "id": "Theme_483b841e80f68c49ce755650d7b810e6c8005eea91b616b3f412f746af5a6f13"
+    },
+    {
+      "type": "Person",
+      "name": "Victor Hugo",
+      "id": "Person_6d98b7360277ea4560e5ef78ccc22709417d9d4b98a51ca35197b48f487916bc"
+    },
+    {
+      "type": "Person",
+      "name": "Molière",
+      "id": "Person_7ebe09c77efe9cc1f788ab1ab449be0b1ee4edf5896f38c99dad0f9a8b281215"
+    },
+    {
+      "type": "Organization",
+      "name": "Comédie-Française",
+      "id": "Organization_f2605585589eb5fe558acd9a1fed92ca9dcb33d1242139a31271aba50d52129a"
+    },
+    {
+      "type": "Theme",
+      "name": "La légende des siècles",
+      "id": "Theme_ee27361c75237d914f783cb2248d0ef9ed4b63db99e89a874fb9c8c3bc15b754"
+    },
+    {
+      "type": "Theme",
+      "name": "Les Trois Mousquetaires",
+      "id": "Theme_71d3266165b2392d4d6bb4b95599c8a9c11557a2a9807e24a9d54e59157768b6"
+    },
+    {
+      "type": "Theme",
+      "name": "Le Misanthrope",
+      "id": "Theme_6cb78724ca596d9b77cd8b6d3f0925a8dbc98c0f5ce41c34a62d9344eead59e4"
+    },
+    {
+      "type": "Theme",
+      "name": "système de pouvoir",
+      "id": "Theme_46764c48f4cb12472f78cf04865d3b9b2a1a5f7ce489f4e36379f85abc432125"
+    },
+    {
+      "type": "Theme",
+      "name": "âme humaine",
+      "id": "Theme_d2fa2dffd3317050c15d9da8af95119c7b289a9e0ef34747a28cafaded30ecd5"
+    },
+    {
+      "type": "Theme",
+      "name": "singularité",
+      "id": "Theme_d1dc211b5de2cd7df5a9e694635b6787ff5a95fcec38af17fa20e06b5d10e256"
+    },
+    {
+      "type": "Theme",
+      "name": "lois du collectif",
+      "id": "Theme_4bce43166d4c930b31215d45d42b5134813f593661da8b7324911f2a08f6c9e3"
+    },
+    {
+      "type": "Organization",
+      "name": "Université du Sichuan",
+      "id": "Organization_143563356388d0928b977937984a3a6c67d8f4c74badac13fc2dd57770d5e935"
+    },
+    {
+      "type": "Organization",
+      "name": "Paris Sciences Po",
+      "id": "Organization_28df67e6bd22baff84b93d7b04fe394f9743a885044feada8fc7f7351c85d8b3"
+    },
+    {
+      "type": "Organization",
+      "name": "Inalco",
+      "id": "Organization_6b51d70310a07add1f65f466e70ade7fbf8a3a44a60dd9f7f2034e5d6d43e35a"
+    },
+    {
+      "type": "Organization",
+      "name": "Paris Nanterre",
+      "id": "Organization_8bd0de37eeab4d64e1c1a746a94778caf28254f11931db532697361eddea5dec"
+    },
+    {
+      "type": "Organization",
+      "name": "Universités françaises",
+      "id": "Organization_733e42a404476e4ae7bd40537b78cde754511d2aeafa810790f740ed9a25d5ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Établissements d'enseignement supérieurs des deux pays",
+      "id": "Organization_7641adeb955c39e4452a9c7a496b7944973c8334bbd0af7f74a47ae988bc8a90"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation mondiale de la Santé",
+      "id": "Organization_f5757579822029fdeb945a55b4b8ef80b363463b0aa95c3bb36a34804eb108f0"
+    },
+    {
+      "type": "Organization",
+      "name": "OMS",
+      "id": "Organization_f4fd87f36b138eb90074550fbf1903ace44013d0b88bded488849d5b4439d0a9"
+    },
+    {
+      "type": "Theme",
+      "name": "diversité",
+      "id": "Theme_6cc4bb1678e642d4ee3f4b5dc04bc554310abfe7ca2c11509232cbba37f90a92"
+    },
+    {
+      "type": "Theme",
+      "name": "connaissance universelle",
+      "id": "Theme_7858d85f11a1b979a02a707c5b23309953b86ab66e6006559c3a74fac56507e6"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté académique",
+      "id": "Theme_2810eab9a0fa4f77dd16f7b23382677897e66d3edb17b676e2cb59a83c0af34d"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté d'enseignement",
+      "id": "Theme_af7d6b9926f885d8f71cf8bd34665b32d8626c75c9b7dc15f2dca86452fa2414"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de recherche",
+      "id": "Theme_f0292a2705db9a01a29c6c88a04dcbca2fb140fc8586aea2c57383146e3c1244"
+    },
+    {
+      "type": "Theme",
+      "name": "connaissance",
+      "id": "Theme_b95f8e0ec3586745d1662f7770a2df991c48ffdfaeec3bfb3d9087f8fe11f379"
+    },
+    {
+      "type": "Theme",
+      "name": "interdisciplinarité",
+      "id": "Theme_e89a0df5050416d099e86465ec6e1a0865583b20ff38e67ed4330698bc13506e"
+    },
+    {
+      "type": "Theme",
+      "name": "One Health",
+      "id": "Theme_5fb80b8125d79d9fee99ac1831ed09190d5b1d2de827e72361aa033bda9c03fa"
+    },
+    {
+      "type": "Theme",
+      "name": "santé humaine",
+      "id": "Theme_339ce7497821151c2fefb2fbdb98154fa9b81b4eb87c759e5773b971aca066cc"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement",
+      "id": "Theme_b53e869b761ff3b2e610c18e6c0fd53e10ad5d2a8ba8bf353be9d0f1148d8c43"
+    },
+    {
+      "type": "Theme",
+      "name": "santé animale",
+      "id": "Theme_8b234d0ef64d0b3a15d2d6d2a02c8909ba77edb68235c5d50ec6bcff6403fa03"
+    },
+    {
+      "type": "Theme",
+      "name": "fonctionnement des écosystèmes",
+      "id": "Theme_d835edebf7f45d52032ab59b1553098ef3d66f09a7991fbce1f3011c79755dd6"
+    },
+    {
+      "type": "Theme",
+      "name": "écosystèmes",
+      "id": "Theme_b7d4587247892e61fe36d439de21be3110bf2430bb7ada367817d8861d45df2b"
+    },
+    {
+      "type": "Theme",
+      "name": "virologie",
+      "id": "Theme_3b4a99bc4c51482d794caa5646b05018cedc11585ee9e332b3be0d680e2678dc"
+    },
+    {
+      "type": "Theme",
+      "name": "microbiologie",
+      "id": "Theme_08dc531dff4087be023c5dc92cac662edb7dacc54d89dc04f0f4eb1aa409f541"
+    },
+    {
+      "type": "Theme",
+      "name": "maladie",
+      "id": "Theme_75032f1821f66a0c56299016f3e99f23f43a5958615e01751272b613e00ed513"
+    },
+    {
+      "type": "Organization",
+      "name": "One Health",
+      "id": "Organization_565304772e1bec9164842afdf800ff3ce654f735ae211b35f1fb7c0c554c1322"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "Organization",
+      "name": "la faculté de médecine dentaire",
+      "id": "Organization_4057b0de50c4e8a45acfb6fb61da6a6d0516bee31a1dd6777a74f7528b6659a7"
+    },
+    {
+      "type": "Theme",
+      "name": "connaître nos cultures, nos civilisations, nos langues",
+      "id": "Theme_0d9543441139a17ed118b4045b254b17c89c64c353b5367d91ad585e289bca05"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "initiatives communes",
+      "id": "Theme_92a48736204da3fc895c48f36ddf753bf99f024882ae5d0e26d01985ef755d40"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de coopération",
+      "id": "Theme_7261739334b78baeeb00f4503d65c940b7a56ba0f8ee81e07a814cdbd740516b"
+    },
+    {
+      "type": "Theme",
+      "name": "génération",
+      "id": "Theme_ebd6e511ce08f31c6fb10d3a240a4261fa16b7b0e6fc36cf928c9880a64a00b8"
+    },
+    {
+      "type": "Organization",
+      "name": "filière de français de l'Université du Sichuan",
+      "id": "Organization_a6f97212be364e5efca4402cd9ffd386c4b0c9576bdd3e8886be6f26ebefe5bb"
+    },
+    {
+      "type": "Organization",
+      "name": "école sino-française",
+      "id": "Organization_74631510ba021f5fac0a0c2042edad58edffb3dde119e4fe22233e2f038cd59f"
+    },
+    {
+      "type": "Person",
+      "name": "votre",
+      "id": "Person_7317a3886a408dcce68640a26221253dacea28ea58a931eaa24671ae561087d9"
+    },
+    {
+      "type": "Theme",
+      "name": "modèles de langage",
+      "id": "Theme_fc5d89b87d8e8c7216f69591de92d9869bb90797efb4305885ca10564226ae62"
+    },
+    {
+      "type": "Organization",
+      "name": "DeepSeek",
+      "id": "Organization_b25d8913a9716e7d187ff7252f877d60ed40862e9e791f6dd53b77644a05ecc3"
+    },
+    {
+      "type": "Organization",
+      "name": "Mistral AI",
+      "id": "Organization_0b255a49abd6b2e20d912a50d7cf7088b36e4782947a0118103c99807855cf15"
+    },
+    {
+      "type": "Organization",
+      "name": "Le Chat",
+      "id": "Organization_0b9e09f5570c8acc6b5c276a21e66722a0995e81cf50530c505f351071422da9"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit critique",
+      "id": "Theme_e68bc76734faec76721c3ea3e392c129a380f027e06586aa45303c8d05bc1a54"
+    },
+    {
+      "type": "Organization",
+      "name": "Collège de France",
+      "id": "Organization_21d5fb17f94a512c81919e9be869b460129179f8e76d30d2b0b8e1c8c8fbe654"
+    },
+    {
+      "type": "Organization",
+      "name": "université",
+      "id": "Organization_a5c3614f5b6446015a3d4c1cc713fd650d6556f6f3cb7caee2828ec9bcf89b99"
+    },
+    {
+      "type": "City",
+      "name": "Chengdu",
+      "id": "City_ff387fd65970cb2a82bb33e5a81f91165e9a29eb827b3b66787a884394ab82c7"
+    },
+    {
+      "type": "City",
+      "name": "Dujiangyan",
+      "id": "City_63bd1e2826f14ff2aa7933cb58983a87d24c1ce84a8633c9b7f6cdb97a5670bc"
+    },
+    {
+      "type": "City",
+      "name": "Xi'an",
+      "id": "City_dc5941b30a5c14acd7124fb0d94b75a19be0a8120906fdbdc7012cfa4f0143de"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Col du Tourmalet",
+      "id": "City_3b53db4175a4900f9d839f3cb409d1834be1fe595ab69985910a23bada447351"
+    },
+    {
+      "type": "City",
+      "name": "Pic du Midi",
+      "id": "City_db1092b53e992601816c01842d14755dfb25afc50e345da26ecd8d761610689f"
+    },
+    {
+      "type": "City",
+      "name": "Hautes-Pyrénées",
+      "id": "City_7391130f4cd442723a08e8a45f25f6270f154947803873178854b4a7eca5f2fb"
+    },
+    {
+      "type": "City",
+      "name": "Pyrénées",
+      "id": "City_713ef738e36c3b0740312ab838b3897607b9362c8ac0d55cca95717eb1a8a85c"
+    },
+    {
+      "type": "City",
+      "name": "Beaulieu-sur-Mer",
+      "id": "City_3c4a3cf9c24f206a5ff9d80cc59b54b5ce2b78e5b80c2c6a308c0b36213599be"
+    },
+    {
+      "type": "City",
+      "name": "Méditerranée",
+      "id": "City_9d0a5741de9fafb94e045360dddcff5fd3320003f53cc0eee5bebfef6e12abe6"
+    },
+    {
+      "type": "City",
+      "name": "Villa Kérylos",
+      "id": "City_9a6173548c16a574d5a80318428df606b0205b1d0c7854798b46ffe319b4bc2e"
+    },
+    {
+      "type": "Country",
+      "name": "Cognac",
+      "id": "Country_035b56eeee5e06c804d04df7775f8e2804a424e95e444fb0def2f6f24dcc8ca1"
+    },
+    {
+      "type": "City",
+      "name": "Amiens",
+      "id": "City_50d7edfea5352d1c2108d0e10ba4a285b0b793521bb528b9194a13254a40c572"
+    },
+    {
+      "type": "Theme",
+      "name": "dialectique",
+      "id": "Theme_cae89347db4d09c1594c0030a5bd268b65e5c7c2dbcf77e4fec10d909c9866bc"
+    },
+    {
+      "type": "Organization",
+      "name": "université de Sichuan",
+      "id": "Organization_fc292b0b3db8b551ed3392edf15fa97e6608b6135076b65e44c82c24106e3a50"
+    },
+    {
+      "type": "Organization",
+      "name": "musée de l'université de Sichuan",
+      "id": "Organization_229abe8e1f0a11324b15858a938f56f45f8715242036995745bedf925b48ce7c"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Chine",
+      "relation": "SPOKE_ABOUT",
+      "target": "transition démographique",
+      "evidence": "la Chine, comme l'Europe, a devant elle une transition démographique qui est une des grandes révolutions qu'on aura à voir.",
+      "confidence": 1.0,
+      "source_id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4",
+      "target_id": "Theme_5a223223630b9625f9a9d92d2745994fae863df10e378083408789e55b1d0d23"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "transition démographique",
+      "evidence": "la Chine, comme l'Europe, a devant elle une transition démographique qui est une des grandes révolutions qu'on aura à voir.",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Theme_5a223223630b9625f9a9d92d2745994fae863df10e378083408789e55b1d0d23"
+    },
+    {
+      "source": "Russie",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "de la guerre lancée par la Russie en Ukraine qui touche directement l'Europe",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "source": "États-Unis",
+      "relation": "ALLIED_WITH",
+      "target": "Chine",
+      "evidence": "la rivalité qui existe entre les États-Unis et la Chine",
+      "confidence": 1.0,
+      "source_id": "Organization_3b08eb2671279e09493fe87c31cd8efb8ef559ae7445896c53ad72240e970f09",
+      "target_id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4"
+    },
+    {
+      "source": "Chine",
+      "relation": "MEMBER_OF",
+      "target": "Conseil de sécurité des Nations unies",
+      "evidence": "On en a parlé à l'instant même avec le président Xi Jinping, essayer justement de redonner à cet ordre international un peu de sérénité, de stabilité, en le refaisant fonctionner. Il se trouve qu'on a une chose en commun entre la Chine et la France, nous sommes membres permanents du Conseil de sécurité des Nations unies.",
+      "confidence": 1.0,
+      "source_id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4",
+      "target_id": "Organization_6bf65c40c2dc11306e0f78e403029002e380728d5788808146d88e7f36b63686"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "Conseil de sécurité des Nations unies",
+      "evidence": "On en a parlé à l'instant même avec le président Xi Jinping, essayer justement de redonner à cet ordre international un peu de sérénité, de stabilité, en le refaisant fonctionner. Il se trouve qu'on a une chose en commun entre la Chine et la France, nous sommes membres permanents du Conseil de sécurité des Nations unies.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_6bf65c40c2dc11306e0f78e403029002e380728d5788808146d88e7f36b63686"
+    },
+    {
+      "source": "Chine",
+      "relation": "LOCATED_IN",
+      "target": "Nations unies",
+      "evidence": "On en a parlé à l'instant même avec le président Xi Jinping, essayer justement de redonner à cet ordre international un peu de sérénité, de stabilité, en le refaisant fonctionner. Il se trouve qu'on a une chose en commun entre la Chine et la France, nous sommes membres permanents du Conseil de sécurité des Nations unies. Ça veut dire que nous sommes des puissances militaires dotées de l'arme nucléaire, des puissances diplomatiques qui avons un rôle un peu particulier. On est toujours autour de la table pour faire fonctionner cette organisation inédite qu'on a créée après la Deuxième Guerre mondiale, et on a un pouvoir de veto.",
+      "confidence": 1.0,
+      "source_id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Nations unies",
+      "evidence": "On en a parlé à l'instant même avec le président Xi Jinping, essayer justement de redonner à cet ordre international un peu de sérénité, de stabilité, en le refaisant fonctionner. Il se trouve qu'on a une chose en commun entre la Chine et la France, nous sommes membres permanents du Conseil de sécurité des Nations unies. Ça veut dire que nous sommes des puissances militaires dotées de l'arme nucléaire, des puissances diplomatiques qui avons un rôle un peu particulier. On est toujours autour de la table pour faire fonctionner cette organisation inédite qu'on a créée après la Deuxième Guerre mondiale, et on a un pouvoir de veto.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "Chine",
+      "relation": "SPOKE_ABOUT",
+      "target": "océans",
+      "evidence": "S'il y a à peine deux ans, on a réussi, après des décennies d'attente, à trouver un cadre international pour réguler la haute mer et protéger nos océans, c'est parce qu'en particulier, la Chine et la France ont décidé de travailler ensemble et on a fait avancer les Nations unies",
+      "confidence": 1.0,
+      "source_id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4",
+      "target_id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "source": "Chine",
+      "relation": "SUPPORTS",
+      "target": "Nations unies",
+      "evidence": "S'il y a à peine deux ans, on a réussi, après des décennies d'attente, à trouver un cadre international pour réguler la haute mer et protéger nos océans, c'est parce qu'en particulier, la Chine et la France ont décidé de travailler ensemble et on a fait avancer les Nations unies",
+      "confidence": 1.0,
+      "source_id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "Chine",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "c'est, je crois, la vocation, la tradition diplomatique, la vocation et l'ambition de la Chine et de la France aujourd'hui",
+      "confidence": 1.0,
+      "source_id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Chine",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "c'est, je crois, la vocation, la tradition diplomatique, la vocation et l'ambition de la Chine et de la France aujourd'hui",
+      "confidence": 1.0,
+      "source_id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Chine",
+      "evidence": "c'est, je crois, la vocation, la tradition diplomatique, la vocation et l'ambition de la Chine et de la France aujourd'hui",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4"
+    },
+    {
+      "source": "Europe",
+      "relation": "ALLIED_WITH",
+      "target": "Chine",
+      "evidence": "un agenda entre l'Europe et la Chine",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "réforme",
+      "evidence": "L'Europe doit se réformer beaucoup plus vite",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "source": "Chine",
+      "relation": "MENTIONS",
+      "target": "marché",
+      "evidence": "La Chine doit ouvrir davantage son marché aux biens et produits qui viennent d'Europe",
+      "confidence": 1.0,
+      "source_id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4",
+      "target_id": "Theme_76b587f8a62b78fb8b124eb91eab358c378581eb13b577e1047967a9693cee69"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "investissement direct",
+      "evidence": "Et l'Europe doit ouvrir de nouvelles perspectives d'investissement direct aux grandes entreprises chinoises",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Theme_04fb7ec3acecf496628a6f7e6722c797e0fef7d59a0262577be7a57fc2434c34"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Chine",
+      "evidence": "Et je crois que très profondément, la Chine comme la France sont des très grandes civilisations qui se sont construites sur cette estime mutuelle, cette compréhension, oserais-je dire, cette amitié, voire cet amour.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4"
+    },
+    {
+      "source": "Université du Sichuan",
+      "relation": "ALLIED_WITH",
+      "target": "Universités françaises",
+      "evidence": "L'Université du Sichuan a déjà établi des projets de recherche de coopération avec Paris Sciences Po, Inalco, Paris Nanterre et d'autres universités françaises.",
+      "confidence": 1.0,
+      "source_id": "Organization_143563356388d0928b977937984a3a6c67d8f4c74badac13fc2dd57770d5e935",
+      "target_id": "Organization_733e42a404476e4ae7bd40537b78cde754511d2aeafa810790f740ed9a25d5ab"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "One Health",
+      "evidence": "La France pousse cet agenda à One Health",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_565304772e1bec9164842afdf800ff3ce654f735ae211b35f1fb7c0c554c1322"
+    },
+    {
+      "source": "One Health",
+      "relation": "LOCATED_IN",
+      "target": "Lyon",
+      "evidence": "et nous tiendrons à Lyon le 7 avril prochain, un sommet One Health",
+      "confidence": 1.0,
+      "source_id": "Organization_565304772e1bec9164842afdf800ff3ce654f735ae211b35f1fb7c0c554c1322",
+      "target_id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "source": "Université du Sichuan",
+      "relation": "MEMBER_OF",
+      "target": "école sino-française",
+      "evidence": "La filière de français de l'Université du Sichuan a pour origine l'école sino-française, fondée en 1896.",
+      "confidence": 1.0,
+      "source_id": "Organization_143563356388d0928b977937984a3a6c67d8f4c74badac13fc2dd57770d5e935",
+      "target_id": "Organization_74631510ba021f5fac0a0c2042edad58edffb3dde119e4fe22233e2f038cd59f"
+    },
+    {
+      "source": "Mistral AI",
+      "relation": "MENTIONS",
+      "target": "Le Chat",
+      "evidence": "nous on a aussi un grand champion des LLM qui est Mistral AI en France, qui a Le Chat",
+      "confidence": 1.0,
+      "source_id": "Organization_0b255a49abd6b2e20d912a50d7cf7088b36e4782947a0118103c99807855cf15",
+      "target_id": "Organization_0b9e09f5570c8acc6b5c276a21e66722a0995e81cf50530c505f351071422da9"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Collège de France",
+      "evidence": "En France, avec le Collège de France, on a des programmes sur l'apprentissage des mathématiques",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_21d5fb17f94a512c81919e9be869b460129179f8e76d30d2b0b8e1c8c8fbe654"
+    }
+  ]
+}

@@ -1,0 +1,969 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Émirats Arabes Unis",
+      "id": "Country_02da2051b5b49f4cccf63ff0675abe8e1fc2d1961a4264fcb31498ee4e262b19"
+    },
+    {
+      "type": "City",
+      "name": "Dubaï",
+      "id": "City_ababa2aadb9a2b164595fb94f7aee6c193e50e0a989e54ede0b17014ca945fb5"
+    },
+    {
+      "type": "City",
+      "name": "Gaza",
+      "id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le réchauffement climatique",
+      "id": "Theme_87fcffeb0b095d638b1ce229a807c21b51759f54208553ace6ac1f29815655a0"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Event",
+      "name": "COP 28",
+      "id": "Event_8a96eccdc1196c73060675c3bb15fbcf8ee04fb96334ec543ea748d3bbe3b1b9"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Country",
+      "name": "Hamas",
+      "id": "Country_664ba06f90f7d7b4b326982afebee134092d48624510c1de058deb1ef0567bc3"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie de Belfort sur l'énergie",
+      "id": "Theme_5e9b1c91f15f3f4863d4c7cb280cf9d1949c9752567856ae8b8e7a4fae509e86"
+    },
+    {
+      "type": "Theme",
+      "name": "sobriété énergétique",
+      "id": "Theme_b58168ecd36e53a55d92527a10924f1439b06259da2476894e6822461d242e6d"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies renouvelables",
+      "id": "Theme_912e2c1b6d76c17cfecb65f028f348cae97ce3cd43f48890e5f528fb3273c56f"
+    },
+    {
+      "type": "Theme",
+      "name": "sortie du charbon",
+      "id": "Theme_0335ea3b2fad6c0ac9ff79473c205a8eba2fd1082da6fe0b7df633598c0b97aa"
+    },
+    {
+      "type": "Theme",
+      "name": "accords de Paris",
+      "id": "Theme_0fd420da6cf8f8f11c5ebed87cf5df3f7f93dfad8bc2cf4302b6441ba7aeb445"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "États Unis",
+      "id": "Country_4e71cd13dbd6c5c520cd73e9fab647f98fd62289fcbcc0a56332618492c2f431"
+    },
+    {
+      "type": "Country",
+      "name": "Vietnam",
+      "id": "Country_47e7e1f4e3008e557f6fb014a48701c8a54e33e3ea2b350c413ff8e9f17f3d3e"
+    },
+    {
+      "type": "Country",
+      "name": "Malaisie",
+      "id": "Country_a3d935bdcfcbfacde5f7c5591d30d6a490892c82786ecd3bb1a2bbdc7cb34d65"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Country",
+      "name": "G7",
+      "id": "Country_3a57d6ce1fcb257d37e1d5fac6fddc0ecbfaf9dd5cc5af8d09a9ebd30cdddfba"
+    },
+    {
+      "type": "Country",
+      "name": "G20",
+      "id": "Country_426bf02a6b9c301287b2da3b161938c3a94aaf692b468dd4216b7706654fe863"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Country",
+      "name": "Indonésie",
+      "id": "Country_7771567a7a9b44f302b0f12f28ad9ee4fe89238f6364c4b0642d6454f3add126"
+    },
+    {
+      "type": "Theme",
+      "name": "gold standard",
+      "id": "Theme_980b87fe90a56e400feaff22b87efcd7cf39143a1dcfa51ab3a824128f073b03"
+    },
+    {
+      "type": "Theme",
+      "name": "bonne classification financière",
+      "id": "Theme_991a1ec8ab63bdb96028b23ba34b0c6997f441d8791676cf535fe368ab46cadf"
+    },
+    {
+      "type": "Theme",
+      "name": "taux d'intérêt",
+      "id": "Theme_0ce710873dcf09fabd666e0cf2f3cf9ab3567448c3921f0732e3bcd4ed515bca"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "marché financier",
+      "id": "Theme_ddc40300ccc7d208a641022dd1e29e05450e3823ef73b49fd4f08a1ca223af40"
+    },
+    {
+      "type": "Theme",
+      "name": "transition du charbon",
+      "id": "Theme_dbb23c7f5b35c4c106f0f61aec047759e3ad443461e418890936aa601615d046"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelables",
+      "id": "Theme_0bbded11273c52e8b7ad2cbd745e7eda3e1c008ae94878c7f43611bbb4ef07af"
+    },
+    {
+      "type": "Theme",
+      "name": "charbon",
+      "id": "Theme_548bb5ce8df69ec8043411bf054457e539ac5bba47798110164f1896a83f7cd8"
+    },
+    {
+      "type": "Theme",
+      "name": "fossiles",
+      "id": "Theme_497f124f5ea555e91cbafe3a449aa34f56678ced545ffd5c217bf9d54f52a243"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité énergétique",
+      "id": "Theme_3fa29c3a81835e293a8ee69c64e59a04f9d44e386ecc1a59491a348f5946eab8"
+    },
+    {
+      "type": "Event",
+      "name": "COP",
+      "id": "Event_56374a5cc1177fcdec5250d27fcef0e88ac7579a60dc7e7a2b83ee665f2b0951"
+    },
+    {
+      "type": "Organization",
+      "name": "AIEA",
+      "id": "Organization_cd7424fcb3ea6cc3a41866846bfad166788cebf275a4f3495c7c5ad5988a76cd"
+    },
+    {
+      "type": "Event",
+      "name": "sommet financier",
+      "id": "Event_07c77b67670dfa8d9c08cba3c2c4999109ea11b875332bd2786ce9bf49d49c61"
+    },
+    {
+      "type": "Event",
+      "name": "Pacte de Paris pour les peuples de la planète",
+      "id": "Event_00870261b64f2d785bd5e05977b1a93debcfbb0877b2ec015b4ca4d920814d00"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la pauvreté",
+      "id": "Theme_ab8e8f859f334c17b54a9d9d0794df43cbbe9c994f1fd97114aaa4720284ff30"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "développement",
+      "id": "Theme_9f563f6fb56281bb29449c280e882333dd332f1e1e2aa5ff1e49c8654dc6f9a4"
+    },
+    {
+      "type": "Theme",
+      "name": "argent public",
+      "id": "Theme_82a73eb22ebe037c145c08aa6ae8ba3890dfc31abceacc5169765b0caf76d568"
+    },
+    {
+      "type": "Organization",
+      "name": "FMI",
+      "id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "type": "City",
+      "name": "Marrakech",
+      "id": "City_6761622981c7ec7bafce898b5fe1149c8766e5d2d49c34df3077e41527061a74"
+    },
+    {
+      "type": "Person",
+      "name": "Nous-mêmes",
+      "id": "Person_765b85caed0accb16a42ceb1aed384f833f5bd2a2976a23414d1e3605d022b02"
+    },
+    {
+      "type": "Person",
+      "name": "Macky SALL",
+      "id": "Person_bac668f99a124e8a9759ea0accab64aba6d0b844358f6a309d9086c514366570"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Organization",
+      "name": "COP",
+      "id": "Organization_e12bab8ed160d0a475c778e1e86ee80ce5910ec438a09283dab08cc4b7ef4895"
+    },
+    {
+      "type": "Organization",
+      "name": "Charm el-Cheikh",
+      "id": "Organization_a2563ef34b992c7d6d4168f1622b26ec8b1656a6eee58ed65cd004ab768c2ebb"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Theme",
+      "name": "vulnérabilité climatique",
+      "id": "Theme_7c3403c3d8718a6507e1acec80375d7dd0d1a10b73b25072f0d516611f6f4d1d"
+    },
+    {
+      "type": "Theme",
+      "name": "changement",
+      "id": "Theme_9cbd2940971cb3818b27107e1516d6b75fd81b314ac194ecdd6122f84d5d454a"
+    },
+    {
+      "type": "Theme",
+      "name": "pays",
+      "id": "Theme_5836828ee3d8fa593516bc08496d10257dac03542b9574bc9646bddf731326cb"
+    },
+    {
+      "type": "Organization",
+      "name": "Bangladesh",
+      "id": "Organization_90e614c9757da9eb38c401c18d6cb0c5f8d951b753d05933c5d22d1da4c432d3"
+    },
+    {
+      "type": "Organization",
+      "name": "fonds",
+      "id": "Organization_b1901a0c2f90035807c77d66690d0d42e3f5420632368d790785775fdfcd823f"
+    },
+    {
+      "type": "Law",
+      "name": "contrat qu'on a conçu il y a quelques mois",
+      "id": "Law_269c3ba6e36d5ce5cf9caab2747f3fb9724ea4d70c89f04c70e79bf104ee6758"
+    },
+    {
+      "type": "Law",
+      "name": "accord de Loss and Damage",
+      "id": "Law_ef7e1418a873c2183c8d4afd0cd8ae50170f863af8984cce836734e4f0a6cfec"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme complète de l'architecture internationale",
+      "id": "Theme_59d66e2ef0c0098eed4eb8691e4f0a62a1489503f745710eb45f82f46aa31751"
+    },
+    {
+      "type": "Theme",
+      "name": "système de Bretton Woods",
+      "id": "Theme_7e0598255ea4fede8d4f6a802de457261e51891f9c8348cdb3078ea9cde20784"
+    },
+    {
+      "type": "Theme",
+      "name": "système beaucoup plus inclusif",
+      "id": "Theme_edff6cacdb7d906b91f59e3bc0f21e35f1fb8fd84c53fff7b031b7f6860a935f"
+    },
+    {
+      "type": "Theme",
+      "name": "accords",
+      "id": "Theme_5139ae9ac13387e1b175c05cf9fc0da4f5e5a8656665e782fba7673f104e319a"
+    },
+    {
+      "type": "Theme",
+      "name": "systèmes de régulation financiers",
+      "id": "Theme_e5fdf8355aa8f5498b295bdd13194663760fa93175715b2cd20b3d1931e289f4"
+    },
+    {
+      "type": "Theme",
+      "name": "grands émergents",
+      "id": "Theme_c2fb68b61d831d9e341b10bb51a6f00181a958be239c6f9906302b0394513afc"
+    },
+    {
+      "type": "Theme",
+      "name": "pays en développement",
+      "id": "Theme_2526dcde0a393441806712e263b88440fbf719b72a8b8b3d634831cbe6fe004f"
+    },
+    {
+      "type": "Theme",
+      "name": "pays pauvres",
+      "id": "Theme_bd29df54e8240162b27f9222af9bc1fceb9258c9bad9b20c070deab92afdb681"
+    },
+    {
+      "type": "Person",
+      "name": "RUTO",
+      "id": "Person_ee806c3ecc42c900271435002892c750d41e54a328f52bffe3a9dbbdbb4ba32c"
+    },
+    {
+      "type": "Person",
+      "name": "Mia MOTTLEY",
+      "id": "Person_41abfa51714ea1b46c07bf8288635db0e446a524920c52531a91e186e2a92f19"
+    },
+    {
+      "type": "Organization",
+      "name": "taskforce internationale pour une taxation internationale",
+      "id": "Organization_01d046e1e700c97faf6b0894ebb381f82b4e77d2807da95d9f047d676b2791a7"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Organization",
+      "name": "Brésil",
+      "id": "Organization_6c1b79491fdf2f7bfaa369776e02eacd0e7c827e714e90717f58158c4e77c942"
+    },
+    {
+      "type": "Theme",
+      "name": "combat climat",
+      "id": "Theme_82c0a49481a136eb2583701113294a61fa418a7db0f6b830a4cd4a3b0621882c"
+    },
+    {
+      "type": "Theme",
+      "name": "océans",
+      "id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "type": "Theme",
+      "name": "forêts",
+      "id": "Theme_1240508ec111d344871ee2eca4741bff873de4cefa7235aaf1e7b0be5524767e"
+    },
+    {
+      "type": "Theme",
+      "name": "puits de carbone",
+      "id": "Theme_30998f927c88f92238ba40b1fb9b1127414cd75203d757ff650bb1e9ec1f16eb"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies fossiles",
+      "id": "Theme_b6c35f61d1a981309cce533ddbf6a71e259f9c267d021131e611f1b7a3f5f978"
+    },
+    {
+      "type": "Theme",
+      "name": "capture et de stockage de carbone",
+      "id": "Theme_2a6e0d45bb00235cebe7d30cbf70e14448ad570cb43baf0c19811ffe4508608a"
+    },
+    {
+      "type": "Theme",
+      "name": "mangroves",
+      "id": "Theme_42995d674da3961e26666babb34aaba2ae920ad15fe6455e50b3435b5fb077d0"
+    },
+    {
+      "type": "Theme",
+      "name": "pays riches",
+      "id": "Theme_2fee80cbc528fa7541f2ac55e38e0c3f8582eceb20fbe62ad9f6ad455773db16"
+    },
+    {
+      "type": "Theme",
+      "name": "forêts primaires",
+      "id": "Theme_4944a756b87e3526205fae61b83b89c0c40e1f101d80f2334af122e42382f432"
+    },
+    {
+      "type": "Theme",
+      "name": "carbone irrécupérable",
+      "id": "Theme_7f77e69d2ce89d170072ca0df5d90d140d2bad6e1a6980603f8b866d1efa4a1f"
+    },
+    {
+      "type": "Theme",
+      "name": "CO2",
+      "id": "Theme_7fc01d78548a70f3e577bcd09088ef66dd6d98ccb7b0925fb654e36dc2d88acb"
+    },
+    {
+      "type": "Theme",
+      "name": "écosystèmes des espèces vertébrées",
+      "id": "Theme_796beb705de22c8e44ab501ace3c0d01d2811e9658351a96c0e8af2ab194111b"
+    },
+    {
+      "type": "City",
+      "name": "Libreville",
+      "id": "City_90117d5c526e1d5ef03389252c53379c8ff1fd9071133d52cc749188569be38f"
+    },
+    {
+      "type": "Country",
+      "name": "Norvège",
+      "id": "Country_01255a6d7078545605faae7f3b57607774761cefa10e25e0bff7873d4b8710cd"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Papouasie-Nouvelle-Guinée",
+      "id": "Country_846749a5419eaa446d4152c28f2b5c5102a20aa714e72a4b6c5877172300bc23"
+    },
+    {
+      "type": "Country",
+      "name": "République démocratique du Congo",
+      "id": "Country_bc1a24090de24fab6442f08dbf4148857d73894e6844a8caee1c7bc95932470b"
+    },
+    {
+      "type": "Country",
+      "name": "Congo-Brazzaville",
+      "id": "Country_e76073b4129d2ee93b81ee11457f038a5a191d8436578a5f964ee1e165d44abb"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée générale des Nations unies",
+      "id": "Organization_61045914aa1d171f422d3b6a1e356c13816703b1b3021ac196e2e21552bef2bf"
+    },
+    {
+      "type": "Organization",
+      "name": "Sommet One Planet sur l'eau",
+      "id": "Organization_cebaedd17086d0b0bdc74df5ab43ffe14117b3ac1b532a9a77b9bedd13fcf1f3"
+    },
+    {
+      "type": "Country",
+      "name": "Kazakhstan",
+      "id": "Country_7bddecb0e58513bcc33e23ee4d8a1959b1d8f1945e78e1da876c5a576c724f07"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelable",
+      "id": "Theme_d0beb8d3065f33b4c348175dce1aba64c98ce89f1a5876f75f351c8752b2dd50"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Organization",
+      "name": "EDF",
+      "id": "Organization_a2183f95d437456d4b4affc3a6618e8faf7d161757f235e7560aeca5540433a9"
+    },
+    {
+      "type": "Organization",
+      "name": "start-ups",
+      "id": "Organization_0a6e61248dfe0d65bea125e6428da2cc9d82114623d3ce043d9bdcf67eab598f"
+    },
+    {
+      "type": "Organization",
+      "name": "New NUC",
+      "id": "Organization_ea4d27624beffed1aa61ef7625b864489a564d4e4eadd69b505524d157ed0be6"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Organization",
+      "name": "CEA",
+      "id": "Organization_56bee4e69d140d03f96302b407e9a57182af007e69e3a0511d3d22f4e01718b0"
+    },
+    {
+      "type": "Organization",
+      "name": "CNRS",
+      "id": "Organization_9797a7b293510a1bf26addf4f9eb951f6a91dfb71b6b8d8c7031c08fb95a0fa4"
+    },
+    {
+      "type": "Organization",
+      "name": "Paris",
+      "id": "Organization_c678af7a78835dd0b5bd89f3e0829be790bd4cddfc0b57f15c61aeb01d0f7743"
+    },
+    {
+      "type": "Theme",
+      "name": "New NUC",
+      "id": "Theme_4dcd71f8824e424784185e52f323093a6cb3a52664f82ac676c4bc705fc8e11b"
+    },
+    {
+      "type": "Theme",
+      "name": "EPR",
+      "id": "Theme_389d332e6fc3e769e86927cb384c4c624977d238e506c478b2e382ca8e057c9b"
+    },
+    {
+      "type": "Theme",
+      "name": "SMR",
+      "id": "Theme_0bb872913b72839bed7dfb2a52afe006b17ffa216a40ce099d270c531a509564"
+    },
+    {
+      "type": "City",
+      "name": "Doha",
+      "id": "City_2c4553445cae0415389464dfa171ee146aa0bfd01639954f3fa6249857071898"
+    },
+    {
+      "type": "Country",
+      "name": "Qatar",
+      "id": "Country_e5da689c325f619f1d122e0f9316e196ec475beef981feeb9a11d61cf1162518"
+    },
+    {
+      "type": "Person",
+      "name": "Dixmude",
+      "id": "Person_20019086d6373bab41f515959707dffc4a301b3c70ccafa3fdbf8aafaf5e54f0"
+    },
+    {
+      "type": "Person",
+      "name": "Issac HERZOG",
+      "id": "Person_2624093d32c14b143a80347dfb6ff9778ca7d48e4582e564f2a0bd14784164a3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Organization",
+      "name": "Hamas",
+      "id": "Organization_5b6d0f92f49aab219651139d5508991f2fc27fd6b9372da1329d20e55cce795d"
+    },
+    {
+      "type": "Organization",
+      "name": "Autorité palestinienne",
+      "id": "Organization_ac952430f832dd0bb2ca92701bb2f210d525a8b881cc2a7710ba81cc32e46800"
+    },
+    {
+      "type": "Organization",
+      "name": "Gaza",
+      "id": "Organization_e14126dc4c92d67b45c2e1c977a1c2252325be6464defdad06d5f9d4974267ca"
+    },
+    {
+      "type": "Organization",
+      "name": "Israéliennes",
+      "id": "Organization_fca11d6797a22218a15ce417d08b0293369fa6c924701e762c3cb58afaff1ba9"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "financement",
+      "id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941"
+    },
+    {
+      "type": "Theme",
+      "name": "groupes terroristes",
+      "id": "Theme_4b1237775ab36449516e6c985a555342521f2a5a8b959842fa05f16fbe0af197"
+    },
+    {
+      "type": "Country",
+      "name": "Plusieurs pays",
+      "id": "Country_f84c5de51749180dae80fb68045e86124d4642d979d8161cfc7c96e9860fef96"
+    },
+    {
+      "type": "Theme",
+      "name": "groupe terroriste",
+      "id": "Theme_b91101c911004827db89ad9eaef95efd8fe793dbf4a86e47b98f36499633a483"
+    },
+    {
+      "type": "Theme",
+      "name": "bilan humanitaire",
+      "id": "Theme_96555413d788ec83b3ca519c594ea784ab2ba76495d4a8a3f473a95ab304a13e"
+    },
+    {
+      "type": "Theme",
+      "name": "sécuritaire",
+      "id": "Theme_72f5edd5ac96365ec2ada45dd7fd05195434a4e6fc122f253df0b95e8b44076f"
+    },
+    {
+      "type": "Theme",
+      "name": "humanitaire",
+      "id": "Theme_a35f29190c83d157961edb88bb847f1cd0abc804956f7076491c1850ea8e45e2"
+    },
+    {
+      "type": "Theme",
+      "name": "vies civiles",
+      "id": "Theme_16147f3f9e941cd4ca8625f96ccd4fe6a85a5454c25e9c8acc3ef03ef9387fae"
+    },
+    {
+      "type": "Theme",
+      "name": "ressentiment",
+      "id": "Theme_ce1c07cac0c46e166fe75b71adeedf4650bcb45fc85070ce3393b0bdb6f3d48c"
+    },
+    {
+      "type": "Theme",
+      "name": "haine",
+      "id": "Theme_1109211ae99f54d538f05e8b1e3badcdc61927baacdf16dc2f914c62e0db0430"
+    },
+    {
+      "type": "Theme",
+      "name": "prise en charge des populations civiles",
+      "id": "Theme_baa6ec27f76eb8a31509e18233db3cc924eda4dc35634a8c5c2a6668a20f2ed5"
+    },
+    {
+      "type": "Theme",
+      "name": "action sécuritaire",
+      "id": "Theme_d44f93c279b668379ea632a8e99aba17d4ae8ef0bef7de6547e97f665b7b433e"
+    },
+    {
+      "type": "Theme",
+      "name": "terroristes",
+      "id": "Theme_d59b3e6917526ee527ce5381bb55f583e532c879252957540d72a0f1fce69b53"
+    },
+    {
+      "type": "Theme",
+      "name": "discours",
+      "id": "Theme_42d86966ace3014198cfd46fd8c2da2d992819e32c2f4179ebb3d09957486747"
+    },
+    {
+      "type": "Theme",
+      "name": "Gaza",
+      "id": "Theme_279a215bf8ff8b85a6c042185a3500805e234c36b1e6ed32731d90cb207203a4"
+    },
+    {
+      "type": "Theme",
+      "name": "double standard",
+      "id": "Theme_5267759c0dff85fcf3de69ea028fe63f10e04035f0e54922c7cd33541a960671"
+    },
+    {
+      "type": "Theme",
+      "name": "approche politique",
+      "id": "Theme_293c2c29631903deb2d8344b04a35925066b0c190863d9ed63f3353cae38db61"
+    },
+    {
+      "type": "Theme",
+      "name": "désespoir politique",
+      "id": "Theme_d478f185cb63ca4a08e592605d23b0dc420f83d5b4e4751c817af1e533c6f0ed"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité dans la durée",
+      "id": "Theme_5207424277126bd5b754e8a091afccdfe75a632e54b6b1501bbef6b99d632387"
+    },
+    {
+      "type": "Theme",
+      "name": "droit légitime du peuple palestinien",
+      "id": "Theme_848daa98533d58090692cfbcf16f0bb3358d358e6ecbb7dab1224933106cd076"
+    },
+    {
+      "type": "Theme",
+      "name": "reconnaissance politique",
+      "id": "Theme_eb760a0bec98a0e0a24ef7a298181d09f5731657c3f11762e561c2fb5d8b8d80"
+    },
+    {
+      "type": "Theme",
+      "name": "deux États",
+      "id": "Theme_6b44c422bf804606ca23e64431fbbf8768bccbef3599fd8e44cedc4d47db72f9"
+    },
+    {
+      "type": "Theme",
+      "name": "violence",
+      "id": "Theme_2e88abc315f2f0443a0e5b9fd8eae9a399f515b08101974ade6d7c352b827448"
+    },
+    {
+      "type": "Theme",
+      "name": "processus politique",
+      "id": "Theme_05e9acbf8550f6368fa337e4766b18582fd00f7521c68b6708035c0d2a142365"
+    },
+    {
+      "type": "Country",
+      "name": "Palestinie",
+      "id": "Country_1634a61cc63d88e4a1e8d5f116008ff70b61e160f29f31b984ca6d62b6c6fd70"
+    },
+    {
+      "type": "Person",
+      "name": "LULA",
+      "id": "Person_b94e428e96536fe0fe2302dc16b7fd1c423580a1762b0662982cbed43a5edb75"
+    },
+    {
+      "type": "Organization",
+      "name": "Mercosur-Union européenne",
+      "id": "Organization_5662b122e186c5eb37c6404936f53cfe52ab6b1d7b6e15535ceb9f806ebee684"
+    },
+    {
+      "type": "Country",
+      "name": "Brésil",
+      "id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae"
+    },
+    {
+      "type": "Country",
+      "name": "Nouvelle-Zélande",
+      "id": "Country_80bad93f7b963239646a7f56fd94d25d28ff91f84bb39af18dbb2d11c840f36f"
+    },
+    {
+      "type": "Country",
+      "name": "Chili",
+      "id": "Country_c0d4881c53036bf1949a279e19e404943cec83d8c7607b89f66e74188cb94b92"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "normes",
+      "id": "Theme_63b2bd4eb30422d7f3e9df259557711eba985b3d7f2995b7837452ba98b6b0b4"
+    },
+    {
+      "type": "Theme",
+      "name": "tarifs",
+      "id": "Theme_6e4fd7433906c2ee4d904e7ce19d8886f9a4121d8d8468481d40874c61c6bb9b"
+    },
+    {
+      "type": "Theme",
+      "name": "bilan carbone",
+      "id": "Theme_93f5b07306de2ac78def6eedc8b0658f56ed1abe13ced9978e04d92980861ce9"
+    },
+    {
+      "type": "Theme",
+      "name": "boeuf",
+      "id": "Theme_829ad6053bc78d7134b22914744d2bcfa0f1b909b58de4b9bbbd46a5a60b6d1c"
+    },
+    {
+      "type": "Theme",
+      "name": "céréales",
+      "id": "Theme_c9a15fb24d51fdfbce95ab9297f203c205a63638805539d08827bb7c06e75f33"
+    },
+    {
+      "type": "Theme",
+      "name": "déforestation",
+      "id": "Theme_b0021b43ded23b2328b09c00f17051c7c9fc076afb903b4c82485a9bca21e8a8"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêts financiers",
+      "id": "Theme_95e7874327366d4c75a23e32bf9998b731621db8fd8e237db5b2d80ec5bd7c26"
+    },
+    {
+      "type": "Person",
+      "name": "Javier MILEI",
+      "id": "Person_bf3dc763ff07c06a8d75a676837a8b195a5ed427e8c8d5c42c43f1fe08fb049c"
+    },
+    {
+      "type": "Country",
+      "name": "Argentine",
+      "id": "Country_3dab7c85e6607fddbf7c552fa1a16bb3d8c4efc9ce2720249249c1c8220d005f"
+    },
+    {
+      "type": "Organization",
+      "name": "Mercosur",
+      "id": "Organization_a3313ed1a7f11242c5aa99e51ce9fd1d10df17c4caedad51ecd72e7b13ec341f"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "nucléaire",
+      "relation": "MENTIONS",
+      "target": "nucléaire",
+      "evidence": "Il faut faire les deux. Aucune stratégie crédible, ni nationalement, ni mondialement, ne permet de sortir du charbon et des fossiles en reposant uniquement sur le renouvelable. Parce que le renouvelable est intermittent, qu'il fait peser des risques importants sur les réseaux et qu'il ne permet pas, sur certaines activités, d'être une réponse satisfaisante. C'est pourquoi le bon mix, la trilogie sur laquelle d'ailleurs nous avons bâti notre stratégie, c'est l'efficacité énergétique, qui permet de réduire votre consommation, c'est plus de renouvelables et c'est plus de nucléaire.",
+      "confidence": 1.0,
+      "source_id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2",
+      "target_id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "source": "renouvelables",
+      "relation": "MENTIONS",
+      "target": "renouvelables",
+      "evidence": "Il faut faire les deux. Aucune stratégie crédible, ni nationalement, ni mondialement, ne permet de sortir du charbon et des fossiles en reposant uniquement sur le renouvelable. Parce que le renouvelable est intermittent, qu'il fait peser des risques importants sur les réseaux et qu'il ne permet pas, sur certaines activités, d'être une réponse satisfaisante. C'est pourquoi le bon mix, la trilogie sur laquelle d'ailleurs nous avons bâti notre stratégie, c'est l'efficacité énergétique, qui permet de réduire votre consommation, c'est plus de renouvelables et c'est plus de nucléaire.",
+      "confidence": 1.0,
+      "source_id": "Theme_0bbded11273c52e8b7ad2cbd745e7eda3e1c008ae94878c7f43611bbb4ef07af",
+      "target_id": "Theme_0bbded11273c52e8b7ad2cbd745e7eda3e1c008ae94878c7f43611bbb4ef07af"
+    },
+    {
+      "source": "charbon",
+      "relation": "MENTIONS",
+      "target": "charbon",
+      "evidence": "Il faut faire les deux. Aucune stratégie crédible, ni nationalement, ni mondialement, ne permet de sortir du charbon et des fossiles en reposant uniquement sur le renouvelable.",
+      "confidence": 1.0,
+      "source_id": "Theme_548bb5ce8df69ec8043411bf054457e539ac5bba47798110164f1896a83f7cd8",
+      "target_id": "Theme_548bb5ce8df69ec8043411bf054457e539ac5bba47798110164f1896a83f7cd8"
+    },
+    {
+      "source": "fossiles",
+      "relation": "MENTIONS",
+      "target": "fossiles",
+      "evidence": "Il faut faire les deux. Aucune stratégie crédible, ni nationalement, ni mondialement, ne permet de sortir du charbon et des fossiles en reposant uniquement sur le renouvelable.",
+      "confidence": 1.0,
+      "source_id": "Theme_497f124f5ea555e91cbafe3a449aa34f56678ced545ffd5c217bf9d54f52a243",
+      "target_id": "Theme_497f124f5ea555e91cbafe3a449aa34f56678ced545ffd5c217bf9d54f52a243"
+    },
+    {
+      "source": "efficacité énergétique",
+      "relation": "MENTIONS",
+      "target": "efficacité énergétique",
+      "evidence": "C'est pourquoi le bon mix, la trilogie sur laquelle d'ailleurs nous avons bâti notre stratégie, c'est l'efficacité énergétique, qui permet de réduire votre consommation, c'est plus de renouvelables et c'est plus de nucléaire.",
+      "confidence": 1.0,
+      "source_id": "Theme_3fa29c3a81835e293a8ee69c64e59a04f9d44e386ecc1a59491a348f5946eab8",
+      "target_id": "Theme_3fa29c3a81835e293a8ee69c64e59a04f9d44e386ecc1a59491a348f5946eab8"
+    },
+    {
+      "source": "Banque mondiale",
+      "relation": "MENTIONS",
+      "target": "FMI",
+      "evidence": "300 à 400 milliards de dollars de financements en plus sur 10 ans seront déployés en mettant plus à risque le bilan de la Banque mondiale et du FMI",
+      "confidence": 1.0,
+      "source_id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d",
+      "target_id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "source": "Banque mondiale",
+      "relation": "ALLIED_WITH",
+      "target": "FMI",
+      "evidence": "en déployant les effets de levier que nous avons avec la Banque mondiale tout particulièrement et le FMI",
+      "confidence": 1.0,
+      "source_id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d",
+      "target_id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "source": "Papouasie-Nouvelle-Guinée",
+      "relation": "LOCATED_IN",
+      "target": "Papouasie-Nouvelle-Guinée",
+      "evidence": "On met 100 millions sur la Papouasie-Nouvelle-Guinée",
+      "confidence": 1.0,
+      "source_id": "Country_846749a5419eaa446d4152c28f2b5c5102a20aa714e72a4b6c5877172300bc23",
+      "target_id": "Country_846749a5419eaa446d4152c28f2b5c5102a20aa714e72a4b6c5877172300bc23"
+    },
+    {
+      "source": "République démocratique du Congo",
+      "relation": "LOCATED_IN",
+      "target": "République démocratique du Congo",
+      "evidence": "60 millions de dollars sur la République démocratique du Congo",
+      "confidence": 1.0,
+      "source_id": "Country_bc1a24090de24fab6442f08dbf4148857d73894e6844a8caee1c7bc95932470b",
+      "target_id": "Country_bc1a24090de24fab6442f08dbf4148857d73894e6844a8caee1c7bc95932470b"
+    },
+    {
+      "source": "Congo-Brazzaville",
+      "relation": "LOCATED_IN",
+      "target": "Congo-Brazzaville",
+      "evidence": "50 millions sur le Congo-Brazzaville",
+      "confidence": 1.0,
+      "source_id": "Country_e76073b4129d2ee93b81ee11457f038a5a191d8436578a5f964ee1e165d44abb",
+      "target_id": "Country_e76073b4129d2ee93b81ee11457f038a5a191d8436578a5f964ee1e165d44abb"
+    },
+    {
+      "source": "Israël",
+      "relation": "SPOKE_ABOUT",
+      "target": "sécurité",
+      "evidence": "Il n'y a pas de sécurité durable pour Israël dans la région si sa sécurité se fait au prix des vies palestiniennes",
+      "confidence": 1.0,
+      "source_id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814",
+      "target_id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "source": "Israël",
+      "relation": "SPOKE_ABOUT",
+      "target": "ressentiment",
+      "evidence": "ce faisant, pour tous ceux qui les soutiennent, qu'il n'y aurait deux standards et que la vie des Palestiniens ne vaut pas la vie des Israéliens, vous créez en puissance des régimes, des groupes et demain, d'autres groupes naîtront, qui porteront ce ressentiment et cette haine.",
+      "confidence": 1.0,
+      "source_id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814",
+      "target_id": "Theme_ce1c07cac0c46e166fe75b71adeedf4650bcb45fc85070ce3393b0bdb6f3d48c"
+    },
+    {
+      "source": "Palestinie",
+      "relation": "SPOKE_ABOUT",
+      "target": "deux États",
+      "evidence": "Et là aussi, la bonne réponse, c'est : les deux États, la reconnaissance du peuple palestinien à disposer d'un État et l'exigence à l'égard de celui-ci de reconnaître l'État d'Israël et sa sécurité et son droit à vivre en paix.",
+      "confidence": 1.0,
+      "source_id": "Country_1634a61cc63d88e4a1e8d5f116008ff70b61e160f29f31b984ca6d62b6c6fd70",
+      "target_id": "Theme_6b44c422bf804606ca23e64431fbbf8768bccbef3599fd8e44cedc4d47db72f9"
+    },
+    {
+      "source": "Israël",
+      "relation": "SPOKE_ABOUT",
+      "target": "deux États",
+      "evidence": "Et là aussi, la bonne réponse, c'est : les deux États, la reconnaissance du peuple palestinien à disposer d'un État et l'exigence à l'égard de celui-ci de reconnaître l'État d'Israël et sa sécurité et son droit à vivre en paix.",
+      "confidence": 1.0,
+      "source_id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814",
+      "target_id": "Theme_6b44c422bf804606ca23e64431fbbf8768bccbef3599fd8e44cedc4d47db72f9"
+    },
+    {
+      "source": "Brésil",
+      "relation": "MENTIONS",
+      "target": "déforestation",
+      "evidence": "Si vous ne faites plus de déforestation au Brésil, vous le savez très bien, vous allez contrarier plein d'intérêts financiers.",
+      "confidence": 1.0,
+      "source_id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae",
+      "target_id": "Theme_b0021b43ded23b2328b09c00f17051c7c9fc076afb903b4c82485a9bca21e8a8"
+    },
+    {
+      "source": "Brésil",
+      "relation": "MENTIONS",
+      "target": "décarbonation",
+      "evidence": "S'il veut rendre cette politique irréversible pour le Brésil, il doit la mettre dans les accords parce qu'à ce moment-là, tous ses successeurs devront avoir une politique qui, justement, va vers la décarbonation.",
+      "confidence": 1.0,
+      "source_id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae",
+      "target_id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "source": "Argentine",
+      "relation": "MEMBER_OF",
+      "target": "Mercosur",
+      "evidence": "on fera tout ce qu'on peut pour maintenir la coopération et même l'enrichir avec l'Argentine et essayer de faire aussi que l'Argentine soit un bon partenaire du Mercosur",
+      "confidence": 1.0,
+      "source_id": "Country_3dab7c85e6607fddbf7c552fa1a16bb3d8c4efc9ce2720249249c1c8220d005f",
+      "target_id": "Organization_a3313ed1a7f11242c5aa99e51ce9fd1d10df17c4caedad51ecd72e7b13ec341f"
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le directeur",
+      "id": "Person_a72eada1ec2002512e5b2debfc8141db7f0771fd002e532e9f3bfcc893ac1e33"
+    },
+    {
+      "type": "Person",
+      "name": "Mark",
+      "id": "Person_7b968f35d0fb4e78dfe2bb35f6dd1f4dc36cafbcf13460595121d9c678eb0e44"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la vice-présidente du Conseil régional",
+      "id": "Person_87e6e00cc4c83f1fe4bd178bda89122493ddc5188d182876aac7b3aff8ae7422"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la présidente du Conseil départemental",
+      "id": "Person_9cc61b7b2edca3a2cf3bbdf961e2add113659f0bae7c3fb6041e0f13c27a0106"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs",
+      "id": "Person_625fe3a313c056b9dc1724205255b9a7767c4b46670f91284ff4a20cb9382408"
+    },
+    {
+      "type": "Person",
+      "name": "nos préfets",
+      "id": "Person_4ba14d4742262582c5e054a3b9fd1ca5a72dbcc264e737ad7cc81e9d559df3a9"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Country",
+      "name": "français",
+      "id": "Country_c4dad1af940aa0201c7e313e6b26e7081226df3348f51555a362f8ecdb3ac4c0"
+    },
+    {
+      "type": "City",
+      "name": "Amiens",
+      "id": "City_50d7edfea5352d1c2108d0e10ba4a285b0b793521bb528b9194a13254a40c572"
+    },
+    {
+      "type": "City",
+      "name": "Amiens Nord",
+      "id": "City_8f33c573e07e3cde8cd9643305af761d9691233f63b5b4cf5a2507387b728183"
+    },
+    {
+      "type": "Organization",
+      "name": "Goodyear",
+      "id": "Organization_5091b1c932d3a52c5d319edb0ef014d34b37b826ff55fae5e875ddfb8b43ba07"
+    },
+    {
+      "type": "Theme",
+      "name": "conditions de travail",
+      "id": "Theme_216aa5bb4ef0f659e46bccbac16308fd5c845abd1f38958510f22fe8f53286bc"
+    },
+    {
+      "type": "Theme",
+      "name": "compétition internationale",
+      "id": "Theme_6c52336cdf05a0c5fa4a9150a137742c2aa3f5b376b6e38a22b42eedece14388"
+    },
+    {
+      "type": "Theme",
+      "name": "modernisation",
+      "id": "Theme_e9e0d9744d7e90ca4567e16e41f34ba1a3d63acd9dd475854e47dbfdaf126d09"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue social",
+      "id": "Theme_ee894356fb7b18c232f5f8942280aa5130fa4a4bf5c6ae081e42c62ae85a0fce"
+    },
+    {
+      "type": "Theme",
+      "name": "négociations",
+      "id": "Theme_4d064003cc5b671abd28afd991a250ae1ec2105087df838ea8c47f7d0e4ed9f2"
+    },
+    {
+      "type": "Theme",
+      "name": "consultations",
+      "id": "Theme_93f9c4c77e3c2faf93cad5a976734afe05d73d0ce52bdeaa072623703be36431"
+    },
+    {
+      "type": "Theme",
+      "name": "échanges d'informations",
+      "id": "Theme_69ad32f8c6f2e5fd4b54e62e6621fb397f571ab7251e84b4c95f2c432e19cb89"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernements",
+      "id": "Theme_6482720560430fdeb3aee8281b20e0456e93ffc9529248c44c7bb3a09c952a0a"
+    },
+    {
+      "type": "Theme",
+      "name": "employeurs",
+      "id": "Theme_f7b92c3b99fc1b681edc6b208f53904e30f40c31bf14f9a87523af38422f265b"
+    },
+    {
+      "type": "Theme",
+      "name": "travailleurs",
+      "id": "Theme_874e3fed642323c857c341dea5c2fbdf29315ba3ac8f80e1c0eddb1a5e844f77"
+    },
+    {
+      "type": "Theme",
+      "name": "accord sur les 5x8",
+      "id": "Theme_b4d01319a652480a08ddf0e6c55042defadbb865670f9b82f01370fd714407a5"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Organization",
+      "name": "France Travail",
+      "id": "Organization_5dc70937854fc6c34de4578dfe184b6332e2a74eb9711e7846c931f2194252f1"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi industriel",
+      "id": "Theme_955cdbe228b4dc5a81608a8d44af0ab11495f814c95eb39ef790b41e26eb3f53"
+    },
+    {
+      "type": "Theme",
+      "name": "sites industriels",
+      "id": "Theme_5acb23a0ade82da640d8cac45daf01958b6a615dc80d16bc2e9137765ab548fb"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "City",
+      "name": "Amiénois",
+      "id": "City_0b01d7d7c08f7ef9b533f90c084dac5d3e24cfb91d0950a92afd08ef4bf5897f"
+    },
+    {
+      "type": "Organization",
+      "name": "Eurolysine",
+      "id": "Organization_8de065fab506dc437bcee75513bea5a66c5945bc4ad422deac888de6d1806b81"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialisation",
+      "id": "Theme_ac8bdfb33c3783eee726437d1158d9c6c216120e43edc6178969ee44f5098ca1"
+    },
+    {
+      "type": "Theme",
+      "name": "datacenters",
+      "id": "Theme_0abaf1222580696a9e2f6ca1cf05fa6586ddbe5cd16afd149666a535c7d733e3"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "Rapidité",
+      "id": "Theme_00647c8bf4a18fbc8db6c9e51e04820942589830b3f621c4de45fc38c6ea771e"
+    },
+    {
+      "type": "Theme",
+      "name": "Investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "Datacenter",
+      "id": "Theme_a1245a5db5c0518fa9ba3aa73177c916416fb1ea4091370a0f785c65c838e8a3"
+    },
+    {
+      "type": "Theme",
+      "name": "Intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "France 2030",
+      "id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d"
+    },
+    {
+      "type": "Theme",
+      "name": "France Relance",
+      "id": "Theme_ec0158e5109b8add672fac070f24646c4f40b743c1d5f3885b8962093e770532"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence déloyale",
+      "id": "Theme_6f8aaf83503a1261119bf6adc4b9e04626d7f50d15b570c55e9df4f409b2f3fb"
+    },
+    {
+      "type": "Theme",
+      "name": "règles du jeu",
+      "id": "Theme_dbce666596179b432157f61130a41267efce36f84c6264e01badd0a3e5d4a16a"
+    },
+    {
+      "type": "Theme",
+      "name": "subventions",
+      "id": "Theme_a99bedc24490395b28447c412f0363166c7c9959a8a027e1c10301946b6b68c3"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence chinoise",
+      "id": "Theme_4389b1fba796d451224506d28278341668efae6058b00f25a2d77fc09839f782"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence européenne",
+      "id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "type": "Theme",
+      "name": "clauses de sauvegarde",
+      "id": "Theme_433683fe52d9db5e682d740c0efe1a41b92ea78c4181056df6ecdbc877b32ea0"
+    },
+    {
+      "type": "Theme",
+      "name": "contenu européen",
+      "id": "Theme_9cce8c209df7d9a152a94db1e31abb5695646da366241c05e9b61e4747bd5e91"
+    },
+    {
+      "type": "City",
+      "name": "Douai",
+      "id": "City_2176b1027a81ce0e83b327539bfb966788da3fa0edc511bb7a7f945b4818c88e"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "protectionnisme",
+      "id": "Theme_f908a3ce2a62f196e9b3881f0b81ce31f64eb6d35dede2a07725ea9d130f54a7"
+    },
+    {
+      "type": "Theme",
+      "name": "juste protection",
+      "id": "Theme_59ca0cd48d6361b4a237dc1130591b0cd07793362b4e303f31e2c9e327243aaf"
+    },
+    {
+      "type": "Organization",
+      "name": "Avril",
+      "id": "Organization_ce610b9d19e0ff777c75d15ae4ed21ad94f8cf76a259ae0b8ed8727cccdbef0c"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre en Ukraine",
+      "id": "Theme_c1ac68c6c37050c08bad07f72ee5a0d6426beefac1fe476dc951a6e663e6c13f"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre au Proche et au Moyen-Orient",
+      "id": "Theme_f1bf5bbea4178d29b3ed56c5fb51628c08ff02b969d93f3ba2bb9d4560309525"
+    },
+    {
+      "type": "Person",
+      "name": "Goodyear",
+      "id": "Person_0c5c5349bc9334088de3321793378037760d473ad3e77648af9fb1aa47eb257b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Réforme",
+      "relation": "MENTIONS",
+      "target": "Réforme",
+      "evidence": "Réformer, simplifier et aller vite.",
+      "confidence": 1.0,
+      "source_id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5",
+      "target_id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "source": "Goodyear",
+      "relation": "MENTIONS",
+      "target": "Goodyear",
+      "evidence": "ce qu'a fait Goodyear.",
+      "confidence": 1.0,
+      "source_id": "Person_0c5c5349bc9334088de3321793378037760d473ad3e77648af9fb1aa47eb257b",
+      "target_id": "Person_0c5c5349bc9334088de3321793378037760d473ad3e77648af9fb1aa47eb257b"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "préférence européenne",
+      "evidence": "On se bat aussi pour avoir une préférence européenne.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "clauses de sauvegarde",
+      "evidence": "Là, on demande à l'Europe de sévir, de mettre en place ce qu'on appelle des clauses de sauvegarde, des tarifs.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_433683fe52d9db5e682d740c0efe1a41b92ea78c4181056df6ecdbc877b32ea0"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "réformes",
+      "evidence": "Ça, c'est des réformes qu'on est en train de pousser au niveau européen, quand on se bagarre, quand je vais à Bruxelles.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    }
+  ]
+}

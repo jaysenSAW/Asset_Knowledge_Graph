@@ -1,0 +1,332 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Léon Gautier",
+      "id": "Person_f0cd1a058cc8a9c1c9bebc25739078b65b230b3a21d0054bb24a963feb91accd"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Cherbourg",
+      "id": "City_afbb121c0a173f111ee212e04474639df6dc09425295185121fecc1de8e7b660"
+    },
+    {
+      "type": "City",
+      "name": "Douvres",
+      "id": "City_9f045a03eeee34fbe137ede046f2a8650ee42d854b1dc460bfbf36c41492e03a"
+    },
+    {
+      "type": "City",
+      "name": "Londres",
+      "id": "City_46110e3e9c35de9d2cda1109fbec5fe7701b958198ac1143e8e5aa66bd4be03f"
+    },
+    {
+      "type": "City",
+      "name": "Courbet",
+      "id": "City_a6f8ac9e71c1547d343c851a24cb2eb093bdbb0a50bf5fd23ef1cd7d865ef9ba"
+    },
+    {
+      "type": "Organization",
+      "name": "forces navales françaises libres",
+      "id": "Organization_36b65481ddd1f5a2f273d9a10c5cf4b3331ffe62061a62b6f534011a7d59c357"
+    },
+    {
+      "type": "Organization",
+      "name": "Cuirassé Courbet",
+      "id": "Organization_a62feb21264de238d7bb24bd5f68406bf12bc64309c44c90eda061dbdcbac9cc"
+    },
+    {
+      "type": "City",
+      "name": "Écosse",
+      "id": "City_5ce4b925ed8a6d3ef4c9eca4bac0ca75bd07023ed43faa69773eac1c86dd27bd"
+    },
+    {
+      "type": "City",
+      "name": "Congo",
+      "id": "City_98be9cd382cfb942b238d51d9f4e264f186de666e8051cfcc0eee348a6d240e2"
+    },
+    {
+      "type": "City",
+      "name": "Syrie",
+      "id": "City_23da89808cb9c6c5ee156135d5e5744c6a2aeb2aa141c20e4e0db6a6bd4c346c"
+    },
+    {
+      "type": "Organization",
+      "name": "1er Régiment de fusiliers marins",
+      "id": "Organization_12d3ee4abf9dd4812c96c4cc4fa8f5bf2203a7efd3eeb8fd175c3da69dbbc16f"
+    },
+    {
+      "type": "Organization",
+      "name": "1er Bataillon de fusiliers marins commando",
+      "id": "Organization_d075f6b5dd4ddbf41de0cbcbc3a138ad1edabca64ecfa5fc208fad3d5cc91c23"
+    },
+    {
+      "type": "Organization",
+      "name": "commando de Philippe Kieffer",
+      "id": "Organization_055e397da849b3ea1a8b3dc45323bc19a7233bd0e034598ad9e67b1f21a891ca"
+    },
+    {
+      "type": "Organization",
+      "name": "177 du commando Kieffer",
+      "id": "Organization_b15baf74fe70856a5c20169b4f62bfe8f8a09952a650cf51bf060b91baa116f2"
+    },
+    {
+      "type": "City",
+      "name": "côte normande",
+      "id": "City_74f754e9fe2053c5a6accd24511cb797eddd0975e338ac27d6d67621e094e061"
+    },
+    {
+      "type": "Country",
+      "name": "Haïti",
+      "id": "Country_26eb6b2804b8c516c8aba8f54ce10584b06e2fe603cba2ec2cfdfa5b73cb8a92"
+    },
+    {
+      "type": "Country",
+      "name": "Maghreb",
+      "id": "Country_be5722976ec7c134a4db482021e29042946ff337d3ae7431fcc726f38a53abf3"
+    },
+    {
+      "type": "City",
+      "name": "Titchfield",
+      "id": "City_bd86f3f6219d8179b594abd3f00e602a7dd71e35aa3bb6ce1e7e78dd168f6751"
+    },
+    {
+      "type": "Country",
+      "name": "Angleterre",
+      "id": "Country_4afd60f813a108a1cf61b2786053c92158c543948b13939e4046f277f801f3eb"
+    },
+    {
+      "type": "Theme",
+      "name": "libération",
+      "id": "Theme_dbb68ff51e0e5e36b8d2768950d7ecd1d59bbe5bc409a876ae465522ac889eaa"
+    },
+    {
+      "type": "Theme",
+      "name": "patrie",
+      "id": "Theme_4079aa9734c9091368bffcf632034e06cecaadec102a482fdcc6b4ec9873a5eb"
+    },
+    {
+      "type": "Country",
+      "name": "Britanniques",
+      "id": "Country_2b303b326941cb94a150f8b43c140a0dbdb1ed904a9e55869de5327035e618ec"
+    },
+    {
+      "type": "Country",
+      "name": "Normandie",
+      "id": "Country_202c4bb67de59d5a9af81e24953d397a0f19c17083672e07c383e1dd0ee14360"
+    },
+    {
+      "type": "Theme",
+      "name": "honneur",
+      "id": "Theme_ea5594653008766fd662b55a97d7fd869d455e7de170f6055248cf3b342cb8c7"
+    },
+    {
+      "type": "Theme",
+      "name": "pays",
+      "id": "Theme_5836828ee3d8fa593516bc08496d10257dac03542b9574bc9646bddf731326cb"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Country",
+      "name": "Écosse",
+      "id": "Country_be3a0ce5a81026b4e134d8bf2a37b3cc0331503e305ac496c5c75509977f3493"
+    },
+    {
+      "type": "City",
+      "name": "Ouistreham",
+      "id": "City_c0d55f528956f5897c4ccc45e081bfd2ae6862b573a653606ce988574649520d"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Maclou",
+      "id": "City_5de626522d00c7aba0da1ab9d47c51ccf7a6962728218fcb021fd02f6b18bc0a"
+    },
+    {
+      "type": "City",
+      "name": "Eure",
+      "id": "City_0495a23c44a3a741d8eccdf06b083feecd12b13e9604261fd80740501382d350"
+    },
+    {
+      "type": "City",
+      "name": "Normandie",
+      "id": "City_f0fe3a8c9028ddfa11298d6496804a09e1a0ab72a0ef8225769f14175bfca277"
+    },
+    {
+      "type": "City",
+      "name": "Ardennes",
+      "id": "City_30cda7bfc036d354443a31130f2e94a77f76589bdb6b7eab89c030f554f78eaa"
+    },
+    {
+      "type": "City",
+      "name": "Angleterre",
+      "id": "City_cd858bec7bac1ff7780ce111b2773eb06af932423d5b6017b751392063f13974"
+    },
+    {
+      "type": "Person",
+      "name": "Dorothy Banks",
+      "id": "Person_9b131e319a3d2b453e68805c019b46ee004547699d3a4f0fd9e495aaf86254ff"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline",
+      "id": "Person_d7b47c237dc872b1c5bbf3c9f83bdc7b7013ce384c9b020f7dd59664e72d5949"
+    },
+    {
+      "type": "Person",
+      "name": "Jeannette",
+      "id": "Person_116b4e45493fa521b1e70dc386b7d676d226477f096de10dfb54530f46fb53dd"
+    },
+    {
+      "type": "City",
+      "name": "Corps des transmissions britanniques",
+      "id": "City_88f5e2d30e112cd8f52695b195ae4d2743019b6bc9e3579a24c88879d1e260ea"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "Résistance",
+      "id": "Theme_e76d4a7d077688683b8612822efb91314ca3d8a465e71434c7d639fcd7efc3a4"
+    },
+    {
+      "type": "City",
+      "name": "Colleville-sur-Mer",
+      "id": "City_2018b2289273871ee780065911dc6cd3f355e38ceedbf5e6c6ac98106df4058b"
+    },
+    {
+      "type": "Person",
+      "name": "Johannes Börner",
+      "id": "Person_19fd2c83046ec765ad2a0d951370141b3306bc13a6f82ad8106814d4835d602e"
+    },
+    {
+      "type": "Organization",
+      "name": "commandos",
+      "id": "Organization_b8d9b638bdcb4407598079632d28ce40c703ea499ad990a9ccdfe4a1da8b1412"
+    },
+    {
+      "type": "Theme",
+      "name": "amour de la France",
+      "id": "Theme_e9bb752027ac7feaa879a8bdb4195f1d8dc408b0c947c74a4a4f421b9ad0355a"
+    },
+    {
+      "type": "Theme",
+      "name": "sacrifice ultime",
+      "id": "Theme_57f4fb50f830725a754014a6870fd18b58c7db9d853060c10ea1501d15bed5c2"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Léon Gautier",
+      "relation": "PROPOSED",
+      "target": "forces navales françaises libres",
+      "evidence": "À Londres, dès les premières semaines, Léon Gautier rentra dans les rangs des forces navales françaises libres.",
+      "confidence": 1.0,
+      "source_id": "Person_f0cd1a058cc8a9c1c9bebc25739078b65b230b3a21d0054bb24a963feb91accd",
+      "target_id": "Organization_36b65481ddd1f5a2f273d9a10c5cf4b3331ffe62061a62b6f534011a7d59c357"
+    },
+    {
+      "source": "Léon Gautier",
+      "relation": "VISITED",
+      "target": "Douvres",
+      "evidence": "En juin, dans la débâcle, Léon Gautier fut envoyé dans un camp de ralliement à Douvres.",
+      "confidence": 1.0,
+      "source_id": "Person_f0cd1a058cc8a9c1c9bebc25739078b65b230b3a21d0054bb24a963feb91accd",
+      "target_id": "City_9f045a03eeee34fbe137ede046f2a8650ee42d854b1dc460bfbf36c41492e03a"
+    },
+    {
+      "source": "Léon Gautier",
+      "relation": "VISITED",
+      "target": "Londres",
+      "evidence": "À Londres, dès les premières semaines, Léon Gautier rentra dans les rangs des forces navales françaises libres.",
+      "confidence": 1.0,
+      "source_id": "Person_f0cd1a058cc8a9c1c9bebc25739078b65b230b3a21d0054bb24a963feb91accd",
+      "target_id": "City_46110e3e9c35de9d2cda1109fbec5fe7701b958198ac1143e8e5aa66bd4be03f"
+    },
+    {
+      "source": "Léon Gautier",
+      "relation": "VISITED",
+      "target": "Congo",
+      "evidence": "Rejoignant le 1er Régiment de fusiliers marins en janvier 1941, Léon Gautier se rendit au Congo, puis en Syrie.",
+      "confidence": 1.0,
+      "source_id": "Person_f0cd1a058cc8a9c1c9bebc25739078b65b230b3a21d0054bb24a963feb91accd",
+      "target_id": "City_98be9cd382cfb942b238d51d9f4e264f186de666e8051cfcc0eee348a6d240e2"
+    },
+    {
+      "source": "Léon Gautier",
+      "relation": "VISITED",
+      "target": "Syrie",
+      "evidence": "Rejoignant le 1er Régiment de fusiliers marins en janvier 1941, Léon Gautier se rendit au Congo, puis en Syrie.",
+      "confidence": 1.0,
+      "source_id": "Person_f0cd1a058cc8a9c1c9bebc25739078b65b230b3a21d0054bb24a963feb91accd",
+      "target_id": "City_23da89808cb9c6c5ee156135d5e5744c6a2aeb2aa141c20e4e0db6a6bd4c346c"
+    },
+    {
+      "source": "Léon Gautier",
+      "relation": "LOCATED_IN",
+      "target": "Normandie",
+      "evidence": "Ce fut là aussi, dans le bocage de Normandie que Léon Gautier peut-être sut qu'il n'avait pas démérité de ceux qui, avant lui, avaient enduré dans les tranchées des Ardennes le pire.",
+      "confidence": 1.0,
+      "source_id": "Person_f0cd1a058cc8a9c1c9bebc25739078b65b230b3a21d0054bb24a963feb91accd",
+      "target_id": "City_f0fe3a8c9028ddfa11298d6496804a09e1a0ab72a0ef8225769f14175bfca277"
+    },
+    {
+      "source": "Léon Gautier",
+      "relation": "VISITED",
+      "target": "Ardennes",
+      "evidence": "Ce fut là aussi, dans le bocage de Normandie que Léon Gautier peut-être sut qu'il n'avait pas démérité de ceux qui, avant lui, avaient enduré dans les tranchées des Ardennes le pire.",
+      "confidence": 1.0,
+      "source_id": "Person_f0cd1a058cc8a9c1c9bebc25739078b65b230b3a21d0054bb24a963feb91accd",
+      "target_id": "City_30cda7bfc036d354443a31130f2e94a77f76589bdb6b7eab89c030f554f78eaa"
+    },
+    {
+      "source": "Léon Gautier",
+      "relation": "SPOKE_ABOUT",
+      "target": "amour de la France",
+      "evidence": "Léon Gautier était là, avec son sourire de jeune homme et son humilité non feinte. Il n'avait fait que son devoir et au fond, l'amour de la France était pour lui une évidence.",
+      "confidence": 1.0,
+      "source_id": "Person_f0cd1a058cc8a9c1c9bebc25739078b65b230b3a21d0054bb24a963feb91accd",
+      "target_id": "Theme_e9bb752027ac7feaa879a8bdb4195f1d8dc408b0c947c74a4a4f421b9ad0355a"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Vive la République ! Vive la France !",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

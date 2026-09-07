@@ -1,0 +1,130 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Donald Trump",
+      "id": "Person_0733a79f3150052cccafd940cdbbd3c8e236062bb642b00d56f0ff8484ba3762"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Organization",
+      "name": "Communauté politique européenne",
+      "id": "Organization_8a93842f693c1a3a5724e43329bd7d4583ba6c51064f8c7015cbafc24a94d4f2"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition des volontaires",
+      "id": "Organization_be8486f9bba8dc1fc697606320fe234154a7b494b8fa4602ca7bd091c7e5b389"
+    },
+    {
+      "type": "Organization",
+      "name": "Ukraine",
+      "id": "Organization_21d6f44cfd20eb0daee12bd2237e5a99e3ca7d2677c7597be574c2d9de7b165f"
+    },
+    {
+      "type": "Organization",
+      "name": "mission pour la libération d'Ormuz",
+      "id": "Organization_cf0436b791deb03adf4614353f012b86c6a419a00ac2616d45890ab08a8e4c56"
+    },
+    {
+      "type": "City",
+      "name": "Erevan",
+      "id": "City_671ce272f52a28ce7fcb124854468e8c896de6c79cf945c9f8f979a458d8d0e2"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Arménie",
+      "id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace"
+    },
+    {
+      "type": "Country",
+      "name": "Moldavie",
+      "id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "City",
+      "name": "Bucarest",
+      "id": "City_a4add7413cdba306715cb8d7cf729fb1c2e843ed93a2071c9790e03073280ca1"
+    },
+    {
+      "type": "Person",
+      "name": "Trump",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Person",
+      "name": "Pezechkian",
+      "id": "Person_2a8ce8cda87930baf2e5e3b151b927a43aa3b21bbd6567356c173e491e65bfdc"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Londres",
+      "id": "Country_b2d43d56b31fc4dd95d9c3250ed4d3dca08b02b147bcab2388f5d29afeaf8f28"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "C'est, je crois, le bon cadre, parce que les défis de sécurité européens sont au-delà des frontières de l'Union européenne, et cette Europe large est pertinente à ce titre.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    }
+  ]
+}

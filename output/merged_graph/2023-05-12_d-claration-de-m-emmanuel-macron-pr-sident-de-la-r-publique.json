@@ -1,0 +1,702 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil régional",
+      "id": "Person_573578ce8dcc0cbd0d0df64d3b962407bd6d8cd3892f9ff551d383aabd8949b4"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil départemental",
+      "id": "Person_ed23b450f0ef4975a677c78549b852e0bd6220615dfe342c23dd98aaf4590810"
+    },
+    {
+      "type": "Organization",
+      "name": "AstraZeneca",
+      "id": "Organization_303d8f684b5d5cee5db0d13e163a0fb15cdb834f6e9c140a2a48928580e6e9c4"
+    },
+    {
+      "type": "City",
+      "name": "Dunkerque",
+      "id": "City_bda376ce18a11cdf6e31dcf1317332d2be264fba8faae021745f7e792736d7b0"
+    },
+    {
+      "type": "City",
+      "name": "Versailles",
+      "id": "City_005c3dd556787a48d85e917c1629f8b41dea2f726d89283e42c5cd7448b7c82a"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialisation",
+      "id": "Theme_ac8bdfb33c3783eee726437d1158d9c6c216120e43edc6178969ee44f5098ca1"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialisation verte",
+      "id": "Theme_0983a8611305332e6d683a659dd2c2149cbbd679dae526f9e44069ad1182c326"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "changement de pratiques",
+      "id": "Theme_e8f9ed8e123e94785a6ec5b516167ac53709e555f9a8f0db0295b3801eecffa1"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Organization",
+      "name": "ASCO",
+      "id": "Organization_bc82c25885e3eabb72206a65aa2f5b458594c2473b1580a3d6e88d35bf3c2155"
+    },
+    {
+      "type": "Organization",
+      "name": "ArcelorMittal",
+      "id": "Organization_0df82bf232e4a43ad564bf667f976c804cc4b84f0842e306f007205c775b616e"
+    },
+    {
+      "type": "Organization",
+      "name": "Astra Zeneca",
+      "id": "Organization_e204d771ec7488f53ae903f89d0339605bfd031a3fd6ee7ef9f889f1bb77dfc7"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue social",
+      "id": "Theme_ee894356fb7b18c232f5f8942280aa5130fa4a4bf5c6ae081e42c62ae85a0fce"
+    },
+    {
+      "type": "City",
+      "name": "Gravelines",
+      "id": "City_787e2ca48b9c4b40e0f48ac35ee499295752b0daff01adb853685002e42af998"
+    },
+    {
+      "type": "City",
+      "name": "Douai",
+      "id": "City_2176b1027a81ce0e83b327539bfb966788da3fa0edc511bb7a7f945b4818c88e"
+    },
+    {
+      "type": "City",
+      "name": "Pas-de-Calais",
+      "id": "City_a424aa6f40eafc5ef97fae007de0e0ca990e0e33f5f20d2059fd37c3e448461b"
+    },
+    {
+      "type": "City",
+      "name": "Nord-Pas-de-Calais",
+      "id": "City_2107d6f1bdb02374d37690e7171f8d5e419c203d54fb30a385886658c460259e"
+    },
+    {
+      "type": "Organization",
+      "name": "Toyota",
+      "id": "Organization_c35a2ab4f50d5dbb6b1e6e448ca217f982248d34bde256e4d22c56816711a732"
+    },
+    {
+      "type": "Organization",
+      "name": "Renault",
+      "id": "Organization_9425ee5717dc5cb68560b01d592d6c911f497a77aaa3fe555c812e8d1a308423"
+    },
+    {
+      "type": "Organization",
+      "name": "Stellantis",
+      "id": "Organization_abcf2d033065c32d3dddd0571bfd6581ef9caafea4e52943be3d17707b8bf936"
+    },
+    {
+      "type": "Organization",
+      "name": "Envision",
+      "id": "Organization_0074d85877383964057634fd71b23d989ef0ce162fa5c39eb093ad36ec50c3ce"
+    },
+    {
+      "type": "Organization",
+      "name": "Verkor",
+      "id": "Organization_f97a1a07d2a6fcb78192e96d093cff679427f0c38c327161cf4ce927176006af"
+    },
+    {
+      "type": "Organization",
+      "name": "ACC",
+      "id": "Organization_933aa2e42008bd65689f0f830c737a619468a796030e9ca80e0227961a2b85ec"
+    },
+    {
+      "type": "City",
+      "name": "Occitanie",
+      "id": "City_17a2af0f6c38be8abbddb0796f2a991d391fb548e66afb83d7b9c52c16bd3ca6"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivité",
+      "id": "Organization_c82d16f00723104d72c54623bc5ec0cf15e68b3e41e041b2432fe097f0fba09b"
+    },
+    {
+      "type": "Organization",
+      "name": "collectif",
+      "id": "Organization_34346756ee5e98861a9316e67ab7ccad599b071b3be85091211e7cd30c4fffcc"
+    },
+    {
+      "type": "Organization",
+      "name": "métiers",
+      "id": "Organization_d4fef73e020e12b691d3d82cad900b8f5b1d6bf8c58dfbcf09e027f651e51b9e"
+    },
+    {
+      "type": "Organization",
+      "name": "forces vives",
+      "id": "Organization_1d037c1527ce78e2e3b45d694341a74574e8e3d2037c4fe88b27b48faa109c81"
+    },
+    {
+      "type": "Organization",
+      "name": "forces économiques",
+      "id": "Organization_ca7ca0034ce175663812cb8fae8f6f364132fe1d2454da3e37000a53aecf32b4"
+    },
+    {
+      "type": "Organization",
+      "name": "bassin d'emploi",
+      "id": "Organization_520804ec4ce50c76f29db4111738c667d9dd8bc2664dbc67b4e2e897bb1e55bd"
+    },
+    {
+      "type": "Organization",
+      "name": "région",
+      "id": "Organization_63f7a47a75715c9c27edcabe3ee93e2bac09d0c6b542f047f7c253738775aafd"
+    },
+    {
+      "type": "Organization",
+      "name": "élus",
+      "id": "Organization_2a8112b51d960018957700054cee7823bd277e9fa862e3ed8cf1b64ea1800278"
+    },
+    {
+      "type": "Organization",
+      "name": "communauté urbaine",
+      "id": "Organization_9ab9ae98eb35e539249610054092e1ad2d9001d05e7b2819638f28032576e5c3"
+    },
+    {
+      "type": "Organization",
+      "name": "maires",
+      "id": "Organization_ea6b584f7ce729a85d3213d7a011e36ae2f7e4f96f2285c14f661d35334b885b"
+    },
+    {
+      "type": "Organization",
+      "name": "parlementaires",
+      "id": "Organization_8d02dfce3c6b4d35c37b6f7ad739c679637b5003f36fa3f227f16938c864d657"
+    },
+    {
+      "type": "Organization",
+      "name": "département",
+      "id": "Organization_65342a3058a1ad25a78cffc0983aa3df5a8430ca321be6260c6764f73d048f10"
+    },
+    {
+      "type": "Person",
+      "name": "Patrice",
+      "id": "Person_fc4b9fea741ceb19505b2b2db2cd0f72ef31c9055860b06c25d0aee71a4a16fd"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "droit du travail",
+      "id": "Theme_3e6f6ba2d1e13d1b978b7a38d281243d03e1a75275e705359bab62c4061bb76c"
+    },
+    {
+      "type": "Theme",
+      "name": "cotisations",
+      "id": "Theme_ff5b8d9124306b192eeaba7c2e01335b20f24443db3a88f4b1b07c97a043b2e1"
+    },
+    {
+      "type": "Theme",
+      "name": "impôts des salariés",
+      "id": "Theme_2bdf7331276306a7bee6560cf91948c5484f74cab06858c166eb194e45b8bbfd"
+    },
+    {
+      "type": "Theme",
+      "name": "IR",
+      "id": "Theme_ac772e345dcfc8bb0a8bb15f46f3de78dc9c83a9c99c1fb45ba8bebe7109cbcc"
+    },
+    {
+      "type": "Theme",
+      "name": "flat tax",
+      "id": "Theme_22efb8a026059e6a8c3802473cb1e8fe99f5bd20c1ba288c00fdc18cd131a795"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement des compétences",
+      "id": "Theme_054dd0989bc51d605e6ee45467893958ffe6ad900bde75bb9e561b27b7af6c55"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme des retraites",
+      "id": "Theme_ae6f140a2bf4540ac22483b55136d236eb6e86bd69dacfe0d5bbca80f072d941"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "City",
+      "name": "France",
+      "id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois industriels",
+      "id": "Theme_560b9eaf9a55845d873a23b23f8e9d04b1dacdad027f1dfcab2f455adcab461a"
+    },
+    {
+      "type": "Theme",
+      "name": "pharma",
+      "id": "Theme_b6a25d59bc776ae74a952b790f30ec75e72b1c5bfdfaea744e7c59196126664f"
+    },
+    {
+      "type": "Theme",
+      "name": "électrification des pratiques",
+      "id": "Theme_6ebb32b1f2d37699d18297f5864c8062787784d57a2afcf06ab0b05b5a6ef610"
+    },
+    {
+      "type": "Theme",
+      "name": "startups",
+      "id": "Theme_b3fedf1927a7ff9f9b930ba12d4dcb168cbce6318c5601c66dc5821cf26b6a3d"
+    },
+    {
+      "type": "Theme",
+      "name": "grands groupes internationaux",
+      "id": "Theme_2217eb69a91903997c6d0b1d8d6480ddec44ee656110ac440133343907cb166a"
+    },
+    {
+      "type": "Theme",
+      "name": "Choose France",
+      "id": "Theme_6488756015550f0534218b18ddba392f1f16df917376ff2a1a5c289207cf924e"
+    },
+    {
+      "type": "Theme",
+      "name": "industrielle",
+      "id": "Theme_e698cba2afc53a99afb37c632a479ddd19fbe25308b4d47210b68af0fa3d2650"
+    },
+    {
+      "type": "City",
+      "name": "Grenoble",
+      "id": "City_fa629d484a8f9aa39ff5e4109dbd2c0dfebcc0de6a03a19ba5127cdeac55b4c2"
+    },
+    {
+      "type": "City",
+      "name": "Valenciennes",
+      "id": "City_4241fea6cb169f7bb947c0279cc4e69f5b8876c4f37bf3fa44c7d225be7ef6e0"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "travail collectif",
+      "id": "Theme_b25186602874c8c97618c3a5cebeb435c5e8cf3c504d810868bc2b3848750c95"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité à donner ce visage, cette image",
+      "id": "Theme_0d343cfbbea880afcc9a666515f7e2efc5008d3fd086d5c74c9508bfff303ac2"
+    },
+    {
+      "type": "Theme",
+      "name": "résultats",
+      "id": "Theme_52c04f17f67dd39c37208223246d2b167ee7df2590aca77966c5b534cdcac05a"
+    },
+    {
+      "type": "Theme",
+      "name": "attirer d'autres investisseurs",
+      "id": "Theme_2da659d454ced27306ea3a98d40b566f5760d6f4e6448cbc12094473fa8a5de1"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur YANG",
+      "id": "Person_514f2e45041b1117c762c41f233f0a3dc3979ff553bf4b66c51faf25b5e09069"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur NORMAND",
+      "id": "Person_e87d29da627c00bd1c9b571304f053b242a282b07bd18306ad8d9bb7255e6e13"
+    },
+    {
+      "type": "Organization",
+      "name": "ProLogium",
+      "id": "Organization_a36c4e52e183e3f4fa7fc5cae15c0b821a7be77d9b2c429c812190bca0a9d517"
+    },
+    {
+      "type": "Organization",
+      "name": "Mercedes",
+      "id": "Organization_e9baf8d27daf3f569351e96e6b899eec6966b82ac939b04c85424ad1dcccca1d"
+    },
+    {
+      "type": "Country",
+      "name": "Taïwan",
+      "id": "Country_3b8a60e8382f60485dbc01f936404745c4033a58c5a8ed74b502dde3313ae288"
+    },
+    {
+      "type": "Organization",
+      "name": "XTC",
+      "id": "Organization_5045147c09981611634d44ad700015085f5fdfa0ed90c95d852c71b2f5146ac5"
+    },
+    {
+      "type": "Organization",
+      "name": "Orano",
+      "id": "Organization_f5a3fa2c0010f02169680a6abf8b941daf4cb023e88c8ac599071f37b032aaa3"
+    },
+    {
+      "type": "Organization",
+      "name": "Canton",
+      "id": "Organization_ebd458f679b5078ee0dd8018b94176da7d15b605b0f2962e44ce3a0339c124c8"
+    },
+    {
+      "type": "Theme",
+      "name": "compétences et la formation",
+      "id": "Theme_868a34cc52941a6d9ae3385bf93a4160b529dc57ffc27ecf014c90a9a3a0d914"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "plein emploi",
+      "id": "Theme_2a448e8543fa37515f8306b37c9e0bce2b2c535e0733a499a4bec870b1e709ef"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunes",
+      "id": "Theme_a20dcaf37efe496f33d1e4c4be9f3c3dabe56fc83fe45c815f1d76fdaaef0dcf"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers industriels",
+      "id": "Theme_3a74ca19a567a59f3768142f938f74db6317773e20ff6f921c9896e052dad44a"
+    },
+    {
+      "type": "Theme",
+      "name": "orientation",
+      "id": "Theme_74039395f94b06baaf3782d15df5ce6738621f26f63d04c0fc5af90d91a6c498"
+    },
+    {
+      "type": "Theme",
+      "name": "journée avenir orientation",
+      "id": "Theme_279f992154f60c40e20ca278430f83dfc88bbff7377f461fd736aa416a134f44"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers d'avenir de l'industrie",
+      "id": "Theme_168cfd5b23c65d2d4fc674dc8a4bc3822bb5b8925c09f58a89f4903bccedc6fe"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme du lycée professionnel",
+      "id": "Theme_bf476ad844c85766fe64d6dfbf755d2fc8b5385142fda741d50c2d695c6eaaf5"
+    },
+    {
+      "type": "Theme",
+      "name": "décrochage",
+      "id": "Theme_a1c5576ffec335036f8b88290140734cf1b5cee417ebe748810671da2f4c7273"
+    },
+    {
+      "type": "Theme",
+      "name": "insertion",
+      "id": "Theme_43996ed10959d44aac01181720ec1c558d63dde9efe86c0a5c5fe1113ac06286"
+    },
+    {
+      "type": "Theme",
+      "name": "reconversion tout au long de la vie",
+      "id": "Theme_450683a028ce790c58fe14714b080f86be7d2f735b1ee705c5f6688f88878184"
+    },
+    {
+      "type": "Theme",
+      "name": "France Travail",
+      "id": "Theme_774a28321ad715b0c70f4f915be60bbad0fe4edf55ea82cfd8f910fc26dbaaf9"
+    },
+    {
+      "type": "Theme",
+      "name": "RSA",
+      "id": "Theme_99c124060d91e2bbea881c4262b62dea5fa96b23b27cea0e8c0255dd9e318d15"
+    },
+    {
+      "type": "Theme",
+      "name": "chômeurs de longue durée",
+      "id": "Theme_57469857a2b109b89b1137fc0969e81b8227b98e94411af767af6ad3f2acdcc7"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie verte",
+      "id": "Theme_367aafd3f69f8a17e4ca6810a040266a5b8ccab4374edc31ebf5ab376af94754"
+    },
+    {
+      "type": "Law",
+      "name": "Projet de texte législatif",
+      "id": "Law_2e847bb2854c36b700724880a0f41be36159cc99eb5e0d16c8223e108809fba9"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "procédures",
+      "id": "Theme_eadb30aff3ccccd0da665303dde6fb7bab63f35b109b026e43e778fa66178d98"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "État",
+      "id": "Theme_c451812b709f5d8690c76df683e36155876c418f88e2cd52acc1ca612abf0b32"
+    },
+    {
+      "type": "Theme",
+      "name": "collectivités",
+      "id": "Theme_23b81dde93d211da289bcdf779538afa08c905afe27946832ef6c44579f49f55"
+    },
+    {
+      "type": "Theme",
+      "name": "ministères",
+      "id": "Theme_13431cbbc9ff7554de5f35cc27f5d487345b1dfe066c268b0d7f4ae81c45e556"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialiser le pays",
+      "id": "Theme_79493e74eccf243de072a57aaa1349f98eaba1e8e8d4639751017cbdd2339f8e"
+    },
+    {
+      "type": "Theme",
+      "name": "révitalisation",
+      "id": "Theme_65cff255d7d87389606692ac8bdaf97e307837bf0bc7153f3fd58ab4b871c08e"
+    },
+    {
+      "type": "Theme",
+      "name": "reviabilisation de nos friches industrielles",
+      "id": "Theme_e05109fcec72504eeed9c5486cff09b7a9a342891d8990f3444c930ef1e54104"
+    },
+    {
+      "type": "Theme",
+      "name": "friches",
+      "id": "Theme_aa87ea3f83a02644a55aea65b739cb3edda8ee17aa14f6b780e1a7a891f4825d"
+    },
+    {
+      "type": "Theme",
+      "name": "France 2030",
+      "id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d"
+    },
+    {
+      "type": "Law",
+      "name": "Projet de loi",
+      "id": "Law_3c6308d41a4aa0d9948ad60b46254d755112c1aaebbb9f19c6159a5e7497200c"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "préservation du climat",
+      "id": "Theme_219a93b9b19d2b2f2bff71da71b1dfc064234a2c2d2f039caa5907964e9510d3"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "Green Deal",
+      "id": "Theme_e63970253e1709ac9067909729fb066b9736d3946c29fabb3145ed8a1899d19a"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialiser",
+      "id": "Theme_950504beb4a0299f0249ef3cc77dd296f4a86890c62b1f5e15ebc8af4c6c9984"
+    },
+    {
+      "type": "Theme",
+      "name": "fierté",
+      "id": "Theme_7eff11c9eca34cecf2a19a02da7d290b3f85a6dd0840cac5b971ec01a30659d3"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Dunkerque",
+      "relation": "SPOKE_ABOUT",
+      "target": "dialogue social",
+      "evidence": "Je remercie les représentants syndicaux présents pour la qualité du dialogue social qui fait aussi que la place de Dunkerque est restée extraordinairement attractive",
+      "confidence": 1.0,
+      "source_id": "City_bda376ce18a11cdf6e31dcf1317332d2be264fba8faae021745f7e792736d7b0",
+      "target_id": "Theme_ee894356fb7b18c232f5f8942280aa5130fa4a4bf5c6ae081e42c62ae85a0fce"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Europe",
+      "evidence": "ça fait quatre ans que la France est le pays le plus attractif d'Europe.",
+      "confidence": 1.0,
+      "source_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "149 sur la France entière",
+      "confidence": 1.0,
+      "source_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4",
+      "target_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "électrification des pratiques",
+      "evidence": "Et puis maintenant, France 2030 pour se projeter sur les nouveaux métiers qui vont de la pharma à l'électrification des pratiques etc.",
+      "confidence": 1.0,
+      "source_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4",
+      "target_id": "Theme_6ebb32b1f2d37699d18297f5864c8062787784d57a2afcf06ab0b05b5a6ef610"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Choose France",
+      "evidence": "Choose France, c'est la sixième édition, on va passer les 10 milliards d'investissements lundi.",
+      "confidence": 1.0,
+      "source_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4",
+      "target_id": "Theme_6488756015550f0534218b18ddba392f1f16df917376ff2a1a5c289207cf924e"
+    },
+    {
+      "source": "ProLogium",
+      "relation": "LOCATED_IN",
+      "target": "Taïwan",
+      "evidence": "ProLogium est un très grand groupe asiatique avec des investisseurs de toute la région, basé à Taïwan",
+      "confidence": 1.0,
+      "source_id": "Organization_a36c4e52e183e3f4fa7fc5cae15c0b821a7be77d9b2c429c812190bca0a9d517",
+      "target_id": "Country_3b8a60e8382f60485dbc01f936404745c4033a58c5a8ed74b502dde3313ae288"
+    },
+    {
+      "source": "ProLogium",
+      "relation": "VISITED",
+      "target": "Dunkerque",
+      "evidence": "ProLogium annonce 5 milliards 200 millions d’euros d’investissements sur Dunkerque",
+      "confidence": 1.0,
+      "source_id": "Organization_a36c4e52e183e3f4fa7fc5cae15c0b821a7be77d9b2c429c812190bca0a9d517",
+      "target_id": "City_bda376ce18a11cdf6e31dcf1317332d2be264fba8faae021745f7e792736d7b0"
+    },
+    {
+      "source": "gouvernement",
+      "relation": "PROPOSED",
+      "target": "Projet de texte législatif",
+      "evidence": "Projet de texte législatif déposé au Parlement à l'initiative du gouvernement",
+      "confidence": 1.0,
+      "source_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f",
+      "target_id": "Law_2e847bb2854c36b700724880a0f41be36159cc99eb5e0d16c8223e108809fba9"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "on va aussi essayer de rendre l’Europe et la France un peu plus cohérentes",
+      "confidence": 1.0,
+      "source_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    }
+  ]
+}

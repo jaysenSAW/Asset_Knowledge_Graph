@@ -1,0 +1,118 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Indopacifique",
+      "id": "Country_883a51b2d7b4646e3c1c2a34abd8216d922245d1c9e7b8f079154f53f044fc84"
+    },
+    {
+      "type": "Country",
+      "name": "Nouvelle Calédonie",
+      "id": "Country_44e7ff703e752294826e4d9d189a1631c38419f050d5f42ec81314b92d3b42f1"
+    },
+    {
+      "type": "Country",
+      "name": "Polynésie française",
+      "id": "Country_719de631a141599b2bd3d9af8c7838fd04343c09b8a132e81ccc73be25304c71"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation Hanoï",
+      "id": "Organization_c0e7d767fe34ead54e8759b586e97e2cb54898587b76fbcd6b2c0bf35276c0fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Centre Pompidou",
+      "id": "Organization_368c9f0a561f1b9776f167fbb7739e7e80c4ae84c02c5720aa8f38885674fecc"
+    },
+    {
+      "type": "Country",
+      "name": "Corée",
+      "id": "Country_8784379f3643bada41cd3ba24c8f27b8c4cf0ce606280f5024e4321bafbe0fdb"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique et énergétique",
+      "id": "Theme_1f33daa4120792c7169ce058cc977d8c6d6394250a7d1a712d1ae4681b0d8676"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialisation",
+      "id": "Theme_ac8bdfb33c3783eee726437d1158d9c6c216120e43edc6178969ee44f5098ca1"
+    },
+    {
+      "type": "Country",
+      "name": "Corée du Nord",
+      "id": "Country_d403bea44d70f65c1c477a18701e0bf7d2b84fd75e947a1213736b8cdf536760"
+    },
+    {
+      "type": "Country",
+      "name": "Nations unies",
+      "id": "Country_de27ef02ae2f885df42f17298e258623101c6c37feb12bb5fe5c02d0f56327a3"
+    },
+    {
+      "type": "City",
+      "name": "continent européen",
+      "id": "City_ecc393d1356bc04b25f5b15c4402d5227874b11f72f425db638eef3d6bc137c1"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Alors que la France accueillera à la fin de cette semaine un Sommet pour un nouveau pacte financier mondial",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "réindustrialisation",
+      "evidence": "J'aurai l'occasion de rencontrer d'ailleurs demain les grands groupes de votre délégation pour présenter les efforts menés en vue de la réindustrialisation de la France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_ac8bdfb33c3783eee726437d1158d9c6c216120e43edc6178969ee44f5098ca1"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "Pour votre première visite en France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

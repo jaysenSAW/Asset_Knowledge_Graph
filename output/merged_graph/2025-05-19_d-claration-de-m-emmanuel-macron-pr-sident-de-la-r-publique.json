@@ -1,0 +1,364 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Trump",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Person",
+      "name": "Poutine",
+      "id": "Person_cd18bc7f49bb7d64b17bcbd894d6a8752a9076a00deeefdb299e52309a31d8e5"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "réglementations",
+      "id": "Theme_2f3e764aaa8eaf73a50fb0171d6f21c11657b38601f9e9c146b38e8aa0e3507b"
+    },
+    {
+      "type": "Theme",
+      "name": "data-centers",
+      "id": "Theme_f41fc5a86424ebae20b9aff1112b0eea777e158e9a93abf10037c02f503f0e4b"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction de CO2",
+      "id": "Theme_1c1276d8a4224c419d9170bc127971aca37a6c1030d394439ea46f7275fc32db"
+    },
+    {
+      "type": "Theme",
+      "name": "incitations",
+      "id": "Theme_98ca6a1305f9344ddd496bf5b84f60836ad83122c8039567f59903cdb425530c"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements publics",
+      "id": "Theme_9168420a24cb153c00dfcff00245e86beac1002ff9352e07afc2daca1e018a12"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Theme",
+      "name": "travaux collectifs",
+      "id": "Theme_876f9240be5c25f6b6a2357da6fdaf22c2e14d56edc628c31453078c6b481f41"
+    },
+    {
+      "type": "Theme",
+      "name": "coût du capital",
+      "id": "Theme_01ab3985851c9cb20d2c50cd08cd50c188bcd8c7149b5ad9999537a9d9048331"
+    },
+    {
+      "type": "Theme",
+      "name": "coût du travail",
+      "id": "Theme_22e28f674378a26d81a95fbe698e2737cb7d69efcdcac0c360d5995ac5c6e2f1"
+    },
+    {
+      "type": "Theme",
+      "name": "flexibilité",
+      "id": "Theme_5dae2131ef8c442bc5656fb452c4aac3c042d864162af323c1d8c77b0af1bc0c"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes macroéconomiques",
+      "id": "Theme_a2ad508491df41e12cf0ad373b6778f64fda287b2aeec36e2d7d41c142788371"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "visibilité en matière fiscale",
+      "id": "Theme_0ba8850d6309a1b9695f7393e4c62a1b69917adf391b1b2b5016d22f8f5b63b9"
+    },
+    {
+      "type": "Person",
+      "name": "Teddy Riner",
+      "id": "Person_3cdc55878d52a61c61c4d59a9a75fe118d5277c4139e2804ebbf882a7ca25988"
+    },
+    {
+      "type": "Person",
+      "name": "Pascal Cagni",
+      "id": "Person_21c225da3582a42aec83d668742093ef01a1fa203a23ddaa220af71c631c8e61"
+    },
+    {
+      "type": "Organization",
+      "name": "BCE",
+      "id": "Organization_f59efc0dc967fb07f69cb3a726ce5f4246d4ab9d9c887dd7d833b97b2952ba9f"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence ardue",
+      "id": "Theme_a4f09a69d5d7be90584ba2fc0040c0920498f0ec3640705ddb63a8ff1ee5f8c3"
+    },
+    {
+      "type": "Theme",
+      "name": "règles du jeu équitables",
+      "id": "Theme_6d4baa496cb96a3a56988d03aa0ae1b51479288fd5a048c53494a435a8bc4e27"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Theme",
+      "name": "surcapacité",
+      "id": "Theme_64c54afadaffab5d87d450ce3d4120dcab39c5030131a645d9eecf4201a6960f"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "Augmentation générale et durable des prix",
+      "id": "Theme_5eb116de1d5e16531ecfc3d1ce72deda9884f4175ae830ddb36e0359ccec5368"
+    },
+    {
+      "type": "Organization",
+      "name": "IRA",
+      "id": "Organization_da3808dbef462fc86e2132ace7e4efdc5c2227045d0d6129011ddd36316c1810"
+    },
+    {
+      "type": "Theme",
+      "name": "incertitudes",
+      "id": "Theme_7345d6e44c9c9f1774bd13310b21c15bb20ded8b012968b0492ee6c2222dd911"
+    },
+    {
+      "type": "Theme",
+      "name": "équité",
+      "id": "Theme_28391c28c6a49398e573138b23af11aa006467af4435d0dd33e93d38e865a874"
+    },
+    {
+      "type": "Theme",
+      "name": "iniquité",
+      "id": "Theme_9a195590022f9b662bd96cc5a60ec18a4960d56e9abb7e53c207cecaebff5e18"
+    },
+    {
+      "type": "Theme",
+      "name": "règles du jeu",
+      "id": "Theme_dbce666596179b432157f61130a41267efce36f84c6264e01badd0a3e5d4a16a"
+    },
+    {
+      "type": "Theme",
+      "name": "rapports Draghi et Letta",
+      "id": "Theme_6a04a95de5cfa80ea7bb667fdad3152f12ce6ee7f6f5fab61b16af3b7d0c875c"
+    },
+    {
+      "type": "Theme",
+      "name": "Commission",
+      "id": "Theme_e4bb76527cb4b84cf5c66fb974e5b77ebe6ad7042b2ac64ef86a8cc42dfe2ca3"
+    },
+    {
+      "type": "Theme",
+      "name": "CS3D",
+      "id": "Theme_a936c7a87e6245cd9370a9d2b1da480efcb6181036b82fd6ca0e5ac6f9f6cbf5"
+    },
+    {
+      "type": "Theme",
+      "name": "CSRD",
+      "id": "Theme_57e61c34bf0c39ee4265ebe22f5f8904fdf55c09c03ecda9f65fad7aca36faa1"
+    },
+    {
+      "type": "Theme",
+      "name": "business plans",
+      "id": "Theme_4da32b3ae87496ba79deaae27e6b4eddbff696e46f8650818cba964cafff820e"
+    },
+    {
+      "type": "Theme",
+      "name": "marché unique",
+      "id": "Theme_20dd50ae164d3f152ef77948cb732b929faf16e2e579353a7a6ed58d27740261"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur numérique",
+      "id": "Theme_1f482b7b9d050f0a63fbbf4fd7c714c5673b3a2c2c059ba6f73b664bbc8bffa1"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "acier",
+      "id": "Theme_7bdbbd7fdaf595d0ae146f72166d8846294fd1db96aaf5caf8e88d5e5e53390c"
+    },
+    {
+      "type": "Theme",
+      "name": "télécoms",
+      "id": "Theme_7beb8dee6b9a27fcb58116ed38a8f8246a893da4660a9065a3655ca60d012b6b"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "finance",
+      "id": "Theme_f723c16c63b30940cbcaa18ce802825b3fb3e76ed4e6cfab624beddf6be9deea"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "épargne",
+      "id": "Theme_fb2f7ea28a7405e970bdb4f8a4912a8b153450e624a4bc34105e6bc4593a9bb8"
+    },
+    {
+      "type": "Theme",
+      "name": "capital",
+      "id": "Theme_c21cdec283ea12782e3852aac3138d980a4f7bd7585df07e52e31cf2980da860"
+    },
+    {
+      "type": "Theme",
+      "name": "réglementations Bâle",
+      "id": "Theme_57a07d0fe33f01528390401c38a0c9d4068bee94e789347a478e0eb2e03c8231"
+    },
+    {
+      "type": "Theme",
+      "name": "crise financière",
+      "id": "Theme_da6935f8fabfc5c3dc5d8c5bc4fcd3a0098663f8e9d84beabb6e8d608760f142"
+    },
+    {
+      "type": "Theme",
+      "name": "IA",
+      "id": "Theme_0f7b4d278ae5bfefffb82e77e70a25c278d1ebb45250f850a04518b8bb8d4702"
+    },
+    {
+      "type": "Theme",
+      "name": "tech verte",
+      "id": "Theme_deeceeba22d7a0a049ac49a8ff8eab3a1a3a73616d9c5bab3815ecae8e698c9c"
+    },
+    {
+      "type": "Theme",
+      "name": "protection",
+      "id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie de l'acier",
+      "id": "Theme_272d1f7635049b01b9bb6fe61bb2be3ccc4fa9b5525565d9a23dd6e338e2aca4"
+    },
+    {
+      "type": "Theme",
+      "name": "mesures de sauvegarde",
+      "id": "Theme_4e438a985ca7dda0e048da748325bf95a3f4240213d0b0ef5f71fcf0cfa9a6ed"
+    },
+    {
+      "type": "Theme",
+      "name": "clauses de sauvegarde",
+      "id": "Theme_433683fe52d9db5e682d740c0efe1a41b92ea78c4181056df6ecdbc877b32ea0"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanismes d'ajustement aux frontières",
+      "id": "Theme_a1932b9a6b0ff73be370629019a2a1903086c04749f7d3d0163d504b5951dc9b"
+    },
+    {
+      "type": "Theme",
+      "name": "industrielle",
+      "id": "Theme_e698cba2afc53a99afb37c632a479ddd19fbe25308b4d47210b68af0fa3d2650"
+    },
+    {
+      "type": "Theme",
+      "name": "véhicules électriques",
+      "id": "Theme_597ebf0f0545ed57ae5e62552be322b744bf08dcf937fbc03f464ca89c539c24"
+    },
+    {
+      "type": "Theme",
+      "name": "règles du NAFTA",
+      "id": "Theme_87b71edee8f0e09b42ba9b86df6c509c4f349fc70468cbdc43b31a8ed10a7c4d"
+    },
+    {
+      "type": "Theme",
+      "name": "AELE",
+      "id": "Theme_d047d6270beca5166ec718302b24e2e9f167e44190add7fb8c9b5464f87abb51"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "simplification",
+      "relation": "MENTIONS",
+      "target": "réglementations",
+      "evidence": "Simplification, car il nous faut rationaliser de très nombreuses réglementations",
+      "confidence": 1.0,
+      "source_id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c",
+      "target_id": "Theme_2f3e764aaa8eaf73a50fb0171d6f21c11657b38601f9e9c146b38e8aa0e3507b"
+    },
+    {
+      "source": "simplification",
+      "relation": "MENTIONS",
+      "target": "réduction de CO2",
+      "evidence": "et tout en multipliant par 4 la réduction de CO2 grâce à la simplification",
+      "confidence": 1.0,
+      "source_id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c",
+      "target_id": "Theme_1c1276d8a4224c419d9170bc127971aca37a6c1030d394439ea46f7275fc32db"
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les ministres",
+      "id": "Person_04725bf2245672793e76174d8746ec28f46c281ef73283bf9390941f137cf2cf"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les parlementaires",
+      "id": "Person_513d1485982528e0834eb4f4c38b73da53f9e4817cd30f728fe27e32d9fc11d3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le chef d'état-major des armées",
+      "id": "Person_1f83a1b709c29b766edb6b98978d332e04de52962a1652e0a4e20e351b1b05e0"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le directeur général de la police nationale",
+      "id": "Person_d85817cfe4ffa98f9b83edfee74a895aefd16d87e02e703b278a3c601f791fa4"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les élus",
+      "id": "Person_271cb721002ea7abe3b15bcad709df18a3cf4248d0db3ac918f9fa8e5753ec04"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les présidents de régions",
+      "id": "Person_27ef7edfa52ad5da6c55a433db3ba271d0495a77ac85097ebd342e1eaacf1bf8"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les présidents et présidentes de fédérations sportives",
+      "id": "Person_3673054a81880ded3f1ae607b611b362d3bdf56c9cff7890f6066d6f6f97ae41"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les athlètes, acteurs du monde sportif",
+      "id": "Person_2c6480faedee2bb4782e7015f3d37195b636da8e994ae0677eaabc92f3983b48"
+    },
+    {
+      "type": "Person",
+      "name": "chers amis",
+      "id": "Person_ea6752ea13b7e38cb244013342b4e04afa9dd5dcbf74d7e84b37acdece219eb9"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur",
+      "id": "Person_1c55637a795e44a49500de59fb7764b00e54f0669914cdab580ba99905636ab0"
+    },
+    {
+      "type": "Person",
+      "name": "mon épouse",
+      "id": "Person_65551c424854d82f2d90f70ebf9ddb439d847aa1d2694e27951e7010e4cc995c"
+    },
+    {
+      "type": "City",
+      "name": "l'Élysée",
+      "id": "City_3eae2ad22a9341b8bf38bfebad3b2e5c05027e88193e4abae8bd3981a710e7e8"
+    },
+    {
+      "type": "Organization",
+      "name": "équipe olympique",
+      "id": "Organization_574b391eef52e939a1dd0e4ae1109a72da128b65526bd87a29fb4af72df33b3c"
+    },
+    {
+      "type": "Organization",
+      "name": "équipe paralympique",
+      "id": "Organization_96279054f0ff6ccf6d693b8867150adbf3a50bd5b71e47c9914127cdb6a993d5"
+    },
+    {
+      "type": "Organization",
+      "name": "CNOSF",
+      "id": "Organization_bee70efd29b9685525c242baf5189274861c074e393e2c2ab9fcae609250159b"
+    },
+    {
+      "type": "Organization",
+      "name": "CPSF",
+      "id": "Organization_3bf24b996f3cd41c5c1d9f07fedb2b4c8436592764a3327ec08a6c50fe6bc905"
+    },
+    {
+      "type": "City",
+      "name": "Milano-Cortina",
+      "id": "City_e45c5d13cbada5a7f451631489b52ba999a2110c9333582bc20c23f14fdd7a9a"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Emilien Jacquelin",
+      "id": "Person_487eb14d8f18a829c69183b5233fe43a9099cdea437501708a1d0b87b7538d0b"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux olympiques et paralympiques",
+      "id": "Event_d869c8d614b2e9c4090e4d5a2f9c363060ce721a3b87b806bdde2756023fa2dd"
+    },
+    {
+      "type": "Person",
+      "name": "Quentin Fillon Maillet",
+      "id": "Person_b67e874798f8291b4d06e41dfc6ed1a6887e14a65bed8e50c9e74bff13e32083"
+    },
+    {
+      "type": "Person",
+      "name": "Julia Simon",
+      "id": "Person_80727084e585e519e817b04fe8f2f2c42e2662b9ae77bce3a2c9ef4e6917c406"
+    },
+    {
+      "type": "Person",
+      "name": "Fabien Claude",
+      "id": "Person_3767fcda244f97b899fa03d672e8dce31e4ec012e7cce9eacbf3350534531522"
+    },
+    {
+      "type": "Person",
+      "name": "Éric Perrot",
+      "id": "Person_35613f5b19acfac15d40157fc8f5f6e0e98d2473181ae824a213b059e0561445"
+    },
+    {
+      "type": "Person",
+      "name": "Camille Bened",
+      "id": "Person_0eaa468a96cee4d3a748b5aeb3d326cbaaceef0759166b9d25ef56fbb2e1203e"
+    },
+    {
+      "type": "Person",
+      "name": "Océane Michelon",
+      "id": "Person_42609fcc31e757916ff8de48f0a064004d47d861bb79d979f1b3eb4e5541b8ae"
+    },
+    {
+      "type": "Person",
+      "name": "Lou Jeanmonnot",
+      "id": "Person_502a390ed86baffecf7d8f5b45647552b81a4fdc7c971e4b068f541f4d68db2f"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux",
+      "id": "Event_59d935c0288050345943c5d428c64b40792adaadc34699cea9d7368ab03eb0bb"
+    },
+    {
+      "type": "Person",
+      "name": "Guillaume Cizeron",
+      "id": "Person_2687e4241d364f532d4e054df53d79671330a8823ec1af1ec0a5555bd998d450"
+    },
+    {
+      "type": "Person",
+      "name": "Laurence Fournier Beaudry",
+      "id": "Person_0417eca40460bed2a2ab414d65cdad84a2bdd3a7dcd59f99a9d71011a87a7bb7"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Person",
+      "name": "Emily Harrop",
+      "id": "Person_84541175abd794a27cc1d880da1d8ecc0fe6a3b3ba4547cd33891125853eedbd"
+    },
+    {
+      "type": "Person",
+      "name": "Thibault Anselmet",
+      "id": "Person_4f14ad1d82be22c10da17b74ffe650adcebd3f31c2237e8775f52c225ef42dd9"
+    },
+    {
+      "type": "Person",
+      "name": "Romane Miradoli",
+      "id": "Person_7fd75392d786cf72ace13696a49d1b25154f27bf41f37e994409d01b10c86c7c"
+    },
+    {
+      "type": "Person",
+      "name": "Aurélie Richard",
+      "id": "Person_3be91403509165cf0d3b7d7f115dcd15ec393d932ae82cbce65c1025629c70b5"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Bauchet",
+      "id": "Person_379e86bf09b41eda671e6f53db931bae64831462a30c450301c5c4b9684cb1ea"
+    },
+    {
+      "type": "Person",
+      "name": "Julien Segers",
+      "id": "Person_39a585c7835a2d871e123973ddfe1c588c68d2eb29418cf06c274abeef9def63"
+    },
+    {
+      "type": "City",
+      "name": "Bormio",
+      "id": "City_f38df5a429e8cec89f98c91d752fe4d3aa6bd7c8d022fc92c5b9a94a859f1264"
+    },
+    {
+      "type": "City",
+      "name": "Cortina",
+      "id": "City_520afc997ea0afeb13711de16da1ee8ac2486c1e9a678c3c998bb327c8651b31"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Person",
+      "name": "Victor Lovera",
+      "id": "Person_f3f6a79e6508a6c138b7f13efd267e5ae2be418f2a466a1099d48b46414b2f7a"
+    },
+    {
+      "type": "Person",
+      "name": "Hugo Lapalus",
+      "id": "Person_8c98316a3d59f85f34c6e2eaf38919e6eca2b935f9da96d9d44e54b558933059"
+    },
+    {
+      "type": "Person",
+      "name": "Théo Schely",
+      "id": "Person_06a0caa6bb545c91bb91f90963f71ba3ae23f09d3238b922bc8edc7d70f1aa51"
+    },
+    {
+      "type": "Person",
+      "name": "Mathis Desloges",
+      "id": "Person_b1e83f565ab57af9478b6dfdb81192a86bd0a0c68862c460f5a88ac825a26e24"
+    },
+    {
+      "type": "Person",
+      "name": "Karl Tabouret",
+      "id": "Person_cc7c18319be77b1b3b2d1906c43fc338105dec4bcdbbeb8255aa535e97d88ff9"
+    },
+    {
+      "type": "Person",
+      "name": "Benjamin Daviet",
+      "id": "Person_f9ea6f6fbb7c242ea6f2f0e08697b29e7c09ce53c6df0bdf4313a776836b75fd"
+    },
+    {
+      "type": "Person",
+      "name": "Anthony Chalençon",
+      "id": "Person_8a25475fb2bea49fc73e3b2f545a3a5ed5fcb3cde1f66e0edede39b1511c15ca"
+    },
+    {
+      "type": "Person",
+      "name": "Florian Michelon",
+      "id": "Person_5071181a07d452b256a8c64d4bfeff44ba75b3c3bd57a389cdc7dcf0fcb1c12d"
+    },
+    {
+      "type": "Person",
+      "name": "Perrine Laffont",
+      "id": "Person_04a5aff06ca54e8c7a434cfabb38deabc1dbdb17e6307bf86ad1ebf9a2213fef"
+    },
+    {
+      "type": "Person",
+      "name": "Léa Casta",
+      "id": "Person_a013106ef691798654ec5ae05bc3e0b3a42f7e918dac85c858aad9542bfe3992"
+    },
+    {
+      "type": "Person",
+      "name": "Loan Bozzolo",
+      "id": "Person_ca8e61e45be573d169a34b77db1f2d485fe56bea34997783eb37be982a3c3f21"
+    },
+    {
+      "type": "Person",
+      "name": "Cécile Hernández",
+      "id": "Person_cf23feeac3eb612de02e041468a5dbc82071fc87325aa22589fc450921651fd0"
+    },
+    {
+      "type": "Organization",
+      "name": "nos athlètes",
+      "id": "Organization_788e1b3ce87b195df63c4664780454c941dc8b7c67275783323c55ab3a8a5c11"
+    },
+    {
+      "type": "Organization",
+      "name": "nos jeunes",
+      "id": "Organization_4ce8be9a8cb1f390005a00288fbcfd45fe2e2c79460512a2c6b0195b3308f9c9"
+    },
+    {
+      "type": "Organization",
+      "name": "nos clubs",
+      "id": "Organization_4274d575c0bfaa784f80cf2f60f6987abe3009e51f7cbf9f86cfb88efde771ed"
+    },
+    {
+      "type": "Organization",
+      "name": "nos armées",
+      "id": "Organization_166049284ebdc85e0c7ecc46d864ee94e3f8377d231b7f0123832256924e45b1"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence Nationale du Sport",
+      "id": "Organization_92a537ca87064194b8a7a631ac5e4da23be59de95b3c88d5d9cd59a91e1671ec"
+    },
+    {
+      "type": "Person",
+      "name": "Yann",
+      "id": "Person_87c8c06f230cc8d6aa0d739540c0e71041bf5750504a36ccd60a481d716b8bc6"
+    },
+    {
+      "type": "Organization",
+      "name": "pôle haute performance",
+      "id": "Organization_e559751becc71d779c8ec41625cfcef2b718fd15e6ea27ff80019da90ed0a1b3"
+    },
+    {
+      "type": "Organization",
+      "name": "Ambition Bleue",
+      "id": "Organization_b9f5ca3a8324092c18f32012e9ac6b7ffc40ac63a2b0619c667c9fbd8a68278c"
+    },
+    {
+      "type": "Person",
+      "name": "Michel",
+      "id": "Person_ac9938878c7e5cc0d539c8f51b48c646dc89fa8148a7eea629e93eb5c96981a1"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Claude",
+      "id": "Person_a6b658ff9bd816db7788759c3d92c63d737f77389a9c786969fc395039fe417b"
+    },
+    {
+      "type": "Person",
+      "name": "Albertville",
+      "id": "Person_af8c7b95bab5d6cc6ed6efac9e051256fcb1a17a0d3b990d5d0aee9d5293361d"
+    },
+    {
+      "type": "Person",
+      "name": "Grospiron",
+      "id": "Person_d753d07a9fec3a15e2c4495d18c98031e362e7199a3d7284ec53fea8d4d98a03"
+    },
+    {
+      "type": "Person",
+      "name": "Cadot",
+      "id": "Person_96da9adfbceab58fd793a8a4b20d5fdc4bdf098055e660707ed5ed8de1df2139"
+    },
+    {
+      "type": "Person",
+      "name": "ministre des Sports",
+      "id": "Person_ef7b56f7bb27e50866a5056c3ae0dfb0bff1d5e47b32181a3a0c89fec2168820"
+    },
+    {
+      "type": "Organization",
+      "name": "COJO",
+      "id": "Organization_86503f9c238706ece52ff05cc97c2725f65ad7b800b7392059f85c66e4f43c35"
+    },
+    {
+      "type": "Organization",
+      "name": "SOLIDEO",
+      "id": "Organization_a3c7e42b5bf23e91f160925434deabcefcfc5d619b0a2d12d875db4bdc6aec25"
+    },
+    {
+      "type": "Organization",
+      "name": "nos Alpes",
+      "id": "Organization_8510b70d12fbcc76c178ad2ddd2e9539ff37070c87a3ce775dd0ed7df23b077d"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Milano-Cortina",
+      "evidence": "A Milano-Cortina, la France s'est hissée 6e au tableau des médailles dans les deux compétitions",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "City_e45c5d13cbada5a7f451631489b52ba999a2110c9333582bc20c23f14fdd7a9a"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies critiques",
+      "id": "Theme_610eca01b54e4a0caaf7665c7e7aa5823fbaae830be6647aa1aabbc56b940439"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène",
+      "id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "type": "Theme",
+      "name": "semi-conducteurs",
+      "id": "Theme_c545b7c8d8f2e6a7341a4d7d6d1382ed362721a00ae919d877abadcdc1ba5825"
+    },
+    {
+      "type": "Theme",
+      "name": "batteries électriques",
+      "id": "Theme_761658a4d46dd4a8a739d988d1dcca8fa209d5dd7a0f44441b555ae6efde6d92"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois verts",
+      "id": "Theme_78a443f0fdf7c51d97ff32f4f603308e84c9ec0182ea5e1644e9b425715edbd8"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs démocratiques et humaines",
+      "id": "Theme_d70077d1ac4a0b5a6f885cc92a56e820750023ccfa8532efd64c6cfeb3f73274"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "https://ue.delegfrance.org",
+      "id": "City_cc91fc953e978018240be53485c5fa8968cb134cb70be35264896d135cfea0a9"
+    },
+    {
+      "type": "Theme",
+      "name": "climatique",
+      "id": "Theme_4abf026fe9ca32e0caff98a931369a221f531d982e6efa70c6c21719a6ce0a0d"
+    },
+    {
+      "type": "Theme",
+      "name": "transition",
+      "id": "Theme_e63e6ab1512da86e741fe3d7ec082523f6b684c749eb3aef27e0dfd412c0a6b6"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "données personnelles",
+      "id": "Theme_9f9370077fb97cbbcf480c0bec7be4f09123d630c199238d14bfdd878e1424da"
+    },
+    {
+      "type": "Theme",
+      "name": "modération des contenus en ligne",
+      "id": "Theme_6995d2c0308bc9bba26803492a79c358aca97b3c39f72dd2c9bfb58c508f9853"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la désinformation",
+      "id": "Theme_e207212c7816601f73c1c7cb0e68a8a4c42bf464d47d39e46dff9f8141a027d4"
+    },
+    {
+      "type": "Theme",
+      "name": "équité concurrentielle",
+      "id": "Theme_bd76e5258c947c82af2a3d237e3a1c86cec31bfb35b5b2679059de9a7660ab47"
+    },
+    {
+      "type": "Theme",
+      "name": "échanges de crypto-monnaies",
+      "id": "Theme_122188939cfdea331318e68dc11fc18e2dba99384a0704eb3fbfccb2051855de"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "technologies critiques",
+      "evidence": "Enfin, l’Europe sera championne dans les technologies critiques de demain.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_610eca01b54e4a0caaf7665c7e7aa5823fbaae830be6647aa1aabbc56b940439"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "hydrogène",
+      "evidence": "Une quarantaine de projets de production d’hydrogène ont été lancés en Europe",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "semi-conducteurs",
+      "evidence": "Sur le marché mondial des semi-conducteurs, la part européenne aura doublé d’ici 2030, pour atteindre 20 %.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_c545b7c8d8f2e6a7341a4d7d6d1382ed362721a00ae919d877abadcdc1ba5825"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "batteries électriques",
+      "evidence": "Grâce au cadre européen, la France exportera des batteries électriques en 2027, alors que nous étions pleinement dépendants en 2017 !",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_761658a4d46dd4a8a739d988d1dcca8fa209d5dd7a0f44441b555ae6efde6d92"
+    },
+    {
+      "source": "Europe",
+      "relation": "SUPPORTS",
+      "target": "solidarité",
+      "evidence": "L’Europe, c’est de la solidarité, des emplois verts, une protection et un levier face aux changements du monde.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "source": "Europe",
+      "relation": "SUPPORTS",
+      "target": "emplois verts",
+      "evidence": "L’Europe, c’est de la solidarité, des emplois verts, une protection et un levier face aux changements du monde.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_78a443f0fdf7c51d97ff32f4f603308e84c9ec0182ea5e1644e9b425715edbd8"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "numérique",
+      "evidence": "Quand les innovations numériques occupent une place chaque jour plus importante dans nos vies, c’est l’Europe qui, la première, a encadré ce nouvel espace.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "données personnelles",
+      "evidence": "Protection des données personnelles, modération des contenus en ligne, lutte contre la désinformation, équité concurrentielle, échanges de crypto-monnaies : l’Union européenne a pris les devants.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_9f9370077fb97cbbcf480c0bec7be4f09123d630c199238d14bfdd878e1424da"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "modération des contenus en ligne",
+      "evidence": "Protection des données personnelles, modération des contenus en ligne, lutte contre la désinformation, équité concurrentielle, échanges de crypto-monnaies : l’Union européenne a pris les devants.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_6995d2c0308bc9bba26803492a79c358aca97b3c39f72dd2c9bfb58c508f9853"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "lutte contre la désinformation",
+      "evidence": "Protection des données personnelles, modération des contenus en ligne, lutte contre la désinformation, équité concurrentielle, échanges de crypto-monnaies : l’Union européenne a pris les devants.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_e207212c7816601f73c1c7cb0e68a8a4c42bf464d47d39e46dff9f8141a027d4"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "équité concurrentielle",
+      "evidence": "Protection des données personnelles, modération des contenus en ligne, lutte contre la désinformation, équité concurrentielle, échanges de crypto-monnaies : l’Union européenne a pris les devants.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_bd76e5258c947c82af2a3d237e3a1c86cec31bfb35b5b2679059de9a7660ab47"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "échanges de crypto-monnaies",
+      "evidence": "Protection des données personnelles, modération des contenus en ligne, lutte contre la désinformation, équité concurrentielle, échanges de crypto-monnaies : l’Union européenne a pris les devants.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_122188939cfdea331318e68dc11fc18e2dba99384a0704eb3fbfccb2051855de"
+    }
+  ]
+}

@@ -1,0 +1,1719 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Toulouse",
+      "id": "City_aa695a1a8591febfa119cbccca39b2add1951395a057a7f2fdbd29e7adde06ae"
+    },
+    {
+      "type": "City",
+      "name": "Bourget",
+      "id": "City_d97ef28884a4015e76b5b3c9ad74b60f53bad241b7c90dc8b19f3f9a026c8304"
+    },
+    {
+      "type": "Organization",
+      "name": "industrie",
+      "id": "Organization_c29ab41786806ed3c65b3e25fbc6e013b5076108df9d3975b13e8138439d008f"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "carburants durables",
+      "id": "Theme_ba51c84f076c441d8c34b72c8c9169a758d7d05e401a175d3e46f419dbfb078e"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène",
+      "id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "type": "Theme",
+      "name": "électrique",
+      "id": "Theme_c78f9a2e1f1ef8b6c101d20d242ce5e566edd0a89e8f1bddf0460e4eef1670fb"
+    },
+    {
+      "type": "Person",
+      "name": "Guillaume FAURY",
+      "id": "Person_8d6cdfe9b72146e0b2711acc75c75d8d31f922defe03e6ff58439a8581ea528b"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente du Conseil régional",
+      "id": "Person_75f883ce412ea691982fa9a5af22054d4eb489f793e0d83c1e144a337670b8f2"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président du Conseil Départemental",
+      "id": "Person_ed23b450f0ef4975a677c78549b852e0bd6220615dfe342c23dd98aaf4590810"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Maires",
+      "id": "Person_c6918593830c43dc32e3234ff666e36a742c4efdcba8eeb54a0e3e88d392a782"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialisation",
+      "id": "Theme_ac8bdfb33c3783eee726437d1158d9c6c216120e43edc6178969ee44f5098ca1"
+    },
+    {
+      "type": "Theme",
+      "name": "taxes",
+      "id": "Theme_3a559f0d67f80bc79e229d21cd480d252bf74d12e4a1b943cbf8c97b19ec537e"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Organization",
+      "name": "BPI",
+      "id": "Organization_4681aacf523d8e331fa0c7347000191d8d7836dd24aef197813b3c53297ac26a"
+    },
+    {
+      "type": "Organization",
+      "name": "Business France",
+      "id": "Organization_a6c8c752a47385a5ca5cb511756c3e28bbc9675b1afd54f41f06e4b13f7b0a91"
+    },
+    {
+      "type": "Organization",
+      "name": "les ministères",
+      "id": "Organization_ec81c1e1b47f19a05a2c897f95c9a728883f9d3cd8ba50f14dec50be291d5925"
+    },
+    {
+      "type": "Organization",
+      "name": "les organismes de recherche",
+      "id": "Organization_8239922ed7efc0d19dd685b20ff1a9476a61e65b84a0bcbcf67726e406dcfe09"
+    },
+    {
+      "type": "Organization",
+      "name": "les collectivités territoriales",
+      "id": "Organization_0985b81f774150e87cea508fc465ad4324b40a173258561a91ae79f7c5a7aa4e"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "plein emploi",
+      "id": "Theme_2a448e8543fa37515f8306b37c9e0bce2b2c535e0733a499a4bec870b1e709ef"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité carbone 2050",
+      "id": "Theme_5c2b05535af63e9f00b6d9046c001bb47707b89f31e9cd56a8461b1520f16824"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "compétition",
+      "id": "Theme_e14a9586484a557d70bf1c30c6f53a798fcb119968a8e22b8110a15105dd4e8c"
+    },
+    {
+      "type": "Theme",
+      "name": "géopolitique actuelle",
+      "id": "Theme_83d058b167e46ec9c75ab92823577c8c5ff610596ded2fa03c2a6df792aec5c7"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme du marché du travail",
+      "id": "Theme_b42d768d4e7b20508779e0086a3cbbacd85fdd6cab7c40bc452a6cb086226a7e"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme de l'assurance chômage",
+      "id": "Theme_45fd55bacff422e0401f4b275c29511cecb7fc47978f253be0f5e5d067c4ec86"
+    },
+    {
+      "type": "Theme",
+      "name": "France Travail",
+      "id": "Theme_774a28321ad715b0c70f4f915be60bbad0fe4edf55ea82cfd8f910fc26dbaaf9"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes fiscales",
+      "id": "Theme_60cdb5bc1afca29ece110e0d4fa97309bc5c373fff08729fdaf47fcf5e11a772"
+    },
+    {
+      "type": "Theme",
+      "name": "création d'activité et le travail",
+      "id": "Theme_5fdc6907fa39abb616c734151336c4355e19b3cbebfac14ee33adb3ab65e83a2"
+    },
+    {
+      "type": "Theme",
+      "name": "Flat Tax",
+      "id": "Theme_22efb8a026059e6a8c3802473cb1e8fe99f5bd20c1ba288c00fdc18cd131a795"
+    },
+    {
+      "type": "Theme",
+      "name": "Fiscalité",
+      "id": "Theme_8f3af7311a6bcfd253a580ecacd3fb0434ee40de042b8221f99b1b400f0a3b76"
+    },
+    {
+      "type": "Theme",
+      "name": "Impôt sur les sociétés",
+      "id": "Theme_281de970e4852244f595d5a8738fa0052368c9e2ec63c0b1726521970d2c6610"
+    },
+    {
+      "type": "Theme",
+      "name": "Réformes économiques sectorielles",
+      "id": "Theme_8650ec99e563b380d47e324e68c1fe2cceee0150837d1db52d84447269cf3fc9"
+    },
+    {
+      "type": "Theme",
+      "name": "Simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "Loi ASAP",
+      "id": "Theme_dd4dc75e4a0c861d97bc14998e473b40ea47d0427c35d5ab0435c30ae27659f8"
+    },
+    {
+      "type": "Theme",
+      "name": "Territoires d'industrie",
+      "id": "Theme_751e461679ca054530399198c80370367054fa32d04f7f060d31bde0b93d73c4"
+    },
+    {
+      "type": "Theme",
+      "name": "Politique de relance",
+      "id": "Theme_4c5431d2f75bb81c4b717c2dc7acb2e892d765445250fcd72cc5167ff2c0d12a"
+    },
+    {
+      "type": "Theme",
+      "name": "Loi industrie verte",
+      "id": "Theme_bfd021ec765c3894136e6935c1a0d1d8ed7a64d93d66efe0d54062e468c3d10f"
+    },
+    {
+      "type": "Theme",
+      "name": "Plan export",
+      "id": "Theme_c1abbe016f51aaca8e84f6e0a0789306a5d4fe8c5046986092fd7f4790a0c39e"
+    },
+    {
+      "type": "Theme",
+      "name": "Apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "ORE",
+      "id": "Theme_861bf17f922201bf303002382015c756ae0eaf8c3064ff4aeee46b4a4190b9ee"
+    },
+    {
+      "type": "Theme",
+      "name": "loi de programmation pluriannuelle",
+      "id": "Theme_b406588b5bc41bbc4fd17dce487f4ef78de489c8f7b3f4b67bd93e931bbed162"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "taux de croissance",
+      "id": "Theme_73e31993a90c638a84a4b2f8bfa197b8ed03ec2cd3f6b02578629ca614941dd2"
+    },
+    {
+      "type": "Theme",
+      "name": "zone euro",
+      "id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "type": "Theme",
+      "name": "monnaie unique",
+      "id": "Theme_2e557318660f2bb514551f7d55476b916739299ea17119489fdd98ca32dfd18c"
+    },
+    {
+      "type": "Theme",
+      "name": "Union européenne",
+      "id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "type": "Theme",
+      "name": "crise financière",
+      "id": "Theme_da6935f8fabfc5c3dc5d8c5bc4fcd3a0098663f8e9d84beabb6e8d608760f142"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentis",
+      "id": "Theme_c09fe6046be9b021781e8af66dddef8c697c1e2c2d5373c6fcc793b93dff4782"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilisation collective",
+      "id": "Theme_a5f23d482fd14245290afb005bb78cc723dd515820abc29a1b76503de7122f4b"
+    },
+    {
+      "type": "Theme",
+      "name": "France 2030",
+      "id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d"
+    },
+    {
+      "type": "Theme",
+      "name": "politique macroéconomique",
+      "id": "Theme_f259a15624028a6d2aa150fc862fdf5fa749d0ed515458922bfc8c6613ee8631"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "développement économique",
+      "id": "Theme_90116a86288646b0ca7f81be8e3f867cd730709965d34e048dac6cb6b854a2c3"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda de Versailles",
+      "id": "Theme_ff7be23947cf0f4a238e3faf63db9ecbae1a5faabae33d37759107af0a676168"
+    },
+    {
+      "type": "Organization",
+      "name": "French Tech",
+      "id": "Organization_b2676cfdc8d5c52026131494972cd4ec8242bce018a1350d66e8f0885374d625"
+    },
+    {
+      "type": "Organization",
+      "name": "BPIFrance",
+      "id": "Organization_a9ccdc3b7703f243a8222d62576aea819b2390487b9cbaf2500a76a84e916f9b"
+    },
+    {
+      "type": "Organization",
+      "name": "Innovation France 2030",
+      "id": "Organization_9e3070dc12b4c2f96845745644abc261038b806d01fb8e3951704ab156517ca3"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "levées",
+      "id": "Theme_3ae6c9fd6ab8898059d1d23236be39d5da65bd67f1c8a0eb9c224b5f704b7919"
+    },
+    {
+      "type": "Theme",
+      "name": "véhicules électriques et hybrides",
+      "id": "Theme_5bf90e30444d7528f30ed7adc995b2dbaf92b526601b72c04a3ddb2707f3c47d"
+    },
+    {
+      "type": "Theme",
+      "name": "gigafactories d'électrolyseurs",
+      "id": "Theme_28068b9fef58bb1528d683e39bcb8ff5baf500c914aa96b923b5746b36f6c001"
+    },
+    {
+      "type": "Theme",
+      "name": "puces électroniques",
+      "id": "Theme_96f570168f4f7847b2265cf2effa59120a63d901c7b4aef0c4b446afa0e687ce"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation santé",
+      "id": "Theme_af6a96ab7dbfd062f7544de692ac68fc628cce66785b9fd2fb46622d38441ba4"
+    },
+    {
+      "type": "Theme",
+      "name": "métavers",
+      "id": "Theme_81e498133b344fb7e0c9102147b7382fc05c9127b7a154d24adf7047acbe47b9"
+    },
+    {
+      "type": "Theme",
+      "name": "Culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "industries culturelles et créatives",
+      "id": "Theme_ef14ef4d2275ddcba317f38a70bd25b9aaf03efd3b3c01da30d5b59ac891fb7a"
+    },
+    {
+      "type": "Theme",
+      "name": "tournage",
+      "id": "Theme_ef7d7f188468f129751a773ef28db3f8ab5da80576f475f0a79926f900c0c043"
+    },
+    {
+      "type": "Theme",
+      "name": "formation diplômante",
+      "id": "Theme_34a3853d3c6fde9177e6d02d9e7cd0bf519480ee5e8392278f407bcbf2407db7"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut hospitalo-universitaire HealthAge",
+      "id": "Organization_1e219d3d58f3e18f0ee1746f948532373506ebd5ffad27e70fc1d9b0950386da"
+    },
+    {
+      "type": "Organization",
+      "name": "CHU de Toulouse",
+      "id": "Organization_3f0ca05d13eabb85c8d29324905f971aa15bfa2d78658d3f64529ff5e7a8d859"
+    },
+    {
+      "type": "Organization",
+      "name": "Microphyt",
+      "id": "Organization_33c391a54ad2055288d597ff5e6ca74111b1c4b504a073947edd35e9b6448823"
+    },
+    {
+      "type": "Organization",
+      "name": "Loft Orbital",
+      "id": "Organization_14a6d60d75e9ecd7243612bb469c5d0871d1aaa1f1099b39ed99129a631d5d5d"
+    },
+    {
+      "type": "City",
+      "name": "Occitanie",
+      "id": "City_17a2af0f6c38be8abbddb0796f2a991d391fb548e66afb83d7b9c52c16bd3ca6"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie nationale",
+      "id": "Theme_50832c5349d9d03770ce6df76fe8e823438f97bfbe7c2a35f9d0125ba549866f"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "Inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "Augmentation générale et durable des prix",
+      "id": "Theme_5eb116de1d5e16531ecfc3d1ce72deda9884f4175ae830ddb36e0359ccec5368"
+    },
+    {
+      "type": "Theme",
+      "name": "Reduction Act aux États-Unis",
+      "id": "Theme_ad3fd5fd2b918821a3f78224a1392f0f83701cdf289092157995fc3805d76926"
+    },
+    {
+      "type": "Theme",
+      "name": "Organisation mondiale du commerce",
+      "id": "Theme_db75b3a20767dd6a224ec1f6e6e767b19e7014e3b770bb8607cd529b9eaa17fb"
+    },
+    {
+      "type": "Theme",
+      "name": "sur-subventions de l'industrie",
+      "id": "Theme_08eff529d8a7918d59762096778fbd4ea778d7962ed80db980dfef3cc37b0585"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies renouvelables",
+      "id": "Theme_912e2c1b6d76c17cfecb65f028f348cae97ce3cd43f48890e5f528fb3273c56f"
+    },
+    {
+      "type": "Theme",
+      "name": "projets nucléaires",
+      "id": "Theme_098945d7054aa4f3e837aca5afc9b88ce2c95ee9e376f1aaf2f8b557ae8738ae"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie française",
+      "id": "Theme_8cdaca846114ae3aeedc9e5960497780fade78255228f7d9cb5c417a626cc7fe"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie européenne",
+      "id": "Theme_9f2d9669fd6bd7f0c519e9178f9aa5629f4017072e03d9dbd959f30f0e1c4ee3"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "électricité",
+      "id": "Theme_91c41638e65e937154a7559e7d1b4f82a3977007d76c588380561893e1e818e8"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre en Ukraine",
+      "id": "Theme_c1ac68c6c37050c08bad07f72ee5a0d6426beefac1fe476dc951a6e663e6c13f"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Law",
+      "name": "Industrie verte",
+      "id": "Law_40f4f044e895dd96e0d8c2766c951d42449d0654f83aca0c27c1ccedfb5c7ca1"
+    },
+    {
+      "type": "Law",
+      "name": "loi dite ASAP",
+      "id": "Law_e729f780ac4b740c1fc213acbb0bdb92792ca9d243b85fc68d73ba3f8058f618"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère de l'Économie",
+      "id": "Organization_d4d47f37ead35700b2c4653b7693aa04a35e52673f91434d7660287798aa7fab"
+    },
+    {
+      "type": "Organization",
+      "name": "Transition",
+      "id": "Organization_d5b770b0e59ee27d366d6802a74ffe7955309eef9a4bbbbd9386f90ce8fab43c"
+    },
+    {
+      "type": "Theme",
+      "name": "French Tech",
+      "id": "Theme_fde8e10a1e8ebd2839534732db09e4969825bd83266ffaacc525bdea87eff6d0"
+    },
+    {
+      "type": "Theme",
+      "name": "ETIncell",
+      "id": "Theme_60888deb596d940c3793939614114755323a271389ef793691929ed5d62f9638"
+    },
+    {
+      "type": "Theme",
+      "name": "Make it iconic",
+      "id": "Theme_fc863e27c7de23d03ebe0c778a82819588d8d8838f94cac26fef13fddbcdc328"
+    },
+    {
+      "type": "Theme",
+      "name": "sobriété",
+      "id": "Theme_c065b7107e130b3277e57fc17d8c4debe61672a985823b4ca17e4e1e6dbd55a6"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelables nucléaire",
+      "id": "Theme_79fe09564d636afbfbe27d19852c440fb9b721da489c8638fdc32f1c4ea2cbf3"
+    },
+    {
+      "type": "Theme",
+      "name": "COP",
+      "id": "Theme_ecc0467318238b68f707ba9e6a2dac7bdfd1e5d4e82f1620e0b16e19d882ffbb"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies fossiles",
+      "id": "Theme_b6c35f61d1a981309cce533ddbf6a71e259f9c267d021131e611f1b7a3f5f978"
+    },
+    {
+      "type": "Theme",
+      "name": "charbon",
+      "id": "Theme_548bb5ce8df69ec8043411bf054457e539ac5bba47798110164f1896a83f7cd8"
+    },
+    {
+      "type": "Organization",
+      "name": "Belfort",
+      "id": "Organization_dc4a86503ddac7b5668ce162b9285cc4cae07dd5f104b9dcec3be88d472281c5"
+    },
+    {
+      "type": "Organization",
+      "name": "COP",
+      "id": "Organization_e12bab8ed160d0a475c778e1e86ee80ce5910ec438a09283dab08cc4b7ef4895"
+    },
+    {
+      "type": "Theme",
+      "name": "SMR français",
+      "id": "Theme_c06fd237c0b44edd56d7fb427da00aa1e1fcd74d26171d6976463a74b082d535"
+    },
+    {
+      "type": "Theme",
+      "name": "petits réacteurs",
+      "id": "Theme_b361e5be01a95e7e7f6be68153bd1ff3acbdf4be420b53bf2d0095ec0a0e9dad"
+    },
+    {
+      "type": "Theme",
+      "name": "réacteurs modulaires",
+      "id": "Theme_6b03b646c85875322890be46919dac8012f61c9916f22ef52d1b42a7bb411b30"
+    },
+    {
+      "type": "Theme",
+      "name": "chauffage collectif",
+      "id": "Theme_9e6caecc4fcdb3ac1ef31446c6390e5f9c285784f10068b6b6c233271dfffb7a"
+    },
+    {
+      "type": "Organization",
+      "name": "CEA",
+      "id": "Organization_56bee4e69d140d03f96302b407e9a57182af007e69e3a0511d3d22f4e01718b0"
+    },
+    {
+      "type": "Organization",
+      "name": "ASN",
+      "id": "Organization_1b2dcd5fc373a0fa6a573241923d3b0322aa12dbe9edfe303cfc58b80f36eef3"
+    },
+    {
+      "type": "Organization",
+      "name": "ANR",
+      "id": "Organization_b4e54f111b7a3f1f4405f2bdb85528b7d718546b02ab6c1525e527bfe24f9366"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies matures",
+      "id": "Theme_f3765a0730e1ce4d3e46c9f1c525b0aa3393e1ede76edb86161a0b1c2cc2b8ac"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation électrique",
+      "id": "Theme_5ecffba87db980ae37e96a21b31bc78ae6352dfdb38093b821e3ce897efc97a6"
+    },
+    {
+      "type": "Theme",
+      "name": "techniques",
+      "id": "Theme_4520fa906b4d2d2699dd72f4118dc93062d747118eb565612151dacd47beeae6"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire de fission",
+      "id": "Theme_f95c431e6384755af52a440acde1a21a6c648984730fcb3c1835bf1ce7066054"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité carbone",
+      "id": "Theme_13578b8136640a21c92a662f7e77d4879f6ceffb4dd1652ae120a6e9e44f65d3"
+    },
+    {
+      "type": "Theme",
+      "name": "fusion",
+      "id": "Theme_26dd379669071044ae14b4008b7e20bdebe3778c10c169cacda11733e6c0532e"
+    },
+    {
+      "type": "Theme",
+      "name": "physique des particules",
+      "id": "Theme_c913638dde9318e390ca5854beae36762e72180eeff7e06c3784b947509b0f31"
+    },
+    {
+      "type": "Theme",
+      "name": "matériaux",
+      "id": "Theme_681411ad5cdd2fdd098fee0c6e92e49ab2bcc58433ab121b5c1141d14515a044"
+    },
+    {
+      "type": "Theme",
+      "name": "aimants supraconducteurs",
+      "id": "Theme_eefe9796b0ae660bbcb421bfe7a7c79109e07a502dbf447fe51ecbff08684635"
+    },
+    {
+      "type": "Theme",
+      "name": "imagerie médicale",
+      "id": "Theme_887afebe8d795908159e000fdcde57928cafcc21e78c8a3b964eabd26e3da9ef"
+    },
+    {
+      "type": "Theme",
+      "name": "stockage et de nouvelles formes d'énergie",
+      "id": "Theme_a425caff53f6d31a7d0e04d813b663392fca772d897849b7ef0c6452cb6a4439"
+    },
+    {
+      "type": "Theme",
+      "name": "réacteurs innovants",
+      "id": "Theme_b29e84007ea3f945280d823b68ecc5d45b26f025e45ba06c1253be267136af16"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation de notre industrie",
+      "id": "Theme_7b7f536d082feb973bc50545edded014f4a4d4d35663a4ff7be8ee6797ec1c0e"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation de notre mobilité",
+      "id": "Theme_60324c62cc78fe89b15e42d00d7fc6bb7beaa8b71a6f0299a9eb08dde8ec883d"
+    },
+    {
+      "type": "Theme",
+      "name": "électrification",
+      "id": "Theme_5a330a16d0590e3766cd55707c3837d518e8a0cb07d5eb80981f61e17b01917b"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation de nos véhicules",
+      "id": "Theme_37101340fc76059cfd1920d83612b1f4c4b452de5fa1b5ecda1541930062961e"
+    },
+    {
+      "type": "Theme",
+      "name": "2027",
+      "id": "Theme_3f6240285878fd56aecb9ba49fc60f113e5a8e25e388813c3647c9c2838cc81f"
+    },
+    {
+      "type": "Theme",
+      "name": "2020",
+      "id": "Theme_1224d9961397ab6dcd83d6aeaebec00aa0f6dbdd187dce743774961d1cc6d53b"
+    },
+    {
+      "type": "Theme",
+      "name": "1 million 400 000 véhicules thermiques et hybrides en France",
+      "id": "Theme_aa6c9a2431b167341a9444fba1e506a29510cea8326cd73c267415b8fc050082"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution industrielle de la décarbonation",
+      "id": "Theme_b547afc21b671518e8dd164e8bf60b6dd5ee880d6dae954656dd38d9390c6cec"
+    },
+    {
+      "type": "Theme",
+      "name": "production de nos batteries électriques",
+      "id": "Theme_e864ff05d5f09c8f03febd4699af79e21ae596d7c8f1aa3afabc35563d4c4d3a"
+    },
+    {
+      "type": "Theme",
+      "name": "allons plus vite sur la véhicule électrique",
+      "id": "Theme_149be6f617dcead47b27bdebed8f8ef1ac4163c2b268a0a0f768fd8bb0c047b2"
+    },
+    {
+      "type": "Theme",
+      "name": "batteries électriques",
+      "id": "Theme_761658a4d46dd4a8a739d988d1dcca8fa209d5dd7a0f44441b555ae6efde6d92"
+    },
+    {
+      "type": "Theme",
+      "name": "crise Covid",
+      "id": "Theme_f795ef1333fb420f606311508232d39f9e4e804aec2881d112ecc1755b95f540"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie verte",
+      "id": "Theme_367aafd3f69f8a17e4ca6810a040266a5b8ccab4374edc31ebf5ab376af94754"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "grands sites industriels",
+      "id": "Theme_23bda807ed05f298893cab9d378aa0b703f9c67f92e5822e503ad7277aac50e1"
+    },
+    {
+      "type": "Theme",
+      "name": "CO2",
+      "id": "Theme_7fc01d78548a70f3e577bcd09088ef66dd6d98ccb7b0925fb654e36dc2d88acb"
+    },
+    {
+      "type": "Theme",
+      "name": "acier",
+      "id": "Theme_7bdbbd7fdaf595d0ae146f72166d8846294fd1db96aaf5caf8e88d5e5e53390c"
+    },
+    {
+      "type": "Theme",
+      "name": "ciment",
+      "id": "Theme_7dc2e88d1bfca17dd22cbd3dda83cb187cc0f60b0ae2900b2f4549f8f4f54119"
+    },
+    {
+      "type": "Theme",
+      "name": "agroalimentaire",
+      "id": "Theme_024debcd3609070ef635d568cf73483a37c21fe6cf08997e9d8f5342591a8879"
+    },
+    {
+      "type": "Theme",
+      "name": "financements",
+      "id": "Theme_f5b16af1090bbb07202f52148fe77da568c0b0d74e40c85c9e6976adf7133cf5"
+    },
+    {
+      "type": "Theme",
+      "name": "capture du carbone",
+      "id": "Theme_4055be3fc663ed44ac45dc50c7f9c564b0ba4b062ad4cb975662d590ce22c09a"
+    },
+    {
+      "type": "Theme",
+      "name": "véhicule électrique",
+      "id": "Theme_c7e2a9c158517cb146b811451ff12650da8834086b81d5b1db77a664f23bfffc"
+    },
+    {
+      "type": "Theme",
+      "name": "projets d'infrastructures hydrogène",
+      "id": "Theme_4fb0ebb61c829cf27dec695b2500cb9787cb9c98891a6d6d7d81b85750a764d0"
+    },
+    {
+      "type": "Theme",
+      "name": "transport d'hydrogène",
+      "id": "Theme_0a099df56fb16fe7cc0f65fa54fba000c036f6c99b4c7d11afded75040fb6130"
+    },
+    {
+      "type": "Theme",
+      "name": "production d'hydrogène bas carbone",
+      "id": "Theme_87908f3425b0fa1985aa36dcc2548bb12bd5ff7524337439416430b58c73b319"
+    },
+    {
+      "type": "Theme",
+      "name": "carburant",
+      "id": "Theme_ba37371086e5f9aa2ce978ee190f0852a914cce2cf3923dcf4f7d64f41cdd17c"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz naturel",
+      "id": "Theme_7a5ec7c36d63b1d12d1c8e27d4875522e16fb62f15ed6dd8b86ffa992c47d0b6"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène bas carbone",
+      "id": "Theme_cd1dc03779fd067f4b5bf611b5a8c901ac3520ff0a0814e294a2db57f5c9e177"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelable",
+      "id": "Theme_d0beb8d3065f33b4c348175dce1aba64c98ce89f1a5876f75f351c8752b2dd50"
+    },
+    {
+      "type": "Organization",
+      "name": "nos gigafactories d'électrolyseurs",
+      "id": "Organization_3df9a03ab403fcab853cb79fb739d2aa7e1011d79205f786d15ab06fa763f80c"
+    },
+    {
+      "type": "Organization",
+      "name": "Genvia",
+      "id": "Organization_0f2e5dc80484a522d124ed90a615c845696a5d3bcdd0b9c18995129fca044b47"
+    },
+    {
+      "type": "Organization",
+      "name": "Schlumberger",
+      "id": "Organization_64a2e7b5009a4321cfc56d6a7602b580f13e24c32d6e945657998122de1942ef"
+    },
+    {
+      "type": "Organization",
+      "name": "Béziers",
+      "id": "Organization_d3058f2c0d3ce87b2d38e6e139c39c23b073ac49788cc9410657cb373bfd1ef7"
+    },
+    {
+      "type": "Organization",
+      "name": "loi industrie verte",
+      "id": "Organization_e307ff56457e8d045789fd77aa7aa70074b439500915dfc9802471ebd77e7bed"
+    },
+    {
+      "type": "Organization",
+      "name": "programmation pluriannuelle énergie",
+      "id": "Organization_2b87ff5fe553c2e488629b85e4441b20249ff62b7894f31d5885ac6501a452f7"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "City",
+      "name": "Pyrénées-Atlantiques",
+      "id": "City_431cbc34f9c286295f78dc3bf2b6e021eb3eb9b1e2f5651feb4184b64b392c54"
+    },
+    {
+      "type": "City",
+      "name": "Lorraine",
+      "id": "City_5680e1a3d41539607cf95a3e03e0e9dd6e46e8f11935ff2fa2f82d47c8f24243"
+    },
+    {
+      "type": "City",
+      "name": "Pyrénées Atlantiques",
+      "id": "City_51f38f29b59a35750383adbb8870294eb4ef0365c0a9370c9e801afa4bbd3b6e"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre",
+      "id": "Organization_bcfcec7de2d7b4cf53f630b8f4bda4918808fa7973b4a27375e60cdb59c5914a"
+    },
+    {
+      "type": "Theme",
+      "name": "combats",
+      "id": "Theme_7743f3c678c446384550fffe0c1e44b3dfe9d88bea4af764687221da1a9bce14"
+    },
+    {
+      "type": "Theme",
+      "name": "code minier",
+      "id": "Theme_022be79aa6be4e1a3776da902caf7a2db6e1b8a1c791e3dfdb074e6f199bd75f"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie minière",
+      "id": "Theme_67db85305f0c862395b287c40659789f33c1810d2d8b9056f572233ae5731677"
+    },
+    {
+      "type": "Theme",
+      "name": "électrolyseurs",
+      "id": "Theme_7b724e3c03b5667f684afe5506bfa1bc9aa8686395257d174fea6cd262c6a2c6"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène naturel",
+      "id": "Theme_f3292f65cbe03a6222fe9ca9cf6b797e1d9f37eee7a9faa076c348e45ef43320"
+    },
+    {
+      "type": "Theme",
+      "name": "CCS",
+      "id": "Theme_520224db7a5fe72cf8b254f0bfe6a93019242451d136a91bf7bb073911718204"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation de l'industrie",
+      "id": "Theme_e625e4cc497c0a2947d613957805d813b047560436b6ac25f480f916d0288c79"
+    },
+    {
+      "type": "Theme",
+      "name": "stockage du carbone",
+      "id": "Theme_a88b065cab52d2032b2655ca86e0c1654bf0be361dd32dfd95d9f466498b2d4b"
+    },
+    {
+      "type": "Theme",
+      "name": "pétrole",
+      "id": "Theme_3260ac0f04251087e1b398b0d2bf276cec225dfc5f0db44e9872e55badaa7627"
+    },
+    {
+      "type": "Theme",
+      "name": "effort",
+      "id": "Theme_bbc0483f0da6a6341360b086154415ab379cb11db967c512d7d0a53a7ca2e016"
+    },
+    {
+      "type": "Theme",
+      "name": "sous-titre",
+      "id": "Theme_6c19f043b622b2e1eaf677d216515ddbe1892f4f569f2d05706999c62c0bc698"
+    },
+    {
+      "type": "Theme",
+      "name": "forêts",
+      "id": "Theme_1240508ec111d344871ee2eca4741bff873de4cefa7235aaf1e7b0be5524767e"
+    },
+    {
+      "type": "Theme",
+      "name": "océans",
+      "id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie forêts et océans",
+      "id": "Theme_24b9f0da0d48f233c7fadc0cd053b207bee83631bbce73cb5da5a13a6418ac59"
+    },
+    {
+      "type": "Theme",
+      "name": "cimenteries",
+      "id": "Theme_f8790c770ea79454c3d07f85a85327242f41d4e7850c603183bab53dd0cad107"
+    },
+    {
+      "type": "Theme",
+      "name": "capture et stockage de carbone",
+      "id": "Theme_867f678200e09a70152844a990c0de81d1ced083e0a9c8a173b6ef224f58e5cf"
+    },
+    {
+      "type": "Theme",
+      "name": "matériaux et produits",
+      "id": "Theme_1f99f2163cf7783c9c4b31edeb87348f79faedb37cd3d3d9692db5b013452fb2"
+    },
+    {
+      "type": "Country",
+      "name": "Danemark",
+      "id": "Country_e69e28cfa71a672f3c4d4f769e9cbc72220f20bc192eea020c4483eaecfef07b"
+    },
+    {
+      "type": "Country",
+      "name": "Norvège",
+      "id": "Country_01255a6d7078545605faae7f3b57607774761cefa10e25e0bff7873d4b8710cd"
+    },
+    {
+      "type": "Country",
+      "name": "France métropolitaine",
+      "id": "Country_5204c5471eefa50ec56955b371609098360d8c8dc288e0cea6acc7bc89f7fba5"
+    },
+    {
+      "type": "Theme",
+      "name": "ressources minérales",
+      "id": "Theme_fa82361b964ff402bc143adbdaf410c482cfae4adbe41edb7aa31ebffacd92b1"
+    },
+    {
+      "type": "Theme",
+      "name": "chaîne de valeurs",
+      "id": "Theme_f58f2b92574940ad4cee426a57aa6d2c700d5fe73a8e15480c0264448b0d10e8"
+    },
+    {
+      "type": "Theme",
+      "name": "métaux critiques",
+      "id": "Theme_86b5d26c5ef2dc0c94490c1717211cef8fb371bd5e7dcbf7c5f497f79c5f987c"
+    },
+    {
+      "type": "Theme",
+      "name": "lithium",
+      "id": "Theme_e450fdf7c5fe81d7a5c1358b44d3bfab1e8226b6727f734b826c2fdaef338e8d"
+    },
+    {
+      "type": "Theme",
+      "name": "nickel",
+      "id": "Theme_81757ad3e2c41d17b3b4d6c4b61cf295c9dbba7318474a1d3939a46b7a792e9d"
+    },
+    {
+      "type": "Theme",
+      "name": "cobalt",
+      "id": "Theme_8bac23cd62d87b01f773c26ffd134303967ad0db9d37591f45d68f7f7d1ed716"
+    },
+    {
+      "type": "Theme",
+      "name": "mine durable",
+      "id": "Theme_318661ea62038c3145ccb7fc7dee0f9229607572ac49d10a6874f87638b86e09"
+    },
+    {
+      "type": "Theme",
+      "name": "économie circulaire",
+      "id": "Theme_c93a4be8fd3388cf648eb3a4d186c022f82f2a0a4b99d9e0f647327fa3be01a5"
+    },
+    {
+      "type": "Theme",
+      "name": "géopolitique",
+      "id": "Theme_c3c610b50522db7d266b422a266b556f7825401c0d3b51ae9196e65d10f33b65"
+    },
+    {
+      "type": "Theme",
+      "name": "durabilité",
+      "id": "Theme_587ac60fafd91880456f3a58959448680f3d222ce5a7bf3163f44e212c5ccfd2"
+    },
+    {
+      "type": "Theme",
+      "name": "exploitation de long terme",
+      "id": "Theme_197db07f4628ee44007bbc82b37c6dea2c53ca20d1d3a121021a1b93401cb1df"
+    },
+    {
+      "type": "Organization",
+      "name": "Carbios",
+      "id": "Organization_673d784fcefcba400b58edc28adfeb5fca5034e2e26bba30b4c2de703c493574"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie forte, claire, de sortie, crédible graduelle ou en rupture",
+      "id": "Theme_acb954a4d33befdfc2db9334161767e69072d6e32bb205237e184a3504045a51"
+    },
+    {
+      "type": "Theme",
+      "name": "interdiction sans solution",
+      "id": "Theme_82c8025844a58a9d805a5afe6d07fd9536345a116d6785846e8252ca3cad3b82"
+    },
+    {
+      "type": "Theme",
+      "name": "procrastination",
+      "id": "Theme_9f8b41d054eb71aa5f7b3d0da90138f6b54698661aeaae533c7cd1e72f9b2a7f"
+    },
+    {
+      "type": "Theme",
+      "name": "choix des deux extrêmes",
+      "id": "Theme_1e35123bd4b371763c074a304e39345fbd608699a6b90d0a7ea68b1e87e37c04"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté agricole et alimentaire",
+      "id": "Theme_c6b03b128120133d66337436e1a0ed35d7307873062bb4f22d587fbc5fbff8ac"
+    },
+    {
+      "type": "Theme",
+      "name": "plein emploi agricole",
+      "id": "Theme_ba22d144eb1a61bdb6960480903d7811110489a147131fe54ac3cb30931577a9"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie crédible de sortie des phytos",
+      "id": "Theme_46e7bc58457d8a85229869ac38a3b1d51501a0e6bdd7721a092f9a65b19ca9aa"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche et d'innovation",
+      "id": "Theme_3c26285ed4c51f8c233ce77f97f27637e90a93bb378c7f69bd5a2d3e34a08a8d"
+    },
+    {
+      "type": "Theme",
+      "name": "phytos",
+      "id": "Theme_82c091f4df020fc0595fb593b9f3a73df7430faa78091224616d020b0d9bf9b3"
+    },
+    {
+      "type": "Theme",
+      "name": "génétique",
+      "id": "Theme_53dbcc4e81da94422625d96d605ad0f3b7f919509ad4c00a3f50bd9e23528da2"
+    },
+    {
+      "type": "Theme",
+      "name": "mathématiques",
+      "id": "Theme_ae7ddf6f0a5e1b0a30bc2a7319673bb090d490d377e1a9d85144ee9cf8cbea1c"
+    },
+    {
+      "type": "Theme",
+      "name": "bio",
+      "id": "Theme_fd40d3091a079271cbe06f8bd561bb0849ae49a4e0180b0f8cc2ec89b664d02e"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "changements de la production",
+      "id": "Theme_5799e7ecadae6aedc86a1b3aac2de03e3c56bd0cbfca197a7e785d8085b0b4c4"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité à aller sur l'aval",
+      "id": "Theme_d237ee4dc98683dcb1dc0b2f19b3ea8e166abc0223b4bf8a254d18e774ae845c"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations",
+      "id": "Theme_3957cb051014b00717e7b2ec655cbcfa47c99687835fe48f9d3a8fbe1cedaead"
+    },
+    {
+      "type": "Organization",
+      "name": "CNRS",
+      "id": "Organization_9797a7b293510a1bf26addf4f9eb951f6a91dfb71b6b8d8c7031c08fb95a0fa4"
+    },
+    {
+      "type": "Organization",
+      "name": "Sorbonne Université",
+      "id": "Organization_4dd34f8355014930837ac42b78776be00440e1771933123a92d654fdd9487806"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut Curie",
+      "id": "Organization_28222c9ba733b4b85dbab41480d34dc15e95a73c32d8699a62bdfc1692a2cf6a"
+    },
+    {
+      "type": "Organization",
+      "name": "Novo Nordisk",
+      "id": "Organization_5682becde48cae2806c7561b29efe5868864e90be454ad73d8931165c3c7eaaf"
+    },
+    {
+      "type": "Theme",
+      "name": "biomédicaments",
+      "id": "Theme_4bf3a10edda0046da4aab6c90741794e201d18f75d95ee7c9d5d9568950b15ed"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention",
+      "id": "Theme_b5d3262ef3c58743a1781f267abe9b162422a835f4df383fc4856acb883ee6a0"
+    },
+    {
+      "type": "Theme",
+      "name": "médecine prédictive",
+      "id": "Theme_021ca59520a8c1bd1ab1a792a7a047f2c9a9bb123193ce3a07d93184dc82a0b0"
+    },
+    {
+      "type": "Theme",
+      "name": "Intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Organization",
+      "name": "Mistral",
+      "id": "Organization_739156526be3a2f6b148496ba55d345f2c11b748dbc4f83d282c7bfd9faacf59"
+    },
+    {
+      "type": "Theme",
+      "name": "IA",
+      "id": "Theme_0f7b4d278ae5bfefffb82e77e70a25c278d1ebb45250f850a04518b8bb8d4702"
+    },
+    {
+      "type": "Theme",
+      "name": "IA Open source",
+      "id": "Theme_f21ae904533e383cb973b1f22c7d561e96704b2ec4ec1014c0d0ba8547b7894c"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités de calcul",
+      "id": "Theme_9be137c939af0bd190b8b925d9eb81cc473139a2669847a1e010de9f3cb0dca5"
+    },
+    {
+      "type": "Theme",
+      "name": "composants et architectures de systèmes",
+      "id": "Theme_d26860db8862c2a6d08050763da523902165417a4ac8f1aeb7e9c028e88bf3a0"
+    },
+    {
+      "type": "Theme",
+      "name": "startups",
+      "id": "Theme_b3fedf1927a7ff9f9b930ba12d4dcb168cbce6318c5601c66dc5821cf26b6a3d"
+    },
+    {
+      "type": "Theme",
+      "name": "génies",
+      "id": "Theme_e849d7a67704626826ba213e97cdd4c531a6097c2039e9f048c9cd36b7eb8e48"
+    },
+    {
+      "type": "Theme",
+      "name": "modèles fondationnels",
+      "id": "Theme_765ac33a876be472dd2c33c775bddc10068f027aa72ed90c11746edcdcbfd2a5"
+    },
+    {
+      "type": "Theme",
+      "name": "LLM",
+      "id": "Theme_fa51348a0c151497395e0fe42978a08c593f95a72405438b7994be57d5a3418d"
+    },
+    {
+      "type": "Theme",
+      "name": "datacenters",
+      "id": "Theme_0abaf1222580696a9e2f6ca1cf05fa6586ddbe5cd16afd149666a535c7d733e3"
+    },
+    {
+      "type": "Theme",
+      "name": "cloud européen",
+      "id": "Theme_fb5242781d40dc31dec294ea799416090b0af84f4e5452a7108dea1a1fd1d57c"
+    },
+    {
+      "type": "Theme",
+      "name": "chaînes de valeur",
+      "id": "Theme_bafacdcc9e71ad9e9566e80db00188c213d97fe2d4af86ce4cbbd4b9458e8c4b"
+    },
+    {
+      "type": "Theme",
+      "name": "programme de recherche électronique et intelligence artificielle de France 2030",
+      "id": "Theme_c44551ebd18d8e4f08131910802d598a77ef36706b3362ffd5035b372cab5e1e"
+    },
+    {
+      "type": "Theme",
+      "name": "calcul en mémoire",
+      "id": "Theme_9cff07bc70ca6e68f1322cd7b03eb411f8ca9b8e3bd7d63c77ed66c6ad0debcc"
+    },
+    {
+      "type": "Theme",
+      "name": "calcul IA frugal en données",
+      "id": "Theme_b03a324d97123aff3088919f246b8f2b751d0e6750083a117dab100005509687"
+    },
+    {
+      "type": "Theme",
+      "name": "traitement massif de données en intelligence artificielle",
+      "id": "Theme_28cbd14b15cc1bd0c64c3d51f45c93d4e08edefe1c17fd4dd693351356991436"
+    },
+    {
+      "type": "Theme",
+      "name": "consommation énergétique",
+      "id": "Theme_b0fb33fd7a65e9978e888aa41df440372a39bc64ca0f668a19e511174f340be9"
+    },
+    {
+      "type": "Theme",
+      "name": "quantique",
+      "id": "Theme_a55a5e9c04e9e49c2efc55c9c97fdcdd3149041e81aa26bd45766547b9155e23"
+    },
+    {
+      "type": "Theme",
+      "name": "espace",
+      "id": "Theme_1079951084765f97ec568b6af52f4f01fb8e7320c4a80499a9534a7cd945d3c6"
+    },
+    {
+      "type": "Theme",
+      "name": "aventure spatiale",
+      "id": "Theme_7413206b77f5728aef854144bff388d8251ff6f353adb2333e7ab3739f35de6b"
+    },
+    {
+      "type": "Theme",
+      "name": "lanceurs",
+      "id": "Theme_ee82d0944cab95a5472201ed04594db2abd8b99a8ff55d054ba0d7dd1e790a26"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté spatiale",
+      "id": "Theme_9f5ea3c77853bd541214e92accbbef9edc3b29ce27b61d74567ac42013f2ed9f"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "unité européenne",
+      "id": "Theme_76d2435057c8741faf2a63971172376ce43cbde48ed823182cbced321001640b"
+    },
+    {
+      "type": "Theme",
+      "name": "autophagie",
+      "id": "Theme_dd29c865fe0daff66efe54ee951a68acf8709b0d065e133676fe23d17c9ad051"
+    },
+    {
+      "type": "Theme",
+      "name": "consolider",
+      "id": "Theme_5e432a74000587af27bd5ba952c50bcfe08d28eb70179b5aefacea5143be1e30"
+    },
+    {
+      "type": "Theme",
+      "name": "compétiteurs",
+      "id": "Theme_acf8c8de4d03ea46c0570f39115eecedd4c1f53c4df6ca9e0693d68bb2d935d5"
+    },
+    {
+      "type": "Theme",
+      "name": "partenaires historiques",
+      "id": "Theme_351889133ef8d805bcaa005d1ebd56bd7e258496707f5ad54787b3bbf8f4701f"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles frontières",
+      "id": "Theme_6637cbcc19be2d369d1fdac8c3ab9f0c4359af1b08397306115ec759410fe55f"
+    },
+    {
+      "type": "Person",
+      "name": "Elon MUSK",
+      "id": "Person_3237de40ff939461f321dafcc4412ad6d233a8a1c163b48d18e4ae650287d876"
+    },
+    {
+      "type": "Person",
+      "name": "ZUCKERBERG",
+      "id": "Person_321e427a9c263e670791af5579aa0b2ffefcdfbeaa96fdab287569767d209962"
+    },
+    {
+      "type": "City",
+      "name": "Béziers",
+      "id": "City_95b9c63f06153740665ca5f040d2d753c8c97fe102e3e2af27d6fda3238bf275"
+    },
+    {
+      "type": "City",
+      "name": "Pau",
+      "id": "City_aae88dca61617f4b2361b23b514b33d2f48d85277532d7af51eb52097994042e"
+    },
+    {
+      "type": "City",
+      "name": "Tarbes",
+      "id": "City_5a9f96bd4c1a9298f501753b18dc70904372f6e58b33ced48f303575cd2a7343"
+    },
+    {
+      "type": "City",
+      "name": "Besançon",
+      "id": "City_689bd81a18e9b8c5e224b112eebb5a17053deab3529bdfabeb135b2ee2d6df60"
+    },
+    {
+      "type": "City",
+      "name": "Dunkerque",
+      "id": "City_bda376ce18a11cdf6e31dcf1317332d2be264fba8faae021745f7e792736d7b0"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds Tibi",
+      "id": "Theme_4c50883ee6e33aabb03251c067626001d0e355b2d305601a3bf435357309fec4"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds Tibi 2",
+      "id": "Theme_e81db460c9740ae04c546f16e3a204e0bca9b8a6ca948848c0353e199f80c265"
+    },
+    {
+      "type": "Theme",
+      "name": "marché européen des capitaux",
+      "id": "Theme_280cdecd0de0b61e41167e43e9976fb5205a3f996d230781b3ecfad6ac431572"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "prise de risque",
+      "id": "Theme_27ff49b49a9606be7d2def8617a5df9455805c0ad2e82c4f7da9478d6ed8a8ae"
+    },
+    {
+      "type": "Theme",
+      "name": "procédures environnementales",
+      "id": "Theme_a97108933025b0e34eb8695f65b66d07bf352516cc417650d9d4272949d0b8cf"
+    },
+    {
+      "type": "Theme",
+      "name": "autorisations locales",
+      "id": "Theme_ea2551a4f5a1cddf5fdf3487322eae6102c1edfbb033c4af0d2f0754f9f4aff4"
+    },
+    {
+      "type": "Theme",
+      "name": "lois",
+      "id": "Theme_766b24b40ca0257b39bc7b38835ebf4e150e279ff118a5f34e52aceb71952783"
+    },
+    {
+      "type": "Theme",
+      "name": "délais",
+      "id": "Theme_16f4076b409a2abf40afffc019d06321a29e67e8fac7aa63904644ef839f69f0"
+    },
+    {
+      "type": "Theme",
+      "name": "projets clés en main",
+      "id": "Theme_0c2f7167c8540cc91e2dd6f3c60aa5e481d6f28dd48bbf125b0093b51e147d6a"
+    },
+    {
+      "type": "Theme",
+      "name": "sites",
+      "id": "Theme_2aa779adc9affa1ce24470917ed8e76436f7b82f27fde545a2f603d08aa2752e"
+    },
+    {
+      "type": "Theme",
+      "name": "friches",
+      "id": "Theme_aa87ea3f83a02644a55aea65b739cb3edda8ee17aa14f6b780e1a7a891f4825d"
+    },
+    {
+      "type": "Theme",
+      "name": "logement",
+      "id": "Theme_5482b77c02cb27b743d7ba44022361e1f99e9ac6c8c98c177add71ee6c65ef55"
+    },
+    {
+      "type": "Theme",
+      "name": "achat public",
+      "id": "Theme_106df61be20bad9eb9d8157c6d66d701442a477593e042bdac4672fb436765e1"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "rapidité",
+      "id": "Theme_00647c8bf4a18fbc8db6c9e51e04820942589830b3f621c4de45fc38c6ea771e"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "industrie",
+      "relation": "LOCATED_IN",
+      "target": "Bourget",
+      "evidence": "on l'exposait au Bourget avec les acteurs de l'industrie il y a quelques mois",
+      "confidence": 1.0,
+      "source_id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3",
+      "target_id": "City_d97ef28884a4015e76b5b3c9ad74b60f53bad241b7c90dc8b19f3f9a026c8304"
+    },
+    {
+      "source": "Flat Tax",
+      "relation": "MENTIONS",
+      "target": "Flat Tax",
+      "evidence": "la fameuse “Flat Tax”, en baissant l'impôt sur les sociétés d'un tiers à 25 %",
+      "confidence": 1.0,
+      "source_id": "Theme_22efb8a026059e6a8c3802473cb1e8fe99f5bd20c1ba288c00fdc18cd131a795",
+      "target_id": "Theme_22efb8a026059e6a8c3802473cb1e8fe99f5bd20c1ba288c00fdc18cd131a795"
+    },
+    {
+      "source": "Impôt sur les sociétés",
+      "relation": "MENTIONS",
+      "target": "Impôt sur les sociétés",
+      "evidence": "L'impôt sur les sociétés rapporte aujourd'hui plus d'argent qu'il y a 5 ans",
+      "confidence": 1.0,
+      "source_id": "Theme_281de970e4852244f595d5a8738fa0052368c9e2ec63c0b1726521970d2c6610",
+      "target_id": "Theme_281de970e4852244f595d5a8738fa0052368c9e2ec63c0b1726521970d2c6610"
+    },
+    {
+      "source": "Réformes économiques sectorielles",
+      "relation": "MENTIONS",
+      "target": "Réformes économiques sectorielles",
+      "evidence": "On a mené des réformes économiques sectorielles dans différents domaines",
+      "confidence": 1.0,
+      "source_id": "Theme_8650ec99e563b380d47e324e68c1fe2cceee0150837d1db52d84447269cf3fc9",
+      "target_id": "Theme_8650ec99e563b380d47e324e68c1fe2cceee0150837d1db52d84447269cf3fc9"
+    },
+    {
+      "source": "Simplification",
+      "relation": "MENTIONS",
+      "target": "Simplification",
+      "evidence": "des mesures de simplification",
+      "confidence": 1.0,
+      "source_id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c",
+      "target_id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "source": "Loi ASAP",
+      "relation": "MENTIONS",
+      "target": "Loi ASAP",
+      "evidence": "la loi ASAP",
+      "confidence": 1.0,
+      "source_id": "Theme_dd4dc75e4a0c861d97bc14998e473b40ea47d0427c35d5ab0435c30ae27659f8",
+      "target_id": "Theme_dd4dc75e4a0c861d97bc14998e473b40ea47d0427c35d5ab0435c30ae27659f8"
+    },
+    {
+      "source": "Politique de relance",
+      "relation": "MENTIONS",
+      "target": "Politique de relance",
+      "evidence": "la politique de relance après le Covid",
+      "confidence": 1.0,
+      "source_id": "Theme_4c5431d2f75bb81c4b717c2dc7acb2e892d765445250fcd72cc5167ff2c0d12a",
+      "target_id": "Theme_4c5431d2f75bb81c4b717c2dc7acb2e892d765445250fcd72cc5167ff2c0d12a"
+    },
+    {
+      "source": "Loi industrie verte",
+      "relation": "MENTIONS",
+      "target": "Loi industrie verte",
+      "evidence": "la loi industrie verte",
+      "confidence": 1.0,
+      "source_id": "Organization_e307ff56457e8d045789fd77aa7aa70074b439500915dfc9802471ebd77e7bed",
+      "target_id": "Organization_e307ff56457e8d045789fd77aa7aa70074b439500915dfc9802471ebd77e7bed"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "stratégie",
+      "evidence": "Alors sur toute cette stratégie qu'on est en train d'accélérer, France 2030 a été un catalyste, en quelque sorte, de l'accélération.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "stratégie",
+      "evidence": "Alors sur toute cette stratégie qu'on est en train d'accélérer, France 2030 a été un catalyste, en quelque sorte, de l'accélération.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "France 2030",
+      "evidence": "France 2030, c'est du concret, vous l'avez très bien dit par vos propos.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d"
+    },
+    {
+      "source": "Institut hospitalo-universitaire HealthAge",
+      "relation": "LOCATED_IN",
+      "target": "Toulouse",
+      "evidence": "l'Institut hospitalo-universitaire HealthAge, prévention, vieillissement en santé et Géroscience, porté par le CHU de Toulouse, centré sur la prévention et la longévité en bonne santé.",
+      "confidence": 1.0,
+      "source_id": "Organization_1e219d3d58f3e18f0ee1746f948532373506ebd5ffad27e70fc1d9b0950386da",
+      "target_id": "City_aa695a1a8591febfa119cbccca39b2add1951395a057a7f2fdbd29e7adde06ae"
+    },
+    {
+      "source": "CHU de Toulouse",
+      "relation": "LOCATED_IN",
+      "target": "Toulouse",
+      "evidence": "l'Institut hospitalo-universitaire HealthAge, prévention, vieillissement en santé et Géroscience, porté par le CHU de Toulouse, centré sur la prévention et la longévité en bonne santé.",
+      "confidence": 1.0,
+      "source_id": "Organization_3f0ca05d13eabb85c8d29324905f971aa15bfa2d78658d3f64529ff5e7a8d859",
+      "target_id": "City_aa695a1a8591febfa119cbccca39b2add1951395a057a7f2fdbd29e7adde06ae"
+    },
+    {
+      "source": "Loft Orbital",
+      "relation": "LOCATED_IN",
+      "target": "Occitanie",
+      "evidence": "Loft Orbital qui développe des constellations de satellites pour ne prendre que quelques-uns des projets emblématiques parmi les 470 d'Occitanie",
+      "confidence": 1.0,
+      "source_id": "Organization_14a6d60d75e9ecd7243612bb469c5d0871d1aaa1f1099b39ed99129a631d5d5d",
+      "target_id": "City_17a2af0f6c38be8abbddb0796f2a991d391fb548e66afb83d7b9c52c16bd3ca6"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "on a lancé en plein Covid France 2030",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France 2030",
+      "relation": "MENTIONS",
+      "target": "France 2030",
+      "evidence": "que porte France 2030",
+      "confidence": 1.0,
+      "source_id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d",
+      "target_id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d"
+    },
+    {
+      "source": "SMR français",
+      "relation": "MENTIONS",
+      "target": "SMR français",
+      "evidence": "Mais à côté des autres pays, on a le défi des SMR français, des petits réacteurs et réacteurs modulaires.",
+      "confidence": 1.0,
+      "source_id": "Theme_c06fd237c0b44edd56d7fb427da00aa1e1fcd74d26171d6976463a74b082d535",
+      "target_id": "Theme_c06fd237c0b44edd56d7fb427da00aa1e1fcd74d26171d6976463a74b082d535"
+    },
+    {
+      "source": "SMR français",
+      "relation": "MENTIONS",
+      "target": "petits réacteurs",
+      "evidence": "Mais à côté des autres pays, on a le défi des SMR français, des petits réacteurs et réacteurs modulaires.",
+      "confidence": 1.0,
+      "source_id": "Theme_c06fd237c0b44edd56d7fb427da00aa1e1fcd74d26171d6976463a74b082d535",
+      "target_id": "Theme_b361e5be01a95e7e7f6be68153bd1ff3acbdf4be420b53bf2d0095ec0a0e9dad"
+    },
+    {
+      "source": "SMR français",
+      "relation": "MENTIONS",
+      "target": "réacteurs modulaires",
+      "evidence": "Mais à côté des autres pays, on a le défi des SMR français, des petits réacteurs et réacteurs modulaires.",
+      "confidence": 1.0,
+      "source_id": "Theme_c06fd237c0b44edd56d7fb427da00aa1e1fcd74d26171d6976463a74b082d535",
+      "target_id": "Theme_6b03b646c85875322890be46919dac8012f61c9916f22ef52d1b42a7bb411b30"
+    },
+    {
+      "source": "France 2030",
+      "relation": "SUPPORTS",
+      "target": "matériaux",
+      "evidence": "avec France 2030, à innover en la matière, en particulier sur les matériaux.",
+      "confidence": 1.0,
+      "source_id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d",
+      "target_id": "Theme_681411ad5cdd2fdd098fee0c6e92e49ab2bcc58433ab121b5c1141d14515a044"
+    },
+    {
+      "source": "décarbonation de notre mobilité",
+      "relation": "MENTIONS",
+      "target": "électrification",
+      "evidence": "Parler de décarbonation d'industrie et d'usage, c'est évidemment parler de la décarbonation de notre mobilité, de son électrification",
+      "confidence": 1.0,
+      "source_id": "Theme_60324c62cc78fe89b15e42d00d7fc6bb7beaa8b71a6f0299a9eb08dde8ec883d",
+      "target_id": "Theme_5a330a16d0590e3766cd55707c3837d518e8a0cb07d5eb80981f61e17b01917b"
+    },
+    {
+      "source": "2020",
+      "relation": "MENTIONS",
+      "target": "1 million 400 000 véhicules thermiques et hybrides en France",
+      "evidence": "en 2020, on produisait au total 1 million 400 000 véhicules thermiques et hybrides en France",
+      "confidence": 1.0,
+      "source_id": "Theme_1224d9961397ab6dcd83d6aeaebec00aa0f6dbdd187dce743774961d1cc6d53b",
+      "target_id": "Theme_aa6c9a2431b167341a9444fba1e506a29510cea8326cd73c267415b8fc050082"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "hydrogène bas carbone",
+      "evidence": "La France a donc un avantage comparatif massif et c'est pour ça qu'on s'est battus ces dernières années et qu'on a stabilisé des règlements européens qui nous permettent de reconnaître dans les modèles notre hydrogène bas carbone reposant sur le modèle français.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_cd1dc03779fd067f4b5bf611b5a8c901ac3520ff0a0814e294a2db57f5c9e177"
+    },
+    {
+      "source": "loi industrie verte",
+      "relation": "SUPPORTS",
+      "target": "hydrogène",
+      "evidence": "grâce à la mise en oeuvre de la loi industrie verte et à notre programmation pluriannuelle énergie, qui va donner de la visibilité, permettre d'avoir des vrais modèles pour ces infrastructures de transport et de production d'hydrogène, et d'aller beaucoup plus vite et plus fort",
+      "confidence": 1.0,
+      "source_id": "Organization_e307ff56457e8d045789fd77aa7aa70074b439500915dfc9802471ebd77e7bed",
+      "target_id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "source": "programmation pluriannuelle énergie",
+      "relation": "SUPPORTS",
+      "target": "hydrogène",
+      "evidence": "grâce à la mise en oeuvre de la loi industrie verte et à notre programmation pluriannuelle énergie, qui va donner de la visibilité, permettre d'avoir des vrais modèles pour ces infrastructures de transport et de production d'hydrogène, et d'aller beaucoup plus vite et plus fort",
+      "confidence": 1.0,
+      "source_id": "Organization_2b87ff5fe553c2e488629b85e4441b20249ff62b7894f31d5885ac6501a452f7",
+      "target_id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "source": "CCS",
+      "relation": "MENTIONS",
+      "target": "décarbonation de l'industrie",
+      "evidence": "Il y a quelques jours, le Haut Conseil pour le climat a rendu un avis positif sur ces technologies, soulignant la pertinence du CCS pour la décarbonation de l'industrie, en particulier dans la cimenterie où les solutions de décarbonation sont limitées.",
+      "confidence": 1.0,
+      "source_id": "Theme_520224db7a5fe72cf8b254f0bfe6a93019242451d136a91bf7bb073911718204",
+      "target_id": "Theme_e625e4cc497c0a2947d613957805d813b047560436b6ac25f480f916d0288c79"
+    },
+    {
+      "source": "pétrole",
+      "relation": "MENTIONS",
+      "target": "énergies fossiles",
+      "evidence": "Il y a, si je puis dire, le faux CCS et le vrai CCS. Je m'explique. Il y a les gens qui vous expliquent qu'avec ça, on va régler tous les problèmes ; c'est-à-dire, on va pouvoir faire comme avant avec les énergies fossiles, tirer tout le pétrole qu'on a, continuer avec le charbon, vous allez voir parce qu'on va réussir à le capter puis à le stocker.",
+      "confidence": 1.0,
+      "source_id": "Theme_3260ac0f04251087e1b398b0d2bf276cec225dfc5f0db44e9872e55badaa7627",
+      "target_id": "Theme_b6c35f61d1a981309cce533ddbf6a71e259f9c267d021131e611f1b7a3f5f978"
+    },
+    {
+      "source": "charbon",
+      "relation": "MENTIONS",
+      "target": "énergies fossiles",
+      "evidence": "Il y a, si je puis dire, le faux CCS et le vrai CCS. Je m'explique. Il y a les gens qui vous expliquent qu'avec ça, on va régler tous les problèmes ; c'est-à-dire, on va pouvoir faire comme avant avec les énergies fossiles, tirer tout le pétrole qu'on a, continuer avec le charbon, vous allez voir parce qu'on va réussir à le capter puis à le stocker.",
+      "confidence": 1.0,
+      "source_id": "Theme_548bb5ce8df69ec8043411bf054457e539ac5bba47798110164f1896a83f7cd8",
+      "target_id": "Theme_b6c35f61d1a981309cce533ddbf6a71e259f9c267d021131e611f1b7a3f5f978"
+    },
+    {
+      "source": "France 2030",
+      "relation": "SPOKE_ABOUT",
+      "target": "ressources minérales",
+      "evidence": "Ensuite, l'un des axes sur lequel je veux qu'on accélère avec France 2030, ce sont les ressources minérales",
+      "confidence": 1.0,
+      "source_id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d",
+      "target_id": "Theme_fa82361b964ff402bc143adbdaf410c482cfae4adbe41edb7aa31ebffacd92b1"
+    },
+    {
+      "source": "innovation",
+      "relation": "MENTIONS",
+      "target": "France 2030",
+      "evidence": "par l'innovation, par France 2030, nous devons accélérer notre stratégie",
+      "confidence": 1.0,
+      "source_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc",
+      "target_id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d"
+    },
+    {
+      "source": "France 2030",
+      "relation": "MENTIONS",
+      "target": "stratégie forte, claire, de sortie, crédible graduelle ou en rupture",
+      "evidence": "avec France 2030, nous allons véritablement mettre en place une stratégie forte, claire, de sortie, crédible graduelle ou en rupture",
+      "confidence": 1.0,
+      "source_id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d",
+      "target_id": "Theme_acb954a4d33befdfc2db9334161767e69072d6e32bb205237e184a3504045a51"
+    },
+    {
+      "source": "France 2030",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "France 2030 sera au service de notre stratégie nationale de biodiversité",
+      "confidence": 1.0,
+      "source_id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie",
+      "id": "Theme_fa010b2e87d32c400a0a52b10fe00d186b07d80baf9792842d534698bb9241c6"
+    },
+    {
+      "type": "Theme",
+      "name": "industriels européens",
+      "id": "Theme_482a194d49ae34d5c69b9bf2819eed1507dd58faadee6d471c7193537fa83293"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène vert européen",
+      "id": "Theme_3de401e6debd51efb8ac9a06bc0e3e5f89fc18f86871579222f91b1616160f78"
+    },
+    {
+      "type": "Theme",
+      "name": "éoliennes",
+      "id": "Theme_5f8a28b689d4bbe5fce2e383c1875822c62b64fd3f138aa0c8b5e68590a180f8"
+    },
+    {
+      "type": "Person",
+      "name": "Alexander",
+      "id": "Person_140a70259a81d4236c3ef875bdbf9e4454913cd61287bbafd29e4ad453f2240d"
+    },
+    {
+      "type": "Person",
+      "name": "Mette",
+      "id": "Person_f8a0a2537f3aba31680a3233b2418d0d83e494ec9e2f45618d95fa98fe35a0b9"
+    },
+    {
+      "type": "City",
+      "name": "Ostende",
+      "id": "City_c81069ef7d9743abc431b5631b9742dcb72fad9365309c58279189f76b77ddc6"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Theme",
+      "name": "production d'énergie décarbonée européenne",
+      "id": "Theme_5012755b59af945d953ef2a962e9d343c47e1a884d23af0f0a44cd04b8811ac3"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie européenne",
+      "id": "Theme_665cfbee3f40b39ac476425ad3592666ec17bbcf23c65c8c2d9e9e5aeea918a5"
+    },
+    {
+      "type": "Theme",
+      "name": "résilience",
+      "id": "Theme_ae0698b8a130cd1cd5df43fe5e3e189eb0c16712f2fa72aeeed81640c8d2a14e"
+    },
+    {
+      "type": "Theme",
+      "name": "made in Europe",
+      "id": "Theme_f3cfcd8da301a70056b634cf55d89ae9ca13da45325d6d49c49141404d58bce5"
+    },
+    {
+      "type": "Theme",
+      "name": "photovoltaïque",
+      "id": "Theme_3fa6f6028d8eea192c17d89e1ea7540a12ac336e4082ee64c0d227e4d78abda7"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte éolien en mer",
+      "id": "Theme_f27e005442f47fcf61ff9e845d2690d1a15534e282d65c50d8312cbc13645068"
+    },
+    {
+      "type": "Theme",
+      "name": "assemblage d'éoliennes",
+      "id": "Theme_2ea094c44efe84146787a1b69d7d868400de0616fa912c6be281872150b74c73"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "pacte éolien en mer",
+      "evidence": "La France s'inscrit dans cette stratégie avec un objectif de 40 gigawatts pour ce qui nous concerne, un pacte éolien en mer qui a été signé il y a maintenant un an",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_f27e005442f47fcf61ff9e845d2690d1a15534e282d65c50d8312cbc13645068"
+    }
+  ]
+}

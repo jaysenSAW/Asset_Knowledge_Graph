@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Country",
+      "name": "Andorre",
+      "id": "Country_270c1952dabe90cf15ea047713657a508f05ee39410e546a417c8d00aa9f787f"
+    },
+    {
+      "type": "City",
+      "name": "Ariège",
+      "id": "City_c44b99ce1cbbc6bcc970d79a663a0104c8aecbc02c9209824f96a76eefdaf5f5"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Person",
+      "name": "Président Trump",
+      "id": "Person_9d787453218ebafb5af4581cdb7aced0dbcbda10c3b5f953d94154dad3b197b3"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition",
+      "id": "Organization_2d98a336b361fd804af3602880c6fc58a8d0d12b960c29dc036ccec093891de9"
+    },
+    {
+      "type": "Person",
+      "name": "Bruno RETAILLEAU",
+      "id": "Person_734a1b6eb3777d21a3f73e5a3d8fea1acd0496fa391e6b56ab8326a44d36317a"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "City",
+      "name": "Andorre",
+      "id": "City_2a162c3d6a2f9101b121986973b2944169cef334960cd778269cd77f41d11925"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Emmanuel MACRON",
+      "relation": "VISITED",
+      "target": "Ariège",
+      "evidence": "Emmanuel MACRON\nD'abord, j'étais très heureux d'être en Ariège ce matin et en ce début d'après-midi.",
+      "confidence": 1.0,
+      "source_id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b",
+      "target_id": "City_c44b99ce1cbbc6bcc970d79a663a0104c8aecbc02c9209824f96a76eefdaf5f5"
+    },
+    {
+      "source": "Emmanuel MACRON",
+      "relation": "VISITED",
+      "target": "Andorre",
+      "evidence": "Emmanuel MACRON\nBonjour à toutes et à tous.\nHeureux d'être en Andorre. Merci beaucoup d'être là.",
+      "confidence": 1.0,
+      "source_id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b",
+      "target_id": "City_2a162c3d6a2f9101b121986973b2944169cef334960cd778269cd77f41d11925"
+    }
+  ]
+}

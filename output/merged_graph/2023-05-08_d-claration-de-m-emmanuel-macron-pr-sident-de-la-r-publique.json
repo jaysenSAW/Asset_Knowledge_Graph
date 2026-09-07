@@ -1,0 +1,447 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Marc Bloch",
+      "id": "Person_6c4608685cc7356213e997f258bcccb96ef14022a4557a9476ed88c662fbd314"
+    },
+    {
+      "type": "Person",
+      "name": "Jean Moulin",
+      "id": "Person_7a31bd4caf84b8ba31eac59cfa7fb2777ad0ae3b615d6577d48eff4436b7427a"
+    },
+    {
+      "type": "Event",
+      "name": "8 mars 1944",
+      "id": "Event_afeb2dbeda13fad418f6eb69d6a8b8b9a1ca7c87dbc24c4b267713df22ce21f1"
+    },
+    {
+      "type": "Event",
+      "name": "désastre de juin 40",
+      "id": "Event_5bb76f2e3fa90058ba3ee7eeadf7980769091a094e195c77725c183f0cb0f096"
+    },
+    {
+      "type": "Event",
+      "name": "Conseil National de la Résistance",
+      "id": "Event_96a5a078e704094a58fd270fd363fd967093d364aa71b08dc8d9e3b4433c0bf4"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil National de la Résistance",
+      "id": "Organization_1ca6b0433a36cd9b4656b834c2b4da0191837379bd82de081d7cf4c8a3903d92"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Béatrix de Toulouse-Lautrec",
+      "id": "Person_783ce2a6208f1d86ba3dee33a3d67a99e07f460c2702ba7c6fe7707231fc7b70"
+    },
+    {
+      "type": "Person",
+      "name": "Albert Bulka",
+      "id": "Person_b2cc6835337f2656ac5ea49569debff44187a3e18b0b0974754aa9cfaa2dafe6"
+    },
+    {
+      "type": "Person",
+      "name": "Alcide Beauregard",
+      "id": "Person_374491165e506ed4665d28508100840d3ffe63e29d94ac21cc441e093bffa20d"
+    },
+    {
+      "type": "City",
+      "name": "Ravensbrück",
+      "id": "City_ba5559f571cd3d51a744b7e964a7773c6faf4e52c21338de69a53b4af63c32f9"
+    },
+    {
+      "type": "City",
+      "name": "Montluc",
+      "id": "City_6efb11a6a8278bd65f6af0968633d00fea12612908db8a56fcd9e9f179fc5d06"
+    },
+    {
+      "type": "City",
+      "name": "Izieu",
+      "id": "City_fdf82cd6bee241d7ed2329be6013da9bc9a83c68b79fa4e470cb8e217244d29f"
+    },
+    {
+      "type": "City",
+      "name": "Drancy",
+      "id": "City_5de59825a6a240ecd5fa0298b3d5f696740522f73c36b75b2e9c979e71e57b65"
+    },
+    {
+      "type": "City",
+      "name": "Auschwitz",
+      "id": "City_d5ce0621796b4925e41a5f91c45af7b27b0f70ac3b9625c8323f44d1b94fb05e"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "Person",
+      "name": "Jean NALLIT",
+      "id": "Person_3749e5daa8e1a7c4a05fc55e6eaba339c75b70cbe5661b763c61069aaa4c5e94"
+    },
+    {
+      "type": "Person",
+      "name": "Andrée GAILLARD",
+      "id": "Person_6cf79d7d06284660be524b17e8898fb1af8707dadafe1cbf973694c79bc9b07f"
+    },
+    {
+      "type": "Person",
+      "name": "Claude BLOCH",
+      "id": "Person_df498a557729422be1cd7d132b0bc4f6890c075f73ac1d2b42b3116fc36ef0c6"
+    },
+    {
+      "type": "Theme",
+      "name": "juif",
+      "id": "Theme_d789e52e69aeccff9f302bed1443fe709c0b53f39a35bf54fa7810d499caff0c"
+    },
+    {
+      "type": "Person",
+      "name": "André Dévigny",
+      "id": "Person_cc3e13fd7d6959130e33a971cbfac56f8793ae7358f9e4451c04f2c8b331626b"
+    },
+    {
+      "type": "Person",
+      "name": "Raymond Aubrac",
+      "id": "Person_f1bad2904d53de4c33135c59dac1f23f472be87ac45542ddf770b087223b39f0"
+    },
+    {
+      "type": "Person",
+      "name": "Lucie",
+      "id": "Person_bc8676e375c4849efa03635e226bf1ba1cd764277b8339383e09b388a7344fdf"
+    },
+    {
+      "type": "Organization",
+      "name": "Francs-Tireurs",
+      "id": "Organization_1734cdc3eceaf154212248dbb28fda46da285894694f05681ffa46f126ca105e"
+    },
+    {
+      "type": "Organization",
+      "name": "CNR",
+      "id": "Organization_e42e612cdc0fce5d8cb6402795ede309b7de2ddd7252fd9fed4ede6ba132b7ad"
+    },
+    {
+      "type": "City",
+      "name": "Rodez",
+      "id": "City_b4b0c999a6ffaf99cb9ecfc3a7bf33e4212bd7ed2cf6de91dc403514bfd37de6"
+    },
+    {
+      "type": "City",
+      "name": "Chartres",
+      "id": "City_cacaa35d8fd55a89aa18f78df51c6c72e98c38b204f0e1bce27c6060b12880eb"
+    },
+    {
+      "type": "City",
+      "name": "Languedoc",
+      "id": "City_174f2a632fb8a6197ef4d894c115067f5b4e510b7a9dd339222508106c3eaded"
+    },
+    {
+      "type": "City",
+      "name": "La Taye",
+      "id": "City_0095242ed987f6435e23416f592b2cb63f6da726d8e1b6852d8fe333a29d2214"
+    },
+    {
+      "type": "City",
+      "name": "Eure-et-Loir",
+      "id": "City_b36d9c03a3b00f9d50d8b65fd2bb81a26a139f5cd8c922b7cce8e77646b3cba3"
+    },
+    {
+      "type": "Person",
+      "name": "Daniel Cordier",
+      "id": "Person_5b0bacb53206eef5873b3ce8673f24616ee0dd521c544746381af1e81bcce601"
+    },
+    {
+      "type": "Person",
+      "name": "Colette Pons",
+      "id": "Person_870bb1bbf2c848afae548974099aecccbb1cf7c7b08d25bea105848eaba161ee"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre Meunier",
+      "id": "Person_b8603abbf263f77cabbe105d67f6c199eea7ba00b315cd474de53ee87f27a909"
+    },
+    {
+      "type": "Person",
+      "name": "Robert Chambeiron",
+      "id": "Person_2707fbd78d0165a89876fe93ee7a62913ee35a577cd51950a7880c288003068a"
+    },
+    {
+      "type": "City",
+      "name": "Londres",
+      "id": "City_46110e3e9c35de9d2cda1109fbec5fe7701b958198ac1143e8e5aa66bd4be03f"
+    },
+    {
+      "type": "City",
+      "name": "Provence",
+      "id": "City_02563396c2e1a5b02a9aa4678b67397e930cb5ad9d86981d6f4514102ab8d4fd"
+    },
+    {
+      "type": "Organization",
+      "name": "armée secrète",
+      "id": "Organization_32478ad923e2b1943862f32b59550d48ca46823de38d929cd589e0cac3c6fb87"
+    },
+    {
+      "type": "Organization",
+      "name": "réseaux",
+      "id": "Organization_15b52b1ecf8f2361904dd3e5cf42e1394cfb0bdb37c5f35ad0472b2aabafa5ef"
+    },
+    {
+      "type": "Theme",
+      "name": "rassemblement",
+      "id": "Theme_e0f48fd4b9e3783629cbd811ad59f4f3d0068ee1a19f8e411dcc3f1d7ab9871c"
+    },
+    {
+      "type": "Theme",
+      "name": "diplomate",
+      "id": "Theme_0bc2f02ac1523121d637d98d85d49c9892ebc4460e88487767d48577635b0984"
+    },
+    {
+      "type": "Person",
+      "name": "Henri Frenay",
+      "id": "Person_2e767c98c5a10c89571b1d7c52ea0aa6ae63ba8147b6b306222ec001c1138ebc"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel d’Astier de la Vigerie",
+      "id": "Person_c48143d0129ff4ff9971eb30dffb601ce04cdfcff18a0b568a40bc2f6a1f8d8b"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Pierre Levy",
+      "id": "Person_00bab1c66179972a5983a3e958872e501b67a5c7dcf1b87bd26d653144af2a38"
+    },
+    {
+      "type": "Person",
+      "name": "general de Gaulle",
+      "id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442"
+    },
+    {
+      "type": "Person",
+      "name": "André Mercier",
+      "id": "Person_d027dc608ce5a4907f282756edeeb581b7fa2e235481a6b64b5f02893e23c4be"
+    },
+    {
+      "type": "Person",
+      "name": "Marc Rucart",
+      "id": "Person_a782d4ea588800085a29478eda83c498507e66e7926bb422c2d9c95eef20de85"
+    },
+    {
+      "type": "Person",
+      "name": "André Le Troquer",
+      "id": "Person_0c6c764d6364bb8de5742e1174ac8f1ae2b20a3b0530b7846e5f46d629ffa030"
+    },
+    {
+      "type": "Person",
+      "name": "Joseph Laniel",
+      "id": "Person_c4d621a8b68a6053be2cb9d32d060d00e582161fc34a71e0fd70a6ebc4bdf20d"
+    },
+    {
+      "type": "Person",
+      "name": "Jacques Debru-Rydel",
+      "id": "Person_67a3ad62d4f9492901f9c0e252af213d7d2b35ed323b8b752848437215c92795"
+    },
+    {
+      "type": "Person",
+      "name": "Georges Bidault",
+      "id": "Person_8017ceb87f5a60fa46d6a36dee37315df69f75597fc75e77740a0fc8d0a826c9"
+    },
+    {
+      "type": "Organization",
+      "name": "Parti communiste",
+      "id": "Organization_845f435f3a985a3e0b9226d045ba4400727be1531ece7ec20b9653fd4b7f8bdb"
+    },
+    {
+      "type": "Organization",
+      "name": "Parti radical",
+      "id": "Organization_5f56c105b6fe4541ef6fa2071762bff0ea167618f39090d57016251c5fcee223"
+    },
+    {
+      "type": "Organization",
+      "name": "SFIO",
+      "id": "Organization_0fac25dcdf134bc422f5b47c170c5288c8657f670c9985a99f160827b4967bc9"
+    },
+    {
+      "type": "Organization",
+      "name": "alliance démocratique",
+      "id": "Organization_cceaa8240630ee83ed82eb004f0a5971c23fed54dd2f4b8bba00964c54994176"
+    },
+    {
+      "type": "Organization",
+      "name": "Fédération républicaine",
+      "id": "Organization_dd9989b89ca1cbb66df196f3d94ae907ae87e2306302f351a8641baaf7e5f1c0"
+    },
+    {
+      "type": "Organization",
+      "name": "parti démocrate populaire",
+      "id": "Organization_f3e2a2b22b7d6f555324309b50a1c670ca76943157fea8eba591c46ccbecdbee"
+    },
+    {
+      "type": "Organization",
+      "name": "CGT",
+      "id": "Organization_bce95be5cb0d0b90a5b1eb59084d7785fbcedf472f14ef5f77a6e1ced216ff35"
+    },
+    {
+      "type": "Organization",
+      "name": "CFTC",
+      "id": "Organization_d8a6fea9e03c3443e637caa306698022d755a837e14451d830b409a0153d4e40"
+    },
+    {
+      "type": "Theme",
+      "name": "Sacre de Reims",
+      "id": "Theme_7cbc4143668f03e99bebf7de68fa073645490e5ad0ef9f6b442cd365d55096fd"
+    },
+    {
+      "type": "Theme",
+      "name": "Fête de la Fédération",
+      "id": "Theme_9400bf0044ac04eb2d6150a2c28715a31394fb5d188a4b3c9e3b8aa0db79fdb2"
+    },
+    {
+      "type": "Theme",
+      "name": "suffrage universel",
+      "id": "Theme_2222564a37789e754599b8f91bc0e30be91a0793295a95713c1e403808511a18"
+    },
+    {
+      "type": "Person",
+      "name": "de Gaulle",
+      "id": "Person_37f95bd08a7aed96ec78152708e15ac7b0aeadf9b6ed76c9324554a4a27abf09"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité sociale",
+      "id": "Theme_6bc8554cb5a6e887e61ca01ff0eb8003fb0972afe2162ba6703c5d3e2fe48648"
+    },
+    {
+      "type": "Event",
+      "name": "Libération",
+      "id": "Event_c22d6c9503e742d378d07723ac314bff15ad8587a33f5dd4830fa59041459a35"
+    },
+    {
+      "type": "Event",
+      "name": "capitulation de l’Allemagne nazie",
+      "id": "Event_21b0489b4f8c00f5d3fbcd25b4777eba8f8571aa2402b7c21ac0804f0fabb85b"
+    },
+    {
+      "type": "Event",
+      "name": "8 mai 1945",
+      "id": "Event_24f899e8be90bebbf8467145c668969c71130f1a1fd449cbfa67284ebfd5e842"
+    },
+    {
+      "type": "Person",
+      "name": "Klaus Barbie",
+      "id": "Person_f5b60df84144aa793d07f29e2ba5896e7064cdda432f22e6a164b90a7a42af64"
+    },
+    {
+      "type": "Person",
+      "name": "Serge Klarsfeld",
+      "id": "Person_9c4ede04a6aa88820aa9280aa590f667cb9c607131b20df03cad14e566293688"
+    },
+    {
+      "type": "Person",
+      "name": "Ladislas de Hoyos",
+      "id": "Person_a76812dc62ab789677b29bd12264236468f296a55dad6b5e7901d3a225b474f4"
+    },
+    {
+      "type": "Person",
+      "name": "Régis Debray",
+      "id": "Person_d7d340be7ccf27337f6a953433a1d0af14191bdd6b06d27502562aed55b92a3e"
+    },
+    {
+      "type": "Person",
+      "name": "Robert Badinter",
+      "id": "Person_674c12388b3de914edeee1d8b2c7e320133b6d85b1cf04c5f276dc9833715e54"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de Résistance",
+      "id": "Theme_0932f44f44b100820ec8e8eb34bf923bda8dc9cc544aae8f3a8ce98a1397b36b"
+    },
+    {
+      "type": "Theme",
+      "name": "mémoire nationale",
+      "id": "Theme_e1eb511b13f3d876f72bae536843f7e7b94ae2a3d7e5c6c483c5420f36336d8a"
+    },
+    {
+      "type": "Organization",
+      "name": "ONAC",
+      "id": "Organization_2c415a61e564e9136c07e24eae4e6da96e8d890d575920ddb15a0ca672bc0f7e"
+    },
+    {
+      "type": "Organization",
+      "name": "nos associations",
+      "id": "Organization_008147e3ad523e5aa6790c4e55701fac9cf9e68b838bcc5cef87d2724d63d714"
+    },
+    {
+      "type": "Organization",
+      "name": "nos ambassadrices et nos ambassadeurs",
+      "id": "Organization_fa4c6463d6f87216f97417d2d538dede0aeb0c431f449be9442b8c8c9c886cb2"
+    },
+    {
+      "type": "Organization",
+      "name": "République",
+      "id": "Organization_0eac6305aac01bf684a6d57836831f1443587a4616a4d6b56b3d3c1e778ca152"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Albert Bulka",
+      "relation": "VISITED",
+      "target": "Montluc",
+      "evidence": "Albert Bulka, du haut de ses 4 ans, qui arriva le 6 avril 1944 à Montluc, avec 43 autres enfants qui avaient pour seul tort d’être nés juif.",
+      "confidence": 1.0,
+      "source_id": "Person_b2cc6835337f2656ac5ea49569debff44187a3e18b0b0974754aa9cfaa2dafe6",
+      "target_id": "City_6efb11a6a8278bd65f6af0968633d00fea12612908db8a56fcd9e9f179fc5d06"
+    },
+    {
+      "source": "Jean Moulin",
+      "relation": "SPOKE_ABOUT",
+      "target": "Fête de la Fédération",
+      "evidence": "Ainsi Jean Moulin répondait à Marc Bloch : il existait encore en France une catégorie de Français qui vibrait au souvenir du Sacre de Reims et lisait avec émotion le récit de la Fête de la Fédération",
+      "confidence": 1.0,
+      "source_id": "Person_7a31bd4caf84b8ba31eac59cfa7fb2777ad0ae3b615d6577d48eff4436b7427a",
+      "target_id": "Theme_9400bf0044ac04eb2d6150a2c28715a31394fb5d188a4b3c9e3b8aa0db79fdb2"
+    },
+    {
+      "source": "mémoire nationale",
+      "relation": "MENTIONS",
+      "target": "mémoire nationale",
+      "evidence": "s’est mué en haut lieu de la mémoire nationale",
+      "confidence": 1.0,
+      "source_id": "Theme_e1eb511b13f3d876f72bae536843f7e7b94ae2a3d7e5c6c483c5420f36336d8a",
+      "target_id": "Theme_e1eb511b13f3d876f72bae536843f7e7b94ae2a3d7e5c6c483c5420f36336d8a"
+    },
+    {
+      "source": "ONAC",
+      "relation": "MEMBER_OF",
+      "target": "nos associations",
+      "evidence": "à nos associations, à l’ONAC",
+      "confidence": 1.0,
+      "source_id": "Organization_2c415a61e564e9136c07e24eae4e6da96e8d890d575920ddb15a0ca672bc0f7e",
+      "target_id": "Organization_008147e3ad523e5aa6790c4e55701fac9cf9e68b838bcc5cef87d2724d63d714"
+    }
+  ]
+}

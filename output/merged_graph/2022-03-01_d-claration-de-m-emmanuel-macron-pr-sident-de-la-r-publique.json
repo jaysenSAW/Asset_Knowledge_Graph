@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "Contrat d'Engagement Jeune",
+      "id": "Theme_76170749609996e6c6be5d3d7f83ea4b2bb94b2113e44f03119e7845cefc9912"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre en Ukraine",
+      "id": "Theme_c1ac68c6c37050c08bad07f72ee5a0d6426beefac1fe476dc951a6e663e6c13f"
+    },
+    {
+      "type": "Theme",
+      "name": "virus",
+      "id": "Theme_693f7390ed433c22624aec32764b8241743cc2c14cc1c8347faecc4978733995"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "fatalité",
+      "id": "Theme_91821ece115556da69fe9d01e520831311b2c3c97a6959ffb0c6b4ce8b578a77"
+    },
+    {
+      "type": "Theme",
+      "name": "société",
+      "id": "Theme_23d952489b07041be7b06f706f86ec7cfc55af055e1b2e2f815671e6fa2ef5ed"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien",
+      "id": "Theme_4dfac92dac64c205c1c0e703283d4ba045cb9535e4f0c0a54df8ba969e6e1575"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie",
+      "id": "Theme_fa010b2e87d32c400a0a52b10fe00d186b07d80baf9792842d534698bb9241c6"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "défis",
+      "id": "Theme_5a6aef98f24c26e747d7ee3628cc4cefe7a02e552336681ab6dcd972be5b12a5"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Contrat d'Engagement Jeune",
+      "relation": "MENTIONS",
+      "target": "engagement",
+      "evidence": "Le Contrat d'Engagement Jeune, ce sont des droits qui s'accompagnent de devoirs : investissement, assiduité. C'est un pacte.",
+      "confidence": 1.0,
+      "source_id": "Theme_76170749609996e6c6be5d3d7f83ea4b2bb94b2113e44f03119e7845cefc9912",
+      "target_id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    }
+  ]
+}

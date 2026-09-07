@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "type": "Event",
+      "name": "Révolution des Oeillets",
+      "id": "Event_f591a79f8e7554947a53309f0bacaa93c4b0e49ad9e732e6f4cf99c9fe706b66"
+    },
+    {
+      "type": "Country",
+      "name": "Portugal",
+      "id": "Country_cf5e0a7a677f823b7b8ff468282692a5b0531c04401a108b2b705a578a7907b7"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "France",
+      "id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "City",
+      "name": "Lisbonne",
+      "id": "City_3b2c76f6fdbcedd0f2f1da00e9207b46fcf90052897133894e132919592a443d"
+    },
+    {
+      "type": "Person",
+      "name": "Zeca Afonso",
+      "id": "Person_4eb9003840d07656b4fd1fce0ec4b7a8107fcc4aabf2493565b698d015311332"
+    },
+    {
+      "type": "Person",
+      "name": "Maria Isabel Barreno",
+      "id": "Person_f068d984df26b7150f1e62720c8329a0e2d01bc1670247065e2ee138ddbd819a"
+    },
+    {
+      "type": "Person",
+      "name": "Maria Teresa Horta",
+      "id": "Person_eb944f1aa080717326c8e81b77ad1c043de8a8f9537e465354281d22bef3dc5f"
+    },
+    {
+      "type": "Person",
+      "name": "Maria Velho Da Costa",
+      "id": "Person_e6fad0ef0f6c59ad619342178973bf7334965742e7615783275452e681df0b7e"
+    },
+    {
+      "type": "Person",
+      "name": "Mário Soares",
+      "id": "Person_5e5184c938aabe2492e4fe2b9d68b718bb2552acf986413e3bdfc7f317493afb"
+    },
+    {
+      "type": "Person",
+      "name": "Álvaro Cunhal",
+      "id": "Person_4cc0a20b027906b7463a339afb092338c80458b8bd1630c3664cc4e7eb893dec"
+    },
+    {
+      "type": "Person",
+      "name": "Emídio Guerreiro",
+      "id": "Person_9556113332548c92a67b3c4068c1afdd657f35c4aa8fce2d4c3d2596b8fb1540"
+    },
+    {
+      "type": "City",
+      "name": "Porto",
+      "id": "City_7dc81b065040e16423a90f9367dbc51bc044fde49a3dee5880a081491c6941f5"
+    },
+    {
+      "type": "City",
+      "name": "Château d'Hérouville",
+      "id": "City_fae466764e9b7e7f834fd79677d0e6eb18b13e65d062c364c1a0dd3313cdda62"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Portugal",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "le 25 avril 1974 a marqué la fin de la plus vieille dictature de l'Europe occidentale, le lancement de l'ultime étape de la décolonisation sur le continent africain et le début de la marche du Portugal vers l'Union européenne, et ce, jusqu'à son adhésion en 1986.",
+      "confidence": 1.0,
+      "source_id": "Country_cf5e0a7a677f823b7b8ff468282692a5b0531c04401a108b2b705a578a7907b7",
+      "target_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "source": "Portugal",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "Depuis cette époque, les liens séculaires entre le Portugal et la France sont redevenus étroits, solides, confiants, toujours davantage.",
+      "confidence": 1.0,
+      "source_id": "Country_cf5e0a7a677f823b7b8ff468282692a5b0531c04401a108b2b705a578a7907b7",
+      "target_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    }
+  ]
+}

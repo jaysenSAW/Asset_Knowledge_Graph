@@ -1,0 +1,589 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Mes chers compatriotes",
+      "id": "Person_b6b29c7b55b71aae52b700aaa89778c04669d873e35a8a1d54782abede5f747b"
+    },
+    {
+      "type": "Person",
+      "name": "officiers et soldats dans notre armée",
+      "id": "Person_86fe8faa24d835e2216494afcc7098f8ea6ed16c8ddf05d7223b8b00b8eec2bb"
+    },
+    {
+      "type": "Person",
+      "name": "policiers, gendarmes, pompiers, forces de sécurité, sauveteurs en mer",
+      "id": "Person_e2e5a4b2f146cdf69e5898acbc37d2fd65c95302ad26d450a77d9342cc17a21a"
+    },
+    {
+      "type": "Person",
+      "name": "médecins, soignants, patients",
+      "id": "Person_d034c120a1fa2ace4063961336e5b4feb9c92c76487b9854dd7ef469487119e1"
+    },
+    {
+      "type": "Person",
+      "name": "agents publics",
+      "id": "Person_15396e98cc15fafa50924e81193248ecd204899ede468d0882ee330e1c7010cd"
+    },
+    {
+      "type": "Person",
+      "name": "citoyens engagés professionnellement ou dans nos associations",
+      "id": "Person_8fc23a713ae50add2b136fdd3bb5627a96fcb8604a9efcf333effaf1ee13f690"
+    },
+    {
+      "type": "Person",
+      "name": "nos compatriotes d'outre-mer",
+      "id": "Person_1e5fd614ccc0f10aec3996d38511ff73428e2275e7b3d6cbf53a2b86b5fc5ed2"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Theme",
+      "name": "résistance unie",
+      "id": "Theme_11508aa263437ffd6a8654b288d3f46ab4645295d264de3cc73389bced9c4653"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz à effet de serre",
+      "id": "Theme_601e4ced7fdd29d58bc0a82076d52b7d84e3945fdb894d9801115aa38db3723a"
+    },
+    {
+      "type": "Theme",
+      "name": "taxe carbone",
+      "id": "Theme_8ef12a8dc27ffc72d97301d64b80b5798a3a2b85a4f1d1f3d7c5102d4b786fb4"
+    },
+    {
+      "type": "Theme",
+      "name": "impôt minimal",
+      "id": "Theme_5df5bb1ecf9d57a77b8a85eb9b7b19059ffea9474da7a48c4c3e1afeaef68f83"
+    },
+    {
+      "type": "Theme",
+      "name": "l'évasion fiscale",
+      "id": "Theme_bbe3628052e323d5030c0a23a9a72df6d720cff617aa2faae0cd40ceda7c55eb"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "défis",
+      "id": "Theme_5a6aef98f24c26e747d7ee3628cc4cefe7a02e552336681ab6dcd972be5b12a5"
+    },
+    {
+      "type": "Theme",
+      "name": "élection présidentielle",
+      "id": "Theme_cbeb478471d1b5381ff14861560e41ff00cbef933489fd79ff7ba1c19ddc0eb6"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "Augmentation générale et durable des prix",
+      "id": "Theme_5eb116de1d5e16531ecfc3d1ce72deda9884f4175ae830ddb36e0359ccec5368"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité nationale",
+      "id": "Theme_4f1b80e4bf99097256687568dcb68b221fb0eadb91c3bb0597db899daa266e2d"
+    },
+    {
+      "type": "Theme",
+      "name": "hausse des prix de l'énergie",
+      "id": "Theme_850b8c41e46034358e90afc6c489cf54c1b0bc2ca8d7461ac28b5a055febaf7c"
+    },
+    {
+      "type": "Theme",
+      "name": "sauvegarder nos entreprises",
+      "id": "Theme_0dac091d9cbcf5fa634c5e4f74fe6b4adff7fef298977be68cd1f246d424fcea"
+    },
+    {
+      "type": "Theme",
+      "name": "protéger particulièrement les revenus des plus modestes d'entre nous",
+      "id": "Theme_696764ddffc05e96d5e31c8ab9c8751901082ef038dc983ca92f2cb05f6e2e19"
+    },
+    {
+      "type": "Theme",
+      "name": "soutenu la croissance",
+      "id": "Theme_fda0bf8e4a40baf876fc301aa29901ac4d382236b3f2f90909f0b4cb279fb4c5"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage à son plus bas depuis quinze ans",
+      "id": "Theme_4721dd78526442bb534dbe6860b77451879c470ea8e13a4708f96d7e08a22e1d"
+    },
+    {
+      "type": "Theme",
+      "name": "créer des emplois",
+      "id": "Theme_5871e1e939eec45dcfe76dfd0baa83cd887398875e7b1ac23ae3d60f69c97c95"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois de qualité",
+      "id": "Theme_8d17306a979a0486fbdded1a9417a2e0e7c12f7b17b0beb9fd16c2f5966ec352"
+    },
+    {
+      "type": "Theme",
+      "name": "épidémie planétaire",
+      "id": "Theme_28e2168a49623747690fa35ab7a34bf26deb3cd1903834d1adb0e21832e9ea11"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "crise énergétique",
+      "id": "Theme_0a69de24fb58ba3738f666a89eb524b5c6dac19e499a750d57c1a7426f72f57f"
+    },
+    {
+      "type": "Theme",
+      "name": "crise alimentaire",
+      "id": "Theme_386702eed688d78b67381b60e41894642c5a37cc028312a27e912c34b9c0d52f"
+    },
+    {
+      "type": "Theme",
+      "name": "réfugiés",
+      "id": "Theme_cf715922d34db7d0e7f0fe02ae9a4f01148012f4e89d37a68a21c0c18896705e"
+    },
+    {
+      "type": "Theme",
+      "name": "questions",
+      "id": "Theme_3b52f676bcf2857627c13abe2fccc2705ca722dabf54508a29a0df895875aa4d"
+    },
+    {
+      "type": "Theme",
+      "name": "coupures d'électricité",
+      "id": "Theme_000e62d4b78484445748e829a947b3748eef3f69f9fd153d366973a0e601d940"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "augmentations du prix de l'énergie",
+      "id": "Theme_c11edb9eda090a0545166252bfc6d959fcca2d0bf1bc77ac3091d6a4a1cadbe2"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendances",
+      "id": "Theme_14de542cd66252bc7dd38d12cbadc101d38c3b269a47ae1437ae7786869af7a7"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "City",
+      "name": "Chine",
+      "id": "City_ffd3016dce5b30eb56a551382da74bf7a31ce6f27b325f4927ed08b7ee903b70"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État",
+      "id": "Organization_2e87b80d05da954904064e134e37af29a9b3758a76fc2f408a27095dea004f71"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Theme",
+      "name": "consolider nos régimes de retraite par répartition",
+      "id": "Theme_81ac923b4d582e51c2a6247acebc75ed5ddf9cd02d3a619e1db77c235de9d11a"
+    },
+    {
+      "type": "Theme",
+      "name": "allongement de nos carrières de travail",
+      "id": "Theme_1be9a395ecbcb6284500e29c70ee3b344a512bcdda344b3fb8bc7030979cf322"
+    },
+    {
+      "type": "Theme",
+      "name": "carrières longues",
+      "id": "Theme_db7d48c4e98dda451cdafad79362c01674f270dca7bbc73272be20dcdd269b00"
+    },
+    {
+      "type": "Theme",
+      "name": "carrières hachées",
+      "id": "Theme_8dcc6b003f185526869ca7e0715d124dd40f190ce79abb2437a318c2b3cf9f92"
+    },
+    {
+      "type": "Theme",
+      "name": "difficulté de certaines tâches, de certains métiers",
+      "id": "Theme_ef5aa22b026c61d67b71838c33b7fa474934b4464af804a4fc85941bac8bc3d4"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibrer le financement de notre retraite",
+      "id": "Theme_259a4af691558880a546d1529e71d91ed155f2ecbe3b641e57112d38593bfe16"
+    },
+    {
+      "type": "Theme",
+      "name": "améliorer la retraite minimale",
+      "id": "Theme_d877c4060515250df3495a00a28f047c18c6e76c293e82a5f4191a63bb748414"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle social juste et solide",
+      "id": "Theme_c75dcf68941c38a4a63d7eb29977a2cab72f798b6e8a4c7a23c65076d8a71d08"
+    },
+    {
+      "type": "Country",
+      "name": "Notre nation",
+      "id": "Country_ecc78d70029dea9adb6ad85fe2350f5808849c34ed7eb68534ecfc50e528690c"
+    },
+    {
+      "type": "Theme",
+      "name": "Prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Theme",
+      "name": "École",
+      "id": "Theme_e4023600e045c977a775d339830e8508634d36394f9b8486f09d01cdd3b05e6b"
+    },
+    {
+      "type": "Theme",
+      "name": "Santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "Transports",
+      "id": "Theme_533d2529ff9a7f6bf394d1e74146c9b14e56ed95da235efb27978e0422b519a2"
+    },
+    {
+      "type": "Theme",
+      "name": "Industries",
+      "id": "Theme_e96fa47299eebda2f389fe9ccf1105b4d299447a0fe6df8c25121f831ec623c3"
+    },
+    {
+      "type": "Theme",
+      "name": "Corporatismes",
+      "id": "Theme_bba17714110d21600e74e6f7764a8ba3a9b39424161b9fbb53fc99ae842ed5c9"
+    },
+    {
+      "type": "Theme",
+      "name": "Esprit de défaite",
+      "id": "Theme_825b50d2a0645ea7073f28bdc296b60cf954b6159dc89e8c7973ed17edc40210"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "forces de sécurité intérieure",
+      "id": "Theme_aba281ec39f7c10378ad4af42b16273252f708012ad1111a5e6aeb21b9d3df89"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "Armées",
+      "id": "Theme_f2cbd7b6734caf8165b4c1211bb61206ddd73bf549ff9daaee32d30c380865a3"
+    },
+    {
+      "type": "Theme",
+      "name": "défis géopolitiques",
+      "id": "Theme_93e906d5028abe3999b8fc5eaf440ff4cff5f5e4049cde5dc2ad95aeab9f5a84"
+    },
+    {
+      "type": "Theme",
+      "name": "conflits",
+      "id": "Theme_c8dada83bc9f875690ebf45f2f35fa2a2c3744cd07e0f2646a262af9b8e292dd"
+    },
+    {
+      "type": "Theme",
+      "name": "trafics",
+      "id": "Theme_f59a27a7dbe469e38abc928e4627b49725b61a63bbbfda4fe203de0e3a5b6ee3"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration illégale",
+      "id": "Theme_c5cd078fa0f1ea1fd30498ed7b15d726ec99038ad9baa48a38eb410d226ad042"
+    },
+    {
+      "type": "Theme",
+      "name": "frontières",
+      "id": "Theme_2cd955c9a002255c9c4db835b43368ec22c183622dce92ef1191d4bdfa43a6bb"
+    },
+    {
+      "type": "Theme",
+      "name": "nation",
+      "id": "Theme_60ff600be5c454bb618a1597d939fb190f2d7774c810094fe4274df593f1b232"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique",
+      "id": "Theme_82634c5567e29ec1e0f256205be4191228a3b7329a743da05d0f47189c5b7272"
+    },
+    {
+      "type": "Theme",
+      "name": "planification écologique",
+      "id": "Theme_353ff9750d63642f47e2df36d699fbb5981bfadd30ad85f156049e052a8e7c13"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "loi sur le nucléaire",
+      "id": "Theme_a2ffa933dcda3faeece6b3d03f7fbfaeb79ce30cfc6c14711676e470336c1e26"
+    },
+    {
+      "type": "Theme",
+      "name": "laïcité",
+      "id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "type": "Person",
+      "name": "Benoît XVI",
+      "id": "Person_b19280f6185e0133bf8c49b034e930f122d4474a30572200e4d10ee9f58e41e9"
+    },
+    {
+      "type": "Theme",
+      "name": "discriminations",
+      "id": "Theme_1f69353dd700231fa8e6831503cf115f594fbd9f6011a36c2863785f8a5e5a5c"
+    },
+    {
+      "type": "Theme",
+      "name": "handicap",
+      "id": "Theme_07d6ad7e725b76cce5982a9a7f704af8d13d05bfc2d725640eb7ad805850ae06"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Organization",
+      "name": "Éducation nationale",
+      "id": "Organization_f625749da6effbb2c3a57afdb9c137deeb3bca586dcf5b06d7d4edcb2edd0942"
+    },
+    {
+      "type": "Organization",
+      "name": "santé",
+      "id": "Organization_89328667e52499196dacb67bae94ff212457e4b62f4ce82403a66950ee9c724a"
+    },
+    {
+      "type": "Theme",
+      "name": "vitalité de notre vie démocratique",
+      "id": "Theme_58cabd837efd0bf01186c34868b0f475928f1082bd778cf611229f570d1503d8"
+    },
+    {
+      "type": "Theme",
+      "name": "Service National Universel",
+      "id": "Theme_aac51ed073ec968cdf55805e1637ecd4d52aa84e531553ee107ef36a913fffc9"
+    },
+    {
+      "type": "Theme",
+      "name": "aménagements nécessaires à nos institutions et à notre vie publique et citoyenne",
+      "id": "Theme_d322488e1f2a5cd1d347298e2e67e2755ab731e89bdab5c93740dc2b3e95c32b"
+    },
+    {
+      "type": "Theme",
+      "name": "meilleur fonctionnement des pouvoirs et une association plus fréquente de nos concitoyens",
+      "id": "Theme_edc6a45c727ce379143e794a9d5bf0ebb139e1f5b2d4b6bc712b7cf64f06ffbc"
+    },
+    {
+      "type": "Theme",
+      "name": "protéger nos enfants",
+      "id": "Theme_56f846df3ad7ca59eb51d989fb3849fcc32ffb39384ec5caac4cbf1250aa4403"
+    },
+    {
+      "type": "Theme",
+      "name": "protéger notre information libre et indépendante",
+      "id": "Theme_9c7784f5612a5a53bfc4b8ded76491ba995e6d62f691e70206bce3ab3919845c"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre libre et juste",
+      "id": "Theme_3234f09a4f4a0cf5a10e5cffe7f2fdc494f72ea02ff33f5648418da33e6b6143"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance énergétique",
+      "id": "Theme_eb9f103e534f4f7d83c757cfab5c36c8be8f833115d5662a74a492004b6ef140"
+    },
+    {
+      "type": "Theme",
+      "name": "force d'âme",
+      "id": "Theme_e7fe471b5a21db7dedc098475ccdf5569f184d818d054a81be3ed252b55a922a"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "espace de paix et de liberté",
+      "id": "Theme_4bef3e6775fd21bbd4287712754a7f2e585db01fd02b4ad0212b4d36c4aa1d77"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "droit",
+      "id": "Theme_809b6d16ebe657005418287171a0ff40ba1f2fc184046e82a8dbc6d9366cc1a9"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance",
+      "id": "Theme_d8895f67d26ec9bc257a9b6d9015cbffdb3029611e550d517fabb25ec9d2c101"
+    },
+    {
+      "type": "Person",
+      "name": "j'ai mené ce combat ces dernières années",
+      "id": "Person_af06e3c07c61f679a569a842062c8cf98a7096d7fe828ee85d1045d2ea8469ed"
+    },
+    {
+      "type": "City",
+      "name": "Notre-Dame-de-Paris",
+      "id": "City_14e444c6581546233de231b30e507380363336a1b49dbfc10b6f09feb25e0139"
+    },
+    {
+      "type": "Theme",
+      "name": "reconstruction",
+      "id": "Theme_7a606d7a97559cf8d4038ed157bac225304abdcd1ede6a81d3526d62e8a84b31"
+    },
+    {
+      "type": "Theme",
+      "name": "Jeux Olympiques",
+      "id": "Theme_598629bba6285c4c65a3cf612705a3401844b9433a7ebb6e454a1dcabd4e0196"
+    },
+    {
+      "type": "Theme",
+      "name": "coupe du monde de rugby",
+      "id": "Theme_4ba0ce48600aaaf0981f7e3b9faccabafa32a123b71324673831dca23ba42bd4"
+    },
+    {
+      "type": "Theme",
+      "name": "plan France 2030",
+      "id": "Theme_7925d16ed9bd205a11d60117a96e91046cd45e8a91a8b6969bef6736a12a6803"
+    },
+    {
+      "type": "Theme",
+      "name": "voitures électriques",
+      "id": "Theme_07617ecf6b3ff6f008a45694f7c49b9705d495f36f70397375928ee3b94acc59"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "audace",
+      "id": "Theme_d706ab6b0cc320b9352b6bd4d2ad07220489fd740b0ab019594db8c8a3911770"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition collective",
+      "id": "Theme_8e3a023db835358852361702d4cce35f75b6bfe21c8d4eed12a9f3dfef002a5d"
+    },
+    {
+      "type": "Theme",
+      "name": "bienveillance",
+      "id": "Theme_7f32cfe6f55d6c8858691533f46de8c408e4cd45a80054345810998d77c492aa"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Benoît XVI",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "je salue en cet instant, la mémoire de sa Sainteté Benoît XVI, dont la disparition, je le sais, affecte beaucoup de catholiques en France et dans le monde.",
+      "confidence": 1.0,
+      "source_id": "Person_b19280f6185e0133bf8c49b034e930f122d4474a30572200e4d10ee9f58e41e9",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Comptez sur la France et comptez sur l'Europe",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    }
+  ]
+}

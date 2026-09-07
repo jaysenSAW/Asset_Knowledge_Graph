@@ -1,0 +1,832 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Costa Rica",
+      "id": "Country_56a1ed746f8c212254f14b70bd54599a0988a231454f23ef88a73340b229d1f5"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "Person",
+      "name": "Chaves",
+      "id": "Person_ec5bddce67eeb8ed0a407e7441c89f10fd627cf1670645bedf0e4a3d0617b28c"
+    },
+    {
+      "type": "Person",
+      "name": "Lula",
+      "id": "Person_b94e428e96536fe0fe2302dc16b7fd1c423580a1762b0662982cbed43a5edb75"
+    },
+    {
+      "type": "Organization",
+      "name": "Quai d'Orsay",
+      "id": "Organization_787f7932a16af3173248d9ca41dd3f401e5286019f2e12f05549369f7833250e"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "ambassadeur des pôles",
+      "id": "Organization_c0c76e623c129eb62720f267ff093aa154e87241292d7543e9a5430cdea5c3d5"
+    },
+    {
+      "type": "Country",
+      "name": "Lisbonne",
+      "id": "Country_6717646e6863d7b0ed5a39b72a6de76a2ef159ff8c218db63a5262a2fa055712"
+    },
+    {
+      "type": "Country",
+      "name": "Brest",
+      "id": "Country_5ed788d66a697296217808dc13a34586c3757f46401fbd65b7d84cfa7baa8bd9"
+    },
+    {
+      "type": "Law",
+      "name": "Convention de 1982",
+      "id": "Law_90c34b392b47e9a20379403ebb3c7caf973ee26ef6c4640935a1549caafc2e94"
+    },
+    {
+      "type": "Law",
+      "name": "traité BBNJ",
+      "id": "Law_d94096090835609631e8a3d5625176b86238bfd5208d7cff3b6a9cb680035310"
+    },
+    {
+      "type": "Organization",
+      "name": "UNOC",
+      "id": "Organization_2ab040141de802f52aa79408f66e8aceb3d15e443186d8adde795a6853480d9a"
+    },
+    {
+      "type": "Country",
+      "name": "États",
+      "id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "type": "Law",
+      "name": "ce traité",
+      "id": "Law_a474c210ce2a0b0b9727ffebdd27706db24ab1962a5f613636ecd14c73e07f52"
+    },
+    {
+      "type": "Theme",
+      "name": "réguler",
+      "id": "Theme_01c71edbbcbe82840ad38a828b11a0dad91a043467e463d2c0b791178091b95e"
+    },
+    {
+      "type": "Theme",
+      "name": "administrer la haute mer",
+      "id": "Theme_4ba42a6882f5c170af069946eedf8dca6806c695e93f3b82dc236837b1e49c91"
+    },
+    {
+      "type": "Theme",
+      "name": "protéger",
+      "id": "Theme_5023d6f44555721e7e6a671f5135d741bde15831375a6a05626146a6a21efbd7"
+    },
+    {
+      "type": "Theme",
+      "name": "lutter contre la pêche illicite",
+      "id": "Theme_ef4792cbc7eceafdb10102491490d84db892a88c27f8e1b1460e589024fb824c"
+    },
+    {
+      "type": "Country",
+      "name": "Brésil",
+      "id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae"
+    },
+    {
+      "type": "Event",
+      "name": "Assemblée générale des Nations unies",
+      "id": "Event_3b3a00b00d52692049fc54a71238f23af3bba4b6f66c8c9b6e1dbcbee3bc273a"
+    },
+    {
+      "type": "Event",
+      "name": "conférences de Kunming-Montréal",
+      "id": "Event_23103b2a849b3b26eac7d5425e2568b3c9fa682e318fcff542646d58b3647679"
+    },
+    {
+      "type": "Organization",
+      "name": "conférences de Kunming-Montréal",
+      "id": "Organization_9558259d91ded13f51df58ed03611224142d68042f50e1b70ef648a4dda308c7"
+    },
+    {
+      "type": "Country",
+      "name": "Polynésie française",
+      "id": "Country_719de631a141599b2bd3d9af8c7838fd04343c09b8a132e81ccc73be25304c71"
+    },
+    {
+      "type": "Country",
+      "name": "Grece",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Theme",
+      "name": "moratoire",
+      "id": "Theme_9148ffc47b9965fa7404f9fec2c8696d8794bbdec69f2028ebaf89122aadbfbb"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "puits de carbone",
+      "id": "Theme_30998f927c88f92238ba40b1fb9b1127414cd75203d757ff650bb1e9ec1f16eb"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche biologique",
+      "id": "Theme_b172f9833efa18ad0f3ec14d0df629944805dfbfa72bc41a012306d9e1b1fd05"
+    },
+    {
+      "type": "Theme",
+      "name": "génomique",
+      "id": "Theme_bc3b161a3a6c4789df4b8a3e3674cd7e4967ef996d4fc4c1258853749be94b67"
+    },
+    {
+      "type": "Theme",
+      "name": "science",
+      "id": "Theme_d67c10976c1585f4e9e05fc3bac6b493bcfd249cfb52bacfebf7d74d2b724f45"
+    },
+    {
+      "type": "Theme",
+      "name": "décisions",
+      "id": "Theme_7a8a12fba069883c4e145bed506823a49ae9d4207c626376a8e5e176baea1e2f"
+    },
+    {
+      "type": "Theme",
+      "name": "exploration",
+      "id": "Theme_d64dbac8e193fa58efcdfa2d24dc18c52c715f0eb75760fa622697fefc4ca5b6"
+    },
+    {
+      "type": "Theme",
+      "name": "écosystèmes marins",
+      "id": "Theme_a6745cf93afdaaaa13ddd36adec962610fbfd1c157ee481dd9537ae567982fc0"
+    },
+    {
+      "type": "Organization",
+      "name": "Ifremer",
+      "id": "Organization_470bd464aa4532ea3f706954f4ca7850d0e73ee2278c3764e95e344a78b7f1b6"
+    },
+    {
+      "type": "Organization",
+      "name": "CNRS",
+      "id": "Organization_9797a7b293510a1bf26addf4f9eb951f6a91dfb71b6b8d8c7031c08fb95a0fa4"
+    },
+    {
+      "type": "Organization",
+      "name": "Inserm",
+      "id": "Organization_f23e2a99ebfcec3c01ea31acdd2249332420cad575f0c8a108947d92f0bc39eb"
+    },
+    {
+      "type": "Person",
+      "name": "le Thalassa",
+      "id": "Person_f2eb6f1173c7c8d4fa2fed2891863602fd0ea652daa61c584b98275d9d38d281"
+    },
+    {
+      "type": "Organization",
+      "name": "NOAA",
+      "id": "Organization_df348c19d61a286bdd39e49d5af4ecd374aacfb0191835f1cb18ead3d68a072c"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "océan",
+      "id": "Theme_d9e868203b07b52a7c9d4fa83502dacf76661258b1ac6c4cc5ad58b658c169b9"
+    },
+    {
+      "type": "Theme",
+      "name": "espace",
+      "id": "Theme_1079951084765f97ec568b6af52f4f01fb8e7320c4a80499a9534a7cd945d3c6"
+    },
+    {
+      "type": "Organization",
+      "name": "Space4Ocean",
+      "id": "Organization_07b41fce1e7ec5075b462679588b5f4b2a0071831a6683f6537d345f18a9cafa"
+    },
+    {
+      "type": "Organization",
+      "name": "Mercator International",
+      "id": "Organization_97f0506714213528a0e02c2f1050e269ce836f04dff0cf626a6fa9a7f510fbce"
+    },
+    {
+      "type": "Organization",
+      "name": "Starfish",
+      "id": "Organization_a93802b048e7c9619e579df752d986e4ee0b727ad932c8c833c11141c0a73d07"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation maritime mondiale",
+      "id": "Organization_ba02a483e12d1a10b897193df415cca42ef7ba952513703e757d961b402e296e"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation du transport maritime",
+      "id": "Theme_a4804ac08df9e15ed24349882e843301ff6c65a2e0c1c3698c664d209290c201"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "Nexus de l'IPBES",
+      "id": "Theme_fce183a0a6512baf39bfc274a9e1bbaddfb88fd74690275a488815855294a846"
+    },
+    {
+      "type": "Theme",
+      "name": "eau",
+      "id": "Theme_63c3f847c9887c4e51c719979f77a2f6f52bec3bb93b8204957d5290860a00e7"
+    },
+    {
+      "type": "Theme",
+      "name": "alimentation",
+      "id": "Theme_c513edee71bdf794af7ba878fb763b9cc4a3e831c494d701c86bdd518ebd85ab"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "Nexus",
+      "id": "Theme_a3c9e12e8856c01651ad9d4fdc03117043321e41a92b65723af054a796b86a2a"
+    },
+    {
+      "type": "Theme",
+      "name": "collectivités territoriales",
+      "id": "Theme_7973341bcfc8fb87154f28f2a6c6c212e15440325bf8999278570859ef94ea37"
+    },
+    {
+      "type": "Organization",
+      "name": "FAO",
+      "id": "Organization_97ee3a29b383a2c2aff3b2873b9af0beefd71a5a1aaf5189a690ba7c8fbb5eee"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation mondiale du commerce",
+      "id": "Organization_279680ad64a597c5effc113dc4b3abd9bc4b6f6f07c59018604598bd2e0baca8"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Organization",
+      "name": "Communauté internationale",
+      "id": "Organization_d5f4d71f5848d508c12d02b6744eaeacc76412e4af8f1e46ce197c4ffc2b5788"
+    },
+    {
+      "type": "Organization",
+      "name": "OMC",
+      "id": "Organization_dbfd6ac2652ebf57b2436987f66688b5c1c31df23624ca5dbb0e937544345cc0"
+    },
+    {
+      "type": "Theme",
+      "name": "pêche illicite",
+      "id": "Theme_977d72d0c3a03004afe2a8a3de2c268ad95e2d9f4ccbd97b121927c02d6a92fd"
+    },
+    {
+      "type": "Theme",
+      "name": "pêche INN",
+      "id": "Theme_e04594c641340d52051b990a9b0375375c7b45d60bf023228cfdf440b6db52f1"
+    },
+    {
+      "type": "Theme",
+      "name": "plastique",
+      "id": "Theme_aabb2c81d054eb93e0fc30957aa719de8ea5ea6c380d2dda3d337f9ab881b0ec"
+    },
+    {
+      "type": "Theme",
+      "name": "traité mondial",
+      "id": "Theme_e293a5bc9eaab59cb6a43e7c37ebeef84ede72363fefebde9f21a01344e05463"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de la Transition écologique",
+      "id": "Organization_d4ab343cebbb12f5a1507517aadad328368043cf2496c4609169f0e801039030"
+    },
+    {
+      "type": "Country",
+      "name": "Corée du Sud",
+      "id": "Country_291690c49dec53d228d64b7573c269e9e06aeb9a8a85e7ad771343a89363a58e"
+    },
+    {
+      "type": "City",
+      "name": "Royaume du Maroc",
+      "id": "City_e8c29831443d0bca183d80c43f432d2ee66d5a03699b8924fad00f0fb07b1310"
+    },
+    {
+      "type": "City",
+      "name": "Îles du Pacifique",
+      "id": "City_102c471cd38e2f989de6335540cbc5235e16c2b57dec6dda5245efe2805e7399"
+    },
+    {
+      "type": "City",
+      "name": "Îles",
+      "id": "City_8bcdf9a617f9ccccb49b34954c0f14f64bc1789bdd0078c1c5bbc9011fe9deca"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Pacifique",
+      "id": "Country_fb13f49510e4991c246a7df143a4e90afbd5647b097e58a7081571c5cdd07b6f"
+    },
+    {
+      "type": "Country",
+      "name": "Polynésie",
+      "id": "Country_4bf3513ff1b42d45e93b2d218a934507d08df3e7ff6613fa7f2a9ababe72ebdf"
+    },
+    {
+      "type": "City",
+      "name": "Polynésie française",
+      "id": "City_237a60578d5c1c77f63402715dbac21747d712c1c60c6abd087f2decd30bb0e0"
+    },
+    {
+      "type": "Theme",
+      "name": "protection forte",
+      "id": "Theme_9e29425ddcfd0b092ebf89be4c42185846b7e22b16704c0585a9f9759217b937"
+    },
+    {
+      "type": "Theme",
+      "name": "protection",
+      "id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "type": "City",
+      "name": "Lille",
+      "id": "City_5984d05b4d6278317898653aaa663f1a3e582cba7d4bd2eff1bd3bc5a5d5e889"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "Deep-Sea Mining",
+      "id": "Theme_850faf7240b96e0e318318fa1eb4ad7eaf15397228b1045e46480693a0a55b13"
+    },
+    {
+      "type": "Theme",
+      "name": "Aires marines protégées",
+      "id": "Theme_9db536f895dae66d1255cb976c3f6fc624c05ad7a624edb1a012c6fe4727af0a"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Country",
+      "name": "Nicaragua",
+      "id": "Country_383e68a3263f3bd9b192ad2a16fadcbeeac3db0f47601c3a04bad6a617fbfabf"
+    },
+    {
+      "type": "Law",
+      "name": "traité dit BBNJ sur la haute mer",
+      "id": "Law_0433810af9f42a0512108e16841de334dc5d2a3a37f5cb271bd591c49509c516"
+    },
+    {
+      "type": "Country",
+      "name": "État",
+      "id": "Country_774c8b6f22f0c8760528588f5b156b73633c371f2c54fca0f8d2cff44b6c65d9"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition",
+      "id": "Organization_2d98a336b361fd804af3602880c6fc58a8d0d12b960c29dc036ccec093891de9"
+    },
+    {
+      "type": "Theme",
+      "name": "bêtises",
+      "id": "Theme_4ad03ac10715312d6a835fe1e2d3ca80879af4357f144b5e8a6a4873ee560d00"
+    },
+    {
+      "type": "Theme",
+      "name": "traité",
+      "id": "Theme_61dd22d0be231f980d2e5f1920d0f52eb99ae3fbb6f17d294c15eb3ea5831bbd"
+    },
+    {
+      "type": "Theme",
+      "name": "pays",
+      "id": "Theme_5836828ee3d8fa593516bc08496d10257dac03542b9574bc9646bddf731326cb"
+    },
+    {
+      "type": "Theme",
+      "name": "projet",
+      "id": "Theme_e14263541610d680dfa39ef9a4ababe5c0301050559f560e38f9c0bf71776801"
+    },
+    {
+      "type": "Organization",
+      "name": "ONG",
+      "id": "Organization_3e1586cef038ea96d5ab3c5a2d6496c339bffcc013fa18af180a38657091796f"
+    },
+    {
+      "type": "Theme",
+      "name": "chalutage de fonds",
+      "id": "Theme_c9bcb80e98d0c926eb0d9a696cdc5cf61c32323ee5e4eb0c8ceeac802dd402d0"
+    },
+    {
+      "type": "Theme",
+      "name": "raclage",
+      "id": "Theme_0fb2acedb5adfdd8a60e9414b5c53d764a12b316b3b3ddc5afad5ae7fdb20606"
+    },
+    {
+      "type": "Theme",
+      "name": "chalut pélagique",
+      "id": "Theme_9b34a1700b75581196ce29265451dfe869fd550028391b5c46734767c389b05b"
+    },
+    {
+      "type": "Theme",
+      "name": "chalutage de fond",
+      "id": "Theme_be32ba1482eb0563c5fa28827927bac4d15afbae8b3e51e78e43454ae637ece1"
+    },
+    {
+      "type": "Country",
+      "name": "Britanniques",
+      "id": "Country_2b303b326941cb94a150f8b43c140a0dbdb1ed904a9e55869de5327035e618ec"
+    },
+    {
+      "type": "Theme",
+      "name": "pêche",
+      "id": "Theme_0287cf7c46b5cffa29a4a5314ed2687af9e7319d0afd8684279cd081076f2ad5"
+    },
+    {
+      "type": "Theme",
+      "name": "règles collectives",
+      "id": "Theme_6fb9956d86d5a126fc40fc369bad0ded0e088ca6a8fd07b13f9daad14dbecdb9"
+    },
+    {
+      "type": "Theme",
+      "name": "interdictions",
+      "id": "Theme_99aff6cc0add62fef1123bbcae1bb2aabc39c5439a0eaebad85ba5541a9c5a27"
+    },
+    {
+      "type": "Theme",
+      "name": "pêcheurs",
+      "id": "Theme_0a80a01764c03a20896b08d299500982a6ac3ae34c6f84501ebe40ed1bdae27e"
+    },
+    {
+      "type": "Theme",
+      "name": "communauté internationale",
+      "id": "Theme_537a44e7fc1e3beb321132283f817e98e44a4e4fd54f793e69caba6decca2c70"
+    },
+    {
+      "type": "Theme",
+      "name": "zones économiques exclusives",
+      "id": "Theme_271c661335a88bb3d6046cadf182f6f06512ecaf70b172d40d1991f38acd46f0"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Organization",
+      "name": "CMA-CGM",
+      "id": "Organization_72cd9c1dac213881ffbbf0f12e7daf6f9ef586493ab1f6961bc670abb50d6546"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Person",
+      "name": "Ursula Von Der Leyen",
+      "id": "Person_a77e6d91b189b0ca729d31d98343f20ee181fcbf9d993bd05a9ae3ac6a38c70e"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "City",
+      "name": "Gaza",
+      "id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre israélien",
+      "id": "Person_44046e0efcab113e803e676c1d3c6de072019c9801b5b03aecef8af506dda123"
+    },
+    {
+      "type": "City",
+      "name": "Quai d'Orsay",
+      "id": "City_cac628ab67d0596dae95d7bc3dcf4410bce95d35ebf22ada5f45ca5b01a34e59"
+    },
+    {
+      "type": "Country",
+      "name": "Qatar",
+      "id": "Country_e5da689c325f619f1d122e0f9316e196ec475beef981feeb9a11d61cf1162518"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Theme",
+      "name": "dissolution",
+      "id": "Theme_dbace3b486e97dc9cbc0f03771d81fefbe5b71fed1d70657e925339d9ae0a874"
+    },
+    {
+      "type": "Theme",
+      "name": "immobilisme",
+      "id": "Theme_6b8821de816b12db1679db63f9ed2aceca61f51dd9c42f3027db9b08ee040b5f"
+    },
+    {
+      "type": "Theme",
+      "name": "motion de censure",
+      "id": "Theme_49208cea77c8fc79afd9082fa8c7af8e01658000d8a870ddafaf63474f19b882"
+    },
+    {
+      "type": "Country",
+      "name": "la République",
+      "id": "Country_8ece1ca643efc6be6485040a8d42357a81f22c38694d9ca8a56d37a688baf2b0"
+    },
+    {
+      "type": "Organization",
+      "name": "les Français",
+      "id": "Organization_030bf758f0b8b166ab66ee6e310469942df7157ed2c73b720722ceec0ba7ff61"
+    },
+    {
+      "type": "Organization",
+      "name": "le Parlement",
+      "id": "Organization_3b98b5f0abf8de7aca3ae5fb5dbe595730fd9a3929e3ace625352b07811a79b9"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "secrétaires d'État",
+      "id": "Person_5796469a1008de243871637159be351576614777885dbe8359021422d7df5a40"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Pays-Bas",
+      "id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "type": "Country",
+      "name": "Belgique",
+      "id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed"
+    },
+    {
+      "type": "Organization",
+      "name": "Journaliste",
+      "id": "Organization_298402a5aaeec35245710796d6d30a9862ac394f8dd2db2c31ae37270f2e6c5a"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaires d'État",
+      "id": "Organization_8e1c30d7292f37306d79d2962f39e05a81c9565675fd36c8251619de54d5d4ca"
+    },
+    {
+      "type": "Organization",
+      "name": "narcotrafic",
+      "id": "Organization_f40eb4046eb7902dc84a750a1b3b92a48e962dec7229e5e1f00681bf4c09a454"
+    },
+    {
+      "type": "Organization",
+      "name": "pays attractif",
+      "id": "Organization_43bf5c77713a04b02acc5c41ae02e69cf57380d8626e4796fbcfb14769f79c8f"
+    },
+    {
+      "type": "Organization",
+      "name": "bataille écologique",
+      "id": "Organization_84a447ecdc14c3f5611f277b958438615b649d9f0cb00a7a7c8c3549ec547c0d"
+    },
+    {
+      "type": "Organization",
+      "name": "transition numérique",
+      "id": "Organization_77d8524c3189f22d04b7c273375b65725ba8c30e634fdd7caeeb826a2ff10a00"
+    },
+    {
+      "type": "Organization",
+      "name": "intelligence artificielle",
+      "id": "Organization_45c59e4c8a5ad3c9a7298cba96f4b816aeb2c09bcb990b0df9d6643f980bda8c"
+    },
+    {
+      "type": "Organization",
+      "name": "Chef de l'État",
+      "id": "Organization_19b39c76426a5a83dee0992c7cff5eec73a1413fd77682550a585d4f1b52ffdc"
+    },
+    {
+      "type": "Theme",
+      "name": "travail économique",
+      "id": "Theme_d16364d65b31d057f727fd64b340e570a7bf69c90b1ee3b11c60507cffeeb068"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "défis immenses",
+      "id": "Theme_054319d4a4db8ccadf42ed0c5d167158a6067ec606683191bd575d917b5d7ecf"
+    },
+    {
+      "type": "Theme",
+      "name": "leadership",
+      "id": "Theme_036cad7a6846a7baecd836858d5b209056188f46e3d5171aa4c5a85110511636"
+    },
+    {
+      "type": "Event",
+      "name": "dissolution",
+      "id": "Event_54d159ea70e7285f6f3948e0b9d441a405bacaaa63e517f5292d7e7a9e5fe196"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "services publics",
+      "id": "Theme_9d23f2423869f33761b54988a51c02bcaaec512697b3c1f29a8001cba8569472"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "armée",
+      "id": "Theme_2eeb8e10beac0248581a7d59931580b34c2366ec816e6e7ab0a1eefa508cf353"
+    },
+    {
+      "type": "Theme",
+      "name": "justice des forces de sécurité intérieure",
+      "id": "Theme_19dce224c0fd5236e65cb41a064054f5302a6e8bf2e204122a6bf29fb0c79b3d"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Nations unies",
+      "relation": "LOCATED_IN",
+      "target": "Assemblée générale des Nations unies",
+      "evidence": "Il n'y a plus de doute pour dire que d'ici à l'Assemblée générale des Nations unies, plus de 60 ratifications seront dûment votées et dûment déposées auprès des Nations unies, ce qui fait que ce traité pourra entrer en vigueur au 1er janvier de l'année prochaine.",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Event_3b3a00b00d52692049fc54a71238f23af3bba4b6f66c8c9b6e1dbcbee3bc273a"
+    },
+    {
+      "source": "Polynésie française",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France, à travers la Polynésie française, 4,5 millions de kilomètres carrés, ce qui fait que rien qu'avec ça, on passe de 4% à 5,2%.",
+      "confidence": 1.0,
+      "source_id": "City_237a60578d5c1c77f63402715dbac21747d712c1c60c6abd087f2decd30bb0e0",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France est fière de pouvoir accueillir cette organisation.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "collectivités territoriales",
+      "relation": "LOCATED_IN",
+      "target": "Nexus",
+      "evidence": "c'est autour de ce Nexus qu'on mobilise l'ensemble, justement, des collectivités territoriales",
+      "confidence": 1.0,
+      "source_id": "Theme_7973341bcfc8fb87154f28f2a6c6c212e15440325bf8999278570859ef94ea37",
+      "target_id": "Theme_a3c9e12e8856c01651ad9d4fdc03117043321e41a92b65723af054a796b86a2a"
+    },
+    {
+      "source": "FAO",
+      "relation": "SPOKE_ABOUT",
+      "target": "pêche illicite",
+      "evidence": "l'importance du travail fait par la FAO et l'Organisation mondiale du commerce pour lutter contre la pêche illicite et toutes les pêches non documentées, la fameuse pêche INN",
+      "confidence": 1.0,
+      "source_id": "Organization_97ee3a29b383a2c2aff3b2873b9af0beefd71a5a1aaf5189a690ba7c8fbb5eee",
+      "target_id": "Theme_977d72d0c3a03004afe2a8a3de2c268ad95e2d9f4ccbd97b121927c02d6a92fd"
+    },
+    {
+      "source": "FAO",
+      "relation": "SPOKE_ABOUT",
+      "target": "pêche INN",
+      "evidence": "l'importance du travail fait par la FAO et l'Organisation mondiale du commerce pour lutter contre la pêche illicite et toutes les pêches non documentées, la fameuse pêche INN",
+      "confidence": 1.0,
+      "source_id": "Organization_97ee3a29b383a2c2aff3b2873b9af0beefd71a5a1aaf5189a690ba7c8fbb5eee",
+      "target_id": "Theme_e04594c641340d52051b990a9b0375375c7b45d60bf023228cfdf440b6db52f1"
+    },
+    {
+      "source": "ministre de la Transition écologique",
+      "relation": "MENTIONS",
+      "target": "traité mondial",
+      "evidence": "la ministre de la Transition écologique réunira ses homologues, car là aussi, il nous faut un traité mondial. Et on le sait, il a échoué il y a quelques mois en Corée du Sud, il nous faut remobiliser pour les prochains mois.",
+      "confidence": 1.0,
+      "source_id": "Organization_d4ab343cebbb12f5a1507517aadad328368043cf2496c4609169f0e801039030",
+      "target_id": "Theme_e293a5bc9eaab59cb6a43e7c37ebeef84ede72363fefebde9f21a01344e05463"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Polynésie française",
+      "evidence": "c'est parce que la France a la chance d'avoir en son sein, par exemple, la Polynésie française",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "City_237a60578d5c1c77f63402715dbac21747d712c1c60c6abd087f2decd30bb0e0"
+    },
+    {
+      "source": "les Français",
+      "relation": "VISITED",
+      "target": "la République",
+      "evidence": "ce n'est pas le président de la République. Donc les Français ont fait un choix en conscience, c'est le leur, c'est ça la démocratie.",
+      "confidence": 1.0,
+      "source_id": "Organization_030bf758f0b8b166ab66ee6e310469942df7157ed2c73b720722ceec0ba7ff61",
+      "target_id": "Country_8ece1ca643efc6be6485040a8d42357a81f22c38694d9ca8a56d37a688baf2b0"
+    }
+  ]
+}

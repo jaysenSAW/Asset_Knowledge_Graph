@@ -1,0 +1,915 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "création d'emplois industriels",
+      "id": "Theme_9eec32cc0160459139719afa8ffee7c38e95b7226ea2d80b1cdabc2ac9e8050b"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance énergétique",
+      "id": "Theme_eb9f103e534f4f7d83c757cfab5c36c8be8f833115d5662a74a492004b6ef140"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité énergétique",
+      "id": "Theme_3fa29c3a81835e293a8ee69c64e59a04f9d44e386ecc1a59491a348f5946eab8"
+    },
+    {
+      "type": "Theme",
+      "name": "meilleure énergie",
+      "id": "Theme_678c5a79ceee30422f6bf59f8a510daa9b182423b0bbb89090a8dfbe5ea6fe11"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "systèmes",
+      "id": "Theme_58c6bd4326b51861d406ab395dd7147ce4d34bdb6624d7044df7de478646dfb3"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelables",
+      "id": "Theme_0bbded11273c52e8b7ad2cbd745e7eda3e1c008ae94878c7f43611bbb4ef07af"
+    },
+    {
+      "type": "Theme",
+      "name": "Programmation pluriannuelle de l'énergie",
+      "id": "Theme_caf1385c35b0ccf36e86893bc75d4b463d7bdd23686f684aa07b18627f4ccf7f"
+    },
+    {
+      "type": "Theme",
+      "name": "électricité",
+      "id": "Theme_91c41638e65e937154a7559e7d1b4f82a3977007d76c588380561893e1e818e8"
+    },
+    {
+      "type": "Theme",
+      "name": "géothermie",
+      "id": "Theme_baca47520321c5e29290ecf987cbdf794740e204c83705b096ba7f3c3cdcfb06"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène naturel",
+      "id": "Theme_f3292f65cbe03a6222fe9ca9cf6b797e1d9f37eee7a9faa076c348e45ef43320"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelable",
+      "id": "Theme_d0beb8d3065f33b4c348175dce1aba64c98ce89f1a5876f75f351c8752b2dd50"
+    },
+    {
+      "type": "Theme",
+      "name": "biomasse",
+      "id": "Theme_058a109a6793919ce4d52a78b5c8048d8e8d978224ca222511c53bd1b38f1504"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz renouvelable",
+      "id": "Theme_6bcf138252cb295a1b35ec81cd07bd1e38f4b2153c6a91a5ae9787b269e5f487"
+    },
+    {
+      "type": "Theme",
+      "name": "chaleur fatale",
+      "id": "Theme_66b66df725e396f7ae6997d89d631c35f8cb64d8305b5d39b8fe9eaec0350b72"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Belfort",
+      "id": "Organization_dc4a86503ddac7b5668ce162b9285cc4cae07dd5f104b9dcec3be88d472281c5"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveau nucléaire",
+      "id": "Theme_94ed54df56a9958a92d27c47b98c31ca0ae8150bcc7b661837964897da2f8d3a"
+    },
+    {
+      "type": "Theme",
+      "name": "programme",
+      "id": "Theme_70126e04142111f97dcc54a7033aca09643154bd549d78da6a7655d2f340ca74"
+    },
+    {
+      "type": "Theme",
+      "name": "EPR",
+      "id": "Theme_389d332e6fc3e769e86927cb384c4c624977d238e506c478b2e382ca8e057c9b"
+    },
+    {
+      "type": "Theme",
+      "name": "éolien en mer",
+      "id": "Theme_ca0364dde1e8690787417ca79bef4f133eaba6f31056c70ecbf428cf9b6f7cc3"
+    },
+    {
+      "type": "Theme",
+      "name": "éoliens en mer",
+      "id": "Theme_681f1d37232834f71d1783f45cc43fd835f9d87795a7e79a7e698eae659b7a7e"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies renouvelables",
+      "id": "Theme_912e2c1b6d76c17cfecb65f028f348cae97ce3cd43f48890e5f528fb3273c56f"
+    },
+    {
+      "type": "Theme",
+      "name": "mix électrique",
+      "id": "Theme_676e38b92ca67ac8c0e9ecd0685ff471638d067cb7f1f2f76daa69fa87d75dfc"
+    },
+    {
+      "type": "Theme",
+      "name": "programme dit EPR2",
+      "id": "Theme_3ab9cf92bc5a36b8cfc618dcab16848a94fa2437f65eb0a0c762b3366aabf511"
+    },
+    {
+      "type": "Theme",
+      "name": "politique nucléaire",
+      "id": "Theme_f27d5b662003c1e56a38da1b5a7a0d75b5c347a10207267507465802999c956b"
+    },
+    {
+      "type": "Theme",
+      "name": "fermeture du cycle",
+      "id": "Theme_3c84671054727c917f559b0d31763d1c800e851914b6ac001f51e62075c65628"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie",
+      "id": "Theme_fa010b2e87d32c400a0a52b10fe00d186b07d80baf9792842d534698bb9241c6"
+    },
+    {
+      "type": "Organization",
+      "name": "Choose France",
+      "id": "Organization_e829eef291c1bb039ab1232fce6af7ee8375a2434cad240faa7ce375d8c3ba9a"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité de calcul",
+      "id": "Theme_eef49159698392c7f69c4bb500f64ac26602fe687d6c417ada72565bd8e6293b"
+    },
+    {
+      "type": "Theme",
+      "name": "électricité décarbonée",
+      "id": "Theme_5037a0b68937fdfc93692ecd73d5632512e9196b37c9c6aefb44837d7266e590"
+    },
+    {
+      "type": "Theme",
+      "name": "réseau",
+      "id": "Theme_58b577b2730a3c24aa746245abe90bcfa95592930169733133543ac223fc830a"
+    },
+    {
+      "type": "Theme",
+      "name": "raccordement",
+      "id": "Theme_de81b35b4a567c4e57cf1237279ed204f93cafe18b7cc3607360a90edf3b5d17"
+    },
+    {
+      "type": "Theme",
+      "name": "centres de données",
+      "id": "Theme_28913fcabd8b6524d073f9a1c9a424e3565f15b09dd1176e81f16686074dbf63"
+    },
+    {
+      "type": "Theme",
+      "name": "industriels",
+      "id": "Theme_65f1038ff0752a877be8ce71144e93bba19c4c44f80762614e26462e31508666"
+    },
+    {
+      "type": "Organization",
+      "name": "RTE",
+      "id": "Organization_5f5e635460f5142575ed22506997cedd8e98182718cab4a1bddf68ae0a62a0fa"
+    },
+    {
+      "type": "City",
+      "name": "Dunkerque",
+      "id": "City_bda376ce18a11cdf6e31dcf1317332d2be264fba8faae021745f7e792736d7b0"
+    },
+    {
+      "type": "City",
+      "name": "Le Havre",
+      "id": "City_6cc1c6850138e619a75c5bd076c89e3cfe90325bd4c7f828bced3c73cfb9e893"
+    },
+    {
+      "type": "City",
+      "name": "Fos",
+      "id": "City_38bf0a161df15f96abd602dd4c25f1d2cbba4a1096fcb73994ddc280d6e038f9"
+    },
+    {
+      "type": "City",
+      "name": "Île-de-France",
+      "id": "City_6349e60746c9118a2ba6922d1bbbd1c4062d83cbfd4dea802d514820c7d9dd69"
+    },
+    {
+      "type": "City",
+      "name": "Sud-Alsace",
+      "id": "City_43b25fba789d14ac9bcaccbd41969b952da65530330bd8b36bf8ab7f2ed29d77"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Avold",
+      "id": "City_5125b1aedfa0c6b6a0520f3ad9362ade77e6778879ba9a5619de54ce9fc8bc01"
+    },
+    {
+      "type": "City",
+      "name": "Valenciennes-Maubeuge",
+      "id": "City_4e61151fd0bb8b93a7c1758c3447d796db9cc9cb1f29180403d494be05289481"
+    },
+    {
+      "type": "City",
+      "name": "Port-la-Nouvelle",
+      "id": "City_4c696ae793442abfa9f1197cd97fbc11d081c36da5c9b0d235e83bbe4fe8a362"
+    },
+    {
+      "type": "Organization",
+      "name": "Enedis",
+      "id": "Organization_ceb004ade44ec978403218f8ef15e20b8a72c94b661e439d201cc5b27a6d647d"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission de régulation de l'énergie",
+      "id": "Organization_bf984f19ecc8888775e2b1a89125d5cabb3d01d9e8124548095c18769d3d506f"
+    },
+    {
+      "type": "Theme",
+      "name": "raccordement de nouvelles lignes électriques",
+      "id": "Theme_47d4d72bd0275cf5ac75ebd5f91d4fc0f1f5674d536477a72b943f3051735f05"
+    },
+    {
+      "type": "Theme",
+      "name": "electrification",
+      "id": "Theme_5a330a16d0590e3766cd55707c3837d518e8a0cb07d5eb80981f61e17b01917b"
+    },
+    {
+      "type": "Organization",
+      "name": "EDF",
+      "id": "Organization_a2183f95d437456d4b4affc3a6618e8faf7d161757f235e7560aeca5540433a9"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "Total",
+      "id": "Organization_559564d9b17106b6bb250c645551ad905b530d212d84a924205cddb718712d8e"
+    },
+    {
+      "type": "Organization",
+      "name": "Engie",
+      "id": "Organization_8c5573022fe930b26f9875ad9ce269f1b2a5bcafa36e461aaf878a9b621e666d"
+    },
+    {
+      "type": "Organization",
+      "name": "Octopus",
+      "id": "Organization_3bc6e20cbe490cdf7a8f92640d105b9312c058be72fc7de95c84aa2bd0bcad5f"
+    },
+    {
+      "type": "Organization",
+      "name": "grande distribution",
+      "id": "Organization_8d431b277f6faf2edef9e3b6611e39751929fe39d735fc526226b8f0dab1bbef"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "véhicule électrique",
+      "id": "Theme_c7e2a9c158517cb146b811451ff12650da8834086b81d5b1db77a664f23bfffc"
+    },
+    {
+      "type": "Theme",
+      "name": "chauffage électrique",
+      "id": "Theme_6b83f0f1c62c6ed748333acc7eef9d296e91124779c769dba008d27b512ca522"
+    },
+    {
+      "type": "Theme",
+      "name": "pompe à chaleur",
+      "id": "Theme_95fb19379591773f9c026514f7a6dde3c594069ebdc653990cd1a94ec8764c9d"
+    },
+    {
+      "type": "Theme",
+      "name": "industriel",
+      "id": "Theme_f4a0cd2a3677e7ed90924f359616e647a4a4b1296fad61661f9f9c73e1c82f5b"
+    },
+    {
+      "type": "Theme",
+      "name": "EDF",
+      "id": "Theme_4a55bc5842bfe88c90ef6fe0d263d864e74374c5fa1fd96776f3d00c750974cf"
+    },
+    {
+      "type": "Theme",
+      "name": "avantage compétitif",
+      "id": "Theme_2a6040bf50a5a8417d3f3d223068a0e83e446d817edfea86732ae115c724b588"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "visibilité",
+      "id": "Theme_f59a7fbc64425457d75c34d0bff557a4fa6deb3b2e067b747f711e04c9e5e6db"
+    },
+    {
+      "type": "Organization",
+      "name": "Stellantis",
+      "id": "Organization_abcf2d033065c32d3dddd0571bfd6581ef9caafea4e52943be3d17707b8bf936"
+    },
+    {
+      "type": "Organization",
+      "name": "Renault",
+      "id": "Organization_9425ee5717dc5cb68560b01d592d6c911f497a77aaa3fe555c812e8d1a308423"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité électrique",
+      "id": "Theme_23c8ec49de9673df1a20e5484e419772140199ecc36d42919c897c8e8f0b8528"
+    },
+    {
+      "type": "Theme",
+      "name": "leasing électrique",
+      "id": "Theme_74257a9f102e68108330d668879b781dce1915ce1278c436b05f1eb9425d5110"
+    },
+    {
+      "type": "Organization",
+      "name": "Mobilians",
+      "id": "Organization_cbc2f262f1f9d6e0acc41a7874291f19cf2d891eba85c5c31f32c76ec6452e91"
+    },
+    {
+      "type": "Organization",
+      "name": "Renault Trucks",
+      "id": "Organization_05e35ebad6f32d717a01cd220b27726335eaec2423a7545ecb28e173d93366ea"
+    },
+    {
+      "type": "Organization",
+      "name": "Geodis",
+      "id": "Organization_9ed0d683310fe8736fade9db031332fce4d7c775c845eab9795757967f39be19"
+    },
+    {
+      "type": "Theme",
+      "name": "véhicules électriques",
+      "id": "Theme_597ebf0f0545ed57ae5e62552be322b744bf08dcf937fbc03f464ca89c539c24"
+    },
+    {
+      "type": "Theme",
+      "name": "désindustrialisation",
+      "id": "Theme_b3dfa7b0ccdf0ab4739fefeb64d85d03955757f5756af9cdbfc25b017f494128"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialisation",
+      "id": "Theme_ac8bdfb33c3783eee726437d1158d9c6c216120e43edc6178969ee44f5098ca1"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie française",
+      "id": "Theme_927e5cd0692971e13078e2b6cbc97c9ea4f4587131d84f0bf3453e559f8eb8f0"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois créés en France",
+      "id": "Theme_995adae389907c922930dbafb69f28a92cc82750e63a8db24a29819984158a68"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "City",
+      "name": "Douai",
+      "id": "City_2176b1027a81ce0e83b327539bfb966788da3fa0edc511bb7a7f945b4818c88e"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "City",
+      "name": "Maubeuge",
+      "id": "City_842f696abe8d1ed007aa6d53caf478d8c7d644d0807d539c1fd440ce1e09fa24"
+    },
+    {
+      "type": "City",
+      "name": "Mulhouse",
+      "id": "City_0fe0094aebde69d58d2dec6f9908158c0dfcd12dadd8a2c2adb8d20d1393ab4a"
+    },
+    {
+      "type": "Organization",
+      "name": "Douai",
+      "id": "Organization_9e4891dc30b72ea4d0b100f185b686965fdafd08abb3801dda3426cb47197644"
+    },
+    {
+      "type": "Organization",
+      "name": "Maubeuge",
+      "id": "Organization_41c4b82ba02c5e798b5fcd7b59ad2c97b7c5751065edf7aa40cd64a10a2050ee"
+    },
+    {
+      "type": "Theme",
+      "name": "automobile",
+      "id": "Theme_0d8fe91ee5d13a11b2f8cdf024edbf4a4c18c1cf149667d4cbedfbc587eb7f9c"
+    },
+    {
+      "type": "Theme",
+      "name": "électrique",
+      "id": "Theme_c78f9a2e1f1ef8b6c101d20d242ce5e566edd0a89e8f1bddf0460e4eef1670fb"
+    },
+    {
+      "type": "Theme",
+      "name": "production",
+      "id": "Theme_e8edecdd5abbd5917963b54df9936db4bdcba4f90bb9a98a9174725c74a9b1a4"
+    },
+    {
+      "type": "Organization",
+      "name": "Electra",
+      "id": "Organization_da2c99eda93d1adddc4c2da5206b1a85e182f8e610b6c35192fa42a641d98fcc"
+    },
+    {
+      "type": "Organization",
+      "name": "Leclerc",
+      "id": "Organization_09841a7cbc721913a6b8aad43f0176d77e357e3a600db4009c3e38f00b932bf1"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque des Territoires",
+      "id": "Organization_d55f7a0134f40cb6e4d5b6b7d019bb861c510c7bbb83a8f6a339ea15442339cf"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence des prix pour la recharge",
+      "id": "Theme_92ca2466eedd0d4df4ae0f5c08ee7d0a0cc88731b7c9fdbca0a1033f7879372d"
+    },
+    {
+      "type": "Theme",
+      "name": "émulation",
+      "id": "Theme_f586aac714f82f1669e906544102e2c39588e21e7a800e301a52154b6f692517"
+    },
+    {
+      "type": "Theme",
+      "name": "tirer les prix vers le bas et vers la transparence",
+      "id": "Theme_92a061580d68b030663bd3cbfcfa9ed789fc2e8618469a14b78dbdd13c0dc212"
+    },
+    {
+      "type": "Theme",
+      "name": "passage d'une voiture thermique à une voiture électrique",
+      "id": "Theme_7aed68d1efe2baa3162be0a3449a82035a42203cd0ffd3655c6888848fe8f5b6"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "carburants fossiles",
+      "id": "Theme_d82e421bd2a645553122dc8646208d1f697b973432ce6b96df22b740b9a30177"
+    },
+    {
+      "type": "Theme",
+      "name": "engins de chantier",
+      "id": "Theme_4758d94c02a817e1f1a602a2b4e9e4382633a1decd9671191a78fe3bcf7b653b"
+    },
+    {
+      "type": "Theme",
+      "name": "engins agricoles",
+      "id": "Theme_984c00ed182bc9a315c422de8a30425d19e4eb9271a056c65fdfe4c251c8066b"
+    },
+    {
+      "type": "Theme",
+      "name": "engins de voirie",
+      "id": "Theme_268128b40a0fc863712f1547b52258fa0e9164c4a1ea030ad960b03cae48107a"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir-faire",
+      "id": "Theme_e020add04380980015c543dc696b8b323483b7b82c6c387324d2986f12998c1a"
+    },
+    {
+      "type": "Theme",
+      "name": "chauffage",
+      "id": "Theme_1cb024a9f65316595ae3ca59eb80cba437e0938ce03c155409deb237c3d2f605"
+    },
+    {
+      "type": "Theme",
+      "name": "pompes à chaleur",
+      "id": "Theme_0410fd8743134947a4d68328a21d189a689a7cdd394cfa3dee8a685c6ebf9b6f"
+    },
+    {
+      "type": "Theme",
+      "name": "idées fausses",
+      "id": "Theme_d9186e87478e37cc8e050fbb95e44d55f74caf5a1b6ef33cb3d5f7fc3174da66"
+    },
+    {
+      "type": "Theme",
+      "name": "études",
+      "id": "Theme_efe6a3f3a9fcb8ea16f6a77256aebc525f2a25d7e199b20f4bdddd2ddb09b472"
+    },
+    {
+      "type": "Theme",
+      "name": "sceptiques",
+      "id": "Theme_aa352de5911e69eab9986f03db90e51ee5c024f98bdbb7f5402cf19082f92653"
+    },
+    {
+      "type": "Theme",
+      "name": "Norvège",
+      "id": "Theme_7ea789f68c7522ae6e875b6e5365755067be47fedc4d5e3177de01e33ccf0d13"
+    },
+    {
+      "type": "Theme",
+      "name": "douceur de ses hivers",
+      "id": "Theme_9eacf28267263db41459238f1a7f30a5a5b37da89ff816a8c090cd9f605585f9"
+    },
+    {
+      "type": "Theme",
+      "name": "isolation",
+      "id": "Theme_eb7fe558fb80280c420609f9fc38e320f73b3197348123219afc097dcabdbd04"
+    },
+    {
+      "type": "Theme",
+      "name": "réseau de chaleur",
+      "id": "Theme_82a82ac1ac5eec95d889f68df57bcb2a42cd59b618e04b8b6a7444622559c094"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz",
+      "id": "Theme_23c772ec8e48db56d58d61be20b92c8c3f24d744a200ab1b8ff2005eef4b1e48"
+    },
+    {
+      "type": "Theme",
+      "name": "confort d'été",
+      "id": "Theme_6a1b5331278d0d1bc76a7da052ea790b447d810c7831c42a9a06bb2536826f0d"
+    },
+    {
+      "type": "Organization",
+      "name": "Effy",
+      "id": "Organization_1ed65bde212cd51222ef88c10213338b88f399cb020903f1f3d2d51629f8a4db"
+    },
+    {
+      "type": "Organization",
+      "name": "Octopus Energy",
+      "id": "Organization_a06d5f6da0711ba49861645e32f9f07f46e20b9d05367eab9c3dcb5f011e0dac"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Organization",
+      "name": "EPYR",
+      "id": "Organization_63f9943a67c46f38bd20ae3d37a3789350c4c1bf1d762c60792d97efe063f01d"
+    },
+    {
+      "type": "City",
+      "name": "Troyes",
+      "id": "City_cc2fd50253b390781e4aa2d69ebe6b793ff49220d2e36fedc734efe429c37928"
+    },
+    {
+      "type": "Organization",
+      "name": "WEPA",
+      "id": "Organization_509c4ad258c293d16e6cefcd6965a786b948917f4e801134a6bf5ddcd8035097"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies fossiles",
+      "id": "Theme_b6c35f61d1a981309cce533ddbf6a71e259f9c267d021131e611f1b7a3f5f978"
+    },
+    {
+      "type": "Theme",
+      "name": "vapeur",
+      "id": "Theme_0787bcf56f7298975e361c750b71a43d60118db57b89420fb5e2ecbc4e05a57c"
+    },
+    {
+      "type": "Theme",
+      "name": "petits réacteurs modulaires",
+      "id": "Theme_a092087344f09ee0c064c83ddffd09eff7c4dd07ab4679ae4dfa8f968f9acff6"
+    },
+    {
+      "type": "Theme",
+      "name": "acier",
+      "id": "Theme_7bdbbd7fdaf595d0ae146f72166d8846294fd1db96aaf5caf8e88d5e5e53390c"
+    },
+    {
+      "type": "Theme",
+      "name": "engrais",
+      "id": "Theme_740ede2e93503185fb3033e921243202b66e371729e145a466aa489cb432c7d5"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté alimentaire",
+      "id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation française",
+      "id": "Theme_38b530fcd1a29c8a1ad8901e67f4aa1ebce00f6031be398e7d33ff89df99ab34"
+    },
+    {
+      "type": "Organization",
+      "name": "groupe Schneider",
+      "id": "Organization_503e89156aca90443d1f98eef47a0e9b84c7b3f8c37d0a1680f9ba06dd27d5d8"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance nationale",
+      "id": "Theme_e549d4ff477b3a771b47bbc10d5dc408522a1bdedd3faa474c52939e5be98e76"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "crise énergétique",
+      "id": "Theme_0a69de24fb58ba3738f666a89eb524b5c6dac19e499a750d57c1a7426f72f57f"
+    },
+    {
+      "type": "Theme",
+      "name": "augmentation des prix des hydrocarbures fossiles",
+      "id": "Theme_81bb6109ba46ceaa8264184a94ae97dba44c0ca650c0325223d0c1f061e7461d"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendances fossiles",
+      "id": "Theme_3fe7d065fc3cd4b4798f63cf0bbd239b9759a20dfaaa9019e043fe620c54d79a"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir d'achat",
+      "id": "Theme_63effc12fc7fbc533757050c1218d45395229580f9c3bfcec7f32cb9090cc9f2"
+    },
+    {
+      "type": "Theme",
+      "name": "volatilité des événements géopolitiques",
+      "id": "Theme_9d141c0742522376f1608a21a270661361688b85303d42bac41ba10d84d3336b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Allemagne",
+      "relation": "LOCATED_IN",
+      "target": "Allemagne",
+      "evidence": "il atteint 93 euros en Allemagne",
+      "confidence": 1.0,
+      "source_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "Italie",
+      "relation": "LOCATED_IN",
+      "target": "Italie",
+      "evidence": "107 euros par MWh en Italie",
+      "confidence": 1.0,
+      "source_id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c",
+      "target_id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "source": "Belfort",
+      "relation": "MENTIONS",
+      "target": "nouveau nucléaire",
+      "evidence": "D'abord, produire, c'est un peu la déclinaison de cette stratégie de Belfort, mais c'est un axe d'effort important. Nous devons continuer à faire avancer le programme du nouveau nucléaire que nous avons lancé, six EPR, et une extension à venir pour huit réacteurs supplémentaires.",
+      "confidence": 1.0,
+      "source_id": "Organization_dc4a86503ddac7b5668ce162b9285cc4cae07dd5f104b9dcec3be88d472281c5",
+      "target_id": "Theme_94ed54df56a9958a92d27c47b98c31ca0ae8150bcc7b661837964897da2f8d3a"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "intelligence artificielle",
+      "evidence": "Il est très clair que quand on parle d'intelligence artificielle, de capacité de calcul, l'avantage comparatif de la France, c'est d'avoir cette électricité décarbonée, disponible et une capacité à raccorder dans les temps et de manière compétitive.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "capacité de calcul",
+      "evidence": "Il est très clair que quand on parle d'intelligence artificielle, de capacité de calcul, l'avantage comparatif de la France, c'est d'avoir cette électricité décarbonée, disponible et une capacité à raccorder dans les temps et de manière compétitive.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_eef49159698392c7f69c4bb500f64ac26602fe687d6c417ada72565bd8e6293b"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "électricité décarbonée",
+      "evidence": "Il est très clair que quand on parle d'intelligence artificielle, de capacité de calcul, l'avantage comparatif de la France, c'est d'avoir cette électricité décarbonée, disponible et une capacité à raccorder dans les temps et de manière compétitive.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_5037a0b68937fdfc93692ecd73d5632512e9196b37c9c6aefb44837d7266e590"
+    },
+    {
+      "source": "investissement",
+      "relation": "MENTIONS",
+      "target": "industriel",
+      "evidence": "Cela vaut aussi pour des usages parfois insoupçonnés, comme pour la production d'engrais. J'y reviendrai. Cette visibilité sur le temps long vaut tout autant pour les industriels dont les investissements engagent une, deux, parfois trois décennies",
+      "confidence": 1.0,
+      "source_id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc",
+      "target_id": "Theme_f4a0cd2a3677e7ed90924f359616e647a4a4b1296fad61661f9f9c73e1c82f5b"
+    },
+    {
+      "source": "EDF",
+      "relation": "SUPPORTS",
+      "target": "avantage compétitif",
+      "evidence": "Je salue aussi les progrès faits par EDF pour proposer des contrats de long terme, parfois à 8, 10, voire 15 ans, adossés au parc historique pour faire profiter les entreprises de cet avantage compétitif",
+      "confidence": 1.0,
+      "source_id": "Theme_4a55bc5842bfe88c90ef6fe0d263d864e74374c5fa1fd96776f3d00c750974cf",
+      "target_id": "Theme_2a6040bf50a5a8417d3f3d223068a0e83e446d817edfea86732ae115c724b588"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Ceci nous permet d'aborder avec confiance la hausse de la production de véhicules électriques en France, 400 000 véhicules par an l'an prochain et une accélération forte dans les prochaines années sur la base des investissements que je viens d'évoquer et qui s'appuie sur tout l'amont que l'on a développé : la Vallée de la Batterie dans les Hauts-de-France que j'évoquais, nos mines de lithium dans l'Allier, etc.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "pompes à chaleur",
+      "relation": "MENTIONS",
+      "target": "pompes à chaleur",
+      "evidence": "Les pompes à chaleur sont à cet égard un pilier de notre stratégie.",
+      "confidence": 1.0,
+      "source_id": "Theme_0410fd8743134947a4d68328a21d189a689a7cdd394cfa3dee8a685c6ebf9b6f",
+      "target_id": "Theme_0410fd8743134947a4d68328a21d189a689a7cdd394cfa3dee8a685c6ebf9b6f"
+    },
+    {
+      "source": "pompes à chaleur",
+      "relation": "MENTIONS",
+      "target": "idées fausses",
+      "evidence": "on entend et on a entendu beaucoup d'idées fausses, notamment que les pompes à chaleur ne fonctionneraient pas quand il fait froid.",
+      "confidence": 1.0,
+      "source_id": "Theme_0410fd8743134947a4d68328a21d189a689a7cdd394cfa3dee8a685c6ebf9b6f",
+      "target_id": "Theme_d9186e87478e37cc8e050fbb95e44d55f74caf5a1b6ef33cb3d5f7fc3174da66"
+    },
+    {
+      "source": "études",
+      "relation": "MENTIONS",
+      "target": "études",
+      "evidence": "toutes les études démontrent le contraire.",
+      "confidence": 1.0,
+      "source_id": "Theme_efe6a3f3a9fcb8ea16f6a77256aebc525f2a25d7e199b20f4bdddd2ddb09b472",
+      "target_id": "Theme_efe6a3f3a9fcb8ea16f6a77256aebc525f2a25d7e199b20f4bdddd2ddb09b472"
+    },
+    {
+      "source": "Norvège",
+      "relation": "MENTIONS",
+      "target": "Norvège",
+      "evidence": "Alors d'abord, toutes les études démontrent le contraire. Ensuite, j'invite les sceptiques à aller en Norvège, qui n'est pas réputée pour la douceur de ses hivers et qui est l'un des pays dont le taux d'équipement de pompe à chaleur est l'un des plus élevés au monde.",
+      "confidence": 1.0,
+      "source_id": "Theme_7ea789f68c7522ae6e875b6e5365755067be47fedc4d5e3177de01e33ccf0d13",
+      "target_id": "Theme_7ea789f68c7522ae6e875b6e5365755067be47fedc4d5e3177de01e33ccf0d13"
+    },
+    {
+      "source": "sceptiques",
+      "relation": "MENTIONS",
+      "target": "sceptiques",
+      "evidence": "Alors d'abord, toutes les études démontrent le contraire. Ensuite, j'invite les sceptiques à aller en Norvège, qui n'est pas réputée pour la douceur de ses hivers et qui est l'un des pays dont le taux d'équipement de pompe à chaleur est l'un des plus élevés au monde.",
+      "confidence": 1.0,
+      "source_id": "Theme_aa352de5911e69eab9986f03db90e51ee5c024f98bdbb7f5402cf19082f92653",
+      "target_id": "Theme_aa352de5911e69eab9986f03db90e51ee5c024f98bdbb7f5402cf19082f92653"
+    },
+    {
+      "source": "douceur de ses hivers",
+      "relation": "MENTIONS",
+      "target": "Norvège",
+      "evidence": "Alors d'abord, toutes les études démontrent le contraire. Ensuite, j'invite les sceptiques à aller en Norvège, qui n'est pas réputée pour la douceur de ses hivers et qui est l'un des pays dont le taux d'équipement de pompe à chaleur est l'un des plus élevés au monde.",
+      "confidence": 1.0,
+      "source_id": "Theme_9eacf28267263db41459238f1a7f30a5a5b37da89ff816a8c090cd9f605585f9",
+      "target_id": "Theme_7ea789f68c7522ae6e875b6e5365755067be47fedc4d5e3177de01e33ccf0d13"
+    },
+    {
+      "source": "isolation",
+      "relation": "MENTIONS",
+      "target": "isolation",
+      "evidence": "On peut également avoir des chauffages électriques performants, couplés à une bonne isolation.",
+      "confidence": 1.0,
+      "source_id": "Theme_eb7fe558fb80280c420609f9fc38e320f73b3197348123219afc097dcabdbd04",
+      "target_id": "Theme_eb7fe558fb80280c420609f9fc38e320f73b3197348123219afc097dcabdbd04"
+    },
+    {
+      "source": "réseau de chaleur",
+      "relation": "MENTIONS",
+      "target": "réseau de chaleur",
+      "evidence": "Dans certaines zones, le recours à un réseau de chaleur sera plus pertinent.",
+      "confidence": 1.0,
+      "source_id": "Theme_82a82ac1ac5eec95d889f68df57bcb2a42cd59b618e04b8b6a7444622559c094",
+      "target_id": "Theme_82a82ac1ac5eec95d889f68df57bcb2a42cd59b618e04b8b6a7444622559c094"
+    },
+    {
+      "source": "géothermie",
+      "relation": "MENTIONS",
+      "target": "géothermie",
+      "evidence": "Dans d'autres, ce sera la géothermie.",
+      "confidence": 1.0,
+      "source_id": "Theme_baca47520321c5e29290ecf987cbdf794740e204c83705b096ba7f3c3cdcfb06",
+      "target_id": "Theme_baca47520321c5e29290ecf987cbdf794740e204c83705b096ba7f3c3cdcfb06"
+    },
+    {
+      "source": "gaz",
+      "relation": "MENTIONS",
+      "target": "gaz",
+      "evidence": "Et on sait qu'il y a aussi des habitations qui continueront à avoir besoin du gaz.",
+      "confidence": 1.0,
+      "source_id": "Theme_23c772ec8e48db56d58d61be20b92c8c3f24d744a200ab1b8ff2005eef4b1e48",
+      "target_id": "Theme_23c772ec8e48db56d58d61be20b92c8c3f24d744a200ab1b8ff2005eef4b1e48"
+    },
+    {
+      "source": "confort d'été",
+      "relation": "MENTIONS",
+      "target": "confort d'été",
+      "evidence": "Le phénomène météorologique que nous vivons nous rappelle également que nous devons prendre en compte le confort d'été, ce que peuvent faire certains équipements réversibles produisant également du froid.",
+      "confidence": 1.0,
+      "source_id": "Theme_6a1b5331278d0d1bc76a7da052ea790b447d810c7831c42a9a06bb2536826f0d",
+      "target_id": "Theme_6a1b5331278d0d1bc76a7da052ea790b447d810c7831c42a9a06bb2536826f0d"
+    },
+    {
+      "source": "groupe Schneider",
+      "relation": "MENTIONS",
+      "target": "innovation française",
+      "evidence": "Je pense aussi à des groupes comme le groupe Schneider qui mobilise l'ensemble de sa chaîne de valeur pour tenir ses objectifs de décarbonation, avec, par exemple, le transformateur exposé dans la cour, qui est un exemple de l'innovation française, qui fonctionne sans gaz fluoré et qui, là aussi, montre comment l'innovation de pointe permet d'obtenir ces résultats.",
+      "confidence": 1.0,
+      "source_id": "Organization_503e89156aca90443d1f98eef47a0e9b84c7b3f8c37d0a1680f9ba06dd27d5d8",
+      "target_id": "Theme_38b530fcd1a29c8a1ad8901e67f4aa1ebce00f6031be398e7d33ff89df99ab34"
+    }
+  ]
+}

@@ -1,0 +1,986 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "crise pandémique",
+      "id": "Theme_d2957b989473e2d9112871dcf477d66a22dfa4e7c88a3dc8f485e32c20bfe81b"
+    },
+    {
+      "type": "Theme",
+      "name": "relance économique",
+      "id": "Theme_b5db8174f7fb244486c60d92e264d28b83a5d03327c53b7d0343d5b8e3c52e7a"
+    },
+    {
+      "type": "Theme",
+      "name": "numérisation",
+      "id": "Theme_50905116b58d71fb611a012a8f989a8547a38622832cfa8ac5a6f5aa23f431c0"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique",
+      "id": "Theme_82634c5567e29ec1e0f256205be4191228a3b7329a743da05d0f47189c5b7272"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements d'avenir",
+      "id": "Theme_3dcf0419279876cb8c0fc7da2a3f9f3af869080b07ccae32b9dc6a1063670cef"
+    },
+    {
+      "type": "Theme",
+      "name": "plan de relance",
+      "id": "Theme_0284b43f69888e3ab0015c645b207cd8a09e25a57ef364a712d8ad0acf0ba263"
+    },
+    {
+      "type": "Theme",
+      "name": "politique de cohésion européenne",
+      "id": "Theme_328249ce483cda68b9e8284a55b04198ecc9afc95380f9846c90fcd034350d6c"
+    },
+    {
+      "type": "Person",
+      "name": "M. Adamowicz",
+      "id": "Person_6a7f6c6dc001b66637a8a1c63efb420707fa5628744871234209baf32ca42618"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    },
+    {
+      "type": "Organization",
+      "name": "Comité européen des régions",
+      "id": "Organization_750042bae8c6c444ea174ca4a532b79f99ebf6abbaec7b5bb470968ccabfb302"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Theme",
+      "name": "subsidiarité",
+      "id": "Theme_d31550d4be24749d8ab400b894c400bdf42185bb43763a35521e7d48dd7f3f1e"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "UE",
+      "id": "Organization_75da82fd457652e72fd6e115549a254e0ce7836d553f1cda24c2bf80d7a5254a"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité humaine",
+      "id": "Theme_a68e650cb082f90e106ea6655faf8989cb9854b36f5542c5c40eb1819a7d6ba1"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Theme",
+      "name": "Etat de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'Homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Theme",
+      "name": "minorités",
+      "id": "Theme_3b90a9d97ebf76cec63da6e17f137d0feec5d4a0ebb18a3aa74f8a573f8152a0"
+    },
+    {
+      "type": "Theme",
+      "name": "droits fondamentaux",
+      "id": "Theme_d9b4fe1c479d332e7300e316d32c15aeb5cb1ac64fafb3edc188bbdc443faa35"
+    },
+    {
+      "type": "Person",
+      "name": "Pawe? Adamowicz",
+      "id": "Person_c1656ef225a534f62aee53cddc879f83d6cd7a18dfe8774739268d401bf5835f"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "lois",
+      "id": "Theme_766b24b40ca0257b39bc7b38835ebf4e150e279ff118a5f34e52aceb71952783"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoirs",
+      "id": "Theme_be0f64b1ccc60285289b61616a32f6ee0e1113f256edbcbbe4b9edbd893b47c0"
+    },
+    {
+      "type": "Theme",
+      "name": "contre-pouvoirs",
+      "id": "Theme_f35f92fc91015fe2cefa5513e77f82d0477f42e5cb8a6bae435d8021a6ab6286"
+    },
+    {
+      "type": "Theme",
+      "name": "médias libres et pluralistes",
+      "id": "Theme_139984f1380e0e1f48b8d5dda09f94281d937662cf1edabea3a4fb00635a0801"
+    },
+    {
+      "type": "Law",
+      "name": "Traité sur l'Union européenne",
+      "id": "Law_45477746445c5f31f54d41f0187a8be60b627b225f5532da0e46fe53a5c1ce85"
+    },
+    {
+      "type": "Theme",
+      "name": "Charte des droits fondamentaux de l'Union européenne",
+      "id": "Theme_eb94c92dbcf0bdbf243b0f94ff7cf9c2c451715e8fd2ad65461b514919008df8"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs fondamentales",
+      "id": "Theme_70805a2b7bc4190a40bd913870592e4a83662b5419bbe69cbab5a4df67fe5a31"
+    },
+    {
+      "type": "Theme",
+      "name": "combats pour conquérir ces droits",
+      "id": "Theme_54115c71a02f05b979e00925f95e2689e49a11dd37344f880f4d771b06d2fbe2"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de la démocratie",
+      "id": "Theme_dd05ff48e67bb60ee87cb3eb9b67cabf0d05da9a1879db3a6d1fd41bffce54d0"
+    },
+    {
+      "type": "Theme",
+      "name": "manipulation",
+      "id": "Theme_2e9e02294ac8cc8540c61b26b7df19e1bbcea58d6857e4010bf7a6a29330b87d"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie libérale",
+      "id": "Theme_98d500a10214563620caaba76c0b7dc5d8f55d0f5296040835eabc7f9e236f0a"
+    },
+    {
+      "type": "Theme",
+      "name": "manipulation de l'information",
+      "id": "Theme_3fe0592d80f0e5ae4010833e6a658d3a3cfa90b43f471cf8f47113ed5d46941d"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "processus électoraux",
+      "id": "Theme_e8ce5a1b020e11caf0dea67e20873a2ddf05b290ee703bdd0eb18b5b808e6277"
+    },
+    {
+      "type": "Theme",
+      "name": "représentants élus",
+      "id": "Theme_95680033f30fb383543ea49e3c7a82e86ec9fd7ada916ad83d028db540077c3c"
+    },
+    {
+      "type": "Theme",
+      "name": "journalistes",
+      "id": "Theme_d0f7423edf7bc07d65404e42fcfd7e173b370fcf775ae641002541332c1ebe69"
+    },
+    {
+      "type": "Theme",
+      "name": "débat apaisé, rationnel, libre",
+      "id": "Theme_d6434c12527c3e8b5a2539f691bd0dbad11b7a26875f5207b494badd7898cffb"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie européenne",
+      "id": "Theme_4ff1fc7647be60fe676db63daf3fe5391ffdf8165123c6fdd9a1bf83cd586512"
+    },
+    {
+      "type": "Theme",
+      "name": "intégrité des élections",
+      "id": "Theme_64bc336c5723b964896969ed31ed05490eb7a8a38625d8cc82ba800f4b2b4cf4"
+    },
+    {
+      "type": "Theme",
+      "name": "pluralisme des médias",
+      "id": "Theme_df71d5e24cc554282dc5df03bc5e78497066b9abbeeb43256406cab391869f05"
+    },
+    {
+      "type": "Theme",
+      "name": "désinformation",
+      "id": "Theme_d7428aff1356b58031eddd99d401ba2f7893b8554028ee52911de20f2e73cda8"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanisme européen de résilience électorale",
+      "id": "Theme_5c33656d08002f0d867bb7d355cf2479a9415b31c5f3c6c5bac1e8cce276a418"
+    },
+    {
+      "type": "Theme",
+      "name": "financement des partis politiques",
+      "id": "Theme_6c8a5191c2901b3f1c61c56261233fb06034cdda279d800b6902d11325d5f6ee"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence des dons",
+      "id": "Theme_2c246dcb54d8ba144516edceca247a2f6e649febf005fa62dfeede0fc0c5526b"
+    },
+    {
+      "type": "Theme",
+      "name": "ingérence d'acteurs étrangers",
+      "id": "Theme_ad2762f4e5ad10c7373f1ab489ae33dde5c48bd5d41eaf71ae03f8d825bfb3fa"
+    },
+    {
+      "type": "Theme",
+      "name": "régulation des publicités politiques en ligne",
+      "id": "Theme_8d332357d6da67bcb3dd5e8bd9f6a5c7155624c1ee77bbb4d3a092b0419d5b02"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la désinformation",
+      "id": "Theme_e207212c7816601f73c1c7cb0e68a8a4c42bf464d47d39e46dff9f8141a027d4"
+    },
+    {
+      "type": "Theme",
+      "name": "modération",
+      "id": "Theme_8e85c073c01fa7c4d9b8e2fa8da99d007764bcd81407b03c40928d8336ab8389"
+    },
+    {
+      "type": "Theme",
+      "name": "algorithmes de diffusion des publicités",
+      "id": "Theme_170d22463e7ba91baae2dc56a65f83486d5533e0508c9ea4fcf52265d537bea1"
+    },
+    {
+      "type": "Theme",
+      "name": "médias indépendants",
+      "id": "Theme_d7605e169874d223f5860795f97fc1b0b428aab27a16f9fe78cbd9d7d31ed87a"
+    },
+    {
+      "type": "Theme",
+      "name": "lignes éditoriales",
+      "id": "Theme_b568290fba887b114c34b15f520f3f7c505e027f554cec99865b4725c61f1d06"
+    },
+    {
+      "type": "Theme",
+      "name": "accès à l'information",
+      "id": "Theme_c10ffaa51994bdabee499d4fc4a8305ac91a77a5090130791acd76f5a1006689"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance des médias",
+      "id": "Theme_bcb0547408c285f8d3212489e080003e3f713087cceef50983af2252c055035d"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté des médias",
+      "id": "Theme_2fe3ab86ce98f0e32f72b3943e7839ed34eb4041b8b01bbb122e5e745d8826ba"
+    },
+    {
+      "type": "Theme",
+      "name": "poursuites judiciaires abusives",
+      "id": "Theme_86f27facf4502e04930ed2c5fd007429d6215add611e7afcb08e009dc37e62ab"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance et de financement des structures médiatiques",
+      "id": "Theme_54c21733f2e0fa258ccf76cb9079c2f24f982d42c2c16a8c588ab5edcf6bb925"
+    },
+    {
+      "type": "Theme",
+      "name": "menaces hybrides",
+      "id": "Theme_cf103fb9ca94aa3117b9eac14879bd5af0f10776c274f1a3b9ef9564e67256a5"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles déstabilisations",
+      "id": "Theme_08cb245171ffecabbfd7b2eb866792fcacd03120921ceff39100e35be96a67e6"
+    },
+    {
+      "type": "Theme",
+      "name": "L'Etat de droit",
+      "id": "Theme_27a41884cae0ccbc903b1abe74bb1fc66c397fee1a62f1c142975ec363dda43a"
+    },
+    {
+      "type": "Theme",
+      "name": "la démocratie",
+      "id": "Theme_0f1394c88eece1895d27174975e65ab9a44a2c7c7a880db7f4366269700c1b2d"
+    },
+    {
+      "type": "Theme",
+      "name": "les citoyens",
+      "id": "Theme_6aec507ff733584b1198b186436c6ae160691b0fca9b2b0390858bcf8ab94e2e"
+    },
+    {
+      "type": "Theme",
+      "name": "leurs droits et libertés",
+      "id": "Theme_fcb5f08e3e377f641953fddc9ccdc63c368005de464388ca981693393cd3c648"
+    },
+    {
+      "type": "Theme",
+      "name": "exclusion",
+      "id": "Theme_374bdba9be410457596454ef71bdf9e1ab6458e147f0a2d52e1ac2c7b6537608"
+    },
+    {
+      "type": "Theme",
+      "name": "convictions",
+      "id": "Theme_a51b23965d67cf5a68542609622617407593bf52e761c916b6ea4e395c3441b2"
+    },
+    {
+      "type": "Theme",
+      "name": "origines",
+      "id": "Theme_7d9d3808502d6f067575bef0c72428356c99aa579145d92d625dc7c192884c9e"
+    },
+    {
+      "type": "Theme",
+      "name": "orientation sexuelle",
+      "id": "Theme_1213eb22e8b7aa6584edcfbabfa727b15b10c8eef035b42a8251f4e9eca1032b"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémitisme",
+      "id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "type": "Theme",
+      "name": "l'égalité des personnes LGBTQ+",
+      "id": "Theme_749f4487b511f2abc0108d840be3d3d5b560f0844cdd84b370bcade46bc1083c"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de l'Union européenne",
+      "id": "Organization_0f747165c9521ca8f0bd2bc016ae4f2fc3c2e5412c2fd372afe073d26a89b3c4"
+    },
+    {
+      "type": "Theme",
+      "name": "haine",
+      "id": "Theme_1109211ae99f54d538f05e8b1e3badcdc61927baacdf16dc2f914c62e0db0430"
+    },
+    {
+      "type": "Theme",
+      "name": "actes de violence",
+      "id": "Theme_f5afa0dcb5b551377b2a7ac1e08c64ded042a3390966360766280a482fd3a2ba"
+    },
+    {
+      "type": "Theme",
+      "name": "atteintes à la liberté de disposer de leur corps",
+      "id": "Theme_e456ed92faf4d34714fc12a80c82695d2a7bfe4b68cb48ef237a6bcba598c55d"
+    },
+    {
+      "type": "Law",
+      "name": "convention d'Istanbul sur les violences faites aux femmes",
+      "id": "Law_b2995825726583b8e9bd0b3e9444ad7848d6d84646c9deb4976cc4c7cd83d348"
+    },
+    {
+      "type": "Theme",
+      "name": "violences faites aux femmes",
+      "id": "Theme_43efd737d86fa6cbeae42d883838ee75aa4f5ae2335d3214773d627c8c06583b"
+    },
+    {
+      "type": "Theme",
+      "name": "violences domestiques",
+      "id": "Theme_95831abf44602caf5ac01e64444200aee7a67db316a0635a9902562e44b45c67"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité des rémunérations entre les femmes et les hommes",
+      "id": "Theme_1b5d131d52db2545b3b243e68b10a0584139a07f375932db8cfbb50984a5437b"
+    },
+    {
+      "type": "Theme",
+      "name": "droit à l'avortement",
+      "id": "Theme_199d3a3b4c14c45ff36a7ba9e3aa36a631ce254d5ebc6f8a3023160cc1d051b4"
+    },
+    {
+      "type": "Person",
+      "name": "Giscard d'Estaing",
+      "id": "Person_f09c7747b06cdfeb65ebb71e558a938b984ccc3c13cb58fbdd0e7a0cdd56bc29"
+    },
+    {
+      "type": "Person",
+      "name": "Président Giscard d'Estaing",
+      "id": "Person_b2ca96253ff3603e01372a234080b012c4ce84f3caf0e86b2cec68b75f1c87e0"
+    },
+    {
+      "type": "Person",
+      "name": "Simone Veil",
+      "id": "Person_4da84d085d0414be46d06181049192bfa187ee57577e2d7a7fe5104add18936e"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement européen",
+      "id": "Organization_35045d56b46d30c02ed3c266f7b7e936d04046cd769a6b336980fa0f45af5ecb"
+    },
+    {
+      "type": "Theme",
+      "name": "droit des femmes",
+      "id": "Theme_d2da95d72d870a71011b6e862c995183e89c237e4427c4a6f625259d91caedf3"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Theme",
+      "name": "conservatisme",
+      "id": "Theme_42fbcca0fa29aa2bbe3cd3804349ff7ae6b4a262cb4632cd9557763084d5f24a"
+    },
+    {
+      "type": "Theme",
+      "name": "textes fondamentaux",
+      "id": "Theme_f0fd768eee498af8c04630ab0addf5a67523c0c0471d3fc214fd1373a2775529"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses en profondeur",
+      "id": "Theme_33c9686af6db76d9468bde5ccaff2b3bbcecdaadf133416d0700436f321ed4e0"
+    },
+    {
+      "type": "Theme",
+      "name": "menaces",
+      "id": "Theme_5201cf50196d98191911da5de2cdaf6bf22b8dd545685ef548c3099e082fe05c"
+    },
+    {
+      "type": "Theme",
+      "name": "projet européen",
+      "id": "Theme_c38b081aab1b319da3508d8d7da2b70fb39fab4698a750fd2a31ab2512a7b884"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "Conférence sur l'avenir de l'Europe",
+      "id": "Theme_af3090fd1219ea5e8d48366118d37c4e6bf3bb3c22b204d62a9abed147268608"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir de l'Europe",
+      "id": "Theme_e5fb5c5bc901020539a67006eb7e5729acab971551fdfebaa67d4436092ebf91"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme institutionnelle",
+      "id": "Theme_3fc49ef2cca541f088463258db6348258dd8c0b143c7af470c0091347d987578"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe plus proche du terrain",
+      "id": "Theme_df1cdf258de43d4ab9d5d17023ee9e18b84380dbcaf62f93b584be8727264869"
+    },
+    {
+      "type": "Theme",
+      "name": "listes transnationales",
+      "id": "Theme_6c28e79b77a366aa93e731cc832a50c9c34f2254b1a7858715816ee8a61ba3d7"
+    },
+    {
+      "type": "Theme",
+      "name": "débat lors des élections européennes",
+      "id": "Theme_deb15af442f3cf098f1c5041c44961b1e3953c597ebfe23a8db0c3d02d3bc925"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté de l'Europe",
+      "id": "Theme_121d72882c7b39b871706b2edb00e39791b4b9324506069d677480c94fbf3544"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "attaques hybrides",
+      "id": "Theme_d8dba38b9a07bb73234edaf10a810cf2733c9955f32012b441ac7778a9619c0a"
+    },
+    {
+      "type": "Theme",
+      "name": "frontières",
+      "id": "Theme_2cd955c9a002255c9c4db835b43368ec22c183622dce92ef1191d4bdfa43a6bb"
+    },
+    {
+      "type": "Theme",
+      "name": "contestation",
+      "id": "Theme_c7d6f4523d314e5c6a51b8f1a7afb7127fac4826bf4b5574c3cfea25cd6f2691"
+    },
+    {
+      "type": "Theme",
+      "name": "pluralisme",
+      "id": "Theme_a741080b365c82e9b6aec87ddae77303587c9136d76c01e63c366a9fbbe60422"
+    },
+    {
+      "type": "Theme",
+      "name": "opposition",
+      "id": "Theme_1ddb7b67ee4eb1ba0ed9765f2e442d68fa0c51ffc1d861544bdda42f4b95a00c"
+    },
+    {
+      "type": "Theme",
+      "name": "générosité de valeurs",
+      "id": "Theme_a3b38a91be636a3f20a37e9c7b9ad6d710004fe5e80730602bc35aca84af3736"
+    },
+    {
+      "type": "Person",
+      "name": "Présidents de groupes",
+      "id": "Person_3b118fa7fcb638ee290c520c6ea5ad25a0d3983a2f8ddbe0cf0df783125c56d6"
+    },
+    {
+      "type": "Person",
+      "name": "Vice-président",
+      "id": "Person_8cf3ba9b3141bc7ce09216d354971d29da85bf4c9fb2dbc0af432eb56360264d"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations",
+      "id": "Theme_cac93d346afb10556cd477074f8fd5e7de6a6b6e234704cdc92ccd1aae71876c"
+    },
+    {
+      "type": "Theme",
+      "name": "développement",
+      "id": "Theme_9f563f6fb56281bb29449c280e882333dd332f1e1e2aa5ff1e49c8654dc6f9a4"
+    },
+    {
+      "type": "Theme",
+      "name": "aide",
+      "id": "Theme_eef9a924d4a046745a3ec143a931431faf63993ce4a9af79df7ceb8aa49f0ec0"
+    },
+    {
+      "type": "Theme",
+      "name": "système de protection des frontières",
+      "id": "Theme_b69de01048982158a18dd24e9da280c0e4ef5561c8292c4947c7c48cbfffa420"
+    },
+    {
+      "type": "Theme",
+      "name": "différences idéologiques",
+      "id": "Theme_db2a92c12c81c714a10f2437703f104127b6a1cfaf785d054815648b1cab1183"
+    },
+    {
+      "type": "Theme",
+      "name": "sommet",
+      "id": "Theme_6fa5bb62faac898e6ebaddf47fad1db74b79fb34f87f4ecb365d5bca3220ff08"
+    },
+    {
+      "type": "Theme",
+      "name": "Union européenne",
+      "id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "type": "Theme",
+      "name": "Union africaine",
+      "id": "Theme_5373f7c41c2802f89e12688af3c8e7e336a17310ed6de5a8b32c1898fb14ff98"
+    },
+    {
+      "type": "Country",
+      "name": "Biélorussie",
+      "id": "Country_d3816fb7d670df3cea12e7e8411d28852edf0204d5e8d3ae6ce239ee8c7380bb"
+    },
+    {
+      "type": "Country",
+      "name": "Les Etats membres",
+      "id": "Country_8e9faf54ca732cd2b82510b578f696a611ec56b43d7ff4bf9540d4f0a73ec5da"
+    },
+    {
+      "type": "Theme",
+      "name": "protocole Nord-irlandais",
+      "id": "Theme_0a053c5fbda3bedf70d1ca37dd487c718f1ca5271f77202019f92e069d4a825f"
+    },
+    {
+      "type": "Theme",
+      "name": "accord du Vendredi Saint",
+      "id": "Theme_f9e7950a693da33064ef5f5e9bbd5b2565c511e1b2625005394e8e10f0678fe5"
+    },
+    {
+      "type": "Theme",
+      "name": "intégrité du marché unique",
+      "id": "Theme_1148b9be70f2976ffa3702f9673f991e314e0baaee4027f7bae5d564fc56466e"
+    },
+    {
+      "type": "Theme",
+      "name": "pêche",
+      "id": "Theme_0287cf7c46b5cffa29a4a5314ed2687af9e7319d0afd8684279cd081076f2ad5"
+    },
+    {
+      "type": "Theme",
+      "name": "sujets migratoires",
+      "id": "Theme_6c7a251cde4be3ea4097eda9da7a9382b8ee770781785c00fe6c3b4c50b1b3be"
+    },
+    {
+      "type": "Organization",
+      "name": "GIEC",
+      "id": "Organization_297925d862ac77d06e0f92e928343f040f9454607959dbd74af3c818484ef000"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelable",
+      "id": "Theme_d0beb8d3065f33b4c348175dce1aba64c98ce89f1a5876f75f351c8752b2dd50"
+    },
+    {
+      "type": "Theme",
+      "name": "soutenabilité",
+      "id": "Theme_68eb5f4dec4b35d9c44dc3f050455de05c5ff78005c3bf89ddcced7cef55062d"
+    },
+    {
+      "type": "Theme",
+      "name": "charbon",
+      "id": "Theme_548bb5ce8df69ec8043411bf054457e539ac5bba47798110164f1896a83f7cd8"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz",
+      "id": "Theme_23c772ec8e48db56d58d61be20b92c8c3f24d744a200ab1b8ff2005eef4b1e48"
+    },
+    {
+      "type": "Theme",
+      "name": "CO2",
+      "id": "Theme_7fc01d78548a70f3e577bcd09088ef66dd6d98ccb7b0925fb654e36dc2d88acb"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance",
+      "id": "Theme_eb42bc9a4c0e3c4863f2af9c41baa2a8f3b5a02bf55c6c74f6658aeb303b2108"
+    },
+    {
+      "type": "Theme",
+      "name": "cohésion sociale",
+      "id": "Theme_8c4932369deff96a77a5b9e0b4e5e670ce51f835ce927f41ad43093549d07b03"
+    },
+    {
+      "type": "Theme",
+      "name": "régions ultrapériphériques",
+      "id": "Theme_36891e170b51adb37b19267e056bee90112260bf2fa5e2e257ddcbe2df68c76c"
+    },
+    {
+      "type": "Theme",
+      "name": "transition climatique",
+      "id": "Theme_e75feae75fc3fc33a1090e46506e630bfc0c68d201d672aba551e5a19141a63a"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses sociales à la crise",
+      "id": "Theme_e32eb23337c0945145ec77e6635c3041fbb3cd813fda7a569900ed6a67d434a3"
+    },
+    {
+      "type": "Theme",
+      "name": "décentralisation",
+      "id": "Theme_8cdbeea2048deb633c4b678480b824c211c9c3809c1c56bd2de057c9fda69508"
+    },
+    {
+      "type": "Theme",
+      "name": "logement",
+      "id": "Theme_5482b77c02cb27b743d7ba44022361e1f99e9ac6c8c98c177add71ee6c65ef55"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir normatif",
+      "id": "Theme_a179ecc53e81ab97f25514d79ce7dab931bea400e056824435d974af98e32640"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "choc",
+      "id": "Theme_531c979d089118eb88679eff88077764b2faeb5d99954e6cda60b3354727919c"
+    },
+    {
+      "type": "Theme",
+      "name": "sujets d'intérêt généraux",
+      "id": "Theme_0324b2765c54377fa5d42f43f398b28f2f054790b852fb06fa6b6bef0f3b8145"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance",
+      "id": "Theme_d8895f67d26ec9bc257a9b6d9015cbffdb3029611e550d517fabb25ec9d2c101"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "sujets du quotidien",
+      "id": "Theme_ced20f228f5adc15ea972d68ac9989a8f840e4c6c8c62ecb9e1bec91739563b6"
+    },
+    {
+      "type": "Theme",
+      "name": "centralisation de la norme",
+      "id": "Theme_fbf995db108ad803a1b319dd55831a911e70aaf4b252d5af2dd4d93d3676dc90"
+    },
+    {
+      "type": "Theme",
+      "name": "uniformité de la norme",
+      "id": "Theme_2aaf0f603f0cccaaa20ee617b59fc4b264b008d33c580443329b6039b296d4c0"
+    },
+    {
+      "type": "Theme",
+      "name": "hétérogénéité des conditions de terrain",
+      "id": "Theme_9cfa6a35b54ec55dc232e0e18f65da752afe00b705b54b162ddafb3597bac8e8"
+    },
+    {
+      "type": "Theme",
+      "name": "producteurs de normes",
+      "id": "Theme_8cebddc04278e3fdd483b92012df8acdc6406aa1e63f564c88c831719c8bd843"
+    },
+    {
+      "type": "Person",
+      "name": "Jacques Delors",
+      "id": "Person_bf44456d85fd5bb992bf0e158b65f5c46b0ed5ea603af0f60470aa2db16cf4cb"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Union européenne",
+      "relation": "SUPPORTS",
+      "target": "Etat de droit",
+      "evidence": "Je pense au mécanisme de conditionnalité fondé sur l'Etat de droit, mais aussi aux conditionnalités incluant le respect de la Charte des droits fondamentaux de l'Union européenne.",
+      "confidence": 1.0,
+      "source_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61",
+      "target_id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SUPPORTS",
+      "target": "Charte des droits fondamentaux de l'Union européenne",
+      "evidence": "Je pense au mécanisme de conditionnalité fondé sur l'Etat de droit, mais aussi aux conditionnalités incluant le respect de la Charte des droits fondamentaux de l'Union européenne.",
+      "confidence": 1.0,
+      "source_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61",
+      "target_id": "Theme_eb94c92dbcf0bdbf243b0f94ff7cf9c2c451715e8fd2ad65461b514919008df8"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "démocratie libérale",
+      "evidence": "Il y a aujourd'hui un spectre qui va de la quasi-intervention politique à la propagande jusqu'à la menace cyber quasi-militarisée. Ce spectre est utilisé aujourd'hui, par les ennemis de l'Europe et de la démocratie libérale, pleinement sur nos territoires.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_98d500a10214563620caaba76c0b7dc5d8f55d0f5296040835eabc7f9e236f0a"
+    },
+    {
+      "source": "médias indépendants",
+      "relation": "MENTIONS",
+      "target": "démocratie",
+      "evidence": "Troisièmement, la vitalité de la démocratie nécessite des médias indépendants.",
+      "confidence": 1.0,
+      "source_id": "Theme_d7605e169874d223f5860795f97fc1b0b428aab27a16f9fe78cbd9d7d31ed87a",
+      "target_id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "source": "médias indépendants",
+      "relation": "MENTIONS",
+      "target": "lignes éditoriales",
+      "evidence": "Avoir des médias indépendants, cela signifie que les lignes éditoriales ne doivent pas être, ne peuvent pas être dictées par les financements.",
+      "confidence": 1.0,
+      "source_id": "Theme_d7605e169874d223f5860795f97fc1b0b428aab27a16f9fe78cbd9d7d31ed87a",
+      "target_id": "Theme_b568290fba887b114c34b15f520f3f7c505e027f554cec99865b4725c61f1d06"
+    },
+    {
+      "source": "les citoyens",
+      "relation": "MENTIONS",
+      "target": "leurs droits et libertés",
+      "evidence": "les citoyens de leurs droits et libertés",
+      "confidence": 1.0,
+      "source_id": "Theme_6aec507ff733584b1198b186436c6ae160691b0fca9b2b0390858bcf8ab94e2e",
+      "target_id": "Theme_fcb5f08e3e377f641953fddc9ccdc63c368005de464388ca981693393cd3c648"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Union européenne",
+      "evidence": "La France continuera de s'engager pour que tous les Etats membres de l'Union européenne ratifient la convention d'Istanbul sur les violences faites aux femmes",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "source": "souveraineté",
+      "relation": "SUPPORTS",
+      "target": "démocratie",
+      "evidence": "la souveraineté de l'Europe, son indépendance et sa souveraineté militaire, technologique, industrielle est indissociable de la force de sa démocratie.",
+      "confidence": 1.0,
+      "source_id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b",
+      "target_id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "source": "démocratie",
+      "relation": "OPPOSES",
+      "target": "attaques hybrides",
+      "evidence": "Si nous laissons nos démocraties faibles, elles finiront par être balayées. Si nous laissons, une seule seconde, s'installer l'idée qu'étant démocrates, nous serions vulnérables aux attaques hybrides, aux provocations, que nous serions dans l'incapacité de tenir nos frontières ou de ne plus protéger nos territoires, alors nous prendrions la responsabilité funeste de laisser croire à nos compatriotes que la démocratie serait devenue un régime faible.",
+      "confidence": 1.0,
+      "source_id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd",
+      "target_id": "Theme_d8dba38b9a07bb73234edaf10a810cf2733c9955f32012b441ac7778a9619c0a"
+    },
+    {
+      "source": "démocratie",
+      "relation": "SUPPORTS",
+      "target": "frontières",
+      "evidence": "Si nous laissons nos démocraties faibles, elles finiront par être balayées. Si nous laissons, une seule seconde, s'installer l'idée qu'étant démocrates, nous serions vulnérables aux attaques hybrides, aux provocations, que nous serions dans l'incapacité de tenir nos frontières ou de ne plus protéger nos territoires, alors nous prendrions la responsabilité funeste de laisser croire à nos compatriotes que la démocratie serait devenue un régime faible.",
+      "confidence": 1.0,
+      "source_id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd",
+      "target_id": "Theme_2cd955c9a002255c9c4db835b43368ec22c183622dce92ef1191d4bdfa43a6bb"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "charbon",
+      "evidence": "La priorité de l'Europe, c'est d'abord de sortir du charbon.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_548bb5ce8df69ec8043411bf054457e539ac5bba47798110164f1896a83f7cd8"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "dépendance",
+      "evidence": "Consommer plus de gaz, c'est importer du gaz russe, turc ou venant d'autres puissances. Nul n'est besoin ici de décrire ce que cette situation de dépendance accrue voudrait dire pour notre Europe.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_eb42bc9a4c0e3c4863f2af9c41baa2a8f3b5a02bf55c6c74f6658aeb303b2108"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "sujets d'intérêt généraux",
+      "evidence": "Et donc ce que nous avons à réarticuler, on le voit bien, c'est d'avoir une Europe qui se concentre sur les sujets d'intérêt généraux",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_0324b2765c54377fa5d42f43f398b28f2f054790b852fb06fa6b6bef0f3b8145"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "puissance",
+      "evidence": "Et donc ce que nous avons à réarticuler, on le voit bien, c'est d'avoir une Europe qui se concentre sur les sujets d'intérêt généraux qui supposent beaucoup d'unité, sur les sujets de puissance",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_d8895f67d26ec9bc257a9b6d9015cbffdb3029611e550d517fabb25ec9d2c101"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "souveraineté",
+      "evidence": "Et donc ce que nous avons à réarticuler, on le voit bien, c'est d'avoir une Europe qui se concentre sur les sujets d'intérêt généraux qui supposent beaucoup d'unité, sur les sujets de puissance, comme vous l'avez dit, et de souveraineté",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "règles",
+      "evidence": "Et donc ce que nous avons à réarticuler, on le voit bien, c'est d'avoir une Europe qui se concentre sur les sujets d'intérêt généraux qui supposent beaucoup d'unité, sur les sujets de puissance, comme vous l'avez dit, et de souveraineté qui sont existentiels, sur leurs règles",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "centralisation de la norme",
+      "evidence": "Et donc ce que nous avons à réarticuler, on le voit bien, c'est d'avoir une Europe qui se concentre sur les sujets d'intérêt généraux qui supposent beaucoup d'unité, sur les sujets de puissance, comme vous l'avez dit, et de souveraineté qui sont existentiels, sur leurs règles, et qui sache aussi mettre plus de subsidiarité sur certains sujets du quotidien où la centralisation de la norme et l'uniformité de la norme deviennent contre-productives",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_fbf995db108ad803a1b319dd55831a911e70aaf4b252d5af2dd4d93d3676dc90"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "uniformité de la norme",
+      "evidence": "Et donc ce que nous avons à réarticuler, on le voit bien, c'est d'avoir une Europe qui se concentre sur les sujets d'intérêt généraux qui supposent beaucoup d'unité, sur les sujets de puissance, comme vous l'avez dit, et de souveraineté qui sont existentiels, sur leurs règles, et qui sache aussi mettre plus de subsidiarité sur certains sujets du quotidien où la centralisation de la norme et l'uniformité de la norme deviennent contre-productives",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_2aaf0f603f0cccaaa20ee617b59fc4b264b008d33c580443329b6039b296d4c0"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "hétérogénéité des conditions de terrain",
+      "evidence": "Et donc ce que nous avons à réarticuler, on le voit bien, c'est d'avoir une Europe qui se concentre sur les sujets d'intérêt généraux qui supposent beaucoup d'unité, sur les sujets de puissance, comme vous l'avez dit, et de souveraineté qui sont existentiels, sur leurs règles, et qui sache aussi mettre plus de subsidiarité sur certains sujets du quotidien où la centralisation de la norme et l'uniformité de la norme deviennent contre-productives parce qu'elles ne sont pas adaptées à l'hétérogénéité des conditions de terrain",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_9cfa6a35b54ec55dc232e0e18f65da752afe00b705b54b162ddafb3597bac8e8"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "producteurs de normes",
+      "evidence": "Et donc ce que nous avons à réarticuler, on le voit bien, c'est d'avoir une Europe qui se concentre sur les sujets d'intérêt généraux qui supposent beaucoup d'unité, sur les sujets de puissance, comme vous l'avez dit, et de souveraineté qui sont existentiels, sur leurs règles, et qui sache aussi mettre plus de subsidiarité sur certains sujets du quotidien où la centralisation de la norme et l'uniformité de la norme deviennent contre-productives parce qu'elles ne sont pas adaptées à l'hétérogénéité des conditions de terrain, parce qu'elles ne sont pas comprises par nos compatriotes et parce que, au fond, les acteurs ont besoin d'être aussi producteurs de normes sur le terrain",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_8cebddc04278e3fdd483b92012df8acdc6406aa1e63f564c88c831719c8bd843"
+    }
+  ]
+}

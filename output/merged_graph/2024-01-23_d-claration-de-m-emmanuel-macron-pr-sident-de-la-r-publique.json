@@ -1,0 +1,859 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Tony",
+      "id": "Person_abb17e8a233c19829e20c248982bc3f217d86b27f23e9fb8264f803c152f6c78"
+    },
+    {
+      "type": "Person",
+      "name": "Nicolas FERRAND",
+      "id": "Person_f1fd6e523c286544037e59475f18c4e7a7fd12fe7f0d17b094a8550279b2c5c1"
+    },
+    {
+      "type": "City",
+      "name": "Grand Paris",
+      "id": "City_6d2219cc8d9935a8a7758ef1cb6f65b8722ceb87d8ef1a421f70b5894f0cfd12"
+    },
+    {
+      "type": "City",
+      "name": "Seine Saint-Denis",
+      "id": "City_9f6ac859c671c06e782fffd4b8c87bb3cf590a9ccd042faf0aec22878759215d"
+    },
+    {
+      "type": "Person",
+      "name": "David",
+      "id": "Person_82a7662acceb9cbb14652ba72cf0cb56657fab3dc3d097163317f8034cb3bf12"
+    },
+    {
+      "type": "Organization",
+      "name": "CIO",
+      "id": "Organization_7a70abf4f2b73b00be73027c7a4cc4ed585a00ced5fc2f0f28adc6bef57dfc41"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "2024",
+      "id": "City_941eb268f34b4bc3c0694f43b33c4fd4be12416c9607bcea1a3e5287b90bca8f"
+    },
+    {
+      "type": "Person",
+      "name": "Mme la ministre",
+      "id": "Person_e3730e69413e88436d63e29648bd2ecd9840787760b682eb392bd2b6530c9203"
+    },
+    {
+      "type": "Person",
+      "name": "M. le Délégué interministériel",
+      "id": "Person_ee310e2b431aa4ff2b0c4faf4d6e7b610421182e41d11e7839e61eb2afda4e6a"
+    },
+    {
+      "type": "Organization",
+      "name": "XV de France des moins de 20 ans",
+      "id": "Organization_1c6689c0c8c811e16064a37bcdf20db8b20956f0e8dcbb93dd1d673fc2088d77"
+    },
+    {
+      "type": "Organization",
+      "name": "football fauteuil",
+      "id": "Organization_8c259389e006098bb8800f36597de8d446a42adc64544f2cc5a00ec653febdb1"
+    },
+    {
+      "type": "Organization",
+      "name": "fédération",
+      "id": "Organization_95625849552cdd9488d69944d40bc654397f6acd970637fe378ccc23c7014067"
+    },
+    {
+      "type": "Theme",
+      "name": "exemplarité",
+      "id": "Theme_8bb9d16c94b82758bad9baf6cec2c0cf51f606eb0ba1cc7df384d2dc8604d742"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation",
+      "id": "Theme_01dbd75772ce2e01acf43a9eed5bfc3d66a83ad34f48105944d56c5bf0aaa34b"
+    },
+    {
+      "type": "City",
+      "name": "INSEP",
+      "id": "City_9ebe09b3829effce9af52702ed3981a9e9e139115251913dd2061c5c3a84ec0e"
+    },
+    {
+      "type": "Person",
+      "name": "Teddy RINER",
+      "id": "Person_3cdc55878d52a61c61c4d59a9a75fe118d5277c4139e2804ebbf882a7ca25988"
+    },
+    {
+      "type": "Person",
+      "name": "Brahim ASLOUM",
+      "id": "Person_a4025ee4de9294b7bb0931c0d16b0a18c241c3413fbec6a8ee241d490f809fd5"
+    },
+    {
+      "type": "Person",
+      "name": "Marie-Amélie LE FUR",
+      "id": "Person_da6a5d6e8db6523237a32eb4a2565c1369d9810df8da36925d477b8be976203c"
+    },
+    {
+      "type": "Person",
+      "name": "Marie-José PÉREC",
+      "id": "Person_716572221a1a9cef140a14a094d0d7531d3c893f0c939417559f921d74dd695e"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Organization",
+      "name": "L'INSEP",
+      "id": "Organization_8b361b7a33d3da8e09a4a8c35c70f856d0760094e7c93ed655e6ce3cdb611209"
+    },
+    {
+      "type": "Person",
+      "name": "le Général DE GAULLE",
+      "id": "Person_cb19ab170a038068a8d532a34aa4fc4729803dbc27ce5b57e59b15d970f841ce"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur ONESTA",
+      "id": "Person_89f3892b13cc8411cee289d38f752052e2b36fa569965c179bcf4f01edb857d9"
+    },
+    {
+      "type": "Person",
+      "name": "Yann CUCHERAT",
+      "id": "Person_8db42522dfe8f6fddbb5fdc0ecf162f00d740d5bb5685cc4dd35b5c1490b710a"
+    },
+    {
+      "type": "Theme",
+      "name": "Ambition Bleue",
+      "id": "Theme_9fca280a453b6cf7ed233f3323150a7d6a1814715e455d539bb998ecce1fb71c"
+    },
+    {
+      "type": "Theme",
+      "name": "haute performance",
+      "id": "Theme_497ab175008f921d2217059e991486c29c893b9eff07623abf6da788c3156b4e"
+    },
+    {
+      "type": "Theme",
+      "name": "performance paralympique",
+      "id": "Theme_e6f41104b34cd09bccf32220871a6aceb01207194168eae6db3f31544908eff8"
+    },
+    {
+      "type": "Theme",
+      "name": "France 2030",
+      "id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte de performance",
+      "id": "Theme_ec537efa843a07471b33fcb8f392e4228c6ce024f79021eda45ad89f6dddbeef"
+    },
+    {
+      "type": "Organization",
+      "name": "pacte de performance",
+      "id": "Organization_9fd9c2b41b61dac5b08a94678fff122d5f2801aa10b68896d9da64fa21a9919a"
+    },
+    {
+      "type": "Organization",
+      "name": "filière sport",
+      "id": "Organization_ae099ffebca8b8457747163946ea569086acb78f0ff046b1d92ed9e9f5ae4c91"
+    },
+    {
+      "type": "Organization",
+      "name": "Jeux olympiques",
+      "id": "Organization_645fcb7daff867cedf19e4f69f73ec371b850108bf09ad88e35c95177aa66763"
+    },
+    {
+      "type": "Organization",
+      "name": "Paris 2024",
+      "id": "Organization_bbb242ec13d644e3f3ec27b70cbbb53aec83f4c6db233c0c463b22da8c9ac761"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Theme",
+      "name": "effort administratif",
+      "id": "Theme_4cc4c29460961d0142808dffa2688e8b080715ecf8208ccd8078da235bad9094"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement",
+      "id": "Theme_d41a2410d8b1353cdac216ebec7bce81e567ae80b1d56a5c5b7942fee7e103c4"
+    },
+    {
+      "type": "Theme",
+      "name": "pression excessive",
+      "id": "Theme_73bd447c72882cc509fd45080900fc33dcbf7b85041b3e126114f215538030af"
+    },
+    {
+      "type": "Theme",
+      "name": "dynamique",
+      "id": "Theme_789bd265879c3881b44590aab1ac9f25f56108045fa71a9a935b020d2b964978"
+    },
+    {
+      "type": "Person",
+      "name": "Renaud MUSELIER",
+      "id": "Person_360f974638a01f85ebf320c51f5e666ed21ad2f805159d6a2dd1a2bbae1f2758"
+    },
+    {
+      "type": "Organization",
+      "name": "CNOSF",
+      "id": "Organization_bee70efd29b9685525c242baf5189274861c074e393e2c2ab9fcae609250159b"
+    },
+    {
+      "type": "Person",
+      "name": "le président LAPPARTIENT",
+      "id": "Person_64feb82f98fa8553361f82224f99ee876218603a875c2c2b50f4617ea3e70699"
+    },
+    {
+      "type": "Person",
+      "name": "la présidente LE FUR",
+      "id": "Person_e8667c30d1c61a1baeb6af826f404443865ad26a8cde69a1b65872e730d99f7b"
+    },
+    {
+      "type": "Organization",
+      "name": "INSEP",
+      "id": "Organization_9944ca4dc5615485d34fbcdd514915fdb5d84d1220c58495818d0250d93bb090"
+    },
+    {
+      "type": "Organization",
+      "name": "ESSEC",
+      "id": "Organization_568812ec69535726d5f613c295e906b0951a0a050883b7380cac684ed8a40e37"
+    },
+    {
+      "type": "Organization",
+      "name": "CentraleSupelec",
+      "id": "Organization_3f9cb515185ec23ff289385e30a79df082566b5413021ca5bf3fc66de1b01473"
+    },
+    {
+      "type": "Organization",
+      "name": "Sciences-Po",
+      "id": "Organization_d9dd026aa02e29e4e080971473c420e29201633b96c1ff1e8879952f44082a03"
+    },
+    {
+      "type": "Organization",
+      "name": "Parcoursup",
+      "id": "Organization_6803e00842489f29b3d2d7b70e4a63611ddb5e5afcd2c1c81dbe2c506db228e2"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence sportive",
+      "id": "Theme_f0b30287ee71854505eacf5ac01d33a0a8a879ed040e3f444349f5e942732828"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux Olympiques et Paralympiques de 2024",
+      "id": "Event_7896589eaa7794960253f83872a0e80070a34e023f5928bf5835538b9dbd8ee9"
+    },
+    {
+      "type": "Organization",
+      "name": "organisation",
+      "id": "Organization_18af68777a4d6ae41f2ba0269344c361e809374c7a78801c4adead07f5ab5761"
+    },
+    {
+      "type": "Person",
+      "name": "Cher Tony",
+      "id": "Person_0e6bd8bd5dc46803f53b0d5330cca58dd68b6514a432427e377e3b4de67a67ae"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre",
+      "id": "Organization_bcfcec7de2d7b4cf53f630b8f4bda4918808fa7973b4a27375e60cdb59c5914a"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités",
+      "id": "Organization_82cf8945d6e172880b094d7d80042a3a79f86b02e8d1d1f8c4efe9bbfd946230"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "City",
+      "name": "Île-de-France",
+      "id": "City_6349e60746c9118a2ba6922d1bbbd1c4062d83cbfd4dea802d514820c7d9dd69"
+    },
+    {
+      "type": "City",
+      "name": "Seine-Saint-Denis",
+      "id": "City_233e3fc86b8f043950204615411942c8588180dc642497379d45e4cfe79480da"
+    },
+    {
+      "type": "City",
+      "name": "Polynésie française",
+      "id": "City_237a60578d5c1c77f63402715dbac21747d712c1c60c6abd087f2decd30bb0e0"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de l'Intérieur",
+      "id": "Organization_9ee800613fe4ef77794905dc31745b48ecfcc7ba142a75ef23ebaa037aa7e671"
+    },
+    {
+      "type": "Organization",
+      "name": "préfet de police",
+      "id": "Organization_498b17316f9e4156f289a56a3fefbe08c0d6ca2e5c7ee135a3980cb89f9af6c8"
+    },
+    {
+      "type": "Organization",
+      "name": "gendarmerie nationale",
+      "id": "Organization_5e99216ca3c197b375ee8e608639e8cb42ef3fc2169849306d87f9e4683c0917"
+    },
+    {
+      "type": "Organization",
+      "name": "police nationale",
+      "id": "Organization_219ccc80259d1ab3e7562ec99cab97311c046678c28849f091e91e80feac2093"
+    },
+    {
+      "type": "Country",
+      "name": "français",
+      "id": "Country_c4dad1af940aa0201c7e313e6b26e7081226df3348f51555a362f8ecdb3ac4c0"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence",
+      "id": "Theme_00b20302d5f64b56a882fa76ac635bfb2d5b859939516a451a03216995d89940"
+    },
+    {
+      "type": "Theme",
+      "name": "rendez-vous",
+      "id": "Theme_ceec4fe2a063c377d6e9d3062ba696828b95ff562e3f483153c50e0328a7368c"
+    },
+    {
+      "type": "Theme",
+      "name": "cérémonie d'ouverture",
+      "id": "Theme_eab162336d44285304ac7a0595bd22ede1e7d92c06594aafe3f5a84724706322"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "accessibilité",
+      "id": "Theme_1957b4ea681f1942db363acf7d64fc551e0bf71ec8a778fb83fdde0f41a61e3b"
+    },
+    {
+      "type": "City",
+      "name": "les villes hautes des sites olympiques",
+      "id": "City_2cfb57c579b16fb06815b25f605d157805956ee6bc0b454d6526eb4e08426eef"
+    },
+    {
+      "type": "City",
+      "name": "capitales les plus exemplaires",
+      "id": "City_d7d8b236111e782cc5e44851b56cebaa30f74796712ec7675435560cd1eeec02"
+    },
+    {
+      "type": "Organization",
+      "name": "la ligne 14",
+      "id": "Organization_24324efde52905c2266647882e5ce9e22c313ef8139f34d862050c6743f8ffdc"
+    },
+    {
+      "type": "Theme",
+      "name": "réseau historique",
+      "id": "Theme_4cb2fbff6efe46942d572918dcdd9655064aa60a41d6e773e004ad3df0b5e381"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux",
+      "id": "Event_59d935c0288050345943c5d428c64b40792adaadc34699cea9d7368ab03eb0bb"
+    },
+    {
+      "type": "Law",
+      "name": "accord de Paris",
+      "id": "Law_cd8b0ed5bd6d7c10b803a393cbdcace05ca0db0f17b36ece29f3b3d3b07b6d15"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la pollution plastique",
+      "id": "Theme_92701abfd214bda9fc6349a27fafd46a93f93eb5b27a54d94285adc5e294069a"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement écologique",
+      "id": "Theme_26d94db90cb977114bb8c3cebf1fd4aede6154905712a2f8ede0da8ab652acf4"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "sobriété",
+      "id": "Theme_c065b7107e130b3277e57fc17d8c4debe61672a985823b4ca17e4e1e6dbd55a6"
+    },
+    {
+      "type": "Organization",
+      "name": "Cojop",
+      "id": "Organization_dcff71d24e44130532cd08a5bb0a7739edad1b2b8903ac5d15aaeb44fd7cf5ff"
+    },
+    {
+      "type": "Organization",
+      "name": "Solideo",
+      "id": "Organization_a3c7e42b5bf23e91f160925434deabcefcfc5d619b0a2d12d875db4bdc6aec25"
+    },
+    {
+      "type": "Person",
+      "name": "Bernard THIBAULT",
+      "id": "Person_b4f9702072650c55d0277bcb0b873cdef923151b1989a1540daa678eb2f1b578"
+    },
+    {
+      "type": "Person",
+      "name": "Geoffroy ROUX DE BÉZIEUX",
+      "id": "Person_249fca41ed136e34d7c365559ecfa337aa7ea23de90729dbb1ebf6c26abaea7e"
+    },
+    {
+      "type": "Organization",
+      "name": "organisations syndicales",
+      "id": "Organization_9fc510b9e83c5a21fc21d51a775b1ed3e66a7c1faed8bdf206c0cf52081460bf"
+    },
+    {
+      "type": "Organization",
+      "name": "patronales",
+      "id": "Organization_63448c8a38b446a4eee046be690de6c01fcd822e9a0fd5e82fe199a789a86562"
+    },
+    {
+      "type": "Theme",
+      "name": "charte sociale",
+      "id": "Theme_f09ab5588d0cc2e393511203cb12f2b50f2b2f0a5c05499ed5d5de4159ea4eda"
+    },
+    {
+      "type": "Theme",
+      "name": "recours à nos PME franciliennes",
+      "id": "Theme_e0ada92417ad0bf03b3696a844eb612df4ee904c508eb8368e29f7ff5eeab98f"
+    },
+    {
+      "type": "Theme",
+      "name": "accidentologie",
+      "id": "Theme_de8e873eedba13b4e7d8be2760c7d7427bb7c40dbc6a2144601e1af876f3b16e"
+    },
+    {
+      "type": "Theme",
+      "name": "respect de notre cadre de protection des salariés",
+      "id": "Theme_1e2b2819bdf1aa41674d2fcad3d061e1d8c5fea9b9c7c8bf73a749eb519d1435"
+    },
+    {
+      "type": "Theme",
+      "name": "insertion",
+      "id": "Theme_43996ed10959d44aac01181720ec1c558d63dde9efe86c0a5c5fe1113ac06286"
+    },
+    {
+      "type": "Organization",
+      "name": "organisation exemplaire en matière de sécurité, de transport, de logistique",
+      "id": "Organization_720d141e1dc8a799c428c30b75d519bf6dd431a43d4976a108f030f33b6fb3cc"
+    },
+    {
+      "type": "Organization",
+      "name": "services de l'État",
+      "id": "Organization_0e4c3b002b7e0b947f150ac5ade5255303027617ed7e319cef90365be1d32acb"
+    },
+    {
+      "type": "City",
+      "name": "collectivités locales",
+      "id": "City_a9be32e2399776d6edafdf195665049ce5b99aba342dc567b3bab9adc71af2c1"
+    },
+    {
+      "type": "Organization",
+      "name": "entreprises de tous les secteurs",
+      "id": "Organization_913e61b7efe99175cfc0b04b29efb13ed5c91e2d1cb037d1db816cf285af5c33"
+    },
+    {
+      "type": "Theme",
+      "name": "été de fête et de fierté",
+      "id": "Theme_8cc4f1c19cad43845db5dbd022f43e04610e0601043d88cab39b00ad70791311"
+    },
+    {
+      "type": "City",
+      "name": "Seine",
+      "id": "City_9929220d5e345c5949c2abc9e16751001a108eb36b2e1c4f82423603b773377f"
+    },
+    {
+      "type": "Organization",
+      "name": "Thomas JOLY",
+      "id": "Organization_409056bac0ef745c9e8b9f7278967246be4965f8c3b65fd4880ee48cf7d136e4"
+    },
+    {
+      "type": "City",
+      "name": "Grand Palais",
+      "id": "City_d6302351200a4f3d6503521347d1d391895f70516cde0e374b7bf98a0f97bc6d"
+    },
+    {
+      "type": "City",
+      "name": "Tour Eiffel",
+      "id": "City_7883fdcbd5ad73ac076788efe6e55c12190a44a9769c5e3f8ff70484335eb078"
+    },
+    {
+      "type": "City",
+      "name": "Château de Versailles",
+      "id": "City_5613cf8d5a13bc2952017eb13d83e122104ec0f5ac1d8e431e6b929113fb2f1f"
+    },
+    {
+      "type": "City",
+      "name": "Concorde",
+      "id": "City_9471d011438ab9db30bcda62f740d1ee5c32679ed7ed71eab39b1bac3df6ff8f"
+    },
+    {
+      "type": "City",
+      "name": "Tahiti",
+      "id": "City_473ca001a14d25dd47d5345b7964d6c01e85ec0a3600a41b432a241a57073c4a"
+    },
+    {
+      "type": "City",
+      "name": "Clichy-aux-Bois",
+      "id": "City_4ed87004b54cc87a94e5d7683ccd2a688163b4cde987c04334809ac62925bde3"
+    },
+    {
+      "type": "Person",
+      "name": "NOMIS",
+      "id": "Person_f70a1498b7573a97421e16181109a07499bf179e4f76576a62cd682fe0540e3f"
+    },
+    {
+      "type": "Theme",
+      "name": "olympiades sportives",
+      "id": "Theme_7632d299617fc49686d2fd76dc068412ec7baa3f1364b060ab14439f2be2132e"
+    },
+    {
+      "type": "Theme",
+      "name": "offre culturelle",
+      "id": "Theme_102ff44ed9da53dd413ad61e5689c252eee722abb549d248778e34d8b96ca674"
+    },
+    {
+      "type": "Theme",
+      "name": "héritage",
+      "id": "Theme_a1dd401d9fcd847231c827df365b25d509654181bee138a8a524374eb4482823"
+    },
+    {
+      "type": "Person",
+      "name": "Gustave EIFFEL",
+      "id": "Person_eac77f9152e3e3015ff8a5b72e21768f4773f7f28cbebd3a783b0ba0d3f0392a"
+    },
+    {
+      "type": "Theme",
+      "name": "innovante et durable",
+      "id": "Theme_a83d03ed5ec6bf4ab285afea1c42977abbd08038515af7b6bb86d67d90f97f06"
+    },
+    {
+      "type": "City",
+      "name": "Francilien",
+      "id": "City_b0a0ebad86e33347b99e5bd99f78f6d4d15a2359e53329fd15cc9f707431234e"
+    },
+    {
+      "type": "Person",
+      "name": "Marc GUILLAUME",
+      "id": "Person_a35eae9874439d01d087f7cf4eaa5e2a887cdf35338ae210385854d1a6620889"
+    },
+    {
+      "type": "Theme",
+      "name": "handicap",
+      "id": "Theme_07d6ad7e725b76cce5982a9a7f704af8d13d05bfc2d725640eb7ad805850ae06"
+    },
+    {
+      "type": "Organization",
+      "name": "équipe de France",
+      "id": "Organization_59d91c5e57b057e81dd2bdeb049eaaab7fa528cfb9f27de8c467cde68dc5d58a"
+    },
+    {
+      "type": "Theme",
+      "name": "Mesures d'adaptation et d'aménagement de l'espace social",
+      "id": "Theme_ed1c95a42def2f5f07d4ad4a35b1510ca0d63e4c7228c1ec5d3f3df9f46c8947"
+    },
+    {
+      "type": "Theme",
+      "name": "santé publique",
+      "id": "Theme_324c071ca11942030cd77dff4617fcfc09b8c12f732e7cd2adb8f9693d5429fa"
+    },
+    {
+      "type": "Theme",
+      "name": "inclusion",
+      "id": "Theme_e76e5f6a4a72bb46a7b477ecf0d0161f48afc10a4cf4adcb9bbdfc9a6f6dc2b3"
+    },
+    {
+      "type": "Theme",
+      "name": "échange",
+      "id": "Theme_48895a359422c5ce427b83fdc9d6c341c0e15e08a4a23097a39a9fc48a41247d"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance en soi",
+      "id": "Theme_431069dbe2e286478cfb5ac091b4f2ed650cf7d96cc19ac8b950d2ab9c59c335"
+    },
+    {
+      "type": "Theme",
+      "name": "liens tissés",
+      "id": "Theme_569b9a15056b7f956d7f3511dc35eecd9981502e2a9f4044311559c2f3019b40"
+    },
+    {
+      "type": "Theme",
+      "name": "domination de l'esprit sur le sport",
+      "id": "Theme_7c12c70f01cf944e1793165d7fa897d9f8d588773fac0a0104253918f50df067"
+    },
+    {
+      "type": "Theme",
+      "name": "sport",
+      "id": "Theme_825ac548d524f301bf40cecba64423c577f867e16f68d3e023ee693d5aebd94a"
+    },
+    {
+      "type": "Theme",
+      "name": "transport",
+      "id": "Theme_1a641d5b69608bdb03696d1cece984f99de2b357f066e5c6d65727885433491c"
+    },
+    {
+      "type": "Theme",
+      "name": "évaluation",
+      "id": "Theme_ea7fd98e58a66d73c0259bc6f8dfbbac84c8bd6786088d5c2f8f9b7739a8c420"
+    },
+    {
+      "type": "Theme",
+      "name": "professeurs d'EPS",
+      "id": "Theme_86b653b49773401b5dbd46a58bf091857d1f7bdce973ff31c531a97ac937b66c"
+    },
+    {
+      "type": "Theme",
+      "name": "plan Génération 2024",
+      "id": "Theme_58bf2a44b97b40945d351d0a6efa203041b4880c93405696501c446ef4c8ec8a"
+    },
+    {
+      "type": "Theme",
+      "name": "Sport-Études",
+      "id": "Theme_331896851878e970606a2b8f700252a3492bae5a7d369917485910769a3a5140"
+    },
+    {
+      "type": "Theme",
+      "name": "Pass'Sport",
+      "id": "Theme_79968aff03f3608a1c6a7c29585ab246e9616e0015864b28670e3d8b911d1c2e"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir nager",
+      "id": "Theme_cd3ce243c5a780e2290c654e6113b7de352c13167891db1176f4fce2d8296802"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir rouler",
+      "id": "Theme_db58612f5c8962ddbc774fea8a5c9ddde5fffa649a7367c8e884c1b230e7bf8a"
+    },
+    {
+      "type": "Theme",
+      "name": "8h-18h",
+      "id": "Theme_ca10ee8c2afac01391ab9f5b05baf712970dbec119f923ae9b2a7a2444af909c"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence nationale du sport",
+      "id": "Organization_92a537ca87064194b8a7a631ac5e4da23be59de95b3c88d5d9cd59a91e1671ec"
+    },
+    {
+      "type": "Person",
+      "name": "Gilles AVEROUS",
+      "id": "Person_34b6771ec902bfdf9374e54aef2966f7aed96b0a9fd54e724663cfad69f68782"
+    },
+    {
+      "type": "City",
+      "name": "petites villes",
+      "id": "City_23e9cc6d042faf045558cbda3ab355948fd354f0529ef359b8930c87c2f8b44d"
+    },
+    {
+      "type": "City",
+      "name": "villes moyennes",
+      "id": "City_946d1512e9cf43e156a00ed03546a21b92312e66aecba5f03005ff55c1e620ee"
+    },
+    {
+      "type": "City",
+      "name": "500 villes",
+      "id": "City_8de22d2b33e99324729f0ed67d0524709b5fe5a0113688ebcfdb39136188dc23"
+    },
+    {
+      "type": "Theme",
+      "name": "programme des 1 000 éducateurs socio-sportifs",
+      "id": "Theme_a6e7b242d40e7031e12de9910da593f3386761b86ac3942ae7765b5d556e5829"
+    },
+    {
+      "type": "Person",
+      "name": "Roxana",
+      "id": "Person_7cff9fa87559759c6f6ef3187a130ef45d6aefa08057ba613e30167b3f30bd27"
+    },
+    {
+      "type": "Person",
+      "name": "Amélie",
+      "id": "Person_1c92426688a43d8cd52183d3f8c1959f0c13f5df921b41b2334e15b2e83636bb"
+    },
+    {
+      "type": "Organization",
+      "name": "administration centrale",
+      "id": "Organization_e3066963cf144479b1e2a1f062d9624cf4475f5a44e74140e20938a768e81c0f"
+    },
+    {
+      "type": "Organization",
+      "name": "services déconcentrés",
+      "id": "Organization_f3020f96be4704ee750e77f92071a6e37cff93c350e22846c6325cf30c861d70"
+    },
+    {
+      "type": "Theme",
+      "name": "pratique pour tous et toutes",
+      "id": "Theme_7ed60da7bddda64f2a022ed5486eeeb8b628082fd596561a5c4e3a88d0daac98"
+    },
+    {
+      "type": "Theme",
+      "name": "Pass culture",
+      "id": "Theme_089d32f5aa9bcecc7924d062c2e56ef9ca8a71159e4539ffb61974a0476c0a50"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "Jeux olympiques",
+      "id": "Theme_598629bba6285c4c65a3cf612705a3401844b9433a7ebb6e454a1dcabd4e0196"
+    },
+    {
+      "type": "Person",
+      "name": "les ministres ici présents",
+      "id": "Person_fce34c4c65759bad2c4d7a736dc676c64c4de7b0b530d132a5b009bd80b6f815"
+    },
+    {
+      "type": "Organization",
+      "name": "l'ensemble des acteurs du monde sportif",
+      "id": "Organization_21421c8264cd83a5fe4337851abb74cf5c0de6785316e5e10802c516287225b5"
+    },
+    {
+      "type": "Organization",
+      "name": "les élus",
+      "id": "Organization_4a7f3a5ca734846b957b16488af056e3200a06dc53033acb9cd57e663556ed2d"
+    },
+    {
+      "type": "Organization",
+      "name": "les grandes entreprises",
+      "id": "Organization_1b97e93be3fedc16f82fea66132161375c6c8a663c8bf9b163d0800526e5ac5f"
+    },
+    {
+      "type": "Theme",
+      "name": "fierté française",
+      "id": "Theme_888734c65f6bd3e68647fdda2807ba0cce8e3efa161c568e1dd688cab5d0673a"
+    },
+    {
+      "type": "Theme",
+      "name": "célébration",
+      "id": "Theme_e569415fc6ffb3aa12f83cbb1cfdae994022e23806d7c1b2719971c165e228dd"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvement inarrêtable",
+      "id": "Theme_e8c161b13b898cefa81b1039e82237c1a3d07464a89012befdad72e279b42174"
+    },
+    {
+      "type": "Theme",
+      "name": "résultats",
+      "id": "Theme_52c04f17f67dd39c37208223246d2b167ee7df2590aca77966c5b534cdcac05a"
+    },
+    {
+      "type": "Theme",
+      "name": "médailles",
+      "id": "Theme_994036ad39e4d72b18817ebb12c080dd8d791ce299eb9a9ee7c22eda1d4d21f7"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "audace",
+      "id": "Theme_d706ab6b0cc320b9352b6bd4d2ad07220489fd740b0ab019594db8c8a3911770"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "le président LAPPARTIENT",
+      "relation": "ALLIED_WITH",
+      "target": "la présidente LE FUR",
+      "evidence": "vous avez su, avec le président LAPPARTIENT et la présidente LE FUR, trouver l'équation qui a convaincu le CIO.",
+      "confidence": 1.0,
+      "source_id": "Person_64feb82f98fa8553361f82224f99ee876218603a875c2c2b50f4617ea3e70699",
+      "target_id": "Person_e8667c30d1c61a1baeb6af826f404443865ad26a8cde69a1b65872e730d99f7b"
+    },
+    {
+      "source": "la présidente LE FUR",
+      "relation": "ALLIED_WITH",
+      "target": "le président LAPPARTIENT",
+      "evidence": "vous avez su, avec le président LAPPARTIENT et la présidente LE FUR, trouver l'équation qui a convaincu le CIO.",
+      "confidence": 1.0,
+      "source_id": "Person_e8667c30d1c61a1baeb6af826f404443865ad26a8cde69a1b65872e730d99f7b",
+      "target_id": "Person_64feb82f98fa8553361f82224f99ee876218603a875c2c2b50f4617ea3e70699"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "ministre",
+      "evidence": "vous allez être, vous aussi, notre équipe de France aux côtés de la ministre et de tous et toutes",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_bcfcec7de2d7b4cf53f630b8f4bda4918808fa7973b4a27375e60cdb59c5914a"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Paris",
+      "evidence": "La ville de Paris, la région Île-de-France, la métropole, le département de Seine-Saint-Denis, les principales communes impliquées dans le projet",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "Bernard THIBAULT",
+      "relation": "MENTIONS",
+      "target": "charte sociale",
+      "evidence": "La charte sociale qui a été conçue par les organisations syndicales et patronales sous l'égide de Bernard THIBAULT et de Geoffroy ROUX DE BÉZIEUX",
+      "confidence": 1.0,
+      "source_id": "Person_b4f9702072650c55d0277bcb0b873cdef923151b1989a1540daa678eb2f1b578",
+      "target_id": "Theme_f09ab5588d0cc2e393511203cb12f2b50f2b2f0a5c05499ed5d5de4159ea4eda"
+    },
+    {
+      "source": "Geoffroy ROUX DE BÉZIEUX",
+      "relation": "MENTIONS",
+      "target": "charte sociale",
+      "evidence": "La charte sociale qui a été conçue par les organisations syndicales et patronales sous l'égide de Bernard THIBAULT et de Geoffroy ROUX DE BÉZIEUX",
+      "confidence": 1.0,
+      "source_id": "Person_249fca41ed136e34d7c365559ecfa337aa7ea23de90729dbb1ebf6c26abaea7e",
+      "target_id": "Theme_f09ab5588d0cc2e393511203cb12f2b50f2b2f0a5c05499ed5d5de4159ea4eda"
+    },
+    {
+      "source": "programme des 1 000 éducateurs socio-sportifs",
+      "relation": "LOCATED_IN",
+      "target": "500 villes",
+      "evidence": ". C'est le programme des 1 000 éducateurs socio-sportifs déployés sur 500 villes.",
+      "confidence": 1.0,
+      "source_id": "Theme_a6e7b242d40e7031e12de9910da593f3386761b86ac3942ae7765b5d556e5829",
+      "target_id": "City_8de22d2b33e99324729f0ed67d0524709b5fe5a0113688ebcfdb39136188dc23"
+    }
+  ]
+}

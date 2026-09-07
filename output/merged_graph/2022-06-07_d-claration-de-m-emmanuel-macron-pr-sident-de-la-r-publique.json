@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Antonio",
+      "id": "Person_b014c77bba7e93e7fd9215b6d6ee7d1000332e31f1d8f02dc079253514d4074b"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Portugal",
+      "id": "Country_cf5e0a7a677f823b7b8ff468282692a5b0531c04401a108b2b705a578a7907b7"
+    },
+    {
+      "type": "Person",
+      "name": "le Premier ministre",
+      "id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "type": "Theme",
+      "name": "Communauté politique européenne",
+      "id": "Theme_228aa2e1c7e167168b4c6c53c6978db4345a393ed3d2bac1b9a84297703407e8"
+    },
+    {
+      "type": "Theme",
+      "name": "Conférence sur l'avenir de l'Europe",
+      "id": "Theme_af3090fd1219ea5e8d48366118d37c4e6bf3bb3c22b204d62a9abed147268608"
+    },
+    {
+      "type": "Country",
+      "name": "nos deux pays",
+      "id": "Country_2bd470f2122568640e3762e9bf14400458b6f8d21f909f537011d97d9af8f053"
+    },
+    {
+      "type": "City",
+      "name": "Bruxelles",
+      "id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil européen",
+      "id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "type": "City",
+      "name": "Brest",
+      "id": "City_b8b2fe8f774eb8e0b0c96130393db97310dc549fba8a16f4944bf6c52d878f33"
+    },
+    {
+      "type": "Theme",
+      "name": "justice sociale",
+      "id": "Theme_16246dbe3ca0ed4236e5c329e66d245294225d55aa4b83a70118af87947fda7a"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence européenne",
+      "id": "Theme_e612d371cd5b465673854f50251de98e304e1b1fac6fd3f6d9d598ac62f22d70"
+    },
+    {
+      "type": "Theme",
+      "name": "océans",
+      "id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Antonio",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "cher Antonio, te remercier d'être à Paris aujourd'hui",
+      "confidence": 1.0,
+      "source_id": "Person_b014c77bba7e93e7fd9215b6d6ee7d1000332e31f1d8f02dc079253514d4074b",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    }
+  ]
+}

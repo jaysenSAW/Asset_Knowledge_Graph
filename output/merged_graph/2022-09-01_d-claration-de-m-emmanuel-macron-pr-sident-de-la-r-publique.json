@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Slovénie",
+      "id": "Country_88ddeb0d618614116972f37defe9ed8b4f029cdb3c098230ef835b57caa93a30"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "City",
+      "name": "Kiev",
+      "id": "City_3a24ad0eca3d75099401ab5d6c0c64d5783ac0ba23b6fb1b4f257d3e923cb404"
+    },
+    {
+      "type": "Organization",
+      "name": "Communauté politique européenne",
+      "id": "Organization_8a93842f693c1a3a5724e43329bd7d4583ba6c51064f8c7015cbafc24a94d4f2"
+    },
+    {
+      "type": "City",
+      "name": "Prague",
+      "id": "City_f0184c569bddeb725ffd5bbd1b18d1b996c540fc3af182651fba2f88fc1e6d21"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Slovénie",
+      "evidence": "La France, en effet, a pris la suite de la Slovénie à la présidence du Conseil de l'Union",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_88ddeb0d618614116972f37defe9ed8b4f029cdb3c098230ef835b57caa93a30"
+    }
+  ]
+}

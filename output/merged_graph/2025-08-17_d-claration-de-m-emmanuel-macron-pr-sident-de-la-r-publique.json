@@ -1,0 +1,399 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "monsieur le maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "mon épouse",
+      "id": "Person_65551c424854d82f2d90f70ebf9ddb439d847aa1d2694e27951e7010e4cc995c"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre Velsch",
+      "id": "Person_a379188e4feb24a02262cbd5db96b8b3f2eb5728ead18fd8283f9d584a5b6884"
+    },
+    {
+      "type": "Person",
+      "name": "Hugo",
+      "id": "Person_b27d80b1c828994491a6a9ab143890b3c4f9fb0516451dd8fa988bad038c70ce"
+    },
+    {
+      "type": "Person",
+      "name": "Chloé",
+      "id": "Person_a24cd48308e6f07b996808bfaee957aa3d8d264bd44d494d69f003693fcb1140"
+    },
+    {
+      "type": "Person",
+      "name": "Lana",
+      "id": "Person_885af00de071ef7839a18ec942873e6b58dc7d020f749963be72f2394acec6d4"
+    },
+    {
+      "type": "City",
+      "name": "Cavalaire",
+      "id": "City_9c876b1021dc5ded2f90ac63dd674898003c4f94ff9781387495dd64cc9592cf"
+    },
+    {
+      "type": "City",
+      "name": "Bormes",
+      "id": "City_f6f4b815c2cab5370cfa43546fd7aa78da69d12fd9108fb8741abbbec4415b87"
+    },
+    {
+      "type": "Person",
+      "name": "Michel Brousse",
+      "id": "Person_57f4bb7c485a16d9e0acd25585aa9138434105455274ecb69783ad2f4acffd42"
+    },
+    {
+      "type": "Person",
+      "name": "Berg Germain",
+      "id": "Person_2265295cfc5e0566e3320904d912548108c4a94a07b3eb3d46f3d1575c4b51ff"
+    },
+    {
+      "type": "Person",
+      "name": "François",
+      "id": "Person_07a26eada3bea8925d19823c760899e81628842c9796c28dcb2f5a9b5091294b"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Député",
+      "id": "Person_4746724da949de5152bb436de6d62d3b5736bd33312b1097da7beb59ab3ce96b"
+    },
+    {
+      "type": "Person",
+      "name": "Madame et Messieurs les Maires",
+      "id": "Person_3eca3f4aae01f583da61ce76d1e2834e70e4d1e586a3717e130b02734db83029"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Préfet",
+      "id": "Person_53c349332859a6f29fc7e202b933842f8a6c690203ea9dd3a5a57a1f2636c209"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur l'Ambassadeur",
+      "id": "Person_ca63df6e99fdaff6436f8fd8ee480f34c6752e2fbbae13fb9d4ec2653a96ecad"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Présidentes et Présidents d'associations",
+      "id": "Person_803368961a2069de972db8b26b4fb1d961ea76c9315cd79965b9d28828ec7718"
+    },
+    {
+      "type": "Person",
+      "name": "Borméennes",
+      "id": "Person_04a1eebe9ee944a066c2adbaffb2359689e28f34887bdd5750ebd4fa432bfe39"
+    },
+    {
+      "type": "Person",
+      "name": "Borméens",
+      "id": "Person_53c47f0d2a92a552f1fe70e876c7fd4da0bbd127876371e8055baf3a20ed75f2"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "débarquement",
+      "id": "Theme_83e51e1eefdfa46109e24e5597e9b2f4b2331eac2495a6e4c170ee6251e4688c"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "littoral",
+      "id": "Theme_7e584c4b27ebbad788854e804ee04d45a47583ff6955c27abf71110ed3d0b8e0"
+    },
+    {
+      "type": "Theme",
+      "name": "calanques",
+      "id": "Theme_8829d335425b7825174705dd5e982861691c8da63584867bd33994819acefffc"
+    },
+    {
+      "type": "Theme",
+      "name": "pinèdes",
+      "id": "Theme_05fedec846b7f54a194dadfd6b261be6029699b84d1e72d873e33d5f53917d9c"
+    },
+    {
+      "type": "Theme",
+      "name": "routes",
+      "id": "Theme_297baa27023177b68eb3b78d2e2e81520fb6a7f02894865a4594308c04f7a0a0"
+    },
+    {
+      "type": "City",
+      "name": "Perpignan",
+      "id": "City_ddbbcb08048145a71e719eef1761383068511b7f853381fcc00fa2dd7f8c25b6"
+    },
+    {
+      "type": "City",
+      "name": "Barcelone",
+      "id": "City_a6e0d58b5efd019c9b3c8ca13b240f0dea5f2531ca10a9b89e8381270ebf1111"
+    },
+    {
+      "type": "City",
+      "name": "Cap-Nègre",
+      "id": "City_fa232fafb46ef8e85ab7fad72fa2c41ee2c2744c4e107a5cf49de20e371b307d"
+    },
+    {
+      "type": "City",
+      "name": "Levant",
+      "id": "City_532378963fc1ae19c2decd2bbe75def0740e45b73359d95e61b6cb07e2d2b161"
+    },
+    {
+      "type": "City",
+      "name": "Port-Cros",
+      "id": "City_c9d3ced76ef95699965a6987c38070449d3bf3e8c97d37ff345d1a633664ecc4"
+    },
+    {
+      "type": "City",
+      "name": "plages varoises",
+      "id": "City_169c6637cfc9b787ee9f621da98205a7cd925a0d348648fa21033420d44cc6ff"
+    },
+    {
+      "type": "City",
+      "name": "Antilles",
+      "id": "City_e5bf4545ed45774c0c3f23ddc5c82d372bd391973d5a7361a2921e17ad411050"
+    },
+    {
+      "type": "City",
+      "name": "Nouvelle-Calédonie",
+      "id": "City_cc4b506740f7c1968790c319d6f12845d814677cd83a29590ede16c2994049d5"
+    },
+    {
+      "type": "Event",
+      "name": "opération en ville",
+      "id": "Event_f9e73fa0857da79ea272de1c25106e0bc6003762fef674ccb558d1b659862d93"
+    },
+    {
+      "type": "City",
+      "name": "Corse",
+      "id": "City_16f784e293f33726279f3f43c311b4c6996cd29064ae7f0a470010a8505ad63a"
+    },
+    {
+      "type": "City",
+      "name": "Italie",
+      "id": "City_ae1ff6c5e597920cdf80fe85e6d3897e418ab4fb8428a49061eabdddb846cb42"
+    },
+    {
+      "type": "City",
+      "name": "Algérie",
+      "id": "City_66dd739476a643901f2ecc6f56244d5f2db1cdebaafb107ed4637ba9a1ac3235"
+    },
+    {
+      "type": "City",
+      "name": "Var",
+      "id": "City_44eb069dcaec92d44b9129c17c5ed17428012e19c6f7495293cbf34888de2688"
+    },
+    {
+      "type": "City",
+      "name": "Golfe de Saint-Tropez",
+      "id": "City_8e05f4cbf6e4434cd0e97eca63953496779bdafe5a2a414c21b1e15aab7d8884"
+    },
+    {
+      "type": "Organization",
+      "name": "forces spéciales",
+      "id": "Organization_5c7e56578c5e817de52559efdfdf3a18546c7acaf2550e54dca378dd18c37c09"
+    },
+    {
+      "type": "Organization",
+      "name": "commandos d'Afrique",
+      "id": "Organization_abfc4dc592b323b69559c057c0a9540e514eb037afff8bf6f8f89f38459708bd"
+    },
+    {
+      "type": "Organization",
+      "name": "parachutistes américains",
+      "id": "Organization_a8bfac12cc9c7912bdc2634a42c60ead2af802fd6cb4f31afb4d014532e7a61e"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliés",
+      "id": "Organization_00604c92d9ae5d72147c43c604fc397162cbce97a0baef18ff37562c9a10f34d"
+    },
+    {
+      "type": "Organization",
+      "name": "Armée B",
+      "id": "Organization_d7f09e829963a14439b0feaac722793a0545f99d09cc6124610844ecbad71aaf"
+    },
+    {
+      "type": "Organization",
+      "name": "aviation",
+      "id": "Organization_4ac3d0d2a9e1e6346e92847227dece22478496f857b638307603c247d0c0388b"
+    },
+    {
+      "type": "Organization",
+      "name": "marine",
+      "id": "Organization_f7756b41b964eede3c598acba391a223c04f8e1894b360aac173f1d7d996bbdb"
+    },
+    {
+      "type": "City",
+      "name": "Fos",
+      "id": "City_38bf0a161df15f96abd602dd4c25f1d2cbba4a1096fcb73994ddc280d6e038f9"
+    },
+    {
+      "type": "City",
+      "name": "Toulon",
+      "id": "City_e269c743821deaa732a9c8c1951186d7a971393eded589032f1026304a7b1fa7"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Mandrier",
+      "id": "City_431873cbca2e0fbf292c4ab8c3b487bf16b9eb6d250c3da7082393447e2befd8"
+    },
+    {
+      "type": "City",
+      "name": "Notre-Dame-de-la-Garde",
+      "id": "City_f5a05c15ef76929e101bb9b442193633a2c36ab5af2711c6a83e71e84f570dcb"
+    },
+    {
+      "type": "Theme",
+      "name": "libération",
+      "id": "Theme_dbb68ff51e0e5e36b8d2768950d7ecd1d59bbe5bc409a876ae465522ac889eaa"
+    },
+    {
+      "type": "Theme",
+      "name": "audace et le sacrifice",
+      "id": "Theme_6108adc1086dfe1d69cbc6d85218433a5a92184267f45f8163cb692724f80a02"
+    },
+    {
+      "type": "Theme",
+      "name": "courage et l'opiniâtreté",
+      "id": "Theme_625cdc0e7690a3cdf1c1ac8757f1ffcba0ff25c9bbe2af29661ecce74d2efa6e"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "barbarie nazie",
+      "id": "Theme_922d9d69e08995d926562739f566af13304a3203136be3019311056f84ef6bf7"
+    },
+    {
+      "type": "Theme",
+      "name": "menace",
+      "id": "Theme_f3c948c57f7b769db8cf4e82bceeb7838b60a1fc4b69cc76b34b2369f29abc35"
+    },
+    {
+      "type": "Person",
+      "name": "les somnambules",
+      "id": "Person_cd69d11ad8366cb6e6f9729201c4eb1fb97ba50f16566afc3338b341ade6ae34"
+    },
+    {
+      "type": "Person",
+      "name": "d'aucuns",
+      "id": "Person_3b0ef87d64362c41bd355f3999ddbb7f81d4e37db7ddff25711299408e201d52"
+    },
+    {
+      "type": "Person",
+      "name": "des responsabilités éminentes",
+      "id": "Person_728b6b4fdb7ead02921724e2d097475ecfeb50835b6d5c99daed021db8320fc3"
+    },
+    {
+      "type": "City",
+      "name": "Londres",
+      "id": "City_46110e3e9c35de9d2cda1109fbec5fe7701b958198ac1143e8e5aa66bd4be03f"
+    },
+    {
+      "type": "City",
+      "name": "Afrique",
+      "id": "City_e81979a21143817a99ac592e6ba21932628674ed0da410c41538620d061eb868"
+    },
+    {
+      "type": "City",
+      "name": "Provence",
+      "id": "City_02563396c2e1a5b02a9aa4678b67397e930cb5ad9d86981d6f4514102ab8d4fd"
+    },
+    {
+      "type": "Organization",
+      "name": "résistance de l'intérieur",
+      "id": "Organization_7c046916aee763ef06d6edecc73646bcd16f2902c5b14fe9ad4ec1033d2eca06"
+    },
+    {
+      "type": "Organization",
+      "name": "résistance de l'extérieur",
+      "id": "Organization_7b3761c7e41c014d0fd645f00c25467a9722aa532d759d6dc10da833e1d6d5c0"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "pays de cocagne",
+      "id": "Theme_468f29889d2ed3897b2cdb5fe738557381392f48caef6b22c3687ee10d0b0d54"
+    },
+    {
+      "type": "Theme",
+      "name": "prédateurs",
+      "id": "Theme_36cf579c0a7cc4d3ecb4b536ffa5bfba76c1a048ad508c8c0e33eeaf187cc0bd"
+    },
+    {
+      "type": "Theme",
+      "name": "sacrifices",
+      "id": "Theme_c02fc844500352a15dfa4a8f2a838c42f148d7105233234c41af2df220297a1c"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "ces morts pour la France de la commune",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "France",
+      "evidence": "ces mots, à lui, disent ce souvenir ému d'un engagé de la France libre qui retrouvait enfin son pays",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    }
+  ]
+}

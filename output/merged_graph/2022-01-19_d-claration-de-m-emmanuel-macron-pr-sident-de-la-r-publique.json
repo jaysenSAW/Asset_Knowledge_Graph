@@ -1,0 +1,913 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la Présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Person",
+      "name": "David SASSOLI",
+      "id": "Person_0bc974c8f80aefc0d3eceeff2ed72969656048a1fdfac10eff48d9cd162f9d35"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "City",
+      "name": "Strasbourg",
+      "id": "City_aa11677b0eceda0a1a5c819294f251193f8da741293fef8eef09bee04f4b354a"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir législatif",
+      "id": "Theme_7132e408bd2aff5cccff2f057379eb8dd58a1be4ea283825b7df7aa3de229b03"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir exécutif",
+      "id": "Theme_2d99fde408e47b58e9edc12c8a50f05c07d6ecb29a6ff6da0befd978d578695a"
+    },
+    {
+      "type": "Theme",
+      "name": "lois",
+      "id": "Theme_766b24b40ca0257b39bc7b38835ebf4e150e279ff118a5f34e52aceb71952783"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccins",
+      "id": "Theme_285c234b84ef6ba1444c75fa4fb284e57557192a16508630af6134cc975797f3"
+    },
+    {
+      "type": "Theme",
+      "name": "relance économique",
+      "id": "Theme_b5db8174f7fb244486c60d92e264d28b83a5d03327c53b7d0343d5b8e3c52e7a"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès partagé",
+      "id": "Theme_bd60967d635304733513c9e98150f831497e0a93c430188b6874bbc234c7a11b"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie libérale",
+      "id": "Theme_98d500a10214563620caaba76c0b7dc5d8f55d0f5296040835eabc7f9e236f0a"
+    },
+    {
+      "type": "Theme",
+      "name": "État de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs démocratiques",
+      "id": "Theme_9142b5bff9213397a00342d54e7949e0adf5ce26d107d75347279bf987dd25bc"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté des peuples",
+      "id": "Theme_db90c010f400b36f54ed53a793bb35ee8af3327105f6ef714dd20dd7e973e375"
+    },
+    {
+      "type": "Theme",
+      "name": "processus électoraux",
+      "id": "Theme_e8ce5a1b020e11caf0dea67e20873a2ddf05b290ee703bdd0eb18b5b808e6277"
+    },
+    {
+      "type": "Organization",
+      "name": "accord de coalition",
+      "id": "Organization_9354279eac76df720b49d865da6a8a5d8e69883467fdeb27efa3830f5c601bb2"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "droits universels de l'homme",
+      "id": "Theme_d8add4bf19ba722275eec423c93bd1ef14707b2e3238ca88839359772ef50964"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité des hommes en dignité et en droit",
+      "id": "Theme_3ecd842c630a36cc26683d67c7c65dd668ab0133fc1e33a5ab742a3b556f77d5"
+    },
+    {
+      "type": "Theme",
+      "name": "droit pour chacun à disposer d'un procès équitable par une justice indépendante",
+      "id": "Theme_8bca45c5c92c571a6b433c1fc691719879c1bac92018da66d2db56b11d53a6c9"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "régimes autoritaires",
+      "id": "Theme_3b56a8b302aada058cc635e25f3ae62daab2def7792cce1c636c18d54f21a42f"
+    },
+    {
+      "type": "Theme",
+      "name": "tolérance",
+      "id": "Theme_6e5e7c602a3b0bc37fca405b6502b456d69828fa8906a21bc3f5dfcfefbef09a"
+    },
+    {
+      "type": "Theme",
+      "name": "civilité",
+      "id": "Theme_72156dc6741fea5b65cb96211c56232e5ff5b1141ca80226d02eed71102cda5d"
+    },
+    {
+      "type": "Theme",
+      "name": "civilisation",
+      "id": "Theme_55506e6b6a566c3a1ba5bfa8aa2636a9d0eca0526c32a3b767eb8f396191dc34"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Theme",
+      "name": "Bruxelles",
+      "id": "Theme_663b06faab0c08d771f85eb7fc051cf42758a0a4252a2888d42715c629eeb124"
+    },
+    {
+      "type": "Theme",
+      "name": "Totalitarismes",
+      "id": "Theme_bc60bb97929dfa3aca2a90d2dc9ec2c4c27a8c8680748ce916a1f2edecde1bfd"
+    },
+    {
+      "type": "Theme",
+      "name": "Révolutions",
+      "id": "Theme_bf94a78ad5a6ce26abad3d443c9877995b642f046bddb639b36bde6c8c6a427c"
+    },
+    {
+      "type": "Theme",
+      "name": "Combat",
+      "id": "Theme_6a8d504484dd15522148bbbe392e2fc6fb3a26c237b2b89a9d0126070440e62d"
+    },
+    {
+      "type": "Theme",
+      "name": "singularité démocratique européenne",
+      "id": "Theme_2a822af4d1c72a6fbed0e3487e9942aeb8a51791bdd1237d807465b505976407"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de l'environnement",
+      "id": "Theme_a41e8e18628de5f82e8c9b1b4c3839debd0b1917bc13185c5654493373a85c99"
+    },
+    {
+      "type": "Theme",
+      "name": "droit à l'avortement",
+      "id": "Theme_199d3a3b4c14c45ff36a7ba9e3aa36a631ce254d5ebc6f8a3023160cc1d051b4"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs d'Européens",
+      "id": "Theme_2e580071262c809b75fbc14fd1bf9340c4da1e93b850e84719facef94a69e0d3"
+    },
+    {
+      "type": "Theme",
+      "name": "Charte des droits fondamentaux",
+      "id": "Theme_5a91d3bccfd241cc0ba6560351b2d80d8067281db6dfe99939e3fe9fa9f35680"
+    },
+    {
+      "type": "Theme",
+      "name": "Etat providence",
+      "id": "Theme_45c70f9c669375e99cd7682164f150a7264ed1cf4087fa52307b690433da33c4"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccin",
+      "id": "Theme_32ec3b4bac32f73345f9e33a388256bcaced72a72a5de7433f9116a540d3ce0c"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités salariales",
+      "id": "Theme_3fe9bb4359bb85ca0778e53ceae8afaae11dbfc705f0d9a2fc42397f888e494e"
+    },
+    {
+      "type": "Theme",
+      "name": "droits pour les travailleurs des plateformes numériques",
+      "id": "Theme_bde7539f869bbb01768be9e2f08d294ef53871aa313ce40927bceeef8aefb46e"
+    },
+    {
+      "type": "Theme",
+      "name": "quotas de femmes dans les Conseils d'administration des entreprises",
+      "id": "Theme_c9fc1e3a91a53ae378b1d4871bdbe86416dad1094b24b8e03be9a41041375352"
+    },
+    {
+      "type": "Theme",
+      "name": "lutter contre toutes les discriminations",
+      "id": "Theme_379c816da8d157feee38e0ac8ea77b9c089f49265dbd0d1dca32e85b802f8c96"
+    },
+    {
+      "type": "Theme",
+      "name": "singularité de cette promesse démocratique européenne",
+      "id": "Theme_0b7c9d1b4571923e28b35b0431e33ff0780e4271f7d076a8ec5fe274cf50aa3a"
+    },
+    {
+      "type": "Theme",
+      "name": "une culture à part",
+      "id": "Theme_0853e43f6ce10119833db508c610ea55f184d591d7b45937b7af1f0268ef8593"
+    },
+    {
+      "type": "Theme",
+      "name": "art d'être au monde",
+      "id": "Theme_fb8beccd888727f8a85333a2713df03b735a9ed775bca7217f9fb852098ac24d"
+    },
+    {
+      "type": "Theme",
+      "name": "être Européen",
+      "id": "Theme_8df8a1ad634611be4498d3492c6fe49dfbd6f39f50cfbcc46b54d6982a2d1ccc"
+    },
+    {
+      "type": "Theme",
+      "name": "trésors, le fruit de notre patrimoine et de notre histoire",
+      "id": "Theme_ab13747d27fbcecbea82f730bdf87c37520b93338a7449ae8d6e42ead4d60b34"
+    },
+    {
+      "type": "Theme",
+      "name": "colline de Laponie",
+      "id": "Theme_a8c3a19e2b3d51f0517c92aef517056a539bafd7fccfd56aee62d45a3a70536a"
+    },
+    {
+      "type": "Theme",
+      "name": "bulbes dorées de Cracovie",
+      "id": "Theme_e9fead26231e8ed1694c3337f5e86fea87b3035eb14a3da4fe92cb6f8f538b20"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit romantique",
+      "id": "Theme_a862c4ed59a9f9bb8bab5258fe7f2eabe3072940db5e11590492c2accd45556b"
+    },
+    {
+      "type": "Theme",
+      "name": "oeuvres de Chopin",
+      "id": "Theme_26a715d513c4e147c72a2276853432c3d2bf339b5207047d1644b5544c752875"
+    },
+    {
+      "type": "Theme",
+      "name": "textes de Pessoa",
+      "id": "Theme_a271dc88b30903f5fa031e12f8aba4ea89cebe7ee5810cc30af396c761186b3b"
+    },
+    {
+      "type": "Theme",
+      "name": "une manière d'être au monde",
+      "id": "Theme_25a2a41eea430f07256ea52300636d870256bb84321f5e2e270e3efcf931d823"
+    },
+    {
+      "type": "Theme",
+      "name": "cette civilisation européenne faite d'universalisme, de culture respectée, et d'un projet commun respectueux des singularités et des identités de chacun",
+      "id": "Theme_922bc5512ca6338fff0eb989dade1ec617892540fea81b2be675ceb3c31a811c"
+    },
+    {
+      "type": "Theme",
+      "name": "héritiers d'une façon singulière d'envisager l'aventure humaine",
+      "id": "Theme_1a105b90369c8d039ef64dd03a8d29575c9d5564b71bf73dea0becb73852158e"
+    },
+    {
+      "type": "Organization",
+      "name": "nos meilleurs historiens",
+      "id": "Organization_0603835ec13ab0af4418b47fa2cb522b09a1fc32fae57054b3172be3451e22fe"
+    },
+    {
+      "type": "Organization",
+      "name": "nos plus grands actuels",
+      "id": "Organization_28f3c2cec49ca5e9c8cc5ab20aa10c1bf8d423b09ef6162caf03fed77bd79b36"
+    },
+    {
+      "type": "Country",
+      "name": "l'Europe",
+      "id": "Country_22c6a9031acb88b09b90ce4000e1a54cc5401d4a34558d7df28560e8576fb0e6"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès",
+      "id": "Theme_99fbe2fae74b83c0fb6be33e85f58e86e641fe47059e9c1672808dfbdcf5b5bd"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "désindustrialisation",
+      "id": "Theme_b3dfa7b0ccdf0ab4739fefeb64d85d03955757f5756af9cdbfc25b017f494128"
+    },
+    {
+      "type": "Theme",
+      "name": "défi climatique",
+      "id": "Theme_5f6371c76761a41d707f9db402070d4627116fd8ee240538fbdd5deb5ab6cb4f"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle d'avenir",
+      "id": "Theme_97d60688459bbf4e5cd81adf18ce77d76685a6034e210547d194b8f5b52762ee"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité carbone",
+      "id": "Theme_13578b8136640a21c92a662f7e77d4879f6ceffb4dd1652ae120a6e9e44f65d3"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte pour la biodiversité",
+      "id": "Theme_63dc002892d0c215ef360f5697df8a1975f29ca8d2a58c20fe05a6832d27c973"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement",
+      "id": "Theme_3e22cc17b8a738b9c161efa6fb946acce0d66152e18a96a0a8a9e99a15eeee91"
+    },
+    {
+      "type": "Theme",
+      "name": "dérèglement climatique",
+      "id": "Theme_60205647b2eeaf601ee4e2e6b9ea7a92cc19a6fd1c5394651d737742ade35773"
+    },
+    {
+      "type": "Theme",
+      "name": "déforestation importée",
+      "id": "Theme_f4cad55c3ed06645807be6dc158454426fae8c6c15b53b5df4d4386ed0aa7825"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies du futur",
+      "id": "Theme_6a9531b8044716682a7df2b15d0ed9094a9e434ef3435050d8bca0bb7a710baf"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte",
+      "id": "Theme_08510afdf50053fa9af48009d3326ffa3ca70e4a355802c742667dc8276fcc6f"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanisme d'ajustement carbone aux frontières",
+      "id": "Theme_fc889b93c94867d2877727e9e2a2e28a8c468ed8309359645d2ec2cb9424cc43"
+    },
+    {
+      "type": "Theme",
+      "name": "mesures-miroirs dans les accords commerciaux",
+      "id": "Theme_fcfc610d5409f35d605df2ada232861b9618657e7726f76ef8f60d9da38b7b93"
+    },
+    {
+      "type": "Country",
+      "name": "plusieurs pays membres",
+      "id": "Country_8bab38995d4573b6bcb9f59fd804c04ececb3128981f45966d511d50ac8e1808"
+    },
+    {
+      "type": "Organization",
+      "name": "la Commission",
+      "id": "Organization_99e9e0c6dabbe98de51a6718fcdaa4dee9d73e201e37cf2658b0ba93b17a9320"
+    },
+    {
+      "type": "Organization",
+      "name": "plusieurs d'entre nous",
+      "id": "Organization_2ef1e5d91a7aa4714685f97107fdef5a61378a2ae998aae97b78382924541001"
+    },
+    {
+      "type": "Country",
+      "name": "une grande puissance maritime",
+      "id": "Country_b997ec1b672c62e6b6d6b42a942b9ce06ea111a52a169ab68938db541fbadd49"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution numérique",
+      "id": "Theme_764904241b824b4e86923082255159c9ad6d80c0c130a75c1c1b8c4ca69ac6e5"
+    },
+    {
+      "type": "Theme",
+      "name": "marché unique du numérique",
+      "id": "Theme_c40053f0a105e5ef143f88ba37d708bf31faa0d13ee288e4f481cbe9ce8bff0b"
+    },
+    {
+      "type": "Theme",
+      "name": "champions européens",
+      "id": "Theme_0c0c7541aac413b147eab255ea8a90d47f5c85b3d3e25dc7be8b94f969d4d5a8"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies nouvelles",
+      "id": "Theme_ff3543e0cde2598a8f02ce462e06f47234c5e8620774c614bef7be520e97eff3"
+    },
+    {
+      "type": "Theme",
+      "name": "secteurs nouveaux",
+      "id": "Theme_ced9524124a2c964e52d3259cc905e6818ee41f4da6748e96d76a91824287ed6"
+    },
+    {
+      "type": "Theme",
+      "name": "consolidation d'une Europe",
+      "id": "Theme_db377febb9f1ec78eb2082649a7e8aa5f0b6919ff9c35dfa373f39919a852264"
+    },
+    {
+      "type": "Theme",
+      "name": "droit",
+      "id": "Theme_809b6d16ebe657005418287171a0ff40ba1f2fc184046e82a8dbc6d9366cc1a9"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit des lumières",
+      "id": "Theme_cb122845cbd95fc128738274e43c9d0e7919e450fe58d9872fdc8ddfc2ad2a1e"
+    },
+    {
+      "type": "Theme",
+      "name": "droits",
+      "id": "Theme_7eb56e86691d574c7d0fa41bffcd50417ad7abbc021dc12800cf78099a3cc7c5"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés",
+      "id": "Theme_2460d11dd8890d0086c346c7c4f9479cbb7c560ab3409a92f103572ef8fa5209"
+    },
+    {
+      "type": "Theme",
+      "name": "respect de nos vies privées",
+      "id": "Theme_2671d73c6cd10a78bbf69ccadf9d68a53658a1c9baac8c621f055b9767ee4ef9"
+    },
+    {
+      "type": "Theme",
+      "name": "discours de haine",
+      "id": "Theme_aae9b79bed5f0531ce376fd984c217ae925daaa283ff11ec8ec01619f81e4565"
+    },
+    {
+      "type": "Theme",
+      "name": "division",
+      "id": "Theme_51226e2119e097a2d00a987884a7ffc43fa4ce2314906ee31389014c78119404"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence loyale",
+      "id": "Theme_8a144e25f057d5e5fee29c471c91e89862f01f2645b35e3ae096d67a54a4daf8"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "débat démocratique",
+      "id": "Theme_f032dcd1a3f7c73090cd6fa39e732c1b44c67b8fc04095965d3f941892d1f21c"
+    },
+    {
+      "type": "Theme",
+      "name": "manipulation",
+      "id": "Theme_2e9e02294ac8cc8540c61b26b7df19e1bbcea58d6857e4010bf7a6a29330b87d"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurités",
+      "id": "Theme_53d533301f3371fc992f3f97511aab038c0b1971339c5506869a16613903d648"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès d'avenir",
+      "id": "Theme_667c78cab5a5ab85cbcfb626f6c427bb6ce374ae84e9283e45cb6a8bb6be34f4"
+    },
+    {
+      "type": "Theme",
+      "name": "désordres géopolitiques",
+      "id": "Theme_7534dec946f1e0e81d4f8ec65aaccb5b7a071bdae1e5145b6686ebabf17212b4"
+    },
+    {
+      "type": "Theme",
+      "name": "menace terroriste",
+      "id": "Theme_f72d3dcf49eb88c83ce83dde773d7af102060e7e2da2f4d3e52a25f8d66870c7"
+    },
+    {
+      "type": "Theme",
+      "name": "attaques cyber",
+      "id": "Theme_a1c6d93edf6e6da20070f5eae0fc5dd5ba96444ac1b26eaa705dc262f114b6af"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration irrégulière",
+      "id": "Theme_ad476111659ed20be86a10a4854ce1ca21b5d1ab2181312d3f28a19386ed40b6"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Organization",
+      "name": "Frontex",
+      "id": "Organization_cbdb0eee01084bb1a5fedf8bca44d43c75443fe28058a38db5b9fe66d2293089"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Schengen",
+      "id": "Organization_d943a0a9c077d1d7bf32299f2ebcfd91f6a00d0da4fc50b9ac9689137a5393f7"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance technologiques",
+      "id": "Theme_e790252874e95bd8fc7fc4ca6fd7797a3b105c3138ade1a36d41d64aa443da24"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe puissance d'avenir",
+      "id": "Theme_39fcca9cb23d5c1a8faac89230e1761fc9bf6f7f8437a660786d6b23d677fcf8"
+    },
+    {
+      "type": "Theme",
+      "name": "défis climatiques",
+      "id": "Theme_57d52ede55b5c0d4537fecde9946a56b673403c345cb0643f64b8c9779153889"
+    },
+    {
+      "type": "Theme",
+      "name": "technologiques",
+      "id": "Theme_3387b356920b52f77a440500372cf4d412f883bb374a2525140456269475372e"
+    },
+    {
+      "type": "Theme",
+      "name": "numériques",
+      "id": "Theme_4576e61d18a5bd57dbb91796c43089529e5e39b45610c5740b0168f899019fd8"
+    },
+    {
+      "type": "Theme",
+      "name": "géopolitiques",
+      "id": "Theme_6d71f93a00da60b26b863f07394929f6141e2f22a44307086b74a91f418d657d"
+    },
+    {
+      "type": "Theme",
+      "name": "tensions",
+      "id": "Theme_cba6267a0edb4b45de6f8ffdce822b9050ee187c12b3238bfe8a91fd4595d9f3"
+    },
+    {
+      "type": "Theme",
+      "name": "tragique de la guerre",
+      "id": "Theme_d674ab1d344a52554bb208a147499a0c667adea83892526623f5b021f62078db"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques de voisinage",
+      "id": "Theme_fe86f11bfa80fb1180672b20169291e845afbbf43dfd137a3b3b4b67ec36fe89"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance d'équilibre",
+      "id": "Theme_956338aa7aacb8e19b173f147b404dd612fa18bf98121a15dd0db9bc5d933dfd"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations",
+      "id": "Theme_cac93d346afb10556cd477074f8fd5e7de6a6b6e234704cdc92ccd1aae71876c"
+    },
+    {
+      "type": "Theme",
+      "name": "bouleversement du monde",
+      "id": "Theme_5bde477afc7f9a618af7a2c7eab2de3cde3f07f831a80aa0a6c20a2128b0ff37"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Person",
+      "name": "Charles MICHEL",
+      "id": "Person_05cf848e8ad58cffcfcde7ca7c613e57a1c5ba41f9eb925d6b63fd4b86807b19"
+    },
+    {
+      "type": "Person",
+      "name": "Ursula VON DER LEYEN",
+      "id": "Person_a77e6d91b189b0ca729d31d98343f20ee181fcbf9d993bd05a9ae3ac6a38c70e"
+    },
+    {
+      "type": "Country",
+      "name": "le continent africain",
+      "id": "Country_407d8c2874d776a56f79e6dbd63253fa6919cd124cb81f756b4763afdb9b61b4"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "City",
+      "name": "Balkans occidentaux",
+      "id": "City_f0b8d9e6646720db0ea37f423340f65298bc4e39b8a9160d869c27ec0b3c7559"
+    },
+    {
+      "type": "Theme",
+      "name": "règles de fonctionnement",
+      "id": "Theme_749ddee7be279f833da116cdcd5537a55859e31cb0bab246c47cab68c1dfc513"
+    },
+    {
+      "type": "Theme",
+      "name": "Balkans occidentaux",
+      "id": "Theme_14d274940725914ccc4b9fa8b3298d4d6842d2971b16afcdb159aa6ec07befb9"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre européen",
+      "id": "Theme_4a3b85bff611ad1762120254c1ac60bf4daaeb48cab2890e13a652752fe14643"
+    },
+    {
+      "type": "Theme",
+      "name": "principes",
+      "id": "Theme_97c5aa60bd71c598edaaf76fd6b884a4ae393b0774135332a05c72af7bc82042"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "conflit",
+      "id": "Theme_c5df677153d0b9960d87a7cc1c81b7c456008a70cab549159756fed685546c73"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Event",
+      "name": "Référendum de 2005",
+      "id": "Event_8b20d018dc5a6ba245953f2ab92b4547b352914276ccee6b59c209c7b339ce6c"
+    },
+    {
+      "type": "Law",
+      "name": "textes essentiels",
+      "id": "Law_733a86460314debb1035fe1e13f167b58d6afda5bc43a6fb694e0e7c6ddb8fc7"
+    },
+    {
+      "type": "Person",
+      "name": "Robert SCHUMANN",
+      "id": "Person_5b73214bdd117998fd43c0ca81c9c5505d8466f4d062cbf263531929fac72e0f"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "temps long",
+      "id": "Theme_0c2b28d151694b73427a70b60bd20ff0518b41c86bf8d15203e26041893cd4eb"
+    },
+    {
+      "type": "Theme",
+      "name": "audace",
+      "id": "Theme_d706ab6b0cc320b9352b6bd4d2ad07220489fd740b0ab019594db8c8a3911770"
+    },
+    {
+      "type": "Theme",
+      "name": "efforts créateurs",
+      "id": "Theme_1f5267376e29b18d9a63c07f93e1fd78cd81d261f4560b4c48581170221a47ad"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques d'hier ou d'avant la crise",
+      "id": "Theme_aa0c83a00963f7f70959ccff7850ba97fe9dd77277cbfd7746bc703b16a1e236"
+    },
+    {
+      "type": "Theme",
+      "name": "formats d'hier ou d'avant la crise",
+      "id": "Theme_3859742072ae8fc4f3995a928b1c6fe7f76f0d429f44b5286e46ae4e8e5afc11"
+    },
+    {
+      "type": "Theme",
+      "name": "réflexes passés",
+      "id": "Theme_46e2f8f5119293ccded6314f511eb55cd3316aa0b325fd4d95ebabe78b8e5c7a"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalisme",
+      "id": "Theme_d0f339441ee20ce073228a015cda668179f9e724fa0f925bc928aa3557010053"
+    },
+    {
+      "type": "Theme",
+      "name": "dissolution",
+      "id": "Theme_dbace3b486e97dc9cbc0f03771d81fefbe5b71fed1d70657e925339d9ae0a874"
+    },
+    {
+      "type": "Theme",
+      "name": "Chef de l'État",
+      "id": "Theme_e0c93bbff399ed6a0c776b9253a5575f5789f4a507a81de26830c0e61f2c8f54"
+    },
+    {
+      "type": "Theme",
+      "name": "mandat",
+      "id": "Theme_1c1553b50ea918e040f5b180345647cf523aa8b4aaf976b5d7d5b5deecb47e1c"
+    },
+    {
+      "type": "Theme",
+      "name": "assemblée parlementaire",
+      "id": "Theme_40b637b1aae229dbd334587967bc5302098d14a3b0bcbdb137a370131fbb7712"
+    },
+    {
+      "type": "Theme",
+      "name": "Assemblée nationale",
+      "id": "Theme_5d40b76b9ed57bc92d9137fe7528754c82415dd39cd77c16560bb4df15995999"
+    },
+    {
+      "type": "Theme",
+      "name": "réalité",
+      "id": "Theme_f61fac0cb01c1748ffc105c9942e7a6ac63b121d7cabbc89d6b44d21af9b5a97"
+    },
+    {
+      "type": "Theme",
+      "name": "rêve possible",
+      "id": "Theme_4ddaf14e7026e739afc68ed7f6adaebfe7764b794cf42084a98745c148929946"
+    },
+    {
+      "type": "Theme",
+      "name": "concitoyens",
+      "id": "Theme_0ff3925b7ba63cbf673a2472bfd56efd3c66e053d51097b02b91824a782e7ed5"
+    },
+    {
+      "type": "Theme",
+      "name": "succès",
+      "id": "Theme_0e94f6473525e7bcfe4cb7d259cd4c4c034427bca1e648b6686525dc5cf3e6bb"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "En France, il est composé de deux chambres : l'Assemblée nationale et le Sénat",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Balkans occidentaux",
+      "evidence": "Les Balkans occidentaux sont, par leur géographie comme par l'histoire, par la part de tragique comme par la promesse d'avenir qu'ils charrient, au coeur du continent européen.",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Theme_14d274940725914ccc4b9fa8b3298d4d6842d2971b16afcdb159aa6ec07befb9"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Royaume-Uni",
+      "evidence": "l'Europe et le Royaume-Uni doivent aussi retrouver le chemin de la confiance",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "source": "Europe",
+      "relation": "VISITED",
+      "target": "Europe",
+      "evidence": "Nous devons, nous, Européens, poser collectivement nos propres exigences et nous mettre en mesure de les faire respecter.",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "ordre européen",
+      "evidence": "Ce qu'il nous faut bâtir, c'est un ordre européen fondé sur des principes et des règles auxquelles nous sommes rangés et que nous avons acté",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Theme_4a3b85bff611ad1762120254c1ac60bf4daaeb48cab2890e13a652752fe14643"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "principes",
+      "evidence": "Ce qu'il nous faut bâtir, c'est un ordre européen fondé sur des principes et des règles auxquelles nous sommes rangés et que nous avons acté",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Theme_97c5aa60bd71c598edaaf76fd6b884a4ae393b0774135332a05c72af7bc82042"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "règles",
+      "evidence": "Ce qu'il nous faut bâtir, c'est un ordre européen fondé sur des principes et des règles auxquelles nous sommes rangés et que nous avons acté",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "source": "Robert SCHUMANN",
+      "relation": "MENTIONS",
+      "target": "efforts créateurs",
+      "evidence": "Robert SCHUMANN appelait les efforts créateurs",
+      "confidence": 1.0,
+      "source_id": "Person_5b73214bdd117998fd43c0ca81c9c5505d8466f4d062cbf263531929fac72e0f",
+      "target_id": "Theme_1f5267376e29b18d9a63c07f93e1fd78cd81d261f4560b4c48581170221a47ad"
+    }
+  ]
+}

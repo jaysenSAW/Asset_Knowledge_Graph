@@ -1,0 +1,841 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Harrison FORD",
+      "id": "Person_544d2847b2e564892a446afd4c7e910fc42df0b85d517eab4a14ec5f640391de"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le maire de Nice",
+      "id": "Person_40af2b10f1c1fd34bca99602ff852d9c4c46be706e341226369c12ae49a68a90"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation Oceano Azul",
+      "id": "Organization_55a5b5165c7b510bf06222d18de7f215578d3e946a2445d8906288f3cb37a3c3"
+    },
+    {
+      "type": "Person",
+      "name": "José SOARES",
+      "id": "Person_535c6b35091081e905f37db6867fb3a04ffde1952c0e4eb10cdfaa936b44ef5e"
+    },
+    {
+      "type": "Person",
+      "name": "Tiago PITTA e CUNHA",
+      "id": "Person_f0dc0a5a01decb6ca23a9c747f86f50213ada408e64fc82e947daa5411e1db5d"
+    },
+    {
+      "type": "Event",
+      "name": "SOS Océans",
+      "id": "Event_5c9adb90da2ff3373edaccb5485e9edf2be3aa38f4ad2cd72212cf0a0a42915f"
+    },
+    {
+      "type": "Person",
+      "name": "Votre Altesse Sérénissime",
+      "id": "Person_4be9855c6e07ad815fc81d6d6b7330dd7631be387aebddbee15599da5fc4e29d"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale",
+      "id": "Organization_8f8e5049d1c21e2291ca3d39865c23e9d20927413f7abca05a47b2572d99f6e2"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président du Conseil",
+      "id": "Person_f4bd9eec59362a93e4660ec49cc125a80a353a8b2c28301818eb34c07cd0efcc"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Secrétaire général de l'OCDE",
+      "id": "Person_90baf654eada77820a029ef2bea57a15a1f70a1ef804b176d0ce9b3140eae6c1"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les ministres",
+      "id": "Person_df98c9cabd69056dc2dbae7ad5aa8390dd768609332bdc8c9a4dafe6f2e4b762"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames les ambassadrices",
+      "id": "Person_a4b327f6ecbdf5fec89785543a26225e985117f40cdcefb78ae46397d6188a85"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les ambassadeurs",
+      "id": "Person_ba7c87f840ebfbe3650854f03dba2ddc859a227c17aeb24c0f7c67e59602dff7"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les parlementaires",
+      "id": "Person_513d1485982528e0834eb4f4c38b73da53f9e4817cd30f728fe27e32d9fc11d3"
+    },
+    {
+      "type": "Theme",
+      "name": "urgence",
+      "id": "Theme_540dea71fcfc76e593792a9bf5e19596495794754693eb0938af9054494bbb4e"
+    },
+    {
+      "type": "Person",
+      "name": "António COSTA",
+      "id": "Person_50451546c4da938966f31d0b6c634f4152ddb370c543fcf802eeebee3ccaa804"
+    },
+    {
+      "type": "Organization",
+      "name": "UNOC 2",
+      "id": "Organization_66a8de37e94452df7d75e50e8c565cca1f882b879e761aea02bb8fb9609e86e6"
+    },
+    {
+      "type": "City",
+      "name": "Lisbonne",
+      "id": "City_3b2c76f6fdbcedd0f2f1da00e9207b46fcf90052897133894e132919592a443d"
+    },
+    {
+      "type": "Organization",
+      "name": "One Ocean Summit",
+      "id": "Organization_74bda2f44c4955793979d06c6fa8a5c2f0f673ccfbf7023c84af25a54715c146"
+    },
+    {
+      "type": "City",
+      "name": "Brest",
+      "id": "City_b8b2fe8f774eb8e0b0c96130393db97310dc549fba8a16f4944bf6c52d878f33"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Law",
+      "name": "accord sur la gouvernance de la Haute-Mer",
+      "id": "Law_e88befb819d61eba624328c3ec7cfd1748f431de66d4f08a6f8014cabe1e6515"
+    },
+    {
+      "type": "Theme",
+      "name": "BBNJ",
+      "id": "Theme_ebb2ecebaa80db29d12a967e334f93f69915d88dd926ebc9ec1e1a61707c7732"
+    },
+    {
+      "type": "Theme",
+      "name": "carburants durables",
+      "id": "Theme_ba51c84f076c441d8c34b72c8c9169a758d7d05e401a175d3e46f419dbfb078e"
+    },
+    {
+      "type": "Theme",
+      "name": "grandes aires marines protégées",
+      "id": "Theme_7ba9863598b37187b3f6e1722d44f5d015f528468a36d68d3d54732ce8b30b12"
+    },
+    {
+      "type": "Event",
+      "name": "COP15",
+      "id": "Event_df4f613682b54394bf6e470442c43a7981dcd0f43bcf49ab254ca13952a8ff50"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "exploitation minière des grands fonds marins",
+      "id": "Theme_01902f25656eb6ffee104eeef9f3ec0189b8fbc9721674ae4b345528558c3094"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "City",
+      "name": "Monaco",
+      "id": "City_6ff2ecfc447f4a08aa37589f0944176ce1f24c3b36dae06830dc43a04f15d626"
+    },
+    {
+      "type": "Country",
+      "name": "Costa Rica",
+      "id": "Country_56a1ed746f8c212254f14b70bd54599a0988a231454f23ef88a73340b229d1f5"
+    },
+    {
+      "type": "Country",
+      "name": "Monaco",
+      "id": "Country_41de7ddd591da53cbde3a7975f59721487f65e5a9fccadd5a177546b2a598a63"
+    },
+    {
+      "type": "Theme",
+      "name": "économie bleue",
+      "id": "Theme_5b2120104c4310353947c53264917b32d6eff49553601ded9b79361e5bddb508"
+    },
+    {
+      "type": "Theme",
+      "name": "Méditerranée",
+      "id": "Theme_5c1c6aabbbbfca70275e0d75df4cfac0908561fd5d54b651fb9166d10e16662e"
+    },
+    {
+      "type": "Theme",
+      "name": "transport maritime",
+      "id": "Theme_e0862cef6536029239c049115c08c48c8b32a3e969cec693809c365785b96622"
+    },
+    {
+      "type": "Theme",
+      "name": "pollution",
+      "id": "Theme_940c152474bd5ce5421c20a0c8caf4c90597e161361aca1907e2859ef23e26a0"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Theme",
+      "name": "restauration de la nature",
+      "id": "Theme_a1879c3bcc87409d313a3ba0b5f716ab36ed0d3970734167be9ed83bf895543f"
+    },
+    {
+      "type": "Theme",
+      "name": "protection du vivant",
+      "id": "Theme_4659d0154b297579fcde36f542f1bca9717dfa408b01df57395fde50c3880ac8"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilisation",
+      "id": "Theme_0eab3e350d3777625fe2debe6b8f064adc4c51e5eed0b4c88551e272e7c84470"
+    },
+    {
+      "type": "Country",
+      "name": "Nice",
+      "id": "Country_2caa72a33bd21f8094df8167e10eafc0f1b07f8d79d7cd87355ab434ffda373b"
+    },
+    {
+      "type": "Country",
+      "name": "Antonio",
+      "id": "Country_57568c3c9304e41e7a216b66ec53230168e80ba0e791efdc366d903acb04997b"
+    },
+    {
+      "type": "Organization",
+      "name": "BBNJ",
+      "id": "Organization_8a3c1141420e445fb69623d93702ee5e2d7874b00fbe44bc4219370d6c4defd5"
+    },
+    {
+      "type": "Law",
+      "name": "traité sur la biodiversité au-delà de la juridiction nationale",
+      "id": "Law_535a4fab0304a864b5ee365a0831e260f8099164f3a5c3fa0b9a550176f6f989"
+    },
+    {
+      "type": "Theme",
+      "name": "survie de l'océan",
+      "id": "Theme_cf0fcc881f6a161f9905f5596fca61465738a4dad015e03bb8432b15c6f439c3"
+    },
+    {
+      "type": "Theme",
+      "name": "conséquences",
+      "id": "Theme_e4a68e9bb8d6b669cf85ed477ba7a61f21dcca887dfcf505368abd447e53d053"
+    },
+    {
+      "type": "Person",
+      "name": "Antonio",
+      "id": "Person_b014c77bba7e93e7fd9215b6d6ee7d1000332e31f1d8f02dc079253514d4074b"
+    },
+    {
+      "type": "Country",
+      "name": "États",
+      "id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "type": "Law",
+      "name": "la loi française",
+      "id": "Law_3e09f73fd5e71bcd51bf8f241694533c9e64b7c998cd297d776384990124740c"
+    },
+    {
+      "type": "Theme",
+      "name": "pêche durable",
+      "id": "Theme_e2ca3916af705960d5ad29e3a5aeac0b8a113c81f7a7044017de3daa1da8e5f3"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté alimentaire",
+      "id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "type": "Theme",
+      "name": "surpêche",
+      "id": "Theme_9bc241cb7cd05b0f4e37152cd33646bf5a28f5272d3c376ff3e793aa7dde03cc"
+    },
+    {
+      "type": "Person",
+      "name": "nos pêcheurs",
+      "id": "Person_5f6a5ee0c428ab7dd6dfc16d8c57e6697724c02f5772a7fdab73fe9a72318a09"
+    },
+    {
+      "type": "Person",
+      "name": "nos scientifiques",
+      "id": "Person_31c55c3a0bdc6d51e3f8eab14b4203ba685b5a4909c5fa48d197650acdf7dcc2"
+    },
+    {
+      "type": "Organization",
+      "name": "nous",
+      "id": "Organization_1abd5dcfaef874841c719199a08352984f3121ba4d175d7705d1c0f89b7da3de"
+    },
+    {
+      "type": "Country",
+      "name": "européen",
+      "id": "Country_f44ee06524f3bbd6cf5fe5ea9c26a5ef035d0f2b237712d7714c778f9a53cb07"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la pêche illégale",
+      "id": "Theme_fd88fde57e4f8be15c945b7ab32ba3389592d01a25d152ded8e9c56c34ae5cb5"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation Mondiale du Commerce",
+      "id": "Organization_279680ad64a597c5effc113dc4b3abd9bc4b6f6f07c59018604598bd2e0baca8"
+    },
+    {
+      "type": "Organization",
+      "name": "Accord du CAP",
+      "id": "Organization_fc390d378aa99be284d30248a0384606cf97a80218f373c72b8ca541648838de"
+    },
+    {
+      "type": "Organization",
+      "name": "Port State Measures Agreement",
+      "id": "Organization_23b044b6c0a431ab056b88e40f471f71926b0644425e27da851a729bceeed0a2"
+    },
+    {
+      "type": "Organization",
+      "name": "FAO",
+      "id": "Organization_97ee3a29b383a2c2aff3b2873b9af0beefd71a5a1aaf5189a690ba7c8fbb5eee"
+    },
+    {
+      "type": "Theme",
+      "name": "pêche de proximité non destructrice des écosystèmes",
+      "id": "Theme_8980e98d20d0ca1b75afdc89e2e3de948521aaf3fc8400610d81de9fea7f4835"
+    },
+    {
+      "type": "Theme",
+      "name": "circuits courts",
+      "id": "Theme_541bd1ecdace2d7e3fdea402fffced2f430e208a572d264b0a5694f168274cbf"
+    },
+    {
+      "type": "Theme",
+      "name": "aquaculture durable",
+      "id": "Theme_34a1c82efa740d8582cb192f48bb328eef2c802904bb0b13276760ff5be0ceb7"
+    },
+    {
+      "type": "Theme",
+      "name": "transition des flottes",
+      "id": "Theme_369f9587e674c9e16a8ce3a431022ea596acc37e7e5125fa2937d79b119cc0b6"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de nos océans",
+      "id": "Theme_adb8c08ec65e9028cb7faf2996c9316d66f75037bd679e1d5fe4ec80b8c5ffcd"
+    },
+    {
+      "type": "Theme",
+      "name": "30% de l'océan d'ici 2030",
+      "id": "Theme_19dbcf03720c037df7d5426972d740207eeb627dce42b5ac81399b4b936f555a"
+    },
+    {
+      "type": "Theme",
+      "name": "12% de protection de nos zones économiques exclusives",
+      "id": "Theme_3d81d99553bd5c343e56c70284c0d6257463540530493b564dcba5637ce52fd2"
+    },
+    {
+      "type": "Country",
+      "name": "Açores",
+      "id": "Country_94b9a598c301d00404d1f2a082da4910672b64b6e74b638250792dad3f230377"
+    },
+    {
+      "type": "Country",
+      "name": "UNOC",
+      "id": "Country_92aed9e1b4a81622e2e7209bc206474b21d6a5c86b4cdd39e2040f7767353241"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation",
+      "id": "Organization_6ac77f706c78bc323a5e293618020bc62095630c0916e51c1c49cdd2c786d4e9"
+    },
+    {
+      "type": "Theme",
+      "name": "pêche",
+      "id": "Theme_0287cf7c46b5cffa29a4a5314ed2687af9e7319d0afd8684279cd081076f2ad5"
+    },
+    {
+      "type": "Theme",
+      "name": "pollutions telluriques",
+      "id": "Theme_21b25352e4ffc968163faf5ac0e8365c158591379a0d95d7b3c3106b2bf14978"
+    },
+    {
+      "type": "Theme",
+      "name": "stocks de poissons",
+      "id": "Theme_f27483ee3c0459836e5d4cf8ef42e4c0ac60a563c591a85a944271d058b84221"
+    },
+    {
+      "type": "Theme",
+      "name": "hausse du niveau des mers",
+      "id": "Theme_a6c86bbe39dd58e9c49832f0ba0b4d26efd71f98f7dae56ed109e91a1c3622fd"
+    },
+    {
+      "type": "Theme",
+      "name": "séquestration de nos océans",
+      "id": "Theme_6b46062ec42389f492680a8871539269f6b117e25e83f017c79d5921f54ea42d"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation Maritime Internationale",
+      "id": "Organization_532f3300790ff38dcf5d416f00d6d85e66ea583dcba6113edf5ea916bfe080bc"
+    },
+    {
+      "type": "City",
+      "name": "Biarritz",
+      "id": "City_93b38f184b3fb6b6bc29b058306f67b230f71b45122a1a03e069f45461341dfd"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Organization",
+      "name": "cluster maritime français",
+      "id": "Organization_0bdddc977ded2f4a61b48becba1466a46f84b49718031d2181f5684295740ef8"
+    },
+    {
+      "type": "Organization",
+      "name": "OMI",
+      "id": "Organization_b1aaaf5d48af96e6fa0848b024a969f6df43b2a9cc2edd375be77d2414235136"
+    },
+    {
+      "type": "Organization",
+      "name": "UNOC",
+      "id": "Organization_2ab040141de802f52aa79408f66e8aceb3d15e443186d8adde795a6853480d9a"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la pollution plastique",
+      "id": "Theme_92701abfd214bda9fc6349a27fafd46a93f93eb5b27a54d94285adc5e294069a"
+    },
+    {
+      "type": "Person",
+      "name": "Agnès PANNIER-RUNACHER",
+      "id": "Person_6477e3f3e5c245c6142146e7d63e33659c3bf4b5dade672925f194a3538e5784"
+    },
+    {
+      "type": "City",
+      "name": "Genève",
+      "id": "City_1e1bcb8350bd351dbae872cc05cfc79707a3977ce5c0e4df66663ad91285ebda"
+    },
+    {
+      "type": "Country",
+      "name": "États riverains de la Méditerranée",
+      "id": "Country_c39144dbc8c60f926fcecb553ec2624c0b15efff9cfb220a1b2d92592838fba3"
+    },
+    {
+      "type": "Country",
+      "name": "Mexique",
+      "id": "Country_d3e4ec88b23f6ff4e50f7438e11c41eabddc54b73ce79446e2761c9b1f256a87"
+    },
+    {
+      "type": "Organization",
+      "name": "IUCN",
+      "id": "Organization_1af8f33019ab76f9ba0b126f63cc1421369a405ac4be8d73614d34c4b2a7aada"
+    },
+    {
+      "type": "Theme",
+      "name": "pollution plastique",
+      "id": "Theme_fdf3b4bc59bd70f33cbbbd5347de8b86f955d5a5ae69a73b17e02d38a17d4430"
+    },
+    {
+      "type": "Theme",
+      "name": "espèces marines menacées",
+      "id": "Theme_b22ae925ce8ee6ee8551c329e52bf67bc04af97a9933b6d76244960318411edc"
+    },
+    {
+      "type": "Organization",
+      "name": "Monaco",
+      "id": "Organization_ff2f8ff29af07ba5a8c8001963710cb91d346e09581f2eecda7a87decbafe0d6"
+    },
+    {
+      "type": "Organization",
+      "name": "Nice",
+      "id": "Organization_6ae48f61a8c521413b419a1ff29ab44e0f21c0f573e543cb7017c7a11bbd9ab7"
+    },
+    {
+      "type": "Theme",
+      "name": "financement",
+      "id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941"
+    },
+    {
+      "type": "Theme",
+      "name": "océan",
+      "id": "Theme_d9e868203b07b52a7c9d4fa83502dacf76661258b1ac6c4cc5ad58b658c169b9"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Organization",
+      "name": "plateforme Océan & Climat",
+      "id": "Organization_d8368c45a39d727f6c1c36b16c2ee50f56ab16a830cd7784be264685d3964a3d"
+    },
+    {
+      "type": "Person",
+      "name": "Christian ESTROSI",
+      "id": "Person_845b824c92e85ae5ffbd685022b63f8f21b524b505da43e683cd990398c56d73"
+    },
+    {
+      "type": "Person",
+      "name": "maire de Nice",
+      "id": "Person_a9b2045d597dd6bc28222b49377a691cd60d845ad5674871a0213bdc7dc33067"
+    },
+    {
+      "type": "Person",
+      "name": "Pascal",
+      "id": "Person_ee801892bb1214c98694d2eb55505233843fe9a913dd3434afdbff546a6d266a"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte d'investissement",
+      "id": "Theme_d08a524b0cb8cb362715c2d90fc8b473047a88658c70c3967f969b5cecfa1ee1"
+    },
+    {
+      "type": "Theme",
+      "name": "électrification des ports",
+      "id": "Theme_195ecb598bded44f9af07f058fee55a87be215de1c62b3efd618e2d71718f759"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "scientifique",
+      "id": "Theme_35653362b95dc9cfa6ec58e7381c7856183667f512f9e6489e040d2c44999ccc"
+    },
+    {
+      "type": "Theme",
+      "name": "connaissance de nos océans",
+      "id": "Theme_d414199df68b5fe8df9ba67eaf158829b13f05e3dfabf37acbb48683ea031991"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte de réciprocité",
+      "id": "Theme_8976c55e76b23e227761e5a4d2c3a5267a3f2e178d648d4bb099d1f55ec1caf7"
+    },
+    {
+      "type": "Theme",
+      "name": "pêcheurs",
+      "id": "Theme_0a80a01764c03a20896b08d299500982a6ac3ae34c6f84501ebe40ed1bdae27e"
+    },
+    {
+      "type": "Theme",
+      "name": "protection légitime",
+      "id": "Theme_9732bd2e317fffbfe1117da3e6517a4b130fd6a9bd18071288d94a2459335f29"
+    },
+    {
+      "type": "Theme",
+      "name": "productions qui ne respectent pas les critères de durabilité",
+      "id": "Theme_91f2b8297cafeb299743fb8d57eb924cc0b1f1852438d7a3d75d5a3734f772de"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre les captures accidentelles de tortues dans la pêche à la crevette",
+      "id": "Theme_345be787b1963974ed36439ce36e9d3b40cfe9609af2d526ec6bf99260db9563"
+    },
+    {
+      "type": "Theme",
+      "name": "standards",
+      "id": "Theme_88afc537979166427d80c3b89be8336065d28dc7875a3bd90307aff357707b6e"
+    },
+    {
+      "type": "Theme",
+      "name": "bilan carbone",
+      "id": "Theme_93f5b07306de2ac78def6eedc8b0658f56ed1abe13ced9978e04d92980861ce9"
+    },
+    {
+      "type": "Theme",
+      "name": "destruction de biodiversité",
+      "id": "Theme_89ce6e681e4a03e5b923064dc6dd24919762b1e69c5ccd479ca8a65afac9692e"
+    },
+    {
+      "type": "Theme",
+      "name": "diversité des poissons",
+      "id": "Theme_97dcf47b63de612a08f1071050f06b5a62b8ca523d4346aaa4bc2424e6831f32"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil présidentiel scientifique",
+      "id": "Organization_9e87fd73ec2a57b39310a7fba095238547b58b85e2431c0ae4d9e35607070210"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche académique libre",
+      "id": "Theme_fe7bb26cb676cd2e0e60be7a09f4fd9ed753c89f326630d7e172c355944aff74"
+    },
+    {
+      "type": "Theme",
+      "name": "financement d'une recherche académique libre",
+      "id": "Theme_f605a406daff216c040a32aa3953ab32413ad235634b96e80d36fedc227613a3"
+    },
+    {
+      "type": "Theme",
+      "name": "pratiques",
+      "id": "Theme_c3857ba79dae4b42ad9461609a3df9db818b5183ba80f7819e18f2e51585718f"
+    },
+    {
+      "type": "Theme",
+      "name": "aires marines protégées",
+      "id": "Theme_9db536f895dae66d1255cb976c3f6fc624c05ad7a624edb1a012c6fe4727af0a"
+    },
+    {
+      "type": "Theme",
+      "name": "science",
+      "id": "Theme_d67c10976c1585f4e9e05fc3bac6b493bcfd249cfb52bacfebf7d74d2b724f45"
+    },
+    {
+      "type": "Organization",
+      "name": "Ifremer",
+      "id": "Organization_470bd464aa4532ea3f706954f4ca7850d0e73ee2278c3764e95e344a78b7f1b6"
+    },
+    {
+      "type": "Organization",
+      "name": "CNRS",
+      "id": "Organization_9797a7b293510a1bf26addf4f9eb951f6a91dfb71b6b8d8c7031c08fb95a0fa4"
+    },
+    {
+      "type": "Organization",
+      "name": "UNOC 3",
+      "id": "Organization_6996328e4b11017111cf54b478340eb8874cb0081cb7ca26f7165de671d3fb23"
+    },
+    {
+      "type": "Organization",
+      "name": "One Ocean Science Congress",
+      "id": "Organization_c12ea0a05fc8073bcdcb90560944c75f116753ecc12b1e38cd8bd4c18c708936"
+    },
+    {
+      "type": "Person",
+      "name": "Bruno DAVID",
+      "id": "Person_d342cfc6586f6dd2caec0099c77430ca7aed0bf64602f1ec507226ecbeca5c13"
+    },
+    {
+      "type": "Organization",
+      "name": "Autorité internationale des grands fonds marins",
+      "id": "Organization_d49692fbc01bbef47c127488c4590cfaff9c4602eb6dad4d5f657323292b92d7"
+    },
+    {
+      "type": "City",
+      "name": "Kingston",
+      "id": "City_89dfce6dc034b7d3e69c4a98dadba022bc0016adf71ce34a0f3717b4bc666b78"
+    },
+    {
+      "type": "Country",
+      "name": "Jamaïque",
+      "id": "Country_3f60bce3bdcad6584ca95e75025300056cca028ed142da3ad5c606d743d1b053"
+    },
+    {
+      "type": "Theme",
+      "name": "connaissance scientifique",
+      "id": "Theme_bd14f8d036548a0f5f44b9d5a7f57c04d1e3fb5bc8ec22b059f212debc6ee1fd"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme éclairé",
+      "id": "Theme_8c21781336e6c4e7ac42c2a113bf3ce9c8a5c80351dbe062864184479ae423e3"
+    },
+    {
+      "type": "Theme",
+      "name": "planète",
+      "id": "Theme_38e28b3e4c13e58b47932666932d6ebab6edc14f0cd7822041d0e68c7b34f00c"
+    },
+    {
+      "type": "Theme",
+      "name": "nature",
+      "id": "Theme_271e2d714f29d82d6423982b73f93e64d04478e9c80a41df8956af82012e9754"
+    },
+    {
+      "type": "Theme",
+      "name": "diversité",
+      "id": "Theme_6cc4bb1678e642d4ee3f4b5dc04bc554310abfe7ca2c11509232cbba37f90a92"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "urgence",
+      "relation": "SPOKE_ABOUT",
+      "target": "urgence",
+      "evidence": "L'urgence, je crois qu'ici, je n'ai pas besoin de la plaider.",
+      "confidence": 1.0,
+      "source_id": "Theme_540dea71fcfc76e593792a9bf5e19596495794754693eb0938af9054494bbb4e",
+      "target_id": "Theme_540dea71fcfc76e593792a9bf5e19596495794754693eb0938af9054494bbb4e"
+    },
+    {
+      "source": "António COSTA",
+      "relation": "MEMBER_OF",
+      "target": "UNOC 2",
+      "evidence": "avec, à l'époque, le Premier ministre António COSTA, avec l'UNOC 2 à Lisbonne",
+      "confidence": 1.0,
+      "source_id": "Person_50451546c4da938966f31d0b6c634f4152ddb370c543fcf802eeebee3ccaa804",
+      "target_id": "Organization_66a8de37e94452df7d75e50e8c565cca1f882b879e761aea02bb8fb9609e86e6"
+    },
+    {
+      "source": "UNOC 2",
+      "relation": "LOCATED_IN",
+      "target": "Lisbonne",
+      "evidence": "avec l'UNOC 2 à Lisbonne",
+      "confidence": 1.0,
+      "source_id": "Organization_66a8de37e94452df7d75e50e8c565cca1f882b879e761aea02bb8fb9609e86e6",
+      "target_id": "City_3b2c76f6fdbcedd0f2f1da00e9207b46fcf90052897133894e132919592a443d"
+    },
+    {
+      "source": "One Ocean Summit",
+      "relation": "LOCATED_IN",
+      "target": "Brest",
+      "evidence": "One Ocean Summit à Brest",
+      "confidence": 1.0,
+      "source_id": "Organization_74bda2f44c4955793979d06c6fa8a5c2f0f673ccfbf7023c84af25a54715c146",
+      "target_id": "City_b8b2fe8f774eb8e0b0c96130393db97310dc549fba8a16f4944bf6c52d878f33"
+    },
+    {
+      "source": "Monaco",
+      "relation": "LOCATED_IN",
+      "target": "Monaco",
+      "evidence": "Il sera organisé à Monaco",
+      "confidence": 1.0,
+      "source_id": "Organization_ff2f8ff29af07ba5a8c8001963710cb91d346e09581f2eecda7a87decbafe0d6",
+      "target_id": "Organization_ff2f8ff29af07ba5a8c8001963710cb91d346e09581f2eecda7a87decbafe0d6"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "Nations unies",
+      "evidence": "Première conférence des Nations unies que la France accueille sur son sol depuis la COP21 en 2015, l'UNOC 3 doit tenir ses promesses de restauration de la nature comme de protection du vivant.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "traité sur la biodiversité au-delà de la juridiction nationale",
+      "relation": "PROPOSED",
+      "target": "Nations Unies",
+      "evidence": "En mars 2023, le traité sur la biodiversité au-delà de la juridiction nationale, dit BBNJ, a été finalisé aux Nations Unies et adopté le 19 juin de la même année.",
+      "confidence": 1.0,
+      "source_id": "Law_535a4fab0304a864b5ee365a0831e260f8099164f3a5c3fa0b9a550176f6f989",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "États",
+      "relation": "LOCATED_IN",
+      "target": "États",
+      "evidence": "Nous devons obtenir ce résultat, et j'en appelle à tous les États, qu'ils soient côtiers ou sans façades littorales d'ailleurs, de rendre possible un espace de gestion durable de la haute mer et de ses ressources, à travers la création d'aire marines protégées, d'études d'impact environnemental des activités engagées en haute mer, etc.",
+      "confidence": 1.0,
+      "source_id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5",
+      "target_id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "source": "FAO",
+      "relation": "MENTIONS",
+      "target": "pêche durable",
+      "evidence": "j'appelle également la FAO à mobiliser tous les États sur les pratiques de pêche durable.",
+      "confidence": 1.0,
+      "source_id": "Organization_97ee3a29b383a2c2aff3b2873b9af0beefd71a5a1aaf5189a690ba7c8fbb5eee",
+      "target_id": "Theme_e2ca3916af705960d5ad29e3a5aeac0b8a113c81f7a7044017de3daa1da8e5f3"
+    },
+    {
+      "source": "OCDE",
+      "relation": "LOCATED_IN",
+      "target": "Nice",
+      "evidence": "A cet égard, tout le travail qui a été préparé par l'OCDE doit être consacré à Nice pour mobiliser ces financements.",
+      "confidence": 1.0,
+      "source_id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45",
+      "target_id": "Organization_6ae48f61a8c521413b419a1ff29ab44e0f21c0f573e543cb7017c7a11bbd9ab7"
+    },
+    {
+      "source": "Monaco",
+      "relation": "LOCATED_IN",
+      "target": "Nice",
+      "evidence": "c'est toute la continuité de Monaco à Nice.",
+      "confidence": 1.0,
+      "source_id": "Organization_ff2f8ff29af07ba5a8c8001963710cb91d346e09581f2eecda7a87decbafe0d6",
+      "target_id": "Organization_6ae48f61a8c521413b419a1ff29ab44e0f21c0f573e543cb7017c7a11bbd9ab7"
+    },
+    {
+      "source": "OCDE",
+      "relation": "MEMBER_OF",
+      "target": "OCDE",
+      "evidence": "Merci à l'OCDE en particulier, à son secrétaire général, dont le rapport a été présenté ce matin.",
+      "confidence": 1.0,
+      "source_id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45",
+      "target_id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "source": "pacte d'investissement",
+      "relation": "MENTIONS",
+      "target": "protection de nos océans",
+      "evidence": "Ce Pacte bleu, ce doit être un pacte d'investissement dans la protection de nos océans",
+      "confidence": 1.0,
+      "source_id": "Theme_d08a524b0cb8cb362715c2d90fc8b473047a88658c70c3967f969b5cecfa1ee1",
+      "target_id": "Theme_adb8c08ec65e9028cb7faf2996c9316d66f75037bd679e1d5fe4ec80b8c5ffcd"
+    },
+    {
+      "source": "pacte de réciprocité",
+      "relation": "MENTIONS",
+      "target": "pêcheurs",
+      "evidence": "Ce doit aussi être un pacte de réciprocité pour nos pêcheurs",
+      "confidence": 1.0,
+      "source_id": "Theme_8976c55e76b23e227761e5a4d2c3a5267a3f2e178d648d4bb099d1f55ec1caf7",
+      "target_id": "Theme_0a80a01764c03a20896b08d299500982a6ac3ae34c6f84501ebe40ed1bdae27e"
+    },
+    {
+      "source": "UNOC 3",
+      "relation": "ANNOUNCED",
+      "target": "One Ocean Science Congress",
+      "evidence": "l'UNOC 3 commencera du 3 au 6 juin par le One Ocean Science Congress",
+      "confidence": 1.0,
+      "source_id": "Organization_6996328e4b11017111cf54b478340eb8874cb0081cb7ca26f7165de671d3fb23",
+      "target_id": "Organization_c12ea0a05fc8073bcdcb90560944c75f116753ecc12b1e38cd8bd4c18c708936"
+    }
+  ]
+}

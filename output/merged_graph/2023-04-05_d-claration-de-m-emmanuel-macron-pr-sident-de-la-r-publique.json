@@ -1,0 +1,526 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur YAN",
+      "id": "Person_87803846284f9749c78be6334da009725331a68f2334728b6c1ade6fdeb2b34a"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "art contemporain",
+      "id": "Theme_0e573b80efb7e7c3e09437ddb423ec6d7344e2add9f3341ec7fa201c4294b30b"
+    },
+    {
+      "type": "Theme",
+      "name": "artistes français",
+      "id": "Theme_328330430ca1aad7e30e40d34496a56522b4da04b88dd877de76107d66d25d3e"
+    },
+    {
+      "type": "Person",
+      "name": "étranger",
+      "id": "Person_afe9065b2309a6b4bdfb6e74a862ff004b3ba88c6ff873c9d620616713316e81"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Organization",
+      "name": "musée Red Brick",
+      "id": "Organization_0ca00e190e8859d4e0d2f02cc272472b1b81d36af528649cf95d3f9958dc8bee"
+    },
+    {
+      "type": "Organization",
+      "name": "musée PSA de Shanghai",
+      "id": "Organization_9d864eff48bb2699df62360b8bc44d3a536da3594fc2e1be1043b25204b2eedf"
+    },
+    {
+      "type": "Organization",
+      "name": "Centre Pompidou",
+      "id": "Organization_368c9f0a561f1b9776f167fbb7739e7e80c4ae84c02c5720aa8f38885674fecc"
+    },
+    {
+      "type": "Organization",
+      "name": "West Bund Museum",
+      "id": "Organization_ffbd46f8c94b2a69afeb9eeae4d054bc6841355c6581f7417b52a2a72c6b77aa"
+    },
+    {
+      "type": "Person",
+      "name": "Tatiana TROUVÉ",
+      "id": "Person_03854f1ad121e6a5660d84c20a04a6f05eff02f0ac4c4396db7832d264bfeb37"
+    },
+    {
+      "type": "Person",
+      "name": "Laure PROUVOST",
+      "id": "Person_7b27c9d4f628a7f663335268d3c2083d3fa6691b347712e190b7567f40d40241"
+    },
+    {
+      "type": "Person",
+      "name": "SHEN Yuan",
+      "id": "Person_b49566fd451d4cdcafdd3098cd9b6186adcda7d3716260c5c9f08dbee964c98d"
+    },
+    {
+      "type": "Person",
+      "name": "Huang Yong Ping",
+      "id": "Person_e37376be002ad92126d4d3ab346449481e14f9a182361ca5d2fd21f110224646"
+    },
+    {
+      "type": "Person",
+      "name": "WANG Du",
+      "id": "Person_98a6de6ccedcab47cfcbc5ca26d9e973e37b22cc6f25c4e626f50a27a4c7da98"
+    },
+    {
+      "type": "Person",
+      "name": "YAN Pei-ming",
+      "id": "Person_ce9619fb072f6070c1aac5e9d5c9941c078de39de6547b03d022129219106610"
+    },
+    {
+      "type": "Organization",
+      "name": "Xiamen Dada",
+      "id": "Organization_032364d9205328bca892339f18a4a6974feecefd9186355a3a54cb9195d5013c"
+    },
+    {
+      "type": "Organization",
+      "name": "Marcel Duchamp",
+      "id": "Organization_3b6c5947801e27b9e8895aac765609ca3b58a87ab015c6b02fb3a21f3425063c"
+    },
+    {
+      "type": "Event",
+      "name": "festival Croisements",
+      "id": "Event_337d37356ab153747328401e2957ffe64293f077a1fd3e48574a5579fd62d272"
+    },
+    {
+      "type": "Event",
+      "name": "dernière exposition à Paris",
+      "id": "Event_45e6f387f74ccbfd459119e8cd1ad390597df68fd62a2102a54877f5506afa68"
+    },
+    {
+      "type": "Theme",
+      "name": "pensée amicale et émue",
+      "id": "Theme_cdfb3ff930baa54e382dcfb040cb224363f7b28337079059c15fb9002e736826"
+    },
+    {
+      "type": "Theme",
+      "name": "foisonnement créatif de la scène française",
+      "id": "Theme_22ad23027b468b212e57fb2d25d8c3b58926caf4d5f957604fcfe6a23358fb2f"
+    },
+    {
+      "type": "City",
+      "name": "Versailles",
+      "id": "City_005c3dd556787a48d85e917c1629f8b41dea2f726d89283e42c5cd7448b7c82a"
+    },
+    {
+      "type": "City",
+      "name": "Pékin",
+      "id": "City_c33b28c48b13d634999d50013f1cdd989b8055c898dcd822f8e335c15db449dc"
+    },
+    {
+      "type": "City",
+      "name": "Nankin",
+      "id": "City_e5aaf9c97bcd8aa6d72dd29faec0bb755bb1a4c6cf5936e777035da561c658a7"
+    },
+    {
+      "type": "City",
+      "name": "Chengdu",
+      "id": "City_ff387fd65970cb2a82bb33e5a81f91165e9a29eb827b3b66787a884394ab82c7"
+    },
+    {
+      "type": "City",
+      "name": "Shanghai",
+      "id": "City_1c69547961fb5f027655eaa1583e9c736a388752921f6ea9540cf7bc2079ec4e"
+    },
+    {
+      "type": "Theme",
+      "name": "relations diplomatiques",
+      "id": "Theme_7d8ce9db1e8424a97a8a0604a02ba9f89329a358401898c2cd3c527ab6eea84f"
+    },
+    {
+      "type": "Theme",
+      "name": "60? anniversaire des relations diplomatiques",
+      "id": "Theme_4e492334e224a90126201569b840eb59fa49d7858c4dbe2ac5f11c232a0f379a"
+    },
+    {
+      "type": "Organization",
+      "name": "Guimet",
+      "id": "Organization_ba87fdf27c46473297464172d8eb28e44d08df050a0ebaaad49cf4657ce7a319"
+    },
+    {
+      "type": "Organization",
+      "name": "Pompidou",
+      "id": "Organization_49902fb1b4d12f2f19bfa5cc72fcffad58838a557396ed80c816f9bfa829cdd9"
+    },
+    {
+      "type": "Organization",
+      "name": "Mobilier",
+      "id": "Organization_2bfbc9e9eb4ebda2c418a797a0a00b835cd7196b77cfc14c21f5d7a5dc0a05eb"
+    },
+    {
+      "type": "Organization",
+      "name": "Comédie-Française",
+      "id": "Organization_f2605585589eb5fe558acd9a1fed92ca9dcb33d1242139a31271aba50d52129a"
+    },
+    {
+      "type": "Person",
+      "name": "Denis PODALYDES",
+      "id": "Person_de6d3f8cd9c2f014c7f8ee1a1035a9f3e67abc8b66380c481bb1e7082b11d262"
+    },
+    {
+      "type": "Organization",
+      "name": "Starmania",
+      "id": "Organization_08b4b54d9ca07b46ae3c5f4e4fb0d4b2486a88709845197142b433a89aa90168"
+    },
+    {
+      "type": "Person",
+      "name": "Michel Berger",
+      "id": "Person_db707f6dfc139506e5e314203feade817b4b606ab13868f9dab664cbdc827458"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas JOLLY",
+      "id": "Person_68572d69ab7ff6e66406dcc7246e946788a5670cd04bb347e3678101f1d206db"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux olympiques et paralympiques",
+      "id": "Event_d869c8d614b2e9c4090e4d5a2f9c363060ce721a3b87b806bdde2756023fa2dd"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation Jonathan Choi",
+      "id": "Organization_c00a2b19ac4c6b9930e960ce3f8dfce8dc2a59f707a2422485c04e3ed52d5ccd"
+    },
+    {
+      "type": "Person",
+      "name": "Jonathan Choi",
+      "id": "Person_6cc2cbba8a018afa8dd75d5166f2cbfe06aeaa1ae89caf60084682801ca4d2ac"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique",
+      "id": "Theme_82634c5567e29ec1e0f256205be4191228a3b7329a743da05d0f47189c5b7272"
+    },
+    {
+      "type": "Person",
+      "name": "HUANG Rui",
+      "id": "Person_beb1f31bea7f4e47a39a52b063e74041022a90c97087cc95fa7731e469e1106d"
+    },
+    {
+      "type": "Person",
+      "name": "XI Jinping",
+      "id": "Person_99ed88f08de36d905de647d17f10a961ac301c5544f4432e1a832eca6c8adb41"
+    },
+    {
+      "type": "Person",
+      "name": "Jonathan",
+      "id": "Person_295cbcb8e698bc9c24dc52cda3d560cecc6136db934f0b9e647608a19103fc84"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation Choi",
+      "id": "Organization_84ef8ebc214838c87043a92ece5bfd48b711108fda341489ba98809967cb3506"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "Palais de Tokyo",
+      "id": "Organization_983e498b7e8deb53feb36622552201957d2530ea0083bbad6eb787087c4c62e2"
+    },
+    {
+      "type": "Theme",
+      "name": "médiation culturelle",
+      "id": "Theme_f6581a01ff716e3ebf8f74edd9d610d06ddd29cceceef78d790fd45d04004dcd"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "inclusion par l'art",
+      "id": "Theme_c5ba0b35bd96a0a580939c7da84e50bc13eaaf56dd7086bead3d58a593e84d3c"
+    },
+    {
+      "type": "Organization",
+      "name": "Villa Médicis",
+      "id": "Organization_657cc82c2c19bb444be5873a485d7281ec565ca898cdd5aba63c5c7f76a780a4"
+    },
+    {
+      "type": "Organization",
+      "name": "Centre national de la danse",
+      "id": "Organization_169f3dab5f136c6957f6c4bac87545796ae140f3d651b9309175f02e9489dd82"
+    },
+    {
+      "type": "Organization",
+      "name": "Mobilier national",
+      "id": "Organization_b8c34fac964af68142124f8784915a9fd7e7477fc8b33ed30ec22e3499904e31"
+    },
+    {
+      "type": "Organization",
+      "name": "Académie des beaux-arts",
+      "id": "Organization_e0f83845d33763d1841bcc6f09849b163aa01725259c94b0131a417190c3a944"
+    },
+    {
+      "type": "Theme",
+      "name": "danse contemporaine",
+      "id": "Theme_64079a2846483442116b34813594b2c6156eac994bc74d77d939d0d8fd54393c"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers d'art",
+      "id": "Theme_20d6a311d8401580919ef69695af1d76097a708fb84468e0f980044ab97196cb"
+    },
+    {
+      "type": "Theme",
+      "name": "artisanat",
+      "id": "Theme_e503c87cab8e818d205063f1be254200fdc67e354b7473160629a363a2478a44"
+    },
+    {
+      "type": "Theme",
+      "name": "imprimé",
+      "id": "Theme_379cfdf73b40bd3ce7156c9c7c8f1c9f61f0a3dd498a5ca4d2c2690e4f5ce2c6"
+    },
+    {
+      "type": "Person",
+      "name": "WU Xingyuan",
+      "id": "Person_625c3c923e3c5e6ddb982ec645ec16b4b643ae790079c7aa92201e76ff412778"
+    },
+    {
+      "type": "Person",
+      "name": "Guy",
+      "id": "Person_fb5aa9a5b4e3313c2449d1e6c52c388610342d2332f7fe90c22ad500d2439f2d"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Michel",
+      "id": "Person_0b85ef8ad2f2b194842e48d94aacacc74cb8dcac474661ebd62544834c33206a"
+    },
+    {
+      "type": "Organization",
+      "name": "éditeurs français",
+      "id": "Organization_cc77f391c7e069d0140c5c774c4d74438aaec4398ce42c786612d869d98991a3"
+    },
+    {
+      "type": "Organization",
+      "name": "éditions Post Wave",
+      "id": "Organization_3462da0bb4cb8c40ae37ed0062cdbd4ae20bfd24125122316572aa0e6c55abb8"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Jacques ANNAUD",
+      "id": "Person_52bbcd8b5ac5bdb207312be108738d6e3723b73ecca0557c4e22265bfcfe0b6e"
+    },
+    {
+      "type": "Person",
+      "name": "Jacques MALATERRE",
+      "id": "Person_eba49e4edcfcde48ce8665cfae25ead675cd8a77d709b1f711aeaffc23a396d1"
+    },
+    {
+      "type": "City",
+      "name": "Notre Dame",
+      "id": "City_fffb6028b9519ea49b46ef9eca4e325bad4f0a1dff03768354a145b2cf12ea24"
+    },
+    {
+      "type": "Theme",
+      "name": "ténors français du grand écran",
+      "id": "Theme_2fa30656c364b277a74d3d3db29d144fbfd04acb297be9cc539a248ba80004c5"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "l'Homme de Pékin",
+      "id": "Theme_b2d48189887f60a859115c7abcdf66a2ab63aa4cc9c1868e1b611d2564cba8ec"
+    },
+    {
+      "type": "Person",
+      "name": "HUANG Bo",
+      "id": "Person_b701a39f1302340eca3ddd4bc1b218426c5efb0253a0470ebcda5228cdc495f8"
+    },
+    {
+      "type": "Event",
+      "name": "Croisements 2023",
+      "id": "Event_c9f90288f29fb77432aa79c918cb962902c536db0d8a105056331f616021b53d"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Michel JARRE",
+      "id": "Person_2e6ef6b01d9e952227ef5782670c0f1ec5a538cf8b25d74e62b9b7cdb16be070"
+    },
+    {
+      "type": "Organization",
+      "name": "Ubisoft",
+      "id": "Organization_7ffbd17684fec215deadf9cf9451371abc876b7fce35936badc1d282e6b7bf28"
+    },
+    {
+      "type": "Organization",
+      "name": "startups françaises",
+      "id": "Organization_af613fb6bac3c2fba5dea6d2e51588f03843cd2dd241988bebd7d3aa16724311"
+    },
+    {
+      "type": "Theme",
+      "name": "synergies",
+      "id": "Theme_b56781500d3cfaa8401ac405bb12ca55ff6c69af8e5aa509a528c58aec0facf9"
+    },
+    {
+      "type": "Theme",
+      "name": "chemins de traverse",
+      "id": "Theme_56e49377f9d2149049333f71ed434706bb607fd6b4919e4fe84d0e57afc8ffc3"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveaux chemins de liberté",
+      "id": "Theme_57fa715867e93fa5ffcb2c95ea7aa940168b385bfcb778ba73ea5622377b1cd2"
+    },
+    {
+      "type": "Theme",
+      "name": "imaginaire commun",
+      "id": "Theme_748cf6e4c4eac826a9b19bb96a6c44bd22db19a6467c7066d6375bedd2b9e07d"
+    },
+    {
+      "type": "Theme",
+      "name": "Cloud House",
+      "id": "Theme_8508b0e1ac23a0ba8f80f344b500c0d7912f114c9367867760aadf94709aedde"
+    },
+    {
+      "type": "Theme",
+      "name": "kalos kagathos",
+      "id": "Theme_21f2ca740be7307c45ef0f45fb94af3cb27a1dfbb1924d016379a4412b8063ad"
+    },
+    {
+      "type": "Theme",
+      "name": "sens du beau et du bon",
+      "id": "Theme_454a450d494070cd54af7ed744b5cc52a695a3203971ca5f44a2e303b82be3d0"
+    },
+    {
+      "type": "Theme",
+      "name": "rapport à la création",
+      "id": "Theme_03a29e7ec149f5cf0733241732304602df2fcf3d26210bc7bf2441988e60165f"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "ironie",
+      "id": "Theme_387132dbbd192641e6daa28ab8b3e7f63a1117b823c5965dace328c65e292f16"
+    },
+    {
+      "type": "Theme",
+      "name": "humour",
+      "id": "Theme_f5b1da8d23582c5bfa617449ace8a134a0da4f0f8986e8821e120159eb461852"
+    },
+    {
+      "type": "Theme",
+      "name": "art",
+      "id": "Theme_6ed805edbb8eef4acbfa46f80c86538afc8b5485c0144e0929dce3cb2898ba5e"
+    },
+    {
+      "type": "Theme",
+      "name": "amitié",
+      "id": "Theme_da59468cff46157116230d1b59468dc6ee8497b19a27cf4c7344818aedeeeb88"
+    },
+    {
+      "type": "Theme",
+      "name": "rêve",
+      "id": "Theme_779ee8cf184660befb95c38167d6ceef6be3bd616b0186682de447aa2ed4dad1"
+    },
+    {
+      "type": "Theme",
+      "name": "fatalité",
+      "id": "Theme_91821ece115556da69fe9d01e520831311b2c3c97a6959ffb0c6b4ce8b578a77"
+    },
+    {
+      "type": "Theme",
+      "name": "tragique",
+      "id": "Theme_dcc9ac82fcc0f82c9b5a50cc44b4e5079cc5252126594d6a3c592916d5573318"
+    },
+    {
+      "type": "Theme",
+      "name": "croisement",
+      "id": "Theme_8097c7821d68194ed467cdac061f0638b0c3e9a7558647eeadc2d9a80359e19a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Tatiana TROUVÉ",
+      "relation": "PROPOSED",
+      "target": "festival Croisements",
+      "evidence": "Alors vous connaissez bien le festival Croisements pour y avoir présenté le travail de Tatiana TROUVÉ",
+      "confidence": 1.0,
+      "source_id": "Person_03854f1ad121e6a5660d84c20a04a6f05eff02f0ac4c4396db7832d264bfeb37",
+      "target_id": "Event_337d37356ab153747328401e2957ffe64293f077a1fd3e48574a5579fd62d272"
+    },
+    {
+      "source": "Huang Yong Ping",
+      "relation": "SPOKE_ABOUT",
+      "target": "pensée amicale et émue",
+      "evidence": "ce qui nous permet d'avoir une pensée amicale et émue pour Huang Yong Ping",
+      "confidence": 1.0,
+      "source_id": "Person_e37376be002ad92126d4d3ab346449481e14f9a182361ca5d2fd21f110224646",
+      "target_id": "Theme_cdfb3ff930baa54e382dcfb040cb224363f7b28337079059c15fb9002e736826"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "60? anniversaire des relations diplomatiques",
+      "evidence": "parce qu'elle permettra de célébrer aussi le 60? anniversaire des relations diplomatiques entre la République populaire de Chine et la France.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_4e492334e224a90126201569b840eb59fa49d7858c4dbe2ac5f11c232a0f379a"
+    },
+    {
+      "source": "Fondation Choi",
+      "relation": "PROPOSED",
+      "target": "Villa Médicis",
+      "evidence": "je souhaite qu'on puisse avancer, aller, Madame la ministre, vers ces projets de Villa Médicis proposés par la Fondation Choi",
+      "confidence": 1.0,
+      "source_id": "Organization_84ef8ebc214838c87043a92ece5bfd48b711108fda341489ba98809967cb3506",
+      "target_id": "Organization_657cc82c2c19bb444be5873a485d7281ec565ca898cdd5aba63c5c7f76a780a4"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Mobilier national",
+      "evidence": "l'aide en France, encore une fois, du Mobilier national",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_b8c34fac964af68142124f8784915a9fd7e7477fc8b33ed30ec22e3499904e31"
+    }
+  ]
+}

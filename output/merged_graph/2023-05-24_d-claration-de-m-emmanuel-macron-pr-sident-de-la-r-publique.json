@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Estonie",
+      "id": "Country_6ff0b5ecfc1dfa115390e0dbd3c73b3225e6b079de5c8428b3dad412d2b52103"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "Country",
+      "name": "Lituanie",
+      "id": "Country_257f51b370c269015b5ddeb21595946140d68f6c4557dc04527717e006535460"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Theme",
+      "name": "défense aérienne et antimissile",
+      "id": "Theme_076084286c457f1ec8dc28e5f75c934a8501704f267c04c37bd16cc19496088e"
+    },
+    {
+      "type": "Person",
+      "name": "ZELENSKY",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Person",
+      "name": "Gitanas",
+      "id": "Person_0a1e515e34d951fab5e2ae36017f977880f4fd7790cb8c6a4c89b6d96d8230f3"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Vilnius",
+      "id": "City_4e31025aac6a09a787ffe3e48bac21044552e674fc0799e939b7354f427334c6"
+    },
+    {
+      "type": "City",
+      "name": "Chisinau",
+      "id": "City_eaae05dcf2d975c5d8dac6141919a11452e41511928c2565b04e422fd1b9d428"
+    },
+    {
+      "type": "Organization",
+      "name": "Communauté politique européenne",
+      "id": "Organization_8a93842f693c1a3a5724e43329bd7d4583ba6c51064f8c7015cbafc24a94d4f2"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Lituanie",
+      "evidence": "La France déploiera également en Lituanie, pendant le sommet de l'OTAN, un bataillon mixte issu de la brigade franco-allemande dans le cadre d'un exercice conjoint",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_257f51b370c269015b5ddeb21595946140d68f6c4557dc04527717e006535460"
+    }
+  ]
+}

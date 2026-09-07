@@ -1,0 +1,528 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le proviseur",
+      "id": "Person_afc66cb9d5e608e876cfc3d9546af44703a4bb1df7d55d10e7050b70b1f491ac"
+    },
+    {
+      "type": "Person",
+      "name": "Madame et Messieurs les ministres",
+      "id": "Person_e1969247b7929a2a1c8441ccad6ae623616e8256e9af2d6f6a36aa25cb0c4b23"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les parlementaires",
+      "id": "Person_ee51dc2324bec5b163f1b8c4d3c4713f0a34d4232a11b6a3033c9f8b0c2a0fa2"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil régional",
+      "id": "Person_573578ce8dcc0cbd0d0df64d3b962407bd6d8cd3892f9ff551d383aabd8949b4"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la présidente du Conseil départemental",
+      "id": "Person_9cc61b7b2edca3a2cf3bbdf961e2add113659f0bae7c3fb6041e0f13c27a0106"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la rectrice",
+      "id": "Person_51f24a3228271039bc830e4053c061f1fcbec3bbee37b538f8e95d8c306beb08"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs",
+      "id": "Person_625fe3a313c056b9dc1724205255b9a7767c4b46670f91284ff4a20cb9382408"
+    },
+    {
+      "type": "Theme",
+      "name": "services à la personne",
+      "id": "Theme_87dca1ef90be0fe0caebded5326801c4a1e554ad03f6e18906547750d74c4361"
+    },
+    {
+      "type": "Theme",
+      "name": "informatique",
+      "id": "Theme_3b7b44ebd817d42b5014fc8b65d4976dbf0f5321532fd154f33a7726a38a49d3"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement professionnel",
+      "id": "Theme_eef4ba59f5c87a40a4e1dd77b489982c3155baf21a9ee9b0ff127c7aebf2ea61"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "bon emploi",
+      "id": "Theme_23b0d5736bc7fd6a5204cae8bad0e72f9e7c482edddba8b6000063f9f8d48a24"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois non pourvus",
+      "id": "Theme_137417e0c22a27b263478cb14f4a99901b7c3a8aaeee2b5ea334dcbc11b1d58c"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers les plus recherchés",
+      "id": "Theme_d861021f0d5f2df96c53bdfe20916de37e689f1e4440ef7457da2bb8f525e72c"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers qui recruteront le plus d'ici 2030",
+      "id": "Theme_e2661cc22567e3e7b1c80d4c3bf3efaa28bf8558667172215c06ef58b3303a06"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "décrochage",
+      "id": "Theme_a1c5576ffec335036f8b88290140734cf1b5cee417ebe748810671da2f4c7273"
+    },
+    {
+      "type": "Theme",
+      "name": "insertion professionnelle",
+      "id": "Theme_9e38a0fd633ffc58eb7ef9f88d9faff2e8adc9b85350bb7132ab1f99a449213b"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement des enseignants de lycée pro",
+      "id": "Theme_a9b03304d6e71751ecfd79763f754120435bde234819b509d32e11bed0f7c9f6"
+    },
+    {
+      "type": "Theme",
+      "name": "orientation",
+      "id": "Theme_74039395f94b06baaf3782d15df5ce6738621f26f63d04c0fc5af90d91a6c498"
+    },
+    {
+      "type": "Theme",
+      "name": "lycée pro",
+      "id": "Theme_3dadc5c4dbace88895c8107d9ac20bac2fe48de2af1a72f323d992496822e9bd"
+    },
+    {
+      "type": "Theme",
+      "name": "repères chez soi",
+      "id": "Theme_f4680a16c0aee1b38e14fcb9424058b4d75c77e76047239c3469e3cd76356a3f"
+    },
+    {
+      "type": "Theme",
+      "name": "formations",
+      "id": "Theme_69f287e343dbccf01ac37a421d37dbda3bc03cd334ec5affea272b0f4f64ea7b"
+    },
+    {
+      "type": "Theme",
+      "name": "sigles",
+      "id": "Theme_946fb864c9b4b6db4c0b1c8af2ee975c8b1baa73255e121a26f45870b1a748dc"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers",
+      "id": "Theme_305de45577953bd04165ca22cf0089e5defd686499397a72c39942ab978c3083"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "débouchés",
+      "id": "Theme_42034dcb936d6775d05651b298c7b962743066df615f84b9a3ec9c26225795b2"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "taux d’insertion",
+      "id": "Theme_0fa007b24522aebb90b10a9a7885952a840b656a6e646eb420b9cf1a0d81bfc5"
+    },
+    {
+      "type": "Theme",
+      "name": "poursuite d’études",
+      "id": "Theme_6ac285b01d13b518d4dc65a1a699884edbc8749eb30cda4d1a5f57178efac96e"
+    },
+    {
+      "type": "Theme",
+      "name": "rémunérations",
+      "id": "Theme_d4d6a50f17f7c7dd80b20f410741c07e96d72ef67bbfd359a523a326005009cc"
+    },
+    {
+      "type": "Theme",
+      "name": "formation en sup’",
+      "id": "Theme_b3b66499fc0b1e57fbdd13383d3d8533f325d6f2eb88e9d4bf0e1df574156378"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte",
+      "id": "Theme_08510afdf50053fa9af48009d3326ffa3ca70e4a355802c742667dc8276fcc6f"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement général",
+      "id": "Theme_39544b681e25565b673a436e949c9b6a95d99d1f34d1bd90c7b9a67d346a6db4"
+    },
+    {
+      "type": "Theme",
+      "name": "allophones",
+      "id": "Theme_7d24957b20a7a5a79b26dd35d2245c616214b3edf400da4b1433926b9247f05e"
+    },
+    {
+      "type": "Theme",
+      "name": "mathématiques",
+      "id": "Theme_ae7ddf6f0a5e1b0a30bc2a7319673bb090d490d377e1a9d85144ee9cf8cbea1c"
+    },
+    {
+      "type": "Theme",
+      "name": "français",
+      "id": "Theme_31256713966363216a0829e4571c45ca5252777a0b51e3eb51c248981e94773b"
+    },
+    {
+      "type": "Theme",
+      "name": "difficultés",
+      "id": "Theme_226532f438cde63f47e643da8611130719f5ea2c4e92e7b9231e918ca90b560d"
+    },
+    {
+      "type": "Theme",
+      "name": "évaluation",
+      "id": "Theme_ea7fd98e58a66d73c0259bc6f8dfbbac84c8bd6786088d5c2f8f9b7739a8c420"
+    },
+    {
+      "type": "Theme",
+      "name": "EPIDE",
+      "id": "Theme_6b46613275158f3668855b38af0959ce154d27a271e59c01034f2aaeed5aa936"
+    },
+    {
+      "type": "Theme",
+      "name": "déscolarisation",
+      "id": "Theme_58348ee30cd55aae6539e611d9ac0b13e1267fc8ebddc93e526e507005c5cc23"
+    },
+    {
+      "type": "Theme",
+      "name": "difficulté",
+      "id": "Theme_3239052021b12437968bc0bab8eaa6c2769da720faafeab5e899be49930e3f9e"
+    },
+    {
+      "type": "Theme",
+      "name": "compétences de base",
+      "id": "Theme_9da9185e52ad835881d2fd23e1d6a3cb55e24ec9e1a7876cb5a4012cfa06b4b7"
+    },
+    {
+      "type": "Theme",
+      "name": "décrocheurs",
+      "id": "Theme_9a6add182fc832a9c6e98496fb8069f983231fe0e37930cea16f7701e6c32a8c"
+    },
+    {
+      "type": "Theme",
+      "name": "carte des formations",
+      "id": "Theme_5609c004f82f4da1618d4ea3e363a57df93de17c4e3d946a79ae406596837096"
+    },
+    {
+      "type": "Theme",
+      "name": "taux d'insertion et de poursuite d'études",
+      "id": "Theme_7c56144730ca1c1b0f98371b2df4bf02d8a73c818a184bb761a873707acdc7a0"
+    },
+    {
+      "type": "Organization",
+      "name": "CNR",
+      "id": "Organization_e42e612cdc0fce5d8cb6402795ede309b7de2ddd7252fd9fed4ede6ba132b7ad"
+    },
+    {
+      "type": "Organization",
+      "name": "conseil régional",
+      "id": "Organization_e9f725e6f67b63337bb15386767b033ec43f962df630ab214d5d15910b442ee9"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Theme",
+      "name": "compétences requises",
+      "id": "Theme_e91723a2d29e4d31318b3e0a5d81c1e39b088840ee8385be6e998e1f7213272d"
+    },
+    {
+      "type": "Theme",
+      "name": "situations d'échec collectif",
+      "id": "Theme_efa295fda48a7f1ac0b47cd3d55f4a6d3621ca4f51893cd78ab816aabf397a8a"
+    },
+    {
+      "type": "Theme",
+      "name": "plan France 2030",
+      "id": "Theme_7925d16ed9bd205a11d60117a96e91046cd45e8a91a8b6969bef6736a12a6803"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveaux plateaux techniques",
+      "id": "Theme_0d4a24506f468ddc073052027a7f2425a57892ed058ff35568c7ec1b57e998a5"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "mentorat",
+      "id": "Theme_e74632332b8f66448cddc5a6298a5985ff92deda51a09ba56c042e68bd3e7cb3"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement",
+      "id": "Theme_d41a2410d8b1353cdac216ebec7bce81e567ae80b1d56a5c5b7942fee7e103c4"
+    },
+    {
+      "type": "Theme",
+      "name": "conseils de vie",
+      "id": "Theme_2d22c11dcc1ce9c0870652a4b45a9040c644e950e7d44ae4b00e5b0373dc3a22"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation",
+      "id": "Theme_01dbd75772ce2e01acf43a9eed5bfc3d66a83ad34f48105944d56c5bf0aaa34b"
+    },
+    {
+      "type": "Theme",
+      "name": "bac",
+      "id": "Theme_55a68f66eeb8f4f45fda5055f7cf06f518b83d8b9af813713c08a155b8748f2b"
+    },
+    {
+      "type": "Theme",
+      "name": "stages",
+      "id": "Theme_a2efdca833141e16fb01193812ac5e5f96afc1c1a092346c394fd3503b4b1c9e"
+    },
+    {
+      "type": "Theme",
+      "name": "études supérieures",
+      "id": "Theme_ea44b32316cb6feaea126cbab0d840a48f6e674d1bcbed3463ad9c5e0b301ec5"
+    },
+    {
+      "type": "Theme",
+      "name": "BTS",
+      "id": "Theme_0c1e4b09b06a1cc467686216a3258133f1eba83345c1da1385445921d41275cd"
+    },
+    {
+      "type": "Organization",
+      "name": "SNCF",
+      "id": "Organization_620444fdb05ec8f7c267806a8ce65a7b483cab16b71283c84bbf99116dca6dfe"
+    },
+    {
+      "type": "Theme",
+      "name": "specialisations professionnelles",
+      "id": "Theme_f4163aa4e218ebf6d962a232640a5313950654f0f50f398d196128f28715d420"
+    },
+    {
+      "type": "Theme",
+      "name": "employabilité",
+      "id": "Theme_0d0ab327f20dbc86bd088219e4ebe85897f6cc47954c87704fec30b932c5341a"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariat",
+      "id": "Theme_02440e7a1226a40030b255df60faa6f895303652ce187ab029b21f1a1c31c4e5"
+    },
+    {
+      "type": "Theme",
+      "name": "100% insertion",
+      "id": "Theme_571b5c67032e41a21f36327e18946ce96867af6bdabc24de30635bc00bed560c"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien par les conseillers de France Travail",
+      "id": "Theme_332a97884a56deddfe68db166a6b7631e03a79ba05cf6a68d9b23c38609cf763"
+    },
+    {
+      "type": "Theme",
+      "name": "parcours de consolidation",
+      "id": "Theme_cea4a99c8f28ebe1d5bec652670cb762dc1ee9b3193c03c4c78570b8cf1e0542"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement des enseignants",
+      "id": "Theme_70e097e314e5c9bb529cf86b7c84dddff7b0f98364be96c2dd7501a1b99fbbab"
+    },
+    {
+      "type": "Theme",
+      "name": "insertion en sortant du lycée professionnel",
+      "id": "Theme_b0c8f83e1f8c97b05a89c79032d469156929b777f7abc2ec7550f0a6318c4642"
+    },
+    {
+      "type": "Theme",
+      "name": "réussite des élèves",
+      "id": "Theme_2dd0427dcb83df48baaacd5aaa0d4fc59dbd4c7676bb1fe1c4721ba502f157be"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "interface",
+      "id": "Theme_82a6282dc677c180513a99c633350733d2e3e381e00d9db3628e0ab16a33ad38"
+    },
+    {
+      "type": "Theme",
+      "name": "service public",
+      "id": "Theme_8b37015ab8cc5bb4cc96441ff954f74d0609a857b4fbc784b367f676546b7722"
+    },
+    {
+      "type": "Theme",
+      "name": "l'éducation",
+      "id": "Theme_b4ee4945bc9ae091724f02d14c60a9a73fc2ddc23c02f91911dc77d8468eb950"
+    },
+    {
+      "type": "Theme",
+      "name": "le travail",
+      "id": "Theme_aa3125e727794974041fb9301dfe5ec8b0f735487e30db0095749f816db2a8ac"
+    },
+    {
+      "type": "Theme",
+      "name": "la réussite des élèves",
+      "id": "Theme_61034a1cf10d4eedeb90737ba32e38cbd1b769d79a497d423075ab62b53a5772"
+    },
+    {
+      "type": "Organization",
+      "name": "lycée professionnel",
+      "id": "Organization_575e61833c1bdc3f2b80aae3126e560ced4c774a4082623ebf62d4dbba26192d"
+    },
+    {
+      "type": "Theme",
+      "name": "privatisation",
+      "id": "Theme_f90f0a61fe83e15577bdc56a4b6738519f4239ae524f4b9510696f1b127ed6ce"
+    },
+    {
+      "type": "Organization",
+      "name": "la Nation",
+      "id": "Organization_3a24f127af0db13cebed8eefdb560d89fc798cb8d027ce1edb1220d20d7236ca"
+    },
+    {
+      "type": "Theme",
+      "name": "les moyens de choisir",
+      "id": "Theme_e363b0f32ee2325ab5cdff38dcfe2ebab7965ba93109f26578b05d47234c7770"
+    },
+    {
+      "type": "Organization",
+      "name": "WorldSkills",
+      "id": "Organization_6d9559b2f508e60dd11e314169d134f92152a50372767623632e2c55d9d4ca87"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "Theme",
+      "name": "fracture des territoires et des destins",
+      "id": "Theme_cbc6fb8994b9a27f4a5e07f0ee3f218cb92ec2440cd8a184f37dfd7a492f675a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "apprentissage",
+      "evidence": "l'apprentissage en France, il fallait le développer, qu’il fallait atteindre les 500 000 contrats d'apprentissage par an",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "source": "formation",
+      "relation": "MENTIONS",
+      "target": "emploi",
+      "evidence": "Dire qu'une formation ne mène pas à l'emploi, c'est blâmer personne, mais c'est juste donner des instruments pour s'orienter à un élève et à ses parents, c'est redonner pleinement du sens à la formation à un métier et de la motivation aux élèves.",
+      "confidence": 1.0,
+      "source_id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab",
+      "target_id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "source": "CNR",
+      "relation": "MENTIONS",
+      "target": "formations",
+      "evidence": "ces CNR doivent regrouper toutes les parties prenantes, les enseignants, les acteurs économiques, les collectivités pour identifier les leviers d’action, proposer des projets pédagogiques, avec le fonds d’innovation qui sera mis à disposition, et proposer une évolution de la carte des formations.",
+      "confidence": 1.0,
+      "source_id": "Organization_e42e612cdc0fce5d8cb6402795ede309b7de2ddd7252fd9fed4ede6ba132b7ad",
+      "target_id": "Theme_69f287e343dbccf01ac37a421d37dbda3bc03cd334ec5affea272b0f4f64ea7b"
+    },
+    {
+      "source": "Etat",
+      "relation": "SUPPORTS",
+      "target": "conseil régional",
+      "evidence": "Il appartiendra alors au conseil régional et à l’Etat d’ajuster la carte des formations pour s’adapter à l’ensemble des évolutions des compétences requises.",
+      "confidence": 1.0,
+      "source_id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612",
+      "target_id": "Organization_e9f725e6f67b63337bb15386767b033ec43f962df630ab214d5d15910b442ee9"
+    },
+    {
+      "source": "SNCF",
+      "relation": "ANNOUNCED",
+      "target": "partenariat",
+      "evidence": "la SNCF, qui a annoncé un partenariat pour le certificat de spécialisation professionnelle post bac pro en vue d'intégrer les métiers de la SNCF",
+      "confidence": 1.0,
+      "source_id": "Organization_620444fdb05ec8f7c267806a8ce65a7b483cab16b71283c84bbf99116dca6dfe",
+      "target_id": "Theme_02440e7a1226a40030b255df60faa6f895303652ce187ab029b21f1a1c31c4e5"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "WorldSkills",
+      "evidence": "en septembre 2024, la France accueillera à Lyon la magnifique compétition mondiale des métiers, WorldSkills",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_6d9559b2f508e60dd11e314169d134f92152a50372767623632e2c55d9d4ca87"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Lyon",
+      "evidence": "la France accueillera à Lyon la magnifique compétition mondiale des métiers",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "source": "Worldskills",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "ces Worldskills, on les accueillera, on les reconnaîtra, mais ils sont comme nos meilleurs ouvriers de France, nos meilleurs apprentis de France",
+      "confidence": 1.0,
+      "source_id": "Organization_6d9559b2f508e60dd11e314169d134f92152a50372767623632e2c55d9d4ca87",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

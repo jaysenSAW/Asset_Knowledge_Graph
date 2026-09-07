@@ -1,0 +1,841 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Nicolas SARKOZY",
+      "id": "Person_2cc0890d53d00df41342ecdfe549156f7ec8193b9b942eb2e2ac3f6e3fed29ce"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "Académie française",
+      "id": "Organization_1614898e5c9c4727f6887dcc2e0444776d7de4eb80e4c5a0b9419bde1a0d4a96"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le recteur",
+      "id": "Person_05ddaec311bcc96be0ae33c8262a0610c085cc3bb6e6e5d09a97fe499ff9f606"
+    },
+    {
+      "type": "Theme",
+      "name": "la reconnaissance par la Troisième République de la place des musulmans dans notre société",
+      "id": "Theme_cfadec86cd272c36342c658af08b14f8578feb6136544a435486cb71a70715e9"
+    },
+    {
+      "type": "Law",
+      "name": "loi de 1905",
+      "id": "Law_017b788af4db1b9cc7c92b9972421b3a3f93b1a51e555b57e6c8314e40dfc0db"
+    },
+    {
+      "type": "Law",
+      "name": "Loi du 9 décembre 1905 fondant la laïcité en France",
+      "id": "Law_f25677240510e25e074020a64750a8c20f404257fd162afff64db4d660a8b2ef"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Alger",
+      "id": "City_0cc1538642cf29c18db048f0218cd51511f109734b8d8dc452b7f31b18c6117e"
+    },
+    {
+      "type": "City",
+      "name": "Quartier latin",
+      "id": "City_3766746e5a7f66496ead6133ecb92fa4f0e07be45fdbd74ce89d235fcc338519"
+    },
+    {
+      "type": "City",
+      "name": "Muséum d'histoire naturelle",
+      "id": "City_970d117386631dae138f27488915c697d5800a5536feb90f1b9c16f7f8431739"
+    },
+    {
+      "type": "City",
+      "name": "Panthéon",
+      "id": "City_43a1ef0fe679cc862b9a773e30d5fc43b5e2f3b92f6a29dee095a06aca903639"
+    },
+    {
+      "type": "City",
+      "name": "arènes gallo-romaines",
+      "id": "City_6fa157e4bb70034954c3c66d5853a8cc0e68525c0b9d130e8e7a39b804b9191c"
+    },
+    {
+      "type": "Person",
+      "name": "Gaston DOUMERGUE",
+      "id": "Person_93c59a0394b654c40bb6023d767923d03fe50b22e3b96bd3ec69c8b5a4ce60ff"
+    },
+    {
+      "type": "Person",
+      "name": "Moulay YOUSSEF",
+      "id": "Person_b97b64972ad2a6b757daa1bbac18577b4e3073011177b1dd11f5dc6eb86dc453"
+    },
+    {
+      "type": "Person",
+      "name": "Sidi Mohammed EL HABIB",
+      "id": "Person_8d79241bcbd5be177f1a62f8b98c5f8d9c6da43ae6f9f853140bdeacfb7c00c4"
+    },
+    {
+      "type": "Person",
+      "name": "Aristide BRIAND",
+      "id": "Person_96ac27527aa9c5e1be9654b16a43e3df8e6d83eb0b9295c379c9b2b5f2158af9"
+    },
+    {
+      "type": "Person",
+      "name": "Édouard HERRIOT",
+      "id": "Person_bb42e2ffdc55f5a8dece1e328cb4739e6dbb51de3ec939f52017be99daf42b94"
+    },
+    {
+      "type": "Theme",
+      "name": "laïcité",
+      "id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "type": "City",
+      "name": "Fès",
+      "id": "City_28c156b694a023069e4ea8efef750d7649e6399c76d581f9805f98e1d0db6617"
+    },
+    {
+      "type": "Theme",
+      "name": "arts de l'islam",
+      "id": "Theme_8a8929a7a3c9f69a0e57d80eb676a03f33a709c8d3eb2d6aa505be91a7c46f86"
+    },
+    {
+      "type": "Theme",
+      "name": "musulmane",
+      "id": "Theme_b9fe0de032f99f6458d841bcdee9559ddf6908d31727f8a389534d4098f6b15c"
+    },
+    {
+      "type": "Theme",
+      "name": "culte",
+      "id": "Theme_dbfc0294f73b377fd04e4380beb9f2770750a17cb3fb7e1f5c13a1440c1242cc"
+    },
+    {
+      "type": "Theme",
+      "name": "vie",
+      "id": "Theme_fb2d820418e69ffa914d4afff6fb60ce64cc4635ad1e4afdc6bafc1ff3f71248"
+    },
+    {
+      "type": "Theme",
+      "name": "culture musulmane",
+      "id": "Theme_228df1e10860c559c9e127fd7abbbcce462b1b9f6ace79db2876c341de99b936"
+    },
+    {
+      "type": "Person",
+      "name": "LYAUTEY",
+      "id": "Person_435395e9ec6d2b02b2b7ea2c1a188f6a4cb45e5c4e33f4903b82d5dd8115c497"
+    },
+    {
+      "type": "Person",
+      "name": "BOURVIL",
+      "id": "Person_3113d423ddb353ea26336a966bb29c326c8728088ea696f6eb4a0b44d3f41234"
+    },
+    {
+      "type": "Person",
+      "name": "DE FUNÈS",
+      "id": "Person_36de6973c17a129d60ec0b14364aa89461694a22f50dace6dd36098b1caa5624"
+    },
+    {
+      "type": "Person",
+      "name": "BIRKIN",
+      "id": "Person_3ecc2906cae9b2950e0d667fa0a278b69640944b8db3005d2eca98c3f0049a4e"
+    },
+    {
+      "type": "Person",
+      "name": "GAINSBOURG",
+      "id": "Person_b26bd873f09a61e659b0184b19dae854062c97d1aef318d8962c639ffd625990"
+    },
+    {
+      "type": "City",
+      "name": "Marne",
+      "id": "City_a8a0573330a43876bed5ef6d85d4541dd67208316af7ea51110d74a6f5757dd0"
+    },
+    {
+      "type": "Country",
+      "name": "Algerie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "Country",
+      "name": "Côte d'Ivoire",
+      "id": "Country_02a4cf0b159c169388d9cae695c5828d01927abf33bf75e323c8f187cdde6be9"
+    },
+    {
+      "type": "Country",
+      "name": "Tunisie",
+      "id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "type": "Country",
+      "name": "Maroc",
+      "id": "Country_9458e2c6babd2c77ac8b75ec4713e04d3bfb33730d88d692b0cae733d35375f3"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique occidentale",
+      "id": "Country_5f5143ade6d57b90eada9a6792fe88391bfedacf364a279e98212e33c114274c"
+    },
+    {
+      "type": "Person",
+      "name": "Abdelkader MESLI",
+      "id": "Person_86b590c3bfbbe5fae8ed7120a57285ec0255eba7bd681bc78e06249b97e93d1b"
+    },
+    {
+      "type": "Person",
+      "name": "Kaddour BENGHABRIT",
+      "id": "Person_ed105b97add4abcbd42224d9366847fab278441f6ad5f73f8bc2c31a8db0897e"
+    },
+    {
+      "type": "Event",
+      "name": "Seconde Guerre mondiale",
+      "id": "Event_aa598b7435f3cc09e365f657cf81e9286ff31ba745caeefa70923626f946c7cf"
+    },
+    {
+      "type": "Theme",
+      "name": "Résistance",
+      "id": "Theme_e76d4a7d077688683b8612822efb91314ca3d8a465e71434c7d639fcd7efc3a4"
+    },
+    {
+      "type": "Theme",
+      "name": "Déportation",
+      "id": "Theme_559a07baf9c3adb182489c9f44e8370e0044e75516a59ced4a6831952c05bd9a"
+    },
+    {
+      "type": "Organization",
+      "name": "Grande Mosquée de Paris",
+      "id": "Organization_8a1329b9434ae739fc060d4a2aaf3a2cb8a99607e5f397bea0cf9b9106cfa98c"
+    },
+    {
+      "type": "Theme",
+      "name": "Islam",
+      "id": "Theme_879a3cfc5efad5941cda162521e02918b759b90b3a493f5fc7fe8acef42c3cc0"
+    },
+    {
+      "type": "Theme",
+      "name": "Fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Country",
+      "name": "Notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "City",
+      "name": "Ile-de-France",
+      "id": "City_6349e60746c9118a2ba6922d1bbbd1c4062d83cbfd4dea802d514820c7d9dd69"
+    },
+    {
+      "type": "Person",
+      "name": "le recteur",
+      "id": "Person_6710c06775138c29666937d8f9ca31239f6fd79d963ef8f622bccde1ce290bbd"
+    },
+    {
+      "type": "Theme",
+      "name": "compatibilité entre la France et l'Islam",
+      "id": "Theme_53a32b27d1ac12626f79650b359efebd984defc842b307783c29850c180f6840"
+    },
+    {
+      "type": "Theme",
+      "name": "fragilités",
+      "id": "Theme_4500e199e3493bc3c40598b73b7602111d5c3f4063d1fc2928788d7440faa100"
+    },
+    {
+      "type": "Theme",
+      "name": "combattre notre République en son sein, en ses valeurs",
+      "id": "Theme_d1d7fbf4dec12c91e90cede325e904b623ab8b28785c0effa246f9865124443b"
+    },
+    {
+      "type": "Theme",
+      "name": "islamisme radical",
+      "id": "Theme_06829bcd6bf40a8e2dac81c4467b9e53d66545abf8a314e409ce5ec5fdf7943a"
+    },
+    {
+      "type": "Theme",
+      "name": "séparatismes",
+      "id": "Theme_4726866f81803f68b0e8b5dc9eefe061a1cb9ceb7d3902c6c3289e234f928f20"
+    },
+    {
+      "type": "Theme",
+      "name": "principes de la République",
+      "id": "Theme_8f3dce5fbb45f486e7983ede5ff5a4e673d2de46343d10b29683c67fa88c94d0"
+    },
+    {
+      "type": "Person",
+      "name": "KABTANE",
+      "id": "Person_0b4f2237d4bd67bb190b096969a4b3fdb39def96a321ba00cfd7679af9e1353b"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Pierre CHEVÈNEMENT",
+      "id": "Person_f0653ddc8672141ee1e1f35cad46b0d7d459ef6038eb4bae71f31d1aabe596f9"
+    },
+    {
+      "type": "Organization",
+      "name": "recteur",
+      "id": "Organization_8202be0a61588cb4133d48908c72514d04f2b8021e00a81bd10965d791fde86b"
+    },
+    {
+      "type": "Organization",
+      "name": "mosquées du Rhône",
+      "id": "Organization_7c8c564b2586b0517d3557695938f19e887ebac36895e421175bfbe76e71e448"
+    },
+    {
+      "type": "Organization",
+      "name": "CFCM",
+      "id": "Organization_bb18462c4b36ea0263a312484cab80a9b72c3521e7a8e4e7148c2fd51b4e6d05"
+    },
+    {
+      "type": "Organization",
+      "name": "Forum de l'Islam de France",
+      "id": "Organization_de88f342b19188b0cd7d2aef83b6517f953f76fd578373005fe0a98ecd9ea7dd"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de croire ou de ne pas croire",
+      "id": "Theme_199aedf172d88225810bbeb3a8a4842b04153a8756be55ebb77c472adfe08834"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté religieuse",
+      "id": "Theme_a6cbc7bd9439017af734a2c7f61ea95226455fed9f160352f528d40810434ff2"
+    },
+    {
+      "type": "Theme",
+      "name": "musulmans",
+      "id": "Theme_177f18f8b3c79b1133ab3b3e025da3f051a9ae3d657b3ce9769935ceaa00b055"
+    },
+    {
+      "type": "Theme",
+      "name": "juifs",
+      "id": "Theme_0fee041af25f7ea23fe780a448c8fb7f12248192e9d1fb4b8630caf0164e8aef"
+    },
+    {
+      "type": "Theme",
+      "name": "catholiques",
+      "id": "Theme_df6acc75edb1dfa1f3d35e5bfb457ae0ed8a9b5ee47afdb004b4478fc93fd8e6"
+    },
+    {
+      "type": "Theme",
+      "name": "protestants",
+      "id": "Theme_8f70d9c05494d5b8559b6e67d48adfe7c387d6225fc0babecca3b8f52616b470"
+    },
+    {
+      "type": "Theme",
+      "name": "confession",
+      "id": "Theme_6bd23653a7db40d2f61033517ec74e2ec3f4fa1c272792b16557a86d9c593b45"
+    },
+    {
+      "type": "Theme",
+      "name": "État",
+      "id": "Theme_c451812b709f5d8690c76df683e36155876c418f88e2cd52acc1ca612abf0b32"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut français d'Islamologie",
+      "id": "Organization_85206dc014d1a1d7589b59684593a4f8e991cdfb03175f05da37cda812cdf001"
+    },
+    {
+      "type": "Person",
+      "name": "Claudio GALDERISI",
+      "id": "Person_945dbedacd57e3e626049049ed721046bbb641ad1d0580e69b785d761b289c6c"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre CAYE",
+      "id": "Person_88007d64d2915558638aaa7d9a308022e22d497961320e32d36cf49f7b526686"
+    },
+    {
+      "type": "Organization",
+      "name": "universités de Paris, Strasbourg, Aix et Marseille",
+      "id": "Organization_3c504d0c95d3a3c33cbee5f180b3c6df73416882f12c963b066efadca2a828a3"
+    },
+    {
+      "type": "Organization",
+      "name": "l'État",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut du monde arabe",
+      "id": "Organization_96b952d84a2165936bff2e929dba5d9eb4b480988a0b41298ee3cc1dfbd205ae"
+    },
+    {
+      "type": "Person",
+      "name": "Valéry GISCARD D’ESTAING",
+      "id": "Person_7d394b3a4e96110047470afb66d2835876f23a8179268bda27be0131f009d3d3"
+    },
+    {
+      "type": "Person",
+      "name": "François MITTERRAND",
+      "id": "Person_582a697169cca265de8d07bb13285260b41f2fa4323b31279a99e5a8cd909063"
+    },
+    {
+      "type": "Person",
+      "name": "Jack LANG",
+      "id": "Person_a486e684e7f2a7d42d856319988d379ec3fb7f1a0fcb7ace7dcf3b02412fc698"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation pour l'Islam de France",
+      "id": "Organization_692ace5b93c16583bcd72fff00f4c446b6d38ed3070f4a7a37b20c469cf323a6"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme de l'Islam",
+      "id": "Theme_799e324fcd7984583ee9577b165bf77c75b7b17ee5c4214bce1a43dc682c1fea"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité de l'État en matière religieuse",
+      "id": "Theme_9091e27d1f7e015ef925da444719e9dd649dbe43b0a16da6738602e3201f7b4d"
+    },
+    {
+      "type": "Person",
+      "name": "Ghaleb BENCHEIKH",
+      "id": "Person_e9a8584100d3c18e1250240e6d735450a148303855e711b4fb1edde2d9b52722"
+    },
+    {
+      "type": "Person",
+      "name": "Bertrand DELANOË",
+      "id": "Person_448e6df9b60a5c6ba22f17b99b9d11c3d459603266ea766f6e28c90ed44b251d"
+    },
+    {
+      "type": "Person",
+      "name": "Bariza KHIARI",
+      "id": "Person_1a71027de84c2c29f8804b26e91d83fe5c44b06f1b9fb44e05ad8f23bed9eea8"
+    },
+    {
+      "type": "City",
+      "name": "la Goutte d'Or",
+      "id": "City_c080c0cfee4ef1de2d16954915f7981cbdd565462e1743866b45932e3dd8a941"
+    },
+    {
+      "type": "Person",
+      "name": "Monseigneur TEISSIER",
+      "id": "Person_fe36fd5d167d512cdbdf70eaafe2134af36b3cb94577aeb51019130ba77ec948"
+    },
+    {
+      "type": "Person",
+      "name": "Hamza BOUBAKEUR",
+      "id": "Person_aca3ece00240ef7eeb893518ac43304491ce32b547aad289c44e90dd1e2bcf6f"
+    },
+    {
+      "type": "Organization",
+      "name": "Fraternité d'Abraham",
+      "id": "Organization_739f8d3160f1efd4951f4e4ce6b09df8b9f9f01cd30e2f494b68a10b3a8424c8"
+    },
+    {
+      "type": "Person",
+      "name": "Hélène CARRÈRE d’ENCAUSSE",
+      "id": "Person_0b31e11eb3e69166551fc048138fde3fa6ef71dcb75ec8eb4864aa37f4e69e47"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Pierre ELKABBACH",
+      "id": "Person_d872486d03cf5cd6bcbe4e78a52cd59b3c23e2d1ca71dbff178bd5aeffd44f1a"
+    },
+    {
+      "type": "Person",
+      "name": "Souleymane BACHIR DIAGNE",
+      "id": "Person_8f136ebd126af9420f098fc9cdcff34f23dd935112e4e944f7f853ba23d2c655"
+    },
+    {
+      "type": "Person",
+      "name": "Madame le secrétaire perpétuel",
+      "id": "Person_65f619e378e884bc25ccf1d2b408de328febc65378e1f2ee8385c42ad487f42b"
+    },
+    {
+      "type": "Theme",
+      "name": "respect",
+      "id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "type": "Theme",
+      "name": "exigence",
+      "id": "Theme_c131dd5143ce13311cd70f33a101ad29fecee96fab2354e08c7026967efd65d1"
+    },
+    {
+      "type": "Theme",
+      "name": "défis",
+      "id": "Theme_5a6aef98f24c26e747d7ee3628cc4cefe7a02e552336681ab6dcd972be5b12a5"
+    },
+    {
+      "type": "Theme",
+      "name": "déchirures",
+      "id": "Theme_b23bc620e4a03b318d6f63cbbb45b0344f8d51021f47e97d870786c0b5b0be01"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "principes",
+      "id": "Theme_97c5aa60bd71c598edaaf76fd6b884a4ae393b0774135332a05c72af7bc82042"
+    },
+    {
+      "type": "Theme",
+      "name": "ouverture",
+      "id": "Theme_d26e5520976d90b087bf131ac2ad0a496e1e510b33f2d5f036ee68ae2c8b562e"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "État de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Theme",
+      "name": "loi",
+      "id": "Theme_aaa751cd5b857da1d5f067b90439cca5af7e59784eb0537f6c5b647db27ec7a1"
+    },
+    {
+      "type": "Theme",
+      "name": "armes",
+      "id": "Theme_6a5e9a7b6875ca5a30f39731b999cd611b0c860319bf0414f3da2a00e8c2e723"
+    },
+    {
+      "type": "Theme",
+      "name": "barreau d'Alger",
+      "id": "Theme_ffbc3ca183665609175f0e0531c9568fd71328e18896adc4c8aeda01d45c66cc"
+    },
+    {
+      "type": "Theme",
+      "name": "Méditerranée",
+      "id": "Theme_5c1c6aabbbbfca70275e0d75df4cfac0908561fd5d54b651fb9166d10e16662e"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalité",
+      "id": "Theme_c6557f034a83ec628847c245a4a083f3472ceb878e620b798e2c4c4daea24f91"
+    },
+    {
+      "type": "Person",
+      "name": "recteur",
+      "id": "Person_45539e8c482f494b3ca3ebe26267646c4d43b7ed7621fe680ca2163b433f46ee"
+    },
+    {
+      "type": "Person",
+      "name": "frère",
+      "id": "Person_8e25f8ac955fb17528f6f57b3b28b94a6f26831c19fa08d7f2f7f16cb181d7c1"
+    },
+    {
+      "type": "Person",
+      "name": "sœur",
+      "id": "Person_60a3784ab1372b7e782306e520e9c7ca76ce9e0b4a29fb30aabca6f9204abe5b"
+    },
+    {
+      "type": "Organization",
+      "name": "barreau d'Alger",
+      "id": "Organization_4a220a46872ed32344b7f960e4ad53624f887ac18b1d8d0ec157972e06790f43"
+    },
+    {
+      "type": "Person",
+      "name": "Sohel",
+      "id": "Person_7edff3c3810e34d277a1b94d6cd29a2f3ca62b2b9a0bf995d4b1d28650cc0e11"
+    },
+    {
+      "type": "Person",
+      "name": "Dalil BOUBAKEUR",
+      "id": "Person_39d1d46fd5b18a057f4fad6f741dac26bd5c0f6c5650848e1e64547601b85ee1"
+    },
+    {
+      "type": "Organization",
+      "name": "Grande Mosquée",
+      "id": "Organization_2d307ad947a16540c34c926bd9ab51cefff9c450c6f94ef1378dad904f8df70b"
+    },
+    {
+      "type": "Person",
+      "name": "Leur",
+      "id": "Person_c0de0f13d042a27de885b696b98ce6e5a86e743ff53f57af0c135c981783b7ca"
+    },
+    {
+      "type": "Theme",
+      "name": "Charte des principes pour l'Islam de France",
+      "id": "Theme_a405be37a1335bc34e408a9497e7bf3e99840c69bc665fe536e7010a52eda2ff"
+    },
+    {
+      "type": "Theme",
+      "name": "le terrorisme islamiste",
+      "id": "Theme_a3f56a47b55a681e1a2c7010a6471633a9ac921c44c975ca4888212145594a78"
+    },
+    {
+      "type": "Theme",
+      "name": "l'ADN même de la religion musulmane",
+      "id": "Theme_fa202909451e044240c94994fdbd5955947dccd0419d79512aa8ac824a409566"
+    },
+    {
+      "type": "Theme",
+      "name": "séparation entre le séculaire et le religieux",
+      "id": "Theme_4960091c8b0fe8827898be52a2c406a14bb308d9ba4cc32b33beea139a0c2364"
+    },
+    {
+      "type": "Person",
+      "name": "Somaya",
+      "id": "Person_422bd497f366a0c804c098e64107a9ee29020bafda93bc2a19c9269a2709d834"
+    },
+    {
+      "type": "Person",
+      "name": "Akram",
+      "id": "Person_81b1b00312f44e4f6c7647ec3d95432559dd17bd623537abaf24030d266903a6"
+    },
+    {
+      "type": "Person",
+      "name": "Maya",
+      "id": "Person_ce7d313dffce41b8fc02ca490199dc94fec33f310d9cb5374f629e107a8a8db9"
+    },
+    {
+      "type": "Person",
+      "name": "Rayan",
+      "id": "Person_e2c75809203fe9c9d3b335b5ed538b815bc1671b6633a890d835cf8712bcccdf"
+    },
+    {
+      "type": "Person",
+      "name": "Miya",
+      "id": "Person_9142cc6ad78fbf7ef5a4de66701a9dcb2737311948ee2e477da3ec6ac35c3f9b"
+    },
+    {
+      "type": "Person",
+      "name": "Mari",
+      "id": "Person_0d2696bcfef2964b65e375175bb5bef1bca835da37615bc9131cb4d07e360355"
+    },
+    {
+      "type": "Person",
+      "name": "Grand-père",
+      "id": "Person_f2511b10d205dd8016442b21868b6e40abd0d4af613f4ac9683307f9d6c6d520"
+    },
+    {
+      "type": "Organization",
+      "name": "Islam sur la chaîne France 2",
+      "id": "Organization_21235768f69270e50ea78bf395c7382d4749ce674be55a7890264306e6c89513"
+    },
+    {
+      "type": "Event",
+      "name": "conférences",
+      "id": "Event_5792e10b858b03c09bd6252e6004c92d7eb19f443facfb9908ff97241a7a9b30"
+    },
+    {
+      "type": "Event",
+      "name": "rencontres architecturales",
+      "id": "Event_db1c655d5e02bac2b42881778084ed8a10a3b522c6f7dac9c9299b866629db7f"
+    },
+    {
+      "type": "Person",
+      "name": "le pape François",
+      "id": "Person_45fde3ef4f8d4432acb6aa796de198fe8859507be97006a9c15da77acade5af8"
+    },
+    {
+      "type": "Country",
+      "name": "Vatican",
+      "id": "Country_feb0023209a428c8e104773b08a7830f99cd4a45315c9116f9e6e80dc438f980"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Person",
+      "name": "Chems-Eddine HAFIZ",
+      "id": "Person_1b5395d27c33013aae90724c24077878934bcbf3f250859c0cf621bcc53f8551"
+    },
+    {
+      "type": "Organization",
+      "name": "Légion d'Honneur",
+      "id": "Organization_44ad18a4ae38c8cbc65dd8aa25fee5261514a1382cad958dfdf8950c9cd05e5e"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "musulmane",
+      "relation": "SUPPORTS",
+      "target": "vie",
+      "evidence": "ils y trouvent un lieu de vie, une sorte de maison de la culture musulmane",
+      "confidence": 1.0,
+      "source_id": "Theme_b9fe0de032f99f6458d841bcdee9559ddf6908d31727f8a389534d4098f6b15c",
+      "target_id": "Theme_fb2d820418e69ffa914d4afff6fb60ce64cc4635ad1e4afdc6bafc1ff3f71248"
+    },
+    {
+      "source": "musulmane",
+      "relation": "SUPPORTS",
+      "target": "culture musulmane",
+      "evidence": "ils y trouvent un lieu de vie, une sorte de maison de la culture musulmane",
+      "confidence": 1.0,
+      "source_id": "Theme_b9fe0de032f99f6458d841bcdee9559ddf6908d31727f8a389534d4098f6b15c",
+      "target_id": "Theme_228df1e10860c559c9e127fd7abbbcce462b1b9f6ace79db2876c341de99b936"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France moderne est construite en partie sur le sacrifice de ces combattants",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "KABTANE",
+      "relation": "MENTIONS",
+      "target": "KABTANE",
+      "evidence": "à l'exemple des mosquées du Rhône et par l'intermédiaire du recteur KABTANE",
+      "confidence": 1.0,
+      "source_id": "Person_0b4f2237d4bd67bb190b096969a4b3fdb39def96a321ba00cfd7679af9e1353b",
+      "target_id": "Person_0b4f2237d4bd67bb190b096969a4b3fdb39def96a321ba00cfd7679af9e1353b"
+    },
+    {
+      "source": "Monsieur le recteur",
+      "relation": "MENTIONS",
+      "target": "Monsieur le recteur",
+      "evidence": "vous-même aussi, Monsieur le recteur",
+      "confidence": 1.0,
+      "source_id": "Person_05ddaec311bcc96be0ae33c8262a0610c085cc3bb6e6e5d09a97fe499ff9f606",
+      "target_id": "Person_05ddaec311bcc96be0ae33c8262a0610c085cc3bb6e6e5d09a97fe499ff9f606"
+    },
+    {
+      "source": "Jean-Pierre CHEVÈNEMENT",
+      "relation": "MENTIONS",
+      "target": "Jean-Pierre CHEVÈNEMENT",
+      "evidence": "ce qui avait été jadis lancé par Jean-Pierre CHEVÈNEMENT",
+      "confidence": 1.0,
+      "source_id": "Person_f0653ddc8672141ee1e1f35cad46b0d7d459ef6038eb4bae71f31d1aabe596f9",
+      "target_id": "Person_f0653ddc8672141ee1e1f35cad46b0d7d459ef6038eb4bae71f31d1aabe596f9"
+    },
+    {
+      "source": "Nicolas SARKOZY",
+      "relation": "MENTIONS",
+      "target": "Nicolas SARKOZY",
+      "evidence": "naguère par Nicolas SARKOZY, ministre de l'Intérieur, puis Président",
+      "confidence": 1.0,
+      "source_id": "Person_2cc0890d53d00df41342ecdfe549156f7ec8193b9b942eb2e2ac3f6e3fed29ce",
+      "target_id": "Person_2cc0890d53d00df41342ecdfe549156f7ec8193b9b942eb2e2ac3f6e3fed29ce"
+    },
+    {
+      "source": "recteur",
+      "relation": "MENTIONS",
+      "target": "recteur",
+      "evidence": "à l'exemple des mosquées du Rhône et par l'intermédiaire du recteur KABTANE",
+      "confidence": 1.0,
+      "source_id": "Person_45539e8c482f494b3ca3ebe26267646c4d43b7ed7621fe680ca2163b433f46ee",
+      "target_id": "Person_45539e8c482f494b3ca3ebe26267646c4d43b7ed7621fe680ca2163b433f46ee"
+    },
+    {
+      "source": "mosquées du Rhône",
+      "relation": "MENTIONS",
+      "target": "mosquées du Rhône",
+      "evidence": "à l'exemple des mosquées du Rhône et par l'intermédiaire du recteur KABTANE",
+      "confidence": 1.0,
+      "source_id": "Organization_7c8c564b2586b0517d3557695938f19e887ebac36895e421175bfbe76e71e448",
+      "target_id": "Organization_7c8c564b2586b0517d3557695938f19e887ebac36895e421175bfbe76e71e448"
+    },
+    {
+      "source": "CFCM",
+      "relation": "MENTIONS",
+      "target": "CFCM",
+      "evidence": "avec entre autres le CFCM",
+      "confidence": 1.0,
+      "source_id": "Organization_bb18462c4b36ea0263a312484cab80a9b72c3521e7a8e4e7148c2fd51b4e6d05",
+      "target_id": "Organization_bb18462c4b36ea0263a312484cab80a9b72c3521e7a8e4e7148c2fd51b4e6d05"
+    },
+    {
+      "source": "République",
+      "relation": "MENTIONS",
+      "target": "liberté de croire ou de ne pas croire",
+      "evidence": "qu'une République, celle de la liberté de croire ou de ne pas croire",
+      "confidence": 1.0,
+      "source_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b",
+      "target_id": "Theme_199aedf172d88225810bbeb3a8a4842b04153a8756be55ebb77c472adfe08834"
+    },
+    {
+      "source": "Hamza BOUBAKEUR",
+      "relation": "PROPOSED",
+      "target": "Fraternité d'Abraham",
+      "evidence": "Hamza BOUBAKEUR a donné un élan décisif en 1967, en participant à la création de la Fraternité d'Abraham",
+      "confidence": 1.0,
+      "source_id": "Person_aca3ece00240ef7eeb893518ac43304491ce32b547aad289c44e90dd1e2bcf6f",
+      "target_id": "Organization_739f8d3160f1efd4951f4e4ce6b09df8b9f9f01cd30e2f494b68a10b3a8424c8"
+    },
+    {
+      "source": "Hamza BOUBAKEUR",
+      "relation": "SUPPORTS",
+      "target": "Fraternité d'Abraham",
+      "evidence": "Hamza BOUBAKEUR a donné un élan décisif en 1967, en participant à la création de la Fraternité d'Abraham",
+      "confidence": 1.0,
+      "source_id": "Person_aca3ece00240ef7eeb893518ac43304491ce32b547aad289c44e90dd1e2bcf6f",
+      "target_id": "Organization_739f8d3160f1efd4951f4e4ce6b09df8b9f9f01cd30e2f494b68a10b3a8424c8"
+    },
+    {
+      "source": "recteur",
+      "relation": "SPOKE_ABOUT",
+      "target": "Islam",
+      "evidence": "de recteur en janvier 2020, vous prônez un Islam ouvert aux autres religions",
+      "confidence": 1.0,
+      "source_id": "Person_45539e8c482f494b3ca3ebe26267646c4d43b7ed7621fe680ca2163b433f46ee",
+      "target_id": "Theme_879a3cfc5efad5941cda162521e02918b759b90b3a493f5fc7fe8acef42c3cc0"
+    },
+    {
+      "source": "recteur",
+      "relation": "SPOKE_ABOUT",
+      "target": "République",
+      "evidence": "de recteur en janvier 2020, vous prônez un Islam ouvert aux autres religions, pleinement inscrit dans la République",
+      "confidence": 1.0,
+      "source_id": "Person_45539e8c482f494b3ca3ebe26267646c4d43b7ed7621fe680ca2163b433f46ee",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    }
+  ]
+}

@@ -1,0 +1,793 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les parlementaires",
+      "id": "Person_513d1485982528e0834eb4f4c38b73da53f9e4817cd30f728fe27e32d9fc11d3"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les présidentes et présidents de régions, départements élus",
+      "id": "Person_76eada7182c8c67b9b7265c3e6bf316099d408ba909a05a564dee74124d32960"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les maires",
+      "id": "Person_6a1c3c85c9463d01e4430b445815ad6c242c7673ae4a72a503b92e0204460edb"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les chefs d'entreprise, collaboratrices et collaborateurs",
+      "id": "Person_a3950de2353166fabe46a20e2f3b8c54ebe45a8ca439c02781912492e87b6cbb"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les membres du jury",
+      "id": "Person_7d5153a5f2438d2792d9a422ed4e2bdc5ee00ff0096ce4e117e56bacf126538a"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les lauréats",
+      "id": "Person_cec3742f6acaf0657fc535951dd595343ca1177f612e4edfdf5f4179e9536bcb"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs vos grades et qualités, chers amis",
+      "id": "Person_89593195e815c18c74f678a74b6d7efae5808e9829e5cac36e7a0f0b5aa0a690"
+    },
+    {
+      "type": "City",
+      "name": "l'Elysée",
+      "id": "City_3eae2ad22a9341b8bf38bfebad3b2e5c05027e88193e4abae8bd3981a710e7e8"
+    },
+    {
+      "type": "City",
+      "name": "Elysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "Organization",
+      "name": "fabriqué en France",
+      "id": "Organization_4391c6bbd9a36f010cf22abc0be884c3dc985212f014490c97f44ff240bbb399"
+    },
+    {
+      "type": "Organization",
+      "name": "produire français",
+      "id": "Organization_3dc58b29e3049d310d1c509817ee32b9cc5301cc275676d358478afec2da9a15"
+    },
+    {
+      "type": "Theme",
+      "name": "produire français",
+      "id": "Theme_608289e512e6a59677307aa21ee3d5d392297326b73226a29e59de3cc97d9dea"
+    },
+    {
+      "type": "Theme",
+      "name": "fabriqué en France",
+      "id": "Theme_44e284456bbd01e7ca448508cd5a2174d809c2a92e98a2c438856e864dde5088"
+    },
+    {
+      "type": "Organization",
+      "name": "WorldSkills",
+      "id": "Organization_6d9559b2f508e60dd11e314169d134f92152a50372767623632e2c55d9d4ca87"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Danemark",
+      "id": "Country_e69e28cfa71a672f3c4d4f769e9cbc72220f20bc192eea020c4483eaecfef07b"
+    },
+    {
+      "type": "City",
+      "name": "Herning",
+      "id": "City_dc412702c9be9423044e67364236c541bf44ae3f2ff49e52446d6b2b2a962749"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre Hermé",
+      "id": "Person_8cd0734bc70131a532d81c7b0ce8c015429e8f3ed892a5ce4743ae98c6af4169"
+    },
+    {
+      "type": "Person",
+      "name": "nos préfets de région",
+      "id": "Person_c99eb8359e996e7fa636690b0bc191ef17652457456feebc12137bcf2fe731d5"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "City",
+      "name": "Shanghai",
+      "id": "City_1c69547961fb5f027655eaa1583e9c736a388752921f6ea9540cf7bc2079ec4e"
+    },
+    {
+      "type": "Organization",
+      "name": "DGE",
+      "id": "Organization_e202bb9276980a6b4d8f0b3775cce552c3458fcc27947b038bf8e53c973787f0"
+    },
+    {
+      "type": "Organization",
+      "name": "Direction des douanes",
+      "id": "Organization_1a64ade4bdec3f740919b8c1601a3b2de4d886d5431a8011414891b617b39479"
+    },
+    {
+      "type": "Organization",
+      "name": "BPI France",
+      "id": "Organization_a02fb5e07e90391cf524f5ea2aa5c5ec5df5bb1df4d2816a353b6ad4b8676c14"
+    },
+    {
+      "type": "Organization",
+      "name": "SGPI",
+      "id": "Organization_5ae8196661db3d87ef850e3c17d33bc289ef57e2423ec3643f4a67f855b2078f"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Organization",
+      "name": "France Relance",
+      "id": "Organization_0b6dbafd2447e94a384c19a603a7e31d1bf2e1add30f766e9c4d1d65c8698903"
+    },
+    {
+      "type": "Organization",
+      "name": "BPI",
+      "id": "Organization_4681aacf523d8e331fa0c7347000191d8d7836dd24aef197813b3c53297ac26a"
+    },
+    {
+      "type": "Organization",
+      "name": "Étincelles",
+      "id": "Organization_3fe8c9e937a5a5c54e9d56ae0fbafb424c7931cf432182668527ec17fc9112a9"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "crise Covid",
+      "id": "Theme_f795ef1333fb420f606311508232d39f9e4e804aec2881d112ecc1755b95f540"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "Augmentation générale et durable des prix",
+      "id": "Theme_5eb116de1d5e16531ecfc3d1ce72deda9884f4175ae830ddb36e0359ccec5368"
+    },
+    {
+      "type": "Organization",
+      "name": "Choose France",
+      "id": "Organization_e829eef291c1bb039ab1232fce6af7ee8375a2434cad240faa7ce375d8c3ba9a"
+    },
+    {
+      "type": "Organization",
+      "name": "Éditions France",
+      "id": "Organization_ed31f75312092eb87415054f921e7467d3ba30922e7e4af06736554fe318247d"
+    },
+    {
+      "type": "Organization",
+      "name": "nos ministres",
+      "id": "Organization_6b25ffad2466977956fb058193ce7776b48299cf5d6a4c9cb56ba244105f9abe"
+    },
+    {
+      "type": "Organization",
+      "name": "nos entreprises françaises",
+      "id": "Organization_19961c5c3b4e8498744cbd81f9f0d441a8b2ddd0ae62470148b8a014e515fffa"
+    },
+    {
+      "type": "Organization",
+      "name": "nos grands groupes",
+      "id": "Organization_2013fc452b23274feb52600a78e992c9f42615ce1be7fe0fa2ef65427fc6fa42"
+    },
+    {
+      "type": "Person",
+      "name": "Mickaël Pantin",
+      "id": "Person_858fdb4658a7b23388f6ac228edbe334654470b9374c465fa544dbe26f9a2e92"
+    },
+    {
+      "type": "Organization",
+      "name": "Palais de l'Elysée",
+      "id": "Organization_48a70c95392fb1ae2fcfd2628d34e01f3256e6b139ec71a20cd5ab08ae3a809f"
+    },
+    {
+      "type": "Organization",
+      "name": "Elysée",
+      "id": "Organization_725b0ae84b2560c5a76cd9b2ac7aeb7c63d091a9d05dd8afa72db0ccb7147c4d"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Country",
+      "name": "zone euro",
+      "id": "Country_bb6d36990a6bef0215c78761fe4ea7cac3c03f5e88219a0aa20efef5c18b6798"
+    },
+    {
+      "type": "Theme",
+      "name": "politique économique",
+      "id": "Theme_29af0f01d347faa50be268cfe02d9b42b30afd63a2013c74258706efaf914389"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Theme",
+      "name": "cohérence",
+      "id": "Theme_9cdf4df616c3da187d7535499acacc37273b3877ccdac29cfd3340742039208c"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité économique",
+      "id": "Theme_c55af89eb0a8ac62d86dca1eb739c9397165547ef539c5e8beae6d2aa8c51166"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "visibilité",
+      "id": "Theme_f59a7fbc64425457d75c34d0bff557a4fa6deb3b2e067b747f711e04c9e5e6db"
+    },
+    {
+      "type": "Theme",
+      "name": "constance dans les politiques publiques",
+      "id": "Theme_740fad3ab727fe5444046bc2b31641157c5a174521463c0adb42dc696e3a662d"
+    },
+    {
+      "type": "Theme",
+      "name": "coût du travail",
+      "id": "Theme_22e28f674378a26d81a95fbe698e2737cb7d69efcdcac0c360d5995ac5c6e2f1"
+    },
+    {
+      "type": "Theme",
+      "name": "flexibilité",
+      "id": "Theme_5dae2131ef8c442bc5656fb452c4aac3c042d864162af323c1d8c77b0af1bc0c"
+    },
+    {
+      "type": "Theme",
+      "name": "coût du capital",
+      "id": "Theme_01ab3985851c9cb20d2c50cd08cd50c188bcd8c7149b5ad9999537a9d9048331"
+    },
+    {
+      "type": "Theme",
+      "name": "désindustrialisation",
+      "id": "Theme_b3dfa7b0ccdf0ab4739fefeb64d85d03955757f5756af9cdbfc25b017f494128"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles usines",
+      "id": "Theme_ae77141c32d5ab0d35eac30733dba5ac7f2e54d20ed0999fc80f800daa76eea9"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois directs dans l'industrie",
+      "id": "Theme_2fc2754ffade925c2f3c7db84a9c2b4e3aaf80f64f44a21785ddd276e6efa45b"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Organization",
+      "name": "Allemagne",
+      "id": "Organization_018c9dfa0083ec0dabf7f5fa4d500a808dc906a97b04b4073ac572e7d605d126"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie verte",
+      "id": "Theme_367aafd3f69f8a17e4ca6810a040266a5b8ccab4374edc31ebf5ab376af94754"
+    },
+    {
+      "type": "Theme",
+      "name": "data centers",
+      "id": "Theme_05b778cf1b6893ac00063d2f9e4395fdbff6a9bce43bfe13a036c189052c05ce"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructures de l'intelligence artificielle",
+      "id": "Theme_e598751db30aee834cc6447ed87dced668f8750f0422518848050ee319f80ad0"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "cimentiers",
+      "id": "Theme_33e176ca9eaa6d0877e727f28d736d9fd6367b74dfd2c497f88cdbb7689496a2"
+    },
+    {
+      "type": "Theme",
+      "name": "aciéries",
+      "id": "Theme_176cdb9d83fab02c5e77910cfc17223686330552948e99ee10727c96766e8df8"
+    },
+    {
+      "type": "Theme",
+      "name": "ports",
+      "id": "Theme_aa3791ffefaf4c4a46f31f52c2973924274ea484a6be7b550737984f37318df3"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "France 2030",
+      "id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d"
+    },
+    {
+      "type": "Law",
+      "name": "directives",
+      "id": "Law_e2f24df9de51f8fafddba595521ec4b6dee76d2238aece2220c1868fc8bd0f7c"
+    },
+    {
+      "type": "Event",
+      "name": "Covid",
+      "id": "Event_976d3b29a3e47de9b9a5f524008070a4569c8787cabbe55290d01e97ab02404f"
+    },
+    {
+      "type": "Event",
+      "name": "prochain budget",
+      "id": "Event_18d8dd36002edb3ac922e340846bd8c25e9f16085e986aabe93f23650c000b47"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie européenne",
+      "id": "Theme_fceb725c3d0436d0cf297393a2991079a57ff7711c9c3bd09a6e48e3b6b8e263"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "véhicule électrique",
+      "id": "Theme_c7e2a9c158517cb146b811451ff12650da8834086b81d5b1db77a664f23bfffc"
+    },
+    {
+      "type": "City",
+      "name": "Hauts-de-France",
+      "id": "City_c06e31908f8e6669695b5bad7aea2c7e7a7ff7c2dd1b6f6a3f93ba7930c5c3ab"
+    },
+    {
+      "type": "City",
+      "name": "Vercors",
+      "id": "City_8c67f3c2dcb99e7ef2ff8d702105337b1e10db3f506e5f4b4176c336e3612902"
+    },
+    {
+      "type": "City",
+      "name": "Chalampé",
+      "id": "City_a640f4570a8e817d2fc98e3cde9b3a01bb35805b09c2401f0fbab9c7663c5d79"
+    },
+    {
+      "type": "City",
+      "name": "Fos-sur-Mer",
+      "id": "City_9287817caffb02f4cb12237f14330ea87bb29766b1fb59f844c519ceb2f8bf13"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Asie du Sud-Est",
+      "id": "Country_6593de5b3ff3194ed88922d619b94585df21cddd79fb913afa7c53110b19e89e"
+    },
+    {
+      "type": "City",
+      "name": "Dunkerque",
+      "id": "City_bda376ce18a11cdf6e31dcf1317332d2be264fba8faae021745f7e792736d7b0"
+    },
+    {
+      "type": "City",
+      "name": "Fos",
+      "id": "City_38bf0a161df15f96abd602dd4c25f1d2cbba4a1096fcb73994ddc280d6e038f9"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanisme carbone aux frontières",
+      "id": "Theme_f696bbfacc99b8892b1a3a32477f35785caccd8cc05533b05364e7f3b8636786"
+    },
+    {
+      "type": "Theme",
+      "name": "taxe sur les petits colis",
+      "id": "Theme_23c5d1c0f687f2a76cb263d484c9e2fa145adc79f664584f8d899f8c2cd0d9e6"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence déloyale",
+      "id": "Theme_6f8aaf83503a1261119bf6adc4b9e04626d7f50d15b570c55e9df4f409b2f3fb"
+    },
+    {
+      "type": "Theme",
+      "name": "règles phytosanitaires",
+      "id": "Theme_763c946dabff2501415330a61e0ad100ae7116ffbc7f53a792c451ef95b89e29"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence européenne",
+      "id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "type": "Theme",
+      "name": "chaînes de valeur",
+      "id": "Theme_bafacdcc9e71ad9e9566e80db00188c213d97fe2d4af86ce4cbbd4b9458e8c4b"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendances",
+      "id": "Theme_14de542cd66252bc7dd38d12cbadc101d38c3b269a47ae1437ae7786869af7a7"
+    },
+    {
+      "type": "Theme",
+      "name": "marchés finaux",
+      "id": "Theme_2e5ffe38420d27f38ad19bc79035cf1c6c251c885093f3464092ae4de529d733"
+    },
+    {
+      "type": "Organization",
+      "name": "constructeurs automobiles",
+      "id": "Organization_f321c029de43e54d1e78dab73deb60e21f87f890c3fe91a5088e15275a15cea9"
+    },
+    {
+      "type": "Organization",
+      "name": "PME",
+      "id": "Organization_0acc90fd83b5f34eca1d95b6132906e873cb62c3c1450bdfd28204a0afdd60a0"
+    },
+    {
+      "type": "Organization",
+      "name": "ETI",
+      "id": "Organization_2b106cbb4089f56375cf1ffd335c86c87f6ea1a6cc4479d319688561795fdcaa"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil national de l'industrie",
+      "id": "Organization_933cfaae094c1007fda430544bef2b14d8da34bdcb9043e9f1187f9443f0cc78"
+    },
+    {
+      "type": "Organization",
+      "name": "comités stratégiques de filière",
+      "id": "Organization_92d014b31ffc59cbe1d66b2ac3fad066df1bd03c2d1dc26047333ba105f20541"
+    },
+    {
+      "type": "Organization",
+      "name": "M. le ministre",
+      "id": "Organization_35f29f2aef1e1762f4582f0d91948125b4c999568834eb1e88d32da0f7ea9c90"
+    },
+    {
+      "type": "City",
+      "name": "des villes moyennes",
+      "id": "City_efdf67eaf3317e818485285df242ecb1b5f1df25853cd8714451ad6ae916e297"
+    },
+    {
+      "type": "City",
+      "name": "des petites villes",
+      "id": "City_90ff763acc50a3cce8d946dc66b30803103d698ee536df2795eae5f243edb22b"
+    },
+    {
+      "type": "City",
+      "name": "des villes sous-préfecture",
+      "id": "City_fa1ddbc310f3b4414a46d34ceb1e18aed345479b253b2aa2825abf91ac05ab1e"
+    },
+    {
+      "type": "Theme",
+      "name": "talents",
+      "id": "Theme_3b7a6c56442c49486f7601fa3bced61cced2f4aadaf5f134fda32ff8e738503d"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence internationale",
+      "id": "Theme_f7fa47ac0f7e4e6f4281a28d7b7c2b3dab074bdac853db172aceca9c23be4076"
+    },
+    {
+      "type": "Theme",
+      "name": "cadre économique",
+      "id": "Theme_28868716fd38262ffc21e1f0db421dd3ad293011deb380eb5c078ec3b8b4af54"
+    },
+    {
+      "type": "Theme",
+      "name": "incertitudes",
+      "id": "Theme_7345d6e44c9c9f1774bd13310b21c15bb20ded8b012968b0492ee6c2222dd911"
+    },
+    {
+      "type": "Theme",
+      "name": "bataille pour les talents",
+      "id": "Theme_22163b26aa0a61ade35ca512f4aefff36cb416cb6b6df93e1b50ab9cda62111b"
+    },
+    {
+      "type": "Theme",
+      "name": "fabriquer en France",
+      "id": "Theme_f3f91003d87f3f3f97267f0f5ce25c2b42ec202bd61d32e84856bf0e648765f0"
+    },
+    {
+      "type": "Theme",
+      "name": "label",
+      "id": "Theme_4c9ab528cdd458db722881415f4ce3135983938558da79be87ea099828af64b5"
+    },
+    {
+      "type": "Theme",
+      "name": "gage de qualité",
+      "id": "Theme_b039b6b55537b0ff4a9250a51080133460f3aed4666f5542d4133f57900e0158"
+    },
+    {
+      "type": "Theme",
+      "name": "France du mérite",
+      "id": "Theme_e31d475897f4d8058aaca3ed0d1583400e0dd927623043ca026a45f8d9c73381"
+    },
+    {
+      "type": "Theme",
+      "name": "France du travail",
+      "id": "Theme_4e8ace8b3f90d5fc22b2ab204c08038ba3503b820b7952feea2f9fe0a3bffe6b"
+    },
+    {
+      "type": "Theme",
+      "name": "dispositifs de France travail",
+      "id": "Theme_1823631dd9b71539e13b2195b5fc568344104cfd2105399d77bb87a4dc4ee96a"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale",
+      "id": "Organization_8f8e5049d1c21e2291ca3d39865c23e9d20927413f7abca05a47b2572d99f6e2"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "bataille sur nos lycées professionnels",
+      "id": "Theme_f55ca5edff1f11bfe363c6f15acccec16e81836d853ed843b4d7cdf2028cc399"
+    },
+    {
+      "type": "Theme",
+      "name": "carte des compétences",
+      "id": "Theme_5fd682f348f8c0a251c50c65914c77ce47fbf1eaadcd8888a4ff4458afc72474"
+    },
+    {
+      "type": "Theme",
+      "name": "formations",
+      "id": "Theme_69f287e343dbccf01ac37a421d37dbda3bc03cd334ec5affea272b0f4f64ea7b"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelable",
+      "id": "Theme_d0beb8d3065f33b4c348175dce1aba64c98ce89f1a5876f75f351c8752b2dd50"
+    },
+    {
+      "type": "Theme",
+      "name": "politique éducative",
+      "id": "Theme_ace91657116bf8b22d44865a4f7d29d5f91b5aa2ddaf5c0cc772293cd80a627e"
+    },
+    {
+      "type": "Theme",
+      "name": "protection",
+      "id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Marseille",
+      "evidence": "France qui s'est tenue à Marseille en octobre",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "DGE",
+      "evidence": "les institutionnels et partenaires de l'écosystème PME, incluant la DGE, la Direction des douanes, BPI France, le SGPI et bien d'autres",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Organization_e202bb9276980a6b4d8f0b3775cce552c3458fcc27947b038bf8e53c973787f0"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Direction des douanes",
+      "evidence": "les institutionnels et partenaires de l'écosystème PME, incluant la DGE, la Direction des douanes, BPI France, le SGPI et bien d'autres",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Organization_1a64ade4bdec3f740919b8c1601a3b2de4d886d5431a8011414891b617b39479"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "BPI France",
+      "evidence": "les institutionnels et partenaires de l'écosystème PME, incluant la DGE, la Direction des douanes, BPI France, le SGPI et bien d'autres",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Organization_a02fb5e07e90391cf524f5ea2aa5c5ec5df5bb1df4d2816a353b6ad4b8676c14"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "SGPI",
+      "evidence": "les institutionnels et partenaires de l'écosystème PME, incluant la DGE, la Direction des douanes, BPI France, le SGPI et bien d'autres",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Organization_5ae8196661db3d87ef850e3c17d33bc289ef57e2423ec3643f4a67f855b2078f"
+    },
+    {
+      "source": "Choose France",
+      "relation": "ALLIED_WITH",
+      "target": "Éditions France",
+      "evidence": "avec Choose France, Éditions France",
+      "confidence": 1.0,
+      "source_id": "Organization_e829eef291c1bb039ab1232fce6af7ee8375a2434cad240faa7ce375d8c3ba9a",
+      "target_id": "Organization_ed31f75312092eb87415054f921e7467d3ba30922e7e4af06736554fe318247d"
+    },
+    {
+      "source": "nos ministres",
+      "relation": "MEMBER_OF",
+      "target": "Choose France",
+      "evidence": "avec nos ministres, avec Choose France",
+      "confidence": 1.0,
+      "source_id": "Organization_6b25ffad2466977956fb058193ce7776b48299cf5d6a4c9cb56ba244105f9abe",
+      "target_id": "Organization_e829eef291c1bb039ab1232fce6af7ee8375a2434cad240faa7ce375d8c3ba9a"
+    },
+    {
+      "source": "directives",
+      "relation": "SPOKE_ABOUT",
+      "target": "simplification",
+      "evidence": "Sur les directives qui étaient les plus contestées et qui ralentissaient, on doit continuer absolument ce travail. Simplification et innovation,",
+      "confidence": 1.0,
+      "source_id": "Law_e2f24df9de51f8fafddba595521ec4b6dee76d2238aece2220c1868fc8bd0f7c",
+      "target_id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "source": "souveraineté",
+      "relation": "MENTIONS",
+      "target": "souveraineté",
+      "evidence": "Ces dernières années, nous avons beaucoup relocalisé. Et vous m'entendez parler depuis huit ans de souveraineté, d'autonomie européenne, de souveraineté européenne.",
+      "confidence": 1.0,
+      "source_id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b",
+      "target_id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "source": "souveraineté",
+      "relation": "MENTIONS",
+      "target": "autonomie européenne",
+      "evidence": "Ces dernières années, nous avons beaucoup relocalisé. Et vous m'entendez parler depuis huit ans de souveraineté, d'autonomie européenne, de souveraineté européenne.",
+      "confidence": 1.0,
+      "source_id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b",
+      "target_id": "Theme_fceb725c3d0436d0cf297393a2991079a57ff7711c9c3bd09a6e48e3b6b8e263"
+    },
+    {
+      "source": "souveraineté",
+      "relation": "MENTIONS",
+      "target": "souveraineté européenne",
+      "evidence": "Ces dernières années, nous avons beaucoup relocalisé. Et vous m'entendez parler depuis huit ans de souveraineté, d'autonomie européenne, de souveraineté européenne.",
+      "confidence": 1.0,
+      "source_id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b",
+      "target_id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "source": "compétitivité",
+      "relation": "MENTIONS",
+      "target": "compétitivité",
+      "evidence": "Ensuite, deuxième élément à côté de la compétitivité, il y a la souveraineté.",
+      "confidence": 1.0,
+      "source_id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5",
+      "target_id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "source": "véhicule électrique",
+      "relation": "MENTIONS",
+      "target": "véhicule électrique",
+      "evidence": "Moi, je me souviens, dans cette salle, il y a sept ans et demi, je disais qu'on doit aller plus vite sur le véhicule électrique.",
+      "confidence": 1.0,
+      "source_id": "Theme_c7e2a9c158517cb146b811451ff12650da8834086b81d5b1db77a664f23bfffc",
+      "target_id": "Theme_c7e2a9c158517cb146b811451ff12650da8834086b81d5b1db77a664f23bfffc"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Saint-Barthélemy",
+      "id": "City_db466d5e3160e7b65440a38e3ff094a1c9e85ad78a6130fbfc07a18d4bb62751"
+    },
+    {
+      "type": "City",
+      "name": "Guadeloupe",
+      "id": "City_31dc7614597a9b1a20af10480699c293505cd808e95212580670b8b5ad49dea5"
+    },
+    {
+      "type": "Organization",
+      "name": "La Croix rouge",
+      "id": "Organization_ef99eb18be1db930389f7c0038e43d77cf60ef51e5c59e6cda58c5bdcb73d4bb"
+    },
+    {
+      "type": "Organization",
+      "name": "communauté ZEvent",
+      "id": "Organization_9b0fb35ed8fef943355c4063ca14c9e6fdbcccc46e29dbac846ef04da711cc0f"
+    },
+    {
+      "type": "Country",
+      "name": "Antilles",
+      "id": "Country_7578e560ac075e11ee48703f3a038218af72c1f5ce3233ad5a069a59f4fe47f0"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Martin",
+      "id": "City_bf279675277b85a1d038861ac98b8b0a9f6f40dfebd678fd910dfb68248309b9"
+    },
+    {
+      "type": "City",
+      "name": "Guyane",
+      "id": "City_214e958a910168a0c70fe7c025f359f9d6fa07e07914ddb157b36fd05d706ed1"
+    },
+    {
+      "type": "City",
+      "name": "Martinique",
+      "id": "City_e722b3719750b15524a6440d0eb57a596985cde19dd59e12cad730325aa3b4b6"
+    },
+    {
+      "type": "City",
+      "name": "hexagone",
+      "id": "City_4422ab99962aff5592f6583c4b4d3d1e9a6f0c8fd17d325c48dba4205e51f2c4"
+    },
+    {
+      "type": "Theme",
+      "name": "force",
+      "id": "Theme_692ec114325b782d4c086becfab4bd9bf5c9449c59ddd4c7e36828f9035301a5"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilisation",
+      "id": "Theme_0eab3e350d3777625fe2debe6b8f064adc4c51e5eed0b4c88551e272e7c84470"
+    },
+    {
+      "type": "Theme",
+      "name": "défis",
+      "id": "Theme_5a6aef98f24c26e747d7ee3628cc4cefe7a02e552336681ab6dcd972be5b12a5"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Antilles",
+      "id": "City_e5bf4545ed45774c0c3f23ddc5c82d372bd391973d5a7361a2921e17ad411050"
+    },
+    {
+      "type": "City",
+      "name": "Outre-mer",
+      "id": "City_121f5dd683084ed11b0b0afc40ab9b11e807e5f548606d1633c672145ee5660f"
+    },
+    {
+      "type": "City",
+      "name": "Saint- Martin",
+      "id": "City_1e5b1bc6731e21ccb78aff9acbf0afe80480e01e271248b2affb2dcdbd1e1461"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "La Croix rouge",
+      "relation": "ALLIED_WITH",
+      "target": "communauté ZEvent",
+      "evidence": "Je me souviens notamment de la mobilisation exceptionnelle de la communauté ZEvent avec la Croix rouge pour soutenir les populations sinistrées.",
+      "confidence": 1.0,
+      "source_id": "Organization_ef99eb18be1db930389f7c0038e43d77cf60ef51e5c59e6cda58c5bdcb73d4bb",
+      "target_id": "Organization_9b0fb35ed8fef943355c4063ca14c9e6fdbcccc46e29dbac846ef04da711cc0f"
+    }
+  ]
+}

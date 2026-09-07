@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Ulf Kristersson",
+      "id": "Person_dc65696a411c280cbf5997a5972219c5fbee43b19b0a9d4d91c46c93fb78cf9d"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume de Suède",
+      "id": "Country_791537873004f5826fbb280830ff7c8c089169c6e6eec737f5e1b0dedf1da859"
+    },
+    {
+      "type": "Country",
+      "name": "Tchèque",
+      "id": "Country_cc8291be1c2fb6dc9531333ad37de62911fb155ab361f7bf8a323577595ac93a"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Finlande",
+      "id": "Country_07de2e54c1d716feb24d42a643c5de89dc1f04a79da8dcb0fd46d71f88bd7006"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de l'Union européenne",
+      "id": "Organization_0f747165c9521ca8f0bd2bc016ae4f2fc3c2e5412c2fd372afe073d26a89b3c4"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Person",
+      "name": "Présidence de la République",
+      "id": "Person_549ea05a3f084866fbbd2f308feee88ec2e53b387ac0620c111e6dbc376c5ce9"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Ulf Kristersson",
+      "relation": "LOCATED_IN",
+      "target": "Royaume de Suède",
+      "evidence": "Le Président de la République Emmanuel Macron s'est entretenu avec le Premier ministre du Royaume de Suède, Ulf Kristersson, à l'occasion d'un déjeuner de travail au Palais de l'Élysée.",
+      "confidence": 1.0,
+      "source_id": "Person_dc65696a411c280cbf5997a5972219c5fbee43b19b0a9d4d91c46c93fb78cf9d",
+      "target_id": "Country_791537873004f5826fbb280830ff7c8c089169c6e6eec737f5e1b0dedf1da859"
+    },
+    {
+      "source": "Emmanuel Macron",
+      "relation": "VISITED",
+      "target": "Royaume de Suède",
+      "evidence": "Le Président de la République Emmanuel Macron s'est entretenu avec le Premier ministre du Royaume de Suède, Ulf Kristersson, à l'occasion d'un déjeuner de travail au Palais de l'Élysée.",
+      "confidence": 1.0,
+      "source_id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b",
+      "target_id": "Country_791537873004f5826fbb280830ff7c8c089169c6e6eec737f5e1b0dedf1da859"
+    }
+  ]
+}

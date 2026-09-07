@@ -1,0 +1,138 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Méditerranée orientale",
+      "id": "Country_189462dad222c64321928401de63db9d51e41fa95acff447937a14111bff8d8d"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Country",
+      "name": "Chypre",
+      "id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Proche-Orient",
+      "id": "Country_ea96081c3dc607260da7be0bce2be5c4e658fe0319110fa930660594f5cfce74"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Person",
+      "name": "Níkos Christodoulides",
+      "id": "Person_cc8319b77d1df6e595ed4247c26095e75e82d647fd8298d9c128f833f4a3aa4b"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de l'Union européenne",
+      "id": "Organization_0f747165c9521ca8f0bd2bc016ae4f2fc3c2e5412c2fd372afe073d26a89b3c4"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur Erhürman",
+      "id": "Person_e03dfbd1f96d5aad602d53bb658aae81771d48f7bfe0e966da66060f2259cf0c"
+    },
+    {
+      "type": "Person",
+      "name": "Madame Holguín",
+      "id": "Person_6999ab522fc6ff283de82e0b2c7ac730f09578172e60192ad4cff7f7c6a2593a"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Níkos",
+      "id": "Person_79a2d0489f6ccb393971c0ae20f2db1926143a2ed1a55fbbd5203a17e4418717"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Chypre",
+      "evidence": "Chypre et la France avaient adopté un agenda stratégique pour enrichir notre dialogue politique et appuyer l'ensemble de nos coopérations.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "source": "Níkos Christodoulides",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Je suis très heureux d'accueillir aujourd'hui à Paris, le Président de la République de Chypre, Níkos Christodoulides",
+      "confidence": 1.0,
+      "source_id": "Person_cc8319b77d1df6e595ed4247c26095e75e82d647fd8298d9c128f833f4a3aa4b",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Nations unies",
+      "evidence": "Je veux ici aussi redire, en vous recevant, en signant ce partenariat stratégique, combien la France soutient les efforts de médiation des Nations unies pour un règlement juste, global et durable de la question chypriote, conforme aux paramètres agréés aux Nations unies et compatible avec l'acquis communautaire, afin que tous les Chypriotes puissent vivre ensemble sur une île réunifiée.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Outre-Mer",
+      "id": "City_121f5dd683084ed11b0b0afc40ab9b11e807e5f548606d1633c672145ee5660f"
+    },
+    {
+      "type": "Person",
+      "name": "chers amis",
+      "id": "Person_ea6752ea13b7e38cb244013342b4e04afa9dd5dcbf74d7e84b37acdece219eb9"
+    },
+    {
+      "type": "Person",
+      "name": "chers compatriotes",
+      "id": "Person_8bd9ba6f3b51575e5b18dfc1b9f1c9d0be768d081d80b48e4bd0e019cfe5f9ad"
+    },
+    {
+      "type": "Organization",
+      "name": "République",
+      "id": "Organization_0eac6305aac01bf684a6d57836831f1443587a4616a4d6b56b3d3c1e778ca152"
+    },
+    {
+      "type": "Person",
+      "name": "EMMANUEL MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Madame le Pen",
+      "id": "Person_a058c67b454f33e629721d932726371ba06b75a0d91e7f3af16958906a8290ab"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe plus forte",
+      "id": "Theme_204fa8e69deed08710d55ec06f62aece9acab2b48140dcc9b29a75c3d0d4e00c"
+    },
+    {
+      "type": "Theme",
+      "name": "créativité",
+      "id": "Theme_550d4dc699a796ca3be62727957df316896d3858817d9e91c8d89c6f5b2da032"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Person",
+      "name": "Mes chers compatriotes",
+      "id": "Person_b6b29c7b55b71aae52b700aaa89778c04669d873e35a8a1d54782abede5f747b"
+    },
+    {
+      "type": "Person",
+      "name": "Mes chers amis",
+      "id": "Person_928addbcc526072ee197e54d32f7216fd858e7a76df582007df6b673d997757e"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "bienveillance",
+      "id": "Theme_7f32cfe6f55d6c8858691533f46de8c408e4cd45a80054345810998d77c492aa"
+    },
+    {
+      "type": "Theme",
+      "name": "république",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Person",
+      "name": "j'aime si profondément, si intensément, et que je suis si fier de servir à nouveau.",
+      "id": "Person_901c76486be1903e232b6d4474852f1021160e1156aeb9ae3c80eb40dd631720"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "république",
+      "evidence": "Vive la République ! Et vive la France !",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    }
+  ]
+}

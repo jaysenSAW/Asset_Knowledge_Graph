@@ -1,0 +1,449 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Theme",
+      "name": "question énergétique",
+      "id": "Theme_6b17778ffc341250b82e540ed23107d5a66c04ffd7c0c60391f6447541293a03"
+    },
+    {
+      "type": "Theme",
+      "name": "retour accélérée",
+      "id": "Theme_54aae3f62015c90f197d972a5b6f3c84564f10f56aa08b11e5a64f96c14d0767"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "Augmentation générale et durable des prix",
+      "id": "Theme_5eb116de1d5e16531ecfc3d1ce72deda9884f4175ae830ddb36e0359ccec5368"
+    },
+    {
+      "type": "Theme",
+      "name": "normalisation de la politique monétaire",
+      "id": "Theme_503b34ec07555fae2dcd2fd4c3306df3650913aebc49ed66554732b987fab09d"
+    },
+    {
+      "type": "Theme",
+      "name": "premiers signes de ralentissement économique",
+      "id": "Theme_79f1f5aa4e5e25b317d2b4cf9822cb87815a4eee25f188f558ba165c51f91d77"
+    },
+    {
+      "type": "Theme",
+      "name": "sujet que nous sommes en train de vivre",
+      "id": "Theme_a9dcb7729187114e7187cba40d38854c39022228f001c820617c7c6b568a915c"
+    },
+    {
+      "type": "Theme",
+      "name": "Union",
+      "id": "Theme_dff137f3d672747b8fe186a3b160ca368ea9a4a12f63bf57b4170d4fa5e7f401"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Country",
+      "name": "Macédoine du Nord",
+      "id": "Country_fb91200a1161735dd6d2574283f5a04cb7ff72db34387badb2946664d52f0583"
+    },
+    {
+      "type": "Country",
+      "name": "Albanie",
+      "id": "Country_7933b01c103ab008a5a551143eb5ed6e123541a3cac366f8229076928099e05d"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Michel",
+      "id": "Person_ac9938878c7e5cc0d539c8f51b48c646dc89fa8148a7eea629e93eb5c96981a1"
+    },
+    {
+      "type": "Theme",
+      "name": "communauté politique européenne",
+      "id": "Theme_228aa2e1c7e167168b4c6c53c6978db4345a393ed3d2bac1b9a84297703407e8"
+    },
+    {
+      "type": "Theme",
+      "name": "élargissement",
+      "id": "Theme_953dc805c0c4873717f8fadb180057193b349e4b52fa049b29e8228c6f40b8e4"
+    },
+    {
+      "type": "Theme",
+      "name": "cadre politique en Européens",
+      "id": "Theme_d0d1d3f6cd84b3a84bfd71b244c40b0f7507218a244b96555718677a71177506"
+    },
+    {
+      "type": "Theme",
+      "name": "relation entre Européens",
+      "id": "Theme_4b94ee906c10e1cac599ff50e29ea1dc2d6f5a4775e3c11d54c14ba6908b1426"
+    },
+    {
+      "type": "Theme",
+      "name": "partenaires",
+      "id": "Theme_4fbc1a8aa80faeb31aadf80c3c8981c699d756065dc09be404605fa87653d4ea"
+    },
+    {
+      "type": "Theme",
+      "name": "sujets de défense et de sécurité",
+      "id": "Theme_5d5faf59cccd11e44ca9ee3bc60de4ea41d85f2c8fa817d6e613d224ef57769d"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructures",
+      "id": "Theme_d711aaaa56cea790c01e9aeb41b7659ac488b2a837642df3eed8eeb83ff64968"
+    },
+    {
+      "type": "Theme",
+      "name": "crises sanitaires",
+      "id": "Theme_14f07ed9f69e8680451882a1fb13734ec770e953e8e56f31748dd94fe929b9f3"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité économique",
+      "id": "Theme_0379c3114e8b61ee68e99a00492e847ad6bc06b7d4a5ea06a8bc444b8bfafb9e"
+    },
+    {
+      "type": "Country",
+      "name": "République tchèque",
+      "id": "Country_2e7a14521252abe0a9b1733875decc4030783e81c0e82ffb03195df0627b4297"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre bulgare",
+      "id": "Person_8dbedb4acc73682c27654b0365c514d9e2f02e9820d203051d4ea634f072c7d9"
+    },
+    {
+      "type": "Person",
+      "name": "Mme la Présidente Von der Leyen",
+      "id": "Person_6db6d071d9ac0eac65f3f15ed77958c0d8ad35bb878fc41a9f70d49143188a8c"
+    },
+    {
+      "type": "Person",
+      "name": "Président Michel",
+      "id": "Person_7685b70a813b6fb61117212b8e9ecca2ea9222d8762cb2aed62a10cca94e3ec7"
+    },
+    {
+      "type": "Organization",
+      "name": "Les institutions unies",
+      "id": "Organization_cc0a449eabbda2ff9628e3745801fda47c072aa60fbf4f8b3f275623aab15e72"
+    },
+    {
+      "type": "Theme",
+      "name": "humilité",
+      "id": "Theme_1f533297e3d3c61ce159bbf9cbd3fe9dcc2068121ee47dca573ec1423280f2dd"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien macroéconomique",
+      "id": "Theme_cc731b6b381af2f6481f4c4bc6cb1edbeef97a7a56797afc842805b6178a3c62"
+    },
+    {
+      "type": "Country",
+      "name": "Pologne",
+      "id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "Country",
+      "name": "Hongrie",
+      "id": "Country_bda46faa77361ae198107f51212ef1953770a2e61d32ec39881204c04aa0bda3"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Moldavie",
+      "id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    },
+    {
+      "type": "Country",
+      "name": "Géorgie",
+      "id": "Country_a38e53f25dc17ba56e34f25dac0bd1320cab5e1847a90b817b7fc11f35777b75"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "déforestation",
+      "id": "Theme_b0021b43ded23b2328b09c00f17051c7c9fc076afb903b4c82485a9bca21e8a8"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe sociale",
+      "id": "Theme_a41560178220563d0e865dfa661d423cfa8cb1bed0db3513bde7b04c1df38611"
+    },
+    {
+      "type": "Theme",
+      "name": "salaires minimaux",
+      "id": "Theme_bbd620a1529e05cbe714894cb06263e489f9f6cd46ef14b243801f337d1e1c64"
+    },
+    {
+      "type": "Theme",
+      "name": "travail détaché",
+      "id": "Theme_9c3190d5fbfa16e0eca20e42c2467489b00f6bf31f79855f3c0d5296139210fb"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité entre les femmes et les hommes dans les conseils d'administration des entreprises",
+      "id": "Theme_94ec63877713b2034dd66d941a586db43944353c7bfd60eccaae2798ce187c3d"
+    },
+    {
+      "type": "Law",
+      "name": "les deux lois européennes des marchés et des services numériques",
+      "id": "Law_54bb0a0dbc7d30c5fec6482607c587759b9d9c081efe0a2dc8ed5c7ecd5be021"
+    },
+    {
+      "type": "Law",
+      "name": "un règlement général pour protéger les données individuelles",
+      "id": "Law_49b1f642175be717b7d0dfd1e8a12de8234c509d364fc676256500abf82db3e7"
+    },
+    {
+      "type": "Law",
+      "name": "proposition de la Commission",
+      "id": "Law_0deb691cc5510a17ece83a3fee627ee0bffd2d11f6272a65abecbb79922e7e38"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "politique européenne d'asile et migration",
+      "id": "Theme_e2f64f09adcb501833fa5b68f80dbe90e8b0a7adb820315c4169c30663196288"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté énergétique",
+      "id": "Theme_29ddd5b819c0e29a592ce29a3a3806309c1234137a4e94a8f653f8b273860b3a"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté économique",
+      "id": "Theme_2ca9d52b00425147d34a1d428fbc4e77f12e70f8df0a220dc435f78dae32060b"
+    },
+    {
+      "type": "City",
+      "name": "Versailles",
+      "id": "City_005c3dd556787a48d85e917c1629f8b41dea2f726d89283e42c5cd7448b7c82a"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Union africaine",
+      "id": "Country_b01664d9ea209fa9abca874f9945970ecabfe5ccf7330dc0ed2f868bc1f51684"
+    },
+    {
+      "type": "Organization",
+      "name": "Conférence sur l'avenir de l'Europe",
+      "id": "Organization_f07105c0834b7e4cf5f5b31bcef38ac494ad930627f20c4f6bffc686b1daa504"
+    },
+    {
+      "type": "City",
+      "name": "Bruxelles",
+      "id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Matignon",
+      "id": "City_8fb783c3a75e3e0c34cb77d91d159ff07f05796f650ed59a0bda601522e2c801"
+    },
+    {
+      "type": "City",
+      "name": "Elysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "Organization",
+      "name": "notre représentation permanente",
+      "id": "Organization_f62c992877113d8751e3922204be45371cbfbe8ffffbabd7eeb4839147c3b5b3"
+    },
+    {
+      "type": "Organization",
+      "name": "l'ensemble des équipes",
+      "id": "Organization_399cdfb4e22c4ffeb4b01b6891b6f3528ec575e2dd87304118bc6b55ed283681"
+    },
+    {
+      "type": "Person",
+      "name": "Petr Fiala",
+      "id": "Person_2141cfd7ed0ca030866b3c0c2a5bff6086e108a998c3559e38b49dbcf5de1ce8"
+    },
+    {
+      "type": "Person",
+      "name": "Charles",
+      "id": "Person_3613e689bc0927513e7606f7e724c8ae0303e9df2f07360796de29b42593d942"
+    },
+    {
+      "type": "Person",
+      "name": "Ursula",
+      "id": "Person_ebace139959d456d6cea4aaafbd82885b7f7982c56fa2d83668550fc0ce05780"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Conseil",
+      "relation": "SPOKE_ABOUT",
+      "target": "question énergétique",
+      "evidence": "Beaucoup de choses ont été dites. Je ne reviendrai pas sur les débats de ce matin qui se sont tenus ; les conclusions sont claires et je crois que le président du Conseil et la présidente de la Commission ont bien retracé la nature de ces débats visant à apporter une réponse encore accélérée sur la question énergétique",
+      "confidence": 1.0,
+      "source_id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed",
+      "target_id": "Theme_6b17778ffc341250b82e540ed23107d5a66c04ffd7c0c60391f6447541293a03"
+    },
+    {
+      "source": "Commission",
+      "relation": "SPOKE_ABOUT",
+      "target": "question énergétique",
+      "evidence": "Beaucoup de choses ont été dites. Je ne reviendrai pas sur les débats de ce matin qui se sont tenus ; les conclusions sont claires et je crois que le président du Conseil et la présidente de la Commission ont bien retracé la nature de ces débats visant à apporter une réponse encore accélérée sur la question énergétique",
+      "confidence": 1.0,
+      "source_id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b",
+      "target_id": "Theme_6b17778ffc341250b82e540ed23107d5a66c04ffd7c0c60391f6447541293a03"
+    },
+    {
+      "source": "République tchèque",
+      "relation": "LOCATED_IN",
+      "target": "République tchèque",
+      "evidence": "la première réunion se tiendrait en République tchèque",
+      "confidence": 1.0,
+      "source_id": "Country_2e7a14521252abe0a9b1733875decc4030783e81c0e82ffb03195df0627b4297",
+      "target_id": "Country_2e7a14521252abe0a9b1733875decc4030783e81c0e82ffb03195df0627b4297"
+    },
+    {
+      "source": "Conseil",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "la mise en place d'une taxe carbone aux frontières de l'Europe au Conseil",
+      "confidence": 1.0,
+      "source_id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Conseil",
+      "relation": "SPOKE_ABOUT",
+      "target": "réchauffement climatique",
+      "evidence": "la mise en place, sur le plan de la lutte contre le réchauffement climatique, de plusieurs éléments au Conseil",
+      "confidence": 1.0,
+      "source_id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed",
+      "target_id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "source": "Commission",
+      "relation": "PROPOSED",
+      "target": "proposition de la Commission",
+      "evidence": "je soutiens avec force la proposition de la Commission",
+      "confidence": 1.0,
+      "source_id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b",
+      "target_id": "Law_0deb691cc5510a17ece83a3fee627ee0bffd2d11f6272a65abecbb79922e7e38"
+    },
+    {
+      "source": "Union africaine",
+      "relation": "LOCATED_IN",
+      "target": "Afrique",
+      "evidence": "le partenariat avec l'Afrique a aussi structuré ces six derniers mois et le sommet que nous avons tenu avec l'Union africaine en février",
+      "confidence": 1.0,
+      "source_id": "Country_b01664d9ea209fa9abca874f9945970ecabfe5ccf7330dc0ed2f868bc1f51684",
+      "target_id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    }
+  ]
+}

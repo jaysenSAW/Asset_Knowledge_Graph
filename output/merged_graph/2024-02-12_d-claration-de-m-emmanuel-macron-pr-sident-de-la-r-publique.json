@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "City",
+      "name": "Kiev",
+      "id": "City_3a24ad0eca3d75099401ab5d6c0c64d5783ac0ba23b6fb1b4f257d3e923cb404"
+    },
+    {
+      "type": "Person",
+      "name": "Donald",
+      "id": "Person_685ed33d56cef655070350aedeecf9bcd80bae66ae445ce15176e9969573d931"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Pologne",
+      "id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Organization",
+      "name": "Union",
+      "id": "Organization_c5e6111e2f8f6f0562a02b73ac74432a5ad7b8c26582b37eb43d1209716aa442"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération opérationnelle",
+      "id": "Theme_01354fc3076ad2de57e915350d53e424e0f3beb44ce4935730e2507a2513f705"
+    },
+    {
+      "type": "Theme",
+      "name": "base industrielle et de défense européenne",
+      "id": "Theme_e8c3da3f4c3173f510669d060ba726316f97f1ad5c5f81a5bb6c0e2da9b0709b"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités de production",
+      "id": "Theme_de724b2c31c86e012eba064cfcdeeb4e3ad70186c01d891e5d7374d68b497210"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance de sécurité et de défense",
+      "id": "Theme_b7ba03654a7672b18708dac2ec3e5359fe5054299d5397c114253ddac332a826"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliance européenne du nucléaire",
+      "id": "Organization_e13ad0ac3091564e02c5e45eef957d7a4a150461c7d9fb95f4e476ebb1e4c48e"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Pologne",
+      "evidence": "La France et la Pologne s'apprêtent à ouvrir un nouveau chapitre de leurs relations",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "sécurité",
+      "evidence": "La question de la sécurité et de la défense en Europe, évidemment, est liée à la guerre en Ukraine et nos deux pays ont un rôle éminent à y jouer.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "défense",
+      "evidence": "La question de la sécurité et de la défense en Europe, évidemment, est liée à la guerre en Ukraine et nos deux pays ont un rôle éminent à y jouer.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "base industrielle et de défense européenne",
+      "evidence": "tout ce que l'Europe fait pour fournir des équipements stratégiques et des munitions à l'Ukraine doit servir à renforcer la base industrielle et de défense européenne.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_e8c3da3f4c3173f510669d060ba726316f97f1ad5c5f81a5bb6c0e2da9b0709b"
+    },
+    {
+      "source": "Pologne",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "la coopération entre la Pologne et la France peut aussi être une force motrice pour l'Europe",
+      "confidence": 1.0,
+      "source_id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Pologne",
+      "relation": "VISITED",
+      "target": "Union européenne",
+      "evidence": "La Pologne aura à travailler sur tous ces sujets lors de sa présidence du Conseil de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4",
+      "target_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    }
+  ]
+}

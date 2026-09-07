@@ -1,0 +1,801 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la Défenseure des droits",
+      "id": "Person_00a2f2c9a497bf5f753cd72b5e1935f19fb5f858d8ffb04f1f90d39d3a36ef2c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Chancelier de l'Institut de France",
+      "id": "Person_8bb0e1b551d3f1315694090da4d9e4dcbf35a3ef11f9857389c54d9679b58a82"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les Secrétaires Perpétuel",
+      "id": "Person_460ae413c23fcfb504fa4523d211c0bc676953297777d3be0d6cb70342661148"
+    },
+    {
+      "type": "Person",
+      "name": "Madame et Messieurs les Représentants des Cultes",
+      "id": "Person_1228502c333da385df89c36aee7220eb5168bbddf33204940858287342def9ee"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Comité Consultatif National d'Éthique",
+      "id": "Person_7444fac67a9a5fd236467f6202208231a973eb942786838b956e685835f877ac"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les membres du CCNE",
+      "id": "Person_7feac677d102f4572a6c8c21cfdaadfa1389f381fc740bc632738597440705e9"
+    },
+    {
+      "type": "Person",
+      "name": "François MITTERRAND",
+      "id": "Person_582a697169cca265de8d07bb13285260b41f2fa4323b31279a99e5a8cd909063"
+    },
+    {
+      "type": "Person",
+      "name": "Philippe LAZAR",
+      "id": "Person_4f353292bfcbc30f0c8006bcd7badc16cfb11c76e19132dd9811a2c42b870ff3"
+    },
+    {
+      "type": "Person",
+      "name": "Jean BERNARD",
+      "id": "Person_1a2994225bae33523decaecef1493d088743dbe324a85b1ace17b064c379ed11"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Pierre CHANGEUX",
+      "id": "Person_1e011a0b9da46945a84e0ee7caa1dee1896fc72b56462d4adbd35f975f4048ac"
+    },
+    {
+      "type": "Person",
+      "name": "Didier SICARD",
+      "id": "Person_56d56c05b6e4e60497a0f1fe019375acd4ecd6f063eed21405f7a73e70026bd0"
+    },
+    {
+      "type": "Person",
+      "name": "Alain GRIMFELD",
+      "id": "Person_9eb893209888c3c689ae89298b3d19a859c957e77ae1a2a2440b21b5582390ab"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Claude AMEISEN",
+      "id": "Person_667e55dff82595f4a10ec171887aff3eb5f3951c9558462e64967801082a57ce"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Organization",
+      "name": "CCNE",
+      "id": "Organization_578ad7c503af129da3ccebe4ab81265e04491f8b772411706093e9e40a2e045b"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut de France",
+      "id": "Organization_58e144bed01adb3fbae6e9f53c79f4b9d6d44918df8d89313779529d59870698"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-François DELFRAISSY",
+      "id": "Person_c23ed8dd29d99958f2299f80940df7ff096dd916bd7ba1555f7394539c20bf7f"
+    },
+    {
+      "type": "Organization",
+      "name": "vos travaux",
+      "id": "Organization_c1830af4cb6516432722dc1f258928a05dd1f6b2891cda88c6eec2c50a84f5c6"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Collège des quatre Nations",
+      "id": "Organization_8ec6da60e0ac911ece26caeb5fa54a8b05b6bd5e77066db4e10fc039177338de"
+    },
+    {
+      "type": "Theme",
+      "name": "hauteur",
+      "id": "Theme_84120fa9e7789c3d53aef533ef6bd8797dade06b29baf8bd0550ce021cf35caf"
+    },
+    {
+      "type": "Theme",
+      "name": "lumière",
+      "id": "Theme_3984944089e9f39a230693e5aba5f1d318a029a2677fc10dc8ea8532fc507c8f"
+    },
+    {
+      "type": "Theme",
+      "name": "pluralité",
+      "id": "Theme_1d5f80c8a2940c60d7f55136dcde3040674f5a1ea5ca500b8184bd6f78fc6b2a"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernement",
+      "id": "Theme_ad2d9e27236e987d62a7370d7eeb742fb1026f33930ec1eba6c818585bfeae54"
+    },
+    {
+      "type": "Theme",
+      "name": "élaboration",
+      "id": "Theme_e32459141c27b40801ce1a7f3e62ea0a4c0bc4d80ac51c402a2b16ac785bbce9"
+    },
+    {
+      "type": "Theme",
+      "name": "révision",
+      "id": "Theme_0845b7d38e73b181bb1b00976b3112cd239dda50a78da588bac4d1273b036b8c"
+    },
+    {
+      "type": "Theme",
+      "name": "lois",
+      "id": "Theme_766b24b40ca0257b39bc7b38835ebf4e150e279ff118a5f34e52aceb71952783"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Organization",
+      "name": "Cette institution",
+      "id": "Organization_ab56f9661e01c436f5b9433dca44567059dd8531a359328f3eb7af05dca52742"
+    },
+    {
+      "type": "Country",
+      "name": "Angleterre",
+      "id": "Country_4afd60f813a108a1cf61b2786053c92158c543948b13939e4046f277f801f3eb"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "City",
+      "name": "Corse",
+      "id": "City_16f784e293f33726279f3f43c311b4c6996cd29064ae7f0a470010a8505ad63a"
+    },
+    {
+      "type": "City",
+      "name": "Grand Est",
+      "id": "City_cc46f7d24c7d4373356f70794764c39d58948bde0ecdb5980a07022713090ff2"
+    },
+    {
+      "type": "City",
+      "name": "Normandie",
+      "id": "City_f0fe3a8c9028ddfa11298d6496804a09e1a0ab72a0ef8225769f14175bfca277"
+    },
+    {
+      "type": "City",
+      "name": "Martinique",
+      "id": "City_e722b3719750b15524a6440d0eb57a596985cde19dd59e12cad730325aa3b4b6"
+    },
+    {
+      "type": "Event",
+      "name": "avis inaugural",
+      "id": "Event_065f620a24c84d927590c82c8ff0da51e34ee2f7417c8b7aa92491c9b62682b8"
+    },
+    {
+      "type": "Event",
+      "name": "embryon et le fœtus",
+      "id": "Event_91c22bfa32a912ee1a56b7563d5de59e56543d2adaa5121cb49aeb30697cc037"
+    },
+    {
+      "type": "Event",
+      "name": "prélèvement de cellules souches",
+      "id": "Event_5c7de43289fef4b98520b17126139641bc8f71fae8f38f7e624e7455c0b01089"
+    },
+    {
+      "type": "Event",
+      "name": "diagnostic prénatal",
+      "id": "Event_b065cdb62c3038ba113dd02584c18ee8f2fd897ba4a5726c3f08d5ab50f8d4a3"
+    },
+    {
+      "type": "Law",
+      "name": "dernières lois",
+      "id": "Law_c99688202c6428b9eb3e857f9c84071fc9ac1cb84dc52fc187dd9c4eb7197cb2"
+    },
+    {
+      "type": "Theme",
+      "name": "bioéthique",
+      "id": "Theme_992b643980ae71f074e868d9db7e93f8fdd5fa53f23cdadc2cd38b57fdd483db"
+    },
+    {
+      "type": "Theme",
+      "name": "Questions éthiques et sociétales",
+      "id": "Theme_a7bbba0cc3085f3f33a957cbedba7770503303a60e60ff37ea279bc1bd317edd"
+    },
+    {
+      "type": "Person",
+      "name": "L'avis 139",
+      "id": "Person_9bc3961b99f78d0d1ad4741c4abfd200277c48294ecdb24d847ece275da5c152"
+    },
+    {
+      "type": "Theme",
+      "name": "génome humain",
+      "id": "Theme_8ba91d5a72bc1d96098620e0c23a9a0c59f36af9574112ca2ffa8c41c3fcc62a"
+    },
+    {
+      "type": "Theme",
+      "name": "droit",
+      "id": "Theme_809b6d16ebe657005418287171a0ff40ba1f2fc184046e82a8dbc6d9366cc1a9"
+    },
+    {
+      "type": "Theme",
+      "name": "génétique",
+      "id": "Theme_53dbcc4e81da94422625d96d605ad0f3b7f919509ad4c00a3f50bd9e23528da2"
+    },
+    {
+      "type": "Theme",
+      "name": "eugénisme",
+      "id": "Theme_95b27a3aef39b9f31ec73d361f603faa51f0b9e1b001df815aa62738007d8f1b"
+    },
+    {
+      "type": "Theme",
+      "name": "CCNE",
+      "id": "Theme_d2b34c9751b22d691e706627ccf4d03a399c051fd49ab328c4a0730843b1f599"
+    },
+    {
+      "type": "Theme",
+      "name": "début et de la fin de la vie",
+      "id": "Theme_692b8fe70efdfb1c0053b9ab4d163ff3622d190ffacdf8bcf97b7b73baf6bd1a"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveaux défis de demain",
+      "id": "Theme_5665a816bd4ed0054700596576e74bf298cebed7c1045517d64efbff20d427e8"
+    },
+    {
+      "type": "Theme",
+      "name": "enjeux de la vie biologique",
+      "id": "Theme_1b747193598333a8f4defe02c7c684bf90fac32cbbe2568da5447dd3f43d5326"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveaux enjeux",
+      "id": "Theme_ce84398eaad986c604e56d0d64ba353f9a95e4927103f34e26620617d8f09120"
+    },
+    {
+      "type": "Theme",
+      "name": "transitions",
+      "id": "Theme_aa3ee347ba6c5f4d2bb55dfd18c3c5c4bda473e86ea842a97281720181e7e101"
+    },
+    {
+      "type": "Theme",
+      "name": "science",
+      "id": "Theme_d67c10976c1585f4e9e05fc3bac6b493bcfd249cfb52bacfebf7d74d2b724f45"
+    },
+    {
+      "type": "Theme",
+      "name": "champs de savoirs",
+      "id": "Theme_2b1ab3ffa7bd3b291395fbbc21bbd4ef4cb87de3edf436dcce7242e1de0e198c"
+    },
+    {
+      "type": "Theme",
+      "name": "terres vierges",
+      "id": "Theme_78af115742dd61fed116fe2302785a89040c6e9eabf31fd35b6a5ce38f8695a8"
+    },
+    {
+      "type": "Theme",
+      "name": "génomique",
+      "id": "Theme_bc3b161a3a6c4789df4b8a3e3674cd7e4967ef996d4fc4c1258853749be94b67"
+    },
+    {
+      "type": "Theme",
+      "name": "neurosciences",
+      "id": "Theme_da769ba27952376d624d582a547200d99a50f3a068f6666e54dd2e292d6d0849"
+    },
+    {
+      "type": "Theme",
+      "name": "procréation médicalement assistée",
+      "id": "Theme_2f648ac87d7d51f5162a1aa113775e8b99006434d45e1b14d4a7a0069fd6d046"
+    },
+    {
+      "type": "Theme",
+      "name": "sociétés",
+      "id": "Theme_fe833d4653f5c9552e8c9c71993635978cec94fe799b0a35befc37cf9a873a5d"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement",
+      "id": "Theme_b53e869b761ff3b2e610c18e6c0fd53e10ad5d2a8ba8bf353be9d0f1148d8c43"
+    },
+    {
+      "type": "Theme",
+      "name": "santé humaine",
+      "id": "Theme_339ce7497821151c2fefb2fbdb98154fa9b81b4eb87c759e5773b971aca066cc"
+    },
+    {
+      "type": "Theme",
+      "name": "santé animale",
+      "id": "Theme_8b234d0ef64d0b3a15d2d6d2a02c8909ba77edb68235c5d50ec6bcff6403fa03"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "Organisation mondiale de la santé",
+      "id": "Theme_bf5503ce414903cc61d1294c41c298716b6baf81b869dfd14564b31ddf3f1051"
+    },
+    {
+      "type": "Theme",
+      "name": "One Health",
+      "id": "Theme_5fb80b8125d79d9fee99ac1831ed09190d5b1d2de827e72361aa033bda9c03fa"
+    },
+    {
+      "type": "Person",
+      "name": "Marie GAILLE",
+      "id": "Person_1d7e67c7729ef444d4d6ec02d1981929fe527d39d8d0b05f7072f368f1e48672"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès",
+      "id": "Theme_99fbe2fae74b83c0fb6be33e85f58e86e641fe47059e9c1672808dfbdcf5b5bd"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "droits",
+      "id": "Theme_7eb56e86691d574c7d0fa41bffcd50417ad7abbc021dc12800cf78099a3cc7c5"
+    },
+    {
+      "type": "Theme",
+      "name": "données",
+      "id": "Theme_4b62f0534d379a1bf2df0203dbb03366770418c7cc81b20e9463343e71bfd43d"
+    },
+    {
+      "type": "Theme",
+      "name": "institutions démocratiques",
+      "id": "Theme_9191b031c185892f52228c97282a27d6c23b81e21548f8dd396af684a2689fe3"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission BRONNER",
+      "id": "Organization_74af9914bcb2f6e5175c26cec45fdfa3532014d3924f63ee13451c7b7f1e1012"
+    },
+    {
+      "type": "Theme",
+      "name": "décisions politiques",
+      "id": "Theme_8a9c83bdfa32bcbe9b912cf09185c5f9b8028686cc943d0b3276352b3447e85e"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses",
+      "id": "Theme_571306fdab2ed8a6b3a8bcb659d1ee632bbf5cb8916c2cf78cf2b65ff128bda0"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles questions",
+      "id": "Theme_2e8f7111ed71761874c2a3fe472e044779ba8eddd51216acf4351d50ff0e381c"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions opérationnelles",
+      "id": "Theme_c857b6a3bc9b607b3643f624092b7fbff210a19066fa030149e5f7859f59fc3b"
+    },
+    {
+      "type": "Theme",
+      "name": "directions au long cours",
+      "id": "Theme_71da3dc5a27e83947f35b56a474783cef34e532b6da0fd1491a7d6792f60144e"
+    },
+    {
+      "type": "Theme",
+      "name": "feuille de route",
+      "id": "Theme_1ae7987360634bdfb9b0b31751cf3db644e1e31ab70b69ba84501f0fbbd15987"
+    },
+    {
+      "type": "Theme",
+      "name": "travail de fond",
+      "id": "Theme_ec2f3f2e1386b5def10b89ac044325db181a44439719221276563d89565d9f70"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêt général",
+      "id": "Theme_3fc4009116cc9c953278c25024b0a2dd42266f1514f441af9db2e539f0750341"
+    },
+    {
+      "type": "Theme",
+      "name": "éthique",
+      "id": "Theme_7d7095d15cedeed3d27ee848707429ddeb8decb379f4c6ef254176f4d6f072f1"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations médicales",
+      "id": "Theme_a05f494b210d18c381bcd26a083b61ff295c7228183b2ab4bdce8f17aec6e133"
+    },
+    {
+      "type": "Theme",
+      "name": "manipulation du vivant",
+      "id": "Theme_81a2a02e224918e8a0ecf92e4cd379b20ecc19b94e728a767dad12c3f2bdc70b"
+    },
+    {
+      "type": "Theme",
+      "name": "expérimentations sur l'homme",
+      "id": "Theme_8ee9f2f1526afe2bc25cfd7803d8e4799e2fa4439da0b699621a8b22154baf38"
+    },
+    {
+      "type": "Theme",
+      "name": "greffes d'organes",
+      "id": "Theme_83b3946b694c0777025b2313541866d51f49229c6f3942617731e82d50e744b8"
+    },
+    {
+      "type": "Person",
+      "name": "président DELFRAISSY",
+      "id": "Person_c08f5528580830d23960727212b13499aff29c33b0648e95956f6da60f7966b6"
+    },
+    {
+      "type": "Organization",
+      "name": "CNPEN",
+      "id": "Organization_0aba17d97fd22bc931771d3044d06da8b61cc4a4c19b176a81156cc6262d4eb3"
+    },
+    {
+      "type": "Person",
+      "name": "Claude KIRCHNER",
+      "id": "Person_5b2d039b9a7765e3e9e66cf44674c1b2c50cffe68afa5e5b653bc517ef94b51b"
+    },
+    {
+      "type": "Event",
+      "name": "réunion physique de décembre 2019",
+      "id": "Event_c8c4c54752bd6b9c91ce549bf967a0d1a4cdbef5591736acbbcd61be00cbc95c"
+    },
+    {
+      "type": "Event",
+      "name": "réunion à distance",
+      "id": "Event_7ef9e0fd4c012769e9057cef8cb0daee0a1c712615cb6f06277eb9da96f8f16b"
+    },
+    {
+      "type": "Theme",
+      "name": "fantasmes",
+      "id": "Theme_d16d137d2f23ae7bc2b08aa976e1dbbc880dd43f3fdaf10f66d36593bcf8edba"
+    },
+    {
+      "type": "Theme",
+      "name": "fantômes",
+      "id": "Theme_68e3801b981ba9a213549d8d69687773f63299c562b31d0cc7f33991768f2749"
+    },
+    {
+      "type": "Theme",
+      "name": "risque de dérive orwellienne",
+      "id": "Theme_f287b34c8d555d6fb7a0b950c4fdf18d2a77c706b0e6f738455fe51b23af178a"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "véhicule autonome",
+      "id": "Theme_a7303d5a69370b93719be7c129d48df5177d32e051df7b467147d4e8b6e546d8"
+    },
+    {
+      "type": "Theme",
+      "name": "télémédecine",
+      "id": "Theme_8175a861871345709219b55f95f7793e8398251ad68a8162dcf231d88bc6b50e"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligences artificielles",
+      "id": "Theme_b8eb6b90ec53296aae4e84338c3616db8d36f2b729df5e5e2c43ce396f077a83"
+    },
+    {
+      "type": "Theme",
+      "name": "diagnostics médicaux",
+      "id": "Theme_09ae7a28e23c8d73d783a2a2db4c3f7b55033f19cb1676e0ca5b4df8464da3a0"
+    },
+    {
+      "type": "Theme",
+      "name": "systèmes d'intelligence artificielle générative",
+      "id": "Theme_2aa7bc06b6a9a0b4a9d465dc1a697405d95c4deb41a8fdf8b6d05d19946a1ca3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur BARROT",
+      "id": "Person_442ca66e80f5a970b7adb59a382a958870ad350f94c8484e3fcae61870911bf3"
+    },
+    {
+      "type": "Theme",
+      "name": "ChatGPT",
+      "id": "Theme_5ab815ad1dd14a676278c603110a85bdfdcda56572b51474bf062427210afa0d"
+    },
+    {
+      "type": "Theme",
+      "name": "étudiants",
+      "id": "Theme_5a6dea4ce3005b04f54c86246d8370c481bfd768371a72c32f25a07ebf220efd"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignants",
+      "id": "Theme_74dc0f750cdfcd3f98e4d6f471075af8aa7b7562ed6b64e6a6c69efef994152b"
+    },
+    {
+      "type": "Organization",
+      "name": "Comité national pilote d'éthique du numérique",
+      "id": "Organization_3324b8ce6ce088cdc3eefc9e80993cfbd8792cdace475826415ccb4ff2e84090"
+    },
+    {
+      "type": "Organization",
+      "name": "Comité consultatif national d'éthique numérique",
+      "id": "Organization_49ad04bf096182d2c4590fcc366b0cff6d0246dc25375bd1d5e466e5165421e0"
+    },
+    {
+      "type": "Organization",
+      "name": "CCNE principal",
+      "id": "Organization_cfef8fe64df91ddddef0b7cb3e4af4232a414166f5ad24cd4e571e59a81539f0"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "légitimité",
+      "id": "Theme_5a15fb608d164ddf2a343ca75c152792279c6e3729de315db8a48a3fd6f1470f"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence",
+      "id": "Theme_03b687ae69479c829a7f30314ea23d1b3a6d4c82f2cea3968ce973b361cfd0cd"
+    },
+    {
+      "type": "Person",
+      "name": "Paul RICOEUR",
+      "id": "Person_a949ca53bca4487171af8172b3b611c6b0c48e0ebcc19b8fda5886f9812de7a5"
+    },
+    {
+      "type": "Theme",
+      "name": "processus de confiance",
+      "id": "Theme_d9a28644548bdc65ea765ed3ced82fd7df00129da92d861ab7161f784ebed4fa"
+    },
+    {
+      "type": "Theme",
+      "name": "légitimité démocratique",
+      "id": "Theme_9999b89e6776dbdfd03570d4781b3961b61de35ae0ec8f6f12d9e4aab8db72f1"
+    },
+    {
+      "type": "Theme",
+      "name": "hyper relativisme",
+      "id": "Theme_ba927e7a5a69aaf957ec0a3f52f800e3c7247c47fe5ed6174396e696fa09d059"
+    },
+    {
+      "type": "Theme",
+      "name": "désordre",
+      "id": "Theme_93ae90608d3a86cf0f59878121feb19d725cb31fc9fed486dcb02db7132c55ee"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "débats",
+      "id": "Theme_a205ef1e754545827fa02c94b61645b43249aa245c76e796cb76b76dfac14386"
+    },
+    {
+      "type": "Theme",
+      "name": "maïeutique",
+      "id": "Theme_1fef9b6408c2d7adbd97547856da93e8c17b0925a6bc6b22b1f5d3c131f68b15"
+    },
+    {
+      "type": "Theme",
+      "name": "avis de référence",
+      "id": "Theme_e127f388dc23ac7844ecf4797ef14d9d38a0809a027d40de64085b4aadee2781"
+    },
+    {
+      "type": "Theme",
+      "name": "avis",
+      "id": "Theme_037786be8bc2c292fd18b604e19f7587d56fb832fa36b02d2229d06f4ac81b0b"
+    },
+    {
+      "type": "Theme",
+      "name": "débat",
+      "id": "Theme_0b58e1a0fcdb8371d4b6af48f51c7da634083d74ba893b640e5e939e959827a2"
+    },
+    {
+      "type": "Theme",
+      "name": "sociétés savantes",
+      "id": "Theme_037bf730de98c8e5181a20e7e0b90dd85ec3d598a5677b954868343407821250"
+    },
+    {
+      "type": "Person",
+      "name": "Kant",
+      "id": "Person_de98e098184a1c372c9399d660ba48b75cd05ca6ca8f7c034fb51cd9ae128a54"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation nationale",
+      "id": "Theme_95b8193c8b586f23159aeca3eb0d5d3ff68b5d5e00de90049e80047d51f8cbcb"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir",
+      "id": "Theme_45e075e7203f6c269008206942696177cc8c6767a9f6d434d554ed62c55c6774"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "vérité",
+      "id": "Theme_953d05a2f3d8c50ee08e03421281e20b608a47762bf4a8ec7bc5f2621cb382c1"
+    },
+    {
+      "type": "Theme",
+      "name": "doutes",
+      "id": "Theme_a95e0ad1215c59151708c5f87b303c1d63371bbe751bf977bb072d282c4c034a"
+    },
+    {
+      "type": "Theme",
+      "name": "questions numériques",
+      "id": "Theme_182a25c936f36b8bf33638c90164e424385dd2f4bb78e563339788d0e589c846"
+    },
+    {
+      "type": "Theme",
+      "name": "cap à venir",
+      "id": "Theme_f5d7010057659f57a845380ad43919680dc16bda51e2b5f359798a171aeae9b4"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "CCNE",
+      "relation": "MENTIONS",
+      "target": "début et de la fin de la vie",
+      "evidence": "le CCNE avait vocation à sortir du champ du début et de la fin de la vie et à se confronter aux nouveaux défis de demain",
+      "confidence": 1.0,
+      "source_id": "Theme_d2b34c9751b22d691e706627ccf4d03a399c051fd49ab328c4a0730843b1f599",
+      "target_id": "Theme_692b8fe70efdfb1c0053b9ab4d163ff3622d190ffacdf8bcf97b7b73baf6bd1a"
+    },
+    {
+      "source": "CCNE",
+      "relation": "MENTIONS",
+      "target": "nouveaux défis de demain",
+      "evidence": "le CCNE avait vocation à sortir du champ du début et de la fin de la vie et à se confronter aux nouveaux défis de demain",
+      "confidence": 1.0,
+      "source_id": "Theme_d2b34c9751b22d691e706627ccf4d03a399c051fd49ab328c4a0730843b1f599",
+      "target_id": "Theme_5665a816bd4ed0054700596576e74bf298cebed7c1045517d64efbff20d427e8"
+    },
+    {
+      "source": "science",
+      "relation": "MENTIONS",
+      "target": "champs de savoirs",
+      "evidence": "à partir du moment où la science avance, ouvre des champs de savoirs encore inexplorés, et donc des territoires d'action inédits",
+      "confidence": 1.0,
+      "source_id": "Theme_d67c10976c1585f4e9e05fc3bac6b493bcfd249cfb52bacfebf7d74d2b724f45",
+      "target_id": "Theme_2b1ab3ffa7bd3b291395fbbc21bbd4ef4cb87de3edf436dcce7242e1de0e198c"
+    },
+    {
+      "source": "science",
+      "relation": "MENTIONS",
+      "target": "terres vierges",
+      "evidence": "à partir du moment où la science avance, ouvre des champs de savoirs encore inexplorés, et donc des territoires d'action inédits, ce sont autant de terres vierges qu'il faut d'abord défricher par la pensée",
+      "confidence": 1.0,
+      "source_id": "Theme_d67c10976c1585f4e9e05fc3bac6b493bcfd249cfb52bacfebf7d74d2b724f45",
+      "target_id": "Theme_78af115742dd61fed116fe2302785a89040c6e9eabf31fd35b6a5ce38f8695a8"
+    },
+    {
+      "source": "Organisation mondiale de la santé",
+      "relation": "MENTIONS",
+      "target": "One Health",
+      "evidence": "permettant d'ailleurs de faire cette proposition au cœur du programme de l'Organisation mondiale de la santé avec ce projet One Health",
+      "confidence": 1.0,
+      "source_id": "Theme_bf5503ce414903cc61d1294c41c298716b6baf81b869dfd14564b31ddf3f1051",
+      "target_id": "Theme_5fb80b8125d79d9fee99ac1831ed09190d5b1d2de827e72361aa033bda9c03fa"
+    },
+    {
+      "source": "CNPEN",
+      "relation": "MEMBER_OF",
+      "target": "président DELFRAISSY",
+      "evidence": "Laissez-moi remercier chaleureusement le président DELFRAISSY et le directeur du CNPEN Claude KIRCHNER, ainsi que l'ensemble de ses membres pour leur investissement.",
+      "confidence": 1.0,
+      "source_id": "Organization_0aba17d97fd22bc931771d3044d06da8b61cc4a4c19b176a81156cc6262d4eb3",
+      "target_id": "Person_c08f5528580830d23960727212b13499aff29c33b0648e95956f6da60f7966b6"
+    },
+    {
+      "source": "CNPEN",
+      "relation": "MEMBER_OF",
+      "target": "Claude KIRCHNER",
+      "evidence": "Laissez-moi remercier chaleureusement le président DELFRAISSY et le directeur du CNPEN Claude KIRCHNER, ainsi que l'ensemble de ses membres pour leur investissement.",
+      "confidence": 1.0,
+      "source_id": "Organization_0aba17d97fd22bc931771d3044d06da8b61cc4a4c19b176a81156cc6262d4eb3",
+      "target_id": "Person_5b2d039b9a7765e3e9e66cf44674c1b2c50cffe68afa5e5b653bc517ef94b51b"
+    },
+    {
+      "source": "intelligences artificielles",
+      "relation": "MENTIONS",
+      "target": "diagnostics médicaux",
+      "evidence": "les intelligences artificielles, par exemple, en janvier de cette année, sur leur capacité à émettre des diagnostics médicaux.",
+      "confidence": 1.0,
+      "source_id": "Theme_b8eb6b90ec53296aae4e84338c3616db8d36f2b729df5e5e2c43ce396f077a83",
+      "target_id": "Theme_09ae7a28e23c8d73d783a2a2db4c3f7b55033f19cb1676e0ca5b4df8464da3a0"
+    },
+    {
+      "source": "systèmes d'intelligence artificielle générative",
+      "relation": "MENTIONS",
+      "target": "ChatGPT",
+      "evidence": "l'encadrement des systèmes d'intelligence artificielle générative comme ChatGPT",
+      "confidence": 1.0,
+      "source_id": "Theme_2aa7bc06b6a9a0b4a9d465dc1a697405d95c4deb41a8fdf8b6d05d19946a1ca3",
+      "target_id": "Theme_5ab815ad1dd14a676278c603110a85bdfdcda56572b51474bf062427210afa0d"
+    },
+    {
+      "source": "Comité national pilote d'éthique du numérique",
+      "relation": "PROPOSED",
+      "target": "Comité consultatif national d'éthique numérique",
+      "evidence": "Nous allons donc pérenniser le Comité national pilote d'éthique du numérique, en faire un Comité consultatif national d'éthique numérique à part entière.",
+      "confidence": 1.0,
+      "source_id": "Organization_3324b8ce6ce088cdc3eefc9e80993cfbd8792cdace475826415ccb4ff2e84090",
+      "target_id": "Organization_49ad04bf096182d2c4590fcc366b0cff6d0246dc25375bd1d5e466e5165421e0"
+    }
+  ]
+}

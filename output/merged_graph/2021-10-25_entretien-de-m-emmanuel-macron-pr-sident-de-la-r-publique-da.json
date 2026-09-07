@@ -1,0 +1,463 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "nos militaires",
+      "id": "Organization_2457987a15c10c8c1f214afc21a001e8e85ba7c31693c2f25ef368bb245dd038"
+    },
+    {
+      "type": "Organization",
+      "name": "les agents civils soutenant les armées",
+      "id": "Organization_05c1993998430fcdf7900ab92ace034754dfb870f338b9763d6c7a8f490700ec"
+    },
+    {
+      "type": "Organization",
+      "name": "l'achat des matériels de combat",
+      "id": "Organization_c1938a578a18a6c67a8a84f6b46e67d57b7bd51a6f132b1997eb7bacd94379a4"
+    },
+    {
+      "type": "Organization",
+      "name": "la LPM",
+      "id": "Organization_da07464ab5fc65f075524a092c91a7958538fb72425349f5f1b7ffbae214bcb5"
+    },
+    {
+      "type": "Organization",
+      "name": "les familles",
+      "id": "Organization_f93e3030c6f9006d96b02c7e203a5807b283dd8b64983e03f30dce4b353c4edb"
+    },
+    {
+      "type": "Organization",
+      "name": "les lycées de la défense",
+      "id": "Organization_5e5c56a2542e10064c5bb70bd18c5e7b662c5025657bc4cb7fbb70d8551f9802"
+    },
+    {
+      "type": "Law",
+      "name": "Loi de programmation militaire (LPM) 2019-2025",
+      "id": "Law_7853055b2db265446c095987e46bae915ed1f303c65dc5f91ea1d890308fe3bd"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "City",
+      "name": "Sahel",
+      "id": "City_92fe9646c051c53241e17f3fdb2c650a6e9fa01c7eb8480b47877e959ee0b5fe"
+    },
+    {
+      "type": "Organization",
+      "name": "opération Barkhane",
+      "id": "Organization_f267f0bc44ffda12998f49e0f0838f220bc43cd6bdc5b4ffebb4d1717180398c"
+    },
+    {
+      "type": "Country",
+      "name": "États de la région",
+      "id": "Country_5820ef68897a72204d6fad24b93e8b44c5baa04f0064ca7c336784c1af5fb073"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "développement économique",
+      "id": "Theme_90116a86288646b0ca7f81be8e3f867cd730709965d34e048dac6cb6b854a2c3"
+    },
+    {
+      "type": "Theme",
+      "name": "administration publique",
+      "id": "Theme_a9bb4f5a59c067f0583e5b9c6670a6d4acd70b840283cf5a0e595f34bf8ed210"
+    },
+    {
+      "type": "Country",
+      "name": "Malien",
+      "id": "Country_a21c8f1a6007b105dc206fc61446da95c49b4838e557e547754a54b5e8f8cbde"
+    },
+    {
+      "type": "Organization",
+      "name": "nos partenaires sahéliens et européens",
+      "id": "Organization_c8e742202730b278057791e621ef1a95b3fa24875abe71a91376a31301dd4af3"
+    },
+    {
+      "type": "Organization",
+      "name": "États du G5 Sahel",
+      "id": "Organization_778c357d2c2cdbd82dbd43abb745bad1b1f781743c8e2c2dbd6f3df5dd61e773"
+    },
+    {
+      "type": "Country",
+      "name": "Afghanistan",
+      "id": "Country_5ea7a9152b57f52d563390097c0d7ee8c7520b1a7fb13ff16e8c8d519cc49736"
+    },
+    {
+      "type": "City",
+      "name": "Kaboul",
+      "id": "City_574a4d92385bfd1a0ed73a59f64cf2f93ab29730f68c016e66a78f3564bb2898"
+    },
+    {
+      "type": "Organization",
+      "name": "nos diplomates",
+      "id": "Organization_82ddb1de04078f3e45004a4454f896d77dcd24a1f8faf4dc7b90ec9f272f55d2"
+    },
+    {
+      "type": "Organization",
+      "name": "nos policiers",
+      "id": "Organization_8cdf194fb8f7b214f39e376102871ad8dfef8529d34f3a6a5b8f689b6cc523e8"
+    },
+    {
+      "type": "Organization",
+      "name": "nos agents des services sociaux",
+      "id": "Organization_7eb13ce11b1f36ec2f899046cf3d4bb7fa14bcd954a6f936b1186b933409929a"
+    },
+    {
+      "type": "Organization",
+      "name": "nos aéronefs militaires",
+      "id": "Organization_c486679fa6fa4b63c26094f10cf4301e23acb1d19125db52ef84bfbf8dbbc060"
+    },
+    {
+      "type": "Organization",
+      "name": "les Émirats arabes unis",
+      "id": "Organization_5e7370e4b6a7545a52fb91c3caee2c74258ee9534fe7b491907975acc96dab68"
+    },
+    {
+      "type": "Country",
+      "name": "Émirats arabes unis",
+      "id": "Country_02da2051b5b49f4cccf63ff0675abe8e1fc2d1961a4264fcb31498ee4e262b19"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Organization",
+      "name": "ONU",
+      "id": "Organization_8fe3e517167eebcfcb1c541c20f6aeb0a346c6c70b461e4d8ec8a469cdf70167"
+    },
+    {
+      "type": "Person",
+      "name": "Président américain",
+      "id": "Person_70076f261462efa158559047cdc744ec43f0b06682d0fc409a893e820e02f4d7"
+    },
+    {
+      "type": "Theme",
+      "name": "phénomène terroriste",
+      "id": "Theme_eeb4918e89c73aca053e9019d98f40a3a2d400b5ecb2a701e4698ab3ca4c74ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Initiative européenne d'intervention",
+      "id": "Organization_18ff18e14207235a5d30ef246a30ad9f58e4b380744c166a704b3cd22f38a781"
+    },
+    {
+      "type": "Organization",
+      "name": "Task force Takuba",
+      "id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Présidence française de l'Union européenne",
+      "id": "Organization_f58c994811133208b01ae57fa0dbe22f022b91e62ed0013897a2af9c41ec5d80"
+    },
+    {
+      "type": "Theme",
+      "name": "boussole stratégique",
+      "id": "Theme_c684334edd074899fbaf702d31c8e14dfcfe29368c0888a26f80ae5740a8c732"
+    },
+    {
+      "type": "Theme",
+      "name": "réactivité opérationnelle",
+      "id": "Theme_36e594dcac76e34f74fc7f970447f9e0a19ee7430f4390774812d937993ded3b"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté technologique",
+      "id": "Theme_64c44237890c648828d00038dd2d444502361f6d06825992d62e522889f2b127"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Organization",
+      "name": "grands groupes de taille mondiale",
+      "id": "Organization_66ffdab132ac0e21f7d8009971ce7c3ea8c75e6fbeee99cc65d197d2e9445a4f"
+    },
+    {
+      "type": "Organization",
+      "name": "PME",
+      "id": "Organization_0acc90fd83b5f34eca1d95b6132906e873cb62c3c1450bdfd28204a0afdd60a0"
+    },
+    {
+      "type": "Organization",
+      "name": "start-up",
+      "id": "Organization_8ca74dbe44f2e301b78050c801c69d41fd827aaa5a1d893ee3ddb1c96c156089"
+    },
+    {
+      "type": "Organization",
+      "name": "ETI",
+      "id": "Organization_2b106cbb4089f56375cf1ffd335c86c87f6ea1a6cc4479d319688561795fdcaa"
+    },
+    {
+      "type": "Theme",
+      "name": "dissuasion nucléaire",
+      "id": "Theme_58eeb47a4187adc35273d336dfd15dff2be146723e73c7047d28cd4f39ac63c9"
+    },
+    {
+      "type": "Theme",
+      "name": "force de frappe",
+      "id": "Theme_26e7e27447329c8234da1be39588db4c5bb5409ca2ac0ce7fee8a9de408a3af1"
+    },
+    {
+      "type": "Theme",
+      "name": "multipolarité nucléaire",
+      "id": "Theme_bd89e6a96c8ec1928d791fe13807abadac0b577a543971fb5adb94b2b2467a0f"
+    },
+    {
+      "type": "Theme",
+      "name": "crise du multilatéralisme",
+      "id": "Theme_0f8ed65ffd3360de4fea610eb37fcc8fe6a980e9d6ba0d2089c0b6d83ff57c77"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles technologies",
+      "id": "Theme_7747ab69a43f0e565f5376fa27e26afb9cd78a09d1c54137bb9be80722aeeccf"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "dissuasion",
+      "id": "Theme_f24de2941f32c3ba0adcee4f66a7efe25f851c9977d13617739aecd363151721"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie de défense",
+      "id": "Theme_870acdcc025f261d5efe1688c837374c851a54c23248f70eb21116f18c34a0d1"
+    },
+    {
+      "type": "Theme",
+      "name": "forces conventionnelles",
+      "id": "Theme_bc33cee8087a82cb6ab19b47b630cc698e2dabe74e8f1a623571350ee610eb7c"
+    },
+    {
+      "type": "Theme",
+      "name": "armée",
+      "id": "Theme_2eeb8e10beac0248581a7d59931580b34c2366ec816e6e7ab0a1eefa508cf353"
+    },
+    {
+      "type": "Theme",
+      "name": "cyberespace",
+      "id": "Theme_5e9488ec8e0e545344a484b253cc9dd5c88d9007b832f07b75aa7cd3af077474"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Organization",
+      "name": "École des mousses",
+      "id": "Organization_bfcbcd649da1075b51c4ded9a918b9e49a570126e618d3ccaa604d277307ddfc"
+    },
+    {
+      "type": "Theme",
+      "name": "insertion des jeunes",
+      "id": "Theme_bcd5b92864e89440d7a2832e36a98fb15a78e1578f8f5721bae097d4a514f3bd"
+    },
+    {
+      "type": "Theme",
+      "name": "service militaire volontaire",
+      "id": "Theme_f636cca5acc547949480a0c8ce7d0ffe42e137ba7d809ead3f3339120e4b7227"
+    },
+    {
+      "type": "Theme",
+      "name": "service militaire adapté",
+      "id": "Theme_05143291319cd2d6c51153000cb005f34e995a1c189e4984a66498088fa57aff"
+    },
+    {
+      "type": "Theme",
+      "name": "cadets de la défense",
+      "id": "Theme_ded269c1598237eb5cb66f60c77c83dfd392d05639aca73ca02a6f8feffc2f2c"
+    },
+    {
+      "type": "Theme",
+      "name": "École des mousses",
+      "id": "Theme_0ff818c10093f93b5cab2173a740f3817ce6381ed839d9109aa5fe9934ee098b"
+    },
+    {
+      "type": "Theme",
+      "name": "recrutement",
+      "id": "Theme_dc4a51d6853c4a656f70dd021f7954af49386c033fd11547f64cc55d4ae66a46"
+    },
+    {
+      "type": "Theme",
+      "name": "reconversion",
+      "id": "Theme_154c1592402df9d3ada059aec572f53204fa893a578511d167ebb8fab2421436"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid-19",
+      "id": "Theme_d5e7dbe0204945df0a66692ca666448a467d14bc7f36bc2b7afe79af217b2384"
+    },
+    {
+      "type": "City",
+      "name": "Marquises",
+      "id": "City_2625301e0b90a49d139f814aeceff9b1d6301dd7541e49fc535ed89fb2f5b03e"
+    },
+    {
+      "type": "Organization",
+      "name": "compagnie d'instruction du service militaire adapté",
+      "id": "Organization_bbd8e513e2319b49b4592fa5b93cdd75ebb032810e8225930a471c313f4cbf9c"
+    },
+    {
+      "type": "Theme",
+      "name": "faire Nation",
+      "id": "Theme_e443714a60a2c4cc66a1e2bb2ce39b6ce57e00344c7319b9ae7624ab0580ec52"
+    },
+    {
+      "type": "Theme",
+      "name": "Gagner l'avenir",
+      "id": "Theme_ba5b010649a48f02402bf71af3b9925811b8149708b1d495e8eb0f9124e2ecfa"
+    },
+    {
+      "type": "Theme",
+      "name": "attachement à ses forces armées",
+      "id": "Theme_dd50c09d54d0f5a0d894347075f4046e23ebee3aa1d35b92a771fa613502a130"
+    },
+    {
+      "type": "Theme",
+      "name": "transformer, se renforcer",
+      "id": "Theme_2cff176bcf9a051f1d95a873d1bdb7af27a73722dc997c9d1b922124e6e04ebf"
+    },
+    {
+      "type": "Theme",
+      "name": "message de cohésion",
+      "id": "Theme_5a9e0bdb2ffa221659efb4e897a2f8e269cf320e7492db21d693809212cdb373"
+    },
+    {
+      "type": "Theme",
+      "name": "reconnaissance de l'apport des armées à la société",
+      "id": "Theme_758822aaae69ba61d6d07cfc1b813269e7632930a0823b23d3fed31792259a49"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la France continuera à assumer ses responsabilités internationales",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "dissuasion nucléaire",
+      "relation": "MENTIONS",
+      "target": "dissuasion nucléaire",
+      "evidence": "Dans ce magazine, nous revenons aussi sur le tournant stratégique de 1960 avec la dissuasion nucléaire.",
+      "confidence": 1.0,
+      "source_id": "Theme_58eeb47a4187adc35273d336dfd15dff2be146723e73c7047d28cd4f39ac63c9",
+      "target_id": "Theme_58eeb47a4187adc35273d336dfd15dff2be146723e73c7047d28cd4f39ac63c9"
+    },
+    {
+      "source": "multipolarité nucléaire",
+      "relation": "MENTIONS",
+      "target": "multipolarité nucléaire",
+      "evidence": "multipolarité nucléaire avec des États qui optent pour des postures nucléaires opaques, voire agressives",
+      "confidence": 1.0,
+      "source_id": "Theme_bd89e6a96c8ec1928d791fe13807abadac0b577a543971fb5adb94b2b2467a0f",
+      "target_id": "Theme_bd89e6a96c8ec1928d791fe13807abadac0b577a543971fb5adb94b2b2467a0f"
+    },
+    {
+      "source": "crise du multilatéralisme",
+      "relation": "MENTIONS",
+      "target": "crise du multilatéralisme",
+      "evidence": "crise du multilatéralisme avec une forme de prééminence du rapport de force sur le droit",
+      "confidence": 1.0,
+      "source_id": "Theme_0f8ed65ffd3360de4fea610eb37fcc8fe6a980e9d6ba0d2089c0b6d83ff57c77",
+      "target_id": "Theme_0f8ed65ffd3360de4fea610eb37fcc8fe6a980e9d6ba0d2089c0b6d83ff57c77"
+    },
+    {
+      "source": "nouvelles technologies",
+      "relation": "MENTIONS",
+      "target": "nouvelles technologies",
+      "evidence": "émergence de nouvelles technologies qui ouvrent la voie à de nouveaux champs de confrontation et offrent la possibilité de créer de nouvelles supériorités stratégiques par la maîtrise d'armes et de technologies de rupture",
+      "confidence": 1.0,
+      "source_id": "Theme_7747ab69a43f0e565f5376fa27e26afb9cd78a09d1c54137bb9be80722aeeccf",
+      "target_id": "Theme_7747ab69a43f0e565f5376fa27e26afb9cd78a09d1c54137bb9be80722aeeccf"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "dissuasion",
+      "evidence": "la France dispose d'une dissuasion autonome",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_f24de2941f32c3ba0adcee4f66a7efe25f851c9977d13617739aecd363151721"
+    },
+    {
+      "source": "dissuasion",
+      "relation": "SPOKE_ABOUT",
+      "target": "stratégie de défense",
+      "evidence": "La dissuasion occupe dans notre stratégie de défense une place centrale, capitale.",
+      "confidence": 1.0,
+      "source_id": "Theme_f24de2941f32c3ba0adcee4f66a7efe25f851c9977d13617739aecd363151721",
+      "target_id": "Theme_870acdcc025f261d5efe1688c837374c851a54c23248f70eb21116f18c34a0d1"
+    },
+    {
+      "source": "dissuasion",
+      "relation": "SUPPORTS",
+      "target": "stratégie de défense",
+      "evidence": "Si elle reste ainsi la clé de voûte de notre stratégie de défense, la dissuasion n'en occupe pas bien évidemment tout l'espace.",
+      "confidence": 1.0,
+      "source_id": "Theme_f24de2941f32c3ba0adcee4f66a7efe25f851c9977d13617739aecd363151721",
+      "target_id": "Theme_870acdcc025f261d5efe1688c837374c851a54c23248f70eb21116f18c34a0d1"
+    }
+  ]
+}

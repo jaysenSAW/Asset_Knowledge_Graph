@@ -1,0 +1,876 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Madame, monsieur le ministre",
+      "id": "Person_56c8984a3f3743da20b9ff5f983140b6f27cc659be2be34bd9d54f468abc8561"
+    },
+    {
+      "type": "Person",
+      "name": "mesdames, messieurs les parlementaires",
+      "id": "Person_513d1485982528e0834eb4f4c38b73da53f9e4817cd30f728fe27e32d9fc11d3"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le président de la région",
+      "id": "Person_bea954a9bd74a0e4a51595f4a28b9bede97ffadd50be6b08073510cf7830b74c"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le président du département",
+      "id": "Person_957d66d857caded3a1d14cfb7944b5915f671b942c463e863c208793cc92b9c1"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs le Président",
+      "id": "Person_d23ef5e4b6992a67656c309b1b892979470347ecafd1340ee4d65d8dbb279594"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les Présidentes et Présidents, maires, élus",
+      "id": "Person_8832c014151244f10ae098ee3da659bf76b94c17564660567bc8aebc6e4f7d96"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs",
+      "id": "Person_625fe3a313c056b9dc1724205255b9a7767c4b46670f91284ff4a20cb9382408"
+    },
+    {
+      "type": "City",
+      "name": "Douai",
+      "id": "City_2176b1027a81ce0e83b327539bfb966788da3fa0edc511bb7a7f945b4818c88e"
+    },
+    {
+      "type": "Organization",
+      "name": "Envision",
+      "id": "Organization_0074d85877383964057634fd71b23d989ef0ce162fa5c39eb093ad36ec50c3ce"
+    },
+    {
+      "type": "Organization",
+      "name": "AESC",
+      "id": "Organization_c22236a3c7d0d66551cd360f6d57832c2eb8308a6aeb18164f3d5125685de1fe"
+    },
+    {
+      "type": "Theme",
+      "name": "bassin minier",
+      "id": "Theme_f75532f665edcc1c524c125f1278d6df15a45f0129c2782b0e6a6e0ec740e26c"
+    },
+    {
+      "type": "Theme",
+      "name": "renouveau économique",
+      "id": "Theme_79d6042224277e6957025b190f0eb9af1608156f49199f2027a940fa0b28985a"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "logement",
+      "id": "Theme_5482b77c02cb27b743d7ba44022361e1f99e9ac6c8c98c177add71ee6c65ef55"
+    },
+    {
+      "type": "Theme",
+      "name": "urbanisme",
+      "id": "Theme_bda59a6205eaaf479f66b6959a77a6cdb2c9d5019f69e5b71dbf2c10e8976fb3"
+    },
+    {
+      "type": "Theme",
+      "name": "renouveau du bassin minier",
+      "id": "Theme_b28fb9eacd369f798faa7c51fc4308231b9964550c5e2dff9efad24b707a63da"
+    },
+    {
+      "type": "City",
+      "name": "Arenberg",
+      "id": "City_8e64f65362229e32b460b8dc19ff043f0ecc85d73f01c5936ab222fdafdf5721"
+    },
+    {
+      "type": "City",
+      "name": "Bully-les-Mines",
+      "id": "City_38c6a716d5feffc4dff6cf6264e60d3ee84bd4a797316fb279a3b2b04a1b6778"
+    },
+    {
+      "type": "City",
+      "name": "Lens",
+      "id": "City_204da99adb34b21354b53b8545a3e4ca99e3c2fc43fadec2af523ad540076456"
+    },
+    {
+      "type": "City",
+      "name": "Liévin",
+      "id": "City_2ea8644b7cb645302bf1b88638348fbcb79294d3b2e4f985d6d51e1a4dda51d1"
+    },
+    {
+      "type": "City",
+      "name": "35 cités",
+      "id": "City_7bf21162268e76e187b08fe3053bf0f7df50e54f1be5a83d663575573f535073"
+    },
+    {
+      "type": "Organization",
+      "name": "ERBM",
+      "id": "Organization_ddebab0a4ad453558160698684ea4986eb4e09e07889f5f744e7b948dcb04d48"
+    },
+    {
+      "type": "Person",
+      "name": "madame la ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Theme",
+      "name": "rénovation des cités minières",
+      "id": "Theme_c74b825fac945e2922116a1a5ab2934588902245b6d385dd6652b8af3841786e"
+    },
+    {
+      "type": "Theme",
+      "name": "aide à la pierre",
+      "id": "Theme_c52c41adf7fe6ac21b493e41c74e72a764e6649895c1ea7994dd6e5009a91354"
+    },
+    {
+      "type": "Theme",
+      "name": "bien-être des familles",
+      "id": "Theme_170e80e314e0aaf02fdf2f304d1e4e661e26939e23ae9675e292cd0db4e8395f"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité",
+      "id": "Theme_6e810685c69ad3ee9245c969e1dfdc105f56849050a2192c7b2a5c21535528f3"
+    },
+    {
+      "type": "Theme",
+      "name": "rénovation énergétique",
+      "id": "Theme_85cd2ed9e083744505e1ce8d9999de54efed8d484c53f477ac925fe98ded0cf5"
+    },
+    {
+      "type": "Theme",
+      "name": "diminution de la consommation",
+      "id": "Theme_c314a33d58fe09ff320ea96576f844a485a35f8a2a05ff68752470891b45587c"
+    },
+    {
+      "type": "City",
+      "name": "35 cités minières prioritaires",
+      "id": "City_2f5b0b1fb857836fb42a8a920102e48a541679afcf4c40da668f76104858c4a8"
+    },
+    {
+      "type": "Theme",
+      "name": "insertion",
+      "id": "Theme_43996ed10959d44aac01181720ec1c558d63dde9efe86c0a5c5fe1113ac06286"
+    },
+    {
+      "type": "Theme",
+      "name": "espace public",
+      "id": "Theme_9b793c146c506294896cd948914f9bcf0ec86d207faa9892a7d75a17818e8207"
+    },
+    {
+      "type": "Theme",
+      "name": "contrats initiatives emploi ERBM",
+      "id": "Theme_1f11f204f0184ab2f1d2ac0d5c7933d9831909c1eda3db08f69dd8d2ff94d2f0"
+    },
+    {
+      "type": "Theme",
+      "name": "cités",
+      "id": "Theme_3712024f95588f26a7be48a601c25edeec1431fada135a1697fb6cf9db1dca35"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil départemental du Nord",
+      "id": "Organization_f3359f2670bc8c8d35c7f00b5667db02b9e5bd62247f34b05a2f4ff29e503c8f"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "préfet de région",
+      "id": "Organization_de46d9a09d02f22a424f54b9720d6f7e1b33fd7fcc000b527eea880d22ba4736"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique et énergétique",
+      "id": "Theme_1f33daa4120792c7169ce058cc977d8c6d6394250a7d1a712d1ae4681b0d8676"
+    },
+    {
+      "type": "Theme",
+      "name": "transports",
+      "id": "Theme_533d2529ff9a7f6bf394d1e74146c9b14e56ed95da235efb27978e0422b519a2"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilités",
+      "id": "Theme_058abbe8e65cde0ac9d0ce69308b7d657b0a5aa507d4c8ec532e9a6386940e93"
+    },
+    {
+      "type": "Theme",
+      "name": "routier",
+      "id": "Theme_04b43fed11ba6c1d15bcf23203feb848abc1b5ef6a855a374532144dff922f9a"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction de saturation des axes sud-nord",
+      "id": "Theme_7d23223fe74c212dba3c02b4095a014cf8e7ec5a1a5092a9197324304fb54d62"
+    },
+    {
+      "type": "Theme",
+      "name": "Service Express Régional Métropolitain",
+      "id": "Theme_d9ece88715f74270b5aabb5416baf5d81c71b25bc023fced116917e50e8e1da0"
+    },
+    {
+      "type": "Theme",
+      "name": "Services Express Régional Métropolitain",
+      "id": "Theme_81fb8842c24c047d0e96906c86bd9cbf614617e76aaa7d37a6e7942813825c56"
+    },
+    {
+      "type": "Person",
+      "name": "Daniel Percheron",
+      "id": "Person_7534739ed601abfd50fcc4a95cc70fadf55fbca60785591d72c387516de26aec"
+    },
+    {
+      "type": "Person",
+      "name": "Xavier Bertrand",
+      "id": "Person_ca1bc8130f8e9dee579e393f6d9d70230acf009cdef756d82909fabdab48adcb"
+    },
+    {
+      "type": "Theme",
+      "name": "désenclaver les territoires",
+      "id": "Theme_c6394b91ab92e96c6a4a9b66d1481588089c873882f404c6d648e372f09f1511"
+    },
+    {
+      "type": "Theme",
+      "name": "redonner des perspectives d'emploi",
+      "id": "Theme_1074e9a84d905c22cd997d4c105e6a9c02638730ffa986ce1aafde20a5032404"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialiser",
+      "id": "Theme_950504beb4a0299f0249ef3cc77dd296f4a86890c62b1f5e15ebc8af4c6c9984"
+    },
+    {
+      "type": "Theme",
+      "name": "transport",
+      "id": "Theme_1a641d5b69608bdb03696d1cece984f99de2b357f066e5c6d65727885433491c"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialisation décarbonée du bassin minier",
+      "id": "Theme_337721d02366079501b02c4c3ffdf4a432bd51ccd64a5c6ba821d0131ee414a6"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "désindustrialisation",
+      "id": "Theme_b3dfa7b0ccdf0ab4739fefeb64d85d03955757f5756af9cdbfc25b017f494128"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes du marché du travail",
+      "id": "Theme_47544c23c018742ba802b65cce3324997255db4fb7a1227e04cf7dc2434a97cf"
+    },
+    {
+      "type": "Theme",
+      "name": "Choose France",
+      "id": "Theme_6488756015550f0534218b18ddba392f1f16df917376ff2a1a5c289207cf924e"
+    },
+    {
+      "type": "Organization",
+      "name": "Choose France",
+      "id": "Organization_e829eef291c1bb039ab1232fce6af7ee8375a2434cad240faa7ce375d8c3ba9a"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité des investissements internationaux",
+      "id": "Theme_671c770af8383a4501f167e6eb81d725a33a44038b4a22497835cddd35c5c402"
+    },
+    {
+      "type": "Theme",
+      "name": "politique fiscale",
+      "id": "Theme_b679470939c8490b0d995aaae7b4b1e046ea78f2233ea1ca89b7b7617144d2c7"
+    },
+    {
+      "type": "Theme",
+      "name": "politique économique",
+      "id": "Theme_29af0f01d347faa50be268cfe02d9b42b30afd63a2013c74258706efaf914389"
+    },
+    {
+      "type": "City",
+      "name": "Maubeuge",
+      "id": "City_842f696abe8d1ed007aa6d53caf478d8c7d644d0807d539c1fd440ce1e09fa24"
+    },
+    {
+      "type": "City",
+      "name": "Dunkerque",
+      "id": "City_bda376ce18a11cdf6e31dcf1317332d2be264fba8faae021745f7e792736d7b0"
+    },
+    {
+      "type": "Organization",
+      "name": "ArcelorMittal",
+      "id": "Organization_0df82bf232e4a43ad564bf667f976c804cc4b84f0842e306f007205c775b616e"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi industriel",
+      "id": "Theme_955cdbe228b4dc5a81608a8d44af0ab11495f814c95eb39ef790b41e26eb3f53"
+    },
+    {
+      "type": "Theme",
+      "name": "lampe de mineurs",
+      "id": "Theme_e9dbd69b2a39421c5aecebae65f97b0ac45d201134bd48c10fc67e91136b6340"
+    },
+    {
+      "type": "Theme",
+      "name": "décarboné",
+      "id": "Theme_8e8bb34203c9394fc7604d67fd6b2842431039fb8cfe7f550f9572ea9e746a29"
+    },
+    {
+      "type": "Theme",
+      "name": "robotisation",
+      "id": "Theme_41ce0ca7cab5d31bcfbe409aabc0eada492ed50a946bcb8a2289771a1a9bafbc"
+    },
+    {
+      "type": "Theme",
+      "name": "bien-être au travail",
+      "id": "Theme_e3798b519aa8ee2f5aec6c0c84c0c1a03c1f06333844213978215b2a6b65cd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien au développement humain",
+      "id": "Theme_2c79a4dea50c506a409565cf97152c0eb94d2e606c5272d571ceaff7c044ab94"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la pauvreté",
+      "id": "Theme_ab8e8f859f334c17b54a9d9d0794df43cbbe9c994f1fd97114aaa4720284ff30"
+    },
+    {
+      "type": "Organization",
+      "name": "bassin minier",
+      "id": "Organization_fbb1a4f08a0f7baaf919d3450ff85820dfcbb98a2b891475648e099b02401ec2"
+    },
+    {
+      "type": "Organization",
+      "name": "rectorat de Lille",
+      "id": "Organization_cf519f3c0831ce07acfe4cffa9c9cce7d0b90d427d94b598d6684b7edb4e62df"
+    },
+    {
+      "type": "Theme",
+      "name": "ferroviaire",
+      "id": "Theme_18974b56235517f2a696da9bd81c5414f10512487d11d3a98e66a6578f52e8de"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie automobile",
+      "id": "Theme_0a894383ba6383fb9909ddb48c28194ba33635fb32f87c2d1e64ee2a3ff62c5b"
+    },
+    {
+      "type": "Theme",
+      "name": "écomobilité",
+      "id": "Theme_dc6c70772a891e868c167c24e0b1ca54a1e9d18c533688cabe89fd8ae7d2d5b1"
+    },
+    {
+      "type": "Theme",
+      "name": "tourisme",
+      "id": "Theme_6230ab46b903a54cbd735ffcdd8016d5b3ccadaf12ae9993a40cfa32b83e758f"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie",
+      "id": "Theme_fa010b2e87d32c400a0a52b10fe00d186b07d80baf9792842d534698bb9241c6"
+    },
+    {
+      "type": "Theme",
+      "name": "longévité",
+      "id": "Theme_e1f59a52ab89b983f7397af82652d6db84fc4a732a7a34598c26730baacfbe0e"
+    },
+    {
+      "type": "Theme",
+      "name": "bâtiments et systèmes énergétiques intelligents",
+      "id": "Theme_da8ae67d14b6c62bcf95f990f485e5fdda1004ed5dc6360cd19882b5e96c944c"
+    },
+    {
+      "type": "Theme",
+      "name": "mortalité évitable",
+      "id": "Theme_be3c9c3cadd513a159743c8dd54c2a7b478f55ad846a93c0b15e5b7a538116e7"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention",
+      "id": "Theme_b5d3262ef3c58743a1781f267abe9b162422a835f4df383fc4856acb883ee6a0"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement",
+      "id": "Theme_d41a2410d8b1353cdac216ebec7bce81e567ae80b1d56a5c5b7942fee7e103c4"
+    },
+    {
+      "type": "Theme",
+      "name": "fragilités sociales",
+      "id": "Theme_de3bc89e979d2001fb09f5753319bfd592ca5756febd697c9795f246ce140425"
+    },
+    {
+      "type": "Theme",
+      "name": "diabète",
+      "id": "Theme_5fa92ac25b76ea5c3ef4d4ecbb8ee559fa12ad0ec5655d61cca30530b10503d5"
+    },
+    {
+      "type": "Theme",
+      "name": "addictions",
+      "id": "Theme_b5c62de68cc20055219d734ce56cd3a6cd1c110c75da9bc7dd9067b7b7a76293"
+    },
+    {
+      "type": "Theme",
+      "name": "mauvaises alimentations",
+      "id": "Theme_8c3b45c537c0577ad2a787cd8a7ec95b3f86adcae5dc6f02b0b53c8d3545fa02"
+    },
+    {
+      "type": "Theme",
+      "name": "sédentarité",
+      "id": "Theme_5f1d0fb137d384363a01801a7f98a1bf0bc0bab49a66b5a6358acb384e3633f6"
+    },
+    {
+      "type": "Theme",
+      "name": "offre de soins",
+      "id": "Theme_b1bdcc2152d83bcf92bd930d1cad261f0715b1c82bacfc5c33580185e55509b5"
+    },
+    {
+      "type": "Theme",
+      "name": "indicateurs de santé publique",
+      "id": "Theme_09e8e6ac788fc7062333fd9d09d4b638b9cc35a6f613c0c14b0fd4f83430b65d"
+    },
+    {
+      "type": "Organization",
+      "name": "ARS",
+      "id": "Organization_e0895a481c105024ae88c4febdcf5db881937615d461198b5b7fcfa2894ae862"
+    },
+    {
+      "type": "Organization",
+      "name": "votre région",
+      "id": "Organization_470df011e511f9db92f4b9ff0bdf6dea6b2513a45d1f78be762ad25edb2b0196"
+    },
+    {
+      "type": "Organization",
+      "name": "votre département",
+      "id": "Organization_9113febeb38b63b7d819a283106b020fe2b159c2ec35190a222f1d6d38475695"
+    },
+    {
+      "type": "Organization",
+      "name": "les communes",
+      "id": "Organization_27f5c5ef679934e0d0e3958f62df1dbf1e9fd25dbeacd61ee43d0f5cd158745f"
+    },
+    {
+      "type": "Organization",
+      "name": "l'État",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Organization",
+      "name": "l'ERBM",
+      "id": "Organization_df52d3b09983f712f09dd80f4b67a3201230db6fa43f0bbfb9e3b55c086cc4b9"
+    },
+    {
+      "type": "City",
+      "name": "Hénin-Beaumont",
+      "id": "City_ad35675902b03f73866fe59cfb0a5cc7081c8b1878563a48ea376fc749637c17"
+    },
+    {
+      "type": "City",
+      "name": "Valenciennes",
+      "id": "City_4241fea6cb169f7bb947c0279cc4e69f5b8876c4f37bf3fa44c7d225be7ef6e0"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de la Santé",
+      "id": "Organization_44fc5aef1633481cc5d5f3e676ed0565b2c1413d752c5abca9799b6a71688462"
+    },
+    {
+      "type": "Organization",
+      "name": "médecins",
+      "id": "Organization_bf7575292b1d35e20409195d2a30952317913e91f332650c57ab72f15b0698b0"
+    },
+    {
+      "type": "Organization",
+      "name": "pyramide des âges",
+      "id": "Organization_8d3e512ab63a1341a42c048f3d04b27569e0e30fad086a77ae8be24b48ffbf58"
+    },
+    {
+      "type": "Theme",
+      "name": "pyramide des âges",
+      "id": "Theme_fb8fa8488e8157cd2b1a5ca1e9a94f72995b4ba7c836bf17cb8fc2701f6cbad1"
+    },
+    {
+      "type": "Person",
+      "name": "Drac",
+      "id": "Person_f019bf9aab2ebd28c38185cf099fddb06e2559ad542945b964234b74e253ca39"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente directrice générale",
+      "id": "Person_86ee1851c5010724219b6d946dc9b83ea618e59faf1e2bbf0a8b58f980f414a6"
+    },
+    {
+      "type": "Organization",
+      "name": "imprimerie nationale",
+      "id": "Organization_0cfb694b53f45271f1f5b7acea4a5f967c17a0aabd7ca3902647bc1b218bbdcd"
+    },
+    {
+      "type": "Organization",
+      "name": "atelier du livre d'art et d'Estampe à Douai",
+      "id": "Organization_c31ffd06c4ccd9383ff98828e4359e82e00cf038beafaff2e61a751b36a2a9c2"
+    },
+    {
+      "type": "Organization",
+      "name": "atelier du livre d'art et d'Estampe",
+      "id": "Organization_96839e43fcd514e610f0d0b9e1d170f3918737f7aeb10e91bbf51e860794aeae"
+    },
+    {
+      "type": "City",
+      "name": "Villers-Cotterêts",
+      "id": "City_6aab14668bdee637018a1a68554281503579fbe339dd9c176e5ba0e6fb326493"
+    },
+    {
+      "type": "Organization",
+      "name": "UNESCO",
+      "id": "Organization_44cf334686fd664fecedb6944caa3782522449e029aa1a57346edd5f2ff5eebd"
+    },
+    {
+      "type": "Organization",
+      "name": "Louvre-Lens",
+      "id": "Organization_177420cf27e2cfb49e0523b5d4a9c099d13ce978501169294f04e0bf914b9542"
+    },
+    {
+      "type": "Theme",
+      "name": "fierté",
+      "id": "Theme_7eff11c9eca34cecf2a19a02da7d290b3f85a6dd0840cac5b971ec01a30659d3"
+    },
+    {
+      "type": "Theme",
+      "name": "piliers de l'ERBM",
+      "id": "Theme_e14c821abd6154fc7e3205c2520bf68ba831fe301b0966a326844f25d74f98ca"
+    },
+    {
+      "type": "Theme",
+      "name": "créations d'entreprises",
+      "id": "Theme_ba6656001a26dd83024c18d884c492cd4178c8bfef01b6f26b61823c9b493bec"
+    },
+    {
+      "type": "Theme",
+      "name": "demandeurs d'emploi",
+      "id": "Theme_6b52dc5a108af237f2abd35866113a3ae5ac4ccc980573afcf6cc1b94ff9a619"
+    },
+    {
+      "type": "Theme",
+      "name": "pauvreté",
+      "id": "Theme_95b7ed519406cd062b2738f35707ce2b499fc7f2e5179d4c674216f14032a781"
+    },
+    {
+      "type": "Person",
+      "name": "Président de région",
+      "id": "Person_fcad2fe0b83f755834e4376a9221643f6d44c5a1101db2f152343853681b8f0b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de département",
+      "id": "Person_a3d5eb3f52f3ff67db8986be90451578a4af2b14a774931d63630355a0f81233"
+    },
+    {
+      "type": "Person",
+      "name": "Prefet de région",
+      "id": "Person_a430b9766d5d621f0d7d42ae8069d3c3e7bfd0ec6a6a9794d11e34368431ccfc"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "Ministre",
+      "id": "Person_3ffa6811c83c16bf59edf782cd334ba6a4263e78436004596c3f8ab18adabbc4"
+    },
+    {
+      "type": "Theme",
+      "name": "Sécurisation des engagements financiers",
+      "id": "Theme_3b91e441ff814346bd4a108905d57a9efe75ba6d8b6b521f61048878914735a4"
+    },
+    {
+      "type": "Theme",
+      "name": "Rénovation des espaces publics des cités minières",
+      "id": "Theme_f2532474472b321a63196d6d175f343156315581ac39fa9da1fa1f5805d6159f"
+    },
+    {
+      "type": "Theme",
+      "name": "activité",
+      "id": "Theme_189c906f0e37bb2255a7da1dac5becaaa930a81187677e5178a223a2a5ff9935"
+    },
+    {
+      "type": "Theme",
+      "name": "politique sociale",
+      "id": "Theme_92347f6162dfa4d47aeb8d7946491ae5df51edd3e3581c13390550290dbc7924"
+    },
+    {
+      "type": "Theme",
+      "name": "amélioration de l'habitat",
+      "id": "Theme_db5f4746ac4a335a387e421cbdafd37e83f6f915c6c753e439b28ac8c3bc9b57"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité",
+      "id": "Theme_788454f96a85383e7d54226eaddc3e62e3b202446eb4ca62acc47795cfb3b96a"
+    },
+    {
+      "type": "Theme",
+      "name": "main-d'œuvre",
+      "id": "Theme_504f3d9cfbdf6cb43e5230501b5e29f1c5ea33afd75a12bc0241f1e3ec2395ff"
+    },
+    {
+      "type": "Theme",
+      "name": "TVA",
+      "id": "Theme_49bf80a82c0e14533e145591f007ed5c627921c84da9ad2aa35e180703ac88c0"
+    },
+    {
+      "type": "Theme",
+      "name": "chantiers",
+      "id": "Theme_0806ba86255b1148f5e8b39335284c32a91878310619cffe4357d45faafe82a8"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilisations",
+      "id": "Theme_6b8e2968aff8186ae0bec94667d52652fa952ffd6c76f5b6a3e0d4f1853183ea"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "travail acharné",
+      "id": "Theme_6be386306b3b8cacc3db4956b38dde2aa5d19e1d9dfb46bf5a57dc3a077705d5"
+    },
+    {
+      "type": "Theme",
+      "name": "constance",
+      "id": "Theme_28d736abb7ba8741643f08190e3966539d6a31f41da28dbedae6fea9a77a108e"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement collectif",
+      "id": "Theme_351cb822091e1d8b01c7f0fcbe9e3651d784ff9e740262d70941e3c7c8beb223"
+    },
+    {
+      "type": "Organization",
+      "name": "tous les services de l'État",
+      "id": "Organization_f7ddda7bec31365c8cf8f0815989b85be795dad9c51df9abbac67e04c36b48b9"
+    },
+    {
+      "type": "Organization",
+      "name": "des collectivités territoriales",
+      "id": "Organization_b2bfd245af5a05fdcf5969e9ffea49d4b170e74eac33cadb9e84711724c07cdd"
+    },
+    {
+      "type": "Organization",
+      "name": "des entrepreneuses, entrepreneurs",
+      "id": "Organization_1dcf062df63d9b3b5a9c76d726fa6be2acacdb9c40348d5772ac1bd1f2d97fc7"
+    },
+    {
+      "type": "Theme",
+      "name": "la misère",
+      "id": "Theme_51ea1104596b437ef9dc2440209fa9762faf8f0797eee7497a54b7e70d24bfbf"
+    },
+    {
+      "type": "Theme",
+      "name": "la dénonciation de la misère",
+      "id": "Theme_8a4e35c392101054d2fc86e3cfe8c3175d0429e7b33e00c53b02ab3d6c4dbd0a"
+    },
+    {
+      "type": "Theme",
+      "name": "la capacité collective",
+      "id": "Theme_431ecdea5b1a09e908d36b7cd4c2fb7f721f15f64f5ae7d785e20eddc3a4e3db"
+    },
+    {
+      "type": "Theme",
+      "name": "maisons France Service",
+      "id": "Theme_abc1276d08b6fa747a3670650e7bc07df2667bcfa05ba2a30a7791627247149e"
+    },
+    {
+      "type": "Theme",
+      "name": "espaces de proximité",
+      "id": "Theme_667d5ec0fc31ac5d2eddb2c2af7b2303a6b3df4ef12d2cb7bc06e4fd0e863351"
+    },
+    {
+      "type": "Theme",
+      "name": "projet cohérent",
+      "id": "Theme_4b6d9385474a39ee7d39fd9d6e80f82fd66cce7d43194b256cdfc414d1a8f776"
+    },
+    {
+      "type": "Theme",
+      "name": "constat lucide",
+      "id": "Theme_fcdfefd0c9d084b72c8be0cd3a7ecbed4e012756a42009bddcc39bce01ef01ae"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité",
+      "id": "Theme_acc723508a41199f835566db0d7e13173fe1e5ac3991cbfcec81806b11a3159f"
+    },
+    {
+      "type": "Theme",
+      "name": "vie meilleure",
+      "id": "Theme_a93470d669f6ecf1e0092c29c5ab1b226bc4ecb76858ea657b36c25339fa89d3"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "ERBM",
+      "relation": "LOCATED_IN",
+      "target": "35 cités",
+      "evidence": "l'ERBM visait la rénovation de 23 000 logements, et met l'accent donc sur les 35 cités qui sont les plus dégradées",
+      "confidence": 1.0,
+      "source_id": "Organization_ddebab0a4ad453558160698684ea4986eb4e09e07889f5f744e7b948dcb04d48",
+      "target_id": "City_7bf21162268e76e187b08fe3053bf0f7df50e54f1be5a83d663575573f535073"
+    },
+    {
+      "source": "État",
+      "relation": "PROPOSED",
+      "target": "contrats initiatives emploi ERBM",
+      "evidence": "L'État a également ouvert un dispositif expérimental de 2 000 contrats initiatives emploi ERBM, ce qui représente une opportunité inédite pour l'embauche, justement, dans le bassin minier et un vrai levier de dynamisme.",
+      "confidence": 1.0,
+      "source_id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612",
+      "target_id": "Theme_1f11f204f0184ab2f1d2ac0d5c7933d9831909c1eda3db08f69dd8d2ff94d2f0"
+    },
+    {
+      "source": "ArcelorMittal",
+      "relation": "LOCATED_IN",
+      "target": "Dunkerque",
+      "evidence": "à Dunkerque, avec ArcelorMittal",
+      "confidence": 1.0,
+      "source_id": "Organization_0df82bf232e4a43ad564bf667f976c804cc4b84f0842e306f007205c775b616e",
+      "target_id": "City_bda376ce18a11cdf6e31dcf1317332d2be264fba8faae021745f7e792736d7b0"
+    },
+    {
+      "source": "ARS",
+      "relation": "SUPPORTS",
+      "target": "votre région",
+      "evidence": "L'ARS continue de soutenir la formation des médecins, là aussi avec votre région, votre département et les communes.",
+      "confidence": 1.0,
+      "source_id": "Organization_e0895a481c105024ae88c4febdcf5db881937615d461198b5b7fcfa2894ae862",
+      "target_id": "Organization_470df011e511f9db92f4b9ff0bdf6dea6b2513a45d1f78be762ad25edb2b0196"
+    },
+    {
+      "source": "ARS",
+      "relation": "SUPPORTS",
+      "target": "votre département",
+      "evidence": "L'ARS continue de soutenir la formation des médecins, là aussi avec votre région, votre département et les communes.",
+      "confidence": 1.0,
+      "source_id": "Organization_e0895a481c105024ae88c4febdcf5db881937615d461198b5b7fcfa2894ae862",
+      "target_id": "Organization_9113febeb38b63b7d819a283106b020fe2b159c2ec35190a222f1d6d38475695"
+    },
+    {
+      "source": "ARS",
+      "relation": "SUPPORTS",
+      "target": "les communes",
+      "evidence": "L'ARS continue de soutenir la formation des médecins, là aussi avec votre région, votre département et les communes.",
+      "confidence": 1.0,
+      "source_id": "Organization_e0895a481c105024ae88c4febdcf5db881937615d461198b5b7fcfa2894ae862",
+      "target_id": "Organization_27f5c5ef679934e0d0e3958f62df1dbf1e9fd25dbeacd61ee43d0f5cd158745f"
+    },
+    {
+      "source": "bassin minier",
+      "relation": "LOCATED_IN",
+      "target": "bassin minier",
+      "evidence": "sur le bassin minier",
+      "confidence": 1.0,
+      "source_id": "Organization_fbb1a4f08a0f7baaf919d3450ff85820dfcbb98a2b891475648e099b02401ec2",
+      "target_id": "Organization_fbb1a4f08a0f7baaf919d3450ff85820dfcbb98a2b891475648e099b02401ec2"
+    },
+    {
+      "source": "imprimerie nationale",
+      "relation": "SUPPORTS",
+      "target": "atelier du livre d'art et d'Estampe à Douai",
+      "evidence": "Et c'est pourquoi l'atelier du livre d'art et d'Estampe à Douai, en lien avec l'imprimerie nationale, est un projet qu'on veut soutenir",
+      "confidence": 1.0,
+      "source_id": "Organization_0cfb694b53f45271f1f5b7acea4a5f967c17a0aabd7ca3902647bc1b218bbdcd",
+      "target_id": "Organization_c31ffd06c4ccd9383ff98828e4359e82e00cf038beafaff2e61a751b36a2a9c2"
+    },
+    {
+      "source": "atelier du livre d'art et d'Estampe",
+      "relation": "LOCATED_IN",
+      "target": "Douai",
+      "evidence": "l'atelier du livre d'art et d'Estampe à Douai",
+      "confidence": 1.0,
+      "source_id": "Organization_96839e43fcd514e610f0d0b9e1d170f3918737f7aeb10e91bbf51e860794aeae",
+      "target_id": "City_2176b1027a81ce0e83b327539bfb966788da3fa0edc511bb7a7f945b4818c88e"
+    },
+    {
+      "source": "bassin minier",
+      "relation": "MENTIONS",
+      "target": "pauvreté",
+      "evidence": "On a un taux de pauvreté qui est encore un taux de 21% dans le bassin minier.",
+      "confidence": 1.0,
+      "source_id": "Organization_fbb1a4f08a0f7baaf919d3450ff85820dfcbb98a2b891475648e099b02401ec2",
+      "target_id": "Theme_95b7ed519406cd062b2738f35707ce2b499fc7f2e5179d4c674216f14032a781"
+    }
+  ]
+}

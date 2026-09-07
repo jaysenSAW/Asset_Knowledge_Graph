@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "Organization",
+      "name": "CEDEAO",
+      "id": "Organization_ff1e778bfbd4255ebdecd974262a24f3693a795ac79ed21770872fa52242ac89"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Person",
+      "name": "Umaro Sissoco Embaló",
+      "id": "Person_207668a5fcd0f0ff2953b003cbea247dc9ad6d8311a8b5f4ec0bbfa13939b9b9"
+    },
+    {
+      "type": "Country",
+      "name": "Guinée-Bissau",
+      "id": "Country_c22f6d8117b6e6f270741db23b564b2bbb63202a6210530da2d78a54de07568a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "CEDEAO",
+      "evidence": "la France soutient pleinement les exigences qui ont été posées par la CEDEAO vis-à-vis des autorités de transition maliennes et guinéennes.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_ff1e778bfbd4255ebdecd974262a24f3693a795ac79ed21770872fa52242ac89"
+    },
+    {
+      "source": "Guinée-Bissau",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la relation entre la France et la Guinée-Bissau",
+      "confidence": 1.0,
+      "source_id": "Country_c22f6d8117b6e6f270741db23b564b2bbb63202a6210530da2d78a54de07568a",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

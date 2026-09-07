@@ -1,0 +1,555 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la Ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil Régional",
+      "id": "Person_573578ce8dcc0cbd0d0df64d3b962407bd6d8cd3892f9ff551d383aabd8949b4"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Chancelier de l'Institut de France",
+      "id": "Person_8bb0e1b551d3f1315694090da4d9e4dcbf35a3ef11f9857389c54d9679b58a82"
+    },
+    {
+      "type": "Person",
+      "name": "Madame le maire",
+      "id": "Person_633639a8397e0955ac29553bd5f3a3a8d64cdc990c3713de4f777f9e9f42805f"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le député",
+      "id": "Person_4746724da949de5152bb436de6d62d3b5736bd33312b1097da7beb59ab3ce96b"
+    },
+    {
+      "type": "City",
+      "name": "Chantilly",
+      "id": "City_e332bb804c128de150f6476e434fb773e01bd91093dc0702e92cb975840dec98"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Normandie",
+      "id": "City_f0fe3a8c9028ddfa11298d6496804a09e1a0ab72a0ef8225769f14175bfca277"
+    },
+    {
+      "type": "City",
+      "name": "Provence",
+      "id": "City_02563396c2e1a5b02a9aa4678b67397e930cb5ad9d86981d6f4514102ab8d4fd"
+    },
+    {
+      "type": "Event",
+      "name": "sommet Destination France",
+      "id": "Event_a891a2a363339e4ae1039d1cd0d1ae19d663e7dc5b9a1ee638486dee4ea2b9b2"
+    },
+    {
+      "type": "City",
+      "name": "Élysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "City",
+      "name": "La Seine",
+      "id": "City_188eef8e7304d0e450444fc0c4e4de8eafcb0b1f25aa2fbfe9db3eb85fd49cbe"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "City",
+      "name": "Tahiti",
+      "id": "City_473ca001a14d25dd47d5345b7964d6c01e85ec0a3600a41b432a241a57073c4a"
+    },
+    {
+      "type": "Organization",
+      "name": "rugby",
+      "id": "Organization_a4a3085ed8dd561897fb053954c23fdd8bfa9529ae2dc5848acd807a8fa9d191"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux olympiques et paralympiques",
+      "id": "Event_d869c8d614b2e9c4090e4d5a2f9c363060ce721a3b87b806bdde2756023fa2dd"
+    },
+    {
+      "type": "Event",
+      "name": "francophonie",
+      "id": "Event_20bc7e1d15fa657bd338c2365070f62ed92a52341f2447435bde1da69ce888bb"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut",
+      "id": "Organization_11f1472856756fe26712a4382a2a517a601d400a0c5c5a0500b5e744f2e229aa"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Chancelier",
+      "id": "Person_02581618e061350fbdd46beea08715070a6256e5c2d26f39d0bc79cc68981238"
+    },
+    {
+      "type": "City",
+      "name": "Villers-Cotterêts",
+      "id": "City_6aab14668bdee637018a1a68554281503579fbe339dd9c176e5ba0e6fb326493"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "City",
+      "name": "Notre-Dame de Paris",
+      "id": "City_44911f880fe4b42a406eb7c8fab48472dbf8026b5667bd35240a8cb7e9b396dc"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "City",
+      "name": "Bordeaux",
+      "id": "City_ec6760adfddeb4aa228eab33177f9fcda347d6fe13cd536c166f0da4cdf9d1ef"
+    },
+    {
+      "type": "City",
+      "name": "châteaux de la Loire",
+      "id": "City_6b4a1bb7ef50208f6975d3fe13be5011786cc1590b5c3f6211021ee298f8259d"
+    },
+    {
+      "type": "Organization",
+      "name": "nos partenaires internationaux",
+      "id": "Organization_5c88f02601c1cf887af8521f1c212341b1cabb211230ca2b9eb115f87620a760"
+    },
+    {
+      "type": "City",
+      "name": "la région",
+      "id": "City_b8c70c7de82e1cce2d00ab50da05159a18594010ddd25471ad72c875e9386881"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "résultats",
+      "id": "Theme_52c04f17f67dd39c37208223246d2b167ee7df2590aca77966c5b534cdcac05a"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "politique économique",
+      "id": "Theme_29af0f01d347faa50be268cfe02d9b42b30afd63a2013c74258706efaf914389"
+    },
+    {
+      "type": "Theme",
+      "name": "crise Covid",
+      "id": "Theme_f795ef1333fb420f606311508232d39f9e4e804aec2881d112ecc1755b95f540"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes macroéconomiques",
+      "id": "Theme_a2ad508491df41e12cf0ad373b6778f64fda287b2aeec36e2d7d41c142788371"
+    },
+    {
+      "type": "Theme",
+      "name": "baisse de la fiscalité",
+      "id": "Theme_4928a610ed3f803957ad5683802cf08e248b4f62e9d48b1a8a51da84643e5398"
+    },
+    {
+      "type": "Theme",
+      "name": "coût du travail",
+      "id": "Theme_22e28f674378a26d81a95fbe698e2737cb7d69efcdcac0c360d5995ac5c6e2f1"
+    },
+    {
+      "type": "Theme",
+      "name": "normes",
+      "id": "Theme_63b2bd4eb30422d7f3e9df259557711eba985b3d7f2995b7837452ba98b6b0b4"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification du droit du travail",
+      "id": "Theme_c7169854288a959cf1900ab7b033d534288da861925fe5736762453c62d0bf07"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations",
+      "id": "Theme_3957cb051014b00717e7b2ec655cbcfa47c99687835fe48f9d3a8fbe1cedaead"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariat de croissance",
+      "id": "Theme_0e2341d4fc4749fba20dbae6ee443d0e2290f9e8b3ebd1d9bc63dbfbb6cb3465"
+    },
+    {
+      "type": "Theme",
+      "name": "régions",
+      "id": "Theme_517b777f2e26c668d40b8c70e5c435e7111c4b26f68ad351b155ce2e26fc3aa0"
+    },
+    {
+      "type": "Theme",
+      "name": "batteries électriques",
+      "id": "Theme_761658a4d46dd4a8a739d988d1dcca8fa209d5dd7a0f44441b555ae6efde6d92"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "tourisme",
+      "id": "Theme_6230ab46b903a54cbd735ffcdd8016d5b3ccadaf12ae9993a40cfa32b83e758f"
+    },
+    {
+      "type": "Theme",
+      "name": "industries culturelles et créatives",
+      "id": "Theme_ef14ef4d2275ddcba317f38a70bd25b9aaf03efd3b3c01da30d5b59ac891fb7a"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "télécoms",
+      "id": "Theme_7beb8dee6b9a27fcb58116ed38a8f8246a893da4660a9065a3655ca60d012b6b"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilités",
+      "id": "Theme_058abbe8e65cde0ac9d0ce69308b7d657b0a5aa507d4c8ec532e9a6386940e93"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies renouvelables",
+      "id": "Theme_912e2c1b6d76c17cfecb65f028f348cae97ce3cd43f48890e5f528fb3273c56f"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "durabilité",
+      "id": "Theme_587ac60fafd91880456f3a58959448680f3d222ce5a7bf3163f44e212c5ccfd2"
+    },
+    {
+      "type": "Theme",
+      "name": "slow tourisme",
+      "id": "Theme_a9f454f19b4f835cc63cee2f6f095dd00bdd3ddbafa2957f6ff6aa484d581dfc"
+    },
+    {
+      "type": "Theme",
+      "name": "décarboné",
+      "id": "Theme_8e8bb34203c9394fc7604d67fd6b2842431039fb8cfe7f550f9572ea9e746a29"
+    },
+    {
+      "type": "Theme",
+      "name": "durabilité du tourisme",
+      "id": "Theme_97e29fce1a2ebadcdb6611fb871ad2ab514f0dde24806826860710b0a7f14a81"
+    },
+    {
+      "type": "City",
+      "name": "Bourget",
+      "id": "City_d97ef28884a4015e76b5b3c9ad74b60f53bad241b7c90dc8b19f3f9a026c8304"
+    },
+    {
+      "type": "Theme",
+      "name": "talents",
+      "id": "Theme_3b7a6c56442c49486f7601fa3bced61cced2f4aadaf5f134fda32ff8e738503d"
+    },
+    {
+      "type": "Theme",
+      "name": "recrutement",
+      "id": "Theme_dc4a51d6853c4a656f70dd021f7954af49386c033fd11547f64cc55d4ae66a46"
+    },
+    {
+      "type": "Theme",
+      "name": "main d'oeuvre",
+      "id": "Theme_1f712ca88351d229a2591b9e68bfa1c2ce4024e524f666f0ea87d209c901a86c"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunes",
+      "id": "Theme_a20dcaf37efe496f33d1e4c4be9f3c3dabe56fc83fe45c815f1d76fdaaef0dcf"
+    },
+    {
+      "type": "Theme",
+      "name": "lycée professionnel",
+      "id": "Theme_82d8f5ba45d8801be83bdb04478d40f5921345a3a1bce486c86a294aee9df0a3"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "Hauts-de-France",
+      "id": "Theme_286dff6483504ad739809ca07e5fe995f3f72e6f57b906649ff0260a6f25116a"
+    },
+    {
+      "type": "Theme",
+      "name": "orientation et d'attraction des talents",
+      "id": "Theme_e66189440eec599d74557b2c63752fe14d608c4bcee48f24cd359f3738f7841b"
+    },
+    {
+      "type": "Theme",
+      "name": "semaine des métiers du tourisme",
+      "id": "Theme_4fbaf4b933f8500636a9b293bf4175e09b66167bf2c4d17b8d4b4e89a2ba7e95"
+    },
+    {
+      "type": "Theme",
+      "name": "diversité des métiers liés au tourisme",
+      "id": "Theme_c8297370d365bdb4587b489cfa85d4c85f7dda5f57ac94daaad9690433856121"
+    },
+    {
+      "type": "Theme",
+      "name": "carrières",
+      "id": "Theme_599fea681aed9aac3420cdfa38f631b0902a4081a732169614b833337474b6aa"
+    },
+    {
+      "type": "Theme",
+      "name": "secteurs du tourisme",
+      "id": "Theme_38c68fec7a95fcac29f398683d6235c06578bcd31368c49ed45993031d0b8561"
+    },
+    {
+      "type": "Theme",
+      "name": "formations",
+      "id": "Theme_69f287e343dbccf01ac37a421d37dbda3bc03cd334ec5affea272b0f4f64ea7b"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité de vie au travail",
+      "id": "Theme_4d0f7ecf31454b0f1b155f8df90474afdf24d8da60e44e41e2f150e28bed6653"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation des métiers",
+      "id": "Theme_c27ed559692728965811e4cc7522e813f8213ad0b2b7b48e393e5a31b974e4fc"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "transition numérique",
+      "id": "Theme_e0a76a48c21ea818fd9ce341506e55efda05bd398e6515f7f291fa137dc24d00"
+    },
+    {
+      "type": "Theme",
+      "name": "Travel Tech",
+      "id": "Theme_058cf7dc2e3de4893520983d0908766aed9387787a1bf8f3e9c92f825f936916"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "objets connectés",
+      "id": "Theme_677e24d010eabaf2f062cd41c08c80b43f6cf54d595c8a20aed520ab0ea79d07"
+    },
+    {
+      "type": "Theme",
+      "name": "réalité augmentée",
+      "id": "Theme_34120ad928afe4a13439301e36f6b1877b8e0f4ba4eb9ffb582a89e3d99627e6"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "patrimoine historique",
+      "id": "Theme_d67ca2dae0ee1c588ef9a29922c37f3b4e50c8f85bfd10919bbd4a085fbc9a42"
+    },
+    {
+      "type": "Theme",
+      "name": "gastronomie",
+      "id": "Theme_95de876b1173e4eff212fc36e76d6c5f96b693492bb23438c8897dfee2f77158"
+    },
+    {
+      "type": "City",
+      "name": "Berlin",
+      "id": "City_b99770cd89b8870c4e168b4e52a8f787b64a4a2fc9ef992bf093af11c7e6a055"
+    },
+    {
+      "type": "City",
+      "name": "Mont Saint-Michel",
+      "id": "City_db368e8b05acd64e55aca82f1202729da22a314c5dc89c66ed252028d667936e"
+    },
+    {
+      "type": "City",
+      "name": "Notre-Dame",
+      "id": "City_53c3f777884e31a5acc4f71ab8497789b78b3fa0f6030df8fb3024485c574073"
+    },
+    {
+      "type": "City",
+      "name": "Tour Eiffel",
+      "id": "City_7883fdcbd5ad73ac076788efe6e55c12190a44a9769c5e3f8ff70484335eb078"
+    },
+    {
+      "type": "Theme",
+      "name": "monde de demain",
+      "id": "Theme_1a22f500d3fcf2a7710875900f9751f9f47367086edd415aea4c51d71b929b89"
+    },
+    {
+      "type": "Organization",
+      "name": "différents ministères et services de l'État et les cabinets",
+      "id": "Organization_920e1fc2edd24bbebf67350cc674e6fec36e41cf0052b8234c245b035a8153db"
+    },
+    {
+      "type": "Theme",
+      "name": "aller encore plus loin",
+      "id": "Theme_1ea26f7fccf3cc6abb9d5bf9e82b4fb3639a3bcb8282924f990413d1cd28607c"
+    },
+    {
+      "type": "Theme",
+      "name": "devise olympique",
+      "id": "Theme_0817f1d9c1891e3447afc0957553348f70bf62e9e8c7490679b0c1e95a902cf5"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "francophonie",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Depuis 33 ans, la France n'avait pas reçu la francophonie.",
+      "confidence": 1.0,
+      "source_id": "Event_20bc7e1d15fa657bd338c2365070f62ed92a52341f2447435bde1da69ce888bb",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "la région",
+      "relation": "LOCATED_IN",
+      "target": "la région",
+      "evidence": "dans la région ces dernières années",
+      "confidence": 1.0,
+      "source_id": "City_b8c70c7de82e1cce2d00ab50da05159a18594010ddd25471ad72c875e9386881",
+      "target_id": "City_b8c70c7de82e1cce2d00ab50da05159a18594010ddd25471ad72c875e9386881"
+    },
+    {
+      "source": "innovation",
+      "relation": "MENTIONS",
+      "target": "innovation",
+      "evidence": "Après la durabilité, les talents et le recrutement, le troisième grand défi, on le sait, c'est l'innovation.",
+      "confidence": 1.0,
+      "source_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc",
+      "target_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la France est une grande nation par le tourisme, une grande destination pour venir produire et innover et une grande destination pour inventer le monde de demain.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "tourisme",
+      "evidence": "la France est une grande nation par le tourisme, une grande destination pour venir produire et innover et une grande destination pour inventer le monde de demain.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_6230ab46b903a54cbd735ffcdd8016d5b3ccadaf12ae9993a40cfa32b83e758f"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "monde de demain",
+      "evidence": "la France est une grande nation par le tourisme, une grande destination pour venir produire et innover et une grande destination pour inventer le monde de demain.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_1a22f500d3fcf2a7710875900f9751f9f47367086edd415aea4c51d71b929b89"
+    }
+  ]
+}

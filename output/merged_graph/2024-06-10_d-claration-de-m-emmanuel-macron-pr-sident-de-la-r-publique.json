@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Frank-Walter STEINMEIER",
+      "id": "Person_d3c43522990758aa673f35b67ec362666aa441a30df109866d393aa74ff3047c"
+    },
+    {
+      "type": "City",
+      "name": "Oradour",
+      "id": "City_d50403b4400f3e02a3dcd28776abe4e533fc38741fbe749f50034bd0fba26ce8"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Jean Tardieu",
+      "id": "Person_2a79667b38745e3bc223a49a51cf4aaaf40476c8621e1de5818e6e09924987ec"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "City",
+      "name": "Tulle",
+      "id": "City_4cf5ef6f4748be547af8474c58c3d5458bf9d645b6636a9aa4cb66b6300516d2"
+    },
+    {
+      "type": "Organization",
+      "name": "division Das Reich",
+      "id": "Organization_df3ae76a242e1603db42dc0c2c60440bf33f69fb2800b519db081f6d7c3f9264"
+    },
+    {
+      "type": "Organization",
+      "name": "SS",
+      "id": "Organization_b2f1040228f03a606624655929069e2ad3c7cb7f5e463eaec819e8ddb0fe3c0d"
+    },
+    {
+      "type": "Person",
+      "name": "99 hommes",
+      "id": "Person_9e41563dce2f4716a526427ac7a76caf2038a14e03dd28ee66dd4e4ded8a83fb"
+    },
+    {
+      "type": "Person",
+      "name": "149 autres",
+      "id": "Person_ecaaac4320a41f074d152cd4204992763fb59059dd8340d8466d2bcf9e793988"
+    },
+    {
+      "type": "City",
+      "name": "village",
+      "id": "City_338912bc93b7f240e9737096727e03c86e9d798a9e6181081874a4107a2aca94"
+    },
+    {
+      "type": "City",
+      "name": "place du champ de foire",
+      "id": "City_056f4170b5855160dccaf77865ad70e6ea0017c9a51a88e7622b5c8733c95cb6"
+    },
+    {
+      "type": "City",
+      "name": "église",
+      "id": "City_1d2755fa42935696529ccee92c9bca5f440a53f5f9acfc878c8d5284bdd9d05d"
+    },
+    {
+      "type": "Theme",
+      "name": "foi",
+      "id": "Theme_3d11e20676b154ad81d01c164d3f0e193f5af82d9fc1913b8ddfcbdab7a88c58"
+    },
+    {
+      "type": "Person",
+      "name": "Adolf Heinrich",
+      "id": "Person_cf9a6ec5c4c1b0a7b2c2fd98c67bbc8a75da6652f8e87d7988f29912d8a1ced4"
+    },
+    {
+      "type": "Person",
+      "name": "Robert Hébras",
+      "id": "Person_5f4a9a933b3cf9b2089c28082a7d10d44d96e9a759024c933b631f16591d0e49"
+    },
+    {
+      "type": "Person",
+      "name": "la petite-fille allemande d'Adolf Heinrich",
+      "id": "Person_2c24da23002ab187f4364721463c9473d7783551fdaa4b1e024cb15dfc400030"
+    },
+    {
+      "type": "Person",
+      "name": "la petite-fille française du dernier témoin",
+      "id": "Person_f4ffdf2d85cfd6618cdce84e9bb2daf59b8c05b1e4b91b7d582a781ebf8d2785"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "pardon",
+      "id": "Theme_ce3b884cb183bfd64b84f06f565d28c81686750a96f6f8fd8a60f43e11779beb"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "réconciliation",
+      "id": "Theme_8d5bbf9fa4c18c27128cf4e69eeb853866d5a0e8340a4579e43a6868a65b691b"
+    },
+    {
+      "type": "Theme",
+      "name": "amitié",
+      "id": "Theme_da59468cff46157116230d1b59468dc6ee8497b19a27cf4c7344818aedeeeb88"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Oradour",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Oradour était devenue une petite France, avec ses racines et ses ramures, son ancrage et sa vocation à l'universalité.",
+      "confidence": 1.0,
+      "source_id": "City_d50403b4400f3e02a3dcd28776abe4e533fc38741fbe749f50034bd0fba26ce8",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Allemagne",
+      "evidence": "Parce que dans cette réconciliation se tient l'amitié entre l'Allemagne et la France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "amitié",
+      "evidence": "Parce que dans cette réconciliation se tient l'amitié entre l'Allemagne et la France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_da59468cff46157116230d1b59468dc6ee8497b19a27cf4c7344818aedeeeb88"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Allemagne",
+      "evidence": "Parce que dans cette réconciliation se tient l'amitié entre l'Allemagne et la France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    }
+  ]
+}

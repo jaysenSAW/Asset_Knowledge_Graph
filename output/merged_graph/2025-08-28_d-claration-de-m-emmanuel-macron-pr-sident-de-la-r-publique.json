@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Chancelier",
+      "id": "Person_aebf390a9bfb3a6878f4d2c4a98bb17708e3ae9dc7892dbb44182524bc9d243d"
+    },
+    {
+      "type": "City",
+      "name": "Toulon",
+      "id": "City_e269c743821deaa732a9c8c1951186d7a971393eded589032f1026304a7b1fa7"
+    },
+    {
+      "type": "City",
+      "name": "Villa Borsig",
+      "id": "City_68851de7b6e6b93eccd55c08e511bdce158e6f594095355892f917d07f84f250"
+    },
+    {
+      "type": "Country",
+      "name": "Moldavie",
+      "id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "City",
+      "name": "Washington",
+      "id": "City_ee7e345909a6fe1df02cbeb0ed489e719cbdc04c7a27e2818d861e092cc9ad8a"
+    },
+    {
+      "type": "Country",
+      "name": "allemand",
+      "id": "Country_0be9d51d72db657bf3194b4eab8c3e18c49339c19a03343e216436c8e0b85cd9"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil franco-allemand de défense et de sécurité",
+      "id": "Organization_7c52a8fd690b7a485ac934e89c8c2a84a253e17f32dde518e5c12587042cbc58"
+    },
+    {
+      "type": "Person",
+      "name": "Friedrich",
+      "id": "Person_1083a7cf6386411c9c12cb828a8344d613f0a85d0b0033df38ef59e02c43a479"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil franco-allemand",
+      "id": "Organization_8c71ef4e1b63378fd23c0f63bbfad42ce4879b5f4179413e18cd063141ae0bb0"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Conseil franco-allemand de défense et de sécurité",
+      "relation": "LOCATED_IN",
+      "target": "allemand",
+      "evidence": "Conseil franco-allemand de défense et de sécurité",
+      "confidence": 1.0,
+      "source_id": "Organization_7c52a8fd690b7a485ac934e89c8c2a84a253e17f32dde518e5c12587042cbc58",
+      "target_id": "Country_0be9d51d72db657bf3194b4eab8c3e18c49339c19a03343e216436c8e0b85cd9"
+    }
+  ]
+}

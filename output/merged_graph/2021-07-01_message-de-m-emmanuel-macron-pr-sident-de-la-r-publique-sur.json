@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "congé paternité",
+      "id": "Theme_d45d6ad97afcca05f86fd963f5dd7006d2627b2b11c34a31975571cdfca2093e"
+    },
+    {
+      "type": "Theme",
+      "name": "statut précaire",
+      "id": "Theme_48131e90884cf8484df1159c50bd113497a9736ac3707a007530bab083afa810"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité entre les femmes et les hommes",
+      "id": "Theme_b484a156d9d64e08166b13528c3fa60f7e66a7f8a085ad36db2ca83767aac644"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités économiques",
+      "id": "Theme_bc588c3ec666569273c1845654a16cd6795137fa35073003b7e7f862343cfbd1"
+    },
+    {
+      "type": "Theme",
+      "name": "répartition des tâches domestiques",
+      "id": "Theme_4de203439c69ccb27b2fa9a1f5925dc524ab7458f5715c0ee81f4bd0d40580ab"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "congé paternité",
+      "relation": "MENTIONS",
+      "target": "congé paternité",
+      "evidence": "ce nouveau congé paternité est crucial pour les enfants.",
+      "confidence": 1.0,
+      "source_id": "Theme_d45d6ad97afcca05f86fd963f5dd7006d2627b2b11c34a31975571cdfca2093e",
+      "target_id": "Theme_d45d6ad97afcca05f86fd963f5dd7006d2627b2b11c34a31975571cdfca2093e"
+    }
+  ]
+}

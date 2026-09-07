@@ -1,0 +1,740 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Giorgia",
+      "id": "Person_42dd803f9ebfc5c1e14e6fa714c12b634ca8120c1d7241a225fb2cf527872dd7"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Antibes",
+      "id": "City_082b108497d1651cfd21c866f6b521709621a3bb98db33164ada4e23fe1f9b1e"
+    },
+    {
+      "type": "City",
+      "name": "Évian",
+      "id": "City_40ee17ba3fe5cb7b00ec5510c998566aeb30ae5ea098f0c56d98a735161243c8"
+    },
+    {
+      "type": "City",
+      "name": "Berlin",
+      "id": "City_b99770cd89b8870c4e168b4e52a8f787b64a4a2fc9ef992bf093af11c7e6a055"
+    },
+    {
+      "type": "City",
+      "name": "Ankara",
+      "id": "City_e1942ae8a2c8c8085db5e9d3d66e1cc8a0f3745cc3ca04971be275b110e57b9c"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil européen",
+      "id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Organization",
+      "name": "Communauté politique européenne",
+      "id": "Organization_8a93842f693c1a3a5724e43329bd7d4583ba6c51064f8c7015cbafc24a94d4f2"
+    },
+    {
+      "type": "Organization",
+      "name": "Ukraine",
+      "id": "Organization_21d6f44cfd20eb0daee12bd2237e5a99e3ca7d2677c7597be574c2d9de7b165f"
+    },
+    {
+      "type": "Organization",
+      "name": "Italie",
+      "id": "Organization_36873ce00134e7998f37771918ea2bdc424b079c7759e29e817d4f643808cbe6"
+    },
+    {
+      "type": "Organization",
+      "name": "missiles Aster",
+      "id": "Organization_1c5d28838babe943d63ca4a4ed782e134195f670760d10d8dd8d65e64ad7610e"
+    },
+    {
+      "type": "Organization",
+      "name": "SAMP/T Nouvelle Génération",
+      "id": "Organization_e8e2f824a7b9584ee977d09b5c4e14001c2b65801ef2347aeab7af80cab9e213"
+    },
+    {
+      "type": "City",
+      "name": "Cannet",
+      "id": "City_a19558205179c9f712c4f27b4a98de4dd15c331c0bb3354c472182366508d180"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance énergétique",
+      "id": "Theme_eb9f103e534f4f7d83c757cfab5c36c8be8f833115d5662a74a492004b6ef140"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire civil",
+      "id": "Theme_7d8b830a3b1cf040e39afa3e483124e2245eb4dd5b312bd12f2b498c458a1580"
+    },
+    {
+      "type": "Theme",
+      "name": "production d'énergie nucléaire",
+      "id": "Theme_af948e5d9000a744f84d2162f2f606f9911000283966ba48d2d01ded1827f3bf"
+    },
+    {
+      "type": "Theme",
+      "name": "déploiement en Europe",
+      "id": "Theme_d12fd920652e76930bc4209bb5b705f1f0b5a702b0aeb8cab70123da98ae8fad"
+    },
+    {
+      "type": "Organization",
+      "name": "Thales Alenia Space",
+      "id": "Organization_bd4d3d13ca2748f22ed54b2b933152e9b20d787f12f9d6d2d5669b992e787716"
+    },
+    {
+      "type": "Organization",
+      "name": "Airbus",
+      "id": "Organization_41a65ef42423e17c2e554b35b23788a40b455d82f989891061352dba64083a6e"
+    },
+    {
+      "type": "Organization",
+      "name": "Leonardo",
+      "id": "Organization_fc96c4f483150c85bf9f7ae0851f0f9247561f243e3df0c68e23fe02cbfc2be9"
+    },
+    {
+      "type": "Organization",
+      "name": "IRIS²",
+      "id": "Organization_c5589f45bf737ac0683298124b7a858ccd200188acd8ed816c45168c6585a476"
+    },
+    {
+      "type": "Organization",
+      "name": "BROMO",
+      "id": "Organization_dc8c0ff75da93667de0fae8da52b564228f5a846a9aa520a794278f765759f0f"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "résilience",
+      "id": "Theme_ae0698b8a130cd1cd5df43fe5e3e189eb0c16712f2fa72aeeed81640c8d2a14e"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "espace",
+      "id": "Theme_1079951084765f97ec568b6af52f4f01fb8e7320c4a80499a9534a7cd945d3c6"
+    },
+    {
+      "type": "Theme",
+      "name": "communications par satellite",
+      "id": "Theme_e423cc72f213c8ee65b8e8f5560465a09e6d3824b9a3f388b4bd4a35699e77fc"
+    },
+    {
+      "type": "Theme",
+      "name": "observation",
+      "id": "Theme_07b29a11de9de007c408ed0f4867e3894a0a0b98a4e5aadf08a1dcb0d8faaee2"
+    },
+    {
+      "type": "Theme",
+      "name": "exploration",
+      "id": "Theme_d64dbac8e193fa58efcdfa2d24dc18c52c715f0eb75760fa622697fefc4ca5b6"
+    },
+    {
+      "type": "Theme",
+      "name": "spatial de défense",
+      "id": "Theme_45c9a0ec01bf8f7157635d35972d636f57750b946bb8ec5a2a116786964eccba"
+    },
+    {
+      "type": "Organization",
+      "name": "Pacte asile et migration",
+      "id": "Organization_80abd1bb3ac8ccd3f041e155315b844b349fc12d9301bc888d5527bb9e5efbe8"
+    },
+    {
+      "type": "Organization",
+      "name": "Coalition européenne contre les drogues et le narcotrafic",
+      "id": "Organization_b1d275c718965457a690db6e2a51db78c6b32efa7a20574b0c27650082491c9b"
+    },
+    {
+      "type": "Organization",
+      "name": "comité transfrontalier porté au niveau des ministres",
+      "id": "Organization_97729d08a50e6d550bb0999ee7f84f24127b6e5dc3e63fb8e0208e1002e0d18c"
+    },
+    {
+      "type": "Organization",
+      "name": "traité du Quirinal",
+      "id": "Organization_b29f3de6f8fe0ffc2963b7d720a5f27c27d11559c686bcd604a0696a451c8b1f"
+    },
+    {
+      "type": "Organization",
+      "name": "projet du tunnel routier de Tende",
+      "id": "Organization_40bef6dab91548682c2148a071593e5f8aa642162bf067c65ce7967157b51b67"
+    },
+    {
+      "type": "Organization",
+      "name": "projet de liaison ferroviaire Lyon-Turin",
+      "id": "Organization_651e5ffa2d54ef359b03367845387945d8f62d6df9c4f32c3038dd382298e0f7"
+    },
+    {
+      "type": "Organization",
+      "name": "axe ferroviaire Marseille-Gênes",
+      "id": "Organization_f6e3ad4c916499b915a80ba2e9a6342a5a1fb156066c44ff8af23c0959038310"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "patrimoine matériel",
+      "id": "Theme_7bb86ca4c54c24a658701528e9fa4add1698c5d2b770aad332283e01008736d5"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité des artistes",
+      "id": "Theme_34bab6141a8b9a8c4e69d77c4f1f1e885c33028c744b913bfe9a73543b9bde17"
+    },
+    {
+      "type": "Theme",
+      "name": "coproduction d'œuvres culturelles",
+      "id": "Theme_10423d545705b9866ac60776df2ae621bd9515ef06011078d63653055df2863a"
+    },
+    {
+      "type": "Theme",
+      "name": "cinéma",
+      "id": "Theme_1535a7883e8329d1216c195b6afd3d5bc6d95b6cba0353551bde9b1592e3fc37"
+    },
+    {
+      "type": "Theme",
+      "name": "audiovisuel",
+      "id": "Theme_6e766a338a89316fdc0b94f4ceb625d1cf962b7759d33d35f46e003e305e49ec"
+    },
+    {
+      "type": "Theme",
+      "name": "accord",
+      "id": "Theme_0b2df016a46af61e5cf597152a6927f3908f2e525170825ef36df6fa7215075f"
+    },
+    {
+      "type": "Theme",
+      "name": "vitalité",
+      "id": "Theme_6cae20f54e9800819737ab331cc42040a07cc132f27ad4bac939248e800630ad"
+    },
+    {
+      "type": "Theme",
+      "name": "échanges",
+      "id": "Theme_0f6dcbf489c64ea89cd3b6ffd40e99444b6367733449b465ab4b18c32a46403b"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesses",
+      "id": "Theme_39040882111f5fa544adb95818891209a401b9c372f2bd9cb2d067640ce6fa2a"
+    },
+    {
+      "type": "Theme",
+      "name": "étudiants",
+      "id": "Theme_5a6dea4ce3005b04f54c86246d8370c481bfd768371a72c32f25a07ebf220efd"
+    },
+    {
+      "type": "Theme",
+      "name": "parcours franco-italien",
+      "id": "Theme_5d57fe5e2a3135ad17a52a6ae6172a45460ee303aee517859628feee44359b13"
+    },
+    {
+      "type": "Theme",
+      "name": "lycées professionnels",
+      "id": "Theme_d5a727cf10ff698320a69174d2f6f7cd45e3b0a2cbd67a7af930e818de537c69"
+    },
+    {
+      "type": "Theme",
+      "name": "programme de jeunes talents",
+      "id": "Theme_6b40ff01735a5b03e0166be70da525405e070b97c2f140ecb9535c48db935fb7"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement",
+      "id": "Theme_efc3dc97047baa5c3d3ee692ed991601fa0b8b2e5b98fe282efd49cfc58792e6"
+    },
+    {
+      "type": "Theme",
+      "name": "formation professionnelle",
+      "id": "Theme_d846003645ad5e5e511208f664265ae5edc2a1f2c5d843f3ff4622d434eb6c71"
+    },
+    {
+      "type": "Theme",
+      "name": "financements conjoints privés",
+      "id": "Theme_bcbbe1f453bdfe8ba65088aca1b06e7ffbf7776e45b57dffb13d82ec1916e0f0"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques de cohésion",
+      "id": "Theme_af19872b065e8509b5065a1a90cf8c63734edf869e1a0dadc9e1a5fdea2cada9"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "ressources nouvelles",
+      "id": "Theme_af3b36bbd4c0b4d1a86361655b4cfbea770617657f6c420f772f7d29ba833315"
+    },
+    {
+      "type": "Theme",
+      "name": "industriels",
+      "id": "Theme_65f1038ff0752a877be8ce71144e93bba19c4c44f80762614e26462e31508666"
+    },
+    {
+      "type": "Theme",
+      "name": "ménages",
+      "id": "Theme_bf1979baa82783d7072a0a5c8a51032c60bf9a6089d0e12ff4a202784677e521"
+    },
+    {
+      "type": "Theme",
+      "name": "endettement communs",
+      "id": "Theme_85224c7a38164bba45268fc447b7804ba32acb8fea836392b0a7fe303de117fd"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "City",
+      "name": "Ormuz",
+      "id": "City_628a8c80d1f68f9b6623fcce8aa10c78aaa4f268c571ec5c052095f2aafa695b"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "Palestine",
+      "id": "Country_b1ebd722dd8ffa39d4f6ceb5282cae944d16f26dce1689b04cbaf84077610527"
+    },
+    {
+      "type": "Country",
+      "name": "Cisjordanie",
+      "id": "Country_745d1cc4b98bc0b4232be96facaad25d821a3008fd397de7738c24c2718b3d51"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Organization",
+      "name": "FINUL",
+      "id": "Organization_52f8389fa50c917e886bd4d4ac9e1c84c07b747f81ac5e5ec4fd18efd1332deb"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "forces armées",
+      "id": "Organization_ed6d0c8e17ede3f38f78c974081b902e61a379bbc7e96bd5097928140f6a63dc"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "droit international efficace",
+      "id": "Theme_79613fd9dc1c13e417aef659421897d19a721570ab494008781beeb148a09165"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre international plus stable",
+      "id": "Theme_3e77186bdf79a7834607a5fc9a61d210d1f8b683e191bf117a8e13c498d80c91"
+    },
+    {
+      "type": "Person",
+      "name": "Giorgia MELONI",
+      "id": "Person_70d5dafcab54bfa9306ffb1d3ac2416798aabf27392e74da254032bf91571f0e"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président de la République",
+      "id": "Person_e86345b05d8782cfddaa96e93ade5433169a424e284eedc4c7f2b6b6bb49576c"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "City",
+      "name": "Tende",
+      "id": "City_a2f3aa3d859ce03eed7dad681633cb737c1b012a10acf2b895bbd0efa04799da"
+    },
+    {
+      "type": "Person",
+      "name": "Je suis, moi",
+      "id": "Person_a115552c44de014a6014745836ac22e0cd88a7d3e1cf010af1b6002135be2252"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération transfrontalière",
+      "id": "Theme_e3a86ac53bc0893ca6cf2d289f228ad637e21a06fa663be82042ce1793c6f174"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructures de transport",
+      "id": "Theme_c28fb510196b65c1852c3cc72f9e1e30342461b4100b9e4a43ed2fe845601438"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre l'immigration clandestine",
+      "id": "Theme_5cdf02a7dc1165d55ffbda94e57a28ed7bee0755a94e1b0beac14adeb91187b0"
+    },
+    {
+      "type": "Person",
+      "name": "Georgia MELONI",
+      "id": "Person_3ad662e5073da2427cdc473a3ac509a296575e78129ef6b9ac9e0f0002ed17b4"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Japon",
+      "id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Proche et Moyen-Orient",
+      "id": "Country_e0b323e9f3a1ca202741b7afa696c4252d461df07e8587577b8d55eea9f7a3ea"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente du Conseil",
+      "id": "Person_14621ded53d76ba90c8f03fc80dda4498b198c9536642abd4e7ff8742cd2c039"
+    },
+    {
+      "type": "Person",
+      "name": "Marine Le Pen",
+      "id": "Person_1179b0c2380f623448f854923bef27989e28a4ba5c870013266b50f39aeefe35"
+    },
+    {
+      "type": "City",
+      "name": "Vélizy-Villacoublay",
+      "id": "City_b8c7e0e45b4f00a72b8a0048f0c62110858503d7fcaf67cf976add962a1b6344"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "pic caniculaire",
+      "id": "Theme_a5402f66aa0b9e90c019bcabb116b7e1763de16aa91d12b472d962808c614819"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "secrétaires d'État",
+      "id": "Person_5796469a1008de243871637159be351576614777885dbe8359021422d7df5a40"
+    },
+    {
+      "type": "Person",
+      "name": "soignants",
+      "id": "Person_34a69fe0c8518eb3fdcf36248011fb14d7c4769c9553a7b90a5b2de0efb6de83"
+    },
+    {
+      "type": "Person",
+      "name": "forces de sécurité",
+      "id": "Person_875e7b1da7679b9d8db6fb02e3f4a1d369671b82e9eb3cbe2d8cf1daf71dab18"
+    },
+    {
+      "type": "Person",
+      "name": "monde associatif",
+      "id": "Person_9bede28c9518b05dfc30adf2309dd268a7950ba3524fd99443de0f04e51aec23"
+    },
+    {
+      "type": "Person",
+      "name": "bénévoles",
+      "id": "Person_4df853e94f504700b3d07c10fcee75b14be8095b7a7f6ed01461cb0b955d6c3d"
+    },
+    {
+      "type": "Person",
+      "name": "collectivités locales",
+      "id": "Person_385191eed5fa5c08dec4be1efbd707ed0fcde123e8fe356a4f803fb57e521a48"
+    },
+    {
+      "type": "Person",
+      "name": "nos EHPAD",
+      "id": "Person_194cbd3957cfde7f1450ad51235644cadf27ca0e3fa7eef202ac940571713520"
+    },
+    {
+      "type": "Person",
+      "name": "les services de l'État",
+      "id": "Person_8ecdd74825359cb3c8ceb52caa963181fea6b83a4db29e7523735a2cd9fcec4d"
+    },
+    {
+      "type": "Person",
+      "name": "les services des collectivités territoriales",
+      "id": "Person_2607648afcb5afb311f8fcccd31ad69eaabc98c4c543d77d5a650004ac42a92b"
+    },
+    {
+      "type": "Person",
+      "name": "l'ensemble des forces mobilisées",
+      "id": "Person_a9d77b5a3cfb323e1796da56f51736648fbb105946abd2dbc0e8519b36388a45"
+    },
+    {
+      "type": "Person",
+      "name": "chacun de nos compatriotes",
+      "id": "Person_5b4ad3ff230180633f9850d0dd5552ac8c07c4f806eec1676375029bef053d68"
+    },
+    {
+      "type": "Organization",
+      "name": "UNIFIL",
+      "id": "Organization_3684fb1bb33b78c501267bee9e0429f371e57ef44380284234953cd51165d3e8"
+    },
+    {
+      "type": "Organization",
+      "name": "autorités libanaises",
+      "id": "Organization_2ddf8454b383c23b79168032681318fa58c34f06c7db3d22deb04063dbde9a54"
+    },
+    {
+      "type": "Organization",
+      "name": "chef d'état-major des armées libanais",
+      "id": "Organization_d159038d7bcde15644e13b8654a7455b411a72cfcb68e4c675afe789b4d0b907"
+    },
+    {
+      "type": "Theme",
+      "name": "solution",
+      "id": "Theme_edeee0408fcaff0b5492896c55672217baa0bbe17083b1b17ecb1b03fc982218"
+    },
+    {
+      "type": "Person",
+      "name": "Aoun",
+      "id": "Person_791cd8abeba5310bccda0d79068dc2b5ef6e7b0a9f7cfed7a44b01237685407e"
+    },
+    {
+      "type": "Person",
+      "name": "Nawaf Salam",
+      "id": "Person_386ff35f76751ead7008cb05736b0460f1a16c297c0bd94e78a75111a458232f"
+    },
+    {
+      "type": "Organization",
+      "name": "Forces armées libanaises",
+      "id": "Organization_426ac99edaa9ae09f607178de55ae8edba64f4873e31d695016b56ed663f6702"
+    },
+    {
+      "type": "Organization",
+      "name": "Hezbollah",
+      "id": "Organization_1137024572239876ce26766f0e5ec1545d4d54b61723309fb15845fec7db138f"
+    },
+    {
+      "type": "Country",
+      "name": "Qatar",
+      "id": "Country_e5da689c325f619f1d122e0f9316e196ec475beef981feeb9a11d61cf1162518"
+    },
+    {
+      "type": "Country",
+      "name": "Arabie saoudite",
+      "id": "Country_ba5ae4e1d0c1b62b96b20dbc4dfa5a4f386fc0140b81ffc4ec2b12c13be70858"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Italie",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "l'Italie et la France partagent des intérêts, des convictions et portent souvent des projets communs.",
+      "confidence": 1.0,
+      "source_id": "Organization_36873ce00134e7998f37771918ea2bdc424b079c7759e29e817d4f643808cbe6",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "Italie",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "Ce travail s'appuie sur une coopération bilatérale qui est riche et solide, dont ce sommet nous montre la profondeur des partenariats, des projets, des investissements qui constituent la réalité concrète de la relation entre l'Italie et la France.",
+      "confidence": 1.0,
+      "source_id": "Organization_36873ce00134e7998f37771918ea2bdc424b079c7759e29e817d4f643808cbe6",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Italie",
+      "evidence": "Ce travail s'appuie sur une coopération bilatérale qui est riche et solide, dont ce sommet nous montre la profondeur des partenariats, des projets, des investissements qui constituent la réalité concrète de la relation entre l'Italie et la France.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_36873ce00134e7998f37771918ea2bdc424b079c7759e29e817d4f643808cbe6"
+    },
+    {
+      "source": "Italie",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "l'Italie et la France sont toujours l'une pour l'autre des partenaires aussi naturels qu'incontournables.",
+      "confidence": 1.0,
+      "source_id": "Organization_36873ce00134e7998f37771918ea2bdc424b079c7759e29e817d4f643808cbe6",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "Italie",
+      "relation": "VISITED",
+      "target": "Cannet",
+      "evidence": "Le succès du forum d'affaires franco-italien qui s'est tenu au Cannet en est la parfaite illustration.",
+      "confidence": 1.0,
+      "source_id": "Organization_36873ce00134e7998f37771918ea2bdc424b079c7759e29e817d4f643808cbe6",
+      "target_id": "City_a19558205179c9f712c4f27b4a98de4dd15c331c0bb3354c472182366508d180"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "production d'énergie nucléaire",
+      "evidence": "La France a fait un choix clair et décisif il y a de nombreuses années en faveur de la production d'énergie nucléaire",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_af948e5d9000a744f84d2162f2f606f9911000283966ba48d2d01ded1827f3bf"
+    },
+    {
+      "source": "Thales Alenia Space",
+      "relation": "SUPPORTS",
+      "target": "IRIS²",
+      "evidence": "C'est pourquoi nous avons réaffirmé notre soutien au projet BROMO, porté par Thales Alenia Space, Airbus et Leonardo, qui permettra l'avènement d'un champion européen du spatial, ainsi qu'au projet IRIS², qui constituera la colonne vertébrale de la connectivité satellitaire européenne.",
+      "confidence": 1.0,
+      "source_id": "Organization_bd4d3d13ca2748f22ed54b2b933152e9b20d787f12f9d6d2d5669b992e787716",
+      "target_id": "Organization_c5589f45bf737ac0683298124b7a858ccd200188acd8ed816c45168c6585a476"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Coalition européenne contre les drogues et le narcotrafic",
+      "evidence": "l'Italie et la France ont pris une initiative commune de bâtir cette Coalition européenne contre les drogues et le narcotrafic",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_b1d275c718965457a690db6e2a51db78c6b32efa7a20574b0c27650082491c9b"
+    },
+    {
+      "source": "Italie",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "Et je crois pouvoir dire que l'Italie et la France ont le même agenda",
+      "confidence": 1.0,
+      "source_id": "Organization_36873ce00134e7998f37771918ea2bdc424b079c7759e29e817d4f643808cbe6",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "coopération transfrontalière",
+      "relation": "MENTIONS",
+      "target": "coopération transfrontalière",
+      "evidence": "Cette coopération transfrontalière, elle est vraiment exemplaire, qu'il s'agisse des infrastructures de transport, et on va continuer, comme aussi de la coopération dans la lutte contre l'immigration clandestine",
+      "confidence": 1.0,
+      "source_id": "Theme_e3a86ac53bc0893ca6cf2d289f228ad637e21a06fa663be82042ce1793c6f174",
+      "target_id": "Theme_e3a86ac53bc0893ca6cf2d289f228ad637e21a06fa663be82042ce1793c6f174"
+    },
+    {
+      "source": "coopération transfrontalière",
+      "relation": "MENTIONS",
+      "target": "infrastructures de transport",
+      "evidence": "Cette coopération transfrontalière, elle est vraiment exemplaire, qu'il s'agisse des infrastructures de transport",
+      "confidence": 1.0,
+      "source_id": "Theme_e3a86ac53bc0893ca6cf2d289f228ad637e21a06fa663be82042ce1793c6f174",
+      "target_id": "Theme_c28fb510196b65c1852c3cc72f9e1e30342461b4100b9e4a43ed2fe845601438"
+    }
+  ]
+}

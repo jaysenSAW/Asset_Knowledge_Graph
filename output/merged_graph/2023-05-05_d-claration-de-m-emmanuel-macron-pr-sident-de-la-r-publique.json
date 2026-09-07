@@ -1,0 +1,132 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité internationale",
+      "id": "Theme_f2c907b4aceabebf6c9c90fa82209baa147570611d30a110e2bf7b66bd1b59c9"
+    },
+    {
+      "type": "Theme",
+      "name": "action climatique",
+      "id": "Theme_3c07246e373fec4d1a25bec62b59585351c6bdc73f9de0fd5b7a9ea7a26b8be7"
+    },
+    {
+      "type": "Theme",
+      "name": "épidémie de Covid",
+      "id": "Theme_cc6700759534c9a1de0b376dd2d8f0d2a31a63ee8569b0f619b2382f3ba8223d"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Person",
+      "name": "étranger",
+      "id": "Person_afe9065b2309a6b4bdfb6e74a862ff004b3ba88c6ff873c9d620616713316e81"
+    },
+    {
+      "type": "Organization",
+      "name": "organisations internationales",
+      "id": "Organization_908a29865356744b6a26f2bfac9cd473010ea3da3f967ea11b2f9d66638771f5"
+    },
+    {
+      "type": "Organization",
+      "name": "administrations étrangères",
+      "id": "Organization_9eeb02303e9bd7d502b268f2085766567d2dbc532bf95cfd8718534723504b85"
+    },
+    {
+      "type": "Organization",
+      "name": "ONG internationales",
+      "id": "Organization_2082fa8e377651efa8897f46aac7bd66d6f0a41c0466d46e42f1b43d58646163"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "j'ai",
+      "id": "Person_11dc8f890b0c964b83ea9b1735ebebcd698833b5d636e3dbbd33637c9106eda2"
+    },
+    {
+      "type": "Organization",
+      "name": "la Première ministre",
+      "id": "Organization_2c6a8c457af78530a8ca0169c4352fbd69d8df75c412571aca730b11989b69c0"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "transition climatique",
+      "id": "Theme_e75feae75fc3fc33a1090e46506e630bfc0c68d201d672aba551e5a19141a63a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "action climatique",
+      "evidence": "La France apporte sa juste part, et même plus, pour financer l'action climatique dans les pays en développement, comme prévu par l'Accord de Paris.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_3c07246e373fec4d1a25bec62b59585351c6bdc73f9de0fd5b7a9ea7a26b8be7"
+    },
+    {
+      "source": "étranger",
+      "relation": "MEMBER_OF",
+      "target": "organisations internationales",
+      "evidence": "Si vous êtes jeunes, diplômés, que vous souhaitez vous engager au sein d'organisations internationales, d'administrations étrangères ou encore d'ONG internationales, c'est pour vous.",
+      "confidence": 1.0,
+      "source_id": "Person_afe9065b2309a6b4bdfb6e74a862ff004b3ba88c6ff873c9d620616713316e81",
+      "target_id": "Organization_908a29865356744b6a26f2bfac9cd473010ea3da3f967ea11b2f9d66638771f5"
+    },
+    {
+      "source": "étranger",
+      "relation": "MEMBER_OF",
+      "target": "administrations étrangères",
+      "evidence": "Si vous êtes jeunes, diplômés, que vous souhaitez vous engager au sein d'organisations internationales, d'administrations étrangères ou encore d'ONG internationales, c'est pour vous.",
+      "confidence": 1.0,
+      "source_id": "Person_afe9065b2309a6b4bdfb6e74a862ff004b3ba88c6ff873c9d620616713316e81",
+      "target_id": "Organization_9eeb02303e9bd7d502b268f2085766567d2dbc532bf95cfd8718534723504b85"
+    },
+    {
+      "source": "étranger",
+      "relation": "MEMBER_OF",
+      "target": "ONG internationales",
+      "evidence": "Si vous êtes jeunes, diplômés, que vous souhaitez vous engager au sein d'organisations internationales, d'administrations étrangères ou encore d'ONG internationales, c'est pour vous.",
+      "confidence": 1.0,
+      "source_id": "Person_afe9065b2309a6b4bdfb6e74a862ff004b3ba88c6ff873c9d620616713316e81",
+      "target_id": "Organization_2082fa8e377651efa8897f46aac7bd66d6f0a41c0466d46e42f1b43d58646163"
+    }
+  ]
+}

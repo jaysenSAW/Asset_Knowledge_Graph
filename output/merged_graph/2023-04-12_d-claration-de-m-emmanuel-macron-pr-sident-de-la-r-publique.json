@@ -1,0 +1,719 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur l’ambassadeur",
+      "id": "Person_66517e5d77eaed17c9122f02e4cccc431aa0f8c33cdadf2a342e095de9afbd24"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les chefs d'entreprise",
+      "id": "Person_c966ed4290e7b39225dfdd769cc8471d85aed6f6db0609bf32858df1666c25ce"
+    },
+    {
+      "type": "Person",
+      "name": "Chers compatriotes",
+      "id": "Person_8bd9ba6f3b51575e5b18dfc1b9f1c9d0be768d081d80b48e4bd0e019cfe5f9ad"
+    },
+    {
+      "type": "Country",
+      "name": "Pays-Bas",
+      "id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "type": "City",
+      "name": "Amsterdam",
+      "id": "City_80da860aefdb1b76922052bd79ae3459c64f427e3e4a43beb5ef8268bbe56b50"
+    },
+    {
+      "type": "City",
+      "name": "La Haye",
+      "id": "City_e6897f4ed80fc087f93bedd0385d301cdd3af07bb105d9294b314bcd05814c98"
+    },
+    {
+      "type": "City",
+      "name": "Randstad",
+      "id": "City_afe2c26875b646754a08039ad70c6cb3adbe5139e4aa4bdf8722c59323a4f513"
+    },
+    {
+      "type": "Organization",
+      "name": "Ambassade",
+      "id": "Organization_e282df09e51ebb7b1633c51cf8c25b398a885a80ec7ddaa901bc3cf870cde4bd"
+    },
+    {
+      "type": "Organization",
+      "name": "Consulat général",
+      "id": "Organization_c826cf8db7df6d96177b781d06eb94dd01e5534bd86b9dc0593ffb9293b932cc"
+    },
+    {
+      "type": "Organization",
+      "name": "Consuls honoraires",
+      "id": "Organization_45d7f586f73ee4c58502c414e19e7999dfc06d93b6c8cbaf371267e663ff756c"
+    },
+    {
+      "type": "Organization",
+      "name": "Élus de proximité",
+      "id": "Organization_c5c76e3197712229f267e7ee639df657abbad37de90f8296b72b23c880789775"
+    },
+    {
+      "type": "Theme",
+      "name": "difficultés",
+      "id": "Theme_226532f438cde63f47e643da8611130719f5ea2c4e92e7b9231e918ca90b560d"
+    },
+    {
+      "type": "Theme",
+      "name": "passeport",
+      "id": "Theme_127b94f19f47a57eafe9b25ca31bdb178eaa5e1af0ec9cf6d2b21dfee2bda10f"
+    },
+    {
+      "type": "Theme",
+      "name": "documents d'identité",
+      "id": "Theme_a8a7cb9be2c60e40ac47a6b29d29f7fe8cc9f05fc140309b1b8cef5d8bfdab4d"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "rattrapage",
+      "id": "Theme_e347253122aaccf837ad8907dcd88c59c4ed23a3742d6e812ba31c6b0417c8df"
+    },
+    {
+      "type": "Theme",
+      "name": "reprise",
+      "id": "Theme_5b6ccccbb0487b9ef12cb70fd78a8f4d3f481a60fb5b5f8e937ddbde12464a60"
+    },
+    {
+      "type": "Theme",
+      "name": "carte nationale d'identité",
+      "id": "Theme_b2464f836d0fcda7f767013f68aed3fe56ea0b07e6c7583fe268a83a7415d43a"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "salariés des entreprises françaises",
+      "id": "Person_997f088d91123791583b00189110b0b0d57ce13e6628a82f2b9e4086bb06bbaf"
+    },
+    {
+      "type": "Person",
+      "name": "entrepreneuses, entrepreneurs, étudiants, volontaires, artistes, fonctionnaires",
+      "id": "Person_7528a9708018705883be1a497271d5e589d48692ff4c0ff9a078b948f18e5229"
+    },
+    {
+      "type": "Organization",
+      "name": "France consulaire",
+      "id": "Organization_31744794e9f830f1b528c9f3afc37cebecc450a12b494095fd0f4407273097f0"
+    },
+    {
+      "type": "Organization",
+      "name": "Air France KLM",
+      "id": "Organization_7e3c2a04b7d4347733973a06f38530e4c59d67fd7de4f26b7d621a3777d72df1"
+    },
+    {
+      "type": "Organization",
+      "name": "Transdev",
+      "id": "Organization_ee1be2ef488188d80e08059e421b7211ec0c0ab5238c0ffa8311b7c71909c4cd"
+    },
+    {
+      "type": "Organization",
+      "name": "Alstom",
+      "id": "Organization_ee8b36951a3294d193f8090d5bede0b4bdd17668901dd2348838ccbe669910db"
+    },
+    {
+      "type": "Organization",
+      "name": "Renault",
+      "id": "Organization_9425ee5717dc5cb68560b01d592d6c911f497a77aaa3fe555c812e8d1a308423"
+    },
+    {
+      "type": "Organization",
+      "name": "Engie",
+      "id": "Organization_8c5573022fe930b26f9875ad9ce269f1b2a5bcafa36e461aaf878a9b621e666d"
+    },
+    {
+      "type": "Organization",
+      "name": "Total",
+      "id": "Organization_559564d9b17106b6bb250c645551ad905b530d212d84a924205cddb718712d8e"
+    },
+    {
+      "type": "Organization",
+      "name": "Air Liquide",
+      "id": "Organization_ba496eeb9ef559e5ecbcc438516ae7291c8a97cbb0ef9d52db3be742f2bccb3e"
+    },
+    {
+      "type": "Organization",
+      "name": "Legrand",
+      "id": "Organization_2187fc920f4b0e41534d46b21ecc823997cf8e1f4191f3bd5f98ef67c7fb3f1a"
+    },
+    {
+      "type": "Organization",
+      "name": "Sonepar",
+      "id": "Organization_4db3c7d2247730d5762f9f064189138bd5012c0c58fc487becdd762b1198d287"
+    },
+    {
+      "type": "Organization",
+      "name": "Schneider",
+      "id": "Organization_a809cedfb51e2df430c36daa64765f3505dc75383bb8457c33cdcd46a36de621"
+    },
+    {
+      "type": "Organization",
+      "name": "Suez",
+      "id": "Organization_2707c4eb82d8fb22bf317ea1790c28e7c885133a7569d7158bd84f976f1590d1"
+    },
+    {
+      "type": "Organization",
+      "name": "Veolia",
+      "id": "Organization_e6466b43a27a0eb51c11b1e5a9ee89d90fbf8b464584fbeedb7f935cf5d4dbeb"
+    },
+    {
+      "type": "Organization",
+      "name": "Danone",
+      "id": "Organization_ff6a694e36c7e0b8a8d9063e53e1c9189a56aa1e7f5abe61fec136fd99068da1"
+    },
+    {
+      "type": "Organization",
+      "name": "Euronext",
+      "id": "Organization_1858ee1f99588ada7ced7ecbee5aebc8bb5ccecbe8ba0fea683eb6e738c39abf"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Martin",
+      "id": "City_bf279675277b85a1d038861ac98b8b0a9f6f40dfebd678fd910dfb68248309b9"
+    },
+    {
+      "type": "City",
+      "name": "Sint Maarten",
+      "id": "City_56b1e83277d3d01944bd02d20e5cd805a5ee00bff09ad1cdcd56cc12fd557050"
+    },
+    {
+      "type": "City",
+      "name": "Sorbonne",
+      "id": "City_be809d89796ecb5c6df9354a01dfd395a79d98455adce499fa3da8fcbb92297c"
+    },
+    {
+      "type": "City",
+      "name": "Utrecht",
+      "id": "City_6b9aeb943d966ee8f79a586ccd886d95da861c9a7aefa9ff97ac869517ff79b5"
+    },
+    {
+      "type": "City",
+      "name": "Bologne",
+      "id": "City_ec6217194a361b660e1257c077bf7b505ecd0bd7365606983ba023c68f8fd552"
+    },
+    {
+      "type": "City",
+      "name": "Cologne",
+      "id": "City_d9832227d3076b984b731a4690e059049b555d74d07618b0da7f8126d63e6fd0"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Person",
+      "name": "Mark RUTTE",
+      "id": "Person_4e417fc135275d3eb0c675b565d3aba137bf3b98fb70ba9b69ad7aad9c3089da"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit européen",
+      "id": "Theme_9dc8589e377c02023204c4fd3951e3fc428845dc2310d418ea250a8841792fd7"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "complexité",
+      "id": "Theme_27c01b9a6ed16656216c519ea323a370bb4cd448ad815d900508a077faa76f0c"
+    },
+    {
+      "type": "Theme",
+      "name": "multilinguisme",
+      "id": "Theme_5eff75c84067bd4019dcae02d8980d91db9751aab5abba8ca94016ccf872e8eb"
+    },
+    {
+      "type": "Theme",
+      "name": "rivalités multiséculaires",
+      "id": "Theme_1535799647284ccbcc0fdc9761a329bbb3ee45ed5a26102b041590a7012635d3"
+    },
+    {
+      "type": "Organization",
+      "name": "MEDEF",
+      "id": "Organization_e773fd3926a09640d954acd859b36176e0b98a6274c6a39e749c06e47f3e27f7"
+    },
+    {
+      "type": "Person",
+      "name": "son président",
+      "id": "Person_c7adce396bc532f93b31d7078b8390b3e14b2259e1e452330a005f6c2eb5dbf6"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "technologie quantique",
+      "id": "Theme_913c7989eafda0f32d736cc76f9d8df745a09611e70c664851488ee3f39cbe2c"
+    },
+    {
+      "type": "Theme",
+      "name": "semi-conducteur",
+      "id": "Theme_dbc2c4809b0011d8bf9ae98e722724f7ec17176bd1a51c4779b74ae963e04878"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Law",
+      "name": "Pacte pour l'innovation et la croissance durable",
+      "id": "Law_a8f0830979e34dc83074cb75fa136327a6f53c9252ba3a28b44e5e171a17f148"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance durable",
+      "id": "Theme_85ceea8afa74ea0d9dba64c15f162a35e765f916671c618ec4100c37c5f965c1"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "aéronautique",
+      "id": "Theme_75d0f3d5ff64c56475546f5da42c78e140e4b2c5b8253cc541c75517a1fd1d42"
+    },
+    {
+      "type": "Theme",
+      "name": "spatial",
+      "id": "Theme_be04ff49df6f9224cf87b09d0c072d2df359f83a584eeef7deff7e1835862166"
+    },
+    {
+      "type": "Organization",
+      "name": "nos entreprises",
+      "id": "Organization_b2c7e1ceb71d41b5a7d300973c69a21968e476be954da4fa2866d281b0ec51c2"
+    },
+    {
+      "type": "Organization",
+      "name": "nos alliances européennes",
+      "id": "Organization_f8696cac3c14821d041a5fa58134eb7d9d3e8e22aecc0acb20264d3e8f5688b2"
+    },
+    {
+      "type": "Theme",
+      "name": "compétition",
+      "id": "Theme_e14a9586484a557d70bf1c30c6f53a798fcb119968a8e22b8110a15105dd4e8c"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "richesse",
+      "id": "Theme_ebc8abe7c633e7ee08027166a01273668d756f2c85fd37ecd47f23f726532022"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Country",
+      "name": "Communauté française",
+      "id": "Country_1d47af40f4ac1faeaf8b901c3e6dfc15dab25bd99507c74a13cc3f27593b15c5"
+    },
+    {
+      "type": "Theme",
+      "name": "langue",
+      "id": "Theme_503878fae38cf6a116099ef03b8fe0423aa370b33f0af8b6450b8ae129feef43"
+    },
+    {
+      "type": "Theme",
+      "name": "francophonie",
+      "id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "type": "Organization",
+      "name": "lycée Vincent Van Gogh",
+      "id": "Organization_6a96714180dc0f490582960985be50e4cdcc63a3bcac7691ae0d7f38a59c12d1"
+    },
+    {
+      "type": "Theme",
+      "name": "alliance",
+      "id": "Theme_c002c62f1bd66a5a49f695940601610f2c81acadb26e2244054efc16942915ba"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Person",
+      "name": "Vermeer",
+      "id": "Person_3ffde059485f0991c99f1803095ab93c09ba9cedb1a195bcf887ab89c76d9453"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliances françaises",
+      "id": "Organization_99993a6cc2929b3dbb4e0bf5bf447b79fdf44f6f9861082b51f5d752a33fc488"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut français",
+      "id": "Organization_fab094973c52d35028c7872080cdfd21623cd9e432d52aa2742004627696a3aa"
+    },
+    {
+      "type": "Organization",
+      "name": "Villa van Eyck",
+      "id": "Organization_bedecc26b3ceb29591d4241e747862fbc84cb7553f1068c800b385a5af4f5e50"
+    },
+    {
+      "type": "Theme",
+      "name": "art",
+      "id": "Theme_6ed805edbb8eef4acbfa46f80c86538afc8b5485c0144e0929dce3cb2898ba5e"
+    },
+    {
+      "type": "Theme",
+      "name": "paysage",
+      "id": "Theme_ed06db9414cb544407dd5bdf76ae70c87cb1fc0541747db1c51fcb74a5abd1f0"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité des artistes",
+      "id": "Theme_34bab6141a8b9a8c4e69d77c4f1f1e885c33028c744b913bfe9a73543b9bde17"
+    },
+    {
+      "type": "Theme",
+      "name": "résidence",
+      "id": "Theme_0e186bb9d96627f8248f0959b6b8804fc31ff4b4bdeef56853adcd31449d8639"
+    },
+    {
+      "type": "Theme",
+      "name": "Nouveau Grand Tour",
+      "id": "Theme_40426dd268963a2b1476865fcf4aa0d56f9e1acf47e9f2925960f6a84b4f624a"
+    },
+    {
+      "type": "Country",
+      "name": "nos deux pays",
+      "id": "Country_2bd470f2122568640e3762e9bf14400458b6f8d21f909f537011d97d9af8f053"
+    },
+    {
+      "type": "City",
+      "name": "Centre Georges Pompidou",
+      "id": "City_4209383475b857c55fc775aee1bdeb7169223b483d5010150e7263ddc20681e3"
+    },
+    {
+      "type": "City",
+      "name": "Stedelijk Museum",
+      "id": "City_832be21e5b78508463138c95768659f919d019de9fe8ada2bb6ceaf90b3f8a38"
+    },
+    {
+      "type": "Theme",
+      "name": "sport",
+      "id": "Theme_825ac548d524f301bf40cecba64423c577f867e16f68d3e023ee693d5aebd94a"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux Olympiques et Paralympiques",
+      "id": "Event_d869c8d614b2e9c4090e4d5a2f9c363060ce721a3b87b806bdde2756023fa2dd"
+    },
+    {
+      "type": "Country",
+      "name": "Pays",
+      "id": "Country_2bcd3c4bdd95ef3df7bee35913a887cd2c3a9393356cb7f8c7231b1b6cb15878"
+    },
+    {
+      "type": "Country",
+      "name": "Néerlandais",
+      "id": "Country_8753d5ce25cea7c338734aba9725af7d31469948568be8c0c9d94b5cb8be743c"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Christian PRUDHOMME",
+      "id": "Person_c83fc7ffc05522e057c1eff306cec302e2396fe90597afee34c9701edd6aa049"
+    },
+    {
+      "type": "Organization",
+      "name": "Business France",
+      "id": "Organization_a6c8c752a47385a5ca5cb511756c3e28bbc9675b1afd54f41f06e4b13f7b0a91"
+    },
+    {
+      "type": "Organization",
+      "name": "Atout France",
+      "id": "Organization_80dd9f0a3a723031965f4c4364ef1f7f6bbaa99db8e8ad11516f6a6b25eda1ee"
+    },
+    {
+      "type": "Organization",
+      "name": "Chambres de commerce et d'industrie",
+      "id": "Organization_28835bb35c0458fa5e48b0d7c2aa6c56d56b14c48d6f373f2640387f4208b9b4"
+    },
+    {
+      "type": "Organization",
+      "name": "société de bienfaisance",
+      "id": "Organization_f0a211f6034b674704efb51940bcb69ebd0ca8ecb87a2af9650f83346b747e7c"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France consulaire",
+      "relation": "LOCATED_IN",
+      "target": "Pays-Bas",
+      "evidence": "le déploiement du service France consulaire, notamment ici aux Pays-Bas, depuis quelques semaines",
+      "confidence": 1.0,
+      "source_id": "Organization_31744794e9f830f1b528c9f3afc37cebecc450a12b494095fd0f4407273097f0",
+      "target_id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "France consulaire",
+      "evidence": "le déploiement du service France consulaire, notamment ici aux Pays-Bas, depuis quelques semaines",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_31744794e9f830f1b528c9f3afc37cebecc450a12b494095fd0f4407273097f0"
+    },
+    {
+      "source": "Air France KLM",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Plus de 1 500 filiales françaises employant 137 000 personnes étaient actives ici en 2020, notamment dans les secteurs des transports, on peut citer Air France KLM, Transdev, Alstom, Renault",
+      "confidence": 1.0,
+      "source_id": "Organization_7e3c2a04b7d4347733973a06f38530e4c59d67fd7de4f26b7d621a3777d72df1",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Transdev",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Plus de 1 500 filiales françaises employant 137 000 personnes étaient actives ici en 2020, notamment dans les secteurs des transports, on peut citer Air France KLM, Transdev, Alstom, Renault",
+      "confidence": 1.0,
+      "source_id": "Organization_ee1be2ef488188d80e08059e421b7211ec0c0ab5238c0ffa8311b7c71909c4cd",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Alstom",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Plus de 1 500 filiales françaises employant 137 000 personnes étaient actives ici en 2020, notamment dans les secteurs des transports, on peut citer Air France KLM, Transdev, Alstom, Renault",
+      "confidence": 1.0,
+      "source_id": "Organization_ee8b36951a3294d193f8090d5bede0b4bdd17668901dd2348838ccbe669910db",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Renault",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Plus de 1 500 filiales françaises employant 137 000 personnes étaient actives ici en 2020, notamment dans les secteurs des transports, on peut citer Air France KLM, Transdev, Alstom, Renault",
+      "confidence": 1.0,
+      "source_id": "Organization_9425ee5717dc5cb68560b01d592d6c911f497a77aaa3fe555c812e8d1a308423",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Pays-Bas",
+      "evidence": "Entre la France et les Pays-Bas, nous partageons, je l’évoquais encore hier soir lors du dîner d'État, une frontière.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Pays-Bas",
+      "evidence": "Pour la France, les Pays-Bas furent un havre, un adversaire ou bien un miroir de civilisation et de tolérance, un refuge pour nos huguenots, un rival, même brièvement, une province et, depuis des décennies, un allié fidèle.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Pays-Bas",
+      "evidence": "la France et les Pays-Bas sont plus proches que jamais",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "source": "Pacte pour l'innovation et la croissance durable",
+      "relation": "PROPOSED",
+      "target": "Pacte pour l'innovation et la croissance durable",
+      "evidence": "Le Pacte pour l'innovation et la croissance durable, qui sera signé aujourd'hui par nos ministres et nos organisations patronales respectives, illustre aussi cette volonté de coopérer dans d'autres secteurs absolument clés : l'énergie, l'aéronautique et le spatial.",
+      "confidence": 1.0,
+      "source_id": "Law_a8f0830979e34dc83074cb75fa136327a6f53c9252ba3a28b44e5e171a17f148",
+      "target_id": "Law_a8f0830979e34dc83074cb75fa136327a6f53c9252ba3a28b44e5e171a17f148"
+    },
+    {
+      "source": "Pacte pour l'innovation et la croissance durable",
+      "relation": "MENTIONS",
+      "target": "innovation",
+      "evidence": "Le Pacte pour l'innovation et la croissance durable, qui sera signé aujourd'hui par nos ministres et nos organisations patronales respectives, illustre aussi cette volonté de coopérer dans d'autres secteurs absolument clés : l'énergie, l'aéronautique et le spatial.",
+      "confidence": 1.0,
+      "source_id": "Law_a8f0830979e34dc83074cb75fa136327a6f53c9252ba3a28b44e5e171a17f148",
+      "target_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "source": "Pacte pour l'innovation et la croissance durable",
+      "relation": "MENTIONS",
+      "target": "croissance durable",
+      "evidence": "Le Pacte pour l'innovation et la croissance durable, qui sera signé aujourd'hui par nos ministres et nos organisations patronales respectives, illustre aussi cette volonté de coopérer dans d'autres secteurs absolument clés : l'énergie, l'aéronautique et le spatial.",
+      "confidence": 1.0,
+      "source_id": "Law_a8f0830979e34dc83074cb75fa136327a6f53c9252ba3a28b44e5e171a17f148",
+      "target_id": "Theme_85ceea8afa74ea0d9dba64c15f162a35e765f916671c618ec4100c37c5f965c1"
+    },
+    {
+      "source": "Pacte pour l'innovation et la croissance durable",
+      "relation": "MENTIONS",
+      "target": "énergie",
+      "evidence": "Le Pacte pour l'innovation et la croissance durable, qui sera signé aujourd'hui par nos ministres et nos organisations patronales respectives, illustre aussi cette volonté de coopérer dans d'autres secteurs absolument clés : l'énergie, l'aéronautique et le spatial.",
+      "confidence": 1.0,
+      "source_id": "Law_a8f0830979e34dc83074cb75fa136327a6f53c9252ba3a28b44e5e171a17f148",
+      "target_id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "source": "Pacte pour l'innovation et la croissance durable",
+      "relation": "MENTIONS",
+      "target": "aéronautique",
+      "evidence": "Le Pacte pour l'innovation et la croissance durable, qui sera signé aujourd'hui par nos ministres et nos organisations patronales respectives, illustre aussi cette volonté de coopérer dans d'autres secteurs absolument clés : l'énergie, l'aéronautique et le spatial.",
+      "confidence": 1.0,
+      "source_id": "Law_a8f0830979e34dc83074cb75fa136327a6f53c9252ba3a28b44e5e171a17f148",
+      "target_id": "Theme_75d0f3d5ff64c56475546f5da42c78e140e4b2c5b8253cc541c75517a1fd1d42"
+    },
+    {
+      "source": "Pacte pour l'innovation et la croissance durable",
+      "relation": "MENTIONS",
+      "target": "spatial",
+      "evidence": "Le Pacte pour l'innovation et la croissance durable, qui sera signé aujourd'hui par nos ministres et nos organisations patronales respectives, illustre aussi cette volonté de coopérer dans d'autres secteurs absolument clés : l'énergie, l'aéronautique et le spatial.",
+      "confidence": 1.0,
+      "source_id": "Law_a8f0830979e34dc83074cb75fa136327a6f53c9252ba3a28b44e5e171a17f148",
+      "target_id": "Theme_be04ff49df6f9224cf87b09d0c072d2df359f83a584eeef7deff7e1835862166"
+    },
+    {
+      "source": "Pays-Bas",
+      "relation": "LOCATED_IN",
+      "target": "Pays-Bas",
+      "evidence": "aux Pays-Bas",
+      "confidence": 1.0,
+      "source_id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143",
+      "target_id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "source": "Communauté française",
+      "relation": "MEMBER_OF",
+      "target": "Pays-Bas",
+      "evidence": "les femmes et les hommes de la Communauté française qui vivez aux Pays-Bas",
+      "confidence": 1.0,
+      "source_id": "Country_1d47af40f4ac1faeaf8b901c3e6dfc15dab25bd99507c74a13cc3f27593b15c5",
+      "target_id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "source": "lycée Vincent Van Gogh",
+      "relation": "LOCATED_IN",
+      "target": "Amsterdam",
+      "evidence": "Et en complément du lycée Vincent Van Gogh présent à La Haye et à Amsterdam",
+      "confidence": 1.0,
+      "source_id": "Organization_6a96714180dc0f490582960985be50e4cdcc63a3bcac7691ae0d7f38a59c12d1",
+      "target_id": "City_80da860aefdb1b76922052bd79ae3459c64f427e3e4a43beb5ef8268bbe56b50"
+    },
+    {
+      "source": "lycée Vincent Van Gogh",
+      "relation": "LOCATED_IN",
+      "target": "La Haye",
+      "evidence": "Et en complément du lycée Vincent Van Gogh présent à La Haye et à Amsterdam",
+      "confidence": 1.0,
+      "source_id": "Organization_6a96714180dc0f490582960985be50e4cdcc63a3bcac7691ae0d7f38a59c12d1",
+      "target_id": "City_e6897f4ed80fc087f93bedd0385d301cdd3af07bb105d9294b314bcd05814c98"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "Jeux Olympiques et Paralympiques",
+      "evidence": "la France aura à accueillir l'année prochaine les Jeux Olympiques et Paralympiques",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Event_d869c8d614b2e9c4090e4d5a2f9c363060ce721a3b87b806bdde2756023fa2dd"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "France de l'engagement, de la solidarité et de l'innovation",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "France de l'engagement, de la solidarité et de l'innovation",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

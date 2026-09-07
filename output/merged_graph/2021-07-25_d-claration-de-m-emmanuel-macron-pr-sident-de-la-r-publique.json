@@ -1,0 +1,180 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Édouard",
+      "id": "Person_8b90701d2161f402395fc29153f3f44e217fdba99547dfcd9e9259fc8253b66e"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée",
+      "id": "Organization_6921896197ce8ef36bbf1c5a01e3c2313dc4612ab56b6c36f488227dff065439"
+    },
+    {
+      "type": "City",
+      "name": "Marquises",
+      "id": "City_2625301e0b90a49d139f814aeceff9b1d6301dd7541e49fc535ed89fb2f5b03e"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Polynésie française",
+      "id": "City_237a60578d5c1c77f63402715dbac21747d712c1c60c6abd087f2decd30bb0e0"
+    },
+    {
+      "type": "Theme",
+      "name": "fragilité",
+      "id": "Theme_4976db7093817ba44b5955aba3d5a3e019c9ddda485dff5cf5d99e59ea30a4b6"
+    },
+    {
+      "type": "Theme",
+      "name": "civilisations",
+      "id": "Theme_506b6e2197d002b79edb5176896c65aa33f39d343a9c4f830a2690aae8060c97"
+    },
+    {
+      "type": "Theme",
+      "name": "cultures",
+      "id": "Theme_5c3b6fa0f9e1de5e6443902d96c462d02917c84f1ec079b2e7cac95cf057a665"
+    },
+    {
+      "type": "Event",
+      "name": "Première Guerre mondiale",
+      "id": "Event_5c2b8eb302bf6065a5cd1c5988ce7663201e0b30e003923a8c736603a1b517af"
+    },
+    {
+      "type": "Event",
+      "name": "Deuxième Guerre mondiale",
+      "id": "Event_6980b4b2116fbbe56842d095d9f47bd4a43244d43cb034c49b5984a8859ac269"
+    },
+    {
+      "type": "Theme",
+      "name": "résistance",
+      "id": "Theme_e76d4a7d077688683b8612822efb91314ca3d8a465e71434c7d639fcd7efc3a4"
+    },
+    {
+      "type": "Theme",
+      "name": "transmission",
+      "id": "Theme_5f3b7befdd4615ff5f6f2392f77484bd002f10d099d2c30e336f50361b9fc447"
+    },
+    {
+      "type": "Theme",
+      "name": "renaissance",
+      "id": "Theme_bcca9ef7226aa73dc944d771730712af2720ac2902dd9f6a72f14985b3f81467"
+    },
+    {
+      "type": "Theme",
+      "name": "nature",
+      "id": "Theme_271e2d714f29d82d6423982b73f93e64d04478e9c80a41df8956af82012e9754"
+    },
+    {
+      "type": "Theme",
+      "name": "culture marquisienne",
+      "id": "Theme_656056ff43363b5bfb7632254c223088a552aebd0b2d09f27c3aa21b38865d2e"
+    },
+    {
+      "type": "Person",
+      "name": "Madame le Maire",
+      "id": "Person_633639a8397e0955ac29553bd5f3a3a8d64cdc990c3713de4f777f9e9f42805f"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "traditions",
+      "id": "Theme_1651eef163003c3be7a9b45c113a290cfbd374435450e28b26c67c7227cf28b4"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "mythes",
+      "id": "Theme_ab6a8f08894e4a8bb98074aa3e3b9bdb367e89594c97a75d1b9d15e24360ec7a"
+    },
+    {
+      "type": "Person",
+      "name": "La Tour du Pin",
+      "id": "Person_054f2ea530e0f43f163ded0333c280a3a0054ed76742831c8fac0d89ba1f2ddb"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Marquises",
+      "evidence": "qui font les Marquises, qui font la France, ici dans le Pacifique",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "City_2625301e0b90a49d139f814aeceff9b1d6301dd7541e49fc535ed89fb2f5b03e"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "France soit là face à l'océan sous ce ciel",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "lorsqu'il a fallu se battre pour la liberté et pour la France lors de la Deuxième Guerre mondiale, vous étiez là, vous, et vous avez choisi la France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Marquises",
+      "evidence": "les Marquises à la fin ont choisi la France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "City_2625301e0b90a49d139f814aeceff9b1d6301dd7541e49fc535ed89fb2f5b03e"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Deuxième Guerre mondiale",
+      "evidence": "lorsqu'il a fallu se battre pour la liberté et pour la France lors de la Deuxième Guerre mondiale",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Event_6980b4b2116fbbe56842d095d9f47bd4a43244d43cb034c49b5984a8859ac269"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "Vive la République et vive la France !",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

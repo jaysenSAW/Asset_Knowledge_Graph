@@ -1,0 +1,365 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Notre-Dame de Paris",
+      "id": "City_44911f880fe4b42a406eb7c8fab48472dbf8026b5667bd35240a8cb7e9b396dc"
+    },
+    {
+      "type": "Person",
+      "name": "Victor Hugo",
+      "id": "Person_6d98b7360277ea4560e5ef78ccc22709417d9d4b98a51ca35197b48f487916bc"
+    },
+    {
+      "type": "Person",
+      "name": "Claudel",
+      "id": "Person_d41857b30697cf1ccfeaabc9fc917c214b7a0a8045edf2718183757a463d5019"
+    },
+    {
+      "type": "City",
+      "name": "Rome",
+      "id": "City_bc9eafd579b1837ab888536a3c2bb01c9f6f51d22c498c57a5e42451046bc036"
+    },
+    {
+      "type": "City",
+      "name": "Moscou",
+      "id": "City_ca69027b3b27faf77c4162919a4d35248f19c2f179fed39bfafca2c0a9f3ef1b"
+    },
+    {
+      "type": "City",
+      "name": "Niger",
+      "id": "City_5dfbc90c6f968a9a7a8f6bd404e07fc2302ab915ff8853224e94787d5a52d0f0"
+    },
+    {
+      "type": "Organization",
+      "name": "sapeurs-pompiers",
+      "id": "Organization_65af48d7150af973eae0e7628bcf4a3d991ebef47542190435e0b835efee6a7f"
+    },
+    {
+      "type": "Theme",
+      "name": "bravoure",
+      "id": "Theme_bdf854e5a6868bc67223c137824d4dd6ccd4c45d7bb7cbc85bc5b587ff7deaac"
+    },
+    {
+      "type": "Theme",
+      "name": "coïncidences",
+      "id": "Theme_a0b0688d8304cd52a4496fc58d00e0d8db9ae82bba1169e942f2c2b72a2a2272"
+    },
+    {
+      "type": "Theme",
+      "name": "hasard",
+      "id": "Theme_ffa2403a4a29598b3e8093cf18d04a0a05f6c91b4d662d80f8ff60e666d0f48d"
+    },
+    {
+      "type": "Theme",
+      "name": "destin",
+      "id": "Theme_d09e3903dadfffc2520eda8a2b2d6964de6c594e64c980c6854196aff3f81626"
+    },
+    {
+      "type": "Theme",
+      "name": "providence",
+      "id": "Theme_b17e72f82ee01ce372c2b520f54a6f363b3b7d15da71291d5acf699c5a0f80e4"
+    },
+    {
+      "type": "Theme",
+      "name": "pompiers",
+      "id": "Theme_c1702992027166ac6a25b66c593ce86b91deb1a142fd73a1a297b71d3b353c0d"
+    },
+    {
+      "type": "Theme",
+      "name": "feu",
+      "id": "Theme_dcf5fbb966a358e6cf24ef60807acc80e6115e63658cecaea7df859ca2410585"
+    },
+    {
+      "type": "Theme",
+      "name": "cloches",
+      "id": "Theme_0673d88546c983a33d96d3ff9582133d7205a292d0c388b2ec8caf7f3cd91d8d"
+    },
+    {
+      "type": "Theme",
+      "name": "cathédrale",
+      "id": "Theme_6b8c692cc547422c72b203b5856675ab156b005dc5a11e2c1530d55b8f613c1a"
+    },
+    {
+      "type": "Theme",
+      "name": "flèche",
+      "id": "Theme_e694a919927ec7bff058dcf75c6471488d0ed1fdffc7babc982e9e2979001830"
+    },
+    {
+      "type": "Theme",
+      "name": "transept",
+      "id": "Theme_bd917ae301e5e19a544d8edf2fa3351b543684bbe6bc4e428306c9e9ab2fc9ab"
+    },
+    {
+      "type": "Theme",
+      "name": "plomb",
+      "id": "Theme_5b97091337c199b662d2eb0a2164a4cb643e468193a95834b1404626cdcd70b7"
+    },
+    {
+      "type": "Theme",
+      "name": "croix",
+      "id": "Theme_21c62b33d4e994d87a6ce88a23be168b65f8c27916b38abe7be7e43dcf63b9f2"
+    },
+    {
+      "type": "Theme",
+      "name": "pieta",
+      "id": "Theme_1ffed1235adaefeef42133fff385a06c8e196bd1f05de647df9de26d0833615b"
+    },
+    {
+      "type": "Person",
+      "name": "général Leclerc",
+      "id": "Person_93722fa32ff4061ab8cfce6bb305793f40358ccff94e24c94be0dc9ae1a4e13e"
+    },
+    {
+      "type": "Person",
+      "name": "général De Gaulle",
+      "id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442"
+    },
+    {
+      "type": "Person",
+      "name": "génies",
+      "id": "Person_1b465cd1a9d97b777998ae187bbd0886c32d495820f0b0c7d10f46074877a691"
+    },
+    {
+      "type": "Person",
+      "name": "soldats",
+      "id": "Person_50d4aed1ba5e0de3105c5abea12c109cc93415d5c243f9826486ee29f102df1e"
+    },
+    {
+      "type": "Person",
+      "name": "grands hommes",
+      "id": "Person_d8a04122800750de96513762b7dda95891335d0a89746e10612ee01bf5820509"
+    },
+    {
+      "type": "Event",
+      "name": "incendie",
+      "id": "Event_1336ce2d26df351f848f7698919d1e015eeb0ee987b72e101b30b5ec7ec56f07"
+    },
+    {
+      "type": "City",
+      "name": "Timesquare",
+      "id": "City_51d85a1d63b4ec776edd2680fdba9f0e3d982bbb7e5cd49d37a1a8b555ac1e0d"
+    },
+    {
+      "type": "City",
+      "name": "montagne Sainte-Geneviève",
+      "id": "City_bcfa7b8ae43da8fc887425d1f5b75c5cf1cba3b5e23ab08a73461968bc103b9e"
+    },
+    {
+      "type": "Theme",
+      "name": "sursaut",
+      "id": "Theme_b869ea8fa14ee1ddbb355439db294e253f594e2f3fbbd6b00df2f046b3886990"
+    },
+    {
+      "type": "Theme",
+      "name": "volonté",
+      "id": "Theme_16b93f9ed8b73b81c97ecd0a6cdb37d8a5b24c3afd93e53085d57fee061b7ba6"
+    },
+    {
+      "type": "Theme",
+      "name": "cap de l'espérance",
+      "id": "Theme_13bcec8c36aa31b7fee21388d372fb8beb125e8dc1e900424113a1c3dc3c2185"
+    },
+    {
+      "type": "Theme",
+      "name": "rebâtir Notre-Dame de Paris",
+      "id": "Theme_f50acec45ba6fdaf713dda593adf0ebbc6e09cc46710f0b6fdb1fa9145709f58"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité inédite",
+      "id": "Theme_7db94cc0773d2d6184b323b05ba434c40477d2765f537478946247e132300355"
+    },
+    {
+      "type": "Theme",
+      "name": "compagnons",
+      "id": "Theme_466aec1f7a16ab68f578806b5f3f0c2b359121913462890feaa6cee5c28aa4a1"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentis",
+      "id": "Theme_c09fe6046be9b021781e8af66dddef8c697c1e2c2d5373c6fcc793b93dff4782"
+    },
+    {
+      "type": "Theme",
+      "name": "tous les métiers",
+      "id": "Theme_5b120660a2b7fa2d1817347cc41efcee9b74d8470388f0a6e735de9da394abe9"
+    },
+    {
+      "type": "Person",
+      "name": "Georgelin",
+      "id": "Person_9471e8b73f02f4f5d81af5fd5ee6eb9f264c7505e2387e96f37b7ddb5dbb3b17"
+    },
+    {
+      "type": "Person",
+      "name": "Philippe Jost",
+      "id": "Person_5e92b0a79b6b20afec0f9ccfddc788a708188079d933de72686aa9845f794dd9"
+    },
+    {
+      "type": "Organization",
+      "name": "compagnons, apprentis, et de tous les métiers",
+      "id": "Organization_0d1154b7b64541e814b93ad0e6e4ae3ff32b178f48fa655ff85ec29f36ffaa2d"
+    },
+    {
+      "type": "Organization",
+      "name": "échafaudeurs, des grutiers, cordistes, électriciens, forestiers, scieurs, équarisseurs, charpentiers et taillandiers",
+      "id": "Organization_a2467f4fbf2245cf5ee1669b99818326cdc0a620eb63f48c7bf2a3b0eb89025f"
+    },
+    {
+      "type": "Organization",
+      "name": "cathédrale",
+      "id": "Organization_35369fd52b140d38ed5f97b9e473d80ddbe2606d401ea7cc9e6b96b57585b169"
+    },
+    {
+      "type": "Organization",
+      "name": "forêt de Notre-Dame",
+      "id": "Organization_dce779c6ce1ef6070c82ab5983b8421c74c8413089548f1a627ab1f77b95a96b"
+    },
+    {
+      "type": "City",
+      "name": "Notre-Dame",
+      "id": "City_53c3f777884e31a5acc4f71ab8497789b78b3fa0f6030df8fb3024485c574073"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations",
+      "id": "Organization_7c5aec57bdc334e17012ce215f71d8770d97e6b7b88b7151d30bdc14e6690c0a"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "fragilité",
+      "id": "Theme_4976db7093817ba44b5955aba3d5a3e019c9ddda485dff5cf5d99e59ea30a4b6"
+    },
+    {
+      "type": "Theme",
+      "name": "humilité",
+      "id": "Theme_1f533297e3d3c61ce159bbf9cbd3fe9dcc2068121ee47dca573ec1423280f2dd"
+    },
+    {
+      "type": "Theme",
+      "name": "joie",
+      "id": "Theme_172d43dbed444c6434928abfa88afcb4b3de43593b37336997ffbf0eb9c5358d"
+    },
+    {
+      "type": "Theme",
+      "name": "fierté",
+      "id": "Theme_7eff11c9eca34cecf2a19a02da7d290b3f85a6dd0840cac5b971ec01a30659d3"
+    },
+    {
+      "type": "Theme",
+      "name": "grandeur",
+      "id": "Theme_2091530389bac6d11d451e111434d593d21b5188ba5b976d87fec244bf6427a3"
+    },
+    {
+      "type": "Theme",
+      "name": "passé",
+      "id": "Theme_4c601b71b511f2e5831fbb1ce633fd7c37f7924a30c6cbc7915825ad42458283"
+    },
+    {
+      "type": "Theme",
+      "name": "adversité",
+      "id": "Theme_0e4c2cc0410008596115812f7ea68799928fb47b9d315b5bc9b10b60adca7065"
+    },
+    {
+      "type": "Theme",
+      "name": "république",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "france",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Paris",
+      "evidence": "Gratitude à l'égard de tous ceux qui sont présents, au moment où nous nous apprêtons à la rendre aux catholiques, à Paris, à la France et au monde entier.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "génies",
+      "evidence": "Pour les adieux de la France à ses génies, à ses soldats, à ses grands hommes.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Person_1b465cd1a9d97b777998ae187bbd0886c32d495820f0b0c7d10f46074877a691"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "soldats",
+      "evidence": "Pour les adieux de la France à ses génies, à ses soldats, à ses grands hommes.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Person_50d4aed1ba5e0de3105c5abea12c109cc93415d5c243f9826486ee29f102df1e"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "grands hommes",
+      "evidence": "Pour les adieux de la France à ses génies, à ses soldats, à ses grands hommes.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Person_d8a04122800750de96513762b7dda95891335d0a89746e10612ee01bf5820509"
+    },
+    {
+      "source": "général Leclerc",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Pour annoncer aux résistants de Paris l'arrivée du général Leclerc et des siens, puis pour célébrer la libération aux côtés du général De Gaulle.",
+      "confidence": 1.0,
+      "source_id": "Person_93722fa32ff4061ab8cfce6bb305793f40358ccff94e24c94be0dc9ae1a4e13e",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "général De Gaulle",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Pour annoncer aux résistants de Paris l'arrivée du général Leclerc et des siens, puis pour célébrer la libération aux côtés du général De Gaulle.",
+      "confidence": 1.0,
+      "source_id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    }
+  ]
+}

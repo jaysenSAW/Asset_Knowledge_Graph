@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "PNUE",
+      "id": "Organization_8a8a9580643bddb27564c2dd188237e12ef44cef2c0469c49aa815e9578f63d7"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaires d'État",
+      "id": "Organization_8e1c30d7292f37306d79d2962f39e05a81c9565675fd36c8251619de54d5d4ca"
+    },
+    {
+      "type": "Organization",
+      "name": "Accord de Paris",
+      "id": "Organization_ac01fbf057a5694aed21a30b30faf99d3c8fba9710eb144a577f5b4f8042b138"
+    },
+    {
+      "type": "Organization",
+      "name": "Stockholm",
+      "id": "Organization_574250872773b01587c5be3a8bea0e59b9fdad65180bce5c6f5bac9078433a00"
+    },
+    {
+      "type": "Organization",
+      "name": "Rio",
+      "id": "Organization_8d21b1cdcf656cfdf0b8f7ad4df8ad480e174b045506416b4b1e182d291303f6"
+    },
+    {
+      "type": "City",
+      "name": "Stockholm",
+      "id": "City_438de9e885afb413ffe56e761adb8b364eb7041bcf4e7adfed01c4f055c0aa65"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "génération climat",
+      "id": "Theme_43fcb8df43e531ef893c457f4cb43d37f9b714f1b5461c6481c21a188e875de5"
+    },
+    {
+      "type": "City",
+      "name": "Rio",
+      "id": "City_0f169fe9c11f24ba0b9c2ce8490deb38c4a6627ec9ebbba4418d3165aabf83d7"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs sur le climat",
+      "id": "Theme_ef2278cdefd6e0e651d447c9514fa4afbbd56ee8e4b58d2817672b4c789ffc3e"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "solidarité",
+      "relation": "MENTIONS",
+      "target": "solidarité",
+      "evidence": "Solidarité avec les générations à venir, solidarité aussi avec ceux qui font dès aujourd'hui face aux conséquences du changement climatique.",
+      "confidence": 1.0,
+      "source_id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175",
+      "target_id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    }
+  ]
+}

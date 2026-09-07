@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la Vice-secrétaire générale",
+      "id": "Person_f32bb84dc49ea444534a4a65144fa71e710c9693c669975e55070cd04b016307"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "City",
+      "name": "Beyrouth",
+      "id": "City_280b6ea335965e79e491c845075dc6e63bb6a6dea253e0a2298779065c28a11e"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Person",
+      "name": "secrétaire général des Nations unies",
+      "id": "Person_3b6f20ae4bd585c52c5f2277b37c10222936d306e89369f76e71cd74b30442be"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "CMA CGM",
+      "id": "Organization_819865fb75c778bbfb012c0391c93269eb51cd3deb91195ae1751d80ae2fe585"
+    },
+    {
+      "type": "Organization",
+      "name": "associations",
+      "id": "Organization_093357ed588ea24809b2100d18e873165901f63f0760d7b30cd7fed20c85113a"
+    },
+    {
+      "type": "Organization",
+      "name": "ONG",
+      "id": "Organization_3e1586cef038ea96d5ab3c5a2d6496c339bffcc013fa18af180a38657091796f"
+    },
+    {
+      "type": "Organization",
+      "name": "FAL",
+      "id": "Organization_269f46d846ab1f3d1d72c5c28fe69e7ce580f105069983255526921d45195d87"
+    },
+    {
+      "type": "Person",
+      "name": "Président Aoun",
+      "id": "Person_63adce48a7cd7b3fb247b36d96f6e75cc45fa2e8f53d2405f3bd69edfb05f1d7"
+    },
+    {
+      "type": "Organization",
+      "name": "conférence CEDRE",
+      "id": "Organization_1289c805b80ef02b84867a276fb396aeb9eb868eb658a73122f9f369db9f09a6"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "les dirigeants libanais",
+      "id": "Person_45b7ee5c042ab4b0482da69f9ed99512fb77cbef3658e81876238cd602c2b3ef"
+    },
+    {
+      "type": "Organization",
+      "name": "communauté internationale",
+      "id": "Organization_d5f4d71f5848d508c12d02b6744eaeacc76412e4af8f1e46ce197c4ffc2b5788"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Nations unies",
+      "relation": "MEMBER_OF",
+      "target": "Nations unies",
+      "evidence": "en partant des besoins réels, identifiés par les Nations unies.",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Liban",
+      "evidence": "Et je sais que les Libanaises et les Libanais peuvent compter sur vous, comme ils peuvent compter sur la France.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "source": "Président Aoun",
+      "relation": "SPOKE_ABOUT",
+      "target": "Liban",
+      "evidence": "Le Président Aoun, qui est avec nous aujourd'hui, sait combien j'ai estime et respect pour lui, pour sa personne, pour le combattant de la liberté qu'il fut et pour l'élu du peuple libanais qu'il est.",
+      "confidence": 1.0,
+      "source_id": "Person_63adce48a7cd7b3fb247b36d96f6e75cc45fa2e8f53d2405f3bd69edfb05f1d7",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    }
+  ]
+}

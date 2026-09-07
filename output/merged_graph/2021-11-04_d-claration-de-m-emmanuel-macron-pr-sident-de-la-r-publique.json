@@ -1,0 +1,913 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la députée",
+      "id": "Person_0a30cb8e7df3047d7884f8d8226cd04c18067f9296fb505416bfaa64a701961f"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Comité mondial d'éthique",
+      "id": "Person_20d1bb561b260fac8b701fc3276da49c7571aec2eb8b5d44f4be02b80e699663"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "tourisme",
+      "id": "Theme_6230ab46b903a54cbd735ffcdd8016d5b3ccadaf12ae9993a40cfa32b83e758f"
+    },
+    {
+      "type": "Theme",
+      "name": "hôtellerie",
+      "id": "Theme_e580326cf083eaffe04ca2c9781ebe35f06034d56fee8c1e7fe584844755c702"
+    },
+    {
+      "type": "Theme",
+      "name": "voyages",
+      "id": "Theme_e3ea61b886cd3ba4c99ccc51c3fe7348c7babbf53a7e75f1503a9d479bb3e088"
+    },
+    {
+      "type": "Theme",
+      "name": "gastronomie",
+      "id": "Theme_95de876b1173e4eff212fc36e76d6c5f96b693492bb23438c8897dfee2f77158"
+    },
+    {
+      "type": "Theme",
+      "name": "luxe",
+      "id": "Theme_2562a569d6c1d7dcc9a7d69bd993674973b95b985f5a20061687cf197d8c84e4"
+    },
+    {
+      "type": "Theme",
+      "name": "artisanat",
+      "id": "Theme_e503c87cab8e818d205063f1be254200fdc67e354b7473160629a363a2478a44"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur BÉLAVAL",
+      "id": "Person_248b34623a1c1074c63314fbd3e7921e5df98ae4d440e6cc7b545960b865782e"
+    },
+    {
+      "type": "Theme",
+      "name": "patrimoine naturel",
+      "id": "Theme_64467d41644604cd20f32e581575c2253a0fc3379c5df260956dcb9cc02de037"
+    },
+    {
+      "type": "Theme",
+      "name": "territoire hexagonal",
+      "id": "Theme_ed7c0fd6c8e5597e2e72bd9ce53f7a4f91ed67988b6704227da630724687de39"
+    },
+    {
+      "type": "Theme",
+      "name": "Outre-mer",
+      "id": "Theme_64c7afb8abd6650f75e245cc5aca9bedfee6167f1f691c6bf4d5a30512dcf9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "montagnes",
+      "id": "Theme_baf626f891881e1b6bfdada9f4302e6d96a570d95ae649cae9a4b264bee893b8"
+    },
+    {
+      "type": "Theme",
+      "name": "littoral",
+      "id": "Theme_7e584c4b27ebbad788854e804ee04d45a47583ff6955c27abf71110ed3d0b8e0"
+    },
+    {
+      "type": "Theme",
+      "name": "trésor",
+      "id": "Theme_58690f2e88dfb661beeaada0b9accf9d1b0dfe955396977231de40076a945d40"
+    },
+    {
+      "type": "Theme",
+      "name": "art de vivre",
+      "id": "Theme_acade2bdc2bddfd28280035d1d99086c7009b19e7d49f147598cbcaeb77da2b2"
+    },
+    {
+      "type": "Theme",
+      "name": "agrotourisme",
+      "id": "Theme_bb3dc8dd9006834075622cade17407e770d8eaa5a0a0ad7a519be62ad6cbfa72"
+    },
+    {
+      "type": "Organization",
+      "name": "restaurants étoilés",
+      "id": "Organization_77d36fffe4c35c13ccc48a7647e8e8b7f167b49a338c738b2c113b3badc0bc73"
+    },
+    {
+      "type": "Organization",
+      "name": "fromages",
+      "id": "Organization_a88b7c1cd2a664b397bc0a791aebec4947b1f107b65de9e2da52f7d8cc682cc7"
+    },
+    {
+      "type": "Organization",
+      "name": "vins",
+      "id": "Organization_76f9a48788229c1d819d4c0173ed7cae913b85c7e7d8ea80dcb3659c3a382321"
+    },
+    {
+      "type": "Organization",
+      "name": "baguettes",
+      "id": "Organization_58321056f62812e144daf440568613717aa33cf6cd65541e16e5a6c7dba81ead"
+    },
+    {
+      "type": "Organization",
+      "name": "croissants",
+      "id": "Organization_e633d7610246ac517ae2e5baf2cf2893c901d4d3e3240dbbbcd546cfa3149f19"
+    },
+    {
+      "type": "Organization",
+      "name": "chocolatines",
+      "id": "Organization_63db65880006e0e1b4f72d02137b1020026831807c50c1da87d8e09269932bd7"
+    },
+    {
+      "type": "Organization",
+      "name": "pains au chocolat",
+      "id": "Organization_7d9b6ea359193b92957533fc420ccc897e15ffd6b1877ec06b4319241b6e2810"
+    },
+    {
+      "type": "Organization",
+      "name": "métiers d'art",
+      "id": "Organization_6b2900ac05674fd132f5fa2ed67b38caa0716ad24cfc7e9597b9233f37e86dbc"
+    },
+    {
+      "type": "Organization",
+      "name": "artisans",
+      "id": "Organization_9086eb4ad6e376d4ff1b9801eeb86eab76e55000eacfa20ee3fa2d395fcc3e69"
+    },
+    {
+      "type": "Organization",
+      "name": "agriculteurs",
+      "id": "Organization_578856f81043d3f2647ec9915cf9927a9a3355d6badc651d0654b3bca7729ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "sport",
+      "id": "Theme_825ac548d524f301bf40cecba64423c577f867e16f68d3e023ee693d5aebd94a"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité",
+      "id": "Theme_6e810685c69ad3ee9245c969e1dfdc105f56849050a2192c7b2a5c21535528f3"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Organization",
+      "name": "OMS",
+      "id": "Organization_f4fd87f36b138eb90074550fbf1903ace44013d0b88bded488849d5b4439d0a9"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "convivialité",
+      "id": "Theme_f2c5edd0ce5a8605a8d1bca4cf839f5d48cc2f71af199a1f6d2174eefb3b1f86"
+    },
+    {
+      "type": "Theme",
+      "name": "activité",
+      "id": "Theme_189c906f0e37bb2255a7da1dac5becaaa930a81187677e5178a223a2a5ff9935"
+    },
+    {
+      "type": "Theme",
+      "name": "PIB mondial",
+      "id": "Theme_186f69305013492552ec1d9ea1b0c23501cf523c9a5dbc88d5482567f22efb91"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers de bouche",
+      "id": "Theme_20b538efb60ed5faa61f567a0889c085d98c6df2db82d5fa72e75bec7e3153cd"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers de services",
+      "id": "Theme_486c7dcd4c9f3ff59a35dd944ce2020bfb90f4051d95bfbdc2bdc730565b1e42"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers d'infrastructures",
+      "id": "Theme_6f292c645cd09720f7e178ce04fac78e5d79ed869b4880140e8f23c6a4dc6904"
+    },
+    {
+      "type": "Theme",
+      "name": "touristes étrangers",
+      "id": "Theme_fb3c00e5b42f0aa88d33256e9e7fe2362f9790c35ee02b4b2f61cb3064c7929f"
+    },
+    {
+      "type": "Theme",
+      "name": "restaurateurs",
+      "id": "Theme_a421e9d343decbe2a8fe719e6d2b13d224e9ec756b49ece5a98cb04103f07f4d"
+    },
+    {
+      "type": "Theme",
+      "name": "événements sportifs internationaux",
+      "id": "Theme_6dbdf3a3ea50cf153f8a9958ecd5907ee0d637f8bcd17abd4946adb7a58f8f73"
+    },
+    {
+      "type": "Theme",
+      "name": "grands événements",
+      "id": "Theme_0054564ac3f2f1a70801bcc1f39d3ea759183c17e02888ed1a3573685f3135e5"
+    },
+    {
+      "type": "Person",
+      "name": "les femmes et les hommes",
+      "id": "Person_c3ef9a7e26b541b6494751742728941834d32170284ec6c54132bfd1b616912a"
+    },
+    {
+      "type": "Organization",
+      "name": "vos entreprises",
+      "id": "Organization_23bd635ef30e862a9c3db0a1ccbf71274f4779bec0e7e8f80d1db9ac475ea20e"
+    },
+    {
+      "type": "Organization",
+      "name": "nous",
+      "id": "Organization_1abd5dcfaef874841c719199a08352984f3121ba4d175d7705d1c0f89b7da3de"
+    },
+    {
+      "type": "Theme",
+      "name": "capital industriel",
+      "id": "Theme_7c5ab099a9c01d366585ceb0c46b781a9438b52ef88feb8f6e9458b07a2c36b6"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir-faire",
+      "id": "Theme_e020add04380980015c543dc696b8b323483b7b82c6c387324d2986f12998c1a"
+    },
+    {
+      "type": "Organization",
+      "name": "l'État",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage partiel",
+      "id": "Theme_224db8296e56db7cddb54ca5f9e355f099b05bfc12a1836807c84af9ab39d89c"
+    },
+    {
+      "type": "Theme",
+      "name": "prêts garantis",
+      "id": "Theme_1d92e0161129ca2f474f7c444d623818acbedb3d70cde40933df80f2d0fb9591"
+    },
+    {
+      "type": "Theme",
+      "name": "Fonds de solidarité pour les plus petits acteurs",
+      "id": "Theme_0b0d3f96ed3268a3bf6ef235c1311652fa00075fac4c263945f8c81d4c971fa7"
+    },
+    {
+      "type": "Theme",
+      "name": "dotations sectorielles",
+      "id": "Theme_e8120bcb9eb60b5e3b93803810d2804fd93c3acc03c7e0ea04d3df8251300c52"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur touristique",
+      "id": "Theme_adb770f6ee8935466b895994b615a015b41f696c4e2c4477640e6145b8d59b6f"
+    },
+    {
+      "type": "Person",
+      "name": "les ministres",
+      "id": "Person_78d76679e74b5a51cda29b8e650dbdf68ea42269e62f817210484c9a0fd92759"
+    },
+    {
+      "type": "Person",
+      "name": "les professionnels",
+      "id": "Person_73f6196ab1d8a858cdbd6c9b6398402e4e9f2d3ad37e7266314c2e81553502ac"
+    },
+    {
+      "type": "Person",
+      "name": "les représentants",
+      "id": "Person_13f3ef1836ab7352a5b3fd745a1a1108a7e2acd06ba515052c4576fa421570c7"
+    },
+    {
+      "type": "Theme",
+      "name": "pass sanitaire",
+      "id": "Theme_fba175066a91cd946361ca7ec43d7039195a3476cea05b45a6e410045e1eb96f"
+    },
+    {
+      "type": "Theme",
+      "name": "jauges",
+      "id": "Theme_4f992ae7289fb6db1faf6beef154896bcbf228bfc66b68e57348d14661c074f2"
+    },
+    {
+      "type": "Theme",
+      "name": "épidémie",
+      "id": "Theme_cc728abad13e3c62e85c61089f7679fbc7bd2c7fd6b01a6888d874304168d638"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccin",
+      "id": "Theme_32ec3b4bac32f73345f9e33a388256bcaced72a72a5de7433f9116a540d3ce0c"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "nos voisins européens",
+      "id": "Organization_7467c4e59a6b3436ec28cf2e1e238bb8af8372e2401e2f790d22597530f81485"
+    },
+    {
+      "type": "Organization",
+      "name": "nos partenaires internationaux",
+      "id": "Organization_5c88f02601c1cf887af8521f1c212341b1cabb211230ca2b9eb115f87620a760"
+    },
+    {
+      "type": "Person",
+      "name": "les plus de 65 ans",
+      "id": "Person_7c3b386ecf3690729526282306352c42d983a3d10eae1d8b8bc0aaa2031c99cc"
+    },
+    {
+      "type": "Theme",
+      "name": "vivre avec le virus",
+      "id": "Theme_a2e7145d1c6db29faf3d858569144201c7256b4d283bb75004301e4b01e64436"
+    },
+    {
+      "type": "Theme",
+      "name": "structures d'accueil culturelles",
+      "id": "Theme_4172f559bd1a8d4b3ec2564d199206a8131dc19721d9af43a06d203d972e8c63"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "plan de reprise",
+      "id": "Theme_046c9c693fca0455e8cd646c63bdf4115653c3f20987147a13fb82dc3323c19a"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur",
+      "id": "Theme_d1e9bca32ac70d9e522b26dbfc2abc141e3b8227183efed7ffe03978e05f3b9d"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation sanitaire",
+      "id": "Theme_8d86ecf6f856de347813a0a2c53de810f3c6d4900d94564358d707bde8c5e6c4"
+    },
+    {
+      "type": "Theme",
+      "name": "destination France",
+      "id": "Theme_9411acc4d050d5c25c251770b32f25e01f286bfc815fe465edd0fe65fbf4fdc9"
+    },
+    {
+      "type": "Theme",
+      "name": "touristique",
+      "id": "Theme_e19644c24cce7c67d7cae29f2c5c544a493361d3eb4f754367d6060b7dcde2d2"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "climatique",
+      "id": "Theme_4abf026fe9ca32e0caff98a931369a221f531d982e6efa70c6c21719a6ce0a0d"
+    },
+    {
+      "type": "Theme",
+      "name": "paysages",
+      "id": "Theme_2be707bdd39280478c29eff99aa40ad9f0a1d2c90ac1a7beec664bee0f9f18bc"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "French Touch",
+      "id": "Theme_5b253ab995a63918669344e24560e5bf7b7be6c12433886e8b60dfe88b95d020"
+    },
+    {
+      "type": "Theme",
+      "name": "touristique de qualité",
+      "id": "Theme_1142c43421b2852c236ad996531c1b5e2b99dd496bc7cde1323e29177909f02f"
+    },
+    {
+      "type": "Theme",
+      "name": "expérience",
+      "id": "Theme_d9af6d9c8c150a703071b1198a20228cbc9208c08476d11a62691ebfb37db229"
+    },
+    {
+      "type": "Theme",
+      "name": "art de vivre à la française",
+      "id": "Theme_5c337e8b90968c421bb00433a261600495fdbbb0783bd7c02c4840cd4a585b4d"
+    },
+    {
+      "type": "Theme",
+      "name": "interactions entre tous les secteurs et tous les métiers",
+      "id": "Theme_935d0d408615be4dba9c53afb8a457c18698bac7b036fb1d47b98e98fe8db43e"
+    },
+    {
+      "type": "Theme",
+      "name": "adaptation des infrastructures",
+      "id": "Theme_f18ffad717401d67f356ae764c9cee8abf07fe2932f450ab1e79971af6f232f4"
+    },
+    {
+      "type": "Theme",
+      "name": "transport",
+      "id": "Theme_1a641d5b69608bdb03696d1cece984f99de2b357f066e5c6d65727885433491c"
+    },
+    {
+      "type": "Theme",
+      "name": "hub régional et international",
+      "id": "Theme_ce1a6f59ef2960a2a2a3d7374354de3c4ec3f3c9ad780073c6d8a1789c3adfbd"
+    },
+    {
+      "type": "Theme",
+      "name": "valeur des flux",
+      "id": "Theme_c078caa5275b980cfd7b3a5032fdb16715ecb05a1d4ff2b1407669f7748769ca"
+    },
+    {
+      "type": "Theme",
+      "name": "offre de transport",
+      "id": "Theme_74193deaa702f65e1c374c80194ffd780efc755bb4865672b1b963b44d187a0d"
+    },
+    {
+      "type": "Theme",
+      "name": "multimodalité",
+      "id": "Theme_69dfc9dca034cdcaa0d1a5a0b7af1d168c722958f4e3a871e18d6cc3f057a968"
+    },
+    {
+      "type": "Theme",
+      "name": "intermodalité",
+      "id": "Theme_9664bbfd9da82a3443d6ed2bea70e1dd9554a74148955b68b5946abaaa73d4bf"
+    },
+    {
+      "type": "Theme",
+      "name": "ferroviaire",
+      "id": "Theme_18974b56235517f2a696da9bd81c5414f10512487d11d3a98e66a6578f52e8de"
+    },
+    {
+      "type": "Theme",
+      "name": "fret",
+      "id": "Theme_a5f6e6b445153b46a237d512ba6e51c3509b32ccaabae8ce76dac4e81d6592c9"
+    },
+    {
+      "type": "Theme",
+      "name": "fluvial",
+      "id": "Theme_0854eb9b6e40ad5d6e7c4b6c57722cd1dadc344b2249e0e5107dd46b2f6841c4"
+    },
+    {
+      "type": "Theme",
+      "name": "maritime",
+      "id": "Theme_f08f7edea0cfbb698969e14637cac9dcd795da989e87cfd27128611e8729ffa4"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructures",
+      "id": "Theme_d711aaaa56cea790c01e9aeb41b7659ac488b2a837642df3eed8eeb83ff64968"
+    },
+    {
+      "type": "Theme",
+      "name": "voies vertes",
+      "id": "Theme_3d6737a4e7ca8d1535b0723a2ee88489d284898f789deb455f1a2a680ec494f8"
+    },
+    {
+      "type": "Theme",
+      "name": "voies bleues",
+      "id": "Theme_7eb49a564441af95a0d62318efff4edfbe1eb5376bafbafcaed2a0889cef7e68"
+    },
+    {
+      "type": "Theme",
+      "name": "plan vélo",
+      "id": "Theme_1467503bdba99f19e85f6349795f658bee1108ac323a48708b314f5e331a3c5f"
+    },
+    {
+      "type": "Theme",
+      "name": "collectivités territoriales",
+      "id": "Theme_7973341bcfc8fb87154f28f2a6c6c212e15440325bf8999278570859ef94ea37"
+    },
+    {
+      "type": "Theme",
+      "name": "vélo",
+      "id": "Theme_c5b3bdca874bc83fd5207f7a706af98d0f9912da6e1a2654da1d860cbe1b08b1"
+    },
+    {
+      "type": "Theme",
+      "name": "attentes",
+      "id": "Theme_d6619a43044e46d4bc5008427d20bf09c3d0fe3b6b65aa3bb446f1335e6178b1"
+    },
+    {
+      "type": "Theme",
+      "name": "touristes",
+      "id": "Theme_12c51f22c9983ff66fb8ff9a3ce62a31304895fa68db879405b18147922a2f60"
+    },
+    {
+      "type": "Theme",
+      "name": "restauration",
+      "id": "Theme_bf4153d0094d9a9380f243363e8bbd3facb007e9672e2af30ebb3c3e24533f61"
+    },
+    {
+      "type": "Theme",
+      "name": "professionnels",
+      "id": "Theme_a8caec7ccdcece8b5fae1f86630d5f54c3f17b99b5613289cf3e6c3f4637082c"
+    },
+    {
+      "type": "Theme",
+      "name": "tourisme international",
+      "id": "Theme_9cce1b492a24d657d6851ba7edf9080f0d86e0054ceab9f06fe09c4535bf17a5"
+    },
+    {
+      "type": "Theme",
+      "name": "insuffisante reprise",
+      "id": "Theme_c4fafe27719193a519d0170b5e7c53d5f31d9eb49eacaa3bb54f07198f88aa52"
+    },
+    {
+      "type": "Theme",
+      "name": "acteurs exceptionnels",
+      "id": "Theme_9d166d0f27410291aaab2032cc8b4447234a66b8426e4488d65fd17344000e94"
+    },
+    {
+      "type": "Theme",
+      "name": "touristes chinois",
+      "id": "Theme_9039ee03e7f4c47a85165ec12a4522ea66ddf533cce08762b77688ac9f42ae91"
+    },
+    {
+      "type": "City",
+      "name": "Hexagone",
+      "id": "City_4422ab99962aff5592f6583c4b4d3d1e9a6f0c8fd17d325c48dba4205e51f2c4"
+    },
+    {
+      "type": "City",
+      "name": "Outre-mer",
+      "id": "City_121f5dd683084ed11b0b0afc40ab9b11e807e5f548606d1633c672145ee5660f"
+    },
+    {
+      "type": "City",
+      "name": "Lourdes",
+      "id": "City_f8b0b9e519663caf8ab040519800cc57aa9418e6903ee6fd23b5525829c3eb28"
+    },
+    {
+      "type": "City",
+      "name": "Caraïbes",
+      "id": "City_00f24e8aa1dfb6fcd17fd136278222a6ae32e433f81a0d99e1a6a0625a0b395e"
+    },
+    {
+      "type": "City",
+      "name": "Polynésie",
+      "id": "City_103d11482639dfde531a4dc1072ea2ddc0c4aad84839afc490792d292fce95c1"
+    },
+    {
+      "type": "Organization",
+      "name": "Caisse des Dépôts et Consignations",
+      "id": "Organization_6c653c3f53cfbf6a802f4e193d30815ed9c8913bdbc0bff26dff7097e182d52c"
+    },
+    {
+      "type": "Theme",
+      "name": "Transformation",
+      "id": "Theme_20f02849c6d3fef1e0f7fdcc6fcd9d5a1930a7b08f24aabfc14521d8b9ed907d"
+    },
+    {
+      "type": "Theme",
+      "name": "Montée en gamme",
+      "id": "Theme_aff6d4b12b54fce86d39e496ca76b014f91ecb269b53aef39dccc6121d8dfcb7"
+    },
+    {
+      "type": "Theme",
+      "name": "Infrastructures d'accueil",
+      "id": "Theme_70c14b3873a9b403e279380b1cdb783e561e19454d647808f689ca55401830f4"
+    },
+    {
+      "type": "Theme",
+      "name": "Synergies",
+      "id": "Theme_b56781500d3cfaa8401ac405bb12ca55ff6c69af8e5aa509a528c58aec0facf9"
+    },
+    {
+      "type": "Theme",
+      "name": "Bien être",
+      "id": "Theme_87c6b817dd977258152acf243d07cae5f0166c43d40f2a9cd82e977e3effbeab"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Cirq-Lapopie",
+      "id": "City_cadc518223f776c57b0510d438ca358b9a7a66c35e9a72365acf101374287d0a"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles générations",
+      "id": "Theme_e4362515f4b2e48f08147a68b620b8a078eed2695c6ec4c2747aca792ff9e20e"
+    },
+    {
+      "type": "Theme",
+      "name": "aspirations",
+      "id": "Theme_b213a1a12fa0d928473a647ed891e2fa75ba0f158951bfbcf1f18c3ed3b51482"
+    },
+    {
+      "type": "Theme",
+      "name": "offre",
+      "id": "Theme_db6ec1380c1381e4cdddf8a159a5c4ac5798f80a3367e8505b670a5c618203c6"
+    },
+    {
+      "type": "Theme",
+      "name": "cycles horaires",
+      "id": "Theme_4588ed177dd60f4d19d5d3429c6a8df4a3eeff060ba67c78b28942e76fcf5438"
+    },
+    {
+      "type": "Theme",
+      "name": "conciliation",
+      "id": "Theme_0c45e2c2942c11a68ea7495f24c2e975361fdf10db800841ed182981be936a79"
+    },
+    {
+      "type": "Theme",
+      "name": "langue étrangère",
+      "id": "Theme_99eea8ca5477f253a099797fcf036535d3f97dfbfd7545b774d4780db4a3bfc4"
+    },
+    {
+      "type": "Theme",
+      "name": "tourisme durable",
+      "id": "Theme_db62b5115ffa920700c28c8d776cb478dadf99a9d6166174d2845bb3b527023b"
+    },
+    {
+      "type": "Theme",
+      "name": "émissions de gaz à effet de serre",
+      "id": "Theme_ed9f7cf3d7ee07aba9d9e74b8f8c24dd7532efa4103d2a039fbe32c0a9c361ee"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "tensions",
+      "id": "Theme_cba6267a0edb4b45de6f8ffdce822b9050ee187c12b3238bfe8a91fd4595d9f3"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence",
+      "id": "Theme_5dd492310229e6422561fb6ee7825d44da04ee46fef898be05f57442adb06a51"
+    },
+    {
+      "type": "Theme",
+      "name": "numérisation",
+      "id": "Theme_50905116b58d71fb611a012a8f989a8547a38622832cfa8ac5a6f5aa23f431c0"
+    },
+    {
+      "type": "Theme",
+      "name": "numérisation des TPE et des PME",
+      "id": "Theme_9460c4653859e810b2d095964ea8294b02a1d19ab066c869df9feb26041513a2"
+    },
+    {
+      "type": "Theme",
+      "name": "France Relance",
+      "id": "Theme_ec0158e5109b8add672fac070f24646c4f40b743c1d5f3885b8962093e770532"
+    },
+    {
+      "type": "Theme",
+      "name": "digitalisation",
+      "id": "Theme_3a6d68b16ca65079e26ac038b86cf2a16685f1e174b326788303439fab0853b4"
+    },
+    {
+      "type": "Organization",
+      "name": "CMN",
+      "id": "Organization_8c54be8993f97dbf2e0605185b580f0bc0aed68cb15dae251844c457bdb9617f"
+    },
+    {
+      "type": "Person",
+      "name": "Philippe BÉLAVAL",
+      "id": "Person_00842f66eb66b483f8b205898aa3c1591c3c7ec7557580014427d5904b85ca29"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "relance",
+      "id": "Theme_89b3bcb48b8cc3439eb43c613ac6bd35725f85c44b2759c02b21de9a2a64abee"
+    },
+    {
+      "type": "Theme",
+      "name": "sortie de crise",
+      "id": "Theme_767d4c9c342eb60ebe8c5c89ffc3a5854fb7dc267c575488d019acaf932683c3"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Organization",
+      "name": "Accor",
+      "id": "Organization_b72c3ed68e505e9325804790eafbbb31390397874a05fa189cf8e468d89396b3"
+    },
+    {
+      "type": "Event",
+      "name": "Rugby World Cup 2023",
+      "id": "Event_8124ca3248d591fc6ff39ccf6a3b0d8577d373453f4688d10373c20170cd55e8"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux olympiques de 2024",
+      "id": "Event_900b788ceee057d7dc12b8346a20b6fa2bcadd83294e2b78a712a80610f76e54"
+    },
+    {
+      "type": "Theme",
+      "name": "France 2030",
+      "id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations",
+      "id": "Theme_3957cb051014b00717e7b2ec655cbcfa47c99687835fe48f9d3a8fbe1cedaead"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "tourisme",
+      "evidence": "Alors, il y a parmi vous des acteurs de l'attractivité, du transport, de la restauration, de la gastronomie et évidemment, du tourisme, de l'hôtellerie, des voyages, du sport d'absolument tous les secteurs ; des femmes et des hommes qui sont engagés dans le luxe, l'artisanat, des métiers qui pourraient sembler n'avoir rien à voir ensemble. Si, au fond, tout cela n'était pas tenu par une seule et même chose, permettre à nos compatriotes et au monde entier de vivre des expériences uniques et précisément de retrouver la destination France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_6230ab46b903a54cbd735ffcdd8016d5b3ccadaf12ae9993a40cfa32b83e758f"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Alors, la France a toujours été et demeure une terre de tourisme.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "tourisme",
+      "evidence": "Parce que nous aurons des grands rendez-vous en France. J'y reviendrai avec le rugby comme les Jeux olympiques et qui sont des leviers extraordinaires pour développer le tourisme, développer l'attractivité et permettre d'accueillir le monde entier.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_6230ab46b903a54cbd735ffcdd8016d5b3ccadaf12ae9993a40cfa32b83e758f"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "attractivité",
+      "evidence": "Parce que nous aurons des grands rendez-vous en France. J'y reviendrai avec le rugby comme les Jeux olympiques et qui sont des leviers extraordinaires pour développer le tourisme, développer l'attractivité et permettre d'accueillir le monde entier.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_6e810685c69ad3ee9245c969e1dfdc105f56849050a2192c7b2a5c21535528f3"
+    },
+    {
+      "source": "pandémie",
+      "relation": "MENTIONS",
+      "target": "PIB mondial",
+      "evidence": "Avec la pandémie, votre secteur a été profondément percuté. Il représentait 10 % du PIB mondial et 10 % des emplois.",
+      "confidence": 1.0,
+      "source_id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75",
+      "target_id": "Theme_186f69305013492552ec1d9ea1b0c23501cf523c9a5dbc88d5482567f22efb91"
+    },
+    {
+      "source": "pandémie",
+      "relation": "MENTIONS",
+      "target": "emplois",
+      "evidence": "Avec la pandémie, votre secteur a été profondément percuté. Il représentait 10 % du PIB mondial et 10 % des emplois.",
+      "confidence": 1.0,
+      "source_id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75",
+      "target_id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "pass sanitaire",
+      "evidence": "La France a été parmi les premiers pays au monde à développer ce fameux pass sanitaire",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_fba175066a91cd946361ca7ec43d7039195a3476cea05b45a6e410045e1eb96f"
+    },
+    {
+      "source": "multimodalité",
+      "relation": "MENTIONS",
+      "target": "intermodalité",
+      "evidence": "C'est ensuite de développer, justement la multimodalité et l'intermodalité, pour permettre de passer très vite d'un transport à l'autre, et de limiter les émissions.",
+      "confidence": 1.0,
+      "source_id": "Theme_69dfc9dca034cdcaa0d1a5a0b7af1d168c722958f4e3a871e18d6cc3f057a968",
+      "target_id": "Theme_9664bbfd9da82a3443d6ed2bea70e1dd9554a74148955b68b5946abaaa73d4bf"
+    },
+    {
+      "source": "infrastructures",
+      "relation": "MENTIONS",
+      "target": "voies vertes",
+      "evidence": "Et donc la modernisation de nos infrastructures est une stratégie touristique pour les décennies à venir. Et elle est au cœur d'ailleurs, de ce que nous avons mis sur France 2030. Au niveau plus local, je dirais, et ça, c'est de la couture très fine sur nos territoires, nous voulons aussi développer les voies vertes et les voies bleues, je l'ai évoqué pour le fluvial, avec les voies, les voies bleues, mais les voies vertes aussi, nos pistes cyclables.",
+      "confidence": 1.0,
+      "source_id": "Theme_d711aaaa56cea790c01e9aeb41b7659ac488b2a837642df3eed8eeb83ff64968",
+      "target_id": "Theme_3d6737a4e7ca8d1535b0723a2ee88489d284898f789deb455f1a2a680ec494f8"
+    },
+    {
+      "source": "infrastructures",
+      "relation": "MENTIONS",
+      "target": "voies bleues",
+      "evidence": "Et donc la modernisation de nos infrastructures est une stratégie touristique pour les décennies à venir. Et elle est au cœur d'ailleurs, de ce que nous avons mis sur France 2030. Au niveau plus local, je dirais, et ça, c'est de la couture très fine sur nos territoires, nous voulons aussi développer les voies vertes et les voies bleues, je l'ai évoqué pour le fluvial, avec les voies, les voies bleues, mais les voies vertes aussi, nos pistes cyclables.",
+      "confidence": 1.0,
+      "source_id": "Theme_d711aaaa56cea790c01e9aeb41b7659ac488b2a837642df3eed8eeb83ff64968",
+      "target_id": "Theme_7eb49a564441af95a0d62318efff4edfbe1eb5376bafbafcaed2a0889cef7e68"
+    },
+    {
+      "source": "Tourisme",
+      "relation": "MENTIONS",
+      "target": "innovation",
+      "evidence": "les différentes solutions qui ont été déployées pour soutenir l'innovation dans le tourisme à ce titre",
+      "confidence": 1.0,
+      "source_id": "Theme_6230ab46b903a54cbd735ffcdd8016d5b3ccadaf12ae9993a40cfa32b83e758f",
+      "target_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "source": "Philippe BÉLAVAL",
+      "relation": "SUPPORTS",
+      "target": "CMN",
+      "evidence": "le CMN et Philippe BÉLAVAL, parce qu'il a été la cheville ouvrière de la transformation de ce lieu",
+      "confidence": 1.0,
+      "source_id": "Person_00842f66eb66b483f8b205898aa3c1591c3c7ec7557580014427d5904b85ca29",
+      "target_id": "Organization_8c54be8993f97dbf2e0605185b580f0bc0aed68cb15dae251844c457bdb9617f"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "convaincre nos partenaires internationaux de venir continuer à investir en France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

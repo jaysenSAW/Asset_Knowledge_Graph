@@ -1,0 +1,580 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame",
+      "id": "Person_6ace0972a12e8e17957064d9f2ab5c314f0de15e6db0c156bc4d6af16f1e6022"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la ministre déléguée",
+      "id": "Person_f62569830517ba8d8cd5508370bc149eeeceddb75c3a1952579d7b67dcf7e4b1"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les parlementaires",
+      "id": "Person_ee51dc2324bec5b163f1b8c4d3c4713f0a34d4232a11b6a3033c9f8b0c2a0fa2"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les élus",
+      "id": "Person_271cb721002ea7abe3b15bcad709df18a3cf4248d0db3ac918f9fa8e5753ec04"
+    },
+    {
+      "type": "Person",
+      "name": "Maires de Nice",
+      "id": "Person_dc31a0da5f6ce877d0a2528f960c18ed26425982b2adf6fdee6a9de1165ea989"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les présidents d'association",
+      "id": "Person_01275e96123f5f50bec41127812fcfabcafbbb6a8cb3dfb779cb79168caacc07"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Grand-Rabbin",
+      "id": "Person_8018340804034973d9c3f2a08c1de7fbb19f5ef1e678cccda957ff2ab34da634"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les professeurs",
+      "id": "Person_a9236e613de85639fbfb75d30d77588be65f695d180a72de1e378e364b8f280a"
+    },
+    {
+      "type": "Person",
+      "name": "Historiens",
+      "id": "Person_740f56ba9bef2869d46aea3bd778037386e1641cc516767d35551cd48fb135c1"
+    },
+    {
+      "type": "City",
+      "name": "Algérie",
+      "id": "City_66dd739476a643901f2ecc6f56244d5f2db1cdebaafb107ed4637ba9a1ac3235"
+    },
+    {
+      "type": "City",
+      "name": "Malte",
+      "id": "City_6914fa59a2cd2790bb768ebb46dcd3365ce6fa71a792f10e9296c6cc7da9d03a"
+    },
+    {
+      "type": "City",
+      "name": "Suisse",
+      "id": "City_678e3b903adb6f4f441ff2571043dc39bb3b6dcb2ffd516ccce24be1ef2e19ef"
+    },
+    {
+      "type": "City",
+      "name": "Italie",
+      "id": "City_ae1ff6c5e597920cdf80fe85e6d3897e418ab4fb8428a49061eabdddb846cb42"
+    },
+    {
+      "type": "City",
+      "name": "Espagne",
+      "id": "City_a0b1b1e05baecfe7d6690a23f8d0b04c2dd40c3f73368532920d0cd9bc7844b5"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "palais de la République",
+      "id": "City_0a869cc936b86c74b3c0778577603359343b469dc13a70264805ec45e4798142"
+    },
+    {
+      "type": "City",
+      "name": "l'Elysée",
+      "id": "City_3eae2ad22a9341b8bf38bfebad3b2e5c05027e88193e4abae8bd3981a710e7e8"
+    },
+    {
+      "type": "Theme",
+      "name": "rapatriés",
+      "id": "Theme_d97dc939da9e2d82a084a211935818c42d0dbf786a06ea24a1eac96db4717094"
+    },
+    {
+      "type": "Theme",
+      "name": "familles",
+      "id": "Theme_7803335bd4102638e9751d299f711150ecf341d6610d43b5b977c8b5e87c589e"
+    },
+    {
+      "type": "Theme",
+      "name": "apaisement des mémoires",
+      "id": "Theme_af91f8c4fdc8c2435ab00975ae9698d2f2650941db23da6318efab8bf691a9b6"
+    },
+    {
+      "type": "Event",
+      "name": "60ème anniversaire de 1962",
+      "id": "Event_a733e782a38fd7770d7517745fbd5b4560b063b9658a009c829d648a2061ce2c"
+    },
+    {
+      "type": "Theme",
+      "name": "conflit",
+      "id": "Theme_c5df677153d0b9960d87a7cc1c81b7c456008a70cab549159756fed685546c73"
+    },
+    {
+      "type": "Theme",
+      "name": "souffrances",
+      "id": "Theme_4985b5cf88aa12ddf7387c043dc09dfcd0fbd0906873fc9883fded2ce9a4e27a"
+    },
+    {
+      "type": "Theme",
+      "name": "exode",
+      "id": "Theme_0ab5a233b378255f1599374662d2daa70f48e78232f123a3cc71e59e31d8ab22"
+    },
+    {
+      "type": "Theme",
+      "name": "exil",
+      "id": "Theme_d86f4137e9c67d1af29529dc1e43517cf4ace953d2cb814a399613e6be3fbc58"
+    },
+    {
+      "type": "Theme",
+      "name": "rapatriés d'Algérie",
+      "id": "Theme_f5d3f82eddc5875a96699281a6d586e1af3fb1fde033d987a73f3fdd7c15afd4"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "labeur",
+      "id": "Theme_6e4fbf3c731720592945852488e7de0519964a4b6f50b1a1c41ee712f2dacf2c"
+    },
+    {
+      "type": "Theme",
+      "name": "méditerranée",
+      "id": "Theme_5c1c6aabbbbfca70275e0d75df4cfac0908561fd5d54b651fb9166d10e16662e"
+    },
+    {
+      "type": "Theme",
+      "name": "page tragique",
+      "id": "Theme_b3e9698854a289e6c4d525a7879d055670e0fbb6f97989bb75b62648efaf861b"
+    },
+    {
+      "type": "Theme",
+      "name": "récit national",
+      "id": "Theme_20a2528b467b9532ae0986daca170445c6538c66cd90e6a5136c38d169452648"
+    },
+    {
+      "type": "Theme",
+      "name": "harmonie",
+      "id": "Theme_daff773f7b2652348c039fbc2b696cf5263b1927aadb7ebc485ea4025401b63f"
+    },
+    {
+      "type": "Theme",
+      "name": "vie simple",
+      "id": "Theme_e5b36482b8c25935ad4a9ba9c8ec538eea85595137c456b5eb5714904cb8211f"
+    },
+    {
+      "type": "Theme",
+      "name": "vie harmonieuse",
+      "id": "Theme_ee84b03fe929dbc2359257034e0a5c59f55bdf7f4bdd54865c12bbc27f880938"
+    },
+    {
+      "type": "Theme",
+      "name": "terre qu'ils travaillaient avec ardeur",
+      "id": "Theme_8352ba3767c9f45081abeb43d25de1493f578e4c00702f233f8177399653eb1c"
+    },
+    {
+      "type": "Person",
+      "name": "Albert CAMUS",
+      "id": "Person_5f9ca28293799c570e575365a5df019491093ccccc67fb2004f4000cf1cf1d9b"
+    },
+    {
+      "type": "Event",
+      "name": "accords d'Evian",
+      "id": "Event_01d8e413132b12906953fdd7b5b038a13c84944f66e25365171c2ec623930e6b"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Event",
+      "name": "fusillade de la rue d'Isly",
+      "id": "Event_c7f16100cb44d883d2585b71cb99085ec6a015a437e3ac7fbfbcd02a7f09bada"
+    },
+    {
+      "type": "City",
+      "name": "Bab El-Oued",
+      "id": "City_f45b4f66ab4721375490a78b9dae2573d79280c948aac973602c2dd08288e127"
+    },
+    {
+      "type": "Organization",
+      "name": "OAS",
+      "id": "Organization_17a84006fabc26b15dd693f800eb44e35ff2c080ec1d45d7c1aad207d7cb0e76"
+    },
+    {
+      "type": "Organization",
+      "name": "4e régiment de tirailleurs",
+      "id": "Organization_a0d7449c4e3f1daf117fa677aa53b9cd36a4fd28ff7b61aba5411b80b2df15bb"
+    },
+    {
+      "type": "Person",
+      "name": "les soldats français",
+      "id": "Person_91b2d173ac2ce6670ec87939c19ead2220a31f6f3d10d5a17129d1143c892019"
+    },
+    {
+      "type": "Person",
+      "name": "les citoyens",
+      "id": "Person_c730fbf7c91dc4ec71013d7c0b3d1957d9e85f4e67af0f5fdd64d545e34abb88"
+    },
+    {
+      "type": "Theme",
+      "name": "tragédie",
+      "id": "Theme_f008e8f197afb26d1a0ad2ddb55c9f1fd9a9275bb7f77c206c8c2814cee0bbea"
+    },
+    {
+      "type": "Theme",
+      "name": "massacre",
+      "id": "Theme_29983c188df90786fcb35d5059afaa224a06c9f06b914c64fae3cf5dac32a67f"
+    },
+    {
+      "type": "Theme",
+      "name": "insécurité",
+      "id": "Theme_c7a368bf598bca497caed4dd3d3f42ab5d1c9b08009fd42e199fd3976aac0fe6"
+    },
+    {
+      "type": "Theme",
+      "name": "violence",
+      "id": "Theme_2e88abc315f2f0443a0e5b9fd8eae9a399f515b08101974ade6d7c352b827448"
+    },
+    {
+      "type": "Theme",
+      "name": "attaques",
+      "id": "Theme_cc47c43cea8a7668dfecf5247b07bfa44fd6db36d0c540718497071d37604c66"
+    },
+    {
+      "type": "Theme",
+      "name": "vengeance",
+      "id": "Theme_126e1100f160aadc1c17e171eb160a7d1a5edfa98150e23ae474ce4b5f75ee3d"
+    },
+    {
+      "type": "Theme",
+      "name": "mort",
+      "id": "Theme_defa4f4737ad7297ebce4e496d9c1b1d7ffe6a799d3f08c111a221cb84afc4bb"
+    },
+    {
+      "type": "City",
+      "name": "métropole",
+      "id": "City_8267203e4ee9ab3d047c5e546d752838d3de60377ad98dc685293544d0cbb078"
+    },
+    {
+      "type": "Organization",
+      "name": "Européens libéraux d'Algérie",
+      "id": "Organization_dcba83bf4ee63e78deb990289450cd343d6757ce060b7b1544884d9e5f1ec412"
+    },
+    {
+      "type": "Organization",
+      "name": "indépendantistes",
+      "id": "Organization_87192063e3cd254136f232af17af7de91bc288b126e3b41fd1c15dc9f064ba61"
+    },
+    {
+      "type": "City",
+      "name": "Oran",
+      "id": "City_4e7d8ecdb9cca860de15290282dbb073d3f89594ca6f879d464519cf235e16da"
+    },
+    {
+      "type": "Event",
+      "name": "5 juillet 1962",
+      "id": "Event_62c271d7628cfe22d3bb0728c7f3c5f51bdc6a0edbca01587fbdd3c85857ef09"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre civile",
+      "id": "Theme_96b88ec824855b6df0f12cc198b6911e55edb2047b485eabb0bf5df3c89ce2bc"
+    },
+    {
+      "type": "Theme",
+      "name": "fuite",
+      "id": "Theme_980cb8838681fce974b6ae9bcc399626ee33acad206624e5752f67e157f65bd3"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "City",
+      "name": "Montpellier",
+      "id": "City_a4b08d8442d3c90fe9eb3313e4500d0e3a904f2fb68190ad2b4820a2e2aeb0a7"
+    },
+    {
+      "type": "City",
+      "name": "Béziers",
+      "id": "City_95b9c63f06153740665ca5f040d2d753c8c97fe102e3e2af27d6fda3238bf275"
+    },
+    {
+      "type": "City",
+      "name": "Toulon",
+      "id": "City_e269c743821deaa732a9c8c1951186d7a971393eded589032f1026304a7b1fa7"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "déclassement",
+      "id": "Theme_a2e12abbbac03ce9ac823f4b39928a5d2b43415d568849830e28854e093741df"
+    },
+    {
+      "type": "Theme",
+      "name": "accueil officiel défaillant",
+      "id": "Theme_ff4891caf7811106388db40dc810b1b223f1f3e0bbe59c47f6b01ac66f3ad11b"
+    },
+    {
+      "type": "Theme",
+      "name": "bénévoles",
+      "id": "Theme_abd70e80c12517c02131b590b999d6d594b6664d02fa29721fd8878f052f9823"
+    },
+    {
+      "type": "Theme",
+      "name": "Comité d'accueil et d'aide aux rapatriés",
+      "id": "Theme_79a1f9e3d5abaede4aa5ac1058fb0d7fc9384d0e06b635c3ec1566d6b3136ff1"
+    },
+    {
+      "type": "Theme",
+      "name": "moderniser la France des Trente Glorieuses",
+      "id": "Theme_790292fb390185e4fa323bdc8491636f8fa05f32652414fbb82687972956b862"
+    },
+    {
+      "type": "Theme",
+      "name": "pêche méditerranéenne",
+      "id": "Theme_f18a280707421a0509f3f92235d3c81fd9cdac702d00ae1b4e99f12c2e4b69cd"
+    },
+    {
+      "type": "Theme",
+      "name": "secteurs économiques",
+      "id": "Theme_a8216194e6ed7042a149b61face38f8e6ade52ecfc6ee7bc9f7b5e295d5cf391"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "culture des vignes",
+      "id": "Theme_fac7a1441001a62ffe4d9039e4ee16c627d8cee779867d3b28de6488bb3bf952"
+    },
+    {
+      "type": "Theme",
+      "name": "bâtiment",
+      "id": "Theme_4034222250f1504057707fc99f4ef2b3f9c612ec1245767b9d5ce137eb03a676"
+    },
+    {
+      "type": "Theme",
+      "name": "transports",
+      "id": "Theme_533d2529ff9a7f6bf394d1e74146c9b14e56ed95da235efb27978e0422b519a2"
+    },
+    {
+      "type": "Theme",
+      "name": "imprimerie",
+      "id": "Theme_f70565c778b3716f6bc75b17763971351552eef5a966788a7a2d87d69ac82d1e"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie alimentaire",
+      "id": "Theme_3b1c822b1013bfcc16af0dda20ffa60c04d1b098e382ba4842c548ef4e2890b5"
+    },
+    {
+      "type": "Theme",
+      "name": "meuble",
+      "id": "Theme_712f5b16ab20bd1665b9615739fae45a455d709c6179c92390ac6e6a9f37170f"
+    },
+    {
+      "type": "Theme",
+      "name": "optique",
+      "id": "Theme_5e7bf624d1e2ff7d41c1580fe63c95742d56fa46cd343e4bf8d2b17b3c650138"
+    },
+    {
+      "type": "Theme",
+      "name": "médecine",
+      "id": "Theme_f3ce7496d603dcb85ba3fdf8a80ffbbd3a1823495c1458b7eeb214eb8eed8d44"
+    },
+    {
+      "type": "Theme",
+      "name": "commerçants",
+      "id": "Theme_b53eeb6a3aec6ecbb07d9b19e117dedc4455d23b891b0c20cbd28cd1beba726a"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignants",
+      "id": "Theme_74dc0f750cdfcd3f98e4d6f471075af8aa7b7562ed6b64e6a6c69efef994152b"
+    },
+    {
+      "type": "Theme",
+      "name": "médecins",
+      "id": "Theme_8a538d7c7f7c7155eb2b555969d906c92bb91e14c49e8bf6f1dab0688e532a9b"
+    },
+    {
+      "type": "Theme",
+      "name": "chercheurs",
+      "id": "Theme_27b19537bc2e5f22d12f1962f8f70e1ee1a330abc70b7478cf5d5d7563117776"
+    },
+    {
+      "type": "Theme",
+      "name": "journalistes",
+      "id": "Theme_d0f7423edf7bc07d65404e42fcfd7e173b370fcf775ae641002541332c1ebe69"
+    },
+    {
+      "type": "Theme",
+      "name": "avocats",
+      "id": "Theme_e891f3725564d6a04a9daf76076d9f841567c7fa74e581379c95078dc5226f4c"
+    },
+    {
+      "type": "Theme",
+      "name": "diplomates",
+      "id": "Theme_dad7f97bac9f0cca02f3beaa4670b1f0d7fdb1b7bdf9a29501034f6d0ff64a28"
+    },
+    {
+      "type": "Theme",
+      "name": "préfets",
+      "id": "Theme_9ea7d1cdbd2b629efb4dd14c0859732db06c2af0370959480f8334b0a5787f0f"
+    },
+    {
+      "type": "Theme",
+      "name": "capitaines d'industrie",
+      "id": "Theme_22755f7c35a244205a8325bf42ac867dc2225df849f638ccc9cc630f0532f205"
+    },
+    {
+      "type": "Theme",
+      "name": "élus",
+      "id": "Theme_f113fc009d13bd82f33ae7e561fc0eb471b92d27c763d54b74cfb9efcf86aac9"
+    },
+    {
+      "type": "Theme",
+      "name": "responsables associatifs",
+      "id": "Theme_5f4546ecee3212dcb8abf9eb77db25985acbacfc814688eea7ae44b2600675db"
+    },
+    {
+      "type": "Theme",
+      "name": "personnalités publiques",
+      "id": "Theme_630df1fdd78d355a8de567d5b255d6fe0ed8927173b8a3e6eb21bebc3c2f69c1"
+    },
+    {
+      "type": "Theme",
+      "name": "destinées françaises",
+      "id": "Theme_f7072a4c63847d0883f6a4803d86aca8358fc5b0c8e9baffa28dd13f0e1b9520"
+    },
+    {
+      "type": "Theme",
+      "name": "talents",
+      "id": "Theme_3b7a6c56442c49486f7601fa3bced61cced2f4aadaf5f134fda32ff8e738503d"
+    },
+    {
+      "type": "Theme",
+      "name": "dons",
+      "id": "Theme_f7aa4641a2cfb13dc0d88c051bfed71a3293125159d2922df0d75452fb674eea"
+    },
+    {
+      "type": "Person",
+      "name": "les rapatriés d'Algérie",
+      "id": "Person_fc5de34a08280c28c53024262b8b15810b09aa722587157f810a5e69afbf74ad"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "rapatriés d'Algérie",
+      "relation": "SPOKE_ABOUT",
+      "target": "rapatriés d'Algérie",
+      "evidence": "L'histoire des rapatriés d'Algérie est l'histoire d'un amour charnel pour cette terre, d'effort, de labeur pour la faire fructifier. Puis l'histoire d'un exode et d'un exil, l'exode contraint et subi de Français nés dans cette France de l'autre côté de la Méditerranée et pris dans la tourmente de la guerre, puis l'exil déraciné au sein de leur propre patrie.",
+      "confidence": 1.0,
+      "source_id": "Theme_f5d3f82eddc5875a96699281a6d586e1af3fb1fde033d987a73f3fdd7c15afd4",
+      "target_id": "Theme_f5d3f82eddc5875a96699281a6d586e1af3fb1fde033d987a73f3fdd7c15afd4"
+    },
+    {
+      "source": "rapatriés d'Algérie",
+      "relation": "SPOKE_ABOUT",
+      "target": "France",
+      "evidence": "L'histoire des rapatriés d'Algérie est donc celle de la France.",
+      "confidence": 1.0,
+      "source_id": "Theme_f5d3f82eddc5875a96699281a6d586e1af3fb1fde033d987a73f3fdd7c15afd4",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "tragédie",
+      "evidence": "60 ans après, la France reconnaît cette tragédie.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_f008e8f197afb26d1a0ad2ddb55c9f1fd9a9275bb7f77c206c8c2814cee0bbea"
+    },
+    {
+      "source": "5 juillet 1962",
+      "relation": "VISITED",
+      "target": "Oran",
+      "evidence": "5 juillet 1962 à Oran",
+      "confidence": 1.0,
+      "source_id": "Event_62c271d7628cfe22d3bb0728c7f3c5f51bdc6a0edbca01587fbdd3c85857ef09",
+      "target_id": "City_4e7d8ecdb9cca860de15290282dbb073d3f89594ca6f879d464519cf235e16da"
+    },
+    {
+      "source": "Algérie",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Devenu persona non grata en Algérie, vous avez parfois eu le sentiment d'être des indésirables en France.",
+      "confidence": 1.0,
+      "source_id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "bénévoles",
+      "relation": "SPOKE_ABOUT",
+      "target": "Comité d'accueil et d'aide aux rapatriés",
+      "evidence": "les bénévoles du Comité d'accueil et d'aide aux rapatriés",
+      "confidence": 1.0,
+      "source_id": "Theme_abd70e80c12517c02131b590b999d6d594b6664d02fa29721fd8878f052f9823",
+      "target_id": "Theme_79a1f9e3d5abaede4aa5ac1058fb0d7fc9384d0e06b635c3ec1566d6b3136ff1"
+    }
+  ]
+}

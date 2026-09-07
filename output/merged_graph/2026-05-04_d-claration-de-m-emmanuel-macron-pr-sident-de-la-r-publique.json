@@ -1,0 +1,110 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "votre pays",
+      "id": "Country_06dc06b265c95053586e76dcb9e0e30ac7604207c3bc9aa5047a890c506106d1"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Nikol",
+      "id": "Person_3a0ae756f21e901e651e447b07e3290b104dc67864390c620d348df117b32012"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Arménie",
+      "id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace"
+    },
+    {
+      "type": "Country",
+      "name": "Ailleurs",
+      "id": "Country_291218ebc885a01ccd669b4dbb7d0cea947b0863855acad5ec6a2f27d9ed31ad"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "le Premier ministre",
+      "id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "type": "Person",
+      "name": "le président Aliyev",
+      "id": "Person_4583c7bfe66e6ebbb3084089e58c1f33da62dd73c2aeccc841311a1fd81c4184"
+    },
+    {
+      "type": "Theme",
+      "name": "paix possible",
+      "id": "Theme_98cd8ce7419849df2808d9517cc8b5850326dd886b7e4e90c99afc31dfec3225"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre international",
+      "id": "Theme_289a437b7ebd1758f517244ffb7920e1783b8884a6c25a392dab8d910194a767"
+    },
+    {
+      "type": "Theme",
+      "name": "combats justes",
+      "id": "Theme_00c54e7d306335e8c93fd44227a3c801b9d0e302f82df4f00e96c1c0ff559c94"
+    },
+    {
+      "type": "Person",
+      "name": "Missak Manouchian",
+      "id": "Person_8e57d3d00faf1434dc00167de2024c2f33054e6dcc6b200eb71a0f22b1c91254"
+    },
+    {
+      "type": "Person",
+      "name": "Mélinée",
+      "id": "Person_e104b560e8c350f34221ef1fd72266ebc2882de67f9b5fb04288236850993566"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Country",
+      "name": "l'Europe",
+      "id": "Country_22c6a9031acb88b09b90ce4000e1a54cc5401d4a34558d7df28560e8576fb0e6"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Votre pays",
+      "relation": "SUPPORTS",
+      "target": "l'Europe",
+      "evidence": "C'est maintenant à l'Europe de se montrer à la hauteur. Laissez-moi, à mon tour, porter un toast pour votre pays, pour nos liens d'amitié séculaires.",
+      "confidence": 1.0,
+      "source_id": "Country_06dc06b265c95053586e76dcb9e0e30ac7604207c3bc9aa5047a890c506106d1",
+      "target_id": "Country_22c6a9031acb88b09b90ce4000e1a54cc5401d4a34558d7df28560e8576fb0e6"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Theme",
+      "name": "Conflit",
+      "id": "Theme_c5df677153d0b9960d87a7cc1c81b7c456008a70cab549159756fed685546c73"
+    },
+    {
+      "type": "Theme",
+      "name": "Risques",
+      "id": "Theme_797c3ec4399b9e1c1ce15d7275922c2cfffa32a985c6cfdc4c0cee64e6e589ad"
+    },
+    {
+      "type": "Country",
+      "name": "Émirats arabes unis",
+      "id": "Country_02da2051b5b49f4cccf63ff0675abe8e1fc2d1961a4264fcb31498ee4e262b19"
+    },
+    {
+      "type": "Country",
+      "name": "Qatar",
+      "id": "Country_e5da689c325f619f1d122e0f9316e196ec475beef981feeb9a11d61cf1162518"
+    },
+    {
+      "type": "City",
+      "name": "Abu Dhabi",
+      "id": "City_4de21294799c82b23f141ab1601a5a331b72d4504e22d1a045b040144971d805"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Émirats arabes unis",
+      "relation": "LOCATED_IN",
+      "target": "Émirats arabes unis",
+      "evidence": "aux Émirats arabes unis, un hangar de notre base mitoyenne de la base émirienne qui a été touchée",
+      "confidence": 1.0,
+      "source_id": "Country_02da2051b5b49f4cccf63ff0675abe8e1fc2d1961a4264fcb31498ee4e262b19",
+      "target_id": "Country_02da2051b5b49f4cccf63ff0675abe8e1fc2d1961a4264fcb31498ee4e262b19"
+    }
+  ]
+}

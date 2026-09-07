@@ -1,0 +1,900 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Dresde",
+      "id": "City_f4ad77e8c26d7c1b1b0fdb86a6620c994dcc0f93a41624fd7507e627345d040e"
+    },
+    {
+      "type": "City",
+      "name": "Strasbourg",
+      "id": "City_aa11677b0eceda0a1a5c819294f251193f8da741293fef8eef09bee04f4b354a"
+    },
+    {
+      "type": "Country",
+      "name": "capitale européenne",
+      "id": "Country_d0410c70967939b33fc9fb2691aaaea3ac58c9db3e7e79775c991c263ee71bb4"
+    },
+    {
+      "type": "City",
+      "name": "Frauenkirche",
+      "id": "City_400d6ab0952341a3b16f3090e3132021daf21fe29058da8be15f1236221e9406"
+    },
+    {
+      "type": "Person",
+      "name": "Helmut Kohl",
+      "id": "Person_9e47ccc1a5436215cc350de22af432718b7e8a1c014554833d49a017f45356e4"
+    },
+    {
+      "type": "Person",
+      "name": "Frank-Walter STEINMEIER",
+      "id": "Person_d3c43522990758aa673f35b67ec362666aa441a30df109866d393aa74ff3047c"
+    },
+    {
+      "type": "Person",
+      "name": "Michael KRETSCHMER",
+      "id": "Person_f3056c1203193505763b7380861d6f84da076f67b1e3b4acefbceb19eea80724"
+    },
+    {
+      "type": "City",
+      "name": "Amiens",
+      "id": "City_50d7edfea5352d1c2108d0e10ba4a285b0b793521bb528b9194a13254a40c572"
+    },
+    {
+      "type": "City",
+      "name": "Dortmund",
+      "id": "City_2d36e2541acfe7c858d73beb105804a31a853c9e1a3cdf1b97390f761e1d7407"
+    },
+    {
+      "type": "Person",
+      "name": "François Mitterrand",
+      "id": "Person_582a697169cca265de8d07bb13285260b41f2fa4323b31279a99e5a8cd909063"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "DDR",
+      "id": "Country_84837df447ccef80057f1b1ba8ac9b47823e1b1febd94fd70d423890435281c7"
+    },
+    {
+      "type": "City",
+      "name": "Dresden",
+      "id": "City_0c7d0d3ef00f66f9a88711b7d2b1ff84a35ff050fb0cd31ff895d93a5e3a0065"
+    },
+    {
+      "type": "City",
+      "name": "Varsovie",
+      "id": "City_ed5780c5a157f1ee2936b597cfbb4936429253f66ef0bf7b826412c3bcab9a64"
+    },
+    {
+      "type": "City",
+      "name": "Prague",
+      "id": "City_f0184c569bddeb725ffd5bbd1b18d1b996c540fc3af182651fba2f88fc1e6d21"
+    },
+    {
+      "type": "City",
+      "name": "Weimar",
+      "id": "City_c7317b30d18180054d6c2638beefa0c3597ee65e30eff7e61d58e80a8be90a5d"
+    },
+    {
+      "type": "City",
+      "name": "Görlitz",
+      "id": "City_78fda5ad1861607720b819f71c25afe2a9bc49b3d36eec232cfc5f2e48a3f884"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir de notre continent",
+      "id": "Theme_f4108b194a738283872fd6d75146303c383cd762212e74a80c68226caa2f295f"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations Unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Country",
+      "name": "Union soviétique",
+      "id": "Country_5eff54957fc070f45a60c138d93b777ad706b6d78d9652018d6d7111efaff2d0"
+    },
+    {
+      "type": "Country",
+      "name": "Pologne",
+      "id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4"
+    },
+    {
+      "type": "Country",
+      "name": "Lituanie",
+      "id": "Country_257f51b370c269015b5ddeb21595946140d68f6c4557dc04527717e006535460"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "Organization",
+      "name": "Union",
+      "id": "Organization_c5e6111e2f8f6f0562a02b73ac74432a5ad7b8c26582b37eb43d1209716aa442"
+    },
+    {
+      "type": "Person",
+      "name": "Européens",
+      "id": "Person_e00896ac81e01b45d691696c7c1b7447e3556011b0c74c27ea7c78fc5fb2a02c"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Communauté politique européenne",
+      "id": "Organization_8a93842f693c1a3a5724e43329bd7d4583ba6c51064f8c7015cbafc24a94d4f2"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités",
+      "id": "Theme_f67733f3466da72fbbbebbc7487147453db83c420d3b564d9c993d9a23f111a7"
+    },
+    {
+      "type": "Theme",
+      "name": "projets communs",
+      "id": "Theme_4f74735f5cba547e6eebe87943e95e33022a47b93ee50f325d0a8d8c550d668d"
+    },
+    {
+      "type": "Theme",
+      "name": "projets individuels",
+      "id": "Theme_3b4fef85e217ae254063c7a7a8d2d31e21482afd7754f9245916a36af1f8a1ba"
+    },
+    {
+      "type": "Theme",
+      "name": "industriels",
+      "id": "Theme_65f1038ff0752a877be8ce71144e93bba19c4c44f80762614e26462e31508666"
+    },
+    {
+      "type": "Theme",
+      "name": "technologiques",
+      "id": "Theme_3387b356920b52f77a440500372cf4d412f883bb374a2525140456269475372e"
+    },
+    {
+      "type": "Theme",
+      "name": "d'innovation",
+      "id": "Theme_4d0a69f285cfaeaba9fcb9306a6ec10b6734cc93c49dbe6b9ee918b12f78206d"
+    },
+    {
+      "type": "Theme",
+      "name": "transatlantiques",
+      "id": "Theme_a73604c40774e229c6f5cf595e797e9258a2324759307ae1e2fc3e23a392f21f"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalistes",
+      "id": "Theme_864b41a47f9bafd5b9f46cf74ff47c9c4920e291e43fef34dd85bebe82f726e4"
+    },
+    {
+      "type": "Theme",
+      "name": "franco-allemands",
+      "id": "Theme_2874ac8c107d712911b2d034589f997fe500a7e33cbfce74889174771175a1ec"
+    },
+    {
+      "type": "Theme",
+      "name": "européens",
+      "id": "Theme_fe2de703e4d8211a7f42708e1e9484059516eba79dad931230d3739d87442d64"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité commune",
+      "id": "Theme_bde0a1098800841f761b7342b4ad6b0ae2b54d54da96eb356c41a08114ed80d4"
+    },
+    {
+      "type": "Theme",
+      "name": "rêve européen",
+      "id": "Theme_35a2193e6056aec8817eca0e2a906ab32231ac129794cb81447e1f6e8a004267"
+    },
+    {
+      "type": "Theme",
+      "name": "marché unique",
+      "id": "Theme_20dd50ae164d3f152ef77948cb732b929faf16e2e579353a7a6ed58d27740261"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle social",
+      "id": "Theme_84e716fb96d816e1a7cec10303220f68a6aaf5c7e5b53934555aa33e88fc517d"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "protection",
+      "id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "Erasmus",
+      "id": "Theme_24922e7cc48797a9115b9884bcbdc915e8ce8ffb6a14a2f099de5fdea859cf4c"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance économique",
+      "id": "Theme_1b53a0cffb84300cd48e1651a4b446832249dcc27b4e0f2a058f51196ba567bb"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "Green Deal",
+      "id": "Theme_e63970253e1709ac9067909729fb066b9736d3946c29fabb3145ed8a1899d19a"
+    },
+    {
+      "type": "Theme",
+      "name": "régulation",
+      "id": "Theme_f70cb43189b106bcacace57211968518d9307936128cf563ad9dbd98617b47cf"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies vertes",
+      "id": "Theme_1fcf986f5e27384b03aacf0d6869b90e6e743f1e8cd05b112af7cd42fc1a7a30"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie verte",
+      "id": "Theme_367aafd3f69f8a17e4ca6810a040266a5b8ccab4374edc31ebf5ab376af94754"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "quantique",
+      "id": "Theme_a55a5e9c04e9e49c2efc55c9c97fdcdd3149041e81aa26bd45766547b9155e23"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "City",
+      "name": "Silicone Saxony",
+      "id": "City_589694443dfc80560ac71e72510c3bc8165a79301b696093a25797adae4c9073"
+    },
+    {
+      "type": "Theme",
+      "name": "simplifier ses règles",
+      "id": "Theme_c4165a9119edf39bf369f089cbbee4e2430f6e4b2a572d5625be3ff4a79b1377"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "bureaucratiques",
+      "id": "Theme_91507283aa67e910b7089f67b15bd398fa3d539a13d3ec05ebb130f1382cd8f1"
+    },
+    {
+      "type": "Theme",
+      "name": "télécommunications",
+      "id": "Theme_5bdeecbac2ef4f7adce59c7d67592c7e27f9244c6505500f4c5275e81f83a131"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "finance",
+      "id": "Theme_f723c16c63b30940cbcaa18ce802825b3fb3e76ed4e6cfab624beddf6be9deea"
+    },
+    {
+      "type": "Theme",
+      "name": "naïveté",
+      "id": "Theme_20e5ccd76173455b5865c79ad5c1c11b4b2264b3e272239a0bbc55ae22531d47"
+    },
+    {
+      "type": "Theme",
+      "name": "réveil stratégique",
+      "id": "Theme_4935385240976ef5b6089625554855593c7b05882f37c18cc8df0a40e31dd31a"
+    },
+    {
+      "type": "Theme",
+      "name": "défense et sécurité",
+      "id": "Theme_a66d577ce48ebc3324a474f3954b812002fcd730266b87936609535068edfccf"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "audace",
+      "id": "Theme_d706ab6b0cc320b9352b6bd4d2ad07220489fd740b0ab019594db8c8a3911770"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Country",
+      "name": "Hongrie",
+      "id": "Country_bda46faa77361ae198107f51212ef1953770a2e61d32ec39881204c04aa0bda3"
+    },
+    {
+      "type": "Theme",
+      "name": "sédiment des siècles",
+      "id": "Theme_57d1a26f0969801879309563a61830b4fa1c4c77c408d6cc172293f1dd5da32b"
+    },
+    {
+      "type": "Theme",
+      "name": "vent mauvais",
+      "id": "Theme_524d10e847b157fbfa242505f2effca7a4372915caccd99694025e3893e8fcaf"
+    },
+    {
+      "type": "Theme",
+      "name": "colère",
+      "id": "Theme_4e30994df9e9eac88bc1882bf63418ce377af79a6f9e3df68de8115525b914eb"
+    },
+    {
+      "type": "Theme",
+      "name": "ressentiment",
+      "id": "Theme_ce1c07cac0c46e166fe75b71adeedf4650bcb45fc85070ce3393b0bdb6f3d48c"
+    },
+    {
+      "type": "Theme",
+      "name": "mondialisation",
+      "id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef"
+    },
+    {
+      "type": "Theme",
+      "name": "respect",
+      "id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "type": "Theme",
+      "name": "diversité",
+      "id": "Theme_6cc4bb1678e642d4ee3f4b5dc04bc554310abfe7ca2c11509232cbba37f90a92"
+    },
+    {
+      "type": "Theme",
+      "name": "force culturelle",
+      "id": "Theme_9d78b41c2be39c9c9abcfde7a8c7f654df019ab0949551049225c54272a9a373"
+    },
+    {
+      "type": "Theme",
+      "name": "universités",
+      "id": "Theme_077ccf73db0b40daaa6552041f5050bdf77371917e6cc423c9e67eae43d93fdd"
+    },
+    {
+      "type": "Theme",
+      "name": "Pass culture",
+      "id": "Theme_089d32f5aa9bcecc7924d062c2e56ef9ca8a71159e4539ffb61974a0476c0a50"
+    },
+    {
+      "type": "Theme",
+      "name": "chemin des écrivains",
+      "id": "Theme_228fcda5bbf38400a14f906cd0f1f556f5af5574ffc041fd51680dca2b2f6b38"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme numérique",
+      "id": "Theme_15329b13bac67d4ac2c9a80243caf6d980f84d825eee9c672810ee618abae2bd"
+    },
+    {
+      "type": "Theme",
+      "name": "réseaux sociaux",
+      "id": "Theme_3db7ca95fe1fa04399ef5baef0f73a5aef029bba3765cf3d4b022b0f025fd769"
+    },
+    {
+      "type": "Theme",
+      "name": "tyrannie des extrêmes",
+      "id": "Theme_b0b1a507669f7d5dbf33e082e2167b5ced6aa7f26734ba4105ff037edbedf0d5"
+    },
+    {
+      "type": "Theme",
+      "name": "pièges identitaires",
+      "id": "Theme_30b44c294d88639ececd844aae321fc07f9ac025482369d5bace4543021e0a96"
+    },
+    {
+      "type": "Theme",
+      "name": "dislocation de nos démocraties",
+      "id": "Theme_776e525d1e5b787ec25a906a8ec03c9379db54e17dfd758ca09192ae25855149"
+    },
+    {
+      "type": "Theme",
+      "name": "Klimawandel",
+      "id": "Theme_3c417ea03627f163f856a99748d1994565901eac5fa2ba022eec3eb2c86b3184"
+    },
+    {
+      "type": "Theme",
+      "name": "Krieg",
+      "id": "Theme_4eac86fe7b8b971f00efb135055ba3f8cf9856c9c56723bc8aabbdc82fd7201c"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "polarisation de la société",
+      "id": "Theme_f6d620530bcb9743ce6fdbbcf3b35d0309e720dc02160117c80bb54c1b07b500"
+    },
+    {
+      "type": "Theme",
+      "name": "montée des extrêmes",
+      "id": "Theme_a5b4cd391d194f0b282e6408eb4e4d590a5aec170200c2569b837275324b7075"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "attaques contre notre démocratie",
+      "id": "Theme_814cfe4f735b6d19f9764a8657140891c7ad10f6526f14886a4749726c752867"
+    },
+    {
+      "type": "Theme",
+      "name": "changements économiques",
+      "id": "Theme_664f6e1b75c138a466d7d933bb805b7a74f517cf046f2138ba9cfd473983e5cf"
+    },
+    {
+      "type": "Theme",
+      "name": "amitié franco-allemande",
+      "id": "Theme_b2245a1ac0bfd672b8b7479746870a62cb4040d80f1c08a788e25295d0d55163"
+    },
+    {
+      "type": "Theme",
+      "name": "Grundgesetz",
+      "id": "Theme_521e84079423ed058a7701132ab7ef0a7948f91de7f204ece294667ef5c3ad7c"
+    },
+    {
+      "type": "Person",
+      "name": "Frank-Walter",
+      "id": "Person_49be4336b2c056341f21ef2ed0682f49f423325a8976c769d591520544160956"
+    },
+    {
+      "type": "Theme",
+      "name": "loi fondamentale",
+      "id": "Theme_1c4d0241a11b325d748496d2c9a91a1f4c1aedf21346ff2287f73ac459cea665"
+    },
+    {
+      "type": "Theme",
+      "name": "mission",
+      "id": "Theme_ccdd4dbdd0b77e3998dd06aa95f6adbd98c258e86ae158425d21f328328b4951"
+    },
+    {
+      "type": "Theme",
+      "name": "boussole",
+      "id": "Theme_9a00fe8d6ca62364a877c03773e5396a7f6f853c0c61118739888a1229bbeca0"
+    },
+    {
+      "type": "Theme",
+      "name": "génération",
+      "id": "Theme_ebd6e511ce08f31c6fb10d3a240a4261fa16b7b0e6fc36cf928c9880a64a00b8"
+    },
+    {
+      "type": "Theme",
+      "name": "Humanismus",
+      "id": "Theme_5e0c0e2beac14d95bfba96f67b375db935ebabdc1340bb115ae6622a11bc62b7"
+    },
+    {
+      "type": "Theme",
+      "name": "Solidarität",
+      "id": "Theme_eb018bc38f9371ad35b2d37208dd644e7b8aae4a94ce3ebfe72ef1c5a7c05fa6"
+    },
+    {
+      "type": "Theme",
+      "name": "Zivilisation",
+      "id": "Theme_8686a3fff197b6528f14590b6d150cdaa9a513f82779c47c9f3010794301f5c4"
+    },
+    {
+      "type": "Theme",
+      "name": "Friedens",
+      "id": "Theme_4c895841d355a263d9f04837d4dae873bbf599853c1e3eba442c34063957e020"
+    },
+    {
+      "type": "Theme",
+      "name": "Freundschaft",
+      "id": "Theme_45d099dcab895ec93215516ada6e90fa2f5c5a24c418085c4eb974e86b95f15a"
+    },
+    {
+      "type": "Theme",
+      "name": "Zusammenarbeit",
+      "id": "Theme_df39225dc51dd585def4a88649b3e9c3950ef0fb565b07ca5165f874c62578ac"
+    },
+    {
+      "type": "Country",
+      "name": "Deutschland",
+      "id": "Country_13c00c717a43d74c24442f52fa0a4a310e24a1588b8b22bf61eb33b7724f7e54"
+    },
+    {
+      "type": "Country",
+      "name": "Frankreich",
+      "id": "Country_5c559a0d823ff1148e91930e04c71365a6284c6ec54fb871cd82e8a693d0b8cd"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme",
+      "id": "Theme_d10bce3b67531a6774cd57104a434124f2a796f10cbfff22bb37dbeba66cb515"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance",
+      "id": "Theme_d8895f67d26ec9bc257a9b6d9015cbffdb3029611e550d517fabb25ec9d2c101"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "partage des responsabilités",
+      "id": "Theme_d97413ee52e4ffc8e080882cb6f6ba90913bc94017f535f29093b100c7fb483d"
+    },
+    {
+      "type": "Theme",
+      "name": "amitié",
+      "id": "Theme_da59468cff46157116230d1b59468dc6ee8497b19a27cf4c7344818aedeeeb88"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "division",
+      "id": "Theme_51226e2119e097a2d00a987884a7ffc43fa4ce2314906ee31389014c78119404"
+    },
+    {
+      "type": "Theme",
+      "name": "hégémonie",
+      "id": "Theme_57c11ef80057a84fd995626118ac010a2970c0b0b8280613a50e626e0862ae48"
+    },
+    {
+      "type": "Theme",
+      "name": "civilisation",
+      "id": "Theme_55506e6b6a566c3a1ba5bfa8aa2636a9d0eca0526c32a3b767eb8f396191dc34"
+    },
+    {
+      "type": "Theme",
+      "name": "Einigkeit",
+      "id": "Theme_9ef4ee6c60ccfba730a78058436af2ef9152f7f1bf08c7761f503c9833d677eb"
+    },
+    {
+      "type": "Theme",
+      "name": "Recht",
+      "id": "Theme_3f7def074cac1a50b80380413cb62b08fbf7bbd752c635bc275bfe083eeebe74"
+    },
+    {
+      "type": "Theme",
+      "name": "Freiheit",
+      "id": "Theme_1c0dce8115371d48c977934b50dcd3ff55aeeba068a6b896b3388ea8a10bebda"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "Europa",
+      "id": "Theme_97e87d7502525cf254aad13f28ee60c99725d210af3df4f505a9f2473b366972"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Dresde",
+      "relation": "LOCATED_IN",
+      "target": "capitale européenne",
+      "evidence": "Dresde, ville jumelle de Strasbourg, capitale européenne",
+      "confidence": 1.0,
+      "source_id": "City_f4ad77e8c26d7c1b1b0fdb86a6620c994dcc0f93a41624fd7507e627345d040e",
+      "target_id": "Country_d0410c70967939b33fc9fb2691aaaea3ac58c9db3e7e79775c991c263ee71bb4"
+    },
+    {
+      "source": "Dresde",
+      "relation": "VISITED",
+      "target": "capitale européenne",
+      "evidence": "Dresde, ville jumelle de Strasbourg, capitale européenne",
+      "confidence": 1.0,
+      "source_id": "City_f4ad77e8c26d7c1b1b0fdb86a6620c994dcc0f93a41624fd7507e627345d040e",
+      "target_id": "Country_d0410c70967939b33fc9fb2691aaaea3ac58c9db3e7e79775c991c263ee71bb4"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Allemagne",
+      "evidence": "que de chemin parcouru depuis tant d'années ensemble entre l'Allemagne et la France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "Allemagne",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "que de chemin parcouru depuis tant d'années ensemble entre l'Allemagne et la France",
+      "confidence": 1.0,
+      "source_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "paix",
+      "evidence": "L'Europe est un garant de la paix.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "dans un endroit de l'Europe",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "Européens",
+      "relation": "SUPPORTS",
+      "target": "Ukraine",
+      "evidence": "Européens, dès les premiers jours, nous avons décidé de soutenir l'Ukraine.",
+      "confidence": 1.0,
+      "source_id": "Theme_fe2de703e4d8211a7f42708e1e9484059516eba79dad931230d3739d87442d64",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "rêve européen",
+      "relation": "MENTIONS",
+      "target": "prospérité",
+      "evidence": "le rêve européen, ça a été celui d'un marché unique où nous avons d'abord, entre Français, Allemands et d'autres nations de l'Europe, mis en commun ce par quoi nous nous faisions la guerre, le charbon et l'acier. Puis, nous avons bâti un marché commun qui a permis une croissance inédite. L'Europe est un rêve de prospérité qui a permis de bâtir la croissance",
+      "confidence": 1.0,
+      "source_id": "Theme_35a2193e6056aec8817eca0e2a906ab32231ac129794cb81447e1f6e8a004267",
+      "target_id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "source": "rêve européen",
+      "relation": "MENTIONS",
+      "target": "marché unique",
+      "evidence": "le rêve européen, ça a été celui d'un marché unique où nous avons d'abord, entre Français, Allemands et d'autres nations de l'Europe, mis en commun ce par quoi nous nous faisions la guerre, le charbon et l'acier.",
+      "confidence": 1.0,
+      "source_id": "Theme_35a2193e6056aec8817eca0e2a906ab32231ac129794cb81447e1f6e8a004267",
+      "target_id": "Theme_20dd50ae164d3f152ef77948cb732b929faf16e2e579353a7a6ed58d27740261"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "innovation",
+      "evidence": "La croissance européenne passera par passera par l'intelligence artificielle, l'innovation, la recherche, des investissements massifs pour bâtir notre avenir.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "intelligence artificielle",
+      "evidence": "La croissance européenne passera par passera par l'intelligence artificielle, l'innovation, la recherche, des investissements massifs pour bâtir notre avenir.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "règles",
+      "evidence": "Le troisième axe, c'est une Europe qui doit simplifier ses règles.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "source": "Silicone Saxony",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Silicone Saxony - nous venons de signer un accord entre le Commissariat à l'Energie Atomique et votre Fraunhofer - c'est l'un des enjeux principaux pour notre Europe.",
+      "confidence": 1.0,
+      "source_id": "City_589694443dfc80560ac71e72510c3bc8165a79301b696093a25797adae4c9073",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "respect",
+      "evidence": "Alors face à cela, il nous faut répondre par une Europe du respect, de la diversité, de la force culturelle.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "diversité",
+      "evidence": "Alors face à cela, il nous faut répondre par une Europe du respect, de la diversité, de la force culturelle.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_6cc4bb1678e642d4ee3f4b5dc04bc554310abfe7ca2c11509232cbba37f90a92"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "force culturelle",
+      "evidence": "Alors face à cela, il nous faut répondre par une Europe du respect, de la diversité, de la force culturelle.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_9d78b41c2be39c9c9abcfde7a8c7f654df019ab0949551049225c54272a9a373"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "universités",
+      "evidence": "Cette Europe des universités que nous avons bâtie ces dernières années - 50 universités qui se sont mises en réseau et continuons, allons plus loin.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_077ccf73db0b40daaa6552041f5050bdf77371917e6cc423c9e67eae43d93fdd"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "humanisme",
+      "evidence": "Je compte sur vous pour choisir une Europe qui fait entendre sa voix singulière, celle de l'humanisme",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_d10bce3b67531a6774cd57104a434124f2a796f10cbfff22bb37dbeba66cb515"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "puissance",
+      "evidence": "Je compte sur vous pour choisir une Europe qui fait entendre sa voix singulière, celle de l'humanisme et de la puissance assumée",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_d8895f67d26ec9bc257a9b6d9015cbffdb3029611e550d517fabb25ec9d2c101"
+    },
+    {
+      "source": "Deutschland",
+      "relation": "SUPPORTS",
+      "target": "Frankreich",
+      "evidence": "Es lebe Deutschland ! Es lebe Frankreich! Es lebe die deutsch-französische Freundschaft! Es lebe Europa !",
+      "confidence": 1.0,
+      "source_id": "Country_13c00c717a43d74c24442f52fa0a4a310e24a1588b8b22bf61eb33b7724f7e54",
+      "target_id": "Country_5c559a0d823ff1148e91930e04c71365a6284c6ec54fb871cd82e8a693d0b8cd"
+    },
+    {
+      "source": "Frankreich",
+      "relation": "SUPPORTS",
+      "target": "Deutschland",
+      "evidence": "Es lebe Deutschland ! Es lebe Frankreich! Es lebe die deutsch-französische Freundschaft! Es lebe Europa !",
+      "confidence": 1.0,
+      "source_id": "Country_5c559a0d823ff1148e91930e04c71365a6284c6ec54fb871cd82e8a693d0b8cd",
+      "target_id": "Country_13c00c717a43d74c24442f52fa0a4a310e24a1588b8b22bf61eb33b7724f7e54"
+    }
+  ]
+}

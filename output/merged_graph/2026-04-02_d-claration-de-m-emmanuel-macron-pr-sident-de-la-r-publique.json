@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "madame la Première ministre",
+      "id": "Person_5a6bde008a448ebb4d985596bfbfaf903f8af9466a7cee3eba7e49b7a48c6247"
+    },
+    {
+      "type": "Organization",
+      "name": "Astroscale",
+      "id": "Organization_b9ff785f7a3abbcf02088cdccd2577b5c30f3f9b7d0309a8987c7a159425fc57"
+    },
+    {
+      "type": "Country",
+      "name": "Japon",
+      "id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Toulouse",
+      "id": "City_aa695a1a8591febfa119cbccca39b2add1951395a057a7f2fdbd29e7adde06ae"
+    },
+    {
+      "type": "Person",
+      "name": "Sanae",
+      "id": "Person_17eb4a881ec167e9f79513093805ccf84469f47d9af47ad7a2879c52ee1f54f0"
+    },
+    {
+      "type": "Organization",
+      "name": "Exotrail",
+      "id": "Organization_b38cf5652a14c1cd1d671530133eb5c3a83297d77a82a6030473e1cfeffd22a1"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Organization",
+      "name": "JAXA",
+      "id": "Organization_bd6de2ae84be59bab4ef1c432b9d7b3557d9ff00bf1e1590491ec8308cac6fad"
+    },
+    {
+      "type": "Organization",
+      "name": "CNES",
+      "id": "Organization_9cac143218443645cc33132f43bf3a030f9b428a1f2d8be5768d3563ede6e5b8"
+    },
+    {
+      "type": "Organization",
+      "name": "Arianespace",
+      "id": "Organization_90d3fd6a26a136e8bb46931d9c00ccbf07563701e90508bfb920cf73df791245"
+    },
+    {
+      "type": "Organization",
+      "name": "Mitsubishi",
+      "id": "Organization_f2b5729195f8562165fbaa066646673a179ad39fd973646dcc18e94d54868425"
+    },
+    {
+      "type": "Organization",
+      "name": "IDEFIX",
+      "id": "Organization_288caced148af08c3af29a12cd22387deb1504659adc9a53de9f801810811062"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Japon",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "C'est une parfaite illustration de ce qu'est la coopération spatiale entre le Japon et la France.",
+      "confidence": 1.0,
+      "source_id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Toulouse",
+      "evidence": "on vient de le voir, de développer des équipes en France, à Toulouse,",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "City_aa695a1a8591febfa119cbccca39b2add1951395a057a7f2fdbd29e7adde06ae"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Japon",
+      "evidence": "le Japon et la France sont liés par l'aventure spatiale, par la recherche, par l'exploitation aujourd'hui des systèmes existants et par la volonté aussi de développer de nouveaux services comme le vôtre.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Person",
+      "name": "madame la directrice",
+      "id": "Person_ff7be39a9b8ae91aab22ae4a16fbc4e7681c42c878bc3ccb205b2d8531ab981a"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "la CPE",
+      "id": "Person_e0ed03cd62e9df4d3c9c22a08a1d0e2db722dd8674d3ba7614893a17fd9c2795"
+    },
+    {
+      "type": "Organization",
+      "name": "les personnels soignants",
+      "id": "Organization_a4dfd725a180c7881cd96a720786a482a5c80320062c6cfbc4cc6018afee8acd"
+    },
+    {
+      "type": "City",
+      "name": "l'hôpital",
+      "id": "City_af5d8d3a0ee07e8dc9fb8f0e5ad98b6ddeefaa233c0a87f69d12493a9d3eb60d"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccination",
+      "id": "Theme_08727af7b4e202025a46e53a3b86d689aba5e9aaeb127cbebab4949a61c65b87"
+    },
+    {
+      "type": "Theme",
+      "name": "variant delta",
+      "id": "Theme_64e43ed62fad4389373f0b891f7fd939de2d21f30b9e3c42bc6b558b72439510"
+    },
+    {
+      "type": "Theme",
+      "name": "épidémie",
+      "id": "Theme_cc728abad13e3c62e85c61089f7679fbc7bd2c7fd6b01a6888d874304168d638"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Organization",
+      "name": "État français",
+      "id": "Organization_8668f3cbdbe019c9f85f8818d05456a2fd9b1c0ecbd5f57fddbcc6ccc55136f2"
+    },
+    {
+      "type": "City",
+      "name": "Polynésie",
+      "id": "City_103d11482639dfde531a4dc1072ea2ddc0c4aad84839afc490792d292fce95c1"
+    },
+    {
+      "type": "Theme",
+      "name": "cancer",
+      "id": "Theme_7c7e1a7e91f1dfbe82ed4b49ac76b08108bad665da03a86ae973b8d74ab4684f"
+    },
+    {
+      "type": "Organization",
+      "name": "CHU de Bordeaux",
+      "id": "Organization_dc9ac7e50bd60803606edb3cc92c12eff73848441de454934709d22c8aa19428"
+    },
+    {
+      "type": "Organization",
+      "name": "Unicancer",
+      "id": "Organization_cfb554b016b7a2f32777dbf231768ba540933b76b35f9db5b3e14c19a87fe8e5"
+    },
+    {
+      "type": "Theme",
+      "name": "dépistage",
+      "id": "Theme_1afe5c30aca008945562a495ea1d6630d289bc33e375ee096138713ea1244cf6"
+    },
+    {
+      "type": "Theme",
+      "name": "pédiatrie",
+      "id": "Theme_cb2558b9497f15ccddaa05c15cff48815453f015be386d78d73d93d5f596a481"
+    },
+    {
+      "type": "Organization",
+      "name": "centre hospitalier",
+      "id": "Organization_6c8eabbdfa4a5a0c1eeb6d95944d5997101eeebb42593119a7908916a4c51850"
+    },
+    {
+      "type": "Theme",
+      "name": "continuité territoriale",
+      "id": "Theme_167fe93a54fde66e2692c3479baa1af8bce0d487c0943cf472a912252eec25ed"
+    },
+    {
+      "type": "Theme",
+      "name": "détresse",
+      "id": "Theme_d6a52f91336f95622e485a7f597089be85810069ee793a174cee29af70b90329"
+    },
+    {
+      "type": "Theme",
+      "name": "bataille",
+      "id": "Theme_478c6bbb5e4661b0209a8d27e83aedac419ded4c11b779fe03350bfa83e80704"
+    },
+    {
+      "type": "Person",
+      "name": "Fritch",
+      "id": "Person_e487fbfa5d3ab914f3e8c3cf5bb324e1f2459518a7f939d22269ace9faef7ac1"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "les personnels soignants",
+      "relation": "MEMBER_OF",
+      "target": "l'hôpital",
+      "evidence": "pour les personnels soignants, justement, de l'hôpital",
+      "confidence": 1.0,
+      "source_id": "Organization_a4dfd725a180c7881cd96a720786a482a5c80320062c6cfbc4cc6018afee8acd",
+      "target_id": "City_af5d8d3a0ee07e8dc9fb8f0e5ad98b6ddeefaa233c0a87f69d12493a9d3eb60d"
+    },
+    {
+      "source": "Polynésie",
+      "relation": "LOCATED_IN",
+      "target": "Polynésie",
+      "evidence": "en Polynésie",
+      "confidence": 1.0,
+      "source_id": "City_103d11482639dfde531a4dc1072ea2ddc0c4aad84839afc490792d292fce95c1",
+      "target_id": "City_103d11482639dfde531a4dc1072ea2ddc0c4aad84839afc490792d292fce95c1"
+    }
+  ]
+}

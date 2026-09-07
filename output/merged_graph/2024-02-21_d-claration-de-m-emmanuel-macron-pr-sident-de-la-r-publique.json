@@ -1,0 +1,183 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Arménie",
+      "id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace"
+    },
+    {
+      "type": "Person",
+      "name": "Nikol",
+      "id": "Person_3a0ae756f21e901e651e447b07e3290b104dc67864390c620d348df117b32012"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "Missak Manouchian",
+      "id": "Person_8e57d3d00faf1434dc00167de2024c2f33054e6dcc6b200eb71a0f22b1c91254"
+    },
+    {
+      "type": "Person",
+      "name": "Mélinée",
+      "id": "Person_e104b560e8c350f34221ef1fd72266ebc2882de67f9b5fb04288236850993566"
+    },
+    {
+      "type": "City",
+      "name": "Mont-Valérien",
+      "id": "City_2d1c2ecf3cdde82b1009253791c82e4a7fde7564fab7ac3cddd12948ec865cdd"
+    },
+    {
+      "type": "City",
+      "name": "Panthéon",
+      "id": "City_43a1ef0fe679cc862b9a773e30d5fc43b5e2f3b92f6a29dee095a06aca903639"
+    },
+    {
+      "type": "Country",
+      "name": "Azerbaïdjan",
+      "id": "Country_0d4c1e009f3bb130b67fe6efb29a09de4f9c8f387cf4e3fa2169c0c4bc495fbc"
+    },
+    {
+      "type": "City",
+      "name": "Prague",
+      "id": "City_f0184c569bddeb725ffd5bbd1b18d1b996c540fc3af182651fba2f88fc1e6d21"
+    },
+    {
+      "type": "Law",
+      "name": "ordonnance de la Cour internationale de justice du 17 novembre 2023",
+      "id": "Law_d127638372b1c830a6a8825589a30851671b59b73f70bcf570710d7f30e23c42"
+    },
+    {
+      "type": "City",
+      "name": "Syunik",
+      "id": "City_17cc2a494173dd15f2ded4b0ac3dec4ae90472b3f3d3fe4fac115f2fbaf3dc20"
+    },
+    {
+      "type": "Country",
+      "name": "République d'Azerbaïdjan",
+      "id": "Country_1aafe7341dd06c47769a671153016712e5fa81ff160a7d6163b3899a1229c121"
+    },
+    {
+      "type": "City",
+      "name": "Haut-Karabakh",
+      "id": "City_1fe9b4815c7f29132e660a903fad30016e4a0376540de2d9eb800f21b88fa3ab"
+    },
+    {
+      "type": "Country",
+      "name": "Asie centrale",
+      "id": "Country_c163e68a89127ff2730e91bee7f0123e8bed626f3051e0c6e8bea5b85f0d275f"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Sud Caucase",
+      "id": "Country_f29fcd666f8b30520c76025c8c7fab6873de2e5528f09390cace91c2619a784a"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Arménie",
+      "evidence": "En ce moment, vous pouvez compter sur le soutien de la France à l'Arménie, à son indépendance, à son intégrité territoriale, à son cours démocratique, et au fond, à son aspiration à la paix.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace"
+    },
+    {
+      "source": "Nikol",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Monsieur le Premier Ministre, cher Nikol, d'être à Paris aujourd'hui",
+      "confidence": 1.0,
+      "source_id": "Person_3a0ae756f21e901e651e447b07e3290b104dc67864390c620d348df117b32012",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "Missak Manouchian",
+      "relation": "LOCATED_IN",
+      "target": "Panthéon",
+      "evidence": "Missak Manouchian entrera au Panthéon",
+      "confidence": 1.0,
+      "source_id": "Person_8e57d3d00faf1434dc00167de2024c2f33054e6dcc6b200eb71a0f22b1c91254",
+      "target_id": "City_43a1ef0fe679cc862b9a773e30d5fc43b5e2f3b92f6a29dee095a06aca903639"
+    },
+    {
+      "source": "Missak Manouchian",
+      "relation": "LOCATED_IN",
+      "target": "Mont-Valérien",
+      "evidence": "Missak Manouchian et ses camarades de résistance tombaient dans la clairière du Mont-Valérien",
+      "confidence": 1.0,
+      "source_id": "Person_8e57d3d00faf1434dc00167de2024c2f33054e6dcc6b200eb71a0f22b1c91254",
+      "target_id": "City_2d1c2ecf3cdde82b1009253791c82e4a7fde7564fab7ac3cddd12948ec865cdd"
+    },
+    {
+      "source": "Azerbaïdjan",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "La France déplore justement le tir arménien qui a causé un blessé du côté azerbaïdjanais le 12 février",
+      "confidence": 1.0,
+      "source_id": "Country_0d4c1e009f3bb130b67fe6efb29a09de4f9c8f387cf4e3fa2169c0c4bc495fbc",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Azerbaïdjan",
+      "relation": "OPPOSES",
+      "target": "Arménie",
+      "evidence": "la riposte disproportionnée de l'Azerbaïdjan, qui a fait quatre morts et un blessé dans les rangs arméniens",
+      "confidence": 1.0,
+      "source_id": "Country_0d4c1e009f3bb130b67fe6efb29a09de4f9c8f387cf4e3fa2169c0c4bc495fbc",
+      "target_id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Asie centrale",
+      "evidence": "Je me suis rendu à l'automne dernier en Asie centrale pour réaffirmer tout l'intérêt que la France porte au déploiement justement d'une connectivité entre l'Asie centrale, le Caucase du Sud et l'Union européenne.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_c163e68a89127ff2730e91bee7f0123e8bed626f3051e0c6e8bea5b85f0d275f"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France continuera également à soutenir résolument le développement des relations entre l'Union européenne et l'Arménie",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

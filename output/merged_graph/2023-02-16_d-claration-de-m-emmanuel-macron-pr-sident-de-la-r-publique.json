@@ -1,0 +1,600 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames les ministres",
+      "id": "Person_19c6a893fe778dfc3d8002ad2fb7d941baf24de4386766725610beac1b447aab"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les parlementaires",
+      "id": "Person_ee51dc2324bec5b163f1b8c4d3c4713f0a34d4232a11b6a3033c9f8b0c2a0fa2"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le préfet de la région",
+      "id": "Person_42b6994e50c5016ec7e167285ded2e05e75c1a8e4c1c769dbf35c32e6395821d"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le sous-directeur",
+      "id": "Person_d217e84ee7117158a3bb5bb20cb42b97b9cf591fba214458e87ebcc11f0cf756"
+    },
+    {
+      "type": "Theme",
+      "name": "laïcité",
+      "id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité de l'État en matière religieuse",
+      "id": "Theme_9091e27d1f7e015ef925da444719e9dd649dbe43b0a16da6738602e3201f7b4d"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "combat de chaque jour",
+      "id": "Theme_b91ea880771b4f61d6b66388b90e005df75681df0b1518b03679bfc97b0e08b7"
+    },
+    {
+      "type": "Theme",
+      "name": "plébiscite",
+      "id": "Theme_b33ebe4cd54c37b214934f744907f7d8dceb83f63647b03c44ce70a64231081f"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte de connaissance",
+      "id": "Theme_80f24b92fee1c9a564940bcc5bed0b317db48ed320e068322956695b9aa1ac1e"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte de reconnaissance",
+      "id": "Theme_16c004cce96a690b0ffeb41ef195d91d0bfe40ffc9e9f9bdfbf12237bdbab6f1"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte de volonté",
+      "id": "Theme_13a950643aad394a0053d2da421b3e3cb32cf756d3ca2e19e0e311969fc3643a"
+    },
+    {
+      "type": "Theme",
+      "name": "triptyque",
+      "id": "Theme_a75de66cf4dd47cdb45d3e72f75af292cca741666b901bbc3999ce32508f4796"
+    },
+    {
+      "type": "City",
+      "name": "Mureaux",
+      "id": "City_8bff727cb61cf81f8c53f6e2839d2c33bef204de7672c5885943dd78f6cf056f"
+    },
+    {
+      "type": "Organization",
+      "name": "parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "rapporteur",
+      "id": "Organization_98385c3dc470dcf49fa4e306b59d5bfba003da06330ba4b42ea794a894e4f5f6"
+    },
+    {
+      "type": "Theme",
+      "name": "réveil républicain",
+      "id": "Theme_041913c366d76aa32305686f7066a2b9d00f61d4e6e3567f2d5cb00a0e19ae99"
+    },
+    {
+      "type": "Theme",
+      "name": "séparatisme",
+      "id": "Theme_e63656e4c724e3576d91745368f0ca99942915c46c9150927a5bdb2f0b9b4775"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre public",
+      "id": "Theme_81f6659f1f0773c33fb44826282a3a9607166da9710d86c7b3894f4e726c01c9"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité de l'État",
+      "id": "Theme_b5e340a51f858dc4ad46af141edc7860bc1100e7b9eeb67a3215f9edfff4242d"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle des associations",
+      "id": "Theme_7a1946fe22bb4ee45f8fbb4763d39ac5aed07685e5dfaaf5e715e906d8477b0b"
+    },
+    {
+      "type": "Theme",
+      "name": "école",
+      "id": "Theme_e4023600e045c977a775d339830e8508634d36394f9b8486f09d01cdd3b05e6b"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés publiques",
+      "id": "Theme_3263f766a0af85d8cd9a99561b8c720d44f311c9b501b42dc08f9d768b0168c8"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés individuelles",
+      "id": "Theme_759ccdc015d83cf60a6046b0b9d40b9d6f2ba26eed4cc7fc4859025eb4ae5ca8"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté d'aller et venir",
+      "id": "Theme_83a31e3899d3e62e8131f684888454ec4c981d7510d51d983ce0eab5e12f2be9"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de la presse",
+      "id": "Theme_40359177ead3bed094c1f6f38aef056296f984a38583d6593094099ff5e0b4fc"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de manifester",
+      "id": "Theme_d9d3707394684c00a3107a7a624ea71410ca88073fc3175a326146874016b975"
+    },
+    {
+      "type": "Theme",
+      "name": "islamisme",
+      "id": "Theme_27ff0eb45f552b5e6602a1bf852cc23216c3ada655875d16e062ab82be2f2021"
+    },
+    {
+      "type": "Theme",
+      "name": "air du soupçon",
+      "id": "Theme_aeab82cc84d2490163510785bd621f32748613bf722fbb7206ee40bc205adf92"
+    },
+    {
+      "type": "Law",
+      "name": "loi de 1905",
+      "id": "Law_017b788af4db1b9cc7c92b9972421b3a3f93b1a51e555b57e6c8314e40dfc0db"
+    },
+    {
+      "type": "Law",
+      "name": "Loi du 9 décembre 1905 fondant la laïcité en France",
+      "id": "Law_f25677240510e25e074020a64750a8c20f404257fd162afff64db4d660a8b2ef"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Theme",
+      "name": "Islam dévoyé",
+      "id": "Theme_dccbd26cd3d6756de0184ac5a536449e26b1407ad49cadba6db573ae750818b6"
+    },
+    {
+      "type": "Organization",
+      "name": "FORIF",
+      "id": "Organization_df21ca46ce415f3acc69f5110309bd8862c0075e663c115a27b4854bd2c31ab9"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut des cultures d'Islam de Paris",
+      "id": "Organization_fd0baea28208f4b031bd133446f22fa2465b9ad925ce812b50c630811c1e5cdf"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation pour l'Islam de France",
+      "id": "Organization_692ace5b93c16583bcd72fff00f4c446b6d38ed3070f4a7a37b20c469cf323a6"
+    },
+    {
+      "type": "Person",
+      "name": "cher professeur et président de l'Institut français d'islamologie",
+      "id": "Person_fb59413d9a4d1cb94d137e78c5d531fdedcbe34ae0f24b67d61db718579a163d"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut français d'islamologie",
+      "id": "Organization_85206dc014d1a1d7589b59684593a4f8e991cdfb03175f05da37cda812cdf001"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "CFCM",
+      "id": "Organization_bb18462c4b36ea0263a312484cab80a9b72c3521e7a8e4e7148c2fd51b4e6d05"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs de la République",
+      "id": "Theme_b2e3b9a6f2b1998d5fba955804e1ce015aacf911d0897726e3a008f2386ed8c7"
+    },
+    {
+      "type": "Theme",
+      "name": "Principe qui établit la neutralité de l'État en matière religieuse",
+      "id": "Theme_4255813dbdfdd1729bd1136a69e5ed5a7be644866419f370bac141b8df33fa29"
+    },
+    {
+      "type": "Theme",
+      "name": "l'Islam en France",
+      "id": "Theme_c7e70d477b7cd3ba4aae278c940e6d80171e5e9361f8f7d42b66a06006d2ce0c"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme",
+      "id": "Theme_d10bce3b67531a6774cd57104a434124f2a796f10cbfff22bb37dbeba66cb515"
+    },
+    {
+      "type": "Theme",
+      "name": "réel",
+      "id": "Theme_d66e433f5c96a7e9c57fcab0aa6579e80e3471e07c0d135d03a4aa631f53cde5"
+    },
+    {
+      "type": "Theme",
+      "name": "pragmatisme",
+      "id": "Theme_01dd21eb7f416ce1db9c52f1d78848a93631161a1c44e44945db1bc6ebb5713d"
+    },
+    {
+      "type": "Theme",
+      "name": "courage intellectuel",
+      "id": "Theme_c432b957a63cbd00e86ae35903a80eb211045b360e456193185a0424c5b64ce0"
+    },
+    {
+      "type": "Theme",
+      "name": "discours de séparatisme",
+      "id": "Theme_a10c5108a8be12b2b901d6f63e43b1f3dc3666300f09541d5f05f33608744951"
+    },
+    {
+      "type": "Person",
+      "name": "Florennes",
+      "id": "Person_ca188a5b0db51520cac15cbd594604345281972e3cf3c0b1f93a41bb56418d80"
+    },
+    {
+      "type": "Person",
+      "name": "Mendes",
+      "id": "Person_0c3a32735c2989be86f0618626f6549eb023434d60606a7cdd011e84d946620f"
+    },
+    {
+      "type": "Person",
+      "name": "Ministre",
+      "id": "Person_3ffa6811c83c16bf59edf782cd334ba6a4263e78436004596c3f8ab18adabbc4"
+    },
+    {
+      "type": "Person",
+      "name": "nos préfets",
+      "id": "Person_4ba14d4742262582c5e054a3b9fd1ca5a72dbcc264e737ad7cc81e9d559df3a9"
+    },
+    {
+      "type": "Law",
+      "name": "la loi",
+      "id": "Law_06ff4a6150586f7a90556b37e4d18bb94a678233510c532c9deb930d175a1290"
+    },
+    {
+      "type": "Person",
+      "name": "les préfets",
+      "id": "Person_5d206fee0479214cdcda373b847eb3addf5824d3dd45604f8518402f1074b568"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État",
+      "id": "Organization_2e87b80d05da954904064e134e37af29a9b3758a76fc2f408a27095dea004f71"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de l'Intérieur et des Outre-mer",
+      "id": "Organization_a05ecb33a621e0099a3aed26cc19ce95c29c6a71b1b4c96f342664c1a7ca2957"
+    },
+    {
+      "type": "Organization",
+      "name": "SNU",
+      "id": "Organization_275af3367480b358fb965fed558688ad7b4132fb1c02b868b0a55043d8f720bd"
+    },
+    {
+      "type": "Theme",
+      "name": "financement",
+      "id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "statut des imams",
+      "id": "Theme_9aa13d3dcc492362db65f73e6d59c7ec61f212060388ef0867454155da50333d"
+    },
+    {
+      "type": "Theme",
+      "name": "traduction pratiques",
+      "id": "Theme_0412523c10a142e7e0c83a01e03ed8502a8f1f58092a90dfa296e48f8fa18b59"
+    },
+    {
+      "type": "Theme",
+      "name": "législatives",
+      "id": "Theme_60348e8687ab0aed42d90d9cf0d67c63c11f500de2f97d3efc0e618be3cc4a28"
+    },
+    {
+      "type": "Theme",
+      "name": "réglementaires",
+      "id": "Theme_54ba927c4c8d1aef914a30b3d0e898b5600dd2a067285ac76d4f2ce56afe1b50"
+    },
+    {
+      "type": "Theme",
+      "name": "organisationnelles",
+      "id": "Theme_d14053b4219780d68c97edb0a108e5feccf18e984917b5ad7af16d68582825d8"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvement",
+      "id": "Theme_16335ab41e584ebe27b59c787f2f8077ea6a0a5734e31ad98cbea739e7abbf01"
+    },
+    {
+      "type": "Theme",
+      "name": "quatrièmes Assises territoriales de l'Islam de France",
+      "id": "Theme_c5b2e7cc3349c8a98528171d2a22afb8478a47c3d2661cb474cabcaa2a32841e"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "professeur",
+      "id": "Person_cfabe3805ef559565a127c31135c419dd8493880ab5c9a6ed695db7e1f22b32c"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence de l'école française",
+      "id": "Theme_765e4a2dbc9e108b4138b24249b35a143f21cda19e4aa2a3a3b5a98710bd9af8"
+    },
+    {
+      "type": "Theme",
+      "name": "bon niveau d'investissement",
+      "id": "Theme_1ffdb8f4573be421e10ec5de069581d3f59449c2ca9c5c4043fc135a5a00b684"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence",
+      "id": "Theme_00b20302d5f64b56a882fa76ac635bfb2d5b859939516a451a03216995d89940"
+    },
+    {
+      "type": "Theme",
+      "name": "connaissance du monde musulman",
+      "id": "Theme_04b907e773b549ccbf220c132f75625cf409389643831a2cb8ca0d6a2ed76edd"
+    },
+    {
+      "type": "Theme",
+      "name": "différentes géographies",
+      "id": "Theme_57e6e9322f8ee8f79482efa5081a16e1d6839f5d52dc5a14938be89c81939ff8"
+    },
+    {
+      "type": "Theme",
+      "name": "interférences",
+      "id": "Theme_a25007a5a70dc66cb7b18608e0d1511c1357d42a038b2cd8d2826d183676d68d"
+    },
+    {
+      "type": "Theme",
+      "name": "pérennité",
+      "id": "Theme_dd16687ce6e128c557a5a6d3815bc16545fd1736289fb6bb88bceae11d336efa"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanismes opaques",
+      "id": "Theme_49e6779ea37f9b60bf0b335d5ccde5e03f421f97791f55802d39d4b688be771b"
+    },
+    {
+      "type": "Theme",
+      "name": "jeux d'influence",
+      "id": "Theme_1b3e6fd00a5ecd0242707e694547989975406f61f1fbb3b0f684fd7ba594bc48"
+    },
+    {
+      "type": "Theme",
+      "name": "FORIF",
+      "id": "Theme_4ea34165a6bfa0067163e34e5a3feae11c0f162776213d2d8f4ee41a9185dbf0"
+    },
+    {
+      "type": "Theme",
+      "name": "reconnaissance",
+      "id": "Theme_24e4cd0fe4314d21fe51891238282e7ad3290eb5e3e25cf1b43cf34fb381606e"
+    },
+    {
+      "type": "Theme",
+      "name": "statut",
+      "id": "Theme_2ac8f7dcd7047843a2cd876b612aad4a6bdbf6344a5b1d31ae16ae2c093345c6"
+    },
+    {
+      "type": "Theme",
+      "name": "homologation",
+      "id": "Theme_04dceb3b4b812ef1922f9f36582a63776b3677be74bd8383bd2f68944b4532fb"
+    },
+    {
+      "type": "Theme",
+      "name": "imams",
+      "id": "Theme_1a21d3eaf528b193b5bf643b6548c59a39f113c4295921ee121e3d6d3e9b9589"
+    },
+    {
+      "type": "Theme",
+      "name": "religion",
+      "id": "Theme_164a57edd3bd6e51e9da15e6b184baa243f42cb6bd764af8a346437a5132deac"
+    },
+    {
+      "type": "Theme",
+      "name": "Islam",
+      "id": "Theme_879a3cfc5efad5941cda162521e02918b759b90b3a493f5fc7fe8acef42c3cc0"
+    },
+    {
+      "type": "Theme",
+      "name": "pèlerinage",
+      "id": "Theme_e67606ccd70669c357d6db4cd5d223655b36ca3a7b801c5ff457aeaa9ae6db30"
+    },
+    {
+      "type": "Theme",
+      "name": "systèmes de financement",
+      "id": "Theme_092ea00b7a68be3a52664080fe295dec9ccf30a51a1d33dab4f1760bf22f4e73"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue géopolitique",
+      "id": "Theme_376c086e265ad6a75ff734ddbb883d8c0919bead9c62c0231d773590a16d1d26"
+    },
+    {
+      "type": "Theme",
+      "name": "propagandes",
+      "id": "Theme_5a3c087799b729abc870770328ba97d8cadcd6dde2539e909fc55a1e3e0248e7"
+    },
+    {
+      "type": "Theme",
+      "name": "discours de manipulation",
+      "id": "Theme_af180a60295f05e264686b39243c84d4c67636b91bb7b9109f963addb96b21e9"
+    },
+    {
+      "type": "Theme",
+      "name": "Islam en France",
+      "id": "Theme_9439000475e291f607796994292f4189a2be652666aeae0e41a7ec25721f2921"
+    },
+    {
+      "type": "Theme",
+      "name": "réseaux sociaux",
+      "id": "Theme_3db7ca95fe1fa04399ef5baef0f73a5aef029bba3765cf3d4b022b0f025fd769"
+    },
+    {
+      "type": "Theme",
+      "name": "puissances extérieures",
+      "id": "Theme_d0e1f6ffe1eb5e5e63c33f448de503214b4ec8aea23fd3f16ea428b90a278fa1"
+    },
+    {
+      "type": "Theme",
+      "name": "mouvements religieux",
+      "id": "Theme_22b92c03b6ba27421abfe62d5c3dd74801221b0d852023936c0a40dee4450dbd"
+    },
+    {
+      "type": "Theme",
+      "name": "discours",
+      "id": "Theme_42d86966ace3014198cfd46fd8c2da2d992819e32c2f4179ebb3d09957486747"
+    },
+    {
+      "type": "Theme",
+      "name": "manipulations de l'information",
+      "id": "Theme_ec4d19d59a7358c4d44fad80f894563b75c8dfad8eb4945627f7b647c65c1ca3"
+    },
+    {
+      "type": "Theme",
+      "name": "culte",
+      "id": "Theme_dbfc0294f73b377fd04e4380beb9f2770750a17cb3fb7e1f5c13a1440c1242cc"
+    },
+    {
+      "type": "Theme",
+      "name": "société",
+      "id": "Theme_23d952489b07041be7b06f706f86ec7cfc55af055e1b2e2f815671e6fa2ef5ed"
+    },
+    {
+      "type": "Theme",
+      "name": "Rôle de la République",
+      "id": "Theme_d10614d21ddbca2d664d2e8b44070145c701518073812bdd2af5caf00de4b6b0"
+    },
+    {
+      "type": "Organization",
+      "name": "l'entreprise que nous conduisons toutes et tous",
+      "id": "Organization_483d8d9bed63a8c30cdb7ff43e29014017abf14e086389e1c4c69c5423c90bcf"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "rapporteur",
+      "relation": "MEMBER_OF",
+      "target": "parlement",
+      "evidence": "remercier les parlementaires, tous et toutes engagés, le rapporteur tout particulièrement",
+      "confidence": 1.0,
+      "source_id": "Organization_98385c3dc470dcf49fa4e306b59d5bfba003da06330ba4b42ea794a894e4f5f6",
+      "target_id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "source": "cher professeur et président de l'Institut français d'islamologie",
+      "relation": "MEMBER_OF",
+      "target": "Institut français d'islamologie",
+      "evidence": "cher professeur et président de l'Institut français d'islamologie",
+      "confidence": 1.0,
+      "source_id": "Person_fb59413d9a4d1cb94d137e78c5d531fdedcbe34ae0f24b67d61db718579a163d",
+      "target_id": "Organization_85206dc014d1a1d7589b59684593a4f8e991cdfb03175f05da37cda812cdf001"
+    },
+    {
+      "source": "laïcité",
+      "relation": "MENTIONS",
+      "target": "laïcité",
+      "evidence": "laïcité\nPrincipe qui établit la neutralité de l'État en matière religieuse",
+      "confidence": 1.0,
+      "source_id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb",
+      "target_id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "source": "mécanismes opaques",
+      "relation": "MENTIONS",
+      "target": "mécanismes opaques",
+      "evidence": "Quand il n'y a pas de pérennité et de transparence au financement, il y a des mécanismes opaques qui se mettent en place, des interférences et des jeux d'influence",
+      "confidence": 1.0,
+      "source_id": "Theme_49e6779ea37f9b60bf0b335d5ccde5e03f421f97791f55802d39d4b688be771b",
+      "target_id": "Theme_49e6779ea37f9b60bf0b335d5ccde5e03f421f97791f55802d39d4b688be771b"
+    },
+    {
+      "source": "jeux d'influence",
+      "relation": "MENTIONS",
+      "target": "jeux d'influence",
+      "evidence": "Quand il n'y a pas de pérennité et de transparence au financement, il y a des mécanismes opaques qui se mettent en place, des interférences et des jeux d'influence",
+      "confidence": 1.0,
+      "source_id": "Theme_1b3e6fd00a5ecd0242707e694547989975406f61f1fbb3b0f684fd7ba594bc48",
+      "target_id": "Theme_1b3e6fd00a5ecd0242707e694547989975406f61f1fbb3b0f684fd7ba594bc48"
+    },
+    {
+      "source": "FORIF",
+      "relation": "MENTIONS",
+      "target": "FORIF",
+      "evidence": "Ça existe encore sur le terrain et ça n'est ni le discours des Mureaux, ni la loi, ni le FORIF qui l'a encore arrêté",
+      "confidence": 1.0,
+      "source_id": "Theme_4ea34165a6bfa0067163e34e5a3feae11c0f162776213d2d8f4ee41a9185dbf0",
+      "target_id": "Theme_4ea34165a6bfa0067163e34e5a3feae11c0f162776213d2d8f4ee41a9185dbf0"
+    }
+  ]
+}

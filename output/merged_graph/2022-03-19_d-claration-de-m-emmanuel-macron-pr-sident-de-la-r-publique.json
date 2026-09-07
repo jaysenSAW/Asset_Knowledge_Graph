@@ -1,0 +1,749 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Chef d'état-major des armées",
+      "id": "Person_1f83a1b709c29b766edb6b98978d332e04de52962a1652e0a4e20e351b1b05e0"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Directrice Générale de l'Office National des Anciens Combattants et Victimes de Guerre",
+      "id": "Person_05f6f72e46576c24d3eca93c946811298d46084bf74311abe92ae87925af4d2b"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les présidents et présidentes de fondations et associations mémorielles ou d'entraide",
+      "id": "Person_e8e6b8f74932a18b59079002eb516faaf6c6107b1dff512894ceb026fb4e1b3e"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les universitaires, historiens, experts",
+      "id": "Person_fb8e60c972861d6bbcceea986fafa6cfce0f91054ae23c967b6af91340533493"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les ministres",
+      "id": "Person_04725bf2245672793e76174d8746ec28f46c281ef73283bf9390941f137cf2cf"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les parlementaires",
+      "id": "Person_ee51dc2324bec5b163f1b8c4d3c4713f0a34d4232a11b6a3033c9f8b0c2a0fa2"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et messieurs les élus",
+      "id": "Person_271cb721002ea7abe3b15bcad709df18a3cf4248d0db3ac918f9fa8e5753ec04"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les officiers généraux",
+      "id": "Person_f9a002e5d7901854c8248fc6e46d314419343c0a5dfcafd83dd45fa5712a5928"
+    },
+    {
+      "type": "Event",
+      "name": "Accords d'Evian",
+      "id": "Event_01d8e413132b12906953fdd7b5b038a13c84944f66e25365171c2ec623930e6b"
+    },
+    {
+      "type": "Event",
+      "name": "Cessez-le-feu",
+      "id": "Event_09983351186954583f1fdfd10b3d619bfa7e0e579825a6d457184847f474ccb8"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "Guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "Soulagement",
+      "id": "Theme_5cf03c455bf0f310e2bc78d7b925d23e00b24a0ef7ccd46771b6a0f1f7180c51"
+    },
+    {
+      "type": "Theme",
+      "name": "Défaite",
+      "id": "Theme_5d2e2dcea020c3163e796cf50110e069d136e8ea9ac56b7378e31ce59ea96783"
+    },
+    {
+      "type": "Theme",
+      "name": "Victoire",
+      "id": "Theme_bc5162946a99751f00c6537625622b6ae1680aea4c10b965a4a4776b8e270137"
+    },
+    {
+      "type": "Theme",
+      "name": "Nation",
+      "id": "Theme_60ff600be5c454bb618a1597d939fb190f2d7774c810094fe4274df593f1b232"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Event",
+      "name": "guerre d'Algérie",
+      "id": "Event_342cd6417b4051967ce3e9edc666e8ffe49e3e53c81395a339be5cb9fb1741fe"
+    },
+    {
+      "type": "Theme",
+      "name": "silence",
+      "id": "Theme_d8abd9a22fb4c4d3199f6408ca04cd0301506eb1e43b0db826c16d07c7331109"
+    },
+    {
+      "type": "Theme",
+      "name": "devoir d'oubli",
+      "id": "Theme_aba81a228b56957f273e7259d38802d583d0cab047401caaec1229d3616d4be3"
+    },
+    {
+      "type": "Theme",
+      "name": "décret de Sparte",
+      "id": "Theme_21f6ab511b976919bdf72a20b6cb7d711478e10ab132b51347c1fddb252e15db"
+    },
+    {
+      "type": "Theme",
+      "name": "irréconciliable",
+      "id": "Theme_c010c057c1c80afd2e9f4fb4bb123ee54b9978658f9669e3c277dfad3d823cb4"
+    },
+    {
+      "type": "Theme",
+      "name": "déni",
+      "id": "Theme_e537981f45acfacce00a06f09f1062d06dd50758c2dd5eb613e0becc43490c02"
+    },
+    {
+      "type": "Theme",
+      "name": "blessures",
+      "id": "Theme_ef212913d39e947a2662906a0640253404fb80f1fdb06d6b80319a2a0f4f5dca"
+    },
+    {
+      "type": "Theme",
+      "name": "traumatismes",
+      "id": "Theme_38e6f6693b6030ff9128bb1c49f4575f604289c87cf0ef6ed7688cc9d22c6d6a"
+    },
+    {
+      "type": "Theme",
+      "name": "injustices",
+      "id": "Theme_0855c0e2dc1112337e3cd6841ffa76fd1676a6bcadc7979d4dcfe94cb98b8912"
+    },
+    {
+      "type": "Person",
+      "name": "Maurice Audin",
+      "id": "Person_2c3a6246938e61fcebd592be4876a244af8429a4884b101c9bba58724e071170"
+    },
+    {
+      "type": "Organization",
+      "name": "République",
+      "id": "Organization_0eac6305aac01bf684a6d57836831f1443587a4616a4d6b56b3d3c1e778ca152"
+    },
+    {
+      "type": "Person",
+      "name": "j'ai",
+      "id": "Person_11dc8f890b0c964b83ea9b1735ebebcd698833b5d636e3dbbd33637c9106eda2"
+    },
+    {
+      "type": "Person",
+      "name": "Harkis",
+      "id": "Person_84a44a94abf968cbee30f2aaf5d67a144a356e04216bc17fa9981b7d8bbfc6a2"
+    },
+    {
+      "type": "Person",
+      "name": "leurs enfants",
+      "id": "Person_37fd17251f3aa5f7193a48261898af070abdb802edcc9a697589e294f2c542d7"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Event",
+      "name": "journée internationale d'hommages aux Harkis et aux autres membres des formations supplétives",
+      "id": "Event_f9ecf8b6f3af9ed696566f0fa7b9b2a21ced1acbe2aa73cb7c785d85662dbae7"
+    },
+    {
+      "type": "Law",
+      "name": "projet de loi",
+      "id": "Law_3c6308d41a4aa0d9948ad60b46254d755112c1aaebbb9f19c6159a5e7497200c"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Marie BOCKEL",
+      "id": "Person_ab4a0532bac97f31373a5dbb853b6744ba98bf44f3358dba3735d43dc3afc667"
+    },
+    {
+      "type": "Person",
+      "name": "Maurice Papon",
+      "id": "Person_587b0a63a591b4d57e89e1cd3a71bf44194a6610e0ff1ea66fa4af265136acfc"
+    },
+    {
+      "type": "City",
+      "name": "Nanterre",
+      "id": "City_6bbea25500fa1d2761e21c758c2335d8fff547d6d1a2b4a76c8e96b47c1edabd"
+    },
+    {
+      "type": "City",
+      "name": "Bezons",
+      "id": "City_6d95831875169826f2fbcc0e3f5d4402396110a566220505620fb6c823ca8898"
+    },
+    {
+      "type": "Event",
+      "name": "attentat sanglant du Milk Bar",
+      "id": "Event_f28fc5d19dc5b97229c9fb9416cb24fb0b746f7edac23b01cd4c5a64e4666d5a"
+    },
+    {
+      "type": "Event",
+      "name": "drame de la rue d'Isly",
+      "id": "Event_2f220bcc1547dab886bf947b25cfd056b3779eb54497b03e534becc409a1d721"
+    },
+    {
+      "type": "Event",
+      "name": "exode de 1962",
+      "id": "Event_e56f1d00a5d4ec35bd10744b3f695f488ef7fa6c2197ba10ff1bcabeba2edbbc"
+    },
+    {
+      "type": "City",
+      "name": "Algérie",
+      "id": "City_66dd739476a643901f2ecc6f56244d5f2db1cdebaafb107ed4637ba9a1ac3235"
+    },
+    {
+      "type": "City",
+      "name": "Milk Bar",
+      "id": "City_9e5b3082f801c9a119efe909bac1ee79abf9c5b30573d9ba14d410afae6c0298"
+    },
+    {
+      "type": "City",
+      "name": "rue d'Isly",
+      "id": "City_b8138f72b75bdf882d08bec712869a7621a3d1a365e4949c05a7dea7d800f040"
+    },
+    {
+      "type": "Organization",
+      "name": "rapatriés d'Algérie",
+      "id": "Organization_18827ad6fddb05ade339b761447ef1167b14b367cfc453ec89e0b81c510ec7db"
+    },
+    {
+      "type": "Person",
+      "name": "survivante",
+      "id": "Person_582ce939c61f94d359f14a306279e362e3a6fb496616fd1e236bdb75646b736a"
+    },
+    {
+      "type": "Person",
+      "name": "soldats français",
+      "id": "Person_b4768cc3d567264e766193608a082170dfa21be1f1eef64fb65f8bd1c1d25050"
+    },
+    {
+      "type": "Person",
+      "name": "manifestants",
+      "id": "Person_6eafabb5dcd1eacac276d610a790c3cded54760ebd4c7a39859989a3eb8b2572"
+    },
+    {
+      "type": "Person",
+      "name": "rapatriés",
+      "id": "Person_150700366245ae96c48b96de2bb4f1eb7b132b04462a5ba17f05c6b2ffb2a360"
+    },
+    {
+      "type": "Person",
+      "name": "Germaine Tillion",
+      "id": "Person_101c734f88e47fd9482e9d050a42df74ffadb21846b4f109db23d496bf6836d0"
+    },
+    {
+      "type": "Person",
+      "name": "Marcel Basset",
+      "id": "Person_4e5d01c7ed6fdb7f7285c07f598aa26efab1b7b4586cd93863ae68985c8dda09"
+    },
+    {
+      "type": "Person",
+      "name": "Robert Eymard",
+      "id": "Person_7d65e85f54d8c3ba8743bc19e2ff1635e2a6da55230f0a77d3b23db9a03f6a33"
+    },
+    {
+      "type": "Person",
+      "name": "Mouloud Feraoun",
+      "id": "Person_9982488702ba2671a3ecb37ccde1172559b8a62b2be7ff4c54427e6a09881a2a"
+    },
+    {
+      "type": "Person",
+      "name": "Ali Hammoutène",
+      "id": "Person_ff3570be5f8c76e14d12fd6f26ff62f27f8333330d599aea0b984dabb931a8cf"
+    },
+    {
+      "type": "Person",
+      "name": "Max Marchand",
+      "id": "Person_ec9b807260d52eeb8acb7fd5888bcbfabe70f2ebf44fb44d0264c2423016e5fc"
+    },
+    {
+      "type": "Person",
+      "name": "Salah Ould Aoudia",
+      "id": "Person_fe11ce9113fc854e30ac17ac423eef25ca2a123143ad277d65bf04854edea9b4"
+    },
+    {
+      "type": "Person",
+      "name": "Préfet de police de Paris",
+      "id": "Person_a853ef2ac5867151bdcfbd4f7847a05411b5dc6f7a70f091eee31b8e5f8cf688"
+    },
+    {
+      "type": "Country",
+      "name": "Maroc",
+      "id": "Country_9458e2c6babd2c77ac8b75ec4713e04d3bfb33730d88d692b0cae733d35375f3"
+    },
+    {
+      "type": "Country",
+      "name": "Tunisie",
+      "id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation armée secrète",
+      "id": "Organization_601eac13e81210c6f430e7946df14dd3d54f08b39c4f12ed9bcb676ab17ee1d4"
+    },
+    {
+      "type": "Theme",
+      "name": "manifestation pour la paix et l'indépendance",
+      "id": "Theme_72d580c338926a7285b67ed331dacd0b985f8c5ce3a6538c0e5c05f89139460b"
+    },
+    {
+      "type": "Theme",
+      "name": "répression",
+      "id": "Theme_eb02e0b7befcbcb029044a6ad7c248a4e48d1a02081440efd6ceab0d46b345a3"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre d'Algérie",
+      "id": "Theme_e746b3e0dc1154cc8393ab545fac8dbde21414a520966a6ca8894043132ae708"
+    },
+    {
+      "type": "Event",
+      "name": "journée nationale d'hommage aux morts pour la France pendant la guerre d'Algérie et les combats du Maroc et de la Tunisie",
+      "id": "Event_6730761ed53ed6aa9d55542889aecdb7d38ffb317620f5e0d16063ffb216a5fe"
+    },
+    {
+      "type": "City",
+      "name": "Haguenau",
+      "id": "City_c2d0392832285327cd8966b4d96bc9c27d296d15ca0530d964eb25336085d67a"
+    },
+    {
+      "type": "Event",
+      "name": "voeux aux Forces armées",
+      "id": "Event_3e20e1e334b2315ea630a7469d690e3140bd9344b44b99b09d43f4702b9c67c1"
+    },
+    {
+      "type": "Event",
+      "name": "anniversaire de la loi reconnaissant officiellement la guerre d'Algérie",
+      "id": "Event_30f4cd26105c25d98d640d849b99522e7169b73a209e1949ad84428613b1a728"
+    },
+    {
+      "type": "Law",
+      "name": "loi reconnaissant officiellement la guerre d'Algérie",
+      "id": "Law_a8298a5b4f16e8295f3047cc35b632a88ee2535880d8548aabe0b56f178f16c9"
+    },
+    {
+      "type": "Person",
+      "name": "Benjamin STORA",
+      "id": "Person_fc9d71a57ed94422bd94ae8ef5152fc8cad7053ba661fdb4750c3a25dba7e686"
+    },
+    {
+      "type": "Person",
+      "name": "Ali Boumendjel",
+      "id": "Person_b383b9bf765eddfb386e8d6a9ff78736f627d62b8c482be23100a40c71888316"
+    },
+    {
+      "type": "Person",
+      "name": "Maître Boumendjel",
+      "id": "Person_9240e330e92c3c1eb6fad308d376fb3c3c263906052f97a1692aee543ec324ab"
+    },
+    {
+      "type": "City",
+      "name": "Amboise",
+      "id": "City_5324a3b19de7440ceeaabb6931792374fd68779e9b0e7b77af9f211654cf74f2"
+    },
+    {
+      "type": "Theme",
+      "name": "colonisation française",
+      "id": "Theme_f0059dafd6f2b1cdeb64f653fb4db4c9095dec0bf863ef69e2067195eeb596a3"
+    },
+    {
+      "type": "Theme",
+      "name": "archives",
+      "id": "Theme_7995e531e4ae1c3dc2a9b6986a767e8aa7e3b837e3c8fa9a92478ed415d445f5"
+    },
+    {
+      "type": "Theme",
+      "name": "camp d'assignation à résidence",
+      "id": "Theme_7aab35349d7611cf4b837bbf4d63510c6565b45f3b39423f0f18309490e0f5b9"
+    },
+    {
+      "type": "Theme",
+      "name": "bourses",
+      "id": "Theme_91a93b117f4ad9961d7685ecbf4a84530fef59b9d52e5843d5bdb2373beaa0d4"
+    },
+    {
+      "type": "Theme",
+      "name": "gendarmerie",
+      "id": "Theme_acbe0a46242dbb8e6fcb35613e154ff0d629e48da9ccd0540c1b0bfcb6f0bc79"
+    },
+    {
+      "type": "Theme",
+      "name": "police",
+      "id": "Theme_12c2d29e54b756a603b2987454e32b3847ddd0eed1640468737a75b4da16ec3b"
+    },
+    {
+      "type": "Theme",
+      "name": "secret de défense nationale",
+      "id": "Theme_00c3ecb4995f4152bd9ea8c718993f86b7484c4667dbfc1b2e5e1e027bd5a553"
+    },
+    {
+      "type": "Theme",
+      "name": "intellectuels opposés à la colonisation française",
+      "id": "Theme_e6604ca34584b89745d178214aa644376b2789f003c618dfa6a9116283504e09"
+    },
+    {
+      "type": "Person",
+      "name": "ABDELKADER",
+      "id": "Person_9e5dbf7babe9132ab2dcf5730d48b3c563490afd233ea6a45e9983b30856ce4a"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "Organization",
+      "name": "Mucem",
+      "id": "Organization_db070b5da15bebe5881049ea23f61957b29e55b5c1f3cdf0681c802861d694a7"
+    },
+    {
+      "type": "Person",
+      "name": "Cécile Renault",
+      "id": "Person_00831f60014d9e1f56c9b2815a79d2de548a5f0684494a5549aecd965bd44e91"
+    },
+    {
+      "type": "City",
+      "name": "Montpellier",
+      "id": "City_a4b08d8442d3c90fe9eb3313e4500d0e3a904f2fb68190ad2b4820a2e2aeb0a7"
+    },
+    {
+      "type": "Organization",
+      "name": "conseiller mémoire",
+      "id": "Organization_5105f1a3f63e6e6c85dbcb69b6370424ce33e174e04e0e17984926e5325b550c"
+    },
+    {
+      "type": "Organization",
+      "name": "cellule diplomatique",
+      "id": "Organization_e2de6670ba79a246ca16e4cfc85be5c7c25d4aca7baa4402575bdfe2cc33de71"
+    },
+    {
+      "type": "Organization",
+      "name": "état-major particulier à l'Élysée",
+      "id": "Organization_b139896be7cba07fa61b8728c0afc33066333437920f4321d6b1f6b8911ae712"
+    },
+    {
+      "type": "Organization",
+      "name": "commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Organization",
+      "name": "Office National des Anciens Combattants et des Victimes de Guerre",
+      "id": "Organization_5aad8233846571ecf2805f5c1fb3134203fccec0ec033ca82f0db6badf4dfcad"
+    },
+    {
+      "type": "Organization",
+      "name": "Éducation nationale",
+      "id": "Organization_f625749da6effbb2c3a57afdb9c137deeb3bca586dcf5b06d7d4edcb2edd0942"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission mémoire et vérité",
+      "id": "Organization_7a2b6e49e9b162d476dc8416ac027d569a28a06aec035b7e6e10136157236786"
+    },
+    {
+      "type": "Organization",
+      "name": "ONACVG",
+      "id": "Organization_cc5d40052d24aaccde8f68f8f56ae38a2d4717e95c8e38bb10e60a42eaf87699"
+    },
+    {
+      "type": "Organization",
+      "name": "groupe de 15 jeunes âgés de 18 à 35 ans",
+      "id": "Organization_88cd0bc0e65d96e25f14358bc9e6f3c48958c1c7af66fde484e2bbdf1b79c756"
+    },
+    {
+      "type": "Person",
+      "name": "jeunes",
+      "id": "Person_5bf6abe8e489ab6f6365410503a423456073b6320fbea50d874bdbe245805da2"
+    },
+    {
+      "type": "Organization",
+      "name": "Muséum d'histoire naturelle",
+      "id": "Organization_7da7d0f58a47c98c4aa797f70003ef00201db0adc4d78e659094e0a68647ddfe"
+    },
+    {
+      "type": "Organization",
+      "name": "STORA",
+      "id": "Organization_5c5bff7f8d1f41d69837d54a95f05bdfc03cdde2e5fa22f7d76f6472dceaaa63"
+    },
+    {
+      "type": "Theme",
+      "name": "non-dits",
+      "id": "Theme_b7e98431da6ed4de2ffc2dce13a0c49e164d62a957df7d5972287fbf7ea882d9"
+    },
+    {
+      "type": "Theme",
+      "name": "ressentiments",
+      "id": "Theme_815cb116b103ddb69a5b2bb1a1b91584a39dd31582a684e404e149ddb0013298"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "crimes",
+      "id": "Theme_3a6739d5e7d2b394bb6d53e3acfcc294d43360cc0524421677d4de9093f090b4"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalisme fantasmé",
+      "id": "Theme_8d45beda8f390c3da52529b70dafda5db570a6e92660b03b178dbdfaea8688ed"
+    },
+    {
+      "type": "Event",
+      "name": "La guerre d'Algérie",
+      "id": "Event_72f9f7df5d3f17b8f860bcce86a37144cbcbeaf924124783f89f9149a280e137"
+    },
+    {
+      "type": "Theme",
+      "name": "les ressentiments",
+      "id": "Theme_a365b34be8043590485a0e616eb9bc94613eae7980afc9d6c1d990c5aa2ed234"
+    },
+    {
+      "type": "Theme",
+      "name": "les histoires",
+      "id": "Theme_0ae3c40f5e0c831bf3b7e7dbfd28fb3c116bac3c1efc3c5651587fb0ecc37f0b"
+    },
+    {
+      "type": "Theme",
+      "name": "les souvenirs",
+      "id": "Theme_3e97eefea229819addcb7bd45fe5911d7e28ecddbf38f59d707b7a4d0f65c277"
+    },
+    {
+      "type": "Theme",
+      "name": "les odeurs",
+      "id": "Theme_87e90fa64d4998fac94df5d105e569e25f1a87c550f75fdd8b4fe41c433720c7"
+    },
+    {
+      "type": "Theme",
+      "name": "les bruits",
+      "id": "Theme_df6bd7b05823461177359ebb9693626a8c61f802a297717636d4cef1a9e530ca"
+    },
+    {
+      "type": "Theme",
+      "name": "les émotions",
+      "id": "Theme_758383ea6f9cdb3c0caf31a8e73fa0f3ae6092efc62394f8c8b0ef752cf8a0c3"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "mémoire",
+      "id": "Theme_3c9e6d3a23e7c3fe0d187e98745e316e283ccf9f53618547ce1cecd4b8f46fb9"
+    },
+    {
+      "type": "Theme",
+      "name": "controverses",
+      "id": "Theme_6906b5dbef8dc17a6329857ca6b5bc2a331147b024972ba6a364a05f42897c7b"
+    },
+    {
+      "type": "Theme",
+      "name": "falsification de l'histoire",
+      "id": "Theme_3e58ebb2acb78481ad5e7dfb457d916325923646cd21af0ee896c0915f6a1943"
+    },
+    {
+      "type": "Theme",
+      "name": "idéologique",
+      "id": "Theme_6d382e0f7e241d071b48ed63ef164911152431a662a384f69f6023c8c8a00607"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Theme",
+      "name": "cessez-le-feu",
+      "id": "Theme_8316a636bce35e4ffdd885ae38c130d5dbf12eb4b113cf46472d9c931404e635"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "force d'une Nation",
+      "id": "Theme_f5f8e1042454f0c806e7e813910317665c32c52b21a58b8db6b0b5247f62b25a"
+    },
+    {
+      "type": "Theme",
+      "name": "transmission",
+      "id": "Theme_5f3b7befdd4615ff5f6f2392f77484bd002f10d099d2c30e336f50361b9fc447"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Cessez-le-feu",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Cessez-le-feu qui mettait fin à plus de huit années de guerre durant lesquelles, vous l'avez rappelé, plus de 30 000 de nos soldats sont tombés, morts pour la France ; tant de familles endeuillées, tant de blessés.",
+      "confidence": 1.0,
+      "source_id": "Theme_8316a636bce35e4ffdd885ae38c130d5dbf12eb4b113cf46472d9c931404e635",
+      "target_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "source": "Cessez-le-feu",
+      "relation": "SPOKE_ABOUT",
+      "target": "Guerre",
+      "evidence": "Cessez-le-feu qui mettait fin à plus de huit années de guerre durant lesquelles, vous l'avez rappelé, plus de 30 000 de nos soldats sont tombés, morts pour la France ; tant de familles endeuillées, tant de blessés.",
+      "confidence": 1.0,
+      "source_id": "Theme_8316a636bce35e4ffdd885ae38c130d5dbf12eb4b113cf46472d9c931404e635",
+      "target_id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "source": "guerre d'Algérie",
+      "relation": "SPOKE_ABOUT",
+      "target": "silence",
+      "evidence": "les mémoires de la guerre d'Algérie sont restées cloisonnées, clivées, divisées. Surtout, il y a d'abord eu le silence.",
+      "confidence": 1.0,
+      "source_id": "Theme_e746b3e0dc1154cc8393ab545fac8dbde21414a520966a6ca8894043132ae708",
+      "target_id": "Theme_d8abd9a22fb4c4d3199f6408ca04cd0301506eb1e43b0db826c16d07c7331109"
+    },
+    {
+      "source": "Bezons",
+      "relation": "LOCATED_IN",
+      "target": "Nanterre",
+      "evidence": "au pont de Bezons, près de Nanterre",
+      "confidence": 1.0,
+      "source_id": "City_6d95831875169826f2fbcc0e3f5d4402396110a566220505620fb6c823ca8898",
+      "target_id": "City_6bbea25500fa1d2761e21c758c2335d8fff547d6d1a2b4a76c8e96b47c1edabd"
+    },
+    {
+      "source": "survivante",
+      "relation": "MENTIONS",
+      "target": "attentat sanglant du Milk Bar",
+      "evidence": "une survivante de l'attentat sanglant du Milk Bar du 30 septembre 56",
+      "confidence": 1.0,
+      "source_id": "Person_582ce939c61f94d359f14a306279e362e3a6fb496616fd1e236bdb75646b736a",
+      "target_id": "Event_f28fc5d19dc5b97229c9fb9416cb24fb0b746f7edac23b01cd4c5a64e4666d5a"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "archives",
+      "evidence": "l'attribution, cette année, de bourses à 16 jeunes chercheurs et doctorants algériens travaillant en priorité sur les fonds d'archives en France et les questions mémorielles.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_7995e531e4ae1c3dc2a9b6986a767e8aa7e3b837e3c8fa9a92478ed415d445f5"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "bourses",
+      "evidence": "l'attribution, cette année, de bourses à 16 jeunes chercheurs et doctorants algériens travaillant en priorité sur les fonds d'archives en France et les questions mémorielles.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_91a93b117f4ad9961d7685ecbf4a84530fef59b9d52e5843d5bdb2373beaa0d4"
+    },
+    {
+      "source": "Algérie",
+      "relation": "LOCATED_IN",
+      "target": "Algérie",
+      "evidence": "l'Algérie",
+      "confidence": 1.0,
+      "source_id": "City_66dd739476a643901f2ecc6f56244d5f2db1cdebaafb107ed4637ba9a1ac3235",
+      "target_id": "City_66dd739476a643901f2ecc6f56244d5f2db1cdebaafb107ed4637ba9a1ac3235"
+    },
+    {
+      "source": "La guerre d'Algérie",
+      "relation": "MENTIONS",
+      "target": "les ressentiments",
+      "evidence": "La guerre d'Algérie et ses non-dits étaient devenus la matrice de tous les ressentiments",
+      "confidence": 1.0,
+      "source_id": "Event_72f9f7df5d3f17b8f860bcce86a37144cbcbeaf924124783f89f9149a280e137",
+      "target_id": "Theme_a365b34be8043590485a0e616eb9bc94613eae7980afc9d6c1d990c5aa2ed234"
+    },
+    {
+      "source": "histoire",
+      "relation": "MENTIONS",
+      "target": "controverses",
+      "evidence": "qui permet aussi les controverses, qui est le travail de l'histoire et de l'historiographie",
+      "confidence": 1.0,
+      "source_id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13",
+      "target_id": "Theme_6906b5dbef8dc17a6329857ca6b5bc2a331147b024972ba6a364a05f42897c7b"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "SPOKE_ABOUT",
+      "target": "guerre",
+      "evidence": "Ce qui se passe aujourd'hui en Ukraine, ce que la Russie a décidé de faire, de lancer une guerre",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "source": "Russie",
+      "relation": "SPOKE_ABOUT",
+      "target": "guerre",
+      "evidence": "Ce qui se passe aujourd'hui en Ukraine, ce que la Russie a décidé de faire, de lancer une guerre",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    }
+  ]
+}

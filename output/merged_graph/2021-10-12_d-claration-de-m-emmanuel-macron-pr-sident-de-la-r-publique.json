@@ -1,0 +1,2318 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Mesdames Messieurs les parlementaires",
+      "id": "Person_f879153b28740d9514dbcd93603cc82282967a253c73170eff53755abbb16289"
+    },
+    {
+      "type": "Person",
+      "name": "chers amis",
+      "id": "Person_ea6752ea13b7e38cb244013342b4e04afa9dd5dcbf74d7e84b37acdece219eb9"
+    },
+    {
+      "type": "Person",
+      "name": "celles et ceux",
+      "id": "Person_74e4cb3b028db1096eb61ab0208f09f4dda061698a978ed6b346cb6218c5d0a0"
+    },
+    {
+      "type": "Person",
+      "name": "étudiantes et étudiants",
+      "id": "Person_1259611587c88fd5a2594ffe7a4c8eab63a355fe3c04672d60d3eca4b896e76d"
+    },
+    {
+      "type": "Person",
+      "name": "chercheuses, chercheurs",
+      "id": "Person_1b04b92938e158fde97be7682d8943b3d333aae1cc392d376adbda252e4f2012"
+    },
+    {
+      "type": "Person",
+      "name": "universitaires",
+      "id": "Person_a95ee5993747010ea7755fa4fdf1b14fbafee75861932b11ca49b5792023f0a0"
+    },
+    {
+      "type": "Person",
+      "name": "responsables d'organisations, de branches professionnelles, syndicales",
+      "id": "Person_9819c5d45d39a26d57b60d340ae33978f200e485bb68bbe5bcafeed221725431"
+    },
+    {
+      "type": "Person",
+      "name": "entrepreneuses, entrepreneurs",
+      "id": "Person_e4af273cb8cee312a33a821e47189437c5c2a27f824e9a29d94afb1d33ffda4f"
+    },
+    {
+      "type": "Person",
+      "name": "investisseurs",
+      "id": "Person_52f1f79d0ad0b51876bf2c5a0e71e5ff5c96f6e4f7111b513bd8bd2d514eba90"
+    },
+    {
+      "type": "Person",
+      "name": "parlementaires",
+      "id": "Person_f776f3632f1ed78988bba7d749c456d845615687691859ede8cc82b6d5ad5b53"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Organization",
+      "name": "grands organismes de recherche",
+      "id": "Organization_c7231e29dc260f1788178f071add84a2bd645b3210809ced79f7f15197d7eec6"
+    },
+    {
+      "type": "Organization",
+      "name": "politique économique et industrielle",
+      "id": "Organization_77c7b66ecfb27bce5cb72b7b4eb18fe0a93067f405f715145b6ebfc7f6190a27"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "messieurs BLANCHARD et TIROLE",
+      "id": "Person_85e2a810a1764eb12e6029017a2c9ca05192c44018453d61daee73fb6f240c06"
+    },
+    {
+      "type": "Theme",
+      "name": "vieillissement démographique",
+      "id": "Theme_9076a080e7d5a25b793a620bbf252767cde2378653a4bae637dd7e54000d5fbd"
+    },
+    {
+      "type": "Theme",
+      "name": "natalité",
+      "id": "Theme_1739090f250acbea817318e40b43262663be1193de8eae42b8f2a19b613a3f0f"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations",
+      "id": "Theme_cac93d346afb10556cd477074f8fd5e7de6a6b6e234704cdc92ccd1aae71876c"
+    },
+    {
+      "type": "Theme",
+      "name": "déséquilibres climatiques",
+      "id": "Theme_0ee2b65d1463a02037ed894e62b9e2bd546e323fe7a33e2b4d7b12c841a17991"
+    },
+    {
+      "type": "Theme",
+      "name": "choc anthropologique",
+      "id": "Theme_24090bb5e89612fc6e2318e907a8942e480fdeb790a43198bf28cd9cc344224d"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution des usages",
+      "id": "Theme_2a9563a06602aa4e2da84dde89983a0c18711491b1451109eb4e2ac17d0a0eaa"
+    },
+    {
+      "type": "Theme",
+      "name": "émotions",
+      "id": "Theme_404d6d1e3338abd38f6615eb31aee60d8c6773665ed7c9298a37c5ab99603a80"
+    },
+    {
+      "type": "Theme",
+      "name": "France de 2030",
+      "id": "Theme_72a9d4b533c03417a6cd92641fa9d52836b67bb887bc7575f43139a38a7ab5fb"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe de 2030",
+      "id": "Theme_994d4661b95e124eb932f94b47b2e782d8ef4787ac7b3d395e93868dcee6730b"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie de Covid 19",
+      "id": "Theme_72531e7a35170eb02b51380cda17e2cd6ecdc985e17ae9bad596893c09bd23d6"
+    },
+    {
+      "type": "Theme",
+      "name": "grands défis",
+      "id": "Theme_e75cadc643261464baa1b7f7341cb134c6ef2c9a5873e177672fc63376063eeb"
+    },
+    {
+      "type": "Theme",
+      "name": "transformations",
+      "id": "Theme_a5cf38e56ec6f568347c7e4d2787de5c2d1a159cf3d75e70f9e82534a2b594ec"
+    },
+    {
+      "type": "Person",
+      "name": "étranger",
+      "id": "Person_afe9065b2309a6b4bdfb6e74a862ff004b3ba88c6ff873c9d620616713316e81"
+    },
+    {
+      "type": "Theme",
+      "name": "épidémie",
+      "id": "Theme_cc728abad13e3c62e85c61089f7679fbc7bd2c7fd6b01a6888d874304168d638"
+    },
+    {
+      "type": "Theme",
+      "name": "masques",
+      "id": "Theme_7e6356c77f717bac8e4f9ce8035328157f6cde8165db1da48bc89c058e1b6660"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance",
+      "id": "Theme_eb42bc9a4c0e3c4863f2af9c41baa2a8f3b5a02bf55c6c74f6658aeb303b2108"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance choisie et relative",
+      "id": "Theme_2e47f42bbcd65ff79adb2eb5c6bbeed4f089912672fb99a7e2f3d616f77238ea"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance productive",
+      "id": "Theme_ebf8e982add896718601ad50b9d01275c1a648e888214b8144c65f9c000bb6a2"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle éducatif et social français",
+      "id": "Theme_1369fe65a91ca6262abca544e1bd33c6b432c387fae544ad0b2158eb9c9b516c"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccin",
+      "id": "Theme_32ec3b4bac32f73345f9e33a388256bcaced72a72a5de7433f9116a540d3ce0c"
+    },
+    {
+      "type": "Theme",
+      "name": "solution",
+      "id": "Theme_edeee0408fcaff0b5492896c55672217baa0bbe17083b1b17ecb1b03fc982218"
+    },
+    {
+      "type": "Theme",
+      "name": "mieux vivre",
+      "id": "Theme_0c39fc9f672a26ba47790b6fcc123e1af04ccd92d8b32a79bd58966ddbd7e915"
+    },
+    {
+      "type": "Theme",
+      "name": "nation",
+      "id": "Theme_60ff600be5c454bb618a1597d939fb190f2d7774c810094fe4274df593f1b232"
+    },
+    {
+      "type": "Theme",
+      "name": "continent",
+      "id": "Theme_148fd80b66a562dc228366d3418b5c107c82ee0728f38e2c49585be66bbd77fa"
+    },
+    {
+      "type": "Theme",
+      "name": "humanité",
+      "id": "Theme_ebe8df3ac285e08d8c5b09a171c984dd674712e8f6706876ba58be414310d3e9"
+    },
+    {
+      "type": "Theme",
+      "name": "contraintes de l'innovation",
+      "id": "Theme_c736691ea33add0d40125ea0f64043218de697cbf2073f7181cfdf191aeb4641"
+    },
+    {
+      "type": "Theme",
+      "name": "accélération",
+      "id": "Theme_9406033de4bdd19e92a66c46369f0023da04040909b90e0a99230637771a150d"
+    },
+    {
+      "type": "Theme",
+      "name": "compression du temps",
+      "id": "Theme_ac2d03bd2e07b4b7ff476b02fa4787312e8d8fff772ccda87afeab0285d804f1"
+    },
+    {
+      "type": "Theme",
+      "name": "accumulation des moyens",
+      "id": "Theme_65f739ac0df530284cdc571fdb11d1883d496384573c204626231a0e0a0e4dbe"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération internationale",
+      "id": "Theme_f1c50b725549c07d125f90bd43162db61122bbdc0b4302fc683cdd91bd964215"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalisme excessif",
+      "id": "Theme_135ff28ddb192621eca296d61a3760dc0f1111b352b6bf790a4a068a7554ba6e"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccins",
+      "id": "Theme_285c234b84ef6ba1444c75fa4fb284e57557192a16508630af6134cc975797f3"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccins ARN messager",
+      "id": "Theme_e9569e3620134e48c967aeeb561cf4558760e1ef53b677c709915a9364d837d7"
+    },
+    {
+      "type": "Theme",
+      "name": "innover/produire",
+      "id": "Theme_88ed10c5f28c3c175f6e42ffe828d12e0b2cd049b459ec01a35b55f158248604"
+    },
+    {
+      "type": "Theme",
+      "name": "production de demain",
+      "id": "Theme_d9246f5bb4e68e8b3cf083913142b893e3fd6bc57bdaff47f2981e751680876b"
+    },
+    {
+      "type": "Theme",
+      "name": "agroalimentaire",
+      "id": "Theme_024debcd3609070ef635d568cf73483a37c21fe6cf08997e9d8f5342591a8879"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "services d'hier",
+      "id": "Theme_a4bd2cf6126fe737c10e58bcdc03442d3b6758f3e3ee3dc03e74f4bed1caec3f"
+    },
+    {
+      "type": "Theme",
+      "name": "triple déficit",
+      "id": "Theme_84e07b8a68372aaa55eac0251552c9d043c8c1dc4aff21f7f7add8eb8dc15c1a"
+    },
+    {
+      "type": "Theme",
+      "name": "déficit de croissance potentielle",
+      "id": "Theme_e1d22910aac1dcbd4cbf6637613c45607ee772cf097307dee556b30aa483eed2"
+    },
+    {
+      "type": "Theme",
+      "name": "déficit public",
+      "id": "Theme_1fd166c015850d9cf37d578984b0b912714f91505d57920ef1771fb27e5441f3"
+    },
+    {
+      "type": "Theme",
+      "name": "solde budgétaire annuel négatif des administrations publiques",
+      "id": "Theme_2b370c5eb008548c729de9ec82fe8cce26d8d06dc15eed78db62a127980a7214"
+    },
+    {
+      "type": "Theme",
+      "name": "État",
+      "id": "Theme_c451812b709f5d8690c76df683e36155876c418f88e2cd52acc1ca612abf0b32"
+    },
+    {
+      "type": "Theme",
+      "name": "collectivités locales",
+      "id": "Theme_ad98adb2a939bb620c202d8f5cd8be75a1bc06f6cf249d21bdcb7237f3bf21e7"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité sociale",
+      "id": "Theme_6bc8554cb5a6e887e61ca01ff0eb8003fb0972afe2162ba6703c5d3e2fe48648"
+    },
+    {
+      "type": "Theme",
+      "name": "déficit du commerce extérieur",
+      "id": "Theme_f3c5ea97afec8a4df288e7f5f75139478ca787ca190c13b46e419382be9455f8"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie macroéconomique d'innovation industrielle",
+      "id": "Theme_253f7d83c7e1fe765759a5e83842f84a33e3d7a505bda0be6119d46db050ea5c"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "système éducatif",
+      "id": "Theme_af615d7660b9618f60ede8bbe61f29fc75304d83933d7d7d2eef17e82400239c"
+    },
+    {
+      "type": "Theme",
+      "name": "accès à l'enseignement supérieur",
+      "id": "Theme_f73a24cf114834e69ec89c75e3d762eefc5313a531cc3a85a3b5b521da208f1a"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "formation professionnelle",
+      "id": "Theme_d846003645ad5e5e511208f664265ae5edc2a1f2c5d843f3ff4622d434eb6c71"
+    },
+    {
+      "type": "Theme",
+      "name": "accès au travail",
+      "id": "Theme_035b77cfa991410ed551b6297ed4c2ef573315821163a797d1e0e88e93a6ec2d"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme de l'assurance chômage",
+      "id": "Theme_45fd55bacff422e0401f4b275c29511cecb7fc47978f253be0f5e5d067c4ec86"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscalité du capital",
+      "id": "Theme_c9c67761928a2c0aaf9e97002ac97dd05e5064f9b1cd5cae3e1536f4a3c0b5d4"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes du travail",
+      "id": "Theme_79eac10c5ff048c56ced451ebba4216e0bb622f0ac729246e203a3c0af5a9553"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes sectorielles",
+      "id": "Theme_b91d2e3b869df7cf70e271d57af416e568ee2fa10e6df16bfc53834ef3731014"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement supérieur",
+      "id": "Theme_7358df2b51617f762113656dad284efe5d3bfcb777ab4f84d15615a00bd96f14"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "transition numérique",
+      "id": "Theme_e0a76a48c21ea818fd9ce341506e55efda05bd398e6515f7f291fa137dc24d00"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique",
+      "id": "Theme_82634c5567e29ec1e0f256205be4191228a3b7329a743da05d0f47189c5b7272"
+    },
+    {
+      "type": "Theme",
+      "name": "cohésion sociale et territoriale",
+      "id": "Theme_a48e46247978fd607881fd7647469d32644287d65ca9c0b2caf8f9ce17fe8717"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "robotique",
+      "id": "Theme_7dcf1c9ae964fcab8445c829886a97dfa275fc7995d32733ea41b2b032c91f10"
+    },
+    {
+      "type": "Theme",
+      "name": "protéine",
+      "id": "Theme_4e3d70615edb163be9868967fa19c210c588f8aee114c80e94c092649d82f3cd"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "paracétamol",
+      "id": "Theme_a37bfa9623d39917ca0627e648238af18a5ddb9f70f518c4fd24df398e7cff82"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations de rupture",
+      "id": "Theme_0018121f380805d9837a57f7aff6d9bd013aabac840f93096a01f45c82809919"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation technologique",
+      "id": "Theme_56e05cd703c6686501d6042f262124b8c820fd8c3e444b697ddb1bad04eb11b4"
+    },
+    {
+      "type": "Theme",
+      "name": "industrialisation",
+      "id": "Theme_cecfd01b2ace132dee6e7170039bd2f98c4efee2244dfb0b1dc4adf2be5df5e3"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation en santé",
+      "id": "Theme_817453dcf28df2c26ee53d7b356936ccdd96a8833bd9c2dcb5a6b6680366cd6f"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche fondamentale",
+      "id": "Theme_5b637107b2e6442540f6ca357c9306acb8a414a3fb26c475c58bdf959a08e1dd"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation de rupture",
+      "id": "Theme_15cfadec6c52ce9c8f308f6aa83b4ac35cf91e6a01d1b7584afa46fa4534e02b"
+    },
+    {
+      "type": "Theme",
+      "name": "accumulation du capital",
+      "id": "Theme_e00b72ee7adafe05c55f886d02f3801cfb4293eda247565dd565c56f6bf76d04"
+    },
+    {
+      "type": "Theme",
+      "name": "batailles",
+      "id": "Theme_08ad30b05b069e25bfe07eca145f841b50d614b9ff84a4a17a2af79ca5ae90ec"
+    },
+    {
+      "type": "Theme",
+      "name": "gagnant prend tout",
+      "id": "Theme_7cf7fdd33f92c4290ede3d44a0f012e4d329dc1361b5e5d41574db675f548c53"
+    },
+    {
+      "type": "Theme",
+      "name": "opposition",
+      "id": "Theme_1ddb7b67ee4eb1ba0ed9765f2e442d68fa0c51ffc1d861544bdda42f4b95a00c"
+    },
+    {
+      "type": "Theme",
+      "name": "startups",
+      "id": "Theme_b3fedf1927a7ff9f9b930ba12d4dcb168cbce6318c5601c66dc5821cf26b6a3d"
+    },
+    {
+      "type": "Theme",
+      "name": "Deep Tech",
+      "id": "Theme_77591c1a21ef48f1a8c967a73f7f4b590140a54ee21656c623f1a64e3ee3a98c"
+    },
+    {
+      "type": "Theme",
+      "name": "France industrielle",
+      "id": "Theme_b676c1bdd844054030f4f576b7b6ed681e528c48691acc129c2b48a023463212"
+    },
+    {
+      "type": "Theme",
+      "name": "France des startups",
+      "id": "Theme_30eeb45467c02bcbe1070ca57cc0898a08e6b46b71f54d9d52bce27075417ad4"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance industrielle",
+      "id": "Theme_a2908e2e4ea428a41ac440d47e7851e6b891227f86f7370d84954c7537fb6f8f"
+    },
+    {
+      "type": "Theme",
+      "name": "dépense publique",
+      "id": "Theme_a8265cf0f6670ba05e534f6d96a314e65b318185a8145429d94a4f2106d1635f"
+    },
+    {
+      "type": "Theme",
+      "name": "impôts",
+      "id": "Theme_e039bfc7ccff8aa85085db8ce217e7430b68e294f8d0bde57c171f438f07c4c9"
+    },
+    {
+      "type": "Theme",
+      "name": "trajectoire macroéconomique",
+      "id": "Theme_29bf020a6042ad4a09e67a80af22d014b91b48fe465fb2071b64d37eb9d54706"
+    },
+    {
+      "type": "Theme",
+      "name": "défaite",
+      "id": "Theme_5d2e2dcea020c3163e796cf50110e069d136e8ea9ac56b7378e31ce59ea96783"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance potentielle",
+      "id": "Theme_c1de677e8cd6efdeaf9ad1b270f4722f4ab40f151cdb12419093d04e86631e79"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie d'innovation et d'industrialisation",
+      "id": "Theme_b9b2dd23143e381ca52bcb57416ced17f7799d1e1cab454fdd1bb279466e4df9"
+    },
+    {
+      "type": "Theme",
+      "name": "loi de programmation et de modification",
+      "id": "Theme_fc3be74a7c68fd7638e36c06c55197c56400365e996911d9f00485417f797da7"
+    },
+    {
+      "type": "Theme",
+      "name": "rattrapage",
+      "id": "Theme_e347253122aaccf837ad8907dcd88c59c4ed23a3742d6e812ba31c6b0417c8df"
+    },
+    {
+      "type": "Theme",
+      "name": "déficit de croissance français",
+      "id": "Theme_a1167a2bd1414ab82e94efe32d1c0d24380403621179f2d6910b0378982e1cb2"
+    },
+    {
+      "type": "Theme",
+      "name": "leadership",
+      "id": "Theme_036cad7a6846a7baecd836858d5b209056188f46e3d5171aa4c5a85110511636"
+    },
+    {
+      "type": "Theme",
+      "name": "compétition ouverte",
+      "id": "Theme_ce49befa65a24a61352ee3d33ee5d47251d8d9d8327a171b522cd39e38488f99"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité à reprendre en main le destin",
+      "id": "Theme_faa4dd049287ed13660cb8799d95ef6c47d2f4088550c53baad9d1d4ef0e323e"
+    },
+    {
+      "type": "Theme",
+      "name": "mentalité",
+      "id": "Theme_cb1e8d88a02586eb44d52987d14eb239eb9e43b0144fd6332e073bf1999733df"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle de nos vies individuelles",
+      "id": "Theme_e22b751036af53649d54e99c5762a4bb112086fd4817cf223aed354f3d438a59"
+    },
+    {
+      "type": "Theme",
+      "name": "destin de notre nation",
+      "id": "Theme_f4bab3060da4d579da132503cde0b2604a5812b91c86d4e10ec2dbd8b2ae94cc"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme",
+      "id": "Theme_d10bce3b67531a6774cd57104a434124f2a796f10cbfff22bb37dbeba66cb515"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "Lumières",
+      "id": "Theme_6732c62137d1ca5442c751181b48396d98b70fee8cb1aa8e0c63bf00da0f0544"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès technologique",
+      "id": "Theme_46df60fb3a9bca6d20189a522e6249ba193bb9a996cd132db46ca7f087bdeb88"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle agro-alimentaire",
+      "id": "Theme_6603908a91b7af6d07a187e33434b727b54e105373e0be0c28a5c0c5d83a6b13"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle d'innovation",
+      "id": "Theme_a4563148834b7a7e403348794f57aab06cb7202aa4421184ef82f644e816d6d9"
+    },
+    {
+      "type": "Theme",
+      "name": "respect de la vie privée",
+      "id": "Theme_2d8aab16dec3d53e0c85b225e2506f653692abfa587076c9820a86234d2e47b2"
+    },
+    {
+      "type": "Theme",
+      "name": "meilleure qualité de vie",
+      "id": "Theme_391d0e55a983261bc317e81ed151cc690e666eaf4229253c346449206b4f020f"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme du XXIème siècle",
+      "id": "Theme_23c975650cabb95e278222b3c979f461ae914139f4862ba38d411318bca2bd92"
+    },
+    {
+      "type": "Theme",
+      "name": "mieux comprendre",
+      "id": "Theme_328cc3613c1ab6ce4056fa381ed968da51a879d2ce0672cd786db44f0b919faa"
+    },
+    {
+      "type": "Theme",
+      "name": "mieux produire",
+      "id": "Theme_5a10cb7dbefd3d261874e3525e4157b746deb1783497cd8182b98a760c89829d"
+    },
+    {
+      "type": "Theme",
+      "name": "carbone",
+      "id": "Theme_88dffe735e7fae4c0d1aab165fdb44afd8d6e9582246e923413a6f6a30057cb8"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "objectif",
+      "id": "Theme_29c488245007257e8171306ee30a7c3ad29bf0cdb11553f8897161573c083a67"
+    },
+    {
+      "type": "Organization",
+      "name": "RTE",
+      "id": "Organization_5f5e635460f5142575ed22506997cedd8e98182718cab4a1bddf68ae0a62a0fa"
+    },
+    {
+      "type": "Theme",
+      "name": "production de l'énergie",
+      "id": "Theme_225fbdee3cced21451dae8aa61beb3e2f830edc5fd20e2205831ac53c293e9ee"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "CO2",
+      "id": "Theme_7fc01d78548a70f3e577bcd09088ef66dd6d98ccb7b0925fb654e36dc2d88acb"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies de rupture",
+      "id": "Theme_89dc019f65c712f7a2aa9a175fb911e9df9c85862d686dc72ffe19a2d0cf2257"
+    },
+    {
+      "type": "Theme",
+      "name": "transformations profondes",
+      "id": "Theme_65e5be07b582f36c1f76dc16176c3b0e2be20fb6398f740381a1a61daa3a52a2"
+    },
+    {
+      "type": "Theme",
+      "name": "sûreté",
+      "id": "Theme_273e55d914b2530655aa2c9872bf14d33fbb827b1295654fb65ac3410e1395ca"
+    },
+    {
+      "type": "Theme",
+      "name": "gérer nos déchets",
+      "id": "Theme_f5691a6fd875199e94f1002fa9aa36aaae5f461389c2adb8b5ce504376a585ce"
+    },
+    {
+      "type": "Theme",
+      "name": "small modular reactor",
+      "id": "Theme_b00ae6868517adda3587774cd65fe88e89228447a45a8c8681c20f44aea1c061"
+    },
+    {
+      "type": "Theme",
+      "name": "industriels historiques",
+      "id": "Theme_b6daea5c1e5d3ce10bec0a89712673faebdd0ad373bb49cd7e995cccec39be90"
+    },
+    {
+      "type": "Theme",
+      "name": "entreprises de taille intermédiaire",
+      "id": "Theme_f0238f8b488be71ac379488481325095eb9e34c99e96d816a9f58bbc80235553"
+    },
+    {
+      "type": "Theme",
+      "name": "start ups",
+      "id": "Theme_971f9660e354efc2d53dc8434f3c5e5bbf50619448faca93de30b99de6b1d927"
+    },
+    {
+      "type": "Theme",
+      "name": "PME françaises",
+      "id": "Theme_19767032f65a89a18a75403b0a976a1452c63ae5630b299aa23b32d89b3e49ec"
+    },
+    {
+      "type": "Theme",
+      "name": "coûts",
+      "id": "Theme_1220a88b0179f35071f650e65632a8690c06a0ead3bfdb8ebc5484604fe34d79"
+    },
+    {
+      "type": "Theme",
+      "name": "déchets",
+      "id": "Theme_4390b1fb338ecd5ed5f931d1775787ca1d8b80b00097080005096c9f345a427e"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène vert",
+      "id": "Theme_612c36353e1ff8bc7a963e7f1154f5e0be36458a5e253ad3458d61c6a1157a88"
+    },
+    {
+      "type": "Theme",
+      "name": "électrolyse",
+      "id": "Theme_862d3972bdc22263798336665b8426789ee5441eb25604dfc13f240bee79734d"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies renouvelables",
+      "id": "Theme_912e2c1b6d76c17cfecb65f028f348cae97ce3cd43f48890e5f528fb3273c56f"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène",
+      "id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "type": "Organization",
+      "name": "Air Liquide",
+      "id": "Organization_ba496eeb9ef559e5ecbcc438516ae7291c8a97cbb0ef9d52db3be742f2bccb3e"
+    },
+    {
+      "type": "Theme",
+      "name": "décarboner notre industrie",
+      "id": "Theme_0f5e1584628d81360ce31327149c47d306f726e54f31048d89cdd80c3aed0bd8"
+    },
+    {
+      "type": "Theme",
+      "name": "alimenter nos camions, nos bus, nos trains, nos avions",
+      "id": "Theme_aaf4c94677bb97bb91135bab7939f8358c98ae622a5d375297970510c0eafc22"
+    },
+    {
+      "type": "Theme",
+      "name": "deux giga-factories d'électrolyseurs",
+      "id": "Theme_6c9683685d511b66bd677bf8152e737766369f5bdc92a96fbbf869b0e4d06063"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies utiles à son utilisation",
+      "id": "Theme_ba04b7343d418ee2b8b013ab8a15ca5d9e45f401268e3ce10d6140a679035fc0"
+    },
+    {
+      "type": "Theme",
+      "name": "produire différemment de l'énergie et de l'électricité",
+      "id": "Theme_e3c57fcba61ccec80ba82a19acd86618ca21b9e3e2833cf54571655091820afa"
+    },
+    {
+      "type": "Theme",
+      "name": "plus décarbonée",
+      "id": "Theme_c635d9f82eafdb5a5a58a162a8eea2b7749ceb1a11b5080b9433ab17912239bd"
+    },
+    {
+      "type": "Theme",
+      "name": "baisser de 35% les émissions de gaz à effet de serre",
+      "id": "Theme_c79becda18374154d2c1e2300658ca9698049e35f4aecb5e717bf4479ae10c2e"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement public et privé",
+      "id": "Theme_093f642d5cdff92f8d7c21b47ae7f649ef9e66ce88f936b19da408a7046ad205"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité productive et industrielle",
+      "id": "Theme_556c6d09ec2e50aadf4186aee831bfe7d608185fe6bb5b11d284ba00d81e94f7"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanisme d'ajustement carbone aux frontières",
+      "id": "Theme_fc889b93c94867d2877727e9e2a2e28a8c468ed8309359645d2ec2cb9424cc43"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "digitalisation",
+      "id": "Theme_3a6d68b16ca65079e26ac038b86cf2a16685f1e174b326788303439fab0853b4"
+    },
+    {
+      "type": "Theme",
+      "name": "robotisation",
+      "id": "Theme_41ce0ca7cab5d31bcfbe409aabc0eada492ed50a946bcb8a2289771a1a9bafbc"
+    },
+    {
+      "type": "Person",
+      "name": "Frédéric SANCHEZ",
+      "id": "Person_56ac9209aaab3aa1c29192d16127011446ad1287d1dc1f289827f53b2a9aa2e5"
+    },
+    {
+      "type": "Organization",
+      "name": "France Relance",
+      "id": "Organization_0b6dbafd2447e94a384c19a603a7e31d1bf2e1add30f766e9c4d1d65c8698903"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Theme",
+      "name": "industriel",
+      "id": "Theme_f4a0cd2a3677e7ed90924f359616e647a4a4b1296fad61661f9f9c73e1c82f5b"
+    },
+    {
+      "type": "Theme",
+      "name": "modes de transport",
+      "id": "Theme_b47efb97c551e1ec0334cac3a84b5e944181a0591b1819729f49882b15480609"
+    },
+    {
+      "type": "Theme",
+      "name": "parc automobile",
+      "id": "Theme_2020da34522b033dd5757194771ab9b93b8ec9c2789f82e1cae192c7a68bc9b8"
+    },
+    {
+      "type": "Theme",
+      "name": "transport collectif",
+      "id": "Theme_f45f80392fa14d1950ff1003bc9babdbdc12f7f8b845060245eb01524d23dcb6"
+    },
+    {
+      "type": "Theme",
+      "name": "déplacement",
+      "id": "Theme_f06b495acf2cfbc807760b795a6b23429aefaf5ced4c51ff27c162a3ad7ba1ca"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie industrielle",
+      "id": "Theme_d2deab5ce79fbf100d2436325b9b57c661113458286f2c0607cacac7dd65e714"
+    },
+    {
+      "type": "Organization",
+      "name": "l'industrie automobile française",
+      "id": "Organization_fe0729ba5556594307e766b6d25256e839dcbe443e48c2f751e0adc49e23b784"
+    },
+    {
+      "type": "Person",
+      "name": "Luc",
+      "id": "Person_016ac450bbaf792e8129f9499bb441cc79b0fea6b0d43c79e2ab86dda820d57c"
+    },
+    {
+      "type": "Organization",
+      "name": "la plateforme",
+      "id": "Organization_f6ce92d3637a6e172341ab1ffee2d82deb598da206f0c1d52f1dc140a0771eac"
+    },
+    {
+      "type": "Organization",
+      "name": "les grands constructeurs français",
+      "id": "Organization_a826cfe5344a46c131ddc017a87f1a28e2ecfd284d1d77d83b4854a437651f6b"
+    },
+    {
+      "type": "Theme",
+      "name": "véhicule électrique",
+      "id": "Theme_c7e2a9c158517cb146b811451ff12650da8834086b81d5b1db77a664f23bfffc"
+    },
+    {
+      "type": "Theme",
+      "name": "giga-factories",
+      "id": "Theme_35932092ce68cc867a6a58944cfdb03f811722341343856ce1df95c1399d4fe5"
+    },
+    {
+      "type": "Theme",
+      "name": "segment véhicules",
+      "id": "Theme_4e2dc71d34f67ccf595e29fae61e47725b43e55d66b15fd0c4456462066fda5d"
+    },
+    {
+      "type": "Theme",
+      "name": "segment batteries",
+      "id": "Theme_4b069d21ace4df05c333031bc5f611f8b99a4b58c02d2fdc7f26de46e629b1e2"
+    },
+    {
+      "type": "Theme",
+      "name": "transition énergétique",
+      "id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie de transition énergétique",
+      "id": "Theme_4aea3cea18e7963c3f69ab25227f6ad178791a86f1ca5440eafb34c6f3d0889e"
+    },
+    {
+      "type": "Theme",
+      "name": "production industrielle",
+      "id": "Theme_dd9eef4f224d2b6fcbdf0a4d0bd7bc918ef3d6dbd85ce5c700fc808627451d8d"
+    },
+    {
+      "type": "Theme",
+      "name": "avion bas carbone",
+      "id": "Theme_025a09ef70697b1694c3a6b75df56a44f4e5b447fa4eb4d44bdbb11e2b2caefd"
+    },
+    {
+      "type": "Theme",
+      "name": "processus passés",
+      "id": "Theme_9ab14d2b0b51ada4c99a09a85663cc19b534b867ec0d5aa3b232e89d21324dd3"
+    },
+    {
+      "type": "Theme",
+      "name": "avion de combat du futur",
+      "id": "Theme_4414e5e70b6e836c9eff21611d905ea58c2ec208add3f4cd3940be21b6b47ad3"
+    },
+    {
+      "type": "Theme",
+      "name": "grands groupes industriels",
+      "id": "Theme_0db54ff8ba2825414724bd4e51558bdf30398ca05f5b32d6b10c54170073aad6"
+    },
+    {
+      "type": "Theme",
+      "name": "automobile",
+      "id": "Theme_0d8fe91ee5d13a11b2f8cdf024edbf4a4c18c1cf149667d4cbedfbc587eb7f9c"
+    },
+    {
+      "type": "Theme",
+      "name": "aéronautique",
+      "id": "Theme_75d0f3d5ff64c56475546f5da42c78e140e4b2c5b8253cc541c75517a1fd1d42"
+    },
+    {
+      "type": "Theme",
+      "name": "futur",
+      "id": "Theme_f2be055a4c8fb180c91c7b6145c207571d430d8fdc8ca459b7dcf2b4eb979c61"
+    },
+    {
+      "type": "Theme",
+      "name": "alimentation saine",
+      "id": "Theme_447ccea4f12febf023b501d4024f3cf14406f60827659ddcbc2e2cd8da2dd28a"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution agricole",
+      "id": "Theme_142fd15a0ba77ef22bcabe3b1755578038a6ced21047b752c797b7c99c855488"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs agricoles",
+      "id": "Theme_88bf8e88ac6772fc96acb5e4ed66af6424ef00aca68208c35840832f1459d9ab"
+    },
+    {
+      "type": "Theme",
+      "name": "nourrir le pays",
+      "id": "Theme_de2f82529a4d545d0f0c1b485e5d61c86bdceff2c30dbd59eca37b25ef5254a8"
+    },
+    {
+      "type": "Theme",
+      "name": "nourrir une population",
+      "id": "Theme_ce0ee7656d74eb37e841418e3340c4074f9114270a057d267d83d42fb80300b0"
+    },
+    {
+      "type": "Theme",
+      "name": "transition",
+      "id": "Theme_e63e6ab1512da86e741fe3d7ec082523f6b684c749eb3aef27e0dfd412c0a6b6"
+    },
+    {
+      "type": "Theme",
+      "name": "valeur",
+      "id": "Theme_5d2c6cf72920e0e1284fb097f9df226aa7b78ef0173abebfc6ba002b392f08fd"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "transitions",
+      "id": "Theme_aa3ee347ba6c5f4d2bb55dfd18c3c5c4bda473e86ea842a97281720181e7e101"
+    },
+    {
+      "type": "Theme",
+      "name": "Egalim 1",
+      "id": "Theme_fda2e428d7a56e2980419f76a6551a81ea603547dad1e1a042d850850e59a22d"
+    },
+    {
+      "type": "Theme",
+      "name": "Egalim 2",
+      "id": "Theme_54f4518707e9c2208e733e20ef6dcc7427b59d5ea0f8d2f5a18d51b862580c88"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégies de filières",
+      "id": "Theme_dfcfd9d90a59eb250d0861518c57fbe7cab5a70c3b7308b8ab36e9aec8d906e2"
+    },
+    {
+      "type": "Theme",
+      "name": "PAC",
+      "id": "Theme_a0c16c10c88bc4b00e359d90d6638db9831501f07ebf98108ca27b7bab679117"
+    },
+    {
+      "type": "Theme",
+      "name": "transition démographique",
+      "id": "Theme_5a223223630b9625f9a9d92d2745994fae863df10e378083408789e55b1d0d23"
+    },
+    {
+      "type": "Theme",
+      "name": "transfert de transmission entre générations",
+      "id": "Theme_a742245c833c98c0f23917efa1282e5346e7928feb1dab5bbe5714f64349e714"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité",
+      "id": "Theme_3ca1b64490b5262af08e9f6b9b23312ee1d75f2317299eb58ba6eb450eef6651"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité alimentaire",
+      "id": "Theme_7e52509eac677cedce8c74931d740f347eef87354c862f58f6c50a307496bc02"
+    },
+    {
+      "type": "Theme",
+      "name": "génétique",
+      "id": "Theme_53dbcc4e81da94422625d96d605ad0f3b7f919509ad4c00a3f50bd9e23528da2"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "émissions de CO2",
+      "id": "Theme_3ce10c110531f4f377f44c96d8cbe1cb4d701d3f340b44ddf77f942c9d16c9e4"
+    },
+    {
+      "type": "Theme",
+      "name": "alimentation",
+      "id": "Theme_c513edee71bdf794af7ba878fb763b9cc4a3e831c494d701c86bdd518ebd85ab"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture française",
+      "id": "Theme_5053e8178e2f96742c960ebc0a2396546b158f0c0320c931f2999bebc8fc75c8"
+    },
+    {
+      "type": "Theme",
+      "name": "mieux se nourrir",
+      "id": "Theme_d659e89c18ac8f45b9e5d7b51676809eb31d66c5f36a07116fb737228f95318d"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation profonde de l'alimentation",
+      "id": "Theme_926ed349d0053b69ac04f19ec61b2914dd255aa8f2e9005722c4cf635acad88b"
+    },
+    {
+      "type": "Theme",
+      "name": "Plan Santé Innovation santé 2030",
+      "id": "Theme_99d07ae3cbd1e891869e2c3183ca2f132f530a0f868073e0a981f1c9cd694042"
+    },
+    {
+      "type": "Theme",
+      "name": "Ségur",
+      "id": "Theme_6d078bbb77017692f291750a789582439fb5783feb5536b660eeb2561bf5e15d"
+    },
+    {
+      "type": "Theme",
+      "name": "CHU",
+      "id": "Theme_cc78e08ea9d7c33b24759eedf108077f2faf7bca6c350b2571ec81c9169e14f9"
+    },
+    {
+      "type": "Theme",
+      "name": "système de santé",
+      "id": "Theme_2657aebfbbfb5694ad4f18f7234ec7531dfc35b68b63242c708fb8b908b3b060"
+    },
+    {
+      "type": "Theme",
+      "name": "production européenne",
+      "id": "Theme_4c6e123ac91186d3102b7ac2688f0ef21b154d342a0af374da7f6e07d5a43604"
+    },
+    {
+      "type": "Theme",
+      "name": "désindustrialisation",
+      "id": "Theme_b3dfa7b0ccdf0ab4739fefeb64d85d03955757f5756af9cdbfc25b017f494128"
+    },
+    {
+      "type": "Theme",
+      "name": "biotechs",
+      "id": "Theme_170aac11c71a2cfc70842772e447a4783110ceb57cc0d54b34714aa0583368d3"
+    },
+    {
+      "type": "Theme",
+      "name": "traitements les plus innovants",
+      "id": "Theme_356eb8baa1994a25c89cc6b3e7a66107cbf2c31491f46db74ae1990fdf77ad93"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle",
+      "id": "Theme_72f49d4244df6301ed5e6c5a29a183744c3ebad8154a2d585d61455a6de2b287"
+    },
+    {
+      "type": "Theme",
+      "name": "santé innovation 2030",
+      "id": "Theme_e4b6b91a6ae3998498f20e9b099a19e12c3b9952b5959ff98e85e23d4c62ded0"
+    },
+    {
+      "type": "Theme",
+      "name": "médecine plus prédictive",
+      "id": "Theme_f7abbcb09f72ba127c76eeda5020e1f51bdbde70252236105d4f878715ffa2e6"
+    },
+    {
+      "type": "Theme",
+      "name": "tissu productif davantage fabriqué en France",
+      "id": "Theme_c9b783b0f7368eea6a68ef4205590871c85832c74869c58f8d73542b8cb6d7c2"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution médicale",
+      "id": "Theme_9f7bd284290198a31e800e638ead05b4bb397b3c5c5b17ae7f4146bb172d43fa"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence des innovations de rupture en santé",
+      "id": "Theme_3322da2df119ec228a47cbc3652479db884d0a2bef7e58b2db66178cb616cd7a"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence avec le quantique",
+      "id": "Theme_971b0df9dcec14c3d792bb8472cc5d2a1a678a8cfe46845fe723d9d42031b587"
+    },
+    {
+      "type": "Theme",
+      "name": "meilleurs traitements",
+      "id": "Theme_3a9a0bee09f8cf37259cafd4f5b5f0d437dd328b55ad3867659bc7e7dbb9cefd"
+    },
+    {
+      "type": "Theme",
+      "name": "défis d'un pays vieillissant",
+      "id": "Theme_0a877f1c2ec84acb9e413f89793f48d32d852d8954dadb2907c47808ec3d7c16"
+    },
+    {
+      "type": "Theme",
+      "name": "maladies chroniques",
+      "id": "Theme_57178cca0419ae26312b9967976059ab7b2985410eae03ad24b2f0e9c5b9b210"
+    },
+    {
+      "type": "Theme",
+      "name": "explosion de nos dépenses de santé collective",
+      "id": "Theme_8521cc7ca15787189015f1abf547a852821915cb59a1a367d08949d2373bc4b1"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement dans des techniques de rupture",
+      "id": "Theme_3d2e3378f01cdea71f5d4cc5591b6890172cf30f8762fc340c600648677dfbe3"
+    },
+    {
+      "type": "Theme",
+      "name": "loi de programmation pluriannuelle pour la recherche",
+      "id": "Theme_272a01855db2e27bf274efeacd6915921cbfb9fb8dfb4553551fcf64acb05cb1"
+    },
+    {
+      "type": "Theme",
+      "name": "biomédicaments contre les cancers",
+      "id": "Theme_84d32c2a44a896cacfbdff5acea6696d48a00b19391c0b6720a6b9f70b09d702"
+    },
+    {
+      "type": "Theme",
+      "name": "maladies émergentes",
+      "id": "Theme_8e083621b947cafdb266ba0c4b0b8ee894799ffc3120c45b98029ca17bcc2459"
+    },
+    {
+      "type": "Theme",
+      "name": "dispositifs médicaux de demain",
+      "id": "Theme_15b02287b10d4ece4b0c9a52b3de2bcdaf1af38aae30c2cdc2c8befe356f7c5f"
+    },
+    {
+      "type": "Theme",
+      "name": "Agence d'innovation en santé",
+      "id": "Theme_8a9d6de8efa1de84594de99a53f403d8fbcafdc5f8e06ee648721ec9d96cefbb"
+    },
+    {
+      "type": "Theme",
+      "name": "imaginaire",
+      "id": "Theme_6ac92e4d33657848e6331aaaa3cbc71675b72a187a862bb09c959b8bde0ca715"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme français",
+      "id": "Theme_b09ad6fca4132eddd5f3f617cf3eb866895a9f08b0cadde78a57800ce0911e24"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations et de ruptures",
+      "id": "Theme_4ed83e54d3ac9479c50bd0d5e339f0a95d553e2bc09e62e84362f921a391f7f2"
+    },
+    {
+      "type": "Theme",
+      "name": "industries culturelles et créatives",
+      "id": "Theme_ef14ef4d2275ddcba317f38a70bd25b9aaf03efd3b3c01da30d5b59ac891fb7a"
+    },
+    {
+      "type": "Theme",
+      "name": "industries ouvertes",
+      "id": "Theme_bb1e7a343f482c486ca41d4b0d4f826731d8fa37080173b39bda731e6bba530e"
+    },
+    {
+      "type": "Theme",
+      "name": "séries",
+      "id": "Theme_06902b517f2c8e1f31d99e86a29de0be58f3ce868548f0a0a28cae86546f1014"
+    },
+    {
+      "type": "Theme",
+      "name": "films",
+      "id": "Theme_9920e5fafe3b9e65131dc98e14d39ba34614840fc15efb717b13dafdaac5fa2a"
+    },
+    {
+      "type": "Theme",
+      "name": "jeux vidéo",
+      "id": "Theme_5a2eaacc250b14ef37719cd9995f8af51378b769344377493d7ce1c05506c244"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelle anthropologie collective",
+      "id": "Theme_72264748e36ad5b6838c6ae6c56612b8d54f23d924195d621aa472d1319377fd"
+    },
+    {
+      "type": "Theme",
+      "name": "littérature",
+      "id": "Theme_78ba2a7bd2758a35334d63320c788ed0003767d14ad19f765bce76ab995a9af9"
+    },
+    {
+      "type": "Theme",
+      "name": "création",
+      "id": "Theme_a463f772ae14adf1d9f578edb8f3a9be473efc5135b65450d927e8cdeac7a890"
+    },
+    {
+      "type": "Theme",
+      "name": "philosophie",
+      "id": "Theme_95dfb74e61b315c16ffccd0bb268c8867f9b448de52ed356f42cf55990b73d5e"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "scénaristes",
+      "id": "Theme_17cfe5a6439a3e08dc4d5dcdbbfba0e6337cdf09e09f2ec43829289f3187ee4a"
+    },
+    {
+      "type": "Theme",
+      "name": "fictions",
+      "id": "Theme_b99cc65bd487247cf1638c6d35812360c63f68625ba9eaa8b9445e6f14cf2947"
+    },
+    {
+      "type": "Theme",
+      "name": "patrimoine culturel",
+      "id": "Theme_e85a88c0398462ae8d45cc107dbc15cc12e2d33e40b12d9faa8e45ed2a6bf412"
+    },
+    {
+      "type": "Theme",
+      "name": "création contemporaine",
+      "id": "Theme_93776f1dd3a9174c65eb96056dd8dc5c1f064d2888099a07468b0e597dc5b8dc"
+    },
+    {
+      "type": "Theme",
+      "name": "exception culturelle française",
+      "id": "Theme_b313db39502e7aaae7e3adf86d6676fdd76022de8949945d213145dad0a26ebe"
+    },
+    {
+      "type": "Theme",
+      "name": "droits d'auteur",
+      "id": "Theme_1755746a1caee55b8dec279ad2c459a22b7070dddc3bea63e3753fba6d9c1e4f"
+    },
+    {
+      "type": "Theme",
+      "name": "théâtre",
+      "id": "Theme_5a4996ec4007d752ff4ac49ddc160a37fe6925ddc43105a2820d6effa6856aa7"
+    },
+    {
+      "type": "Theme",
+      "name": "cinéma",
+      "id": "Theme_1535a7883e8329d1216c195b6afd3d5bc6d95b6cba0353551bde9b1592e3fc37"
+    },
+    {
+      "type": "Theme",
+      "name": "uniformité mondiale",
+      "id": "Theme_307d9490edd7970fdc747851883b46bf90a24b597cabf4abaa37dc1164f54ef6"
+    },
+    {
+      "type": "Organization",
+      "name": "industries culturelles et créatives",
+      "id": "Organization_071b6282d9cbb8e983979b8283c727873532d74306dffad2314a502e7ec9e96b"
+    },
+    {
+      "type": "Person",
+      "name": "COLBERT",
+      "id": "Person_f5412e57723425daf42ac2fc4933ccabcea3c7b74c25c361d8a60ebbab4a4a6e"
+    },
+    {
+      "type": "Person",
+      "name": "MALRAUX",
+      "id": "Person_0ce61647fce54f1f571d92ca89b3e92f71c946262711d7ebbf0465fd715a038d"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "développement",
+      "id": "Theme_9f563f6fb56281bb29449c280e882333dd332f1e1e2aa5ff1e49c8654dc6f9a4"
+    },
+    {
+      "type": "Theme",
+      "name": "contenus",
+      "id": "Theme_a3b209352551cd7fa8cda5d0b67cf6201447f0c4b7e12bccaf9399ec9924e87f"
+    },
+    {
+      "type": "Theme",
+      "name": "techniciens",
+      "id": "Theme_c1f1a1c01085b06df6a3041cedae4d7e26f77fcc236165166f459cd19c2a2ce2"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers",
+      "id": "Theme_305de45577953bd04165ca22cf0089e5defd686499397a72c39942ab978c3083"
+    },
+    {
+      "type": "Theme",
+      "name": "qualifiés",
+      "id": "Theme_f64d634880957e6cf57532d70e85c87c31f6ca09d913b533f6ce58543463177b"
+    },
+    {
+      "type": "Theme",
+      "name": "créatifs",
+      "id": "Theme_c159bd8d28972f08e0c6543b3b16cbb8ad5226d22a317f5a257f99252139bbfb"
+    },
+    {
+      "type": "Theme",
+      "name": "diversité",
+      "id": "Theme_6cc4bb1678e642d4ee3f4b5dc04bc554310abfe7ca2c11509232cbba37f90a92"
+    },
+    {
+      "type": "Theme",
+      "name": "mieux vivre en 2030",
+      "id": "Theme_39d43489dc4a5f9ff980a5c2e71ab55b02568c6aeb332578f40a8349e2890084"
+    },
+    {
+      "type": "Theme",
+      "name": "espace",
+      "id": "Theme_1079951084765f97ec568b6af52f4f01fb8e7320c4a80499a9534a7cd945d3c6"
+    },
+    {
+      "type": "Theme",
+      "name": "grands fonds marins",
+      "id": "Theme_749d6cbe7899f5d01e730965a9dccbad8b8602f1b73f23713fae6dbabb3ed0ca"
+    },
+    {
+      "type": "Country",
+      "name": "2030",
+      "id": "Country_8a2f7b371e2e553d2639d85b5a407034e9653500d44124efc250815c4a819e34"
+    },
+    {
+      "type": "Theme",
+      "name": "technologique",
+      "id": "Theme_6faf403f653ffc842186e1192d1b144875f75b192d91950d019299d189088ace"
+    },
+    {
+      "type": "Theme",
+      "name": "industrielle",
+      "id": "Theme_e698cba2afc53a99afb37c632a479ddd19fbe25308b4d47210b68af0fa3d2650"
+    },
+    {
+      "type": "Theme",
+      "name": "usages",
+      "id": "Theme_dd74e63129fce51757864287cbd497fd10bf02f5d91c8b5e0ca7009628785bd0"
+    },
+    {
+      "type": "Theme",
+      "name": "géopolitique",
+      "id": "Theme_c3c610b50522db7d266b422a266b556f7825401c0d3b51ae9196e65d10f33b65"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "explorations spatiales",
+      "id": "Theme_0028216554af7d82fa8fc681de34a1cb6de3340bbd4a1034c350831052efdbce"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveaux usages",
+      "id": "Theme_62de013e581a0dd98fcec114a1951c51a5a29f5b7fedf308f7bd14a8e908afc8"
+    },
+    {
+      "type": "Theme",
+      "name": "sûreté dans l'espace",
+      "id": "Theme_2bf469aaa37b28ef8e2c6474369c01dfdc3dcb2bb0f888faee021a5ccf0f5542"
+    },
+    {
+      "type": "Theme",
+      "name": "exploration des grands fonds marins",
+      "id": "Theme_843d1e1613f1518b6d0acb9e244e7c70e31af2c6eaadb35bad51802100727afb"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation en termes de santé",
+      "id": "Theme_e6fe206c86605947238b786430926afa5a093c31d97b831ce7c089958713492c"
+    },
+    {
+      "type": "Theme",
+      "name": "biomimétisme",
+      "id": "Theme_4c85f6f5ea059adcbd01eb1f3d518be72d3337ce62c86aa6c5851fab62fc5d13"
+    },
+    {
+      "type": "Theme",
+      "name": "accès à certains métaux rares",
+      "id": "Theme_de922a958755084a7028f0376fc58a26a4410fd4f6be23dba0029abf88aaa85f"
+    },
+    {
+      "type": "Theme",
+      "name": "compréhension du fonctionnement de nouveaux écosystèmes",
+      "id": "Theme_2efbfe1b2c128f79a83077268be968a994cfe459f0cb3345379a88ea5e660156"
+    },
+    {
+      "type": "Theme",
+      "name": "vivre mieux",
+      "id": "Theme_f699bbe98a068b065df359c2bcbd9d33c84c14426b34e6cc11f54cc0ad248239"
+    },
+    {
+      "type": "Theme",
+      "name": "grands défis du monde",
+      "id": "Theme_d71d783ff85b2a49ffe95a6d58af9884ca2fb4faedd8132d0f728a71faf0a1dc"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes macroéconomiques",
+      "id": "Theme_a2ad508491df41e12cf0ad373b6778f64fda287b2aeec36e2d7d41c142788371"
+    },
+    {
+      "type": "Theme",
+      "name": "10 objectifs",
+      "id": "Theme_f35ff7fb9066545780b88cab1437aa2fd456c8b188361337893392d40adb0fb2"
+    },
+    {
+      "type": "Theme",
+      "name": "vivre mieux en choisissant notre destin",
+      "id": "Theme_ceca61c5e78a2e4c8c7b4af2184f5c397e82d55c991d19a8694e1f488a830114"
+    },
+    {
+      "type": "Theme",
+      "name": "économie circulaire",
+      "id": "Theme_c93a4be8fd3388cf648eb3a4d186c022f82f2a0a4b99d9e0f647327fa3be01a5"
+    },
+    {
+      "type": "Theme",
+      "name": "rareté",
+      "id": "Theme_2b16790b100eac813804de22734e0e680f791ad11ff685783722ad3a481eca61"
+    },
+    {
+      "type": "Theme",
+      "name": "accès aux matériaux",
+      "id": "Theme_3806de6bb17050c41370891afb4f35d22800ee7d75da1a3ccf07dd576e0f1307"
+    },
+    {
+      "type": "Theme",
+      "name": "approvisionnement en plastiques et métaux",
+      "id": "Theme_379db677c12d2fc744845d293545356d4d58d15df21dcae1fcb06a24fe273b42"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance à l'importation",
+      "id": "Theme_246f97738b6fa6694cec0b3a1a8b9e6fbe79020224657fce9dfa9db950007660"
+    },
+    {
+      "type": "Theme",
+      "name": "consolidation de la filière bois",
+      "id": "Theme_3a0a17714c782240808ff0f8e2fdfda22c6815265facef436406b398c98fc1a9"
+    },
+    {
+      "type": "Theme",
+      "name": "moteurs électriques",
+      "id": "Theme_2e1c673c7d36032fc78385f44d673a77d1f430a05c7bcdbdf45523d2e6630285"
+    },
+    {
+      "type": "Theme",
+      "name": "terres rares",
+      "id": "Theme_f7252f0b63c5dbd962be628be26728a4d12c2de743c24a064bdebad009d3acdf"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions aéronautiques au titane",
+      "id": "Theme_99f4dbfcffa04d6bc94d28e1694c33f95e22a2ffa1a9b3abff69144fb98fbf1b"
+    },
+    {
+      "type": "Theme",
+      "name": "cartographie de nos dépendances",
+      "id": "Theme_891ae807cb08da7d69524f52c58630b1a279fd672639c1b301ffb5a7d4be2092"
+    },
+    {
+      "type": "Theme",
+      "name": "chaînes de recyclage et de réutilisation",
+      "id": "Theme_79274a16c222c81686b8c1f5279a639e05a71294804981bac7da6272d708d73f"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurisation de l'approvisionnement",
+      "id": "Theme_52f67d38a49ba35d0bad2f863c871061c73c5ba0a4bb689d8fb7d1dd4bc2b69a"
+    },
+    {
+      "type": "Theme",
+      "name": "recyclage",
+      "id": "Theme_110a35edaf41339b012b1a6ef4da87c96d5dda347f6e851a86d1e5afb8ece38c"
+    },
+    {
+      "type": "Theme",
+      "name": "recyclage chimique enzymatique",
+      "id": "Theme_47a8f3532f2aed1354f6307d2c0c06ad58ffd231e99f1884690de43627be87ce"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie européenne",
+      "id": "Theme_9f2d9669fd6bd7f0c519e9178f9aa5629f4017072e03d9dbd959f30f0e1c4ee3"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie française",
+      "id": "Theme_8cdaca846114ae3aeedc9e5960497780fade78255228f7d9cb5c417a626cc7fe"
+    },
+    {
+      "type": "Theme",
+      "name": "production électronique",
+      "id": "Theme_58c66f8ea18bff2cb3922cbe465ac8b56587c98d3fefdc92b7a0d47071190955"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence intra-européenne",
+      "id": "Theme_279f5f0c44aa04e9901e5ceb351105db9b037996f639d8a187bbc4f644f91c8c"
+    },
+    {
+      "type": "Theme",
+      "name": "feuille de route",
+      "id": "Theme_1ae7987360634bdfb9b0b31751cf3db644e1e31ab70b69ba84501f0fbbd15987"
+    },
+    {
+      "type": "Theme",
+      "name": "puces électroniques",
+      "id": "Theme_96f570168f4f7847b2265cf2effa59120a63d901c7b4aef0c4b446afa0e687ce"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité industrielle",
+      "id": "Theme_42779af5e633964cd0e73aadde1f02e0d9e3177ea287b6e1c2e1c0f441ec6394"
+    },
+    {
+      "type": "Theme",
+      "name": "quantique",
+      "id": "Theme_a55a5e9c04e9e49c2efc55c9c97fdcdd3149041e81aa26bd45766547b9155e23"
+    },
+    {
+      "type": "Theme",
+      "name": "cyber",
+      "id": "Theme_6d4b4cf5c01dbbfbabd221911582a4deb29e1930ad8a912a311cb93cdc0f53ea"
+    },
+    {
+      "type": "Theme",
+      "name": "cloud",
+      "id": "Theme_e66cd9d6a24ef776a6c7ab7baa4f744b43da9329db88ba3ef4c45f6a0784f29f"
+    },
+    {
+      "type": "Organization",
+      "name": "French Tech",
+      "id": "Organization_b2676cfdc8d5c52026131494972cd4ec8242bce018a1350d66e8f0885374d625"
+    },
+    {
+      "type": "Organization",
+      "name": "investisseurs",
+      "id": "Organization_ef8b13d5a79a187555630e0c3e7d77519e14105fc0aed9f9e6f368bce94e0f4f"
+    },
+    {
+      "type": "Organization",
+      "name": "l'enseignement supérieur",
+      "id": "Organization_0dbe617e4bffd8af8e0575906be3db3651165dfc0ba5f4ba8c6f42961fbc6917"
+    },
+    {
+      "type": "Organization",
+      "name": "la loi de programmation",
+      "id": "Organization_5afb9f1ce335f3306937363c9e82a3e946291740570f043474392e2d73aac184"
+    },
+    {
+      "type": "Theme",
+      "name": "capital",
+      "id": "Theme_c21cdec283ea12782e3852aac3138d980a4f7bd7585df07e52e31cf2980da860"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution industrielle",
+      "id": "Theme_856982df5479e1bc2d2448fa64c77c7c7a1304fb4cccb59ffd20b31f58f0dff8"
+    },
+    {
+      "type": "Theme",
+      "name": "France 2030",
+      "id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscalité sur le capital",
+      "id": "Theme_a9a8f224c3e4eccaf7e8406b7b33bfc8a15f67401fc93909d403aebd0fb6ba72"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement en France",
+      "id": "Theme_2f44827a1ab8440e1f27c3572e2eaab83772cb9b511981d3e7d276fc30ec8b85"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds Tibi",
+      "id": "Theme_4c50883ee6e33aabb03251c067626001d0e355b2d305601a3bf435357309fec4"
+    },
+    {
+      "type": "Theme",
+      "name": "NextStage",
+      "id": "Theme_0de8c70f9e7c4ea845535466717aff4423915f003e1fe17b649d847629e18830"
+    },
+    {
+      "type": "Theme",
+      "name": "PME",
+      "id": "Theme_db1b5dd1f05a5483c8bd8ec0d664360eb7ce06bdd154e58613fc02ba15981df3"
+    },
+    {
+      "type": "Theme",
+      "name": "ETI",
+      "id": "Theme_b3df6741ad04bd5c949b147749c264dfa8b4747b899a767a0ca6369628fc3e64"
+    },
+    {
+      "type": "Theme",
+      "name": "licornes",
+      "id": "Theme_4b2d9fb9a92eedff7cb44d8455ce84e3823a7629f61211d810b2f6ae346dbdac"
+    },
+    {
+      "type": "Theme",
+      "name": "industrialisation de l'innovation de rupture",
+      "id": "Theme_8f6c2a886f8cdc16c5751748db33885238bc29dac3eaefbdb82835ec889f526d"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement en capital",
+      "id": "Theme_b2f29071232e9fb4c73701fc47d9352cd3a14faa710fa5655011b79264cc2a7a"
+    },
+    {
+      "type": "Theme",
+      "name": "industrialisation qui se fait ailleurs",
+      "id": "Theme_b5cef6873fe8032c0382f987fef1f2595e25bf6e823d1d1f79c711387184e9ae"
+    },
+    {
+      "type": "Theme",
+      "name": "démonstrateur industriel",
+      "id": "Theme_8f8deed94caf8502d21ee887f57fa5761091c201f502416ea3e91f66d327f371"
+    },
+    {
+      "type": "Organization",
+      "name": "Bpifrance",
+      "id": "Organization_a9ccdc3b7703f243a8222d62576aea819b2390487b9cbaf2500a76a84e916f9b"
+    },
+    {
+      "type": "Theme",
+      "name": "Deeptech",
+      "id": "Theme_fe471ca9510c3e5aa771d96f5d24844583d22338e4b44212143959b813c1ac25"
+    },
+    {
+      "type": "Theme",
+      "name": "start-ups industrielles",
+      "id": "Theme_3dce465a9c8b8f21a510b183aebbd099342f3aa36e44e21e715adc9b6d9f5ffe"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement dans la Deeptech et dans les start-ups industrielles",
+      "id": "Theme_0b2a35b5c03801812abc96afe42a36a705732ffa65d80cfdee849dfefb3e5aec"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition raisonnable",
+      "id": "Theme_915c3327d6d0fce1cccc03fdfb9fd502edc143ed36c596bc699d0f994caea2eb"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités futures",
+      "id": "Theme_e836ac07390ccdd57bac0713e1ec37e7267f89d7de0b9cb62b8d1ab020a15c4e"
+    },
+    {
+      "type": "Theme",
+      "name": "destin",
+      "id": "Theme_d09e3903dadfffc2520eda8a2b2d6964de6c594e64c980c6854196aff3f81626"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement d'avenir",
+      "id": "Theme_0f8ad13c48045c38fef4a00d1d79698ee22e9856c7a4ae8b9f8bd722164dd18c"
+    },
+    {
+      "type": "Theme",
+      "name": "programmes d'investissements d'avenir",
+      "id": "Theme_c17eb417a223e4ef5caaaab5297ff158f98995ac208742c2ce87c0348d717156"
+    },
+    {
+      "type": "Theme",
+      "name": "PIA",
+      "id": "Theme_849d7b2a194c28e9c8189d14e8aa9e33aa8d174f9745a2340e6b09b49564fd6e"
+    },
+    {
+      "type": "Theme",
+      "name": "méthode",
+      "id": "Theme_b87411705337500f5e241483647207da9221c4073686ed14393d95baaee379fb"
+    },
+    {
+      "type": "Theme",
+      "name": "exigence",
+      "id": "Theme_c131dd5143ce13311cd70f33a101ad29fecee96fab2354e08c7026967efd65d1"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "jurys indépendants",
+      "id": "Theme_033bc4537d931f55dd6147f4d1e32458b1f0d721918dcb721f544f3736522f6e"
+    },
+    {
+      "type": "Theme",
+      "name": "arbitraire",
+      "id": "Theme_5225ba7560c0af9cbd2c4f214d43c776557b77c16df1f002fcfdc1754e5a28e1"
+    },
+    {
+      "type": "Person",
+      "name": "Merkel",
+      "id": "Person_11ad4e67ef3a2e4b330ebc39970509630c2fce5702d04790e6328b02bf6b451d"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit commando",
+      "id": "Theme_09d02acc24c30e9c6723ee9c5428fd13715c5c8047b56ba92e1c2fd0e0781657"
+    },
+    {
+      "type": "Theme",
+      "name": "rupture",
+      "id": "Theme_ee2ddcde8c72d80aa3406fb755fd919ac2d4fa501edd8386c34bba91b50a4b27"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence",
+      "id": "Theme_ed714e04f0072912f37b05dc73e487727a8c579005e7b04f4ac05a26f6929b10"
+    },
+    {
+      "type": "Theme",
+      "name": "évaluation",
+      "id": "Theme_ea7fd98e58a66d73c0259bc6f8dfbbac84c8bd6786088d5c2f8f9b7739a8c420"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance",
+      "id": "Theme_b922336e378de1f3bd3c36e9805efd63ad949f8fbff73adbfc2b3826e811ee6a"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "pilotage",
+      "id": "Theme_3631f83f8302b95ca4dc2537b85eb4c9addc25bdb7983ffd40574fe6af337dbd"
+    },
+    {
+      "type": "Theme",
+      "name": "développement industriel",
+      "id": "Theme_56d1842cd4b2ce9acebcc393c00a51d3a8db1ba3e9b9d3a0e6ba58521ef8415c"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie des grands groupes",
+      "id": "Theme_2ec53104ac2f5f093acab069cf9080199fdd63ad7912a54e1fefd192cd78d4ab"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Etat",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Organization",
+      "name": "l'équipe commando",
+      "id": "Organization_4d7f824122e29c96ec798913aa9503f8a04538d92c43413538fbdb9925d6d7f3"
+    },
+    {
+      "type": "Organization",
+      "name": "l'industrie automobile",
+      "id": "Organization_4e6d8b445084a9a0e5e664b99f45578e5289efec213a9a49328ef76096dfa3e5"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution culturelle",
+      "id": "Theme_d8a13cf3b563c489104d65799951f970fc52cc1b3086ae363bf6be005a2cf50d"
+    },
+    {
+      "type": "Theme",
+      "name": "travaux dans les prochains mois",
+      "id": "Theme_30500814f3055e853bdbd1b3ccb0388fa1f7afb9bec31cfe01f46f3e7fc3d856"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Theme",
+      "name": "Premier ministre",
+      "id": "Theme_48a2bc5052dffd64a9b05da2d48f27b2be92270977d9d211abaeaf3e0362f6c3"
+    },
+    {
+      "type": "Theme",
+      "name": "partenaires sociaux",
+      "id": "Theme_3299f4061a66d551dfc3c10d7d56e6b798e6fb4e71336a74e0dd2add8a8bdc51"
+    },
+    {
+      "type": "Theme",
+      "name": "organisations professionnelles",
+      "id": "Theme_759fd4d631aeb38fb9604a4b5f49c23caa02f245f2c7224b1d2aadc67b9fe33e"
+    },
+    {
+      "type": "Theme",
+      "name": "collectivités territoriales",
+      "id": "Theme_7973341bcfc8fb87154f28f2a6c6c212e15440325bf8999278570859ef94ea37"
+    },
+    {
+      "type": "Theme",
+      "name": "acteurs",
+      "id": "Theme_53a318a8043110a96b14e681ff8f5b2f012d67e849fc5f4e0ee03c733b064e75"
+    },
+    {
+      "type": "Theme",
+      "name": "moment que vit notre pays en sortie de crise",
+      "id": "Theme_1ae43c53f3d1d7d35fd94866a8818310039b15f4870ad0b6f31840234beaea86"
+    },
+    {
+      "type": "Theme",
+      "name": "volontarisme lucide",
+      "id": "Theme_6951e3cb639f501b3fe28e48bb6340cc8a3f16f76ad6d72e585b51d0e928b0de"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de résistance",
+      "id": "Theme_0932f44f44b100820ec8e8eb34bf923bda8dc9cc544aae8f3a8ce98a1397b36b"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de conquête",
+      "id": "Theme_51c3cfef8e848bcc7d945767c82a9d15c8a0c4f68260a2ae16c22c50b55b3a33"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "rêve",
+      "id": "Theme_779ee8cf184660befb95c38167d6ceef6be3bd616b0186682de447aa2ed4dad1"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Nous sommes confrontés à des défis qui ne sont pas neufs. On les voit poindre depuis maintenant quelques décennies. Ils sont en train de se consolider, de se raffermir et ils ont en quelque sorte présidé à ce que la France comme l'Europe ont fait ces dernières années, ce qui porte notre conviction collective et ce qui a été encore raffermi et conforté pendant la crise.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "révolution des usages",
+      "relation": "MENTIONS",
+      "target": "émotions",
+      "evidence": "la transformation, la révolution des usages, des usages liés en particulier au numérique, crée un changement profond de notre manière de nous organiser en société, d'imaginer, de vivre les émotions, de communiquer les informations",
+      "confidence": 1.0,
+      "source_id": "Theme_2a9563a06602aa4e2da84dde89983a0c18711491b1451109eb4e2ac17d0a0eaa",
+      "target_id": "Theme_404d6d1e3338abd38f6615eb31aee60d8c6773665ed7c9298a37c5ab99603a80"
+    },
+    {
+      "source": "France de 2030",
+      "relation": "MENTIONS",
+      "target": "Europe de 2030",
+      "evidence": "on ne peut pas penser la France de 2030, l'Europe de 2030, essayer de voir la dynamique qu'on peut prendre sur la décennie si on ne prend pas comme départ ces grandes tendances qui sont là mais qui sont en train de s'accélérer",
+      "confidence": 1.0,
+      "source_id": "Theme_72a9d4b533c03417a6cd92641fa9d52836b67bb887bc7575f43139a38a7ab5fb",
+      "target_id": "Theme_994d4661b95e124eb932f94b47b2e782d8ef4787ac7b3d395e93868dcee6730b"
+    },
+    {
+      "source": "pandémie de Covid 19",
+      "relation": "MENTIONS",
+      "target": "grands défis",
+      "evidence": "Est-ce que la crise que nous venons de vivre, dont nous l'espérons collectivement dont nous sortons, la pandémie de Covid 19 a en quelque sorte remis en cause ces grands défis, ces grandes transformations ? Non, au contraire. Elle les a plutôt confortés",
+      "confidence": 1.0,
+      "source_id": "Theme_72531e7a35170eb02b51380cda17e2cd6ecdc985e17ae9bad596893c09bd23d6",
+      "target_id": "Theme_e75cadc643261464baa1b7f7341cb134c6ef2c9a5873e177672fc63376063eeb"
+    },
+    {
+      "source": "pandémie de Covid 19",
+      "relation": "MENTIONS",
+      "target": "transformations",
+      "evidence": "Est-ce que la crise que nous venons de vivre, dont nous l'espérons collectivement dont nous sortons, la pandémie de Covid 19 a en quelque sorte remis en cause ces grands défis, ces grandes transformations ? Non, au contraire. Elle les a plutôt confortés",
+      "confidence": 1.0,
+      "source_id": "Theme_72531e7a35170eb02b51380cda17e2cd6ecdc985e17ae9bad596893c09bd23d6",
+      "target_id": "Theme_a5cf38e56ec6f568347c7e4d2787de5c2d1a159cf3d75e70f9e82534a2b594ec"
+    },
+    {
+      "source": "innovation",
+      "relation": "MENTIONS",
+      "target": "solution",
+      "evidence": "l'innovation est une source de solution pour mieux vivre",
+      "confidence": 1.0,
+      "source_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc",
+      "target_id": "Theme_edeee0408fcaff0b5492896c55672217baa0bbe17083b1b17ecb1b03fc982218"
+    },
+    {
+      "source": "innovation",
+      "relation": "MENTIONS",
+      "target": "mieux vivre",
+      "evidence": "l'innovation est une source de solution pour mieux vivre",
+      "confidence": 1.0,
+      "source_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc",
+      "target_id": "Theme_0c39fc9f672a26ba47790b6fcc123e1af04ccd92d8b32a79bd58966ddbd7e915"
+    },
+    {
+      "source": "innovation",
+      "relation": "MENTIONS",
+      "target": "contraintes de l'innovation",
+      "evidence": "les contraintes de l'innovation dans lesquelles on vivait jusqu'à présent sont en train de changer",
+      "confidence": 1.0,
+      "source_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc",
+      "target_id": "Theme_c736691ea33add0d40125ea0f64043218de697cbf2073f7181cfdf191aeb4641"
+    },
+    {
+      "source": "agroalimentaire",
+      "relation": "MENTIONS",
+      "target": "services d'hier",
+      "evidence": "ni l'agroalimentaire, ni l'industrie, ni les services d'hier",
+      "confidence": 1.0,
+      "source_id": "Theme_024debcd3609070ef635d568cf73483a37c21fe6cf08997e9d8f5342591a8879",
+      "target_id": "Theme_a4bd2cf6126fe737c10e58bcdc03442d3b6758f3e3ee3dc03e74f4bed1caec3f"
+    },
+    {
+      "source": "industrie",
+      "relation": "MENTIONS",
+      "target": "services d'hier",
+      "evidence": "ni l'agroalimentaire, ni l'industrie, ni les services d'hier",
+      "confidence": 1.0,
+      "source_id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3",
+      "target_id": "Theme_a4bd2cf6126fe737c10e58bcdc03442d3b6758f3e3ee3dc03e74f4bed1caec3f"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "emploi",
+      "evidence": "La France recrée des emplois industriels depuis 2 ans, alors qu'elle en détruisait depuis 2008. La France est aujourd'hui en sortie de crise à un niveau d'emplois qu'elle n'avait pas connu depuis 15 ans. Et nous avons atteint un niveau d'apprentis et d'alternants que nous n'avions jamais connu, plus de 500 000 malgré la crise.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "on se remet à produire du paracétamol en France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "opposition",
+      "relation": "MENTIONS",
+      "target": "startups",
+      "evidence": "Et la deuxième chose, c'est que l'opposition que j'entends encore beaucoup dans nos débats publics entre les startups et l'industrie, est une opposition du XXème siècle.",
+      "confidence": 1.0,
+      "source_id": "Theme_1ddb7b67ee4eb1ba0ed9765f2e442d68fa0c51ffc1d861544bdda42f4b95a00c",
+      "target_id": "Theme_b3fedf1927a7ff9f9b930ba12d4dcb168cbce6318c5601c66dc5821cf26b6a3d"
+    },
+    {
+      "source": "opposition",
+      "relation": "MENTIONS",
+      "target": "industrie",
+      "evidence": "Et la deuxième chose, c'est que l'opposition que j'entends encore beaucoup dans nos débats publics entre les startups et l'industrie, est une opposition du XXème siècle.",
+      "confidence": 1.0,
+      "source_id": "Theme_1ddb7b67ee4eb1ba0ed9765f2e442d68fa0c51ffc1d861544bdda42f4b95a00c",
+      "target_id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "source": "startups",
+      "relation": "MENTIONS",
+      "target": "Deep Tech",
+      "evidence": "Notre pays va se réindustrialiser par des startups technologiques et ce qu'on appelle le Deep Tech.",
+      "confidence": 1.0,
+      "source_id": "Theme_b3fedf1927a7ff9f9b930ba12d4dcb168cbce6318c5601c66dc5821cf26b6a3d",
+      "target_id": "Theme_77591c1a21ef48f1a8c967a73f7f4b590140a54ee21656c623f1a64e3ee3a98c"
+    },
+    {
+      "source": "startups",
+      "relation": "MENTIONS",
+      "target": "innovation de rupture",
+      "evidence": "Notre pays va se réindustrialiser par des startups technologiques et ce qu'on appelle le Deep Tech. Et nos grands groupes industriels vont survivre, se transformer et gagner la partie grâce à l'innovation de rupture de startups qu'ils auront incubées ou qu'ils auront rachetées ou avec lesquelles ils auront des partenariats.",
+      "confidence": 1.0,
+      "source_id": "Theme_b3fedf1927a7ff9f9b930ba12d4dcb168cbce6318c5601c66dc5821cf26b6a3d",
+      "target_id": "Theme_15cfadec6c52ce9c8f308f6aa83b4ac35cf91e6a01d1b7584afa46fa4534e02b"
+    },
+    {
+      "source": "industrie",
+      "relation": "MENTIONS",
+      "target": "innovation de rupture",
+      "evidence": "Notre pays va se réindustrialiser par des startups technologiques et ce qu'on appelle le Deep Tech. Et nos grands groupes industriels vont survivre, se transformer et gagner la partie grâce à l'innovation de rupture de startups qu'ils auront incubées ou qu'ils auront rachetées ou avec lesquelles ils auront des partenariats.",
+      "confidence": 1.0,
+      "source_id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3",
+      "target_id": "Theme_15cfadec6c52ce9c8f308f6aa83b4ac35cf91e6a01d1b7584afa46fa4534e02b"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "défaite",
+      "evidence": "Je pense que nous avons en quelque sorte, dans nos propres attendus, en France depuis trop d'années, intégré une forme de sentiment de défaite",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_5d2e2dcea020c3163e796cf50110e069d136e8ea9ac56b7378e31ce59ea96783"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "croissance potentielle",
+      "evidence": "Je pense que nous avons en quelque sorte, dans nos propres attendus, en France depuis trop d'années, intégré une forme de sentiment de défaite en considérant que la croissance potentielle du pays était quelque chose dont il était écrit qu'elle ne changerait jamais",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_c1de677e8cd6efdeaf9ad1b270f4722f4ab40f151cdb12419093d04e86631e79"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "ANNOUNCED",
+      "target": "mécanisme d'ajustement carbone aux frontières",
+      "evidence": "La présidence française de l'Union européenne nous permettra, en tout cas, nous nous battrons pour cela, de faire avancer l'agenda sur le mécanisme d'ajustement carbone aux frontières.",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Theme_fc889b93c94867d2877727e9e2a2e28a8c468ed8309359645d2ec2cb9424cc43"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "objectifs agricoles",
+      "evidence": "La France, là aussi, et c'est notre passé industriel et agricole, a à chaque fois réussi les objectifs agricoles que la nation lui assignait.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_88bf8e88ac6772fc96acb5e4ed66af6424ef00aca68208c35840832f1459d9ab"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "mieux vivre",
+      "evidence": "c'est placer la France en tête de la production des contenus culturels et créatifs. Pourquoi je le mets dans le mieux vivre ?",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_0c39fc9f672a26ba47790b6fcc123e1af04ccd92d8b32a79bd58966ddbd7e915"
+    },
+    {
+      "source": "industries culturelles et créatives",
+      "relation": "MENTIONS",
+      "target": "industries ouvertes",
+      "evidence": "Les industries culturelles et créatives sont des industries ouvertes qui sont en compétition.",
+      "confidence": 1.0,
+      "source_id": "Organization_071b6282d9cbb8e983979b8283c727873532d74306dffad2314a502e7ec9e96b",
+      "target_id": "Theme_bb1e7a343f482c486ca41d4b0d4f826731d8fa37080173b39bda731e6bba530e"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "littérature",
+      "evidence": "la France d'abord a quelque chose à dire là-dessus parce que nous sommes un pays de littérature, de création, de philosophie",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_78ba2a7bd2758a35334d63320c788ed0003767d14ad19f765bce76ab995a9af9"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "création",
+      "evidence": "la France d'abord a quelque chose à dire là-dessus parce que nous sommes un pays de littérature, de création, de philosophie",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_a463f772ae14adf1d9f578edb8f3a9be473efc5135b65450d927e8cdeac7a890"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "philosophie",
+      "evidence": "la France d'abord a quelque chose à dire là-dessus parce que nous sommes un pays de littérature, de création, de philosophie",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_95dfb74e61b315c16ffccd0bb268c8867f9b448de52ed356f42cf55990b73d5e"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "fictions",
+      "evidence": "que les fictions que nous regardons ne sont plus celles qui sont produites en France, que notre patrimoine culturel comme notre création contemporaine ne sont plus celles auxquelles nous avons accès",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_b99cc65bd487247cf1638c6d35812360c63f68625ba9eaa8b9445e6f14cf2947"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "patrimoine culturel",
+      "evidence": "que nos histoires sont perdues, que nos scénaristes ne sont plus ceux dont nous lisons les histoires, que les fictions que nous regardons ne sont plus celles qui sont produites en France, que notre patrimoine culturel comme notre création contemporaine ne sont plus celles auxquelles nous avons accès",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_e85a88c0398462ae8d45cc107dbc15cc12e2d33e40b12d9faa8e45ed2a6bf412"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "création contemporaine",
+      "evidence": "que nos histoires sont perdues, que nos scénaristes ne sont plus ceux dont nous lisons les histoires, que les fictions que nous regardons ne sont plus celles qui sont produites en France, que notre patrimoine culturel comme notre création contemporaine ne sont plus celles auxquelles nous avons accès",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_93776f1dd3a9174c65eb96056dd8dc5c1f064d2888099a07468b0e597dc5b8dc"
+    },
+    {
+      "source": "industries culturelles et créatives",
+      "relation": "SPOKE_ABOUT",
+      "target": "industries culturelles et créatives",
+      "evidence": "Aujourd'hui, les industries culturelles et créatives, ce sont 640 000 emplois, 91 milliards de chiffre d'affaires et l'industrie qui exporte.",
+      "confidence": 1.0,
+      "source_id": "Organization_071b6282d9cbb8e983979b8283c727873532d74306dffad2314a502e7ec9e96b",
+      "target_id": "Organization_071b6282d9cbb8e983979b8283c727873532d74306dffad2314a502e7ec9e96b"
+    },
+    {
+      "source": "stratégie européenne",
+      "relation": "SUPPORTS",
+      "target": "stratégie européenne",
+      "evidence": "Ce qui veut dire que nous devons avoir une stratégie européenne et française. Elle doit être européenne, compte tenu des masses et de l'enjeu.",
+      "confidence": 1.0,
+      "source_id": "Theme_9f2d9669fd6bd7f0c519e9178f9aa5629f4017072e03d9dbd959f30f0e1c4ee3",
+      "target_id": "Theme_9f2d9669fd6bd7f0c519e9178f9aa5629f4017072e03d9dbd959f30f0e1c4ee3"
+    },
+    {
+      "source": "ambition raisonnable",
+      "relation": "MENTIONS",
+      "target": "ambition raisonnable",
+      "evidence": "c'est le fruit de ce constat établi, des crises que nous avons traversées tous ensemble ces 4 dernières années, et du travail collectif pour faire émerger une ambition, un rêve de la nation, mais aussi ce que j'appellerais une ambition raisonnable.",
+      "confidence": 1.0,
+      "source_id": "Theme_915c3327d6d0fce1cccc03fdfb9fd502edc143ed36c596bc699d0f994caea2eb",
+      "target_id": "Theme_915c3327d6d0fce1cccc03fdfb9fd502edc143ed36c596bc699d0f994caea2eb"
+    },
+    {
+      "source": "innovation de rupture",
+      "relation": "SPOKE_ABOUT",
+      "target": "innovation de rupture",
+      "evidence": "l'innovation de rupture ne se fait plus dans les grands groupes et la valeur ne se crée plus dans les grands groupes",
+      "confidence": 1.0,
+      "source_id": "Theme_15cfadec6c52ce9c8f308f6aa83b4ac35cf91e6a01d1b7584afa46fa4534e02b",
+      "target_id": "Theme_15cfadec6c52ce9c8f308f6aa83b4ac35cf91e6a01d1b7584afa46fa4534e02b"
+    },
+    {
+      "source": "stratégie des grands groupes",
+      "relation": "SPOKE_ABOUT",
+      "target": "stratégie des grands groupes",
+      "evidence": "la stratégie des grands groupes est de tuer l'innovation qui vient des acteurs qui sont les plus innovants",
+      "confidence": 1.0,
+      "source_id": "Theme_2ec53104ac2f5f093acab069cf9080199fdd63ad7912a54e1fefd192cd78d4ab",
+      "target_id": "Theme_2ec53104ac2f5f093acab069cf9080199fdd63ad7912a54e1fefd192cd78d4ab"
+    },
+    {
+      "source": "coopération",
+      "relation": "MENTIONS",
+      "target": "coopération",
+      "evidence": "un premier élément de coopération, c'est de considérer qu'il faut accepter de financer vite et de manière simple l'innovation où elle est",
+      "confidence": 1.0,
+      "source_id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6",
+      "target_id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "source": "startups",
+      "relation": "MENTIONS",
+      "target": "startups",
+      "evidence": "il faut qu'elle puisse aller à des startups, des PME, des ETI",
+      "confidence": 1.0,
+      "source_id": "Theme_b3fedf1927a7ff9f9b930ba12d4dcb168cbce6318c5601c66dc5821cf26b6a3d",
+      "target_id": "Theme_b3fedf1927a7ff9f9b930ba12d4dcb168cbce6318c5601c66dc5821cf26b6a3d"
+    },
+    {
+      "source": "PME",
+      "relation": "MENTIONS",
+      "target": "PME",
+      "evidence": "il faut qu'elle puisse aller à des startups, des PME, des ETI",
+      "confidence": 1.0,
+      "source_id": "Theme_db1b5dd1f05a5483c8bd8ec0d664360eb7ce06bdd154e58613fc02ba15981df3",
+      "target_id": "Theme_db1b5dd1f05a5483c8bd8ec0d664360eb7ce06bdd154e58613fc02ba15981df3"
+    },
+    {
+      "source": "ETI",
+      "relation": "MENTIONS",
+      "target": "ETI",
+      "evidence": "il faut qu'elle puisse aller à des startups, des PME, des ETI",
+      "confidence": 1.0,
+      "source_id": "Theme_b3df6741ad04bd5c949b147749c264dfa8b4747b899a767a0ca6369628fc3e64",
+      "target_id": "Theme_b3df6741ad04bd5c949b147749c264dfa8b4747b899a767a0ca6369628fc3e64"
+    }
+  ]
+}

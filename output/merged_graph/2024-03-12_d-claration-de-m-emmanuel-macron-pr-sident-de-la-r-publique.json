@@ -1,0 +1,1547 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "secrétaires d'État",
+      "id": "Person_5796469a1008de243871637159be351576614777885dbe8359021422d7df5a40"
+    },
+    {
+      "type": "Person",
+      "name": "vos collègues",
+      "id": "Person_3abfed4cbdddd3b0d4a0af5ce054fb04f640749152f4cb2ae30bbc439b63cc33"
+    },
+    {
+      "type": "Person",
+      "name": "vos équipes",
+      "id": "Person_5fc8bb33cc9903ed15dc8dd2e27e935c5d3ed15d87e285a1d7d3104e183efdcc"
+    },
+    {
+      "type": "Person",
+      "name": "nos départements",
+      "id": "Person_0f3efe2f5f9081059e5c7575bfe0d823dd420d8107baf89eea473c4d8f5b29c5"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "Augmentation générale et durable des prix",
+      "id": "Theme_5eb116de1d5e16531ecfc3d1ce72deda9884f4175ae830ddb36e0359ccec5368"
+    },
+    {
+      "type": "Theme",
+      "name": "crises plus locales",
+      "id": "Theme_864d200e92a80b024c6021d2f3a0cc0377301e81de63f1ad9611e542af480778"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "Gilets jaunes",
+      "id": "Theme_8f74b99fc1d48348105a160d175272a280f47837e13087a1a7a26b8eb7f33983"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "dérèglements climatiques",
+      "id": "Theme_459dcfa0c0e8152afdc160c12933261c0313fef3647bda99f62d6988c3b53461"
+    },
+    {
+      "type": "Theme",
+      "name": "contexte économique",
+      "id": "Theme_da63522bac7e5dce6f46c32c50646260d1b6852f5f1d7b7fa2765b7cbcf223a7"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "géopolitique",
+      "id": "Theme_c3c610b50522db7d266b422a266b556f7825401c0d3b51ae9196e65d10f33b65"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "finances publiques",
+      "id": "Theme_5c2dc2f996e67f8ddbe79eb535369467c79e0718dbddb27732da4838032796fd"
+    },
+    {
+      "type": "Theme",
+      "name": "crise des démocraties",
+      "id": "Theme_c2409a1d123d3fdd3f6468e377c0bf767c8eedb860576b803fd2757a87aa94b2"
+    },
+    {
+      "type": "Theme",
+      "name": "crise de l'efficacité de l'action publique",
+      "id": "Theme_da4527420cc41699a1570989299d6f21614a4c52e3f84c5e3a70d02b41e00630"
+    },
+    {
+      "type": "Theme",
+      "name": "immédiateté des réseaux sociaux",
+      "id": "Theme_f008340bfd8e212f4f02428bcfae1f7047bf78a5dbec81fb194130d3a159087a"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs qui viennent annihiler l'un l'autre",
+      "id": "Theme_36b437418c652b957fc0912e1c8a71c690247be2ea7f98fc9cb018b28f280c84"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "rapidité",
+      "id": "Theme_00647c8bf4a18fbc8db6c9e51e04820942589830b3f621c4de45fc38c6ea771e"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligibilité",
+      "id": "Theme_1f82f8dfa8ea5bbbdc2557b99291e740e4a509346cc383f46470581909aba203"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Person",
+      "name": "le Premier ministre",
+      "id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "type": "Person",
+      "name": "les ministres",
+      "id": "Person_78d76679e74b5a51cda29b8e650dbdf68ea42269e62f817210484c9a0fd92759"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "Country",
+      "name": "l'Allemagne",
+      "id": "Country_9c8051225742a88226ef2081d34b45e606700d815c6d3fd57c7b42a34a43ba83"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Law",
+      "name": "lois de souveraineté industrielle et numérique",
+      "id": "Law_36a1ebeddd4ba6b408631ceb0ebb9be7a26c3a0f86348f7323ae766b22d2c0b7"
+    },
+    {
+      "type": "Organization",
+      "name": "SGPI de France 2030",
+      "id": "Organization_4d78a63fe2e1bfa14a3d519fcdefb55b64825a49ef828cf06b24ef22e21abc7b"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme France Travail",
+      "id": "Theme_319e23ded977022ac6abb31858825dc094fdad0360542d869ad8ba491ad4f4bf"
+    },
+    {
+      "type": "Theme",
+      "name": "services publics",
+      "id": "Theme_9d23f2423869f33761b54988a51c02bcaaec512697b3c1f29a8001cba8569472"
+    },
+    {
+      "type": "Theme",
+      "name": "retour à l'activité",
+      "id": "Theme_25f9deef1af9e6b6e66a88d8f51517dc65facdab1d6eb098f49d21003f3ec280"
+    },
+    {
+      "type": "Theme",
+      "name": "crise hospitalière",
+      "id": "Theme_b1b68524ac425246d28f692f8415594e5081f81f315f954794f3d7d665407fbc"
+    },
+    {
+      "type": "Theme",
+      "name": "déserts médicaux",
+      "id": "Theme_90235477061eda83e182f329c6c2f9f2ccbe44c4d3105adcad5a33997cc61177"
+    },
+    {
+      "type": "Theme",
+      "name": "justice de proximité",
+      "id": "Theme_28d4882dd0a083d0c071e761757d29b33482123a7221fba228e09aedd6bb6429"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique",
+      "id": "Theme_82634c5567e29ec1e0f256205be4191228a3b7329a743da05d0f47189c5b7272"
+    },
+    {
+      "type": "Theme",
+      "name": "planification",
+      "id": "Theme_0ffd584ebe6be9e9eb65a50bce6a7e2f51ddd61323ede02ea36bd9c0516851c3"
+    },
+    {
+      "type": "Theme",
+      "name": "mise en oeuvre",
+      "id": "Theme_2ab9d31cabde372a622b9da3a33f033abc117a0bac50dea719c9b2d4af97ed7d"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtrise de passages",
+      "id": "Theme_d90a9b34f106c048a4377072e17fd6de10db8e34baf29d1585ffd5847873839c"
+    },
+    {
+      "type": "Theme",
+      "name": "secteurs et territoires",
+      "id": "Theme_b7ad8c4171ca44547112506502adaf234ff8d476b052b2f92dae42754e1d72cf"
+    },
+    {
+      "type": "Theme",
+      "name": "décliner",
+      "id": "Theme_583d34f61992d1487d1138ac1428a9171c4b669c7607724cfa2b90e53e3274ca"
+    },
+    {
+      "type": "Theme",
+      "name": "economies",
+      "id": "Theme_d1fbcccd88ee81f1b81d3647316532933c3d441c2b7433445c0917bee8f82191"
+    },
+    {
+      "type": "Theme",
+      "name": "textes avec des incitations",
+      "id": "Theme_b1a8578a457a9b037cb98f68370deb4a1ffd3b12db76158f4eea4e34d3415c6e"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanismes fiscaux",
+      "id": "Theme_053a7e9f6f6065698877b8990cdeb2707f5b1bb9433cf5db19254b3b1ed475bb"
+    },
+    {
+      "type": "Theme",
+      "name": "financements de France 2030",
+      "id": "Theme_049443e7033bf409ea4e6a7ae390eb4cdd6627bfd66549f0b6e55ce2d66d4dc4"
+    },
+    {
+      "type": "Theme",
+      "name": "éléments réglementaires européens ou nationaux",
+      "id": "Theme_46a2d613ea10e11972c455a58a64d88baca65b2636a61ec3cf19f0c288ce2ed7"
+    },
+    {
+      "type": "Theme",
+      "name": "approche par territoire",
+      "id": "Theme_7144431e3d84fccedd371ff114e31b865b3460dc2b24815f08fa08fd66b1ccb9"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue de gestion",
+      "id": "Theme_638417e50e6b2856e4f0fcfda7c165437878cda3afff6cc7fdada47f025a7cf0"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre civique et républicain",
+      "id": "Theme_a9b640debc1ce74390ecc407a1857ef81816f68e8286e7af43a80c815c1d93cf"
+    },
+    {
+      "type": "Law",
+      "name": "nos lois",
+      "id": "Law_30d18a299e159532a70838ceb4466bb541a668ff76924dea7037467d455d17de"
+    },
+    {
+      "type": "Law",
+      "name": "nos valeurs",
+      "id": "Law_6ed66edfa92e13192440d91a47d4b4306a2bda11fcec133c00abf90d3a510e0b"
+    },
+    {
+      "type": "Organization",
+      "name": "nos armées",
+      "id": "Organization_166049284ebdc85e0c7ecc46d864ee94e3f8377d231b7f0123832256924e45b1"
+    },
+    {
+      "type": "Organization",
+      "name": "notre justice",
+      "id": "Organization_609ca10aed705cfa17bf8d35e57fe7b98db8ce37059956c15aed4aa9790ab927"
+    },
+    {
+      "type": "Theme",
+      "name": "augmenté de 60 % le budget de la justice",
+      "id": "Theme_db1bbebe9838038d5af77495c35091ea57a5a18beb27b75c4d215ff639a78728"
+    },
+    {
+      "type": "Theme",
+      "name": "renforcer les moyens aussi du ministère de l'Intérieur",
+      "id": "Theme_76ac8c8a8b32b8f73326c3b1ec3cf4ac17016b545dd3c1d7bd53c96be5b6446c"
+    },
+    {
+      "type": "Theme",
+      "name": "réinvestissement là aussi très important",
+      "id": "Theme_691925e9823f790831edd9fc35d254620d95c73f4f2c0142d0a8fb257d5db99d"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveaux défis en matière justement d’ordre civique et républicain",
+      "id": "Theme_afd978245749c13845aafd9bb20d37c762572f912192e0886e1daaf28035597b"
+    },
+    {
+      "type": "Theme",
+      "name": "meilleure prise en charge des mineurs en rupture avec la société",
+      "id": "Theme_07aa34bb19343b89332a5f89c2af53804d7eedfe6f4bf50e0f2db364ea03ae74"
+    },
+    {
+      "type": "Theme",
+      "name": "accroissement de la lutte contre le trafic de stupéfiants",
+      "id": "Theme_1e93de82bc41570ae3cbca650ec9995399b4aab1fd8791e54fe7d2064d55a987"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la radicalisation et le communautarisme",
+      "id": "Theme_7a0a073cb11bfccfc95704da0fd292cd81261a3cb057202f1cb0c4b18fe21c4f"
+    },
+    {
+      "type": "Organization",
+      "name": "Forces d'action républicaines",
+      "id": "Organization_6eed5914fec81a3864712c86f91224437b9a42666083a191c75999cfebe1d1cf"
+    },
+    {
+      "type": "Organization",
+      "name": "Border Force",
+      "id": "Organization_dd4e3137292d17e8c7dd41d52e0aa0a06366dd71a228cff2d7dd68e82249e070"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie de défense",
+      "id": "Theme_09b61c92558f06c363a00e54db0598d2d3e9c369b6557d614e38e0faec84c117"
+    },
+    {
+      "type": "Theme",
+      "name": "frontières",
+      "id": "Theme_2cd955c9a002255c9c4db835b43368ec22c183622dce92ef1191d4bdfa43a6bb"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions numériques",
+      "id": "Theme_10717f76bf15d48bf0de8b87151e3eec2c019ac26d779608e06924167851e961"
+    },
+    {
+      "type": "Theme",
+      "name": "crise de confiance démocratique",
+      "id": "Theme_3048538bcc0d038170c13bb8ed69bd4de8946199f2659141d5b1210785ac61c7"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation de l'État",
+      "id": "Theme_320113900c5fe0b1f4dad872428fb0aa7ed684a11fe831ba2cdff20b6bc773b6"
+    },
+    {
+      "type": "Theme",
+      "name": "changements de méthode et d'organisation",
+      "id": "Theme_079dadd793e2f05d0c8a9cf14819aac5dbdf634cfbf44e88eeffa298ffcad7fe"
+    },
+    {
+      "type": "Theme",
+      "name": "crise des gilets jaunes",
+      "id": "Theme_1f2a3739eced36a5f8918d295626c94f1e050888c06c48b76c58e4f1ef0bd96d"
+    },
+    {
+      "type": "Theme",
+      "name": "maisons France services",
+      "id": "Theme_abb8f7258c1012d4dc2a555c8ea2b9b6627f3a853971b8d89b69953bfc86a924"
+    },
+    {
+      "type": "Theme",
+      "name": "canton",
+      "id": "Theme_dceb8af268781919c3abd7f87ec893df4f6b3a38f2940e665088cb1594ca53bd"
+    },
+    {
+      "type": "Organization",
+      "name": "France services",
+      "id": "Organization_9281466e181c0307ecd915067488a8c473b1fba11a34b71920e874133cf2be4a"
+    },
+    {
+      "type": "Law",
+      "name": "DUSSOPT",
+      "id": "Law_2d23e694f7b2202194b26a5a067f46d39382d3f1c4f8ece2a3a721ebf921928d"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "City",
+      "name": "administration centrale",
+      "id": "City_2158e70fc7b90118e3f7a10bdbca8cd2c08115392ab4b1bc9eafcb784c0ace94"
+    },
+    {
+      "type": "Organization",
+      "name": "administration centrale",
+      "id": "Organization_e3066963cf144479b1e2a1f062d9624cf4475f5a44e74140e20938a768e81c0f"
+    },
+    {
+      "type": "Person",
+      "name": "ministre DE MONTCHALIN",
+      "id": "Person_8f3d7222772641659500c80fd842b36ce3eefae07871dd901d2660b9a1cb0045"
+    },
+    {
+      "type": "Person",
+      "name": "ministre GUÉRINI",
+      "id": "Person_defb2949acc0927a2ef4698a0b5b81d467b72609dedee98c2569c1d86319a53d"
+    },
+    {
+      "type": "Theme",
+      "name": "professionnalisation",
+      "id": "Theme_81541b7c47a5754850caf67893eba2f65ee33363dfbc93e3d154efddc4802c89"
+    },
+    {
+      "type": "Theme",
+      "name": "corporatisme",
+      "id": "Theme_eb406c59ec0d933425da975d842a0ca8dc906730340a2bfc0c22f66a6ead79eb"
+    },
+    {
+      "type": "Theme",
+      "name": "fonctions",
+      "id": "Theme_0626488e74093f91bf4a8761b6de9f5421f0d1c7e9f5be952ac2406abcea2b52"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "corps techniques",
+      "id": "Theme_d1a74240ada57663955d9c49589e5c9d63fe6395c0a91deb3515ec99b1cd8736"
+    },
+    {
+      "type": "Theme",
+      "name": "cloisonnement",
+      "id": "Theme_cf63da5273d001b5ae7a1bee3cfd4b95e9ef744688ecf72f1bcbc8cd36811d80"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité",
+      "id": "Theme_5f3e34c6020caac848a6e2d71bdfd1fe751959c4e195a8c097e09b990d89fd12"
+    },
+    {
+      "type": "Theme",
+      "name": "compétences",
+      "id": "Theme_f4baf676a1a91b846e556f812ea2e6452ecc1b7c2b3a87f971cd7e60c4b42995"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers",
+      "id": "Theme_305de45577953bd04165ca22cf0089e5defd686499397a72c39942ab978c3083"
+    },
+    {
+      "type": "Theme",
+      "name": "fonction publique",
+      "id": "Theme_203fcdbba74e6ea78df45b8c410550f655a8d51288a1e0df6bb4a3d01c5c6bd6"
+    },
+    {
+      "type": "Theme",
+      "name": "loi",
+      "id": "Theme_aaa751cd5b857da1d5f067b90439cca5af7e59784eb0537f6c5b647db27ec7a1"
+    },
+    {
+      "type": "Theme",
+      "name": "ministre de la Transformation et de la Fonction publique",
+      "id": "Theme_aeae84e4e747c61e06cc911cea1c00e4043d3c2f253ce7c57398d9cf3a80ba9d"
+    },
+    {
+      "type": "Theme",
+      "name": "DIESE",
+      "id": "Theme_c6e8538e109d69a6840af0cb41cd6bae523b27014657a0d84b546b92e63bfb02"
+    },
+    {
+      "type": "Theme",
+      "name": "DITP",
+      "id": "Theme_5fc82a36283b9806bba54a3a1eca4a526c2e1d8b39f3f5eec3d71a2ba22f85bc"
+    },
+    {
+      "type": "Organization",
+      "name": "DIESE",
+      "id": "Organization_0a7b59af97e7f3c147413b8acaf5454f970387b9c7e3adb4af00701d4a65c19e"
+    },
+    {
+      "type": "Organization",
+      "name": "DITP",
+      "id": "Organization_1847b696f71bf25b0ca3caaba56e643a252ff1caeed48ea47c5809373d73002d"
+    },
+    {
+      "type": "Law",
+      "name": "chantier de simplification de 250 démarches essentielles",
+      "id": "Law_18088fec2a1faf6e7528fa8503ebf3a30fb03dfd6615df2f6a9876817423d23d"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Person",
+      "name": "un président de la République",
+      "id": "Person_99c8a08cc8bdf965811eb622471aece5094a9ad7e42b9f443e58caf80cde888d"
+    },
+    {
+      "type": "Theme",
+      "name": "séparation des pouvoirs",
+      "id": "Theme_25e90b24b0fc8c51079f63f161847112798aa79c559313ca84f3c145095e93d1"
+    },
+    {
+      "type": "Theme",
+      "name": "droit à l'erreur",
+      "id": "Theme_e3d0e8f65b1fad8abca73e1e91287ec33936c82a887ba62092cfe526f54ff5ec"
+    },
+    {
+      "type": "Law",
+      "name": "loi",
+      "id": "Law_485a9dc7d96da743855079c7a36cf38d2dd611ec76c37030d236a6e1748b6bcc"
+    },
+    {
+      "type": "Law",
+      "name": "règlement",
+      "id": "Law_78dc55082a050f9799471f307676c41015755c2c68ae53a5b88e7caecec0ddb9"
+    },
+    {
+      "type": "Person",
+      "name": "Bibi",
+      "id": "Person_18a3f603ed202b12e2a944a08034670dd2fc4bc3e5182cab1b167f5a89dcfc75"
+    },
+    {
+      "type": "Country",
+      "name": "la République",
+      "id": "Country_8ece1ca643efc6be6485040a8d42357a81f22c38694d9ca8a56d37a688baf2b0"
+    },
+    {
+      "type": "Theme",
+      "name": "déconcentration",
+      "id": "Theme_b1ff4bf432bbe91fab75861d69d7cda5ad1342f94ce23dd2d9e5d73b3cfff24c"
+    },
+    {
+      "type": "Theme",
+      "name": "délégation de moyens et de pouvoirs de décision de l'administration centrale aux services déconcentrés de l'État",
+      "id": "Theme_da725dcae8412acc65c7e4e436b612ad15e02eba4db9d3dd4e0ddcf813aa646c"
+    },
+    {
+      "type": "City",
+      "name": "Élysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "département",
+      "id": "City_5bcd991e3512384ea021c39361a0f40816686f8b3996f2aee95348f749b1580c"
+    },
+    {
+      "type": "Person",
+      "name": "les maires",
+      "id": "Person_28684f806a56b5b294eb1f2bafb3cf3796d7986543ecf3d7a9424df1cfc6a195"
+    },
+    {
+      "type": "Person",
+      "name": "les entrepreneurs",
+      "id": "Person_47da380ecb5cef5af8cd4b1b392973393c53c10d2067ba6f2efd672ea5cc3a15"
+    },
+    {
+      "type": "Person",
+      "name": "les décideurs locaux",
+      "id": "Person_16d01f6c788a58f19adbc2420031e859e3d23de06f229365f9fc76cf2a87071a"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités d'action",
+      "id": "Theme_c0ea47fe3ec86fca9b4127fb917582c6c0973e0ad0f1f53bbbb86cfdb5582fce"
+    },
+    {
+      "type": "Theme",
+      "name": "fonctionnaires",
+      "id": "Theme_4de027c6504244be99deae69cf5298fcec372d5c2dbea3f572ced83faaf4677d"
+    },
+    {
+      "type": "Theme",
+      "name": "appels d'offres",
+      "id": "Theme_38a546d5c3e33d45eb69c7c091bb07f4ac2f9f1d6f1464c3598c085e71cf7c41"
+    },
+    {
+      "type": "Theme",
+      "name": "nomination",
+      "id": "Theme_d7da8321e305c9690f87d25ba5bf5c974cde9a6d8d5900a98f575bd3a9fd87b8"
+    },
+    {
+      "type": "Theme",
+      "name": "évaluation",
+      "id": "Theme_ea7fd98e58a66d73c0259bc6f8dfbbac84c8bd6786088d5c2f8f9b7739a8c420"
+    },
+    {
+      "type": "Theme",
+      "name": "rémunération des directeurs et délégués territoriaux",
+      "id": "Theme_3dc33f34bffb19ce5133f1dc80d0307429a03e59e7076b9fff09c878313455b4"
+    },
+    {
+      "type": "Person",
+      "name": "préfet de département",
+      "id": "Person_1f12f062db5d8ce8279c2614401c1f496003d84d30820fca7915cb1bfe510a8d"
+    },
+    {
+      "type": "Person",
+      "name": "préfet",
+      "id": "Person_ab66892f348fc1e73f15c961677e93758d36704ceaae918b341951544bcc74c6"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation",
+      "id": "Theme_01dbd75772ce2e01acf43a9eed5bfc3d66a83ad34f48105944d56c5bf0aaa34b"
+    },
+    {
+      "type": "Theme",
+      "name": "projets nationaux",
+      "id": "Theme_19ad2c99febdfc78511eb4298dc48d17feb4ce14d36873e0ce3cb362b8d21e9b"
+    },
+    {
+      "type": "Theme",
+      "name": "projets les plus innovants",
+      "id": "Theme_db6d57b5526cdb6724588464613e504e41f42a4be9c8b5ee8466af20fd3e9bce"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques publiques",
+      "id": "Theme_9d085612d695bebf0ac290a8aa0f64b70489199699576ec72f03d69038edc0ef"
+    },
+    {
+      "type": "Theme",
+      "name": "appels à projets nationaux",
+      "id": "Theme_dff70e5804539ac2ba795b1fdd1739d0e04a08bc4ba161d96f43ac1b04ae23d2"
+    },
+    {
+      "type": "Person",
+      "name": "les préfets",
+      "id": "Person_5d206fee0479214cdcda373b847eb3addf5824d3dd45604f8518402f1074b568"
+    },
+    {
+      "type": "Person",
+      "name": "le ministre de l'Intérieur",
+      "id": "Person_0da8fe3d498eb45e80d5b6201ac06d3cb85c26558b2a64ef9394203d50329c39"
+    },
+    {
+      "type": "Organization",
+      "name": "Le Gouvernement",
+      "id": "Organization_c84506bfa4b413253e8583afd35e6d70a5f6b5d27de3de7a01a81b44fecf8081"
+    },
+    {
+      "type": "Theme",
+      "name": "décentralisation",
+      "id": "Theme_8cdbeea2048deb633c4b678480b824c211c9c3809c1c56bd2de057c9fda69508"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Organization",
+      "name": "Chambres",
+      "id": "Organization_3f3fe42d32a415900e3daf8fc21422bc786b2b73f032d0001d6e8ffb03e51ce0"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Theme",
+      "name": "taylorisation",
+      "id": "Theme_3d643c034206d58d48d8be734bf44c0c5530fc83758b3245fe5b1993addc7cb0"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs clairs et précis",
+      "id": "Theme_a6fe789c329ca223a155716836e2511994b690d18d9df312f37c9fd7c8fa3c6d"
+    },
+    {
+      "type": "Theme",
+      "name": "délais",
+      "id": "Theme_16f4076b409a2abf40afffc019d06321a29e67e8fac7aa63904644ef839f69f0"
+    },
+    {
+      "type": "Theme",
+      "name": "paperasse",
+      "id": "Theme_335a484b6dfd7f406682c51ed3b392ec33a584d65a8486ce66f5312048c58ce0"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôles",
+      "id": "Theme_64043a3024d453b0d075acae2d790b2b8c5bbf83a239e7a0512368a98a588527"
+    },
+    {
+      "type": "Theme",
+      "name": "réunion",
+      "id": "Theme_b06610d0e82c52fc879e02a7292ecc0c45d4060106ef36b81d739b8d792c4113"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté au terrain",
+      "id": "Theme_925867d32feee4fa207fa0e1cc08342ced17e970a50ba988682d7e762a64a47e"
+    },
+    {
+      "type": "Theme",
+      "name": "usager final",
+      "id": "Theme_307fb0d36c58b3be5e92f4fa37b6519a5703a4416c37d0e4f26c6b0f46c8bf26"
+    },
+    {
+      "type": "Theme",
+      "name": "consultation",
+      "id": "Theme_f3fbe9d52f9b5417105677fc030a98ce50f90d1c1d04d9c9e470f09829cbcd27"
+    },
+    {
+      "type": "Theme",
+      "name": "ministère de la Transformation et de la Fonction publique",
+      "id": "Theme_b6e89e31f6d9967f570676b9615fed27a503df24b0db11a5a8f40cae071909b6"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscalité",
+      "id": "Theme_8f3af7311a6bcfd253a580ecacd3fb0434ee40de042b8221f99b1b400f0a3b76"
+    },
+    {
+      "type": "Theme",
+      "name": "autorisations préalables",
+      "id": "Theme_5deaa64722658e5f0144d21fbed21219010e863c325da8750e587b8a8ed7d87c"
+    },
+    {
+      "type": "Theme",
+      "name": "rescrits réglementaires",
+      "id": "Theme_40c7c4ceeaaf481e233f93eff453c930a98d3597a875b04d1c6133e161a5fe0b"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôles d'accompagnement et de correction",
+      "id": "Theme_eb9aa61a5d9c9d1d25eb481311ff91525b43268fb9f5bc406aa31ac9ec609eb5"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité économique",
+      "id": "Theme_baf7f90bcb7e01ad71e623d1429c7aa4803c6fd39f6228fc0e59f225a4e39f39"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance de la société civile",
+      "id": "Theme_b0f87fb93fcc599030ec470d3177bf0b07b7054555ddde673ba49e90ffa23bce"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaires d'État",
+      "id": "Organization_8e1c30d7292f37306d79d2962f39e05a81c9565675fd36c8251619de54d5d4ca"
+    },
+    {
+      "type": "Organization",
+      "name": "comité interministériel de la transformation publique",
+      "id": "Organization_cd7aa9f4884b159b7f2b0fe699812d878ecfef16f82fb24d212cec0838ef7bcd"
+    },
+    {
+      "type": "Organization",
+      "name": "CNR",
+      "id": "Organization_e42e612cdc0fce5d8cb6402795ede309b7de2ddd7252fd9fed4ede6ba132b7ad"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil National de la Refondation",
+      "id": "Organization_82eba171cc2f6c080e4b3ced9059f9da8f0a146cc9c1e8f5ce0611423002b79f"
+    },
+    {
+      "type": "Organization",
+      "name": "Marseille en grand",
+      "id": "Organization_68a38c161635f986e05620193acd5595b43449c014fd6868563a8eb8a7cdf657"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte",
+      "id": "Theme_08510afdf50053fa9af48009d3326ffa3ca70e4a355802c742667dc8276fcc6f"
+    },
+    {
+      "type": "Theme",
+      "name": "initiatives locales",
+      "id": "Theme_aae1b652d4907ec95272bd9a42dac45fe2dfd89f940cfea7325158fc0a6df639"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "école inclusive",
+      "id": "Theme_e8546a45510d4027566d6ca447ab93473d113905f2f5e7c8007eda872037e007"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnements pour les enfants en situation de handicap",
+      "id": "Theme_ae53190e4d87ff6452463fb421f66d74ef35ea4fca99da3b226f6643550ceea6"
+    },
+    {
+      "type": "Theme",
+      "name": "Rectorat",
+      "id": "Theme_4a19cc71b6e04b84b0b11fbd568cfcbc580d12a87c59eb4583d3b359424ccfad"
+    },
+    {
+      "type": "Theme",
+      "name": "périscolaire",
+      "id": "Theme_7100bf056867b10d1af73003246beeef432f84786a7c1d1247eb73f45622ca13"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement",
+      "id": "Theme_d41a2410d8b1353cdac216ebec7bce81e567ae80b1d56a5c5b7942fee7e103c4"
+    },
+    {
+      "type": "Theme",
+      "name": "culture du résultat",
+      "id": "Theme_2b20c3009c2fbebd9c7ce55f96fa3432d16b4267b9b3e1f8047ea9c89cdf16fe"
+    },
+    {
+      "type": "Organization",
+      "name": "Services publics",
+      "id": "Organization_4998ff854ee9a01a376d78aac9d5385db5dc6844fe6cd092c2b70c7d439c352c"
+    },
+    {
+      "type": "Theme",
+      "name": "délégation de moyens et de pouvoirs de décision",
+      "id": "Theme_74d436f3179bf796f9ec59a859dd5ab7cab959d36cb7de5dd143eab21e434ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification de l'association",
+      "id": "Theme_05192c8e3827e126644b12cb485662c1301671e5b76edd716851b157fe90fd2f"
+    },
+    {
+      "type": "Theme",
+      "name": "dernier kilomètre",
+      "id": "Theme_cab561fcb815540f95aa6791b4188ab3c3d1611003eb585a36bdcf9ac294ec66"
+    },
+    {
+      "type": "Theme",
+      "name": "changement",
+      "id": "Theme_9cbd2940971cb3818b27107e1516d6b75fd81b314ac194ecdd6122f84d5d454a"
+    },
+    {
+      "type": "Organization",
+      "name": "France expérimentation",
+      "id": "Organization_687f8ebb0b48f13046897868371cd9bd48c10c3f8260bc716cef6b27b095e8e8"
+    },
+    {
+      "type": "City",
+      "name": "Hauts-de-France",
+      "id": "City_c06e31908f8e6669695b5bad7aea2c7e7a7ff7c2dd1b6f6a3f93ba7930c5c3ab"
+    },
+    {
+      "type": "Person",
+      "name": "Christian VIGOUROUX",
+      "id": "Person_f680207122ede7a2f8751341d1440167845636e8ac81f30af5b2942b2f1d376e"
+    },
+    {
+      "type": "Theme",
+      "name": "crise démocratique de confiance",
+      "id": "Theme_95f76d2553513aef9caa4b7e4708ba4bc22f8a53368e4bdf7e084298b1ae7543"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Anne BLONDY-TOURET",
+      "id": "Person_43502e11e219911f0323cfd5d924a1d89327763b7f2e7cb57e9fd4a2eb3156a4"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaire générale des ministères Économiques et Financiers",
+      "id": "Organization_d1086d21f35975bbc0f7f1ab0b6a75980419c5a7ed00e1e8b658f7b1ce3f0370"
+    },
+    {
+      "type": "Theme",
+      "name": "résistances",
+      "id": "Theme_37deb2bac1d77a3ce6372f024e6d19c915c5fa0c89e29a82d82533b7f4b3c3bc"
+    },
+    {
+      "type": "Theme",
+      "name": "frustrations",
+      "id": "Theme_0cec759d55bb2ab07bc182f9c4132dc66d0f1219d406a2e951e374d35373e72c"
+    },
+    {
+      "type": "Theme",
+      "name": "ressentiment",
+      "id": "Theme_ce1c07cac0c46e166fe75b71adeedf4650bcb45fc85070ce3393b0bdb6f3d48c"
+    },
+    {
+      "type": "Theme",
+      "name": "expliquer",
+      "id": "Theme_4905fdf291ac372b61760a580a3658c81704c7cbeb1684493331c5acf1546f06"
+    },
+    {
+      "type": "Theme",
+      "name": "constats",
+      "id": "Theme_48a2e86fdfddfe41655578f38581da76cc508f6e6130ba1031de71c096800d1c"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs",
+      "id": "Theme_9288acef5b695213bca1e3c2c46bfc644261d76dbe6fd64fc8803f2f7eba2191"
+    },
+    {
+      "type": "Theme",
+      "name": "culture de l'écrit",
+      "id": "Theme_f7488b4addee100975ccc6a275779fcf19b23eb6a8e4b003cffdea3b8c89614b"
+    },
+    {
+      "type": "Theme",
+      "name": "instruction",
+      "id": "Theme_b22a707b941b81cf56d8cf65d322cd1ef50bfc21832ec28be185e9d5bb96914b"
+    },
+    {
+      "type": "Theme",
+      "name": "verticalité",
+      "id": "Theme_95f9e99b183c8e7b401a8ad2b35793d78b835bb2bd3fc4c559dd0b2f25b3232e"
+    },
+    {
+      "type": "Theme",
+      "name": "administrations",
+      "id": "Theme_d91151d0f8b549740ca6787d167e018a82c3b0aca61feb97f35e1e614f6bdb5a"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation",
+      "id": "Theme_20f02849c6d3fef1e0f7fdcc6fcd9d5a1930a7b08f24aabfc14521d8b9ed907d"
+    },
+    {
+      "type": "Theme",
+      "name": "résultats intermédiaires",
+      "id": "Theme_6809c30862d5d5ab0bc06f3a10adf2492225fc0f89a2a507fb015c99243ebb12"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès",
+      "id": "Theme_99fbe2fae74b83c0fb6be33e85f58e86e641fe47059e9c1672808dfbdcf5b5bd"
+    },
+    {
+      "type": "Theme",
+      "name": "applications",
+      "id": "Theme_139f09a78b04a5a6cb244c87676f949147db508bd2dffecf729af30cdf684592"
+    },
+    {
+      "type": "Theme",
+      "name": "agents eux-mêmes",
+      "id": "Theme_e06ffea7b7b4d86491da1c6f2f366575ad08245c1d7ce5a18a1fb9506d954e22"
+    },
+    {
+      "type": "Theme",
+      "name": "priorités",
+      "id": "Theme_2fc06aee79bff738a314bbb6ebe37cc71d3e10a182bc10e57c5e0c5950264c51"
+    },
+    {
+      "type": "Theme",
+      "name": "action publique",
+      "id": "Theme_548ddddc23f39dc2669e7b6e395c1e497b6a2f5fd1d83085a7af337638f0ddf2"
+    },
+    {
+      "type": "Theme",
+      "name": "rendez-vous managériaux réguliers",
+      "id": "Theme_ce41e3c3c8f68a4aaf3a6ec018f964564f764fcfd494228f26f1446791cf5107"
+    },
+    {
+      "type": "Theme",
+      "name": "système d'application",
+      "id": "Theme_a7c45f7ee372ceeea0fa8ca28dd3bb86f666a4e924d8b5a88f8450788acd4b08"
+    },
+    {
+      "type": "Theme",
+      "name": "objets de la vie quotidienne",
+      "id": "Theme_3e79a1f1b7fb10cfef02a97abc21b4de912a1c6773c1981af5b76acd0341859c"
+    },
+    {
+      "type": "Person",
+      "name": "Benoît ELLEBOODE",
+      "id": "Person_7930b7432fa26d2c091ec4e24be0ef09284a8fc92480800de34515e4a33c3ea6"
+    },
+    {
+      "type": "Person",
+      "name": "Animatrice",
+      "id": "Person_bb94b89e7900c1c5c0acc209a621d253332d6d08d5e5fd835412f55629923574"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence régionale de santé de Nouvelle Aquitaine",
+      "id": "Organization_0c8703c2f44c5a2472054fe1bfee53cf81e0d532bdbf4410e3767972840e88ac"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques",
+      "id": "Theme_ba19f95cfce8651b7911006a78fd0bb6aabbd2835fa43c9b908e59faca1f07ca"
+    },
+    {
+      "type": "Theme",
+      "name": "conseils départementaux",
+      "id": "Theme_8ed466ce08bc1d88b67177c1f6d5836a8f0adba72e483e29950f1fd10a895b3c"
+    },
+    {
+      "type": "Theme",
+      "name": "hôpitaux",
+      "id": "Theme_47a95dd74d9d79f889684ce203eda0cf8baa6d016129151f1f2e93cd4bc5e7b5"
+    },
+    {
+      "type": "Theme",
+      "name": "conseils de surveillance des hôpitaux",
+      "id": "Theme_aff8706090de71b9e5a7fb57046786f63a6acc4f3b80c3bd10798e30073dfb6b"
+    },
+    {
+      "type": "Theme",
+      "name": "élus locaux",
+      "id": "Theme_621da262bf8760024810f6b2ae1ed66d0383b08345c2953953224f2d11029587"
+    },
+    {
+      "type": "Theme",
+      "name": "conseils territoriaux de santé",
+      "id": "Theme_5ad3a6c4571d942a80d91ee3141827a92e31873442d90dfe36e6d7e22b69b0cc"
+    },
+    {
+      "type": "Theme",
+      "name": "CNR locaux",
+      "id": "Theme_f3f3410aed0327642b22d6bca42ba6d556f598af5cde133bffd5a465e977e226"
+    },
+    {
+      "type": "Theme",
+      "name": "CNR territoriaux",
+      "id": "Theme_08d077dbee706941eb2155d5fad459a01af67f70197d878f738382e50c267095"
+    },
+    {
+      "type": "Theme",
+      "name": "urgences",
+      "id": "Theme_55f3b2f16fa26f3e98c9cce91e25cbf1500141c0784cb67043d43751bc2c3521"
+    },
+    {
+      "type": "Theme",
+      "name": "internes",
+      "id": "Theme_6167362d9e3c32f7ac802b632982c6cdbd2ae2ac48b181a05adc02585ac62c5e"
+    },
+    {
+      "type": "Theme",
+      "name": "externes",
+      "id": "Theme_5d2ccb66358fb478eebcfc08e85086581383a8105b379e672334c485e694659b"
+    },
+    {
+      "type": "Theme",
+      "name": "médecins libéraux",
+      "id": "Theme_85e915df479cf3df945187fbd0c1fbf08d84b9824c6b9a13e67b0bb15c4b893e"
+    },
+    {
+      "type": "Theme",
+      "name": "paramédicaux libéraux",
+      "id": "Theme_c3615d2af6638eb5a135f491dc6cf5415cf36877a708066c98f496ac5926ccfd"
+    },
+    {
+      "type": "Theme",
+      "name": "GHT",
+      "id": "Theme_611e6e512617661ae5712e1a6b2900304d74f632b67ef9ddc13d2373fae17629"
+    },
+    {
+      "type": "Theme",
+      "name": "CPTS",
+      "id": "Theme_cb6166da17fc2733899caf7324b6dd49950fabc685f8c20ac99ff95b672e0d84"
+    },
+    {
+      "type": "Theme",
+      "name": "textes",
+      "id": "Theme_996a91b8a1e763817b8b269cc0fb275c573747e2ec27edc2860236404a15d866"
+    },
+    {
+      "type": "Theme",
+      "name": "engagements",
+      "id": "Theme_554a26aec35e81e580ab9d2c7687a8b8f68c677d4623a5bb7acc53a20b14ae5c"
+    },
+    {
+      "type": "Theme",
+      "name": "service",
+      "id": "Theme_83dfb916e64b01450ccd2ebf78a5846e3ede01ea4df97394681a415e679adc3d"
+    },
+    {
+      "type": "Theme",
+      "name": "équipement",
+      "id": "Theme_d00d515fbdb8a5277349ecf3907c90d6ee27185541808eb4a5dcf446fd216279"
+    },
+    {
+      "type": "Theme",
+      "name": "ARS",
+      "id": "Theme_6aa1d6ff58f164a90c19ea5195b9bfab2630ed7c1c5cdc55269e70e4bf89d311"
+    },
+    {
+      "type": "Theme",
+      "name": "collectivité médicale",
+      "id": "Theme_4fa0b30603a183343329dfdc2d0e33433ef894a46bb40e7ef437025634c3b346"
+    },
+    {
+      "type": "Theme",
+      "name": "élus",
+      "id": "Theme_f113fc009d13bd82f33ae7e561fc0eb471b92d27c763d54b74cfb9efcf86aac9"
+    },
+    {
+      "type": "Theme",
+      "name": "norme",
+      "id": "Theme_f1e7c4c4c29abd65e899b0b9db6b06460f8e30a12274acc7d92e7c8ae63eae9f"
+    },
+    {
+      "type": "Theme",
+      "name": "mandat",
+      "id": "Theme_1c1553b50ea918e040f5b180345647cf523aa8b4aaf976b5d7d5b5deecb47e1c"
+    },
+    {
+      "type": "Theme",
+      "name": "bilan systématique",
+      "id": "Theme_d9a1f940efcfb4cd7aea5254e2a593f1a2b11185b2c8ea54ad199d96f583f69b"
+    },
+    {
+      "type": "Organization",
+      "name": "préfet de région",
+      "id": "Organization_de46d9a09d02f22a424f54b9720d6f7e1b33fd7fcc000b527eea880d22ba4736"
+    },
+    {
+      "type": "Theme",
+      "name": "mission/moyen",
+      "id": "Theme_20253b95f58bbabe78490ba2f26e9f1664e3a3e9106726a78568b058240beee3"
+    },
+    {
+      "type": "Theme",
+      "name": "administration territoriale de l'État",
+      "id": "Theme_fb1fd505a62b4cf7e827ffa9ac8ff9f0f3fa122123b2ef38ff0d7ac7a2b5cbf6"
+    },
+    {
+      "type": "Theme",
+      "name": "colonne vertébrale de l'État",
+      "id": "Theme_d0a661b58d0ebaa77c8d15abbccbb37612d4e4b9cd802499c5f097baaff30d25"
+    },
+    {
+      "type": "Theme",
+      "name": "bassins de vie",
+      "id": "Theme_ea73356d047f48de123e481836de4048f205060b4f96d144361ac653feddb986"
+    },
+    {
+      "type": "Theme",
+      "name": "reconnaissance",
+      "id": "Theme_24e4cd0fe4314d21fe51891238282e7ad3290eb5e3e25cf1b43cf34fb381606e"
+    },
+    {
+      "type": "Theme",
+      "name": "efforts budgétaires",
+      "id": "Theme_269b7f632c12cf7e65e6eea6512dc3d5524bf385a775e752b3e01a4be18607e0"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction de moyens",
+      "id": "Theme_8c3741b1015cf44431c3de34a2a2c9c992d0593a0506b95d4afb0f6ac3cc1c83"
+    },
+    {
+      "type": "Theme",
+      "name": "pôles d'expertise",
+      "id": "Theme_a931491aff4176b97b2b8229f4c0c838aa03074a25bf4f5ec7a448ca50d377b9"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "transformations d'usage du numérique",
+      "id": "Theme_33d0f4b47da1b6d5f57ab27c8563ac884c0d8c245293709bd94d7b66da398cf0"
+    },
+    {
+      "type": "Theme",
+      "name": "métropolisation",
+      "id": "Theme_167483006c34203b0e9e45e872d042b211aa0cf093f953268d9da89de2f9ea3e"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité de vie",
+      "id": "Theme_4649bc0a8b4ee6471f660e17f45697eea8672b3cc78c0def2bdf334d85dab637"
+    },
+    {
+      "type": "Theme",
+      "name": "budget",
+      "id": "Theme_476c75e33f21fc15bc5588b5d07c657897da27f908716f5af56abf04963f337c"
+    },
+    {
+      "type": "Theme",
+      "name": "immobilier",
+      "id": "Theme_328854fd072ea7bd8958941f2facbb4644d45bfb0439d6f77511859602252f89"
+    },
+    {
+      "type": "Theme",
+      "name": "aménagement du territoire",
+      "id": "Theme_9e9369f994405421b8a467e4f718ddb95a9ba773ccddab6b96990cd73ffd5e8b"
+    },
+    {
+      "type": "Theme",
+      "name": "pôle d'expertise régionale",
+      "id": "Theme_1016599ea7201a1b0184bb4a6038e7cd3e70bf6447de2ace81a0c516106ac3d8"
+    },
+    {
+      "type": "Theme",
+      "name": "utilisation du numérique",
+      "id": "Theme_bf22ca5604767d5f7781de9b39cc51f6b429e3529619e48503bed6f06358cdbd"
+    },
+    {
+      "type": "Theme",
+      "name": "compétence",
+      "id": "Theme_aab181de6c1179cb760c70910101b5f79e69faf1747bbb6bfab21d1b452101fc"
+    },
+    {
+      "type": "Theme",
+      "name": "logement au niveau départemental",
+      "id": "Theme_0a3a46b9d2cb7a0838c7e420d56913bdb03bcdfa0b608fd7e4b65c6099c1e4c6"
+    },
+    {
+      "type": "City",
+      "name": "préfecture de l'Isère",
+      "id": "City_f70a11551f56c5fd8a03ae1c6054f3f331f4373679ace211a60aa1c1f0c9dc19"
+    },
+    {
+      "type": "City",
+      "name": "Seine-Saint-Denis",
+      "id": "City_233e3fc86b8f043950204615411942c8588180dc642497379d45e4cfe79480da"
+    },
+    {
+      "type": "Organization",
+      "name": "SOLIDEO",
+      "id": "Organization_a3c7e42b5bf23e91f160925434deabcefcfc5d619b0a2d12d875db4bdc6aec25"
+    },
+    {
+      "type": "Organization",
+      "name": "Élus",
+      "id": "Organization_2a8112b51d960018957700054cee7823bd277e9fa862e3ed8cf1b64ea1800278"
+    },
+    {
+      "type": "Theme",
+      "name": "Normes",
+      "id": "Theme_63b2bd4eb30422d7f3e9df259557711eba985b3d7f2995b7837452ba98b6b0b4"
+    },
+    {
+      "type": "Theme",
+      "name": "Loi olympique",
+      "id": "Theme_a94878185e3657ee77a3270f826a850ddc3d3f9047007d2f4c13c735fc1f07e7"
+    },
+    {
+      "type": "Theme",
+      "name": "France 2030",
+      "id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Organization",
+      "name": "Caisse des dépôts",
+      "id": "Organization_dc7aac95f925397cf84278e527b2c05a633764aea4f18e50bb1f49c65b6a67b3"
+    },
+    {
+      "type": "Organization",
+      "name": "banque des territoires",
+      "id": "Organization_d55f7a0134f40cb6e4d5b6b7d019bb861c510c7bbb83a8f6a339ea15442339cf"
+    },
+    {
+      "type": "City",
+      "name": "Dunkerque",
+      "id": "City_bda376ce18a11cdf6e31dcf1317332d2be264fba8faae021745f7e792736d7b0"
+    },
+    {
+      "type": "Organization",
+      "name": "ANCT",
+      "id": "Organization_b5b84ac3baa73cd30bb68adce9e4b239d3ec7190f7e04e8a8e34a0d2a167f378"
+    },
+    {
+      "type": "Theme",
+      "name": "action territoriale",
+      "id": "Theme_b5eaedf8e138ccf3d0631053b0483e472826e9f71b400ff069d3ac5eaa4e2d9e"
+    },
+    {
+      "type": "Theme",
+      "name": "programmes Actions Coeur de ville",
+      "id": "Theme_6aa8b61a03d57b2f052f9086f8920a7f32a074ffcbbe1e1da927a3d8a57474d6"
+    },
+    {
+      "type": "Theme",
+      "name": "New Deal Mobile",
+      "id": "Theme_20c2a14d23bd0f4c9ba69525ee8f9970ed1224151cc649022ba884f5327d8ee5"
+    },
+    {
+      "type": "Person",
+      "name": "MÉZARD",
+      "id": "Person_19d2cc921a316354940fe339d2626cb1fcc8f317f7311df03cba0c9fbecc85d9"
+    },
+    {
+      "type": "Person",
+      "name": "GOURAULT",
+      "id": "Person_176808259bec174ccc43ee09fe2b5b5a1cc903a2110c71c6ef1d9b598235994c"
+    },
+    {
+      "type": "Theme",
+      "name": "changement de méthode",
+      "id": "Theme_823a05c73418a6357d3bc811479840a35fddaedc4f652381f0db4e188745b901"
+    },
+    {
+      "type": "Theme",
+      "name": "utilisation d'outils",
+      "id": "Theme_fea9cbe1dcbbec88b44dd081b334a8d4eafe441cb7a1a526d59e0c5223b4d9bf"
+    },
+    {
+      "type": "Theme",
+      "name": "colère",
+      "id": "Theme_4e30994df9e9eac88bc1882bf63418ce377af79a6f9e3df68de8115525b914eb"
+    },
+    {
+      "type": "Theme",
+      "name": "impatience",
+      "id": "Theme_eef633a12c2ad2588125c93ce70b06b966e3522f0f6548f590fbab2a94a23339"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "notre Europe",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Si la France avait le taux d'activité et le taux de chômage de l'Allemagne, elle n'aurait pas de problème de finances publiques.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "réforme",
+      "relation": "PROPOSED",
+      "target": "réforme",
+      "evidence": "cette réforme, concernant notamment aussi les corps techniques, devra être finalisée cette année, et elle sera complétée",
+      "confidence": 1.0,
+      "source_id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5",
+      "target_id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "source": "DIESE",
+      "relation": "MENTIONS",
+      "target": "DIESE",
+      "evidence": "je veux vraiment remercier la DIESE que j'évoquais et la DITP qui ont été deux fers de lance de cette transformation",
+      "confidence": 1.0,
+      "source_id": "Organization_0a7b59af97e7f3c147413b8acaf5454f970387b9c7e3adb4af00701d4a65c19e",
+      "target_id": "Organization_0a7b59af97e7f3c147413b8acaf5454f970387b9c7e3adb4af00701d4a65c19e"
+    },
+    {
+      "source": "DITP",
+      "relation": "MENTIONS",
+      "target": "DITP",
+      "evidence": "je veux vraiment remercier la DIESE que j'évoquais et la DITP qui ont été deux fers de lance de cette transformation",
+      "confidence": 1.0,
+      "source_id": "Organization_1847b696f71bf25b0ca3caaba56e643a252ff1caeed48ea47c5809373d73002d",
+      "target_id": "Organization_1847b696f71bf25b0ca3caaba56e643a252ff1caeed48ea47c5809373d73002d"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "attractivité économique",
+      "evidence": "C'est un enjeu d'attractivité économique de la France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_baf7f90bcb7e01ad71e623d1429c7aa4803c6fd39f6228fc0e59f225a4e39f39"
+    },
+    {
+      "source": "Gouvernement",
+      "relation": "MENTIONS",
+      "target": "culture du résultat",
+      "evidence": "Je demande, très fortement, à ce que cette culture du résultat se diffuse partout au travers de ces politiques prioritaires du Gouvernement.",
+      "confidence": 1.0,
+      "source_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f",
+      "target_id": "Theme_2b20c3009c2fbebd9c7ce55f96fa3432d16b4267b9b3e1f8047ea9c89cdf16fe"
+    },
+    {
+      "source": "GHT",
+      "relation": "MENTIONS",
+      "target": "GHT",
+      "evidence": "mais aussi les paramédicaux libéraux qu’il ne faut pas oublier. Tout ça, il n'y a aucune instance qui permet de bien faire, ni le GHT, ni le CPTS — on n'a que des acronymes, et en plus, c'est affreux — faites une réunion de territoire.",
+      "confidence": 1.0,
+      "source_id": "Theme_611e6e512617661ae5712e1a6b2900304d74f632b67ef9ddc13d2373fae17629",
+      "target_id": "Theme_611e6e512617661ae5712e1a6b2900304d74f632b67ef9ddc13d2373fae17629"
+    },
+    {
+      "source": "CPTS",
+      "relation": "MENTIONS",
+      "target": "CPTS",
+      "evidence": "mais aussi les paramédicaux libéraux qu’il ne faut pas oublier. Tout ça, il n'y a aucune instance qui permet de bien faire, ni le GHT, ni le CPTS — on n'a que des acronymes, et en plus, c'est affreux — faites une réunion de territoire.",
+      "confidence": 1.0,
+      "source_id": "Theme_cb6166da17fc2733899caf7324b6dd49950fabc685f8c20ac99ff95b672e0d84",
+      "target_id": "Theme_cb6166da17fc2733899caf7324b6dd49950fabc685f8c20ac99ff95b672e0d84"
+    },
+    {
+      "source": "engagements",
+      "relation": "SUPPORTS",
+      "target": "réunion",
+      "evidence": "Les gens viendront à une réunion s'ils pensent que derrière, il y a du sonnant et trébuchant, il y a des vrais engagements et qu'on ne va pas leur enlever ceci ou cela derrière.",
+      "confidence": 1.0,
+      "source_id": "Theme_554a26aec35e81e580ab9d2c7687a8b8f68c677d4623a5bb7acc53a20b14ae5c",
+      "target_id": "Theme_b06610d0e82c52fc879e02a7292ecc0c45d4060106ef36b81d739b8d792c4113"
+    },
+    {
+      "source": "ARS",
+      "relation": "ALLIED_WITH",
+      "target": "collectivité médicale",
+      "evidence": "ARS aura participé à des travaux où il y a un engagement de la collectivité médicale et des élus pour faire telle ou telle action",
+      "confidence": 1.0,
+      "source_id": "Theme_6aa1d6ff58f164a90c19ea5195b9bfab2630ed7c1c5cdc55269e70e4bf89d311",
+      "target_id": "Theme_4fa0b30603a183343329dfdc2d0e33433ef894a46bb40e7ef437025634c3b346"
+    },
+    {
+      "source": "ARS",
+      "relation": "ALLIED_WITH",
+      "target": "élus",
+      "evidence": "ARS aura participé à des travaux où il y a un engagement de la collectivité médicale et des élus pour faire telle ou telle action",
+      "confidence": 1.0,
+      "source_id": "Theme_6aa1d6ff58f164a90c19ea5195b9bfab2630ed7c1c5cdc55269e70e4bf89d311",
+      "target_id": "Organization_2a8112b51d960018957700054cee7823bd277e9fa862e3ed8cf1b64ea1800278"
+    },
+    {
+      "source": "France 2030",
+      "relation": "MENTIONS",
+      "target": "France 2030",
+      "evidence": "C'est exactement ce qu'il faut faire pour tous nos grands projets. France 2030",
+      "confidence": 1.0,
+      "source_id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2",
+      "target_id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "source": "France 2030",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Dernier point sur France 2030",
+      "confidence": 1.0,
+      "source_id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

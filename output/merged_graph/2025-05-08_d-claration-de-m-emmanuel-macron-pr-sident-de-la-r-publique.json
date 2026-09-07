@@ -1,0 +1,653 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Odile De Vasselot",
+      "id": "Person_555ac1bb99c57a96fe011ab683ba4873b7508e2610d6023df0bf9cf427d1c6cc"
+    },
+    {
+      "type": "Person",
+      "name": "Cristiani",
+      "id": "Person_74385382dec6dc33064f8e5fa1f06ea87b8e3b0fa65d1e76593f8552f9c0c722"
+    },
+    {
+      "type": "Person",
+      "name": "général De Gaulle",
+      "id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442"
+    },
+    {
+      "type": "Person",
+      "name": "général De Lattre de Tassigny",
+      "id": "Person_5579f695367ab548941d8377058e18b3c934245001b2d119c51786cd99c73a54"
+    },
+    {
+      "type": "City",
+      "name": "Berlin",
+      "id": "City_b99770cd89b8870c4e168b4e52a8f787b64a4a2fc9ef992bf093af11c7e6a055"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "Résistance",
+      "id": "Theme_e76d4a7d077688683b8612822efb91314ca3d8a465e71434c7d639fcd7efc3a4"
+    },
+    {
+      "type": "Theme",
+      "name": "Forces françaises libres",
+      "id": "Theme_74e73892edf987fe045ccfc3755f9d0ce9a4e2e577156827c9661660cf8f6f3f"
+    },
+    {
+      "type": "Theme",
+      "name": "Vainqueurs",
+      "id": "Theme_8f67420977946ccae05747b9ad6d8f10d569821c9534a3ede8cba69a80b4a64f"
+    },
+    {
+      "type": "Person",
+      "name": "De Gaulle",
+      "id": "Person_37f95bd08a7aed96ec78152708e15ac7b0aeadf9b6ed76c9324554a4a27abf09"
+    },
+    {
+      "type": "City",
+      "name": "Strasbourg",
+      "id": "City_aa11677b0eceda0a1a5c819294f251193f8da741293fef8eef09bee04f4b354a"
+    },
+    {
+      "type": "City",
+      "name": "Notre-Dame",
+      "id": "City_53c3f777884e31a5acc4f71ab8497789b78b3fa0f6030df8fb3024485c574073"
+    },
+    {
+      "type": "City",
+      "name": "Londres",
+      "id": "City_46110e3e9c35de9d2cda1109fbec5fe7701b958198ac1143e8e5aa66bd4be03f"
+    },
+    {
+      "type": "City",
+      "name": "Normandie",
+      "id": "City_f0fe3a8c9028ddfa11298d6496804a09e1a0ab72a0ef8225769f14175bfca277"
+    },
+    {
+      "type": "City",
+      "name": "Provence",
+      "id": "City_02563396c2e1a5b02a9aa4678b67397e930cb5ad9d86981d6f4514102ab8d4fd"
+    },
+    {
+      "type": "City",
+      "name": "Allemagne",
+      "id": "City_980147a2dfaf1b478b8a1eeb266cc1d3913f8ab6b2aaf5b014de229763fb9c6c"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Person",
+      "name": "général De Lattre",
+      "id": "Person_8aa1f162d2186291e98e90ebed3645365e34bf3ffdba54b1a2e1d6fdbcc0bcc3"
+    },
+    {
+      "type": "Person",
+      "name": "Jean Moulin",
+      "id": "Person_7a31bd4caf84b8ba31eac59cfa7fb2777ad0ae3b615d6577d48eff4436b7427a"
+    },
+    {
+      "type": "Person",
+      "name": "Rol-Tanguy",
+      "id": "Person_ab634104125d5bbffd348cadf0cec304250041e827bd0f9c8de14d2af8a52a6f"
+    },
+    {
+      "type": "Person",
+      "name": "Joséphine Baker",
+      "id": "Person_f7243a3925b79cf0aef98e9292ace7552a68e90d1fe59cc24870da4758a27545"
+    },
+    {
+      "type": "Person",
+      "name": "Jean Daikhowski",
+      "id": "Person_6b44d6efa3b68a1067d34171db5a07b97affb162be69c98dfed4f8562ed50669"
+    },
+    {
+      "type": "Country",
+      "name": "Londres",
+      "id": "Country_b2d43d56b31fc4dd95d9c3250ed4d3dca08b02b147bcab2388f5d29afeaf8f28"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Theme",
+      "name": "juif",
+      "id": "Theme_d789e52e69aeccff9f302bed1443fe709c0b53f39a35bf54fa7810d499caff0c"
+    },
+    {
+      "type": "Theme",
+      "name": "maquis",
+      "id": "Theme_7c6f55e5dbe3acaa6a846757384622b2daab95d39d5b31f50e3fc70495e79bc4"
+    },
+    {
+      "type": "Theme",
+      "name": "tirailleurs africains",
+      "id": "Theme_265f2f3aa17eb576b95ecb46cb668e3b1f756c1a1024c25e891f2d327a8f2794"
+    },
+    {
+      "type": "Theme",
+      "name": "Maroc",
+      "id": "Theme_1c74a9b6c0d5883e7966e6000bdae799a9147db8776e4766da2dfc8b9ea75cc3"
+    },
+    {
+      "type": "Theme",
+      "name": "Algérie",
+      "id": "Theme_09877c0ffacf1987928aaf0fd2e3c49b2042784fe9e767f136e175b0866ecbfb"
+    },
+    {
+      "type": "Theme",
+      "name": "Tunisie",
+      "id": "Theme_5177884a34d1b0706cad5fcb176cf57c4b6c2e3a17fb9619b4c4c1c39eea4253"
+    },
+    {
+      "type": "Theme",
+      "name": "Sénégal",
+      "id": "Theme_3cc93278377b5d593711585fea431a956a933b5d8d934c0cd75eb180d68f9ac0"
+    },
+    {
+      "type": "Theme",
+      "name": "Cameroun",
+      "id": "Theme_ef886133e1633e1fe7966024c6883c372eb61b5bce823a70eaba7fc15e1dbe81"
+    },
+    {
+      "type": "Theme",
+      "name": "Syrie",
+      "id": "Theme_9412bf159aa0ad8f020b6d123edf8a9ec6dbdde869bde3018871bf6585e95324"
+    },
+    {
+      "type": "Theme",
+      "name": "Liban",
+      "id": "Theme_b20c8dea3ca07ce310d51d0ba12141492b86b3e884af56c14b0a3feda18fefa1"
+    },
+    {
+      "type": "Theme",
+      "name": "Arménie",
+      "id": "Theme_41fedca15c9d5cd8dadbf245861083a38bf46a33ea466a9cdb0a27c13ed186d0"
+    },
+    {
+      "type": "Organization",
+      "name": "Croix de Lorraine",
+      "id": "Organization_182cf24cab28084389ad9e5cc6efc78207d31561626e7cc5c6bca5504d87a8ae"
+    },
+    {
+      "type": "Organization",
+      "name": "drapeau tricolore",
+      "id": "Organization_baa27a3b248987b8ccd4fb948d45d442cc136f51a321675c5266cd6ff0e5f102"
+    },
+    {
+      "type": "Organization",
+      "name": "maréchal de Lattre",
+      "id": "Organization_13e4a3053c9c1250361fcd0964221fad346f20bc2817123b3c1dca0549e33936"
+    },
+    {
+      "type": "Organization",
+      "name": "Américains",
+      "id": "Organization_a7ae557303f344529102efa41a29a33645c780b50569877d161f7648723e7dcd"
+    },
+    {
+      "type": "Organization",
+      "name": "Britanniques",
+      "id": "Organization_22dc50f0d1373fefb83344c80a6eef974ae64f281ed8faa7ab75503f4582a810"
+    },
+    {
+      "type": "Organization",
+      "name": "Canadiens",
+      "id": "Organization_1e56265c873f878a14b89d84a6a04808fa0ecd856a659ce944370ed966807b73"
+    },
+    {
+      "type": "Organization",
+      "name": "peuples soviétiques",
+      "id": "Organization_fc6f73d907afaf96f11fd9461e78e23b2e406f934c625aff393d72c8e5c6c1a0"
+    },
+    {
+      "type": "Event",
+      "name": "l'ère de l'oppression nazie",
+      "id": "Event_9c43054425f1f201ec066b951dbd626d4739c49a58b777d5518aa85c34b6023c"
+    },
+    {
+      "type": "Event",
+      "name": "conflits",
+      "id": "Event_d9bbedfc55e1fcf396ccd774f83a90aa1bd1f0e60a231e7942522e5e58a29030"
+    },
+    {
+      "type": "Event",
+      "name": "occupation",
+      "id": "Event_06e9d25e5f9cabacdc255bbf1ca3fde0e0debb08b83419c4733a336c384507d8"
+    },
+    {
+      "type": "Event",
+      "name": "300 jours les plus longs",
+      "id": "Event_1f451fa87fa83ad2db8cba169752773485952cd85bf514e4b9e67d698973fd83"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Theme",
+      "name": "douleur",
+      "id": "Theme_c48a2de7ce8be5518c568065b05aa00529e6a650be8a8db51da31abea660314d"
+    },
+    {
+      "type": "Theme",
+      "name": "joie",
+      "id": "Theme_172d43dbed444c6434928abfa88afcb4b3de43593b37336997ffbf0eb9c5358d"
+    },
+    {
+      "type": "Theme",
+      "name": "peine",
+      "id": "Theme_66bcb0e0189e40e9357d233c5c4698c899fe7af3c4b8f68813b57e957765d475"
+    },
+    {
+      "type": "Theme",
+      "name": "nation",
+      "id": "Theme_60ff600be5c454bb618a1597d939fb190f2d7774c810094fe4274df593f1b232"
+    },
+    {
+      "type": "Theme",
+      "name": "morts",
+      "id": "Theme_409c6455ea07007f1c96d6d7628a33e77c2784568f412299f1c8e5997658c46a"
+    },
+    {
+      "type": "Theme",
+      "name": "civils",
+      "id": "Theme_21b3a3bd4287bcedb16cd47ee74d5c75d4567f6a845e651b9c4c4f73f73e3c88"
+    },
+    {
+      "type": "Theme",
+      "name": "déportés",
+      "id": "Theme_fe20ebf31e39bd0c46681d5dab92b396c0c54b4f7a8c2ca1e031f6c185fec94a"
+    },
+    {
+      "type": "Theme",
+      "name": "prisonniers de guerre",
+      "id": "Theme_03ac2b626f0df99f668bebab9ea6e940c9ee45c519d319735ffdc4b6eae7be34"
+    },
+    {
+      "type": "Theme",
+      "name": "immeubles détruits",
+      "id": "Theme_a4203fee7689a52ae89eeb2684623c066138042fff65e3e48ba301143fb11c6a"
+    },
+    {
+      "type": "Theme",
+      "name": "logement",
+      "id": "Theme_5482b77c02cb27b743d7ba44022361e1f99e9ac6c8c98c177add71ee6c65ef55"
+    },
+    {
+      "type": "Theme",
+      "name": "école",
+      "id": "Theme_e4023600e045c977a775d339830e8508634d36394f9b8486f09d01cdd3b05e6b"
+    },
+    {
+      "type": "Theme",
+      "name": "transport",
+      "id": "Theme_1a641d5b69608bdb03696d1cece984f99de2b357f066e5c6d65727885433491c"
+    },
+    {
+      "type": "Theme",
+      "name": "nourriture",
+      "id": "Theme_e79b7dd0c73b0af7c77c4c6803836fdf3ebdc9428ee714e7ee67a9e82ff5abde"
+    },
+    {
+      "type": "Theme",
+      "name": "océan",
+      "id": "Theme_d9e868203b07b52a7c9d4fa83502dacf76661258b1ac6c4cc5ad58b658c169b9"
+    },
+    {
+      "type": "Theme",
+      "name": "mines",
+      "id": "Theme_a0d662eb912920db62f3c60051ecb02ad1aff46b34c411da7bdac2dca14a57b9"
+    },
+    {
+      "type": "Theme",
+      "name": "gravats",
+      "id": "Theme_bc3ec7081f9d0e3267826f17ab7697dac941305daaefae15057aacea16e7c3bf"
+    },
+    {
+      "type": "Theme",
+      "name": "cheminées sans feu",
+      "id": "Theme_9453197d8862d2cdc499965ef32f8d973b535f1a76f79610848683bf623d88e2"
+    },
+    {
+      "type": "Theme",
+      "name": "semelles de bois",
+      "id": "Theme_046b97556adfe5013cbd8bb35f28feeefd37b64f3b2c2f9c2c9a1cc876157b20"
+    },
+    {
+      "type": "Theme",
+      "name": "bons de rationnement",
+      "id": "Theme_cdaa3e113d153bef01db3a3edc0b247f07e4c5892ca40ef7757c13175f577b78"
+    },
+    {
+      "type": "Theme",
+      "name": "gares de France",
+      "id": "Theme_7869286ca5f1ff4d7d86c38636089616bcf6223575e034ea73fa9cba5d9b48a4"
+    },
+    {
+      "type": "Theme",
+      "name": "camps de concentration",
+      "id": "Theme_be0b3d5af0d439538e8a4cfcdb2b25ffd2bbebe9394858ff3f2d8c1498fe8ac8"
+    },
+    {
+      "type": "Theme",
+      "name": "Auschwitz",
+      "id": "Theme_9a3989b7d352830f52382e6efb537201d15118a3b6f33346f97fb98484060a2d"
+    },
+    {
+      "type": "Theme",
+      "name": "Buchenwald",
+      "id": "Theme_cf8bdcae4d5fcb6bc0fe6815c05cd8c61b8f1b0ef9c685ef009aa7fe1627a488"
+    },
+    {
+      "type": "Theme",
+      "name": "Mauthausen",
+      "id": "Theme_d7d02e396e8c2c7fa60722134485b43cc445a2691fa127544146a981ee5edbf1"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémitisme",
+      "id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "type": "Theme",
+      "name": "haine",
+      "id": "Theme_1109211ae99f54d538f05e8b1e3badcdc61927baacdf16dc2f914c62e0db0430"
+    },
+    {
+      "type": "Theme",
+      "name": "industrialisé l'enfer",
+      "id": "Theme_5acd635e1e4045b455cedae4bef9c784a7ebe1015ba24a52f90d29719acc6f78"
+    },
+    {
+      "type": "Person",
+      "name": "les 4 frères Mougeotte",
+      "id": "Person_405be657e35e483c5908d3f156ebe6e58affc2e99f75baa75448e634c003f4b8"
+    },
+    {
+      "type": "Person",
+      "name": "les 4 frères Amyot d'Inville",
+      "id": "Person_c68cfae22f88a778f7e3a797074db650f2338102831760fb3735b9adbd3bdb5f"
+    },
+    {
+      "type": "City",
+      "name": "Maquis des Vosges",
+      "id": "City_5d7d16f4b104d237c73b7ff28506217e0e93f90c3b7891fd78a514e2d3760253"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation des Nations Unies",
+      "id": "Organization_707b7e4fb958022ac09c7c735de46bff28a624e5777366c77b47ed95be05ca58"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Theme",
+      "name": "Lumières",
+      "id": "Theme_6732c62137d1ca5442c751181b48396d98b70fee8cb1aa8e0c63bf00da0f0544"
+    },
+    {
+      "type": "Theme",
+      "name": "paix perpétuelle",
+      "id": "Theme_bf4a874b09b78bbcf26954aeffebb801453af1e56e023a343adac44e38a25105"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "impérialisme",
+      "id": "Theme_bbbda9f8ccd9f65e9586b77c0086782f0c5a68d5e62f7be59c61e15c202b5c01"
+    },
+    {
+      "type": "Theme",
+      "name": "comportements totalitaires",
+      "id": "Theme_bfea9ecd31c7bced4de02ceda869cb3e8cbd55c5176654b48b86d733c8ac0989"
+    },
+    {
+      "type": "Theme",
+      "name": "droit des nations",
+      "id": "Theme_f57235953537e762cb2dc06f2f44e5357dbde9c5d678117c1c1499899dfca8c0"
+    },
+    {
+      "type": "Person",
+      "name": "Péguy",
+      "id": "Person_8a52223f5d6a26a4148e3a691402603c318472698084f41a3597b0d1920c3c1c"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Résistance",
+      "evidence": "La France de 1943, encore, qui, depuis l'ombre des caves et des maquis de France, aux grands jours de Londres ou sous le soleil de l'Afrique, rassemblait toutes les forces de la Résistance en une.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_e76d4a7d077688683b8612822efb91314ca3d8a465e71434c7d639fcd7efc3a4"
+    },
+    {
+      "source": "conflits",
+      "relation": "SPOKE_ABOUT",
+      "target": "conflits",
+      "evidence": "s'achevaient plus de 6 ans de conflits",
+      "confidence": 1.0,
+      "source_id": "Event_d9bbedfc55e1fcf396ccd774f83a90aa1bd1f0e60a231e7942522e5e58a29030",
+      "target_id": "Event_d9bbedfc55e1fcf396ccd774f83a90aa1bd1f0e60a231e7942522e5e58a29030"
+    },
+    {
+      "source": "occupation",
+      "relation": "SPOKE_ABOUT",
+      "target": "occupation",
+      "evidence": "s'achevaient plus de 6 ans de conflits et 5 ans d'occupation",
+      "confidence": 1.0,
+      "source_id": "Event_06e9d25e5f9cabacdc255bbf1ca3fde0e0debb08b83419c4733a336c384507d8",
+      "target_id": "Event_06e9d25e5f9cabacdc255bbf1ca3fde0e0debb08b83419c4733a336c384507d8"
+    },
+    {
+      "source": "300 jours les plus longs",
+      "relation": "SPOKE_ABOUT",
+      "target": "300 jours les plus longs",
+      "evidence": "s'achevaient les 300 jours les plus longs",
+      "confidence": 1.0,
+      "source_id": "Event_1f451fa87fa83ad2db8cba169752773485952cd85bf514e4b9e67d698973fd83",
+      "target_id": "Event_1f451fa87fa83ad2db8cba169752773485952cd85bf514e4b9e67d698973fd83"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "Au Soldat Inconnu, la France venait exprimer sa reconnaissance.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "gares de France",
+      "evidence": "Sur nos côtes, l'océan charrié des mines, dans nos villes, s'accumulaient les gravats, les rayonnages vides, les cheminées sans feu, les semelles de bois et les bons de rationnement. Et ces quais des gares de France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_7869286ca5f1ff4d7d86c38636089616bcf6223575e034ea73fa9cba5d9b48a4"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "camps de concentration",
+      "evidence": "Et ces quais des gares de France qui voyaient revenir les rescapés des camps de concentration",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_be0b3d5af0d439538e8a4cfcdb2b25ffd2bbebe9394858ff3f2d8c1498fe8ac8"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Auschwitz",
+      "evidence": "Et ces quais des gares de France qui voyaient revenir les rescapés des camps de concentration, des silhouettes hagardes, fantomatiques, titubantes, venues d'Auschwitz, de Buchenwald ou de Mauthausen",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_9a3989b7d352830f52382e6efb537201d15118a3b6f33346f97fb98484060a2d"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Buchenwald",
+      "evidence": "Et ces quais des gares de France qui voyaient revenir les rescapés des camps de concentration, des silhouettes hagardes, fantomatiques, titubantes, venues d'Auschwitz, de Buchenwald ou de Mauthausen",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_cf8bdcae4d5fcb6bc0fe6815c05cd8c61b8f1b0ef9c685ef009aa7fe1627a488"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Mauthausen",
+      "evidence": "Et ces quais des gares de France qui voyaient revenir les rescapés des camps de concentration, des silhouettes hagardes, fantomatiques, titubantes, venues d'Auschwitz, de Buchenwald ou de Mauthausen",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_d7d02e396e8c2c7fa60722134485b43cc445a2691fa127544146a981ee5edbf1"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "antisémitisme",
+      "evidence": "Et ces quais des gares de France qui voyaient revenir les rescapés des camps de concentration, des silhouettes hagardes, fantomatiques, titubantes, venues d'Auschwitz, de Buchenwald ou de Mauthausen, de tous les lieux où l'antisémitisme, la haine, avaient industrialisé l'enfer",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "haine",
+      "evidence": "Et ces quais des gares de France qui voyaient revenir les rescapés des camps de concentration, des silhouettes hagardes, fantomatiques, titubantes, venues d'Auschwitz, de Buchenwald ou de Mauthausen, de tous les lieux où l'antisémitisme, la haine, avaient industrialisé l'enfer",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_1109211ae99f54d538f05e8b1e3badcdc61927baacdf16dc2f914c62e0db0430"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "industrialisé l'enfer",
+      "evidence": "Et ces quais des gares de France qui voyaient revenir les rescapés des camps de concentration, des silhouettes hagardes, fantomatiques, titubantes, venues d'Auschwitz, de Buchenwald ou de Mauthausen, de tous les lieux où l'antisémitisme, la haine, avaient industrialisé l'enfer",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_5acd635e1e4045b455cedae4bef9c784a7ebe1015ba24a52f90d29719acc6f78"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Allemagne",
+      "evidence": "la France et l'Allemagne unies dans l'Europe des Lumières contre les ennemis des Lumières",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Allemagne",
+      "evidence": "la France et l'Allemagne unies dans l'Europe des Lumières contre les ennemis des Lumières",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "Allemagne",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "la France et l'Allemagne unies dans l'Europe des Lumières contre les ennemis des Lumières",
+      "confidence": 1.0,
+      "source_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Lumières",
+      "evidence": "la France et l'Allemagne unies dans l'Europe des Lumières contre les ennemis des Lumières",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_6732c62137d1ca5442c751181b48396d98b70fee8cb1aa8e0c63bf00da0f0544"
+    },
+    {
+      "source": "Allemagne",
+      "relation": "SPOKE_ABOUT",
+      "target": "Lumières",
+      "evidence": "la France et l'Allemagne unies dans l'Europe des Lumières contre les ennemis des Lumières",
+      "confidence": 1.0,
+      "source_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6",
+      "target_id": "Theme_6732c62137d1ca5442c751181b48396d98b70fee8cb1aa8e0c63bf00da0f0544"
+    }
+  ]
+}

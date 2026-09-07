@@ -1,0 +1,583 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Cécile Kohler",
+      "id": "Person_d2d52f9850fda4d18c656b4c6ab789581266821be85c7ea39e3715e00932cf18"
+    },
+    {
+      "type": "Person",
+      "name": "Jacques Paris",
+      "id": "Person_e70c690b87402a566c1fda9db3cf6ac202c2e26ffe719e890b9b10d0ec3ec27e"
+    },
+    {
+      "type": "Person",
+      "name": "Tedros",
+      "id": "Person_27b2c2ded98d630377460b9a502aba62d91fa6cdc9c8095c111a43cfe6016368"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la préfète de région",
+      "id": "Person_5170e163a8d115a76d8a6d58815512e64f8c0ba8c996ef685a10a128bf59f0fe"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation mondiale de la santé",
+      "id": "Organization_f5757579822029fdeb945a55b4b8ef80b363463b0aa95c3bb36a34804eb108f0"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "Event",
+      "name": "Journée mondiale de la santé",
+      "id": "Event_7e23856adb4a9ad0714b19d169339b3213aebba1f9c6b9f120328923c11efdb9"
+    },
+    {
+      "type": "Person",
+      "name": "docteur Tedros",
+      "id": "Person_d0a9dc8ec77b3cc8b17e8b792f08829c3d313e735432f351f8724dfd8a00ad0b"
+    },
+    {
+      "type": "Theme",
+      "name": "One Health",
+      "id": "Theme_5fb80b8125d79d9fee99ac1831ed09190d5b1d2de827e72361aa033bda9c03fa"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération internationale",
+      "id": "Theme_f1c50b725549c07d125f90bd43162db61122bbdc0b4302fc683cdd91bd964215"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération interdisciplinaire",
+      "id": "Theme_271fd956200739ef5f8f3849a8226caa084300db96d96b2b781468956a2d0d84"
+    },
+    {
+      "type": "Theme",
+      "name": "santé humaine",
+      "id": "Theme_339ce7497821151c2fefb2fbdb98154fa9b81b4eb87c759e5773b971aca066cc"
+    },
+    {
+      "type": "Theme",
+      "name": "santé animale",
+      "id": "Theme_8b234d0ef64d0b3a15d2d6d2a02c8909ba77edb68235c5d50ec6bcff6403fa03"
+    },
+    {
+      "type": "Theme",
+      "name": "environnement",
+      "id": "Theme_b53e869b761ff3b2e610c18e6c0fd53e10ad5d2a8ba8bf353be9d0f1148d8c43"
+    },
+    {
+      "type": "Theme",
+      "name": "alimentation",
+      "id": "Theme_c513edee71bdf794af7ba878fb763b9cc4a3e831c494d701c86bdd518ebd85ab"
+    },
+    {
+      "type": "Theme",
+      "name": "maladies infectieuses émergentes",
+      "id": "Theme_9adcd1f115380b5609914418a259d81b8cee4b937d7cf02c819dba2bb5239b3f"
+    },
+    {
+      "type": "Theme",
+      "name": "régime animal",
+      "id": "Theme_9cceeca3123fb266cc43f88c32d314d002409739dd60a9e7dfbab646f54ce1f4"
+    },
+    {
+      "type": "Theme",
+      "name": "épidémie",
+      "id": "Theme_cc728abad13e3c62e85c61089f7679fbc7bd2c7fd6b01a6888d874304168d638"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie de COVID-19",
+      "id": "Theme_4058fe690a16ec88ca75848e43e55d7e47dc92f497c7adb5c46fd807d9ed87e4"
+    },
+    {
+      "type": "Theme",
+      "name": "SRAS de 2003",
+      "id": "Theme_b9cd31747996976e80564130896dec2c25905f50578b10433b43911218338140"
+    },
+    {
+      "type": "Theme",
+      "name": "H5N1",
+      "id": "Theme_026fc0e7156057f5b28e6223081a5e9caae4361f245d4a96e9a6aafdf0df414d"
+    },
+    {
+      "type": "Theme",
+      "name": "Ebola",
+      "id": "Theme_eafcdfb9c16c48ef114e308e00f294e8110fbcf0d7c7aa067f2c6daf0db1f537"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Kenya",
+      "id": "Country_534d003a91212b7d6f125c8c4307a1d02e847e28ea1580126b595d68ea4ee21e"
+    },
+    {
+      "type": "City",
+      "name": "Nairobi",
+      "id": "City_9e7e0560d5e3e471d70da8492ad27417c272d73c674b93a5d9702d27d42324e5"
+    },
+    {
+      "type": "City",
+      "name": "Évian",
+      "id": "City_40ee17ba3fe5cb7b00ec5510c998566aeb30ae5ea098f0c56d98a735161243c8"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Organization",
+      "name": "One Planet Summit",
+      "id": "Organization_a4bcf4f73de7aa31dde53c7e27b7803611f4df4940694e62fcec28d53f077699"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité des peuples de la planète",
+      "id": "Theme_b492321ac8083935b3bfe4219600acb739d01d35cb5263ed42675bc288e7a2f7"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte pour la prospérité des peuples de la planète",
+      "id": "Theme_71afc16013f016d0935b243c1312a843351a50d0f6c259dff02667a54c04ede3"
+    },
+    {
+      "type": "Theme",
+      "name": "4P",
+      "id": "Theme_02c330e637157d70ae40a2b0fe1500e33d16b108ee0a782c2b30145372db4e8a"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds mondial",
+      "id": "Organization_ca8c2d02f9273f5f2402db132de96525628a029a9a5ed6bfd29f7468014c5e60"
+    },
+    {
+      "type": "Organization",
+      "name": "Unitaid",
+      "id": "Organization_0d44c373bc07b54408decf5eef9fada08f6d98006fe430e30708f692a2b12fa8"
+    },
+    {
+      "type": "Organization",
+      "name": "Gavi, l'Alliance du Vaccin",
+      "id": "Organization_ea0f2c71ecb142812835cc4f1892b1b83cc28256afbba96537e7d695838856c5"
+    },
+    {
+      "type": "Person",
+      "name": "Françoise Barré-Sinoussi",
+      "id": "Person_ecad43bde35a67ca2cb5ab03a1f0f675b1b84eab577219fce30012a272274c4b"
+    },
+    {
+      "type": "Person",
+      "name": "Luc Montagnier",
+      "id": "Person_7ac2e2713e73ab0eb57c90adf4032489f71ffe8b8605a258f51fdcbeca60bf4d"
+    },
+    {
+      "type": "Organization",
+      "name": "OMSA",
+      "id": "Organization_be70f881d28a5d2d0a5ee78e2a5187e53c6ea15234ae6439c8a63b29144c1a1c"
+    },
+    {
+      "type": "Organization",
+      "name": "Académie de l'OMS",
+      "id": "Organization_12fb8ef779f44cbc86c15241622361d0e9e32643318276f1c3911e4659487516"
+    },
+    {
+      "type": "Organization",
+      "name": "Centre international de recherche contre le cancer",
+      "id": "Organization_d7d4e5657a27db0c3f1adac792588d9c42861d027e8c63817d78470742823ce4"
+    },
+    {
+      "type": "Organization",
+      "name": "One Health Institute",
+      "id": "Organization_ab9b273dca1452d54eaf30d49dabc6b03d916acb3da50ebae7aa79cc6fd9142d"
+    },
+    {
+      "type": "Person",
+      "name": "Dr Tedros",
+      "id": "Person_f58a87cc026ff1a59a305ce8a34c2c1b162ef0ac4834a52078e7447099af2838"
+    },
+    {
+      "type": "Country",
+      "name": "Ghana",
+      "id": "Country_773eeeed4365ee6093b085e34409eb10f1d54b6de93eb15cdd5d47939f6fe6f7"
+    },
+    {
+      "type": "Person",
+      "name": "Président Mahama",
+      "id": "Person_6c3aa97cd6b079f73d802ec8565e8ba9c65daed058fa9f676f00ed8a2d70177f"
+    },
+    {
+      "type": "Country",
+      "name": "Botswana",
+      "id": "Country_44e2ee139e9677c0dc974c7795708569f82f957311990d9ab2a1089a20db27ec"
+    },
+    {
+      "type": "Country",
+      "name": "Cambodge",
+      "id": "Country_c2ba92e8a8cdaa1461c2b33d16aff2720b0830d6aba808d00931636bd68a5b9e"
+    },
+    {
+      "type": "Organization",
+      "name": "OMS",
+      "id": "Organization_f4fd87f36b138eb90074550fbf1903ace44013d0b88bded488849d5b4439d0a9"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "CDC Africa",
+      "id": "Organization_c420e5a83aac13bfd9c0b6aea7d1d2d07c591abf66fa2f52b36c89e7b28f1138"
+    },
+    {
+      "type": "Organization",
+      "name": "Union africaine",
+      "id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Organization",
+      "name": "Sommet",
+      "id": "Organization_2c9134f21d753ec48606379e7f93e923e20d348c71b32ecac0057261b405a368"
+    },
+    {
+      "type": "Organization",
+      "name": "Pacte international pour préserver l'efficacité des antibiotiques",
+      "id": "Organization_d22ac05a56d93e42ae65b2b159c8f42579067a2b0f01a89703a44d97dd154272"
+    },
+    {
+      "type": "Organization",
+      "name": "méta-réseau international sur la résistance aux antimicrobiens",
+      "id": "Organization_9dbc4d276016e9097dd37fe6769f7f4a283d7b5092cebe3da5c4b8c441cffc5d"
+    },
+    {
+      "type": "Organization",
+      "name": "groupe d'experts de haut niveau pour l'approche Une seule santé",
+      "id": "Organization_068385b1fce17e4b05f5cca4e7b260a2ed1280312a143c55b379384b58d5ce6f"
+    },
+    {
+      "type": "Country",
+      "name": "Brésil",
+      "id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae"
+    },
+    {
+      "type": "Theme",
+      "name": "One Health Data Convergence",
+      "id": "Theme_2e3e74f88a0b55f12391083c7d72503741e110af4e4aa21fed698202e83e64d2"
+    },
+    {
+      "type": "Theme",
+      "name": "One Planet Summit",
+      "id": "Theme_6ccfafd97dce42d2cd5acd1e61d3ad30218d033319b6b3ab7eb211dc104886fd"
+    },
+    {
+      "type": "Theme",
+      "name": "PREZODE",
+      "id": "Theme_bd833827f753b13df6ad2b5ff79ae119941035a8bbe79a17341ebead97435f64"
+    },
+    {
+      "type": "Theme",
+      "name": "Zoonotic Disease Emergence",
+      "id": "Theme_96049279499d7ad6ab3b5e6f89939a45bf93f945d4b304fedf13a34445e33352"
+    },
+    {
+      "type": "Law",
+      "name": "Traité sur la lutte contre la pollution plastique",
+      "id": "Law_6ebbc531f2c5d2d08f4c5ff6116ae691a9d2f28a93655f72aa71e80909d55cba"
+    },
+    {
+      "type": "Organization",
+      "name": "Africa CDC",
+      "id": "Organization_e388b377250094b67d1f27ef91cd7a3436860d39b328bcb2b99f7f983410a73a"
+    },
+    {
+      "type": "Organization",
+      "name": "CGIAR",
+      "id": "Organization_ad079eefc64dfb412d1abc623942e76b043054b05c535cf27d4bd703862097ba"
+    },
+    {
+      "type": "Organization",
+      "name": "PanAfrican Farmers Organization",
+      "id": "Organization_4eed5489a169c9adfa0a936dcc360c2ed4dbb1be305781ef143142800967824e"
+    },
+    {
+      "type": "Country",
+      "name": "Guinée",
+      "id": "Country_edc36c904f4a3ef06419d1e9eecc1ef6b51cb15fa3ff07a2b70180890c25bc67"
+    },
+    {
+      "type": "Event",
+      "name": "Sommet Nutrition for Growth",
+      "id": "Event_9c4adc17e1fd383fe2b0b809c2106e3d0d7f3130d80a4fef76610c93ee4674e8"
+    },
+    {
+      "type": "Theme",
+      "name": "nutrition",
+      "id": "Theme_400942571c838648aa4e15c0218df43b0160e1b001ba74984175348a42658d99"
+    },
+    {
+      "type": "Theme",
+      "name": "santé cérébrale",
+      "id": "Theme_bfd92fa77d288495ff342c3e2b415b853d82ad8982f36427d60442a5016a630d"
+    },
+    {
+      "type": "Theme",
+      "name": "santé mentale",
+      "id": "Theme_85d27c3cc9b28d057d0c6180508a1ea42ec34f10ff755c2c4768d988d2cb371d"
+    },
+    {
+      "type": "Organization",
+      "name": "One Brain Health",
+      "id": "Organization_0c51e7d50b344eec3ae48f1854e48ca8df82afa12febaac2cd7655c7332a322d"
+    },
+    {
+      "type": "Organization",
+      "name": "banques de développement",
+      "id": "Organization_ee93617ebf916274fe5c4226230af370c3ca8ba88204a1ff689b5becc0c75ddc"
+    },
+    {
+      "type": "Organization",
+      "name": "organisations philanthropiques",
+      "id": "Organization_7c450dcb3321315b448f0fd8c2e5fcaac922cfab8c55ebf49c6b2490b29f362a"
+    },
+    {
+      "type": "Organization",
+      "name": "entreprises",
+      "id": "Organization_606ccd168312d17ec1eb9709077aac58b73cbc4caaca245ee7022b28c2b46c50"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernements",
+      "id": "Organization_4f66e58c91b01fbdb08b61cf4ab9053fb1302b6992393ccd3910a0def5325741"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Theme",
+      "name": "alimentation saine et durable",
+      "id": "Theme_247acf3faac853882a92f67db2192f18fde7f122933f7558533be165ce7dc28d"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté alimentaire",
+      "id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "type": "Theme",
+      "name": "santé publique",
+      "id": "Theme_324c071ca11942030cd77dff4617fcfc09b8c12f732e7cd2adb8f9693d5429fa"
+    },
+    {
+      "type": "Theme",
+      "name": "durabilité de nos systèmes alimentaires",
+      "id": "Theme_54f9a864234f521f85ef3a6fdf603508af3e1bc3342e9d2461687c8626efec90"
+    },
+    {
+      "type": "Theme",
+      "name": "infertilité",
+      "id": "Theme_1ad0dff41f3886d824907c89454f9c06ab4962ccc96b1a2decdbeab629d43e66"
+    },
+    {
+      "type": "Theme",
+      "name": "troubles du neurodéveloppement",
+      "id": "Theme_0a2042c3f2a7299e03793c4d26277ddf2d102f1ad09106118e667bf6c2433c85"
+    },
+    {
+      "type": "Theme",
+      "name": "cancers",
+      "id": "Theme_ec5727a35d53238b34051dc9e70a34a67e7ba5c9223cc3e2d008ad6f21870558"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaires d'État",
+      "id": "Organization_8e1c30d7292f37306d79d2962f39e05a81c9565675fd36c8251619de54d5d4ca"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "docteur Tedros",
+      "relation": "MENTIONS",
+      "target": "Journée mondiale de la santé",
+      "evidence": "Le docteur Tedros nous le rappelait tout à l'heure, [de cette Journée mondiale de la santé]",
+      "confidence": 1.0,
+      "source_id": "Person_d0a9dc8ec77b3cc8b17e8b792f08829c3d313e735432f351f8724dfd8a00ad0b",
+      "target_id": "Event_7e23856adb4a9ad0714b19d169339b3213aebba1f9c6b9f120328923c11efdb9"
+    },
+    {
+      "source": "santé humaine",
+      "relation": "MENTIONS",
+      "target": "santé animale",
+      "evidence": "la santé humaine, la santé animale, l'environnement, l'alimentation ont beaucoup à se dire",
+      "confidence": 1.0,
+      "source_id": "Theme_339ce7497821151c2fefb2fbdb98154fa9b81b4eb87c759e5773b971aca066cc",
+      "target_id": "Theme_8b234d0ef64d0b3a15d2d6d2a02c8909ba77edb68235c5d50ec6bcff6403fa03"
+    },
+    {
+      "source": "santé humaine",
+      "relation": "MENTIONS",
+      "target": "environnement",
+      "evidence": "la santé humaine, la santé animale, l'environnement, l'alimentation ont beaucoup à se dire",
+      "confidence": 1.0,
+      "source_id": "Theme_339ce7497821151c2fefb2fbdb98154fa9b81b4eb87c759e5773b971aca066cc",
+      "target_id": "Theme_b53e869b761ff3b2e610c18e6c0fd53e10ad5d2a8ba8bf353be9d0f1148d8c43"
+    },
+    {
+      "source": "santé humaine",
+      "relation": "MENTIONS",
+      "target": "alimentation",
+      "evidence": "la santé humaine, la santé animale, l'environnement, l'alimentation ont beaucoup à se dire",
+      "confidence": 1.0,
+      "source_id": "Theme_339ce7497821151c2fefb2fbdb98154fa9b81b4eb87c759e5773b971aca066cc",
+      "target_id": "Theme_c513edee71bdf794af7ba878fb763b9cc4a3e831c494d701c86bdd518ebd85ab"
+    },
+    {
+      "source": "maladies infectieuses émergentes",
+      "relation": "MENTIONS",
+      "target": "régime animal",
+      "evidence": "75% des maladies infectieuses émergentes sont de régime animal",
+      "confidence": 1.0,
+      "source_id": "Theme_9adcd1f115380b5609914418a259d81b8cee4b937d7cf02c819dba2bb5239b3f",
+      "target_id": "Theme_9cceeca3123fb266cc43f88c32d314d002409739dd60a9e7dfbab646f54ce1f4"
+    },
+    {
+      "source": "pandémie de COVID-19",
+      "relation": "MENTIONS",
+      "target": "épidémie",
+      "evidence": "la pandémie de COVID-19. Nul n'a oublié aussi à quel point cette épidémie s'est mondialisée en quelques semaines",
+      "confidence": 1.0,
+      "source_id": "Theme_4058fe690a16ec88ca75848e43e55d7e47dc92f497c7adb5c46fd807d9ed87e4",
+      "target_id": "Theme_cc728abad13e3c62e85c61089f7679fbc7bd2c7fd6b01a6888d874304168d638"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "G7",
+      "evidence": "la France a l'immense honneur d'assurer la présidence du G7",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "source": "One Planet Summit",
+      "relation": "SPOKE_ABOUT",
+      "target": "climat",
+      "evidence": "on a bâti le premier One Planet Summit quand les États-Unis d'Amérique, déjà, disaient : nous déchirons les accords de Paris, fini les engagements sur le climat",
+      "confidence": 1.0,
+      "source_id": "Theme_6ccfafd97dce42d2cd5acd1e61d3ad30218d033319b6b3ab7eb211dc104886fd",
+      "target_id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "One Health",
+      "evidence": "Pour la France, le One Health Summit s'inscrit dans une longue tradition d'engagement.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_5fb80b8125d79d9fee99ac1831ed09190d5b1d2de827e72361aa033bda9c03fa"
+    },
+    {
+      "source": "Ghana",
+      "relation": "VISITED",
+      "target": "Président Mahama",
+      "evidence": "J'ai proposé à mon frère, le Président Mahama, que le Ghana soit le premier pays et projet pilote.",
+      "confidence": 1.0,
+      "source_id": "Country_773eeeed4365ee6093b085e34409eb10f1d54b6de93eb15cdd5d47939f6fe6f7",
+      "target_id": "Person_6c3aa97cd6b079f73d802ec8565e8ba9c65daed058fa9f676f00ed8a2d70177f"
+    },
+    {
+      "source": "PREZODE",
+      "relation": "MENTIONS",
+      "target": "PREZODE",
+      "evidence": "Quatrièmement, à l'occasion de ce Sommet, nous élargissons la coalition internationale de l'initiative PREZODE, PREventing ZOonotic Disease Emergence, que nous avions lancée lors du One Planet Summit de janvier 2021, pour prévenir l'émergence de futures pandémies.",
+      "confidence": 1.0,
+      "source_id": "Theme_bd833827f753b13df6ad2b5ff79ae119941035a8bbe79a17341ebead97435f64",
+      "target_id": "Theme_bd833827f753b13df6ad2b5ff79ae119941035a8bbe79a17341ebead97435f64"
+    },
+    {
+      "source": "One Planet Summit",
+      "relation": "MENTIONS",
+      "target": "One Planet Summit",
+      "evidence": "Quatrièmement, à l'occasion de ce Sommet, nous élargissons la coalition internationale de l'initiative PREZODE, PREventing ZOonotic Disease Emergence, que nous avions lancée lors du One Planet Summit de janvier 2021, pour prévenir l'émergence de futures pandémies.",
+      "confidence": 1.0,
+      "source_id": "Theme_6ccfafd97dce42d2cd5acd1e61d3ad30218d033319b6b3ab7eb211dc104886fd",
+      "target_id": "Theme_6ccfafd97dce42d2cd5acd1e61d3ad30218d033319b6b3ab7eb211dc104886fd"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Organisation mondiale de la santé",
+      "evidence": "la France se tiendra aux côtés de l'Organisation mondiale de la santé, aux côtés de l'ensemble des organisations internationales présentes pour défendre un multilatéralisme efficace, une vision exigeante reposant sur la science des décisions collectives que nous avons à prendre.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_f5757579822029fdeb945a55b4b8ef80b363463b0aa95c3bb36a34804eb108f0"
+    }
+  ]
+}

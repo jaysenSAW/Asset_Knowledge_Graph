@@ -1,0 +1,110 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "BRGM",
+      "id": "Organization_511bded532f267b64f57c93ccb217a7727db67b8901d24c55788c99bd9aa2f00"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Mongolie",
+      "id": "Country_12f60cddb5dde98b76a9512ac60e9d8b2286a32d65a5ae08707aaedf6eb247b7"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté énergétique",
+      "id": "Theme_29ddd5b819c0e29a592ce29a3a3806309c1234137a4e94a8f653f8b273860b3a"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française de développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "City",
+      "name": "Oulan-Bator",
+      "id": "City_13b2a64489eec1ad8da9dc56a9a065af5d0b7d74a464b7b61abdba81b1126558"
+    },
+    {
+      "type": "Event",
+      "name": "COP sur la désertification en 2026",
+      "id": "Event_316e71617f8302c8a17418e8d651e668aa793e42daae3a2456bfd81dfe7e5d99"
+    },
+    {
+      "type": "Person",
+      "name": "M. le Président",
+      "id": "Person_7862f76c81da2366b333dc6cbcaf512a9ae591d32b1f30adb3e6fac3a787bd2a"
+    },
+    {
+      "type": "Organization",
+      "name": "Pacte de Paris pour les Peuples et la Planète",
+      "id": "Organization_9d429f6bd68db5a92a50747e71c7819c96a8529340b12adc4b5faa100bee247b"
+    },
+    {
+      "type": "Organization",
+      "name": "Programme alimentaire mondial",
+      "id": "Organization_84f668673c9d08a0a0862a68fefa552b84efec4366a8569cc898ecae836d47db"
+    },
+    {
+      "type": "City",
+      "name": "Nantes",
+      "id": "City_1de68f8e87d8e5ced688b8099593da93c4f38dd49dbdb1060438cfa40ea777d2"
+    },
+    {
+      "type": "City",
+      "name": "France",
+      "id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    },
+    {
+      "type": "Organization",
+      "name": "sociétés civiles",
+      "id": "Organization_5d6649c8515cfe176a4498422f2f4ea8d9fdd19041538b1dabbbd1c37ad64f7e"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Person",
+      "name": "KHÜRELSÜKH",
+      "id": "Person_02d7731db60118bc971d220e0b58e401c09d9ab4e28f63157ad727c7460a6525"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Mongolie",
+      "evidence": "la France et la Mongolie ont bâti une coopération exceptionnelle en matière de sécurité civile.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_12f60cddb5dde98b76a9512ac60e9d8b2286a32d65a5ae08707aaedf6eb247b7"
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Nouvelle-Calédonie",
+      "id": "City_cc4b506740f7c1968790c319d6f12845d814677cd83a29590ede16c2994049d5"
+    },
+    {
+      "type": "City",
+      "name": "Polynésie française",
+      "id": "City_237a60578d5c1c77f63402715dbac21747d712c1c60c6abd087f2decd30bb0e0"
+    },
+    {
+      "type": "City",
+      "name": "Wallis-et-Futuna",
+      "id": "City_efbae68e08beede34c3af5f073749a127433dfc05ac16372889eb21b2187f832"
+    },
+    {
+      "type": "City",
+      "name": "Île de la Réunion",
+      "id": "City_78c7c22043a7c0d44eb8e8b7b61d845d21f904a33916787cadf3c2109c9c9c23"
+    },
+    {
+      "type": "City",
+      "name": "Mayotte",
+      "id": "City_3dec527a64f181a960dc6a603b915acb2fd5fe3edc9a3709d2a6990c3fb25dc8"
+    },
+    {
+      "type": "City",
+      "name": "Caraïbes",
+      "id": "City_00f24e8aa1dfb6fcd17fd136278222a6ae32e433f81a0d99e1a6a0625a0b395e"
+    },
+    {
+      "type": "City",
+      "name": "Indo-Pacifique",
+      "id": "City_60960e8cd78678913ab63d0ad1057ccbb98c58b4417f894b94a7eb67fac10b93"
+    },
+    {
+      "type": "Theme",
+      "name": "navigation",
+      "id": "Theme_cfdf9b020db92955824bdb366bc650f72aac005be117430391bb70759f6f8e8e"
+    },
+    {
+      "type": "Theme",
+      "name": "monde turbulent",
+      "id": "Theme_92f806074a954e8cf5e6b78c7149c6b6c10ebbe29f78220ee75cb3ec0eb28514"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "mondialisation",
+      "id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef"
+    },
+    {
+      "type": "Theme",
+      "name": "covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce international",
+      "id": "Theme_20efc1ae9695eb29a44ef1bad4e91af53e6234327e597db61f23e9e8a5e1a5b4"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Theme",
+      "name": "intégration régionale",
+      "id": "Theme_840421713fa5b8dc0beee7118a552f262a4757178bf29fdc465df0efaf81a6a3"
+    },
+    {
+      "type": "Theme",
+      "name": "pauvreté",
+      "id": "Theme_95b7ed519406cd062b2738f35707ce2b499fc7f2e5179d4c674216f14032a781"
+    },
+    {
+      "type": "Person",
+      "name": "Président français",
+      "id": "Person_e7012a6b97ae94a4b4c9fbcdb54dc7078b40059fab050c6781a6e512a09d072c"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre de Thaïlande",
+      "id": "Person_25c3420f9bdcfd78e623c5d1c9ab054665bebee17c5700b9a6b407948fa3a08c"
+    },
+    {
+      "type": "Country",
+      "name": "Thaïlande",
+      "id": "Country_fe3fbc928311de6c2ecb216fdfee74bc8105f4a91e062b0ed8b40520fdbcfcac"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Australie",
+      "id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2"
+    },
+    {
+      "type": "Country",
+      "name": "Japon",
+      "id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    },
+    {
+      "type": "Country",
+      "name": "Indo-Pacifique",
+      "id": "Country_a55ae030ae39d84c0e5d62898eb2b6889a5ad107aa2dcad5c81dddfcb2b1006c"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction de la pauvreté",
+      "id": "Theme_f79e545771ed110295176bd84055ea6cf28e7cbf8331ce09a8d81953350723fc"
+    },
+    {
+      "type": "Theme",
+      "name": "règles communes",
+      "id": "Theme_af1622e0dee6084a5364e2d5be2d5d3d85da92fdbfa1b8e8466ff0a6a44cd723"
+    },
+    {
+      "type": "Organization",
+      "name": "APEC",
+      "id": "Organization_6ba23ec65ec8ba6128e48cbf5e1014f43a6b3f9249bf8557c463f1ff9b782f24"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Corée du Nord",
+      "id": "Country_d403bea44d70f65c1c477a18701e0bf7d2b84fd75e947a1213736b8cdf536760"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Law",
+      "name": "Charte des Nations unies",
+      "id": "Law_cb0ab3e4fda08b85e82ba0f3387ece966c5d82b3ab583e33ad5d6f68b8023d97"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "crise énergétique",
+      "id": "Theme_0a69de24fb58ba3738f666a89eb524b5c6dac19e499a750d57c1a7426f72f57f"
+    },
+    {
+      "type": "Theme",
+      "name": "crise alimentaire",
+      "id": "Theme_386702eed688d78b67381b60e41894642c5a37cc028312a27e912c34b9c0d52f"
+    },
+    {
+      "type": "Theme",
+      "name": "céréales",
+      "id": "Theme_c9a15fb24d51fdfbce95ab9297f203c205a63638805539d08827bb7c06e75f33"
+    },
+    {
+      "type": "Theme",
+      "name": "engrais",
+      "id": "Theme_740ede2e93503185fb3033e921243202b66e371729e145a466aa489cb432c7d5"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "fracture mondiale",
+      "id": "Theme_e50fc16b0bd5173bb11327dabbf78b660e76d5422ed4c3dc0fa9bd845d4be9d8"
+    },
+    {
+      "type": "Theme",
+      "name": "dysfonctionnements",
+      "id": "Theme_c1afa1f60a3644aafc6c0995fc83842374a84c4e05160b9cd58a8976cc949fff"
+    },
+    {
+      "type": "Theme",
+      "name": "rivalité",
+      "id": "Theme_d5e1ffde3023427213a13fc7231db75bd30e6c48b5429c743c0b316793554c26"
+    },
+    {
+      "type": "Organization",
+      "name": "OMC",
+      "id": "Organization_dbfd6ac2652ebf57b2436987f66688b5c1c31df23624ca5dbb0e937544345cc0"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre mondial",
+      "id": "Theme_50fb2f589fc6440016033c8ab6799227c70efab0404a538098ed47dc4d10ebf1"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "Green Deal",
+      "id": "Theme_e63970253e1709ac9067909729fb066b9736d3946c29fabb3145ed8a1899d19a"
+    },
+    {
+      "type": "Theme",
+      "name": "Pacte vert",
+      "id": "Theme_a4de949c56bba5859977ad02094f6337390f627da595817042c6df2e1d0bb842"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité carbone",
+      "id": "Theme_13578b8136640a21c92a662f7e77d4879f6ceffb4dd1652ae120a6e9e44f65d3"
+    },
+    {
+      "type": "Organization",
+      "name": "secteur privé",
+      "id": "Organization_3745e8a399783e7a84a94aac910ff2ad210aa46fde84b6dfe1092fdd58c457dd"
+    },
+    {
+      "type": "Organization",
+      "name": "organisations régionales",
+      "id": "Organization_f3badf3b94b6f753de18b7e842c559bf2756dc99b94c0413b0948a75dc42b688"
+    },
+    {
+      "type": "Organization",
+      "name": "secteurs public et privé",
+      "id": "Organization_6fc47c0c424d6c0982dcbc5d4c90eebd0f432dad334d074cd19d3828b90680f4"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "opportunités",
+      "id": "Theme_917c87f14cddea8bc55965346ed33b5ce5d28aa3315ef920109791e7ba8d0877"
+    },
+    {
+      "type": "Theme",
+      "name": "classe moyenne",
+      "id": "Theme_3395fe4feed54cf38c6f4a9a34d7c406f4d12f848fdd422f0acb89385f36ad39"
+    },
+    {
+      "type": "Theme",
+      "name": "transition démographique",
+      "id": "Theme_5a223223630b9625f9a9d92d2745994fae863df10e378083408789e55b1d0d23"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance démographique",
+      "id": "Theme_2bdf5ac2f89a06cba666d5f8745e227fb51d23853d9c2ccfdeca12842db995f1"
+    },
+    {
+      "type": "Theme",
+      "name": "modèles économiques",
+      "id": "Theme_077404efe170e1a366c4b3dc33dd1b926f52214740cdf1db6ad9ec714c31d79f"
+    },
+    {
+      "type": "Theme",
+      "name": "modèles sociaux",
+      "id": "Theme_38b1400bb92a8ec22645dc8958b0a44b4c2f9d50e1b053cc86567aa83d56500e"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "instabilité",
+      "id": "Theme_c2d09a5ba825f01abd9dc4fb343b022a8623eae8013fe0ac7bd037afe73bc1a4"
+    },
+    {
+      "type": "Theme",
+      "name": "néocoloniale",
+      "id": "Theme_99751845c9ad93d60966c94ab21ad6714c2f97bdc9be208216923bd08275c27a"
+    },
+    {
+      "type": "Organization",
+      "name": "Initiative de la Mer Noire",
+      "id": "Organization_7889d98f453d72014a22d97a23903ee46b8f39f7113186a23c467b6a133a22bd"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre régional",
+      "id": "Theme_a4b9762d13ff27efac2c430ec1f4752ce0ef3e193fd2c56e6e458e93d4b2ed8e"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie Indopacifique",
+      "id": "Theme_35cc6fa0de16126abf31032a1bf97e1dc7f67d321cc1199e38a69f60f7d7587c"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibre dynamique",
+      "id": "Theme_a17abbfe6878d984bbe88b4bcc2c39edc24f735d3aebc259926d93da104e0061"
+    },
+    {
+      "type": "Theme",
+      "name": "Indopacifique",
+      "id": "Theme_4bbd75d9106097dcb54f6bd07cbad0a27cf0fca1aab5ada2e267e15621c39dc6"
+    },
+    {
+      "type": "Person",
+      "name": "Malcolm TURNBULL",
+      "id": "Person_828e5dde30b66c1ee6d41cfed13bcb8282689a12a9bc9f88cbfd43357923489e"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvel ordre régional",
+      "id": "Theme_0f9b3cacd2bd6b450583060e0ed2c64c606a970daa5933f4918cf0da06b336c7"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvel ordre mondial",
+      "id": "Theme_e9639f640ff979edf6daa85176025a113265c331b782d7ea15088b3732588311"
+    },
+    {
+      "type": "Theme",
+      "name": "grands risques de fragmentation",
+      "id": "Theme_35e722c8e2e10b2478b3efc8a35ce775c5ca2b7e9f249f80d421a5c510ec15f5"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre mondial unique",
+      "id": "Theme_61f1677709bbe2028d25b3370a8ba7042850cf78e7cf9dc80d56e26544682090"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme efficace",
+      "id": "Theme_f03160f5b87672d1977e142adae55629be170ec2f5f825d00e5bdbedecc7dcff"
+    },
+    {
+      "type": "Theme",
+      "name": "fragmentation du monde",
+      "id": "Theme_a8f739465d1a36a51edc5742f68bde5282a39b8ee5cd0a638962b9c7396cc492"
+    },
+    {
+      "type": "Theme",
+      "name": "opportunités d'investissement",
+      "id": "Theme_bfcd98daac5d0bc58526c788f0c74a9cd8cd6606f3e241b890ab47832ea87e05"
+    },
+    {
+      "type": "Organization",
+      "name": "OMS",
+      "id": "Organization_f4fd87f36b138eb90074550fbf1903ace44013d0b88bded488849d5b4439d0a9"
+    },
+    {
+      "type": "Organization",
+      "name": "FMI",
+      "id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "type": "Theme",
+      "name": "capitalisme",
+      "id": "Theme_80793c2177bafe0353f7c720c2784e1371d4238b41a0f503ce9cc104484e42bc"
+    },
+    {
+      "type": "Theme",
+      "name": "inclusif",
+      "id": "Theme_e37addc18beefbfba63cb6653aae696fe70470090ff93932e26542703437448d"
+    },
+    {
+      "type": "Theme",
+      "name": "coopératif",
+      "id": "Theme_58008a22d7cdb3549d3f73ea6bf65e42d24c7c7faa71ade0313cfa0f5c45e74f"
+    },
+    {
+      "type": "Theme",
+      "name": "normes",
+      "id": "Theme_63b2bd4eb30422d7f3e9df259557711eba985b3d7f2995b7837452ba98b6b0b4"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Organization",
+      "name": "partenariats JET-P",
+      "id": "Organization_a8427106e97ba66c145162c3183df6ff11fbba88337c39c1e4270138970b1c0d"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique du Sud",
+      "id": "Country_18768cba57ae5abd3fb4a98f72c105af41db31822809e203889560cb72663272"
+    },
+    {
+      "type": "Country",
+      "name": "Indonésie",
+      "id": "Country_7771567a7a9b44f302b0f12f28ad9ee4fe89238f6364c4b0642d6454f3add126"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie faible en carbone",
+      "id": "Theme_28dd5e0a9a4c51f98405f7779e2b89fef88c6bac88bf00661c02a72082475f15"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie nucléaire",
+      "id": "Theme_b77efdea1d7a587ef4d40978be7f76968dca9ba7a2d81e63df9557fa358dd4bd"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelables",
+      "id": "Theme_0bbded11273c52e8b7ad2cbd745e7eda3e1c008ae94878c7f43611bbb4ef07af"
+    },
+    {
+      "type": "Theme",
+      "name": "collaboration entre les dirigeants d'entreprises",
+      "id": "Theme_7025498a99a111ae68c29f7a81173253203fc6a2b624f8b2f61ac3465fc2c84e"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernements",
+      "id": "Theme_6482720560430fdeb3aee8281b20e0456e93ffc9529248c44c7bb3a09c952a0a"
+    },
+    {
+      "type": "Theme",
+      "name": "monde",
+      "id": "Theme_36839915f4f916c517dee200dc570577a7da1e70f69dc68e095ea54120f4c55e"
+    },
+    {
+      "type": "Theme",
+      "name": "défi climatique",
+      "id": "Theme_5f6371c76761a41d707f9db402070d4627116fd8ee240538fbdd5deb5ab6cb4f"
+    },
+    {
+      "type": "Theme",
+      "name": "système énergétique",
+      "id": "Theme_08368a7d513f3a99c1545391d7ee5426825960143f560916d0855f2c98f97765"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle social",
+      "id": "Theme_84e716fb96d816e1a7cec10303220f68a6aaf5c7e5b53934555aa33e88fc517d"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "coût du travail",
+      "id": "Theme_22e28f674378a26d81a95fbe698e2737cb7d69efcdcac0c360d5995ac5c6e2f1"
+    },
+    {
+      "type": "Theme",
+      "name": "coût du capital",
+      "id": "Theme_01ab3985851c9cb20d2c50cd08cd50c188bcd8c7149b5ad9999537a9d9048331"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois sociaux",
+      "id": "Theme_bcb792d403d07d41ef899d89a0819bfc421e1d66a04c1a8cb5ef7e604caaefd3"
+    },
+    {
+      "type": "Theme",
+      "name": "reprise",
+      "id": "Theme_5b6ccccbb0487b9ef12cb70fd78a8f4d3f481a60fb5b5f8e937ddbde12464a60"
+    },
+    {
+      "type": "Theme",
+      "name": "créativité",
+      "id": "Theme_550d4dc699a796ca3be62727957df316896d3858817d9e91c8d89c6f5b2da032"
+    },
+    {
+      "type": "Theme",
+      "name": "littérature",
+      "id": "Theme_78ba2a7bd2758a35334d63320c788ed0003767d14ad19f765bce76ab995a9af9"
+    },
+    {
+      "type": "Theme",
+      "name": "gastronomie",
+      "id": "Theme_95de876b1173e4eff212fc36e76d6c5f96b693492bb23438c8897dfee2f77158"
+    },
+    {
+      "type": "Theme",
+      "name": "startups",
+      "id": "Theme_b3fedf1927a7ff9f9b930ba12d4dcb168cbce6318c5601c66dc5821cf26b6a3d"
+    },
+    {
+      "type": "Theme",
+      "name": "technologie",
+      "id": "Theme_f50f2e73d342423ab68fbb527a8e6f41bb64bfac8440718a497ef6f75a9032d8"
+    },
+    {
+      "type": "City",
+      "name": "Calédonie",
+      "id": "City_2ca79db699b9827ca65d20221b112e96084d13f6f0f424da9dd6ddf4614a4ba7"
+    },
+    {
+      "type": "City",
+      "name": "Réunion",
+      "id": "City_d430b37268f49a517af1ba43c391b87d171cbac56fd1a5a50d7b9459f8e5b245"
+    },
+    {
+      "type": "City",
+      "name": "Polynésie",
+      "id": "City_103d11482639dfde531a4dc1072ea2ddc0c4aad84839afc490792d292fce95c1"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Russie",
+      "relation": "ALLIED_WITH",
+      "target": "Ukraine",
+      "evidence": "L'agression menée par la Russie contre l'Ukraine",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "guerre",
+      "relation": "MENTIONS",
+      "target": "crise énergétique",
+      "evidence": "Bien sûr, cette guerre s'ajoute à d'autres crises, la crise énergétique.",
+      "confidence": 1.0,
+      "source_id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51",
+      "target_id": "Theme_0a69de24fb58ba3738f666a89eb524b5c6dac19e499a750d57c1a7426f72f57f"
+    },
+    {
+      "source": "guerre",
+      "relation": "MENTIONS",
+      "target": "crise",
+      "evidence": "Mais c'est la raison pour laquelle cette guerre est une telle crise mondiale.",
+      "confidence": 1.0,
+      "source_id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51",
+      "target_id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "source": "Indopacifique",
+      "relation": "MENTIONS",
+      "target": "Indopacifique",
+      "evidence": "Cela signifie qu’une autre philosophie pour l'Indopacifique, dans l'Indopacifique, repose sur la souveraineté, la liberté de la souveraineté, comme le disait mon ami Malcolm TURNBULL.",
+      "confidence": 1.0,
+      "source_id": "Theme_4bbd75d9106097dcb54f6bd07cbad0a27cf0fca1aab5ada2e267e15621c39dc6",
+      "target_id": "Theme_4bbd75d9106097dcb54f6bd07cbad0a27cf0fca1aab5ada2e267e15621c39dc6"
+    },
+    {
+      "source": "Malcolm TURNBULL",
+      "relation": "SPOKE_ABOUT",
+      "target": "Indopacifique",
+      "evidence": "Cela signifie qu’une autre philosophie pour l'Indopacifique, dans l'Indopacifique, repose sur la souveraineté, la liberté de la souveraineté, comme le disait mon ami Malcolm TURNBULL.",
+      "confidence": 1.0,
+      "source_id": "Person_828e5dde30b66c1ee6d41cfed13bcb8282689a12a9bc9f88cbfd43357923489e",
+      "target_id": "Theme_4bbd75d9106097dcb54f6bd07cbad0a27cf0fca1aab5ada2e267e15621c39dc6"
+    },
+    {
+      "source": "Thaïlande",
+      "relation": "VISITED",
+      "target": "Thaïlande",
+      "evidence": "C'est la raison pour laquelle ce que nous avons signé hier avec le Premier ministre de Thaïlande sur la coalition pour la préservation de la biodiversité notamment, est essentielle, pour vous comme pour nous.",
+      "confidence": 1.0,
+      "source_id": "Country_fe3fbc928311de6c2ecb216fdfee74bc8105f4a91e062b0ed8b40520fdbcfcac",
+      "target_id": "Country_fe3fbc928311de6c2ecb216fdfee74bc8105f4a91e062b0ed8b40520fdbcfcac"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France dispose de nombreux atouts, et ce qui fait que notre pays est assez spécial, c'est que les Français sont très fiers, -parfois, peut-être un petit peu trop, voire un peu arrogants-, mais de fait, nous doutons beaucoup de nous-mêmes, parfois trop probablement.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

@@ -1,0 +1,679 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "mon épouse",
+      "id": "Person_65551c424854d82f2d90f70ebf9ddb439d847aa1d2694e27951e7010e4cc995c"
+    },
+    {
+      "type": "Organization",
+      "name": "Gustave Roussy",
+      "id": "Organization_5b422ddf4e0e677ae2458a35f3dee76d8748b0c6713ddf94e380c2dde2fbec7f"
+    },
+    {
+      "type": "Event",
+      "name": "Journée mondiale de lutte contre le cancer",
+      "id": "Event_37abf11e65fd13f0cd1b8eba7a6b0425140b6d74f6e7fb874937433f7a511e51"
+    },
+    {
+      "type": "Organization",
+      "name": "centres de lutte contre le cancer",
+      "id": "Organization_1e1ff721e75db7c886918f72300c3910b852c72c2ee63edab04f7426a5d4d403"
+    },
+    {
+      "type": "Organization",
+      "name": "l'ensemble des entreprises du secteur",
+      "id": "Organization_3a789ea09e17c2a1c2bca426724401c225e9e09a633a94999fa8837b41c89033"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le cancer",
+      "id": "Theme_6aad7803b9c44640f22f6631d69d234f4f7bdac428158f5a3c555e5a68e26d68"
+    },
+    {
+      "type": "Person",
+      "name": "Norbert IFRAH",
+      "id": "Person_78749df38757ba3cb36b6a45450041e8a5e6512c055f651c34f06d358a25da7d"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Theme",
+      "name": "programmes de lutte contre le tabac",
+      "id": "Theme_88ac2d1309cab8d737536b1a6b445693442dd6972b9dd5846ea6b69c079d9b18"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention",
+      "id": "Theme_b5d3262ef3c58743a1781f267abe9b162422a835f4df383fc4856acb883ee6a0"
+    },
+    {
+      "type": "Theme",
+      "name": "Innovation 2030",
+      "id": "Theme_ca1e23be27860bbde3d3c2bf21af12e56ee58411cae287531a1a55f2c88b7c04"
+    },
+    {
+      "type": "Theme",
+      "name": "Paris-Saclay-Cancer Campus",
+      "id": "Theme_9eba279316f90fa8787da8a01163f8799983fcbb6b75e07c5764f9130ff360d5"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Saclay",
+      "id": "City_caf8bceac7e04858a0b95144bf9f86be7269fc1af57b57e4f15c33a4d0125d5f"
+    },
+    {
+      "type": "Person",
+      "name": "Professeur",
+      "id": "Person_cfabe3805ef559565a127c31135c419dd8493880ab5c9a6ed695db7e1f22b32c"
+    },
+    {
+      "type": "Person",
+      "name": "Professeur SORIA",
+      "id": "Person_40907d33e6c86e30511ae75ba147c20018b2159298a7fbb8dfe83fc3e71200f1"
+    },
+    {
+      "type": "Person",
+      "name": "Professeur BARLESI",
+      "id": "Person_9974827ef1c34f9ebbd6e676c46d3c0175fac96c271ee0f71a2bb2a3bf69dfc9"
+    },
+    {
+      "type": "Organization",
+      "name": "IGR",
+      "id": "Organization_9a24bbe5d7de03f5f01aec445809b653f51a06da730a119e0da16fb110109ab4"
+    },
+    {
+      "type": "Organization",
+      "name": "Inserm",
+      "id": "Organization_f23e2a99ebfcec3c01ea31acdd2249332420cad575f0c8a108947d92f0bc39eb"
+    },
+    {
+      "type": "Organization",
+      "name": "Sanofi",
+      "id": "Organization_5de41446321ded92c12fbd89ce8d6d33248cd6c7f3775680f7c00fa1456b3d98"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut polytechnique",
+      "id": "Organization_c4f0f2d78d0e68f632a7672dd91601adb44b7df5e25eb1347f4c725f86c17d76"
+    },
+    {
+      "type": "Organization",
+      "name": "Université Paris-Saclay",
+      "id": "Organization_b8a9d7fa5e7a73c496eb5373c1f2b9117806ce48dd02b3ffa9f92cabd5b6d203"
+    },
+    {
+      "type": "Organization",
+      "name": "INCa",
+      "id": "Organization_9ded182241a655f90bdb2df4bce0dd6dcc59268208dfe82d76fdaf7124ca0517"
+    },
+    {
+      "type": "Organization",
+      "name": "UniCancer",
+      "id": "Organization_cfb554b016b7a2f32777dbf231768ba540933b76b35f9db5b3e14c19a87fe8e5"
+    },
+    {
+      "type": "Organization",
+      "name": "la ville",
+      "id": "Organization_c8c8a15a0fa3027532775c3d102ff596e622af856716282b480ac8ad0d0461ce"
+    },
+    {
+      "type": "Organization",
+      "name": "le territoire",
+      "id": "Organization_a046ae064fe259b3666eed495f072e2da5bac680d28d943959d53af880a28ea5"
+    },
+    {
+      "type": "Organization",
+      "name": "le département",
+      "id": "Organization_7234e134cb78a14c931cd8f281c918a292835826f5ae1e366b31e5159d0295a2"
+    },
+    {
+      "type": "Organization",
+      "name": "la région",
+      "id": "Organization_7cc139ce07dd74730da06dde682ac092bf242bfd13769d63e7875993317a9b0c"
+    },
+    {
+      "type": "City",
+      "name": "la ville",
+      "id": "City_b3021c489c858324406795b8beb77caee63aeebd0728feb6e16e32011acec6dc"
+    },
+    {
+      "type": "City",
+      "name": "le territoire",
+      "id": "City_10b80dae5b87b3cc6835442727e21e6bde874ccc40a414734a138bd87f618c24"
+    },
+    {
+      "type": "City",
+      "name": "le département",
+      "id": "City_aac4c343c85f132069c72490ca348027407c8a05427bc802feeddb26da6fb7e1"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Organization",
+      "name": "l'ensemble des services de l'État",
+      "id": "Organization_a21a7ebf8c1d6ecd5d6c5e4578ed45fa745a9a48062f27244e8d9775e30b6f22"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère de la Recherche",
+      "id": "Organization_3b9497e3b56b8cb22aa72600b135054ded06cabd327174cc50d996fe09411b3c"
+    },
+    {
+      "type": "Organization",
+      "name": "PSCC",
+      "id": "Organization_6a3ee48d6cd945ad950541fb20f79df74aaf675d9388344c7ff1f54b955266f3"
+    },
+    {
+      "type": "Organization",
+      "name": "plan de lutte contre les cancers",
+      "id": "Organization_0098b45cf628d1e7e20ef17508d4dbea6c7410459ee4b279d1ebc3db145256a1"
+    },
+    {
+      "type": "Organization",
+      "name": "Santé France 2030",
+      "id": "Organization_5ae930d585ae6cb3afab75b3fba283261650199841db5a82a5a54d8dbaac86d0"
+    },
+    {
+      "type": "Organization",
+      "name": "plan Innovation Santé 2030",
+      "id": "Organization_a59fe8217ca6f42eb54e859afe3bd08203819c788eabab0fe6c1bffc1e780129"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "City",
+      "name": "Évry-Courcouronnes",
+      "id": "City_f7629735f577d3dafc97786347851291157fcf7b624bccce5b13fe25c9fa8f19"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "Organization",
+      "name": "plan Ma santé 2022",
+      "id": "Organization_87bc23caf3b768e22cfa2c414831886fa3549a91fd7577dc141fc04a1881a56a"
+    },
+    {
+      "type": "Organization",
+      "name": "plan de sortie de covid",
+      "id": "Organization_e3dec82da62f2a0e8aff9f72fea3dc497a5eed3744f7721ae43baf23a4bb0d99"
+    },
+    {
+      "type": "Organization",
+      "name": "différents Ségur successifs",
+      "id": "Organization_48f04e004b90a7979041a285f27f7b8b0d81715d9adb1e3460c04a93f7141d18"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation collective",
+      "id": "Theme_79218b53157fe5e1e2665da4332c81c5325af4c9e81b83af934e497d950b640a"
+    },
+    {
+      "type": "Theme",
+      "name": "centres de lutte contre le cancer",
+      "id": "Theme_72f662ef8f67c57b9eaa0c89195c4508b8d854aec9c3d0ff154a7f2207475943"
+    },
+    {
+      "type": "Theme",
+      "name": "flexibilité dans l'organisation",
+      "id": "Theme_c5ddb5da71ba86a8ac04d2135667da3747e7e95fa03309d7bf91753d4eb6fca3"
+    },
+    {
+      "type": "Theme",
+      "name": "décloisonnement",
+      "id": "Theme_b6349c536ee76eee4bdea073ba36bdbfa01f2d669e6c49cb17996fda0a4ca936"
+    },
+    {
+      "type": "Theme",
+      "name": "oncologie",
+      "id": "Theme_d42951eb2392b03d2903792f3ac740259a9d2c82937b732c2b2ca6849faaf5f1"
+    },
+    {
+      "type": "Theme",
+      "name": "biologie",
+      "id": "Theme_05f1572c8c7b786df58184e8f87a391c5f05c84719614dc2f044df20864593ba"
+    },
+    {
+      "type": "Theme",
+      "name": "clinique",
+      "id": "Theme_17964a0601fcbd2b820e121c4e1a517dab14a66bbdd8f28c20b9673ccd2fc27a"
+    },
+    {
+      "type": "Theme",
+      "name": "génétique",
+      "id": "Theme_53dbcc4e81da94422625d96d605ad0f3b7f919509ad4c00a3f50bd9e23528da2"
+    },
+    {
+      "type": "Theme",
+      "name": "sciences de l'environnement",
+      "id": "Theme_df3c26077b14bf657f0d874b63ae8c52d2c8fd5c0795e1ea0a078aed168951ee"
+    },
+    {
+      "type": "Theme",
+      "name": "décloisonnement des disciplines",
+      "id": "Theme_f747780ec44c71e938c1e046f45e62f7ff8311524c8a064628008e9b2bc2d7ce"
+    },
+    {
+      "type": "Organization",
+      "name": "Owkin",
+      "id": "Organization_0d8e9de53a48488c8bdd4f8fd2d3999ea0f4535fe9612d59cb1bad9514111f06"
+    },
+    {
+      "type": "Organization",
+      "name": "GSK",
+      "id": "Organization_55d1ff155bda7261566e9813837ba3d61f901995c163123d545d1a662ba2502c"
+    },
+    {
+      "type": "Theme",
+      "name": "philanthropie",
+      "id": "Theme_8e910a45a0534552549634a52fcf3c27e1b8abf54d75c8acf0ac7bfaa90a3927"
+    },
+    {
+      "type": "Theme",
+      "name": "fondations",
+      "id": "Theme_4034123093209b187491ac3322898a617042a7469a48e02239506bd57c6a34ef"
+    },
+    {
+      "type": "Theme",
+      "name": "philanthropes",
+      "id": "Theme_4987765cf4cd1b76536fa036c6a538b7fee846b5e4d185e4c4c80d412e485355"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations",
+      "id": "Theme_3957cb051014b00717e7b2ec655cbcfa47c99687835fe48f9d3a8fbe1cedaead"
+    },
+    {
+      "type": "Theme",
+      "name": "chaires d'excellence",
+      "id": "Theme_7c01ed8a197458b5be2faba32ad174b388930abf4f1e35dc518f66c4b61af32a"
+    },
+    {
+      "type": "Theme",
+      "name": "chercheurs",
+      "id": "Theme_27b19537bc2e5f22d12f1962f8f70e1ee1a330abc70b7478cf5d5d7563117776"
+    },
+    {
+      "type": "Theme",
+      "name": "décloisonnement public-privé",
+      "id": "Theme_ad1514bda95045bcecb395a996bffb5381ecb9ffb90c9c7a440c404a61eff00b"
+    },
+    {
+      "type": "Theme",
+      "name": "entreprenariat",
+      "id": "Theme_76ad9bc9b5172ac0e0c0fe73b885dc54a90957e21e4a73713d2c2391226e8dec"
+    },
+    {
+      "type": "Organization",
+      "name": "l'université",
+      "id": "Organization_bfb35dfcca723758db883b4a6351c19e32ae9eabfffdcd9b31e5d0c313552dee"
+    },
+    {
+      "type": "Organization",
+      "name": "l'hôpital",
+      "id": "Organization_c64c2098af08237d71a65ed962ed485f119adda25320027a9b093ddbff3998ee"
+    },
+    {
+      "type": "Organization",
+      "name": "cluster",
+      "id": "Organization_3564b0d490a4755de65e1c45fd84be7049b861094fa9884ab0fb32b1739a960a"
+    },
+    {
+      "type": "Organization",
+      "name": "entreprises",
+      "id": "Organization_606ccd168312d17ec1eb9709077aac58b73cbc4caaca245ee7022b28c2b46c50"
+    },
+    {
+      "type": "Organization",
+      "name": "philanthropes",
+      "id": "Organization_94e67a551ccd2365934610841ca661b36c4a7ac4648f6309a8a917635d9287df"
+    },
+    {
+      "type": "City",
+      "name": "PariSanté Campus",
+      "id": "City_f34b1957954c9215c7badb2d1a7997afdf9e79c59f93bec8753d60281ffcd11e"
+    },
+    {
+      "type": "Organization",
+      "name": "Health Data Hub",
+      "id": "Organization_e07cb135396318d78d6a1c538c904d83bcc73aade49ea4f27b5b769ebfd90700"
+    },
+    {
+      "type": "Organization",
+      "name": "la vôtre",
+      "id": "Organization_708149c57e7ce55232c6a1b94349cbbe2d939fd629a93a6cb1dc2043d1372d29"
+    },
+    {
+      "type": "Organization",
+      "name": "CNAM",
+      "id": "Organization_fe0894efbf51014db974d115eb94a47de933f69ef267c56a0b0b443188eb6fd8"
+    },
+    {
+      "type": "Organization",
+      "name": "hôpitaux",
+      "id": "Organization_4bc1048beac43b9921f0ac91cf4d0fbee6d5154b31d8f4af4dff1a715dfce441"
+    },
+    {
+      "type": "Organization",
+      "name": "unités",
+      "id": "Organization_cd5526ea130938f03bcd24b2ab301232888c7abaa4c41452b203e6b5d8601bca"
+    },
+    {
+      "type": "Organization",
+      "name": "ANSM",
+      "id": "Organization_d40fe3a46f43f3fbd7a0f8cb066ef28a791ee7a8f405a8e439696319e24ecd53"
+    },
+    {
+      "type": "Organization",
+      "name": "Haute Autorité de Santé",
+      "id": "Organization_50f77d6d08ada5301d759c292d0f9094d031f0a66d89cef02fc00d47f363d068"
+    },
+    {
+      "type": "Organization",
+      "name": "ARS",
+      "id": "Organization_e0895a481c105024ae88c4febdcf5db881937615d461198b5b7fcfa2894ae862"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "essais cliniques",
+      "id": "Theme_b66d0330ea5bb17326c278496f73532c5021de129d542950405173c3b2db5dec"
+    },
+    {
+      "type": "Theme",
+      "name": "pharmas",
+      "id": "Theme_9f02a1edd84fa799b072ecac428837ccf7bb06501e9141f8b901eed044e1946f"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaires d'État",
+      "id": "Organization_8e1c30d7292f37306d79d2962f39e05a81c9565675fd36c8251619de54d5d4ca"
+    },
+    {
+      "type": "Organization",
+      "name": "IA",
+      "id": "Organization_552048826b281c29fd2982c95739ce264fc5b82b894bf136bacbb7d8f0c37538"
+    },
+    {
+      "type": "Organization",
+      "name": "investisseurs",
+      "id": "Organization_ef8b13d5a79a187555630e0c3e7d77519e14105fc0aed9f9e6f368bce94e0f4f"
+    },
+    {
+      "type": "Organization",
+      "name": "Saclay",
+      "id": "Organization_19ffe7e473cd0f81a9c259ba9af569bd2290bb4e0132d6a7ccc459fdb132f707"
+    },
+    {
+      "type": "Organization",
+      "name": "clusters mondiaux",
+      "id": "Organization_e60dd2725c266787c48c2d60341a5c41e2de24814ecf4a65bca594fd522288ca"
+    },
+    {
+      "type": "Theme",
+      "name": "IA",
+      "id": "Theme_0f7b4d278ae5bfefffb82e77e70a25c278d1ebb45250f850a04518b8bb8d4702"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Organization",
+      "name": "INRIA",
+      "id": "Organization_5219b7db9fd3ef2c48b004e6ce3de3c211c2ea34a75203009621b05e8e0f84b2"
+    },
+    {
+      "type": "Organization",
+      "name": "CEA",
+      "id": "Organization_56bee4e69d140d03f96302b407e9a57182af007e69e3a0511d3d22f4e01718b0"
+    },
+    {
+      "type": "Organization",
+      "name": "CNRS",
+      "id": "Organization_9797a7b293510a1bf26addf4f9eb951f6a91dfb71b6b8d8c7031c08fb95a0fa4"
+    },
+    {
+      "type": "Organization",
+      "name": "ANR",
+      "id": "Organization_b4e54f111b7a3f1f4405f2bdb85528b7d718546b02ab6c1525e527bfe24f9366"
+    },
+    {
+      "type": "Organization",
+      "name": "votre",
+      "id": "Organization_8a3008a6f4335e930c14124e8990978a99dd8c4cdeb0194167703617ceeb326b"
+    },
+    {
+      "type": "Theme",
+      "name": "médecine",
+      "id": "Theme_f3ce7496d603dcb85ba3fdf8a80ffbbd3a1823495c1458b7eeb214eb8eed8d44"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche en sciences du vivant",
+      "id": "Theme_efa6e70b826abef6f9ee2b14db992a982a2cd3a9c64308bf6f49c52acdf5d734"
+    },
+    {
+      "type": "Theme",
+      "name": "système de santé",
+      "id": "Theme_2657aebfbbfb5694ad4f18f7234ec7531dfc35b68b63242c708fb8b908b3b060"
+    },
+    {
+      "type": "Theme",
+      "name": "maladies chroniques",
+      "id": "Theme_57178cca0419ae26312b9967976059ab7b2985410eae03ad24b2f0e9c5b9b210"
+    },
+    {
+      "type": "Theme",
+      "name": "coût",
+      "id": "Theme_ad224afb604bf336e4ae5b79ce30496eb9a512aa89825900ee0043b5c4d19d2a"
+    },
+    {
+      "type": "Theme",
+      "name": "cancer",
+      "id": "Theme_7c7e1a7e91f1dfbe82ed4b49ac76b08108bad665da03a86ae973b8d74ab4684f"
+    },
+    {
+      "type": "Person",
+      "name": "Professeurs",
+      "id": "Person_472ffa684d27c72965804c7fd59d75b3894cdf5fb7a72f5e68f25b5f74293f88"
+    },
+    {
+      "type": "Person",
+      "name": "Toutes celles et ceux qui le portent",
+      "id": "Person_e74aa9457d01af50a59a81ec8e55cc70e9c7fdcd4e3e6d49a00c1a413211171a"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "la ville",
+      "relation": "LOCATED_IN",
+      "target": "le territoire",
+      "evidence": "la ville, le territoire, le département",
+      "confidence": 1.0,
+      "source_id": "City_b3021c489c858324406795b8beb77caee63aeebd0728feb6e16e32011acec6dc",
+      "target_id": "City_10b80dae5b87b3cc6835442727e21e6bde874ccc40a414734a138bd87f618c24"
+    },
+    {
+      "source": "la ville",
+      "relation": "LOCATED_IN",
+      "target": "le département",
+      "evidence": "la ville, le territoire, le département",
+      "confidence": 1.0,
+      "source_id": "City_b3021c489c858324406795b8beb77caee63aeebd0728feb6e16e32011acec6dc",
+      "target_id": "City_aac4c343c85f132069c72490ca348027407c8a05427bc802feeddb26da6fb7e1"
+    },
+    {
+      "source": "France 2030",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "France 2030",
+      "confidence": 1.0,
+      "source_id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "PSCC",
+      "relation": "ANNOUNCED",
+      "target": "plan de lutte contre les cancers",
+      "evidence": "Le PSCC vient au cœur à la fois de notre plan de lutte contre les cancers,",
+      "confidence": 1.0,
+      "source_id": "Organization_6a3ee48d6cd945ad950541fb20f79df74aaf675d9388344c7ff1f54b955266f3",
+      "target_id": "Organization_0098b45cf628d1e7e20ef17508d4dbea6c7410459ee4b279d1ebc3db145256a1"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "on a en France une immense chance d'avoir le système de santé qui est le nôtre",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "plan Ma santé 2022",
+      "relation": "PROPOSED",
+      "target": "plan Ma santé 2022",
+      "evidence": "le plan Ma santé 2022 lancé dès 2018",
+      "confidence": 1.0,
+      "source_id": "Organization_87bc23caf3b768e22cfa2c414831886fa3549a91fd7577dc141fc04a1881a56a",
+      "target_id": "Organization_87bc23caf3b768e22cfa2c414831886fa3549a91fd7577dc141fc04a1881a56a"
+    },
+    {
+      "source": "plan de sortie de covid",
+      "relation": "PROPOSED",
+      "target": "plan de sortie de covid",
+      "evidence": "le plan de sortie de covid avec les différents Ségur successifs",
+      "confidence": 1.0,
+      "source_id": "Organization_e3dec82da62f2a0e8aff9f72fea3dc497a5eed3744f7721ae43baf23a4bb0d99",
+      "target_id": "Organization_e3dec82da62f2a0e8aff9f72fea3dc497a5eed3744f7721ae43baf23a4bb0d99"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "santé",
+      "evidence": "ces capacités en France et vous permettre du coup d'avoir des capacités de calcul qui vont accélérer vos recherches, y compris dans la santé.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "source": "INSERM",
+      "relation": "ALLIED_WITH",
+      "target": "INRIA",
+      "evidence": "INSERM, INRIA, CEA, CNRS, vraies agences de financement qui doivent piloter la recherche avec l'ANR",
+      "confidence": 1.0,
+      "source_id": "Organization_f23e2a99ebfcec3c01ea31acdd2249332420cad575f0c8a108947d92f0bc39eb",
+      "target_id": "Organization_5219b7db9fd3ef2c48b004e6ce3de3c211c2ea34a75203009621b05e8e0f84b2"
+    },
+    {
+      "source": "INSERM",
+      "relation": "ALLIED_WITH",
+      "target": "CEA",
+      "evidence": "INSERM, INRIA, CEA, CNRS, vraies agences de financement qui doivent piloter la recherche avec l'ANR",
+      "confidence": 1.0,
+      "source_id": "Organization_f23e2a99ebfcec3c01ea31acdd2249332420cad575f0c8a108947d92f0bc39eb",
+      "target_id": "Organization_56bee4e69d140d03f96302b407e9a57182af007e69e3a0511d3d22f4e01718b0"
+    },
+    {
+      "source": "INSERM",
+      "relation": "ALLIED_WITH",
+      "target": "CNRS",
+      "evidence": "INSERM, INRIA, CEA, CNRS, vraies agences de financement qui doivent piloter la recherche avec l'ANR",
+      "confidence": 1.0,
+      "source_id": "Organization_f23e2a99ebfcec3c01ea31acdd2249332420cad575f0c8a108947d92f0bc39eb",
+      "target_id": "Organization_9797a7b293510a1bf26addf4f9eb951f6a91dfb71b6b8d8c7031c08fb95a0fa4"
+    },
+    {
+      "source": "INSERM",
+      "relation": "ALLIED_WITH",
+      "target": "ANR",
+      "evidence": "INSERM, INRIA, CEA, CNRS, vraies agences de financement qui doivent piloter la recherche avec l'ANR",
+      "confidence": 1.0,
+      "source_id": "Organization_f23e2a99ebfcec3c01ea31acdd2249332420cad575f0c8a108947d92f0bc39eb",
+      "target_id": "Organization_b4e54f111b7a3f1f4405f2bdb85528b7d718546b02ab6c1525e527bfe24f9366"
+    }
+  ]
+}

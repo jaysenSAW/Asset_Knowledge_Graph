@@ -1,0 +1,451 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Wallis-et-Futuna",
+      "id": "Country_efed869405790820705fddfa862d3790441421e49bb43c3369f480ef7cb9daf8"
+    },
+    {
+      "type": "Person",
+      "name": "Mes chers compatriotes",
+      "id": "Person_b6b29c7b55b71aae52b700aaa89778c04669d873e35a8a1d54782abede5f747b"
+    },
+    {
+      "type": "Theme",
+      "name": "anniversaire",
+      "id": "Theme_98c4a040b6fd21d30f9976cf815348eeec954e96b50f0410476757719be815c6"
+    },
+    {
+      "type": "Theme",
+      "name": "jubilé de diamant",
+      "id": "Theme_e867d7d23def075cd6b5c278c455d522e5908073d353b7b459b656e78cab7624"
+    },
+    {
+      "type": "Theme",
+      "name": "chemin",
+      "id": "Theme_869e7ed5e48afca5e738e8f138b381ed86ec5a3e7972fe10073a162641afbf09"
+    },
+    {
+      "type": "Theme",
+      "name": "statut",
+      "id": "Theme_2ac8f7dcd7047843a2cd876b612aad4a6bdbf6344a5b1d31ae16ae2c093345c6"
+    },
+    {
+      "type": "Theme",
+      "name": "capitale",
+      "id": "Theme_8b99b01a8a3166f21e3fbb688751028449a4a3b920ea1e9d42db1c58cc2721df"
+    },
+    {
+      "type": "Person",
+      "name": "Madame Nivaleta ILOAI",
+      "id": "Person_ae6feb8d0d5a6ca2a3994e0a462cd1b3dc53bf6834b2fa66cb8b1ba12d286e34"
+    },
+    {
+      "type": "City",
+      "name": "Lavelua",
+      "id": "City_21de8be08dcfb13523351022f4b8e7f5b0dfd9bdfd3f458f8eeccf3d62de54e4"
+    },
+    {
+      "type": "City",
+      "name": "Uvea",
+      "id": "City_fd25f90a7c25cc90d630540e49959b7c6f833dae4a8ca7e0835076a310404ae8"
+    },
+    {
+      "type": "Person",
+      "name": "Monseigneur",
+      "id": "Person_248ecf626b94b720ea76ed557f80278814eb05411406114374970f8f8ed4508b"
+    },
+    {
+      "type": "City",
+      "name": "Tahiti",
+      "id": "City_473ca001a14d25dd47d5345b7964d6c01e85ec0a3600a41b432a241a57073c4a"
+    },
+    {
+      "type": "City",
+      "name": "Wallis-et-Futuna",
+      "id": "City_efbae68e08beede34c3af5f073749a127433dfc05ac16372889eb21b2187f832"
+    },
+    {
+      "type": "City",
+      "name": "Sigave",
+      "id": "City_66f65d15479996d5bd0a98f31f3bef3f3b8d886fe6b8f97232e3ed02a631a2d7"
+    },
+    {
+      "type": "City",
+      "name": "D'Alo",
+      "id": "City_99ad5c017cfd8f058da5298011a9314ca717956ded09e27fbec85618fa350581"
+    },
+    {
+      "type": "Country",
+      "name": "Hexagone",
+      "id": "Country_a071cd7fb8388f129da578d513f420d3d6f13c2e2ebc6214b97b36ee33e615e9"
+    },
+    {
+      "type": "Country",
+      "name": "Nouvelle Calédonie",
+      "id": "Country_44e7ff703e752294826e4d9d189a1631c38419f050d5f42ec81314b92d3b42f1"
+    },
+    {
+      "type": "Country",
+      "name": "Outre-mers",
+      "id": "Country_765fcfb04716a3d6a72a8d17ec4f45c5aa397b634626772e8bc48a06ebcbae1c"
+    },
+    {
+      "type": "Person",
+      "name": "père Henckel",
+      "id": "Person_bce89daa54fd1bd8b624543b70852d99bdbcd45d064d157430b4c99da7f8fd3a"
+    },
+    {
+      "type": "Person",
+      "name": "reine d'Uvea Amelia",
+      "id": "Person_2bf38a1a12a800d85a3b9f309f84edbf5ca33eed1198388731c5164c75b7ebd4"
+    },
+    {
+      "type": "Country",
+      "name": "France libre",
+      "id": "Country_af69ac6da8a8557bc1d867140679d4348993b94e8a54b60bc05eb8899f9719ce"
+    },
+    {
+      "type": "Country",
+      "name": "Sigave",
+      "id": "Country_0216a21180523d55cb32d3e8f03f024d0c9699987f5415e42cba6cb1087804db"
+    },
+    {
+      "type": "Country",
+      "name": "D'Alo",
+      "id": "Country_00103e7d2539aa448b245b381e7e916129d3523b1fd2f22d9dcdd546ef3a440b"
+    },
+    {
+      "type": "City",
+      "name": "Croix de Lorraine",
+      "id": "City_a21c76ca4b2b3bfb9bef28c2f2102016fcdde6b94e7ddd26dd62841a5009d0d8"
+    },
+    {
+      "type": "Person",
+      "name": "DE GAULLE",
+      "id": "Person_37f95bd08a7aed96ec78152708e15ac7b0aeadf9b6ed76c9324554a4a27abf09"
+    },
+    {
+      "type": "Country",
+      "name": "Wallis",
+      "id": "Country_032d7d933cf060787ed295622345ee42fc6b901b5d4528f6128d9640d93973cc"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Person",
+      "name": "préfet",
+      "id": "Person_ab66892f348fc1e73f15c961677e93758d36704ceaae918b341951544bcc74c6"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre des outre-mer",
+      "id": "Organization_f6fadbf7e9cb9852f3b83d4558992406dc4b5168d7bf887d2256c3bc7b041ccd"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence de santé",
+      "id": "Organization_ab13645246fe7bbfcce0b1bdce2eee35184049903e01c59d7970f69f8d08acab"
+    },
+    {
+      "type": "Country",
+      "name": "Nouvelle-Calédonie",
+      "id": "Country_55a69be2de7bce6a0a3ef0dc0899835c52a9dcb4b1cc9e9c104595177589d1e9"
+    },
+    {
+      "type": "Country",
+      "name": "la nation entière",
+      "id": "Country_88fd7d2da987dc5d6e897009ce71f5df732a2d59fc651e8dd7958256246a8036"
+    },
+    {
+      "type": "Organization",
+      "name": "l'hôpital de Futuna",
+      "id": "Organization_289d845b6fbe70b2918f597eab08ccc73c5b7b7e434043bde5055a66ac2b6ad5"
+    },
+    {
+      "type": "Theme",
+      "name": "la solidarité nationale",
+      "id": "Theme_af694ffbb354789932a96367263bc97dae1793fba9943dd3f284f03a8a1aa4da"
+    },
+    {
+      "type": "Theme",
+      "name": "référendum",
+      "id": "Theme_4a9f20d7b6af8f6b0d5ae6a3799b5ea2f2d92359d5af489792d864166bcaf9f8"
+    },
+    {
+      "type": "Theme",
+      "name": "préfet",
+      "id": "Theme_4f78550fcc36a7d56c3e2a642831244d38a68e9924fdb40e98a25ba19100c268"
+    },
+    {
+      "type": "Theme",
+      "name": "conseil territorial",
+      "id": "Theme_167f409b39aff309c285082b34de0611b0e2c9cba83f05a2042799ecb06c3abd"
+    },
+    {
+      "type": "Theme",
+      "name": "rois coutumiers",
+      "id": "Theme_0db2de30f64bad37e5d03864a3efade2cbd659c513d72e303d27dbc27f69ff84"
+    },
+    {
+      "type": "Theme",
+      "name": "circonscriptions",
+      "id": "Theme_969100272da906d5b3fe00dac4c7dddb0e3bdb7a48fa7529aa8e0fe82651115c"
+    },
+    {
+      "type": "Theme",
+      "name": "élus",
+      "id": "Theme_f113fc009d13bd82f33ae7e561fc0eb471b92d27c763d54b74cfb9efcf86aac9"
+    },
+    {
+      "type": "Theme",
+      "name": "autorités du territoire",
+      "id": "Theme_3608215d36b40d00ccc662e344d9fb6fcc35d1866931e6bc86d1f863617553f3"
+    },
+    {
+      "type": "Theme",
+      "name": "délégation",
+      "id": "Theme_7b933955060944187e6b7be04aa6cb16f07b252c9198285e9f3997cecc838f21"
+    },
+    {
+      "type": "Theme",
+      "name": "Etat",
+      "id": "Theme_c451812b709f5d8690c76df683e36155876c418f88e2cd52acc1ca612abf0b32"
+    },
+    {
+      "type": "Theme",
+      "name": "respect",
+      "id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "type": "Theme",
+      "name": "concertation",
+      "id": "Theme_d3f8a45df0325edd93f67492d7ebd72cb7c6b497b5986d8daf6b87fa3af7fed5"
+    },
+    {
+      "type": "Theme",
+      "name": "consensus",
+      "id": "Theme_6bef32d603c8e354337a4b76bc89d9db5807ec9d9dd1900c8584ffabca9d2f41"
+    },
+    {
+      "type": "City",
+      "name": "Nouvelle-Calédonie",
+      "id": "City_cc4b506740f7c1968790c319d6f12845d814677cd83a29590ede16c2994049d5"
+    },
+    {
+      "type": "Person",
+      "name": "J'ai",
+      "id": "Person_11dc8f890b0c964b83ea9b1735ebebcd698833b5d636e3dbbd33637c9106eda2"
+    },
+    {
+      "type": "Person",
+      "name": "BOUGAINVILLE",
+      "id": "Person_0f23febd4fb6a652f173da1b41b95b73e9555328cffe4a82ba28ade9a881967e"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "jubilé de diamant",
+      "evidence": "60 ans, c'est un jubilé de diamant, une pierre blanche sur le chemin que la France et Wallis-et-Futuna ont décidé de partager ensemble par la loi statutaire du 29 juillet 1961, qui donnait aux Îles un statut dans la République.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_e867d7d23def075cd6b5c278c455d522e5908073d353b7b459b656e78cab7624"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "chemin",
+      "evidence": "60 ans, c'est un jubilé de diamant, une pierre blanche sur le chemin que la France et Wallis-et-Futuna ont décidé de partager ensemble par la loi statutaire du 29 juillet 1961, qui donnait aux Îles un statut dans la République.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_869e7ed5e48afca5e738e8f138b381ed86ec5a3e7972fe10073a162641afbf09"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "statut",
+      "evidence": "60 ans, c'est un jubilé de diamant, une pierre blanche sur le chemin que la France et Wallis-et-Futuna ont décidé de partager ensemble par la loi statutaire du 29 juillet 1961, qui donnait aux Îles un statut dans la République.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_2ac8f7dcd7047843a2cd876b612aad4a6bdbf6344a5b1d31ae16ae2c093345c6"
+    },
+    {
+      "source": "reine d'Uvea Amelia",
+      "relation": "PROPOSED",
+      "target": "France",
+      "evidence": "Je pense à la reine d'Uvea Amelia qui voulut confier son île au protectorat de la France, suivie en 1887 par le roi de Sigave et le roi D'Alo.",
+      "confidence": 1.0,
+      "source_id": "Person_2bf38a1a12a800d85a3b9f309f84edbf5ca33eed1198388731c5164c75b7ebd4",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "reine d'Uvea Amelia",
+      "relation": "LOCATED_IN",
+      "target": "Uvea",
+      "evidence": "Je pense à la reine d'Uvea Amelia qui voulut confier son île au protectorat de la France, suivie en 1887 par le roi de Sigave et le roi D'Alo.",
+      "confidence": 1.0,
+      "source_id": "Person_2bf38a1a12a800d85a3b9f309f84edbf5ca33eed1198388731c5164c75b7ebd4",
+      "target_id": "City_fd25f90a7c25cc90d630540e49959b7c6f833dae4a8ca7e0835076a310404ae8"
+    },
+    {
+      "source": "Uvea",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Je pense à la reine d'Uvea Amelia qui voulut confier son île au protectorat de la France, suivie en 1887 par le roi de Sigave et le roi D'Alo.",
+      "confidence": 1.0,
+      "source_id": "City_fd25f90a7c25cc90d630540e49959b7c6f833dae4a8ca7e0835076a310404ae8",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "DE GAULLE",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "car DE GAULLE ne voulait pas d'autres soldats que ceux de la France pour reprendre un territoire français.",
+      "confidence": 1.0,
+      "source_id": "Person_37f95bd08a7aed96ec78152708e15ac7b0aeadf9b6ed76c9324554a4a27abf09",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "État",
+      "relation": "SUPPORTS",
+      "target": "préfet",
+      "evidence": "le soutien rapide et massif de l'État par le truchement de notre préfet",
+      "confidence": 1.0,
+      "source_id": "Theme_c451812b709f5d8690c76df683e36155876c418f88e2cd52acc1ca612abf0b32",
+      "target_id": "Theme_4f78550fcc36a7d56c3e2a642831244d38a68e9924fdb40e98a25ba19100c268"
+    },
+    {
+      "source": "Wallis-et-Futuna",
+      "relation": "LOCATED_IN",
+      "target": "la nation entière",
+      "evidence": "Ces liens indéfectibles entre Wallis-et-Futuna et la nation entière se sont enfin et surtout des liens d'avenir.",
+      "confidence": 1.0,
+      "source_id": "City_efbae68e08beede34c3af5f073749a127433dfc05ac16372889eb21b2187f832",
+      "target_id": "Country_88fd7d2da987dc5d6e897009ce71f5df732a2d59fc651e8dd7958256246a8036"
+    },
+    {
+      "source": "référendum",
+      "relation": "MENTIONS",
+      "target": "référendum",
+      "evidence": "référendum",
+      "confidence": 1.0,
+      "source_id": "Theme_4a9f20d7b6af8f6b0d5ae6a3799b5ea2f2d92359d5af489792d864166bcaf9f8",
+      "target_id": "Theme_4a9f20d7b6af8f6b0d5ae6a3799b5ea2f2d92359d5af489792d864166bcaf9f8"
+    },
+    {
+      "source": "statut",
+      "relation": "MENTIONS",
+      "target": "statut",
+      "evidence": "Ce statut est certainement le plus atypique de la République",
+      "confidence": 1.0,
+      "source_id": "Theme_2ac8f7dcd7047843a2cd876b612aad4a6bdbf6344a5b1d31ae16ae2c093345c6",
+      "target_id": "Theme_2ac8f7dcd7047843a2cd876b612aad4a6bdbf6344a5b1d31ae16ae2c093345c6"
+    },
+    {
+      "source": "préfet",
+      "relation": "MENTIONS",
+      "target": "préfet",
+      "evidence": "son préfet en charge de l'exécutif",
+      "confidence": 1.0,
+      "source_id": "Theme_4f78550fcc36a7d56c3e2a642831244d38a68e9924fdb40e98a25ba19100c268",
+      "target_id": "Theme_4f78550fcc36a7d56c3e2a642831244d38a68e9924fdb40e98a25ba19100c268"
+    },
+    {
+      "source": "conseil territorial",
+      "relation": "MENTIONS",
+      "target": "conseil territorial",
+      "evidence": "son conseil territorial où siègent 3 rois coutumiers",
+      "confidence": 1.0,
+      "source_id": "Theme_167f409b39aff309c285082b34de0611b0e2c9cba83f05a2042799ecb06c3abd",
+      "target_id": "Theme_167f409b39aff309c285082b34de0611b0e2c9cba83f05a2042799ecb06c3abd"
+    },
+    {
+      "source": "circonscriptions",
+      "relation": "MENTIONS",
+      "target": "circonscriptions",
+      "evidence": "ces circonscriptions en lieu et place de communes. Mais cette spécificité n'implique pas la fixité. Elle pourrait, elle gagnerait sans doute à s'enraciner encore davantage dans la République. C'est une réflexion qui vous appartient. La délégation qui était avec moi ces dernières heures, me l'a d'ailleurs dit",
+      "confidence": 1.0,
+      "source_id": "Theme_969100272da906d5b3fe00dac4c7dddb0e3bdb7a48fa7529aa8e0fe82651115c",
+      "target_id": "Theme_969100272da906d5b3fe00dac4c7dddb0e3bdb7a48fa7529aa8e0fe82651115c"
+    },
+    {
+      "source": "élus",
+      "relation": "MENTIONS",
+      "target": "élus",
+      "evidence": "et il faudra la conduire avec vos élus et les autorités du territoire",
+      "confidence": 1.0,
+      "source_id": "Theme_f113fc009d13bd82f33ae7e561fc0eb471b92d27c763d54b74cfb9efcf86aac9",
+      "target_id": "Theme_f113fc009d13bd82f33ae7e561fc0eb471b92d27c763d54b74cfb9efcf86aac9"
+    },
+    {
+      "source": "autorités du territoire",
+      "relation": "MENTIONS",
+      "target": "autorités du territoire",
+      "evidence": "et il faudra la conduire avec vos élus et les autorités du territoire",
+      "confidence": 1.0,
+      "source_id": "Theme_3608215d36b40d00ccc662e344d9fb6fcc35d1866931e6bc86d1f863617553f3",
+      "target_id": "Theme_3608215d36b40d00ccc662e344d9fb6fcc35d1866931e6bc86d1f863617553f3"
+    },
+    {
+      "source": "délégation",
+      "relation": "MENTIONS",
+      "target": "délégation",
+      "evidence": "La délégation qui était avec moi ces dernières heures, me l'a d'ailleurs dit",
+      "confidence": 1.0,
+      "source_id": "Theme_7b933955060944187e6b7be04aa6cb16f07b252c9198285e9f3997cecc838f21",
+      "target_id": "Theme_7b933955060944187e6b7be04aa6cb16f07b252c9198285e9f3997cecc838f21"
+    },
+    {
+      "source": "Etat",
+      "relation": "MENTIONS",
+      "target": "Etat",
+      "evidence": "L'Etat, en tout, sera à votre écoute, attentif à vous appuyer dans ces évolutions institutionnelles",
+      "confidence": 1.0,
+      "source_id": "Theme_c451812b709f5d8690c76df683e36155876c418f88e2cd52acc1ca612abf0b32",
+      "target_id": "Theme_c451812b709f5d8690c76df683e36155876c418f88e2cd52acc1ca612abf0b32"
+    },
+    {
+      "source": "concertation",
+      "relation": "MENTIONS",
+      "target": "concertation",
+      "evidence": "une concertation posée cherchant le bien de tous, au-delà des intérêts individuels.",
+      "confidence": 1.0,
+      "source_id": "Theme_d3f8a45df0325edd93f67492d7ebd72cb7c6b497b5986d8daf6b87fa3af7fed5",
+      "target_id": "Theme_d3f8a45df0325edd93f67492d7ebd72cb7c6b497b5986d8daf6b87fa3af7fed5"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Wallis-et-Futuna",
+      "evidence": "Wallis-et-Futuna ne sera pas séparée de la France.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "City_efbae68e08beede34c3af5f073749a127433dfc05ac16372889eb21b2187f832"
+    }
+  ]
+}

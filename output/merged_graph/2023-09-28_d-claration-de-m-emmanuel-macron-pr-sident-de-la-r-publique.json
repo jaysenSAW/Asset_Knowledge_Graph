@@ -1,0 +1,946 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Corse",
+      "id": "City_16f784e293f33726279f3f43c311b4c6996cd29064ae7f0a470010a8505ad63a"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président du Conseil exécutif de la Collectivité de Corse",
+      "id": "Person_b995771733b945dea735d74f06d0bec7cca5db884d86da102a1685f086df6bd1"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la présidente de l'Assemblée de Corse",
+      "id": "Person_f8dd00f23cea08c700694b14f1c38dd03be2001a7f212b78912855303028612a"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le recteur",
+      "id": "Person_05ddaec311bcc96be0ae33c8262a0610c085cc3bb6e6e5d09a97fe499ff9f606"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les conseillers exécutifs, conseillers parlementaires",
+      "id": "Person_fd6fc913be8034e7dd4b7f7e06f29ecf3f6ab0c2926f41c8099c0aede8aa897e"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les maires",
+      "id": "Person_c6918593830c43dc32e3234ff666e36a742c4efdcba8eeb54a0e3e88d392a782"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la présidente du CESEC",
+      "id": "Person_0205bd59b83ce87a432f41f0681045824c04fd767004b71730f2b0f2ddbc570d"
+    },
+    {
+      "type": "Country",
+      "name": "Corse",
+      "id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be"
+    },
+    {
+      "type": "Country",
+      "name": "France libre",
+      "id": "Country_af69ac6da8a8557bc1d867140679d4348993b94e8a54b60bc05eb8899f9719ce"
+    },
+    {
+      "type": "City",
+      "name": "Alger",
+      "id": "City_0cc1538642cf29c18db048f0218cd51511f109734b8d8dc452b7f31b18c6117e"
+    },
+    {
+      "type": "Theme",
+      "name": "insurrection",
+      "id": "Theme_a0e75cceaf347b97739fbbe7642cdd9a60ff13951925eed6a2e5064bfc4158f6"
+    },
+    {
+      "type": "Theme",
+      "name": "soulèvement",
+      "id": "Theme_ceb3b91d450b27e21703e417003a2cebd4feac877765ce11aae1c9d20a1403cd"
+    },
+    {
+      "type": "Country",
+      "name": "la Corse",
+      "id": "Country_4ec1dfbc97f873c0b1a5d4116ea38b2c600dae62259b441b8d5d2872e0742dac"
+    },
+    {
+      "type": "Organization",
+      "name": "l'État",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Organization",
+      "name": "la Collectivité métropolitaine",
+      "id": "Organization_09f0d71ad75383e1b180bbc566fcfc18307adc55a153ec61da5007550a23f9ca"
+    },
+    {
+      "type": "Theme",
+      "name": "la mémoire de la Libération",
+      "id": "Theme_9c5c57a64b8d7d59a3b8af0f27819ad3561c1b1f54a33fd3023dc7db9657b9ba"
+    },
+    {
+      "type": "City",
+      "name": "Ajaccio",
+      "id": "City_6ccccbd58d33899d3f234fe0bb84de76c638feea9ab9e6d13768ccf2ff3d4b74"
+    },
+    {
+      "type": "Person",
+      "name": "Fred Scamaroni",
+      "id": "Person_93806ced16642b71cf9ce619b529cd07276170591530ac0d41bdd5617e8d019e"
+    },
+    {
+      "type": "Person",
+      "name": "Maurice Choury",
+      "id": "Person_df520038d76b4ca18ed2b8143e405f6c483dc425240e67311b351143a66251f0"
+    },
+    {
+      "type": "Person",
+      "name": "Danielle Casanova",
+      "id": "Person_bd5147b124be8eab56681d98e4cfc1504329eab1c001f34795d31207b7dbc2aa"
+    },
+    {
+      "type": "City",
+      "name": "Bastia",
+      "id": "City_9726e01298222297903a4db6f9e5accf29bfef237fbad63e68c44b37ba40cfdd"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Nicolas",
+      "id": "City_f3850243441aeac7a8cb7e10b3a73ff91027bbd2ce74b7d3322a800184208319"
+    },
+    {
+      "type": "City",
+      "name": "Levie",
+      "id": "City_0b82c7455d3f22867837f1af34dec1e76ff1d682b154bdc9cfd402c05cb478f9"
+    },
+    {
+      "type": "City",
+      "name": "Bonifacio",
+      "id": "City_21641858ea8a3490273701ac455cb009dd2faa79d2bbd78783b7c4db45d842f3"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de résistance",
+      "id": "Theme_0932f44f44b100820ec8e8eb34bf923bda8dc9cc544aae8f3a8ce98a1397b36b"
+    },
+    {
+      "type": "Theme",
+      "name": "roman de courage et d'engagement",
+      "id": "Theme_f4bd845a9216c43a97b412e8bfd1a11d95d8022e7f3bab393650bb15576dd277"
+    },
+    {
+      "type": "Theme",
+      "name": "sous-marin Casabianca",
+      "id": "Theme_63f9fc2a68acf95f2f93b10d333dc2c326bcb0d56af6fe52775b55d9a357f6bb"
+    },
+    {
+      "type": "Theme",
+      "name": "bataille de Levie",
+      "id": "Theme_ad67682b41a3f20956a00fc7b4f6875a200c15c272ea7f04ab8b7f5993081286"
+    },
+    {
+      "type": "Theme",
+      "name": "goumiers",
+      "id": "Theme_d504440887b3ecee6e4d8e07b988b1215878519474db21d5e6f5272814b371f0"
+    },
+    {
+      "type": "Theme",
+      "name": "resistants",
+      "id": "Theme_99d7b9db8d14c45a22b19b7bf7faeeb974d7da98337ba65ba3cdf598a55f02cf"
+    },
+    {
+      "type": "City",
+      "name": "Furiani",
+      "id": "City_0aa42692bbdc45ea9c26601bdd8ce1dd60835fe9733a2c4807d7057dfa10ed01"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "police",
+      "id": "Organization_dc301df473166c63b52caf113c7750a660022b2ff499ea992891073f92e5a736"
+    },
+    {
+      "type": "Organization",
+      "name": "gendarmerie",
+      "id": "Organization_b95753ed271ade5dcf1b54deee1f75640b2715635daabd28dba268524f6e100e"
+    },
+    {
+      "type": "Country",
+      "name": "l'île",
+      "id": "Country_5e076cc0cf891130c7565f524ec79d75fe89cdb740433b9b90c40a8d30ae76c3"
+    },
+    {
+      "type": "Organization",
+      "name": "la police",
+      "id": "Organization_29e5e813694e493c838f79c53533fe42e123bf6d14cb9c3d4e0aa05b8a4ff207"
+    },
+    {
+      "type": "Organization",
+      "name": "la gendarmerie",
+      "id": "Organization_7623e90ce847335283327bb0e6a910a365b3edf6318c3f39dccb0453d25f2029"
+    },
+    {
+      "type": "Organization",
+      "name": "nombre d'associations",
+      "id": "Organization_64504bd0ca1e003a463b1deac145538a248d1567faa44a3dcaca954ebe130507"
+    },
+    {
+      "type": "Organization",
+      "name": "les polices judiciaires",
+      "id": "Organization_7e53d0c20093244b21157f2921bc842ee0a4a07f3e0e9eeca87e36c67fd658e3"
+    },
+    {
+      "type": "City",
+      "name": "Porto-Vecchio",
+      "id": "City_2aa163b0a54d6d63355d5c53ec524d2fd504ddf1283caa5154d781fb65178fc7"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "EHPAD",
+      "id": "Organization_e83a012702f4d80942d026aa461d151cb1a6b8d2a9413d21e0327d67005aee4d"
+    },
+    {
+      "type": "Organization",
+      "name": "centre hospitalier d'Ajaccio",
+      "id": "Organization_a5e49ec46a644d345559b86cb9cc60d7ea3bbae56d3f907368c2a383ed7ae17c"
+    },
+    {
+      "type": "Organization",
+      "name": "maternité de Porto-Vecchio",
+      "id": "Organization_e924a59907e5f2ef673d0c966502a0f3f8634c212d8ac9a169cda3c1e17918a6"
+    },
+    {
+      "type": "Organization",
+      "name": "Collectivité",
+      "id": "Organization_c82d16f00723104d72c54623bc5ec0cf15e68b3e41e041b2432fe097f0fba09b"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "protection des populations",
+      "id": "Theme_a1eccbaf01764a5bdd679630ac9252fd62f1c6da0357fc49dd6d60ed279369d4"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle énergétique",
+      "id": "Theme_3b41e839dbfdfaf0a8c764171a8474ac53fa1b6110a345b7bf793f0d012a2eb6"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité carbone",
+      "id": "Theme_13578b8136640a21c92a662f7e77d4879f6ceffb4dd1652ae120a6e9e44f65d3"
+    },
+    {
+      "type": "Theme",
+      "name": "approvisionnement en électricité",
+      "id": "Theme_4e7f9ce59b986dc1a4acde222c0fabf80700b0f4c03604ebac91e7f9d9936951"
+    },
+    {
+      "type": "Theme",
+      "name": "centrale du Ricanto",
+      "id": "Theme_7093e787121b17693881a5e19051ec91e62f1e9b625dcde838ffc3cb5d9fcad8"
+    },
+    {
+      "type": "Theme",
+      "name": "interconnexions électriques en Méditerranée",
+      "id": "Theme_2fabfa4d21bb79939e6a36d4136a1b93fbc7051127983ac3030551eb28de0d78"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition en matière d'environnement",
+      "id": "Theme_24e6c061b9bd0aa7e61949a8ef59effd75256d584a358443aac7ddc49678c21a"
+    },
+    {
+      "type": "Theme",
+      "name": "déchets",
+      "id": "Theme_4390b1fb338ecd5ed5f931d1775787ca1d8b80b00097080005096c9f345a427e"
+    },
+    {
+      "type": "City",
+      "name": "Viggianello",
+      "id": "City_0ef81ccf78e39dcc5ecbfdffa0ca7f1e0a5f0367ba79cb0eafa654079727ac5d"
+    },
+    {
+      "type": "City",
+      "name": "Monte",
+      "id": "City_64f2c98cbca38a76827db3d6e1e3569aaea0bd497d2a360c1e005d027ca2d61f"
+    },
+    {
+      "type": "City",
+      "name": "Cozanno",
+      "id": "City_35bf544496317af5089344c5ff00debd7156635308f4dcbc50244c189311ea13"
+    },
+    {
+      "type": "Organization",
+      "name": "Collectivités de Corse",
+      "id": "Organization_d289fc995d21bd67eb0d829b2b16a2ad10905d5318b23a87ed2ad48bea18e748"
+    },
+    {
+      "type": "Organization",
+      "name": "plan exceptionnel d'investissement",
+      "id": "Organization_88cdbd67049c35d08017718680b5ef6c1d05336453cbef816bea7178c37a0386"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "logement",
+      "id": "Theme_5482b77c02cb27b743d7ba44022361e1f99e9ac6c8c98c177add71ee6c65ef55"
+    },
+    {
+      "type": "Person",
+      "name": "Cher président",
+      "id": "Person_d365aa68201ce725d2af62728c9477ab5931bace1b08db665f0613845b96714a"
+    },
+    {
+      "type": "Country",
+      "name": "République",
+      "id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "identité",
+      "id": "Theme_4f543f4a07c2f288f23ef16d94246f7c22b38ac986042e48f59a6ca4b459f4dd"
+    },
+    {
+      "type": "Theme",
+      "name": "singularité insulaire",
+      "id": "Theme_6bb759b3f2edaeb2f6a7c47e1a3db073fd7b79bef84194ad41b42e8dd0c79e3c"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire commune",
+      "id": "Theme_3c0fe2c45669633b618d2fc8b339e80285fb0a7d417da2a94c640ec3bd832c6c"
+    },
+    {
+      "type": "Person",
+      "name": "le ministre de l'Intérieur et des Outre-mer",
+      "id": "Person_90b32664456bbe99a5b1131841fbd2620fc21027e7e6acff18097d120a71e68e"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaires d'État",
+      "id": "Organization_8e1c30d7292f37306d79d2962f39e05a81c9565675fd36c8251619de54d5d4ca"
+    },
+    {
+      "type": "Organization",
+      "name": "Inspection générale de la justice",
+      "id": "Organization_5ee8619527203127ce8731767754d32019e8f679a9dbfef994959d284727e7ed"
+    },
+    {
+      "type": "Organization",
+      "name": "parlementaires",
+      "id": "Organization_8d02dfce3c6b4d35c37b6f7ad739c679637b5003f36fa3f227f16938c864d657"
+    },
+    {
+      "type": "City",
+      "name": "Borgo",
+      "id": "City_016f949b61805d4223ad5e4f4c190c9981a9901f81330247c6ee668cd2e6734c"
+    },
+    {
+      "type": "City",
+      "name": "Beauvau",
+      "id": "City_82085e8a94a4f50da75f0d3a8e56dce6215e9dde44293cc84ac83a2f927e9f9f"
+    },
+    {
+      "type": "Person",
+      "name": "Yvan Colonna",
+      "id": "Person_09f5347faf5f4944786d8684c754009ff39571db1af2a825c980afe28b544d56"
+    },
+    {
+      "type": "Theme",
+      "name": "respect",
+      "id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "type": "Theme",
+      "name": "reconnaissance",
+      "id": "Theme_24e4cd0fe4314d21fe51891238282e7ad3290eb5e3e25cf1b43cf34fb381606e"
+    },
+    {
+      "type": "Theme",
+      "name": "langue corse",
+      "id": "Theme_6aa60caae8b68170694c8accceecee0bfe5e7b529ed99e5e076f132d3ca6c980"
+    },
+    {
+      "type": "Theme",
+      "name": "service public",
+      "id": "Theme_8b37015ab8cc5bb4cc96441ff954f74d0609a857b4fbc784b367f676546b7722"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement",
+      "id": "Theme_efc3dc97047baa5c3d3ee692ed991601fa0b8b2e5b98fe282efd49cfc58792e6"
+    },
+    {
+      "type": "Theme",
+      "name": "bilinguisme",
+      "id": "Theme_7df7afe852fadb2b5c716632af821c438462168844f7af9c33a69b1f2f0e0771"
+    },
+    {
+      "type": "Theme",
+      "name": "insularité",
+      "id": "Theme_c9338d65c0eb894df929caa67b079b19dda60f0f50ef598f1fd4da19014bc5d9"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité",
+      "id": "Theme_6e810685c69ad3ee9245c969e1dfdc105f56849050a2192c7b2a5c21535528f3"
+    },
+    {
+      "type": "Theme",
+      "name": "spéculation",
+      "id": "Theme_808c30b6ab6cdef534faac094ebf50ef891f6b68afeb91734f9e4ee96341a836"
+    },
+    {
+      "type": "Theme",
+      "name": "droit européen",
+      "id": "Theme_90f3fb78f715fd00a5f163f1c38da295adc82c8bddb1743ddde73fc7aca40fc5"
+    },
+    {
+      "type": "Theme",
+      "name": "politique du logement",
+      "id": "Theme_87e3b492521f8b8505d9b956bd459bd940ca446f5b686f2d43e530737f6247dc"
+    },
+    {
+      "type": "Theme",
+      "name": "loi de la République",
+      "id": "Theme_530d7bbda60e9ced61e0cff99f568b162c34bd5f5447417cf275e96c77bd6391"
+    },
+    {
+      "type": "Theme",
+      "name": "loi Littoral",
+      "id": "Theme_9511efd0104c70dc3e54bb335574606c274b58a913b63b9c5f8f9dbf4f9a7f96"
+    },
+    {
+      "type": "Theme",
+      "name": "loi Montagne",
+      "id": "Theme_9b44680f2b62d24023bbc9662cfa25bc72a46e66eb7a443885007ae9a00ce86e"
+    },
+    {
+      "type": "Theme",
+      "name": "droit d'adaptation",
+      "id": "Theme_5947a331b0d590fcd550d99f82aa536cf64eae31ad6ce9fdda8e0b5ea3f0151c"
+    },
+    {
+      "type": "Theme",
+      "name": "droit d'habilitation",
+      "id": "Theme_aceaa374fd80b1899873a25d61138f67f0cdc9c4d0f4965b3bc71415810e9689"
+    },
+    {
+      "type": "Theme",
+      "name": "singularité",
+      "id": "Theme_d1dc211b5de2cd7df5a9e694635b6787ff5a95fcec38af17fa20e06b5d10e256"
+    },
+    {
+      "type": "Theme",
+      "name": "normes",
+      "id": "Theme_63b2bd4eb30422d7f3e9df259557711eba985b3d7f2995b7837452ba98b6b0b4"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance responsable et libre",
+      "id": "Theme_56dfd8b65ec32747a9e1fafae7e64317b45477c58d12c12e0f2f47862c3c34e3"
+    },
+    {
+      "type": "Theme",
+      "name": "Constitution",
+      "id": "Theme_eb4b390baab57a0b5493dd655d96373dd60c1ce0a0b39dbd0a66ba091f181c89"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Country",
+      "name": "État",
+      "id": "Country_774c8b6f22f0c8760528588f5b156b73633c371f2c54fca0f8d2cff44b6c65d9"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de l'Intérieur",
+      "id": "Organization_9ee800613fe4ef77794905dc31745b48ecfcc7ba142a75ef23ebaa037aa7e671"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée territoriale de Corse",
+      "id": "Organization_42370d0f22c4dceb83a4c3d9f4075b5f8e06a7c8dc2f51919b06351528ce2d20"
+    },
+    {
+      "type": "Law",
+      "name": "texte constitutionnel et organique",
+      "id": "Law_15d3d9d6c8f89f257973b7224b6baadf25c6f3fafb9879fed54bb806b75345e7"
+    },
+    {
+      "type": "Theme",
+      "name": "révision constitutionnelle",
+      "id": "Theme_684abfa687a99c87b47213e68046a07dbeb077a3c22c516e2e7061e023dc2b6c"
+    },
+    {
+      "type": "Theme",
+      "name": "consultation en Corse",
+      "id": "Theme_67b577379dd35050d9e6cd665c15a1ee307f806766f1fb065f684ed2b9c9cf42"
+    },
+    {
+      "type": "Theme",
+      "name": "projet de loi organique",
+      "id": "Theme_d2c3aa7a56d7baacb0928c2825a1607b961b09e7bac3cc4b768f8919f9987931"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme constitutionnelle",
+      "id": "Theme_504657c6f3a306b081426fc2881da83b270659c1561956dc3308b0a51f9e55fb"
+    },
+    {
+      "type": "Theme",
+      "name": "relation entre l'État et la Corse",
+      "id": "Theme_25bf45429a96b5d54e9be817e83ce57dad203e8688fc2d7b651c40e913f39752"
+    },
+    {
+      "type": "Theme",
+      "name": "État",
+      "id": "Theme_c451812b709f5d8690c76df683e36155876c418f88e2cd52acc1ca612abf0b32"
+    },
+    {
+      "type": "Theme",
+      "name": "Collectivité de Corse",
+      "id": "Theme_99b9f59d30066cf631bc0404f6df8996a03c45e3f4b104fdbf58213561710c5b"
+    },
+    {
+      "type": "Theme",
+      "name": "élan sincère",
+      "id": "Theme_2997bb7230622c381e17f463c0cb68d77ea765f0e647c7fcb51c100e11ff3dd0"
+    },
+    {
+      "type": "Theme",
+      "name": "fatalité",
+      "id": "Theme_91821ece115556da69fe9d01e520831311b2c3c97a6959ffb0c6b4ce8b578a77"
+    },
+    {
+      "type": "Theme",
+      "name": "aspiration intranquille",
+      "id": "Theme_18ae563b2fddb8c3faab5bfa764f2654abe2ffb4fa53f6c46126d399b3ca5f11"
+    },
+    {
+      "type": "Theme",
+      "name": "volonté de trouver sa place et de s'emparer de son destin",
+      "id": "Theme_c031f643b50c6f29204019430a9bcbaab754b8ca82626b5f03c2dfb7a2a14a58"
+    },
+    {
+      "type": "City",
+      "name": "Méditerranée",
+      "id": "City_9d0a5741de9fafb94e045360dddcff5fd3320003f53cc0eee5bebfef6e12abe6"
+    },
+    {
+      "type": "Theme",
+      "name": "génie propre",
+      "id": "Theme_0eeccf709f6f632302cf8cac2675661fe5d910ad4d538c2aef197509c9f709a1"
+    },
+    {
+      "type": "Theme",
+      "name": "pulsion de mort",
+      "id": "Theme_656b46330d970f43b0e6798f3cbad53f7d6c60d3669d3ee88547b0d809b10ec6"
+    },
+    {
+      "type": "Theme",
+      "name": "pulsion de vie",
+      "id": "Theme_fb782287ac98657fde01d674f08cd3b65d1a60bd2b7e8cd9396d7a31dff60971"
+    },
+    {
+      "type": "Theme",
+      "name": "espérance",
+      "id": "Theme_033f833af6388502bfc94da349539bb4ad4154d73fa77dd35a2a0f476e1f61cc"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "richesse",
+      "id": "Theme_ebc8abe7c633e7ee08027166a01273668d756f2c85fd37ecd47f23f726532022"
+    },
+    {
+      "type": "Theme",
+      "name": "force",
+      "id": "Theme_692ec114325b782d4c086becfab4bd9bf5c9449c59ddd4c7e36828f9035301a5"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Monsieur le Président du Conseil exécutif de la Collectivité de Corse",
+      "relation": "LOCATED_IN",
+      "target": "Corse",
+      "evidence": "Monsieur le Président du Conseil exécutif de la Collectivité de Corse",
+      "confidence": 1.0,
+      "source_id": "Person_b995771733b945dea735d74f06d0bec7cca5db884d86da102a1685f086df6bd1",
+      "target_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be"
+    },
+    {
+      "source": "Madame la présidente de l'Assemblée de Corse",
+      "relation": "LOCATED_IN",
+      "target": "Corse",
+      "evidence": "Madame la présidente de l'Assemblée de Corse",
+      "confidence": 1.0,
+      "source_id": "Person_f8dd00f23cea08c700694b14f1c38dd03be2001a7f212b78912855303028612a",
+      "target_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be"
+    },
+    {
+      "source": "Corse",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "c'est bien parce que voilà huit décennies, partout dans l'île, les combattants de la flamme française se sont dressés et que la Corse a été le premier territoire libéré de France métropolitaine.",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Corse",
+      "relation": "SPOKE_ABOUT",
+      "target": "insurrection",
+      "evidence": "L'insurrection de la Corse n'était ni prévue, ni organisée au moment où l'effort de guerre contre les nazis se concentrait en Sicile.",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "Theme_a0e75cceaf347b97739fbbe7642cdd9a60ff13951925eed6a2e5064bfc4158f6"
+    },
+    {
+      "source": "Corse",
+      "relation": "SPOKE_ABOUT",
+      "target": "soulèvement",
+      "evidence": "Le soulèvement de la Corse de septembre 1943 prit de court les alliés, comme les autorités de la France libre.",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "Theme_ceb3b91d450b27e21703e417003a2cebd4feac877765ce11aae1c9d20a1403cd"
+    },
+    {
+      "source": "Corse",
+      "relation": "VISITED",
+      "target": "Alger",
+      "evidence": "Très vite, devant la bravoure irrépressible de la Corse, les uns et les autres firent parvenir sur l'île des renforts d'Alger et d'ailleurs, avec sa force, avec toutes les forces de la Corse, des communistes aux gaullistes, des maquis du Cap à l'Alta Rocca, l'île rassemblée bouscula les lignes et changea le cours de notre histoire.",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "City_0cc1538642cf29c18db048f0218cd51511f109734b8d8dc452b7f31b18c6117e"
+    },
+    {
+      "source": "la Corse",
+      "relation": "MEMBER_OF",
+      "target": "la Collectivité métropolitaine",
+      "evidence": "Et aujourd'hui, la Corse est la Collectivité métropolitaine qui bénéficie des compétences les plus larges dans notre pays.",
+      "confidence": 1.0,
+      "source_id": "Country_4ec1dfbc97f873c0b1a5d4116ea38b2c600dae62259b441b8d5d2872e0742dac",
+      "target_id": "Organization_09f0d71ad75383e1b180bbc566fcfc18307adc55a153ec61da5007550a23f9ca"
+    },
+    {
+      "source": "Fred Scamaroni",
+      "relation": "MENTIONS",
+      "target": "esprit de résistance",
+      "evidence": "dans laquelle Fred Scamaroni écrivit de son sang sa fidélité à l'esprit de résistance",
+      "confidence": 1.0,
+      "source_id": "Person_93806ced16642b71cf9ce619b529cd07276170591530ac0d41bdd5617e8d019e",
+      "target_id": "Theme_0932f44f44b100820ec8e8eb34bf923bda8dc9cc544aae8f3a8ce98a1397b36b"
+    },
+    {
+      "source": "Maurice Choury",
+      "relation": "MENTIONS",
+      "target": "esprit de résistance",
+      "evidence": "Nous rendrons hommage aussi à Maurice Choury et Danielle Casanova, deux figures communistes de cet esprit de résistance",
+      "confidence": 1.0,
+      "source_id": "Person_df520038d76b4ca18ed2b8143e405f6c483dc425240e67311b351143a66251f0",
+      "target_id": "Theme_0932f44f44b100820ec8e8eb34bf923bda8dc9cc544aae8f3a8ce98a1397b36b"
+    },
+    {
+      "source": "Danielle Casanova",
+      "relation": "MENTIONS",
+      "target": "esprit de résistance",
+      "evidence": "Nous rendrons hommage aussi à Maurice Choury et Danielle Casanova, deux figures communistes de cet esprit de résistance",
+      "confidence": 1.0,
+      "source_id": "Person_bd5147b124be8eab56681d98e4cfc1504329eab1c001f34795d31207b7dbc2aa",
+      "target_id": "Theme_0932f44f44b100820ec8e8eb34bf923bda8dc9cc544aae8f3a8ce98a1397b36b"
+    },
+    {
+      "source": "Bastia",
+      "relation": "LOCATED_IN",
+      "target": "Saint-Nicolas",
+      "evidence": "Cet après-midi, nous serons sur la place Saint-Nicolas de Bastia",
+      "confidence": 1.0,
+      "source_id": "City_9726e01298222297903a4db6f9e5accf29bfef237fbad63e68c44b37ba40cfdd",
+      "target_id": "City_f3850243441aeac7a8cb7e10b3a73ff91027bbd2ce74b7d3322a800184208319"
+    },
+    {
+      "source": "sous-marin Casabianca",
+      "relation": "MENTIONS",
+      "target": "roman de courage et d'engagement",
+      "evidence": "80 ans après, demeure ce roman de courage et d'engagement, celui du sous-marin Casabianca",
+      "confidence": 1.0,
+      "source_id": "Theme_63f9fc2a68acf95f2f93b10d333dc2c326bcb0d56af6fe52775b55d9a357f6bb",
+      "target_id": "Theme_f4bd845a9216c43a97b412e8bfd1a11d95d8022e7f3bab393650bb15576dd277"
+    },
+    {
+      "source": "bataille de Levie",
+      "relation": "MENTIONS",
+      "target": "roman de courage et d'engagement",
+      "evidence": "80 ans après, demeure ce roman de courage et d'engagement, celui du sous-marin Casabianca, celui de Jean Nicoli, celui de la bataille de Levie",
+      "confidence": 1.0,
+      "source_id": "Theme_ad67682b41a3f20956a00fc7b4f6875a200c15c272ea7f04ab8b7f5993081286",
+      "target_id": "Theme_f4bd845a9216c43a97b412e8bfd1a11d95d8022e7f3bab393650bb15576dd277"
+    },
+    {
+      "source": "goumiers",
+      "relation": "MENTIONS",
+      "target": "roman de courage et d'engagement",
+      "evidence": "80 ans après, demeure ce roman de courage et d'engagement, celui du sous-marin Casabianca, celui de Jean Nicoli, celui de la bataille de Levie, où Trajan De Peretti et ses hommes repoussèrent les colonnes allemandes à coups de chevrotines ou de fusils Lebel ramenés de la guerre de 14, celui d'Ernest Bonacoscia, guidant à 13 ans les goumiers sur la route des cols",
+      "confidence": 1.0,
+      "source_id": "Theme_d504440887b3ecee6e4d8e07b988b1215878519474db21d5e6f5272814b371f0",
+      "target_id": "Theme_f4bd845a9216c43a97b412e8bfd1a11d95d8022e7f3bab393650bb15576dd277"
+    },
+    {
+      "source": "resistants",
+      "relation": "MENTIONS",
+      "target": "roman de courage et d'engagement",
+      "evidence": "80 ans après, demeure ce roman de courage et d'engagement, celui du sous-marin Casabianca, celui de Jean Nicoli, celui de la bataille de Levie, où Trajan De Peretti et ses hommes repoussèrent les colonnes allemandes à coups de chevrotines ou de fusils Lebel ramenés de la guerre de 14, celui d'Ernest Bonacoscia, guidant à 13 ans les goumiers sur la route des cols, celui des résistants de Bonifacio et d'ailleurs",
+      "confidence": 1.0,
+      "source_id": "Theme_99d7b9db8d14c45a22b19b7bf7faeeb974d7da98337ba65ba3cdf598a55f02cf",
+      "target_id": "Theme_f4bd845a9216c43a97b412e8bfd1a11d95d8022e7f3bab393650bb15576dd277"
+    },
+    {
+      "source": "l'État",
+      "relation": "SUPPORTS",
+      "target": "l'île",
+      "evidence": "Aux côtés de toute l'île, l'État est là.",
+      "confidence": 1.0,
+      "source_id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d",
+      "target_id": "Country_5e076cc0cf891130c7565f524ec79d75fe89cdb740433b9b90c40a8d30ae76c3"
+    },
+    {
+      "source": "État",
+      "relation": "LOCATED_IN",
+      "target": "Corse",
+      "evidence": "l'État assume, aussi, pleinement son devoir de solidarité avec la Corse.",
+      "confidence": 1.0,
+      "source_id": "Theme_c451812b709f5d8690c76df683e36155876c418f88e2cd52acc1ca612abf0b32",
+      "target_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be"
+    },
+    {
+      "source": "Corse",
+      "relation": "SPOKE_ABOUT",
+      "target": "écologie",
+      "evidence": "L'écologie, vous l'avez rappelé, est un combat historique de la Corse. Bien avant nombre d'autres territoires, vous avez, ici, protégé la nature et ses trésors et la biodiversité.",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "source": "Corse",
+      "relation": "SPOKE_ABOUT",
+      "target": "modèle énergétique",
+      "evidence": "Et depuis 2018, l'État et la Collectivité se sont d'abord fortement engagés pour permettre à la Corse de changer de modèle énergétique, de délaisser les énergies fossiles afin d'atteindre la neutralité carbone à l'horizon 2050.",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "Theme_3b41e839dbfdfaf0a8c764171a8474ac53fa1b6110a345b7bf793f0d012a2eb6"
+    },
+    {
+      "source": "Corse",
+      "relation": "SPOKE_ABOUT",
+      "target": "neutralité carbone",
+      "evidence": "Et depuis 2018, l'État et la Collectivité se sont d'abord fortement engagés pour permettre à la Corse de changer de modèle énergétique, de délaisser les énergies fossiles afin d'atteindre la neutralité carbone à l'horizon 2050.",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "Theme_13578b8136640a21c92a662f7e77d4879f6ceffb4dd1652ae120a6e9e44f65d3"
+    },
+    {
+      "source": "État",
+      "relation": "SUPPORTS",
+      "target": "Collectivités de Corse",
+      "evidence": "Et puis l'État, vous le savez, soutient l'investissement des Collectivités de Corse qui exprimaient des attentes légitimes en la matière.",
+      "confidence": 1.0,
+      "source_id": "Theme_c451812b709f5d8690c76df683e36155876c418f88e2cd52acc1ca612abf0b32",
+      "target_id": "Organization_d289fc995d21bd67eb0d829b2b16a2ad10905d5318b23a87ed2ad48bea18e748"
+    },
+    {
+      "source": "Corse",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la Corse est enracinée dans la France et dans la République",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Corse",
+      "relation": "LOCATED_IN",
+      "target": "République",
+      "evidence": "la Corse est enracinée dans la France et dans la République",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "source": "Corse",
+      "relation": "SUPPORTS",
+      "target": "République",
+      "evidence": "je respecte et je reconnais l'histoire, la culture, les spécificités corses dans la République",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "source": "Corse",
+      "relation": "MENTIONS",
+      "target": "normes",
+      "evidence": "Il nous faut là-dessus bouger. Il faut aller plus loin et je suis favorable à ce que soit étudiée la possibilité pour la Collectivité de Corse de définir des normes sur des matières ou des compétences transférées. Cette capacité normative devra évidemment s'exercer sous le contrôle du Conseil d'État et du Conseil constitutionnel",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "Theme_63b2bd4eb30422d7f3e9df259557711eba985b3d7f2995b7837452ba98b6b0b4"
+    },
+    {
+      "source": "Corse",
+      "relation": "VISITED",
+      "target": "Corse",
+      "evidence": "ayons l'audace de bâtir une autonomie à la Corse, dans la République",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be"
+    },
+    {
+      "source": "Corse",
+      "relation": "LOCATED_IN",
+      "target": "Méditerranée",
+      "evidence": "La Corse, par sa beauté, par l'accumulation de civilisations et d'ouverture reçues en legs des siècles passés, par la fièvre créatrice de sa jeunesse et de ses artistes, a toute sa place dans cette ambition essentielle pour nos intérêts stratégiques, dans nos relations avec toutes les rives de la Méditerranée.",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "City_9d0a5741de9fafb94e045360dddcff5fd3320003f53cc0eee5bebfef6e12abe6"
+    },
+    {
+      "source": "Corse",
+      "relation": "SPOKE_ABOUT",
+      "target": "génie propre",
+      "evidence": "C'est la confiance qui reconnaît le génie propre de la Corse.",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "Theme_0eeccf709f6f632302cf8cac2675661fe5d910ad4d538c2aef197509c9f709a1"
+    },
+    {
+      "source": "Corse",
+      "relation": "SPOKE_ABOUT",
+      "target": "pulsion de vie",
+      "evidence": "Cette pulsion de mort s'est toujours nourrie d'un ressentiment, d'incompréhension, de portes fermées. Je veux que par cette confiance dans le génie propre de la Corse, nous sachions aller vers la pulsion de vie et l'espérance et bâtir pour notre jeunesse et les générations à venir.",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "Theme_fb782287ac98657fde01d674f08cd3b65d1a60bd2b7e8cd9396d7a31dff60971"
+    },
+    {
+      "source": "Corse",
+      "relation": "SPOKE_ABOUT",
+      "target": "espérance",
+      "evidence": "Je veux que par cette confiance dans le génie propre de la Corse, nous sachions aller vers la pulsion de vie et l'espérance et bâtir pour notre jeunesse et les générations à venir.",
+      "confidence": 1.0,
+      "source_id": "Country_5bc46c7c8622ab415d3f20c4c5dfe7342c571dd72e7e2fb2c3547129d956e4be",
+      "target_id": "Theme_033f833af6388502bfc94da349539bb4ad4154d73fa77dd35a2a0f476e1f61cc"
+    }
+  ]
+}

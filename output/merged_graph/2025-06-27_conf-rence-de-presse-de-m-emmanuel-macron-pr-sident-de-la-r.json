@@ -1,0 +1,825 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "Moyen-Orient",
+      "id": "Theme_fa9a38b34ef01b52e2ebd307c03c98cbdc9def62bab985c85aa61da32d1f24fa"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence européenne",
+      "id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "SAFE",
+      "id": "Organization_bafea03fb179c488bd33221c537ab2b352500c844e274cc8f9b79f1a23c1628c"
+    },
+    {
+      "type": "Organization",
+      "name": "EDIP",
+      "id": "Organization_800e9bba454045620bf0b20e493347ebd476e9aa4f8195fe65916b8100fc923d"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil européen",
+      "id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "type": "Theme",
+      "name": "effort inédit",
+      "id": "Theme_d187481812a89b1668667cb4bdbbfc2b1e30f2ac6caff093e0eebd1fad3ab802"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie européenne de défense",
+      "id": "Theme_0c3ac5274e2f0493ef11839a0f9f79a5b3a74718531c19a3ee7a11bce95c16c7"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien à la base industrielle et technologique de défense européenne",
+      "id": "Theme_fbc99cdfc0205d15b68d2823aafe290b89817fcd0bc96d41b24b94390b7c5175"
+    },
+    {
+      "type": "Theme",
+      "name": "aide humanitaire",
+      "id": "Theme_bd65bf8eaff3facc4aead8ffcee45975d3ff675e2fca247498e0dceeba4bd7c1"
+    },
+    {
+      "type": "Theme",
+      "name": "reconnaissance de la Palestine",
+      "id": "Theme_ca4ac72e18d7f2785052c1e205c337aa4cd5f8e373f48fa36330323b7048f8d1"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité au Sud-Liban",
+      "id": "Theme_47cd5b01fceb9be75ee6b16109b6586f15099aecf273bca88aca17f91ed0764e"
+    },
+    {
+      "type": "Theme",
+      "name": "approche commune sur la Syrie",
+      "id": "Theme_71a9473761b4d05c9cda80895bb910f58302b9a33f523c81ceda3475fbfab667"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Organization",
+      "name": "AIEA",
+      "id": "Organization_cd7424fcb3ea6cc3a41866846bfad166788cebf275a4f3495c7c5ad5988a76cd"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "City",
+      "name": "Cisjordanie",
+      "id": "City_a17376981a921ea3ab82c84f82a930de089c4803fa9584b37d351add80f6226d"
+    },
+    {
+      "type": "Person",
+      "name": "Zelensky",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "Organization",
+      "name": "Européens",
+      "id": "Organization_f6b3a751d2fd95015afbd3c97f2af5182960bcc0c37e64281401c7eeaf81d14a"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition des volontaires",
+      "id": "Organization_be8486f9bba8dc1fc697606320fe234154a7b494b8fa4602ca7bd091c7e5b389"
+    },
+    {
+      "type": "Organization",
+      "name": "Britanniques",
+      "id": "Organization_22dc50f0d1373fefb83344c80a6eef974ae64f281ed8faa7ab75503f4582a810"
+    },
+    {
+      "type": "Organization",
+      "name": "Américains",
+      "id": "Organization_a7ae557303f344529102efa41a29a33645c780b50569877d161f7648723e7dcd"
+    },
+    {
+      "type": "Organization",
+      "name": "Canadiens",
+      "id": "Organization_1e56265c873f878a14b89d84a6a04808fa0ecd856a659ce944370ed966807b73"
+    },
+    {
+      "type": "Organization",
+      "name": "Japonais",
+      "id": "Organization_fb4a2a83bcfba59ad2b678311a9017feedb37c38f263461ce2eabc3e0887cfe8"
+    },
+    {
+      "type": "Organization",
+      "name": "sénateurs",
+      "id": "Organization_f2db6f40222ba0e457f02170ed9693cf00505e058f66624aaf65ad04cf475c9c"
+    },
+    {
+      "type": "Organization",
+      "name": "sénateur Graham",
+      "id": "Organization_052fc89aaf5ab8851399e0ef334a147e17f381f958b651cd4aa3df2fb724eaaf"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "échanges commerciaux",
+      "id": "Theme_dc815fc8eadb6c71f7ea2f6583028dc0c1a7af4f3379fbfe12d56b5a8c81ca6f"
+    },
+    {
+      "type": "Theme",
+      "name": "sauvegarde",
+      "id": "Theme_51beae5e4179fc0f129d171b25adba48cf91add8ee8046d28f0fe459e12f9833"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme du mécanisme d'ajustement carbone aux frontières",
+      "id": "Theme_588884b940f9c884428fff0f7d0eec5eb549b70a4f03d1529857fbbf90a338f5"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "accord",
+      "id": "Theme_0b2df016a46af61e5cf597152a6927f3908f2e525170825ef36df6fa7215075f"
+    },
+    {
+      "type": "Theme",
+      "name": "industriels",
+      "id": "Theme_65f1038ff0752a877be8ce71144e93bba19c4c44f80762614e26462e31508666"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Theme",
+      "name": "CSRD",
+      "id": "Theme_57e61c34bf0c39ee4265ebe22f5f8904fdf55c09c03ecda9f65fad7aca36faa1"
+    },
+    {
+      "type": "Theme",
+      "name": "législation européenne",
+      "id": "Theme_7fba2d159552fc95b97fc38af1c0247c9c93cef340dbd2467b5efeeb428373fd"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "entreprises de taille moyenne",
+      "id": "Theme_b6628a3fc2baa06fb2ffb3068dd7a12f0220fd6bc62280de891849f74dd00d12"
+    },
+    {
+      "type": "Theme",
+      "name": "Outre-mer",
+      "id": "Theme_64c7afb8abd6650f75e245cc5aca9bedfee6167f1f691c6bf4d5a30512dcf9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "marché commun",
+      "id": "Theme_9731be8ad8a6b8a31732157fd602f20c17f039142824e5e2c6b4e805a5bcab22"
+    },
+    {
+      "type": "Theme",
+      "name": "titrisation",
+      "id": "Theme_0a46919a39d122138bedefed207584d27d3192f0597354fdd404d3d561d3cf5a"
+    },
+    {
+      "type": "Theme",
+      "name": "union des marchés de capitaux",
+      "id": "Theme_ffbd374b132546644a7bcb53d5fe086abbb62193f28333285e352c75123c6ee9"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs climatiques",
+      "id": "Theme_8cbe5452584e4fb987f77cc1abc7e62697f9c8a6182b5fdf64eb6498d4ab6a65"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition climatique",
+      "id": "Theme_d50478b703462e76561468f6ea79501963d98f0863f2930591c593aad98ac7c1"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité européenne",
+      "id": "Theme_5b8cac0080c310deb71672679ec203c87031e87470109651b9beea5527d70737"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "accord de Paris",
+      "id": "Theme_152a851eb1dbb7769682151519941e34f537ce302d4e0686a44e31473c8febaf"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda climatique",
+      "id": "Theme_e44c50ddb8977779c7f63036210ba4f5a89e67c3298784d87523f3e6675c1ed1"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "pharmacie",
+      "id": "Theme_3946ba1ae08f4c782c4ea9e3dde947315ec9159564496ecbc9b2b9a1117e641f"
+    },
+    {
+      "type": "Theme",
+      "name": "aéronautique",
+      "id": "Theme_75d0f3d5ff64c56475546f5da42c78e140e4b2c5b8253cc541c75517a1fd1d42"
+    },
+    {
+      "type": "Theme",
+      "name": "tarifs",
+      "id": "Theme_6e4fd7433906c2ee4d904e7ce19d8886f9a4121d8d8468481d40874c61c6bb9b"
+    },
+    {
+      "type": "Theme",
+      "name": "protection des mineurs en ligne",
+      "id": "Theme_dd32a233dfad8760eb14919780364192ea9f27680497c118b1c402514686fe3f"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Person",
+      "name": "Ursula Von der Leyen",
+      "id": "Person_a77e6d91b189b0ca729d31d98343f20ee181fcbf9d993bd05a9ae3ac6a38c70e"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "les Américains",
+      "id": "Organization_af883b943b80090b60765d9fd83988929a9c362d64a1ec6261c465014ac1c95e"
+    },
+    {
+      "type": "Person",
+      "name": "le président Trump",
+      "id": "Person_fa178fdde9360ca435451f2988e210651a3c3151ee91fb7d29f534b5a1fcc686"
+    },
+    {
+      "type": "Person",
+      "name": "Madame Meloni",
+      "id": "Person_4669a541830e440882b77b3b0428c28122da645f1daf030d32292748e06ff26a"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale",
+      "id": "Organization_8f8e5049d1c21e2291ca3d39865c23e9d20927413f7abca05a47b2572d99f6e2"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Organization",
+      "name": "Chancelier Friedrich Merz",
+      "id": "Organization_6c9c7ee5b5012ca3d8d2baf184dd29f555f4ce9ea2958e3b264e046d4662935a"
+    },
+    {
+      "type": "Theme",
+      "name": "consensus",
+      "id": "Theme_6bef32d603c8e354337a4b76bc89d9db5807ec9d9dd1900c8584ffabca9d2f41"
+    },
+    {
+      "type": "Theme",
+      "name": "Mercosur",
+      "id": "Theme_4abcbd8e6c807d698036456c0c25b12bbf9a4a2158936f5d02f56d67c3a06e25"
+    },
+    {
+      "type": "City",
+      "name": "Deux-Sèvres",
+      "id": "City_1f8f9528e05e0c43b5925baa8bffee10c0c4da47cfc7743ed7d03d5480d63cc0"
+    },
+    {
+      "type": "Person",
+      "name": "Trump",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Organization",
+      "name": "Mercosur",
+      "id": "Organization_a3313ed1a7f11242c5aa99e51ce9fd1d10df17c4caedad51ecd72e7b13ec341f"
+    },
+    {
+      "type": "Organization",
+      "name": "accord de libre-échange avec le Canada",
+      "id": "Organization_2dc884af78de138191df7620c257b40071cf53820408d039e81845769408d39f"
+    },
+    {
+      "type": "Organization",
+      "name": "cette idée",
+      "id": "Organization_5364292ef7cd1d441df15e81ce0d4f038ae786e21486d47d245ff3dc3b014424"
+    },
+    {
+      "type": "Theme",
+      "name": "des clauses de sauvegarde",
+      "id": "Theme_cbfeb0425cf75261fca15460f3b763b644cb1d6380b3576d5546b6d1a6b55d77"
+    },
+    {
+      "type": "Theme",
+      "name": "des mécanismes qui permettent de protéger certains marchés agricoles clés",
+      "id": "Theme_1eae53afddc4581e6bfbdb48aa86f9765890162489f212844238ea5b3acf6497"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs 2030",
+      "id": "Theme_a04e7ebaa1e797702d92a07dd5224e7f599bc2c64cc65564f84289ac1d170709"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs sectoriels 2035",
+      "id": "Theme_5f428165e7d24dfb94e735042149a6703968db5e63f1203fd57713ee57dd80c5"
+    },
+    {
+      "type": "Theme",
+      "name": "trajectoires nationales pour 2035",
+      "id": "Theme_fece00ffcfea72076a149456b85f0704a898d202b1504b99e53d8cc97ac6ae56"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs en 2040",
+      "id": "Theme_714e3a180f3709a8084053d1f13781b04bbd80987b74f20a3ce8cd2eae18072e"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité technologique",
+      "id": "Theme_2caf709da1cf237be763602bb0b801db683269a54ce0a1ec396bd377b70485af"
+    },
+    {
+      "type": "Theme",
+      "name": "flexibilité",
+      "id": "Theme_5dae2131ef8c442bc5656fb452c4aac3c042d864162af323c1d8c77b0af1bc0c"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "aides d'État",
+      "id": "Theme_725ac6e2a590ffc15990d625ff7d21233e09d7ba7e5f5c4823b41e3e33996e5c"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "cohérence commerciale",
+      "id": "Theme_3b0d407fe1293ff10165856cd7090c96da67b0537f848c49da6eda296e661e8d"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs 2040",
+      "id": "Theme_72f168fb74aaafe4319fcfddc262cef13c49e670fb9c902291572784e22f6fde"
+    },
+    {
+      "type": "Theme",
+      "name": "politique commerciale",
+      "id": "Theme_fc2bcb35f09130595a0d4b4942fdeabf6b6256e71ddfd4958d257984ccc23bb7"
+    },
+    {
+      "type": "Theme",
+      "name": "acier",
+      "id": "Theme_7bdbbd7fdaf595d0ae146f72166d8846294fd1db96aaf5caf8e88d5e5e53390c"
+    },
+    {
+      "type": "Theme",
+      "name": "polluer",
+      "id": "Theme_ee6f07856dc966185f93ac92fdf331d374c35cc1d7806f149854a1cbf1ae6a85"
+    },
+    {
+      "type": "Theme",
+      "name": "paquet",
+      "id": "Theme_2d729dda0a4c9c6e6f4aa1c91f30d3234332722966702e02e2d409a4b22c843d"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité carbone 2050",
+      "id": "Theme_5c2b05535af63e9f00b6d9046c001bb47707b89f31e9cd56a8461b1520f16824"
+    },
+    {
+      "type": "Theme",
+      "name": "objectif 2030",
+      "id": "Theme_6ff6078ff41b0fa29966e214bc3c823a5c8d9474a79780ec81b0f34529748b33"
+    },
+    {
+      "type": "Theme",
+      "name": "objectif 2040",
+      "id": "Theme_715404c2d4aa0846165be75d397419f5a26338a12d670c7aa87a019c01553365"
+    },
+    {
+      "type": "Theme",
+      "name": "NDC 2035",
+      "id": "Theme_0f5f16dfb4f5005613af38b1954a7d26f87e2b1bb09a2732ec75c7f7acae0f82"
+    },
+    {
+      "type": "Theme",
+      "name": "automobile",
+      "id": "Theme_0d8fe91ee5d13a11b2f8cdf024edbf4a4c18c1cf149667d4cbedfbc587eb7f9c"
+    },
+    {
+      "type": "Country",
+      "name": "Gaza",
+      "id": "Country_f741c8e877191162ded6fc94d0c300c6ede478a83314a82ec20031055452f4f2"
+    },
+    {
+      "type": "Person",
+      "name": "président Trump",
+      "id": "Person_9d787453218ebafb5af4581cdb7aced0dbcbda10c3b5f953d94154dad3b197b3"
+    },
+    {
+      "type": "Person",
+      "name": "prince héritier d'Arabie saoudite",
+      "id": "Person_068fd8db4205eeebfc7d16ae1ad951b0a79cbfc8444f38c0b1a19d4bdf6acce0"
+    },
+    {
+      "type": "Organization",
+      "name": "Arabie saoudite",
+      "id": "Organization_b2cc615fb32de69ad426f9e41bd3fe65b59d75d4c76723a8469e7db838e1e031"
+    },
+    {
+      "type": "Organization",
+      "name": "Iran",
+      "id": "Organization_d5ff53fa8976008397bc51a70b87c8544408682172fc841b3833fc4c45b2cd07"
+    },
+    {
+      "type": "Theme",
+      "name": "Gaza",
+      "id": "Theme_279a215bf8ff8b85a6c042185a3500805e234c36b1e6ed32731d90cb207203a4"
+    },
+    {
+      "type": "Theme",
+      "name": "sommet",
+      "id": "Theme_6fa5bb62faac898e6ebaddf47fad1db74b79fb34f87f4ecb365d5bca3220ff08"
+    },
+    {
+      "type": "Theme",
+      "name": "question iranienne",
+      "id": "Theme_2d02dbf2f4d2f63d13fb76c1423f99bba2ef5d5bea2a86f8b5ab9f0747b06241"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité des Nations unies",
+      "id": "Organization_6bf65c40c2dc11306e0f78e403029002e380728d5788808146d88e7f36b63686"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence internationale de l'énergie atomique",
+      "id": "Organization_78ed3c484bf6572eedefdc48061346b84394cdc600842b19358f482401484f1e"
+    },
+    {
+      "type": "Organization",
+      "name": "US",
+      "id": "Organization_db31e62fbe20401a1cd7d29f9f0729a05677a4354c2165f8693fefafbe45e991"
+    },
+    {
+      "type": "Organization",
+      "name": "EU",
+      "id": "Organization_f1235d43487a0725fef9ffa5066adcc5eee7473584ae554dcd7f8c23e3e79c24"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité",
+      "id": "Organization_baa57920608812f1a905ee605e7e26f62ded68ec5607802bf97048747ea47f2f"
+    },
+    {
+      "type": "Law",
+      "name": "traité de non-prolifération de l'Iran",
+      "id": "Law_69e282339dfa38e6dd0c4ce7901f157cbf2c159fe93e4f077f15418e241eea36"
+    },
+    {
+      "type": "Country",
+      "name": "US",
+      "id": "Country_2d6f2b5fb39dc77f66ac3844ca0d25b1367173f1b15e0d7cf449f86e70201adf"
+    },
+    {
+      "type": "Country",
+      "name": "Syria",
+      "id": "Country_6f4254a419a1b4d2193fdddaea11d91aed184452721bc67d137ff4f92e50ba94"
+    },
+    {
+      "type": "Theme",
+      "name": "nuclear program",
+      "id": "Theme_da5a81ffe6932fa0a9b627fb013189373883c7d1b05fbdfe7ce76f64da7787ed"
+    },
+    {
+      "type": "Theme",
+      "name": "constitution",
+      "id": "Theme_eb4b390baab57a0b5493dd655d96373dd60c1ce0a0b39dbd0a66ba091f181c89"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomy",
+      "id": "Theme_952ee3a99acadf658671601b98342910d03a07fabdc42cb0de510203ade67477"
+    },
+    {
+      "type": "Theme",
+      "name": "minorities",
+      "id": "Theme_0b9091ea7bab22b2bf58203168f6c634429b2d26fca72d51b75057b76ded2bce"
+    },
+    {
+      "type": "Organization",
+      "name": "IAEA",
+      "id": "Organization_8d5b56d4763600fa15e31963615537e2f512acb7159822814d9b3e86b46a88ee"
+    },
+    {
+      "type": "Organization",
+      "name": "non proliferation treaty",
+      "id": "Organization_421537c2c2c581cc102354226b0caa26a465790f269eaa1546399e4db626f457"
+    },
+    {
+      "type": "Country",
+      "name": "Iraq",
+      "id": "Country_6852b243ec8ae22b8ee64b6e469e7420361cb2f7eee4f76a43c5180cff0a8285"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition",
+      "id": "Organization_2d98a336b361fd804af3602880c6fc58a8d0d12b960c29dc036ccec093891de9"
+    },
+    {
+      "type": "Theme",
+      "name": "respect of all components of Syrian civil societies",
+      "id": "Theme_3f6b31e34d5aac9bb5e3ce7d9c992893c43c506c2ac65cadc65b94e0e1715efe"
+    },
+    {
+      "type": "Theme",
+      "name": "fight against Captagon",
+      "id": "Theme_ab4a8fbec16cafbd44b04ec6d078b6a9de99d4b3286df3e34088e46e6ca7e75c"
+    },
+    {
+      "type": "Theme",
+      "name": "clarity against Daesh and terrorist groups",
+      "id": "Theme_dded622a11f639855d74bc1013e4190bdf878f38e2adf185c8ed0d21a4cc8b22"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorist attacks",
+      "id": "Theme_187a5d522464fb9c4f89f40358a3c4d6591265ea82f193afe695af841076e22b"
+    },
+    {
+      "type": "Theme",
+      "name": "political process",
+      "id": "Theme_616e2cf6f786f48eb85de4c8114ab00d36fa517626bdc8d7fae3ef2b578ed563"
+    },
+    {
+      "type": "Country",
+      "name": "Moldova",
+      "id": "Country_30616b4bdc6541c471c474b9362e10238bde76b9a551efdb020db1b48c9ade61"
+    },
+    {
+      "type": "Person",
+      "name": "Maya Sandu",
+      "id": "Person_22aed516d29546b5c5ea21eae23bd4b21f1ee81ef934a7e601081a48395e4de5"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Conseil européen",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "Ce Conseil européen, qui intervient au lendemain de ce sommet de l'OTAN, marque véritablement la consolidation d'un pilier européen de l'OTAN en nous coordonnant au sein de l'Union européenne pour mettre en œuvre cet effort inédit.",
+      "confidence": 1.0,
+      "source_id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "source": "OTAN",
+      "relation": "ALLIED_WITH",
+      "target": "Union européenne",
+      "evidence": "Ce Conseil européen, qui intervient au lendemain de ce sommet de l'OTAN, marque véritablement la consolidation d'un pilier européen de l'OTAN en nous coordonnant au sein de l'Union européenne pour mettre en œuvre cet effort inédit.",
+      "confidence": 1.0,
+      "source_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "source": "Conseil européen",
+      "relation": "SPOKE_ABOUT",
+      "target": "effort inédit",
+      "evidence": "Ce Conseil européen, qui intervient au lendemain de ce sommet de l'OTAN, marque véritablement la consolidation d'un pilier européen de l'OTAN en nous coordonnant au sein de l'Union européenne pour mettre en œuvre cet effort inédit.",
+      "confidence": 1.0,
+      "source_id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277",
+      "target_id": "Theme_d187481812a89b1668667cb4bdbbfc2b1e30f2ac6caff093e0eebd1fad3ab802"
+    },
+    {
+      "source": "Iran",
+      "relation": "LOCATED_IN",
+      "target": "Iran",
+      "evidence": "en Iran",
+      "confidence": 1.0,
+      "source_id": "Organization_d5ff53fa8976008397bc51a70b87c8544408682172fc841b3833fc4c45b2cd07",
+      "target_id": "Organization_d5ff53fa8976008397bc51a70b87c8544408682172fc841b3833fc4c45b2cd07"
+    },
+    {
+      "source": "Europe",
+      "relation": "SUPPORTS",
+      "target": "les Américains",
+      "evidence": "Si, à la fin, le choix des Américains était de garder 10 % de tarifs sur notre économie, il y aura immanquablement une compensation sur les biens et produits qui sont vendus par les Américains sur le marché européen de ces tarifs",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Organization_af883b943b80090b60765d9fd83988929a9c362d64a1ec6261c465014ac1c95e"
+    },
+    {
+      "source": "Europe",
+      "relation": "OPPOSES",
+      "target": "les Américains",
+      "evidence": "Si, à la fin, le choix des Américains était de garder 10 % de tarifs sur notre économie, il y aura immanquablement une compensation sur les biens et produits qui sont vendus par les Américains sur le marché européen de ces tarifs",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Organization_af883b943b80090b60765d9fd83988929a9c362d64a1ec6261c465014ac1c95e"
+    },
+    {
+      "source": "Allemagne",
+      "relation": "SPOKE_ABOUT",
+      "target": "accord",
+      "evidence": "L'Allemagne a sous-entendu qu'un accord rapide, asymétrique, ça pourrait lui aller à certaines conditions.",
+      "confidence": 1.0,
+      "source_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6",
+      "target_id": "Theme_0b2df016a46af61e5cf597152a6927f3908f2e525170825ef36df6fa7215075f"
+    },
+    {
+      "source": "Chancelier Friedrich Merz",
+      "relation": "SPOKE_ABOUT",
+      "target": "accord",
+      "evidence": "Le chancelier Friedrich Merz vient de dire : \" On est au bord d'un accord. \"",
+      "confidence": 1.0,
+      "source_id": "Organization_6c9c7ee5b5012ca3d8d2baf184dd29f555f4ce9ea2958e3b264e046d4662935a",
+      "target_id": "Theme_0b2df016a46af61e5cf597152a6927f3908f2e525170825ef36df6fa7215075f"
+    },
+    {
+      "source": "US",
+      "relation": "SPOKE_ABOUT",
+      "target": "nuclear program",
+      "evidence": "US and Iran are saying that they will restart negotiation regarding Iran's nuclear program.",
+      "confidence": 1.0,
+      "source_id": "Country_2d6f2b5fb39dc77f66ac3844ca0d25b1367173f1b15e0d7cf449f86e70201adf",
+      "target_id": "Theme_da5a81ffe6932fa0a9b627fb013189373883c7d1b05fbdfe7ce76f64da7787ed"
+    },
+    {
+      "source": "Iran",
+      "relation": "SPOKE_ABOUT",
+      "target": "nuclear program",
+      "evidence": "US and Iran are saying that they will restart negotiation regarding Iran's nuclear program.",
+      "confidence": 1.0,
+      "source_id": "Organization_d5ff53fa8976008397bc51a70b87c8544408682172fc841b3833fc4c45b2cd07",
+      "target_id": "Theme_da5a81ffe6932fa0a9b627fb013189373883c7d1b05fbdfe7ce76f64da7787ed"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "EU",
+      "evidence": "Where do France and the EU stand in this regard ?",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_f1235d43487a0725fef9ffa5066adcc5eee7473584ae554dcd7f8c23e3e79c24"
+    }
+  ]
+}

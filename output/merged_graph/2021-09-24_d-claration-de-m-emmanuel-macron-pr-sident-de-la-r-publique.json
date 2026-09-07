@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Najib Mikati",
+      "id": "Person_3e9ac913680bc7d957eff6f28f45e97514843dedb1fe75ca57389b839bb5658f"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "La communauté internationale",
+      "id": "Organization_c859270fa6163b85a2c412dc623028bbd6d54251d45b94f3d988754dee92defa"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds monétaire international",
+      "id": "Organization_ea510a567f72e30e0268e3e6ccaa15fe3579eeab3ddd63cf65e4879cc4e70e8d"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Event",
+      "name": "l'explosion du 4 août",
+      "id": "Event_162a4936bf462fe50e805c4b12286b4f0397d1dcbef904485e7ce083020c20f7"
+    },
+    {
+      "type": "Person",
+      "name": "Michel Aoun",
+      "id": "Person_af0ed44ba570c36fd73e4a55b86ff3fcc341ceaeff5a312bcd960c0d9dce3f1a"
+    },
+    {
+      "type": "Person",
+      "name": "Nabih Berri",
+      "id": "Person_7c0d4cf663e452df6fd699236a58dd321b371d223066b3b97c6a232c2a414545"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Liban",
+      "evidence": "la France a apporté un appui particulier aussi aux écoles comme aux Forces armées libanaises.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "source": "Liban",
+      "relation": "VISITED",
+      "target": "Liban",
+      "evidence": "La communauté internationale ne pourra d'ailleurs apporter un appui structurel au Liban qu'une fois ces réformes mises en oeuvre, enclenchées, en tout cas.",
+      "confidence": 1.0,
+      "source_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Liban",
+      "evidence": "Je veux que le Liban sache qu'il peut compter sur la France.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    }
+  ]
+}

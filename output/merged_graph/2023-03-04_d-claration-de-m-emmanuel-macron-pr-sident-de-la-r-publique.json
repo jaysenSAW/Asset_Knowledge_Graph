@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "City",
+      "name": "Brazzaville",
+      "id": "City_86ca68fdc798d652856a8cda99ddff33226daf7228d5afeb93804bdb6277ab62"
+    },
+    {
+      "type": "Organization",
+      "name": "Union africaine",
+      "id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Theme",
+      "name": "diversification économique",
+      "id": "Theme_22e568190a0eac010c1c498dc529f50a9e3bcd51037bffd99ad880d2c209b8c8"
+    },
+    {
+      "type": "Theme",
+      "name": "production agricole",
+      "id": "Theme_52e8416d561886c6a49b2c8456117a3828d515ce31da84e920d0817c9e6cdb01"
+    },
+    {
+      "type": "Organization",
+      "name": "Caméroun",
+      "id": "Organization_7bddbd6b74dba89aa60a88ce94ea33edb90fbeb1dcdeb93595df72b070d924cc"
+    },
+    {
+      "type": "Organization",
+      "name": "Angola",
+      "id": "Organization_4d8a487297d53738fd0074c4f5283b85fbf3a3f3303614ba808dd70d20550895"
+    },
+    {
+      "type": "Theme",
+      "name": "forêts",
+      "id": "Theme_1240508ec111d344871ee2eca4741bff873de4cefa7235aaf1e7b0be5524767e"
+    },
+    {
+      "type": "Country",
+      "name": "Gabon",
+      "id": "Country_a658795cede51ea1a101d56d0808106f76a3dbd2b389704965a890d52c372aab"
+    },
+    {
+      "type": "Organization",
+      "name": "One Forest Summit",
+      "id": "Organization_c6284367a8c840af4546da079e759a2ba2e5841248aa8e33ce8787a613afd2fd"
+    },
+    {
+      "type": "Organization",
+      "name": "Trois Bassins",
+      "id": "Organization_e9480d9d955d764164dad1409688719aa0b518f304c0e434feb6c063538f95f3"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations Unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Theme",
+      "name": "sujets mémoriels, historiques et culturels",
+      "id": "Theme_a853a5b5256940a7a91bfb9a43213ea6a50780ec7a26c2c92312b2d4393e7f16"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Choose Africa II",
+      "id": "Organization_ce020b2195d8bcbd1c9027c1dc8952117edd33314b72a4a4f24adad5e61a7262"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française de développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque publique d'investissement",
+      "id": "Organization_4ae1ff72a2253bf942ec7e47c3a2bcf0c3960deaafd46b172996a21479ae208a"
+    },
+    {
+      "type": "Organization",
+      "name": "Business France",
+      "id": "Organization_a6c8c752a47385a5ca5cb511756c3e28bbc9675b1afd54f41f06e4b13f7b0a91"
+    },
+    {
+      "type": "Organization",
+      "name": "FMI",
+      "id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Union africaine",
+      "relation": "ALLIED_WITH",
+      "target": "Président",
+      "evidence": "Compte tenu du rôle du Président au sein de l'Union africaine",
+      "confidence": 1.0,
+      "source_id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac",
+      "target_id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Brazzaville",
+      "evidence": "compte tenu du rôle que Brazzaville a eu pour la France libre.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "City_86ca68fdc798d652856a8cda99ddff33226daf7228d5afeb93804bdb6277ab62"
+    }
+  ]
+}

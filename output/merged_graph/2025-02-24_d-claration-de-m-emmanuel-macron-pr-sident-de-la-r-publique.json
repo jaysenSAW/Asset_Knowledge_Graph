@@ -1,0 +1,140 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Mr. president",
+      "id": "Person_2affb71c5a325773b9f3f4d6889079f0575d1372b8ef0b948a46ddb70d75703e"
+    },
+    {
+      "type": "City",
+      "name": "Notre-Dame de Paris",
+      "id": "City_44911f880fe4b42a406eb7c8fab48472dbf8026b5667bd35240a8cb7e9b396dc"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Event",
+      "name": "conflit et de cette guerre d'agression",
+      "id": "Event_3729a6f1c8f03ddb79c294e66e59cb76aa946de97cd3fe32457fc6946c406c02"
+    },
+    {
+      "type": "Person",
+      "name": "Donald",
+      "id": "Person_685ed33d56cef655070350aedeecf9bcd80bae66ae445ce15176e9969573d931"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "America",
+      "id": "Country_7ebf04df6292fadbcae139ef7607a6556affa2f40427dac6128c315eb20e72cd"
+    },
+    {
+      "type": "Person",
+      "name": "Trump",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Person",
+      "name": "Poutine",
+      "id": "Person_cd18bc7f49bb7d64b17bcbd894d6a8752a9076a00deeefdb299e52309a31d8e5"
+    },
+    {
+      "type": "Person",
+      "name": "Zelensky",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "Country",
+      "name": "Russia",
+      "id": "Country_031b4c0bba521a2a2bc16583d5da802d72be999dee34152a72afb2f7fef838ef"
+    },
+    {
+      "type": "City",
+      "name": "Belgium",
+      "id": "City_ed84bd7c0c08057ca5aee3dd721fd58c90cadbd8b7d782ff1f929eedf3086dfe"
+    },
+    {
+      "type": "Theme",
+      "name": "frozen assets",
+      "id": "Theme_4f75b64b6edf4c9928502c580229defd6457303cf4aa6c1e4346bc3e23a83a17"
+    },
+    {
+      "type": "Theme",
+      "name": "international law",
+      "id": "Theme_6cd1c841fbba2684398320fbb5516246e6201cf20400d593d5c0ef2d99e9d1f1"
+    },
+    {
+      "type": "Theme",
+      "name": "sanctions",
+      "id": "Theme_cc609b67ce79c18e469b868785645e8ac15295942ba88c097a9620d856801064"
+    },
+    {
+      "type": "Theme",
+      "name": "G7",
+      "id": "Theme_5d5bdda89574ffe78851fbd8543321a62368b619cb111bfb9edbf65985d0ff6f"
+    },
+    {
+      "type": "Theme",
+      "name": "loans",
+      "id": "Theme_9b664fe4541ec009b10bd7f4e94f08bf1314a0725548d8a9cc817a867ea16c3b"
+    },
+    {
+      "type": "Theme",
+      "name": "proceeds",
+      "id": "Theme_968033c96a114b178c7d49e4ec6558b18a43f5688949657cd27f4e63bfdc9478"
+    },
+    {
+      "type": "Theme",
+      "name": "assets",
+      "id": "Theme_4155d79d90f4595e6727535d25e84a490d8f5cb619da7fe767b117bdc406e5f2"
+    },
+    {
+      "type": "Theme",
+      "name": "negotiation",
+      "id": "Theme_1cccbb291206ec649f5c6194e5f793f28a634daa9fe114c5f1cc4c83b57a2307"
+    },
+    {
+      "type": "Person",
+      "name": "M. Donald Trump",
+      "id": "Person_eaa8ee8dc171530a1e4582e3166c25151912311244d8a012a2c5652b727bf38f"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "OPPOSES",
+      "target": "France",
+      "evidence": "France has opposed unfreezing it to pay Ukraine and compensate the U.S. for its support.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Person",
+      "name": "président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Person",
+      "name": "Ludovic DESOEUVRES",
+      "id": "Person_b0ebad9776f8c465030296a947e60bb4a4bce23733d64f52745ee898c376ab50"
+    },
+    {
+      "type": "City",
+      "name": "Château-Thierry",
+      "id": "City_2c2c674df6ec222b82ceec59c83d0247a8a2dcba8393b2b0583d10242f7355cc"
+    },
+    {
+      "type": "City",
+      "name": "Aisne",
+      "id": "City_aed669a72f36360e08d4b5116bccd30a64357e42dc962ec27547f2b9453598d4"
+    },
+    {
+      "type": "Theme",
+      "name": "désordre géopolitique",
+      "id": "Theme_bf051b9cf2995a3ffd24d18b416ddb53a47bdcd7e45727753ce6d05e3816cec7"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre en Ukraine",
+      "id": "Theme_c1ac68c6c37050c08bad07f72ee5a0d6426beefac1fe476dc951a6e663e6c13f"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation de matières premières",
+      "id": "Theme_8225ad82ef6da619420070187e92121548191d886fd19a873156e962c39280ad"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "prix de l'énergie",
+      "id": "Theme_82bce87340b5a56c5dafef84fa5917f6ee1109c70d90ae8fee0b6f4f1d9f2db8"
+    },
+    {
+      "type": "Theme",
+      "name": "très petites entreprises",
+      "id": "Theme_9a5d9b611f6cef48264a99c1bcbbb1c0f9804167e16431a27846e1537e648a76"
+    },
+    {
+      "type": "Person",
+      "name": "Dominique",
+      "id": "Person_e7ac08513df7bdab3837da2c924013527c1eb8e1de7e87b586108f0f01b7cf64"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Audrey",
+      "id": "Person_950aacee7944fb1100eff0cf2dfd882a4532b125e98244a8e86848a304a787f6"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Directrice générale",
+      "id": "Person_1f36d9d1dfda127e323341a112da647c9c3147dfbb2519bd416ca34ec413df47"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Yves BOULLIER",
+      "id": "Person_f4e515be947e1e90258cc16f298d15c73f54ef03cbaf8a36aeb33d11a26b3022"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Moulin de la Croix Nivert",
+      "id": "Organization_6fb693a1eb895801ccfc8add7ff55ef086eca69031629dcb9f494ed46f098010"
+    },
+    {
+      "type": "Theme",
+      "name": "bouclier tarifaire",
+      "id": "Theme_6898b507a16b651a87f8e9863bc5014e69eadf3995bcaad512ed2db774554b8e"
+    },
+    {
+      "type": "Theme",
+      "name": "amortisseur tarifaire",
+      "id": "Theme_c02fc753976b6ba2a5126ba2b0a2b6fdb7d1666bf9103ada42cfa3d608240d17"
+    },
+    {
+      "type": "Theme",
+      "name": "facture",
+      "id": "Theme_0479c0f5a60be998018607c38f1c51a381f94e34c5902c9bfa99b15e55deacda"
+    },
+    {
+      "type": "Theme",
+      "name": "contrat d'électricité",
+      "id": "Theme_7d5e6020b6cc97f7ef7c78aa5ffd2879f3c355847fb576856f0ac9e1f330622d"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce",
+      "id": "Theme_030aa67661fc7f420b2620eaa40b472d5e87b4aea26693aacbd98e388c58bb88"
+    },
+    {
+      "type": "Theme",
+      "name": "commune",
+      "id": "Theme_671b95f6f46ca087a2d032b2b8df11eb2f764c153f0d1c117e9b8e9d571ee69b"
+    },
+    {
+      "type": "Theme",
+      "name": "fédération",
+      "id": "Theme_4c30137ae6f47e5a14b5f846c6daefe9250b5346ec0a438e85b395121bb8f66d"
+    },
+    {
+      "type": "Theme",
+      "name": "préfet",
+      "id": "Theme_4f78550fcc36a7d56c3e2a642831244d38a68e9924fdb40e98a25ba19100c268"
+    },
+    {
+      "type": "Theme",
+      "name": "guichet",
+      "id": "Theme_ed5bdc4c54cfc36f4f2701b6c6498dd88f2a86df60260aafe78f3859d5384645"
+    },
+    {
+      "type": "Theme",
+      "name": "boulangerie",
+      "id": "Theme_e4a07d2350e232331deeec501c34f29ba8f45bc41375c6ea7f4c63421bcbd30c"
+    },
+    {
+      "type": "Theme",
+      "name": "contrats à prix élevés",
+      "id": "Theme_ea5893c30c038aba22370f2a39206aea0d000c6ab0c1548b91d24bda39da5dad"
+    },
+    {
+      "type": "Theme",
+      "name": "dispositif de limitation du prix",
+      "id": "Theme_fb1a78655f455bac1a1d38258900d86419f96e241ce3fa76fc5e007045299a63"
+    },
+    {
+      "type": "Theme",
+      "name": "petits consommateurs professionnels",
+      "id": "Theme_5d9e41cdd59a6301f9440e5a325a60734f9a3d8b4dfdc7d82ef044d75a9f2839"
+    },
+    {
+      "type": "Theme",
+      "name": "boulangers",
+      "id": "Theme_1bf96403264ece4b009ddcc407b9494118cd0f75fb813bb89cee39d59062ef49"
+    },
+    {
+      "type": "Theme",
+      "name": "artisans pâtissiers",
+      "id": "Theme_6311c51986fea29bf90fc65b317295d29c4a1e9f0a8e60c68226d9329e676667"
+    },
+    {
+      "type": "Theme",
+      "name": "PME",
+      "id": "Theme_db1b5dd1f05a5483c8bd8ec0d664360eb7ce06bdd154e58613fc02ba15981df3"
+    },
+    {
+      "type": "Theme",
+      "name": "accord européen",
+      "id": "Theme_c7c6eab48ccdf4428c9f2a3a996f7bbc798b0470105ae1821fd1e9aa9eef1321"
+    },
+    {
+      "type": "Theme",
+      "name": "régulation des prix de l'électricité",
+      "id": "Theme_eabc22fbde3e8f1c53c085684f3cf35acbffc70c20704d87df3669b00f8614bf"
+    },
+    {
+      "type": "Theme",
+      "name": "loi",
+      "id": "Theme_aaa751cd5b857da1d5f067b90439cca5af7e59784eb0537f6c5b647db27ec7a1"
+    },
+    {
+      "type": "Law",
+      "name": "une nouvelle régulation des prix de l'électricité",
+      "id": "Law_aca58d8088e2269097fe60e41684cb792f946a5d8e4b9d2583b1082c45029cba"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "EDF",
+      "id": "Organization_a2183f95d437456d4b4affc3a6618e8faf7d161757f235e7560aeca5540433a9"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté alimentaire",
+      "id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Person",
+      "name": "Olivia GRÉGOIRE",
+      "id": "Person_d9c11baafd272257709156b6d0480fca294f67f0c0a284419a44ce43b72d7bce"
+    },
+    {
+      "type": "Person",
+      "name": "Christophe BÉCHU",
+      "id": "Person_aea82dab2079feb92d5250786366362c1cd252239742c1a3ec8da97787e9b34c"
+    },
+    {
+      "type": "Person",
+      "name": "Ministre",
+      "id": "Person_3ffa6811c83c16bf59edf782cd334ba6a4263e78436004596c3f8ab18adabbc4"
+    },
+    {
+      "type": "Theme",
+      "name": "faiseurs",
+      "id": "Theme_d8686078062fbbbaf99057bcd968b6d358f58c9c9bc7851e76d8385f04fdecb3"
+    },
+    {
+      "type": "Theme",
+      "name": "femmes",
+      "id": "Theme_6cefe79fcc2d94b362c08802e35592ec94d444fa1fceecb124f2402df513ea70"
+    },
+    {
+      "type": "Theme",
+      "name": "hommes",
+      "id": "Theme_09f2138883d7cd96629d576e7e8775ee98528d3dbea45c99bfed6cef5514ee46"
+    },
+    {
+      "type": "Theme",
+      "name": "faire",
+      "id": "Theme_2a107dacc4b90111765d151c1fc92b5a2a076d29ed3bdf9e9a9769eef630963e"
+    },
+    {
+      "type": "Theme",
+      "name": "agir",
+      "id": "Theme_2f5ee74ef4c2efcd9dc8012c03cc20cdc8703b980b8b043c746763ca34dc8183"
+    },
+    {
+      "type": "Theme",
+      "name": "créer",
+      "id": "Theme_451905d7965d8d4a831df88b125ce26b97394fd61f77bc10d7478ee890ffb1ca"
+    },
+    {
+      "type": "Theme",
+      "name": "innover",
+      "id": "Theme_fe2ffb7a11a849b1287762400d20f24c7c40db3f19ae6188ddef960f60789407"
+    },
+    {
+      "type": "Theme",
+      "name": "plein emploi",
+      "id": "Theme_2a448e8543fa37515f8306b37c9e0bce2b2c535e0733a499a4bec870b1e709ef"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution démographique",
+      "id": "Theme_b498cb17c1c64b4c35835f1521e8588095719a5193a539d60b382610bf5c8b1e"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "création d'emplois",
+      "id": "Theme_6504e6ace9950bb650ef42114b8bffda2376af147acc77f9ae8f22ffc17f02cd"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi des plus jeunes",
+      "id": "Theme_f75cbce35fd1ab469d9ec4a81c4e2ec992a25c2faeef453cf3428ff214584eaf"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution culturelle française",
+      "id": "Theme_23ffffb776ee444a383bdc1ea6cb6852da8aca3bdb9d4558e0f4fb4b03ab3cc3"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "contrats d'apprentissage",
+      "id": "Theme_829c349dd50c2080bcff0be7bd379aeaa96a5aa6de273189b3b41483faf61933"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers en tension",
+      "id": "Theme_6d28569986630a0acc91600b5e60dcd969dd98085bd9eac18af5f76b2becdf38"
+    },
+    {
+      "type": "Theme",
+      "name": "artisanat",
+      "id": "Theme_e503c87cab8e818d205063f1be254200fdc67e354b7473160629a363a2478a44"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers d'art",
+      "id": "Theme_20d6a311d8401580919ef69695af1d76097a708fb84468e0f980044ab97196cb"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre HERMÉ",
+      "id": "Person_8cd0734bc70131a532d81c7b0ce8c015429e8f3ed892a5ce4743ae98c6af4169"
+    },
+    {
+      "type": "Person",
+      "name": "cher Président",
+      "id": "Person_d365aa68201ce725d2af62728c9477ab5931bace1b08db665f0613845b96714a"
+    },
+    {
+      "type": "Theme",
+      "name": "lycée professionnel",
+      "id": "Theme_82d8f5ba45d8801be83bdb04478d40f5921345a3a1bce486c86a294aee9df0a3"
+    },
+    {
+      "type": "Theme",
+      "name": "scandale français",
+      "id": "Theme_4d4d118c5f963ded41a1620e7e6bfe9d3d812897f8827af450e6501a43fede67"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunes",
+      "id": "Theme_a20dcaf37efe496f33d1e4c4be9f3c3dabe56fc83fe45c815f1d76fdaaef0dcf"
+    },
+    {
+      "type": "Theme",
+      "name": "lycéens",
+      "id": "Theme_3bc423be4838c061d9ef886cd2ea65805838e2d53a83360a8c651d2ffeab2bcc"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers",
+      "id": "Theme_305de45577953bd04165ca22cf0089e5defd686499397a72c39942ab978c3083"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignants",
+      "id": "Theme_74dc0f750cdfcd3f98e4d6f471075af8aa7b7562ed6b64e6a6c69efef994152b"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution complète",
+      "id": "Theme_61477f1178e6b8c99d0a34f5aa8cfad9acb6c9a905c6f8076fb1cd0385eb5f8d"
+    },
+    {
+      "type": "Theme",
+      "name": "carte des formations",
+      "id": "Theme_5609c004f82f4da1618d4ea3e363a57df93de17c4e3d946a79ae406596837096"
+    },
+    {
+      "type": "Theme",
+      "name": "orientation",
+      "id": "Theme_74039395f94b06baaf3782d15df5ce6738621f26f63d04c0fc5af90d91a6c498"
+    },
+    {
+      "type": "Theme",
+      "name": "lycée pro",
+      "id": "Theme_3dadc5c4dbace88895c8107d9ac20bac2fe48de2af1a72f323d992496822e9bd"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers de l'hôtellerie",
+      "id": "Theme_78960a18e6ba2e4b919130f1c8085ef8d041fc1b67897f231fd90616236fc4ec"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers du bâtiment",
+      "id": "Theme_79df2e4c23103683a21b8e489afed5e82d79413c95fa4156443de5ed38472a83"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers de l'industrie",
+      "id": "Theme_68a2e419ff46fef16a2e83d54fb615c2d7959a1f61ddd401fd793fb4125b62be"
+    },
+    {
+      "type": "Theme",
+      "name": "formations",
+      "id": "Theme_69f287e343dbccf01ac37a421d37dbda3bc03cd334ec5affea272b0f4f64ea7b"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "formation des jeunes",
+      "id": "Theme_046ff21c6e28cc877c6a3e5ce1b0b1228fe775d8a8569d67de16031c277cbaab"
+    },
+    {
+      "type": "Theme",
+      "name": "patrimoine français",
+      "id": "Theme_2df9fa7424c13749d59a838dfdd9f8f98f15b6d722aa72d79a7972ff5edfa3e9"
+    },
+    {
+      "type": "Theme",
+      "name": "baguette",
+      "id": "Theme_5863d8b35557cca3c82309748eeca69c8b7cae8a558cf39ffde1cd186a95ac33"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "vie d'une nation",
+      "id": "Theme_47c5cde0a0fc48370fd719260a92e2a9da10fff2bc87eff55ebf61d071ed72fb"
+    },
+    {
+      "type": "Theme",
+      "name": "reconnaissance de géographie",
+      "id": "Theme_f1553cd9d33f6278ce0008a7a8a0bddbbad9dd975b2d451716da51861e5f1ecf"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir-faire français",
+      "id": "Theme_dbdd2499daabcc507c4e2b09577627485b44df939a983cb57b8c44bb1d2035da"
+    },
+    {
+      "type": "Theme",
+      "name": "gastronomie",
+      "id": "Theme_95de876b1173e4eff212fc36e76d6c5f96b693492bb23438c8897dfee2f77158"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce de proximité",
+      "id": "Theme_38c0e03ce9beebffa11e2fbba3abe79be0e9a7cd713a211450bc76f9cd6c34f0"
+    },
+    {
+      "type": "Theme",
+      "name": "plan pour rouvrir des cafés et des bistrots",
+      "id": "Theme_4978629e91042caabe56562d95faf716bac65ffa0477cce720307358c59fd148"
+    },
+    {
+      "type": "Theme",
+      "name": "contact humain",
+      "id": "Theme_e2c40257ef85ef7c9f45b9762176c09422092dbe4b288245ed2e437d387539af"
+    },
+    {
+      "type": "Theme",
+      "name": "patrimoine",
+      "id": "Theme_f6e24cc0a7fb8f4e53711f9bbde0b780c864eea0f41ca2c6dfa23caff8fe4496"
+    },
+    {
+      "type": "Theme",
+      "name": "passion",
+      "id": "Theme_7949a5f060407a4a8f54467ab2b0428590ea191abcc6bb87ad63eb9cf0403e36"
+    },
+    {
+      "type": "Theme",
+      "name": "transmission",
+      "id": "Theme_5f3b7befdd4615ff5f6f2392f77484bd002f10d099d2c30e336f50361b9fc447"
+    },
+    {
+      "type": "Theme",
+      "name": "compétition mondiale",
+      "id": "Theme_bf25841d528985b2a9560cc0a85c8fe0b149fe4d6320622c84bd449d56b75b20"
+    },
+    {
+      "type": "Theme",
+      "name": "Worldskills",
+      "id": "Theme_5fe30d0964898d468402cd2ee38131e2eb42f94d961ed46ec60357f3ac01d8c2"
+    },
+    {
+      "type": "Theme",
+      "name": "MOF",
+      "id": "Theme_26aef9514bf68d0414e34ff4b6f481efca9e6191ebd96f5ee5dbe083518e2a9c"
+    },
+    {
+      "type": "Theme",
+      "name": "MAF",
+      "id": "Theme_ca078c6209e6a84a1dbd2f02d15ec6205db28c03c3a6564108a71a851e7f7341"
+    },
+    {
+      "type": "Theme",
+      "name": "joaillerie",
+      "id": "Theme_d56bbfde026bb2e208902fea12b8f354eabb5ec00590ac73c4a95fad5f2416cf"
+    },
+    {
+      "type": "Theme",
+      "name": "boucherie",
+      "id": "Theme_14ac47734df3c1d1b853d2f29f4594c3d36f797f8cd634167fd03cdf1efd7435"
+    },
+    {
+      "type": "Theme",
+      "name": "création de mode",
+      "id": "Theme_ab989d682ec2903fc8bcc204a3af139830b7c5b18f4e7be19717fa88c8e1adcd"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers du numérique",
+      "id": "Theme_683183754b295fe10642c8a271d881127458a42ea0ce668001f0b8da03520a37"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "hôtellerie",
+      "id": "Theme_e580326cf083eaffe04ca2c9781ebe35f06034d56fee8c1e7fe584844755c702"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux olympiques",
+      "id": "Event_a8bf835d920f3d97ebe3969f331a838648fdce52e2ce1d732ac8c44d6c998ec9"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Theme",
+      "name": "projets multiples",
+      "id": "Theme_392f50d1e1cedb03cf926db14e4bed400d4697dc42cf6b8df99a5135f374b98d"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Ludovic DESOEUVRES",
+      "relation": "LOCATED_IN",
+      "target": "Château-Thierry",
+      "evidence": "le vainqueur du prix de la baguette Ludovic DESOEUVRES à Château-Thierry",
+      "confidence": 1.0,
+      "source_id": "Person_b0ebad9776f8c465030296a947e60bb4a4bce23733d64f52745ee898c376ab50",
+      "target_id": "City_2c2c674df6ec222b82ceec59c83d0247a8a2dcba8393b2b0583d10242f7355cc"
+    },
+    {
+      "source": "bouclier tarifaire",
+      "relation": "SPOKE_ABOUT",
+      "target": "très petites entreprises",
+      "evidence": "Le bouclier tarifaire a protégé les très petites entreprises.",
+      "confidence": 1.0,
+      "source_id": "Theme_6898b507a16b651a87f8e9863bc5014e69eadf3995bcaad512ed2db774554b8e",
+      "target_id": "Theme_9a5d9b611f6cef48264a99c1bcbbb1c0f9804167e16431a27846e1537e648a76"
+    },
+    {
+      "source": "amortisseur tarifaire",
+      "relation": "SPOKE_ABOUT",
+      "target": "facture",
+      "evidence": "L'amortisseur tarifaire a permis de faire baisser de 20 % la facture.",
+      "confidence": 1.0,
+      "source_id": "Theme_c02fc753976b6ba2a5126ba2b0a2b6fdb7d1666bf9103ada42cfa3d608240d17",
+      "target_id": "Theme_0479c0f5a60be998018607c38f1c51a381f94e34c5902c9bfa99b15e55deacda"
+    },
+    {
+      "source": "une nouvelle régulation des prix de l'électricité",
+      "relation": "PROPOSED",
+      "target": "France",
+      "evidence": "On va maintenant passer une loi qui arrive là en début d'année et qui va permettre une nouvelle régulation des prix de l'électricité. Et ça, c'est un point important parce que pour nous, en France, qui produisons une électricité stable, peu carbonée et plutôt moins chère que certains voisins, il n'y avait aucune raison qu'on subisse les à-coups du marché mondial.",
+      "confidence": 1.0,
+      "source_id": "Law_aca58d8088e2269097fe60e41684cb792f946a5d8e4b9d2583b1082c45029cba",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "lycée professionnel",
+      "relation": "MENTIONS",
+      "target": "scandale français",
+      "evidence": "Le lycée professionnel était une forme de scandale français",
+      "confidence": 1.0,
+      "source_id": "Theme_82d8f5ba45d8801be83bdb04478d40f5921345a3a1bce486c86a294aee9df0a3",
+      "target_id": "Theme_4d4d118c5f963ded41a1620e7e6bfe9d3d812897f8827af450e6501a43fede67"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "MOF",
+      "evidence": "des meilleurs ouvriers de France, des meilleurs apprentis de France, de continuer à défendre, les Rabelais et le concours des MOF",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_26aef9514bf68d0414e34ff4b6f481efca9e6191ebd96f5ee5dbe083518e2a9c"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "Jeux olympiques",
+      "evidence": ". 65 pays seront là pour ces Jeux olympiques, des savoir-faire mondiaux et la France a quelques beaux atouts, notamment dans votre secteur.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Event_a8bf835d920f3d97ebe3969f331a838648fdce52e2ce1d732ac8c44d6c998ec9"
+    }
+  ]
+}

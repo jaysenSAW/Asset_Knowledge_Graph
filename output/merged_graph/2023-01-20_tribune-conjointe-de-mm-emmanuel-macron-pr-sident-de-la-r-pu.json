@@ -1,0 +1,431 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Charles de Gaulle",
+      "id": "Person_01f199ce1427e49901e84887c1f5698d14e2bdd37c68fc89ca095a6ba67529f9"
+    },
+    {
+      "type": "Person",
+      "name": "Konrad Adenauer",
+      "id": "Person_e9887fbcc3571b66fb27ded55ee05be4294a6e143c2b7d63446d3b1582809403"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Law",
+      "name": "Traité de l'Élysée",
+      "id": "Law_a428fe79562d35921d08555c8eb2a3a2d952f9fbf536e13d264efd52ed716153"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Country",
+      "name": "l'Europe",
+      "id": "Country_22c6a9031acb88b09b90ce4000e1a54cc5401d4a34558d7df28560e8576fb0e6"
+    },
+    {
+      "type": "Person",
+      "name": "le président de Gaulle",
+      "id": "Person_bae0ecd34d5412d528bb8290d1dffcaec17cf6cc1076dd07cad97e0dd20087a1"
+    },
+    {
+      "type": "Person",
+      "name": "le chancelier Adenauer",
+      "id": "Person_9eb03ef344881e63d77ab125b700708ed74643c0afcdcf269bac6acdd6cff1e1"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Union européenne",
+      "id": "Organization_673fab4d08769d234a4cf43038f4d756b18cf5311dd75f678634c6bceba1dcb3"
+    },
+    {
+      "type": "Theme",
+      "name": "la paix",
+      "id": "Theme_2a209a3014073f4a8155da339c2e11ace3d4b5cb8a8f4021dfeaf46f721428c7"
+    },
+    {
+      "type": "Theme",
+      "name": "la prospérité",
+      "id": "Theme_bf95374e264d8b5c169cc2792c6ec749d074c3b989e674e1851df3eb6e5b3d9e"
+    },
+    {
+      "type": "Theme",
+      "name": "la liberté",
+      "id": "Theme_b4f2ceee5041de1b6f6c1b60d537c35ed0190e4e1f6c1709eed6d1073078c55a"
+    },
+    {
+      "type": "Theme",
+      "name": "l'audace",
+      "id": "Theme_b1cddc514dc7d6aa0405a79f1f755eeafbdd882631e6146716bec3263b822616"
+    },
+    {
+      "type": "Theme",
+      "name": "l'unité",
+      "id": "Theme_8df7115deb7a98b0f0ba08fd3c0837fba2ba454e2ac83bfb296860be8a255d08"
+    },
+    {
+      "type": "Theme",
+      "name": "la lucidité",
+      "id": "Theme_75142a09fe408fafc8cd8bebd4cf0763bac8f6bb67dbb92c17b98aa39e804841"
+    },
+    {
+      "type": "Theme",
+      "name": "géopolitique",
+      "id": "Theme_c3c610b50522db7d266b422a266b556f7825401c0d3b51ae9196e65d10f33b65"
+    },
+    {
+      "type": "Theme",
+      "name": "résilience",
+      "id": "Theme_ae0698b8a130cd1cd5df43fe5e3e189eb0c16712f2fa72aeeed81640c8d2a14e"
+    },
+    {
+      "type": "Theme",
+      "name": "diversification de nos approvisionnements stratégiques",
+      "id": "Theme_b2a7314db3269eea819beea6c1500a786c08a7269db2d22b14eda130b6d53d70"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités dans les domaines essentiels",
+      "id": "Theme_f52ddfec865bd2352a3c88ceeeb328303213c9963e83ef46f7d7ee8ae940621b"
+    },
+    {
+      "type": "Theme",
+      "name": "devenir le premier continent climatiquement neutre au monde",
+      "id": "Theme_9bcb216183a252932f07a0d279c4797fa0e1c08b52201dafbe380164eac7a707"
+    },
+    {
+      "type": "Theme",
+      "name": "choix nationaux en matière de mix énergétique",
+      "id": "Theme_f134a93e696dd0bcac6633e2423d5f924889a1fbd1d59590de90efca752d285a"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies renouvelables",
+      "id": "Theme_912e2c1b6d76c17cfecb65f028f348cae97ce3cd43f48890e5f528fb3273c56f"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies bas carbone",
+      "id": "Theme_bb9c3ecd667e7dfdfd8a6569b64372187d4c2b72cfc8ec88e3c16686bc2f9b82"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité énergétique",
+      "id": "Theme_3fa29c3a81835e293a8ee69c64e59a04f9d44e386ecc1a59491a348f5946eab8"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène",
+      "id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "type": "Theme",
+      "name": "interconnexions énergétiques",
+      "id": "Theme_e3517b2bbe5a30148bd71668eb0a42d3fdd7ae85c7ab989cf0e5e56a41c662f1"
+    },
+    {
+      "type": "Theme",
+      "name": "amélioration du fonctionnement du marché de l'électricité",
+      "id": "Theme_d35dbfb38747ecca57c36018b66c1b3ee9476e7c5c3616b9d89085b548dcc56c"
+    },
+    {
+      "type": "Theme",
+      "name": "achats communs de gaz",
+      "id": "Theme_03791c966c146c4b4da11f8e04671fd6756fe44da17b9e4602558953b9986d45"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariats stratégiques",
+      "id": "Theme_29a80392269af8d090cf0c0add4beb3ff40598315c2fd738ac11264ef9c8d936"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre international",
+      "id": "Theme_289a437b7ebd1758f517244ffb7920e1783b8884a6c25a392dab8d910194a767"
+    },
+    {
+      "type": "Theme",
+      "name": "Charte des Nations unies",
+      "id": "Theme_13d520185f62ef68f379cecabceb5b1f5e9787971afee940414ff2aeffb06748"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce libre et équitable",
+      "id": "Theme_87ff7a6a6f5d2e4cb635646e789f52ca30b01776346020fcd3e2249e3baaeac1"
+    },
+    {
+      "type": "Organization",
+      "name": "OMC",
+      "id": "Organization_dbfd6ac2652ebf57b2436987f66688b5c1c31df23624ca5dbb0e937544345cc0"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité industrielle européenne",
+      "id": "Theme_fe196f2340b1f9177763822f156b39c896a0a4dab25ffb2721ccf5ed3fa9ecd8"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence",
+      "id": "Theme_ed714e04f0072912f37b05dc73e487727a8c579005e7b04f4ac05a26f6929b10"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "marché unique démocratique",
+      "id": "Theme_02ed6ca08f30973f7a3958326b9778b1c14402438c10bb988643dec30b691db0"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique",
+      "id": "Theme_82634c5567e29ec1e0f256205be4191228a3b7329a743da05d0f47189c5b7272"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le changement climatique",
+      "id": "Theme_504686eaf9da17780b058a13a2594c933d7291c47e42289f4aad3ccb5bf3924b"
+    },
+    {
+      "type": "Theme",
+      "name": "érosion de la biodiversité",
+      "id": "Theme_aa3c38531db1f7b1b74f5ecb76ae9a5fa67d6e1ba0c6377ec9d5c13e21a0aef2"
+    },
+    {
+      "type": "Theme",
+      "name": "normes sociales",
+      "id": "Theme_fee1b8b85d7052accff5397191f39ec1157e0ab120c8c75a42f6b090d194e7b0"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence et égalité sociales",
+      "id": "Theme_e0d15727d8dcee1cb6f3aa8008f4b074108e9dd23a1de654c24bfe9166870f00"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "union des marchés de capitaux",
+      "id": "Theme_ffbd374b132546644a7bcb53d5fe086abbb62193f28333285e352c75123c6ee9"
+    },
+    {
+      "type": "Theme",
+      "name": "union bancaire",
+      "id": "Theme_f9c841f93a94134a4e484b837202a4153798333567ec2947cd74ae78cf37b30d"
+    },
+    {
+      "type": "Theme",
+      "name": "viabilité budgétaire",
+      "id": "Theme_db20197a877b3e72331ddbe2b10b4635e5560b3f306e85dc7c9017981f415428"
+    },
+    {
+      "type": "Theme",
+      "name": "finances publiques",
+      "id": "Theme_5c2dc2f996e67f8ddbe79eb535369467c79e0718dbddb27732da4838032796fd"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "budget de l'Union",
+      "id": "Theme_6914ce5bf6a9d396089bb619c99d42b2d1412fe0c57a2b15d8bb1d346d96fb44"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés individuelles",
+      "id": "Theme_759ccdc015d83cf60a6046b0b9d40b9d6f2ba26eed4cc7fc4859025eb4ae5ca8"
+    },
+    {
+      "type": "Theme",
+      "name": "État de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Theme",
+      "name": "participation à la vie démocratique",
+      "id": "Theme_babc41df662277b83d6c9cfc238e4ddde6e878431818b859207640ffd6327926"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de ses citoyens",
+      "id": "Theme_020c637d4eea323a376e4d68c05fd2dfdfa8a426106370eece7d6267a3f1151a"
+    },
+    {
+      "type": "Theme",
+      "name": "Union européenne",
+      "id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "type": "Theme",
+      "name": "normes",
+      "id": "Theme_63b2bd4eb30422d7f3e9df259557711eba985b3d7f2995b7837452ba98b6b0b4"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'Homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Theme",
+      "name": "normes environnementales",
+      "id": "Theme_b1028367cc168fe675a3f7b62c93a1efcde76543be4d18918a9906b88b375a6b"
+    },
+    {
+      "type": "Theme",
+      "name": "libre circulation",
+      "id": "Theme_4f6938df73ac9948b0770cb8928b2188df6e1381c781ff6061252dd446f5d4c1"
+    },
+    {
+      "type": "Theme",
+      "name": "apprenants",
+      "id": "Theme_d7c84d43fa20b8e7313eee64b5ffe9bbbbabf846cc7c873244955a537f5cae3b"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "élargissement",
+      "id": "Theme_953dc805c0c4873717f8fadb180057193b349e4b52fa049b29e8228c6f40b8e4"
+    },
+    {
+      "type": "Theme",
+      "name": "institutions",
+      "id": "Theme_27b9484ca5c8efa832ecdbb9cb92598286deef3c7a8467826716ef8e6af23c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "processus de prise de décisions",
+      "id": "Theme_39019836a44ea212ec9c0ef53b0b73a962b1dbe37f08c32c962f70546135104f"
+    },
+    {
+      "type": "Theme",
+      "name": "majorité qualifiée",
+      "id": "Theme_6d511dee25fe0cc3f06154bf0bde571dceaf1e56fcd04bf36b81d403fc04e8af"
+    },
+    {
+      "type": "Theme",
+      "name": "rêves",
+      "id": "Theme_005a9517e515674bdcc647fde2d8322f91e2b0ea2401f0a08c5d9b55fd079a90"
+    },
+    {
+      "type": "Theme",
+      "name": "prochaine génération",
+      "id": "Theme_0c21c97f7eda48ea4e8ad900358c155f235c69dbf067752f027ec03855cf3f48"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "continent",
+      "id": "Theme_148fd80b66a562dc228366d3418b5c107c82ee0728f38e2c49585be66bbd77fa"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "l'Europe devienne encore davantage souveraine",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "le président de Gaulle",
+      "relation": "MENTIONS",
+      "target": "le chancelier Adenauer",
+      "evidence": "Le président de Gaulle et le chancelier Adenauer ont tracé le chemin à suivre",
+      "confidence": 1.0,
+      "source_id": "Person_bae0ecd34d5412d528bb8290d1dffcaec17cf6cc1076dd07cad97e0dd20087a1",
+      "target_id": "Person_9eb03ef344881e63d77ab125b700708ed74643c0afcdcf269bac6acdd6cff1e1"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "MENTIONS",
+      "target": "sécurité",
+      "evidence": "Les importations dans l'Union européenne doivent respecter nos normes en matière de sécurité et de droits de l'Homme, ainsi que nos normes environnementales et sociales",
+      "confidence": 1.0,
+      "source_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61",
+      "target_id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "MENTIONS",
+      "target": "droits de l'Homme",
+      "evidence": "Les importations dans l'Union européenne doivent respecter nos normes en matière de sécurité et de droits de l'Homme, ainsi que nos normes environnementales et sociales",
+      "confidence": 1.0,
+      "source_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61",
+      "target_id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "MENTIONS",
+      "target": "normes environnementales",
+      "evidence": "Les importations dans l'Union européenne doivent respecter nos normes en matière de sécurité et de droits de l'Homme, ainsi que nos normes environnementales et sociales",
+      "confidence": 1.0,
+      "source_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61",
+      "target_id": "Theme_b1028367cc168fe675a3f7b62c93a1efcde76543be4d18918a9906b88b375a6b"
+    }
+  ]
+}

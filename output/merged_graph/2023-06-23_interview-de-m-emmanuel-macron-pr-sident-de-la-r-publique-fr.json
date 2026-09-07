@@ -1,0 +1,532 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "MARC FAUVELLE",
+      "id": "Person_9c1c72d60472c3b132bfc6f59e35c6e0a19a6e437c1877f534bf8f16ba7d31b4"
+    },
+    {
+      "type": "Person",
+      "name": "EMMANUEL MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Mounia DAOUDI",
+      "id": "Person_e375ef49f97fa0eb33e61f113abda9cb1f4a21d6d384eff0a90790ef128cb772"
+    },
+    {
+      "type": "Person",
+      "name": "Stéphane BALLONG",
+      "id": "Person_ad0b3da4e949c4709d02f1169c28a742750029426c8845bd1c53f33575acab81"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Palais Brongniart",
+      "id": "City_e46bacb40cd1c31e64bb2f013cb264573450e8d68e7f6276dfc719558ea505f3"
+    },
+    {
+      "type": "Organization",
+      "name": "Radio France Internationale",
+      "id": "Organization_866c5fcbd195029ac87763ecb97ea19b987ae85a15cd0a710e25f5d8e5a4831e"
+    },
+    {
+      "type": "Organization",
+      "name": "France 24",
+      "id": "Organization_ca08cc095e25e55343180e6b8e7eb8cb4a3c6ed8c8b7555abafa08661be38d0e"
+    },
+    {
+      "type": "Country",
+      "name": "Zambie",
+      "id": "Country_bb181f9cfd8d9c912dd835b0f6631ba8fde1160640c6dd9bdecb9f4ce774cd5c"
+    },
+    {
+      "type": "Country",
+      "name": "Sénégal",
+      "id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Vietnam",
+      "id": "Country_47e7e1f4e3008e557f6fb014a48701c8a54e33e3ea2b350c413ff8e9f17f3d3e"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Nick STERN",
+      "id": "Person_eb412fe9f711a5f418f3007fad1f40ebf2b386cb9cf5f5ce195c9d5072e98a00"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies renouvelables",
+      "id": "Theme_912e2c1b6d76c17cfecb65f028f348cae97ce3cd43f48890e5f528fb3273c56f"
+    },
+    {
+      "type": "Theme",
+      "name": "baisse d'émissions",
+      "id": "Theme_9c09b96f959fc49b8ca45003c489f9fd1aa0be0c420cc2a6d72c9d54b2cadc64"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "aéronautique",
+      "id": "Theme_75d0f3d5ff64c56475546f5da42c78e140e4b2c5b8253cc541c75517a1fd1d42"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "pauvreté",
+      "id": "Theme_95b7ed519406cd062b2738f35707ce2b499fc7f2e5179d4c674216f14032a781"
+    },
+    {
+      "type": "Theme",
+      "name": "insécurité",
+      "id": "Theme_c7a368bf598bca497caed4dd3d3f42ab5d1c9b08009fd42e199fd3976aac0fe6"
+    },
+    {
+      "type": "Organization",
+      "name": "One Planet Summit",
+      "id": "Organization_a4bcf4f73de7aa31dde53c7e27b7803611f4df4940694e62fcec28d53f077699"
+    },
+    {
+      "type": "Organization",
+      "name": "One Forest Summit",
+      "id": "Organization_c6284367a8c840af4546da079e759a2ba2e5841248aa8e33ce8787a613afd2fd"
+    },
+    {
+      "type": "Country",
+      "name": "Occident",
+      "id": "Country_5e643e0ad23d123e5e139846e2c486f0c5efb542337d240301732679a67d153c"
+    },
+    {
+      "type": "Country",
+      "name": "pays du Sud",
+      "id": "Country_38b9c840a650096cac59ad85360a9182fe64828eb5f1ed4edc32f64fe4dad937"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique du Sud",
+      "id": "Country_18768cba57ae5abd3fb4a98f72c105af41db31822809e203889560cb72663272"
+    },
+    {
+      "type": "Country",
+      "name": "Indonésie",
+      "id": "Country_7771567a7a9b44f302b0f12f28ad9ee4fe89238f6364c4b0642d6454f3add126"
+    },
+    {
+      "type": "Country",
+      "name": "Tchad",
+      "id": "Country_4559f6f8af30c0e115367f99db7a2d2bff5c4fb5ef7ec890af7e5e1662fd701e"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Soudan",
+      "id": "Country_fffd3368e10c4710d9cc6fc24f457d5063e1f139e3b5edad1f5dd5a7da0d1c49"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Person",
+      "name": "Président chinois",
+      "id": "Person_d57712bcbbae23336e05d55c29d84df6694ede750f63863db6385e457c90d9b6"
+    },
+    {
+      "type": "Country",
+      "name": "Ghana",
+      "id": "Country_773eeeed4365ee6093b085e34409eb10f1d54b6de93eb15cdd5d47939f6fe6f7"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Amérique latine",
+      "id": "Country_ebd93aa7bb0f5201849c67d119c07847ef9c8a2e571423fb9c519d8908d16ec5"
+    },
+    {
+      "type": "Country",
+      "name": "Amérique du Sud",
+      "id": "Country_32948a1769ccd4bf4a282d88d33f388fe28536517aa3928d111c5d21183bd30e"
+    },
+    {
+      "type": "Country",
+      "name": "Asie du Sud-Est",
+      "id": "Country_6593de5b3ff3194ed88922d619b94585df21cddd79fb913afa7c53110b19e89e"
+    },
+    {
+      "type": "Theme",
+      "name": "financement des économies en Afrique",
+      "id": "Theme_7d967d52a81adfd1789eea55395216c117c0e43a1c57547fac2590b230d641aa"
+    },
+    {
+      "type": "Theme",
+      "name": "forêts tropicales",
+      "id": "Theme_56f0763a5a13c65cf420162400352184dd0443a243ff7de4e3ffe4774510d5b1"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Organization",
+      "name": "FMI",
+      "id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "type": "Organization",
+      "name": "Bourse à Paris",
+      "id": "Organization_f99f5f9f96f945a504c506a90c0c19297418c03e3b3e76976cc291539b63f4d8"
+    },
+    {
+      "type": "Organization",
+      "name": "Corbeille",
+      "id": "Organization_8cf15591e9b5cd71e70a8751801c46f7b09a5b10d5d238137a2e8089c606b941"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Theme",
+      "name": "argent des milliardaires",
+      "id": "Theme_1ff832fdb45d684b476852e64cdf1a19ba30a0eb61d5130ffb30ffe9306c2a15"
+    },
+    {
+      "type": "Theme",
+      "name": "argent des grandes entreprises",
+      "id": "Theme_da7dc7c96c1f182c5ad340530639105d7ada95f064fc70bea3aed33fef9169ac"
+    },
+    {
+      "type": "Theme",
+      "name": "euro",
+      "id": "Theme_709528d8ce93bba87ada5be2754665013742700bb20381da4551b98a54e333b5"
+    },
+    {
+      "type": "Theme",
+      "name": "argent public",
+      "id": "Theme_82a73eb22ebe037c145c08aa6ae8ba3890dfc31abceacc5169765b0caf76d568"
+    },
+    {
+      "type": "Theme",
+      "name": "argent privé",
+      "id": "Theme_247600cdd579ef6313460e5ca0d48121b53f6e64f4a72326aae1ffe2bef05cb8"
+    },
+    {
+      "type": "Theme",
+      "name": "programme",
+      "id": "Theme_70126e04142111f97dcc54a7033aca09643154bd549d78da6a7655d2f340ca74"
+    },
+    {
+      "type": "Theme",
+      "name": "Banque mondiale",
+      "id": "Theme_5a8cbf37b44e757edfb66dc9e875a4713bd2bcc3bbeea3f9da7ce3ebb0762c46"
+    },
+    {
+      "type": "Theme",
+      "name": "FMI",
+      "id": "Theme_ea43f385dab1dbeea255470f5824e50df1a031db9f9d40200c4a95bbcb5b9bc2"
+    },
+    {
+      "type": "Theme",
+      "name": "effet de levier",
+      "id": "Theme_d6a47cff013cee3f2abcaeca57f08003a82372c475b3cc81f0dc840d1ee25d36"
+    },
+    {
+      "type": "Theme",
+      "name": "One Planet Summit",
+      "id": "Theme_6ccfafd97dce42d2cd5acd1e61d3ad30218d033319b6b3ab7eb211dc104886fd"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds souverains",
+      "id": "Theme_5df6e276286b0f1a5f1c227a4ca1e9066077de2e053be92b3d341471e9ce8f9e"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds de financement privé",
+      "id": "Theme_96d9cd8031b198a61dcd28ce1ff4d10f412fc2909eec4628697d7c17c09db6ba"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Theme",
+      "name": "change",
+      "id": "Theme_6a7e8f9f2a65bdf67df938d97fc93b476bc7a78292b456ee91f8db61650a832a"
+    },
+    {
+      "type": "Theme",
+      "name": "risque politique",
+      "id": "Theme_1f7d41a548d9ef3cc619a21a1d9ad4ebb3be5e2d97985027accd96c9ff3b06fa"
+    },
+    {
+      "type": "Theme",
+      "name": "profits",
+      "id": "Theme_e33abdcad0ea552de81762bf45089076a79a53f8907c627299306475f29d3e2d"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements privés",
+      "id": "Theme_0bee14e2059589ed021c08e02266113121175ad1ae258fd8ab67adccbb5706aa"
+    },
+    {
+      "type": "Theme",
+      "name": "impôt minimum mondial",
+      "id": "Theme_98b2a1d4784ab32b0fc1bbee41a7a267647665e217fbbee82d48a6116fc1b276"
+    },
+    {
+      "type": "Theme",
+      "name": "ISF climatique",
+      "id": "Theme_3019875cab18d8e71481d3e3a9eea48e22384db460f85f0d94ab1de28a08c6d4"
+    },
+    {
+      "type": "Theme",
+      "name": "taxation internationale",
+      "id": "Theme_68e9997ea81c337bbc298af3752425e3268c4d4ff6c35cc187c8ec833919093f"
+    },
+    {
+      "type": "Theme",
+      "name": "taxe sur les transactions financières",
+      "id": "Theme_90575847afd66c759306c82487c00cedee9e686555f5a77adf39b0d0f1d17fae"
+    },
+    {
+      "type": "Theme",
+      "name": "taxation sur les billets d'avion",
+      "id": "Theme_e19abdad0968db4e66c59175082531fc619b0a72e40e13f7dc9f9600d20f2e91"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la pauvreté",
+      "id": "Theme_ab8e8f859f334c17b54a9d9d0794df43cbbe9c994f1fd97114aaa4720284ff30"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Pierre LANDAU",
+      "id": "Person_26233fdbcdf567179672a54bf642a4984bb6cf21f7f34013e89842399c0dc004"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation maritime internationale",
+      "id": "Organization_532f3300790ff38dcf5d416f00d6d85e66ea583dcba6113edf5ea916bfe080bc"
+    },
+    {
+      "type": "Theme",
+      "name": "taxation",
+      "id": "Theme_8d76aeb57f08124bf02a064f6e700ef5464eedbc476fe82838500e7ad19cccab"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Cuba",
+      "id": "Country_c8030afae0b204efa373b965b2ee1bf9e88e634782a8b0e0874a66f7b6eeeed7"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Organization",
+      "name": "G77",
+      "id": "Organization_1ed779e2aa8fb18be892e597fafcb39eb717ad8bad17eadcdbcdde2402127473"
+    },
+    {
+      "type": "Person",
+      "name": "Vladimir POUTINE",
+      "id": "Person_ba07bc360f6d694c7c43cab878adc061217ec2b08d23eedefe4d5e2a082ef89c"
+    },
+    {
+      "type": "Country",
+      "name": "Nigeria",
+      "id": "Country_dec6d7826327dc7bafe39e959e4f081c81efc380c2b1cd786c364126e96624bd"
+    },
+    {
+      "type": "Country",
+      "name": "République centrafricaine",
+      "id": "Country_05d94db1b52ecf267386e45ba2041e43ea106f7e3c3ce822e8cebdfaa5c80b9c"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Organization",
+      "name": "France Info",
+      "id": "Organization_2fe32b319e85ee4e9ea558bd3ebec6fda291ed36c6c38bce4e7946da3b6b1907"
+    },
+    {
+      "type": "Organization",
+      "name": "RFI",
+      "id": "Organization_d7ff5384aa02e169030a1113e65e1b8ab50682680203ec25855f0ac6c6b3c57e"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    },
+    {
+      "type": "Person",
+      "name": ";",
+      "id": "Person_d9a2714ab76cf1cad4aeee70cdd7a8bbf67abb5c36ad60f8ea17545109af83f1"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Palais Brongniart",
+      "relation": "LOCATED_IN",
+      "target": "Paris",
+      "evidence": "Nous sommes installés ici au Palais Brongniart à Paris",
+      "confidence": 1.0,
+      "source_id": "City_e46bacb40cd1c31e64bb2f013cb264573450e8d68e7f6276dfc719558ea505f3",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France est même le seul pays en Europe",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "Occident",
+      "relation": "SPOKE_ABOUT",
+      "target": "climat",
+      "evidence": "l'Occident qui a son agenda climatique",
+      "confidence": 1.0,
+      "source_id": "Country_5e643e0ad23d123e5e139846e2c486f0c5efb542337d240301732679a67d153c",
+      "target_id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "source": "Banque mondiale",
+      "relation": "ALLIED_WITH",
+      "target": "FMI",
+      "evidence": "la Banque mondiale et le FMI changent complètement de logique",
+      "confidence": 1.0,
+      "source_id": "Theme_5a8cbf37b44e757edfb66dc9e875a4713bd2bcc3bbeea3f9da7ce3ebb0762c46",
+      "target_id": "Theme_ea43f385dab1dbeea255470f5824e50df1a031db9f9d40200c4a95bbcb5b9bc2"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "de plusieurs États membres de l'Union européenne qui forment la zone euro",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "taxe sur les transactions financières",
+      "evidence": "il faut taxer les transactions financières. La France l’a fait, nous, on a une taxe sur les transactions financières",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_90575847afd66c759306c82487c00cedee9e686555f5a77adf39b0d0f1d17fae"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "taxation sur les billets d'avion",
+      "evidence": "on nous dit qu’il faut une taxation sur les billets d'avion, il y a eu un rapport - Jean-Pierre LANDAU est mon représentant particulier - on le fait en France",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_e19abdad0968db4e66c59175082531fc619b0a72e40e13f7dc9f9600d20f2e91"
+    },
+    {
+      "source": "STÉPHANE BALLONG",
+      "relation": "SPOKE_ABOUT",
+      "target": "Russie",
+      "evidence": "STÉPHANE BALLONG\nPour vous Monsieur le Président, la Russie est-elle aujourd'hui un ennemi, notamment en Afrique ?",
+      "confidence": 1.0,
+      "source_id": "Person_ad0b3da4e949c4709d02f1169c28a742750029426c8845bd1c53f33575acab81",
+      "target_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "source": "EMMANUEL MACRON",
+      "relation": "LOCATED_IN",
+      "target": "Russie",
+      "evidence": "EMMANUEL MACRON\nNon mais je dis ça parce que tous ces pays, on doit les accompagner dans une transition. La Russie devra en faire partie. Pour moi, le fondement, c'est que les pays dont on a besoin pour faire ces changements, sont tous là.",
+      "confidence": 1.0,
+      "source_id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b",
+      "target_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    }
+  ]
+}

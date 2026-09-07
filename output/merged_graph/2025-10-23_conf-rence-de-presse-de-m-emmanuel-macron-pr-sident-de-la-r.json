@@ -1,0 +1,954 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Zelensky",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Person",
+      "name": "Trump",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "America",
+      "id": "Country_7ebf04df6292fadbcae139ef7607a6556affa2f40427dac6128c315eb20e72cd"
+    },
+    {
+      "type": "Organization",
+      "name": "OFAC",
+      "id": "Organization_f008309c5618758f56a7dea3983e7dffd31b287c48536ff2043c4eb04860a905"
+    },
+    {
+      "type": "Organization",
+      "name": "Ukraine",
+      "id": "Organization_21d6f44cfd20eb0daee12bd2237e5a99e3ca7d2677c7597be574c2d9de7b165f"
+    },
+    {
+      "type": "Organization",
+      "name": "America",
+      "id": "Organization_25b2659860b8d79aa5171950480be1dcaaa365bf2b61c13a98a58232bccc06a3"
+    },
+    {
+      "type": "Theme",
+      "name": "droit international",
+      "id": "Theme_5ed1c962a2e6badfcec01090455d807b7559f5af1344fea3604e0c342da4d8f1"
+    },
+    {
+      "type": "Theme",
+      "name": "partage du risque",
+      "id": "Theme_4648ab0dbfdae7779aa38c3594b05c12b9f90e49c1d2e6866965531486837777"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien militaire",
+      "id": "Theme_d328a39e1018f55d2da3c4572b28f37e9acd1dc0a1869e06fbffc7c9c76d7a78"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence européenne",
+      "id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "type": "Person",
+      "name": "Starmer",
+      "id": "Person_a9d4a6f159ba9f0d3a36dc8115ce347e77882e4e3439b0e400bd17c68ebdaa42"
+    },
+    {
+      "type": "Organization",
+      "name": "Coalition des volontaires",
+      "id": "Organization_be8486f9bba8dc1fc697606320fe234154a7b494b8fa4602ca7bd091c7e5b389"
+    },
+    {
+      "type": "Person",
+      "name": "Président Sissi",
+      "id": "Person_4c4d8f1f8a9a8f3a95b874aad82358c58f50a60086d3fd37b02ea4d25879da52"
+    },
+    {
+      "type": "Country",
+      "name": "Égypte",
+      "id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "type": "Event",
+      "name": "sommet de Charm el-Cheikh",
+      "id": "Event_fa4e9c9ff815ba90a0e3da022ac51986e28df2070d2072ea48eb71bce3dbe203"
+    },
+    {
+      "type": "Event",
+      "name": "déclaration de New York",
+      "id": "Event_c8ed20e1a3b6f933dbcabd90e9ba576ec1da16c07b92e066405aa655bebe3aba"
+    },
+    {
+      "type": "Theme",
+      "name": "plein respect du cessez-le-feu",
+      "id": "Theme_3848604287af2d23667a7244c31d1c4ed7c8cc3abc6aa8b4665e826d8b28770e"
+    },
+    {
+      "type": "Organization",
+      "name": "Hamas",
+      "id": "Organization_5b6d0f92f49aab219651139d5508991f2fc27fd6b9372da1329d20e55cce795d"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance",
+      "id": "Theme_b922336e378de1f3bd3c36e9805efd63ad949f8fbff73adbfc2b3826e811ee6a"
+    },
+    {
+      "type": "Theme",
+      "name": "Palestiniens",
+      "id": "Theme_b655c8bc838fca307adadd92ebf0ee9b854083ad048dfd89d61525e4f0b13554"
+    },
+    {
+      "type": "Theme",
+      "name": "autorité palestinienne",
+      "id": "Theme_92e9b0971c2dcb1aea395e295335c2e3a826856e9db2edc44e7dce0236e5c6a2"
+    },
+    {
+      "type": "Theme",
+      "name": "forces de sécurité intérieure",
+      "id": "Theme_aba281ec39f7c10378ad4af42b16273252f708012ad1111a5e6aeb21b9d3df89"
+    },
+    {
+      "type": "Theme",
+      "name": "forces de police",
+      "id": "Theme_fd3e028c1b0b56e939eecb142b433ca34634f6b5643ec2f75266200c004cdbee"
+    },
+    {
+      "type": "Theme",
+      "name": "force internationale de stabilisation",
+      "id": "Theme_a05667f9984abe5bffdddae2c7f9ff5fc1b42dc7aabe4e4fbd1225df53e76b50"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité des Nations unies",
+      "id": "Organization_6bf65c40c2dc11306e0f78e403029002e380728d5788808146d88e7f36b63686"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "EUBAM Rafah",
+      "id": "Organization_3c07e88a1d9a9a635776232f9de1e1c6451d1c4be8320d4a7f0cd84090112a36"
+    },
+    {
+      "type": "Organization",
+      "name": "police palestinienne",
+      "id": "Organization_2c87471366cf0d180831a6811ddcfa81db224610d806797176a8ddedef226650"
+    },
+    {
+      "type": "Organization",
+      "name": "région",
+      "id": "Organization_63f7a47a75715c9c27edcabe3ee93e2bac09d0c6b542f047f7c253738775aafd"
+    },
+    {
+      "type": "Organization",
+      "name": "plan de paix américain",
+      "id": "Organization_54485aea38b0b73ce0fcc822c9fb00e63284ff920aeb0f87232395ac3d4c72a8"
+    },
+    {
+      "type": "Theme",
+      "name": "défense européenne",
+      "id": "Theme_42dae70f7120df2113261b5fe10cbe41df3d2c3b15c7b3dc8221a1048c488a0c"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie stratégique",
+      "id": "Theme_029a7236b3291ee261cba1740f38d69601586a351be77e7e7290bab2819fd644"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie de défense",
+      "id": "Theme_09b61c92558f06c363a00e54db0598d2d3e9c369b6557d614e38e0faec84c117"
+    },
+    {
+      "type": "Theme",
+      "name": "lacunes capacitaires critiques",
+      "id": "Theme_5b5a0debf6e9f3d0c87bd0add2a15fbcf51bcbe4f665720324a66c290873b380"
+    },
+    {
+      "type": "Theme",
+      "name": "9 domaines prioritaires",
+      "id": "Theme_326cc739a449a48c7150aa6a4e6f3b744a58e2dfd77d77f910aafda651fc0b42"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence européenne de défense",
+      "id": "Organization_9e2e85302077e1f27cc7de410307a1ba3d90ebac728cdf9cd12bb64fc8b6b500"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités en cours de développement",
+      "id": "Theme_8cb6ffbb03142a68b8719243bff0312b21a2bd4206ad7c762fae10fff247b9fc"
+    },
+    {
+      "type": "Theme",
+      "name": "besoins de nos armées",
+      "id": "Theme_ec9ee7831d89f58b1c6cdb4014d47a26fbf4b3e31c37a6e3f1cd8e6dca319472"
+    },
+    {
+      "type": "Theme",
+      "name": "évolution des menaces",
+      "id": "Theme_0ebfcf6bf029f29f070664b52508c38c2e81d2fa80a3da6a3dc607624c2ca0b9"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités en matière de défense aérienne et antimissiles",
+      "id": "Theme_d5711d3283f391a3030a42a03e158996c4623f6add7f77b752e2fa5166dce7d2"
+    },
+    {
+      "type": "Organization",
+      "name": "instrument SAFE",
+      "id": "Organization_6589d46866c7e47f88ee48a3bd4f387a61f4d3a5fff75f095ccd4d2d2fa97285"
+    },
+    {
+      "type": "Organization",
+      "name": "programme EDIP",
+      "id": "Organization_e748de02ac570a1965c3750a4cdd916b2d1bb60deb10fb92a074ac837f547bf7"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Organization",
+      "name": "BEU",
+      "id": "Organization_97290e5444282ca316181abeec8c70b4afd0d6eeeab53d2d1c6389a0fc32e917"
+    },
+    {
+      "type": "Theme",
+      "name": "industrielle et technologique de défense européenne",
+      "id": "Theme_5226c30d1aca85e9f16c4473e42913dd3b7eaeeae455baafe2176811aa036277"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil européen",
+      "id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "financements",
+      "id": "Theme_f5b16af1090bbb07202f52148fe77da568c0b0d74e40c85c9e6976adf7133cf5"
+    },
+    {
+      "type": "Theme",
+      "name": "coalitions capacitaires",
+      "id": "Theme_31085073ddc002e890752a70c5f95d189c9160efafd71292fbb2a8377618bd39"
+    },
+    {
+      "type": "Theme",
+      "name": "industriels",
+      "id": "Theme_65f1038ff0752a877be8ce71144e93bba19c4c44f80762614e26462e31508666"
+    },
+    {
+      "type": "Theme",
+      "name": "production",
+      "id": "Theme_e8edecdd5abbd5917963b54df9936db4bdcba4f90bb9a98a9174725c74a9b1a4"
+    },
+    {
+      "type": "Person",
+      "name": "Letta",
+      "id": "Person_ca1cb2a613181a08e5c0c3040c2fb0f521ad11363a685725d8177d1f7d02be79"
+    },
+    {
+      "type": "Person",
+      "name": "Draghi",
+      "id": "Person_c0dcbe29456aae80516e6ab386c9147cf87da40598384f093196613316eae157"
+    },
+    {
+      "type": "Theme",
+      "name": "consensus",
+      "id": "Theme_6bef32d603c8e354337a4b76bc89d9db5807ec9d9dd1900c8584ffabca9d2f41"
+    },
+    {
+      "type": "Theme",
+      "name": "union des marchés de capitaux",
+      "id": "Theme_ffbd374b132546644a7bcb53d5fe086abbb62193f28333285e352c75123c6ee9"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "City",
+      "name": "euro",
+      "id": "City_0b93c777b2196205574574775e3143ae285bd856efc872c69424d4fd93ba4ea7"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité économique",
+      "id": "Theme_240a06097904a95996463a79af191620ff1e58f6e2959488d067847bd01e2868"
+    },
+    {
+      "type": "Theme",
+      "name": "protection",
+      "id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "type": "Theme",
+      "name": "protectionnisme",
+      "id": "Theme_f908a3ce2a62f196e9b3881f0b81ce31f64eb6d35dede2a07725ea9d130f54a7"
+    },
+    {
+      "type": "Theme",
+      "name": "juste concurrence",
+      "id": "Theme_3cdd05eed84fc629ffb45afe20e98762ea175e6432bc714ad51ffb2e46cbafc0"
+    },
+    {
+      "type": "Theme",
+      "name": "compétition inégale",
+      "id": "Theme_2faae92f27be7c78b67df499de00ff29f5d8439ebebf602e9d08e687cd36e160"
+    },
+    {
+      "type": "Theme",
+      "name": "sauvegarde",
+      "id": "Theme_51beae5e4179fc0f129d171b25adba48cf91add8ee8046d28f0fe459e12f9833"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanisme d'ajustement carbone aux frontières",
+      "id": "Theme_fc889b93c94867d2877727e9e2a2e28a8c468ed8309359645d2ec2cb9424cc43"
+    },
+    {
+      "type": "Theme",
+      "name": "coercition économique",
+      "id": "Theme_84f5898c11c4f11540f68da8e0439307a536ec472f59c322a90ef684f5cc2743"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Theme",
+      "name": "tarifs américains",
+      "id": "Theme_397d75bbb4362470f9ac4ff3225a400f9b3d51b593a1d3730c07407495bee505"
+    },
+    {
+      "type": "Theme",
+      "name": "terres rares",
+      "id": "Theme_f7252f0b63c5dbd962be628be26728a4d12c2de743c24a064bdebad009d3acdf"
+    },
+    {
+      "type": "Theme",
+      "name": "pratiques coercitives",
+      "id": "Theme_566fc0a3ed804e1e0c538e9640ca9066715e2e03dcae427f4ba348630847d654"
+    },
+    {
+      "type": "Theme",
+      "name": "dumping",
+      "id": "Theme_29563e1bbc454121a3300fd73aa2f754d9cde76233812319a625785892547fe8"
+    },
+    {
+      "type": "Theme",
+      "name": "PMI",
+      "id": "Theme_c65e29fddf93c6604a8f0f533deb966e8d24a80eb8333133f31ecd77d2eb5105"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "tissu commercial",
+      "id": "Theme_e04a48c29d938d931b97df148443e09fdea17b80d05b9495504ca869509155b6"
+    },
+    {
+      "type": "Theme",
+      "name": "tissu de production européen",
+      "id": "Theme_3dcf97a294b33e2a2983ac68f2efcc2555ccef491dfa90067443b41c95377643"
+    },
+    {
+      "type": "Organization",
+      "name": "plusieurs autres pays européens",
+      "id": "Organization_b6fce7e269bbad83db068e9872d3dee4fd78e178d56998a1ec29c4e70f8b01d9"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité carbone",
+      "id": "Theme_13578b8136640a21c92a662f7e77d4879f6ceffb4dd1652ae120a6e9e44f65d3"
+    },
+    {
+      "type": "Theme",
+      "name": "objectif climatique intermédiaire pour 2040",
+      "id": "Theme_c9ae150b1528196d4e97eaba548a43947cbf5aa2f2558532fead84df8cd1612a"
+    },
+    {
+      "type": "Law",
+      "name": "loi climat",
+      "id": "Law_0d3ce1591d9601cac66e2a8aad96c2b3ea11b13ee3898df299940351d2597a03"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction des émissions",
+      "id": "Theme_724f2b13f834a9be336785302d20af1ccd3384923baff65e6333996b0cec038a"
+    },
+    {
+      "type": "Theme",
+      "name": "effort de réduction des émissions",
+      "id": "Theme_58103526ba1712dd0df9e36588e2d855d9423203e583d19e840f454e74b74be1"
+    },
+    {
+      "type": "Theme",
+      "name": "partage de l'effort de réduction des émissions",
+      "id": "Theme_9093dc00ac5385ab15778afb4dc8cf1b65d781bbe959fea65a325cda016ec18f"
+    },
+    {
+      "type": "Theme",
+      "name": "incertitudes liées aux capacités d'absorption des flux de carbone naturels et technologiques",
+      "id": "Theme_a73a3c356b69c5ac1c8217556fe8ed90761e744b7013cdec552032da48245643"
+    },
+    {
+      "type": "Theme",
+      "name": "flexibilités",
+      "id": "Theme_4f4deb8991af0ded12022d192802d6c6d6f039a8dc2ccce5e52691bc8aeceec1"
+    },
+    {
+      "type": "Theme",
+      "name": "crédits carbone internationaux de haute qualité",
+      "id": "Theme_b8f606904b3381fdcb4a8505034bdacf6c31d8cdfeb34cd62a38db7a7f60eac1"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité technologique",
+      "id": "Theme_2caf709da1cf237be763602bb0b801db683269a54ce0a1ec396bd377b70485af"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies bas-carbone",
+      "id": "Theme_5211177a765a8b3df4a5002bc1f8095a6fd96d4ba95880209c5351d4044abdb4"
+    },
+    {
+      "type": "Event",
+      "name": "COP de Belém",
+      "id": "Event_bb1469a0cd699fec0c9e54855f61a21e75af82949544814e3e36e943833c9b49"
+    },
+    {
+      "type": "Theme",
+      "name": "protection des mineurs en ligne",
+      "id": "Theme_dd32a233dfad8760eb14919780364192ea9f27680497c118b1c402514686fe3f"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Country",
+      "name": "Chypre",
+      "id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "type": "Country",
+      "name": "Slovénie",
+      "id": "Country_88ddeb0d618614116972f37defe9ed8b4f029cdb3c098230ef835b57caa93a30"
+    },
+    {
+      "type": "Country",
+      "name": "Danemark",
+      "id": "Country_e69e28cfa71a672f3c4d4f769e9cbc72220f20bc192eea020c4483eaecfef07b"
+    },
+    {
+      "type": "Theme",
+      "name": "âge des utilisateurs",
+      "id": "Theme_5aa78a0d5d16a1ab6d2402a029ea12730df0d5febb99c7d8dadac4b7eb824aa9"
+    },
+    {
+      "type": "Theme",
+      "name": "services numériques",
+      "id": "Theme_c2f2b65295e72e7c39eb799c8d167eef83e87dde19cea12a2f1aa92c116294b2"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque centrale russe",
+      "id": "Organization_f4f2787c8b30113aee7e1793d8f287bb27aaaf5386c424697d45627948699c69"
+    },
+    {
+      "type": "Organization",
+      "name": "budget européen",
+      "id": "Organization_104ae4c4f62e117aac4f29dd08bf989cc8e98c6752e1b41e036bd49069cc8264"
+    },
+    {
+      "type": "Organization",
+      "name": "États membres",
+      "id": "Organization_e8e876bb1b3bf22aa884651606bd7aab3eba184cd2155b64bd015acf4fbadb40"
+    },
+    {
+      "type": "Theme",
+      "name": "crédibilité",
+      "id": "Theme_54614c8cd4a24192e52c3c7e6be0b6a027b9e193d7017b0c714ff3e9c1991da6"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité",
+      "id": "Theme_6e810685c69ad3ee9245c969e1dfdc105f56849050a2192c7b2a5c21535528f3"
+    },
+    {
+      "type": "Theme",
+      "name": "zone euro",
+      "id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "type": "Theme",
+      "name": "résolution du conflit",
+      "id": "Theme_bf43e77885bc1f2545587c2a493390d43684769a43a914e034f3776d634943f2"
+    },
+    {
+      "type": "Theme",
+      "name": "visibilité",
+      "id": "Theme_f59a7fbc64425457d75c34d0bff557a4fa6deb3b2e067b747f711e04c9e5e6db"
+    },
+    {
+      "type": "Organization",
+      "name": "Euroclear",
+      "id": "Organization_a20f98cb2e3271b9577687c89d6d8379ce63f2cfc163ef7eaf5e17649d3b615b"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement belge",
+      "id": "Organization_84a1ab55ce2f1076ad56ddb9edd6c75399e4a8bce90c7c86a5d9d9cffe79f9d6"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement ukrainien",
+      "id": "Organization_65348b7dda771b5d361971a3952e4f589b7853aae7e9c1818526ecd780c19a92"
+    },
+    {
+      "type": "Organization",
+      "name": "nation ukrainienne",
+      "id": "Organization_e4cb481c6c3d85a3f61846dffa2870b1ce1a6cdba54b70068a159b180f57cf21"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "objectif de 2035",
+      "id": "Theme_250f5c79ec570d72aca4ea7d3882242aa8a210d4646b8413f813a0a00c402f12"
+    },
+    {
+      "type": "Theme",
+      "name": "usines de batteries électriques",
+      "id": "Theme_667eb0fc215293bbb25adfdb8a50f2578a20b044efe1514ab11bbab05efdcf79"
+    },
+    {
+      "type": "Theme",
+      "name": "gigafactories",
+      "id": "Theme_4ac4ed9aeea8fd8532248cd739354eeec49c1f1a7aad5f7f02e916f373bce592"
+    },
+    {
+      "type": "Theme",
+      "name": "R5",
+      "id": "Theme_b1a3e4c7a7e76411917558a64814a0a049686742a94401361f46ac36d43e025f"
+    },
+    {
+      "type": "Theme",
+      "name": "R4",
+      "id": "Theme_315c77675b19d1d4bf56256407a16edfd0fee258440aa7968a4adb0220afc120"
+    },
+    {
+      "type": "Country",
+      "name": "Chinois",
+      "id": "Country_8a2104f7b82499fab39ff741fc89db263c1a058b792c58e43313b16680417483"
+    },
+    {
+      "type": "Theme",
+      "name": "décarboner notre industrie automobile",
+      "id": "Theme_3bbe72e28900011dc31f695deea806b0b20f2c2a35225f131c29cea9caeaea45"
+    },
+    {
+      "type": "Theme",
+      "name": "transformer sur l'électrique",
+      "id": "Theme_eddafe065bc0c6d62b95af159819d8647e96794dc8f54497ec8e3a3514191157"
+    },
+    {
+      "type": "Theme",
+      "name": "réduire massivement les émissions de CO2",
+      "id": "Theme_421a851b7b002b097ce40f2fd58db64ddec77f0a3536deb3ba70ae98de153d55"
+    },
+    {
+      "type": "Theme",
+      "name": "préserver davantage d'emplois et de capacités industrielles en Europe",
+      "id": "Theme_780a8555e20a80e72dbab09113546615cc777d68b4bc820cfb0c297ae3655794"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie automobile",
+      "id": "Theme_0a894383ba6383fb9909ddb48c28194ba33635fb32f87c2d1e64ee2a3ff62c5b"
+    },
+    {
+      "type": "Theme",
+      "name": "division",
+      "id": "Theme_51226e2119e097a2d00a987884a7ffc43fa4ce2314906ee31389014c78119404"
+    },
+    {
+      "type": "Theme",
+      "name": "constructeurs automobiles",
+      "id": "Theme_f7d1ef72c8c3aa6a77988c9105a610ab6cf81142dc8c509edb986799c46ab246"
+    },
+    {
+      "type": "Theme",
+      "name": "sous-traitants",
+      "id": "Theme_fe92e645807a51cd421e9a2dffa3df5ce686bafedde11e3409c9aaec511545dc"
+    },
+    {
+      "type": "Theme",
+      "name": "sourcing en Chine",
+      "id": "Theme_b98e1c78ac9f0aae571f1ed504a0c76e42b26c7969a4bd858a80abed1ba3ac57"
+    },
+    {
+      "type": "Theme",
+      "name": "véhicules électriques chinois",
+      "id": "Theme_bf148d57a27ded9dc14604f27f877b4b2a72860314ee65d81ba8f272762dc251"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence loyale",
+      "id": "Theme_8a144e25f057d5e5fee29c471c91e89862f01f2645b35e3ae096d67a54a4daf8"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendances",
+      "id": "Theme_14de542cd66252bc7dd38d12cbadc101d38c3b269a47ae1437ae7786869af7a7"
+    },
+    {
+      "type": "Theme",
+      "name": "flexibilité",
+      "id": "Theme_5dae2131ef8c442bc5656fb452c4aac3c042d864162af323c1d8c77b0af1bc0c"
+    },
+    {
+      "type": "Theme",
+      "name": "contenu européen",
+      "id": "Theme_9cce8c209df7d9a152a94db1e31abb5695646da366241c05e9b61e4747bd5e91"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Organization",
+      "name": "formation collégiale",
+      "id": "Organization_669f1470d7dee4ce409164d35aae3c327715703d86cb780f7c956bf49ab41e7f"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "Mister Président",
+      "id": "Person_3d3412201f8628245288804c3ec7caa29a37452d49d21d671d506e62c7797e12"
+    },
+    {
+      "type": "Country",
+      "name": "Iraq",
+      "id": "Country_6852b243ec8ae22b8ee64b6e469e7420361cb2f7eee4f76a43c5180cff0a8285"
+    },
+    {
+      "type": "Country",
+      "name": "Syria",
+      "id": "Country_6f4254a419a1b4d2193fdddaea11d91aed184452721bc67d137ff4f92e50ba94"
+    },
+    {
+      "type": "Organization",
+      "name": "SDF",
+      "id": "Organization_9d1d379ee0813cf8526d31f144fbc6c9da741580b80430d9f039a1dd16b5d9a0"
+    },
+    {
+      "type": "Person",
+      "name": "president al-Charaa",
+      "id": "Person_be9811392edaa53effa0f3b90900de43b187c703953dc764576cef1e0a111ae6"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités de création d'emplois",
+      "id": "Theme_734ef3e2717cb64c7c457dfe1d5c8b3fb8084a0fc5f08a9e4d82750c51741789"
+    },
+    {
+      "type": "City",
+      "name": "Ukraine",
+      "id": "City_e916f6feb09fedf649ef5cf91be3ed771147aca94a18c19250880b6dc778a9c5"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "resynchroniser l'agenda européen et américain",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "America",
+      "relation": "LOCATED_IN",
+      "target": "America",
+      "evidence": "resynchroniser l'agenda européen et américain",
+      "confidence": 1.0,
+      "source_id": "Organization_25b2659860b8d79aa5171950480be1dcaaa365bf2b61c13a98a58232bccc06a3",
+      "target_id": "Organization_25b2659860b8d79aa5171950480be1dcaaa365bf2b61c13a98a58232bccc06a3"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "VISITED",
+      "target": "Ukraine",
+      "evidence": "soutien financier immédiat et de long terme à l'Ukraine",
+      "confidence": 1.0,
+      "source_id": "City_e916f6feb09fedf649ef5cf91be3ed771147aca94a18c19250880b6dc778a9c5",
+      "target_id": "City_e916f6feb09fedf649ef5cf91be3ed771147aca94a18c19250880b6dc778a9c5"
+    },
+    {
+      "source": "Chine",
+      "relation": "PROPOSED",
+      "target": "terres rares",
+      "evidence": "La décision récente chinoise sur les terres rares qui, d'ailleurs, depuis le mois d'avril dernier, impose des licences avec beaucoup d'attente de beaucoup d'industriels, on a plusieurs milliers d'industriels qui attendent leur licence depuis le mois d'avril, et aujourd'hui un durcissement de ces règles en réaction aux tarifs américains qui font que maintenant, ils peuvent imposer tout industriel qui produit en utilisant plus de 0,1% de composants de terres rares venant de Chine.",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Theme_f7252f0b63c5dbd962be628be26728a4d12c2de743c24a064bdebad009d3acdf"
+    },
+    {
+      "source": "Chine",
+      "relation": "SUPPORTS",
+      "target": "tarifs américains",
+      "evidence": "et aujourd'hui un durcissement de ces règles en réaction aux tarifs américains qui font que maintenant, ils peuvent imposer tout industriel qui produit en utilisant plus de 0,1% de composants de terres rares venant de Chine.",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Theme_397d75bbb4362470f9ac4ff3225a400f9b3d51b593a1d3730c07407495bee505"
+    },
+    {
+      "source": "Commission",
+      "relation": "ALLIED_WITH",
+      "target": "Grèce",
+      "evidence": "avec la Grèce, l'Espagne, Chypre, la Slovénie, le Danemark, nous avons dit notre volonté à la Commission d'avancer à titre national sur un âge en deçà duquel les mineurs ne pourront plus accéder aux réseaux sociaux.",
+      "confidence": 1.0,
+      "source_id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b",
+      "target_id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "source": "Commission",
+      "relation": "ALLIED_WITH",
+      "target": "Espagne",
+      "evidence": "avec la Grèce, l'Espagne, Chypre, la Slovénie, le Danemark, nous avons dit notre volonté à la Commission d'avancer à titre national sur un âge en deçà duquel les mineurs ne pourront plus accéder aux réseaux sociaux.",
+      "confidence": 1.0,
+      "source_id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b",
+      "target_id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "source": "Commission",
+      "relation": "ALLIED_WITH",
+      "target": "Chypre",
+      "evidence": "avec la Grèce, l'Espagne, Chypre, la Slovénie, le Danemark, nous avons dit notre volonté à la Commission d'avancer à titre national sur un âge en deçà duquel les mineurs ne pourront plus accéder aux réseaux sociaux.",
+      "confidence": 1.0,
+      "source_id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b",
+      "target_id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "source": "Commission",
+      "relation": "ALLIED_WITH",
+      "target": "Slovénie",
+      "evidence": "avec la Grèce, l'Espagne, Chypre, la Slovénie, le Danemark, nous avons dit notre volonté à la Commission d'avancer à titre national sur un âge en deçà duquel les mineurs ne pourront plus accéder aux réseaux sociaux.",
+      "confidence": 1.0,
+      "source_id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b",
+      "target_id": "Country_88ddeb0d618614116972f37defe9ed8b4f029cdb3c098230ef835b57caa93a30"
+    },
+    {
+      "source": "Commission",
+      "relation": "ALLIED_WITH",
+      "target": "Danemark",
+      "evidence": "avec la Grèce, l'Espagne, Chypre, la Slovénie, le Danemark, nous avons dit notre volonté à la Commission d'avancer à titre national sur un âge en deçà duquel les mineurs ne pourront plus accéder aux réseaux sociaux.",
+      "confidence": 1.0,
+      "source_id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b",
+      "target_id": "Country_e69e28cfa71a672f3c4d4f769e9cbc72220f20bc192eea020c4483eaecfef07b"
+    },
+    {
+      "source": "flexibilités",
+      "relation": "MENTIONS",
+      "target": "flexibilités",
+      "evidence": "si on fait ces flexibilités, ce qui est très important, c'est de défendre le contenu européen.",
+      "confidence": 1.0,
+      "source_id": "Theme_4f4deb8991af0ded12022d192802d6c6d6f039a8dc2ccce5e52691bc8aeceec1",
+      "target_id": "Theme_4f4deb8991af0ded12022d192802d6c6d6f039a8dc2ccce5e52691bc8aeceec1"
+    },
+    {
+      "source": "constructeurs automobiles",
+      "relation": "MENTIONS",
+      "target": "constructeurs automobiles",
+      "evidence": "Parce qu'il faut faire attention à la division qu'il peut y avoir parfois entre nos constructeurs automobiles et leurs sous-traitants.",
+      "confidence": 1.0,
+      "source_id": "Theme_f7d1ef72c8c3aa6a77988c9105a610ab6cf81142dc8c509edb986799c46ab246",
+      "target_id": "Theme_f7d1ef72c8c3aa6a77988c9105a610ab6cf81142dc8c509edb986799c46ab246"
+    },
+    {
+      "source": "sous-traitants",
+      "relation": "MENTIONS",
+      "target": "sous-traitants",
+      "evidence": "Parce qu'il faut faire attention à la division qu'il peut y avoir parfois entre nos constructeurs automobiles et leurs sous-traitants.",
+      "confidence": 1.0,
+      "source_id": "Theme_fe92e645807a51cd421e9a2dffa3df5ce686bafedde11e3409c9aaec511545dc",
+      "target_id": "Theme_fe92e645807a51cd421e9a2dffa3df5ce686bafedde11e3409c9aaec511545dc"
+    },
+    {
+      "source": "sourcing en Chine",
+      "relation": "MENTIONS",
+      "target": "sourcing en Chine",
+      "evidence": "mais d'aller continuer à faire le sourcing en Chine.",
+      "confidence": 1.0,
+      "source_id": "Theme_b98e1c78ac9f0aae571f1ed504a0c76e42b26c7969a4bd858a80abed1ba3ac57",
+      "target_id": "Theme_b98e1c78ac9f0aae571f1ed504a0c76e42b26c7969a4bd858a80abed1ba3ac57"
+    },
+    {
+      "source": "concurrence loyale",
+      "relation": "MENTIONS",
+      "target": "concurrence loyale",
+      "evidence": "Il n'y avait pas une concurrence loyale.",
+      "confidence": 1.0,
+      "source_id": "Theme_8a144e25f057d5e5fee29c471c91e89862f01f2645b35e3ae096d67a54a4daf8",
+      "target_id": "Theme_8a144e25f057d5e5fee29c471c91e89862f01f2645b35e3ae096d67a54a4daf8"
+    },
+    {
+      "source": "emploi",
+      "relation": "MENTIONS",
+      "target": "emploi",
+      "evidence": "On détruit de l'emploi de manière immédiate chez nous, mais on recrée des dépendances pour demain.",
+      "confidence": 1.0,
+      "source_id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603",
+      "target_id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "source": "dépendances",
+      "relation": "MENTIONS",
+      "target": "dépendances",
+      "evidence": "On détruit de l'emploi de manière immédiate chez nous, mais on recrée des dépendances pour demain.",
+      "confidence": 1.0,
+      "source_id": "Theme_14de542cd66252bc7dd38d12cbadc101d38c3b269a47ae1437ae7786869af7a7",
+      "target_id": "Theme_14de542cd66252bc7dd38d12cbadc101d38c3b269a47ae1437ae7786869af7a7"
+    }
+  ]
+}

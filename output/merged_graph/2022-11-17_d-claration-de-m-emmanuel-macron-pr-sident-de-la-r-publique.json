@@ -1,0 +1,641 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur l’ambassadeur",
+      "id": "Person_66517e5d77eaed17c9122f02e4cccc431aa0f8c33cdadf2a342e095de9afbd24"
+    },
+    {
+      "type": "Organization",
+      "name": "lycée français",
+      "id": "Organization_7ad2237b78b9ece7a8dc9b5a51c34d3a8367f8a54b784beed44db45192b5ee38"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "APEC",
+      "id": "Organization_6ba23ec65ec8ba6128e48cbf5e1014f43a6b3f9249bf8557c463f1ff9b782f24"
+    },
+    {
+      "type": "City",
+      "name": "Versailles",
+      "id": "City_005c3dd556787a48d85e917c1629f8b41dea2f726d89283e42c5cd7448b7c82a"
+    },
+    {
+      "type": "Country",
+      "name": "Thaïlande",
+      "id": "Country_fe3fbc928311de6c2ecb216fdfee74bc8105f4a91e062b0ed8b40520fdbcfcac"
+    },
+    {
+      "type": "Person",
+      "name": "Louis XIV",
+      "id": "Person_e0acc9e40a553970655eb49a7f8db0c104d2b8c2ac3af100b34691e479242503"
+    },
+    {
+      "type": "Person",
+      "name": "Kosa PAN",
+      "id": "Person_626cde37fa3c87d027c8e6d09bef077383cef6d541d7c0305a98c3ca0b0d217b"
+    },
+    {
+      "type": "Organization",
+      "name": "École des langues orientales",
+      "id": "Organization_79ea99dc5dcf30378e186534eba4fa3b4dd84b30c3660d035987184c5fe99424"
+    },
+    {
+      "type": "Organization",
+      "name": "Inalco",
+      "id": "Organization_6b51d70310a07add1f65f466e70ade7fbf8a3a44a60dd9f7f2034e5d6d43e35a"
+    },
+    {
+      "type": "Theme",
+      "name": "franco-siamois",
+      "id": "Theme_54896ccef5dac091c159286644574003b0133da4ddccc0940b4433418acf7a26"
+    },
+    {
+      "type": "Person",
+      "name": "des femmes et des hommes",
+      "id": "Person_9ee81987c2da560a06f5fba171febcabf25cdddb365175f7c1c6be90584a04ed"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation internationale de la Francophonie",
+      "id": "Organization_f06abfa6c5ae40b266c867322d6110d5af440aa772c7c5cab510d3f86feb79ad"
+    },
+    {
+      "type": "Theme",
+      "name": "francophonie",
+      "id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Organization",
+      "name": "chambre de commerce franco-thaï",
+      "id": "Organization_516067abec01c3d6aa91d8429a82c0bb7cc9dcc779f81ff3b6b48feb5c3d253d"
+    },
+    {
+      "type": "Organization",
+      "name": "conseillers du commerce extérieur",
+      "id": "Organization_d539839d3e3f9a6d2b9ecc35fcea576a39496e60601db3a9a990bf26cb2e757f"
+    },
+    {
+      "type": "Organization",
+      "name": "French Tech",
+      "id": "Organization_b2676cfdc8d5c52026131494972cd4ec8242bce018a1350d66e8f0885374d625"
+    },
+    {
+      "type": "Organization",
+      "name": "club VIE",
+      "id": "Organization_d1c862a3dea1dcd424b5aeac5aea72095eb8a864c92cec4e834321f4f97c26ec"
+    },
+    {
+      "type": "Organization",
+      "name": "grands groupes français",
+      "id": "Organization_52ff22fcb73dbf25bc9f1345520dcb099d0ba0291db9e2d9b9e957fc00a206a6"
+    },
+    {
+      "type": "Organization",
+      "name": "PME",
+      "id": "Organization_0acc90fd83b5f34eca1d95b6132906e873cb62c3c1450bdfd28204a0afdd60a0"
+    },
+    {
+      "type": "Theme",
+      "name": "rayonnement de la France",
+      "id": "Theme_10114d39dc6098c86f076a7940e4a61b972153a78e87a50228235fad8827cffd"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur associatif",
+      "id": "Theme_1ac072452caa1e97fe0807dbc951e606b06364436d34f0e39b3d3593ab3d6870"
+    },
+    {
+      "type": "Theme",
+      "name": "enfance",
+      "id": "Theme_f49b22e01bd397bae33f15c69a93ef721a078706f98b86bac8fac04bfa5be7af"
+    },
+    {
+      "type": "Theme",
+      "name": "droit des femmes",
+      "id": "Theme_d2da95d72d870a71011b6e862c995183e89c237e4427c4a6f625259d91caedf3"
+    },
+    {
+      "type": "Theme",
+      "name": "santé des populations déshéritées",
+      "id": "Theme_1c06d829dfac62bf6d6fbbac2272987ccec268371af5217e3c2552299b4cf773"
+    },
+    {
+      "type": "Theme",
+      "name": "océans",
+      "id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "type": "Theme",
+      "name": "réfugiés",
+      "id": "Theme_cf715922d34db7d0e7f0fe02ae9a4f01148012f4e89d37a68a21c0c18896705e"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission économique et sociale des Nations unies pour l'Asie et le Pacifique",
+      "id": "Organization_326977185768f9af834df6b63f7bd9a6cbf76be9928f5037554e98b84ebe03e5"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Cirad",
+      "id": "Organization_0bc75292377da7898311520ee7f2527b8b98b458ceafb3e4e1bf611f58620141"
+    },
+    {
+      "type": "Organization",
+      "name": "IRD",
+      "id": "Organization_6d254b07674208cd63a3112a0f0372f83794fc24327e3624ccd3b802278c7be6"
+    },
+    {
+      "type": "Organization",
+      "name": "FAO",
+      "id": "Organization_97ee3a29b383a2c2aff3b2873b9af0beefd71a5a1aaf5189a690ba7c8fbb5eee"
+    },
+    {
+      "type": "Organization",
+      "name": "IRASEC",
+      "id": "Organization_eaedd1cc593d08f73400c707b8fc2bcad49d38be5e9b5545a59b483b84ac6687"
+    },
+    {
+      "type": "Theme",
+      "name": "retraite",
+      "id": "Theme_8050a9e8a96a61b26246964af94b3c2c3681628e0ca532bbda0455c611504f82"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "sport",
+      "id": "Theme_825ac548d524f301bf40cecba64423c577f867e16f68d3e023ee693d5aebd94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "quai",
+      "id": "Organization_7810290ad3b42833789fcc005b0a1ce3eb002504b4a8ea4fa3156b108bd9c639"
+    },
+    {
+      "type": "Organization",
+      "name": "centre de crise",
+      "id": "Organization_f8dee016b1a525a5913e7f7aa87d1e06fb5af76b86506e5d2a109bea231f0ad4"
+    },
+    {
+      "type": "Organization",
+      "name": "ambassade",
+      "id": "Organization_e282df09e51ebb7b1633c51cf8c25b398a885a80ec7ddaa901bc3cf870cde4bd"
+    },
+    {
+      "type": "Organization",
+      "name": "société d'assurance",
+      "id": "Organization_6f02ef0404055bb136e9cb0c042ac6e08b755df9b12dd5acba46811f2c4ad0e9"
+    },
+    {
+      "type": "Organization",
+      "name": "voyagistes",
+      "id": "Organization_a764047aa6a2c678471dbc2da2d24efc13da4e393df4496ecaea91f5f56015e8"
+    },
+    {
+      "type": "Person",
+      "name": "nos consuls honoraires",
+      "id": "Person_010174bbd694524f5de372ae6ce851b2d4f1367e634a891166d5935e89c726ac"
+    },
+    {
+      "type": "Person",
+      "name": "les chefs d'îlots",
+      "id": "Person_f2123ef4ec1526462ebfddb5e75bc1a05d7299fa3ca672f47fe437523095fbc4"
+    },
+    {
+      "type": "Person",
+      "name": "les associations",
+      "id": "Person_5dad9d683d283a305c2b7ccde13a7d81d6fbc043ce6f094250f2b6c822b3deba"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "City",
+      "name": "Thaïlande",
+      "id": "City_63003e98139270344bdd40f40e7b0df9663420b2b36e2a52030b124986da336c"
+    },
+    {
+      "type": "Event",
+      "name": "tsunami de 2004",
+      "id": "Event_1d22925ef153d87ff45f1b76acc737031c2d9fa0475eb37a50baa292fd9b9917"
+    },
+    {
+      "type": "Theme",
+      "name": "crise sanitaire",
+      "id": "Theme_743ee24ed44703d4666d6b5cf4b4d242d463d4e45a0472c4fa437ed044489173"
+    },
+    {
+      "type": "City",
+      "name": "Bangkok",
+      "id": "City_38a15061adc1443c45ebd8fc22c1283408a6d31eedc4ef5ee7a5c9b2fa744e20"
+    },
+    {
+      "type": "Organization",
+      "name": "Lycée français international de Bangkok",
+      "id": "Organization_0867de2aff1b7efdd840a52b8bc0475093b2f99b7e3268dbbe99a1601c806fc2"
+    },
+    {
+      "type": "Organization",
+      "name": "AEFE",
+      "id": "Organization_ad9e50da64285544a9115ef90403dc66a69d51463bd1ca79446e916849f644c4"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement français",
+      "id": "Theme_843dd844374d4467e228df53ac5e1bab001cef33704109c9bd290f1925506ca1"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement du français",
+      "id": "Theme_f41f340b6c5f16d47b16b54834fffef59dafe5bab891f490e6620c279fd19d26"
+    },
+    {
+      "type": "City",
+      "name": "Chiang Mai",
+      "id": "City_82323df77a01b1a181956b30088d7dda366131b51962f0717edbb06bb73dce65"
+    },
+    {
+      "type": "Organization",
+      "name": "communauté scolaire",
+      "id": "Organization_1bf2bf1aecf8869c2d086c128a07a88e7aa8d3f3c4ab0bc654fbfe6f2b818a39"
+    },
+    {
+      "type": "Organization",
+      "name": "EFEO",
+      "id": "Organization_9592934bbc08d03c8870b2d768f321782bdc6f43160e3d624f76edd13638058e"
+    },
+    {
+      "type": "Organization",
+      "name": "Etat français",
+      "id": "Organization_8668f3cbdbe019c9f85f8818d05456a2fd9b1c0ecbd5f57fddbcc6ccc55136f2"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Theme",
+      "name": "relation bilatérale",
+      "id": "Theme_fb905f565e880acf7668ded50fca31fba5f169f79f2dd0ee408ce5b8565b1b6e"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie Indo-Pacifique",
+      "id": "Theme_9f5c8b2ac348a4f3cd6f0bd2d523369ea83d4efadc23429fd5425937279422d2"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Theme",
+      "name": "satellites",
+      "id": "Theme_3f9535ad7eab290977abe4c0e0c41b760ed9d89e6a8095d7042b3ca50e1ceaad"
+    },
+    {
+      "type": "Theme",
+      "name": "universitaire",
+      "id": "Theme_65da5f9671c5828984a9e0ae133796d978a687574599d68f40bb8f0737686d2d"
+    },
+    {
+      "type": "Theme",
+      "name": "scientifique",
+      "id": "Theme_35653362b95dc9cfa6ec58e7381c7856183667f512f9e6489e040d2c44999ccc"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "enjeux globaux",
+      "id": "Theme_8044b6159ec515f8ef56a2f308c209679529463599c649d5df25089cb2adcf6a"
+    },
+    {
+      "type": "Person",
+      "name": "le vice-premier ministre",
+      "id": "Person_821e191fb3234046cda3d5711f992bfde8535a7117d74c8b342b42984e82e94b"
+    },
+    {
+      "type": "Person",
+      "name": "le Premier ministre",
+      "id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "gastronomie",
+      "id": "Theme_95de876b1173e4eff212fc36e76d6c5f96b693492bb23438c8897dfee2f77158"
+    },
+    {
+      "type": "Theme",
+      "name": "produits de luxe",
+      "id": "Theme_4a5b368c6f40367ec75531d88d7557ee5bc6a4f6d53f8de55eb0534f4bbd8760"
+    },
+    {
+      "type": "Theme",
+      "name": "tourisme",
+      "id": "Theme_6230ab46b903a54cbd735ffcdd8016d5b3ccadaf12ae9993a40cfa32b83e758f"
+    },
+    {
+      "type": "Theme",
+      "name": "agroalimentaire",
+      "id": "Theme_024debcd3609070ef635d568cf73483a37c21fe6cf08997e9d8f5342591a8879"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation technologique",
+      "id": "Theme_56e05cd703c6686501d6042f262124b8c820fd8c3e444b697ddb1bad04eb11b4"
+    },
+    {
+      "type": "Theme",
+      "name": "tech",
+      "id": "Theme_c2acc6850157a3f0a1949e2080737f0f5203edfc703e6a4a3c375ae3e2d63c0a"
+    },
+    {
+      "type": "Theme",
+      "name": "sciences",
+      "id": "Theme_3ebeecd2a84459e8fb954db7bd12fdb1625a168f165adb02b0341c3206571db8"
+    },
+    {
+      "type": "Theme",
+      "name": "production industrielle",
+      "id": "Theme_dd9eef4f224d2b6fcbdf0a4d0bd7bc918ef3d6dbd85ce5c700fc808627451d8d"
+    },
+    {
+      "type": "Theme",
+      "name": "Année franco thaïlandaise de l'innovation",
+      "id": "Theme_872bb520878694aea53621c6e7033e4c048b937a5a235fa37d1ff4ae00f564a3"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements conjoints",
+      "id": "Theme_4bf429a2095acab989b7369b42b3a56801372207a1dd526e971bb34b85c9f377"
+    },
+    {
+      "type": "Theme",
+      "name": "richesse",
+      "id": "Theme_ebc8abe7c633e7ee08027166a01273668d756f2c85fd37ecd47f23f726532022"
+    },
+    {
+      "type": "Theme",
+      "name": "défense de coopération",
+      "id": "Theme_65524d6e329f136505e1bb40d159aa8f9bb128dca8c47cf037671efeece0b551"
+    },
+    {
+      "type": "Country",
+      "name": "Indo-Pacifique",
+      "id": "Country_a55ae030ae39d84c0e5d62898eb2b6889a5ad107aa2dcad5c81dddfcb2b1006c"
+    },
+    {
+      "type": "Organization",
+      "name": "ASEAN",
+      "id": "Organization_7f9d34bf282297a9d721f3c3a09d0ce8d7a87556e6bfa0b100b125e96bd4c356"
+    },
+    {
+      "type": "City",
+      "name": "ultramarins",
+      "id": "City_1b9e394fc54f6717d1b31e909d529efd2e6183639d79b9f40939c95a93acab5f"
+    },
+    {
+      "type": "Person",
+      "name": "Malcolm TURNBULL",
+      "id": "Person_828e5dde30b66c1ee6d41cfed13bcb8282689a12a9bc9f88cbfd43357923489e"
+    },
+    {
+      "type": "Country",
+      "name": "Australie",
+      "id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2"
+    },
+    {
+      "type": "Theme",
+      "name": "développement économique équilibré",
+      "id": "Theme_1f8727d00fcbcfffb8ba86804bb27423d2808684f6c0052c907131446b8b6581"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition climatique",
+      "id": "Theme_d50478b703462e76561468f6ea79501963d98f0863f2930591c593aad98ac7c1"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "Indo-Pacifique",
+      "id": "Theme_e708c5267ec9ae5eb776bb2df17c27b8c12df91ab5b7f338c25597052234f541"
+    },
+    {
+      "type": "Country",
+      "name": "Indonésie",
+      "id": "Country_7771567a7a9b44f302b0f12f28ad9ee4fe89238f6364c4b0642d6454f3add126"
+    },
+    {
+      "type": "Country",
+      "name": "Philippines",
+      "id": "Country_96b1d80acfd66131827ebb9cb288a8f99b981d5f4bc934349f227bc2656f1089"
+    },
+    {
+      "type": "Country",
+      "name": "Polynésie Française",
+      "id": "Country_719de631a141599b2bd3d9af8c7838fd04343c09b8a132e81ccc73be25304c71"
+    },
+    {
+      "type": "Country",
+      "name": "Nouvelle-Calédonie",
+      "id": "Country_55a69be2de7bce6a0a3ef0dc0899835c52a9dcb4b1cc9e9c104595177589d1e9"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Thaïlande",
+      "relation": "LOCATED_IN",
+      "target": "Thaïlande",
+      "evidence": "en Thaïlande",
+      "confidence": 1.0,
+      "source_id": "City_63003e98139270344bdd40f40e7b0df9663420b2b36e2a52030b124986da336c",
+      "target_id": "City_63003e98139270344bdd40f40e7b0df9663420b2b36e2a52030b124986da336c"
+    },
+    {
+      "source": "Thaïlande",
+      "relation": "MEMBER_OF",
+      "target": "Organisation internationale de la Francophonie",
+      "evidence": "Thaïlande est devenue en 2008, Etat observateur à l'Organisation internationale de la Francophonie",
+      "confidence": 1.0,
+      "source_id": "City_63003e98139270344bdd40f40e7b0df9663420b2b36e2a52030b124986da336c",
+      "target_id": "Organization_f06abfa6c5ae40b266c867322d6110d5af440aa772c7c5cab510d3f86feb79ad"
+    },
+    {
+      "source": "Lycée français international de Bangkok",
+      "relation": "LOCATED_IN",
+      "target": "Bangkok",
+      "evidence": "Le Lycée français international de Bangkok est un établissement d'excellence, vaisseau amiral du réseau AEFE en Thaïlande",
+      "confidence": 1.0,
+      "source_id": "Organization_0867de2aff1b7efdd840a52b8bc0475093b2f99b7e3268dbbe99a1601c806fc2",
+      "target_id": "City_38a15061adc1443c45ebd8fc22c1283408a6d31eedc4ef5ee7a5c9b2fa744e20"
+    },
+    {
+      "source": "Lycée français international de Bangkok",
+      "relation": "MEMBER_OF",
+      "target": "AEFE",
+      "evidence": "Le Lycée français international de Bangkok est un établissement d'excellence, vaisseau amiral du réseau AEFE en Thaïlande",
+      "confidence": 1.0,
+      "source_id": "Organization_0867de2aff1b7efdd840a52b8bc0475093b2f99b7e3268dbbe99a1601c806fc2",
+      "target_id": "Organization_ad9e50da64285544a9115ef90403dc66a69d51463bd1ca79446e916849f644c4"
+    },
+    {
+      "source": "Thaïlande",
+      "relation": "LOCATED_IN",
+      "target": "Bangkok",
+      "evidence": "Le Lycée français international de Bangkok est un établissement d'excellence, vaisseau amiral du réseau AEFE en Thaïlande",
+      "confidence": 1.0,
+      "source_id": "City_63003e98139270344bdd40f40e7b0df9663420b2b36e2a52030b124986da336c",
+      "target_id": "City_38a15061adc1443c45ebd8fc22c1283408a6d31eedc4ef5ee7a5c9b2fa744e20"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "dialogue",
+      "evidence": "D'abord, sur le plan bilatéral, dès 2018, en recevant à Paris le premier ministre, je souhaitais marquer une volonté de la France d'aller plus loin, de rouvrir un dialogue avec l'Europe, et d'avancer plus fortement",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "source": "le vice-premier ministre",
+      "relation": "MENTIONS",
+      "target": "le vice-premier ministre",
+      "evidence": "De la même manière que nous avons invité le vice-premier ministre, dès le premier semestre",
+      "confidence": 1.0,
+      "source_id": "Person_821e191fb3234046cda3d5711f992bfde8535a7117d74c8b342b42984e82e94b",
+      "target_id": "Person_821e191fb3234046cda3d5711f992bfde8535a7117d74c8b342b42984e82e94b"
+    },
+    {
+      "source": "le Premier ministre",
+      "relation": "MENTIONS",
+      "target": "le Premier ministre",
+      "evidence": "j'ai invité le Premier ministre, ensuite",
+      "confidence": 1.0,
+      "source_id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff",
+      "target_id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "source": "Thaïlande",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "la Thaïlande a décidé de rejoindre deux initiatives que la France a lancé",
+      "confidence": 1.0,
+      "source_id": "City_63003e98139270344bdd40f40e7b0df9663420b2b36e2a52030b124986da336c",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Indo-Pacifique",
+      "evidence": "L’Indo-Pacifique, pour la France, ce n’est pas un concept, c’est une réalité humaine, historique et contemporaine et d’avenir.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_e708c5267ec9ae5eb776bb2df17c27b8c12df91ab5b7f338c25597052234f541"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Emomali Rahmon",
+      "id": "Person_37328d26fa85f3cb32346efd0d3df51817123ec406b19e1937c21dad3ac7c408"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "Tadjikistan",
+      "id": "Country_975ab8d09039caf3231e1391f1ee9e13c953d609ed7c0629130afb44cc9b5cd7"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Country",
+      "name": "Afghanistan",
+      "id": "Country_5ea7a9152b57f52d563390097c0d7ee8c7520b1a7fb13ff16e8c8d519cc49736"
+    },
+    {
+      "type": "Country",
+      "name": "Tadjiks",
+      "id": "Country_9b2d1d748810ffdf644973980576c7af28c9c7acf6b327def56ede9d2e466a42"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Tadjikistan",
+      "evidence": "La France et le Tadjikistan célébreront bientôt les 30 ans de relations diplomatiques",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_975ab8d09039caf3231e1391f1ee9e13c953d609ed7c0629130afb44cc9b5cd7"
+    },
+    {
+      "source": "Président",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Président, d'être là aujourd'hui à Paris.",
+      "confidence": 1.0,
+      "source_id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "Tadjikistan",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "une feuille de route pour le développement de la coopération entre le Tadjikistan et la France sur les cinq prochaines années sera signée.",
+      "confidence": 1.0,
+      "source_id": "Country_975ab8d09039caf3231e1391f1ee9e13c953d609ed7c0629130afb44cc9b5cd7",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "SCHOLZ",
+      "id": "Person_0c7fab8756c3ac2e66d8de7c95955b7b68d04ffe7e2f4299f2e2297b6ce8db13"
+    },
+    {
+      "type": "Country",
+      "name": "Japon",
+      "id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Person",
+      "name": "ZELENSKY",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Event",
+      "name": "frappe russe sur le centre commercial de Krementchouk",
+      "id": "Event_0c1a61dcea55a08e69590ee958613b68b16ad9c26f0746434267e15584e99a3f"
+    },
+    {
+      "type": "City",
+      "name": "Irpin",
+      "id": "City_7e905e5d788b7990230a71ec3980530a68818ca0e71f7b5a672fad93dccbb9d7"
+    },
+    {
+      "type": "City",
+      "name": "Kiev",
+      "id": "City_3a24ad0eca3d75099401ab5d6c0c64d5783ac0ba23b6fb1b4f257d3e923cb404"
+    },
+    {
+      "type": "Theme",
+      "name": "sur-crise",
+      "id": "Theme_02856703a3623721528fbfefde30cd2aa464f3b9181628966d48b1d9af469ca9"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "ralentissement de nombre de nos économies",
+      "id": "Theme_86c25fdc4cec02ec0a662a88b0924c0f13ffad3bd20568c3b1592c17da59deb9"
+    },
+    {
+      "type": "Theme",
+      "name": "inquiétude dans les économies développées",
+      "id": "Theme_e2e7dc7afe24af60e80623b08a1bc9d2ca366301c6d228b35e2ddfc01c1b63e5"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "conséquences directes et indirectes de la guerre",
+      "id": "Theme_4e250914bfb3b02c236235adced62d20a9aff25211c53179a4364139f251feb0"
+    },
+    {
+      "type": "Theme",
+      "name": "déstabilisation de l'ordre mondial",
+      "id": "Theme_d13a5dec49f4ba9e82ecd6cbb9e1e6c9d6660aa2388d6f0596acfce63613f3ed"
+    },
+    {
+      "type": "Theme",
+      "name": "crise alimentaire",
+      "id": "Theme_386702eed688d78b67381b60e41894642c5a37cc028312a27e912c34b9c0d52f"
+    },
+    {
+      "type": "Theme",
+      "name": "question énergétique",
+      "id": "Theme_6b17778ffc341250b82e540ed23107d5a66c04ffd7c0c60391f6447541293a03"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques macroéconomiques et financières",
+      "id": "Theme_3245835c0926f94cf6417186c0938ff2402a448edd2d02013fb764f2a4e8ff6f"
+    },
+    {
+      "type": "Theme",
+      "name": "normalisation monétaire",
+      "id": "Theme_baef40a68b98f96764765715645b133a9d56ff995bc79bcc5fee2ed8ef094862"
+    },
+    {
+      "type": "Theme",
+      "name": "création d'emplois",
+      "id": "Theme_6504e6ace9950bb650ef42114b8bffda2376af147acc77f9ae8f22ffc17f02cd"
+    },
+    {
+      "type": "Theme",
+      "name": "économie stable",
+      "id": "Theme_b7a75ab259a00faa4b31b87a2893297070b146abf03fbb872f147623053bed38"
+    },
+    {
+      "type": "Theme",
+      "name": "contexte géopolitique",
+      "id": "Theme_ef8e05f225c36f0d9edac836aab396067a108d80244d5e9981724dc78a811a0c"
+    },
+    {
+      "type": "Theme",
+      "name": "augmentation générale et durable des prix",
+      "id": "Theme_5eb116de1d5e16531ecfc3d1ce72deda9884f4175ae830ddb36e0359ccec5368"
+    },
+    {
+      "type": "Theme",
+      "name": "crise COVID",
+      "id": "Theme_f795ef1333fb420f606311508232d39f9e4e804aec2881d112ecc1755b95f540"
+    },
+    {
+      "type": "Theme",
+      "name": "économie stable et bien articulée",
+      "id": "Theme_1768eebc25deaaff870f64c553937e25f2750ac82aa0ba5ac42122e8f16ff4bc"
+    },
+    {
+      "type": "Theme",
+      "name": "pays en voie de développement",
+      "id": "Theme_dd8363b0b3a84afd6d749cf0a9f7929aa90428e8465981dc31e53dc710e8cd68"
+    },
+    {
+      "type": "Theme",
+      "name": "pays émergents",
+      "id": "Theme_574fa1bce85b81e8fc40b291a96866fa8b4343a698ae252bccb5d7d76424f5c6"
+    },
+    {
+      "type": "Theme",
+      "name": "financement des économies africaines",
+      "id": "Theme_0906f7dff06ffb7eb32c17b5af6fe1aee43a347121f2e817431a468ef9ca9756"
+    },
+    {
+      "type": "Theme",
+      "name": "émission de droit de tirages spéciaux",
+      "id": "Theme_4e70d1c09b5c3b81c70c48c73bc049129ac4edf2aa9a6eb4595180e7e3808ef2"
+    },
+    {
+      "type": "Theme",
+      "name": "G7",
+      "id": "Theme_5d5bdda89574ffe78851fbd8543321a62368b619cb111bfb9edbf65985d0ff6f"
+    },
+    {
+      "type": "Theme",
+      "name": "Carbis Bay",
+      "id": "Theme_b9812453f08efe997b63283a5558a0c09b8cd75d324b4e1b69a6e56b9c7b85f4"
+    },
+    {
+      "type": "Organization",
+      "name": "FMI",
+      "id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "type": "Organization",
+      "name": "G7 de Carbis Bay",
+      "id": "Organization_989d3110fdb030709d9f2a04cc4fa15ed3d468bae11cb5eee09f0a4e0638e4ee"
+    },
+    {
+      "type": "Organization",
+      "name": "G20 de Rome",
+      "id": "Organization_22727aea541dca616de4d19a9a09e5299ff22d65ce8217484b9a16cadfc1a9d4"
+    },
+    {
+      "type": "Organization",
+      "name": "G20 de Bali",
+      "id": "Organization_d78ad135680f46fdc694572c2eaf5949eb63a2a7475978cd04f01427d615d66b"
+    },
+    {
+      "type": "Country",
+      "name": "Indonésie",
+      "id": "Country_7771567a7a9b44f302b0f12f28ad9ee4fe89238f6364c4b0642d6454f3add126"
+    },
+    {
+      "type": "Theme",
+      "name": "transition énergétique",
+      "id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibres sur le marché de l'énergie",
+      "id": "Theme_1c9b2649153900a810207f8361cc5a8a0424c2652f0b5a762a5abc001db39f82"
+    },
+    {
+      "type": "Theme",
+      "name": "initiatives",
+      "id": "Theme_960c4f8d1cba94115463bd632a0b8afcad29bfb1ba9b0995e71afb8d4803b278"
+    },
+    {
+      "type": "Theme",
+      "name": "tenir les prix du gaz",
+      "id": "Theme_e864c15f258a4e7bfd04f08f78b903b4714b7479816c52218dcb30625b1e684f"
+    },
+    {
+      "type": "Person",
+      "name": "Président BIDEN",
+      "id": "Person_aea56d2d88e0b36498ee7706d9018312202b07c7c9e23874f6e8d9f1972b7994"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence internationale de l'énergie",
+      "id": "Organization_7b9c834b1b9ce897226f52b5fa4b872223613883f4f9ae6927b4408e767a4831"
+    },
+    {
+      "type": "Theme",
+      "name": "sensibilité à la Russie",
+      "id": "Theme_f7ac3d17ae27745e8967b0330050bce1fcc937ee74e64e8beb748dfb92218a89"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz russe",
+      "id": "Theme_a473b76e4c0ac2badb2ec2129aa9499b2996c0b513be8cc325bf171033084d0a"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies renouvelables",
+      "id": "Theme_912e2c1b6d76c17cfecb65f028f348cae97ce3cd43f48890e5f528fb3273c56f"
+    },
+    {
+      "type": "Theme",
+      "name": "transition",
+      "id": "Theme_e63e6ab1512da86e741fe3d7ec082523f6b684c749eb3aef27e0dfd412c0a6b6"
+    },
+    {
+      "type": "Theme",
+      "name": "charbon",
+      "id": "Theme_548bb5ce8df69ec8043411bf054457e539ac5bba47798110164f1896a83f7cd8"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz",
+      "id": "Theme_23c772ec8e48db56d58d61be20b92c8c3f24d744a200ab1b8ff2005eef4b1e48"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelable",
+      "id": "Theme_d0beb8d3065f33b4c348175dce1aba64c98ce89f1a5876f75f351c8752b2dd50"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité carbone",
+      "id": "Theme_13578b8136640a21c92a662f7e77d4879f6ceffb4dd1652ae120a6e9e44f65d3"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique du Sud",
+      "id": "Country_18768cba57ae5abd3fb4a98f72c105af41db31822809e203889560cb72663272"
+    },
+    {
+      "type": "Country",
+      "name": "Sénégal",
+      "id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Union africaine",
+      "id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénégal",
+      "id": "Organization_87d887e3fd21604b8da7bd4c36a23abbb7e90c862a2d3943a2c2c17ab5c106bd"
+    },
+    {
+      "type": "Organization",
+      "name": "FARM",
+      "id": "Organization_b255325e15def72079639cd0fad414a54eadc855d8fba0c5fbd7641196bc3bd7"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation mondiale du commerce",
+      "id": "Organization_279680ad64a597c5effc113dc4b3abd9bc4b6f6f07c59018604598bd2e0baca8"
+    },
+    {
+      "type": "Organization",
+      "name": "Programme alimentaire mondial",
+      "id": "Organization_84f668673c9d08a0a0862a68fefa552b84efec4366a8569cc898ecae836d47db"
+    },
+    {
+      "type": "Organization",
+      "name": "FIDA",
+      "id": "Organization_9ca38725099e2207a24e73ff41db52728678010ff012866b8e49cfea4427b308"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque Mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Theme",
+      "name": "restrictions d'exportations",
+      "id": "Theme_0abbf4e5aa80812355e59771ffe35a481abb90d10bcedff3546d1251860ca498"
+    },
+    {
+      "type": "Theme",
+      "name": "Programme alimentaire mondial",
+      "id": "Theme_5769893353b85c3e11a654dcb337706fa118a0e369fbbbf0774cffd82d03b8f0"
+    },
+    {
+      "type": "Theme",
+      "name": "spéculation",
+      "id": "Theme_808c30b6ab6cdef534faac094ebf50ef891f6b68afeb91734f9e4ee96341a836"
+    },
+    {
+      "type": "Theme",
+      "name": "céréales russes",
+      "id": "Theme_8658f78a3042c6c995872520192e009b482dc0510a61efd7af455d2882baa09b"
+    },
+    {
+      "type": "Theme",
+      "name": "production agricole",
+      "id": "Theme_52e8416d561886c6a49b2c8456117a3828d515ce31da84e920d0817c9e6cdb01"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie protéinique",
+      "id": "Theme_3cf359950f776ab759d4381850d90650313ae3b4bf8268c2f6b96ffaa3d1786c"
+    },
+    {
+      "type": "Theme",
+      "name": "One Planet Summit biodiversité",
+      "id": "Theme_4dc34042b43a0417164a5f0f9ef11d3d3ffd2a5e847c83f7dcf1490043426caa"
+    },
+    {
+      "type": "Theme",
+      "name": "Grande Muraille verte",
+      "id": "Theme_58286a4f444f01d64e750dc892b922c9dcaf2a352bc81f528770744d5f8eb4d6"
+    },
+    {
+      "type": "Theme",
+      "name": "agroforesterie",
+      "id": "Theme_87f9dd5808015fb5823d2a809b0e95457eeed7c3a2d39282e07f96bf8d3c5af9"
+    },
+    {
+      "type": "Person",
+      "name": "Secrétaire général des Nations Unies",
+      "id": "Person_3b6f20ae4bd585c52c5f2277b37c10222936d306e89369f76e71cd74b30442be"
+    },
+    {
+      "type": "Country",
+      "name": "Turquie",
+      "id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "Country",
+      "name": "Moldavie",
+      "id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    },
+    {
+      "type": "Organization",
+      "name": "Secrétaire général",
+      "id": "Organization_bf41bc6aa21451ecd4c1a62e4f450fbfd9eba7fb9d89ef79c876c3346043800a"
+    },
+    {
+      "type": "City",
+      "name": "Odessa",
+      "id": "City_b7f40d154e7b48b7437b36b1f51b792851b1a5b5dbe72557c13bdde0b3d34548"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien",
+      "id": "Theme_4dfac92dac64c205c1c0e703283d4ba045cb9535e4f0c0a54df8ba969e6e1575"
+    },
+    {
+      "type": "City",
+      "name": "Carbis Bay",
+      "id": "City_17d4fa2bf1403107c8e1ee24d18b4951361f733eda149234449f4004da7d6f70"
+    },
+    {
+      "type": "Organization",
+      "name": "Convention pour la biodiversité",
+      "id": "Organization_afa67f19b59ceba725d40ebf95c0cca20994f7687d5ebad2b5c4dbf28e9189c6"
+    },
+    {
+      "type": "City",
+      "name": "Montréal",
+      "id": "City_99afea798c48333043a2c59b590333b7f5d46230e2a7913f4b7a60f102d557f1"
+    },
+    {
+      "type": "Organization",
+      "name": "Programme mondial pour l'intelligence artificielle",
+      "id": "Organization_d109ee578ba02410dfb3dd5ed7cad2f5043d56bdfce8744a0c80cdd66f2ce2c7"
+    },
+    {
+      "type": "Organization",
+      "name": "Reporters sans frontières",
+      "id": "Organization_9c7bbb51a9aa00ea2b30a9e966d8db351f4ca1ffaccbb0f8e366e29ac8b05a12"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations Unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "City",
+      "name": "Christchurch",
+      "id": "City_293edb2613c6c1a08b352ce0269722016b4334bfa0c5c0e3e3c767371acee265"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "G7",
+      "relation": "MENTIONS",
+      "target": "sur-crise",
+      "evidence": "Le G7 est aussi au rendez-vous pour éviter une « sur-crise » mondiale liée à la guerre.",
+      "confidence": 1.0,
+      "source_id": "Theme_5d5bdda89574ffe78851fbd8543321a62368b619cb111bfb9edbf65985d0ff6f",
+      "target_id": "Theme_02856703a3623721528fbfefde30cd2aa464f3b9181628966d48b1d9af469ca9"
+    },
+    {
+      "source": "G7 de Carbis Bay",
+      "relation": "LOCATED_IN",
+      "target": "G20 de Rome",
+      "evidence": "le travail qui avait été fait entre le G7 de Carbis Bay et le G20 de Rome, qui avait permis de consacrer ces efforts",
+      "confidence": 1.0,
+      "source_id": "Organization_989d3110fdb030709d9f2a04cc4fa15ed3d468bae11cb5eee09f0a4e0638e4ee",
+      "target_id": "Organization_22727aea541dca616de4d19a9a09e5299ff22d65ce8217484b9a16cadfc1a9d4"
+    },
+    {
+      "source": "transition énergétique",
+      "relation": "MENTIONS",
+      "target": "transition énergétique",
+      "evidence": "Et donc en cela, la transition énergétique demeure notre grand chantier pour les années à venir, que la crise actuelle ne fait qu'accélérer.",
+      "confidence": 1.0,
+      "source_id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7",
+      "target_id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7"
+    },
+    {
+      "source": "crise",
+      "relation": "MENTIONS",
+      "target": "crise",
+      "evidence": "À court terme, notre objectif est évidemment de limiter les effets de la crise sur l'ensemble de nos concitoyens, nos entreprises, et pouvoir rétablir les équilibres sur le marché de l'énergie et faire baisser les prix.",
+      "confidence": 1.0,
+      "source_id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1",
+      "target_id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "source": "équilibres sur le marché de l'énergie",
+      "relation": "MENTIONS",
+      "target": "équilibres sur le marché de l'énergie",
+      "evidence": "À court terme, notre objectif est évidemment de limiter les effets de la crise sur l'ensemble de nos concitoyens, nos entreprises, et pouvoir rétablir les équilibres sur le marché de l'énergie et faire baisser les prix.",
+      "confidence": 1.0,
+      "source_id": "Theme_1c9b2649153900a810207f8361cc5a8a0424c2652f0b5a762a5abc001db39f82",
+      "target_id": "Theme_1c9b2649153900a810207f8361cc5a8a0424c2652f0b5a762a5abc001db39f82"
+    },
+    {
+      "source": "initiatives",
+      "relation": "MENTIONS",
+      "target": "initiatives",
+      "evidence": "Plusieurs initiatives ont été lancées qui demandent à être maintenant concrétisées techniquement, mais nous avons donc appelé entre acheteurs à mieux nous coordonner pour parler ensemble aux producteurs qui portent une responsabilité immense étant donné notre dépendance collective.",
+      "confidence": 1.0,
+      "source_id": "Theme_960c4f8d1cba94115463bd632a0b8afcad29bfb1ba9b0995e71afb8d4803b278",
+      "target_id": "Theme_960c4f8d1cba94115463bd632a0b8afcad29bfb1ba9b0995e71afb8d4803b278"
+    },
+    {
+      "source": "tenir les prix du gaz",
+      "relation": "MENTIONS",
+      "target": "tenir les prix du gaz",
+      "evidence": "Et donc notre volonté de pouvoir, à la fois en libérant davantage de volumes mais en ayant aussi une discussion concertée entre grands pays acheteurs, permettre de mieux tenir les prix du gaz, les prix du pétrole qu'il s'agisse du pétrole brut comme de tous les produits transformés à partir du pétrole.",
+      "confidence": 1.0,
+      "source_id": "Theme_e864c15f258a4e7bfd04f08f78b903b4714b7479816c52218dcb30625b1e684f",
+      "target_id": "Theme_e864c15f258a4e7bfd04f08f78b903b4714b7479816c52218dcb30625b1e684f"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "Union européenne",
+      "evidence": "la France a lancée, en lien avec le Sénégal, la France, dans le cadre de sa présidence de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "Union africaine",
+      "evidence": "la France a lancée, en lien avec le Sénégal, la France, dans le cadre de sa présidence de l'Union européenne, le Sénégal dans le cadre de sa présidence de l'Union africaine",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "source": "Secrétaire général",
+      "relation": "SUPPORTS",
+      "target": "soutien",
+      "evidence": "Notre soutien est acquis, nous l'avons rappelé au Secrétaire général.",
+      "confidence": 1.0,
+      "source_id": "Organization_bf41bc6aa21451ecd4c1a62e4f450fbfd9eba7fb9d89ef79c876c3346043800a",
+      "target_id": "Theme_4dfac92dac64c205c1c0e703283d4ba045cb9535e4f0c0a54df8ba969e6e1575"
+    },
+    {
+      "source": "Nations Unies",
+      "relation": "LOCATED_IN",
+      "target": "Nations Unies",
+      "evidence": "Et en marge de l'Assemblée générale des Nations Unies, nous aurons à porter une initiative pour bâtir ce GIEC de l'information et de la lutte contre la désinformation.",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    }
+  ]
+}

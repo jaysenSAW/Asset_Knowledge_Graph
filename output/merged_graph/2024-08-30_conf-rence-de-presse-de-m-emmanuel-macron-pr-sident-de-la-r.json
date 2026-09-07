@@ -1,0 +1,611 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Aleksandar",
+      "id": "Person_ff67039a1c36745da9475c434de71c702727abc82126ec2630f03b07b66b0d22"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Madame l'ambassadrice",
+      "id": "Person_783c16ac4383b349a3f46b496464b07a42e68af0a7f102a08c0670a6b1e248c5"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur l'ambassadeur",
+      "id": "Person_ca63df6e99fdaff6436f8fd8ee480f34c6752e2fbbae13fb9d4ec2653a96ecad"
+    },
+    {
+      "type": "Country",
+      "name": "Serbie",
+      "id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Belgrade",
+      "id": "City_92b9ceb94a7e1fc33accbfa5e6a0329ab6f9fab473fe6e0d112dfbcec76dfbee"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Nikola-Tesla",
+      "id": "City_5476e03673673b94345c0d0df8f117d63bbbd4656b5709bab6f37d885c9c0d22"
+    },
+    {
+      "type": "Person",
+      "name": "Novak DJOKOVIC",
+      "id": "Person_20bfaf000299953c32d144eca9f1046f27cd9e1d0d79197cc2b1ef17434259e5"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux olympiques",
+      "id": "Event_a8bf835d920f3d97ebe3969f331a838648fdce52e2ce1d732ac8c44d6c998ec9"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux paralympiques de Paris",
+      "id": "Event_6402d449b6ca94facc5572e86422c4319a760854a924bc95478d7e66efddb02f"
+    },
+    {
+      "type": "Organization",
+      "name": "L'Agence française de développement",
+      "id": "Organization_0df4c5025ab60a10cfc525a5fa97bee7a9500121f49649be32d11e9111129d84"
+    },
+    {
+      "type": "City",
+      "name": "Novi Sad",
+      "id": "City_2244d4241f43761c20f797bbcb08ecc9ae21889dc68c0941730ee93739fc6a48"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission actuelle",
+      "id": "Organization_fbb117bdf75d999150ceaa45be7f88a4b36bb0de74f9a56b9f7199e1b86721ef"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie stratégique",
+      "id": "Theme_029a7236b3291ee261cba1740f38d69601586a351be77e7e7290bab2819fd644"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda de Versailles",
+      "id": "Theme_ff7be23947cf0f4a238e3faf63db9ecbae1a5faabae33d37759107af0a676168"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendances",
+      "id": "Theme_14de542cd66252bc7dd38d12cbadc101d38c3b269a47ae1437ae7786869af7a7"
+    },
+    {
+      "type": "Theme",
+      "name": "vulnérabilités",
+      "id": "Theme_4fde1ca29280a2ddd4c83a20bb418983e7294d37f741ef03fea8d4600dfca9ab"
+    },
+    {
+      "type": "Theme",
+      "name": "grands changements",
+      "id": "Theme_1548fec5de22136938e451e697c59f1c469467f2538e4db66ba41a9155102af1"
+    },
+    {
+      "type": "Theme",
+      "name": "développement durable",
+      "id": "Theme_5f1bb520fa5de98e4e876d04cd83bf58d961cf1f5d62571cbb08cbca34482cec"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "eaux usées",
+      "id": "Theme_b2a2a2bd88b6534acaea0d0ee7eaa706983bb915d4da3822a73d61ce9e46c749"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "Institut d'oncologie",
+      "id": "Theme_347224a55ffcaaf3ab032ab4de68645a7aedbc727390794710f8d439ed98c962"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "startups",
+      "id": "Theme_b3fedf1927a7ff9f9b930ba12d4dcb168cbce6318c5601c66dc5821cf26b6a3d"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "jeux vidéo",
+      "id": "Theme_5a2eaacc250b14ef37719cd9995f8af51378b769344377493d7ce1c05506c244"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "City",
+      "name": "Pristina",
+      "id": "City_a55be0d1518a81b172353c28701607a8a6221005064ee710da8c4311f3df1e25"
+    },
+    {
+      "type": "City",
+      "name": "Kosovo",
+      "id": "City_8f038172cb69e2365e0c37b8d9841cb0e9fb627ecc7765fe7dfc7ad07be6d468"
+    },
+    {
+      "type": "Organization",
+      "name": "Association des municipalités à majorité serbe",
+      "id": "Organization_45d2cfd1eed476a45584052dd690d0bfc260d85120e91634dca990980de85af2"
+    },
+    {
+      "type": "Country",
+      "name": "Kosovo",
+      "id": "Country_f46080b9f63552f46127e2af3b8045cf7a90b9b824c483a048121d12b347ad77"
+    },
+    {
+      "type": "Country",
+      "name": "Balkans occidentaux",
+      "id": "Country_3312664190f53ae194c056f4d8b70cad1750c96de278aff51862dceeb579d7fc"
+    },
+    {
+      "type": "Person",
+      "name": "Aleksandar VUCIC",
+      "id": "Person_dfd5cc5e5964ec262c839b08165eaa53361647e7b6f4f8d91b11a53583dd0869"
+    },
+    {
+      "type": "Person",
+      "name": "MACRON",
+      "id": "Person_0123c6440fe5aa6b7871df7e99ee28112b6753541af6940c57692410e426c9ca"
+    },
+    {
+      "type": "Country",
+      "name": "nos deux pays",
+      "id": "Country_2bd470f2122568640e3762e9bf14400458b6f8d21f909f537011d97d9af8f053"
+    },
+    {
+      "type": "Person",
+      "name": "Pavel DUROV",
+      "id": "Person_c9a9754e143cc67ded164a758a28d675851c6c6a0da2b0e9c8001673015ac3bc"
+    },
+    {
+      "type": "Theme",
+      "name": "vente de Rafale",
+      "id": "Theme_449096991f4de78c6c900070989e2755b716f162a07d24f86a67dd71faf53b4a"
+    },
+    {
+      "type": "Theme",
+      "name": "technologie",
+      "id": "Theme_f50f2e73d342423ab68fbb527a8e6f41bb64bfac8440718a497ef6f75a9032d8"
+    },
+    {
+      "type": "Theme",
+      "name": "sanctions européennes",
+      "id": "Theme_81ec03dfc1bd08cc9623b2b724c49fa25476358e51a5bcbc5b8d7abda66e2c71"
+    },
+    {
+      "type": "Theme",
+      "name": "naturalisation",
+      "id": "Theme_71c23b61871126be73c8f38ad1dfc0fd9af83f4caeb2cb772f50ae8c69a87865"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Organization",
+      "name": "groupe Dassault",
+      "id": "Organization_d87ca0c15a2a3f2449b76d25b205847b5c55f0ee4dcefb16b630880619463f61"
+    },
+    {
+      "type": "Organization",
+      "name": "Dassault Aviation",
+      "id": "Organization_d051daf3a1721c59ebb399a9cf1e118bc6940d94c8ad7304e17e24327730ca0c"
+    },
+    {
+      "type": "Organization",
+      "name": "délégation générale de l'armement",
+      "id": "Organization_9598f312c14fa7def0200d9eec60ad170493347405a1488778de10fb240dc5cd"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Organization",
+      "name": "des Armées",
+      "id": "Organization_1e7d47fc4a9b493e6c74c4adffbc348ad886fc440e13936f50a939ea86d5d4ec"
+    },
+    {
+      "type": "Country",
+      "name": "Croatie",
+      "id": "Country_1b940bb8e233a7c1969bcf0cc30fb014e6a5c0bee8b5ed32626e55ee84f35e16"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Country",
+      "name": "Émirats arabes unis",
+      "id": "Country_02da2051b5b49f4cccf63ff0675abe8e1fc2d1961a4264fcb31498ee4e262b19"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Indonésie",
+      "id": "Country_7771567a7a9b44f302b0f12f28ad9ee4fe89238f6364c4b0642d6454f3add126"
+    },
+    {
+      "type": "Country",
+      "name": "Égypte",
+      "id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur DUROV",
+      "id": "Person_06990dc1e7494f040d247fa050539622b451f0dcdb2622891fdae6243cf96169"
+    },
+    {
+      "type": "Law",
+      "name": "Lien juridique donnant à un individu la qualité de citoyen d'un État",
+      "id": "Law_65f83b8c72d6f40361b7e06d5acb466c750a75db3ea029422ddd1d855e757698"
+    },
+    {
+      "type": "Organization",
+      "name": "Justice française",
+      "id": "Organization_c80c93d9e7ac9bd3bbcb6d9ca654c1ba93978664d0d168419dad249e43d229f7"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Président XI Jinping",
+      "id": "Person_7aab31753884f5c6c5c0fdb34c0a71a0cddd4919331ea7551c59ddcb482f2d59"
+    },
+    {
+      "type": "City",
+      "name": "Pyrénées",
+      "id": "City_713ef738e36c3b0740312ab838b3897607b9362c8ac0d55cca95717eb1a8a85c"
+    },
+    {
+      "type": "City",
+      "name": "Budapest",
+      "id": "City_c41f177efa6fd3636206019ff4c23d4d7ab22bfc0523a24740afab331a1f079a"
+    },
+    {
+      "type": "Country",
+      "name": "votre pays",
+      "id": "Country_06dc06b265c95053586e76dcb9e0e30ac7604207c3bc9aa5047a890c506106d1"
+    },
+    {
+      "type": "Theme",
+      "name": "subsidiarité",
+      "id": "Theme_d31550d4be24749d8ab400b894c400bdf42185bb43763a35521e7d48dd7f3f1e"
+    },
+    {
+      "type": "Country",
+      "name": "pays membres de l'UE",
+      "id": "Country_01c9d0b6394161fde25032a22bfd904a3d5f48b3f5a49919ad219bdcc0f74e3a"
+    },
+    {
+      "type": "Country",
+      "name": "Pristina",
+      "id": "Country_eb40551e618109e025b4c6674d3879cf163649952625b2208b516b5dd7a6a567"
+    },
+    {
+      "type": "Country",
+      "name": "Belgrade",
+      "id": "Country_1a45fa6dd815fb77625840924e73e87d79291f63b4bc6a6591ad5a785ff4dd41"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariats",
+      "id": "Theme_84487f85920a01eef370c99e7050da97326069387eeb01a99526c8b0243acd8d"
+    },
+    {
+      "type": "Theme",
+      "name": "rendez-vous réguliers",
+      "id": "Theme_3d9ae9825e9200bd85b4cf9a2d3d61f550ecb6872a747ee4b87b2c01ff873917"
+    },
+    {
+      "type": "Theme",
+      "name": "sanctions",
+      "id": "Theme_cc609b67ce79c18e469b868785645e8ac15295942ba88c097a9620d856801064"
+    },
+    {
+      "type": "Country",
+      "name": "République serbe",
+      "id": "Country_18f5a19b54c56b54c4ef221d694f56a0ed8aea54ed2c744b1132d86a4eb8e5d3"
+    },
+    {
+      "type": "Country",
+      "name": "Suisse",
+      "id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Theme",
+      "name": "Jeux olympiques",
+      "id": "Theme_598629bba6285c4c65a3cf612705a3401844b9433a7ebb6e454a1dcabd4e0196"
+    },
+    {
+      "type": "Theme",
+      "name": "Jeux paralympiques",
+      "id": "Theme_3b13585c413069bd59d95931b6def7013766dd15a0e24f0fdffe028020ac738d"
+    },
+    {
+      "type": "Theme",
+      "name": "affaires courantes",
+      "id": "Theme_5c937e7472ef8a79c0cd75d82b9d0f474142c0a394e2c453feeaef1591e17cc5"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Person",
+      "name": "Président MACRON",
+      "id": "Person_15ae4a213d835ef7577798185bd607847949379bf71f008ed1e17c6105b05ad8"
+    },
+    {
+      "type": "Person",
+      "name": "Président serbe",
+      "id": "Person_798a0c5226f7a632d7b6d3a1d31114a4521472adf445c2c533e589bd2bd3adef"
+    },
+    {
+      "type": "Person",
+      "name": "Votre consœur",
+      "id": "Person_941cf198b020f3e2f88513b7a956d2e4eae80fa9239595dc8c90e73b41182601"
+    },
+    {
+      "type": "Person",
+      "name": "Votre Président",
+      "id": "Person_ec09243f6300d7c7b7f9e6befd8cd419bc9ab3364af631212778720bcc51f0ba"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale",
+      "id": "Organization_8f8e5049d1c21e2291ca3d39865c23e9d20927413f7abca05a47b2572d99f6e2"
+    },
+    {
+      "type": "Country",
+      "name": "Albanie",
+      "id": "Country_7933b01c103ab008a5a551143eb5ed6e123541a3cac366f8229076928099e05d"
+    },
+    {
+      "type": "Theme",
+      "name": "intégration européenne",
+      "id": "Theme_90c21143d874db5d43193b54a530359fc550ab60a55f429a64c02824d28ad283"
+    },
+    {
+      "type": "Theme",
+      "name": "acquis communautaire",
+      "id": "Theme_16636831832a76cda7aabec12a5eaf384ad5b3b6b4392b9412d62e7750473794"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "biens et services",
+      "id": "Theme_990b55e52a8557de38cf83af5bc52026d77032c416d1d12c3035ddf96f935b47"
+    },
+    {
+      "type": "Theme",
+      "name": "État de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Theme",
+      "name": "relation Pristina-Belgrade",
+      "id": "Theme_ccc0f2986e8e2e636c0a553702dfc7d72b249c0e83f327252c1263c16fd952aa"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Belgrade",
+      "evidence": "La France était l'invitée d'honneur il y a quelques mois du Salon du livre de Belgrade",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_1a45fa6dd815fb77625840924e73e87d79291f63b4bc6a6591ad5a785ff4dd41"
+    },
+    {
+      "source": "Serbie",
+      "relation": "VISITED",
+      "target": "Serbie",
+      "evidence": "Si je reviens aussi en Serbie, c'est pour voir",
+      "confidence": 1.0,
+      "source_id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b",
+      "target_id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SUPPORTS",
+      "target": "Serbie",
+      "evidence": "l'Union européenne et ses États membres ont besoin dans ce contexte d'une Serbie forte et démocratique à leur côté",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b"
+    },
+    {
+      "source": "Serbie",
+      "relation": "SUPPORTS",
+      "target": "Union européenne",
+      "evidence": "et que la Serbie a besoin d'une Union européenne et souveraine pour défendre ses intérêts",
+      "confidence": 1.0,
+      "source_id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b",
+      "target_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Serbie",
+      "evidence": "la France, la Serbie aspire à une indépendance et une souveraineté",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Nous avons aussi en France des projets importants en la matière",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Monsieur DUROV",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "Monsieur DUROV en France",
+      "confidence": 1.0,
+      "source_id": "Person_06990dc1e7494f040d247fa050539622b451f0dcdb2622891fdae6243cf96169",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SUPPORTS",
+      "target": "votre pays",
+      "evidence": "C'est le souhait de votre pays de rejoindre l'Union européenne.",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Country_06dc06b265c95053586e76dcb9e0e30ac7604207c3bc9aa5047a890c506106d1"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "ALLIED_WITH",
+      "target": "votre pays",
+      "evidence": "C'est le souhait de votre pays de rejoindre l'Union européenne.",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Country_06dc06b265c95053586e76dcb9e0e30ac7604207c3bc9aa5047a890c506106d1"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    }
+  ]
+}

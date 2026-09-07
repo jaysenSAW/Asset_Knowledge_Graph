@@ -1,0 +1,352 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "mes chers compatriotes",
+      "id": "Person_b6b29c7b55b71aae52b700aaa89778c04669d873e35a8a1d54782abede5f747b"
+    },
+    {
+      "type": "Person",
+      "name": "forces de sécurité",
+      "id": "Person_875e7b1da7679b9d8db6fb02e3f4a1d369671b82e9eb3cbe2d8cf1daf71dab18"
+    },
+    {
+      "type": "Person",
+      "name": "sapeurs-pompiers",
+      "id": "Person_cbbaa27f6b34fad6cbca06db06f6e56d29261a9b1093d222c1c58ccd14f5ef31"
+    },
+    {
+      "type": "Person",
+      "name": "bénévoles",
+      "id": "Person_4df853e94f504700b3d07c10fcee75b14be8095b7a7f6ed01461cb0b955d6c3d"
+    },
+    {
+      "type": "Person",
+      "name": "soignants",
+      "id": "Person_34a69fe0c8518eb3fdcf36248011fb14d7c4769c9553a7b90a5b2de0efb6de83"
+    },
+    {
+      "type": "Person",
+      "name": "travailleurs",
+      "id": "Person_a70356b059ce05cca3ddb264d20c88fd824dca59e4b444719871b3c155f55149"
+    },
+    {
+      "type": "Person",
+      "name": "celles et ceux qui sont seuls",
+      "id": "Person_dc39b9bf777783cc60590a45bb549c41454d80c2a264796e399ff9956a17d254"
+    },
+    {
+      "type": "Person",
+      "name": "malades",
+      "id": "Person_d78699d612bb4dea68836c9cff603fd82aeb2d130fee1ac716ff4cc8fb66ee2e"
+    },
+    {
+      "type": "Person",
+      "name": "dans l'épreuve ou le dénuement",
+      "id": "Person_81f8331877d38c533d6747ea53864a6edd570c2ff56642cc5927666035d1e7d7"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "océans",
+      "id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "type": "Theme",
+      "name": "désordres",
+      "id": "Theme_d5e3016e4bb3454f9c930d7f90c75c634682fd86d3e56fec48dae96a9bb3f2ec"
+    },
+    {
+      "type": "Theme",
+      "name": "failles",
+      "id": "Theme_d0e6f22efaf112842b971f0d656a1251d5847cf187c8ae9138a94eee2db87aeb"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "instabilité",
+      "id": "Theme_c2d09a5ba825f01abd9dc4fb343b022a8623eae8013fe0ac7bd037afe73bc1a4"
+    },
+    {
+      "type": "Theme",
+      "name": "empires",
+      "id": "Theme_c803c690552694d9a1b9c3d63ecffad6ccaf2fe6f93416cabb89593cbde4bf2d"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre international",
+      "id": "Theme_289a437b7ebd1758f517244ffb7920e1783b8884a6c25a392dab8d910194a767"
+    },
+    {
+      "type": "Theme",
+      "name": "guerres commerciales",
+      "id": "Theme_c4c74b91cccb73d9bed299b7f3e2bb486c9901cfa833d86e18d39aed49e36215"
+    },
+    {
+      "type": "Theme",
+      "name": "compétition technologique",
+      "id": "Theme_65e57e8021b64ca15d172d1651e9db89643a6d95d35a3d96764f5717b87e6f1f"
+    },
+    {
+      "type": "Theme",
+      "name": "divisions",
+      "id": "Theme_ce451808c01abd1c5ee14311852bad0d7a31777f5f93d1177ebc0268ac0aca6c"
+    },
+    {
+      "type": "Theme",
+      "name": "doutes",
+      "id": "Theme_a95e0ad1215c59151708c5f87b303c1d63371bbe751bf977bb072d282c4c034a"
+    },
+    {
+      "type": "Theme",
+      "name": "solitude",
+      "id": "Theme_9bf261aff6756e2aa9c4cac74eda601152fe07061c1060ce453aabec562f0d05"
+    },
+    {
+      "type": "Theme",
+      "name": "natalité",
+      "id": "Theme_1739090f250acbea817318e40b43262663be1193de8eae42b8f2a19b613a3f0f"
+    },
+    {
+      "type": "Theme",
+      "name": "insécurité",
+      "id": "Theme_c7a368bf598bca497caed4dd3d3f42ab5d1c9b08009fd42e199fd3976aac0fe6"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir d'achat",
+      "id": "Theme_63effc12fc7fbc533757050c1218d45395229580f9c3bfcec7f32cb9090cc9f2"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "le pays",
+      "id": "Country_a03263ca275efa2d2c5ee5e45853980c9a341766037b1334f390d85cd0705136"
+    },
+    {
+      "type": "Organization",
+      "name": "le Gouvernement",
+      "id": "Organization_c84506bfa4b413253e8583afd35e6d70a5f6b5d27de3de7a01a81b44fecf8081"
+    },
+    {
+      "type": "Organization",
+      "name": "le Parlement",
+      "id": "Organization_3b98b5f0abf8de7aca3ae5fb5dbe595730fd9a3929e3ace625352b07811a79b9"
+    },
+    {
+      "type": "Theme",
+      "name": "incivilité",
+      "id": "Theme_99f034f9e68367cc9a507486b0e66fd4e9727a34bc3aa3ce580dc02bbedf08ff"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration illégale",
+      "id": "Theme_c5cd078fa0f1ea1fd30498ed7b15d726ec99038ad9baa48a38eb410d226ad042"
+    },
+    {
+      "type": "Theme",
+      "name": "décentralisation",
+      "id": "Theme_8cdbeea2048deb633c4b678480b824c211c9c3809c1c56bd2de057c9fda69508"
+    },
+    {
+      "type": "City",
+      "name": "Corse",
+      "id": "City_16f784e293f33726279f3f43c311b4c6996cd29064ae7f0a470010a8505ad63a"
+    },
+    {
+      "type": "City",
+      "name": "Outre-mer",
+      "id": "City_121f5dd683084ed11b0b0afc40ab9b11e807e5f548606d1633c672145ee5660f"
+    },
+    {
+      "type": "City",
+      "name": "communes",
+      "id": "City_0c2882513b7c1336427f8de0f06f9a5b58d33ec77862623276998fabee7ba07d"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement de nos jeunes",
+      "id": "Theme_4a120a4409d9f45ef26ecf25e1aef1e49013fa7f72de3865773564ff9e381d41"
+    },
+    {
+      "type": "Theme",
+      "name": "lien entre nos armées et la nation",
+      "id": "Theme_58e684c379f5f6267d2e3a4fe1d2fd951816707c91806464a8265375817b44df"
+    },
+    {
+      "type": "Theme",
+      "name": "fin de vie dans la dignité",
+      "id": "Theme_db62c9ea8bcc8c4ca92684d04597c20c928b883bdf8f775c8bca30d7dfb53975"
+    },
+    {
+      "type": "Theme",
+      "name": "élection présidentielle de 2027",
+      "id": "Theme_dfd1e0d3716ed1dce6b9ac4f915d287502bd6ec151ccf98ff5d86d07bc879384"
+    },
+    {
+      "type": "Theme",
+      "name": "sereinement possible",
+      "id": "Theme_7973c22dbb155993fc3fc10b64b1882d581edd68a6d91a0bafaec837b1a6d616"
+    },
+    {
+      "type": "Theme",
+      "name": "ingérence étrangère",
+      "id": "Theme_abbe26ca7db5103c929e47a09380d473791c2e0d6ca40cbcb0fe47dfc3d5d617"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémitisme",
+      "id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "type": "Theme",
+      "name": "racisme",
+      "id": "Theme_8ca275a05cedf5deee96a6c7b9825aa608c84ae00aa7af40d901092936df4d19"
+    },
+    {
+      "type": "Theme",
+      "name": "discrimination",
+      "id": "Theme_92d7d1d37614eb7e3178c40e62a9c7211cba91c8c31af61eb0c9f5faa02beefb"
+    },
+    {
+      "type": "Theme",
+      "name": "bienveillance",
+      "id": "Theme_7f32cfe6f55d6c8858691533f46de8c408e4cd45a80054345810998d77c492aa"
+    },
+    {
+      "type": "Theme",
+      "name": "humanité",
+      "id": "Theme_ebe8df3ac285e08d8c5b09a171c984dd674712e8f6706876ba58be414310d3e9"
+    },
+    {
+      "type": "Theme",
+      "name": "force",
+      "id": "Theme_692ec114325b782d4c086becfab4bd9bf5c9449c59ddd4c7e36828f9035301a5"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "loi du plus fort",
+      "id": "Theme_cf4987ec121dd01229c27cca9438dce4f81c276d5cec6ab77c065589d8123b2c"
+    },
+    {
+      "type": "Theme",
+      "name": "affaires du monde",
+      "id": "Theme_d1ea205cfe4046027434cf05b39f6583b6570c7edf0fa6dbdd4f56abefb80e27"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés",
+      "id": "Theme_2460d11dd8890d0086c346c7c4f9479cbb7c560ab3409a92f103572ef8fa5209"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "France hexagonale",
+      "id": "Country_2049b36c99f12027e98a6c92f46f07feb72a54cd51067d1711610fff45e5bc5f"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "Je sais comme la situation est difficile pour beaucoup d'entre vous, placés devant des souffrances personnelles et les malheurs de la vie, et je veux vous dire notre soutien et notre affection.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Russie",
+      "relation": "ALLIED_WITH",
+      "target": "Ukraine",
+      "evidence": "la Russie a décidé d'une nouvelle agression de l'Ukraine voilà bientôt 4 ans",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "le Gouvernement",
+      "relation": "LOCATED_IN",
+      "target": "le Parlement",
+      "evidence": "le Gouvernement et le Parlement auront à bâtir des accords pour doter la nation d'un budget.",
+      "confidence": 1.0,
+      "source_id": "Organization_c84506bfa4b413253e8583afd35e6d70a5f6b5d27de3de7a01a81b44fecf8081",
+      "target_id": "Organization_3b98b5f0abf8de7aca3ae5fb5dbe595730fd9a3929e3ace625352b07811a79b9"
+    },
+    {
+      "source": "Europe",
+      "relation": "ALLIED_WITH",
+      "target": "Ukraine",
+      "evidence": "de nombreux États européens et alliés prendront des engagements concrets pour protéger l'Ukraine et assurer une paix juste et durable sur notre continent européen.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    }
+  ]
+}

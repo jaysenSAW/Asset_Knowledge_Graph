@@ -1,0 +1,399 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames les ministres",
+      "id": "Person_19c6a893fe778dfc3d8002ad2fb7d941baf24de4386766725610beac1b447aab"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les parlementaires",
+      "id": "Person_9721d90198df552b1c882b8e3717fc4e60d77853de2fc40ce1560ac0113ff824"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les élus",
+      "id": "Person_7833a9b44c2450547e64d05df991f8cd7c836ff98f0ee519809efff7677baa73"
+    },
+    {
+      "type": "Theme",
+      "name": "choc",
+      "id": "Theme_531c979d089118eb88679eff88077764b2faeb5d99954e6cda60b3354727919c"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage partiel",
+      "id": "Theme_224db8296e56db7cddb54ca5f9e355f099b05bfc12a1836807c84af9ab39d89c"
+    },
+    {
+      "type": "Theme",
+      "name": "activité partielle de longue durée",
+      "id": "Theme_282e396dcfa5e889cbfc7f0833c8956e880c36d7ed1c3861849bf13f33bdb6e9"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue social",
+      "id": "Theme_ee894356fb7b18c232f5f8942280aa5130fa4a4bf5c6ae081e42c62ae85a0fce"
+    },
+    {
+      "type": "Theme",
+      "name": "salaire",
+      "id": "Theme_c63d9bc7bf1a7e58cea3e86e23375681228e758fc3a7e6a92f57806abb26dee1"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de résistance",
+      "id": "Theme_0932f44f44b100820ec8e8eb34bf923bda8dc9cc544aae8f3a8ce98a1397b36b"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir-faire",
+      "id": "Theme_e020add04380980015c543dc696b8b323483b7b82c6c387324d2986f12998c1a"
+    },
+    {
+      "type": "Theme",
+      "name": "compétences",
+      "id": "Theme_f4baf676a1a91b846e556f812ea2e6452ecc1b7c2b3a87f971cd7e60c4b42995"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "inquiétudes",
+      "id": "Theme_914128cfd5be3c673ceaf53d96f984e6870703cccd0956b42beb12337b794c55"
+    },
+    {
+      "type": "Theme",
+      "name": "angoisses",
+      "id": "Theme_2208d9598d9f2fc7988ef5169fa21478a526db13373b43e8491a60d44feb786a"
+    },
+    {
+      "type": "Theme",
+      "name": "licenciements",
+      "id": "Theme_443eba719ba5268b897615d8794670c114bfb8d741a0eb3340ed5e86a7062311"
+    },
+    {
+      "type": "Theme",
+      "name": "épidémie",
+      "id": "Theme_cc728abad13e3c62e85c61089f7679fbc7bd2c7fd6b01a6888d874304168d638"
+    },
+    {
+      "type": "Theme",
+      "name": "combats à venir",
+      "id": "Theme_3e8a4074abd4f6ea9f63e1be57781353177a2523ae477cc9c1d82b6900097960"
+    },
+    {
+      "type": "City",
+      "name": "ville",
+      "id": "City_d76f1842099df9104a4c9071fcbf888a795309abe7be7571ef39c009565815a8"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois qualifiés",
+      "id": "Theme_8d9939217daaabfc9d248defd30b80899b7fbb11fc1216d8b27b2a43c063a74c"
+    },
+    {
+      "type": "Theme",
+      "name": "services",
+      "id": "Theme_8299ccf1b63b51d91e44358ba39932fb7db2cd2f142bfe27817e5ce17318f1ca"
+    },
+    {
+      "type": "Theme",
+      "name": "industries",
+      "id": "Theme_e96fa47299eebda2f389fe9ccf1105b4d299447a0fe6df8c25121f831ec623c3"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Theme",
+      "name": "robotisation",
+      "id": "Theme_41ce0ca7cab5d31bcfbe409aabc0eada492ed50a946bcb8a2289771a1a9bafbc"
+    },
+    {
+      "type": "Theme",
+      "name": "numérisation",
+      "id": "Theme_50905116b58d71fb611a012a8f989a8547a38622832cfa8ac5a6f5aa23f431c0"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie du futur",
+      "id": "Theme_a3a3528ddc0a78535e557c751f6d4dc76886c7eca2cc892992387ba5a4ad1605"
+    },
+    {
+      "type": "Theme",
+      "name": "bien-être au travail",
+      "id": "Theme_e3798b519aa8ee2f5aec6c0c84c0c1a03c1f06333844213978215b2a6b65cd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "rémunérations",
+      "id": "Theme_d4d6a50f17f7c7dd80b20f410741c07e96d72ef67bbfd359a523a326005009cc"
+    },
+    {
+      "type": "Theme",
+      "name": "délocalisations",
+      "id": "Theme_a4082a04bd3441a96f0a0389e84886e0226b6c15b4eb2e03d392cc506b956c43"
+    },
+    {
+      "type": "Theme",
+      "name": "bilan carbone",
+      "id": "Theme_93f5b07306de2ac78def6eedc8b0658f56ed1abe13ced9978e04d92980861ce9"
+    },
+    {
+      "type": "City",
+      "name": "Béziers",
+      "id": "City_95b9c63f06153740665ca5f040d2d753c8c97fe102e3e2af27d6fda3238bf275"
+    },
+    {
+      "type": "Theme",
+      "name": "diversification",
+      "id": "Theme_8d8f304823b7b2419ba7155aa164a07d1b7191781b634006cf9dfbbc3e8d038c"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène",
+      "id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "type": "Theme",
+      "name": "pétrole",
+      "id": "Theme_3260ac0f04251087e1b398b0d2bf276cec225dfc5f0db44e9872e55badaa7627"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz",
+      "id": "Theme_23c772ec8e48db56d58d61be20b92c8c3f24d744a200ab1b8ff2005eef4b1e48"
+    },
+    {
+      "type": "Theme",
+      "name": "émissions",
+      "id": "Theme_09730bbfc9d41b4c62e15ec5dd2926c6cc32776390e00a6abbac2b63dfe4c313"
+    },
+    {
+      "type": "Theme",
+      "name": "consommations",
+      "id": "Theme_d7fdc14390915b03d421d9024e7e91fd09b74242d86059fe6774e985ad661380"
+    },
+    {
+      "type": "Theme",
+      "name": "modèles",
+      "id": "Theme_510ced59476c8834e273255f37eb5af8830042795b0bc831e9eda596c099f7f0"
+    },
+    {
+      "type": "Theme",
+      "name": "pratiques",
+      "id": "Theme_c3857ba79dae4b42ad9461609a3df9db818b5183ba80f7819e18f2e51585718f"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation de nos économies",
+      "id": "Theme_a4ae991959b2098edfad52fc26baf4677272ad705f4d6d849e36aa6c2835a24f"
+    },
+    {
+      "type": "Theme",
+      "name": "bataille pour le climat",
+      "id": "Theme_aced4a703796b78244258919fac8dbaa02811ccf8a215b5777d9aa03045c061e"
+    },
+    {
+      "type": "Organization",
+      "name": "CEA",
+      "id": "Organization_56bee4e69d140d03f96302b407e9a57182af007e69e3a0511d3d22f4e01718b0"
+    },
+    {
+      "type": "Organization",
+      "name": "Liten",
+      "id": "Organization_3e77194a18052701852fa9b78e5a7c9940ade121032e65ad633b41fc3f94e2ec"
+    },
+    {
+      "type": "Organization",
+      "name": "Vicat",
+      "id": "Organization_a46f535f4602a99c851d658a71feb70e1ab69d2044738332021de95476ac0a30"
+    },
+    {
+      "type": "Organization",
+      "name": "Vinci",
+      "id": "Organization_59add23885ccd9fae1212da484452ebc9e750001fe39e5d5c9d907806f45db20"
+    },
+    {
+      "type": "Organization",
+      "name": "région",
+      "id": "Organization_63f7a47a75715c9c27edcabe3ee93e2bac09d0c6b542f047f7c253738775aafd"
+    },
+    {
+      "type": "Organization",
+      "name": "Genvia",
+      "id": "Organization_0f2e5dc80484a522d124ed90a615c845696a5d3bcdd0b9c18995129fca044b47"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté énergétique",
+      "id": "Theme_29ddd5b819c0e29a592ce29a3a3806309c1234137a4e94a8f653f8b273860b3a"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Organization",
+      "name": "grands projets européens",
+      "id": "Organization_edd1019d243d4f0140fd94be31a2b8e2891977bdff6e9eb85d37d103e27afe8a"
+    },
+    {
+      "type": "Person",
+      "name": "MERKEL",
+      "id": "Person_11ad4e67ef3a2e4b330ebc39970509630c2fce5702d04790e6328b02bf6b451d"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations",
+      "id": "Theme_3957cb051014b00717e7b2ec655cbcfa47c99687835fe48f9d3a8fbe1cedaead"
+    },
+    {
+      "type": "Theme",
+      "name": "Genvia",
+      "id": "Theme_dea9ccfb3f644079f9ce535be7f8e17be013ceea685206dc3f088a1ff1089a2d"
+    },
+    {
+      "type": "Theme",
+      "name": "cimenteries",
+      "id": "Theme_f8790c770ea79454c3d07f85a85327242f41d4e7850c603183bab53dd0cad107"
+    },
+    {
+      "type": "Theme",
+      "name": "acieries",
+      "id": "Theme_176cdb9d83fab02c5e77910cfc17223686330552948e99ee10727c96766e8df8"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie française",
+      "id": "Theme_927e5cd0692971e13078e2b6cbc97c9ea4f4587131d84f0bf3453e559f8eb8f0"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "débouchés",
+      "id": "Theme_42034dcb936d6775d05651b298c7b962743066df615f84b9a3ec9c26225795b2"
+    },
+    {
+      "type": "Theme",
+      "name": "difficultés",
+      "id": "Theme_226532f438cde63f47e643da8611130719f5ea2c4e92e7b9231e918ca90b560d"
+    },
+    {
+      "type": "Theme",
+      "name": "nostalgie",
+      "id": "Theme_b4fa46c4992c30da74d47ea7c24c540859dea25e24de387648b2c4636b77405b"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités à résister",
+      "id": "Theme_a753110a2085436d80c3f1973008d1f55089e610bfef709eb369e745b9d3874d"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie historique",
+      "id": "Theme_3b8cbde9acaadfafe46c32abb67bc17d3428bf9e88f0a35a71b469bd9dff48cd"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie décarbonée",
+      "id": "Theme_706fd8e92aca5c16ccc00d7791ebe98f8e9611eb7a8af8071b22c5c4b015c11d"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialisation",
+      "id": "Theme_ac8bdfb33c3783eee726437d1158d9c6c216120e43edc6178969ee44f5098ca1"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "2030",
+      "id": "Theme_54765031e438bbff9047b04e0246a4cfc7e54b9baa658ea0b9465ca4259e3874"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "industrie",
+      "evidence": "la France de 2030 est une France industrielle",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "2030",
+      "evidence": "vive cette France de 2030 qu'on va tous bâtir ensemble",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_54765031e438bbff9047b04e0246a4cfc7e54b9baa658ea0b9465ca4259e3874"
+    }
+  ]
+}

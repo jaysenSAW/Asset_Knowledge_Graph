@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Jens",
+      "id": "Person_47d7f63ac16729524919ee60f275dc79b1a89a53cabca2535b8de4535d3c3ac7"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "Country",
+      "name": "Pologne",
+      "id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Law",
+      "name": "article 5",
+      "id": "Law_d7cafa4523c2b3562550284f0934f8b6ff6cffc635a5f9b2b179d1d3f939f9e3"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Law",
+      "name": "projet de loi de programmation militaire",
+      "id": "Law_446095b20843b00392e44833c61900430091592fb27996b17ea241861fd0459d"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération entre l'Union européenne et l'OTAN",
+      "id": "Theme_38eaeab9a9d8194e3e5d15dda3c0e60da7fc416dc9bff3778805a134782c6f6a"
+    },
+    {
+      "type": "Theme",
+      "name": "défense européenne plus forte et plus opérationnelle",
+      "id": "Theme_d74b617929a6e8b89418c0bc194513365dd663ed30f6bb151a426fe77fb619c4"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Vilnius",
+      "id": "City_4e31025aac6a09a787ffe3e48bac21044552e674fc0799e939b7354f427334c6"
+    },
+    {
+      "type": "Country",
+      "name": "Finlande",
+      "id": "Country_07de2e54c1d716feb24d42a643c5de89dc1f04a79da8dcb0fd46d71f88bd7006"
+    },
+    {
+      "type": "Country",
+      "name": "Suède",
+      "id": "Country_f0680f074258c0cbb263830557969af01c50840b9cdfd249ff5c18418896a4ff"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "OTAN",
+      "relation": "SPOKE_ABOUT",
+      "target": "guerre",
+      "evidence": "le rôle de l'OTAN est plus important que jamais. Et depuis le 24 février 2022, notre Alliance a su répondre avec unité et détermination, mais aussi avec responsabilité, au défi sans précédent que constitue le retour de la guerre à grande échelle sur le continent européen.",
+      "confidence": 1.0,
+      "source_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0",
+      "target_id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "source": "OTAN",
+      "relation": "ALLIED_WITH",
+      "target": "Ukraine",
+      "evidence": "l'OTAN joue aussi un rôle dans la solidarité directe avec l'Ukraine",
+      "confidence": 1.0,
+      "source_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "Finlande",
+      "relation": "LOCATED_IN",
+      "target": "OTAN",
+      "evidence": "L'adhésion de la Finlande à l'OTAN, il y a quelques semaines, a constitué un geste fort.",
+      "confidence": 1.0,
+      "source_id": "Country_07de2e54c1d716feb24d42a643c5de89dc1f04a79da8dcb0fd46d71f88bd7006",
+      "target_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "source": "Suède",
+      "relation": "VISITED",
+      "target": "Vilnius",
+      "evidence": "Il faut maintenant aller au bout de cette logique et permettre à la Suède de participer au Sommet de Vilnius en tant qu'allié de plein droit.",
+      "confidence": 1.0,
+      "source_id": "Country_f0680f074258c0cbb263830557969af01c50840b9cdfd249ff5c18418896a4ff",
+      "target_id": "City_4e31025aac6a09a787ffe3e48bac21044552e674fc0799e939b7354f427334c6"
+    }
+  ]
+}

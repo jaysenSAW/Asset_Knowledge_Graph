@@ -1,0 +1,744 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "City",
+      "name": "Évian",
+      "id": "City_40ee17ba3fe5cb7b00ec5510c998566aeb30ae5ea098f0c56d98a735161243c8"
+    },
+    {
+      "type": "City",
+      "name": "Tchernobyl",
+      "id": "City_b36e1663dde450fb5e32df95206d250fb58981582224c7886125ef77003ec8a1"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Event",
+      "name": "Conseil européen",
+      "id": "Event_f6b4f74a61ab568661381726f0f0d902d89dd9d9b5451a72f8c23ec06d82641f"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien militaire",
+      "id": "Theme_d328a39e1018f55d2da3c4572b28f37e9acd1dc0a1869e06fbffc7c9c76d7a78"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien pour financer ses infrastructures énergétiques",
+      "id": "Theme_19a380c258c23c4a1235309f6d71ac1bb96093c075fed58012e6f7a69e3c71e9"
+    },
+    {
+      "type": "Country",
+      "name": "G7",
+      "id": "Country_3a57d6ce1fcb257d37e1d5fac6fddc0ecbfaf9dd5cc5af8d09a9ebd30cdddfba"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition des volontaires",
+      "id": "Organization_be8486f9bba8dc1fc697606320fe234154a7b494b8fa4602ca7bd091c7e5b389"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien",
+      "id": "Theme_4dfac92dac64c205c1c0e703283d4ba045cb9535e4f0c0a54df8ba969e6e1575"
+    },
+    {
+      "type": "Theme",
+      "name": "sanctions",
+      "id": "Theme_cc609b67ce79c18e469b868785645e8ac15295942ba88c097a9620d856801064"
+    },
+    {
+      "type": "Theme",
+      "name": "pétrole russe",
+      "id": "Theme_a4eb17961cffee7e322e07af9851a69cdd8fa11a879f52b9896dde97df0b89d5"
+    },
+    {
+      "type": "Theme",
+      "name": "système bancaire russe",
+      "id": "Theme_c53d438b05e7644824810a60d11322edd346d3a8769d3947979b3de1d13e39ce"
+    },
+    {
+      "type": "Theme",
+      "name": "cryptomonnaies",
+      "id": "Theme_57187efa526b1470c9e46842813ac35d301efdaacc8ea95430e20410c182f09b"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur pétrolier et gazier",
+      "id": "Theme_c43dbbf8971fcfe5d218b1895d5592edde411fcbfcb975a5d4670d2dc92ffd59"
+    },
+    {
+      "type": "Theme",
+      "name": "garanties de sécurité",
+      "id": "Theme_7bdfd126e8debbc3b7c10c0a450c7d9f06fc8b7120f6e255de0267c0d40dde5a"
+    },
+    {
+      "type": "Theme",
+      "name": "défilé du 14 juillet",
+      "id": "Theme_f4468c12141f566c9c4867505f36be3fad916998d3c31db861bb5695f3a306c9"
+    },
+    {
+      "type": "Country",
+      "name": "Moldavie",
+      "id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    },
+    {
+      "type": "Country",
+      "name": "Hongrie",
+      "id": "Country_bda46faa77361ae198107f51212ef1953770a2e61d32ec39881204c04aa0bda3"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Person",
+      "name": "Président Aoun",
+      "id": "Person_63adce48a7cd7b3fb247b36d96f6e75cc45fa2e8f53d2405f3bd69edfb05f1d7"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre Salam",
+      "id": "Person_f05464328941ac2dc569c4b4ac8f4e0495b5d388bab06b164b77275e677c054e"
+    },
+    {
+      "type": "Organization",
+      "name": "Hezbollah",
+      "id": "Organization_1137024572239876ce26766f0e5ec1545d4d54b61723309fb15845fec7db138f"
+    },
+    {
+      "type": "Person",
+      "name": "Nawaf Salam",
+      "id": "Person_386ff35f76751ead7008cb05736b0460f1a16c297c0bd94e78a75111a458232f"
+    },
+    {
+      "type": "City",
+      "name": "Washington",
+      "id": "City_ee7e345909a6fe1df02cbeb0ed489e719cbdc04c7a27e2818d861e092cc9ad8a"
+    },
+    {
+      "type": "City",
+      "name": "Gaza",
+      "id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "type": "Country",
+      "name": "Palestinien",
+      "id": "Country_5d10854d50c12bc956e0c6cbf169ceaed8b012a981dbc2a274a704d105ab52f8"
+    },
+    {
+      "type": "City",
+      "name": "Cisjordanie",
+      "id": "City_a17376981a921ea3ab82c84f82a930de089c4803fa9584b37d351add80f6226d"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Theme",
+      "name": "déséquilibres macroéconomiques mondiaux",
+      "id": "Theme_1495a590d68d81743c55c8706d81da4ef5376ca2cd038b95c2c346f305519e6d"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Organization",
+      "name": "G7+",
+      "id": "Organization_b6b12d4c7b1ab6de5eb3c8252a67905dc105538a7f25610223e83605d43b8664"
+    },
+    {
+      "type": "Organization",
+      "name": "Sommet des Convergences",
+      "id": "Organization_bf70c45c142be9892800c4f10704ffd6ee364478ebd50fb887b8672cec1958f4"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Theme",
+      "name": "marché intérieur",
+      "id": "Theme_c44bbad3dca61902793ac2c6190f1651fe98af69bf97ea5c2b27f13cca57a9ee"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence européenne",
+      "id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements directs étrangers",
+      "id": "Theme_ca009ec15fbc80ef11e0d6062821a43f33e6b4dc54042bdcac53e580687942b7"
+    },
+    {
+      "type": "Theme",
+      "name": "transfert de technologie",
+      "id": "Theme_ce6571bf0e0dea5ad1c5e88819bafb77e32ee2579098f28b218286ee66c666a2"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi local",
+      "id": "Theme_c71c9691bec61ed2148d3fc74246ed30c2af16964182ec48925a339ba8e51ee0"
+    },
+    {
+      "type": "Theme",
+      "name": "clauses de sauvegarde",
+      "id": "Theme_433683fe52d9db5e682d740c0efe1a41b92ea78c4181056df6ecdbc877b32ea0"
+    },
+    {
+      "type": "Theme",
+      "name": "minerais critiques",
+      "id": "Theme_7822f8c3b7c1ad98203ab63130200d1395257ac7c8b4080482ed9cfdc764e32b"
+    },
+    {
+      "type": "Theme",
+      "name": "terres rares",
+      "id": "Theme_f7252f0b63c5dbd962be628be26728a4d12c2de743c24a064bdebad009d3acdf"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "L'Industrial Accelerator Act",
+      "id": "Organization_5a423cedac307e51404d0dc77b36e0d228433174e3345e8f6dacde5bfbb41068"
+    },
+    {
+      "type": "Theme",
+      "name": "Politique agricole commune",
+      "id": "Theme_1796b813e5674c322f458d3ac2c8fc1be8b4bd91d83b6c1ca5b3aed930fc94bd"
+    },
+    {
+      "type": "Theme",
+      "name": "Politique de pêche",
+      "id": "Theme_6687c1eaeb03e83acd1393eb2853f77d191199d6b9810b897a74c6b6b62fbc4f"
+    },
+    {
+      "type": "Theme",
+      "name": "Régions ultrapériphériques",
+      "id": "Theme_36891e170b51adb37b19267e056bee90112260bf2fa5e2e257ddcbe2df68c76c"
+    },
+    {
+      "type": "Theme",
+      "name": "Politique de cohésion",
+      "id": "Theme_89b0d99ed1540ee3f346ab2c9df399fb08bf154ee9c4a93cc2a69c8b19ba6d3e"
+    },
+    {
+      "type": "Theme",
+      "name": "Défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "Politique spatiale",
+      "id": "Theme_66f43fa8d979208cd2ec684d60c5909d24db0aa7a5751dcbcd936620c905262b"
+    },
+    {
+      "type": "Theme",
+      "name": "Intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "Quantique",
+      "id": "Theme_a55a5e9c04e9e49c2efc55c9c97fdcdd3149041e81aa26bd45766547b9155e23"
+    },
+    {
+      "type": "Theme",
+      "name": "Cleantech",
+      "id": "Theme_7e4555c770c5add65538e58fb33dc02851d57ec5dd2c3d86847134930bdbaa7e"
+    },
+    {
+      "type": "Theme",
+      "name": "Fonds de modernisation et de compétitivité",
+      "id": "Theme_122e8b917128ca17c47341b03e71a8042a28f150f1d458fe7e0dee2ce1faaa7d"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité technologique",
+      "id": "Theme_2caf709da1cf237be763602bb0b801db683269a54ce0a1ec396bd377b70485af"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence européenne en matière de défense",
+      "id": "Theme_0e1cdc61e0dd15f6b88aa314a5abf5d6302cd3fcc2c449e1db7c7dc64dde441c"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance",
+      "id": "Theme_b922336e378de1f3bd3c36e9805efd63ad949f8fbff73adbfc2b3826e811ee6a"
+    },
+    {
+      "type": "Theme",
+      "name": "aide au développement",
+      "id": "Theme_70d6aeee0edaab1f21c9619864acb57aab63321464dba5f677772d1eb216174c"
+    },
+    {
+      "type": "Theme",
+      "name": "l'Europe globale",
+      "id": "Theme_f58224744aaaed4af550fdf57ca5ab5c5d8e18cb39f7c91b121312511a6034dd"
+    },
+    {
+      "type": "Theme",
+      "name": "influence",
+      "id": "Theme_f6af551a31b56868882b33600c300c77855f4eafef61a2cd66842fef393394ae"
+    },
+    {
+      "type": "Theme",
+      "name": "poids de l'Europe",
+      "id": "Theme_03019ae4b9a7804878f3cb9acecafe3606ce3471472b7da6c2a4456dd1001097"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariats",
+      "id": "Theme_84487f85920a01eef370c99e7050da97326069387eeb01a99526c8b0243acd8d"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement solidaire",
+      "id": "Theme_2db1c5dbb25bfec75f4406420449b496431a493bd97a1b490762086fe5c8df27"
+    },
+    {
+      "type": "Theme",
+      "name": "nos intérêts",
+      "id": "Theme_a4caf9e25b1b3e0f3983a3526cdc8047b9a908229ac9b249d9e7b04fa6f637a1"
+    },
+    {
+      "type": "Theme",
+      "name": "pays du Sud",
+      "id": "Theme_6bd85efae3a60fcab7c0947416fadae36f2b09dc2709ec3d592e9aa0c7bf4d69"
+    },
+    {
+      "type": "Theme",
+      "name": "budget",
+      "id": "Theme_476c75e33f21fc15bc5588b5d07c657897da27f908716f5af56abf04963f337c"
+    },
+    {
+      "type": "Theme",
+      "name": "Conseil",
+      "id": "Theme_81aa16871c0d85a3533f966a96dc0994a389b9570880a856c32c14f4bb0d9f72"
+    },
+    {
+      "type": "Theme",
+      "name": "G7",
+      "id": "Theme_5d5bdda89574ffe78851fbd8543321a62368b619cb111bfb9edbf65985d0ff6f"
+    },
+    {
+      "type": "Theme",
+      "name": "Évian",
+      "id": "Theme_96e3a9ea6239be5a7b768b0a6b2a10108fce0ec7c8686e8d6752dac3bde9ff06"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Antonio Costa",
+      "id": "Person_50451546c4da938966f31d0b6c634f4152ddb370c543fcf802eeebee3ccaa804"
+    },
+    {
+      "type": "Country",
+      "name": "Moscou",
+      "id": "Country_46b7b4fc67d6c45bf600a73e204ed0f2c69fcc6810f53a7089a69d299c56fd56"
+    },
+    {
+      "type": "Person",
+      "name": "Costa",
+      "id": "Person_68dcba371cd6267ac05c84a151554b45aa0722a97620721c40e299adbca35c65"
+    },
+    {
+      "type": "Person",
+      "name": "Zelensky",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "Organization",
+      "name": "E3",
+      "id": "Organization_d0ce557ccd6c847290d5a6e761d3594b7b50fc8c2258430e5b3efd12b575bf21"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "États membres",
+      "id": "Country_454c710321513a03401dc403e939fc29614c251ebb3d57f24bb638c90c7a0244"
+    },
+    {
+      "type": "Country",
+      "name": "Londres",
+      "id": "Country_b2d43d56b31fc4dd95d9c3250ed4d3dca08b02b147bcab2388f5d29afeaf8f28"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Person",
+      "name": "mon collègue",
+      "id": "Person_57f326ed4bd71169cb586fa2a55bcbc4e7871b7d2fa90366cf2501b1ba3ba4a0"
+    },
+    {
+      "type": "Person",
+      "name": "Mette Frederiksen",
+      "id": "Person_e4a38a0e24b33538b0dccfefb754a76015f8365fa1ce332803fafd762c82cb23"
+    },
+    {
+      "type": "Person",
+      "name": "Giorgia Meloni",
+      "id": "Person_70d5dafcab54bfa9306ffb1d3ac2416798aabf27392e74da254032bf91571f0e"
+    },
+    {
+      "type": "Person",
+      "name": "Merz",
+      "id": "Person_bdf9e290bbe0ced58f1f4e93ef8247f29d615616f9afe3d0aead130d7bf136ae"
+    },
+    {
+      "type": "Person",
+      "name": "Modi",
+      "id": "Person_481b6129ab0b3e65f2e8451c0fea7e5dd3a351033e473c269d91ed94ea23bf0d"
+    },
+    {
+      "type": "Person",
+      "name": "Salam",
+      "id": "Person_ef47f5ca5df46399a64fe6e3baedc47f0d5f32e5b5363bcae86b03090476d6e7"
+    },
+    {
+      "type": "City",
+      "name": "Rome",
+      "id": "City_bc9eafd579b1837ab888536a3c2bb01c9f6f51d22c498c57a5e42451046bc036"
+    },
+    {
+      "type": "City",
+      "name": "Copenhague",
+      "id": "City_c7da4651f31ca9dcb99419128050bf9354276e92d9d3eb544b2bf5acb2fdad4e"
+    },
+    {
+      "type": "Theme",
+      "name": "politique migratoire",
+      "id": "Theme_5a857bcad9f9ab25aa75a9014fece28c9636c7609c618464d59c33a360a77096"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration illégale",
+      "id": "Theme_c5cd078fa0f1ea1fd30498ed7b15d726ec99038ad9baa48a38eb410d226ad042"
+    },
+    {
+      "type": "Theme",
+      "name": "asile",
+      "id": "Theme_cd88f89a51614f7b8addc880c2aac7c86f554a1aa7bc17024cc6a92883621591"
+    },
+    {
+      "type": "Theme",
+      "name": "titre régulier",
+      "id": "Theme_8321c01b81b988ac972cd0531be23335ced1ac7f4e4a071a13c13e12a36759aa"
+    },
+    {
+      "type": "Theme",
+      "name": "bon sens",
+      "id": "Theme_3010dabbb7ca32889afcb152f8dd104eafd17ef99ca0364c91745830357a60f9"
+    },
+    {
+      "type": "Theme",
+      "name": "droit",
+      "id": "Theme_809b6d16ebe657005418287171a0ff40ba1f2fc184046e82a8dbc6d9366cc1a9"
+    },
+    {
+      "type": "Organization",
+      "name": "pacte asile-migration",
+      "id": "Organization_356779a8f5e3a32d10645c54c0289ab39c766996887af6c09bc5b7650e236bbc"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte",
+      "id": "Theme_08510afdf50053fa9af48009d3326ffa3ca70e4a355802c742667dc8276fcc6f"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "centres de retour dans les pays tiers",
+      "id": "Theme_4c14e79132d36e7daeeaf7765b31a1b48f891cd432c4335da64b9a24ebd2cdf6"
+    },
+    {
+      "type": "Theme",
+      "name": "politique de retour",
+      "id": "Theme_f311fab75e9c0acb8b1fdd5e99bb7bd9ff6ef3683744c7180917ba29a997c0a9"
+    },
+    {
+      "type": "Country",
+      "name": "pays tiers",
+      "id": "Country_91a4c2bfff238342083211a19ef2a69b89a0fa46eac8435f8adaab6758e89ad6"
+    },
+    {
+      "type": "Country",
+      "name": "troisième pays",
+      "id": "Country_601f4df6ba1af9232f55675e7cf3653f78df1ec083c0f8ebc55fa9f4bd00d7b7"
+    },
+    {
+      "type": "Theme",
+      "name": "politique européenne",
+      "id": "Theme_13bbfcde794705fd8dea9ec73d7f355b52346ff8ae8289adec3fbe6f10d08d64"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques nationales",
+      "id": "Theme_585f858c40cf17bbc5fba119b7eba79c5277f1565e9fd2c565f2b3d84de355c9"
+    },
+    {
+      "type": "Theme",
+      "name": "budget européen",
+      "id": "Theme_ba89fe804b44fac665c8218116b5630df4874d48197d8153a49579ea0a1a0590"
+    },
+    {
+      "type": "Theme",
+      "name": "budget pour la politique internationale de l'Europe",
+      "id": "Theme_24038a6141039dde526c3711174eb7fdcfebe532fc0f75ec6587b8f1e92bca28"
+    },
+    {
+      "type": "Theme",
+      "name": "centres de retour",
+      "id": "Theme_bdac2a75a575da49fecb500deae1f14a7a1410677b3ae49eea215c66b08236ab"
+    },
+    {
+      "type": "Theme",
+      "name": "continent africain",
+      "id": "Theme_cd50f2dfb8b772e54766a8d2a1e28b1fef22d8a1923ca6fc69578353430c7987"
+    },
+    {
+      "type": "Theme",
+      "name": "traite des êtres humains",
+      "id": "Theme_4f85ee7bba25ef5ba163247678e2ad6363a1cee70bf8221b6ac878609f564e54"
+    },
+    {
+      "type": "Organization",
+      "name": "niveau européen et national",
+      "id": "Organization_21cafab71f3fd2cdf6f68103335be3d62aefe8a2455e3930a1217f3bd6275f99"
+    },
+    {
+      "type": "Organization",
+      "name": "les 27",
+      "id": "Organization_75388c992c7da19bcd1300002616719d7793be2b045fac18c95653391fcccbc8"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre belge",
+      "id": "Person_634c76f10c330c030dfa89706d5ffa0d84a66fb7cb7f476df0fa5fa646b0d2a6"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence déloyale",
+      "id": "Theme_6f8aaf83503a1261119bf6adc4b9e04626d7f50d15b570c55e9df4f409b2f3fb"
+    },
+    {
+      "type": "Theme",
+      "name": "secteurs touchés",
+      "id": "Theme_2cbd97ed4098760e77420c202c0d688ab5f48c6fe05291368e6615258a403dc0"
+    },
+    {
+      "type": "City",
+      "name": "Amiens",
+      "id": "City_50d7edfea5352d1c2108d0e10ba4a285b0b793521bb528b9194a13254a40c572"
+    },
+    {
+      "type": "Organization",
+      "name": "Eurolysine",
+      "id": "Organization_8de065fab506dc437bcee75513bea5a66c5945bc4ad422deac888de6d1806b81"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté alimentaire",
+      "id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "type": "Organization",
+      "name": "nos acteurs européens",
+      "id": "Organization_8f763a06e48572ee1ea9b99e73c66aeab1d2e3879cdd88306c9bf1bd1d870c14"
+    },
+    {
+      "type": "Organization",
+      "name": "nos partenaires",
+      "id": "Organization_92f46688650eb6e6612d5555db91d7fd7afd39ce87b0ead417138d47ad1fb71d"
+    },
+    {
+      "type": "Organization",
+      "name": "l'OCDE",
+      "id": "Organization_483ecbc2332fee816a9071a17d4f825ae8adec1d34fb0b11db0091552520afcf"
+    },
+    {
+      "type": "Organization",
+      "name": "la Chine",
+      "id": "Organization_56bbc2d6a5889f56ee397b7c412076dcfc27f5d8199ff86a33e069291c0b0af0"
+    },
+    {
+      "type": "Theme",
+      "name": "l'innovation technologique",
+      "id": "Theme_cbdd4c0531d8943fd0b97ddefd15bee97d9f2cac4ea7573c859d3841a19340a4"
+    },
+    {
+      "type": "Theme",
+      "name": "green tech",
+      "id": "Theme_78395c098ff74cee0c3e57eb40ff54235114694b9864bc570c0ba128a1eea570"
+    },
+    {
+      "type": "Theme",
+      "name": "la robotique",
+      "id": "Theme_48abce3b19745aac58e51189d4cecefe643cb261060682d411477f7eec0968b9"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Conseil européen",
+      "relation": "ALLIED_WITH",
+      "target": "G7",
+      "evidence": "Ce Conseil européen s'est tenu à l'issue du G7 d'Évian et a permis de poursuivre la dynamique enclenchée sur beaucoup de sujets lors de ce G7",
+      "confidence": 1.0,
+      "source_id": "Event_f6b4f74a61ab568661381726f0f0d902d89dd9d9b5451a72f8c23ec06d82641f",
+      "target_id": "Theme_5d5bdda89574ffe78851fbd8543321a62368b619cb111bfb9edbf65985d0ff6f"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SUPPORTS",
+      "target": "Liban",
+      "evidence": "L'Union européenne mobilisera ses instruments pour renforcer l'État libanais et ses forces armées et de sécurité.",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "source": "Sommet des Convergences",
+      "relation": "LOCATED_IN",
+      "target": "Chine",
+      "evidence": "avec le sommet que nous avions tenu sur ce qu'on appelle le Sommet des Convergences avec l'Inde et la Chine",
+      "confidence": 1.0,
+      "source_id": "Organization_bf70c45c142be9892800c4f10704ffd6ee364478ebd50fb887b8672cec1958f4",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "Antonio Costa",
+      "relation": "VISITED",
+      "target": "Moscou",
+      "evidence": "l'initiative prise par Antonio Costa pour essayer d'établir un canal de communication diplomatique avec Moscou",
+      "confidence": 1.0,
+      "source_id": "Person_50451546c4da938966f31d0b6c634f4152ddb370c543fcf802eeebee3ccaa804",
+      "target_id": "Country_46b7b4fc67d6c45bf600a73e204ed0f2c69fcc6810f53a7089a69d299c56fd56"
+    },
+    {
+      "source": "nos acteurs européens",
+      "relation": "ALLIED_WITH",
+      "target": "nos partenaires",
+      "evidence": "Je pense qu'il y a maintenant un alignement beaucoup plus fort qu'il y a quelques mois de nos acteurs européens, de l'ensemble de nos partenaires.",
+      "confidence": 1.0,
+      "source_id": "Organization_8f763a06e48572ee1ea9b99e73c66aeab1d2e3879cdd88306c9bf1bd1d870c14",
+      "target_id": "Organization_92f46688650eb6e6612d5555db91d7fd7afd39ce87b0ead417138d47ad1fb71d"
+    },
+    {
+      "source": "la Chine",
+      "relation": "SUPPORTS",
+      "target": "green tech",
+      "evidence": "la Chine a réussi à aller très vite et très fort sur de l'innovation. Quand on parle des green tech, quand on parle de la robotique, ils ont aussi des solutions industrielles qui sont pertinentes.",
+      "confidence": 1.0,
+      "source_id": "Organization_56bbc2d6a5889f56ee397b7c412076dcfc27f5d8199ff86a33e069291c0b0af0",
+      "target_id": "Theme_78395c098ff74cee0c3e57eb40ff54235114694b9864bc570c0ba128a1eea570"
+    },
+    {
+      "source": "la Chine",
+      "relation": "SUPPORTS",
+      "target": "la robotique",
+      "evidence": "la Chine a réussi à aller très vite et très fort sur de l'innovation. Quand on parle des green tech, quand on parle de la robotique, ils ont aussi des solutions industrielles qui sont pertinentes.",
+      "confidence": 1.0,
+      "source_id": "Organization_56bbc2d6a5889f56ee397b7c412076dcfc27f5d8199ff86a33e069291c0b0af0",
+      "target_id": "Theme_48abce3b19745aac58e51189d4cecefe643cb261060682d411477f7eec0968b9"
+    }
+  ]
+}

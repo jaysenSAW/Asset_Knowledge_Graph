@@ -1,0 +1,818 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "votre pays",
+      "id": "City_9def940b6e9967baa528d5af471c9c8bf480b6fe2b6da21702a39f8bcea286c3"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    },
+    {
+      "type": "Person",
+      "name": "Edi",
+      "id": "Person_0e4977eebf7bdb525a578c690c1c02156f54b1a8f349adf420ce80d519bab7e5"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Caucase",
+      "id": "Country_4018e15b3168f991126becaf94ee54ba1321b69c156fe1792ad6a368048a8081"
+    },
+    {
+      "type": "Person",
+      "name": "Ismail KADARE",
+      "id": "Person_2fcdc8c4806480373dd8132abd02eb269910a3ded1e8010880ef072092234663"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Angelin PRELJOCAJ",
+      "id": "Person_ae04bdb125faff27394e5b40f0b26e6ca6c25dcc71f78e38d7298cea110695b5"
+    },
+    {
+      "type": "Person",
+      "name": "Tedi PAPAVRAMI",
+      "id": "Person_c75395c47a6d65af278216a8c1c84cc8eb57576ea6829b278159ba9698bab701"
+    },
+    {
+      "type": "Organization",
+      "name": "KubFrance",
+      "id": "Organization_382786af4b305ff782ed11d55304e90673554aae09b61fb92f476ff844a46e0b"
+    },
+    {
+      "type": "Organization",
+      "name": "Villa 31",
+      "id": "Organization_78cbd84c94b9467801747c8634c6c07b9bafbfd7777b66cf26b5e5b6d1c53727"
+    },
+    {
+      "type": "Organization",
+      "name": "Art Explora",
+      "id": "Organization_c0103811449c53a4276ae8f04983f38361369c07d235ae47ba942e653423e35c"
+    },
+    {
+      "type": "Theme",
+      "name": "langue française",
+      "id": "Theme_dbd6263c7cca8332912699118bf4ad9eba7ae111caa7c2ce2b316a49ebe74a53"
+    },
+    {
+      "type": "City",
+      "name": "Korça",
+      "id": "City_edfa62dbbb7a80f972afd778983651fb19042e8fbdf48393835da7dcb68b60a9"
+    },
+    {
+      "type": "Organization",
+      "name": "lycée français de Korça",
+      "id": "Organization_63781c044be080cf4a14890e39c927cbc2b3a81b15da16bf1afdfb1ad6136910"
+    },
+    {
+      "type": "Organization",
+      "name": "MEDEF",
+      "id": "Organization_e773fd3926a09640d954acd859b36176e0b98a6274c6a39e749c06e47f3e27f7"
+    },
+    {
+      "type": "Organization",
+      "name": "Voltalia",
+      "id": "Organization_b70d2709b67a73b221d6d43272003c3067895ac9b2e4e1fc71920c5c7cd36509"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelables",
+      "id": "Theme_0bbded11273c52e8b7ad2cbd745e7eda3e1c008ae94878c7f43611bbb4ef07af"
+    },
+    {
+      "type": "Theme",
+      "name": "photovoltaïque",
+      "id": "Theme_3fa6f6028d8eea192c17d89e1ea7540a12ac336e4082ee64c0d227e4d78abda7"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructures",
+      "id": "Theme_d711aaaa56cea790c01e9aeb41b7659ac488b2a837642df3eed8eeb83ff64968"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur de l'eau",
+      "id": "Theme_15dd5c4863a6856fb90522ef6be3b370375c3c6c4cda3da07be762e6e24207a2"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "logistique",
+      "id": "Theme_b0840907ce02d2e2070f928f1de591cf6bed0600fe265dc6a5a7612bc61203ad"
+    },
+    {
+      "type": "Theme",
+      "name": "retail aéroportuaire",
+      "id": "Theme_a1c40d312cd3a0a2ccfcbf7f0473d769f52ab417a6802dbcce08106b43bb1c21"
+    },
+    {
+      "type": "Theme",
+      "name": "tourisme",
+      "id": "Theme_6230ab46b903a54cbd735ffcdd8016d5b3ccadaf12ae9993a40cfa32b83e758f"
+    },
+    {
+      "type": "Theme",
+      "name": "hôtellerie",
+      "id": "Theme_e580326cf083eaffe04ca2c9781ebe35f06034d56fee8c1e7fe584844755c702"
+    },
+    {
+      "type": "Theme",
+      "name": "restauration",
+      "id": "Theme_bf4153d0094d9a9380f243363e8bbd3facb007e9672e2af30ebb3c3e24533f61"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers d'avenir",
+      "id": "Theme_f81655e47b06c47e50434820276b815d5fa042c2efc18351cc741ebed18fceb5"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française de développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "Country",
+      "name": "Albanie",
+      "id": "Country_7933b01c103ab008a5a551143eb5ed6e123541a3cac366f8229076928099e05d"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "coopérations",
+      "id": "Theme_9512cf3da172b952837b9408fb4ce88c92426da6d0b7d6e0d17a6523f63e1c7b"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la criminalité",
+      "id": "Theme_770b2591d45ef54e1fb8f0434ce88842f82e94ef5f3efe63c664b1e85d888253"
+    },
+    {
+      "type": "City",
+      "name": "Méditerranée",
+      "id": "City_9d0a5741de9fafb94e045360dddcff5fd3320003f53cc0eee5bebfef6e12abe6"
+    },
+    {
+      "type": "Theme",
+      "name": "réunification",
+      "id": "Theme_d9456d22f908c0c1f0e96b65664cd234d0884a76cabbefe45d0bef1628aa490a"
+    },
+    {
+      "type": "Theme",
+      "name": "visibilité historique",
+      "id": "Theme_4223cde2d58ecded279947f60dec5137324c13ec9b3e2ee42f598eb0523c0811"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "respect",
+      "id": "Theme_ac89a2ba2c01ff8586290c38c942ec556eba7b60d9e927ada700bd5e1155d3cc"
+    },
+    {
+      "type": "Theme",
+      "name": "chemin",
+      "id": "Theme_869e7ed5e48afca5e738e8f138b381ed86ec5a3e7972fe10073a162641afbf09"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement politique",
+      "id": "Theme_2eef50f5dac376cb2547a582e865cfc6c27bcabd46338fdc7c96a18b1cbf78d9"
+    },
+    {
+      "type": "Theme",
+      "name": "Communauté politique européenne",
+      "id": "Theme_228aa2e1c7e167168b4c6c53c6978db4345a393ed3d2bac1b9a84297703407e8"
+    },
+    {
+      "type": "Theme",
+      "name": "réunion entre pairs",
+      "id": "Theme_8cc94adccf6bceefc74e56259abcb1333961b8fcff0b20e787c763c2818f4043"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "questions migratoires",
+      "id": "Theme_227f7442bb10b66242980c965bd0413fd0bcac01e606995dcecd8006dc6b1f4a"
+    },
+    {
+      "type": "Theme",
+      "name": "géopolitique",
+      "id": "Theme_c3c610b50522db7d266b422a266b556f7825401c0d3b51ae9196e65d10f33b65"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Europe",
+      "id": "Organization_6fa6f500ef51880fb674d0a54de528cbcdf4ce0a1f0ccc716cb080bb6788383c"
+    },
+    {
+      "type": "Organization",
+      "name": "Communauté politique européenne",
+      "id": "Organization_8a93842f693c1a3a5724e43329bd7d4583ba6c51064f8c7015cbafc24a94d4f2"
+    },
+    {
+      "type": "Country",
+      "name": "Belgrade",
+      "id": "Country_1a45fa6dd815fb77625840924e73e87d79291f63b4bc6a6591ad5a785ff4dd41"
+    },
+    {
+      "type": "Country",
+      "name": "Pristina",
+      "id": "Country_eb40551e618109e025b4c6674d3879cf163649952625b2208b516b5dd7a6a567"
+    },
+    {
+      "type": "Organization",
+      "name": "franco-allemande",
+      "id": "Organization_79c18a087ca669d7678f7b8340131d5cd9d6907d42134774d597ba9e391d9115"
+    },
+    {
+      "type": "Person",
+      "name": "Milan KUNDERA",
+      "id": "Person_3fbf71a5e67cae176d78f2ad785b4700ee3175180fb4d67322c0ca124be52f49"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Person",
+      "name": "Mia SHEM",
+      "id": "Person_71087e4eaabbd2453f43d9c5ee8d7392209b2783c1c42ef6c73e4dba13650687"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Joe BIDEN",
+      "id": "Person_888e3389493b5aa1ca903fa6f66fc1f303d75e4ee8c75fec78b58be333024263"
+    },
+    {
+      "type": "Person",
+      "name": "Olaf SCHOLZ",
+      "id": "Person_7cf2dcc30d3aa074ce7408ccfda92d570e9ebc66f3f3a2c14ad98461cf11902b"
+    },
+    {
+      "type": "Organization",
+      "name": "Hamas",
+      "id": "Organization_5b6d0f92f49aab219651139d5508991f2fc27fd6b9372da1329d20e55cce795d"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "Egypte",
+      "id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "type": "Organization",
+      "name": "puissances amies intermédiaires",
+      "id": "Organization_d790aae9d3a614ba9ebb2a49a68609558405b53ed61f3e780cf1519b2c490a2a"
+    },
+    {
+      "type": "Person",
+      "name": "Mia SCHEM",
+      "id": "Person_2f18521077219a6fe3d588bf0a5a54355b33bf4fe62b6d7b5033b30af590e0d7"
+    },
+    {
+      "type": "Person",
+      "name": "NETANYAHOU",
+      "id": "Person_10290dd51360a183c4debabd7e7bb9631331999cf3ab11f6abd77db7899ee67d"
+    },
+    {
+      "type": "Person",
+      "name": "HERZOG",
+      "id": "Person_8d4ba6ef929a0d47503dea2395bc0af10a5aaec4303ff80ddc236ae05cab0ba4"
+    },
+    {
+      "type": "City",
+      "name": "Gaza",
+      "id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "type": "City",
+      "name": "Cisjordanie",
+      "id": "City_a17376981a921ea3ab82c84f82a930de089c4803fa9584b37d351add80f6226d"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Person",
+      "name": "la ministre des Affaires étrangères",
+      "id": "Person_616ff6061db4e57521e409dc07254f4f63af2929f23b75618c82f9b22eb104c0"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "City",
+      "name": "la région",
+      "id": "City_b8c70c7de82e1cce2d00ab50da05159a18594010ddd25471ad72c875e9386881"
+    },
+    {
+      "type": "City",
+      "name": "Israël",
+      "id": "City_521c01e8f730b2b49f9e134c9cc2dcbf2dff599e132d78f855234456e8a97078"
+    },
+    {
+      "type": "City",
+      "name": "les civils palestiniens",
+      "id": "City_a7a1a8bb5b3270fe937d2006b8c930eed51625dfea7b31c1c6fdd4cf2fc35c0a"
+    },
+    {
+      "type": "Person",
+      "name": "Israël",
+      "id": "Person_da1b344b861dc52c0822ace077277a90824044b50869e65dce4d6dd6295fb868"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Country",
+      "name": "Balkans occidentaux",
+      "id": "Country_3312664190f53ae194c056f4d8b70cad1750c96de278aff51862dceeb579d7fc"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Organization",
+      "name": "processus",
+      "id": "Organization_847c496aca4fd99e94164971fb9a86deb87148d5aed3dd6943a0884698a93924"
+    },
+    {
+      "type": "Theme",
+      "name": "processus bureaucratique",
+      "id": "Theme_ace53f8119ca1b0cc5b8ceae8e5878d648154503a34311c22e2c58e83b339a58"
+    },
+    {
+      "type": "Theme",
+      "name": "négociations",
+      "id": "Theme_4d064003cc5b671abd28afd991a250ae1ec2105087df838ea8c47f7d0e4ed9f2"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation",
+      "id": "Theme_20f02849c6d3fef1e0f7fdcc6fcd9d5a1930a7b08f24aabfc14521d8b9ed907d"
+    },
+    {
+      "type": "Country",
+      "name": "Serbie",
+      "id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "fonctionnement",
+      "id": "Theme_7f370661547ee95b03a266ab666609bc594f252791f3d964d22653276ad258ef"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "défis",
+      "id": "Theme_5a6aef98f24c26e747d7ee3628cc4cefe7a02e552336681ab6dcd972be5b12a5"
+    },
+    {
+      "type": "Country",
+      "name": "Votre pays",
+      "id": "Country_06dc06b265c95053586e76dcb9e0e30ac7604207c3bc9aa5047a890c506106d1"
+    },
+    {
+      "type": "Person",
+      "name": "Votre Premier ministre",
+      "id": "Person_d15f00b282f4c70215fd98f3bf4dc0b848245c188f8e0f7084af1d3d1da706eb"
+    },
+    {
+      "type": "Theme",
+      "name": "hégémonie",
+      "id": "Theme_57c11ef80057a84fd995626118ac010a2970c0b0b8280613a50e626e0862ae48"
+    },
+    {
+      "type": "Theme",
+      "name": "majorité qualifiée",
+      "id": "Theme_6d511dee25fe0cc3f06154bf0bde571dceaf1e56fcd04bf36b81d403fc04e8af"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilités",
+      "id": "Theme_0c8b0cae3c88823ec6c009ff69f50304d7a21a2e1dfd3f1af86073b2ad007fec"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibre",
+      "id": "Theme_ede0979eeee4eba930de1ebb03996586b198a6fc0509b20fb3e9a71e3c756919"
+    },
+    {
+      "type": "Theme",
+      "name": "référendum",
+      "id": "Theme_4a9f20d7b6af8f6b0d5ae6a3799b5ea2f2d92359d5af489792d864166bcaf9f8"
+    },
+    {
+      "type": "Theme",
+      "name": "procédure de vote",
+      "id": "Theme_aaadb41aa8bd00f0b23f38fd19d9620c8890f2c986eaf21dd2be642711ccebcf"
+    },
+    {
+      "type": "Theme",
+      "name": "peuple",
+      "id": "Theme_c53378f156a2733092f2b3a214527d24b8656ec789a413bc8f9fd4ab7b1c9aa3"
+    },
+    {
+      "type": "Theme",
+      "name": "projet de texte",
+      "id": "Theme_d724828cd4d39d28ed45478a59129de7b979d413fa5d42a959cacf6043e175b7"
+    },
+    {
+      "type": "Theme",
+      "name": "vote",
+      "id": "Theme_fcea7da66102d78c342e1a9374c6e441824749126b71cc14a3177e65caec9193"
+    },
+    {
+      "type": "Theme",
+      "name": "peuples",
+      "id": "Theme_7725a22b5d268760712641f810a68d6c63d2f59ee82760b7cbf3813687a49902"
+    },
+    {
+      "type": "Theme",
+      "name": "parlements",
+      "id": "Theme_9332077baa2bcbe7bd4b4d6f4b99ed13da5a23354a94b3fdbab25503dbda02ac"
+    },
+    {
+      "type": "Theme",
+      "name": "compétences",
+      "id": "Theme_f4baf676a1a91b846e556f812ea2e6452ecc1b7c2b3a87f971cd7e60c4b42995"
+    },
+    {
+      "type": "Theme",
+      "name": "choix",
+      "id": "Theme_fba9c019c28c5bd4199a73d217c0fec39d57dc54b1c1c1adef2bc99b5b5d3d2e"
+    },
+    {
+      "type": "Theme",
+      "name": "totalitarisme",
+      "id": "Theme_5a843b3d077b58e6ad3ed7b64e8c3d812857d43bb868908e1b4f14b255afb6e7"
+    },
+    {
+      "type": "Theme",
+      "name": "pays",
+      "id": "Theme_5836828ee3d8fa593516bc08496d10257dac03542b9574bc9646bddf731326cb"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalismes",
+      "id": "Theme_5bc09b357e9048336acf562a1c13e99ce13a8cd47bea5f28ac07e5c0c083d433"
+    },
+    {
+      "type": "Theme",
+      "name": "idée anti-européenne",
+      "id": "Theme_2cfea3e48e6081832a268ea4b2587435161a5848cd3f602d84b1ea4c4f170639"
+    },
+    {
+      "type": "City",
+      "name": "Arras",
+      "id": "City_b2de634a4c930a5511efcd3bc204b55515912abe986bda6f48a28dd5fa1c7781"
+    },
+    {
+      "type": "City",
+      "name": "Bruxelles",
+      "id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme islamiste",
+      "id": "Theme_a9eaf0302d5db7c86ac3be0f721cdf7888fc1e055956fd5acf13cfc9bdc4c7b2"
+    },
+    {
+      "type": "Country",
+      "name": "Belgique",
+      "id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés",
+      "id": "Theme_2460d11dd8890d0086c346c7c4f9479cbb7c560ab3409a92f103572ef8fa5209"
+    },
+    {
+      "type": "Theme",
+      "name": "état d'urgence",
+      "id": "Theme_8a1b20d0a7e22c6834602eec7167a59ca5408106918f9595871b33263eb2760e"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité intérieure",
+      "id": "Theme_56c5273d2bfceb725815b5a9a8050ceef3cfdc60410a030f361785ff50aeec5e"
+    },
+    {
+      "type": "Theme",
+      "name": "renseignement",
+      "id": "Theme_1bd572f1ca13b8479be85804edd66328f5597f364182396425372029ab896b3f"
+    },
+    {
+      "type": "Theme",
+      "name": "police",
+      "id": "Theme_12c2d29e54b756a603b2987454e32b3847ddd0eed1640468737a75b4da16ec3b"
+    },
+    {
+      "type": "Theme",
+      "name": "gendarmerie",
+      "id": "Theme_acbe0a46242dbb8e6fcb35613e154ff0d629e48da9ccd0540c1b0bfcb6f0bc79"
+    },
+    {
+      "type": "Organization",
+      "name": "CNDA",
+      "id": "Organization_dee7cdc160caa8d9bc3e530a2b58a119f6b2544de2f051c06ba9b08cbd43f000"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de l'Intérieur",
+      "id": "Organization_9ee800613fe4ef77794905dc31745b48ecfcc7ba142a75ef23ebaa037aa7e671"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération des pays pour le retour",
+      "id": "Theme_eeac469ee041578848a90deb4263be4a2890ff2ab739b7b8710985aa8fae3fea"
+    },
+    {
+      "type": "Theme",
+      "name": "suivi des services",
+      "id": "Theme_74660b9f58865887ff4be2887c24c87ece5cf68742f2255360026c58d921072b"
+    },
+    {
+      "type": "Theme",
+      "name": "incarcération",
+      "id": "Theme_e9187b5f93f5451f99baeb5dcf89430450522bfbe58bd1b569fdde9bb4d45d80"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération des pays d'origine",
+      "id": "Theme_d4610aaa93b4449515aa4b209d62a3e00be72c30bd81107c0054815f5b58589b"
+    },
+    {
+      "type": "Theme",
+      "name": "État de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Theme",
+      "name": "Société de vigilance",
+      "id": "Theme_4969c7f525d19d3aff3ccd5298045e3b28ed6bc99aacad2f564381b3eb429947"
+    },
+    {
+      "type": "Theme",
+      "name": "Risque terroriste",
+      "id": "Theme_7059f5264ab16f7c76aade222cfce6df7a5bbcc2955bd7f00339afa3b1c0253e"
+    },
+    {
+      "type": "Theme",
+      "name": "Augmentation du risque",
+      "id": "Theme_67f3790f8e60adacdbeff3629cd46400161f1bb2bd6e4ab34466ba7e9851aceb"
+    },
+    {
+      "type": "Theme",
+      "name": "Contexte international",
+      "id": "Theme_7d704a930bf0e56bc705382bfef0539719ef1c9df3123554534b82c9ba7e1d30"
+    },
+    {
+      "type": "Organization",
+      "name": "services de l'État",
+      "id": "Organization_0e4c3b002b7e0b947f150ac5ade5255303027617ed7e319cef90365be1d32acb"
+    },
+    {
+      "type": "Organization",
+      "name": "forces de sécurité",
+      "id": "Organization_bac4c65a59e0724666cb06774644a7136bb6224407866f4be5e01e3d3ba08743"
+    },
+    {
+      "type": "Organization",
+      "name": "policiers",
+      "id": "Organization_29f7b170b9b51ef4b73ad455c2d7b7b464617edcef8e00b495abd08bee51658c"
+    },
+    {
+      "type": "Organization",
+      "name": "magistrats",
+      "id": "Organization_0cc1af25a3da5555c9015b01d29a875ec88c0cc90db61c48f6ae8949cf028116"
+    },
+    {
+      "type": "Organization",
+      "name": "secteur économique",
+      "id": "Organization_afcb705ea4f2907bf2c77287b16f7b2f0dbf77a65b8d3efdb5c528510a2f0ff6"
+    },
+    {
+      "type": "Country",
+      "name": "États",
+      "id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "type": "Person",
+      "name": "VUCIC",
+      "id": "Person_6f3c3da24ac559af74538fad6aa368a5e718fc1b25dd27e44a1abfaffacc0749"
+    },
+    {
+      "type": "Person",
+      "name": "Président VUCIC",
+      "id": "Person_1b4ebcbf9c3d339c475088b973fa855356e6f6807b6187e2c44ec6a742ec9c1f"
+    },
+    {
+      "type": "City",
+      "name": "Pristina",
+      "id": "City_a55be0d1518a81b172353c28701607a8a6221005064ee710da8c4311f3df1e25"
+    },
+    {
+      "type": "City",
+      "name": "Belgrade",
+      "id": "City_92b9ceb94a7e1fc33accbfa5e6a0329ab6f9fab473fe6e0d112dfbcec76dfbee"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Person",
+      "name": "Présidente",
+      "id": "Person_e7114032cb4e034e59385925dc9528250fc45013f7a472cd52c034b91a0b4763"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre kosovar",
+      "id": "Person_334312d21523327bc5cb7b16e2689d9f4e4023efdadbaab5844020b9011a4717"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Je le dis depuis la France, cette réunification européenne est bonne pour nous.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "Europe",
+      "relation": "SUPPORTS",
+      "target": "l'Europe",
+      "evidence": "Parce que qui peut parler d'Europe puissance si nous laissons au milieu de l'Europe des pays être influencés, bousculés par des puissances qui veulent simplement le démantèlement de l'Europe ?",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Organization_6fa6f500ef51880fb674d0a54de528cbcdf4ce0a1f0ccc716cb080bb6788383c"
+    },
+    {
+      "source": "Belgrade",
+      "relation": "ALLIED_WITH",
+      "target": "Pristina",
+      "evidence": "celles que nous connaissons entre Belgrade et Pristina",
+      "confidence": 1.0,
+      "source_id": "City_92b9ceb94a7e1fc33accbfa5e6a0329ab6f9fab473fe6e0d112dfbcec76dfbee",
+      "target_id": "City_a55be0d1518a81b172353c28701607a8a6221005064ee710da8c4311f3df1e25"
+    },
+    {
+      "source": "Joe BIDEN",
+      "relation": "VISITED",
+      "target": "Israël",
+      "evidence": "Deuxièmement, plusieurs de vos homologues dont Joe BIDEN et Olaf SCHOLZ se rendent ces jours-ci en Israël et dans la région.",
+      "confidence": 1.0,
+      "source_id": "Person_888e3389493b5aa1ca903fa6f66fc1f303d75e4ee8c75fec78b58be333024263",
+      "target_id": "Person_da1b344b861dc52c0822ace077277a90824044b50869e65dce4d6dd6295fb868"
+    },
+    {
+      "source": "Olaf SCHOLZ",
+      "relation": "VISITED",
+      "target": "Israël",
+      "evidence": "Deuxièmement, plusieurs de vos homologues dont Joe BIDEN et Olaf SCHOLZ se rendent ces jours-ci en Israël et dans la région.",
+      "confidence": 1.0,
+      "source_id": "Person_7cf2dcc30d3aa074ce7408ccfda92d570e9ebc66f3f3a2c14ad98461cf11902b",
+      "target_id": "Person_da1b344b861dc52c0822ace077277a90824044b50869e65dce4d6dd6295fb868"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "hégémonie",
+      "evidence": "C'est que l'Europe s'est toujours perdue en guerre civile parce que c'était une histoire d'hégémonie.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_57c11ef80057a84fd995626118ac010a2970c0b0b8280613a50e626e0862ae48"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la France, depuis 2015, a un contrôle des frontières que nous n'avons jamais cessé",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Pristina",
+      "relation": "ALLIED_WITH",
+      "target": "Belgrade",
+      "evidence": "la tension qui existe entre Pristina et Belgrade",
+      "confidence": 1.0,
+      "source_id": "City_a55be0d1518a81b172353c28701607a8a6221005064ee710da8c4311f3df1e25",
+      "target_id": "City_92b9ceb94a7e1fc33accbfa5e6a0329ab6f9fab473fe6e0d112dfbcec76dfbee"
+    }
+  ]
+}

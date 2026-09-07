@@ -1,0 +1,828 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Maire de Marseille",
+      "id": "Person_d29086988bbe5683782675955f90280ab136789e3af819d4b7c2d34c9149287e"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente du Conseil Départemental",
+      "id": "Person_9cc61b7b2edca3a2cf3bbdf961e2add113659f0bae7c3fb6041e0f13c27a0106"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Recteur",
+      "id": "Person_05ddaec311bcc96be0ae33c8262a0610c085cc3bb6e6e5d09a97fe499ff9f606"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les Officiers Généraux",
+      "id": "Person_f9a002e5d7901854c8248fc6e46d314419343c0a5dfcafd83dd45fa5712a5928"
+    },
+    {
+      "type": "Person",
+      "name": "Madame l'ambassadrice",
+      "id": "Person_783c16ac4383b349a3f46b496464b07a42e68af0a7f102a08c0670a6b1e248c5"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président du Consistoire",
+      "id": "Person_021a096a2c195f38a24f389907dc3333df35329d790c431335188446cc88c9fb"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président du CRIF",
+      "id": "Person_8d43db1cbd52204c7dc34019225193e51524d2fc98bf0e9047b5a20d86908ab1"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président de la Fondation du Camp des Milles, Cher Alain",
+      "id": "Person_9c2fc7ec3989278ebb810806632a87ef4aad42538eb289d112bf1387745c4374"
+    },
+    {
+      "type": "Person",
+      "name": "Madame et Monsieur Klarsfeld, cher Serge et chère Béate",
+      "id": "Person_954f85244519c60630a8ecca269120990fec2d83a33bd3f3983fabe2881edc02"
+    },
+    {
+      "type": "Person",
+      "name": "Alain",
+      "id": "Person_399af3dd294076a9dbeacb0f2341bc007dd4342a12e7ee0425737473a4fc7cc8"
+    },
+    {
+      "type": "Person",
+      "name": "Sidney Chouraqui",
+      "id": "Person_a3cb1cbcea416f8f14f2b7e6c8a111961e6eb9cadf820c498045b2166010628c"
+    },
+    {
+      "type": "Person",
+      "name": "Louis Monguilan",
+      "id": "Person_831d905a0027a4fc317123854fc88af07183b12ab11f011eda6948d6c39567ed"
+    },
+    {
+      "type": "Person",
+      "name": "Denise Toros-Marter",
+      "id": "Person_05cbce9b73c1574875e5674ecc37cb1e613d77883c5705561fa9406a9f623c52"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation du Camp des Milles",
+      "id": "Organization_49ffc13b5f02f9423d200e646c7050bccabc5d33d8e97a90276149383bdc9a6b"
+    },
+    {
+      "type": "Theme",
+      "name": "sauver le camp des Milles de l'oubli",
+      "id": "Theme_7236f6516cad35a5717b13ef9d23064589c4b93c0ff64bd88a0f7f98336c962a"
+    },
+    {
+      "type": "Theme",
+      "name": "refus de voir",
+      "id": "Theme_9ca7ea3949e615068bf74aacad5fb73f5690fbdd4288e7badde997663d60a3d1"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil scientifique",
+      "id": "Organization_bb7166051308524b7f9df86417dca8cdf7e141b5c9b04b2b427fb0735a75fd7c"
+    },
+    {
+      "type": "Organization",
+      "name": "mémorial",
+      "id": "Organization_c6a89d40e042093e2cc8bbbe135228f5aaa411457937822fd5c27cba6d181c1b"
+    },
+    {
+      "type": "Theme",
+      "name": "combat",
+      "id": "Theme_6a8d504484dd15522148bbbe392e2fc6fb3a26c237b2b89a9d0126070440e62d"
+    },
+    {
+      "type": "Theme",
+      "name": "membres actuels et passés du Conseil scientifique",
+      "id": "Theme_8c2aa2e5afc8cf0c46445747ff8ddea9f3516efe17981be79956e15ef88b4a63"
+    },
+    {
+      "type": "Theme",
+      "name": "équipe",
+      "id": "Theme_acf94ea658c106dd392e858fcc0f8eb35cc425dd6be8c367d32dc196b38a669d"
+    },
+    {
+      "type": "Theme",
+      "name": "bénévoles",
+      "id": "Theme_abd70e80c12517c02131b590b999d6d594b6664d02fa29721fd8878f052f9823"
+    },
+    {
+      "type": "Person",
+      "name": "Alain Chouraqui",
+      "id": "Person_8b6c7b36315e32df82623f108f4ae94ee80436ab26ba499eebc1bd25c8b422f9"
+    },
+    {
+      "type": "Person",
+      "name": "Simone Veil",
+      "id": "Person_4da84d085d0414be46d06181049192bfa187ee57577e2d7a7fe5104add18936e"
+    },
+    {
+      "type": "Person",
+      "name": "Serge Klarsfeld",
+      "id": "Person_9c4ede04a6aa88820aa9280aa590f667cb9c607131b20df03cad14e566293688"
+    },
+    {
+      "type": "Theme",
+      "name": "persévérance",
+      "id": "Theme_9a0c4f30d5cf12c1a62a4fd9de0424db0424250ee8f41825205e35ab83a3ca6e"
+    },
+    {
+      "type": "Theme",
+      "name": "espace d'effroi",
+      "id": "Theme_8607af9d7892104a53849caa8da269b919ad96f74502a9a216552cb66c2f81bb"
+    },
+    {
+      "type": "Theme",
+      "name": "destruction de la Salle des peintures murales",
+      "id": "Theme_c8282d8496b3e42c7dc38860824b380642850430950dfd9022bf1add922fef5f"
+    },
+    {
+      "type": "Theme",
+      "name": "pose d'une stèle commémorative",
+      "id": "Theme_9460bee9c6ccd8d8c802a926fb04ff2005fdf0b6577ff0e8dc43a222a826e516"
+    },
+    {
+      "type": "Theme",
+      "name": "inauguration d'un chemin des déportés",
+      "id": "Theme_cb4ca48d23e994097ed7072a7ec4d03f68e964ba59b3198f0683d14bd52d0b01"
+    },
+    {
+      "type": "Theme",
+      "name": "combat civique",
+      "id": "Theme_68679761f2da0ad7e05421d969cac3c449110f7f6f951dc0159c9f8a1b1058c8"
+    },
+    {
+      "type": "Theme",
+      "name": "approfondissement scientifique",
+      "id": "Theme_86adfe58b25f41f4cb6613b658332b0d9d6e71522d8804be04f66a8a46c2a0ec"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "City",
+      "name": "le camp des Milles",
+      "id": "City_a1d079fb584cfaa3904ac3721c91130058984510b0834f0660445c0db00ea9e0"
+    },
+    {
+      "type": "Theme",
+      "name": "la haine antisémite",
+      "id": "Theme_7129f95413eda756a815603305957b23d5a59057f255e9d9e920bd7189d2b350"
+    },
+    {
+      "type": "Theme",
+      "name": "l'affaire Dreyfus",
+      "id": "Theme_01d95f96b3eefd0770f7781f6cf1b088b5d994ebbb1813dcc41db5f43ec0b2e9"
+    },
+    {
+      "type": "Theme",
+      "name": "la lente érosion de l'esprit républicain",
+      "id": "Theme_042e0f02768b05265892282e0ec48ea92bd0f7e1a06afb8ec4b4f1bb4a9e393c"
+    },
+    {
+      "type": "Theme",
+      "name": "l'enseignement",
+      "id": "Theme_1c83bf7a3f532d5eb3a9b652260ff72a6d0e6958790b20a0bbffcc131c36afe8"
+    },
+    {
+      "type": "Theme",
+      "name": "la tragédie",
+      "id": "Theme_618b3558dc9ac18c5e707afa0d0aa94dfd6f9e009803ade5753fcc5097179fa6"
+    },
+    {
+      "type": "Theme",
+      "name": "les errements des derniers gouvernements de la République",
+      "id": "Theme_c619df7c93c8a61afb39013b673c1d66706e1de40f4428670478acd2771aeca6"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Organization",
+      "name": "camp des Milles",
+      "id": "Organization_8373a334842029d38c383d146e524260f04a21b99edc48b0d02c9b8910c788eb"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial",
+      "id": "Organization_48efbe1c55bde37d157aab1b68e48c4afae50c83425df2a53641485a38040dd1"
+    },
+    {
+      "type": "Organization",
+      "name": "Brigades internationales d'Espagne",
+      "id": "Organization_5e86bbab75ce93a808a72be0c62e41203506d4f13db5edee312dca8b30f2a85d"
+    },
+    {
+      "type": "Organization",
+      "name": "Reich",
+      "id": "Organization_20d61d5dbe6da3fb08d57da149e28d0f13e5d75d5d2e211ac12604ebf399c4ac"
+    },
+    {
+      "type": "Person",
+      "name": "Max Ernst",
+      "id": "Person_4dd24eee770e170d4c514264330472d44692babad8fdfd9c4b7596f4e6b0fb5b"
+    },
+    {
+      "type": "Person",
+      "name": "maréchal Pétain",
+      "id": "Person_93b7a4ea24ce76b500fcb9bff65262a7c49048b63eec2e615b3da8392575d1d8"
+    },
+    {
+      "type": "Law",
+      "name": "clause 19 de l'armistice",
+      "id": "Law_6a3eda3697ca881e57083aad4055eb2524956cfef7b404726012eaa0baaab455"
+    },
+    {
+      "type": "Event",
+      "name": "débâcle",
+      "id": "Event_02e49e261bb849a0e15f4a1a5ecc70a24a09ab44e26b26a304127114d5899f10"
+    },
+    {
+      "type": "Event",
+      "name": "compromission",
+      "id": "Event_c842661649afb9a9f803760cdb4213ac45857409613df3e37270662c6edd0ecb"
+    },
+    {
+      "type": "Event",
+      "name": "armistice signé par le maréchal Pétain",
+      "id": "Event_2fb2bcc3ec660e78d449dd87dce963905832fbdc7498571887631b24558c1464"
+    },
+    {
+      "type": "Theme",
+      "name": "opposants politiques",
+      "id": "Theme_de90cf116633705e5cadb4f67769ec21ee4c2bd6c343939e1b1d9f5f3d7f9e8f"
+    },
+    {
+      "type": "Theme",
+      "name": "républicains",
+      "id": "Theme_8d798ccf3fe54832fbffc4abb318eed48802760ccce2c798204bfdf060dfcdac"
+    },
+    {
+      "type": "Theme",
+      "name": "principes républicains",
+      "id": "Theme_64ce0883149764b05507283fe4e002fe7f7883404def81c9f743c48f4be6c668"
+    },
+    {
+      "type": "Theme",
+      "name": "étrangers",
+      "id": "Theme_fdb3e57ee18befe94e5388556461710e3dc38ce95cf39d58c949eca9b70f2dbd"
+    },
+    {
+      "type": "Theme",
+      "name": "droit",
+      "id": "Theme_809b6d16ebe657005418287171a0ff40ba1f2fc184046e82a8dbc6d9366cc1a9"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe en guerre",
+      "id": "Theme_7ab47cdb39e26c5829030ee1baa3e811dbe67c8ada7e657a2cd8e45140e9b076"
+    },
+    {
+      "type": "Theme",
+      "name": "vermine",
+      "id": "Theme_99e39f6bf548208977de410f09dd219fa04f7324c2c5a9a8f2d954d075c9c025"
+    },
+    {
+      "type": "Theme",
+      "name": "faim",
+      "id": "Theme_84d04b13566eb705d1c35eddd1bb563db6d7a3c3cb9e100281091d8f34dc65e2"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "City",
+      "name": "Struthof",
+      "id": "City_8e2e3bf0be97a6bef83a493a6601896e12b58728a23892822072ce66b698c022"
+    },
+    {
+      "type": "City",
+      "name": "Beaune la Rolande",
+      "id": "City_63b8dd6a96348f9d0788272b21b4d47e77411cd6669ddeb33297c30db4b7f194"
+    },
+    {
+      "type": "City",
+      "name": "Noé",
+      "id": "City_782c507c68db7bf9f103c3a5e1b6bcc86c701635342d640294e1f5799787d3b1"
+    },
+    {
+      "type": "City",
+      "name": "Pithiviers",
+      "id": "City_7e81c1014e82ae251939975b15bfce0c9e63038b6fe1ae51b8cf6383ec89d31c"
+    },
+    {
+      "type": "City",
+      "name": "Récébédou",
+      "id": "City_7e01e8d5c072084f6ea29c41801ff13d45eb7964010748fac29df3cd2eca3020"
+    },
+    {
+      "type": "City",
+      "name": "Rivesaltes",
+      "id": "City_b9243fd580f7f40bff35bd3da20aef086379fecccecaf164a444961b44288805"
+    },
+    {
+      "type": "City",
+      "name": "Drancy",
+      "id": "City_5de59825a6a240ecd5fa0298b3d5f696740522f73c36b75b2e9c979e71e57b65"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Union générale des Israélites de France",
+      "id": "Organization_5c7167a084bdc1ce9f7a1085b78464075b69c4f0c9ec7101e715da967be453dd"
+    },
+    {
+      "type": "Person",
+      "name": "Raymond Raoul Lambert",
+      "id": "Person_de4457a9bfaaa823761a289b11ca5b635620fd9a21460f09c7ac10f338066f07"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Person",
+      "name": "Pétain",
+      "id": "Person_01af716ddedd42b347ec6e5ce13b8435644469d603722e7ac57eda8e60e1fe1a"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre Laval",
+      "id": "Person_28e6687480793076a1b9cb2b4f3369739267bda2f9c1f9c377fea52b89af70a9"
+    },
+    {
+      "type": "City",
+      "name": "Milles",
+      "id": "City_594217e0270ac1c92dcc78072076f7f27cd5052d27cbc55dfeb3f826714697db"
+    },
+    {
+      "type": "City",
+      "name": "Bordeaux",
+      "id": "City_ec6760adfddeb4aa228eab33177f9fcda347d6fe13cd536c166f0da4cdf9d1ef"
+    },
+    {
+      "type": "City",
+      "name": "Compiègne",
+      "id": "City_49a561adfef77b76e74d86dd0bf2a6b4eaa1a5e75544be79a9bac7e8fe34cb71"
+    },
+    {
+      "type": "City",
+      "name": "Montoire",
+      "id": "City_f4eaf8f20903e8b83c1a26b9e39c08080d2d9270b3ca73b097e35d6ec23a7167"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémitisme",
+      "id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "type": "Theme",
+      "name": "république",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "droit d'asile",
+      "id": "Theme_a81084e788c48c89a0e2207025ddc0b45bb48104d0a4e55811c46fa436818ff4"
+    },
+    {
+      "type": "City",
+      "name": "Bayonne",
+      "id": "City_5f2dd15848ef206eb86145813e2d43060133d1931a5bddba11845988ad051b59"
+    },
+    {
+      "type": "Person",
+      "name": "Henri Manen",
+      "id": "Person_6a5b5091765c53c8add46b95b4cdbb0359feb8bfc4818355bdf31dfb955c0ab0"
+    },
+    {
+      "type": "Person",
+      "name": "Capitaine Goruchon",
+      "id": "Person_9627178643ed2bbd61881894bdf7d4dae564657f9c084cd856b2951a70c195b7"
+    },
+    {
+      "type": "Person",
+      "name": "Auguste Boyer",
+      "id": "Person_f6059d282b08c31930a4574b258b5cb67d2f038c5f0826fc0c1483120362b5df"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "vie",
+      "id": "Theme_fb2d820418e69ffa914d4afff6fb60ce64cc4635ad1e4afdc6bafc1ff3f71248"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "courage",
+      "id": "Theme_4eb0829b6b279fcb2a945b12114e4f8976954c7a7fcf9391f504d523ee63a88b"
+    },
+    {
+      "type": "Theme",
+      "name": "espoir",
+      "id": "Theme_15b08556ab7e3f525e36fa50726d1f343b990ff53d11dc75bcc38e329d23a485"
+    },
+    {
+      "type": "Theme",
+      "name": "mal",
+      "id": "Theme_8ed23608397d7caf38456b19c79b6a3370819420c167376e3f596dc4a31321ee"
+    },
+    {
+      "type": "Theme",
+      "name": "génocide des juifs",
+      "id": "Theme_b1074aacd8f9e9c71c808aa7b71a68dfbda9386efd105c7289bff6d723e78f25"
+    },
+    {
+      "type": "Theme",
+      "name": "génocide arménien",
+      "id": "Theme_64f489a77a237c3ffbb73445798ce816fc060f5d6295a869ffef30adcc95315e"
+    },
+    {
+      "type": "Theme",
+      "name": "génocide rwandais",
+      "id": "Theme_46301c174d93c8563e72a0adae5fa4846ef2b0e86de713954d942bdbc8238b1d"
+    },
+    {
+      "type": "Theme",
+      "name": "Shoah",
+      "id": "Theme_02306b8c83b38064c0db2c7e85a92e7907e1d8cad078ff92cd101059830bb40a"
+    },
+    {
+      "type": "Theme",
+      "name": "haine de l'autre",
+      "id": "Theme_a2c27dab899f8b90acb46ecf9acf164bb02c6fb25946783c33a0886578c30195"
+    },
+    {
+      "type": "Theme",
+      "name": "crimes de masse",
+      "id": "Theme_6660dfca8969a04d499af8c2dd137c33fab847ac8244182966c320573af4f784"
+    },
+    {
+      "type": "Theme",
+      "name": "racisme",
+      "id": "Theme_8ca275a05cedf5deee96a6c7b9825aa608c84ae00aa7af40d901092936df4d19"
+    },
+    {
+      "type": "Theme",
+      "name": "rejet",
+      "id": "Theme_4b662c82b95d2993cc046ca1d295b8698b7720ec7ebf65ae040d88d0ef6d37d7"
+    },
+    {
+      "type": "Theme",
+      "name": "haine",
+      "id": "Theme_1109211ae99f54d538f05e8b1e3badcdc61927baacdf16dc2f914c62e0db0430"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme",
+      "id": "Theme_d10bce3b67531a6774cd57104a434124f2a796f10cbfff22bb37dbeba66cb515"
+    },
+    {
+      "type": "Theme",
+      "name": "État de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Theme",
+      "name": "xénophobie",
+      "id": "Theme_b43f1caf2c3dd1290dbe9fac72c86b6431d223ef82b13bec7e7780312a4fa543"
+    },
+    {
+      "type": "Theme",
+      "name": "silence",
+      "id": "Theme_d8abd9a22fb4c4d3199f6408ca04cd0301506eb1e43b0db826c16d07c7331109"
+    },
+    {
+      "type": "Theme",
+      "name": "omissions",
+      "id": "Theme_b8710e8a1b530922f9d2a113c543e6cc5d55280974f001cd9d9f20b091e89175"
+    },
+    {
+      "type": "Theme",
+      "name": "compromissions",
+      "id": "Theme_451d75ca599ee8e25da4e57be20d56bee7ac6868972ef612319fde45e8b98740"
+    },
+    {
+      "type": "Theme",
+      "name": "juifs",
+      "id": "Theme_0fee041af25f7ea23fe780a448c8fb7f12248192e9d1fb4b8630caf0164e8aef"
+    },
+    {
+      "type": "Country",
+      "name": "République",
+      "id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad"
+    },
+    {
+      "type": "Person",
+      "name": "CNRS",
+      "id": "Person_5556b2f98198b5251615046ba9c427d7941a910f3fda0bcc23d3738c948889c6"
+    },
+    {
+      "type": "Person",
+      "name": "Milles",
+      "id": "Person_fa7197b02e7e050840c26b1327aec868408bce01413f24fc236ec96257d950bb"
+    },
+    {
+      "type": "Country",
+      "name": "Arménie",
+      "id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace"
+    },
+    {
+      "type": "Country",
+      "name": "Rwanda",
+      "id": "Country_a25a5ec05fe29e50db60bd3d8895a9d523027a5e3d736e345edbee00b92efec3"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyenneté",
+      "id": "Theme_299e26433fd038aaeb6d9c98e39f7323f3f780a7ec7bf9addad3444e3982be18"
+    },
+    {
+      "type": "Theme",
+      "name": "engrenage racialiste",
+      "id": "Theme_85882df9374f2d5134b363672ccd97a83d30cec2554303122ab9125ddc46b0fd"
+    },
+    {
+      "type": "Theme",
+      "name": "apaisement",
+      "id": "Theme_3e5bdf9c6d06b6f11fdaf5c3b986abee292480a6ec68c388d6eacf9f790ecb23"
+    },
+    {
+      "type": "Theme",
+      "name": "réconciliation",
+      "id": "Theme_8d5bbf9fa4c18c27128cf4e69eeb853866d5a0e8340a4579e43a6868a65b691b"
+    },
+    {
+      "type": "Theme",
+      "name": "devoir de courage",
+      "id": "Theme_57a574e21c119fe764e81d16896a80c56e37f7b43eaf4a8d4066b1ba13415f11"
+    },
+    {
+      "type": "Theme",
+      "name": "consciences",
+      "id": "Theme_a7afdcb1dab21a08340ad3e1cc4924e8f59be10ea8f81d45fec55c8c42aba066"
+    },
+    {
+      "type": "Theme",
+      "name": "mots inconnus ou incompris",
+      "id": "Theme_c56d544edd66521b4ad2d97a56d30caf690cac9e7e8b874d1cfb5fbcf6332ad9"
+    },
+    {
+      "type": "Theme",
+      "name": "préjugés",
+      "id": "Theme_dfff3cf1ab358b96c15c850d84f2095ce9cba918b638a4f236f8c2f96e84e1a3"
+    },
+    {
+      "type": "Theme",
+      "name": "impensés",
+      "id": "Theme_efcdccc96925547e735cdc6301fa9854cf1411f7687fd8cca887f8adca3cab69"
+    },
+    {
+      "type": "Theme",
+      "name": "mal dévoilé",
+      "id": "Theme_f33467e1384325b5de1af46693d3cf8a8aa4af24e42ef76a263c96cbdf5598d5"
+    },
+    {
+      "type": "Organization",
+      "name": "Unesco",
+      "id": "Organization_44cf334686fd664fecedb6944caa3782522449e029aa1a57346edd5f2ff5eebd"
+    },
+    {
+      "type": "Organization",
+      "name": "Musée national d'Auschwitz-Birkenau",
+      "id": "Organization_a569962f5d50d74894a24549a80861fef90d69189db634bf07bfe866bd894f76"
+    },
+    {
+      "type": "Organization",
+      "name": "centre du mémorial du génocide de Kigali",
+      "id": "Organization_43f0d6b41c976ea68540684c1b1f09ae23ad3644e68b985f9dd85d8a15c8364a"
+    },
+    {
+      "type": "Organization",
+      "name": "universités",
+      "id": "Organization_9c908f2fbc02e0f6edca991c6aae3071ec8d4d5b7124b77ca282a6c189e57117"
+    },
+    {
+      "type": "Organization",
+      "name": "institutions mémorielles",
+      "id": "Organization_15f6e3b25822a8779f4f87bc0519704e14e35870ef432969075b6f23551a992e"
+    },
+    {
+      "type": "Organization",
+      "name": "Mémorial éclaire les consciences",
+      "id": "Organization_7085ac7cc6f35f5ddf1ef44b09ab1268de83adc848562ac07f4375b73fe9fda5"
+    },
+    {
+      "type": "Theme",
+      "name": "engrenage des extrémismes",
+      "id": "Theme_8771ddf035dcb7fc7ee9e3632eb03ac931c6ed3788288613e62dadb18776158b"
+    },
+    {
+      "type": "Theme",
+      "name": "connaissance",
+      "id": "Theme_b95f8e0ec3586745d1662f7770a2df991c48ffdfaeec3bfb3d9087f8fe11f379"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement",
+      "id": "Theme_efc3dc97047baa5c3d3ee692ed991601fa0b8b2e5b98fe282efd49cfc58792e6"
+    },
+    {
+      "type": "Theme",
+      "name": "mémoire",
+      "id": "Theme_3c9e6d3a23e7c3fe0d187e98745e316e283ccf9f53618547ce1cecd4b8f46fb9"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyen",
+      "id": "Theme_3515b336f7eb21634ee1bfa63899ffcde84562f306c01ba3f97e7964f4af529c"
+    },
+    {
+      "type": "Law",
+      "name": "Légion d'Honneur",
+      "id": "Law_2dfb432db96aa9408b2cab623d58f57ecf8e0d74b0de7ebae09d007d12ec1d43"
+    },
+    {
+      "type": "Event",
+      "name": "Mémorial des Milles",
+      "id": "Event_7fb7fb04a2cafa1a3e2c0d179fdb4258edba8be3e0a1711775d51157d9cecc34"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Alain",
+      "relation": "MENTIONS",
+      "target": "Sidney Chouraqui",
+      "evidence": "Alain, 30 ans de combats inspirés par beaucoup d'aînés que nous avons célébrés aujourd'hui, il a fallu, vous l'avez rappelé, Alain, 30 ans de combats inspirés par beaucoup d'aînés que nous avons célébrés aujourd'hui : Sidney Chouraqui, Louis Monguilan, Denise Toros-Marter.",
+      "confidence": 1.0,
+      "source_id": "Person_399af3dd294076a9dbeacb0f2341bc007dd4342a12e7ee0425737473a4fc7cc8",
+      "target_id": "Person_a3cb1cbcea416f8f14f2b7e6c8a111961e6eb9cadf820c498045b2166010628c"
+    },
+    {
+      "source": "Alain",
+      "relation": "MENTIONS",
+      "target": "Louis Monguilan",
+      "evidence": "Alain, 30 ans de combats inspirés par beaucoup d'aînés que nous avons célébrés aujourd'hui, il a fallu, vous l'avez rappelé, Alain, 30 ans de combats inspirés par beaucoup d'aînés que nous avons célébrés aujourd'hui : Sidney Chouraqui, Louis Monguilan, Denise Toros-Marter.",
+      "confidence": 1.0,
+      "source_id": "Person_399af3dd294076a9dbeacb0f2341bc007dd4342a12e7ee0425737473a4fc7cc8",
+      "target_id": "Person_831d905a0027a4fc317123854fc88af07183b12ab11f011eda6948d6c39567ed"
+    },
+    {
+      "source": "Alain",
+      "relation": "MENTIONS",
+      "target": "Denise Toros-Marter",
+      "evidence": "Alain, 30 ans de combats inspirés par beaucoup d'aînés que nous avons célébrés aujourd'hui, il a fallu, vous l'avez rappelé, Alain, 30 ans de combats inspirés par beaucoup d'aînés que nous avons célébrés aujourd'hui : Sidney Chouraqui, Louis Monguilan, Denise Toros-Marter.",
+      "confidence": 1.0,
+      "source_id": "Person_399af3dd294076a9dbeacb0f2341bc007dd4342a12e7ee0425737473a4fc7cc8",
+      "target_id": "Person_05cbce9b73c1574875e5674ecc37cb1e613d77883c5705561fa9406a9f623c52"
+    },
+    {
+      "source": "Fondation du Camp des Milles",
+      "relation": "MEMBER_OF",
+      "target": "Alain",
+      "evidence": "Monsieur le Président de la Fondation du Camp des Milles, Cher Alain",
+      "confidence": 1.0,
+      "source_id": "Organization_49ffc13b5f02f9423d200e646c7050bccabc5d33d8e97a90276149383bdc9a6b",
+      "target_id": "Person_399af3dd294076a9dbeacb0f2341bc007dd4342a12e7ee0425737473a4fc7cc8"
+    },
+    {
+      "source": "Conseil scientifique",
+      "relation": "SPOKE_ABOUT",
+      "target": "membres actuels et passés du Conseil scientifique",
+      "evidence": "les membres actuels et passés du Conseil scientifique",
+      "confidence": 1.0,
+      "source_id": "Organization_bb7166051308524b7f9df86417dca8cdf7e141b5c9b04b2b427fb0735a75fd7c",
+      "target_id": "Theme_8c2aa2e5afc8cf0c46445747ff8ddea9f3516efe17981be79956e15ef88b4a63"
+    },
+    {
+      "source": "Alain Chouraqui",
+      "relation": "SPOKE_ABOUT",
+      "target": "espace d'effroi",
+      "evidence": "Celle de ces précurseurs, la vôtre, cher Alain Chouraqui, qui trouva en Simone Veil, en Serge Klarsfeld des alliés inlassables. Celle d'anciens résistants, d'anciens déportés, d'historiens, de citoyens, de femmes et d'hommes pour qui cet espace d'effroi ne pouvait pas disparaître, ne devait pas disparaître.",
+      "confidence": 1.0,
+      "source_id": "Person_8b6c7b36315e32df82623f108f4ae94ee80436ab26ba499eebc1bd25c8b422f9",
+      "target_id": "Theme_8607af9d7892104a53849caa8da269b919ad96f74502a9a216552cb66c2f81bb"
+    },
+    {
+      "source": "maréchal Pétain",
+      "relation": "PROPOSED",
+      "target": "clause 19 de l'armistice",
+      "evidence": "La clause 19 de l'armistice signé par le maréchal Pétain prévoyait la remise des ressortissants allemands aux autorités de leur pays",
+      "confidence": 1.0,
+      "source_id": "Person_93b7a4ea24ce76b500fcb9bff65262a7c49048b63eec2e615b3da8392575d1d8",
+      "target_id": "Law_6a3eda3697ca881e57083aad4055eb2524956cfef7b404726012eaa0baaab455"
+    },
+    {
+      "source": "maréchal Pétain",
+      "relation": "ANNOUNCED",
+      "target": "armistice signé par le maréchal Pétain",
+      "evidence": "La clause 19 de l'armistice signé par le maréchal Pétain prévoyait la remise des ressortissants allemands aux autorités de leur pays",
+      "confidence": 1.0,
+      "source_id": "Person_93b7a4ea24ce76b500fcb9bff65262a7c49048b63eec2e615b3da8392575d1d8",
+      "target_id": "Event_2fb2bcc3ec660e78d449dd87dce963905832fbdc7498571887631b24558c1464"
+    },
+    {
+      "source": "Union générale des Israélites de France",
+      "relation": "SPOKE_ABOUT",
+      "target": "France",
+      "evidence": "Le lundi 3 août 1942, à 9 h et demie, le camp des Milles fut bouclé. Des hommes juifs issus des groupes de travail étrangers de toute la région furent conduits au camp dans la soirée. Des femmes et des enfants des hôtels de Marseille furent aussi emmenés dans l'ancienne tuilerie. Le 10 août, cette journée terrible dont parle Raymond Raoul Lambert, directeur général de l'Union générale des Israélites de France",
+      "confidence": 1.0,
+      "source_id": "Organization_5c7167a084bdc1ce9f7a1085b78464075b69c4f0c9ec7101e715da967be453dd",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Cette France était exempte du joug des nazis.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Milles",
+      "relation": "LOCATED_IN",
+      "target": "Bayonne",
+      "evidence": "les internés du camp des Milles via un train pour Bayonne",
+      "confidence": 1.0,
+      "source_id": "Person_fa7197b02e7e050840c26b1327aec868408bce01413f24fc236ec96257d950bb",
+      "target_id": "City_5f2dd15848ef206eb86145813e2d43060133d1931a5bddba11845988ad051b59"
+    },
+    {
+      "source": "République",
+      "relation": "SUPPORTS",
+      "target": "Mémorial",
+      "evidence": "Ce combat, c'est celui de la République. Et ce que ce mémorial nous enseigne, c'est que cette République est un combat de chaque jour. Rien n'y est jamais acquis, rien.",
+      "confidence": 1.0,
+      "source_id": "Country_d623600dcdff98261edbe86e5a3e233bb94af806d9187659fe0de1cf2d6175ad",
+      "target_id": "Organization_c6a89d40e042093e2cc8bbbe135228f5aaa411457937822fd5c27cba6d181c1b"
+    },
+    {
+      "source": "Alain Chouraqui",
+      "relation": "PROPOSED",
+      "target": "Légion d'Honneur",
+      "evidence": "Monsieur Alain Chouraqui, au nom de la République française, nous vous faisons Chevalier de la Légion d'Honneur.",
+      "confidence": 1.0,
+      "source_id": "Person_8b6c7b36315e32df82623f108f4ae94ee80436ab26ba499eebc1bd25c8b422f9",
+      "target_id": "Law_2dfb432db96aa9408b2cab623d58f57ecf8e0d74b0de7ebae09d007d12ec1d43"
+    }
+  ]
+}

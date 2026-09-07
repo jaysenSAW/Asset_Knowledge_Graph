@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Haïti",
+      "id": "Country_26eb6b2804b8c516c8aba8f54ce10584b06e2fe603cba2ec2cfdfa5b73cb8a92"
+    },
+    {
+      "type": "Person",
+      "name": "Charles X",
+      "id": "Person_fc7a7f01b7b7a690d5f2a4b0e211d44e9a7678e1746d7686c4231f7274a09814"
+    },
+    {
+      "type": "Event",
+      "name": "1789",
+      "id": "Event_65d400faf96277055066f8be8128280666900a2481acdb977eb003c8460b1d44"
+    },
+    {
+      "type": "Event",
+      "name": "1804",
+      "id": "Event_96a886e16e2992cafc4798f1b6468308f4de6b27066bf82c8d4b1eba119fae01"
+    },
+    {
+      "type": "Event",
+      "name": "1814",
+      "id": "Event_a6378bfb5e8faae36bd1bed5046938e813481adedea0acfaf6907ddc1e473e75"
+    },
+    {
+      "type": "Event",
+      "name": "17 avril 1825",
+      "id": "Event_260b308adf44bc7d524a76f76fc536a5ab4ff0d03c955918a350561650770547"
+    },
+    {
+      "type": "Person",
+      "name": "M. Yves Saint-Geours",
+      "id": "Person_6d70bf23cfa4cbba49b7596c3802e1a942b08d8d7e99b7e61e3825582826583f"
+    },
+    {
+      "type": "Person",
+      "name": "Mme Gusti-Klara Gaillard Pourchet",
+      "id": "Person_a854ed6e831e4707dc9e0833f02c25d74e74dd9ef964ef437474f0ecded52f88"
+    },
+    {
+      "type": "Country",
+      "name": "Communauté des Caraïbes",
+      "id": "Country_65d932a247e85103525bf9ae73a26bd2ebccd30bc01e78f2be763c2a69e043c6"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Haïti",
+      "evidence": "Ce combat d'Haïti, en harmonie avec les idéaux de la Révolution française, aurait dû offrir à la France et Haïti l'opportunité de faire chemin commun.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_26eb6b2804b8c516c8aba8f54ce10584b06e2fe603cba2ec2cfdfa5b73cb8a92"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France est aux côtés d'Haïti face aux multiples défis du temps présent.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Haïti",
+      "evidence": "La France est aux côtés d'Haïti face aux multiples défis du temps présent.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_26eb6b2804b8c516c8aba8f54ce10584b06e2fe603cba2ec2cfdfa5b73cb8a92"
+    }
+  ]
+}

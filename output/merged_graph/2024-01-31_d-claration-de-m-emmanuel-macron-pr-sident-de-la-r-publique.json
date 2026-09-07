@@ -1,0 +1,629 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "votre Majesté",
+      "id": "Person_10b22c1e0e9370208c28fd1134da0dd5862c710b36f9190bee209e513ee2740c"
+    },
+    {
+      "type": "Organization",
+      "name": "Business Sweden",
+      "id": "Organization_50917a5842e33d650bce782e180686f33c6bbd1acf0452631fefc65f6e313a6f"
+    },
+    {
+      "type": "Person",
+      "name": "le Premier ministre",
+      "id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "production d'électricité",
+      "id": "Theme_3992744fbe1fd6e4e86afa5075c4dae2b3183af8fc18699a23311a86fba572fa"
+    },
+    {
+      "type": "Theme",
+      "name": "start-ups",
+      "id": "Theme_d831161ced9041982e9b5edca69bd4b82e9ec11620d32bd417c42fca3a00ef0d"
+    },
+    {
+      "type": "Theme",
+      "name": "émissions de CO2",
+      "id": "Theme_3ce10c110531f4f377f44c96d8cbe1cb4d701d3f340b44ddf77f942c9d16c9e4"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs de Paris",
+      "id": "Theme_bc91bd424a988567b5d5cd6eaa46dcfff1c5726c460ae302acc777ef0c0e1c90"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité de l'Europe",
+      "id": "Theme_a6a664b05567e50d0bb7edf72a402d06157c309c6fb9e924f6d8db75658a6cf3"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariat commun",
+      "id": "Theme_f0ccabcd3f476578824f724bdc39f2d6ab2f3deb3a06a6b895a35627c02eb17b"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "pro-entreprises",
+      "id": "Theme_4eb4aecad3db9005eadf7162fff4d4c63bc9624d9b0ed4fa8a0aa5b3155e64af"
+    },
+    {
+      "type": "Theme",
+      "name": "pro-affaires",
+      "id": "Theme_d9687473409e29c145253cb5aaf06d755fc40644290cb2eebecec08e6600ce85"
+    },
+    {
+      "type": "Theme",
+      "name": "limiter la fiscalité",
+      "id": "Theme_d540338613c18c27d3f79990aed2c649c49085a67f1591fc78a091f5858fa732"
+    },
+    {
+      "type": "Theme",
+      "name": "impôt fixe sur les gains de capitaux",
+      "id": "Theme_0d936a8561fae7e55f6f3f31dcf01747262f6b8fb4a64ad5a1eb22368538b49e"
+    },
+    {
+      "type": "Theme",
+      "name": "plafond fixé à 25%",
+      "id": "Theme_48c26261684ca6f006135bd69957bc2679a5226a74fadc2a59758b48797286ed"
+    },
+    {
+      "type": "Theme",
+      "name": "batteries pour les véhicules artificiels",
+      "id": "Theme_36bd77e81c292e736c01fd7a882be78d430b77e3cbeaaa6792fd9bfdb1a41ffd"
+    },
+    {
+      "type": "Theme",
+      "name": "quantique",
+      "id": "Theme_a55a5e9c04e9e49c2efc55c9c97fdcdd3149041e81aa26bd45766547b9155e23"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène",
+      "id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes structurelles pour les administrations publiques et les secteurs clés",
+      "id": "Theme_2c26db430c5d3b6705aae8a016f6d343b4a293bd83b94f9d656c34dddd03bf38"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "salaires",
+      "id": "Theme_548f5e7d57af67042d4621cb29a5a870c2b57e7ddc19e1ff4491c39c8bda51fd"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Theme",
+      "name": "marché de la défense",
+      "id": "Theme_aae0251e77109b22066802669ea09236f7738207cc1735937683201ecfa46d24"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "capital",
+      "id": "Theme_c21cdec283ea12782e3852aac3138d980a4f7bd7585df07e52e31cf2980da860"
+    },
+    {
+      "type": "Theme",
+      "name": "réglementations",
+      "id": "Theme_2f3e764aaa8eaf73a50fb0171d6f21c11657b38601f9e9c146b38e8aa0e3507b"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "marché du travail",
+      "id": "Theme_f5e9bbfaff78ce38af872761ee060706073cabea11bd7bb0715da817d3545a3b"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie spatiale",
+      "id": "Theme_f5817a5c4417aaa480dd536215693e9c6e1683fdbc3a8e5fdab5c992ebb06eac"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie de la défense",
+      "id": "Theme_bc12fc0b9cbf492922ef827a1f97072f156c8707e84316062f64601af9f1f5df"
+    },
+    {
+      "type": "Theme",
+      "name": "renseignement",
+      "id": "Theme_1bd572f1ca13b8479be85804edd66328f5597f364182396425372029ab896b3f"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles réformes",
+      "id": "Theme_7ec8209f93d897a4fa0a1f18380d3ccf06c88722ce18dbfbc496fc2fd8573059"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "administration",
+      "id": "Theme_e265cce8ed8d3639f0dd21d797cea8d98723b56b1efa5c17bc01d014349b1bc2"
+    },
+    {
+      "type": "Theme",
+      "name": "rapidité d'action",
+      "id": "Theme_bd01d721940ebb5356e5b9c26536fdb5f060e06b8cfe034b81991d927a040379"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes nationales",
+      "id": "Theme_bcd37d0834cbed4068de7a546c070396a0697e50b3a518b80db25627803879b3"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement",
+      "id": "Theme_efc3dc97047baa5c3d3ee692ed991601fa0b8b2e5b98fe282efd49cfc58792e6"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation supérieure",
+      "id": "Theme_6a76cc8d854b5ec4e23f82c4011da54e855dcfcf1def9df6b7ed1eb90186dec9"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "productivité",
+      "id": "Theme_84e7835ab776771b21d651900e4dd41e8db92c4fb2ff86fc2c079ec22fdda135"
+    },
+    {
+      "type": "Theme",
+      "name": "législations",
+      "id": "Theme_ce880610ee1a62c3e69caaadf3dbe3f1867bfd7688620bbbb01c6036cf2960ed"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes en faveur de l'éducation",
+      "id": "Theme_f165eeb140bea55c500534eb331a028faf5396f6889115549537693d0ecf2955"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie",
+      "id": "Theme_fa010b2e87d32c400a0a52b10fe00d186b07d80baf9792842d534698bb9241c6"
+    },
+    {
+      "type": "Law",
+      "name": "réforme du marché énergétique",
+      "id": "Law_4bd02f32c1c8583e9a775bb5f4f8abc12beca8214f85c415705b930ff9084157"
+    },
+    {
+      "type": "Law",
+      "name": "loi en France",
+      "id": "Law_72c86abe916535b6d109d19996f1d93617c25e4a3dc264c8184c6bce259517da"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie bas-carbone",
+      "id": "Theme_c17c7ced4ad0fe2c265fc343ef80e732104422e8f27434f5c7946a1fa4367fee"
+    },
+    {
+      "type": "Theme",
+      "name": "industrialisation",
+      "id": "Theme_cecfd01b2ace132dee6e7170039bd2f98c4efee2244dfb0b1dc4adf2be5df5e3"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie compétitive",
+      "id": "Theme_522992dd5903174658a9bdc3b3f06f63732518fd5dd53d810509fe9e953087cf"
+    },
+    {
+      "type": "Theme",
+      "name": "production verte",
+      "id": "Theme_aee1c0b206d44ef807c8c3413ca3b52cbf21bac45b0675bcd565bf53267ef254"
+    },
+    {
+      "type": "Theme",
+      "name": "objectif « Fit for 55 »",
+      "id": "Theme_b41c6ad33284a28d41d1ce3a829ae5fd78c02bbfabd9479cfe9a6c18d3a90ad6"
+    },
+    {
+      "type": "Theme",
+      "name": "politique énergétique",
+      "id": "Theme_aff2bc0ed6c0a0d94a8703195e5fcbb561b912174abcf92ea1f17cee976cf2d8"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité nucléaire et verte",
+      "id": "Theme_71323ecbdd05d49ba8d065b766eed1fd42a3cff4c303d98c59f23d7ec533784a"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariats",
+      "id": "Theme_84487f85920a01eef370c99e7050da97326069387eeb01a99526c8b0243acd8d"
+    },
+    {
+      "type": "Theme",
+      "name": "cadre réglementaire",
+      "id": "Theme_2a48513708f2cd3516d5a12c9d08da4342654b05f0576f26639158f56a462d21"
+    },
+    {
+      "type": "Theme",
+      "name": "intégration de nouveaux réseaux électriques",
+      "id": "Theme_14e531e17894917f7bd171047cf855dd92c8569e4a56f5f3d8817f621999183b"
+    },
+    {
+      "type": "Theme",
+      "name": "interconnexion",
+      "id": "Theme_aecb7c68c3a7be7424b9ed2604939abd9683eb34c516e3c69d503ad8c8bfb827"
+    },
+    {
+      "type": "Theme",
+      "name": "libre circulation des électrons à bas carbone",
+      "id": "Theme_1b4782441e88fe7c76ddbe094b1f11e0bbc7ba224a18d90e1dfb9c98d546da97"
+    },
+    {
+      "type": "Theme",
+      "name": "source d'électricité",
+      "id": "Theme_e99825296b5abac413948946c0e10922125a000cf36da1402dd40ce8229a9576"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques industrielles",
+      "id": "Theme_8350dfca1c373fb21e41079af68310905a1d49d948dc7ad6e077e9b31c9a0f51"
+    },
+    {
+      "type": "Theme",
+      "name": "Green Deal",
+      "id": "Theme_e63970253e1709ac9067909729fb066b9736d3946c29fabb3145ed8a1899d19a"
+    },
+    {
+      "type": "Theme",
+      "name": "Fit for 55",
+      "id": "Theme_95cce6bff0539a709eef8f93512c72cc0affea8c2da18b84b508d832d6cd8ad4"
+    },
+    {
+      "type": "Theme",
+      "name": "réglementation",
+      "id": "Theme_74fae1af7be6fa31bf7459ade5fc88f3736f3705b227f72c59a2973c5080f8d2"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "vert",
+      "id": "Theme_92ac26fb1a1b7792ad6c6b4f371b30cd238bb109e3b83fde4a0f631bf99183a6"
+    },
+    {
+      "type": "Theme",
+      "name": "numérisée",
+      "id": "Theme_d1e3433f96fba90d021e6d5a32203a8b2c119de18e11f371197f7c47a440d333"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies propres",
+      "id": "Theme_acc476f2d74c5af1161f24c29e2a203744c257a180b0b4c417aad555868cab03"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Organization",
+      "name": "OMC",
+      "id": "Organization_dbfd6ac2652ebf57b2436987f66688b5c1c31df23624ca5dbb0e937544345cc0"
+    },
+    {
+      "type": "Theme",
+      "name": "industrielles",
+      "id": "Theme_c22059cb6eeaee92b7861593f2f42f145eba587235aed2418a561fae094b63fe"
+    },
+    {
+      "type": "Theme",
+      "name": "échange",
+      "id": "Theme_48895a359422c5ce427b83fdc9d6c341c0e15e08a4a23097a39a9fc48a41247d"
+    },
+    {
+      "type": "Theme",
+      "name": "union commerciale européenne",
+      "id": "Theme_b44d4e75085d44dfc7ef2f2faf3a0ac16797f47187dc583846bd66167818b702"
+    },
+    {
+      "type": "Theme",
+      "name": "politique industrielle",
+      "id": "Theme_634bacf2ff31cd8efb42ccd3a6ddfa23641ab10efb0083bc39ba92def5f940dd"
+    },
+    {
+      "type": "Theme",
+      "name": "industries plus compétitives",
+      "id": "Theme_26e5be07184dfb1bd3fb18ec85128f421bbd5430b1667fff4a82287f1ccda30a"
+    },
+    {
+      "type": "Theme",
+      "name": "union des marchés de capitaux",
+      "id": "Theme_ffbd374b132546644a7bcb53d5fe086abbb62193f28333285e352c75123c6ee9"
+    },
+    {
+      "type": "Theme",
+      "name": "approche",
+      "id": "Theme_2d6f0a3704f9c59365c9c2c3bbadde648ab2c75af4ae9ca182cfc1deb4187339"
+    },
+    {
+      "type": "Theme",
+      "name": "marché des capitaux",
+      "id": "Theme_3ddec828f4c0bdee99c6b1ddf49a21f80a22255a66e9d2e69c858fb9e8ebe51d"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "espace",
+      "id": "Theme_1079951084765f97ec568b6af52f4f01fb8e7320c4a80499a9534a7cd945d3c6"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "projets au niveau européen",
+      "id": "Theme_51f434746e2287424c036629ba96dfed81d4baca27a82ab3532fa0c4f468cd1c"
+    },
+    {
+      "type": "Theme",
+      "name": "programmes ambitieux",
+      "id": "Theme_6746a9bc5b2689bbaeed4b64a4c02c3b978a2e22a4391506d151837c60f7f6a6"
+    },
+    {
+      "type": "Theme",
+      "name": "argent",
+      "id": "Theme_cd0e22a41b53831d61ac03dc3f4fbb55a0fd542b2f7e9430ec488f962f331b0a"
+    },
+    {
+      "type": "Theme",
+      "name": "réflexes",
+      "id": "Theme_5c3efcef99af59668e7fd5be787a03260ce9d15d3ff631d6566ce423a1f81e43"
+    },
+    {
+      "type": "Theme",
+      "name": "spatial",
+      "id": "Theme_be04ff49df6f9224cf87b09d0c072d2df359f83a584eeef7deff7e1835862166"
+    },
+    {
+      "type": "Theme",
+      "name": "standardisation",
+      "id": "Theme_061a35d7de09f3fc33c2479d7b38647196205e0ab5081607d958e72c9cdf4e60"
+    },
+    {
+      "type": "Theme",
+      "name": "efficience",
+      "id": "Theme_99892e38cfaa09a14f09b2e948b67ddf820bace5106655507abe7afd741dc053"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "green techs",
+      "id": "Theme_4b2864f9cc71a1ec04c2aac0c1c37cb5e4efeced4ad6f24dd089c4afee8bf481"
+    },
+    {
+      "type": "Country",
+      "name": "nos deux pays",
+      "id": "Country_2bd470f2122568640e3762e9bf14400458b6f8d21f909f537011d97d9af8f053"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "pro-entreprises",
+      "evidence": "La France s'est transformée ces dernières années. Ce sont des objectifs pro-entreprises, pro-affaires qui ont été adoptés.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_4eb4aecad3db9005eadf7162fff4d4c63bc9624d9b0ed4fa8a0aa5b3155e64af"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "pro-affaires",
+      "evidence": "La France s'est transformée ces dernières années. Ce sont des objectifs pro-entreprises, pro-affaires qui ont été adoptés.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_d9687473409e29c145253cb5aaf06d755fc40644290cb2eebecec08e6600ce85"
+    },
+    {
+      "source": "Chine",
+      "relation": "MENTIONS",
+      "target": "Chine",
+      "evidence": "La Chine a ajouté beaucoup de pression.",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "marché de la défense",
+      "relation": "MENTIONS",
+      "target": "marché de la défense",
+      "evidence": "troisième raison, nous n'avons pas fait ce qu'il fallait en matière de marché de la défense.",
+      "confidence": 1.0,
+      "source_id": "Theme_aae0251e77109b22066802669ea09236f7738207cc1735937683201ecfa46d24",
+      "target_id": "Theme_aae0251e77109b22066802669ea09236f7738207cc1735937683201ecfa46d24"
+    },
+    {
+      "source": "économie",
+      "relation": "MENTIONS",
+      "target": "économie",
+      "evidence": "Nos économies ne sont pas bien attribuées, ne sont pas très bien allouées.",
+      "confidence": 1.0,
+      "source_id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424",
+      "target_id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "source": "innovation",
+      "relation": "MENTIONS",
+      "target": "innovation",
+      "evidence": "ce qui signifie que l'innovation et le capital en pâtissent.",
+      "confidence": 1.0,
+      "source_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc",
+      "target_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "source": "marché du travail",
+      "relation": "MENTIONS",
+      "target": "marché du travail",
+      "evidence": "Nous n'avons pas été capables de régler tous les problèmes qui pèsent sur le marché du travail.",
+      "confidence": 1.0,
+      "source_id": "Theme_f5e9bbfaff78ce38af872761ee060706073cabea11bd7bb0715da817d3545a3b",
+      "target_id": "Theme_f5e9bbfaff78ce38af872761ee060706073cabea11bd7bb0715da817d3545a3b"
+    },
+    {
+      "source": "souveraineté",
+      "relation": "MENTIONS",
+      "target": "souveraineté",
+      "evidence": "La souveraineté va de pair avec une capacité à produire sur votre territoire, ce qui importe pour vous, pour votre marché.",
+      "confidence": 1.0,
+      "source_id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b",
+      "target_id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "source": "industrie spatiale",
+      "relation": "MENTIONS",
+      "target": "industrie spatiale",
+      "evidence": "Par exemple pour votre industrie spatiale, pour la construction de vos avions ou pour l'établissement d'une véritable industrie de la défense.",
+      "confidence": 1.0,
+      "source_id": "Theme_f5817a5c4417aaa480dd536215693e9c6e1683fdbc3a8e5fdab5c992ebb06eac",
+      "target_id": "Theme_f5817a5c4417aaa480dd536215693e9c6e1683fdbc3a8e5fdab5c992ebb06eac"
+    },
+    {
+      "source": "industrie de la défense",
+      "relation": "MENTIONS",
+      "target": "industrie de la défense",
+      "evidence": "Par exemple pour votre industrie spatiale, pour la construction de vos avions ou pour l'établissement d'une véritable industrie de la défense.",
+      "confidence": 1.0,
+      "source_id": "Theme_bc12fc0b9cbf492922ef827a1f97072f156c8707e84316062f64601af9f1f5df",
+      "target_id": "Theme_bc12fc0b9cbf492922ef827a1f97072f156c8707e84316062f64601af9f1f5df"
+    },
+    {
+      "source": "réformes",
+      "relation": "MENTIONS",
+      "target": "réformes",
+      "evidence": "C'est la raison pour laquelle nous allons lancer toute une série de nouvelles réformes en France. Ce sont des choses qui doivent être réglées au niveau national.",
+      "confidence": 1.0,
+      "source_id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d",
+      "target_id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "source": "nouvelles réformes",
+      "relation": "MENTIONS",
+      "target": "nouvelles réformes",
+      "evidence": "C'est la raison pour laquelle nous allons lancer toute une série de nouvelles réformes en France. Ce sont des choses qui doivent être réglées au niveau national.",
+      "confidence": 1.0,
+      "source_id": "Theme_7ec8209f93d897a4fa0a1f18380d3ccf06c88722ce18dbfbc496fc2fd8573059",
+      "target_id": "Theme_7ec8209f93d897a4fa0a1f18380d3ccf06c88722ce18dbfbc496fc2fd8573059"
+    }
+  ]
+}

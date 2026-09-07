@@ -1,0 +1,642 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Maire de Toulon",
+      "id": "Person_6ade56e9adc56fdbd101abcec704c04b62042653e57129866b42d1895315db54"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le préfet",
+      "id": "Person_53c349332859a6f29fc7e202b933842f8a6c690203ea9dd3a5a57a1f2636c209"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur l'ambassadeur d'Argentine en France",
+      "id": "Person_bcde30337ce36e3ef0d31323153c9bf1db869d58d7fa25d8e3ca3212d5848711"
+    },
+    {
+      "type": "Person",
+      "name": "Mon colonel",
+      "id": "Person_764334797c056a040d8af706842c2fa59bf24d23dfce36d7fce1fb4b6d0841d9"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil régional",
+      "id": "Organization_e9f725e6f67b63337bb15386767b033ec43f962df630ab214d5d15910b442ee9"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil départemental",
+      "id": "Organization_860ddb32be6c5affaf9b94a9ac2b7fa636eab9e78d5c9a950ce1ebd4ae619f52"
+    },
+    {
+      "type": "Organization",
+      "name": "association des maires",
+      "id": "Organization_c1424538ff01a6a53ea3e1f5766cffaaf7d477c986c04518d131ac48a038a125"
+    },
+    {
+      "type": "Organization",
+      "name": "Chers amis",
+      "id": "Organization_ea857cdcd1465678dd4eb9ee3771219aaf3d3cc248803a50135d396b39bf6cef"
+    },
+    {
+      "type": "Organization",
+      "name": "Maires",
+      "id": "Organization_ea6b584f7ce729a85d3213d7a011e36ae2f7e4f96f2285c14f661d35334b885b"
+    },
+    {
+      "type": "Organization",
+      "name": "élus",
+      "id": "Organization_2a8112b51d960018957700054cee7823bd277e9fa862e3ed8cf1b64ea1800278"
+    },
+    {
+      "type": "Organization",
+      "name": "présidentes et présidents d'associations",
+      "id": "Organization_e8508cfda78998a849bb720ce1c26ef68a19d2f6b0b55235e2d8cf51fb70d906"
+    },
+    {
+      "type": "City",
+      "name": "Bormes-les-Mimosas",
+      "id": "City_023d1de300e22e7ad8c4716adf585277f98fac187a26ad3f2b0e6f30771e5353"
+    },
+    {
+      "type": "City",
+      "name": "Toulon",
+      "id": "City_e269c743821deaa732a9c8c1951186d7a971393eded589032f1026304a7b1fa7"
+    },
+    {
+      "type": "City",
+      "name": "commune",
+      "id": "City_6b1d79a0d76ff35b8a46e2dfbc874bc1a918e748d3564221460687c88a96a3aa"
+    },
+    {
+      "type": "Organization",
+      "name": "associations d'anciens combattants et de mémoire",
+      "id": "Organization_84cbacc95e0c59835c1d2d6babf66712a4771a2a0d881c9db724ef5242c1e457"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur l'ambassadeur d'Argentine",
+      "id": "Person_0a3465a5dc7ead24a97c8b459a57be6f60fad4a00d2af108bc4ed5d4c68b3355"
+    },
+    {
+      "type": "Person",
+      "name": "Hippolyte Bouchard",
+      "id": "Person_6d37b21c35ced24329a3e85fda709e99acc110067c096192aae386ee469cb227"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre VELSCH",
+      "id": "Person_a379188e4feb24a02262cbd5db96b8b3f2eb5728ead18fd8283f9d584a5b6884"
+    },
+    {
+      "type": "Country",
+      "name": "Argentine",
+      "id": "Country_3dab7c85e6607fddbf7c552fa1a16bb3d8c4efc9ce2720249249c1c8220d005f"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité des peuples",
+      "id": "Theme_73e18cb7486f826eb1a7381a9a0595e0ae307c007542adf3b5828330895ee91b"
+    },
+    {
+      "type": "Theme",
+      "name": "conquête de leur liberté",
+      "id": "Theme_102382c9fdbccd8b1a45ea6e487e4c81cf2d36653992c522446c8afa73f38da5"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre d'indépendance",
+      "id": "Theme_a07b2800c008f9a9acb10d39f180cb33e553b8644b9108677e91ac3b009dcbec"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre",
+      "id": "Person_fa16f1679c2039a4a2cb8a520bd4c3b061b2268bb43032bde61fbde9221abf1c"
+    },
+    {
+      "type": "City",
+      "name": "Kouba",
+      "id": "City_4ca00a63839c346353d3dad2418c005d8ac5f036db85b49a21ff3cc6b6c4e2b1"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "City",
+      "name": "Canadel",
+      "id": "City_d49d1ab5e1d18044d72862dcbb46f1ed2b1d339d08a389ad8bc9086cd4b1aed5"
+    },
+    {
+      "type": "City",
+      "name": "Provence",
+      "id": "City_02563396c2e1a5b02a9aa4678b67397e930cb5ad9d86981d6f4514102ab8d4fd"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Person",
+      "name": "Hubert Germain",
+      "id": "Person_fda3eb803d6a356785cabfc7e2b406bda6bc3cf0a4d3e13dc400fa15ddedb3dd"
+    },
+    {
+      "type": "City",
+      "name": "Mont-Valérien",
+      "id": "City_2d1c2ecf3cdde82b1009253791c82e4a7fde7564fab7ac3cddd12948ec865cdd"
+    },
+    {
+      "type": "City",
+      "name": "Corse",
+      "id": "City_16f784e293f33726279f3f43c311b4c6996cd29064ae7f0a470010a8505ad63a"
+    },
+    {
+      "type": "City",
+      "name": "Var",
+      "id": "City_44eb069dcaec92d44b9129c17c5ed17428012e19c6f7495293cbf34888de2688"
+    },
+    {
+      "type": "Organization",
+      "name": "sapeurs-pompiers",
+      "id": "Organization_65af48d7150af973eae0e7628bcf4a3d991ebef47542190435e0b835efee6a7f"
+    },
+    {
+      "type": "Organization",
+      "name": "services de l'État",
+      "id": "Organization_0e4c3b002b7e0b947f150ac5ade5255303027617ed7e319cef90365be1d32acb"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités",
+      "id": "Organization_82cf8945d6e172880b094d7d80042a3a79f86b02e8d1d1f8c4efe9bbfd946230"
+    },
+    {
+      "type": "Person",
+      "name": "nos soldats du feu",
+      "id": "Person_9968d1bef0e8f1c97dd504b2bee719dead101adf762482df510faeafd0d92f16"
+    },
+    {
+      "type": "Person",
+      "name": "nos soldats de l'eau",
+      "id": "Person_83affc173dae3cf7f070f9d98db2c3dd5a63e98eb7874db335f83b898a578bb8"
+    },
+    {
+      "type": "Person",
+      "name": "Ministre de l'Intérieur et des Outre-mer",
+      "id": "Person_fe31b79f8469463eea4fb90caaf223967bd9b17f1621b5b2c503a06a660ba2f2"
+    },
+    {
+      "type": "Theme",
+      "name": "incendies",
+      "id": "Theme_fb215f728aeac21df7469bd104a506686d187cbda7f5084e44551ac3453bebe4"
+    },
+    {
+      "type": "Theme",
+      "name": "terribles orages",
+      "id": "Theme_6d728f450e1e63d2ef55ad08c6734895e099422e90caf4c2325b71aaa55ef19d"
+    },
+    {
+      "type": "Theme",
+      "name": "intempéries",
+      "id": "Theme_8deaefe667d23874835e050ec491c0bd0701880070b889b5f432001262ce18db"
+    },
+    {
+      "type": "Theme",
+      "name": "pompiers et personnels de la sécurité civile",
+      "id": "Theme_6fd2367ca73281a116506134465caf770f0bb1126d6a9a31ec4708ef2412f2e9"
+    },
+    {
+      "type": "Person",
+      "name": "Pascal Allaire",
+      "id": "Person_e699c4f2242f872c83f85f246aac34bccfc32f2e6dda5208b8279c2b2c5de41a"
+    },
+    {
+      "type": "Person",
+      "name": "Martial Morin",
+      "id": "Person_343b3ea1ad07b8bc88e9c3b33784f7bfa377b337d50af02a444544084741e2f9"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Person",
+      "name": "Vladimir POUTINE",
+      "id": "Person_ba07bc360f6d694c7c43cab878adc061217ec2b08d23eedefe4d5e2a082ef89c"
+    },
+    {
+      "type": "Person",
+      "name": "Président ZELENSKY",
+      "id": "Person_bbebccf7a88a11670d740b9652bce1d58f18c5d063b871b9c2c0f42098904f38"
+    },
+    {
+      "type": "Person",
+      "name": "Président POUTINE",
+      "id": "Person_a22176f8b01b8661705212dbebb7d3f0961063fa7068a972522e7c3f72c00183"
+    },
+    {
+      "type": "Organization",
+      "name": "forces de sécurité intérieure",
+      "id": "Organization_7cccac05f47c7cdb99a2b4772424d34aa6ec0600812df86d18a9f6fffbd3a8ed"
+    },
+    {
+      "type": "Organization",
+      "name": "policiers",
+      "id": "Organization_29f7b170b9b51ef4b73ad455c2d7b7b464617edcef8e00b495abd08bee51658c"
+    },
+    {
+      "type": "Organization",
+      "name": "gendarmes",
+      "id": "Organization_dd1fa107e8d2fc3c011bc045275f305ea89fbc5965d66e5b1e01470d5734dc21"
+    },
+    {
+      "type": "Organization",
+      "name": "soldats",
+      "id": "Organization_c48fd26755394b055dda8646f40cdef5a5db89fd732fcb410c3abb7e0b6a2619"
+    },
+    {
+      "type": "Organization",
+      "name": "armées",
+      "id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab"
+    },
+    {
+      "type": "Organization",
+      "name": "terriens",
+      "id": "Organization_4bb475876f98402d325bf34b0abde2f56cbf77891a5548cf703560a8b987bdfc"
+    },
+    {
+      "type": "Organization",
+      "name": "marins",
+      "id": "Organization_33d95aa7c9663f277819d51164bfc2e140b4a1c0b7c8665e3871d119f802738d"
+    },
+    {
+      "type": "Organization",
+      "name": "sous-mariniers",
+      "id": "Organization_264de20458406bf91d65fb52eacf4e1da442873fcf7e42b9a874146e67e318a5"
+    },
+    {
+      "type": "Organization",
+      "name": "aviateurs",
+      "id": "Organization_13959d9b7c3925480a518d2bb216483095b355a7a9be485dbc3c184e6bf2da7d"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "City",
+      "name": "Normandie",
+      "id": "City_f0fe3a8c9028ddfa11298d6496804a09e1a0ab72a0ef8225769f14175bfca277"
+    },
+    {
+      "type": "Organization",
+      "name": "France libre",
+      "id": "Organization_2db1138f750b6d01d15a9e7fedaa3a5c680d868a220d5e2ea441e9d63c3cec35"
+    },
+    {
+      "type": "Organization",
+      "name": "Forces débarquées en Normandie",
+      "id": "Organization_8172c001cc4b291112b74f0c926e8fad93024a3961271f1836a988e2d6d2a540"
+    },
+    {
+      "type": "Theme",
+      "name": "Joug assassin",
+      "id": "Theme_c97a4052a437edcc23a287de4986eb4eed75401ca7d3696a6c9657bf5021c757"
+    },
+    {
+      "type": "Person",
+      "name": "général de Lattre de Tassigny",
+      "id": "Person_5579f695367ab548941d8377058e18b3c934245001b2d119c51786cd99c73a54"
+    },
+    {
+      "type": "Organization",
+      "name": "Armée B",
+      "id": "Organization_d7f09e829963a14439b0feaac722793a0545f99d09cc6124610844ecbad71aaf"
+    },
+    {
+      "type": "Organization",
+      "name": "Forces françaises libres",
+      "id": "Organization_274137dc3c43afd435ae279faf51b313d343fbd2edff7a909454ed36527460b9"
+    },
+    {
+      "type": "Organization",
+      "name": "unités d'Afrique",
+      "id": "Organization_9135f2ab1c20f769e6f4c3ee944ee99c1926d8e9dca1f6c05bc75e6584d2f95a"
+    },
+    {
+      "type": "Person",
+      "name": "Georges Clemenceau",
+      "id": "Person_d27fee9151c7cbef7cd525fdb82a672799ccc9d115a58dfd19038d9180fb8812"
+    },
+    {
+      "type": "City",
+      "name": "Méditerranée",
+      "id": "City_9d0a5741de9fafb94e045360dddcff5fd3320003f53cc0eee5bebfef6e12abe6"
+    },
+    {
+      "type": "City",
+      "name": "Maures",
+      "id": "City_dae5085f38931559cfca4fb8cd71b1736efa75e72d2b5013c98a5f507a4b61a9"
+    },
+    {
+      "type": "City",
+      "name": "Esterel",
+      "id": "City_e41adc949edb366ce610d4afe8b4ae4c78bdec53baa54c0f28ce19ef9120ff2b"
+    },
+    {
+      "type": "Person",
+      "name": "Frédérick",
+      "id": "Person_0f45566b5ad16d7a273050324235630b98df4bbfcdbef0bb8deb3ba6ff3b196c"
+    },
+    {
+      "type": "Person",
+      "name": "de Lattre de Tassigny",
+      "id": "Person_0357b44bf91cf98ba1486607202359dd457acca51a8b4e9f646a2eba3147912c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsabert",
+      "id": "Person_1c42cb18629ec33d141dd22105699cb3eea6dd75f9d37fb3995c3d27b6ed6973"
+    },
+    {
+      "type": "Person",
+      "name": "Patch",
+      "id": "Person_d7f6b1ea08ba9a19f44e4ea5e33b351093d7c6ce6fbfb1721644d0145033e721"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "City",
+      "name": "Bourgogne",
+      "id": "City_20ce9e67c82976d44e649b6647a1ec9c3fb7585ec1c3d39ce0eb6ad57f520e31"
+    },
+    {
+      "type": "City",
+      "name": "Rhône",
+      "id": "City_b8ca7f1b6b0bd864ef0485d9904915a953762c68970c881dc92223594566f2b4"
+    },
+    {
+      "type": "Event",
+      "name": "débarquement du 15 août",
+      "id": "Event_8ee83c49fefdf570384e76b5fb2f4b3191b98a8cdac61cac1a63b842275572b5"
+    },
+    {
+      "type": "City",
+      "name": "frontières du Rhin",
+      "id": "City_faf34f4f603983ec2b8a992f78043e8326d4a5f90439f44ea49da10b1c38a35b"
+    },
+    {
+      "type": "City",
+      "name": "Bormes",
+      "id": "City_f6f4b815c2cab5370cfa43546fd7aa78da69d12fd9108fb8741abbbec4415b87"
+    },
+    {
+      "type": "City",
+      "name": "massif des Maures",
+      "id": "City_ded88bf18ce2dfc3a482538b6dc4399dd645ae6ebb233699fbfb142dc526408c"
+    },
+    {
+      "type": "City",
+      "name": "Istres",
+      "id": "City_bbf3c38f3566a9d7dc019bcdf1e03adbc78a1104de0850626cd021694392a09f"
+    },
+    {
+      "type": "Person",
+      "name": "Pétain",
+      "id": "Person_01af716ddedd42b347ec6e5ce13b8435644469d603722e7ac57eda8e60e1fe1a"
+    },
+    {
+      "type": "Person",
+      "name": "Vichy",
+      "id": "Person_d9a03049c757e966e7c5570fb9cab48a583effae3f0f6c2e4ab2fa90d3e4970a"
+    },
+    {
+      "type": "Person",
+      "name": "ses séides",
+      "id": "Person_2f784bb75b1250f1604875c88e28c23d78b905ca8740c2c2a58a7433cc4ae279"
+    },
+    {
+      "type": "Person",
+      "name": "ses sbires",
+      "id": "Person_ff40aea3e3ba9d0bf97c5ede3dd85e3fc26a9a71ea09f5b7c1c552a055199140"
+    },
+    {
+      "type": "Person",
+      "name": "De Lattre",
+      "id": "Person_ab7809d1f621d7c0e576f010e0d94fc347e9bf35eb094eb49e52eb0508bc6166"
+    },
+    {
+      "type": "Country",
+      "name": "Sénégal",
+      "id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "type": "City",
+      "name": "cap Nègre",
+      "id": "City_22adff60c8d8940be37dbb59f2364167eff27f21fa5b4f3586a1de9f0f978066"
+    },
+    {
+      "type": "City",
+      "name": "Hyères",
+      "id": "City_9e4dfc3768d93d789777d9d63faeaedc58791dee6f316f0a89687e9e92afa875"
+    },
+    {
+      "type": "City",
+      "name": "Pampelonne",
+      "id": "City_6b3591019d62d87c752f71ca4459c514935815c69a784fcc7063dc1c19408bed"
+    },
+    {
+      "type": "City",
+      "name": "Cavalaire",
+      "id": "City_9c876b1021dc5ded2f90ac63dd674898003c4f94ff9781387495dd64cc9592cf"
+    },
+    {
+      "type": "City",
+      "name": "Nartelle",
+      "id": "City_9df3f505bfd5036e793f9c6a5943bab2b09b0f3be1fd7bfa19d84bb8ad8af0ce"
+    },
+    {
+      "type": "City",
+      "name": "Val d'Esquières",
+      "id": "City_6e9b5772c3d278251309e90969f6f9ab0790b24877747f33445ce904563e99d6"
+    },
+    {
+      "type": "City",
+      "name": "Anthéor",
+      "id": "City_d8830edc7a4aed313e86d4232c4c51a853ad6e5be6f0dbe0ca161d3f07cd23bf"
+    },
+    {
+      "type": "City",
+      "name": "Dramont",
+      "id": "City_54b915fd30185e03698319b7b1af02d48125ec1e6193fec8429de6e93776e0b3"
+    },
+    {
+      "type": "City",
+      "name": "Trayas",
+      "id": "City_3d18e8fd09ab317edb83159582d1c0401901ae32f9c469df08d0ca5ccbab2785"
+    },
+    {
+      "type": "City",
+      "name": "Théoule",
+      "id": "City_bfbf3977471458ba3922bb7babfbfb88f8e1f305f2c0a39e4ac718c33140fb6d"
+    },
+    {
+      "type": "Person",
+      "name": "combattants de l'été 1944",
+      "id": "Person_f7bf78afebd0884f812584b4f91d858320d23432835da749640b67de8d2817dd"
+    },
+    {
+      "type": "Theme",
+      "name": "courage",
+      "id": "Theme_4eb0829b6b279fcb2a945b12114e4f8976954c7a7fcf9391f504d523ee63a88b"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "concorde",
+      "id": "Theme_f65df85d0fefabdfe7fa762e21d45e7beb890a9796dcfbdde60b126b127f1610"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Monsieur le Maire de Toulon",
+      "relation": "MEMBER_OF",
+      "target": "association des maires",
+      "evidence": "Monsieur le Maire de Toulon, président de l'association des maires",
+      "confidence": 1.0,
+      "source_id": "Person_6ade56e9adc56fdbd101abcec704c04b62042653e57129866b42d1895315db54",
+      "target_id": "Organization_c1424538ff01a6a53ea3e1f5766cffaaf7d477c986c04518d131ac48a038a125"
+    },
+    {
+      "source": "Conseil régional",
+      "relation": "MEMBER_OF",
+      "target": "Monsieur le Maire",
+      "evidence": "Monsieur le Maire, représentant le Conseil régional",
+      "confidence": 1.0,
+      "source_id": "Organization_e9f725e6f67b63337bb15386767b033ec43f962df630ab214d5d15910b442ee9",
+      "target_id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "source": "Pierre",
+      "relation": "LOCATED_IN",
+      "target": "Kouba",
+      "evidence": "Cher Pierre, vous êtes cet enfant de Kouba, en Algérie",
+      "confidence": 1.0,
+      "source_id": "Person_fa16f1679c2039a4a2cb8a520bd4c3b061b2268bb43032bde61fbde9221abf1c",
+      "target_id": "City_4ca00a63839c346353d3dad2418c005d8ac5f036db85b49a21ff3cc6b6c4e2b1"
+    },
+    {
+      "source": "Pierre",
+      "relation": "LOCATED_IN",
+      "target": "Algérie",
+      "evidence": "Cher Pierre, vous êtes cet enfant de Kouba, en Algérie",
+      "confidence": 1.0,
+      "source_id": "Person_fa16f1679c2039a4a2cb8a520bd4c3b061b2268bb43032bde61fbde9221abf1c",
+      "target_id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "source": "Hubert Germain",
+      "relation": "VISITED",
+      "target": "Provence",
+      "evidence": "Hubert Germain, qui fit partie de ce débarquement de Provence",
+      "confidence": 1.0,
+      "source_id": "Person_fda3eb803d6a356785cabfc7e2b406bda6bc3cf0a4d3e13dc400fa15ddedb3dd",
+      "target_id": "City_02563396c2e1a5b02a9aa4678b67397e930cb5ad9d86981d6f4514102ab8d4fd"
+    },
+    {
+      "source": "sapeurs-pompiers",
+      "relation": "LOCATED_IN",
+      "target": "Corse",
+      "evidence": "Pour tous nos sapeurs-pompiers mobilisés en Corse",
+      "confidence": 1.0,
+      "source_id": "Organization_65af48d7150af973eae0e7628bcf4a3d991ebef47542190435e0b835efee6a7f",
+      "target_id": "City_16f784e293f33726279f3f43c311b4c6996cd29064ae7f0a470010a8505ad63a"
+    },
+    {
+      "source": "nos soldats du feu",
+      "relation": "SUPPORTS",
+      "target": "nos soldats de l'eau",
+      "evidence": "nos soldats du feu, qui sont aussi nos soldats de l'eau",
+      "confidence": 1.0,
+      "source_id": "Person_9968d1bef0e8f1c97dd504b2bee719dead101adf762482df510faeafd0d92f16",
+      "target_id": "Person_83affc173dae3cf7f070f9d98db2c3dd5a63e98eb7874db335f83b898a578bb8"
+    },
+    {
+      "source": "Forces débarquées en Normandie",
+      "relation": "LOCATED_IN",
+      "target": "Normandie",
+      "evidence": "Ces 350 000 soldats de la France libre, alliés, résistants de l'ombre et des maquis, qui, avec les forces débarquées en Normandie prirent en étau l'occupant pour délivrer la France de son joug assassin.",
+      "confidence": 1.0,
+      "source_id": "Organization_8172c001cc4b291112b74f0c926e8fad93024a3961271f1836a988e2d6d2a540",
+      "target_id": "City_f0fe3a8c9028ddfa11298d6496804a09e1a0ab72a0ef8225769f14175bfca277"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "frayant le chemin de la libération de la France par les Français eux-mêmes",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

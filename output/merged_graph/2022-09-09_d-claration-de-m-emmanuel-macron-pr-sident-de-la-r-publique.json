@@ -1,0 +1,771 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Person",
+      "name": "président du Conseil régional",
+      "id": "Person_69fdc7dd9f5a0785a327e19ca4e39b120966e477380307358a274613243e7b9c"
+    },
+    {
+      "type": "Person",
+      "name": "président du Conseil départemental",
+      "id": "Person_c00730c12f71014042afca26113fea719a76f479d249a8290cf1ec315475b0b0"
+    },
+    {
+      "type": "Organization",
+      "name": "CAF",
+      "id": "Organization_fa74d451028948e137156cd071a089f5b36dc63d50abb18eb7f984aa5029a1ba"
+    },
+    {
+      "type": "Organization",
+      "name": "JA",
+      "id": "Organization_c47b960c05e02528c292e0eb3e3d2c6c83758e86a00a11fcff9a49f7fb52b13e"
+    },
+    {
+      "type": "Organization",
+      "name": "FNSEA",
+      "id": "Organization_ad5793fb9e193d8453d81e7388803236f1ac9a9f4c8fae08dab619137fa3292f"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance",
+      "id": "Theme_eb42bc9a4c0e3c4863f2af9c41baa2a8f3b5a02bf55c6c74f6658aeb303b2108"
+    },
+    {
+      "type": "Theme",
+      "name": "engrais",
+      "id": "Theme_740ede2e93503185fb3033e921243202b66e371729e145a466aa489cb432c7d5"
+    },
+    {
+      "type": "Theme",
+      "name": "intrants",
+      "id": "Theme_e6944e66bdec25338c85624d511c951bb9faf99b3d49e3830b1e91a5f9010dad"
+    },
+    {
+      "type": "Theme",
+      "name": "montée des prix de l'énergie",
+      "id": "Theme_493fa30beefc4d212d38f0e32ea3c364e783f70b3cdc76279bdfd983f9d7ecd1"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "coûts de production",
+      "id": "Theme_63f897eba4cc930d54c8d7c051729cb9b32acde41870c9c1267c0e5767eb463c"
+    },
+    {
+      "type": "Theme",
+      "name": "sécheresse",
+      "id": "Theme_12b209e5603215745b4946973f2765b3231863b41bb02179888846d28077c72e"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "prix des intrants",
+      "id": "Theme_86ddc0684c103c9787761fce09cb422da7d774d62e7c57a0220021f5db5a02bb"
+    },
+    {
+      "type": "Theme",
+      "name": "engrais azotés",
+      "id": "Theme_1ca4a6c48b497b0b7f386d6085fe10cc4246663aa9fa60d60dc041feed7c48f4"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "contraintes",
+      "id": "Theme_4978b0c5d87dc2417b622c18eef6c36776a6885f8f2cab4267a059066269c40d"
+    },
+    {
+      "type": "Theme",
+      "name": "crise climatique",
+      "id": "Theme_3e86287b9007dc7cf116e0f678ff3a9925fa42111528a26c250fc10e64358d7f"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Country",
+      "name": "le territoire français",
+      "id": "Country_db8ecfc880b02e74e0315cd7c5b9a4adcb6bd0f689412c6809eb906464787536"
+    },
+    {
+      "type": "Theme",
+      "name": "Souveraineté agricole et alimentaire",
+      "id": "Theme_c6b03b128120133d66337436e1a0ed35d7307873062bb4f22d587fbc5fbff8ac"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "feux",
+      "id": "Theme_8141fd19135b672b92536eff46dc887c488cb108dc3afee3d7123f5f43f19116"
+    },
+    {
+      "type": "City",
+      "name": "Jura",
+      "id": "City_291b439b6c2661443b60e5f3f930164dc80ff5cc3149c3d99125e7a4775013a1"
+    },
+    {
+      "type": "City",
+      "name": "Bretagne",
+      "id": "City_035c110fca9b61d405b6d416e0fe1b5054b46298204b29ff1db43d32e31e522e"
+    },
+    {
+      "type": "Theme",
+      "name": "feux massifs",
+      "id": "Theme_20ae28ff9eb26dee95abddebfccc1ce3301257fdc55bb7a78f8ccdcbf3d69b9d"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité paysanne",
+      "id": "Theme_8d796f10aa44387db2c276352db61d1283726ab1c964a182de5754427dd8a44f"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre en Ukraine",
+      "id": "Theme_c1ac68c6c37050c08bad07f72ee5a0d6426beefac1fe476dc951a6e663e6c13f"
+    },
+    {
+      "type": "Theme",
+      "name": "grippe aviaire",
+      "id": "Theme_fdc0efbac1c73470bb3407a513e9e9658e9898e85916b5923e18bdf1f286aab0"
+    },
+    {
+      "type": "Theme",
+      "name": "montée des coûts",
+      "id": "Theme_e437d5c36522565125381964de12fc11fbbb894273276c0f80e265200c4a336a"
+    },
+    {
+      "type": "Theme",
+      "name": "EGalim 1",
+      "id": "Theme_fda2e428d7a56e2980419f76a6551a81ea603547dad1e1a042d850850e59a22d"
+    },
+    {
+      "type": "Theme",
+      "name": "EGalim 2",
+      "id": "Theme_54f4518707e9c2208e733e20ef6dcc7427b59d5ea0f8d2f5a18d51b862580c88"
+    },
+    {
+      "type": "Law",
+      "name": "EGalim 1",
+      "id": "Law_bc13c0959e9ba400bd3bf794ee59f530b8875b4cada2c61f5bf703e0273caf2d"
+    },
+    {
+      "type": "Law",
+      "name": "EGalim 2",
+      "id": "Law_00861ee9fec1e4eab9acc1e5bb6f4e874eb9ceafda84afa355e728036f4327dd"
+    },
+    {
+      "type": "Theme",
+      "name": "fermetures d'exploitation",
+      "id": "Theme_ffad7f6a0c31069f914e826c6f69b97e3fb06e1cafca092b07a440ea1672f628"
+    },
+    {
+      "type": "Organization",
+      "name": "Lidl",
+      "id": "Organization_b50325649292c71f752f54fab18a59b1726670b38310bdb292aabc65f7d317e8"
+    },
+    {
+      "type": "Theme",
+      "name": "alimentation",
+      "id": "Theme_c513edee71bdf794af7ba878fb763b9cc4a3e831c494d701c86bdd518ebd85ab"
+    },
+    {
+      "type": "Theme",
+      "name": "prix",
+      "id": "Theme_e3edc58c164706c798376473a1d33b9ea22930cd506495bfb973ba41058bebe2"
+    },
+    {
+      "type": "Theme",
+      "name": "produire",
+      "id": "Theme_7328b86d95bdbaa66de6d01bb3c08b0afdc913aac367545a934142940a80c5ad"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Theme",
+      "name": "textes",
+      "id": "Theme_996a91b8a1e763817b8b269cc0fb275c573747e2ec27edc2860236404a15d866"
+    },
+    {
+      "type": "Theme",
+      "name": "producteurs",
+      "id": "Theme_4f2c37690bc04864304c8ff8b297ae290a8029c5df7b003f113ec01413f7562d"
+    },
+    {
+      "type": "Theme",
+      "name": "transformateurs",
+      "id": "Theme_eb6757cb325c039c170d48888ecc11899283984faf9ec5797b7a7a98f71187a2"
+    },
+    {
+      "type": "Theme",
+      "name": "PME",
+      "id": "Theme_db1b5dd1f05a5483c8bd8ec0d664360eb7ce06bdd154e58613fc02ba15981df3"
+    },
+    {
+      "type": "Theme",
+      "name": "TPE",
+      "id": "Theme_4f6afdd94a1203f187cc496a89ea5382b08a9f8f1cbc0b555fd14ee3c3d38280"
+    },
+    {
+      "type": "Theme",
+      "name": "exploitations",
+      "id": "Theme_a3a52141612479d25f1722393834cfd130d019dbd1e453e41881c4d425a5ba16"
+    },
+    {
+      "type": "Theme",
+      "name": "revenu",
+      "id": "Theme_305ed41761bfdf397a883a5f88c433725b1820151d0b2bb2134e1c594d949bfe"
+    },
+    {
+      "type": "Theme",
+      "name": "fermer",
+      "id": "Theme_5904b120f2fdeab986391d54bb8c0d18cd232ba62c84bb9bb6978f4481577f02"
+    },
+    {
+      "type": "Theme",
+      "name": "décapitaliser",
+      "id": "Theme_8437b7f0827c75c2c1df8ebc5c63052e92a939bb01795163a98464f213e5ee28"
+    },
+    {
+      "type": "Organization",
+      "name": "INRAE",
+      "id": "Organization_bc4405cac69c8e3d1aec0a8e3af326c2fe45fc31cc3a0f83e106dd0aa2451a12"
+    },
+    {
+      "type": "Organization",
+      "name": "Chambres",
+      "id": "Organization_3f3fe42d32a415900e3daf8fc21422bc786b2b73f032d0001d6e8ffb03e51ce0"
+    },
+    {
+      "type": "Theme",
+      "name": "transition",
+      "id": "Theme_e63e6ab1512da86e741fe3d7ec082523f6b684c749eb3aef27e0dfd412c0a6b6"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "résistance",
+      "id": "Theme_e76d4a7d077688683b8612822efb91314ca3d8a465e71434c7d639fcd7efc3a4"
+    },
+    {
+      "type": "Theme",
+      "name": "PAC",
+      "id": "Theme_a0c16c10c88bc4b00e359d90d6638db9831501f07ebf98108ca27b7bab679117"
+    },
+    {
+      "type": "Theme",
+      "name": "grande transformation",
+      "id": "Theme_799488e6f0317616b3ea914701f537553140eb7f814e1aa7b17484811bcffe5f"
+    },
+    {
+      "type": "Theme",
+      "name": "bonne utilisation de nos ressources en eau",
+      "id": "Theme_87743172d9c3818533c9b11d5b39771da5c3740664574bc304159b782fabb540"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence consacrer et sanctuariser l'usage agricole et le multi usage",
+      "id": "Theme_074bf07ec40739556c86ffc46d856a67cfb3fe31b3f13844f952ea438de7b2b4"
+    },
+    {
+      "type": "Theme",
+      "name": "amélioration de notre organisation pour mieux retenir nos pluies",
+      "id": "Theme_e3b77a1dc4ce9bf18b79722cbe5a7c8bf848cf4e2e9aefbef90c742f6963eb14"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté alimentaire",
+      "id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "type": "Person",
+      "name": "le ministre DENORMANDIE",
+      "id": "Person_7c58a759413c28f01d65718d7a2376ddb3fe854dae1dec025df97b7faff77e04"
+    },
+    {
+      "type": "Law",
+      "name": "un texte",
+      "id": "Law_bc96a62ab9e725d98392969884a29fdcbe25003a07eb4b711545cb26c9038ac3"
+    },
+    {
+      "type": "Law",
+      "name": "la loi",
+      "id": "Law_06ff4a6150586f7a90556b37e4d18bb94a678233510c532c9deb930d175a1290"
+    },
+    {
+      "type": "Person",
+      "name": "Présidente",
+      "id": "Person_e7114032cb4e034e59385925dc9528250fc45013f7a472cd52c034b91a0b4763"
+    },
+    {
+      "type": "Person",
+      "name": "Ministre",
+      "id": "Person_3ffa6811c83c16bf59edf782cd334ba6a4263e78436004596c3f8ab18adabbc4"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "adversité",
+      "id": "Theme_0e4c2cc0410008596115812f7ea68799928fb47b9d315b5bc9b10b60adca7065"
+    },
+    {
+      "type": "Theme",
+      "name": "clause de revoyure",
+      "id": "Theme_a257184728ee35a3576e55928f08828caa5930d172207157c9dc0178528410d5"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "défi démographique",
+      "id": "Theme_26d03fcdd189c369c5a0aaebcaeb07404851de0b047bc4a5041566c2172df735"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvellement des générations",
+      "id": "Theme_5ef52765a2c931a85a1f8063d1f704f9a68454ae3ee0e257f6d1a32c0ea685de"
+    },
+    {
+      "type": "Theme",
+      "name": "transition démographique",
+      "id": "Theme_5a223223630b9625f9a9d92d2745994fae863df10e378083408789e55b1d0d23"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "dérèglement climatique",
+      "id": "Theme_60205647b2eeaf601ee4e2e6b9ea7a92cc19a6fd1c5394651d737742ade35773"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte d'avenir",
+      "id": "Theme_c6cf536dbe837613756460faff723375843c3312adae5fe8c25495f180a25528"
+    },
+    {
+      "type": "Theme",
+      "name": "orientation",
+      "id": "Theme_74039395f94b06baaf3782d15df5ce6738621f26f63d04c0fc5af90d91a6c498"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "transmission",
+      "id": "Theme_5f3b7befdd4615ff5f6f2392f77484bd002f10d099d2c30e336f50361b9fc447"
+    },
+    {
+      "type": "Law",
+      "name": "loi",
+      "id": "Law_485a9dc7d96da743855079c7a36cf38d2dd611ec76c37030d236a6e1748b6bcc"
+    },
+    {
+      "type": "Theme",
+      "name": "agri-bashing",
+      "id": "Theme_1dbe20f3edb6de652231529f0518ef8585479295f92d21d3a721077327319359"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "pédagogie",
+      "id": "Theme_b22ddb6d3f49bf2d8dc94bc5cfaf692d45125c42d41bf64f6f59788dbe134874"
+    },
+    {
+      "type": "Theme",
+      "name": "paysages",
+      "id": "Theme_2be707bdd39280478c29eff99aa40ad9f0a1d2c90ac1a7beec664bee0f9f18bc"
+    },
+    {
+      "type": "Person",
+      "name": "Personne qui ne possède pas, sur le territoire français, la nationalité française",
+      "id": "Person_5b4c96915b1de4d5b726b3bd554583bd352c7e5480484ea548efe70b7c2c6ec1"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "métiers passion",
+      "id": "Theme_b9c75166fe73a9a75a89320c7f9046a3b5788753335f91390283a6402bd12a49"
+    },
+    {
+      "type": "Theme",
+      "name": "engagés",
+      "id": "Theme_3d3752daa997106239ee1ed250046c328fa98a91ec16923d5171379ecf49b589"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement agricole",
+      "id": "Theme_284cb99d24f655b5adb33baaa9c365e451634b312e9c4676f26b3e8cc74f7d9f"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation pédagogique",
+      "id": "Theme_7f28bd5354dbc11a795c804cdd27c623a9046b42f838992a94b280c12f3ed394"
+    },
+    {
+      "type": "Theme",
+      "name": "hydraulique",
+      "id": "Theme_1f4827bad14e7f3255a966d7c6db679843ba021216bfc157fe13d641655e8edc"
+    },
+    {
+      "type": "Theme",
+      "name": "robotique agricole",
+      "id": "Theme_096483c65f0dddc09fd086abd74c6004d2c9847221639de9dfdcce402644ddff"
+    },
+    {
+      "type": "Theme",
+      "name": "développement durable",
+      "id": "Theme_5f1bb520fa5de98e4e876d04cd83bf58d961cf1f5d62571cbb08cbca34482cec"
+    },
+    {
+      "type": "Theme",
+      "name": "développement",
+      "id": "Theme_9f563f6fb56281bb29449c280e882333dd332f1e1e2aa5ff1e49c8654dc6f9a4"
+    },
+    {
+      "type": "Theme",
+      "name": "projet de loi de Finances 2023",
+      "id": "Theme_37d3ddda3b9278fa754029a3cb0bc0d51ee65ca67590459c765d8d77d80630c4"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue entre générations",
+      "id": "Theme_e5597cd6a1efe326b159aab6de259da4b3c63dcc93a60b8eeef19eb9d2a8a3e6"
+    },
+    {
+      "type": "Theme",
+      "name": "installation",
+      "id": "Theme_67a51e46eb0c489c05f7a39324c20ab4b1a89c74e1802dac17d519bb996e8739"
+    },
+    {
+      "type": "Theme",
+      "name": "foncier",
+      "id": "Theme_ec78297eaef6c17147a501d59c500b37700fa39e8cc23b7ecb75eb5a1ca3066b"
+    },
+    {
+      "type": "Theme",
+      "name": "accès à la terre",
+      "id": "Theme_3f337c28cebfee146c6f1725ccca204bc96ded82e7114a56608fbbec8540342b"
+    },
+    {
+      "type": "Theme",
+      "name": "prix du foncier",
+      "id": "Theme_2982cf0e4bfd2540fab6039dd6e443ba0204298302dacf1180ee10a3f5d2924d"
+    },
+    {
+      "type": "Theme",
+      "name": "revenus agricoles",
+      "id": "Theme_f9f4d15f5241b09c2f189510ae77022eee681213ea6909c5a3b2193e3fa2629a"
+    },
+    {
+      "type": "Theme",
+      "name": "cession",
+      "id": "Theme_32b8fc197be6134556e0e270f9851f95ad1eb6990459cce902db5534071ac0b6"
+    },
+    {
+      "type": "Theme",
+      "name": "complément de retraite",
+      "id": "Theme_d0a46ee8a944e8daf18522c6c65d87ef02d73190a4afe4fb836d45d30a3b25eb"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds entrepreneur du vivant",
+      "id": "Theme_bb9f7b0ae16bf4fa3cf604a62cdfc7508519c1b01f8e2f442585d3a9e656f322"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités",
+      "id": "Organization_82cf8945d6e172880b094d7d80042a3a79f86b02e8d1d1f8c4efe9bbfd946230"
+    },
+    {
+      "type": "Organization",
+      "name": "syndicats agricoles",
+      "id": "Organization_d98c80fd3f5014e7dca68fc44e99b1da43cfb0997502787658de54b4480a11f2"
+    },
+    {
+      "type": "Theme",
+      "name": "installation agricole",
+      "id": "Theme_a186061e5636943b6d22b39f403f651da0964fb07347da5a5f99db2b412fe988"
+    },
+    {
+      "type": "Theme",
+      "name": "PSN",
+      "id": "Theme_5f0db4ca5499d0d2d8c1368395b16757447a6551f5e75be1732188b8f16c3acb"
+    },
+    {
+      "type": "Theme",
+      "name": "transition et de l'adaptation face au climat",
+      "id": "Theme_2558803dceea1d3671d00ccde315a7f8985eed1896a81d5c17a5cd0101a0de56"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement dans cette nouvelle révolution agricole",
+      "id": "Theme_17b595e3e823c129ca6beffe8a4a4a9a5be165921a933a549305babd011cd24f"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution du vivant et de la connaissance",
+      "id": "Theme_2f11fac314d0bae165fd979bdd167ea67a3cd861313db7f66be09a71a13ce020"
+    },
+    {
+      "type": "Theme",
+      "name": "agroécologie",
+      "id": "Theme_e15965fdb563a685cf4b95950c87247038011080fb723732345bfaa59ab6a006"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "robotique",
+      "id": "Theme_7dcf1c9ae964fcab8445c829886a97dfa275fc7995d32733ea41b2b032c91f10"
+    },
+    {
+      "type": "Theme",
+      "name": "génomique",
+      "id": "Theme_bc3b161a3a6c4789df4b8a3e3674cd7e4967ef996d4fc4c1258853749be94b67"
+    },
+    {
+      "type": "Theme",
+      "name": "génétique",
+      "id": "Theme_53dbcc4e81da94422625d96d605ad0f3b7f919509ad4c00a3f50bd9e23528da2"
+    },
+    {
+      "type": "Theme",
+      "name": "biocontrôle",
+      "id": "Theme_007ee2ceec31a0dfed7adc1f2f770a4e9d4f779de3fa933bd1661e5a6d5da99a"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions fondées sur la nature",
+      "id": "Theme_029badb46506500308a1d0c4aaaa9c258834d985a8db025155657b38ea25061c"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle agricole",
+      "id": "Theme_30370e53a1b149ab9e873e6b7bba52e192ad5610d636733b89364cc21a893508"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunes",
+      "id": "Theme_a20dcaf37efe496f33d1e4c4be9f3c3dabe56fc83fe45c815f1d76fdaaef0dcf"
+    },
+    {
+      "type": "Theme",
+      "name": "territoires",
+      "id": "Theme_66de4f396b7cd7f12f716e7146777cfaec081e489f77ec12af0287dcfb14bf40"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "cartographie",
+      "id": "Theme_3c3421950a7a875c71c23f5c94cd843a73d0bb7427d0af96062df9985c2d8662"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "viabilité de l'exploitation",
+      "id": "Theme_7eb76370154d96f1972b16656e657b659cbdae84912e529a31e13ab293eee5c0"
+    },
+    {
+      "type": "Theme",
+      "name": "adaptation au changement",
+      "id": "Theme_006f11fbf69645b53af0cea194a9e58a8969189c78c27c2b4188e70a0679b636"
+    },
+    {
+      "type": "Theme",
+      "name": "carbon farming",
+      "id": "Theme_18dcb24242e0bd5f13d98070d0ef781c4a7689326407837517b4e80d049fdbd8"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Law",
+      "name": "loi d'urgence, énergies renouvelables",
+      "id": "Law_31ca1ef3059266e3a8831888881acb8747ab7106744e8ef020011e54745bed4c"
+    },
+    {
+      "type": "Theme",
+      "name": "énergies renouvelables",
+      "id": "Theme_912e2c1b6d76c17cfecb65f028f348cae97ce3cd43f48890e5f528fb3273c56f"
+    },
+    {
+      "type": "Theme",
+      "name": "agrivoltaïsme",
+      "id": "Theme_bc5a56e652e7b7dc0f1d2370caf733fa706b3b3f20901ec7347e6e167a8d1ba3"
+    },
+    {
+      "type": "Theme",
+      "name": "méthanisation",
+      "id": "Theme_ad2ae4a21028fc898f01a50c69d2b9058ea9526d43f02ccc642965c20c9dfe97"
+    },
+    {
+      "type": "Law",
+      "name": "loi d'orientation d'avenir agricole",
+      "id": "Law_f8568081e53dccb2a3e0e6b369dc34b13b699ad82c5200deb7d1a6988d1f2091"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "producteurs",
+      "relation": "SUPPORTS",
+      "target": "fermer",
+      "evidence": "on condamne nos producteurs à continuer de fermer",
+      "confidence": 1.0,
+      "source_id": "Theme_4f2c37690bc04864304c8ff8b297ae290a8029c5df7b003f113ec01413f7562d",
+      "target_id": "Theme_5904b120f2fdeab986391d54bb8c0d18cd232ba62c84bb9bb6978f4481577f02"
+    },
+    {
+      "source": "pacte d'avenir",
+      "relation": "SUPPORTS",
+      "target": "agriculture",
+      "evidence": "C'est un pacte d'avenir pour bâtir ce pacte d'orientation et d'avenir pour notre agriculture, et pour ensemble, sur les sujets d'orientation, de formation, de transmission et de transition, réussir à se donner les bons instruments, les bons investissements et la visibilité.",
+      "confidence": 1.0,
+      "source_id": "Theme_c6cf536dbe837613756460faff723375843c3312adae5fe8c25495f180a25528",
+      "target_id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "source": "agriculture",
+      "relation": "SUPPORTS",
+      "target": "orientation",
+      "evidence": "C'est un pacte d'avenir pour bâtir ce pacte d'orientation et d'avenir pour notre agriculture, et pour ensemble, sur les sujets d'orientation, de formation, de transmission et de transition, réussir à se donner les bons instruments, les bons investissements et la visibilité.",
+      "confidence": 1.0,
+      "source_id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77",
+      "target_id": "Theme_74039395f94b06baaf3782d15df5ce6738621f26f63d04c0fc5af90d91a6c498"
+    },
+    {
+      "source": "projet de loi de Finances 2023",
+      "relation": "MENTIONS",
+      "target": "projet de loi de Finances 2023",
+      "evidence": "Tout cela sera gravé dès le projet de loi de Finances 2023",
+      "confidence": 1.0,
+      "source_id": "Theme_37d3ddda3b9278fa754029a3cb0bc0d51ee65ca67590459c765d8d77d80630c4",
+      "target_id": "Theme_37d3ddda3b9278fa754029a3cb0bc0d51ee65ca67590459c765d8d77d80630c4"
+    },
+    {
+      "source": "fonds entrepreneur du vivant",
+      "relation": "PROPOSED",
+      "target": "fonds entrepreneur du vivant",
+      "evidence": "je veux qu'on mette en place un fonds entrepreneur du vivant — et là, il est à structurer dans le cadre de la concertation — qui sera doté de 400 millions d'euros, c'est, je dirais, le départ",
+      "confidence": 1.0,
+      "source_id": "Theme_bb9f7b0ae16bf4fa3cf604a62cdfc7508519c1b01f8e2f442585d3a9e656f322",
+      "target_id": "Theme_bb9f7b0ae16bf4fa3cf604a62cdfc7508519c1b01f8e2f442585d3a9e656f322"
+    }
+  ]
+}

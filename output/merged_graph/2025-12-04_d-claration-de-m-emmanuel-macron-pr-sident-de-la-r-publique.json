@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "City",
+      "name": "Pékin",
+      "id": "City_c33b28c48b13d634999d50013f1cdd989b8055c898dcd822f8e335c15db449dc"
+    },
+    {
+      "type": "City",
+      "name": "Canton",
+      "id": "City_f725587b27abd4ac5ad12d3c799f7cbe060dd2e507f974181287d1de39fd2552"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "les Hautes-Pyrénées",
+      "id": "City_db3aa88f23328a24a82f03a91f3cb3fc6242d86d3c62ae4db49a45319215826d"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Investissements croisés",
+      "id": "Organization_297c156116a7f6c8af1c904c840457b0fda7cf8c8f61b9d0d669141d1543b428"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité géopolitique",
+      "id": "Theme_f5cb41395a000cb97de4273c0ad09399f5af5231a14d681625d1a68df85c738f"
+    },
+    {
+      "type": "Theme",
+      "name": "rééquilibrage économique",
+      "id": "Theme_424e3676107afae356ed560d2760669be2af2bcd39d11f3f59ea8aa0ae43bd7c"
+    },
+    {
+      "type": "Theme",
+      "name": "soutenabilité environnementale",
+      "id": "Theme_d7e77ca26ec4833fc74c086b1ce120ad5b64df6ae9abaf112247ab6ba734c312"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance mondiale",
+      "id": "Theme_3f9a7ac7cf825e493208e747b44bac978e2d5e9073d5d02cf82a72677840e87b"
+    },
+    {
+      "type": "Theme",
+      "name": "déséquilibres économiques mondiaux",
+      "id": "Theme_7cc80ef763f9ba6fddcf872d22d7676c60f37dad078d9b0e01bebc8fedef4539"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance économique rééquilibrée",
+      "id": "Theme_4e26e474b9d23ee3a03499cee18f2cd7b860976e1a3ab46feacd9a696b282801"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Chine",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "le dialogue entre la Chine et la France est plus que jamais indispensable",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

@@ -1,0 +1,814 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil régional",
+      "id": "Person_573578ce8dcc0cbd0d0df64d3b962407bd6d8cd3892f9ff551d383aabd8949b4"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le vice-président du conseil départemental",
+      "id": "Person_92601fc40e8f5cbcb812818d937fc827105933d39d5679e0a4b1704a8ddf22b3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président de l'agglomération",
+      "id": "Person_c0f5402dedc282fba7cb56acb746de7cc88978f4f709a189e41ab591e6fc2c0d"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les parlementaires",
+      "id": "Person_513d1485982528e0834eb4f4c38b73da53f9e4817cd30f728fe27e32d9fc11d3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le préfet de région",
+      "id": "Person_262d45b0f794c0ed4606bab776c03492a8313f55013aa3d5b0872d5773b9035c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le préfet",
+      "id": "Person_53c349332859a6f29fc7e202b933842f8a6c690203ea9dd3a5a57a1f2636c209"
+    },
+    {
+      "type": "City",
+      "name": "Montpellier",
+      "id": "City_a4b08d8442d3c90fe9eb3313e4500d0e3a904f2fb68190ad2b4820a2e2aeb0a7"
+    },
+    {
+      "type": "City",
+      "name": "Brest",
+      "id": "City_b8b2fe8f774eb8e0b0c96130393db97310dc549fba8a16f4944bf6c52d878f33"
+    },
+    {
+      "type": "City",
+      "name": "Nantes",
+      "id": "City_1de68f8e87d8e5ced688b8099593da93c4f38dd49dbdb1060438cfa40ea777d2"
+    },
+    {
+      "type": "City",
+      "name": "La Rochelle",
+      "id": "City_4bf42856150244f0aa9568b0959497f4ada950e0018a9f495d3dced3ebd8df2b"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "City",
+      "name": "Panama",
+      "id": "City_e477c60ddc3c6e72c4de82fb837bdd66a69bd13d46471514f7d9b77b3e402b89"
+    },
+    {
+      "type": "City",
+      "name": "Groenland",
+      "id": "City_b0d68430a416964be588460953d586557981f13ab05ea2f9051202ac2a20dbb3"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de navigation",
+      "id": "Theme_59b6882e7fba316531304ecb15d68451dd53f277fd0ddadb92ad42ab7d110af4"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de la mer",
+      "id": "Theme_534a5b9e65ef808b83f3c1d9c44f7f366d741c26901bca63d9fc77f7fd3d2cce"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêts",
+      "id": "Theme_7985e9987e13c9030f36916a481394f10120f2a2df5af45e1a9e071efa20c22c"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "tensions géopolitiques",
+      "id": "Theme_dd62899de9ecd0e23aaed27cd81143043b2035a37da8ed4e646b5342b24505a3"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation technologique",
+      "id": "Theme_dad9fe40be0460f2179d87c99f84f32a602fbf87027306fc54573f74bb6bd044"
+    },
+    {
+      "type": "Person",
+      "name": "Olivier Poivre d'Arvor",
+      "id": "Person_c90cc2a4a4f31d7eb6453481a9c2439367032d8b8bcec443511e11ac8dc775e4"
+    },
+    {
+      "type": "Organization",
+      "name": "UNOC",
+      "id": "Organization_2ab040141de802f52aa79408f66e8aceb3d15e443186d8adde795a6853480d9a"
+    },
+    {
+      "type": "Country",
+      "name": "Corée",
+      "id": "Country_8784379f3643bada41cd3ba24c8f27b8c4cf0ce606280f5024e4321bafbe0fdb"
+    },
+    {
+      "type": "Country",
+      "name": "Suisse",
+      "id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "Country",
+      "name": "Nice",
+      "id": "Country_2caa72a33bd21f8094df8167e10eafc0f1b07f8d79d7cd87355ab434ffda373b"
+    },
+    {
+      "type": "Theme",
+      "name": "Biodiversity Beyond National Jurisdiction",
+      "id": "Theme_dd78f9221bbc40e0a502197752b3f11938f8cc2a4b64b0e7c2a8cda6c25e750f"
+    },
+    {
+      "type": "City",
+      "name": "Montréal",
+      "id": "City_99afea798c48333043a2c59b590333b7f5d46230e2a7913f4b7a60f102d557f1"
+    },
+    {
+      "type": "City",
+      "name": "Kunming",
+      "id": "City_76764ef2d6ee9b2b41c2f5742ab4018bf1dad456dffed61bb377791662be2ff8"
+    },
+    {
+      "type": "City",
+      "name": "Montego Bay",
+      "id": "City_58a99a3a770e252c08c09a3a2e073fb73fc342ec31b27fbf6d505f94deea130e"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité marine",
+      "id": "Theme_c94c6b7f2c83755acd59297bc9b0838a64c4e593464a0bf7872b61830b9b5879"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de nos océans",
+      "id": "Theme_adb8c08ec65e9028cb7faf2996c9316d66f75037bd679e1d5fe4ec80b8c5ffcd"
+    },
+    {
+      "type": "City",
+      "name": "Biarritz",
+      "id": "City_93b38f184b3fb6b6bc29b058306f67b230f71b45122a1a03e069f45461341dfd"
+    },
+    {
+      "type": "Person",
+      "name": "Philippe-Louis Dreyfus",
+      "id": "Person_23cbf071d025e6229bd1c2e1a7b08c26a58be0aacf94393f1ae4effc7e09e795"
+    },
+    {
+      "type": "Organization",
+      "name": "GIEC",
+      "id": "Organization_297925d862ac77d06e0f92e928343f040f9454607959dbd74af3c818484ef000"
+    },
+    {
+      "type": "Organization",
+      "name": "IPES",
+      "id": "Organization_1f444e8ca2f3c6e30404e54ae239895922cf4ac0a023e2f1de3cf5c2435307ff"
+    },
+    {
+      "type": "Organization",
+      "name": "Ifremer",
+      "id": "Organization_470bd464aa4532ea3f706954f4ca7850d0e73ee2278c3764e95e344a78b7f1b6"
+    },
+    {
+      "type": "Organization",
+      "name": "CNRS",
+      "id": "Organization_9797a7b293510a1bf26addf4f9eb951f6a91dfb71b6b8d8c7031c08fb95a0fa4"
+    },
+    {
+      "type": "Organization",
+      "name": "Mission Neptune",
+      "id": "Organization_c35817e7918832b4893d794abb0b6897395742e66a16ca9e7dabfb5499c66483"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Country",
+      "name": "Polynésie française",
+      "id": "Country_719de631a141599b2bd3d9af8c7838fd04343c09b8a132e81ccc73be25304c71"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de nos paysages",
+      "id": "Theme_aeeb50b856bfc45cc594b9bfd3a7d6eff69101c5c99adeaeb985c6806852cd57"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de nos mers",
+      "id": "Theme_1f4e16c81f77bb3dc8b61293792973c8f76857e66fb7549cc4a7a2e4183dfc21"
+    },
+    {
+      "type": "Organization",
+      "name": "Conservatoire du littoral",
+      "id": "Organization_5d760a9800afe81741e9daf9f62f9be8defbd089bc56ac211d549d300cbd2889"
+    },
+    {
+      "type": "Person",
+      "name": "Général de Gaulle",
+      "id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442"
+    },
+    {
+      "type": "Theme",
+      "name": "géopolitique",
+      "id": "Theme_c3c610b50522db7d266b422a266b556f7825401c0d3b51ae9196e65d10f33b65"
+    },
+    {
+      "type": "Theme",
+      "name": "espace maritime",
+      "id": "Theme_1271306d63cdf95311b6403a5a4f69fe268a4f977addc00b245c5ea93fe94c07"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance maritime",
+      "id": "Theme_d235aa33d4711fe631f0a93d2d65084bc6418258f63059a0bee5bfd992f09e14"
+    },
+    {
+      "type": "Theme",
+      "name": "discours de la puissance",
+      "id": "Theme_132fb080c9e6e62f5fd9eb1c49f0c8df674c60c1965d80486c68c894ef0a1aec"
+    },
+    {
+      "type": "Theme",
+      "name": "mers",
+      "id": "Theme_45d2b76cf93687ebc76cca2dfd5b3d4f256a1f2067d13f715dfd237bf2ee7d5d"
+    },
+    {
+      "type": "Theme",
+      "name": "océans",
+      "id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "type": "Organization",
+      "name": "Fontenoy du maritime",
+      "id": "Organization_fb7b19a9fc7ab7c203c57bf7c89597aa3fda0b1e7eb649bfcfc2b96f77dbd8eb"
+    },
+    {
+      "type": "Organization",
+      "name": "École Nationale Supérieure Maritime",
+      "id": "Organization_7fc833aecb62d453d8135c2075eaeffe6e9d67cb70e094e53c2db8b2cf730389"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté alimentaire",
+      "id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "type": "Theme",
+      "name": "pêche",
+      "id": "Theme_0287cf7c46b5cffa29a4a5314ed2687af9e7319d0afd8684279cd081076f2ad5"
+    },
+    {
+      "type": "Country",
+      "name": "Guyane",
+      "id": "Country_784c3a53dbc879c108f7f1ab802a3d742fd7099e54765ef584384dcfdb508762"
+    },
+    {
+      "type": "Organization",
+      "name": "marine française",
+      "id": "Organization_591c05560ee25e290d5c1b8e3e74c22cfdf45ec983e6daeda09b8a3dc6e463d8"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvellements",
+      "id": "Theme_028aa01c322325368c48d1fce33ab80682305f4247b59e35e9a44b0adbb7794d"
+    },
+    {
+      "type": "Theme",
+      "name": "flottes",
+      "id": "Theme_52fdd8f9df9a618c1c65d8b478ea9281d9c9b7eed1fdbf2ff9d68d517021e651"
+    },
+    {
+      "type": "Person",
+      "name": "Cher président",
+      "id": "Person_d365aa68201ce725d2af62728c9477ab5931bace1b08db665f0613845b96714a"
+    },
+    {
+      "type": "Person",
+      "name": "La présidente de la Commission",
+      "id": "Person_440bd3ca48b5483b4b5212331944c763d32c91ecae6dffe45c466e78b2060d29"
+    },
+    {
+      "type": "Organization",
+      "name": "la Commission européenne",
+      "id": "Organization_23a747c0acf56d46eb793f5f452c85e1f9a52feaaac4084a12c2e5ca5247ece1"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Union européenne",
+      "id": "Organization_673fab4d08769d234a4cf43038f4d756b18cf5311dd75f678634c6bceba1dcb3"
+    },
+    {
+      "type": "Organization",
+      "name": "la filière européenne",
+      "id": "Organization_ab5a3335b671e3b8eb0a170f4a768293d358a943082e1b4e7d2e090688c7a147"
+    },
+    {
+      "type": "Organization",
+      "name": "la politique commune de la pêche",
+      "id": "Organization_f3facff861c6d05a9fd4ff9272bcab2e543b24fa83f0621371924d5fcfc323a2"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "Law",
+      "name": "politique commune de la pêche",
+      "id": "Law_987a223ae6ce042c3c8a0e374443730298a8776557ec49c3d49d7e881bcea9d2"
+    },
+    {
+      "type": "Law",
+      "name": "FEAMPA",
+      "id": "Law_3dd261640ec73e30869d8df997b4651e636e0ce3b4218edc34ad31ea7818ec68"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation mondiale du commerce",
+      "id": "Organization_279680ad64a597c5effc113dc4b3abd9bc4b6f6f07c59018604598bd2e0baca8"
+    },
+    {
+      "type": "Theme",
+      "name": "pêche illicite",
+      "id": "Theme_977d72d0c3a03004afe2a8a3de2c268ad95e2d9f4ccbd97b121927c02d6a92fd"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté énergétique",
+      "id": "Theme_29ddd5b819c0e29a592ce29a3a3806309c1234137a4e94a8f653f8b273860b3a"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance énergétique",
+      "id": "Theme_eb9f103e534f4f7d83c757cfab5c36c8be8f833115d5662a74a492004b6ef140"
+    },
+    {
+      "type": "Theme",
+      "name": "éolien en mer",
+      "id": "Theme_ca0364dde1e8690787417ca79bef4f133eaba6f31056c70ecbf428cf9b6f7cc3"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Person",
+      "name": "Hulot",
+      "id": "Person_ba5f879d66f49b1fd4a7ff8eeeea05d1c0df89160e80cded91b52be8a73ec907"
+    },
+    {
+      "type": "Theme",
+      "name": "engagements climatiques",
+      "id": "Theme_ce8735f19e3249fe1266d6c31cede0d9216b34166b868b2ac8106b98374c3682"
+    },
+    {
+      "type": "Theme",
+      "name": "économie d'énergie",
+      "id": "Theme_bbdf47330427af378c967d6d0a5d85d1ba7f093e9533ec25b2ea3081d8e3b36d"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelable",
+      "id": "Theme_d0beb8d3065f33b4c348175dce1aba64c98ce89f1a5876f75f351c8752b2dd50"
+    },
+    {
+      "type": "Theme",
+      "name": "réseau",
+      "id": "Theme_58b577b2730a3c24aa746245abe90bcfa95592930169733133543ac223fc830a"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "résultats climatiques",
+      "id": "Theme_9f4472b9a4cef950ca05affa4b2e51b7b30b079803fd88917de176c679fc2567"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition énergétique",
+      "id": "Theme_feff6d06670cbeeedce0505d84f1ab1e48595f6fc2d34340bcca06b5d5069ab3"
+    },
+    {
+      "type": "Theme",
+      "name": "visibilité",
+      "id": "Theme_f59a7fbc64425457d75c34d0bff557a4fa6deb3b2e067b747f711e04c9e5e6db"
+    },
+    {
+      "type": "Organization",
+      "name": "CMA CGM",
+      "id": "Organization_819865fb75c778bbfb012c0391c93269eb51cd3deb91195ae1751d80ae2fe585"
+    },
+    {
+      "type": "Theme",
+      "name": "ambitions commerciales",
+      "id": "Theme_81cd01bac498b1d3f6051bf0a2461c66f72643afe91f4db2dda36e508f3a299f"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance juste",
+      "id": "Theme_62d251568f43883b216f9e835b9d9df35720c0c43b165ace8a1b93270ebe30e7"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibres",
+      "id": "Theme_b894be6dd2881b319ec21f2bbcd0455bce14339d3a5228ad72b0d1d1569b9749"
+    },
+    {
+      "type": "Theme",
+      "name": "champions",
+      "id": "Theme_1614fca8c74536e0951a70f98cd6f9e109628ba2679023827e8609f151bc15e5"
+    },
+    {
+      "type": "City",
+      "name": "Havre",
+      "id": "City_ecc572ab37ee0d31d1c4838737d0e0d1dacaf3b30f8f53f9f123a171fec60476"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération internationale",
+      "id": "Theme_f1c50b725549c07d125f90bd43162db61122bbdc0b4302fc683cdd91bd964215"
+    },
+    {
+      "type": "Theme",
+      "name": "régulation des flux maritimes",
+      "id": "Theme_c62e4288343e5184c1f02a26efb2cd10b8156dab5363838e7d9e620f56957b40"
+    },
+    {
+      "type": "Theme",
+      "name": "marine",
+      "id": "Theme_e61595385be837b9b08db2125ac80f9778866df280f624588571956b47e68f54"
+    },
+    {
+      "type": "Theme",
+      "name": "porte-avions",
+      "id": "Theme_7b7b766c4ad313f5788b9344d4901e8725b08329974aa1590292b43cff46b669"
+    },
+    {
+      "type": "Theme",
+      "name": "sous-marins nucléaires",
+      "id": "Theme_bafd7ffbdd74a141c00bc277e59c182addc6d75a0ccf67860bc026ded429e5d5"
+    },
+    {
+      "type": "Theme",
+      "name": "Loi de programmation militaire",
+      "id": "Theme_a31ae1838a7ee49c488464985e40f77b97ec43be4cd2b944e3eea9a188dde74a"
+    },
+    {
+      "type": "Organization",
+      "name": "Notre marine et de notre sous-marinade",
+      "id": "Organization_f201d6e9590eec90f3646dfa2c04690424958dca716c2a9a24a96f6698e37a7a"
+    },
+    {
+      "type": "Law",
+      "name": "Loi de programmation militaire",
+      "id": "Law_33a7ceba1063d109ae9b37ebd3b66d0456905f4041a294907e5c29ef210f7d85"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "furtivité",
+      "id": "Theme_c60dad9879cf16a8947ff97d7ddbe92da01c388874025c5b29c64f2f3d41da67"
+    },
+    {
+      "type": "Theme",
+      "name": "dronisation",
+      "id": "Theme_f949a5d8e942574b5d6b1ed61a9e3949d14698240b5033ae06c5be733e5697f9"
+    },
+    {
+      "type": "Organization",
+      "name": "cluster maritime",
+      "id": "Organization_f417a7b42dac06672b70068718f08a1123d82aad502080e1c640e628694d515b"
+    },
+    {
+      "type": "Organization",
+      "name": "CIMer",
+      "id": "Organization_265524a6bd39844b520f4a5be5666680808bc8cf8eab623dbf50376c225d3f21"
+    },
+    {
+      "type": "City",
+      "name": "Toulon",
+      "id": "City_e269c743821deaa732a9c8c1951186d7a971393eded589032f1026304a7b1fa7"
+    },
+    {
+      "type": "City",
+      "name": "Djibouti",
+      "id": "City_0c1f44bacfd2514d28aa0c06e700ddf6f96d2b5ae6509a07553e8ad6e3eac477"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté stratégique et militaire",
+      "id": "Theme_81a19afe5271c263a5503b909d6bd44cda552744dd8da178cd847a0b381dbda0"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Organization",
+      "name": "marine",
+      "id": "Organization_f7756b41b964eede3c598acba391a223c04f8e1894b360aac173f1d7d996bbdb"
+    },
+    {
+      "type": "Organization",
+      "name": "services d'intelligence et de renseignement",
+      "id": "Organization_b970b0e2839bd96b2145d3c5741186eb1b895cb70d138bbc90d50e23700696c4"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition des volontaires",
+      "id": "Organization_be8486f9bba8dc1fc697606320fe234154a7b494b8fa4602ca7bd091c7e5b389"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Indonésie",
+      "id": "Country_7771567a7a9b44f302b0f12f28ad9ee4fe89238f6364c4b0642d6454f3add126"
+    },
+    {
+      "type": "Theme",
+      "name": "Indopacifique",
+      "id": "Theme_4bbd75d9106097dcb54f6bd07cbad0a27cf0fca1aab5ada2e267e15621c39dc6"
+    },
+    {
+      "type": "Person",
+      "name": "Marine",
+      "id": "Person_53a0b6758079073505c048024ca66739edd5312cb8995ed2c3ce4d14edc16929"
+    },
+    {
+      "type": "Theme",
+      "name": "défense de nos intérêts et de la France dans ces conflictualités nouvelles",
+      "id": "Theme_7b6e875aeb3b4fbe40028a7021882d06f3715fb505606843fed3b36f766e0204"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégies nouvelles de coopération alliant la défense et le climat",
+      "id": "Theme_c0649856a58a8f929c0ba9ca0a5371bf8dfdfa90c629d9b7f22ac27076f47a41"
+    },
+    {
+      "type": "Theme",
+      "name": "droit international",
+      "id": "Theme_5ed1c962a2e6badfcec01090455d807b7559f5af1344fea3604e0c342da4d8f1"
+    },
+    {
+      "type": "Theme",
+      "name": "combats",
+      "id": "Theme_7743f3c678c446384550fffe0c1e44b3dfe9d88bea4af764687221da1a9bce14"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "alliance inédite entre la défense et le climat",
+      "id": "Theme_db1c99167e84a716c2f6c402a7d7f9702246f50e4a9252e98b46663bb876c2bd"
+    },
+    {
+      "type": "City",
+      "name": "Rochefort",
+      "id": "City_0f9acb0be64de3c69e6add72cacd7158cb7a0364d12bfc83f42312e0266b22a5"
+    },
+    {
+      "type": "City",
+      "name": "Littoral",
+      "id": "City_f7533c9783f01cedb6293d06468137500416323ec9a472030da6140d78c2a5fe"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre Loti",
+      "id": "Person_4a02f138d60e31350b5cf06605ba4d2ef827fce23b017d838934bd8c4c0c9f0f"
+    },
+    {
+      "type": "Theme",
+      "name": "grand large",
+      "id": "Theme_39593e0976409239baaa48f33f7bef6d901b7159301e26b37fe5752e3431f971"
+    },
+    {
+      "type": "Theme",
+      "name": "conquêtes",
+      "id": "Theme_473b97c91b715c1884e094756bb526038f75aec2a61827a8a52dc66db7802ce1"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce",
+      "id": "Theme_030aa67661fc7f420b2620eaa40b472d5e87b4aea26693aacbd98e388c58bb88"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Et la France, comme deuxième espace maritime international, mais comme puissance maritime qui s'assume, l'Europe avec elle, ont un rôle évidemment essentiel à jouer pour relever ces défis dans un monde où nos mers sont redevenues des espaces de prédation.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Olivier Poivre d'Arvor",
+      "relation": "VISITED",
+      "target": "Nice",
+      "evidence": "Olivier Poivre d'Arvor, avec lui, toute l'équipe diplomatique française, mais c'est un effort diplomatique, scientifique de défense, mobilisant le cluster maritime et toutes et tous, qui a permis, en quelque sorte, en juin dernier à Nice, de marquer une étape décisive des avancées qu'on a su bâtir.",
+      "confidence": 1.0,
+      "source_id": "Person_c90cc2a4a4f31d7eb6453481a9c2439367032d8b8bcec443511e11ac8dc775e4",
+      "target_id": "Country_2caa72a33bd21f8094df8167e10eafc0f1b07f8d79d7cd87355ab434ffda373b"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "UNOC",
+      "evidence": "avec l'UNOC, qui s'est tenue à Nice en juin dernier, la France a tenu son rôle de puissance maritime et de gardienne de l'esprit français universel.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_2ab040141de802f52aa79408f66e8aceb3d15e443186d8adde795a6853480d9a"
+    },
+    {
+      "source": "UNOC",
+      "relation": "LOCATED_IN",
+      "target": "Nice",
+      "evidence": "avec l'UNOC, qui s'est tenue à Nice en juin dernier, la France a tenu son rôle de puissance maritime et de gardienne de l'esprit français universel.",
+      "confidence": 1.0,
+      "source_id": "Organization_2ab040141de802f52aa79408f66e8aceb3d15e443186d8adde795a6853480d9a",
+      "target_id": "Country_2caa72a33bd21f8094df8167e10eafc0f1b07f8d79d7cd87355ab434ffda373b"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Dès fin 2026, 78% de la surface maritime française totale sera protégée, dont 14,8 % sous protection forte, un résultat qui sera notamment atteint grâce à la création de la plus grande aire marine protégée au monde en Polynésie française -4,8 millions de kilomètres carrés-, et la présence stratégique de la France dans nos Outre-mer.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Fontenoy du maritime",
+      "relation": "SPOKE_ABOUT",
+      "target": "souveraineté",
+      "evidence": "C'est d'ailleurs tout ce qui était au cœur aussi des objectifs du Fontenoy du maritime, que vous avez largement porté, poussé, et au rendez-vous aussi du dynamisme de notre École Nationale Supérieure Maritime. Vous êtes au rendez-vous de ses ambitions. Former les prochaines générations de marins et d'officiers, ce qui est le socle de notre souveraineté future, et le socle en fond de cette alliance scellée entre l'État et les armateurs.",
+      "confidence": 1.0,
+      "source_id": "Organization_fb7b19a9fc7ab7c203c57bf7c89597aa3fda0b1e7eb649bfcfc2b96f77dbd8eb",
+      "target_id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "source": "France",
+      "relation": "PROPOSED",
+      "target": "politique commune de la pêche",
+      "evidence": "La France va donc se battre dans les prochains mois pour maintenir, sous des modalités à définir, l'enveloppe de la politique commune de la pêche dans le prochain budget européen.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Law_987a223ae6ce042c3c8a0e374443730298a8776557ec49c3d49d7e881bcea9d2"
+    },
+    {
+      "source": "renouvelable",
+      "relation": "OPPOSES",
+      "target": "nucléaire",
+      "evidence": "C'est un très mauvais combat que d'opposer le renouvelable au nucléaire.",
+      "confidence": 1.0,
+      "source_id": "Theme_d0beb8d3065f33b4c348175dce1aba64c98ce89f1a5876f75f351c8752b2dd50",
+      "target_id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "source": "Gouvernement",
+      "relation": "ANNOUNCED",
+      "target": "ambition énergétique",
+      "evidence": "il faut continuer de simplifier le déploiement, la mutualisation des procédures de mise en concurrence, conduisant par le biais d'un appel d'offres attribuant plusieurs projets, permet d'accélérer la durée des premières étapes de développement, et elle est essentielle. Et il faut redonner très vite, j'espère cela du Gouvernement et du Parlement, de la visibilité aux industriels et aux territoires sur les volumes et les calendriers attendus. Mais nous ne devons pas lâcher cette ambition énergétique.",
+      "confidence": 1.0,
+      "source_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f",
+      "target_id": "Theme_feff6d06670cbeeedce0505d84f1ab1e48595f6fc2d34340bcca06b5d5069ab3"
+    },
+    {
+      "source": "Gouvernement",
+      "relation": "SPOKE_ABOUT",
+      "target": "visibilité",
+      "evidence": "il faut redonner très vite, j'espère cela du Gouvernement et du Parlement, de la visibilité aux industriels et aux territoires sur les volumes et les calendriers attendus.",
+      "confidence": 1.0,
+      "source_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f",
+      "target_id": "Theme_f59a7fbc64425457d75c34d0bff557a4fa6deb3b2e067b747f711e04c9e5e6db"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Indopacifique",
+      "evidence": "Indopacifique, où la France est devenue, en étant consciente de sa taille, par la présence de ces territoires ultramarins, par la présence aussi de ces forces armées sur nos territoires ultramarins, comme chez nos partenaires en Inde ou aux EAU, est devenue un acteur incontournable.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_4bbd75d9106097dcb54f6bd07cbad0a27cf0fca1aab5ada2e267e15621c39dc6"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "C'est pourquoi j'ai beaucoup de gratitude à votre endroit et qu'en m'adressant à nouveau à vous aujourd'hui, je veux vous dire ma très grande fierté, mon soutien inconditionnel et ma volonté à vos côtés de continuer à faire de la France la grande puissance maritime qu'elle doit être.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

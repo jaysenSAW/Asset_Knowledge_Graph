@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Colombie",
+      "id": "Country_745684a15e3161927f996f47ab1b856fb30beed90b50d25e0a7011f567849707"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Person",
+      "name": "Ivan DUQUE",
+      "id": "Person_d2d45e87b8eeb0779e94afd6b8c7708ab1e28b2a7f9bfd703acf5bc2333bfb46"
+    },
+    {
+      "type": "Event",
+      "name": "COP26",
+      "id": "Event_e69a65b2074e540b5ff86bbbd0ab0f14581c32a7088a4afd0043457bf4fcdfea"
+    },
+    {
+      "type": "Theme",
+      "name": "déforestation",
+      "id": "Theme_b0021b43ded23b2328b09c00f17051c7c9fc076afb903b4c82485a9bca21e8a8"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Organization",
+      "name": "FARC",
+      "id": "Organization_b5cbbbc7dd461921af2eecd8bbbfe1dd8acbb9381649bf75c6480dfe77b86c52"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "conflit",
+      "id": "Theme_c5df677153d0b9960d87a7cc1c81b7c456008a70cab549159756fed685546c73"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "situation régionale",
+      "id": "Theme_b169fbe97344284c5514c7c517082dfb96e4b325af591353f24747c3c320b5c5"
+    },
+    {
+      "type": "Theme",
+      "name": "Venezuela",
+      "id": "Theme_02dc07804ffd1fa12a75136e3803ab16d8d83ad2b4d15268438e84e99e955461"
+    },
+    {
+      "type": "Theme",
+      "name": "forces démocratiques",
+      "id": "Theme_8b582c59b12b03ab23dff985f8ffc74a7b1e1c6985ae1602d2c2c07636cbd1a9"
+    },
+    {
+      "type": "Theme",
+      "name": "élections libres et transparentes",
+      "id": "Theme_0f73ee332f3edbca0d6b979e1adb339272b7ff9c4fcc920c54a6065552d984ce"
+    },
+    {
+      "type": "Theme",
+      "name": "situation humanitaire",
+      "id": "Theme_e58adbc6b98975d7de15d2064ab308615193f9b9f03aa04eddb6fcb6caaed971"
+    },
+    {
+      "type": "Theme",
+      "name": "apaisement",
+      "id": "Theme_3e5bdf9c6d06b6f11fdaf5c3b986abee292480a6ec68c388d6eacf9f790ecb23"
+    },
+    {
+      "type": "Theme",
+      "name": "transition démocratique",
+      "id": "Theme_69608962977460165ca9e56860a80b13668c42bfab9cad26eb61d812b54c8806"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Colombie",
+      "relation": "MEMBER_OF",
+      "target": "OCDE",
+      "evidence": "Colombie et France ont défendu au sein de l'OCDE cette initiative IPAC",
+      "confidence": 1.0,
+      "source_id": "Country_745684a15e3161927f996f47ab1b856fb30beed90b50d25e0a7011f567849707",
+      "target_id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "OCDE",
+      "evidence": "Colombie et France ont défendu au sein de l'OCDE cette initiative IPAC",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Colombie",
+      "evidence": "La France et la Colombie sont amis de longue date",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_745684a15e3161927f996f47ab1b856fb30beed90b50d25e0a7011f567849707"
+    }
+  ]
+}

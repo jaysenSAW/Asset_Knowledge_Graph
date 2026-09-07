@@ -1,0 +1,90 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Vladimir Poutine",
+      "id": "Person_ba07bc360f6d694c7c43cab878adc061217ec2b08d23eedefe4d5e2a082ef89c"
+    },
+    {
+      "type": "Person",
+      "name": "Donald Trump",
+      "id": "Person_0733a79f3150052cccafd940cdbbd3c8e236062bb642b00d56f0ff8484ba3762"
+    },
+    {
+      "type": "Person",
+      "name": "Volodymyr Zelensky",
+      "id": "Person_2ca7a6c5d9d63b0f7402762a935ff0257d1879f8e5e77dfddd77326fa5f1c646"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Nicolas Sarkozy",
+      "id": "Person_2cc0890d53d00df41342ecdfe549156f7ec8193b9b942eb2e2ac3f6e3fed29ce"
+    },
+    {
+      "type": "Theme",
+      "name": "paix robuste, durable",
+      "id": "Theme_6bb58530a3a15072e4976e4c026d74645c082a56ef4fadaed7f1fb9652a46418"
+    },
+    {
+      "type": "Person",
+      "name": "Trump",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Person",
+      "name": "Poutine",
+      "id": "Person_cd18bc7f49bb7d64b17bcbd894d6a8752a9076a00deeefdb299e52309a31d8e5"
+    },
+    {
+      "type": "Person",
+      "name": "Zelensky",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "City",
+      "name": "Londres",
+      "id": "City_46110e3e9c35de9d2cda1109fbec5fe7701b958198ac1143e8e5aa66bd4be03f"
+    },
+    {
+      "type": "Organization",
+      "name": "Le Louvre",
+      "id": "Organization_376f3a7e1fc11ec38493406c32b1ce0541a8ee562c25f944a56d81a2106c2b55"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Vladimir Poutine",
+      "relation": "PROPOSED",
+      "target": "Donald Trump",
+      "evidence": "Vladimir Poutine et Donald Trump devraient se rencontrer ces prochains jours à Budapest.",
+      "confidence": 1.0,
+      "source_id": "Person_ba07bc360f6d694c7c43cab878adc061217ec2b08d23eedefe4d5e2a082ef89c",
+      "target_id": "Person_0733a79f3150052cccafd940cdbbd3c8e236062bb642b00d56f0ff8484ba3762"
+    }
+  ]
+}

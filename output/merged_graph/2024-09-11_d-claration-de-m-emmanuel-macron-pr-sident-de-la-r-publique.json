@@ -1,0 +1,686 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le vice-président",
+      "id": "Person_e4765a19dce9a3d0277ba453d03834ed208f62bb536343e6686fb362956c9352"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la présidente de l'Assemblée nationale",
+      "id": "Person_b516cbe778959b5c3b0c46c45f2a2657637cb6e4730ddd21b2f4c2591d3bacb9"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les ministres",
+      "id": "Person_68c8bae1f1f0fa1fad64e1609435c27e59bb98f2bf0b5bf15ffe20298d0f898b"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil constitutionnel",
+      "id": "Person_72dbc8830f1008aa5ae95a6b0599ed372e6e55eb47eff8aaeecc69c5c47be752"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le vice-président du Conseil d'État",
+      "id": "Person_4849691e71a006acc87eae63cce1bac6a408a0b51c8c7df1353fae7394005d91"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la défenseur des droits",
+      "id": "Person_7b99d1e15c18e4382abf4fecc685ea50b67cbc7e39c113bc439698c84c6e7fe9"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les parlementaires",
+      "id": "Person_ee51dc2324bec5b163f1b8c4d3c4713f0a34d4232a11b6a3033c9f8b0c2a0fa2"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le premier président",
+      "id": "Person_3ea2eac37fa88b6a80d77f22a9d8412681da2049e1b08335f637f3e2058748c4"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le procureur général auprès de la Cour de cassation",
+      "id": "Person_02d678943cac2ea462b2cad9eefa5456a7d01cb6468bac3929fe625520d9dad0"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le procureur général auprès de la Cour des comptes",
+      "id": "Person_44388e39e4546ffdc9fe31a833b2543022109333f021c7543f56e1d5e5b7aece"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président de la Cour européenne des Droits de l'Homme",
+      "id": "Person_e7d49bac5f884a58612b3a6c576e47bc46229321c26af6da33ee70ae483b384d"
+    },
+    {
+      "type": "Person",
+      "name": "Mon général",
+      "id": "Person_4dee393bdf6e0458a49fe665cb1b9812a87a215316714163b3cd889ba32cad32"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les préfets",
+      "id": "Person_95d689a5bc09a213cd3d0451ad7d8dd9a394c3b42759720116a074cf1754aa31"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Conseillers d'État",
+      "id": "Person_5a9f0760ee9b1cad17fffe3a90f2482b0d98007b5542e6dde855812074717f15"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Law",
+      "name": "arrêt Blanco",
+      "id": "Law_f794840568b83369f65b9a4deddc8e8a6754e279a14540718b60b1fe308ce379"
+    },
+    {
+      "type": "Theme",
+      "name": "compétence de votre juridiction",
+      "id": "Theme_c0c6bc5e55979db2859efce80e7731aef8b28fee97d72b4ba92c8f2a5b654b6c"
+    },
+    {
+      "type": "Theme",
+      "name": "conciliation entre l'intérêt général et celui de chacun",
+      "id": "Theme_f4eeda12f48992a71190a524a230e2c2a5218e15437a9fd9042bdb3f4ae8355c"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêt général contre les revendications catégorielles",
+      "id": "Theme_fc897919cb7fff1906d42b089860f026d7d15059f789909a72913588aa609c46"
+    },
+    {
+      "type": "Theme",
+      "name": "contrat social contre la tentation de l'individualisme",
+      "id": "Theme_4fbfb5d07aa4734a620d414cb6e82c783d86f9c16d6be1b60eea99f131493ceb"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit même de ce que nous sommes en République",
+      "id": "Theme_00c312309b4304d9536c16f5ae7f5142d8c9b92ab1f44e4e6ff86ec841f3af1c"
+    },
+    {
+      "type": "Organization",
+      "name": "Tribunal des conflits",
+      "id": "Organization_c83fd737f5762064e794f24e20c85eeddddedc7a099c7f3c03083d20f91d0b3e"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil d'État",
+      "id": "Organization_7d48790e534959984e940cd4d9d9507c1c67b7fcbed172bfdefc6d911b3981cb"
+    },
+    {
+      "type": "Theme",
+      "name": "État de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Theme",
+      "name": "action publique",
+      "id": "Theme_548ddddc23f39dc2669e7b6e395c1e497b6a2f5fd1d83085a7af337638f0ddf2"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de manifester",
+      "id": "Theme_d9d3707394684c00a3107a7a624ea71410ca88073fc3175a326146874016b975"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de culte",
+      "id": "Theme_d25e7ce6fc0b51c23d45cb519eee66e13ff1010ae79e25a89f1377f798f0624c"
+    },
+    {
+      "type": "Theme",
+      "name": "contraintes sanitaires",
+      "id": "Theme_868d0e59b9444f8d4b9c25d43094a2283cee5aa88e59b269c7314a0ee72df7da"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêts fondamentaux de la nation",
+      "id": "Theme_98d919f91362bec4cf197646a366c7960d71f937add2b94cb0b53f0e3874e5dd"
+    },
+    {
+      "type": "Theme",
+      "name": "nécéssités de notre vie économique et sociale",
+      "id": "Theme_aacc985437e2bef8303e8db65a1e5db028d191ffb719f488073f9e869a71680e"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "exercice de vos missions",
+      "id": "Theme_af95d52f3e061b7b52e5fdaa9c3902de2b4877098e7032d6b54a19057771d404"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de nos concitoyens",
+      "id": "Theme_5a08ba4ccc2c394cc19bbfed36c436f55b35e58aba8bd5770e5a07ee6db98833"
+    },
+    {
+      "type": "Theme",
+      "name": "démocraties occidentales",
+      "id": "Theme_ef5df2b8a63acb7281ead5758823d9db5fc70aff54a670046aa0b52df56ff65c"
+    },
+    {
+      "type": "Theme",
+      "name": "transition climatique",
+      "id": "Theme_e75feae75fc3fc33a1090e46506e630bfc0c68d201d672aba551e5a19141a63a"
+    },
+    {
+      "type": "Theme",
+      "name": "transition technologique",
+      "id": "Theme_10498e59bd4864cd18a43ce6838b88695b9b85bb377ce4f21d411d722c25cf98"
+    },
+    {
+      "type": "Theme",
+      "name": "transition démographique",
+      "id": "Theme_5a223223630b9625f9a9d92d2745994fae863df10e378083408789e55b1d0d23"
+    },
+    {
+      "type": "Theme",
+      "name": "chocs géopolitiques",
+      "id": "Theme_0a1c18c25e13c00c71431ce8975663846c1d414cb002d1240e056806832e1a7d"
+    },
+    {
+      "type": "Theme",
+      "name": "instabilité du monde",
+      "id": "Theme_6ab28e8ce54812366caa30d6940bbb27d51d75b9e0413371a22a179699e40eaa"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre sur notre continent",
+      "id": "Theme_5fd4061cec08e175981c616f2bda5685aa70c44cc9bfcbf611f76ae9cf4a1b7d"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle",
+      "id": "Theme_56a9d80cc5c5f0db6a7fca8c1a2a686f455c689decc2e4e4abf4b873bfde1657"
+    },
+    {
+      "type": "Theme",
+      "name": "défis géopolitiques",
+      "id": "Theme_93e906d5028abe3999b8fc5eaf440ff4cff5f5e4049cde5dc2ad95aeab9f5a84"
+    },
+    {
+      "type": "Theme",
+      "name": "inefficacité de l'action publique",
+      "id": "Theme_65aa1dff85592aacf9a41d5b3addb151b7aa37313303241e88371e8e3c354122"
+    },
+    {
+      "type": "Theme",
+      "name": "arbitraire",
+      "id": "Theme_5225ba7560c0af9cbd2c4f214d43c776557b77c16df1f002fcfdc1754e5a28e1"
+    },
+    {
+      "type": "Theme",
+      "name": "système",
+      "id": "Theme_8d2bd4c17ae9f6aedd7a809555b1cce0c3cd227f3ba23f2a66d0a3fd1d2e5161"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses à ces défis du temps présent",
+      "id": "Theme_e4a19a5b8099d1adfa9b17205fab4b15f77678755bdcd12d272d5290f3106f78"
+    },
+    {
+      "type": "Theme",
+      "name": "thème du rapport de cette année",
+      "id": "Theme_e494229a0e4ec224857f5a111819df71b75459086a710b0f3d9ab4c7594850cc"
+    },
+    {
+      "type": "Theme",
+      "name": "effectivité des décisions",
+      "id": "Theme_57aea277266dc23ce054ae48e3dd0bbf7396b2fb3e13cdaace3bc6af5e767a7d"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil constitutionnel",
+      "id": "Organization_c856e421415fa3c1c9ca6b7d4e820fae68e01b58b97177b13f2e6143a448f79d"
+    },
+    {
+      "type": "Theme",
+      "name": "loi de programmation de la justice",
+      "id": "Theme_faba214bcf11110f7a16b1672ef8fd1153ced2fa50d940497daeb6682efcfa6f"
+    },
+    {
+      "type": "Theme",
+      "name": "juridiction administrative",
+      "id": "Theme_963913954559b0be215187207b9a10f741117b7d65b4990cdd79f9ecb392ca80"
+    },
+    {
+      "type": "Law",
+      "name": "loi dite immigration",
+      "id": "Law_4a754ccd2ebfed2a94815843bf8b1fba65d64778ed8d43e9eb2914ddbfcf429a"
+    },
+    {
+      "type": "Organization",
+      "name": "Cour Nationale du droit d'asile",
+      "id": "Organization_6668b7980166626f916608aa3d480b47c707babd3bef76b8b12e4e618b1fa167"
+    },
+    {
+      "type": "Person",
+      "name": "Première ministre",
+      "id": "Person_9ff0e19887e4e2b35684ac675f8d2d31181408c695aaac854cf451fc260b4b47"
+    },
+    {
+      "type": "Theme",
+      "name": "effectivité de l'action publique",
+      "id": "Theme_70768ccad49953303878b8f39caa0caafeb9051157fc0909111725e5db12f8d2"
+    },
+    {
+      "type": "Theme",
+      "name": "efficience",
+      "id": "Theme_99892e38cfaa09a14f09b2e948b67ddf820bace5106655507abe7afd741dc053"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme du prélèvement à la source",
+      "id": "Theme_5684547d9f529233404859c8700612790471ad782f504abbe9e4efeb19aca3ca"
+    },
+    {
+      "type": "Theme",
+      "name": "difficultés de nos agriculteurs",
+      "id": "Theme_2ad332c6bb31bd81de9e6c252682ea9d65bfd0a8fd215a270f22798b5e29ca22"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité de l'action publique",
+      "id": "Theme_11869dacd9c737b0984b504484d1516055d1fda52448ef77bdbbfcc6d6c5ff61"
+    },
+    {
+      "type": "Theme",
+      "name": "effectivité",
+      "id": "Theme_a38c0b85b6b76ee314813a01c93a9eb9bf423a12fc681703ad7469501030f5bd"
+    },
+    {
+      "type": "Theme",
+      "name": "culture renforcée de l'efficacité de l'action publique",
+      "id": "Theme_68b1891e692b4df9a2852d098fd59637fb1c95be3cef1b3fdc9f4bc28dba2ae0"
+    },
+    {
+      "type": "Theme",
+      "name": "crise de l'action publique et de la démocratie",
+      "id": "Theme_f28dde0b08903a67e94011010858b0e23958a916a9c7b46a1eda9fa308c54d5f"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "débats publics",
+      "id": "Theme_923a9aea4a772f1f73adc908de2480e1f3eff90997e853a78fec6d16af8f3216"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Person",
+      "name": "votre",
+      "id": "Person_7317a3886a408dcce68640a26221253dacea28ea58a931eaa24671ae561087d9"
+    },
+    {
+      "type": "Person",
+      "name": "vos Premiers ministres",
+      "id": "Person_86f21bab3e6040468641d54e395c9ebee752ca1408069d54d34b198761cec3ee"
+    },
+    {
+      "type": "Person",
+      "name": "COMBREXELLE",
+      "id": "Person_76e8e207d240b24e9819b9effffb6e3961c51b484bfe095753ad20288b8b4b9b"
+    },
+    {
+      "type": "Theme",
+      "name": "normes",
+      "id": "Theme_63b2bd4eb30422d7f3e9df259557711eba985b3d7f2995b7837452ba98b6b0b4"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "normes accumulées",
+      "id": "Theme_d61dec1dc403f85166b17005afde0e0a18a1184cc6fc37ac1df8383a505b85d3"
+    },
+    {
+      "type": "Theme",
+      "name": "construction européenne",
+      "id": "Theme_684ff14a3709d31a6f23f9466e85e2931f502471aae1450f3c292dc7d3cd7748"
+    },
+    {
+      "type": "Theme",
+      "name": "protection de l'environnement",
+      "id": "Theme_a41e8e18628de5f82e8c9b1b4c3839debd0b1917bc13185c5654493373a85c99"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "conservation des données",
+      "id": "Theme_ca2e7a551cd7780e73ff7014a04ec76817248ea68f6cf86344b09aa034c2fa09"
+    },
+    {
+      "type": "Theme",
+      "name": "risques terroristes",
+      "id": "Theme_89b3aae9e90b4ba17cd6b245b7b36281ecf1522273f7791aa82f325c2ccfd3f6"
+    },
+    {
+      "type": "Theme",
+      "name": "bioéthique",
+      "id": "Theme_992b643980ae71f074e868d9db7e93f8fdd5fa53f23cdadc2cd38b57fdd483db"
+    },
+    {
+      "type": "Theme",
+      "name": "questions éthiques",
+      "id": "Theme_a5456f25a7eef9d41ad9c68fdb56fa2d42a31ca0d23befa85e7b1565785551a5"
+    },
+    {
+      "type": "Theme",
+      "name": "sociétales",
+      "id": "Theme_f2d96c3df5bfcd44ddc2bb6d1d91480b7292e51b59ae1391411c5c610a1d2615"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations médicales",
+      "id": "Theme_a05f494b210d18c381bcd26a083b61ff295c7228183b2ab4bdce8f17aec6e133"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté du peuple",
+      "id": "Theme_13c3a03a4cdddb701f21135f1137fcb47ddfe76ec7f8374bdea1caa69c9748f5"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés publiques",
+      "id": "Theme_3263f766a0af85d8cd9a99561b8c720d44f311c9b501b42dc08f9d768b0168c8"
+    },
+    {
+      "type": "Theme",
+      "name": "pluralisme",
+      "id": "Theme_a741080b365c82e9b6aec87ddae77303587c9136d76c01e63c366a9fbbe60422"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de chacun",
+      "id": "Theme_f01888903ec9e8df983d39a62a597adedc5e686f6c7ce046c3172b688b0d03b4"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyens",
+      "id": "Theme_7d1a20e7e542c485e63052a17d8f9ddf3d1dd02261280872534ea7bb07c33170"
+    },
+    {
+      "type": "Theme",
+      "name": "vitalité démocratique",
+      "id": "Theme_a90a5d2a7ced809773ce7811ae57abbd4953eb9aa506008d07f4cc825a1c9c8d"
+    },
+    {
+      "type": "Theme",
+      "name": "convention citoyenne",
+      "id": "Theme_fdfcde6e39385178598a98a4fb7ca748b4cb2dc85661148611f3e4083a54cba4"
+    },
+    {
+      "type": "Theme",
+      "name": "service national universel",
+      "id": "Theme_aac51ed073ec968cdf55805e1637ecd4d52aa84e531553ee107ef36a913fffc9"
+    },
+    {
+      "type": "Theme",
+      "name": "plan de mobilisation civile",
+      "id": "Theme_7fef7e95c3d020b764e3fa5fe6b1e150f22ce615fd4c03de8196d5adc8225da3"
+    },
+    {
+      "type": "Theme",
+      "name": "opinion",
+      "id": "Theme_387324ea2b9853b405beec2481e994dfe2ebe40e910d16cc3e972f256fda19bc"
+    },
+    {
+      "type": "Theme",
+      "name": "espace public",
+      "id": "Theme_9b793c146c506294896cd948914f9bcf0ec86d207faa9892a7d75a17818e8207"
+    },
+    {
+      "type": "Organization",
+      "name": "Notre administration",
+      "id": "Organization_d73f4a5f2bab8a6c2842b5f455cf7fef485468b405c6b31056542af164629d11"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie",
+      "id": "Theme_fa010b2e87d32c400a0a52b10fe00d186b07d80baf9792842d534698bb9241c6"
+    },
+    {
+      "type": "Theme",
+      "name": "extraterritorialité",
+      "id": "Theme_c23928abb28c5573aca1efd0d98147776288775317d1047dc3bde0bec2e13abe"
+    },
+    {
+      "type": "Theme",
+      "name": "droit",
+      "id": "Theme_809b6d16ebe657005418287171a0ff40ba1f2fc184046e82a8dbc6d9366cc1a9"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "CEDH",
+      "id": "Organization_ee984c820e95469e68a6b5a882abdd8b8b6e1f5f9e2ff9f57df14323156dd2f5"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté numérique",
+      "id": "Theme_82a8b179d2875a313843f3d96b5b2ecca7f1aea3a119dbe5d6b02ced4aec6593"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté nationale",
+      "id": "Theme_908cda9c0e0225bccd231ecd5a892555b929eb93d34e7963cfae442ed2c7548c"
+    },
+    {
+      "type": "Theme",
+      "name": "souverain",
+      "id": "Theme_de79322873bb6a6ced9476b3e8ea416250480fcf9dfa4592b6293daafadef770"
+    },
+    {
+      "type": "Theme",
+      "name": "Constitution",
+      "id": "Theme_eb4b390baab57a0b5493dd655d96373dd60c1ce0a0b39dbd0a66ba091f181c89"
+    },
+    {
+      "type": "Theme",
+      "name": "temps long",
+      "id": "Theme_0c2b28d151694b73427a70b60bd20ff0518b41c86bf8d15203e26041893cd4eb"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit stratégique",
+      "id": "Theme_381a99e9af1ffd81c48be7fd17f164b99d3658e7d3743733e391dd444b4ee68b"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêts de la France",
+      "id": "Theme_346a4e92ad2c7d94264db76ef99ef85c9e7ad59afbba689f643055515ab84b47"
+    },
+    {
+      "type": "Theme",
+      "name": "services publics",
+      "id": "Theme_9d23f2423869f33761b54988a51c02bcaaec512697b3c1f29a8001cba8569472"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "le Conseil",
+      "id": "Person_2f1be9e0edc1d9809a3abe4305dbecaa2d1acafea1c2e79ae476b0d929fb893c"
+    },
+    {
+      "type": "Person",
+      "name": "le peuple d'aujourd'hui",
+      "id": "Person_509348fd7cd7cadf1ec1c2824d04e5716322cc8191dbe02a3dfa4b77b434d213"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Conseil d'État",
+      "relation": "SPOKE_ABOUT",
+      "target": "action publique",
+      "evidence": "Le Conseil d'État permet à l'action publique d'être en amont plus robuste en droit, plus accessible pour le citoyen, plus proche des enjeux nouveaux que suscite le cours du temps et, si je puis dire en aval, de trancher les litiges, de dessiner l'équilibre en perpétuelle évolution entre les droits et les libertés.",
+      "confidence": 1.0,
+      "source_id": "Organization_7d48790e534959984e940cd4d9d9507c1c67b7fcbed172bfdefc6d911b3981cb",
+      "target_id": "Theme_548ddddc23f39dc2669e7b6e395c1e497b6a2f5fd1d83085a7af337638f0ddf2"
+    },
+    {
+      "source": "État de droit",
+      "relation": "MENTIONS",
+      "target": "État de droit",
+      "evidence": "L'état de droit, vous l'avez dit — j'ai eu l'occasion de le défendre au Conseil constitutionnel ou ailleurs et je plaiderai ici devant une assemblée déjà conquise — n'est pas le problème, il est le garant.",
+      "confidence": 1.0,
+      "source_id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108",
+      "target_id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "source": "État de droit",
+      "relation": "SPOKE_ABOUT",
+      "target": "État de droit",
+      "evidence": "L'état de droit, tout particulièrement dans le contexte qui est le nôtre, est la consolidation de nos valeurs les plus fondamentales, pas simplement d'un ordre constitutionnel, mais d'un ensemble d'équilibres de pouvoir, de séparation, de bons ajustements des pouvoirs, de leur fonctionnement, mais aussi de la possibilité pour les valeurs qui se sont construites à travers les temps d'être maintenues malgré les vicissitudes des décisions ponctuelles ou de l'actualité.",
+      "confidence": 1.0,
+      "source_id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108",
+      "target_id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "source": "souveraineté",
+      "relation": "MENTIONS",
+      "target": "souveraineté",
+      "evidence": "la souveraineté s'exerce par le peuple",
+      "confidence": 1.0,
+      "source_id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b",
+      "target_id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "source": "opinion",
+      "relation": "MENTIONS",
+      "target": "opinion",
+      "evidence": "l'opinion du peuple se forge chaque jour",
+      "confidence": 1.0,
+      "source_id": "Theme_387324ea2b9853b405beec2481e994dfe2ebe40e910d16cc3e972f256fda19bc",
+      "target_id": "Theme_387324ea2b9853b405beec2481e994dfe2ebe40e910d16cc3e972f256fda19bc"
+    },
+    {
+      "source": "espace public",
+      "relation": "MENTIONS",
+      "target": "espace public",
+      "evidence": "l'espace public que nous avons progressivement poli, aménagées pour que la démocratie soit sereine",
+      "confidence": 1.0,
+      "source_id": "Theme_9b793c146c506294896cd948914f9bcf0ec86d207faa9892a7d75a17818e8207",
+      "target_id": "Theme_9b793c146c506294896cd948914f9bcf0ec86d207faa9892a7d75a17818e8207"
+    },
+    {
+      "source": "démocratie",
+      "relation": "MENTIONS",
+      "target": "démocratie",
+      "evidence": "la démocratie soit sereine",
+      "confidence": 1.0,
+      "source_id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd",
+      "target_id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "source": "souveraineté numérique",
+      "relation": "MENTIONS",
+      "target": "souveraineté numérique",
+      "evidence": "Quelle souveraineté numérique véritable si elle n'est européenne ?",
+      "confidence": 1.0,
+      "source_id": "Theme_82a8b179d2875a313843f3d96b5b2ecca7f1aea3a119dbe5d6b02ced4aec6593",
+      "target_id": "Theme_82a8b179d2875a313843f3d96b5b2ecca7f1aea3a119dbe5d6b02ced4aec6593"
+    },
+    {
+      "source": "souverain",
+      "relation": "MENTIONS",
+      "target": "souverain",
+      "evidence": "c'est le peuple souverain lui-même, conformément à notre Constitution qui, par ses représentants, parfois en ayant à s'exprimer directement, l'a acceptée",
+      "confidence": 1.0,
+      "source_id": "Theme_de79322873bb6a6ced9476b3e8ea416250480fcf9dfa4592b6293daafadef770",
+      "target_id": "Theme_de79322873bb6a6ced9476b3e8ea416250480fcf9dfa4592b6293daafadef770"
+    },
+    {
+      "source": "Constitution",
+      "relation": "MENTIONS",
+      "target": "Constitution",
+      "evidence": "conformément à notre Constitution qui, par ses représentants, parfois en ayant à s'exprimer directement, l'a acceptée",
+      "confidence": 1.0,
+      "source_id": "Theme_eb4b390baab57a0b5493dd655d96373dd60c1ce0a0b39dbd0a66ba091f181c89",
+      "target_id": "Theme_eb4b390baab57a0b5493dd655d96373dd60c1ce0a0b39dbd0a66ba091f181c89"
+    }
+  ]
+}

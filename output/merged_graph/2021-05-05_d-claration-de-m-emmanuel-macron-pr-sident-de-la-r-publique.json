@@ -1,0 +1,604 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Napoléon BONAPARTE",
+      "id": "Person_07d12a3557e8f7927180ade09d2fca3dfbcfaa1e714dcf4c3efab89d4f2de412"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président du Sénat",
+      "id": "Person_7e68447f1fff5598debf68f88e590723f4177208acb10cd696ea6f7e3498c1e1"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président de l'Assemblée nationale",
+      "id": "Person_99441dedec1cf827ebee614bb06ad1e1c099195c54d812c07f09751c8fde208c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Chancelier",
+      "id": "Person_02581618e061350fbdd46beea08715070a6256e5c2d26f39d0bc79cc68981238"
+    },
+    {
+      "type": "Person",
+      "name": "Chères lycéennes",
+      "id": "Person_aba7eebfc1208b2fe088d4d5f846626eb7bc6c705bf979893c749fd0a2573f14"
+    },
+    {
+      "type": "Person",
+      "name": "chers lycéens",
+      "id": "Person_413d4b081ee3548a1adecf2d93d97a3fb86ac6ebd6fcac48d19b56f2d0f34a9f"
+    },
+    {
+      "type": "Person",
+      "name": "Napoléon",
+      "id": "Person_4557979ab4bfc5444af4bf74876903be822b8b938bbdfc6cd00c5e03769f707d"
+    },
+    {
+      "type": "Person",
+      "name": "Victor SCHOELCHER",
+      "id": "Person_61ce673b316dda27cfa92fa19f715b1ebe83342fac7dcddb3292e743f2ec991b"
+    },
+    {
+      "type": "Person",
+      "name": "Toussaint LOUVERTURE",
+      "id": "Person_3746cea5a53e03a538319f66d473ae26aa1699288308a87431da42f0a188a247"
+    },
+    {
+      "type": "Person",
+      "name": "l'Abbé Grégoire",
+      "id": "Person_067a3b86951b0f8e2fe6ae51b307bdce700d36b7dba6aa5afeb4b4b2b07dfd0f"
+    },
+    {
+      "type": "Person",
+      "name": "Chateaubriand",
+      "id": "Person_c2836a4f951581ed214e714de70f3612c74fadf36a0a24f312f363304dcefe99"
+    },
+    {
+      "type": "Person",
+      "name": "GOYA",
+      "id": "Person_d9060d9c646d84a476dc56f7a809059816d1661812eea097b3b85024a6295509"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Arc de Triomphe",
+      "id": "City_10ef5382a1805d5b24f3143e17e7aa237da6c6003e843bbeaeb62b0691820d49"
+    },
+    {
+      "type": "City",
+      "name": "Madeleine",
+      "id": "City_b08bfa655d17f4d28bf65ff121f11b0a84d7789debde10dd660c4e5d30d3e98b"
+    },
+    {
+      "type": "City",
+      "name": "Vendôme",
+      "id": "City_ffd61804616e6d869b21f82a28936f26957f14df80705b9db9ff5fcef6407b49"
+    },
+    {
+      "type": "City",
+      "name": "Austerlitz",
+      "id": "City_167dd6691ba37fa78db3d3aeb7b1b1857ed694ae11660a9e012fa41740a75481"
+    },
+    {
+      "type": "City",
+      "name": "Iéna",
+      "id": "City_585c6c40f8756d931cc0abc59f9f756d2b0b0ff48fc56b7752f1adef65628589"
+    },
+    {
+      "type": "City",
+      "name": "Rivoli",
+      "id": "City_927acd1fb5c7c12a8080a7b36f8a47099ed9734aa86a99a4434cdc7f0ccb03c9"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut de France",
+      "id": "Organization_58e144bed01adb3fbae6e9f53c79f4b9d6d44918df8d89313779529d59870698"
+    },
+    {
+      "type": "Theme",
+      "name": "esclavage",
+      "id": "Theme_6c8a39580c293f0e1a0b51fe1a62e8835ea56eaa637002c41f0227b20ad85fdd"
+    },
+    {
+      "type": "Theme",
+      "name": "célébration exaltée",
+      "id": "Theme_a8a12365302895708100213de27474cd1af7118c0f15f3bd704ad6a5329a7ab6"
+    },
+    {
+      "type": "Theme",
+      "name": "commémoration éclairée",
+      "id": "Theme_bb2ee3f949fd92ee580df919457b4a871285a04da1fd7dcac4607b67225ade5d"
+    },
+    {
+      "type": "Theme",
+      "name": "effacer le passé",
+      "id": "Theme_92c534b4208c3bec849664e623218e0a9417311a5f1c7a6ce198d9864f6d7f54"
+    },
+    {
+      "type": "Theme",
+      "name": "l'idée qu'ils se font du présent",
+      "id": "Theme_75d8ea22b709122a49555c170ae069999139b5fc005a5187d3a0209ce7d49c62"
+    },
+    {
+      "type": "Theme",
+      "name": "canonnades de la campagne d'Italie",
+      "id": "Theme_53a05ff705ffec051093e7e029e636218657f2c77bbb8d8785eae3457b80e773"
+    },
+    {
+      "type": "Theme",
+      "name": "entrechoquement des sabres d'Austerlitz",
+      "id": "Theme_bfcbd09c7dbb29e396783b3e1081f2ce139c3768f438bf17a65e79e6c207a5e9"
+    },
+    {
+      "type": "Theme",
+      "name": "action et les leçons du guerrier, du stratège, du législateur autant que du bâtisseur",
+      "id": "Theme_e2cf9fb61b8f578687be96296e69f3779ede01d116db3bafb78bac55243555d1"
+    },
+    {
+      "type": "Theme",
+      "name": "mythe",
+      "id": "Theme_0282f944c7a140dfbf070dee7131423caa2945a3e836c9fb1a91c8d689d9ea9a"
+    },
+    {
+      "type": "Theme",
+      "name": "part de France qui a conquis le monde",
+      "id": "Theme_ab2987073276e6918dd2124e0c246b4442d54f3dc081cbdaa83356cf12f6be51"
+    },
+    {
+      "type": "Theme",
+      "name": "vivant, il a manqué le monde. Mort, il le possède !",
+      "id": "Theme_3b7decd3f9367061a809238345fdc3295344e76f83bc9583dfd6f7188b986da7"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité civile",
+      "id": "Theme_eb85b8a779de747e45f8e7a64a7c804514b416cd19a2e8fa858585a84d5998a2"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité entre les femmes et les hommes",
+      "id": "Theme_b484a156d9d64e08166b13528c3fa60f7e66a7f8a085ad36db2ca83767aac644"
+    },
+    {
+      "type": "Theme",
+      "name": "Code civil",
+      "id": "Theme_cb6bd493914cf9e2ce4871e0cf3298afcda3e715e0a84696ea4e0058f4058fa9"
+    },
+    {
+      "type": "Theme",
+      "name": "Code pénal",
+      "id": "Theme_54ead393f48fd7cb1d005fb6bf3ed5d53e5a214c66b91695c5c2050322f1c406"
+    },
+    {
+      "type": "Theme",
+      "name": "peine de mort",
+      "id": "Theme_86c416b9bdd3a4da79fa44c3ee9abc3201a4abc1f17c2b4334a58a5232b3955a"
+    },
+    {
+      "type": "Theme",
+      "name": "baccalauréat",
+      "id": "Theme_a85ebca50c789018d33ab41a94b09fb29f263c787acb24e2aa09b4b9d870a244"
+    },
+    {
+      "type": "Theme",
+      "name": "société historique",
+      "id": "Theme_4dcae3f4b0c5f47813b4fad08a000be2771d41df2fa764e6f06dcdbcc65c5622"
+    },
+    {
+      "type": "Theme",
+      "name": "pays de temps long",
+      "id": "Theme_c86885907bc677ecee6918be918b708dcde44fbe859589464c429abc8a1de432"
+    },
+    {
+      "type": "Theme",
+      "name": "Nation-palimpseste",
+      "id": "Theme_6186432efc11ac88c69ded6c661cd846924d35b3275571b0a71ceada7430d83e"
+    },
+    {
+      "type": "Theme",
+      "name": "peuple libre",
+      "id": "Theme_fcea9ba026ba1b5d139f91432db88a291a82689fe2aabc2669cf4d40e34ce577"
+    },
+    {
+      "type": "Person",
+      "name": "Clovis",
+      "id": "Person_c7f09c6d72bfc736f2369ce0f04d2147e03ff674bb7747832de8f32b032eca0f"
+    },
+    {
+      "type": "Person",
+      "name": "Ajaccio",
+      "id": "Person_a0eb3e74ee83f8fc60aa8a81f635c9aff360910189eddec4a0501e270a36acb6"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Gaspard GOURGAUD",
+      "id": "Person_c077905e2840fd6eae95c95b63babb2c656aa08b96da86bf0ee908df66f8f421"
+    },
+    {
+      "type": "Theme",
+      "name": "possible",
+      "id": "Theme_a1d7f7650e82d2ad1dd7a28d2a96ca46902b84d1420d262b93b6af64d147c2b0"
+    },
+    {
+      "type": "Theme",
+      "name": "l'imagination",
+      "id": "Theme_014b514579443895e0d63785f97a974e4c11a8343d01fc2749c573cc0a758d58"
+    },
+    {
+      "type": "Theme",
+      "name": "raison",
+      "id": "Theme_9e9d8f485579e57f1eef713302cd106d43b9f1ff37f7d0bbbf7fe3484509fd78"
+    },
+    {
+      "type": "Theme",
+      "name": "science",
+      "id": "Theme_d67c10976c1585f4e9e05fc3bac6b493bcfd249cfb52bacfebf7d74d2b724f45"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation",
+      "id": "Theme_01dbd75772ce2e01acf43a9eed5bfc3d66a83ad34f48105944d56c5bf0aaa34b"
+    },
+    {
+      "type": "Theme",
+      "name": "18éme siècle",
+      "id": "Theme_5bf25f62cb7b62381ade7d63497322e1028005e010e78004675109e15f04ccbb"
+    },
+    {
+      "type": "Theme",
+      "name": "mathématiques",
+      "id": "Theme_ae7ddf6f0a5e1b0a30bc2a7319673bb090d490d377e1a9d85144ee9cf8cbea1c"
+    },
+    {
+      "type": "Theme",
+      "name": "arithmétique",
+      "id": "Theme_2e20c748dde5a8ff7c8c7404b6e9c2a49d2683445c039395a46b0af943f044ca"
+    },
+    {
+      "type": "Theme",
+      "name": "physique",
+      "id": "Theme_95cdb9d652e7e9d2de8db56282667ec24426750900f68c847321141cff5df41a"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie militaire",
+      "id": "Theme_bab8dd1448bdc7a11043e48a5dfd0dc5d58f8836bd7de92ec33bc4a6ca6fef6b"
+    },
+    {
+      "type": "Theme",
+      "name": "Spinoza",
+      "id": "Theme_c9a16de6859ec164bf28175b9d1d9d812615bfb55941bcd253f17f05efea8c61"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès",
+      "id": "Theme_99fbe2fae74b83c0fb6be33e85f58e86e641fe47059e9c1672808dfbdcf5b5bd"
+    },
+    {
+      "type": "Theme",
+      "name": "École polytechnique",
+      "id": "Theme_0745b48513202f6e2c0f624fed34ca996d6fe16fe2761a826498cac8247e1aed"
+    },
+    {
+      "type": "Organization",
+      "name": "Saint-Cyr",
+      "id": "Organization_f9f8a62bdb9d0aaf603970ffd763e6b1209059262c76a6a3cd711d004d314925"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut",
+      "id": "Organization_11f1472856756fe26712a4382a2a517a601d400a0c5c5a0500b5e744f2e229aa"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission des sciences et des arts",
+      "id": "Organization_c5902aaf3054d69185f5cf16b1812e804a3c0fa0793abae7cb3e4016abd735e1"
+    },
+    {
+      "type": "Theme",
+      "name": "art militaire",
+      "id": "Theme_157ce78e4021e9435ac86fe499baa34bb2ab9ea786263bd00636a78eeff8e049"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir scientifique",
+      "id": "Theme_dca0af5c2455771133a3fdcdc0e8aa034c85b1b9dedf46877162c6e52a01d99e"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "campagne d'Égypte",
+      "id": "Theme_6c8b0b1a4e90e1f45bcab870775950c23912c17db8fe58fba1547f7f54072cea"
+    },
+    {
+      "type": "Theme",
+      "name": "conquête",
+      "id": "Theme_92a3b857e49702b5416c8233335c6bcbaf25ff0456a0438ce6806b89c9d846bf"
+    },
+    {
+      "type": "Theme",
+      "name": "civilisation",
+      "id": "Theme_55506e6b6a566c3a1ba5bfa8aa2636a9d0eca0526c32a3b767eb8f396191dc34"
+    },
+    {
+      "type": "Theme",
+      "name": "faune",
+      "id": "Theme_67a1b16b5e3a1433f324047da398c7dbe1c24c19eb39a666528fadc91aa633c3"
+    },
+    {
+      "type": "Theme",
+      "name": "flore",
+      "id": "Theme_62f7e90fcee938b8b8c85770a83d320eb133eff9c10655fe251ad4522ea99a03"
+    },
+    {
+      "type": "Theme",
+      "name": "administration",
+      "id": "Theme_e265cce8ed8d3639f0dd21d797cea8d98723b56b1efa5c17bc01d014349b1bc2"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Person",
+      "name": "GOETHE",
+      "id": "Person_ee6f5c4d6b17b6320700cbc4b9bc13b0a8fdedffde951cdd79392cf8d6307d84"
+    },
+    {
+      "type": "Person",
+      "name": "STENDHAL",
+      "id": "Person_b63651eb3150c7895721ead56d01f985ac99b64d26386d4a50d67b3b9ec87902"
+    },
+    {
+      "type": "Person",
+      "name": "HUGO",
+      "id": "Person_b27d80b1c828994491a6a9ab143890b3c4f9fb0516451dd8fa988bad038c70ce"
+    },
+    {
+      "type": "Person",
+      "name": "Antoine-Jean GROS",
+      "id": "Person_85d964e2ed8adc163da799dbbfdbdad2f63fc743338d7fc4ec57eea7123c54cf"
+    },
+    {
+      "type": "Person",
+      "name": "pape",
+      "id": "Person_8e040dda123eef20031d14111ff5df85ea924a943cc19dbeea7999a0bf42fec2"
+    },
+    {
+      "type": "Person",
+      "name": "Sainte-Hélène",
+      "id": "Person_0cce78cbb20c2dfb1976dc79421128c5265a2579ea4c14b0ef14f2dedf4e6107"
+    },
+    {
+      "type": "Person",
+      "name": "HEGEL",
+      "id": "Person_1152a198ec84c6db1b8c6eb5796ee146d360bbb1089f25ef2925f6ec18bcf8ea"
+    },
+    {
+      "type": "Person",
+      "name": "Sieyès",
+      "id": "Person_dc18df82564c6ad7f9ceb2d22e8cf5eb499f0861b87723cd5536b6c9b2fd731f"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs révolutionnaires",
+      "id": "Theme_c60f4f7974386735219aa27f06940c94961c88726aa4a0eaf73718759cdc81cf"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté nationale",
+      "id": "Theme_908cda9c0e0225bccd231ecd5a892555b929eb93d34e7963cfae442ed2c7548c"
+    },
+    {
+      "type": "Country",
+      "name": "Angleterre",
+      "id": "Country_4afd60f813a108a1cf61b2786053c92158c543948b13939e4046f277f801f3eb"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "amnistie",
+      "id": "Theme_05949f5b829c407580e1d2e149287ad5cf88c4eb838c7ad21830bbb9f66a4c6d"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "sacré",
+      "id": "Theme_0e4e18dd239a2b2500341ecf768d6e349256d1230e8afa3c3add328a2371e9bb"
+    },
+    {
+      "type": "Person",
+      "name": "Tocqueville",
+      "id": "Person_a060e5e62f67e3c5c85124c1d4bdb118115919c27b3a29afbd39e8206cec6011"
+    },
+    {
+      "type": "Event",
+      "name": "Révolution",
+      "id": "Event_cf15a1b1b0dd350c6bc85dc5cdf2f38c4dc921794776ba298ce75579087728f0"
+    },
+    {
+      "type": "Event",
+      "name": "1789",
+      "id": "Event_65d400faf96277055066f8be8128280666900a2481acdb977eb003c8460b1d44"
+    },
+    {
+      "type": "Event",
+      "name": "Austerlitz",
+      "id": "Event_e1c9ea8bc3a292326f2d8b92234bec026e2e870e03a19cd2d7a37d3c63778184"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Napoléon",
+      "relation": "MENTIONS",
+      "target": "esclavage",
+      "evidence": "NAPOLÉON en 1802, vous l'avez là aussi évoqué, a rétabli l'esclavage que la Convention de 1794 avait aboli.",
+      "confidence": 1.0,
+      "source_id": "Person_4557979ab4bfc5444af4bf74876903be822b8b938bbdfc6cd00c5e03769f707d",
+      "target_id": "Theme_6c8a39580c293f0e1a0b51fe1a62e8835ea56eaa637002c41f0227b20ad85fdd"
+    },
+    {
+      "source": "Napoléon",
+      "relation": "SPOKE_ABOUT",
+      "target": "esclavage",
+      "evidence": "NAPOLÉON en 1802, vous l'avez là aussi évoqué, a rétabli l'esclavage que la Convention de 1794 avait aboli.",
+      "confidence": 1.0,
+      "source_id": "Person_4557979ab4bfc5444af4bf74876903be822b8b938bbdfc6cd00c5e03769f707d",
+      "target_id": "Theme_6c8a39580c293f0e1a0b51fe1a62e8835ea56eaa637002c41f0227b20ad85fdd"
+    },
+    {
+      "source": "NAPOLÉON",
+      "relation": "MENTIONS",
+      "target": "égalité civile",
+      "evidence": "NAPOLÉON, ainsi fidèle à l'esprit de 1789, a gravé dans le marbre l'égalité civile entre les hommes dans le Code civil, la protection de la loi pour tous avec le Code pénal.",
+      "confidence": 1.0,
+      "source_id": "Person_4557979ab4bfc5444af4bf74876903be822b8b938bbdfc6cd00c5e03769f707d",
+      "target_id": "Theme_eb85b8a779de747e45f8e7a64a7c804514b416cd19a2e8fa858585a84d5998a2"
+    },
+    {
+      "source": "NAPOLÉON",
+      "relation": "MENTIONS",
+      "target": "Code civil",
+      "evidence": "NAPOLÉON, ainsi fidèle à l'esprit de 1789, a gravé dans le marbre l'égalité civile entre les hommes dans le Code civil, la protection de la loi pour tous avec le Code pénal.",
+      "confidence": 1.0,
+      "source_id": "Person_4557979ab4bfc5444af4bf74876903be822b8b938bbdfc6cd00c5e03769f707d",
+      "target_id": "Theme_cb6bd493914cf9e2ce4871e0cf3298afcda3e715e0a84696ea4e0058f4058fa9"
+    },
+    {
+      "source": "NAPOLÉON",
+      "relation": "MENTIONS",
+      "target": "Code pénal",
+      "evidence": "NAPOLÉON, ainsi fidèle à l'esprit de 1789, a gravé dans le marbre l'égalité civile entre les hommes dans le Code civil, la protection de la loi pour tous avec le Code pénal.",
+      "confidence": 1.0,
+      "source_id": "Person_4557979ab4bfc5444af4bf74876903be822b8b938bbdfc6cd00c5e03769f707d",
+      "target_id": "Theme_54ead393f48fd7cb1d005fb6bf3ed5d53e5a214c66b91695c5c2050322f1c406"
+    },
+    {
+      "source": "NAPOLÉON",
+      "relation": "MENTIONS",
+      "target": "possible",
+      "evidence": "On aime NAPOLÉON parce que sa vie a le goût du possible.",
+      "confidence": 1.0,
+      "source_id": "Person_4557979ab4bfc5444af4bf74876903be822b8b938bbdfc6cd00c5e03769f707d",
+      "target_id": "Theme_a1d7f7650e82d2ad1dd7a28d2a96ca46902b84d1420d262b93b6af64d147c2b0"
+    },
+    {
+      "source": "NAPOLÉON",
+      "relation": "MENTIONS",
+      "target": "raison",
+      "evidence": "La vie de NAPOLÉON est aussi un chant de la raison.",
+      "confidence": 1.0,
+      "source_id": "Person_4557979ab4bfc5444af4bf74876903be822b8b938bbdfc6cd00c5e03769f707d",
+      "target_id": "Theme_9e9d8f485579e57f1eef713302cd106d43b9f1ff37f7d0bbbf7fe3484509fd78"
+    },
+    {
+      "source": "NAPOLÉON",
+      "relation": "PROPOSED",
+      "target": "savoir scientifique",
+      "evidence": "NAPOLÉON voulut aussi à chaque fois lui-même contribuer à la progression du savoir scientifique et de la recherche.",
+      "confidence": 1.0,
+      "source_id": "Person_4557979ab4bfc5444af4bf74876903be822b8b938bbdfc6cd00c5e03769f707d",
+      "target_id": "Theme_dca0af5c2455771133a3fdcdc0e8aa034c85b1b9dedf46877162c6e52a01d99e"
+    },
+    {
+      "source": "NAPOLÉON",
+      "relation": "PROPOSED",
+      "target": "recherche",
+      "evidence": "NAPOLÉON voulut aussi à chaque fois lui-même contribuer à la progression du savoir scientifique et de la recherche.",
+      "confidence": 1.0,
+      "source_id": "Person_4557979ab4bfc5444af4bf74876903be822b8b938bbdfc6cd00c5e03769f707d",
+      "target_id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "source": "NAPOLÉON",
+      "relation": "MENTIONS",
+      "target": "NAPOLÉON",
+      "evidence": "Ce que NAPOLÉON représente dans la construction de la Nation, ce que NAPOLÉON charrie d'universel est là.",
+      "confidence": 1.0,
+      "source_id": "Person_4557979ab4bfc5444af4bf74876903be822b8b938bbdfc6cd00c5e03769f707d",
+      "target_id": "Person_4557979ab4bfc5444af4bf74876903be822b8b938bbdfc6cd00c5e03769f707d"
+    },
+    {
+      "source": "Sieyès",
+      "relation": "MENTIONS",
+      "target": "Sieyès",
+      "evidence": "Sieyès, le 18 brumaire et l'Orangerie du parc de Saint-Cloud.",
+      "confidence": 1.0,
+      "source_id": "Person_dc18df82564c6ad7f9ceb2d22e8cf5eb499f0861b87723cd5536b6c9b2fd731f",
+      "target_id": "Person_dc18df82564c6ad7f9ceb2d22e8cf5eb499f0861b87723cd5536b6c9b2fd731f"
+    },
+    {
+      "source": "NAPOLÉON",
+      "relation": "SPOKE_ABOUT",
+      "target": "valeurs révolutionnaires",
+      "evidence": "Nulle volonté non plus de dire si NAPOLÉON a concrétisé ou au contraire dévoyé les valeurs révolutionnaires.",
+      "confidence": 1.0,
+      "source_id": "Person_4557979ab4bfc5444af4bf74876903be822b8b938bbdfc6cd00c5e03769f707d",
+      "target_id": "Theme_c60f4f7974386735219aa27f06940c94961c88726aa4a0eaf73718759cdc81cf"
+    }
+  ]
+}

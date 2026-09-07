@@ -1,0 +1,484 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "BERSET",
+      "id": "Person_22f668db3e4e36dc008954572a5da9d676590e801e0cc9b2d2da32daffa63838"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Suisse",
+      "id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "type": "City",
+      "name": "cher pays voisin",
+      "id": "City_612f3e197264048ed1ee4b23c06ab478abc37b4c4cf6c7d5e360681e16a5bfed"
+    },
+    {
+      "type": "Person",
+      "name": "Madame l'ambassadrice",
+      "id": "Person_783c16ac4383b349a3f46b496464b07a42e68af0a7f102a08c0670a6b1e248c5"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur l'ambassadeur",
+      "id": "Person_ca63df6e99fdaff6436f8fd8ee480f34c6752e2fbbae13fb9d4ec2653a96ecad"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les ministres",
+      "id": "Person_04725bf2245672793e76174d8746ec28f46c281ef73283bf9390941f137cf2cf"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames Messieurs les parlementaires",
+      "id": "Person_f879153b28740d9514dbcd93603cc82282967a253c73170eff53755abbb16289"
+    },
+    {
+      "type": "Person",
+      "name": "Personne qui ne possède pas, sur le territoire français, la nationalité française",
+      "id": "Person_5b4c96915b1de4d5b726b3bd554583bd352c7e5480484ea548efe70b7c2c6ec1"
+    },
+    {
+      "type": "Person",
+      "name": "Mes chers compatriotes",
+      "id": "Person_b6b29c7b55b71aae52b700aaa89778c04669d873e35a8a1d54782abede5f747b"
+    },
+    {
+      "type": "Person",
+      "name": "un Président français",
+      "id": "Person_288530ca8a3eedb226392df949bea04e5b32008a1004b0c60466bf615b9fbfa1"
+    },
+    {
+      "type": "Theme",
+      "name": "difficultés en France",
+      "id": "Theme_79e4e25a0fb8b908dee7cbf1571684942c868d1c5984ec885560cfc09ed17779"
+    },
+    {
+      "type": "Theme",
+      "name": "amitiés profondes",
+      "id": "Theme_92690e6bbf9872234c64b9bc68df1f410c045f8b42694f9d9d13872fc699bd6e"
+    },
+    {
+      "type": "Theme",
+      "name": "lien avec l'Union européenne",
+      "id": "Theme_b0177b8d5909f9ae1af38aa483538a77dee213c791cb41925f44bfca57ae5ad7"
+    },
+    {
+      "type": "Theme",
+      "name": "débats géopolitiques",
+      "id": "Theme_87ddbda1e88c027efd87c7f2d9127d1681bb199a63071cb511105b5752b83a65"
+    },
+    {
+      "type": "Theme",
+      "name": "idées démocratiques",
+      "id": "Theme_a04b8ac114346c4663b8a96bf02c9c043ed6ee6037648fcf312ddca575b03778"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "Hamas",
+      "id": "Country_664ba06f90f7d7b4b326982afebee134092d48624510c1de058deb1ef0567bc3"
+    },
+    {
+      "type": "Country",
+      "name": "Communauté politique européenne",
+      "id": "Country_8deb22834efd9bf8d1c7ac353736c1a72daef44b4f15405073da7376acd130e7"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "French Tech",
+      "id": "Organization_b2676cfdc8d5c52026131494972cd4ec8242bce018a1350d66e8f0885374d625"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue transfrontalier",
+      "id": "Theme_969ead04b0ea278399482594514c4d823529373d4e6e6c81d98143c187bbb93a"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité étudiante",
+      "id": "Theme_2d5f1aecf785402426b6005bb404b6fe7478ef2d9191e9d9d16c52dd735000c0"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructure",
+      "id": "Theme_56bf334af851c53637205b6d244369b7a79242b053c01761e47c234c7dac1b93"
+    },
+    {
+      "type": "Theme",
+      "name": "eaux du Doubs et du Rhône",
+      "id": "Theme_3e29e35c0946172ca2e60a7fa5529b8ec47e2dac7544060d51c3e783e8d2ac7b"
+    },
+    {
+      "type": "Person",
+      "name": "la secrétaire d'État auprès d'elle en charge des Affaires européennes",
+      "id": "Person_f7d19d90e658f14e7df569fa1384e83f3fd95fd7812e5c1560648e239cb088a5"
+    },
+    {
+      "type": "Person",
+      "name": "les ministres qui ont porté ces dossiers",
+      "id": "Person_2b241f3b0098559db022410fc6dfe9e5b2b16afed75f862468450b34d49acb03"
+    },
+    {
+      "type": "Organization",
+      "name": "notre premier sommet polaire du 10 novembre dernier",
+      "id": "Organization_77f9d7810e728999246b5eb1ba72ad1fa8d6389d3f410ce2dc8a35f568fb17ec"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "cryosphère",
+      "id": "Theme_a86e4358a5453e1af6ec5f3a0f36f0a6e88967e3055b7436580bd2fd3219cf46"
+    },
+    {
+      "type": "Theme",
+      "name": "glaciers",
+      "id": "Theme_149732b9046929049a06f458ca7ac9c804bb542611729981ba32b18f4af2ece4"
+    },
+    {
+      "type": "Theme",
+      "name": "Alpes",
+      "id": "Theme_0f7c926692d7a4ac848a17789c8f5a51ba9be20a8742e89133db1ba587a3873a"
+    },
+    {
+      "type": "Person",
+      "name": "compatriotes",
+      "id": "Person_001a4cd7d5ccbd2fe897e22660603f55473d585828976f6e12b964cf37700fd5"
+    },
+    {
+      "type": "Country",
+      "name": "pays voisins",
+      "id": "Country_7297c23aefba83f0c3bab065ff7672d7a5c022173e377eb3056e660eaad32de9"
+    },
+    {
+      "type": "Country",
+      "name": "pays francophone",
+      "id": "Country_b99f6aba8a6f4b80ed4b7032cf0f4b23d21f42d593c601e19e6bbf9874bccf97"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Olivier BECHT",
+      "id": "Person_2e0ddd4cd42ca08b2144096736df3868ecbc3e6483b9c8b6f38583987def49d2"
+    },
+    {
+      "type": "Person",
+      "name": "Marc FERRACCI",
+      "id": "Person_08b5e58a38076c54ce322d459b0c330d8cb1e37f9f8cb306215a30469bc7ec80"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur ANGLADE",
+      "id": "Person_83b47d458b02718e04f16e7bfb8e7b5db635d73e3209041c0ac64c50b82a7e96"
+    },
+    {
+      "type": "Person",
+      "name": "nos présidents",
+      "id": "Person_a7f466b72a8b3802447f4c8f1611ba5d1bcb7dc239e233cfe0d3f0bb23cc0662"
+    },
+    {
+      "type": "Person",
+      "name": "nos députés",
+      "id": "Person_918103cae0f7b4501274826407485de488903c262763c14b9c103147b0dfae40"
+    },
+    {
+      "type": "Person",
+      "name": "nos parlementaires des régions frontalières",
+      "id": "Person_0b9a536c3a789973fb0cc9b18ac4132110a6b1a51ea77ffd33dcac7302e8dfe2"
+    },
+    {
+      "type": "Person",
+      "name": "nos élus bisontins ou quasi",
+      "id": "Person_61b57c29643c4c7c0ae9061421efa73958be2d8aa177d3280c5638968d22ffe5"
+    },
+    {
+      "type": "Person",
+      "name": "ambassade",
+      "id": "Person_caa08ac87fcfbb21eb77e70ae2b4ddbf7b516c28bf67834e5332aa7f3fe79e19"
+    },
+    {
+      "type": "Person",
+      "name": "consulats généraux de Genève",
+      "id": "Person_4331d7398989614eac52f51f839e709badfd67da7facbfe09cca2b0f7f8e88e7"
+    },
+    {
+      "type": "Person",
+      "name": "consuls honoraires",
+      "id": "Person_a35e0daad490c6c46cdfbe92950a07b1ba3808422aee07b1b64d5999f1baf39d"
+    },
+    {
+      "type": "Person",
+      "name": "député",
+      "id": "Person_ec1894e96f6d439587b2c77fb57ee03303983890b2fac58c05bdb5d545a07d74"
+    },
+    {
+      "type": "Person",
+      "name": "élus de proximité",
+      "id": "Person_f9ebb0de76fcab4b874077e4c63d2bcb2bf15165df3603e99bc5b94638a19370"
+    },
+    {
+      "type": "Person",
+      "name": "bénévoles des associations",
+      "id": "Person_75467e1b64203dd7fa5a7499be8a606807824ef89e19dbe1e45ea2efac21dbf8"
+    },
+    {
+      "type": "Person",
+      "name": "citoyens volontaires",
+      "id": "Person_1cb4d2909e53e07e91788e25ec871ed83e08d1f753766d6962fb6324a7a38d76"
+    },
+    {
+      "type": "Theme",
+      "name": "expatriation",
+      "id": "Theme_36d3510591196072646351b4b1aa74fd4246d061d716ca876bcd6937ae5e6de4"
+    },
+    {
+      "type": "Theme",
+      "name": "simplifications",
+      "id": "Theme_97de7a3d21d396113e102629d52088ff437c06aaa33cb9f708875c029e66eff0"
+    },
+    {
+      "type": "Theme",
+      "name": "numérisation",
+      "id": "Theme_50905116b58d71fb611a012a8f989a8547a38622832cfa8ac5a6f5aa23f431c0"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Agence pour l'enseignement français à l'étranger",
+      "id": "Organization_f06fc4d9b1c30eb94fefb31c1c5e1a29375a3b3a30258e22adafd0a60537eb3a"
+    },
+    {
+      "type": "City",
+      "name": "Bâle",
+      "id": "City_96ab311e62f1af007fd6c56f3e92555a4136559cdd16d621c49ac27de5741c38"
+    },
+    {
+      "type": "City",
+      "name": "Berne",
+      "id": "City_e99117c5aa759e4336339cfdc607266e379890aba91b9292480e080e11d277d1"
+    },
+    {
+      "type": "City",
+      "name": "Genève",
+      "id": "City_1e1bcb8350bd351dbae872cc05cfc79707a3977ce5c0e4df66663ad91285ebda"
+    },
+    {
+      "type": "City",
+      "name": "Lausanne",
+      "id": "City_c1bf620c4988cb52fe508fc5ed163e90cc9946ca58c74a6e2a3d6412da15fd94"
+    },
+    {
+      "type": "City",
+      "name": "Zurich",
+      "id": "City_d09c9880a58a35d65712d0f0030af3bbd0dda9a5c5361c10ae6b9039a1f90e1d"
+    },
+    {
+      "type": "City",
+      "name": "Villers-Cotterêts",
+      "id": "City_6aab14668bdee637018a1a68554281503579fbe339dd9c176e5ba0e6fb326493"
+    },
+    {
+      "type": "Event",
+      "name": "20? Sommet de la Francophonie",
+      "id": "Event_936adf062f3128f558887c484d54b8db5c60e47427b8a8e0a45c53ae2069806f"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "systèmes d'innovation",
+      "id": "Theme_b28fae6d4e48dadb68bcbcced414bae06414c6111edca6d25483aef29c1775dc"
+    },
+    {
+      "type": "Theme",
+      "name": "startups",
+      "id": "Theme_b3fedf1927a7ff9f9b930ba12d4dcb168cbce6318c5601c66dc5821cf26b6a3d"
+    },
+    {
+      "type": "Theme",
+      "name": "centres d'innovation conjoints",
+      "id": "Theme_ac90eb29d7701e8bfc88909ac46273f48377574fd6e13bfd880b09117aa74893"
+    },
+    {
+      "type": "Organization",
+      "name": "CERN",
+      "id": "Organization_2d8e2352978701894a490fed769847cf9391a641fdcad7e628f914a79227fe09"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation spatiale",
+      "id": "Theme_500e4449388a72912d7b299c9a05327ad0bdc3acc45054ac5248610b8841fd4c"
+    },
+    {
+      "type": "Theme",
+      "name": "cybersécurité",
+      "id": "Theme_7a7cca556d551b9b5266cdc687341603275f2a9d8ba680e9e25daeeddb894a52"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "quantique",
+      "id": "Theme_a55a5e9c04e9e49c2efc55c9c97fdcdd3149041e81aa26bd45766547b9155e23"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la directrice",
+      "id": "Person_ff7be39a9b8ae91aab22ae4a16fbc4e7681c42c878bc3ccb205b2d8531ab981a"
+    },
+    {
+      "type": "Organization",
+      "name": "les universités suisses",
+      "id": "Organization_1a91fc0da7453931984b3594d24160005e173a0274aa9f91cab9589dcf2a930f"
+    },
+    {
+      "type": "Organization",
+      "name": "les musées",
+      "id": "Organization_b41a2009083f84e34d891481fa98449c8f468182e13c80b6e4fb5351f3c64317"
+    },
+    {
+      "type": "Organization",
+      "name": "les festivals",
+      "id": "Organization_2a753c821cdf728144982f25849253dc741e0905082cbd6c5258a0ce712cb6e8"
+    },
+    {
+      "type": "Organization",
+      "name": "les galeries",
+      "id": "Organization_e3430b632fd7012d8aacbecabee401ae690c81bd383dcb6d1aa1d4209efc3d7d"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Luc GODARD",
+      "id": "Person_3a857eeb6de0f3afcb462b5328bafd60f53bc41c0bd591ffcf6545932581f99f"
+    },
+    {
+      "type": "Person",
+      "name": "Jean MONNET",
+      "id": "Person_9e4c61007d85fae9fe644c077cc68f266730e5b7ba73a5012280f551016b4fe9"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation Jean MONNET pour l'Europe",
+      "id": "Organization_216006c591ff62a7b5825ffb564738a1e5ac4b2a7001c695e551d23949d31949"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Suisse",
+      "evidence": "une communauté de destin et de pensée qu'il y a entre la Suisse et la France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "source": "un Président français",
+      "relation": "VISITED",
+      "target": "Suisse",
+      "evidence": "en ce moment, alors qu'il y a tant de difficultés en France, à l'international, un Président français doit venir faire une visite d'État en Suisse",
+      "confidence": 1.0,
+      "source_id": "Person_288530ca8a3eedb226392df949bea04e5b32008a1004b0c60466bf615b9fbfa1",
+      "target_id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "source": "Suisse",
+      "relation": "SUPPORTS",
+      "target": "Ukraine",
+      "evidence": "La Suisse, quoique neutre, a décidé avec beaucoup de courage et de clarté de nous soutenir suite à l'agression russe en Ukraine.",
+      "confidence": 1.0,
+      "source_id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "compatriotes",
+      "evidence": "pour nos compatriotes - et c'est une fierté de la France - pour avoir un service public de qualité",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Person_001a4cd7d5ccbd2fe897e22660603f55473d585828976f6e12b964cf37700fd5"
+    },
+    {
+      "source": "Gouvernement",
+      "relation": "LOCATED_IN",
+      "target": "Suisse",
+      "evidence": "Le Gouvernement est à cet égard attentif aux besoins croissants dans nos services consulaires, particulièrement en Suisse",
+      "confidence": 1.0,
+      "source_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f",
+      "target_id": "Country_a580e5246b1ef701576964ea76e0ef2d3237d22b77f077d0405828681658827f"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "20? Sommet de la Francophonie",
+      "evidence": "l'organisation à l'automne prochain du 20? Sommet de la Francophonie que la France va organiser",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Event_936adf062f3128f558887c484d54b8db5c60e47427b8a8e0a45c53ae2069806f"
+    }
+  ]
+}

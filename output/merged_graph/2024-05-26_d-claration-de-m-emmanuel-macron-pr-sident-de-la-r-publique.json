@@ -1,0 +1,154 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Frank-Walter STEINMEIER",
+      "id": "Person_d3c43522990758aa673f35b67ec362666aa441a30df109866d393aa74ff3047c"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "lois fondamentales",
+      "id": "Theme_4ef311a8f159aded1d9952d784e1ad52786fd476eb6c64da1d91f2de9816f021"
+    },
+    {
+      "type": "Theme",
+      "name": "réunification",
+      "id": "Theme_d9456d22f908c0c1f0e96b65664cd234d0884a76cabbefe45d0bef1628aa490a"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "Euro",
+      "id": "Theme_709528d8ce93bba87ada5be2754665013742700bb20381da4551b98a54e333b5"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Berlin",
+      "id": "City_b99770cd89b8870c4e168b4e52a8f787b64a4a2fc9ef992bf093af11c7e6a055"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Theme",
+      "name": "football",
+      "id": "Theme_1c726bd985ddb08a193bfd5ca8c801c8c5cea31e78bd9e767e35eb02955a92f7"
+    },
+    {
+      "type": "Theme",
+      "name": "Jeux Olympiques",
+      "id": "Theme_598629bba6285c4c65a3cf612705a3401844b9433a7ebb6e454a1dcabd4e0196"
+    },
+    {
+      "type": "Theme",
+      "name": "Notre Dame de Paris",
+      "id": "Theme_ea30ac742043f31612e0bd34bb60d11e072153348025b01aa924c12c2ac4fede"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Theme",
+      "name": "crise de nos démocraties",
+      "id": "Theme_c366811ccb0c3a910bfc7e8bc7a06d82e966f9ea110a228f8f20024452b5c171"
+    },
+    {
+      "type": "Theme",
+      "name": "débat permanent",
+      "id": "Theme_9eceaf8bddfa0d3206875906b10c776ec39c6f60d93663822bfab196cb09058b"
+    },
+    {
+      "type": "Theme",
+      "name": "meilleure décision",
+      "id": "Theme_fc4ba41d0970c12029937ba392ce3dc545eab84738f9f2f7925b53c13f2a07e2"
+    },
+    {
+      "type": "Theme",
+      "name": "fascination pour l'autoritarisme",
+      "id": "Theme_15a3997c9d7e69df8ddf9b2651671b3937b55618deb526c72629aacedb6a55fc"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalisme",
+      "id": "Theme_d0f339441ee20ce073228a015cda668179f9e724fa0f925bc928aa3557010053"
+    },
+    {
+      "type": "Theme",
+      "name": "extrêmes",
+      "id": "Theme_c31fa51fc0c77a9930a418e47137a72e725c9cb20b5a68a20ed1d0b7c0e12a83"
+    },
+    {
+      "type": "City",
+      "name": "Dresde",
+      "id": "City_f4ad77e8c26d7c1b1b0fdb86a6620c994dcc0f93a41624fd7507e627345d040e"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Et elles ont été au cœur de cette Europe qui s'est progressivement élargie et réunifiée elle aussi.",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "source": "Dresde",
+      "relation": "LOCATED_IN",
+      "target": "Allemagne",
+      "evidence": "Et puis je trouve qu'il y a dans Dresde une formidable métaphore d'un phénix européen, d'une ville qui a été totalement ravagée à la fin de la Deuxième Guerre mondiale, capitale culturelle et intellectuelle formidable de l'Allemagne et de l'Europe, et qui est aujourd'hui au cœur de cette Silicon Saxony, et donc des défis contemporains d'avenir, de croissance que j'évoquais.",
+      "confidence": 1.0,
+      "source_id": "City_f4ad77e8c26d7c1b1b0fdb86a6620c994dcc0f93a41624fd7507e627345d040e",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    }
+  ]
+}

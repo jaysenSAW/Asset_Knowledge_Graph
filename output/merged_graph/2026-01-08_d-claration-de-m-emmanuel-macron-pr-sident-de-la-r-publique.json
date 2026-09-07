@@ -1,0 +1,132 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Evian",
+      "id": "City_40ee17ba3fe5cb7b00ec5510c998566aeb30ae5ea098f0c56d98a735161243c8"
+    },
+    {
+      "type": "City",
+      "name": "Alpes françaises",
+      "id": "City_13b9d98939e22b7bf69f96844d8782adface5d5929933c625198036e552c30b4"
+    },
+    {
+      "type": "Organization",
+      "name": "G6",
+      "id": "Organization_6b53903d19b593538939829fdb175dedddef9e828e3ceedb5457d4c5a975db57"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction des déséquilibres mondiaux",
+      "id": "Theme_282c7c17324195cede3e1c97ca62e360dbb820db420df262f63d2144471aac79"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence prédatrice",
+      "id": "Theme_332804ec1bbdc40f5d55e05bc6f19943189eba7e579eba5ed750e2ec92cac525"
+    },
+    {
+      "type": "Theme",
+      "name": "surcapacités industrielles",
+      "id": "Theme_295d093a9e06c11a640bdf36f9ce51e158b6f2122ba6fca4310e8342bac6e0f8"
+    },
+    {
+      "type": "Theme",
+      "name": "sous-investissement",
+      "id": "Theme_7a7dd564900bfe2443a12909bd4876dbd60e3ea571d71754a5b757c4ac82bdfa"
+    },
+    {
+      "type": "Theme",
+      "name": "surendettement",
+      "id": "Theme_03c5e7e0a88ce9ed7dd9414955670c4b9ecd5800bfd7bd2cff569bb6a44c0a88"
+    },
+    {
+      "type": "Theme",
+      "name": "dérégulation",
+      "id": "Theme_e8ea5abce69e8572b77eaa31c4360d2eccda571341c7dc67bffd5a4ea88003f3"
+    },
+    {
+      "type": "Theme",
+      "name": "recul de la solidarité internationale",
+      "id": "Theme_9a8f5187c170ab1e107dfb621ec8681a571346a03dc2c116a73e851ccf8664d2"
+    },
+    {
+      "type": "Theme",
+      "name": "faiblesse des investissements privés dans les pays en développement",
+      "id": "Theme_1330ffafab98ccc8d118be3300c432aadbf80ce8aef310c8ab593cd14e0ce0b9"
+    },
+    {
+      "type": "Theme",
+      "name": "crises financières",
+      "id": "Theme_043f76ade20fd0c60ce92871401e49426b23e2333ea3adf85611ff9dab727638"
+    },
+    {
+      "type": "Theme",
+      "name": "crises économiques",
+      "id": "Theme_b57e8db3448986bc24f79034078748eaa65139de7d2b91fd847ad23af98390ba"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "G7",
+      "relation": "VISITED",
+      "target": "Evian",
+      "evidence": "Notre présidence française du G7, qui débutera au 1er janvier 2026 pour une année, y sera pleinement dédiée. Elle trouvera son point d'orgue à Evian, au cœur des Alpes françaises, au carrefour de l'Europe, du 15 au 17 juin prochains.",
+      "confidence": 1.0,
+      "source_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2",
+      "target_id": "City_40ee17ba3fe5cb7b00ec5510c998566aeb30ae5ea098f0c56d98a735161243c8"
+    },
+    {
+      "source": "G7",
+      "relation": "LOCATED_IN",
+      "target": "Alpes françaises",
+      "evidence": "Notre présidence française du G7, qui débutera au 1er janvier 2026 pour une année, y sera pleinement dédiée. Elle trouvera son point d'orgue à Evian, au cœur des Alpes françaises, au carrefour de l'Europe, du 15 au 17 juin prochains.",
+      "confidence": 1.0,
+      "source_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2",
+      "target_id": "City_13b9d98939e22b7bf69f96844d8782adface5d5929933c625198036e552c30b4"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "G7",
+      "evidence": "la France assurera en 2026 la présidence du G7.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "source": "G7",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la France assurera en 2026 la présidence du G7.",
+      "confidence": 1.0,
+      "source_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

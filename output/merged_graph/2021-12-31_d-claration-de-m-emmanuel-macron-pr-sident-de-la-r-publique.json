@@ -1,0 +1,613 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Mes chers compatriotes",
+      "id": "Person_b6b29c7b55b71aae52b700aaa89778c04669d873e35a8a1d54782abede5f747b"
+    },
+    {
+      "type": "Person",
+      "name": "Personne",
+      "id": "Person_eb1355b712d959ee0ec261cb289751a183f59b26b25b0a7ee1de322ae0fcddd8"
+    },
+    {
+      "type": "Person",
+      "name": "nos 123 000 compatriotes",
+      "id": "Person_d4b56ea991270b2f24197f3276f6e624966cba1bf819d9baa03282e7edffd78d"
+    },
+    {
+      "type": "Person",
+      "name": "nos personnels soignants",
+      "id": "Person_6667533165202411fe7409eaa8b799009d1448d453aaf1ee88b12f4d7bc051ea"
+    },
+    {
+      "type": "Person",
+      "name": "nos armées",
+      "id": "Person_a2821375340caa8f9a992dd0948134dcf0b21db2791cd9802c13266202b5f474"
+    },
+    {
+      "type": "Person",
+      "name": "nos forces de l’ordre",
+      "id": "Person_45e80f41cde00f0e46372cdfbf16f0a799aacce7e9a0cf6deb5bab8b70701d72"
+    },
+    {
+      "type": "Person",
+      "name": "nos sapeurs-pompiers",
+      "id": "Person_1824586d52cefa3c6f1cec0a7b5ebd758f7f5172566abc674b564636f2b87bbc"
+    },
+    {
+      "type": "Person",
+      "name": "nos auxiliaires de vie",
+      "id": "Person_ff42a544388594526727918863e12e43151dd494ff6bacd1aa4a879b5b8c27f7"
+    },
+    {
+      "type": "Person",
+      "name": "nos aides à domicile",
+      "id": "Person_2002c25736d91058624e0450425d70659eabacebdc3b4555336d981363bcd886"
+    },
+    {
+      "type": "Country",
+      "name": "français",
+      "id": "Country_c4dad1af940aa0201c7e313e6b26e7081226df3348f51555a362f8ecdb3ac4c0"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "variant",
+      "id": "Theme_500455c21ac3b796b55f7b17d615d12b3bd124880b4a93223868a231a6e9ed77"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccin",
+      "id": "Theme_32ec3b4bac32f73345f9e33a388256bcaced72a72a5de7433f9116a540d3ce0c"
+    },
+    {
+      "type": "Theme",
+      "name": "services publics",
+      "id": "Theme_9d23f2423869f33761b54988a51c02bcaaec512697b3c1f29a8001cba8569472"
+    },
+    {
+      "type": "Theme",
+      "name": "vie de la Nation",
+      "id": "Theme_af9506d070dad2805aed0bdf54b3caca5142098f3a84dfaa1f4fe61bfb8d1fe4"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccination",
+      "id": "Theme_08727af7b4e202025a46e53a3b86d689aba5e9aaeb127cbebab4949a61c65b87"
+    },
+    {
+      "type": "Theme",
+      "name": "gestes barrière",
+      "id": "Theme_721e1dd3af5df4e60a04c6eb261e81f7e287b695d52efe013a320a23c15b0ad7"
+    },
+    {
+      "type": "Theme",
+      "name": "masque",
+      "id": "Theme_d660d5b71258784929f23f276febcb26dd4c247ad0d14c7c368b4fc20a5cb0af"
+    },
+    {
+      "type": "Theme",
+      "name": "virus",
+      "id": "Theme_693f7390ed433c22624aec32764b8241743cc2c14cc1c8347faecc4978733995"
+    },
+    {
+      "type": "Theme",
+      "name": "gestes barrière contre le virus",
+      "id": "Theme_671e0ef4b840d24d911156eb28524ee4c0dec7fec5a44eebb0f8e0dc5a642244"
+    },
+    {
+      "type": "Theme",
+      "name": "protéger les plus vulnérables",
+      "id": "Theme_42368b03af03c37aca10c09a63375a1e080c3648a7d33fd4ecb69d17d3790eeb"
+    },
+    {
+      "type": "Theme",
+      "name": "hôpitaux",
+      "id": "Theme_47a95dd74d9d79f889684ce203eda0cf8baa6d016129151f1f2e93cd4bc5e7b5"
+    },
+    {
+      "type": "Theme",
+      "name": "soignants",
+      "id": "Theme_b13cc9fc05c4812442eb32d6a982fae92924d3c9b59d27a4783a0b9569fa04a8"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés",
+      "id": "Theme_2460d11dd8890d0086c346c7c4f9479cbb7c560ab3409a92f103572ef8fa5209"
+    },
+    {
+      "type": "Theme",
+      "name": "principes démocratiques",
+      "id": "Theme_bc6c6651534d8811f65094956282566e2dd39d5e4291e413f96135eeb6c07c94"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité de chacun",
+      "id": "Theme_f5a22222c884b329f546665bf42010eb6d4d58b47be36431e00db761e3299c89"
+    },
+    {
+      "type": "Country",
+      "name": "Notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Theme",
+      "name": "transmission",
+      "id": "Theme_5f3b7befdd4615ff5f6f2392f77484bd002f10d099d2c30e336f50361b9fc447"
+    },
+    {
+      "type": "Theme",
+      "name": "formes graves",
+      "id": "Theme_ecad2d2759b4633f671d7ea9770d71530d760837941c3b2ddd310ac0f1196f36"
+    },
+    {
+      "type": "Theme",
+      "name": "port du masque",
+      "id": "Theme_a0875319e9bb5fda0a48004331646c55a71a43adf9c1cfd7c7033b2f823b7a55"
+    },
+    {
+      "type": "Theme",
+      "name": "chômage",
+      "id": "Theme_7d9226b7e1a92a56ecc0a5b63cc0f741f016effa9b44ded4e3470fa95fb2e3a6"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialisation",
+      "id": "Theme_ac8bdfb33c3783eee726437d1158d9c6c216120e43edc6178969ee44f5098ca1"
+    },
+    {
+      "type": "Theme",
+      "name": "handicaps",
+      "id": "Theme_39f6632f411309c48b380523bf0cecc76ce8e0497ed8e0cfe37a67fcdf172f9b"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentis",
+      "id": "Theme_c09fe6046be9b021781e8af66dddef8c697c1e2c2d5373c6fcc793b93dff4782"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "assurance chômage",
+      "id": "Theme_041e5fd2a41ca852fdd42f9b2fcdbd8c70a98c307e95ddc73446940aba53f44c"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "chèque énergie",
+      "id": "Theme_b3a5dac7a4fc8dc3526dea15de94079295bc7fedd27024c3ebb2108349e20b25"
+    },
+    {
+      "type": "Theme",
+      "name": "augmentation des salaires",
+      "id": "Theme_66eea26afbcbe8b50c4250ecc866a6685c8870a8dcbe5da57962ffbea93a6232"
+    },
+    {
+      "type": "Theme",
+      "name": "urgence écologique",
+      "id": "Theme_51961521ff663140e49c625d721ad6453fa34a6922b4925c0d95409db537b1d1"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvellement de notre parc automobile",
+      "id": "Theme_6476143133f97ef9546ab0c20f9b8dd49ac95c98a514998e065cd29c4f9903dc"
+    },
+    {
+      "type": "Theme",
+      "name": "développement des énergies renouvelables",
+      "id": "Theme_9bacd7b40c224ee0e95d905485d8674be710c4e7d2dae2306fe02d27fdecc9eb"
+    },
+    {
+      "type": "Theme",
+      "name": "rénovations thermiques de logements",
+      "id": "Theme_9b5a1729a2414c9531178c96aa56a641e5068fd15519e3771a52402a60666427"
+    },
+    {
+      "type": "Theme",
+      "name": "fin des emballages plastique",
+      "id": "Theme_bc7184832bbce7ffb0fd4aa42b24913f874d2e4fa7abdd6bba4a13138f12af26"
+    },
+    {
+      "type": "Theme",
+      "name": "bien-être de nos animaux",
+      "id": "Theme_1f7a0b3cdad310d2d6eada465e70ac89de91762f1dd7568506cbe19385690f42"
+    },
+    {
+      "type": "Theme",
+      "name": "assurance récolte",
+      "id": "Theme_f3461d49b8dc0e973922badc2d35f9fc22e94d3c6dca78f1bfa212e0ecb6cc05"
+    },
+    {
+      "type": "Theme",
+      "name": "retraite minimale",
+      "id": "Theme_b8970c1c39d8371fdcc3dbd47653a7c2d912c7143399c2758c923b473b64b630"
+    },
+    {
+      "type": "Theme",
+      "name": "2000 maisons France services",
+      "id": "Theme_88c86d3c5d0c033e7e562090367ac37fac56b2e3c06bf9daa547e8452c04df9a"
+    },
+    {
+      "type": "Theme",
+      "name": "versement automatique des pensions alimentaires",
+      "id": "Theme_767684f83bbf4e2825ab86361871ca41bca1497bef1b584376d08a35a082acd2"
+    },
+    {
+      "type": "Theme",
+      "name": "gratuité de la contraception",
+      "id": "Theme_6380c323682af1e96049766a8e52ebd2fddd31a3ead6b2be1f55b696c54b8ec4"
+    },
+    {
+      "type": "Theme",
+      "name": "Haute Fonction publique",
+      "id": "Theme_a293f7deb646fd6f4ffaeb2bef2b5382caf25e28b06d604914a37a75a075cfef"
+    },
+    {
+      "type": "Theme",
+      "name": "Institut National du Service Public",
+      "id": "Theme_658568fb116ec403d72806d88acf29e2318a320cce037907e40f73de98b73ec1"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "civisme",
+      "id": "Theme_2214233d5e1aae88ec20b37e8942e4fa39cc154f98ceee5169d2fdaedd0ee067"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de résistance",
+      "id": "Theme_0932f44f44b100820ec8e8eb34bf923bda8dc9cc544aae8f3a8ce98a1397b36b"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit d’entreprendre",
+      "id": "Theme_7ca1248a84798f519b3da705954ffdf277dd71ac7647a07e495c4f6294b070d8"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "épidémie",
+      "id": "Theme_cc728abad13e3c62e85c61089f7679fbc7bd2c7fd6b01a6888d874304168d638"
+    },
+    {
+      "type": "Theme",
+      "name": "campagnes de rappel",
+      "id": "Theme_d106d8c6b5e676e1244dc82dcfe1405f97c57e82297ef7060c93e148701463a0"
+    },
+    {
+      "type": "Theme",
+      "name": "tournant européen",
+      "id": "Theme_589e6690e1ab2c896b63d6ac70d12f321bcf0edf0fdfaa046dd252ddfc7e2c68"
+    },
+    {
+      "type": "Theme",
+      "name": "divisé",
+      "id": "Theme_359f07da05c3e2829a33186522f8732049694de46398c5a349e7fa700890b968"
+    },
+    {
+      "type": "Theme",
+      "name": "projets collectifs",
+      "id": "Theme_a7acf81e241cd05f1b762d080a40df89099a778b640a80a38cc631e3390fc1d3"
+    },
+    {
+      "type": "Theme",
+      "name": "sortir de l’Histoire",
+      "id": "Theme_212cef16fdf7db2f8add7b3ecc5c1e1ae5b811818e79fa9577df242aac94f999"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité monétaire",
+      "id": "Theme_8b90ce4fe90ef49934725cf5013174472a8dab1789d601fa231ae5d61202baa7"
+    },
+    {
+      "type": "Theme",
+      "name": "place internationale",
+      "id": "Theme_6271a3763cd1c071fc900a3e5349f2f07a1d06f42c9df50773349864e09e8ffd"
+    },
+    {
+      "type": "Theme",
+      "name": "utile",
+      "id": "Theme_c70697d62ef28d67c80dc1b412319ada670a3539833f1b0d01e009c3f20c2a92"
+    },
+    {
+      "type": "Theme",
+      "name": "porteuse d’espérance",
+      "id": "Theme_ccc7a6f9f3e886fa3a3f4191ec67d63d7111f46f1ab7a99d46691dcd4c333ba7"
+    },
+    {
+      "type": "Theme",
+      "name": "plans de relance",
+      "id": "Theme_e1abbcf8219d1132037f65c64015c70821fef3e281fe4e5c30aa2e909954daf7"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "créations d’emplois",
+      "id": "Theme_e7166ed6377155fc297324ec5a25a212951217526f16caa60806b67f9c0197fc"
+    },
+    {
+      "type": "Country",
+      "name": "Union Européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "continent africain",
+      "id": "Country_1a380297361e86cf7c333f7e655723b7f30c4c68c464eef9b1576867bb6e59a6"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtrise de nos frontières",
+      "id": "Theme_f06a68df7203224dba61f67760ae52775e4c50016b8491ba1076aa7d3c48e8ea"
+    },
+    {
+      "type": "Theme",
+      "name": "notre défense",
+      "id": "Theme_69eefb9270e67e0eb0e984d4c96d06f4c8a6f95c435ff8f426f82246be43b6c5"
+    },
+    {
+      "type": "Theme",
+      "name": "transition climatique",
+      "id": "Theme_e75feae75fc3fc33a1090e46506e630bfc0c68d201d672aba551e5a19141a63a"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité entre les femmes et les hommes",
+      "id": "Theme_b484a156d9d64e08166b13528c3fa60f7e66a7f8a085ad36db2ca83767aac644"
+    },
+    {
+      "type": "Theme",
+      "name": "alliance nouvelle avec le continent africain",
+      "id": "Theme_055fccac9f524185f444bbc1378b9a4c69f1a85531c7becf64bd41c6bf83fdc3"
+    },
+    {
+      "type": "Theme",
+      "name": "culture en Europe",
+      "id": "Theme_96fad2a94ff2fd2004a0c7998a73f7424698d4e21801644b3a3281d12bcad477"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibre entre liberté et solidarité",
+      "id": "Theme_893e6d80b5b10fa1fb2181cfbcdcf109174211ffa68c9e9fbad3f15c744db272"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies du futur",
+      "id": "Theme_6a9531b8044716682a7df2b15d0ed9094a9e434ef3435050d8bca0bb7a710baf"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche publique",
+      "id": "Theme_a6c4e0a099e1a932479746428038ab7b1591942bb78c6ee7debd4aaa90bc0d48"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "inclusion",
+      "id": "Theme_e76e5f6a4a72bb46a7b477ecf0d0161f48afc10a4cf4adcb9bbdfc9a6f6dc2b3"
+    },
+    {
+      "type": "Theme",
+      "name": "islamisme radical",
+      "id": "Theme_06829bcd6bf40a8e2dac81c4467b9e53d66545abf8a314e409ce5ec5fdf7943a"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre",
+      "id": "Theme_244f853f7768b172bfa360b452830e952b38961f6c116ca930bd4c844fe28eff"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "tranquillité",
+      "id": "Theme_a45f0ab2cb27247386ca555c580757317cbae56737e964f37640ac3bd95be510"
+    },
+    {
+      "type": "Theme",
+      "name": "engagements climatiques",
+      "id": "Theme_ce8735f19e3249fe1266d6c31cede0d9216b34166b868b2ac8106b98374c3682"
+    },
+    {
+      "type": "Theme",
+      "name": "choix industriels",
+      "id": "Theme_df7fd80395e7b8f88731199eabb2e11afba46dfe3d3faf3431fdd34194d8084b"
+    },
+    {
+      "type": "Theme",
+      "name": "France",
+      "id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b"
+    },
+    {
+      "type": "Theme",
+      "name": "résistance",
+      "id": "Theme_e76d4a7d077688683b8612822efb91314ca3d8a465e71434c7d639fcd7efc3a4"
+    },
+    {
+      "type": "Theme",
+      "name": "tolérance",
+      "id": "Theme_6e5e7c602a3b0bc37fca405b6502b456d69828fa8906a21bc3f5dfcfefbef09a"
+    },
+    {
+      "type": "Theme",
+      "name": "unité",
+      "id": "Theme_47024f67161981c25ce6f1ed887b48c5c87221ffd081059737898eccdb29744d"
+    },
+    {
+      "type": "Theme",
+      "name": "différences",
+      "id": "Theme_d282dd1d33264358689ec6672c8c07cf98fd479e4fb0831c8a479c2f2e3067d8"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "langue",
+      "id": "Theme_503878fae38cf6a116099ef03b8fe0423aa370b33f0af8b6450b8ae129feef43"
+    },
+    {
+      "type": "Theme",
+      "name": "laïcité",
+      "id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "universel",
+      "id": "Theme_af6169ca6d2a11a500827febfcd4b6f024b79ecf0ee483745ba7cd18b13fa770"
+    },
+    {
+      "type": "Theme",
+      "name": "créativité",
+      "id": "Theme_550d4dc699a796ca3be62727957df316896d3858817d9e91c8d89c6f5b2da032"
+    },
+    {
+      "type": "Theme",
+      "name": "vie",
+      "id": "Theme_fb2d820418e69ffa914d4afff6fb60ce64cc4635ad1e4afdc6bafc1ff3f71248"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "2000 maisons France services",
+      "evidence": "le déploiement de 2000 maisons France services",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_88c86d3c5d0c033e7e562090367ac37fac56b2e3c06bf9daa547e8452c04df9a"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Union Européenne",
+      "evidence": "Alors à partir de minuit, la France prendra la Présidence de l’Union Européenne",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "technologies du futur",
+      "evidence": "Et nous aurons aussi à préparer l’avenir, en déployant le plan d’investissement France 2030 qui vise à la fois à faire de nous une Nation forte sur les technologies du futur et à nous rendre plus indépendants. Nous aurons à investir plus fortement encore que nous ne l’avons fait dans l’éducation, la recherche publique, la santé, la culture et l’inclusion de tous les Français.",
+      "confidence": 1.0,
+      "source_id": "Theme_f11df22768f7b522618db5407ccf5e5bf0616b9b6fc2dab8f968b97a264b722b",
+      "target_id": "Theme_6a9531b8044716682a7df2b15d0ed9094a9e434ef3435050d8bca0bb7a710baf"
+    }
+  ]
+}

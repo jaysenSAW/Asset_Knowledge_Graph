@@ -1,0 +1,166 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Volodymyr",
+      "id": "Person_7c1b1a05cecd205ee4254c1b7741241156f246346ce052f37c3ffe8c3ba0e725"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation des Nations unies",
+      "id": "Organization_707b7e4fb958022ac09c7c735de46bff28a624e5777366c77b47ed95be05ca58"
+    },
+    {
+      "type": "Country",
+      "name": "Turquie",
+      "id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f"
+    },
+    {
+      "type": "Person",
+      "name": "président ukrainien",
+      "id": "Person_9e3b24c17db0df9991f10142ef2dbd5fd6c505d4068f7bbbf612063b28c22a11"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité en actes",
+      "id": "Theme_119e4e24dc595d4baaa1b2197d78bb7c12556becf0cbba1922c9d77f7c6e5c78"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité alimentaire mondiale",
+      "id": "Theme_925960f4e33247c30c1079212c9c0554324775bcb8854eea458033ff24b664c9"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Country",
+      "name": "Somalie",
+      "id": "Country_637e69441ef95c7cface99f6cd515957278579b2984691d5488f93172157803a"
+    },
+    {
+      "type": "Country",
+      "name": "Yémen",
+      "id": "Country_de51d54261cb8914709944f249dba3ae2116dddd8c4ef0b43eb863a17255b45e"
+    },
+    {
+      "type": "Country",
+      "name": "Soudan",
+      "id": "Country_fffd3368e10c4710d9cc6fc24f457d5063e1f139e3b5edad1f5dd5a7da0d1c49"
+    },
+    {
+      "type": "Organization",
+      "name": "Programme alimentaire mondial",
+      "id": "Organization_84f668673c9d08a0a0862a68fefa552b84efec4366a8569cc898ecae836d47db"
+    },
+    {
+      "type": "Country",
+      "name": "Russe",
+      "id": "Country_f9af5a1b6aec61a1549477d540f476a9ee0cc9a0f24d925ff6d72b10b198e1a7"
+    },
+    {
+      "type": "City",
+      "name": "Bali",
+      "id": "City_9e8c0c4ff15ac55ff2f4d775ffc9287eff48c098ae3c459059e209f81012fee9"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds monétaire international",
+      "id": "Organization_ea510a567f72e30e0268e3e6ccaa15fe3579eeab3ddd63cf65e4879cc4e70e8d"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Organization",
+      "name": "FIDA",
+      "id": "Organization_9ca38725099e2207a24e73ff41db52728678010ff012866b8e49cfea4427b308"
+    },
+    {
+      "type": "Person",
+      "name": "Président Volodymyr Zelensky",
+      "id": "Person_64286671395ef4a12192d5258ff23226ee50922cbb41afcb6b30f283e9ffbb75"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "Ukraine",
+      "evidence": "l'Union européenne a déjà permis d'acheminer plus de 15 millions de tonnes de céréales d'Ukraine au reste du monde.",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "la France comme l'Ukraine et comme tous nos partenaires, a décidé de faire et fera toujours le choix d'une solidarité en actes",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "SPOKE_ABOUT",
+      "target": "solidarité en actes",
+      "evidence": "la France comme l'Ukraine et comme tous nos partenaires, a décidé de faire et fera toujours le choix d'une solidarité en actes",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Theme_119e4e24dc595d4baaa1b2197d78bb7c12556becf0cbba1922c9d77f7c6e5c78"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "SPOKE_ABOUT",
+      "target": "sécurité alimentaire mondiale",
+      "evidence": "le lancement aujourd'hui de la \"Grain from Ukraine Initiative\" par le président ukrainien apporte une contribution majeure pour renforcer la sécurité alimentaire mondiale.",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Theme_925960f4e33247c30c1079212c9c0554324775bcb8854eea458033ff24b664c9"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Ukraine",
+      "evidence": "La France se tient aux côtés de l'Ukraine, des pays les plus vulnérables et du Programme alimentaire mondial.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    }
+  ]
+}

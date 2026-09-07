@@ -1,0 +1,476 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le préfet de région",
+      "id": "Person_262d45b0f794c0ed4606bab776c03492a8313f55013aa3d5b0872d5773b9035c"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la préfète",
+      "id": "Person_708b880772f160c9289726fd2cc99d52276509f529d5545869aaf0914ef3f7b3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le directeur général",
+      "id": "Person_8777b82fe982332d2c4f6fd3f160581898a8126a2867a4743b0efb9b0c7dd20f"
+    },
+    {
+      "type": "City",
+      "name": "Élysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "Theme",
+      "name": "sécheresse",
+      "id": "Theme_12b209e5603215745b4946973f2765b3231863b41bb02179888846d28077c72e"
+    },
+    {
+      "type": "Theme",
+      "name": "incendies",
+      "id": "Theme_fb215f728aeac21df7469bd104a506686d187cbda7f5084e44551ac3453bebe4"
+    },
+    {
+      "type": "Theme",
+      "name": "grands risques naturels",
+      "id": "Theme_d856c67174a689c8ebd55a0c0d41b82471ac41b1cbad0d3da03ef4af58d6a4ce"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre les feux de forêts",
+      "id": "Theme_7dabb3a5c8d38f5673bc9e5700c31bb56c18467afb7cdf689f90ef689f7f6333"
+    },
+    {
+      "type": "Organization",
+      "name": "Sécurité civile",
+      "id": "Organization_e4b46a9de4af23e7c994ea55bf57a84132eaded6de1bc7aa45afbbcb2801f8f4"
+    },
+    {
+      "type": "Person",
+      "name": "ALLIONE",
+      "id": "Person_d21ce29f0b25c6274a517f3a17a126d5c6c5f49ac3e7e6aa82ae418631ca80ab"
+    },
+    {
+      "type": "Law",
+      "name": "PPL Matras",
+      "id": "Law_641772c9b6eef2dca82d955e9660fcc8560d0def76bdd951ea98134f09fcac40"
+    },
+    {
+      "type": "City",
+      "name": "Le Gard",
+      "id": "City_18bfc4b70b140364fd4ad40705a8a50525d71b305416b02872cf3033f71bfc42"
+    },
+    {
+      "type": "Person",
+      "name": "BÉCHU",
+      "id": "Person_4fd6c95ba2663bd199e8930ba29632d06c6031fe158d35feab125d04ec574f22"
+    },
+    {
+      "type": "Person",
+      "name": "FESNEAU",
+      "id": "Person_601d249d2355d0f8fa8fe783ef6c2b8b405f5d367996c90db4dbdae87e16fcef"
+    },
+    {
+      "type": "Person",
+      "name": "DARMANIN",
+      "id": "Person_fbb6c8bc1fe3482e56eb52ebeaa864c947268390e02ff990789ee4817c04f8c0"
+    },
+    {
+      "type": "Person",
+      "name": "FAURE",
+      "id": "Person_a174e3795efa7f8c7d01970c829d33407aa187d16169bf9ac4a0867a0308d3c6"
+    },
+    {
+      "type": "Person",
+      "name": "Hubert FALCO",
+      "id": "Person_8dccf320e0655b6a3717d6be9e261db685bfa529cac5f523c77950a6db8d378e"
+    },
+    {
+      "type": "Theme",
+      "name": "coordination",
+      "id": "Theme_76189088f555d15577dfaaf50d4e0f4034b9de16b2efd468a065b59947b5d97b"
+    },
+    {
+      "type": "Theme",
+      "name": "anticipation",
+      "id": "Theme_db62d2624e5435b46bb023d9cc8b60f2bac7f7fb098c05ba4a8b3f165e9a2882"
+    },
+    {
+      "type": "Theme",
+      "name": "reboisement",
+      "id": "Theme_6064dfb042eb77a5205ae016efb0f2d37930166f94c256453257fad4ccf5d212"
+    },
+    {
+      "type": "City",
+      "name": "Nîmes",
+      "id": "City_2d027777770616ecd49ee181c174bdfc169220193ead6c966c1cc82882f393b7"
+    },
+    {
+      "type": "Organization",
+      "name": "Canadair",
+      "id": "Organization_22197f39af3ce8a035d2814464d07c97e1271eb132db4a4d1b9d9bcb76bfd9cb"
+    },
+    {
+      "type": "Organization",
+      "name": "Havilland",
+      "id": "Organization_18d6177c6b800a191c12935a67b8878001f2f3b1f4efed65010183f6606226f0"
+    },
+    {
+      "type": "Country",
+      "name": "Canada",
+      "id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3"
+    },
+    {
+      "type": "City",
+      "name": "Union européenne",
+      "id": "City_c5693ab0bc80d3ace1ecdc12fa5b7b4813c3df2744cb7021fe6fddfad829a7fb"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Law",
+      "name": "LOPMI",
+      "id": "Law_32bed9b47a0db8a2e633c7f83bc6b93cfae2c197b116dd9badb306e907713fe3"
+    },
+    {
+      "type": "City",
+      "name": "Bordeaux",
+      "id": "City_ec6760adfddeb4aa228eab33177f9fcda347d6fe13cd536c166f0da4cdf9d1ef"
+    },
+    {
+      "type": "City",
+      "name": "Jura",
+      "id": "City_291b439b6c2661443b60e5f3f930164dc80ff5cc3149c3d99125e7a4775013a1"
+    },
+    {
+      "type": "Theme",
+      "name": "pré-positionnement",
+      "id": "Theme_bbed7e8e5669b52f62e78a524e11c21b7a5b5a321b0b8990694a9dce0bc21a77"
+    },
+    {
+      "type": "Theme",
+      "name": "moyens",
+      "id": "Theme_f93c94428a89608982dc63333411fda610bd8010d778906c19788a577d156d43"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "déploiement",
+      "id": "Theme_154816803267022facb495f534b06896112409691cd7acdd41041a4062c3ed1e"
+    },
+    {
+      "type": "Theme",
+      "name": "colonnes de renforts",
+      "id": "Theme_4509ee3d1ee728051f0cb8c715dd095b684ce4ab35525d6b41c774c27a5756f9"
+    },
+    {
+      "type": "Theme",
+      "name": "sapeurs-pompiers",
+      "id": "Theme_594f359838603af68555c14ce707bdfdffecc72d70a5d080ae3b5aa3596d84bd"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilisation collective",
+      "id": "Theme_a5f23d482fd14245290afb005bb78cc723dd515820abc29a1b76503de7122f4b"
+    },
+    {
+      "type": "Theme",
+      "name": "optimisation du temps",
+      "id": "Theme_1ebf6831318036c7f5534b0f53c2ace765aa94b265022ccabc77427c75396e08"
+    },
+    {
+      "type": "Theme",
+      "name": "réserves",
+      "id": "Theme_f1d9c6b937016479ece9387a8069326b80160a072d136a1effc7935eef158e4a"
+    },
+    {
+      "type": "Theme",
+      "name": "entreprises",
+      "id": "Theme_491a26db55f7c6328a7c53a6f93fe64ff22d9bad28ce4f0f94b7bf90c7004da7"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité territoriale",
+      "id": "Theme_d78445215d377fd00eff41ad2b6b774d1d52485db5561b26478bc99d1908d025"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité européenne",
+      "id": "Theme_669971445af1e99fa6f52cc0d65db3b2c3f75cc7d38cbe6e00f1e9216e1b8f37"
+    },
+    {
+      "type": "Theme",
+      "name": "coup de grisou",
+      "id": "Theme_8935e190cd6c05f214d8d73954e98333722a5edb569d6335d8081352c085df90"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte capacitaire",
+      "id": "Theme_593181e5037df09b8d65a53ccbc5efba7eb4a757f0ed0eb0e2e7b2054ce915b6"
+    },
+    {
+      "type": "Theme",
+      "name": "1 100 engins supplémentaires",
+      "id": "Theme_3c54f4370917d125d0a09bed87ea84270486d89b3b5aa533a16a4f54cf133975"
+    },
+    {
+      "type": "Theme",
+      "name": "44 colonnes de secours",
+      "id": "Theme_24c4e8a9a391b8e5b8b77bee906cc55f232e79aefb2d5e4a85bfb34a012e9f01"
+    },
+    {
+      "type": "Theme",
+      "name": "66 groupes feu",
+      "id": "Theme_d105c5693dc2644d33251999e81076c2b16c059251c193cbae91ac00dd7546ba"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention",
+      "id": "Theme_b5d3262ef3c58743a1781f267abe9b162422a835f4df383fc4856acb883ee6a0"
+    },
+    {
+      "type": "Theme",
+      "name": "débroussaillage",
+      "id": "Theme_270f90f76b90e8e8ba60a51d6386c49e71683c8f75c133ae32cd4a5714e35efc"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Organization",
+      "name": "administration centrale",
+      "id": "Organization_e3066963cf144479b1e2a1f062d9624cf4475f5a44e74140e20938a768e81c0f"
+    },
+    {
+      "type": "Organization",
+      "name": "services déconcentrés",
+      "id": "Organization_f3020f96be4704ee750e77f92071a6e37cff93c350e22846c6325cf30c861d70"
+    },
+    {
+      "type": "Organization",
+      "name": "ONF",
+      "id": "Organization_a6908ea02eb45171adcdcbc77472ae882992c451ead3ce72584abc30f98c6aeb"
+    },
+    {
+      "type": "Organization",
+      "name": "Météo France",
+      "id": "Organization_99aa5237e869fdcac496aa3d1a5699fbe69e14cd451a032ded3758d9170cee07"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte",
+      "id": "Theme_7708840b3d68c43d6a94a7b54aa6236d0d1084de70b1696c5042b52121652089"
+    },
+    {
+      "type": "Theme",
+      "name": "météo des forêts",
+      "id": "Theme_ffb669a05f705338898866839fd2fa76f6e51f72a251457b6db61d1b1183915d"
+    },
+    {
+      "type": "Theme",
+      "name": "comportements à tenir",
+      "id": "Theme_3b8e2b55ef03235d682e710bd7629ccb4fa5584d4190d635d95afb15180e8170"
+    },
+    {
+      "type": "Theme",
+      "name": "négligence",
+      "id": "Theme_23c51266491dd2835c371b8f5c425704c22b7ac790e4678972c00b9e4ae1b492"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "information",
+      "id": "Theme_ddeabf30715b206aae0b088fbc692b1adb356796e27cc30c97e2a7a1bd7a6ca3"
+    },
+    {
+      "type": "Theme",
+      "name": "sensibilisation",
+      "id": "Theme_8ca507e56a29cfba5d76294062efa0033c2b12828cb5c4f92235b49d90982b78"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Organization",
+      "name": "ADEME",
+      "id": "Organization_3bc715bc232ed90a6a47a3678fcd222a79cd2e63f526d002774040c7303b35b9"
+    },
+    {
+      "type": "Organization",
+      "name": "une quatrième unité militaire de sécurité civile",
+      "id": "Organization_e86efa58eabd60dcff50a2d19af5e573607c04f5d98c7ae0aa1814b6a9af3bea"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de l'Intérieur des Outre-mer",
+      "id": "Organization_8fb369a98b1043aa703a1781cd81254eff490e30b80f0e40f66b4f47e1342171"
+    },
+    {
+      "type": "Organization",
+      "name": "directeur général",
+      "id": "Organization_0d7d76f50f88f82509d62c7894e5e027bd71f618d4f8aef56bb079d4d5eaeb69"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Law",
+      "name": "obligations légales de débroussaillement des forêts",
+      "id": "Law_3c001f4ffb5b76c262f233e4ebe86ab95606a6f8023ea8a23d431dfade8279c7"
+    },
+    {
+      "type": "Theme",
+      "name": "débroussaillement des forêts",
+      "id": "Theme_2a2d427c66f63084a57688ca9d22ecd83fb3626ace53b744a2cd9f2a3f49a9fd"
+    },
+    {
+      "type": "Theme",
+      "name": "plantation d'un milliard d'arbres",
+      "id": "Theme_5e3968962c30251b37bdee238c68666b4daa33a97dd5c1a9647209f629759f59"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Quand la France lance des avancées fortes en Europe, on a une Europe où nous sommes utiles et qui nous est utile",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "efficacité",
+      "relation": "MENTIONS",
+      "target": "efficacité",
+      "evidence": "Pour que cette efficacité soit au rendez-vous, il nous fallait mieux prévoir les choses.",
+      "confidence": 1.0,
+      "source_id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce",
+      "target_id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "source": "moyens",
+      "relation": "MENTIONS",
+      "target": "moyens",
+      "evidence": "À côté de ces moyens et justement de ce déploiement, ce sont aussi les colonnes de renforts qui ont été augmentées.",
+      "confidence": 1.0,
+      "source_id": "Theme_f93c94428a89608982dc63333411fda610bd8010d778906c19788a577d156d43",
+      "target_id": "Theme_f93c94428a89608982dc63333411fda610bd8010d778906c19788a577d156d43"
+    },
+    {
+      "source": "sapeurs-pompiers",
+      "relation": "MENTIONS",
+      "target": "sapeurs-pompiers",
+      "evidence": "On les passe désormais à 51 colonnes, ce qui est, vous voyez, plus qu'un doublement entre 2021 et maintenant ; avec un renfort de 3 660 sapeurs-pompiers.",
+      "confidence": 1.0,
+      "source_id": "Theme_594f359838603af68555c14ce707bdfdffecc72d70a5d080ae3b5aa3596d84bd",
+      "target_id": "Theme_594f359838603af68555c14ce707bdfdffecc72d70a5d080ae3b5aa3596d84bd"
+    },
+    {
+      "source": "mobilisation collective",
+      "relation": "MENTIONS",
+      "target": "mobilisation collective",
+      "evidence": "C'est de la mobilisation collective, c'est l'optimisation du temps, c'est de la mobilisation de femmes et d'hommes ; c'est aussi un autre travail avec nos réserves, les entreprises qui contribuent et je veux ici le dire : mobilisation de toutes et tous.",
+      "confidence": 1.0,
+      "source_id": "Theme_a5f23d482fd14245290afb005bb78cc723dd515820abc29a1b76503de7122f4b",
+      "target_id": "Theme_a5f23d482fd14245290afb005bb78cc723dd515820abc29a1b76503de7122f4b"
+    },
+    {
+      "source": "optimisation du temps",
+      "relation": "MENTIONS",
+      "target": "optimisation du temps",
+      "evidence": "C'est de la mobilisation collective, c'est l'optimisation du temps, c'est de la mobilisation de femmes et d'hommes ; c'est aussi un autre travail avec nos réserves, les entreprises qui contribuent et je veux ici le dire : mobilisation de toutes et tous.",
+      "confidence": 1.0,
+      "source_id": "Theme_1ebf6831318036c7f5534b0f53c2ace765aa94b265022ccabc77427c75396e08",
+      "target_id": "Theme_1ebf6831318036c7f5534b0f53c2ace765aa94b265022ccabc77427c75396e08"
+    },
+    {
+      "source": "réserves",
+      "relation": "MENTIONS",
+      "target": "réserves",
+      "evidence": "C'est de la mobilisation collective, c'est l'optimisation du temps, c'est de la mobilisation de femmes et d'hommes ; c'est aussi un autre travail avec nos réserves, les entreprises qui contribuent et je veux ici le dire : mobilisation de toutes et tous.",
+      "confidence": 1.0,
+      "source_id": "Theme_f1d9c6b937016479ece9387a8069326b80160a072d136a1effc7935eef158e4a",
+      "target_id": "Theme_f1d9c6b937016479ece9387a8069326b80160a072d136a1effc7935eef158e4a"
+    },
+    {
+      "source": "entreprises",
+      "relation": "MENTIONS",
+      "target": "entreprises",
+      "evidence": "C'est de la mobilisation collective, c'est l'optimisation du temps, c'est de la mobilisation de femmes et d'hommes ; c'est aussi un autre travail avec nos réserves, les entreprises qui contribuent et je veux ici le dire : mobilisation de toutes et tous.",
+      "confidence": 1.0,
+      "source_id": "Theme_491a26db55f7c6328a7c53a6f93fe64ff22d9bad28ce4f0f94b7bf90c7004da7",
+      "target_id": "Theme_491a26db55f7c6328a7c53a6f93fe64ff22d9bad28ce4f0f94b7bf90c7004da7"
+    },
+    {
+      "source": "ONF",
+      "relation": "SPOKE_ABOUT",
+      "target": "prévention",
+      "evidence": "Ce sont dix ETP à Météo France et 100 équivalents temps plein dédiés à l'ONF. Ces dispositifs, ce sont ceux qui vont nous permettre, intégrés aux États-majors de zone, là aussi, de beaucoup mieux prévenir et accompagner le travail qui est le vôtre ; actions de prévention mais aussi de lutte dès les départs de feu.",
+      "confidence": 1.0,
+      "source_id": "Organization_a6908ea02eb45171adcdcbc77472ae882992c451ead3ce72584abc30f98c6aeb",
+      "target_id": "Theme_b5d3262ef3c58743a1781f267abe9b162422a835f4df383fc4856acb883ee6a0"
+    },
+    {
+      "source": "ONF",
+      "relation": "SPOKE_ABOUT",
+      "target": "lutte",
+      "evidence": "Ce sont dix ETP à Météo France et 100 équivalents temps plein dédiés à l'ONF. Ces dispositifs, ce sont ceux qui vont nous permettre, intégrés aux États-majors de zone, là aussi, de beaucoup mieux prévenir et accompagner le travail qui est le vôtre ; actions de prévention mais aussi de lutte dès les départs de feu.",
+      "confidence": 1.0,
+      "source_id": "Organization_a6908ea02eb45171adcdcbc77472ae882992c451ead3ce72584abc30f98c6aeb",
+      "target_id": "Theme_7708840b3d68c43d6a94a7b54aa6236d0d1084de70b1696c5042b52121652089"
+    }
+  ]
+}

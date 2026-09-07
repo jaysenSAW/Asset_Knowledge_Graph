@@ -1,0 +1,144 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "votre pays",
+      "id": "Country_06dc06b265c95053586e76dcb9e0e30ac7604207c3bc9aa5047a890c506106d1"
+    },
+    {
+      "type": "Country",
+      "name": "la famille européenne",
+      "id": "Country_a87d8326c5959a69c8545070edc66e51203ebc02dba48068fec6836ccebcaf90"
+    },
+    {
+      "type": "Country",
+      "name": "la solidarité européenne",
+      "id": "Country_6e48387d7c386e4d8d07e43779044c59781e90bd57fc73b9bf55c8e30ed477f7"
+    },
+    {
+      "type": "Country",
+      "name": "la Moldavie",
+      "id": "Country_abc7e5025a8066aaa4fc9be7610aac867db57a6472a468455c03c6e653156436"
+    },
+    {
+      "type": "Country",
+      "name": "l'Union européenne",
+      "id": "Country_1021d6c3288321fbdee02eafd85060fdac817b26a216f2e154ae1cf4dbd769d1"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Country",
+      "name": "Moldavie",
+      "id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "Communauté politique européenne",
+      "id": "Organization_8a93842f693c1a3a5724e43329bd7d4583ba6c51064f8c7015cbafc24a94d4f2"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Person",
+      "name": "Vladimir Poutine",
+      "id": "Person_ba07bc360f6d694c7c43cab878adc061217ec2b08d23eedefe4d5e2a082ef89c"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Event",
+      "name": "conférence de Paris",
+      "id": "Event_3d9934b90d8b5c136f4cfadb8a49bb2d01e8e3b23afbc0b09865b778a2359320"
+    },
+    {
+      "type": "City",
+      "name": "Chisinau",
+      "id": "City_eaae05dcf2d975c5d8dac6141919a11452e41511928c2565b04e422fd1b9d428"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien économique et financier d'infrastructures",
+      "id": "Theme_80331d752c60b57db0cec5e66bfdac2721e08293e6da04db70cc06051d7a4cb6"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Union européenne",
+      "evidence": "la France et l'Union européenne se tiennent à vos côtés pour aider la Moldavie",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Moldavie",
+      "evidence": "la France et l'Union européenne se tiennent à vos côtés pour aider la Moldavie",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "La Slovaquie",
+      "id": "Country_962df033d7ecfc42772ffd5485a18f7f9b2946e4580be01ce8f5747f3595cb65"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "Person",
+      "name": "Zuzana",
+      "id": "Person_cd55104cf3beec53894d56e7aae55d58d751cec98890e2fc26e91dc7a20f4412"
+    },
+    {
+      "type": "Country",
+      "name": "Slovaquie",
+      "id": "Country_56c0d8a619ea834437e949529e34e97fb7522dce59acff292d6d87a63dd94e38"
+    },
+    {
+      "type": "City",
+      "name": "Bratislava",
+      "id": "City_c6de721c84b5ace0f5bd96962869696bfa851d8440b0c285af67691ddf417266"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "City",
+      "name": "Chisinau",
+      "id": "City_eaae05dcf2d975c5d8dac6141919a11452e41511928c2565b04e422fd1b9d428"
+    },
+    {
+      "type": "City",
+      "name": "Bruxelles",
+      "id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "type": "City",
+      "name": "Vilnius",
+      "id": "City_4e31025aac6a09a787ffe3e48bac21044552e674fc0799e939b7354f427334c6"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "Organization",
+      "name": "Partenariat information et démocratie",
+      "id": "Organization_b2d4e507bc7247adbe45d9854df2161d11b32512fd418336ccfdcbf4753997a8"
+    },
+    {
+      "type": "Person",
+      "name": "madame la Présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "La Slovaquie",
+      "relation": "ALLIED_WITH",
+      "target": "la France",
+      "evidence": "La Slovaquie et la France disposent depuis 2008 d'un partenariat stratégique",
+      "confidence": 1.0,
+      "source_id": "Country_962df033d7ecfc42772ffd5485a18f7f9b2946e4580be01ce8f5747f3595cb65",
+      "target_id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "source": "Slovaquie",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "La Slovaquie est aujourd'hui, pour la France, un partenaire de confiance, un ami au sein de l'Union européenne et de l'OTAN.",
+      "confidence": 1.0,
+      "source_id": "Country_56c0d8a619ea834437e949529e34e97fb7522dce59acff292d6d87a63dd94e38",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Slovaquie",
+      "relation": "SUPPORTS",
+      "target": "Union européenne",
+      "evidence": "la Slovaquie contribue à l'unité de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Country_56c0d8a619ea834437e949529e34e97fb7522dce59acff292d6d87a63dd94e38",
+      "target_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "source": "Slovaquie",
+      "relation": "SUPPORTS",
+      "target": "OTAN",
+      "evidence": "la Slovaquie contribue à l'unité de l'Union européenne, de l'OTAN",
+      "confidence": 1.0,
+      "source_id": "Country_56c0d8a619ea834437e949529e34e97fb7522dce59acff292d6d87a63dd94e38",
+      "target_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    }
+  ]
+}

@@ -1,0 +1,877 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "Conseil européen",
+      "id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "ONU Femmes",
+      "id": "Organization_ba3842e729c42f42af7734f415f9d926b20c3f88e2709e36dd86092cdf9d5e97"
+    },
+    {
+      "type": "Organization",
+      "name": "Forum Génération Égalité",
+      "id": "Organization_aaa2c08ae336b85bc5e8fe9b1f0510fb5c282725b1821c7ebf2eda55254ece56"
+    },
+    {
+      "type": "Organization",
+      "name": "Mexique",
+      "id": "Organization_88f66178b6961811b308584633252806e3ed43ccf89755d6776e485b3c2e9c5a"
+    },
+    {
+      "type": "Country",
+      "name": "Turquie",
+      "id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f"
+    },
+    {
+      "type": "City",
+      "name": "Ankara",
+      "id": "City_e1942ae8a2c8c8085db5e9d3d66e1cc8a0f3745cc3ca04971be275b110e57b9c"
+    },
+    {
+      "type": "Organization",
+      "name": "Union",
+      "id": "Organization_c5e6111e2f8f6f0562a02b73ac74432a5ad7b8c26582b37eb43d1209716aa442"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Theme",
+      "name": "attitude d'escalade",
+      "id": "Theme_6ce104bbafa015a0bf33dc2760cf07cdabd77ad9408cda0ffe055efea22cf8d7"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement constructif",
+      "id": "Theme_100ee545d24912ef372237265ffb285dbd901f9f9d62378c917d164381b6983f"
+    },
+    {
+      "type": "Theme",
+      "name": "tensions",
+      "id": "Theme_cba6267a0edb4b45de6f8ffdce822b9050ee187c12b3238bfe8a91fd4595d9f3"
+    },
+    {
+      "type": "Theme",
+      "name": "conflits régionaux",
+      "id": "Theme_867163a5b97e386afe16d23459bc1bd0e8cccd859889d60cf521a63c4aa8d4d6"
+    },
+    {
+      "type": "Theme",
+      "name": "discussions inter-chypriotes",
+      "id": "Theme_cb7cd6cc7df06f90a6c832e40a4cf6cdc9f4cbe4320737192b1a31eba62e5e00"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Chypre",
+      "id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Theme",
+      "name": "flux migratoires",
+      "id": "Theme_9e6d4c759ee92484ff473b38a5e603ba3348666ce3bde9fd0a3f57c9da966f9f"
+    },
+    {
+      "type": "Theme",
+      "name": "drame",
+      "id": "Theme_9c20728ecf6b37bb67831d210c0216001764300b070f85190a0f6d06f9dbee4f"
+    },
+    {
+      "type": "Theme",
+      "name": "frontières externes",
+      "id": "Theme_f0c4d207606c29ecaa3b817d48734ead64fba8c7b7b20a57c95eae9e707a2e28"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "programmes de formation",
+      "id": "Theme_3a07d24244dc468da2c2bbd9ed883118e1608941d92bb79097957c33ce573f98"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Person",
+      "name": "Chancelière",
+      "id": "Person_7d2fcfcf22739da18ebd1f49e189f8526bb5823736ec50738825e69c09c7a889"
+    },
+    {
+      "type": "Person",
+      "name": "POUTINE",
+      "id": "Person_cd18bc7f49bb7d64b17bcbd894d6a8752a9076a00deeefdb299e52309a31d8e5"
+    },
+    {
+      "type": "Person",
+      "name": "Président POUTINE",
+      "id": "Person_a22176f8b01b8661705212dbebb7d3f0961063fa7068a972522e7c3f72c00183"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Biélorussie",
+      "id": "Country_d3816fb7d670df3cea12e7e8411d28852edf0204d5e8d3ae6ce239ee8c7380bb"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Country",
+      "name": "Éthiopie",
+      "id": "Country_cb2fb8b2f18824af30704cca4972a1e4e17d083abddfb8b7768c6b43dff1b11d"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "Organization",
+      "name": "EUTM",
+      "id": "Organization_3e7eb34b16f38d1f7c84316daf53f25d3546d68846b59d13fc579bc13c1d3c2a"
+    },
+    {
+      "type": "Organization",
+      "name": "Takuba",
+      "id": "Organization_5e0498cb1e8a628f779fccd563b427fec129a09dd22149d8a719746303e0a921"
+    },
+    {
+      "type": "Person",
+      "name": "les militaires allemands",
+      "id": "Person_907c9953ac6981e319ba4f096eaeeb7cb6b2be9fe7a2f2b1829293da57ec435a"
+    },
+    {
+      "type": "Organization",
+      "name": "Minusma",
+      "id": "Organization_ca97eba974d956f03896c8dba73f0ff213915a352452accbe7ee16ab48ee356a"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid-19",
+      "id": "Theme_d5e7dbe0204945df0a66692ca666448a467d14bc7f36bc2b7afe79af217b2384"
+    },
+    {
+      "type": "Theme",
+      "name": "campagne vaccinale",
+      "id": "Theme_1c74421f636f7c864b813f84856aa72e428e5084eab0b621ef34816b9238644b"
+    },
+    {
+      "type": "Theme",
+      "name": "variant Delta",
+      "id": "Theme_64e43ed62fad4389373f0b891f7fd939de2d21f30b9e3c42bc6b558b72439510"
+    },
+    {
+      "type": "Organization",
+      "name": "Autorité européenne du médicament",
+      "id": "Organization_f1c383e56cdb5950508f1ec90153bbb58592f6c1cc06231058f28348ef87ee6f"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Chancelière MERKEL",
+      "id": "Person_ba76ede6d890e61447d78ede02908280bcbfc2d6c760bbf58b686cfc7c3361e5"
+    },
+    {
+      "type": "Theme",
+      "name": "Green Pass européen",
+      "id": "Theme_577e6e8f1955c85df1ddbc2fc8c03a3abb4e9d1a2c885f993611331786f0d3cd"
+    },
+    {
+      "type": "Theme",
+      "name": "variant",
+      "id": "Theme_500455c21ac3b796b55f7b17d615d12b3bd124880b4a93223868a231a6e9ed77"
+    },
+    {
+      "type": "Theme",
+      "name": "prudence et de vigilance",
+      "id": "Theme_48a32d94a80d83db720eac5592e7b2b26bd25326b34d2654aac6871df2023e80"
+    },
+    {
+      "type": "Theme",
+      "name": "coordination européenne",
+      "id": "Theme_8594ca151d79ac1d59db8a459d2cb63c587f7f5709e2f00b867ed4d8624d7185"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "relance",
+      "id": "Theme_89b3bcb48b8cc3439eb43c613ac6bd35725f85c44b2759c02b21de9a2a64abee"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité internationale",
+      "id": "Theme_f2c907b4aceabebf6c9c90fa82209baa147570611d30a110e2bf7b66bd1b59c9"
+    },
+    {
+      "type": "Theme",
+      "name": "plan de relance européen",
+      "id": "Theme_6fd3f413ef6ba7f0c7b38cdc4090669cdd9151f531b89ffb968944f986802a09"
+    },
+    {
+      "type": "Theme",
+      "name": "plan massif de relance",
+      "id": "Theme_be8a7ee6ff342f09e8f37c00b52d9a0f4d85b5c8e395398ac17bc9258d8eb76f"
+    },
+    {
+      "type": "Theme",
+      "name": "perspectives financières",
+      "id": "Theme_0fcb6935c8fe6dd88fc85430ca3d0f7f60ecc01c0e0682a318dff8b0ca4bcd46"
+    },
+    {
+      "type": "Theme",
+      "name": "plan de relance",
+      "id": "Theme_0284b43f69888e3ab0015c645b207cd8a09e25a57ef364a712d8ad0acf0ba263"
+    },
+    {
+      "type": "Theme",
+      "name": "politique monétaire",
+      "id": "Theme_ac8a47f2d968c86a6aff54929e2d84afea3194b40a8a8613c3b45f1790c2fdbe"
+    },
+    {
+      "type": "Theme",
+      "name": "politique budgétaire",
+      "id": "Theme_72d294b01c323482c129034dc6c2c749487fc46588c55d608e508253917b8c7c"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs des Européens",
+      "id": "Theme_df718aab2b318635af44cc9b7a558b3a630da0b4f3494db8984261aa71279f1f"
+    },
+    {
+      "type": "Theme",
+      "name": "droit",
+      "id": "Theme_809b6d16ebe657005418287171a0ff40ba1f2fc184046e82a8dbc6d9366cc1a9"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "Conseil de l'Europe",
+      "id": "Theme_a58e4ced7add5fb82f8c23498dc34e5306f017995d370e1e76573f352807cb16"
+    },
+    {
+      "type": "Theme",
+      "name": "Union européenne",
+      "id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté individuelle",
+      "id": "Theme_8a862910c8f3162ef48216be2bd8ffef08e21e3b4623304ba550fb395c122909"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité humaine",
+      "id": "Theme_a68e650cb082f90e106ea6655faf8989cb9854b36f5542c5c40eb1819a7d6ba1"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de l'Europe",
+      "id": "Organization_5c875c7f06516baeebbf53a7d84bca86dab1fc33e8964d207ae7c92ab603f97b"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Country",
+      "name": "Hongrie",
+      "id": "Country_bda46faa77361ae198107f51212ef1953770a2e61d32ec39881204c04aa0bda3"
+    },
+    {
+      "type": "Country",
+      "name": "Pologne",
+      "id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4"
+    },
+    {
+      "type": "Person",
+      "name": "Viktor ORBAN",
+      "id": "Person_2b34948d035a10190e4e39fb301751eefe11f1cea31616d1118468fe7c79587a"
+    },
+    {
+      "type": "Person",
+      "name": "un Premier ministre",
+      "id": "Person_30e17a00e39785058cbc84daf625c5dcd808678831f67f015740a28049a548ab"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "City",
+      "name": "Sahel",
+      "id": "City_92fe9646c051c53241e17f3fdb2c650a6e9fa01c7eb8480b47877e959ee0b5fe"
+    },
+    {
+      "type": "Organization",
+      "name": "CEDEAO",
+      "id": "Organization_ff1e778bfbd4255ebdecd974262a24f3693a795ac79ed21770872fa52242ac89"
+    },
+    {
+      "type": "Person",
+      "name": "monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Organization",
+      "name": "Barkhane",
+      "id": "Organization_e54f566ab6b27cae3cc1917ae6d401f506be9fa0b59d5e884d97d8e2aae1a82f"
+    },
+    {
+      "type": "Organization",
+      "name": "G5 Sahel",
+      "id": "Organization_731d6944c0a31ed0fe261575f2573caac7a90e8ab6d60ef9a3df3e2391b9c38e"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliance pour le Sahel",
+      "id": "Organization_c3876035d5822097fdf46465bdd2616eb45ed52ea9a91f05a7f60ad8705ce7bc"
+    },
+    {
+      "type": "Person",
+      "name": "MERKEL",
+      "id": "Person_11ad4e67ef3a2e4b330ebc39970509630c2fce5702d04790e6328b02bf6b451d"
+    },
+    {
+      "type": "Organization",
+      "name": "Task Force Takuba",
+      "id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69"
+    },
+    {
+      "type": "Country",
+      "name": "États membres",
+      "id": "Country_454c710321513a03401dc403e939fc29614c251ebb3d57f24bb638c90c7a0244"
+    },
+    {
+      "type": "Person",
+      "name": "RUTTE",
+      "id": "Person_007163acd833b9183910ab00e3705fae7bd6b0bd3976ba4a8c8cf31c05d4cc39"
+    },
+    {
+      "type": "Person",
+      "name": "LOFVEN",
+      "id": "Person_7f297098b06cb78f497a36ecba40e63582905d0e27a06809a88a51ad7e93b524"
+    },
+    {
+      "type": "Country",
+      "name": "Afghanistan",
+      "id": "Country_5ea7a9152b57f52d563390097c0d7ee8c7520b1a7fb13ff16e8c8d519cc49736"
+    },
+    {
+      "type": "Event",
+      "name": "conférence Sahel",
+      "id": "Event_6661f666af64f8d6f342048e7c66735d388a8a6b66c8b6bc70a6bafe1b84231b"
+    },
+    {
+      "type": "Person",
+      "name": "colonel GOÏTA",
+      "id": "Person_a4bd14fcf8ef4f26ea0ee0ece392068fb9486875081a357d4083c741cd734d25"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "Country",
+      "name": "Tchad",
+      "id": "Country_4559f6f8af30c0e115367f99db7a2d2bff5c4fb5ef7ec890af7e5e1662fd701e"
+    },
+    {
+      "type": "Event",
+      "name": "coup d'État",
+      "id": "Event_501dc1b33d572ada14d37a29240b6fa62400b8b15c55ebe72d65c35d810ecf93"
+    },
+    {
+      "type": "Person",
+      "name": "Angela MERKEL",
+      "id": "Person_077e47899275e1cda2b2d7e530bf5f66693f699c895edfd079b62025ba358a5f"
+    },
+    {
+      "type": "Person",
+      "name": "BIDEN",
+      "id": "Person_a6340ab64c46aeadd1097acfefb827e46a05d300bf00b1f9552a5a11a4bc9685"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Person",
+      "name": "Vladimir POUTINE",
+      "id": "Person_ba07bc360f6d694c7c43cab878adc061217ec2b08d23eedefe4d5e2a082ef89c"
+    },
+    {
+      "type": "Theme",
+      "name": "question russe",
+      "id": "Theme_19f2b53f33a235259938b86aceb6a9afdff0630e6a272c5358f579778e518447"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégies",
+      "id": "Theme_92d25819b960dae2b83f97b0b80ac683ca7c058976c547bbcdce92a38a5bf1d1"
+    },
+    {
+      "type": "Theme",
+      "name": "formats de réunions",
+      "id": "Theme_32fbc0256a4bea14489f1775c74cacda95a67c47669518b6462b67a6305c1c3c"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Theme",
+      "name": "conservateurs russes",
+      "id": "Theme_6a8c92e4bba686aacfc3eebd63d78ab593917d13d6c328634b39de6d8b58974b"
+    },
+    {
+      "type": "Theme",
+      "name": "anti-libéraux russes",
+      "id": "Theme_e498ddad5c49e6b9de323793785db9d6f15b2bcfc590c7f35d4015e9c075ff2e"
+    },
+    {
+      "type": "Theme",
+      "name": "Chinois",
+      "id": "Theme_9cf58ce7c87ee993a900a577d65485f5dbe104962e16b967e3f315748527f2b1"
+    },
+    {
+      "type": "Theme",
+      "name": "procédures",
+      "id": "Theme_eadb30aff3ccccd0da665303dde6fb7bab63f35b109b026e43e778fa66178d98"
+    },
+    {
+      "type": "Theme",
+      "name": "traités",
+      "id": "Theme_c3a272c2dfd1846286ad96d7b4d2b02792dfcdb0dfaf3631d96b3027831db940"
+    },
+    {
+      "type": "Theme",
+      "name": "systèmes politiques",
+      "id": "Theme_f0413bcb1cf3b6d5f50ee8bdf6626b50fcffda669f126470fae869794e92be42"
+    },
+    {
+      "type": "Theme",
+      "name": "organisations sociales",
+      "id": "Theme_4c55f386e98f60997f524e473a4de8f89e01dbb8505f89359c5251dfdb6f7aa0"
+    },
+    {
+      "type": "Theme",
+      "name": "intellectuels",
+      "id": "Theme_a84766252f0898a56dc3d4d55eefa3916f8ba7d4966bbe9ee24904fcffaf3a1b"
+    },
+    {
+      "type": "Theme",
+      "name": "sociétés civiles",
+      "id": "Theme_da9eb9a9b40c13e89c08473c509d3662198d82a69ee2697b92dd6b60c8c0d652"
+    },
+    {
+      "type": "Theme",
+      "name": "modèles",
+      "id": "Theme_510ced59476c8834e273255f37eb5af8830042795b0bc831e9eda596c099f7f0"
+    },
+    {
+      "type": "Theme",
+      "name": "européen",
+      "id": "Theme_4108aeee47666e4f2e72da43efecadee2096f080b6be26cb929053a55b795ab7"
+    },
+    {
+      "type": "Theme",
+      "name": "procédures européennes",
+      "id": "Theme_4bcab7f758f7028ac301e676f303438175fe03ac98a2e7c6e5c661a4300ee823"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "dirigeants",
+      "id": "Theme_927e3da009504678c8a05ad8e8c4354ff2bcd6463af1c7c66414c48a057deb48"
+    },
+    {
+      "type": "Theme",
+      "name": "peuples",
+      "id": "Theme_7725a22b5d268760712641f810a68d6c63d2f59ee82760b7cbf3813687a49902"
+    },
+    {
+      "type": "Country",
+      "name": "Slovénie",
+      "id": "Country_88ddeb0d618614116972f37defe9ed8b4f029cdb3c098230ef835b57caa93a30"
+    },
+    {
+      "type": "Country",
+      "name": "Belgique",
+      "id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed"
+    },
+    {
+      "type": "Country",
+      "name": "3 pays baltes",
+      "id": "Country_cd37ec1e4f39b1d3153172ded8f49367fe232015027bf9983f1157a0af0098f6"
+    },
+    {
+      "type": "Law",
+      "name": "article 7 du traité",
+      "id": "Law_e73385e2cc13958f5f92e352843ec83ddaa4e908b1801945ad6710f52cd4ca18"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Organization",
+      "name": "fonds de relance",
+      "id": "Organization_26f58d0fed3f862807c1cbebe61fedba8da1d11d3d670f8a1fd6ab38263bfc8d"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre suédois",
+      "id": "Organization_d6eacca2fd0be735cf392bc84b60355f7a4538a87d705ccff58d730d2cc38771"
+    },
+    {
+      "type": "Country",
+      "name": "Slovènes",
+      "id": "Country_f5b97bb5ad88b39ab9808402a85034b17e52c1d52d7d7e91b2c8d4f0e0874a13"
+    },
+    {
+      "type": "Theme",
+      "name": "illibéralisme",
+      "id": "Theme_33c302a9175db483620e6f45725d587c80a185639552598515bf53203eb6f601"
+    },
+    {
+      "type": "Theme",
+      "name": "communisme",
+      "id": "Theme_317beec5425061115df93af5459f009a1f6e36ea145c467580fd3ffbf21a9e75"
+    },
+    {
+      "type": "Theme",
+      "name": "économie libérale",
+      "id": "Theme_3cc7d4614bf784d2e3480ef8ad2626e056483e9fda510ffeedcbf5b0ba757b9d"
+    },
+    {
+      "type": "Theme",
+      "name": "modèles de société",
+      "id": "Theme_a22e7f94906d0cebf499fed2a93e6c6f6d9bd64ac985af443c982056f0cefbdd"
+    },
+    {
+      "type": "Theme",
+      "name": "modèles politiques",
+      "id": "Theme_879770882d54b225159944cad06ff780d3f37fab1613ce65a62029e4c70d4d73"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie libérale",
+      "id": "Theme_98d500a10214563620caaba76c0b7dc5d8f55d0f5296040835eabc7f9e236f0a"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir de l'Europe",
+      "id": "Theme_e5fb5c5bc901020539a67006eb7e5729acab971551fdfebaa67d4436092ebf91"
+    },
+    {
+      "type": "Theme",
+      "name": "socle politico-philosophique",
+      "id": "Theme_ea7fa620288b94cc31c895948835435bdec61d9f8322076a7191bc1bca4940e6"
+    },
+    {
+      "type": "Theme",
+      "name": "recomposition de l'Europe",
+      "id": "Theme_869de796884bee1cc2adb623328dab9ae2e4a6f963d10d11567ffb9e0da72a0b"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Theme",
+      "name": "opinions publiques",
+      "id": "Theme_d5d0e6e6ffdbc3350c3e2c799a4d4ec2640d967aa41c6b1e541bf7ac774245dc"
+    },
+    {
+      "type": "Theme",
+      "name": "médias",
+      "id": "Theme_a0c2653572d94bf1f9ebd7bf71d7bebfca86d0809cdd222a1311f5a6509900f4"
+    },
+    {
+      "type": "Theme",
+      "name": "armes juridiques",
+      "id": "Theme_76419cbd4883b9ac95ffcabaf3c8e23275e65f0994ddb1bdd7f414b1d3369a1c"
+    },
+    {
+      "type": "Theme",
+      "name": "armes procédurales",
+      "id": "Theme_97ef6c7d9590eb1481f119bc51d639fcab0cfaac13a6529252632e8c4ef19862"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution",
+      "id": "Theme_14810cbd3a4618202318beb60cab3c2b699dcf7af2613dada94f298edf9f66c3"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Conseil européen",
+      "relation": "LOCATED_IN",
+      "target": "Paris",
+      "evidence": "Notre Conseil européen se tenait dans un contexte international chargé, puisque ces dernières semaines ont été marquées par le G7, un sommet de l'OTAN, qui ont permis quand même de poser pour les Européens présents les bases de notre stratégie, de notre positionnement, d'un réengagement transatlantique et de l'autonomie stratégique européenne. Et quelques jours avant le Forum Génération Égalité que nous organisons à Paris en coprésidence avec le Mexique et ONU Femmes.",
+      "confidence": 1.0,
+      "source_id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "Forum Génération Égalité",
+      "relation": "LOCATED_IN",
+      "target": "Paris",
+      "evidence": "Et quelques jours avant le Forum Génération Égalité que nous organisons à Paris en coprésidence avec le Mexique et ONU Femmes.",
+      "confidence": 1.0,
+      "source_id": "Organization_aaa2c08ae336b85bc5e8fe9b1f0510fb5c282725b1821c7ebf2eda55254ece56",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "Conseil européen",
+      "relation": "ALLIED_WITH",
+      "target": "OTAN",
+      "evidence": "Notre Conseil européen se tenait dans un contexte international chargé, puisque ces dernières semaines ont été marquées par le G7, un sommet de l'OTAN, qui ont permis quand même de poser pour les Européens présents les bases de notre stratégie, de notre positionnement, d'un réengagement transatlantique et de l'autonomie stratégique européenne.",
+      "confidence": 1.0,
+      "source_id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277",
+      "target_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "MEMBER_OF",
+      "target": "Union européenne",
+      "evidence": "en plein soutien avec l'ensemble des membres de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61",
+      "target_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "ALLIED_WITH",
+      "target": "Russie",
+      "evidence": "Nous avons eu également, cette fois-ci, un long débat sur le lien entre l'Union européenne et la Russie.",
+      "confidence": 1.0,
+      "source_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61",
+      "target_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "source": "Conseil de l'Europe",
+      "relation": "MEMBER_OF",
+      "target": "Union européenne",
+      "evidence": "L'Europe est un projet qui est d'abord politique. Il a commencé avec le Conseil de l'Europe. C'est ce socle qui nous tient, que nous avons ensuite réendossé au sein de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Organization_5c875c7f06516baeebbf53a7d84bca86dab1fc33e8964d207ae7c92ab603f97b",
+      "target_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "Barkhane",
+      "evidence": "la France est engagée, elle, à travers l'opération extérieure Barkhane",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_e54f566ab6b27cae3cc1917ae6d401f506be9fa0b59d5e884d97d8e2aae1a82f"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "Task Force Takuba",
+      "evidence": "tous les Européens qui sont engagés dans la MINUSMA ou EUTM ont confirmé leur engagement. Ensuite, 9 autres européens ont d'ores et déjà confirmé qu'ils viendraient aux côtés de la France pour rejoindre la Task Force Takuba",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69"
+    },
+    {
+      "source": "RUTTE",
+      "relation": "SPOKE_ABOUT",
+      "target": "OTAN",
+      "evidence": "Le Premier ministre RUTTE a d'ailleurs clairement dit, relayé en cela par le Premier ministre LOFVEN, que l'OTAN se désengageant en Afghanistan",
+      "confidence": 1.0,
+      "source_id": "Person_007163acd833b9183910ab00e3705fae7bd6b0bd3976ba4a8c8cf31c05d4cc39",
+      "target_id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "source": "coup d'État",
+      "relation": "ANNOUNCED",
+      "target": "coup d'État",
+      "evidence": "le coup d'État dans le coup d'État a conduit la France à suspendre les opérations conjointes avec le Mali",
+      "confidence": 1.0,
+      "source_id": "Event_501dc1b33d572ada14d37a29240b6fa62400b8b15c55ebe72d65c35d810ecf93",
+      "target_id": "Event_501dc1b33d572ada14d37a29240b6fa62400b8b15c55ebe72d65c35d810ecf93"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la France à suspendre les opérations conjointes avec le Mali",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Russie",
+      "relation": "ALLIED_WITH",
+      "target": "Chine",
+      "evidence": "et du coup, on pousse la Russie à avoir des stratégies d'alternative et à ce qu'elle aille de plus en plus vers la Chine.",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "France",
+      "relation": "OPPOSES",
+      "target": "Russie",
+      "evidence": "Donc, moi, je me félicite de cette avancée parce que je me souviens qu'en août 2019, lorsque la France a fait cela, tout le monde a dit « Vous êtes isolés, vous êtes seuls. Quelle honte de penser qu'on peut avoir une stratégie à l'égard de la Russie ? » C'était ça ce qui était reproché.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "source": "procédures",
+      "relation": "MENTIONS",
+      "target": "procédures",
+      "evidence": "Les procédures en vertu de nos traités sont très longues, trop longues.",
+      "confidence": 1.0,
+      "source_id": "Theme_eadb30aff3ccccd0da665303dde6fb7bab63f35b109b026e43e778fa66178d98",
+      "target_id": "Theme_eadb30aff3ccccd0da665303dde6fb7bab63f35b109b026e43e778fa66178d98"
+    },
+    {
+      "source": "traités",
+      "relation": "MENTIONS",
+      "target": "traités",
+      "evidence": "Les procédures en vertu de nos traités sont très longues, trop longues.",
+      "confidence": 1.0,
+      "source_id": "Theme_c3a272c2dfd1846286ad96d7b4d2b02792dfcdb0dfaf3631d96b3027831db940",
+      "target_id": "Theme_c3a272c2dfd1846286ad96d7b4d2b02792dfcdb0dfaf3631d96b3027831db940"
+    },
+    {
+      "source": "Pologne",
+      "relation": "SUPPORTS",
+      "target": "Viktor ORBAN",
+      "evidence": "il n'y a que la Pologne et la Slovénie qui ont soutenu Viktor ORBAN",
+      "confidence": 1.0,
+      "source_id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4",
+      "target_id": "Person_2b34948d035a10190e4e39fb301751eefe11f1cea31616d1118468fe7c79587a"
+    },
+    {
+      "source": "Slovénie",
+      "relation": "SUPPORTS",
+      "target": "Viktor ORBAN",
+      "evidence": "il n'y a que la Pologne et la Slovénie qui ont soutenu Viktor ORBAN",
+      "confidence": 1.0,
+      "source_id": "Country_88ddeb0d618614116972f37defe9ed8b4f029cdb3c098230ef835b57caa93a30",
+      "target_id": "Person_2b34948d035a10190e4e39fb301751eefe11f1cea31616d1118468fe7c79587a"
+    },
+    {
+      "source": "article 7 du traité",
+      "relation": "PROPOSED",
+      "target": "procédures",
+      "evidence": "les procédures, elles, ne permettent pas d'aboutir rapidement et peut-être pas d'aboutir du tout parce que la seule procédure qu'on a, c'est l'article 7 qui nécessite l'unanimité de l'article 7 du traité",
+      "confidence": 1.0,
+      "source_id": "Law_e73385e2cc13958f5f92e352843ec83ddaa4e908b1801945ad6710f52cd4ca18",
+      "target_id": "Theme_eadb30aff3ccccd0da665303dde6fb7bab63f35b109b026e43e778fa66178d98"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "L'Europe est, je dirais, constitutionnellement, ontologiquement attachée à ces valeurs",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    }
+  ]
+}

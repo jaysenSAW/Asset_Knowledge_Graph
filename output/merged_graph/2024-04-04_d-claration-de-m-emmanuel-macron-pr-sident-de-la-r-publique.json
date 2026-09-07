@@ -1,0 +1,128 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Karl",
+      "id": "Person_1401f80b9678112e25225aa41816b65f4640676f0ec268a7b8ff0f6b42cf19bb"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux olympiques et paralympiques",
+      "id": "Event_d869c8d614b2e9c4090e4d5a2f9c363060ce721a3b87b806bdde2756023fa2dd"
+    },
+    {
+      "type": "Country",
+      "name": "Autriche",
+      "id": "Country_c68a479343ec0ea52bfa053ac2e047c2edaade30d4c6d16515e2d110863f8dd8"
+    },
+    {
+      "type": "Organization",
+      "name": "Armée de Terre",
+      "id": "Organization_1de9e8d57b6c5dc67995e0be6f7f5d2a6359309999fa59748145cfe6ee4681d6"
+    },
+    {
+      "type": "Organization",
+      "name": "Glock",
+      "id": "Organization_4d56e31a4e1d3d3d1151c6afd4f725ec2f9801acf4164efa3c90448610f0f9d5"
+    },
+    {
+      "type": "Organization",
+      "name": "MISTRAL",
+      "id": "Organization_739156526be3a2f6b148496ba55d345f2c11b748dbc4f83d282c7bfd9faacf59"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité européenne",
+      "id": "Theme_5b8cac0080c310deb71672679ec203c87031e87470109651b9beea5527d70737"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté industrielle",
+      "id": "Theme_d1e40ada0601ef179b5bb1136cd6b3d2a25610aa31aa856614c90715b6af2255"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique",
+      "id": "Theme_82634c5567e29ec1e0f256205be4191228a3b7329a743da05d0f47189c5b7272"
+    },
+    {
+      "type": "Event",
+      "name": "Conseil des 17 et 18 avril prochains",
+      "id": "Event_00fd6b3975b3ba36298c579b158f7fcdac72a80506488cc5e1a61e001c2746a7"
+    },
+    {
+      "type": "Theme",
+      "name": "élargissement",
+      "id": "Theme_953dc805c0c4873717f8fadb180057193b349e4b52fa049b29e8228c6f40b8e4"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Chancelier",
+      "id": "Person_02581618e061350fbdd46beea08715070a6256e5c2d26f39d0bc79cc68981238"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La France accueille depuis les dernières années un nombre croissant d'étudiants autrichiens",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Autriche",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "Le partenariat entre l'Autriche et la France se renforce",
+      "confidence": 1.0,
+      "source_id": "Country_c68a479343ec0ea52bfa053ac2e047c2edaade30d4c6d16515e2d110863f8dd8",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Autriche",
+      "relation": "MENTIONS",
+      "target": "MISTRAL",
+      "evidence": "aux missiles MISTRAL achetés par l'Autriche en 2022",
+      "confidence": 1.0,
+      "source_id": "Country_c68a479343ec0ea52bfa053ac2e047c2edaade30d4c6d16515e2d110863f8dd8",
+      "target_id": "Organization_739156526be3a2f6b148496ba55d345f2c11b748dbc4f83d282c7bfd9faacf59"
+    }
+  ]
+}

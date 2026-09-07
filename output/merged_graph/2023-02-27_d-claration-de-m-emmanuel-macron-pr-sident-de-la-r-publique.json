@@ -1,0 +1,831 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Country",
+      "name": "Africain",
+      "id": "Country_698477977960eea221b48ef749235cdb4b76cadf5c10309acc73346625c29054"
+    },
+    {
+      "type": "City",
+      "name": "Lagos",
+      "id": "City_a075be5ddb40be4012522d0d072d6df5cb22ff85f0147dfc51170b77e65fdd82"
+    },
+    {
+      "type": "City",
+      "name": "Lalibela",
+      "id": "City_75ceb51d7280830ad67d3aadb102d73a981c6c088eb949caa8eb60776e5d4abc"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "secrétaires d'État",
+      "id": "Person_5796469a1008de243871637159be351576614777885dbe8359021422d7df5a40"
+    },
+    {
+      "type": "City",
+      "name": "Ouagadougou",
+      "id": "City_3b11427d24948ffcdb7b95de6eaab0a8b8b23d670e0a57d2c0bb9157dfa86ec7"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Sankara",
+      "id": "Person_a9e644df52b76a56760ea63d6b707732eac7119c7abe2362100a876a466cd383"
+    },
+    {
+      "type": "Theme",
+      "name": "climatique",
+      "id": "Theme_4abf026fe9ca32e0caff98a931369a221f531d982e6efa70c6c21719a6ce0a0d"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "États africains",
+      "id": "Theme_4adbf8b27190e7d60191f4e6b825f8cc24736d6c19e5e426ec91c3a0c110b2fe"
+    },
+    {
+      "type": "Theme",
+      "name": "administration",
+      "id": "Theme_e265cce8ed8d3639f0dd21d797cea8d98723b56b1efa5c17bc01d014349b1bc2"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "transition énergétique",
+      "id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "géopolitique",
+      "id": "Theme_c3c610b50522db7d266b422a266b556f7825401c0d3b51ae9196e65d10f33b65"
+    },
+    {
+      "type": "City",
+      "name": "Africain",
+      "id": "City_b2e3c26081ba4281633a06848a87a79aadb093e867523406debd3c7f7e3e6f5e"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "chefs d'entreprises",
+      "id": "Organization_3821eb1945a35c4829f644fa808c6709c07cfa0afe2a5a18e305928078b041c8"
+    },
+    {
+      "type": "Organization",
+      "name": "scientifiques",
+      "id": "Organization_62da1bfd47a4e273e5aae40c269b4935b16be2dbb0cf3dbd293487dd1afbaae4"
+    },
+    {
+      "type": "Organization",
+      "name": "artistes",
+      "id": "Organization_916668a82f536f132bd2b06f58dd4ee200e54ae092169a665d0ef130d116e7b0"
+    },
+    {
+      "type": "Organization",
+      "name": "sportifs",
+      "id": "Organization_cd694b1c11dcfb3e70ae2919c5b0646a7c132acf4644a737f34bb4fc9a48662d"
+    },
+    {
+      "type": "Country",
+      "name": "continent",
+      "id": "Country_70122ce479c34a2c3db699f771d0b6020ffa29892cb4ccd1e29e10cc6676178c"
+    },
+    {
+      "type": "Country",
+      "name": "Africaine",
+      "id": "Country_95b7d323e4d99f0549fd51dd02014102671f484f230c8a4fd3e264d2f883d169"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Congo",
+      "id": "Country_f04e6bc67b933f4bf357928b05123c6f394bed09b5517b5fe0ecd602a29433ec"
+    },
+    {
+      "type": "Country",
+      "name": "Nigéria",
+      "id": "Country_dec6d7826327dc7bafe39e959e4f081c81efc380c2b1cd786c364126e96624bd"
+    },
+    {
+      "type": "Theme",
+      "name": "transition",
+      "id": "Theme_e63e6ab1512da86e741fe3d7ec082523f6b684c749eb3aef27e0dfd412c0a6b6"
+    },
+    {
+      "type": "Theme",
+      "name": "difficultés historiques",
+      "id": "Theme_0cbab177e2dde9bb392a2dea145911308d32220dde131f2b2588adb25235bf98"
+    },
+    {
+      "type": "Theme",
+      "name": "compétition",
+      "id": "Theme_e14a9586484a557d70bf1c30c6f53a798fcb119968a8e22b8110a15105dd4e8c"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance",
+      "id": "Theme_d8895f67d26ec9bc257a9b6d9015cbffdb3029611e550d517fabb25ec9d2c101"
+    },
+    {
+      "type": "Theme",
+      "name": "démonstrations de force",
+      "id": "Theme_d63fb6f190550343db5848959e82eda60a826277fcd42c3dbd1bf6a261e583e5"
+    },
+    {
+      "type": "Theme",
+      "name": "influence",
+      "id": "Theme_f6af551a31b56868882b33600c300c77855f4eafef61a2cd66842fef393394ae"
+    },
+    {
+      "type": "Theme",
+      "name": "marchés économiques",
+      "id": "Theme_d7ae3908346e4b59f59d9ef531b88c1ce7c2f602dee663518ed3ae8827a98f42"
+    },
+    {
+      "type": "Theme",
+      "name": "jeu",
+      "id": "Theme_731ababd14f48ae051597806a2e4e7ec4d90cdd3f012983726c986c75763f171"
+    },
+    {
+      "type": "Theme",
+      "name": "nostalgie",
+      "id": "Theme_b4fa46c4992c30da74d47ea7c24c540859dea25e24de387648b2c4636b77405b"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "passif",
+      "id": "Theme_6706adca0cdd0ded63b16b0b93840fbfff65c90218bd8b8e55dc2b6d5e8b7fdc"
+    },
+    {
+      "type": "Theme",
+      "name": "fierté",
+      "id": "Theme_7eff11c9eca34cecf2a19a02da7d290b3f85a6dd0840cac5b971ec01a30659d3"
+    },
+    {
+      "type": "Theme",
+      "name": "rejet",
+      "id": "Theme_4b662c82b95d2993cc046ca1d295b8698b7720ec7ebf65ae040d88d0ef6d37d7"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité exorbitante",
+      "id": "Theme_139bd68975aa22f5683545743cda6a4db51609b7477fed24b61e132da9308de4"
+    },
+    {
+      "type": "Theme",
+      "name": "sacrifice de nos militaires",
+      "id": "Theme_91ddc604e7a13aaa18833cc6f68768edf4e2533b1297d7be2e7388c5b3b22072"
+    },
+    {
+      "type": "Theme",
+      "name": "engrenage de déresponsabilisation et de substitution",
+      "id": "Theme_cad6d49c80bf2325000c246f99ff10f575a9052c68f48a3e77908442c8881f82"
+    },
+    {
+      "type": "Theme",
+      "name": "pays africains comme des partenaires",
+      "id": "Theme_8aad2a51a41299e986576d1391e24fbe223ebcebca753241689ea4489c4cea63"
+    },
+    {
+      "type": "Country",
+      "name": "Rwanda",
+      "id": "Country_a25a5ec05fe29e50db60bd3d8895a9d523027a5e3d736e345edbee00b92efec3"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Country",
+      "name": "Cameroun",
+      "id": "Country_3dbed6a774b1c2a19e9d3ef0f7db7ed85220ea9016220d7e1e7d4036e88053f9"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission franco-camerounaise",
+      "id": "Organization_48b62281ed8110d79b0ed24215eac026f6fd3036c44f1173b457498e5acbbcde"
+    },
+    {
+      "type": "Organization",
+      "name": "Zone UMOA",
+      "id": "Organization_8e1b50dc7c4d1387d60b473b1376e74a14e0af77b83e9aa504e9447abf46a502"
+    },
+    {
+      "type": "Organization",
+      "name": "CEDEAO",
+      "id": "Organization_ff1e778bfbd4255ebdecd974262a24f3693a795ac79ed21770872fa52242ac89"
+    },
+    {
+      "type": "Organization",
+      "name": "Centre de crise africain",
+      "id": "Organization_d7d1eff2e0634977f86c450f911e9eea7303865648be7532048d4ec83f623def"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut Pasteur de Dakar",
+      "id": "Organization_c4b8fbf36ec5c9d8ce0c1ec81ee66ebd2a0bb863470cbf1b239c3ff2943cf20b"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut national de recherche biologique",
+      "id": "Organization_dd4032efd642dabf8c28dd32d4e5836337d97b1e37136c1c943cb2bae80d19b2"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique du Sud",
+      "id": "Country_18768cba57ae5abd3fb4a98f72c105af41db31822809e203889560cb72663272"
+    },
+    {
+      "type": "Person",
+      "name": "N'Goné Fall",
+      "id": "Person_5adaceb66a30e9d5b833a7fbe406061ac24f9d1de96f955db5a6c0d72d13fe4b"
+    },
+    {
+      "type": "Person",
+      "name": "Fela Kuti",
+      "id": "Person_2dd467174a9fa0c2d91f58859eab6a2dee68f704e45ca1b106f30bdb077181da"
+    },
+    {
+      "type": "Person",
+      "name": "Papa Wemba",
+      "id": "Person_2e991583edae74fe7cc8422c73ff3a4717f07818847f075eb916c967b9a3bdc3"
+    },
+    {
+      "type": "Person",
+      "name": "Moké",
+      "id": "Person_3a578b71069a5d0a5f47d2a52b4c9aee6621bcf13f7dd100f881e48b4ac467b9"
+    },
+    {
+      "type": "Organization",
+      "name": "Quai-Branly",
+      "id": "Organization_2777f3570e3ac8271b76a77d2f89b496e1b7f310413a1666f685985517391772"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Law",
+      "name": "loi-cadre",
+      "id": "Law_b8b0f8db046133cdbff67d89d01966194c149a79315bf2c9e9a09367ebf620b3"
+    },
+    {
+      "type": "Organization",
+      "name": "Travail réalisé par Jean-Luc Martinez",
+      "id": "Organization_6128bab6778445ec0d0bf6e20ce26c5f6aec059f6a0a5380ef9ab241416ccf57"
+    },
+    {
+      "type": "Country",
+      "name": "Côte d'Ivoire",
+      "id": "Country_02a4cf0b159c169388d9cae695c5828d01927abf33bf75e323c8f187cdde6be9"
+    },
+    {
+      "type": "Theme",
+      "name": "restitutions",
+      "id": "Theme_f423590e621ae135c9e530c03bd3c3a79bc5af8f6e5b64549dd83c9db9000fa6"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariat culturel scientifique",
+      "id": "Theme_8e6c648ee27b794ec1b5b78de35edb4ccf955d41b1b2d3660691763252b4bf81"
+    },
+    {
+      "type": "Theme",
+      "name": "œuvres africaines",
+      "id": "Theme_af0c3baf43ff204fb4668ccdd8b2cced9acb68f828ab9355f19972996558b7ce"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds franco-allemand",
+      "id": "Theme_ebd5cbb3c008e29bd3541803cd9c4e165334db566e8f95af4b956bc0dc480e15"
+    },
+    {
+      "type": "Theme",
+      "name": "recherches de provenance",
+      "id": "Theme_0a9eb688675149e5b013e44db322ac785cfe8e47996661717c304e8e31c57dfc"
+    },
+    {
+      "type": "Organization",
+      "name": "Choose Africa",
+      "id": "Organization_41ab8aeeec9ad72281301599a33e5fe196bc2caac94368e50bffbd089163697b"
+    },
+    {
+      "type": "Organization",
+      "name": "MEET Africa 2",
+      "id": "Organization_04c08396c5877ba4dc960f2569e7bbe3ec858627096ff46e6c4188b9ff05752c"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque publique d'investissement",
+      "id": "Organization_4ae1ff72a2253bf942ec7e47c3a2bcf0c3960deaafd46b172996a21479ae208a"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française de développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "Organization",
+      "name": "Digital Africa",
+      "id": "Organization_3b9e5a873a821271f24e9de2dbc539cf84c8e48ea262dbf66546863ecbc61228"
+    },
+    {
+      "type": "Country",
+      "name": "Sénégal",
+      "id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "RDC",
+      "id": "Country_b46a5fc082126a0ce99839103918b88095389e12963e8679894ee4c95cab1f65"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Sommet de Bruxelles",
+      "id": "Organization_ed319d40e13cf18328034eaf04e23b1b4bf99af492d7f8a5c9732201167f561a"
+    },
+    {
+      "type": "Organization",
+      "name": "Sommet de Paris sur le financement des économies africaines de Paris",
+      "id": "Organization_0c261faefcf0e78e8b7be875d2822d62d47301dd8f6f8921453ee970cab61141"
+    },
+    {
+      "type": "Person",
+      "name": "Présidence française",
+      "id": "Person_aab77b57f9c4c958cf9fc459d65c9bc4d5ea492c5e1d7682c52a7794f8c1adc8"
+    },
+    {
+      "type": "Person",
+      "name": "Thierry Breton",
+      "id": "Person_ed07c18dffcb9fae761ce572565c69ef328ed102cba549a93712a74c9b49f469"
+    },
+    {
+      "type": "Person",
+      "name": "Urpilainen",
+      "id": "Person_b8f712bc54ddc3b401eb2a1f0545391096b5f52cd876b5972161897e2436c958"
+    },
+    {
+      "type": "Theme",
+      "name": "franc CFA",
+      "id": "Theme_9773542494a93b476dd51371c55655ec3e46510dc167fabdb6b8ad8771dd848b"
+    },
+    {
+      "type": "Theme",
+      "name": "restitution des œuvres d'art",
+      "id": "Theme_7b51708b3c0d3e82c51fa6815359005b2a1ef316851e8b0aecca88c9a1f6b9bd"
+    },
+    {
+      "type": "Theme",
+      "name": "entreprenariat africain",
+      "id": "Theme_5fe1d9ae35074d1e1bab84ac685d923ee1019047547cab18b76658852d7b1d5a"
+    },
+    {
+      "type": "Theme",
+      "name": "sécuritaire",
+      "id": "Theme_72f5edd5ac96365ec2ada45dd7fd05195434a4e6fc122f253df0b95e8b44076f"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariat",
+      "id": "Theme_02440e7a1226a40030b255df60faa6f895303652ce187ab029b21f1a1c31c4e5"
+    },
+    {
+      "type": "Theme",
+      "name": "aide",
+      "id": "Theme_eef9a924d4a046745a3ec143a931431faf63993ce4a9af79df7ceb8aa49f0ec0"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement solidaire et partenariale",
+      "id": "Theme_b777ee756656fd12edb2e86c87e715a7a1f77d99d9d3492471eee2fcf92fb8b3"
+    },
+    {
+      "type": "Theme",
+      "name": "Nord supposément occidental",
+      "id": "Theme_e6ab08956835227b708b829aab4222b554b85bafd827de3977fbafd50d5eb4d3"
+    },
+    {
+      "type": "Theme",
+      "name": "Sud global",
+      "id": "Theme_46faa2487c37970b271740041990dfadf208f27a5755d9af9a63c58e69156a02"
+    },
+    {
+      "type": "Theme",
+      "name": "G7 de Biarritz",
+      "id": "Theme_51bb84c05bdfad2908c9013ac5049423b207a27b00c10935bc61674abce41d48"
+    },
+    {
+      "type": "Theme",
+      "name": "G20 de Bali",
+      "id": "Theme_d49ddfb488954c9ea0b12b7f4a68437f2c4adeebb481694e03fdac890f8229ff"
+    },
+    {
+      "type": "Theme",
+      "name": "initiative ACT-A",
+      "id": "Theme_0f2eb64f728de1f9a4e89df29ea8fe1eb1ccb81b60db8dbcbe79b19b17005ab5"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Barbade",
+      "id": "Country_91375ce33192beae81ff482a333212eca4b043c11e9962e7e861a68125f2106e"
+    },
+    {
+      "type": "Organization",
+      "name": "CEMA",
+      "id": "Organization_32de40cc97d32669797addb779913513e3ba989b1e613ed99240d35b25634f93"
+    },
+    {
+      "type": "Organization",
+      "name": "nos partenaires africains",
+      "id": "Organization_8950edef281ff1eae8a207a0dd0e736b10b08ea2597990116873453dc8ec4190"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "équipe de France",
+      "id": "Organization_59d91c5e57b057e81dd2bdeb049eaaab7fa528cfb9f27de8c467cde68dc5d58a"
+    },
+    {
+      "type": "Theme",
+      "name": "formation professionnelle",
+      "id": "Theme_d846003645ad5e5e511208f664265ae5edc2a1f2c5d843f3ff4622d434eb6c71"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité femme-homme",
+      "id": "Theme_c0ea7fa6a686b239dda44eee5ae281a96b820058b54dbea40bd5485bed2c7aae"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien à l'entreprenariat",
+      "id": "Theme_e2cebf8b2af8da66a9aae97c4309b66af3bddc443583d45ed3d2b808b0114db8"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "City",
+      "name": "Libreville",
+      "id": "City_90117d5c526e1d5ef03389252c53379c8ff1fd9071133d52cc749188569be38f"
+    },
+    {
+      "type": "Organization",
+      "name": "nos ambassades dans les pays d'Afrique francophone",
+      "id": "Organization_0e791a35efa0830a0ed7f9cc2203b97ef40626c1e232064c7aa0d7741ff6b1bb"
+    },
+    {
+      "type": "Theme",
+      "name": "Jeunesse africaine",
+      "id": "Theme_6625779c7e3ec34553cb4bf640028f116cd7c3395a3bfb01d64c33e58c6d01d9"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil présidentiel pour l'Afrique",
+      "id": "Organization_059d340081832799c7992d34fcf4f009bc6efcc3fcf336f878677130359ec0b1"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Organization",
+      "name": "Fondation sur l'innovation et la démocratie",
+      "id": "Organization_a6c22dfe7714f21b491c86279a7906b2ffc6d81f302f10dbe3f74790b9466de6"
+    },
+    {
+      "type": "Person",
+      "name": "professeur Achille Mbembé",
+      "id": "Person_b2d386f3a40e64fb6af8d666bb869a1b698ac8bbf4e1c6d82d608ceb99b2bd34"
+    },
+    {
+      "type": "Organization",
+      "name": "grands groupes français",
+      "id": "Organization_52ff22fcb73dbf25bc9f1345520dcb099d0ba0291db9e2d9b9e957fc00a206a6"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Pologne",
+      "id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Organization",
+      "name": "Pass Africa",
+      "id": "Organization_177ab0ba20b2b308344899b7acc8de120258fc698682c8b80515192a4a07cbd3"
+    },
+    {
+      "type": "Theme",
+      "name": "financement des infrastructures africaines",
+      "id": "Theme_418124523c199c67e05ac012ed1a05e6b03a6d992b5d303a5882da439885ae60"
+    },
+    {
+      "type": "Theme",
+      "name": "standards auxquels nos entreprises peuvent travailler",
+      "id": "Theme_212cacd04621fcd511aa0a818ff0bdda2f7ddba11d32d4a0ffb5b04905daa440"
+    },
+    {
+      "type": "Theme",
+      "name": "G20",
+      "id": "Theme_54ecd60ef908d3cd5742fcaa9465cdabad3eb7ede51b5f4128de8db51cd3e891"
+    },
+    {
+      "type": "Theme",
+      "name": "Global Gateway",
+      "id": "Theme_7bd73e249a76968c3c12a5d593166c969b4aaa3fb77e10e47408d99eacc6a729"
+    },
+    {
+      "type": "Theme",
+      "name": "Partenariat mondial pour les infrastructures",
+      "id": "Theme_dec47b98cd465c1601ab1a22f22f7ecbf0c2ad433ea3acf852ec64f68fa15216"
+    },
+    {
+      "type": "Theme",
+      "name": "soutenabilité",
+      "id": "Theme_68eb5f4dec4b35d9c44dc3f050455de05c5ff78005c3bf89ddcced7cef55062d"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "excellence scientifique",
+      "id": "Theme_45611c6b116925b0bf03c3ef353ba86ceab4d4e2f59e14491efce70a66f58509"
+    },
+    {
+      "type": "Theme",
+      "name": "universités",
+      "id": "Theme_077ccf73db0b40daaa6552041f5050bdf77371917e6cc423c9e67eae43d93fdd"
+    },
+    {
+      "type": "Theme",
+      "name": "formation militaire",
+      "id": "Theme_d4cc01a8f325baf131f6cc4ced8015b008a87d9152f4aea7bded78271d417166"
+    },
+    {
+      "type": "Theme",
+      "name": "artistes",
+      "id": "Theme_03a7dfb7846bc5f465b150fab1640cb2380901875d8af55ff6e6b0621f11985c"
+    },
+    {
+      "type": "Theme",
+      "name": "sportifs",
+      "id": "Theme_833656a0f9283e1e7691be11e73d1cefdf75dbca3e469851dc3e9a6eaf89c8d1"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunes",
+      "id": "Theme_a20dcaf37efe496f33d1e4c4be9f3c3dabe56fc83fe45c815f1d76fdaaef0dcf"
+    },
+    {
+      "type": "Theme",
+      "name": "volontariat",
+      "id": "Theme_0a1bc9f39ac773dea871dc8ea56f1279c48d2986a5e2e283c59e3b7c3be20859"
+    },
+    {
+      "type": "Theme",
+      "name": "diasporas",
+      "id": "Theme_02cf92f72cdd5561350316a2136379d917bf5f134f2bafdbcfe74d334c3bfdf8"
+    },
+    {
+      "type": "City",
+      "name": "Montpellier",
+      "id": "City_a4b08d8442d3c90fe9eb3313e4500d0e3a904f2fb68190ad2b4820a2e2aeb0a7"
+    },
+    {
+      "type": "Theme",
+      "name": "sociétés civiles",
+      "id": "Theme_da9eb9a9b40c13e89c08473c509d3662198d82a69ee2697b92dd6b60c8c0d652"
+    },
+    {
+      "type": "Theme",
+      "name": "questions climatiques",
+      "id": "Theme_730b9928ccbfbf4827026bec25797d750caec58e84ac9edac4e3b0a11ffd6683"
+    },
+    {
+      "type": "Theme",
+      "name": "liens économiques",
+      "id": "Theme_4d76e1fd7cc354a8806fdee7a15a167999280ec8eafca9ecaca2aada6986321a"
+    },
+    {
+      "type": "Theme",
+      "name": "double standard",
+      "id": "Theme_5267759c0dff85fcf3de69ea028fe63f10e04035f0e54922c7cd33541a960671"
+    },
+    {
+      "type": "Theme",
+      "name": "division",
+      "id": "Theme_51226e2119e097a2d00a987884a7ffc43fa4ce2314906ee31389014c78119404"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Occident",
+      "id": "Country_5e643e0ad23d123e5e139846e2c486f0c5efb542337d240301732679a67d153c"
+    },
+    {
+      "type": "Country",
+      "name": "Grand Sud",
+      "id": "Country_bc495ecc421e27c5a0c939b2451a1c888bcaea5e0cd894de7bb0af1f47adb287"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Africain",
+      "relation": "LOCATED_IN",
+      "target": "Africain",
+      "evidence": "Le temps passé sur le continent africain est irremplaçable.",
+      "confidence": 1.0,
+      "source_id": "City_b2e3c26081ba4281633a06848a87a79aadb093e867523406debd3c7f7e3e6f5e",
+      "target_id": "City_b2e3c26081ba4281633a06848a87a79aadb093e867523406debd3c7f7e3e6f5e"
+    },
+    {
+      "source": "équipe de France",
+      "relation": "SPOKE_ABOUT",
+      "target": "France",
+      "evidence": "ce soit l'équipe de France, qu'il l'ait mise en place",
+      "confidence": 1.0,
+      "source_id": "Organization_59d91c5e57b057e81dd2bdeb049eaaab7fa528cfb9f27de8c467cde68dc5d58a",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "démocratie",
+      "evidence": "La France est un pays qui soutient, en Afrique comme ailleurs, la démocratie et la liberté.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "source": "Fondation sur l'innovation et la démocratie",
+      "relation": "PROPOSED",
+      "target": "démocratie",
+      "evidence": "Ce sera le rôle de la Fondation sur l'innovation et la démocratie qui a été créée en fin d'année dernière à Johannesburg et qui rayonnera sur tout le continent",
+      "confidence": 1.0,
+      "source_id": "Organization_a6c22dfe7714f21b491c86279a7906b2ffc6d81f302f10dbe3f74790b9466de6",
+      "target_id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "source": "Président de la République",
+      "relation": "VISITED",
+      "target": "Africain",
+      "evidence": "Quand le Président de la République va dans un pays où on reçoit un dirigeant et qu'il a un N-10 à côté de lui, face à un président africain",
+      "confidence": 1.0,
+      "source_id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10",
+      "target_id": "City_b2e3c26081ba4281633a06848a87a79aadb093e867523406debd3c7f7e3e6f5e"
+    }
+  ]
+}

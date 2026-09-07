@@ -1,0 +1,997 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Organization",
+      "name": "couple franco-allemand",
+      "id": "Organization_04017f05ea92fb31f704c01b2a2e01fb0e81b001c704d08459d067d6384edd22"
+    },
+    {
+      "type": "Person",
+      "name": "Friedrich",
+      "id": "Person_1083a7cf6386411c9c12cb828a8344d613f0a85d0b0033df38ef59e02c43a479"
+    },
+    {
+      "type": "Person",
+      "name": "Gaulle",
+      "id": "Person_37c21081ed575b99b0cb2ee05e9fe807d1e1b621713eb1cff4d5b81078b96237"
+    },
+    {
+      "type": "Person",
+      "name": "Louis XV",
+      "id": "Person_5e7b67605ada0acd1ea82d256c001130fed332730398799f1264975533bae8e7"
+    },
+    {
+      "type": "City",
+      "name": "Augustusburg",
+      "id": "City_57b30739dec826506962b9735447114d44c029537fc0542d2326662b8392a81e"
+    },
+    {
+      "type": "City",
+      "name": "Cologne",
+      "id": "City_d9832227d3076b984b731a4690e059049b555d74d07618b0da7f8126d63e6fd0"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de franchise",
+      "id": "Theme_8049c5e61109f6f3f389b4be9b2622aa4e5fcdc7b1e1e3acf70252b7d0d744a8"
+    },
+    {
+      "type": "Theme",
+      "name": "amitié",
+      "id": "Theme_da59468cff46157116230d1b59468dc6ee8497b19a27cf4c7344818aedeeeb88"
+    },
+    {
+      "type": "Theme",
+      "name": "pragmatisme",
+      "id": "Theme_01dd21eb7f416ce1db9c52f1d78848a93631161a1c44e44945db1bc6ebb5713d"
+    },
+    {
+      "type": "Theme",
+      "name": "volontarisme",
+      "id": "Theme_e253f242fad911c0c8af7aaafa93a02a60d5f688e28cb8642955f64b512abfc1"
+    },
+    {
+      "type": "Theme",
+      "name": "défi pour nos deux pays",
+      "id": "Theme_1b1151166b94bb38bf47936a3bd9d22657e28ad81a634158d20ac7855f2d9efa"
+    },
+    {
+      "type": "Theme",
+      "name": "époque très singulière",
+      "id": "Theme_c4e84b99c9a67a3f93c3a01cfc30b2ec8032acc7eb387509f0fd72d4dfa60c4e"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre sur le sol européen",
+      "id": "Theme_5486d34d1741bbbd7c47871c0827cfff07ca9b335ae3b78c72c19ce5121c3b21"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence transatlantique",
+      "id": "Theme_9dcf822e766e00070185c023a1deb2211b06a84b408616fdef92353f743ca4db"
+    },
+    {
+      "type": "Theme",
+      "name": "solidité",
+      "id": "Theme_0fd707f8783bb31ab07ff04672645404726ba20d62c6c433413a8954a235c04a"
+    },
+    {
+      "type": "Theme",
+      "name": "défis technologiques",
+      "id": "Theme_91ca652566970e6a7239b98759f801e52c0f2f47deb4e45d13d28f5fc37b32c6"
+    },
+    {
+      "type": "Theme",
+      "name": "défis migratoires",
+      "id": "Theme_0b2e3872003f5c65ae77e040b6d63f0a8440eaa0651fd3c8e37ce0570e46f752"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre commerciale ouverte",
+      "id": "Theme_2bf7ab6d4b6de0911b0307946a66fb90ba02fcba828e163bde9c4944b3c196f0"
+    },
+    {
+      "type": "Theme",
+      "name": "agressivité commerciale chinoise",
+      "id": "Theme_b92a97242b74c92b0c96b6cff19a25a0246bdef05cf2e8133d8bc9aec757738d"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Chancelier",
+      "id": "Person_02581618e061350fbdd46beea08715070a6256e5c2d26f39d0bc79cc68981238"
+    },
+    {
+      "type": "Organization",
+      "name": "nos équipes",
+      "id": "Organization_5e1c5a12928f7e78018b5c66fcf5ed63a5c63360ea502af8723ba921f1cc4ba0"
+    },
+    {
+      "type": "Organization",
+      "name": "les conseils",
+      "id": "Organization_be32b7e279cc0ac50733ac5cd1cdc9ed8852217661fa850a7c4cf726e1c5a96d"
+    },
+    {
+      "type": "City",
+      "name": "Norvenich",
+      "id": "City_045b6252ef9560bf0e40c770e9b05a04e061a22d85f179ade7dd01679ed24c33"
+    },
+    {
+      "type": "Theme",
+      "name": "dissuasion avancée",
+      "id": "Theme_d3cebc469edeed09121b178666d837a42f686c1a0fe9ff77dfb957392bceccd0"
+    },
+    {
+      "type": "Theme",
+      "name": "alerte avancée",
+      "id": "Theme_0daf3a1271886f0a991d05384716ce398689f1df5db9d67e5f606593d95bbf55"
+    },
+    {
+      "type": "Theme",
+      "name": "JEWEL",
+      "id": "Theme_4c5b8fb2a75ad54fdca32bab2a9f9cc2ecd42005e444eda87f540978f37a5833"
+    },
+    {
+      "type": "City",
+      "name": "Toulon",
+      "id": "City_e269c743821deaa732a9c8c1951186d7a971393eded589032f1026304a7b1fa7"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Organization",
+      "name": "KNDS",
+      "id": "Organization_272af183225c3208b4c1906a0bd9c835c4e09a28938bbc2071d3b01556f28f86"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "City",
+      "name": "Évian",
+      "id": "City_40ee17ba3fe5cb7b00ec5510c998566aeb30ae5ea098f0c56d98a735161243c8"
+    },
+    {
+      "type": "City",
+      "name": "Ankara",
+      "id": "City_e1942ae8a2c8c8085db5e9d3d66e1cc8a0f3745cc3ca04971be275b110e57b9c"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté technologique",
+      "id": "Theme_64c44237890c648828d00038dd2d444502361f6d06825992d62e522889f2b127"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté numérique européenne",
+      "id": "Theme_fd624f6985edb54c9e071bfc3d69101c42484a67236de1b29780e947f3acaca1"
+    },
+    {
+      "type": "Theme",
+      "name": "matières premières critiques",
+      "id": "Theme_7dd60e0bac9b8d29f32c51d1e9e34bed7e616871ad894be9a04082517374a479"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle de frontière",
+      "id": "Theme_6e10b2491059c1ba1e5b02a2b578c4159a465338129674928591a07a099fa4c2"
+    },
+    {
+      "type": "Organization",
+      "name": "Iris²",
+      "id": "Organization_c5589f45bf737ac0683298124b7a858ccd200188acd8ed816c45168c6585a476"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "consolidation",
+      "id": "Theme_e4e711205f0e4c2cc6ac4364eb332987deabfc2f86d22eb212e8105f0e512fde"
+    },
+    {
+      "type": "Theme",
+      "name": "satellites",
+      "id": "Theme_3f9535ad7eab290977abe4c0e0c41b760ed9d89e6a8095d7042b3ca50e1ceaad"
+    },
+    {
+      "type": "Theme",
+      "name": "fréquences",
+      "id": "Theme_d4efb80670f3ebfc57f2a653863bde48922e8797dcf9e8e12dae346832fc2742"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Event",
+      "name": "Sommet spatial international",
+      "id": "Event_14c622ee439f5cdf00f45913f3e84d87349dd4725c0d156119530063cdd82959"
+    },
+    {
+      "type": "Theme",
+      "name": "finance",
+      "id": "Theme_f723c16c63b30940cbcaa18ce802825b3fb3e76ed4e6cfab624beddf6be9deea"
+    },
+    {
+      "type": "Theme",
+      "name": "IA",
+      "id": "Theme_0f7b4d278ae5bfefffb82e77e70a25c278d1ebb45250f850a04518b8bb8d4702"
+    },
+    {
+      "type": "Theme",
+      "name": "quantique",
+      "id": "Theme_a55a5e9c04e9e49c2efc55c9c97fdcdd3149041e81aa26bd45766547b9155e23"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "relation à la Chine",
+      "id": "Theme_a917d9e99a56843398110313539fd3b1c6be8ec123d83f7e792e0eee3fa449df"
+    },
+    {
+      "type": "Theme",
+      "name": "transferts de technologie",
+      "id": "Theme_2dc372a2e2cd5fe425d91c2760bf603104587c1546ab2a54f8d139eebb376d85"
+    },
+    {
+      "type": "Theme",
+      "name": "déficit commercial",
+      "id": "Theme_3e4eefc7ae8d8637997f1fa4d39e2844c3ec558bb686f1ffef4fc60a8cb7b4c8"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois détruits",
+      "id": "Theme_10d2ff500943f9ca9eca5129c8e73a8473628fa41989508e36781aaf2e99f3f3"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Organization",
+      "name": "Chine",
+      "id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Theme",
+      "name": "change",
+      "id": "Theme_6a7e8f9f2a65bdf67df938d97fc93b476bc7a78292b456ee91f8db61650a832a"
+    },
+    {
+      "type": "Theme",
+      "name": "ouverture des marchés financiers",
+      "id": "Theme_72ff151cb30dbda6bb3cfbbbeeb0020b85e190bf3b2a1f3f7887c32504f0156a"
+    },
+    {
+      "type": "Theme",
+      "name": "dysfonctionnements de la relation en matière de change et de la relation monétaire",
+      "id": "Theme_14567dc1c95082ac9fc0b6c5201b95a203cafac541d499749926f25e460543b7"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition européenne",
+      "id": "Theme_b9cc755f285245b083b8958673504dcd560871076cd5d85cb3fb08a1ec12002b"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité des dépenses",
+      "id": "Theme_35dde4d458349fb9caf78cbae31f5c46fae80a9ccc7d626b65528993b2760ac5"
+    },
+    {
+      "type": "Theme",
+      "name": "trajectoire irréaliste d'augmentation de nos contributions nationales",
+      "id": "Theme_22503d1df3d12b526081ae15a6b523ab468da99c5f9a58287aeb95887d0103b9"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "protection",
+      "id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "type": "Theme",
+      "name": "résilience",
+      "id": "Theme_ae0698b8a130cd1cd5df43fe5e3e189eb0c16712f2fa72aeeed81640c8d2a14e"
+    },
+    {
+      "type": "Theme",
+      "name": "sociétés",
+      "id": "Theme_fe833d4653f5c9552e8c9c71993635978cec94fe799b0a35befc37cf9a873a5d"
+    },
+    {
+      "type": "Theme",
+      "name": "démocraties",
+      "id": "Theme_56cab7a53aa93e99087fecefd082e66c8d079b1bc5400d121f702e8873b1648d"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration clandestine",
+      "id": "Theme_6e1dd2fe41cbf59d5ee4a198d7e5f013d58756dce7b0a73faa7a2144154efb49"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "passeurs",
+      "id": "Theme_51147051753b171560a1292d277ba89cff9e1b6064706be24d8ffdf6e8a0f211"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte asile-migration",
+      "id": "Theme_dd20beec09c8da8a18eb6c44825a364e96775389ddece3c9efb045e0c3b48eb0"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue social",
+      "id": "Theme_ee894356fb7b18c232f5f8942280aa5130fa4a4bf5c6ae081e42c62ae85a0fce"
+    },
+    {
+      "type": "Theme",
+      "name": "négociations",
+      "id": "Theme_4d064003cc5b671abd28afd991a250ae1ec2105087df838ea8c47f7d0e4ed9f2"
+    },
+    {
+      "type": "Theme",
+      "name": "consultations",
+      "id": "Theme_93f9c4c77e3c2faf93cad5a976734afe05d73d0ce52bdeaa072623703be36431"
+    },
+    {
+      "type": "Theme",
+      "name": "échanges d'informations",
+      "id": "Theme_69ad32f8c6f2e5fd4b54e62e6621fb397f571ab7251e84b4c95f2c432e19cb89"
+    },
+    {
+      "type": "Theme",
+      "name": "représentants des gouvernements",
+      "id": "Theme_228dbefd99101865ad0d42f09b4ef8ce31e982a8177f019d2ee45247b5415c3d"
+    },
+    {
+      "type": "Theme",
+      "name": "employeurs",
+      "id": "Theme_f7b92c3b99fc1b681edc6b208f53904e30f40c31bf14f9a87523af38422f265b"
+    },
+    {
+      "type": "Theme",
+      "name": "travailleurs",
+      "id": "Theme_874e3fed642323c857c341dea5c2fbdf29315ba3ac8f80e1c0eddb1a5e844f77"
+    },
+    {
+      "type": "Theme",
+      "name": "questions économiques",
+      "id": "Theme_cff5d19da5111c5264694a536b8ca4f77f102c76c11ef44b4f3fcc4be428e907"
+    },
+    {
+      "type": "Theme",
+      "name": "transports ferroviaires",
+      "id": "Theme_07e4f300799da4010a1ed983cf3b15ddab3e02d44414ffbdc9ab320ea1f9f072"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité des travailleurs",
+      "id": "Theme_adc34b807ca0a34e6fc18993a4575b8eca337b99f3a5834a3831ac588ac24784"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Organization",
+      "name": "Office franco-allemand de la jeunesse",
+      "id": "Organization_007c999104170c3b2860e16fd610924d1e1a12d0aed3e5e287cc1f164508de84"
+    },
+    {
+      "type": "Organization",
+      "name": "fonds jeunesse",
+      "id": "Organization_cfa570776db68c9affb12b8969d9a092f76f59d525fa19152166bb2c26d8e7b4"
+    },
+    {
+      "type": "Organization",
+      "name": "Arte",
+      "id": "Organization_f58db3f881206566fe228d63930c2b1b964d697d1ae5ba56c44e82e571431563"
+    },
+    {
+      "type": "Organization",
+      "name": "France Médias Monde",
+      "id": "Organization_b16cd4c70baf2a0921cccfa60d2f6c629bf14cab0f67add30f8925ac832d204d"
+    },
+    {
+      "type": "Organization",
+      "name": "Deutsche Welle",
+      "id": "Organization_d29e41e2bb7447d4014b5d72847b738ee694f422f38bfc7d38d8ffae71c339df"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Organization",
+      "name": "Rassemblement national",
+      "id": "Organization_b6bbc269d39949f0e9d15a2b164366674f31ac973cb66d82d7826ba68012b9f0"
+    },
+    {
+      "type": "Theme",
+      "name": "militaire",
+      "id": "Theme_703a1ce8bacc621e7371ce6f7d31802464ec3feacc2fcae60e2b209e5a44c132"
+    },
+    {
+      "type": "Theme",
+      "name": "élection présidentielle",
+      "id": "Theme_cbeb478471d1b5381ff14861560e41ff00cbef933489fd79ff7ba1c19ddc0eb6"
+    },
+    {
+      "type": "Theme",
+      "name": "tandem franco-allemand",
+      "id": "Theme_99ef6bf4c1ed54302f2833d269d1cae196fd0cd4a548b706497eca01bab0de2d"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le chancelier fédéral",
+      "id": "Person_a1195a900771537cf94b684a022aac4c747e4c93e9a8248720ce6367c80e34e5"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Marine Le Pen",
+      "id": "Person_1179b0c2380f623448f854923bef27989e28a4ba5c870013266b50f39aeefe35"
+    },
+    {
+      "type": "Person",
+      "name": "le chancelier",
+      "id": "Person_8efe6fcb591418df8b994489592661cf0b841700468f7c442a40e767c9c51118"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité du continent européen",
+      "id": "Theme_e5549e01f6136f001e5d9b516054f9b8e06ef48a2687e6abd553deafbf2aba42"
+    },
+    {
+      "type": "Theme",
+      "name": "incertitude chez nos adversaires",
+      "id": "Theme_53b2c0cd0ce250f52b1a99a7c993a6e8c45e6ecc401609bd480a4e487028401a"
+    },
+    {
+      "type": "Theme",
+      "name": "dissuasion nucléaire",
+      "id": "Theme_58eeb47a4187adc35273d336dfd15dff2be146723e73c7047d28cd4f39ac63c9"
+    },
+    {
+      "type": "Theme",
+      "name": "intimité stratégique",
+      "id": "Theme_dc784dc0e8bf9461873c549e872474a8504782a8c8d7ae77b2acf511b647d1c2"
+    },
+    {
+      "type": "Theme",
+      "name": "exercices conjoints",
+      "id": "Theme_0ae7a22a287ac4ac28c2ca0f9ca26c8010b6410880cc163bb82001dbe4292752"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariat",
+      "id": "Theme_02440e7a1226a40030b255df60faa6f895303652ce187ab029b21f1a1c31c4e5"
+    },
+    {
+      "type": "City",
+      "name": "Île Longue",
+      "id": "City_619e5382101bc758d7fe712c6426757927298ab3860e7fb5486f0a5902e354b7"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le chef de l'État",
+      "id": "Person_78dc689138aa8b5a74701e70e9428f3c9c0d79388b4bc75743001b6f71e92253"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Organization",
+      "name": "MGCS",
+      "id": "Organization_46bbf1ed9047883ef7641ad916c63afab34eaf6c3017ad0dc0845095aabb2e7e"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance des projets de défense communs",
+      "id": "Theme_dc454409140b436c007d0c6394fdc5cecc2eff171c13c5d60734366628412d78"
+    },
+    {
+      "type": "Theme",
+      "name": "CFADS",
+      "id": "Theme_48624ccf787d978a209118efa797a5fcb4c97a9c0f4a709157f2d72204122e8e"
+    },
+    {
+      "type": "Theme",
+      "name": "accord",
+      "id": "Theme_0b2df016a46af61e5cf597152a6927f3908f2e525170825ef36df6fa7215075f"
+    },
+    {
+      "type": "Theme",
+      "name": "réouverture sans conditions et péage d'Ormuz",
+      "id": "Theme_ad8d453044bb283a4e338e1dca13741ee77e82ea824555c2ca23876815ca3f2a"
+    },
+    {
+      "type": "Theme",
+      "name": "discussions",
+      "id": "Theme_7f515e0adbe4a52295c75d0c14e44ecfb24ff8f1f7a4623f36ac8cfe348471c7"
+    },
+    {
+      "type": "Theme",
+      "name": "Iraniens",
+      "id": "Theme_5a0ff98e90702cb0df7a922e84c821590f02575c631b8c3995f11991a144b621"
+    },
+    {
+      "type": "Theme",
+      "name": "détroit d'Ormuz",
+      "id": "Theme_03a892634473c5e3b8b98dd5d005b1b1c0220356fd21e8d6d18fee776a6d7c0a"
+    },
+    {
+      "type": "Country",
+      "name": "Américaines",
+      "id": "Country_f849482f77dd901a5661f5f0ceb8e1d7470c7524e61c697aa1f05d53d6e0fb07"
+    },
+    {
+      "type": "Organization",
+      "name": "mission ad hoc",
+      "id": "Organization_a08751f4ac59c99edf04cc81ab328f573de861a7c3109d6c2f135e15090222cf"
+    },
+    {
+      "type": "Country",
+      "name": "Oman",
+      "id": "Country_3c878cc6773fce77b91fa46c9dfdef66ce68c1cad71a06b66811bf7c701b4a4c"
+    },
+    {
+      "type": "City",
+      "name": "Ormuz",
+      "id": "City_628a8c80d1f68f9b6623fcce8aa10c78aaa4f268c571ec5c052095f2aafa695b"
+    },
+    {
+      "type": "Person",
+      "name": "Jens Spahn",
+      "id": "Person_02f361ff6dbef415fea17c60290ef6bfc9edf2a33a3cedf3b431a51f2f8dedcc"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté alimentaire",
+      "id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté numérique de défense",
+      "id": "Theme_a6ead5d0b173355bfec3c1782d5b06b25c9c8e378ba3b9b205040265829df4f4"
+    },
+    {
+      "type": "Theme",
+      "name": "coûts de fonctionnement de notre Europe",
+      "id": "Theme_227dac748941c0e442f44da400cbd0f9f11d737564eeac4807ecc56c9ccb2b2d"
+    },
+    {
+      "type": "Theme",
+      "name": "politiques",
+      "id": "Theme_ba19f95cfce8651b7911006a78fd0bb6aabbd2835fa43c9b908e59faca1f07ca"
+    },
+    {
+      "type": "Theme",
+      "name": "spatial",
+      "id": "Theme_be04ff49df6f9224cf87b09d0c072d2df359f83a584eeef7deff7e1835862166"
+    },
+    {
+      "type": "Theme",
+      "name": "IRIS²",
+      "id": "Theme_9398c555098996af4b9ab0ff96804eb05ce73a2509d39ce7174ac28068d1d9e2"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies vertes",
+      "id": "Theme_1fcf986f5e27384b03aacf0d6869b90e6e743f1e8cd05b112af7cd42fc1a7a30"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "marché unique",
+      "id": "Theme_20dd50ae164d3f152ef77948cb732b929faf16e2e579353a7a6ed58d27740261"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds de compétitivité",
+      "id": "Theme_1dee91bc74b07c710d0ed83e12459f15d55dce25227761a2e9ea50b8d4401142"
+    },
+    {
+      "type": "Theme",
+      "name": "dépenses d'avenir",
+      "id": "Theme_fbfcee077aaf80acc2eae8fb5cb204efbc627448ed7824e2737ba59cdccdd3ba"
+    },
+    {
+      "type": "Theme",
+      "name": "budget",
+      "id": "Theme_476c75e33f21fc15bc5588b5d07c657897da27f908716f5af56abf04963f337c"
+    },
+    {
+      "type": "Theme",
+      "name": "coupes intelligentes",
+      "id": "Theme_479bbeb8130df00eb61a3c95980c98271b5ed675b48ceb4b0888d4c5f47c1122"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "réponse",
+      "id": "Theme_6399fe0e5d5d3fbe794fbc4d5e762ca0181d92326b8b9faa609e13afc104c3a2"
+    },
+    {
+      "type": "Theme",
+      "name": "ressources propres",
+      "id": "Theme_1fbb3c12eb7a37939057933d9f9adae2e8831d8013774a3abd5a80f794e23f4c"
+    },
+    {
+      "type": "Organization",
+      "name": "Union",
+      "id": "Organization_c5e6111e2f8f6f0562a02b73ac74432a5ad7b8c26582b37eb43d1209716aa442"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Theme",
+      "name": "contenu européen",
+      "id": "Theme_9cce8c209df7d9a152a94db1e31abb5695646da366241c05e9b61e4747bd5e91"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence chinoise",
+      "id": "Theme_6dd0278fa7c9825402e414ae03af1b13125bd7665d7d50a10fd1ac5fa3504f04"
+    },
+    {
+      "type": "Theme",
+      "name": "contenu",
+      "id": "Theme_7e3228506e0000e4538a7451170f79e16189bcd1080647a5eb9ad6e2ead82844"
+    },
+    {
+      "type": "Theme",
+      "name": "capital chinois",
+      "id": "Theme_f978a3337b292b13a8e587ddb819c2230dde8d570547e9ccb39be4463b65bca5"
+    },
+    {
+      "type": "Theme",
+      "name": "subventions fédérales",
+      "id": "Theme_e0c2fd9cc15a2cab835cfe73eb6ab7bf44cd3e3bac1a848cc15a0573a87e81e4"
+    },
+    {
+      "type": "Country",
+      "name": "Maroc",
+      "id": "Country_9458e2c6babd2c77ac8b75ec4713e04d3bfb33730d88d692b0cae733d35375f3"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "City",
+      "name": "G7",
+      "id": "City_39f04c8c35f1973a85830835dfdcc8801e112b793dd7979655650d5dff2ea3f3"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "renminbi",
+      "id": "Theme_9b76970e8c77505325146c9cd878b0b5abd4a5e779bf90af9df8595d11158408"
+    },
+    {
+      "type": "Theme",
+      "name": "euro",
+      "id": "Theme_709528d8ce93bba87ada5be2754665013742700bb20381da4551b98a54e333b5"
+    },
+    {
+      "type": "Theme",
+      "name": "zone euro",
+      "id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "type": "Theme",
+      "name": "États membres de l'Union européenne",
+      "id": "Theme_28dd64db7afe02b23edd1149056b53bcc06132472ea8bc417d8cd4052af3458c"
+    },
+    {
+      "type": "Theme",
+      "name": "excédent commercial",
+      "id": "Theme_be8434152790ed0c8e04a269c3af422f14cbc5527a3d83437e0fa9250e615d30"
+    },
+    {
+      "type": "Theme",
+      "name": "marchés financiers",
+      "id": "Theme_1148bf90e15d84b3c42ce7b71b7e0bce5d16ee1c3b33aba5780b94416791c755"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "dissuasion avancée",
+      "relation": "MENTIONS",
+      "target": "alerte avancée",
+      "evidence": "Et c'est très important pour notre sécurité collective parce que ça crée du doute stratégique chez nos adversaires, parce que ça renforce notre intimité. Et derrière, il en découle aussi de nouvelles coopérations. C'est toute la partie épaulement conventionnel qui accompagne cette dissuasion avancée. Et donc on a acté d'avancer ensemble et là, on a consolidé la feuille de route de Toulon sur ce qu'on appelle l'alerte avancée, donc JEWEL, où à la fois la composante spatiale mais aussi terrestre, on a acté dans notre texte commun d'y aller.",
+      "confidence": 1.0,
+      "source_id": "Theme_d3cebc469edeed09121b178666d837a42f686c1a0fe9ff77dfb957392bceccd0",
+      "target_id": "Theme_0daf3a1271886f0a991d05384716ce398689f1df5db9d67e5f606593d95bbf55"
+    },
+    {
+      "source": "alerte avancée",
+      "relation": "MENTIONS",
+      "target": "JEWEL",
+      "evidence": "Et donc on a acté d'avancer ensemble et là, on a consolidé la feuille de route de Toulon sur ce qu'on appelle l'alerte avancée, donc JEWEL, où à la fois la composante spatiale mais aussi terrestre, on a acté dans notre texte commun d'y aller.",
+      "confidence": 1.0,
+      "source_id": "Theme_0daf3a1271886f0a991d05384716ce398689f1df5db9d67e5f606593d95bbf55",
+      "target_id": "Theme_4c5b8fb2a75ad54fdca32bab2a9f9cc2ecd42005e444eda87f540978f37a5833"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Allemagne",
+      "evidence": "avec là aussi très clairement une volonté de la France de coproduire avec l'Allemagne",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Italie",
+      "evidence": "avec là aussi très clairement une volonté de la France de coproduire avec l'Allemagne et nos partenaires italiens",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "LOCATED_IN",
+      "target": "Ukraine",
+      "evidence": "sur l'Ukraine",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "Chine",
+      "relation": "MENTIONS",
+      "target": "change",
+      "evidence": "Et puis derrière ça, on veut engager un dialogue aussi avec la Chine sur la question du change",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Theme_6a7e8f9f2a65bdf67df938d97fc93b476bc7a78292b456ee91f8db61650a832a"
+    },
+    {
+      "source": "Chine",
+      "relation": "MENTIONS",
+      "target": "ouverture des marchés financiers",
+      "evidence": "Et puis derrière ça, on veut engager un dialogue aussi avec la Chine sur la question du change et de l'ouverture des marchés financiers",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Theme_72ff151cb30dbda6bb3cfbbbeeb0020b85e190bf3b2a1f3f7887c32504f0156a"
+    },
+    {
+      "source": "agriculture",
+      "relation": "MENTIONS",
+      "target": "souveraineté alimentaire",
+      "evidence": "l'agriculture, il en va aussi de notre souveraineté alimentaire",
+      "confidence": 1.0,
+      "source_id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77",
+      "target_id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "source": "agriculture",
+      "relation": "MENTIONS",
+      "target": "agriculture",
+      "evidence": "On pense que l'agriculture, c'est acquis de tout temps. Faux.",
+      "confidence": 1.0,
+      "source_id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77",
+      "target_id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "source": "souveraineté alimentaire",
+      "relation": "SUPPORTS",
+      "target": "agriculture",
+      "evidence": "On a construit après-guerre, par notre Europe, une souveraineté alimentaire. Il faut la défendre. Donc l'agriculture, important.",
+      "confidence": 1.0,
+      "source_id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde",
+      "target_id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "source": "Union",
+      "relation": "MENTIONS",
+      "target": "ressources propres",
+      "evidence": "les ressources propres que l'Union peut avoir",
+      "confidence": 1.0,
+      "source_id": "Organization_c5e6111e2f8f6f0562a02b73ac74432a5ad7b8c26582b37eb43d1209716aa442",
+      "target_id": "Theme_1fbb3c12eb7a37939057933d9f9adae2e8831d8013774a3abd5a80f794e23f4c"
+    },
+    {
+      "source": "Chine",
+      "relation": "OPPOSES",
+      "target": "Europe",
+      "evidence": "Et à côté de ça, j'insiste sur 2 autres choses et je conclurai là. On doit défendre le contenu européen parce qu'au-delà de la Chine, plus largement, on est le seul grand espace qui ne défend pas son contenu domestique.",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Chine",
+      "relation": "OPPOSES",
+      "target": "États-Unis d'Amérique",
+      "evidence": "La Chine, elle a une préférence chinoise. Elle défend un contenu chinois, elle défend un capital chinois. Les États-Unis d'Amérique et même l'Amérique du Nord à travers le NAFTA, ils défendent un contenu, surtout quand il y a des subventions fédérales.",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "contenu européen",
+      "evidence": "On doit défendre le contenu européen parce qu'au-delà de la Chine, plus largement, on est le seul grand espace qui ne défend pas son contenu domestique.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_9cce8c209df7d9a152a94db1e31abb5695646da366241c05e9b61e4747bd5e91"
+    },
+    {
+      "source": "Chine",
+      "relation": "SPOKE_ABOUT",
+      "target": "préférence chinoise",
+      "evidence": "La Chine, elle a une préférence chinoise. Elle défend un contenu chinois, elle défend un capital chinois.",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Theme_6dd0278fa7c9825402e414ae03af1b13125bd7665d7d50a10fd1ac5fa3504f04"
+    },
+    {
+      "source": "États-Unis d'Amérique",
+      "relation": "SPOKE_ABOUT",
+      "target": "contenu",
+      "evidence": "Les États-Unis d'Amérique et même l'Amérique du Nord à travers le NAFTA, ils défendent un contenu, surtout quand il y a des subventions fédérales.",
+      "confidence": 1.0,
+      "source_id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc",
+      "target_id": "Theme_7e3228506e0000e4538a7451170f79e16189bcd1080647a5eb9ad6e2ead82844"
+    },
+    {
+      "source": "euro",
+      "relation": "MENTIONS",
+      "target": "renminbi",
+      "evidence": "un renminbi autant dévalué par rapport à l'euro",
+      "confidence": 1.0,
+      "source_id": "Theme_709528d8ce93bba87ada5be2754665013742700bb20381da4551b98a54e333b5",
+      "target_id": "Theme_9b76970e8c77505325146c9cd878b0b5abd4a5e779bf90af9df8595d11158408"
+    },
+    {
+      "source": "euro",
+      "relation": "MENTIONS",
+      "target": "zone euro",
+      "evidence": "la zone euro",
+      "confidence": 1.0,
+      "source_id": "Theme_709528d8ce93bba87ada5be2754665013742700bb20381da4551b98a54e333b5",
+      "target_id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "source": "euro",
+      "relation": "MENTIONS",
+      "target": "États membres de l'Union européenne",
+      "evidence": "de plusieurs États membres de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Theme_709528d8ce93bba87ada5be2754665013742700bb20381da4551b98a54e333b5",
+      "target_id": "Theme_28dd64db7afe02b23edd1149056b53bcc06132472ea8bc417d8cd4052af3458c"
+    }
+  ]
+}

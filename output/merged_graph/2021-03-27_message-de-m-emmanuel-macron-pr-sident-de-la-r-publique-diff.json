@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "Covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "VIH",
+      "id": "Theme_155e2b1cd0df9ca92b75b7e80208a985149e2310c07c8826fdc39c3fac12a91e"
+    },
+    {
+      "type": "Theme",
+      "name": "Sida",
+      "id": "Theme_994955f02c79985bcf1a5ddbd894d3dc2fc57fa1d2988e6675c213705bc6080b"
+    },
+    {
+      "type": "Theme",
+      "name": "préservatif",
+      "id": "Theme_ff6472c501c7ad06d9fe8f0f6b0b9789cfa3dc4415a1df6216eb61faef5f75ca"
+    },
+    {
+      "type": "Theme",
+      "name": "masques",
+      "id": "Theme_7e6356c77f717bac8e4f9ce8035328157f6cde8165db1da48bc89c058e1b6660"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccins",
+      "id": "Theme_285c234b84ef6ba1444c75fa4fb284e57557192a16508630af6134cc975797f3"
+    },
+    {
+      "type": "Theme",
+      "name": "thérapies",
+      "id": "Theme_a4119b0e67c80637f546a7b1971ecf231ab92948b59fe9a4b9e336209c26693f"
+    },
+    {
+      "type": "Theme",
+      "name": "rapports sexuels protégés",
+      "id": "Theme_f7b46b25f63203df55c3c7425ee3ecaaa24f8ed68e4fd04aedf518c48cb18caa"
+    },
+    {
+      "type": "Theme",
+      "name": "efforts",
+      "id": "Theme_c96d831a6754ffa95e8bc1e0bfe3b9c55879db650a6d47a923f8d2cafb2d7010"
+    },
+    {
+      "type": "Theme",
+      "name": "Fonds mondial contre le Sida, la tuberculose et le paludisme",
+      "id": "Theme_b44bd80d0207272a1f8a8ab203ba12d4fa40164ba771440b524a6e7c992c71ca"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la république",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Covid",
+      "relation": "SPOKE_ABOUT",
+      "target": "Covid",
+      "evidence": "Depuis un an, la Covid contraint nos vies, circonscrit nos déplacements, restreint nos relations humaines.",
+      "confidence": 1.0,
+      "source_id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb",
+      "target_id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "Fonds mondial contre le Sida, la tuberculose et le paludisme",
+      "evidence": "La France, qui est de longue date le 2nd contributeur au Fonds mondial contre le Sida, la tuberculose et le paludisme, a augmenté de 15% sa contribution en 2019.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_b44bd80d0207272a1f8a8ab203ba12d4fa40164ba771440b524a6e7c992c71ca"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Sida",
+      "evidence": "L'État prend toute sa part. La France, qui est de longue date le 2nd contributeur au Fonds mondial contre le Sida, la tuberculose et le paludisme, a augmenté de 15% sa contribution en 2019.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_994955f02c79985bcf1a5ddbd894d3dc2fc57fa1d2988e6675c213705bc6080b"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Fonds mondial contre le Sida, la tuberculose et le paludisme",
+      "evidence": "La France, qui est de longue date le 2nd contributeur au Fonds mondial contre le Sida, la tuberculose et le paludisme, a augmenté de 15% sa contribution en 2019.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_b44bd80d0207272a1f8a8ab203ba12d4fa40164ba771440b524a6e7c992c71ca"
+    }
+  ]
+}

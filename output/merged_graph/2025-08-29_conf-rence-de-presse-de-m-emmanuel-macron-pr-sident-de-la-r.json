@@ -1,0 +1,661 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Friedrich",
+      "id": "Person_1083a7cf6386411c9c12cb828a8344d613f0a85d0b0033df38ef59e02c43a479"
+    },
+    {
+      "type": "City",
+      "name": "Toulon",
+      "id": "City_e269c743821deaa732a9c8c1951186d7a971393eded589032f1026304a7b1fa7"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Person",
+      "name": "Zelensky",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "Person",
+      "name": "Poutine",
+      "id": "Person_cd18bc7f49bb7d64b17bcbd894d6a8752a9076a00deeefdb299e52309a31d8e5"
+    },
+    {
+      "type": "Person",
+      "name": "Trump",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Theme",
+      "name": "franco-allemand",
+      "id": "Theme_d84b0e59d986ccb93e5d3fb732d268c5a049a3dcba7344b1c27d2c00cf7d30a8"
+    },
+    {
+      "type": "Theme",
+      "name": "Conseil franco-allemand de défense et de sécurité",
+      "id": "Theme_1a50d6aed9a38ab51bc65d7930217a0c70d77168acbcc315200788aabed5c482"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Person",
+      "name": "M. le Chancelier",
+      "id": "Person_b0b520dbb5d7dceaae96640b3ef654e53d8b1018a33b2a1f6df6524cfbfa6a7a"
+    },
+    {
+      "type": "Person",
+      "name": "le président Trump",
+      "id": "Person_fa178fdde9360ca435451f2988e210651a3c3151ee91fb7d29f534b5a1fcc686"
+    },
+    {
+      "type": "Person",
+      "name": "le président Zelensky",
+      "id": "Person_3a860642a70f2f7cac1fd0ee85c68c43f3955bb454cfcb6a1e5d7342aba58c80"
+    },
+    {
+      "type": "Country",
+      "name": "la Russie",
+      "id": "Country_4a1a956e084e3fcb7b23b8b2b61e8bdfe5a3b000fd78dcb37e22f123f90f6ee2"
+    },
+    {
+      "type": "Country",
+      "name": "les États-Unis d'Amérique",
+      "id": "Country_877636b7dfbfb2a9c688f4cf5fc5d4825bbf9fb8ed23006be0353cf79798bedd"
+    },
+    {
+      "type": "Country",
+      "name": "Proche-Orient",
+      "id": "Country_ea96081c3dc607260da7be0bce2be5c4e658fe0319110fa930660594f5cfce74"
+    },
+    {
+      "type": "City",
+      "name": "Gaza",
+      "id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "Palestiniens",
+      "id": "Country_b5734f5d63eae899b91de69982b348700976a7cf95c26a699c92f09b843b5d06"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Person",
+      "name": "le chancelier",
+      "id": "Person_8efe6fcb591418df8b994489592661cf0b841700468f7c442a40e767c9c51118"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance de PIB par habitant",
+      "id": "Theme_870674fb091bb3f97c244c30ab9d7387929e294fbf59e170e101a3a89a3ea280"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "décrochage",
+      "id": "Theme_a1c5576ffec335036f8b88290140734cf1b5cee417ebe748810671da2f4c7273"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "rapports Letta",
+      "id": "Organization_818636c57846d05408c3c58ed5d89fcbc1c20527cc6f637a319368bf4843a458"
+    },
+    {
+      "type": "Organization",
+      "name": "Formation collégiale réunissant l’ensemble des ministres",
+      "id": "Organization_d21c25d99c3a0d1255eab5d989f1f8e8390b2d58f00f04294130189df663e8a6"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité technologique",
+      "id": "Theme_2caf709da1cf237be763602bb0b801db683269a54ce0a1ec396bd377b70485af"
+    },
+    {
+      "type": "Theme",
+      "name": "non-discrimination",
+      "id": "Theme_ac0d7dff4c7f721005765047e0d474c5699c45adc68463c99e2dc5a2cc8a544d"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Organization",
+      "name": "nos opérateurs de réseau",
+      "id": "Organization_6e00abd2dc29dd05034328bd5c3ef115b1949a29d6da4db8a9147b09bfd4669a"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Organization",
+      "name": "task force",
+      "id": "Organization_1e9b3006fc8226b434d882a2440050498040ddfe12e8fbab1d6e9ea9d70400d0"
+    },
+    {
+      "type": "Organization",
+      "name": "Chine",
+      "id": "Organization_4ce8c72ae42fcc7a085d550e5eaf93467ea99e0a40d9f574b7999cfb547ce9f4"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme du mécanisme d'ajustement carbone aux frontières",
+      "id": "Theme_588884b940f9c884428fff0f7d0eec5eb549b70a4f03d1529857fbbf90a338f5"
+    },
+    {
+      "type": "Theme",
+      "name": "éliminer toute possibilité de contournement et de fuite de carbone",
+      "id": "Theme_d0825b3288ef69ca6d20c9228e199de68d8355b821844eb75e75bb2b5f360bf9"
+    },
+    {
+      "type": "Theme",
+      "name": "travail important de nos ministères",
+      "id": "Theme_4b4f29e5afeca7ee523945fbb42ce51cc77e952d4a254687e61140c93a3ab27b"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Organization",
+      "name": "secteur automobile",
+      "id": "Organization_fec31b67bc9dc452a3e1e8de96ad92589b26e0fa1663b39c34da2180391227bd"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Organization",
+      "name": "SprinD",
+      "id": "Organization_e014e2f99c93b0ade0d7dc2a562d97e8ce24ec20f28175ba5641154cb4b07b1c"
+    },
+    {
+      "type": "Organization",
+      "name": "Bpifrance",
+      "id": "Organization_a9ccdc3b7703f243a8222d62576aea819b2390487b9cbaf2500a76a84e916f9b"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil avec des résultats rapides et concrets que nous souhaitons",
+      "id": "Organization_0a997dfd4466cba36f679091a1099e3983955a028d868c03a9581b94e1880776"
+    },
+    {
+      "type": "Organization",
+      "name": "Union des marchés de capitaux",
+      "id": "Organization_2d7d845d96f2fd4f3dbc4741b23c207bdb7a051ec8cee62dfd9c8dbb6e3b626c"
+    },
+    {
+      "type": "Organization",
+      "name": "Ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "Messieurs Kukies et Noyer",
+      "id": "Organization_c6600f12be405852cc104dda336224481c4c8929cfaa12f936df8fc8be53619c"
+    },
+    {
+      "type": "City",
+      "name": "Berlin",
+      "id": "City_b99770cd89b8870c4e168b4e52a8f787b64a4a2fc9ef992bf093af11c7e6a055"
+    },
+    {
+      "type": "Theme",
+      "name": "productivité",
+      "id": "Theme_84e7835ab776771b21d651900e4dd41e8db92c4fb2ff86fc2c079ec22fdda135"
+    },
+    {
+      "type": "Theme",
+      "name": "taux d'activité des jeunes",
+      "id": "Theme_00981345e8db40c3e9baa8c390a36faca6126980be0fde9748d24680e4dc1893"
+    },
+    {
+      "type": "Theme",
+      "name": "assurance chômage",
+      "id": "Theme_041e5fd2a41ca852fdd42f9b2fcdbd8c70a98c307e95ddc73446940aba53f44c"
+    },
+    {
+      "type": "Theme",
+      "name": "futur du travail",
+      "id": "Theme_4b067f3ef8037e1c7315e5e52d100db9167119b85e5d3f6c285699b298161c47"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil franco-allemand d'experts économiques",
+      "id": "Organization_61f31adcd06f7ee04ab2de4c3d6bd9b9e78f31ef9a45f0d8bb46c26f4d4311fe"
+    },
+    {
+      "type": "Organization",
+      "name": "France Médias Monde",
+      "id": "Organization_b16cd4c70baf2a0921cccfa60d2f6c629bf14cab0f67add30f8925ac832d204d"
+    },
+    {
+      "type": "Organization",
+      "name": "Deutsche Welle",
+      "id": "Organization_d29e41e2bb7447d4014b5d72847b738ee694f422f38bfc7d38d8ffae71c339df"
+    },
+    {
+      "type": "Organization",
+      "name": "Arte",
+      "id": "Organization_f58db3f881206566fe228d63930c2b1b964d697d1ae5ba56c44e82e571431563"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil franco-allemand de défense et de sécurité",
+      "id": "Organization_7c52a8fd690b7a485ac934e89c8c2a84a253e17f32dde518e5c12587042cbc58"
+    },
+    {
+      "type": "City",
+      "name": "Évian",
+      "id": "City_40ee17ba3fe5cb7b00ec5510c998566aeb30ae5ea098f0c56d98a735161243c8"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "City",
+      "name": "Washington",
+      "id": "City_ee7e345909a6fe1df02cbeb0ed489e719cbdc04c7a27e2818d861e092cc9ad8a"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition des volontaires",
+      "id": "Organization_be8486f9bba8dc1fc697606320fe234154a7b494b8fa4602ca7bd091c7e5b389"
+    },
+    {
+      "type": "Person",
+      "name": "nos chefs d'état-major",
+      "id": "Person_cfa80e87581e3ff30b767f512f8a0012141c83d0dae4562e4867d2c80c3eb29a"
+    },
+    {
+      "type": "Organization",
+      "name": "armée ukrainienne",
+      "id": "Organization_67aea621a8eb7bca8efd1d5cb976cd66843d8010c90c1a2977d4d7f7be24e311"
+    },
+    {
+      "type": "Person",
+      "name": "Friedrich Merz",
+      "id": "Person_870f0cbf43198b84e35588b7f82fe739cf880eabd4b49816e8dd4ea1cb8ed2cf"
+    },
+    {
+      "type": "Person",
+      "name": "Keir Starmer",
+      "id": "Person_2c015128f84446db2e051d7e5ec37de05f8fb22660c7dc2d4411af2e8da3cf4a"
+    },
+    {
+      "type": "Country",
+      "name": "Moscou",
+      "id": "Country_46b7b4fc67d6c45bf600a73e204ed0f2c69fcc6810f53a7089a69d299c56fd56"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Chancelier",
+      "id": "Person_02581618e061350fbdd46beea08715070a6256e5c2d26f39d0bc79cc68981238"
+    },
+    {
+      "type": "Person",
+      "name": "le président Poutine",
+      "id": "Person_6e9a8f86a4bdd2d50f24faa0a33f6cad6a5be3d721e59ed2c47c17c5836a0f8a"
+    },
+    {
+      "type": "Theme",
+      "name": "régulations",
+      "id": "Theme_5a8afbf43e327350da0ebd5bcaaf83aa988872c126003a676509076554974382"
+    },
+    {
+      "type": "Theme",
+      "name": "menaces",
+      "id": "Theme_5201cf50196d98191911da5de2cdaf6bf22b8dd545685ef548c3099e082fe05c"
+    },
+    {
+      "type": "Theme",
+      "name": "décisions",
+      "id": "Theme_7a8a12fba069883c4e145bed506823a49ae9d4207c626376a8e5e176baea1e2f"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions industrielles",
+      "id": "Theme_751525cd825d12b5940f0f0a1a58816e560c51abb1ee59058e9145ced967c3ef"
+    },
+    {
+      "type": "Theme",
+      "name": "sommet",
+      "id": "Theme_6fa5bb62faac898e6ebaddf47fad1db74b79fb34f87f4ecb365d5bca3220ff08"
+    },
+    {
+      "type": "Theme",
+      "name": "Berlin",
+      "id": "Theme_e78875f2c7e2c4e4f0ccbd4e787745ba6bb10b76c724cc0a5efbe0c92cd5d6ab"
+    },
+    {
+      "type": "Theme",
+      "name": "Commission",
+      "id": "Theme_e4bb76527cb4b84cf5c66fb974e5b77ebe6ad7042b2ac64ef86a8cc42dfe2ca3"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "quantique",
+      "id": "Theme_a55a5e9c04e9e49c2efc55c9c97fdcdd3149041e81aa26bd45766547b9155e23"
+    },
+    {
+      "type": "Theme",
+      "name": "cloud",
+      "id": "Theme_e66cd9d6a24ef776a6c7ab7baa4f744b43da9329db88ba3ef4c45f6a0784f29f"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "anti-coercition",
+      "id": "Theme_9423c7d5ecde69d6db59b36a8c52626ae7731abe53ae47b43342749620cee125"
+    },
+    {
+      "type": "Theme",
+      "name": "industriels",
+      "id": "Theme_65f1038ff0752a877be8ce71144e93bba19c4c44f80762614e26462e31508666"
+    },
+    {
+      "type": "Theme",
+      "name": "vote de confiance",
+      "id": "Theme_b5241d08aedaa605c7761dd45a4483ae8702d3df6d50a2a3d75ba4c73b5d0374"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité",
+      "id": "Theme_f410c97707d77ff0162bbcf9a0bd3e454f7be33b80ec433fd41b50579e7a9658"
+    },
+    {
+      "type": "Theme",
+      "name": "blocage politique",
+      "id": "Theme_2a67d67feca85b3faad3d0625c3959cf1b4fefff1e5517969e91ec023ea2e99f"
+    },
+    {
+      "type": "Theme",
+      "name": "dissolution",
+      "id": "Theme_dbace3b486e97dc9cbc0f03771d81fefbe5b71fed1d70657e925339d9ae0a874"
+    },
+    {
+      "type": "Theme",
+      "name": "constat",
+      "id": "Theme_0d4562b2c3d21736f0a0702696dee5eef782359c99387956731f19c756561b2d"
+    },
+    {
+      "type": "Theme",
+      "name": "principes",
+      "id": "Theme_97c5aa60bd71c598edaaf76fd6b884a4ae393b0774135332a05c72af7bc82042"
+    },
+    {
+      "type": "Theme",
+      "name": "rigueur",
+      "id": "Theme_ced594acbb918da251fbeaa5295cc98309db209f00becec0832165c6ea0fdd1d"
+    },
+    {
+      "type": "Theme",
+      "name": "dépenses",
+      "id": "Theme_2db3d1b9335f8254f94ac5f4207acc914c81f96ec3cf99bf4526a8421745a212"
+    },
+    {
+      "type": "Theme",
+      "name": "priorités",
+      "id": "Theme_2fc06aee79bff738a314bbb6ebe37cc71d3e10a182bc10e57c5e0c5950264c51"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements d'avenir",
+      "id": "Theme_3dcf0419279876cb8c0fc7da2a3f9f3af869080b07ccae32b9dc6a1063670cef"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "emplois",
+      "id": "Theme_f703a781487e54c73543e88af64e97ef9ba567a129f3d427dd8e12fe08eacff2"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "désaccords",
+      "id": "Theme_6aa7b04e0c05e71fe44af117846f5191f911c4cc915763a40ffa5860fe5853ef"
+    },
+    {
+      "type": "Theme",
+      "name": "mandat",
+      "id": "Theme_1c1553b50ea918e040f5b180345647cf523aa8b4aaf976b5d7d5b5deecb47e1c"
+    },
+    {
+      "type": "Theme",
+      "name": "fonction élective",
+      "id": "Theme_958181a617eaa838b2bb299e4d1ebc8dd6ff9e011b64cb318ce4934ba86da7ba"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "le président Trump",
+      "relation": "ALLIED_WITH",
+      "target": "le président Zelensky",
+      "evidence": "qui marqueront la fin de la période que nous nous étions données avec le président Trump et le président Zelensky pour obtenir les premières rencontres.",
+      "confidence": 1.0,
+      "source_id": "Person_fa178fdde9360ca435451f2988e210651a3c3151ee91fb7d29f534b5a1fcc686",
+      "target_id": "Person_3a860642a70f2f7cac1fd0ee85c68c43f3955bb454cfcb6a1e5d7342aba58c80"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "MENTIONS",
+      "target": "décrochage",
+      "evidence": "un décrochage de la compétitivité de l'Union européenne par rapport à ses principaux partenaires est largement documenté",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Theme_a1c5576ffec335036f8b88290140734cf1b5cee417ebe748810671da2f4c7273"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Allemagne",
+      "evidence": "La France et l'Allemagne organiseront conjointement un sommet de haut niveau le 18 novembre en Allemagne sur la souveraineté numérique, avec la Commission européenne et plusieurs autres États membres, ainsi que les représentants économiques des parties prenantes.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "Commission européenne",
+      "evidence": "La France et l'Allemagne organiseront conjointement un sommet de haut niveau le 18 novembre en Allemagne sur la souveraineté numérique, avec la Commission européenne et plusieurs autres États membres, ainsi que les représentants économiques des parties prenantes.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "En France, il est composé de deux chambres : l'Assemblée nationale et le Sénat",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Allemagne",
+      "evidence": "La France et l'Allemagne organiseront conjointement un sommet de haut niveau le 18 novembre en Allemagne sur la souveraineté numérique, avec la Commission européenne et plusieurs autres États membres, ainsi que les représentants économiques des parties prenantes.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Commission européenne",
+      "evidence": "La France et l'Allemagne organiseront conjointement un sommet de haut niveau le 18 novembre en Allemagne sur la souveraineté numérique, avec la Commission européenne et plusieurs autres États membres, ainsi que les représentants économiques des parties prenantes.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "source": "France Médias Monde",
+      "relation": "ALLIED_WITH",
+      "target": "Deutsche Welle",
+      "evidence": "le projet également de coopération entre France Médias Monde et la Deutsche Welle.",
+      "confidence": 1.0,
+      "source_id": "Organization_b16cd4c70baf2a0921cccfa60d2f6c629bf14cab0f67add30f8925ac832d204d",
+      "target_id": "Organization_d29e41e2bb7447d4014b5d72847b738ee694f422f38bfc7d38d8ffae71c339df"
+    },
+    {
+      "source": "constat",
+      "relation": "MENTIONS",
+      "target": "principes",
+      "evidence": "est-ce que vous êtes d'accord avec le constat et les principes ?",
+      "confidence": 1.0,
+      "source_id": "Theme_0d4562b2c3d21736f0a0702696dee5eef782359c99387956731f19c756561b2d",
+      "target_id": "Theme_97c5aa60bd71c598edaaf76fd6b884a4ae393b0774135332a05c72af7bc82042"
+    },
+    {
+      "source": "rigueur",
+      "relation": "MENTIONS",
+      "target": "dépenses",
+      "evidence": "Il suppose de la rigueur, c'est-à-dire nous engager dans un mécanisme de réduction de certaines dépenses",
+      "confidence": 1.0,
+      "source_id": "Theme_ced594acbb918da251fbeaa5295cc98309db209f00becec0832165c6ea0fdd1d",
+      "target_id": "Theme_2db3d1b9335f8254f94ac5f4207acc914c81f96ec3cf99bf4526a8421745a212"
+    }
+  ]
+}

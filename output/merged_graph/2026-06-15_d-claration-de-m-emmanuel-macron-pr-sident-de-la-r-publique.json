@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Trump",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "City",
+      "name": "Evian",
+      "id": "City_40ee17ba3fe5cb7b00ec5510c998566aeb30ae5ea098f0c56d98a735161243c8"
+    },
+    {
+      "type": "City",
+      "name": "Versailles",
+      "id": "City_005c3dd556787a48d85e917c1629f8b41dea2f726d89283e42c5cd7448b7c82a"
+    },
+    {
+      "type": "Country",
+      "name": "Oman",
+      "id": "Country_3c878cc6773fce77b91fa46c9dfdef66ce68c1cad71a06b66811bf7c701b4a4c"
+    },
+    {
+      "type": "Person",
+      "name": "President Trump",
+      "id": "Person_9d787453218ebafb5af4581cdb7aced0dbcbda10c3b5f953d94154dad3b197b3"
+    },
+    {
+      "type": "Person",
+      "name": "President Zelensky",
+      "id": "Person_bbebccf7a88a11670d740b9652bce1d58f18c5d063b871b9c2c0f42098904f38"
+    },
+    {
+      "type": "Country",
+      "name": "Lebanon",
+      "id": "Country_02b8c0524e516a3f7cd9c6f8be75be2f66fbae49e4a39dd3abd6a933a88c019a"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Country",
+      "name": "U.S.",
+      "id": "Country_4d3f30e736b3d71b1bc0092bff219bf40fffcbcd61296155a98968c0a4d06a95"
+    },
+    {
+      "type": "Person",
+      "name": "Mr. President",
+      "id": "Person_2affb71c5a325773b9f3f4d6889079f0575d1372b8ef0b948a46ddb70d75703e"
+    },
+    {
+      "type": "Person",
+      "name": "M. Donald Trump",
+      "id": "Person_eaa8ee8dc171530a1e4582e3166c25151912311244d8a012a2c5652b727bf38f"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Ormuz",
+      "id": "City_628a8c80d1f68f9b6623fcce8aa10c78aaa4f268c571ec5c052095f2aafa695b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "U.S.",
+      "relation": "LOCATED_IN",
+      "target": "Versailles",
+      "evidence": "Versailles is a good place because this is where the king and his minister of foreign affairs at the time did support the U.S. during years, as well prepared what we called the Paris Treaty in 1783, which was the final point of this war.",
+      "confidence": 1.0,
+      "source_id": "Country_4d3f30e736b3d71b1bc0092bff219bf40fffcbcd61296155a98968c0a4d06a95",
+      "target_id": "City_005c3dd556787a48d85e917c1629f8b41dea2f726d89283e42c5cd7448b7c82a"
+    }
+  ]
+}

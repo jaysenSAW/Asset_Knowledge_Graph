@@ -1,0 +1,698 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Professeur SCHWAB",
+      "id": "Person_4964d7dee9991f7795230ca665eb621fe74fc42cd043ec7111d80c7622827d0d"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les chefs d'État et de gouvernements",
+      "id": "Person_7e2a241e02cf814a7a0a8f92cf79d2d5b9404a46e1438aa768c6ccf4b03fb40e"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les ministres, ambassadrices, ambassadeurs",
+      "id": "Person_69d8e95c4ea333f66c75bdc2667de465061ded309e75c2dd2df7027833411eaf"
+    },
+    {
+      "type": "Law",
+      "name": "ordonnance travail",
+      "id": "Law_146e677bb7b029af03dc788470324da2c707b4bb9ddbd6e493f5c91edc2f8361"
+    },
+    {
+      "type": "Law",
+      "name": "réformes de l'assurance chômage",
+      "id": "Law_1c61fa9e682931807f6a7d8511555581efc0a213fb0e951fdd50956e98cb2f4e"
+    },
+    {
+      "type": "Law",
+      "name": "réformes des retraites",
+      "id": "Law_e45dcd49be6e139cfdf82e1e1fed4e8e6d178ec53ab272657ca9e49f9dacff67"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "Allemagne",
+      "id": "Organization_018c9dfa0083ec0dabf7f5fa4d500a808dc906a97b04b4073ac572e7d605d126"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance économique",
+      "id": "Theme_0b4c997051376e399a0db5db2f0f2fc9b440657e6242900f27cfb2ba2b138eac"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "crise financière",
+      "id": "Theme_da6935f8fabfc5c3dc5d8c5bc4fcd3a0098663f8e9d84beabb6e8d608760f142"
+    },
+    {
+      "type": "Theme",
+      "name": "start-up",
+      "id": "Theme_33e2d329ff92597c91b43e7cf32cae9c4b37c80d9339d9a1576899b1b9c99b2f"
+    },
+    {
+      "type": "Theme",
+      "name": "levées de fond",
+      "id": "Theme_7ae6f7e91760c4fc3409a59b13ffcc6dc842d5b9667e90794b6d46600e198d36"
+    },
+    {
+      "type": "Theme",
+      "name": "services",
+      "id": "Theme_8299ccf1b63b51d91e44358ba39932fb7db2cd2f142bfe27817e5ce17318f1ca"
+    },
+    {
+      "type": "Theme",
+      "name": "deeptech",
+      "id": "Theme_fe471ca9510c3e5aa771d96f5d24844583d22338e4b44212143959b813c1ac25"
+    },
+    {
+      "type": "Theme",
+      "name": "spatial",
+      "id": "Theme_be04ff49df6f9224cf87b09d0c072d2df359f83a584eeef7deff7e1835862166"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "véhicules électriques",
+      "id": "Theme_597ebf0f0545ed57ae5e62552be322b744bf08dcf937fbc03f464ca89c539c24"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "quantique",
+      "id": "Theme_a55a5e9c04e9e49c2efc55c9c97fdcdd3149041e81aa26bd45766547b9155e23"
+    },
+    {
+      "type": "Theme",
+      "name": "accords de Paris",
+      "id": "Theme_0fd420da6cf8f8f11c5ebed87cf5df3f7f93dfad8bc2cf4302b6441ba7aeb445"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "création d'emplois",
+      "id": "Theme_6504e6ace9950bb650ef42114b8bffda2376af147acc77f9ae8f22ffc17f02cd"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle",
+      "id": "Theme_72f49d4244df6301ed5e6c5a29a183744c3ebad8154a2d585d61455a6de2b287"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialisation",
+      "id": "Theme_ac8bdfb33c3783eee726437d1158d9c6c216120e43edc6178969ee44f5098ca1"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda climat et biodiversité",
+      "id": "Theme_dd048f2d06f05ab75c6a5139f8f002fbdca96bbc0ed462ae20d42d2bb7adf4da"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance",
+      "id": "Theme_eb42bc9a4c0e3c4863f2af9c41baa2a8f3b5a02bf55c6c74f6658aeb303b2108"
+    },
+    {
+      "type": "Theme",
+      "name": "crise Covid",
+      "id": "Theme_f795ef1333fb420f606311508232d39f9e4e804aec2881d112ecc1755b95f540"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre russe en Ukraine",
+      "id": "Theme_e4db3e4f74d5d3bf2d39ab86c544e4df85401863a8b5387d9ff0f44ad49defce"
+    },
+    {
+      "type": "Theme",
+      "name": "Ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "Réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "Investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "Résultat",
+      "id": "Theme_aa3f195461d3723312e003e88af2ea357092adc89c1ca77845c808a1cbe6568f"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Normandie",
+      "id": "City_f0fe3a8c9028ddfa11298d6496804a09e1a0ab72a0ef8225769f14175bfca277"
+    },
+    {
+      "type": "City",
+      "name": "Provence",
+      "id": "City_02563396c2e1a5b02a9aa4678b67397e930cb5ad9d86981d6f4514102ab8d4fd"
+    },
+    {
+      "type": "Event",
+      "name": "80 ans des débarquements en France",
+      "id": "Event_b42fdd4286089fb226c3fc45bd889469bb09d9e03f7447360645fc394365a249"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux Olympiques et Paralympiques",
+      "id": "Event_d869c8d614b2e9c4090e4d5a2f9c363060ce721a3b87b806bdde2756023fa2dd"
+    },
+    {
+      "type": "City",
+      "name": "Notre-Dame",
+      "id": "City_53c3f777884e31a5acc4f71ab8497789b78b3fa0f6030df8fb3024485c574073"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "Augmentation générale et durable des prix",
+      "id": "Theme_5eb116de1d5e16531ecfc3d1ce72deda9884f4175ae830ddb36e0359ccec5368"
+    },
+    {
+      "type": "Theme",
+      "name": "Réduction Act",
+      "id": "Theme_9880699f9f529bc605ddc3ddaa96f0654b981e45952b921dfffa738ac77e7eaf"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Caucase",
+      "id": "Country_4018e15b3168f991126becaf94ee54ba1321b69c156fe1792ad6a368048a8081"
+    },
+    {
+      "type": "Theme",
+      "name": "Tension sino-américaine",
+      "id": "Theme_a28470d115e1f386de32c3d6be96689616e3f22558cd3dc9bfd3351c4826834f"
+    },
+    {
+      "type": "Theme",
+      "name": "Retour de la guerre en Europe et au Proche-Orient",
+      "id": "Theme_524eb86999cb09221af64fe168cac890f748d3088445b8afc687a2bb69f8d7ba"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme",
+      "id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce mondial",
+      "id": "Theme_c408a62ba9338ba3e6cffffb16298b7a713dac8318daf2c976e8586fbf6183b8"
+    },
+    {
+      "type": "Theme",
+      "name": "action humanitaire",
+      "id": "Theme_0e3e6a8e7f485c2f517227b133f961bc082518d9e4739315007651c48815f9c4"
+    },
+    {
+      "type": "Theme",
+      "name": "cessez-le-feu immédiat",
+      "id": "Theme_90b82769784f301e0f83699f1da446e575fe878fc86e12a2f22e1b914a8ed129"
+    },
+    {
+      "type": "Theme",
+      "name": "solution politique des deux États",
+      "id": "Theme_9970855e62cac5a26adeb70457b7488f8a46f6dc40a4e7cf11eb37b50109dd85"
+    },
+    {
+      "type": "Theme",
+      "name": "Pacte de Paris pour les Peuples de la Planète",
+      "id": "Theme_f6dd87f9ebfc693ad161bab415952ce5a2cb9b14d0d43274d547986024e153d8"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la pauvreté",
+      "id": "Theme_ab8e8f859f334c17b54a9d9d0794df43cbbe9c994f1fd97114aaa4720284ff30"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte pour le climat",
+      "id": "Theme_e11d8e92e6430712bf2efbf0eef45f247d97571d6fd1645b2cd9c128063f9736"
+    },
+    {
+      "type": "Theme",
+      "name": "transition énergétique",
+      "id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "accélération de l'innovation",
+      "id": "Theme_53a16061f5671b24dd5db7fe9934af142b2854b663b00e1b6227bdbd2acc4c7e"
+    },
+    {
+      "type": "Theme",
+      "name": "IRA",
+      "id": "Theme_9d27e9e03dd55cb43accce7ad711e9f62a8e94fa6fdbee5375f64afe7a72eac9"
+    },
+    {
+      "type": "Country",
+      "name": "français",
+      "id": "Country_c4dad1af940aa0201c7e313e6b26e7081226df3348f51555a362f8ecdb3ac4c0"
+    },
+    {
+      "type": "Country",
+      "name": "européens",
+      "id": "Country_d4111db35e614ad971e019711c5ddfbcc73b04e684f23613a38c507c8aab28a4"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité de l'innovation",
+      "id": "Theme_5fc70d6f532f15686477e87d6e515ab3365e2e1813cfe35e5ade91d592c644bb"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme de notre marché du travail",
+      "id": "Theme_510380fdddb3530e181484ec74c761af511ae096c4b22bc95c021a809e01a783"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Organization",
+      "name": "Business France",
+      "id": "Organization_a6c8c752a47385a5ca5cb511756c3e28bbc9675b1afd54f41f06e4b13f7b0a91"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité",
+      "id": "Theme_6e810685c69ad3ee9245c969e1dfdc105f56849050a2192c7b2a5c21535528f3"
+    },
+    {
+      "type": "Theme",
+      "name": "cadre réglementaire",
+      "id": "Theme_2a48513708f2cd3516d5a12c9d08da4342654b05f0576f26639158f56a462d21"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "visibilité",
+      "id": "Theme_f59a7fbc64425457d75c34d0bff557a4fa6deb3b2e067b747f711e04c9e5e6db"
+    },
+    {
+      "type": "Theme",
+      "name": "ménages",
+      "id": "Theme_bf1979baa82783d7072a0a5c8a51032c60bf9a6089d0e12ff4a202784677e521"
+    },
+    {
+      "type": "Theme",
+      "name": "entreprises",
+      "id": "Theme_491a26db55f7c6328a7c53a6f93fe64ff22d9bad28ce4f0f94b7bf90c7004da7"
+    },
+    {
+      "type": "Theme",
+      "name": "contrats à long terme",
+      "id": "Theme_a8f9f8bb444195309d194a566e62d82da6f38af59e8cf2f6bab61c36beaf1c41"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement dans le capital humain",
+      "id": "Theme_93828ce203a1cfee72b1f2c8a2b403cc93e859696996e2776d7fdceec2fff6af"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "lycées professionnels",
+      "id": "Theme_d5a727cf10ff698320a69174d2f6f7cd45e3b0a2cbd67a7af930e818de537c69"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme du premier cycle universitaire",
+      "id": "Theme_f409ed7cec8b08c13bb0ed7548bca34cc496e9bbfe080d4b08b46fe6e9a8cfa4"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre en Ukraine",
+      "id": "Theme_c1ac68c6c37050c08bad07f72ee5a0d6426beefac1fe476dc951a6e663e6c13f"
+    },
+    {
+      "type": "Theme",
+      "name": "cleantech",
+      "id": "Theme_7e4555c770c5add65538e58fb33dc02851d57ec5dd2c3d86847134930bdbaa7e"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "eurobonds",
+      "id": "Theme_a2fd29d66ff8245a4426004d61770bf4d3569e575cefe5104394426421dd63bc"
+    },
+    {
+      "type": "Theme",
+      "name": "union des marchés de capitaux",
+      "id": "Theme_ffbd374b132546644a7bcb53d5fe086abbb62193f28333285e352c75123c6ee9"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe financière",
+      "id": "Theme_3929dfec158435bd9d85a07a1bf8e287cee63ab3156e32f302328a6b9a16b077"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération renforcée",
+      "id": "Theme_291c10993e25926f8e5b74f9db56296e80059387a3e09f5a5ed195d66aaaaaf3"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda environnemental",
+      "id": "Theme_00f4e225e823e8b13d4d61b190c66559d6c444f8c8ba04156d82b39838588d37"
+    },
+    {
+      "type": "Country",
+      "name": "continent",
+      "id": "Country_70122ce479c34a2c3db699f771d0b6020ffa29892cb4ccd1e29e10cc6676178c"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe sociale",
+      "id": "Theme_a41560178220563d0e865dfa661d423cfa8cb1bed0db3513bde7b04c1df38611"
+    },
+    {
+      "type": "Theme",
+      "name": "Emplois durables",
+      "id": "Theme_a90f7fdd57f0c5beff96c9a23a9d35d51a2625c7c0f6af2f94665b5e9d6dbd12"
+    },
+    {
+      "type": "Theme",
+      "name": "Mutations technologiques",
+      "id": "Theme_7cef60bacc625a6429ddbf3c84d67b0906e7047e1246fc6b8e995c92f2d182b3"
+    },
+    {
+      "type": "Theme",
+      "name": "Soutenabilité",
+      "id": "Theme_68eb5f4dec4b35d9c44dc3f050455de05c5ff78005c3bf89ddcced7cef55062d"
+    },
+    {
+      "type": "Theme",
+      "name": "Réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "Emplois en Europe",
+      "id": "Theme_41f370f1148c9ada4e343d4ce5d74302ec66559cd503c50623439033484317cf"
+    },
+    {
+      "type": "Theme",
+      "name": "Emplois mieux rémunérés",
+      "id": "Theme_f6a71184f8b75151edba9089c87be763d3386d7a1ff553f19ce5ed4bb12835c3"
+    },
+    {
+      "type": "Theme",
+      "name": "good jobs",
+      "id": "Theme_4ac43e30035637c4a9231bb83256cb8434d8b1240a2a8584dafe8f001e0f88bf"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité en Europe",
+      "id": "Theme_186e0ac02eaf002dbe52f2caacfeb5ef89af1fac95205682cc06d2bad684c7b6"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "classes moyennes",
+      "id": "Theme_51e81a3a86f221548aab0ff37af5181c0703af7bed5eeb5c9d9976386a312914"
+    },
+    {
+      "type": "Theme",
+      "name": "classes populaires",
+      "id": "Theme_4ac68107867fec9b864c50280451da621231ada7ec29e0fca5b782fe22ac331b"
+    },
+    {
+      "type": "Theme",
+      "name": "transition",
+      "id": "Theme_e63e6ab1512da86e741fe3d7ec082523f6b684c749eb3aef27e0dfd412c0a6b6"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Ambition",
+      "relation": "MENTIONS",
+      "target": "Ambition",
+      "evidence": "Ambition, réforme, investissement et résultat sont donc là.",
+      "confidence": 1.0,
+      "source_id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042",
+      "target_id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "source": "Réforme",
+      "relation": "MENTIONS",
+      "target": "Réforme",
+      "evidence": "Ambition, réforme, investissement et résultat sont donc là.",
+      "confidence": 1.0,
+      "source_id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5",
+      "target_id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "source": "Investissement",
+      "relation": "MENTIONS",
+      "target": "Investissement",
+      "evidence": "Ambition, réforme, investissement et résultat sont donc là.",
+      "confidence": 1.0,
+      "source_id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc",
+      "target_id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "source": "Résultat",
+      "relation": "MENTIONS",
+      "target": "Résultat",
+      "evidence": "Ambition, réforme, investissement et résultat sont donc là.",
+      "confidence": 1.0,
+      "source_id": "Theme_aa3f195461d3723312e003e88af2ea357092adc89c1ca77845c808a1cbe6568f",
+      "target_id": "Theme_aa3f195461d3723312e003e88af2ea357092adc89c1ca77845c808a1cbe6568f"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Normandie",
+      "evidence": "la célébration des 80 ans des débarquements en France, en Normandie et en Provence.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "City_f0fe3a8c9028ddfa11298d6496804a09e1a0ab72a0ef8225769f14175bfca277"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Provence",
+      "evidence": "la célébration des 80 ans des débarquements en France, en Normandie et en Provence.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "City_02563396c2e1a5b02a9aa4678b67397e930cb5ad9d86981d6f4514102ab8d4fd"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "Je fais mon moment de promotion française, professeur, mais l'année 2024, je le disais à nos compatriotes, sera un millésime français parce que j'espère accueillir beaucoup d'entre vous pour la célébration des 80 ans des débarquements en France, en Normandie et en Provence.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "80 ans des débarquements en France",
+      "evidence": "je le disais à nos compatriotes, sera un millésime français parce que j'espère accueillir beaucoup d'entre vous pour la célébration des 80 ans des débarquements en France, en Normandie et en Provence.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Event_b42fdd4286089fb226c3fc45bd889469bb09d9e03f7447360645fc394365a249"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "l'Europe a un énorme sujet de coût de son énergie en même temps que de décarbonation.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "Décarbonation",
+      "evidence": "Reduction Act aux Etats-Unis, l'Europe a un énorme sujet de coût de son énergie en même temps que de décarbonation.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "Retour de la guerre en Europe et au Proche-Orient",
+      "evidence": "il y a le retour de la guerre en Europe et au Proche-Orient et un grand risque pour les Européens,",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_524eb86999cb09221af64fe168cac890f748d3088445b8afc687a2bb69f8d7ba"
+    },
+    {
+      "source": "Europe",
+      "relation": "SUPPORTS",
+      "target": "États-Unis",
+      "evidence": "Parce qu'il en va de l'Ukraine, de nos valeurs, mais de notre sécurité collective en Europe, au Caucase, dans tout le voisinage. Et donc, pour ce faire, 2024 sera une année clé pour les Européens. Nous devons montrer que nous savons donner de la visibilité, réengager nos efforts quoi qu'il advienne aux États-Unis.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "covid",
+      "evidence": "l'Europe a fait beaucoup de choses très bien ces dernières années. Nous avons ensemble été au rendez-vous de la crise Covid",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    }
+  ]
+}

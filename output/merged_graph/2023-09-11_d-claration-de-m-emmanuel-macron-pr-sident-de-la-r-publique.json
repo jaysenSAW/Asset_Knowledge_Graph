@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Chili",
+      "id": "Country_c0d4881c53036bf1949a279e19e404943cec83d8c7607b89f66e74188cb94b92"
+    },
+    {
+      "type": "Person",
+      "name": "Gabriel",
+      "id": "Person_1b7b055e6f089b3450c6f1d7a268dfa3937b87f8cb0fd7c58391728ce1033a53"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre, des ministres et des secrétaires d'État",
+      "id": "Organization_36bdde9e62696519379af627375295b03fc5f39cda063224cc585da5a7e35062"
+    },
+    {
+      "type": "Event",
+      "name": "coup d'Etat du 11 septembre 1973",
+      "id": "Event_58aa4a82c55cf0041d35ef1c20879ed181f790b1985e17d2e0656841256352e8"
+    },
+    {
+      "type": "Event",
+      "name": "11 septembre 2023",
+      "id": "Event_0e55737088dbf7a0df8637073902634cf99a1ffb7357dc6a14ff5aa8b3a431e7"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'Homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "amitié",
+      "id": "Theme_da59468cff46157116230d1b59468dc6ee8497b19a27cf4c7344818aedeeeb88"
+    },
+    {
+      "type": "Person",
+      "name": "Pablo Neruda",
+      "id": "Person_15895943737c98d14ea0230301659d9ba9e6c1f566534079194e74f4e6d58380"
+    },
+    {
+      "type": "Person",
+      "name": "Louis Aragon",
+      "id": "Person_e1f6b44ac5acaf0a21039ecf77e2069f12943dc5ece3ece0164da59adcee23f9"
+    },
+    {
+      "type": "Person",
+      "name": "Pinochet",
+      "id": "Person_771138394776a33d330c3321cdeb72d0f7ac7461f4f18999d65695f399d7f7f6"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Santiago",
+      "id": "City_47fd699aa7a13dbddce5a2d44c50801e3e4f5b44cabf84f45709cb210aaf25ac"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Chili",
+      "relation": "LOCATED_IN",
+      "target": "Chili",
+      "evidence": "Chili",
+      "confidence": 1.0,
+      "source_id": "Country_c0d4881c53036bf1949a279e19e404943cec83d8c7607b89f66e74188cb94b92",
+      "target_id": "Country_c0d4881c53036bf1949a279e19e404943cec83d8c7607b89f66e74188cb94b92"
+    },
+    {
+      "source": "Chili",
+      "relation": "SPOKE_ABOUT",
+      "target": "coup d'Etat du 11 septembre 1973",
+      "evidence": "Cinquante ans nous séparent aujourd'hui du coup d'Etat du 11 septembre 1973, qui a bouleversé l'histoire du Chili et le destin de tout un peuple.",
+      "confidence": 1.0,
+      "source_id": "Country_c0d4881c53036bf1949a279e19e404943cec83d8c7607b89f66e74188cb94b92",
+      "target_id": "Event_58aa4a82c55cf0041d35ef1c20879ed181f790b1985e17d2e0656841256352e8"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "droits de l'Homme",
+      "evidence": "La France accueille ainsi chaque année, avec le programme Marianne, une quinzaine de femmes et d'hommes engagés, souvent au péril de leur vie, dans le combat pour les droits de l'Homme.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "amitié",
+      "evidence": "Vous pourrez toujours compter sur la France, au nom de l'amitié de nos peuples et au nom de nos valeurs partagées.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_da59468cff46157116230d1b59468dc6ee8497b19a27cf4c7344818aedeeeb88"
+    }
+  ]
+}

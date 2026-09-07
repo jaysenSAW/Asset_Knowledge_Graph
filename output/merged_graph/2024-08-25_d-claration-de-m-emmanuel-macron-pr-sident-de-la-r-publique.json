@@ -1,0 +1,691 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Anne",
+      "id": "Person_5e14ad884531d6322267214109befd2d44e64b0904ca33171ee831ba02ca508e"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Comité international paralympique",
+      "id": "Organization_d504f58c5b2314b2f5f121ed104e701e43bdf9e66f34493b42b89e68f830dccd"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil d'Etat",
+      "id": "Organization_7d48790e534959984e940cd4d9d9507c1c67b7fcbed172bfdefc6d911b3981cb"
+    },
+    {
+      "type": "Organization",
+      "name": "Défenseure des Droits",
+      "id": "Organization_51c11a83a7024adb3229280efa23624a2319aef29f829ca3512b2ef22a127473"
+    },
+    {
+      "type": "Organization",
+      "name": "Cour de Cassation",
+      "id": "Organization_90d742f39de3b101ec4569909406edd623efd5bc2b36a3075af2eed46eee3f3d"
+    },
+    {
+      "type": "Organization",
+      "name": "ordre de la Libération",
+      "id": "Organization_3b7c2867ff6b46446b250be5696e98e52f4c03b1fd84169b8f24957ea5e02e4a"
+    },
+    {
+      "type": "Organization",
+      "name": "Gendarmerie nationale",
+      "id": "Organization_5e99216ca3c197b375ee8e608639e8cb42ef3fc2169849306d87f9e4683c0917"
+    },
+    {
+      "type": "Organization",
+      "name": "Paris",
+      "id": "Organization_c678af7a78835dd0b5bd89f3e0829be790bd4cddfc0b57f15c61aeb01d0f7743"
+    },
+    {
+      "type": "Organization",
+      "name": "Ile-de-France",
+      "id": "Organization_80831f1f4ea16713e5b3fd6d66ee89f4a8dcfa57767c4e65b9be4f3b611177db"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "Général de Gaulle",
+      "id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442"
+    },
+    {
+      "type": "Person",
+      "name": "Georges Bidault",
+      "id": "Person_8017ceb87f5a60fa46d6a36dee37315df69f75597fc75e77740a0fc8d0a826c9"
+    },
+    {
+      "type": "Event",
+      "name": "25 août 1944",
+      "id": "Event_ba22bfcc967b22c8154554a1ed2ee09f115580c0e09c34a549e1f694131128cf"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil National de la Résistance",
+      "id": "Organization_1ca6b0433a36cd9b4656b834c2b4da0191837379bd82de081d7cf4c8a3903d92"
+    },
+    {
+      "type": "Organization",
+      "name": "FFI",
+      "id": "Organization_964d61131630ed5d39b81c9c551e118b463741b2f880709dd1b9717c933918ef"
+    },
+    {
+      "type": "Person",
+      "name": "Général",
+      "id": "Person_fa48b32b73e1bf1a2d7965e382887b57122df40eee2e87f94c4668d8027fb1d0"
+    },
+    {
+      "type": "Person",
+      "name": "Colonel Rol-Tanguy",
+      "id": "Person_0d574d3dbdf27e9dd256c5da217415534eb93e7ee3c58ce61667ee95578a8261"
+    },
+    {
+      "type": "City",
+      "name": "Montmartre",
+      "id": "City_b869c914c84f4efa02c9fd81a8c76f377fa718abdd3bf81363899e16033def5b"
+    },
+    {
+      "type": "City",
+      "name": "Vincennes",
+      "id": "City_a1cd4593739a5c9b36ec581444134c04ae7d6dbbcba93a16c410e75fae34f8d2"
+    },
+    {
+      "type": "City",
+      "name": "Belleville",
+      "id": "City_c4b9aa9adcaf54f71ad018f256a2753101c7a971d340d193b075b68bd0538f15"
+    },
+    {
+      "type": "City",
+      "name": "République",
+      "id": "City_59150d010b20dba0c76794c92f90d1e1e23fd85b382268dd0de3895bf67a903a"
+    },
+    {
+      "type": "City",
+      "name": "Saint Michel",
+      "id": "City_3a88393ff54f90c485c5ac0f9bb57e1e29c483b535cee654aa0f1ee01b9b2415"
+    },
+    {
+      "type": "City",
+      "name": "Saint Germain",
+      "id": "City_53864aea5136ce733ccf8d22bedd7e95adfe0f6737de1b7c47b82c211d271c5b"
+    },
+    {
+      "type": "City",
+      "name": "Comédie française",
+      "id": "City_2a6f5a06e2c1d0cacd45ee83c06a8cab722a141445febbeb560032cad5b3bff5"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "2e DB",
+      "id": "Organization_770eb6ab0f00f6d830f590212f8362987284e638589c0642046cf63f7f3d0f7b"
+    },
+    {
+      "type": "Person",
+      "name": "de Gaulle",
+      "id": "Person_37f95bd08a7aed96ec78152708e15ac7b0aeadf9b6ed76c9324554a4a27abf09"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Pétain",
+      "id": "Person_01af716ddedd42b347ec6e5ce13b8435644469d603722e7ac57eda8e60e1fe1a"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernement",
+      "id": "Theme_ad2d9e27236e987d62a7370d7eeb742fb1026f33930ec1eba6c818585bfeae54"
+    },
+    {
+      "type": "Theme",
+      "name": "persécutions contre les juifs",
+      "id": "Theme_e689c600c5193cea802077072e54a102d4b3e82479960221c601eee188e1c9cb"
+    },
+    {
+      "type": "Theme",
+      "name": "collaborateurs et des miliciens",
+      "id": "Theme_9dde0cda758d8ffa8180237de8417bfea37e450746fa8a54b5fba7599070e407"
+    },
+    {
+      "type": "Theme",
+      "name": "La rafle du Vel d'hiv",
+      "id": "Theme_58f3b11c8c82f8a0b98185d089a3a9d53edc1fe724fa8ae566a4444fea1ed79c"
+    },
+    {
+      "type": "City",
+      "name": "Londres",
+      "id": "City_46110e3e9c35de9d2cda1109fbec5fe7701b958198ac1143e8e5aa66bd4be03f"
+    },
+    {
+      "type": "City",
+      "name": "Normandie",
+      "id": "City_f0fe3a8c9028ddfa11298d6496804a09e1a0ab72a0ef8225769f14175bfca277"
+    },
+    {
+      "type": "City",
+      "name": "Provence",
+      "id": "City_02563396c2e1a5b02a9aa4678b67397e930cb5ad9d86981d6f4514102ab8d4fd"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre Dac",
+      "id": "Person_e3cbf7348441f5165e1f36ef2b2546d72cde13b81221df0226bba131b17dc091"
+    },
+    {
+      "type": "Person",
+      "name": "Maurice Schuman",
+      "id": "Person_3b64423551c6a80be4495c9a809ce0813c765ebcef6368afb3d0e2e911bb1096"
+    },
+    {
+      "type": "Person",
+      "name": "Edgar Morin",
+      "id": "Person_4cf65d7fa62ac750902fd907164453b081b984b912f424997c94a52f158b50ae"
+    },
+    {
+      "type": "Person",
+      "name": "Edgar Nahoum",
+      "id": "Person_926b1a2bba52877de3dd64e2282105bbafa71aefb4df697fa6538a1cdb675832"
+    },
+    {
+      "type": "Person",
+      "name": "Hélène",
+      "id": "Person_824c19116c2e80af8a2cc225cfbae0504cff4d4d9df186f1643634f345503442"
+    },
+    {
+      "type": "Person",
+      "name": "Sarah",
+      "id": "Person_abf941b4fc63a437a095bf058f30b1b9ce6e1ebad7f7632f5e1c2562e9f930ec"
+    },
+    {
+      "type": "Person",
+      "name": "Le Général de Gaulle",
+      "id": "Person_cb19ab170a038068a8d532a34aa4fc4729803dbc27ce5b57e59b15d970f841ce"
+    },
+    {
+      "type": "Person",
+      "name": "le général Leclerc",
+      "id": "Person_b7cfbfcc8da9c682cc951cc0d2d2d2bd9be48cba708aacc51c8ba06d6e353e1e"
+    },
+    {
+      "type": "Person",
+      "name": "Eisenhower",
+      "id": "Person_5cbf1acf7b63c0677401366d347298fd9c93e5c715da24576c86b3fa1ab6cd32"
+    },
+    {
+      "type": "City",
+      "name": "Yonne",
+      "id": "City_56b85423302f885e1cf5e6e90d0bd0b4fd9a5d215b44e378949a989e7d68935e"
+    },
+    {
+      "type": "City",
+      "name": "Rhin",
+      "id": "City_c06c2efd0867fd6b0bfa3a85b3ea933bb86853dadb1b6130966a198c0d997497"
+    },
+    {
+      "type": "Country",
+      "name": "Alliés",
+      "id": "Country_92d51ac450313e36fe9584b14f35d584ef8c947af51fc3ba7b972790449c0b26"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémitisme",
+      "id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "type": "Theme",
+      "name": "haine",
+      "id": "Theme_1109211ae99f54d538f05e8b1e3badcdc61927baacdf16dc2f914c62e0db0430"
+    },
+    {
+      "type": "Person",
+      "name": "de Leclerc",
+      "id": "Person_fa01839f60a69a4e7c8b4c8468d88cade5ae03eb37c0dd5bd672c6d42381b2ac"
+    },
+    {
+      "type": "Person",
+      "name": "de Rol-Tanguy",
+      "id": "Person_9006492bc5f365000d538973ff4dea799eb119e2b79f3eb53603d63223027519"
+    },
+    {
+      "type": "Theme",
+      "name": "libération de Paris",
+      "id": "Theme_cffa0c6551e35c3b63d07fe4e9ffd54732473bad2ea776f4b27e84006c458d9d"
+    },
+    {
+      "type": "Theme",
+      "name": "visage de la France du XXe siècle",
+      "id": "Theme_38b3dd66f655ae2cfa3440bbfe2b44bbb2966df57cc90012a4cb20f9594252f5"
+    },
+    {
+      "type": "Theme",
+      "name": "principes du CNR",
+      "id": "Theme_39522bcf878bfc91df16d1cd8e38d0d72a5085cba0c85da53328f49135c9ed5e"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité sociale",
+      "id": "Theme_6bc8554cb5a6e887e61ca01ff0eb8003fb0972afe2162ba6703c5d3e2fe48648"
+    },
+    {
+      "type": "Theme",
+      "name": "droit de vote aux femmes",
+      "id": "Theme_f6ba37b04b06b7c0521852b022ac60d2fed934a4f263fe0f823d124f56653ff1"
+    },
+    {
+      "type": "Theme",
+      "name": "grand échiquier international",
+      "id": "Theme_6eccfed325e03f7ad8caffa96734c9bfbecb63034050a1278e37a318c502bbff"
+    },
+    {
+      "type": "Theme",
+      "name": "parler au monde de demain",
+      "id": "Theme_ea1015f819965f57f83e75add7e0ad2dff196fdea2e81728f7581d69cab95efe"
+    },
+    {
+      "type": "City",
+      "name": "Montevideo",
+      "id": "City_e50a91acf88f9810cfebfa1ae395c273a3c7edbd06bbe70db018f820b5f5dadd"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Theme",
+      "name": "nazisme",
+      "id": "Theme_6c161fc313c2ef1c8691d3243809af8084b936dbcb11873d68398b8339555f12"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "Lumières",
+      "id": "Theme_6732c62137d1ca5442c751181b48396d98b70fee8cb1aa8e0c63bf00da0f0544"
+    },
+    {
+      "type": "Theme",
+      "name": "universel",
+      "id": "Theme_af6169ca6d2a11a500827febfcd4b6f024b79ecf0ee483745ba7cd18b13fa770"
+    },
+    {
+      "type": "Theme",
+      "name": "olympisme",
+      "id": "Theme_50799ff01f80594319a23f43fd7117d4df6e9d4180828f1fda41510cd135dd98"
+    },
+    {
+      "type": "Theme",
+      "name": "jeux paralympiques",
+      "id": "Theme_3b13585c413069bd59d95931b6def7013766dd15a0e24f0fdffe028020ac738d"
+    },
+    {
+      "type": "Theme",
+      "name": "Tous aux barricades",
+      "id": "Theme_0114a0a244a748b7413542e61d782066d446646c8cf8b1557e6038d4d8a15e1e"
+    },
+    {
+      "type": "Theme",
+      "name": "révolutions de 1789",
+      "id": "Theme_1b21444334172ef3fa4a97c37d93c098b4fa7a28d688df84f2c1f4d5336fd9e3"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté républicaine",
+      "id": "Theme_e79bb8e4430a05d7cd5ac3084640c1925f72216464b01989a125de5f5885ae95"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "cons",
+      "id": "Theme_5db187cda243eaf599e941bfafaf0e033d56b61fd4058c26a1ad31b250f71d42"
+    },
+    {
+      "type": "Person",
+      "name": "Philippe de Gaulle",
+      "id": "Person_aca929d8143f91af9fb842261f896a97cd154db7e447071d247643d7456cdad6"
+    },
+    {
+      "type": "Person",
+      "name": "Leclerc",
+      "id": "Person_097123a18ebd0e641005f797421a09452e4a3ed741472445862bd232ce6e4546"
+    },
+    {
+      "type": "Person",
+      "name": "Rol-Tanguy",
+      "id": "Person_ab634104125d5bbffd348cadf0cec304250041e827bd0f9c8de14d2af8a52a6f"
+    },
+    {
+      "type": "Person",
+      "name": "Von Choltitz",
+      "id": "Person_fb4c0b43fe1d1944b2a45d96ae0f5f7957dbb28080b0f91493297289b4bf5b48"
+    },
+    {
+      "type": "Person",
+      "name": "Chaban-Delmas",
+      "id": "Person_137f62d78c02c0e76d0e19ae66bae03a5a4a5aab14a73dee058fb7db583505bb"
+    },
+    {
+      "type": "City",
+      "name": "Champs-Élysées",
+      "id": "City_737794ff8e60390744973453898930ac065fdbfc8849d572c4492e1ea970058b"
+    },
+    {
+      "type": "Event",
+      "name": "reddition des Nazis",
+      "id": "Event_db77e27d81d9e46e1eac24d63af2cc4ee803eae62b1b4ec7c3538f45f4de27e6"
+    },
+    {
+      "type": "Event",
+      "name": "convention de reddition",
+      "id": "Event_bdf7ae86bd1c6eec89f527016848e695c9454251644ab597707125315cf2614a"
+    },
+    {
+      "type": "Theme",
+      "name": "patrie",
+      "id": "Theme_4079aa9734c9091368bffcf632034e06cecaadec102a482fdcc6b4ec9873a5eb"
+    },
+    {
+      "type": "City",
+      "name": "place de l'hôtel de Ville",
+      "id": "City_55a43c3550cdd36a3ef6204a36b7209e67913aac58543b5d7a07704b0b71c69b"
+    },
+    {
+      "type": "City",
+      "name": "parvis de Notre Dame",
+      "id": "City_f6632a9239ed4173842ad839ed0e49ead43bd5ef2bdfb24f23d94536595b521e"
+    },
+    {
+      "type": "Organization",
+      "name": "CNR",
+      "id": "Organization_e42e612cdc0fce5d8cb6402795ede309b7de2ddd7252fd9fed4ede6ba132b7ad"
+    },
+    {
+      "type": "Person",
+      "name": "Jean Moulin",
+      "id": "Person_7a31bd4caf84b8ba31eac59cfa7fb2777ad0ae3b615d6577d48eff4436b7427a"
+    },
+    {
+      "type": "Organization",
+      "name": "FTP-MOI",
+      "id": "Organization_76d98e19ddf1c6e3a19100daee4759541e855b1dcb2e61374290816c787680a1"
+    },
+    {
+      "type": "Person",
+      "name": "Manouchian",
+      "id": "Person_e95619103f8a4f113a9e6de2523ef44016f776082391313b4b1c539b2fa8af87"
+    },
+    {
+      "type": "Country",
+      "name": "Breton",
+      "id": "Country_d5fd4ca27635398e92d2a0c615faf223b2d0895cdf7fd3cbbeaf592abdae03ae"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "City",
+      "name": "Casablanca",
+      "id": "City_af126696727bf49422f1623e134a05645a13e9cc83024133977a25ca4a907046"
+    },
+    {
+      "type": "City",
+      "name": "Utah Beach",
+      "id": "City_da5b2c0ea5e68477d3e891702bded1d9ebc913017641e2306cb8bb4825d169e0"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Arménie",
+      "id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace"
+    },
+    {
+      "type": "Country",
+      "name": "Maroc",
+      "id": "Country_9458e2c6babd2c77ac8b75ec4713e04d3bfb33730d88d692b0cae733d35375f3"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique du Nord",
+      "id": "Country_27aa1db6e3a9bfc2e49d8bcbf1691e445b4d9d40f50bc9e4ade9970cc78582cb"
+    },
+    {
+      "type": "Theme",
+      "name": "STO",
+      "id": "Theme_ccbb111607ec4c107c92a25f7cc56737280053611d75313165ecb943a797ef6b"
+    },
+    {
+      "type": "Person",
+      "name": "Serge FINOT",
+      "id": "Person_60446fc6db2e81e6687f8c7452e92372131e329559d4b6d60c2eefe0e0e15be6"
+    },
+    {
+      "type": "Person",
+      "name": "Robert BENSAID",
+      "id": "Person_1545a3ec3389fddb35b11d034e54d97a753da2fbe7220ae8b5c8042f657a01a4"
+    },
+    {
+      "type": "Person",
+      "name": "Robert Schumann",
+      "id": "Person_5b73214bdd117998fd43c0ca81c9c5505d8466f4d062cbf263531929fac72e0f"
+    },
+    {
+      "type": "Person",
+      "name": "Jacques Chaban-Delmas",
+      "id": "Person_79985795ef5301fb620479c2234ecb85bc0089c5cebbb595d36b001723ccb39e"
+    },
+    {
+      "type": "Person",
+      "name": "Gabin",
+      "id": "Person_2db846bdac3170796f00ff31640459e7233b274c56859fd178f7e4a25450697f"
+    },
+    {
+      "type": "Person",
+      "name": "Marais",
+      "id": "Person_8e768b1dfbd29001892f914aad721492d4c6661f66083c952c700f7eeaa211f2"
+    },
+    {
+      "type": "Person",
+      "name": "Jacob",
+      "id": "Person_c4693155af6cf0244a53ef04b84fb509ff2920b198e750ad3557f03c3fbd6f83"
+    },
+    {
+      "type": "Person",
+      "name": "Jean Daniel",
+      "id": "Person_76e0bc23602bcac5f4f38df8a33f7b2dd55cb4c1cb1b645a9d3c284e1a1385bd"
+    },
+    {
+      "type": "Person",
+      "name": "Instituteurs",
+      "id": "Person_0ec4dc3c4124622e9e5cd91e6481b71c7bf86f4e3228765a0d6a02bc7f29fa9a"
+    },
+    {
+      "type": "Person",
+      "name": "ouvriers",
+      "id": "Person_ed3130d185656a0e4739d99d0c919ce3426aa9f31e0b1bbd24ebcdecb042e258"
+    },
+    {
+      "type": "Person",
+      "name": "mécaniciens",
+      "id": "Person_60590290fa379220c2b41c85f19938f52752380c8f79e61e569983d3379160fd"
+    },
+    {
+      "type": "Person",
+      "name": "bergers",
+      "id": "Person_583715f84fe209d366dc29f7a1c7dd3a7844b33acb205e0db2c81a2a8cb6bcd4"
+    },
+    {
+      "type": "City",
+      "name": "Compagnon",
+      "id": "City_4fece51ff1a89e391b42bf23c044f34a41f7ff1b0943dfd169a4e850773f37fd"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Général de Gaulle",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "au soir du 25 août 1944, quand le général de Gaulle entra dans Paris enfin libéré, il gagna d'abord l'Hôtel de Ville",
+      "confidence": 1.0,
+      "source_id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "source": "Conseil National de la Résistance",
+      "relation": "MEMBER_OF",
+      "target": "Georges Bidault",
+      "evidence": "Et le président du Conseil National de la Résistance, Georges Bidault, vint le trouver.",
+      "confidence": 1.0,
+      "source_id": "Organization_1ca6b0433a36cd9b4656b834c2b4da0191837379bd82de081d7cf4c8a3903d92",
+      "target_id": "Person_8017ceb87f5a60fa46d6a36dee37315df69f75597fc75e77740a0fc8d0a826c9"
+    },
+    {
+      "source": "Sarah",
+      "relation": "VISITED",
+      "target": "Yonne",
+      "evidence": "ce policier français qui vous a fait évader, Sarah, avec votre frère, fuyant Paris pour un village de l'Yonne où d'autres Justes vous ont ouvert les bras",
+      "confidence": 1.0,
+      "source_id": "Person_abf941b4fc63a437a095bf058f30b1b9ce6e1ebad7f7632f5e1c2562e9f930ec",
+      "target_id": "City_56b85423302f885e1cf5e6e90d0bd0b4fd9a5d215b44e378949a989e7d68935e"
+    },
+    {
+      "source": "Paris",
+      "relation": "SPOKE_ABOUT",
+      "target": "liberté",
+      "evidence": "Paris devint une fête, et cette fête est celle de la liberté pour tous les peuples.",
+      "confidence": 1.0,
+      "source_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997",
+      "target_id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "source": "Paris",
+      "relation": "SPOKE_ABOUT",
+      "target": "universel",
+      "evidence": "cet été marqué par les échos funèbres de la guerre en Europe, cet été où les regards encore, pour d'autres raisons, se sont tournés vers Paris, capitale de l'universel,",
+      "confidence": 1.0,
+      "source_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997",
+      "target_id": "Theme_af6169ca6d2a11a500827febfcd4b6f024b79ecf0ee483745ba7cd18b13fa770"
+    },
+    {
+      "source": "Paris",
+      "relation": "SPOKE_ABOUT",
+      "target": "olympisme",
+      "evidence": "cet été marqué par les échos funèbres de la guerre en Europe, cet été où les regards encore, pour d'autres raisons, se sont tournés vers Paris, capitale de l'universel, de l'olympisme et des jeux paralympiques dans quelques jours,",
+      "confidence": 1.0,
+      "source_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997",
+      "target_id": "Theme_50799ff01f80594319a23f43fd7117d4df6e9d4180828f1fda41510cd135dd98"
+    },
+    {
+      "source": "Paris",
+      "relation": "SPOKE_ABOUT",
+      "target": "jeux paralympiques",
+      "evidence": "cet été marqué par les échos funèbres de la guerre en Europe, cet été où les regards encore, pour d'autres raisons, se sont tournés vers Paris, capitale de l'universel, de l'olympisme et des jeux paralympiques dans quelques jours,",
+      "confidence": 1.0,
+      "source_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997",
+      "target_id": "Theme_3b13585c413069bd59d95931b6def7013766dd15a0e24f0fdffe028020ac738d"
+    },
+    {
+      "source": "Leclerc",
+      "relation": "SPOKE_ABOUT",
+      "target": "liberté",
+      "evidence": "Nous nous souvenons de l'aide des alliés, et de la manière dont ont combattu côte à côte les débarqués américains et français, 2e DB du général Leclerc et 4e DI américaine, ceux qui avaient la France pour patrie, et ceux qui, nés ailleurs, avaient la liberté pour idéal.",
+      "confidence": 1.0,
+      "source_id": "Person_097123a18ebd0e641005f797421a09452e4a3ed741472445862bd232ce6e4546",
+      "target_id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "source": "Paris",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Ainsi Paris fut-il libéré, par tous ceux qui partageaient une certaine idée de la France.",
+      "confidence": 1.0,
+      "source_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Compagnon",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "venant de la France entière, des villes qui aux côtés de Paris, en effet, ont ce statut si singulier et précieux de Compagnon",
+      "confidence": 1.0,
+      "source_id": "City_4fece51ff1a89e391b42bf23c044f34a41f7ff1b0943dfd169a4e850773f37fd",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

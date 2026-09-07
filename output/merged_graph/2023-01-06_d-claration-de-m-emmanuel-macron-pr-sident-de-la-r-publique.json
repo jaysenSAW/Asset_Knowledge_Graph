@@ -1,0 +1,942 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "La Nation",
+      "id": "Country_61c6600a9dfecb7802535439b1c2021f46b863fad7604b75fa9e7664b1f68784"
+    },
+    {
+      "type": "City",
+      "name": "Notre hôpital",
+      "id": "City_41db716c38608c5b9e166ebf0ad525b96715ac3ee19e40893d531dbe1ee2e15f"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil départemental",
+      "id": "Person_ed23b450f0ef4975a677c78549b852e0bd6220615dfe342c23dd98aaf4590810"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil de surveillance du Centre hospitalier Sud Francilien",
+      "id": "Person_38d8dd316f4aaea358e9eeb72fc2583454277d69d2ba71f2fc68b6736e431b1d"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la directrice générale de l'Agence régionale de santé Île-de-France",
+      "id": "Person_fb4394ad0699fa2d4d988fd4cb2fe674a4fd20f3f73dac7f1fda77ab08244452"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le directeur du Centre hospitalier Sud Francilien",
+      "id": "Person_2380f212e50a1bfc10d3d5d765ae297a48ad2c9ac1e3de98fc3ea0d2cbb7e21b"
+    },
+    {
+      "type": "Person",
+      "name": "Madame et Messieurs les ministres",
+      "id": "Person_e1969247b7929a2a1c8441ccad6ae623616e8256e9af2d6f6a36aa25cb0c4b23"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les parlementaires",
+      "id": "Person_ee51dc2324bec5b163f1b8c4d3c4713f0a34d4232a11b6a3033c9f8b0c2a0fa2"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les préfets",
+      "id": "Person_95d689a5bc09a213cd3d0451ad7d8dd9a394c3b42759720116a074cf1754aa31"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les personnels de santé",
+      "id": "Person_1c7bd44ed4e2ec23edc01c5ec8cb7bf8e4a0718be6fed6797731f277b85bbeac"
+    },
+    {
+      "type": "Organization",
+      "name": "vos confrères",
+      "id": "Organization_f708da0efe9bbe055fcaa59f707aae8cdf0a95c23dbbe5d9540cd8327ed8927a"
+    },
+    {
+      "type": "Organization",
+      "name": "les équipes évidemment informatiques",
+      "id": "Organization_4dfb03a63f1f415c215ca224861aca0da698292b9eee25f36002a617be75ecbf"
+    },
+    {
+      "type": "Organization",
+      "name": "tous les soutiens logistiques",
+      "id": "Organization_8c3c769c1e04893f50b53674bafb2c92ab29e0b206062658ad4b2f858844e675"
+    },
+    {
+      "type": "Organization",
+      "name": "les soignants",
+      "id": "Organization_0dcc042498f9a4b8c3ad7e036b1826bcc15f5e1cb41f976545e5eff9ecf35efd"
+    },
+    {
+      "type": "Organization",
+      "name": "nous",
+      "id": "Organization_1abd5dcfaef874841c719199a08352984f3121ba4d175d7705d1c0f89b7da3de"
+    },
+    {
+      "type": "Event",
+      "name": "une grave attaque informatique",
+      "id": "Event_817c5b0b969223fb4f15465a8f5095a3da3e10f8a036d725bc28f21e7429587c"
+    },
+    {
+      "type": "Theme",
+      "name": "ces attaques qui se multiplient",
+      "id": "Theme_8a7b462e2d1f403756533352545fe2137e4cf6207d5fba4facee908aa0b692f0"
+    },
+    {
+      "type": "Theme",
+      "name": "la résistance aux attaques cyber",
+      "id": "Theme_ce929962e97544fae09426c33ab698e4a52d9f5b72e23b82a1d2941953ca3263"
+    },
+    {
+      "type": "Person",
+      "name": "le Covid",
+      "id": "Person_a77196fb551f273b8cbc40bbc715c8b0ab9b93e790487c4bc0f4b1233127ff2d"
+    },
+    {
+      "type": "Theme",
+      "name": "Ma santé 2022",
+      "id": "Theme_0c0a845264eb873a1f3d11401c54eb3df8d67c1ed95e13599579726b3bca8038"
+    },
+    {
+      "type": "Theme",
+      "name": "crise de moyens",
+      "id": "Theme_2ad94047e808a2a14390a39afaa7a2543aeba1d9d23c6ed543b5c1600a843dae"
+    },
+    {
+      "type": "Theme",
+      "name": "problème d'organisation",
+      "id": "Theme_a1c6f9d2f947d34a490c45c6b321e25d11e169a6bb395201564e13f524dbd81d"
+    },
+    {
+      "type": "Theme",
+      "name": "problème d'évolution de notre société",
+      "id": "Theme_ca0e4f3526419e5d479b7fa53954a52a21b71f2b151983a9cb47fcbb177ac2c9"
+    },
+    {
+      "type": "Theme",
+      "name": "système",
+      "id": "Theme_8d2bd4c17ae9f6aedd7a809555b1cce0c3cd227f3ba23f2a66d0a3fd1d2e5161"
+    },
+    {
+      "type": "Theme",
+      "name": "35 h",
+      "id": "Theme_e6cbfa32f9ae778f8df643b7d5ad26211394006e3803df691367b7b0b53251cf"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance",
+      "id": "Theme_b922336e378de1f3bd3c36e9805efd63ad949f8fbff73adbfc2b3826e811ee6a"
+    },
+    {
+      "type": "Theme",
+      "name": "cloisonnement ville-hôpital",
+      "id": "Theme_bd53389e1e6d57e4bcbdf354e1a68882016b99a7e151f5770bd0ccb869f6e222"
+    },
+    {
+      "type": "Person",
+      "name": "les soignants",
+      "id": "Person_3b7fc8ce8c9559a32d9ff64913e64e74d8aa32915efb1cffa1622d7ed97c832f"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "équipe",
+      "id": "Theme_acf94ea658c106dd392e858fcc0f8eb35cc425dd6be8c367d32dc196b38a669d"
+    },
+    {
+      "type": "Theme",
+      "name": "temps de soignant",
+      "id": "Theme_3b8e4dc32b1d91ec878146e97e953bf93f0936dcbc0c9a4f40dcae8693ac24cc"
+    },
+    {
+      "type": "Theme",
+      "name": "compatriotes",
+      "id": "Theme_241549027e1dafbd4c88c0f713cc7ea460d5e8ecee6386419a24a5c96eef545a"
+    },
+    {
+      "type": "Theme",
+      "name": "perspective",
+      "id": "Theme_370aa86b2c97076c867c7b4fba84db3d2f4542a620b1aca515d1787f903795fa"
+    },
+    {
+      "type": "Theme",
+      "name": "médecine",
+      "id": "Theme_f3ce7496d603dcb85ba3fdf8a80ffbbd3a1823495c1458b7eeb214eb8eed8d44"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention",
+      "id": "Theme_b5d3262ef3c58743a1781f267abe9b162422a835f4df383fc4856acb883ee6a0"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "ministre",
+      "id": "Theme_ffab32e7f2dec6136a593c491476c477ff9a9cbaa0f4d55519ef262e9733e869"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccination",
+      "id": "Theme_08727af7b4e202025a46e53a3b86d689aba5e9aaeb127cbebab4949a61c65b87"
+    },
+    {
+      "type": "Theme",
+      "name": "dépistage",
+      "id": "Theme_1afe5c30aca008945562a495ea1d6630d289bc33e375ee096138713ea1244cf6"
+    },
+    {
+      "type": "Theme",
+      "name": "diagnostic",
+      "id": "Theme_0c9e832054bee402487c3a92254bcf1730b8b2a01cae9c2fa512b8c5daadbd96"
+    },
+    {
+      "type": "Theme",
+      "name": "système de santé",
+      "id": "Theme_2657aebfbbfb5694ad4f18f7234ec7531dfc35b68b63242c708fb8b908b3b060"
+    },
+    {
+      "type": "Theme",
+      "name": "hôpital",
+      "id": "Theme_d420f2bb9f5a09610e3b110f4c52800854e6b339d3213f84c5834a8537d4a774"
+    },
+    {
+      "type": "Theme",
+      "name": "budget",
+      "id": "Theme_476c75e33f21fc15bc5588b5d07c657897da27f908716f5af56abf04963f337c"
+    },
+    {
+      "type": "Theme",
+      "name": "Ségur",
+      "id": "Theme_6d078bbb77017692f291750a789582439fb5783feb5536b660eeb2561bf5e15d"
+    },
+    {
+      "type": "Theme",
+      "name": "rattrapage",
+      "id": "Theme_e347253122aaccf837ad8907dcd88c59c4ed23a3742d6e812ba31c6b0417c8df"
+    },
+    {
+      "type": "Theme",
+      "name": "baisse",
+      "id": "Theme_5eae44fde990bb03a53f1c33884708121426c738c0ba9e95d987a02daa71a657"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilisation",
+      "id": "Theme_0a966aca3520737ba08f9b331abe7136c44d8fda8ca56816fff530f39b8b2b10"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement de la Nation",
+      "id": "Theme_078c8b0539542ecc7494b1d6b316ee99ccba19b1bbc0fd69a39de1fe2c7a2b2a"
+    },
+    {
+      "type": "Organization",
+      "name": "Ségur",
+      "id": "Organization_61b8e78c7ec633887e8e8f7e777942d7c32b181547f6c85943c5d60fab08efd4"
+    },
+    {
+      "type": "Theme",
+      "name": "coût de la vie",
+      "id": "Theme_e130dd6efe5cd396e62fb0745f73fff6fdcaa0d4444ec590d42ad1f82daa9d29"
+    },
+    {
+      "type": "Theme",
+      "name": "attractivité",
+      "id": "Theme_6e810685c69ad3ee9245c969e1dfdc105f56849050a2192c7b2a5c21535528f3"
+    },
+    {
+      "type": "Theme",
+      "name": "numerus clausus",
+      "id": "Theme_a948266ee04c2cbd2b900fc5c2ff5ba99a14fd8b4fdb79e7d059080730d8e2e9"
+    },
+    {
+      "type": "Theme",
+      "name": "chiffres",
+      "id": "Theme_b2e1da026a8d37c384a49e574edfd222e965f48657108df29f03d040c72a012a"
+    },
+    {
+      "type": "Theme",
+      "name": "médecins généralistes",
+      "id": "Theme_920ba0aa30f11ae0d32b729438a26a65f79f59b8d7572481cda9d299477d1c87"
+    },
+    {
+      "type": "Theme",
+      "name": "cumul emploi/retraite",
+      "id": "Theme_c514a1a841bc52d0ce87314d3c1e99e02683e245c863990d4125b2b51b41437f"
+    },
+    {
+      "type": "Theme",
+      "name": "gagner du temps médical",
+      "id": "Theme_90de1bf2281471f8cbbf605ae15dd76f849e48ac7d510c417643469f72db2f8a"
+    },
+    {
+      "type": "Theme",
+      "name": "recrutement des assistants médicaux",
+      "id": "Theme_83d29eaf47ab49dcb56dfef893d7ac5cea820653e917e3a89e36366d3debc6b2"
+    },
+    {
+      "type": "Theme",
+      "name": "délester des tâches périphériques aux soins",
+      "id": "Theme_1d5d46012f25b76369011f17f65362fa6869bf75d752c2247f2f9880a6270325"
+    },
+    {
+      "type": "Theme",
+      "name": "se concentrer sur le cœur de leur métier",
+      "id": "Theme_b761f028e956a3e349b5944a7eba8260f4f8adbc5e31b70d969b1197a7a9a65a"
+    },
+    {
+      "type": "Person",
+      "name": "Sandra",
+      "id": "Person_972b2c1acc21796a1744f8ff402317755912d5b602bb1b18a08764b9679243a4"
+    },
+    {
+      "type": "Organization",
+      "name": "l'hôpital",
+      "id": "Organization_c64c2098af08237d71a65ed962ed485f119adda25320027a9b093ddbff3998ee"
+    },
+    {
+      "type": "Organization",
+      "name": "Madame la présidente",
+      "id": "Organization_1d17838542c3a022ee78aa7d6683b9f42ef345660ca0de2d7063e22f60b5d2d4"
+    },
+    {
+      "type": "Organization",
+      "name": "ARS",
+      "id": "Organization_e0895a481c105024ae88c4febdcf5db881937615d461198b5b7fcfa2894ae862"
+    },
+    {
+      "type": "Organization",
+      "name": "administration centrale",
+      "id": "Organization_e3066963cf144479b1e2a1f062d9624cf4475f5a44e74140e20938a768e81c0f"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "optimisation",
+      "id": "Theme_acbfcbc289e1779717c7c6f5de3591f471ac0476a9000ee2308893299b2e50ad"
+    },
+    {
+      "type": "Theme",
+      "name": "revalorisation",
+      "id": "Theme_c26d9b445af85c9cb78c29ddace6847e035096c466e78a828b01cf89f45229c2"
+    },
+    {
+      "type": "Theme",
+      "name": "sérénité",
+      "id": "Theme_dddf78998ad1cdf1f52a145991b3d026a119fab00f2ff551dc28b96b5f64cc39"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité des soignants",
+      "id": "Theme_72760c9f9154e11766e0f0cf86e846b759578d059cd0b494d2b43b9c0498a3fe"
+    },
+    {
+      "type": "Theme",
+      "name": "visibilité",
+      "id": "Theme_f59a7fbc64425457d75c34d0bff557a4fa6deb3b2e067b747f711e04c9e5e6db"
+    },
+    {
+      "type": "Theme",
+      "name": "plans de charge",
+      "id": "Theme_72ffb5cd9a2e392ea28ea12d95062afcabaab6ad99b2f82cf1f30f269ceeb95a"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation",
+      "id": "Theme_01dbd75772ce2e01acf43a9eed5bfc3d66a83ad34f48105944d56c5bf0aaa34b"
+    },
+    {
+      "type": "Theme",
+      "name": "temps de travail",
+      "id": "Theme_f84f48560252003ddb4994f1f06d787405627dcfd67c5b18b9fd8b1941ae6999"
+    },
+    {
+      "type": "Theme",
+      "name": "soignant",
+      "id": "Theme_2da0d7b07711b7c3374bccd9ffc8e4923025e6787cd32abe090061e16b525fb9"
+    },
+    {
+      "type": "Organization",
+      "name": "notre organisation collective",
+      "id": "Organization_a428a70be173154904f7c6a9926eadc203e57686c848af623b0fea7a0cfcda0d"
+    },
+    {
+      "type": "Theme",
+      "name": "planning",
+      "id": "Theme_0428c866279d23d313236931ac4f95b993688620522f366bcdaf621fac63452e"
+    },
+    {
+      "type": "Theme",
+      "name": "schémas horaires",
+      "id": "Theme_4cc4a1533c1ed516304058dcd021b160de8a665b639fee3239564fbbc9d4e7de"
+    },
+    {
+      "type": "Theme",
+      "name": "temps pour les malades",
+      "id": "Theme_f05873badbc73422d31c90e8f0876848545dd3e6c112c470b0afe40fcb3721e6"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté d'organisation",
+      "id": "Theme_3145b9337be62d87480c35bdecb1d50cc95fc682958a1f84a9e2d502c29e4db4"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation collective",
+      "id": "Theme_79218b53157fe5e1e2665da4332c81c5325af4c9e81b83af934e497d950b640a"
+    },
+    {
+      "type": "Theme",
+      "name": "affectation des rémunérations",
+      "id": "Theme_9c522204ec94fa8d4e5b33a3cd4aafc845692e3a036bed026fe23008d9d7e568"
+    },
+    {
+      "type": "Organization",
+      "name": "nos hôpitaux",
+      "id": "Organization_88bcacd4efad25390948552e79ec49bf1273bfa76f30a36538011296cb1e48c3"
+    },
+    {
+      "type": "Person",
+      "name": "le directeur d'équipe administrative",
+      "id": "Person_fbfd45b8f4c3154a8c53efe97b75eb8d69cd657068aab41f9d7cdddfbb2e5754"
+    },
+    {
+      "type": "Person",
+      "name": "l'équipe médicale",
+      "id": "Person_c0b7f39da070955ff8d5eec8450dd39d87899de47baf75c4a174688ba8413d64"
+    },
+    {
+      "type": "Person",
+      "name": "nos parlementaires",
+      "id": "Person_9a2dbb1565dc84a9a106daa17f471c64072e067cde458d53af267bb22408b9a6"
+    },
+    {
+      "type": "Theme",
+      "name": "tarification à l'activité",
+      "id": "Theme_99519fa8e42025aea5fc034380ba9a0c3de758a45fad407ef86af481c7818ee8"
+    },
+    {
+      "type": "Theme",
+      "name": "T2A",
+      "id": "Theme_23509c4dae24ca614789fc05658b4482ea4b8919bdbbd1c231999b5b04802a08"
+    },
+    {
+      "type": "Theme",
+      "name": "soin non programmé",
+      "id": "Theme_89e3841a49aa42b9b9ecb294ecb231dd9b77650fb8970511bc99fc20b6c3aa24"
+    },
+    {
+      "type": "Theme",
+      "name": "activités les plus complexes",
+      "id": "Theme_6c507c470e993de7817d72ee3a2317fcafb5289922e0fc212d15b94579cbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "pédiatrie",
+      "id": "Theme_cb2558b9497f15ccddaa05c15cff48815453f015be386d78d73d93d5f596a481"
+    },
+    {
+      "type": "Theme",
+      "name": "systèmes",
+      "id": "Theme_58c6bd4326b51861d406ab395dd7147ce4d34bdb6624d7044df7de478646dfb3"
+    },
+    {
+      "type": "Law",
+      "name": "projet de loi",
+      "id": "Law_3c6308d41a4aa0d9948ad60b46254d755112c1aaebbb9f19c6159a5e7497200c"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "financement de la Sécurité sociale",
+      "id": "Theme_fac258a560ce8ef01146e2395c5a62a3d09b756fe682528b645a38319f157dd8"
+    },
+    {
+      "type": "Theme",
+      "name": "rémunération basée sur des objectifs de santé publique",
+      "id": "Theme_b14fd51cc901604c75eacbbae5c20b98d7e80bc9374275cdd4ebeedc94b84306"
+    },
+    {
+      "type": "Theme",
+      "name": "rémunération",
+      "id": "Theme_5830dfee1249f6ccc517a52e0542c51a180d6ddf39710533fbebd52a95a48afe"
+    },
+    {
+      "type": "Theme",
+      "name": "financement",
+      "id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941"
+    },
+    {
+      "type": "Theme",
+      "name": "conditions de vie",
+      "id": "Theme_5727b8ff037f97373a8b935416000913c60d4e550e6c3b1774b5638e39abfee5"
+    },
+    {
+      "type": "Theme",
+      "name": "satisfaction",
+      "id": "Theme_04342e377497e5500f9e2cdd682dce37f05b0c6badda8f6e482bcb64ffb16cea"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation du travail",
+      "id": "Theme_6de3f4cd409c3766e66f9b4eac9cec2a382df06e5acb8a7844744ef1af1ff58b"
+    },
+    {
+      "type": "Theme",
+      "name": "visibilité sur son plan de travail",
+      "id": "Theme_aacf350b0a67a1445c41733d905cc61a0bb3aa6cba23832eecea136c442168ea"
+    },
+    {
+      "type": "Theme",
+      "name": "logement social",
+      "id": "Theme_e5d35ea458c0933a3270e4625354763c3f7e503717d0d72d2f281914d2e55908"
+    },
+    {
+      "type": "Theme",
+      "name": "parc de logements dédiés",
+      "id": "Theme_0df59efab96109e57bd463b493564021c06ab3dee660fd12d1eae157da5e3a19"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement aux déplacements",
+      "id": "Theme_105ff7b609df8f0ce2c3d8276361071489eaee73b4a20278e26411696c24b6a2"
+    },
+    {
+      "type": "Theme",
+      "name": "stationnements",
+      "id": "Theme_78dca05ebd3e3bd6327a809f10d14442bcfc10fac6ffc0cf5355bced5622702f"
+    },
+    {
+      "type": "Theme",
+      "name": "plan d'accompagnement",
+      "id": "Theme_0532badbce70c78c10e558cefb7bd5f9dae02389f22be2002bcdf17de05ddf50"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions nouvelles",
+      "id": "Theme_fc4b8e8c4cc84a19aee23d62b073154b1e50247eaed576a0bfce7fe10a06acc8"
+    },
+    {
+      "type": "Theme",
+      "name": "carrières",
+      "id": "Theme_599fea681aed9aac3420cdfa38f631b0902a4081a732169614b833337474b6aa"
+    },
+    {
+      "type": "Theme",
+      "name": "praticiens hospitaliers",
+      "id": "Theme_d09aa8c02a67e86d66f1e486b46ea00176e50e928963a1e681b20143daa8e8e0"
+    },
+    {
+      "type": "Theme",
+      "name": "infirmiers",
+      "id": "Theme_492e88a9b22d0446f1882155b998222ff96c12ac394c242919f638ebc28b0cf3"
+    },
+    {
+      "type": "Theme",
+      "name": "infirmières",
+      "id": "Theme_e15568b9434c434a627a1c92020af76fac02e088486746b4aefdb2953ca179df"
+    },
+    {
+      "type": "Theme",
+      "name": "aides-soignants",
+      "id": "Theme_3adab86e773f4674ee1cb00a794bd2b944344654f577a3a839b7e7c6063a04bf"
+    },
+    {
+      "type": "Theme",
+      "name": "PLFSS",
+      "id": "Theme_203f45e3357195202354f979fe752735121bd25762415063bcac1fa673b204ad"
+    },
+    {
+      "type": "Theme",
+      "name": "IPA",
+      "id": "Theme_52d649bf936934218f5205513a3ea443332b0c6e1aed27c338b26c8c918702d6"
+    },
+    {
+      "type": "Theme",
+      "name": "déserts médicaux",
+      "id": "Theme_90235477061eda83e182f329c6c2f9f2ccbe44c4d3105adcad5a33997cc61177"
+    },
+    {
+      "type": "Theme",
+      "name": "thrombose",
+      "id": "Theme_b151cfe9efa5b4a94e8da34abb5f016b91e7e34333c68c2cbbd2ecfc17fdee98"
+    },
+    {
+      "type": "Theme",
+      "name": "soins non programmés aux urgences",
+      "id": "Theme_fcf6c2b9819b360ae2f8f21d9b9b3e220ab1376edda1c15715408c4dfd9727d6"
+    },
+    {
+      "type": "Theme",
+      "name": "permanence des soins",
+      "id": "Theme_b75e85c363672a340ea4e051ba15cdd5e930f4e58c97fd08d936e9cbe2e100ab"
+    },
+    {
+      "type": "Person",
+      "name": "nos infirmiers, infirmières, médecins, personnels de santé, paramédicaux",
+      "id": "Person_49c465fe8b3528215b2403fbaa2a4e153e264a32c8461b3a66bc0a4dbe4f7d3b"
+    },
+    {
+      "type": "Theme",
+      "name": "pénibilité",
+      "id": "Theme_c37e2f988deac1f01035e28f21aedc7dce80cc0f16738390e926eef6fef9c37e"
+    },
+    {
+      "type": "Theme",
+      "name": "système de retraite",
+      "id": "Theme_1dabb9e207d4d8ad771de26af11fe6558e6491e7ba6e6017a12a8e6e76995126"
+    },
+    {
+      "type": "Theme",
+      "name": "permanence des soins en ville",
+      "id": "Theme_034b2abcc5e93b2773e56dac05cccae3ac3e54d66522a232ee09378c71012301"
+    },
+    {
+      "type": "Theme",
+      "name": "médecin de garde",
+      "id": "Theme_6e51ae715092380e0e3db06893aa24b64b6c280665a3c16b781ab34157304ce6"
+    },
+    {
+      "type": "Theme",
+      "name": "refondation territoriaux de la santé",
+      "id": "Theme_c3f077012c625650a1f0a6678fddf16b6a326186e079348f9d40889160ed1fcc"
+    },
+    {
+      "type": "Theme",
+      "name": "moyens",
+      "id": "Theme_f93c94428a89608982dc63333411fda610bd8010d778906c19788a577d156d43"
+    },
+    {
+      "type": "Theme",
+      "name": "incitations",
+      "id": "Theme_98ca6a1305f9344ddd496bf5b84f60836ad83122c8039567f59903cdb425530c"
+    },
+    {
+      "type": "Theme",
+      "name": "médecins",
+      "id": "Theme_8a538d7c7f7c7155eb2b555969d906c92bb91e14c49e8bf6f1dab0688e532a9b"
+    },
+    {
+      "type": "Theme",
+      "name": "déjeuner",
+      "id": "Theme_fcdab7b69edcd5dbdf9185520656cc09b66466858e3e3c4e74bb533ce65614fb"
+    },
+    {
+      "type": "Theme",
+      "name": "population",
+      "id": "Theme_ffccf5c878663c1495aa01ad149b08bd26e169cef2911bac384ee91631db0792"
+    },
+    {
+      "type": "Theme",
+      "name": "territoire",
+      "id": "Theme_0a64ebd0eb223c01e0418d05812cedc19c1d5b477ef0ab9da6891f9e4c0502f4"
+    },
+    {
+      "type": "Theme",
+      "name": "patientèle",
+      "id": "Theme_09ab77fde8b7fcc8ee287651dec764a4b00e430eba003af6b63a812b6cfdb66f"
+    },
+    {
+      "type": "Theme",
+      "name": "tarification",
+      "id": "Theme_898025c3807d409fbd6368c272e54ffad3e53494eddbb7dc151e39f4083f22c4"
+    },
+    {
+      "type": "Theme",
+      "name": "acte",
+      "id": "Theme_0e55c8de2e7ad2bdf5ab169159251530f6bd5f306b572117c3375b482d700c38"
+    },
+    {
+      "type": "Theme",
+      "name": "financement à la mission",
+      "id": "Theme_992af4851dc458e991253c2a91e232aa48e93c7138859c12f2874dd5f71f2c58"
+    },
+    {
+      "type": "Theme",
+      "name": "réseau territorial",
+      "id": "Theme_61211fe07e54ef0169e09283951f791b1ef531267fe567f2623d3b5dacd634dd"
+    },
+    {
+      "type": "Theme",
+      "name": "offre de soins",
+      "id": "Theme_b1bdcc2152d83bcf92bd930d1cad261f0715b1c82bacfc5c33580185e55509b5"
+    },
+    {
+      "type": "Theme",
+      "name": "continuité des soins",
+      "id": "Theme_b3f9b71f220ff67a986ebe97fee0bd3a94b911d38e20ae2ced15a84ffaf2ed95"
+    },
+    {
+      "type": "Theme",
+      "name": "télésurveillance",
+      "id": "Theme_78bcff642519c2b0efe3226eaec700d471416a459e4b6be48e714f0caf1e6623"
+    },
+    {
+      "type": "Theme",
+      "name": "télé-expertise",
+      "id": "Theme_b89209bb94c28615e5db74a518b4fb860283a8f482c33e5f3f83db2aa358f9a2"
+    },
+    {
+      "type": "Theme",
+      "name": "téléconsultation",
+      "id": "Theme_6729fb7e7d7bf60431c54d717d1ea79339497b4b0d87ef0954987fbc990bd17a"
+    },
+    {
+      "type": "Theme",
+      "name": "certificats",
+      "id": "Theme_4b7d79494628fa045a89385ed46234d475ecb76b9a3b360cf7828c979ed28114"
+    },
+    {
+      "type": "Theme",
+      "name": "négociation conventionnelle",
+      "id": "Theme_71944ad99f72f6223e177d0b366f71f400dcb9eacf7509650f0547522aaa0bc3"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte de droits et devoirs",
+      "id": "Theme_a3f7f68a1ac011766a9147359e7152e71dc5d414c9387747de51c146b7f86d64"
+    },
+    {
+      "type": "Theme",
+      "name": "paramédicaux",
+      "id": "Theme_9f57501e65f208e708f6954cad3e0cf5b1d2d9315ac76ff3b21aee5390be5589"
+    },
+    {
+      "type": "Theme",
+      "name": "infirmiers-infirmières de pratique avancée",
+      "id": "Theme_0e6ea994d858a23c618992eb7efa126b7730f768636ada8255fd3d3762fe9666"
+    },
+    {
+      "type": "Theme",
+      "name": "orthoptiste",
+      "id": "Theme_ebc2039ec8a5d59c53be7c0f0d04b1e9798b67dbeee86a11c71d68ab830e6e4c"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvellement de lunettes",
+      "id": "Theme_22ccba300f4418a5a8ce64d093524fe91532159545593a790de558e1745a6495"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition ou d'un réseau",
+      "id": "Organization_79ff56d74090d1fabdb8c9d188a5413af5686033d925805502dde6ffe9c8d90e"
+    },
+    {
+      "type": "Organization",
+      "name": "pharmaciens",
+      "id": "Organization_ad7b3c52b43c9482c320d9fcf139ccefc24a20254439061b2bd65aeacea4ae48"
+    },
+    {
+      "type": "Organization",
+      "name": "professions paramédicales",
+      "id": "Organization_bf94aaca2122cc8bae898aa473a9fbd8acf31fa5b69e9905ce5e5bc1f54a8971"
+    },
+    {
+      "type": "Person",
+      "name": "le ministre de la Santé",
+      "id": "Person_9ea110363b5082cb4de7d99025d2ee9a5cd72c33d4a4b39e266b877d1c5f07a4"
+    },
+    {
+      "type": "Organization",
+      "name": "notre système",
+      "id": "Organization_f019cd52cba3e5ec039821d948b3dab4e9829a1b32749e5119fb12e7095128d4"
+    },
+    {
+      "type": "Organization",
+      "name": "l'assurance maladie",
+      "id": "Organization_ba4f1945fcf74c59ff111576873788ddd8a9e7cf6c0d17903d0b16de99b816a5"
+    },
+    {
+      "type": "Theme",
+      "name": "maladies chroniques",
+      "id": "Theme_57178cca0419ae26312b9967976059ab7b2985410eae03ad24b2f0e9c5b9b210"
+    },
+    {
+      "type": "Theme",
+      "name": "infections de longue durée",
+      "id": "Theme_78c770cebfa600813a777112b6ec51699ec4494c4ab43bdea2e42ed8254c85e5"
+    },
+    {
+      "type": "Theme",
+      "name": "médecins référents",
+      "id": "Theme_54e6475c4cefe73fa7242b9cacd532d9a409fbf74379c3d704c7448a399d4ccc"
+    },
+    {
+      "type": "Theme",
+      "name": "généralistes",
+      "id": "Theme_72b778c66e31e107037c2c42389f8fd09989e8b03f030f4e49c4d81faa8b16bc"
+    },
+    {
+      "type": "Theme",
+      "name": "spécialistes",
+      "id": "Theme_9cb73f789ed4460b36783e3d1dc8a6ee895551a7c28976c74081a267d84ddd3d"
+    },
+    {
+      "type": "Theme",
+      "name": "affections chroniques",
+      "id": "Theme_08e7b5c1c22436092f23cc2a4da653ae060c3eea065e5da21f80c1a9883e6b17"
+    },
+    {
+      "type": "Theme",
+      "name": "service d'accès aux soins",
+      "id": "Theme_2138d64d16edce2ab0f72adce7c527ed1c5808c0048c7275475a5d2abffd7b78"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Theme",
+      "name": "les consultations non programmées",
+      "id": "Theme_9ee669cd54ec082a5af9baedd71bf59bcff1b90fb83a0ec3cfcea63feb86bc88"
+    },
+    {
+      "type": "Theme",
+      "name": "l'hôpital",
+      "id": "Theme_d6d5e110c8211042ab44f82281faaee70a194b3c7c473c96f113e6201b2debc6"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement des plus jeunes",
+      "id": "Theme_30124eb0dc70c2c48e2e27b73328f6a30b3c4e8440746cfb0b6879f18bd52982"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie",
+      "id": "Theme_fa010b2e87d32c400a0a52b10fe00d186b07d80baf9792842d534698bb9241c6"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance",
+      "id": "Theme_eb42bc9a4c0e3c4863f2af9c41baa2a8f3b5a02bf55c6c74f6658aeb303b2108"
+    },
+    {
+      "type": "Theme",
+      "name": "grand âge",
+      "id": "Theme_a1cb04910273defeb1ba7568f6228b0295588291af6f2b9a92f7b5503f2f6cbb"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "école",
+      "id": "Theme_e4023600e045c977a775d339830e8508634d36394f9b8486f09d01cdd3b05e6b"
+    },
+    {
+      "type": "Theme",
+      "name": "humain",
+      "id": "Theme_8411f09bc1694f01e5ab486ef4b48ee9827481cf4493b21fce495d283ec879b4"
+    },
+    {
+      "type": "Theme",
+      "name": "territoires",
+      "id": "Theme_66de4f396b7cd7f12f716e7146777cfaec081e489f77ec12af0287dcfb14bf40"
+    },
+    {
+      "type": "Person",
+      "name": "mon engagement",
+      "id": "Person_52a08c1e3d12dfcd642d6a89285525566a70b8499efdef678ce77fda317f4c42"
+    },
+    {
+      "type": "Country",
+      "name": "notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    }
+  ],
+  "relations": [
+    {
+      "source": "nous",
+      "relation": "ANNOUNCED",
+      "target": "une grave attaque informatique",
+      "evidence": "nous avons subi une grave attaque informatique",
+      "confidence": 1.0,
+      "source_id": "Organization_1abd5dcfaef874841c719199a08352984f3121ba4d175d7705d1c0f89b7da3de",
+      "target_id": "Event_817c5b0b969223fb4f15465a8f5095a3da3e10f8a036d725bc28f21e7429587c"
+    },
+    {
+      "source": "Ségur",
+      "relation": "MENTIONS",
+      "target": "coût de la vie",
+      "evidence": "malgré le Ségur dans les grandes villes ou les régions où le coût de la vie est plus élevé que dans d'autres.",
+      "confidence": 1.0,
+      "source_id": "Organization_61b8e78c7ec633887e8e8f7e777942d7c32b181547f6c85943c5d60fab08efd4",
+      "target_id": "Theme_e130dd6efe5cd396e62fb0745f73fff6fdcaa0d4444ec590d42ad1f82daa9d29"
+    },
+    {
+      "source": "financement",
+      "relation": "MENTIONS",
+      "target": "rémunération",
+      "evidence": "Ce nouveau financement concernera tout à la fois les établissements publics et privés, mais aussi la rémunération de la coopération",
+      "confidence": 1.0,
+      "source_id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941",
+      "target_id": "Theme_5830dfee1249f6ccc517a52e0542c51a180d6ddf39710533fbebd52a95a48afe"
+    },
+    {
+      "source": "l'hôpital",
+      "relation": "LOCATED_IN",
+      "target": "l'hôpital",
+      "evidence": "au sein de l'hôpital",
+      "confidence": 1.0,
+      "source_id": "Theme_d6d5e110c8211042ab44f82281faaee70a194b3c7c473c96f113e6201b2debc6",
+      "target_id": "Theme_d6d5e110c8211042ab44f82281faaee70a194b3c7c473c96f113e6201b2debc6"
+    }
+  ]
+}

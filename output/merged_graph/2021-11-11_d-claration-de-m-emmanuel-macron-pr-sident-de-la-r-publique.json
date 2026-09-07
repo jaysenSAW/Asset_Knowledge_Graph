@@ -1,0 +1,988 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Muhammadu Buhari",
+      "id": "Person_c4d412cf8486569c75d7044dc56594d94e74506284d41f932c1e421157c39f82"
+    },
+    {
+      "type": "Person",
+      "name": "Sheikh Hasina",
+      "id": "Person_30c70b290286ee1c1c8b827b24f27fe671bb90d9e496cd973432db1ae60d4654"
+    },
+    {
+      "type": "Person",
+      "name": "Kamala Harris",
+      "id": "Person_bed5818e1c700426ba792cb1431775444b1375c226334cc9d1a0f1a88924fd79"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre, des ministres et des secrétaires d'État",
+      "id": "Organization_36bdde9e62696519379af627375295b03fc5f39cda063224cc585da5a7e35062"
+    },
+    {
+      "type": "Country",
+      "name": "continent européen",
+      "id": "Country_b37c635467d4084b06ad2d0b7eb279047c957556c0b345871ec341fba5226760"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Country",
+      "name": "Nord de l'Afrique",
+      "id": "Country_a6e7f32c94f7eaa9377a81a6b7d383d8d7f65a3ca5cee48dfd64448a9018cc33"
+    },
+    {
+      "type": "Country",
+      "name": "Asie",
+      "id": "Country_125df38c941d6e9ca59fdabf4abad62d160982babf9162638b212439be445421"
+    },
+    {
+      "type": "Country",
+      "name": "Amérique du Sud",
+      "id": "Country_32948a1769ccd4bf4a282d88d33f388fe28536517aa3928d111c5d21183bd30e"
+    },
+    {
+      "type": "Person",
+      "name": "Pascal",
+      "id": "Person_ee801892bb1214c98694d2eb55505233843fe9a913dd3434afdbff546a6d266a"
+    },
+    {
+      "type": "Person",
+      "name": "Justin",
+      "id": "Person_0390d5a3f0afeddb75d399c1e1886c930f4347b0b5efd8332c3196714c152204"
+    },
+    {
+      "type": "Organization",
+      "name": "Forum de Paris sur la Paix",
+      "id": "Organization_59251225fe628fdc3e20fc9cd5c2fa63bde332bdeb460e7039944c49056cf68e"
+    },
+    {
+      "type": "Country",
+      "name": "Etats-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Event",
+      "name": "centenaire de la fin de la Première Guerre mondiale",
+      "id": "Event_72ce895470cd2ef4002bf61f743929d53225b31b2fb113bd3ff4896037764bda"
+    },
+    {
+      "type": "Event",
+      "name": "crise inédite du multilatéralisme",
+      "id": "Event_8e6ec5a31a496da520a5efce05dc7b9e5d72fd8e446a1c1125c6574df40381c4"
+    },
+    {
+      "type": "Theme",
+      "name": "inefficacité",
+      "id": "Theme_07b3fbe6eebcac2689e9f875d8b21134d81aa875a1653e15a8c79ed62febdf34"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "ONG",
+      "id": "Theme_14962eaf3fda8bdc91d7cf0c65620567cb96019367a9e6a3a7c5c988497ace92"
+    },
+    {
+      "type": "Theme",
+      "name": "activiste",
+      "id": "Theme_3b29aebf5f5b04061f554dbdad6bb8d2424428853c7c1aa7d4edbacbcd2340c7"
+    },
+    {
+      "type": "Theme",
+      "name": "COP",
+      "id": "Theme_ecc0467318238b68f707ba9e6a2dac7bdfd1e5d4e82f1620e0b16e19d882ffbb"
+    },
+    {
+      "type": "Theme",
+      "name": "consensus nouveau international",
+      "id": "Theme_2af71a73d4cc9cade9d986350d7f463441c084a166ed19664924d761747fc8af"
+    },
+    {
+      "type": "Theme",
+      "name": "consensus de Paris",
+      "id": "Theme_652eca8f6a68168d97981d708219861a624028cbf6e070f70fe0980c389b053f"
+    },
+    {
+      "type": "Theme",
+      "name": "capitalisme financiarisé",
+      "id": "Theme_cc577ce61e73ae19fc589390d5c90950abfd0d0ebf2c054d69e81b0984851f4e"
+    },
+    {
+      "type": "Theme",
+      "name": "pauvreté",
+      "id": "Theme_95b7ed519406cd062b2738f35707ce2b499fc7f2e5179d4c674216f14032a781"
+    },
+    {
+      "type": "Theme",
+      "name": "réponse universelle à la pandémie",
+      "id": "Theme_07cbf3a2f43570117922e7d64c067b4a9e363cad919a4acac3cc1060530f7534"
+    },
+    {
+      "type": "Organization",
+      "name": "ACT-A",
+      "id": "Organization_e2696e6790de4d4f83f0f53e114253e46d143fb43e149929598aa79140c0ce43"
+    },
+    {
+      "type": "Organization",
+      "name": "OMS",
+      "id": "Organization_f4fd87f36b138eb90074550fbf1903ace44013d0b88bded488849d5b4439d0a9"
+    },
+    {
+      "type": "Person",
+      "name": "Tedros",
+      "id": "Person_27b2c2ded98d630377460b9a502aba62d91fa6cdc9c8095c111a43cfe6016368"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Bangladesh",
+      "id": "Country_3c4857cd18262ba42820abe7fa8869a98e90ca21bcd9fbc07ba1e1d7486706eb"
+    },
+    {
+      "type": "Organization",
+      "name": "Covax",
+      "id": "Organization_781367a3b09ff877938671a444cbcdda942807cde93f3f537eccf84ec0fb3c5a"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Vice-présidente",
+      "id": "Person_e81623110c31fc55c6031e6726b979b7e7bfd614c46d61409a48cbe7abbd653e"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Première ministre",
+      "id": "Person_5a6bde008a448ebb4d985596bfbfaf903f8af9466a7cee3eba7e49b7a48c6247"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation mondiale de la santé",
+      "id": "Organization_f5757579822029fdeb945a55b4b8ef80b363463b0aa95c3bb36a34804eb108f0"
+    },
+    {
+      "type": "Organization",
+      "name": "Unicef",
+      "id": "Organization_4d85ed9d9e6913bdeff842fe9848552a7ae161908c00692c6b6335d9c1f35cfd"
+    },
+    {
+      "type": "Person",
+      "name": "Président Michel",
+      "id": "Person_7685b70a813b6fb61117212b8e9ecca2ea9222d8762cb2aed62a10cca94e3ec7"
+    },
+    {
+      "type": "Person",
+      "name": "Michel",
+      "id": "Person_ac9938878c7e5cc0d539c8f51b48c646dc89fa8148a7eea629e93eb5c96981a1"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Union africaine",
+      "id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "type": "City",
+      "name": "Bruxelles",
+      "id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "type": "Country",
+      "name": "Sénégal",
+      "id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique du Sud",
+      "id": "Country_18768cba57ae5abd3fb4a98f72c105af41db31822809e203889560cb72663272"
+    },
+    {
+      "type": "Country",
+      "name": "Rwanda",
+      "id": "Country_a25a5ec05fe29e50db60bd3d8895a9d523027a5e3d736e345edbee00b92efec3"
+    },
+    {
+      "type": "Country",
+      "name": "Côte d'Ivoire",
+      "id": "Country_02a4cf0b159c169388d9cae695c5828d01927abf33bf75e323c8f187cdde6be9"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccins",
+      "id": "Theme_285c234b84ef6ba1444c75fa4fb284e57557192a16508630af6134cc975797f3"
+    },
+    {
+      "type": "Theme",
+      "name": "épidémies",
+      "id": "Theme_b7649f44dc5676786f08527885c333e835ebe08bc6ba229fcf3d2bd1b0eb307e"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies",
+      "id": "Theme_13d59bafdc47af3e410af65db9d4750021cd91a0bdfe8882fa42d2d9c12e506d"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités de production",
+      "id": "Theme_de724b2c31c86e012eba064cfcdeeb4e3ad70186c01d891e5d7374d68b497210"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "exportations",
+      "id": "Theme_5b938f0fc64a0d871e41235d0ecf1a0da110e2e11193dd7dde26a0c2893dbe08"
+    },
+    {
+      "type": "Theme",
+      "name": "contrats d'approvisionnement",
+      "id": "Theme_8ec36c3fc72b7d593adafd1bfceb3213dd48f34c86c80bfb0ce2b712c1f1c0cd"
+    },
+    {
+      "type": "Theme",
+      "name": "propriété intellectuelle",
+      "id": "Theme_e93a9cdedc8c0f209853c358a4a86a8c2496ed656002f532970b5b5d994bd0a5"
+    },
+    {
+      "type": "Theme",
+      "name": "prévisions",
+      "id": "Theme_226a0ce6ce3b6568634d089584b42b3bf3873b9b032adae759053801b262425c"
+    },
+    {
+      "type": "Theme",
+      "name": "alertes précoces",
+      "id": "Theme_95465c04cac6d91aed3e3fffe03536e7bda59a4130b756f8166236835bd7be9e"
+    },
+    {
+      "type": "Organization",
+      "name": "OMC",
+      "id": "Organization_dbfd6ac2652ebf57b2436987f66688b5c1c31df23624ca5dbb0e937544345cc0"
+    },
+    {
+      "type": "Country",
+      "name": "Africain",
+      "id": "Country_698477977960eea221b48ef749235cdb4b76cadf5c10309acc73346625c29054"
+    },
+    {
+      "type": "Country",
+      "name": "Pacifique",
+      "id": "Country_fb13f49510e4991c246a7df143a4e90afbd5647b097e58a7081571c5cdd07b6f"
+    },
+    {
+      "type": "Country",
+      "name": "Balkans",
+      "id": "Country_ac92d8b44c7c477bf2def6f8594b02aadf92312aa09c5d84c698eadace30df26"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds monétaire international",
+      "id": "Organization_ea510a567f72e30e0268e3e6ccaa15fe3579eeab3ddd63cf65e4879cc4e70e8d"
+    },
+    {
+      "type": "Person",
+      "name": "directrice générale du FMI",
+      "id": "Person_443c7002bafccc160bab4cb3ee0826378fbfa3095d5a4c699b14c53edbb45322"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale",
+      "id": "Organization_8f8e5049d1c21e2291ca3d39865c23e9d20927413f7abca05a47b2572d99f6e2"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Law",
+      "name": "droits de tirage spéciaux",
+      "id": "Law_2f6c9bf0d34592bc562c4281d7ed0baf424bdddc9495226e0dbbd798cceea564"
+    },
+    {
+      "type": "Theme",
+      "name": "crise économique et sociale",
+      "id": "Theme_d05d88bb5d9d71ed599775c678e0cfa981c7fa5824a3fdc1a93fdd3f80f0182e"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de tirage spéciaux",
+      "id": "Theme_397b448f932384538350c8fee4982c95ec4a92ddc4e31e4bf5b4c005b3bec937"
+    },
+    {
+      "type": "Theme",
+      "name": "continent africain",
+      "id": "Theme_cd50f2dfb8b772e54766a8d2a1e28b1fef22d8a1923ca6fc69578353430c7987"
+    },
+    {
+      "type": "Country",
+      "name": "G20",
+      "id": "Country_426bf02a6b9c301287b2da3b161938c3a94aaf692b468dd4216b7706654fe863"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité internationale",
+      "id": "Theme_f2c907b4aceabebf6c9c90fa82209baa147570611d30a110e2bf7b66bd1b59c9"
+    },
+    {
+      "type": "Theme",
+      "name": "mondialisation plus juste",
+      "id": "Theme_1610cc180b24445fb3ad2dc0ebec2641a92a0305133fd1d495c2a9f807f9ac73"
+    },
+    {
+      "type": "Theme",
+      "name": "taxation des profits des multinationales",
+      "id": "Theme_26b9066aec9a26fe505ae179cd06357dea7af86416ee6f983d49b606fe9e7cc2"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité mondiale",
+      "id": "Theme_69b6e7694d72d606afc8a45479337484a5795a9252935cc9cf72026e70702c79"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Organization",
+      "name": "Unesco",
+      "id": "Organization_44cf334686fd664fecedb6944caa3782522449e029aa1a57346edd5f2ff5eebd"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation internationale de la Francophonie",
+      "id": "Organization_f06abfa6c5ae40b266c867322d6110d5af440aa772c7c5cab510d3f86feb79ad"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorism",
+      "id": "Theme_a348838fece2a9c780044dab4f291a936095c2be9a10ee5e2924e483e90652b2"
+    },
+    {
+      "type": "Theme",
+      "name": "démographie mondiale",
+      "id": "Theme_0bd2c0fba7a3fbdc104751805dfc9cd5685980277da3bbc331c6ba4fca5920b1"
+    },
+    {
+      "type": "Theme",
+      "name": "migrations",
+      "id": "Theme_cac93d346afb10556cd477074f8fd5e7de6a6b6e234704cdc92ccd1aae71876c"
+    },
+    {
+      "type": "Theme",
+      "name": "question démographique",
+      "id": "Theme_cb8ffb74dd90cbe7c827aa7bd73e2ab474644a39f70c51952ee104ce871a336f"
+    },
+    {
+      "type": "Theme",
+      "name": "tensions",
+      "id": "Theme_cba6267a0edb4b45de6f8ffdce822b9050ee187c12b3238bfe8a91fd4595d9f3"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Event",
+      "name": "COP26",
+      "id": "Event_e69a65b2074e540b5ff86bbbd0ab0f14581c32a7088a4afd0043457bf4fcdfea"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "justice climatique",
+      "id": "Theme_6fdc116d534ec444c14a486978783b54f6f20f16067b9bc2948ae690c7f7b8a6"
+    },
+    {
+      "type": "Theme",
+      "name": "100 milliards de dollars",
+      "id": "Theme_8cad11177542e9ced9b8f8c71edb1cad4ed6af7136813264eec6cae0ebbdcc9c"
+    },
+    {
+      "type": "Country",
+      "name": "Japon",
+      "id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    },
+    {
+      "type": "Country",
+      "name": "Corée du Sud",
+      "id": "Country_291690c49dec53d228d64b7573c269e9e06aeb9a8a85e7ad771343a89363a58e"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Theme",
+      "name": "écosystèmes",
+      "id": "Theme_b7d4587247892e61fe36d439de21be3110bf2430bb7ada367817d8861d45df2b"
+    },
+    {
+      "type": "Theme",
+      "name": "forêts tropicales",
+      "id": "Theme_56f0763a5a13c65cf420162400352184dd0443a243ff7de4e3ffe4774510d5b1"
+    },
+    {
+      "type": "Theme",
+      "name": "océans",
+      "id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "type": "Person",
+      "name": "Président Issoufou",
+      "id": "Person_811eeb77213c6b0883af441fdfd78409b7e0652b403d0af394c7cd49f5bf2edd"
+    },
+    {
+      "type": "Person",
+      "name": "Xi Jinping",
+      "id": "Person_99ed88f08de36d905de647d17f10a961ac301c5544f4432e1a832eca6c8adb41"
+    },
+    {
+      "type": "Person",
+      "name": "Biden",
+      "id": "Person_a6340ab64c46aeadd1097acfefb827e46a05d300bf00b1f9552a5a11a4bc9685"
+    },
+    {
+      "type": "Person",
+      "name": "von der Leyen",
+      "id": "Person_7ecadb921e073f1e4cad22bad4171dd07ba08b78183ee978ed19113794203019"
+    },
+    {
+      "type": "Organization",
+      "name": "plusieurs d'entre nous",
+      "id": "Organization_2ef1e5d91a7aa4714685f97107fdef5a61378a2ae998aae97b78382924541001"
+    },
+    {
+      "type": "Organization",
+      "name": "plusieurs organisations internationales",
+      "id": "Organization_f390930762b4c917884df3f99d41b57821a705c63fcd429a341b42e0fa96b8fa"
+    },
+    {
+      "type": "Theme",
+      "name": "financement climatique",
+      "id": "Theme_b79194e568089c486419fc70490658a6dca3e8c3401e01502c4102582cf0168c"
+    },
+    {
+      "type": "Theme",
+      "name": "finance juste",
+      "id": "Theme_2f38eb4c53d33ba9625e680c4987fa2056fcdc7d951ef278f82379467d2685a8"
+    },
+    {
+      "type": "Person",
+      "name": "le Président Biden",
+      "id": "Person_2b168af12364556f24b348f163570b145a2b280a184701015c1d9da8ad1693fc"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "finance climat",
+      "id": "Theme_b50454c4fd8ec0dc1ed624755371412a79860c11d4a651d9afe569bef09bd6ef"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence et de responsabilité",
+      "id": "Theme_5035c69a8be5bffe74bc3cd7c84b3eb240a0d93b950ea2b7e247df2ee8c4f990"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanisme de responsabilité",
+      "id": "Theme_103727e3894b90ab76b383fe2a33d62e03487a4bb506a9afe2ef58fb1e36eecf"
+    },
+    {
+      "type": "Theme",
+      "name": "crédibilité",
+      "id": "Theme_54614c8cd4a24192e52c3c7e6be0b6a027b9e193d7017b0c714ff3e9c1991da6"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Organization",
+      "name": "IPAC",
+      "id": "Organization_b7719a50c1c9f7d2e06c541eec515a1c153a102a7ee389c544da0bbfff783afb"
+    },
+    {
+      "type": "City",
+      "name": "Brest",
+      "id": "City_b8b2fe8f774eb8e0b0c96130393db97310dc549fba8a16f4944bf6c52d878f33"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs fondamentales",
+      "id": "Theme_70805a2b7bc4190a40bd913870592e4a83662b5419bbe69cbab5a4df67fe5a31"
+    },
+    {
+      "type": "Theme",
+      "name": "démocraties",
+      "id": "Theme_56cab7a53aa93e99087fecefd082e66c8d079b1bc5400d121f702e8873b1648d"
+    },
+    {
+      "type": "Theme",
+      "name": "combats existentiels",
+      "id": "Theme_8261abffac954bebb108bf50cbe037c925e34d43244370cec1371ce974ed18d8"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité des femmes",
+      "id": "Theme_4e2843fe6fd4a9d5dbd096ba61f82fa082897ff99b7516fc9f3ec3e588c9d23a"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité entre les femmes et les hommes",
+      "id": "Theme_b484a156d9d64e08166b13528c3fa60f7e66a7f8a085ad36db2ca83767aac644"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté d'expression",
+      "id": "Theme_acb0e9d3f3d2ce06e5a0aea13fc6160588104e35cb96880d570891860752245a"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de culte",
+      "id": "Theme_d25e7ce6fc0b51c23d45cb519eee66e13ff1010ae79e25a89f1377f798f0624c"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre toutes les formes de xénophobie et de racisme",
+      "id": "Theme_c2dab926ca0f609eb2cc6e225b400635517fdbd511036347d3c787f3ef19cad4"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémitisme",
+      "id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'Homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Theme",
+      "name": "droits des femmes",
+      "id": "Theme_b5ad4efe4e4ac8448e544bd4fd67401fff7ad3d2a8c6e3dc2122c3b47deb01a5"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité femmes-hommes",
+      "id": "Theme_b1412bfc5fe321352e19c1089b6777bc07a0d41d11ab4e4379792d47c6d6ee06"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomisation des femmes",
+      "id": "Theme_15c541d11a1de00d297b9906b3e899c8685240122e4d635ce83eecd5f26086e4"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation des filles",
+      "id": "Theme_4f921f934220129d7be91fe98625ccfe4a266b0d8a7e8c82c7fc11845dfabafe"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de santé sexuelle et reproductifs",
+      "id": "Theme_344eb23cb263bab6b2d08ed1505007e6f273cdf4d15ef442fb752da005888d06"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre les violences",
+      "id": "Theme_553e5e8302f0ddb064ba9b407a5db869d3097be8263d8bd62db67110a6fb574b"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien aux combattants de la liberté",
+      "id": "Theme_c3364e6da8f978e06c0b549e2783b01a146c26577bef18bbc6dcdb49c77f864d"
+    },
+    {
+      "type": "Country",
+      "name": "Afghanistan",
+      "id": "Country_5ea7a9152b57f52d563390097c0d7ee8c7520b1a7fb13ff16e8c8d519cc49736"
+    },
+    {
+      "type": "Theme",
+      "name": "réfugiés",
+      "id": "Theme_cf715922d34db7d0e7f0fe02ae9a4f01148012f4e89d37a68a21c0c18896705e"
+    },
+    {
+      "type": "Theme",
+      "name": "crises terroristes",
+      "id": "Theme_abb05761871300fc8967a35cfd892267495a342b40b9f3ba498c98ea083a6227"
+    },
+    {
+      "type": "Theme",
+      "name": "drames climatiques",
+      "id": "Theme_c37b1a3dc07a5173d4e01e425f87c89819c705195b664a036ac5ed4b8e3076d9"
+    },
+    {
+      "type": "Organization",
+      "name": "la Croix-Rouge internationale",
+      "id": "Organization_8dcf8a3cbd390ac16002e8422129ca2b2d9174accd37627eebaffad4875593a9"
+    },
+    {
+      "type": "Theme",
+      "name": "droits des enfants",
+      "id": "Theme_3ebe21f844e6cd926b4cf700764ea87a2bd4774e8f6394c829f7cd0a417cc119"
+    },
+    {
+      "type": "Theme",
+      "name": "espace numérique",
+      "id": "Theme_43443cd8a2db3e6d6472d1083d0467de20d291621bb7a3f882c9cabcf1ccdba5"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés",
+      "id": "Theme_2460d11dd8890d0086c346c7c4f9479cbb7c560ab3409a92f103572ef8fa5209"
+    },
+    {
+      "type": "Theme",
+      "name": "autoritarisme",
+      "id": "Theme_491f4de1404f61b1334d3fd67371cc3e8c0a7f23bd901e93328d5f812620b869"
+    },
+    {
+      "type": "Theme",
+      "name": "totalitarisme",
+      "id": "Theme_5a843b3d077b58e6ad3ed7b64e8c3d812857d43bb868908e1b4f14b255afb6e7"
+    },
+    {
+      "type": "Theme",
+      "name": "extrémisme",
+      "id": "Theme_04a5ca68e06a5a99d48caa71197568c87ea1d25a90c80f71fb7b95e4b9f351ac"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "droits",
+      "id": "Theme_7eb56e86691d574c7d0fa41bffcd50417ad7abbc021dc12800cf78099a3cc7c5"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda numérique",
+      "id": "Theme_788071557f10de8ab78fd539ad430a903215a9faa10c28a457648aa888dbe7b3"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre public du numérique",
+      "id": "Theme_cb7ab8b87eb3b1437ec79b91b896e2afdba651fec5ecdb5967fe121b143138d6"
+    },
+    {
+      "type": "Theme",
+      "name": "paix en ligne",
+      "id": "Theme_94d71554c5c7782b32a64eef6a7e48fcdd64e29a676b6f958da8e5765631b237"
+    },
+    {
+      "type": "Theme",
+      "name": "information",
+      "id": "Theme_ddeabf30715b206aae0b088fbc692b1adb356796e27cc30c97e2a7a1bd7a6ca3"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda démocratique numérique",
+      "id": "Theme_d58acf5b3fba2f0e3bc660e579303ed301d500061a0ce963456763face5cd0a8"
+    },
+    {
+      "type": "Theme",
+      "name": "nos valeurs",
+      "id": "Theme_ac01f31652b41cf7635ac7de13fca73f7a3423adfa456167f6ce54032ecea9f2"
+    },
+    {
+      "type": "Theme",
+      "name": "engagements",
+      "id": "Theme_554a26aec35e81e580ab9d2c7687a8b8f68c677d4623a5bb7acc53a20b14ae5c"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalisme",
+      "id": "Theme_d0f339441ee20ce073228a015cda668179f9e724fa0f925bc928aa3557010053"
+    },
+    {
+      "type": "Theme",
+      "name": "patriotisme",
+      "id": "Theme_087acc9b6c0e8015662dfef66f194239c6c87d3b7a1bdb126f4aa128ad0c4225"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération internationale",
+      "id": "Theme_f1c50b725549c07d125f90bd43162db61122bbdc0b4302fc683cdd91bd964215"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariats nouveaux",
+      "id": "Theme_22d25445c2a02ef46b3f35955e2d9cd8b7b52fc4899ac332107cb5e6de9d7aec"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "bouleversements",
+      "id": "Theme_6d10a08131e2c8fb2a33e9df74762e330394ec5c4c20267fa7ece989b63344ad"
+    },
+    {
+      "type": "Theme",
+      "name": "fractures sécuritaires",
+      "id": "Theme_b0c32728199025a9983f028a085f4f172c934b9bb6209bae2e921e2657f793a4"
+    },
+    {
+      "type": "Theme",
+      "name": "géopolitiques",
+      "id": "Theme_6d71f93a00da60b26b863f07394929f6141e2f22a44307086b74a91f418d657d"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme efficace",
+      "id": "Theme_f03160f5b87672d1977e142adae55629be170ec2f5f825d00e5bdbedecc7dcff"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle des armements",
+      "id": "Theme_07dd0ce8412bde7cf3f30ebedd1819206dda10d062670f043578d7b4f222b6e5"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération entre les grandes puissances",
+      "id": "Theme_6eaf04f672684ed1a5762783fd97bc5b44d5b2d6636a92102a7264a7c028094e"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la désorganisation du monde",
+      "id": "Theme_6bee6c0f2b65a19f8258996f0f5d66cf191f7b369053ff0bf0a3f566edd9b903"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle des armes",
+      "id": "Theme_42d9f0d77149395c099c703511c9a09e5188c0c52469b5e85a8b4bf6feebc9a1"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme de paix réinventé",
+      "id": "Theme_aff7dd42ababe301892cbd5caf16c6bb9392daf7025e57473b26e3d7626faf1e"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Forum de Paris sur la Paix",
+      "relation": "ANNOUNCED",
+      "target": "centenaire de la fin de la Première Guerre mondiale",
+      "evidence": "Le Forum de Paris sur la Paix, Trisha le rappelait tout à l'heure, est né le 11 novembre 2018, le jour du centenaire de la fin de la Première Guerre mondiale.",
+      "confidence": 1.0,
+      "source_id": "Organization_59251225fe628fdc3e20fc9cd5c2fa63bde332bdeb460e7039944c49056cf68e",
+      "target_id": "Event_72ce895470cd2ef4002bf61f743929d53225b31b2fb113bd3ff4896037764bda"
+    },
+    {
+      "source": "multilatéralisme",
+      "relation": "MENTIONS",
+      "target": "multilatéralisme",
+      "evidence": "redonner une force au multilatéralisme efficace",
+      "confidence": 1.0,
+      "source_id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91",
+      "target_id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "source": "COP",
+      "relation": "MENTIONS",
+      "target": "COP",
+      "evidence": "comme la COP cherche à le faire sur le climat",
+      "confidence": 1.0,
+      "source_id": "Theme_ecc0467318238b68f707ba9e6a2dac7bdfd1e5d4e82f1620e0b16e19d882ffbb",
+      "target_id": "Theme_ecc0467318238b68f707ba9e6a2dac7bdfd1e5d4e82f1620e0b16e19d882ffbb"
+    },
+    {
+      "source": "OMS",
+      "relation": "MENTIONS",
+      "target": "ACT-A",
+      "evidence": "l'accélérateur ACT-A et l'initiative rappelée tout à l'heure, nous l'avons vu, par le directeur général de l'OMS, cher Tedros",
+      "confidence": 1.0,
+      "source_id": "Organization_f4fd87f36b138eb90074550fbf1903ace44013d0b88bded488849d5b4439d0a9",
+      "target_id": "Organization_e2696e6790de4d4f83f0f53e114253e46d143fb43e149929598aa79140c0ce43"
+    },
+    {
+      "source": "OMS",
+      "relation": "MENTIONS",
+      "target": "Tedros",
+      "evidence": "l'accélérateur ACT-A et l'initiative rappelée tout à l'heure, nous l'avons vu, par le directeur général de l'OMS, cher Tedros",
+      "confidence": 1.0,
+      "source_id": "Organization_f4fd87f36b138eb90074550fbf1903ace44013d0b88bded488849d5b4439d0a9",
+      "target_id": "Person_27b2c2ded98d630377460b9a502aba62d91fa6cdc9c8095c111a43cfe6016368"
+    },
+    {
+      "source": "G7",
+      "relation": "ALLIED_WITH",
+      "target": "G20",
+      "evidence": "ces engagements du G7 et du G20 ne sont pas suffisants",
+      "confidence": 1.0,
+      "source_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2",
+      "target_id": "Country_426bf02a6b9c301287b2da3b161938c3a94aaf692b468dd4216b7706654fe863"
+    },
+    {
+      "source": "Union africaine",
+      "relation": "ALLIED_WITH",
+      "target": "Union européenne",
+      "evidence": "sommet entre l'Union africaine et l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac",
+      "target_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "source": "Afrique",
+      "relation": "LOCATED_IN",
+      "target": "Afrique",
+      "evidence": "La part de l'Afrique sur ces 650 milliards était de 33 milliards.",
+      "confidence": 1.0,
+      "source_id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b",
+      "target_id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "source": "Japon",
+      "relation": "ALLIED_WITH",
+      "target": "Corée du Sud",
+      "evidence": "Le G20 a pris il y a quelques jours l'engagement historique d'arrêter d'ici la fin de l'année tout financement international de centrales à charbon. C'est une révolution qui est la succession de décisions structurantes du Japon et de la Corée du Sud au printemps dernier",
+      "confidence": 1.0,
+      "source_id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7",
+      "target_id": "Country_291690c49dec53d228d64b7573c269e9e06aeb9a8a85e7ad771343a89363a58e"
+    },
+    {
+      "source": "Chine",
+      "relation": "ALLIED_WITH",
+      "target": "Corée du Sud",
+      "evidence": "Le G20 a pris il y a quelques jours l'engagement historique d'arrêter d'ici la fin de l'année tout financement international de centrales à charbon. C'est une révolution qui est la succession de décisions structurantes du Japon et de la Corée du Sud au printemps dernier, puis de la Chine.",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Country_291690c49dec53d228d64b7573c269e9e06aeb9a8a85e7ad771343a89363a58e"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "finance climat",
+      "evidence": "L'Europe avec 27 milliards de dollars de finance climat, chaque année, fait sa juste part",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Theme_b50454c4fd8ec0dc1ed624755371412a79860c11d4a651d9afe569bef09bd6ef"
+    },
+    {
+      "source": "OCDE",
+      "relation": "SUPPORTS",
+      "target": "IPAC",
+      "evidence": "Le mécanisme IPAC va permettre à l'OCDE d'évaluer chaque année les stratégies climatiques menées par les Etats et de voir si les actions sont au rendez-vous des engagements",
+      "confidence": 1.0,
+      "source_id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45",
+      "target_id": "Organization_b7719a50c1c9f7d2e06c541eec515a1c153a102a7ee389c544da0bbfff783afb"
+    },
+    {
+      "source": "la Croix-Rouge internationale",
+      "relation": "MENTIONS",
+      "target": "la Croix-Rouge internationale",
+      "evidence": "la Croix-Rouge internationale tout particulièrement",
+      "confidence": 1.0,
+      "source_id": "Organization_8dcf8a3cbd390ac16002e8422129ca2b2d9174accd37627eebaffad4875593a9",
+      "target_id": "Organization_8dcf8a3cbd390ac16002e8422129ca2b2d9174accd37627eebaffad4875593a9"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "William",
+      "id": "Person_43b14e68bdbb46dcdf1a49c05e472eb06de6aae8645684f72259bca609a06bd7"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "ambassadeurs",
+      "id": "Person_2e76c8ac436b2ae6c43ec4c8f0676398e5cbc3edfd5358bfd0c257bae6feb723"
+    },
+    {
+      "type": "Person",
+      "name": "chefs d'entreprise",
+      "id": "Person_65cd0e7c356c79ffcb1efeb9916284a379e08a7e0641f31238e5d81e46d4df05"
+    },
+    {
+      "type": "Person",
+      "name": "Aliko",
+      "id": "Person_a7332cef1b471ab33f07c23a6d17077ec0e42f9b8d3d79c9e26b35017dfa3481"
+    },
+    {
+      "type": "Person",
+      "name": "Président RUTO",
+      "id": "Person_e6974993dd7ac9988edb39cf86aa941d12d1474d79bab15a7880654d8bfb89b4"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Sommet Africa Forward",
+      "id": "Organization_ddecd111a349a777da998c0c58e8895305d25492573c5e14e6a87508958adb77"
+    },
+    {
+      "type": "Organization",
+      "name": "Inspire and Connect Africa Forward",
+      "id": "Organization_17f8b3051facd85e56aa413bf684b908f8d3893a68d57abdb29269afd0751be2"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Afric",
+      "id": "Country_06c2ae8833cdfb5a41d9ed7d17d616a11271ff6c8049b2257b68e1591e04aaa1"
+    },
+    {
+      "type": "Organization",
+      "name": "université",
+      "id": "Organization_a5c3614f5b6446015a3d4c1cc713fd650d6556f6f3cb7caee2828ec9bcf89b99"
+    },
+    {
+      "type": "Organization",
+      "name": "Monsieur le Président",
+      "id": "Organization_d2dd55fbd71491b47ef75c5b0ee0dddc3f1c0fd426612919b3d6a8217ace4978"
+    },
+    {
+      "type": "Organization",
+      "name": "BPI France",
+      "id": "Organization_a02fb5e07e90391cf524f5ea2aa5c5ec5df5bb1df4d2816a353b6ad4b8676c14"
+    },
+    {
+      "type": "Organization",
+      "name": "Business France",
+      "id": "Organization_a6c8c752a47385a5ca5cb511756c3e28bbc9675b1afd54f41f06e4b13f7b0a91"
+    },
+    {
+      "type": "Organization",
+      "name": "Proparco",
+      "id": "Organization_149aff3c5bd203e4abd49bc24c3898a01e6a40eaf81f80e91f7fe74c6c0ad5ac"
+    },
+    {
+      "type": "Organization",
+      "name": "MEDEF",
+      "id": "Organization_e773fd3926a09640d954acd859b36176e0b98a6274c6a39e749c06e47f3e27f7"
+    },
+    {
+      "type": "Organization",
+      "name": "CCI France internationale",
+      "id": "Organization_55a35d18a677dcea3d1b2bfde9f0a54230bd87b9b1c0792773125bc8df94fdfe"
+    },
+    {
+      "type": "Organization",
+      "name": "CCEF",
+      "id": "Organization_7da8950874b311cf0147afc9a9d4017dc37b299f40c5a94563ff8d2a17a3fc5b"
+    },
+    {
+      "type": "Organization",
+      "name": "CIAN",
+      "id": "Organization_ecf0fd0454cbee074f029379ee6f013ddedaa26028099726f742c7a117c8e91b"
+    },
+    {
+      "type": "Organization",
+      "name": "Alpha",
+      "id": "Organization_3c2229a7465c581793368dad39ce13219fcc7962228cd68613ce86988a66ecd0"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Asie du Sud-Est",
+      "id": "Country_6593de5b3ff3194ed88922d619b94585df21cddd79fb913afa7c53110b19e89e"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique francophone",
+      "id": "Country_82fbe766db0d645f9dc7e9f9e59d3ca11548b31ae14604dc136a9348e8fc1911"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique lusophone",
+      "id": "Country_51a3af04694f544afb573288d052b396477c2e575006b198a1d790b196ebf985"
+    },
+    {
+      "type": "Person",
+      "name": "RUTO",
+      "id": "Person_ee806c3ecc42c900271435002892c750d41e54a328f52bffe3a9dbbdbb4ba32c"
+    },
+    {
+      "type": "Theme",
+      "name": "business",
+      "id": "Theme_b12b175710190476386b54aecf4447ddb52e8c3f34c9660392b0eb3005792581"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructures",
+      "id": "Theme_d711aaaa56cea790c01e9aeb41b7659ac488b2a837642df3eed8eeb83ff64968"
+    },
+    {
+      "type": "Theme",
+      "name": "education",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Person",
+      "name": "Moussa Faki",
+      "id": "Person_95ac3d62858df9f0c15ed45e6236219aec651dd0e1c8292ca68eb47d125d75dc"
+    },
+    {
+      "type": "Person",
+      "name": "Cyril",
+      "id": "Person_5f584a92009e6f4dc7e4baebeb9d5c4ec6d5d450c41eb5a0710c6790a28560d0"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission de l'Union africaine",
+      "id": "Organization_ae6557f1d577be4c05945925a2592548c5a88c25737d9fd5b6c38951f85a4ae0"
+    },
+    {
+      "type": "Country",
+      "name": "Rwanda",
+      "id": "Country_a25a5ec05fe29e50db60bd3d8895a9d523027a5e3d736e345edbee00b92efec3"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique du Sud",
+      "id": "Country_18768cba57ae5abd3fb4a98f72c105af41db31822809e203889560cb72663272"
+    },
+    {
+      "type": "Country",
+      "name": "Nigeria",
+      "id": "Country_dec6d7826327dc7bafe39e959e4f081c81efc380c2b1cd786c364126e96624bd"
+    },
+    {
+      "type": "Country",
+      "name": "CEDEAO",
+      "id": "Country_e15f129157213ee789c7a3a0df7f7a5887d6a5e358b527fa6bb9e9b5d6ad5928"
+    },
+    {
+      "type": "Country",
+      "name": "Côte d'Ivoire",
+      "id": "Country_02a4cf0b159c169388d9cae695c5828d01927abf33bf75e323c8f187cdde6be9"
+    },
+    {
+      "type": "Country",
+      "name": "Sénégal",
+      "id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "type": "Country",
+      "name": "Kenya",
+      "id": "Country_534d003a91212b7d6f125c8c4307a1d02e847e28ea1580126b595d68ea4ee21e"
+    },
+    {
+      "type": "Country",
+      "name": "Maroc",
+      "id": "Country_9458e2c6babd2c77ac8b75ec4713e04d3bfb33730d88d692b0cae733d35375f3"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "emploi",
+      "id": "Theme_f9e3b354b23abc64b81c937b55f53be6839e7ac4cf4e571c63ce35f4a43b1603"
+    },
+    {
+      "type": "Theme",
+      "name": "embauche",
+      "id": "Theme_9d61779440be743c2b77cbee048f972ce7aacc3733bd1c5efdfc89055d838b27"
+    },
+    {
+      "type": "Theme",
+      "name": "logique verticale",
+      "id": "Theme_8e7751b018df6a8a99cf997b816025967b11ded8e5704c85c2669833e3fca4e7"
+    },
+    {
+      "type": "Theme",
+      "name": "logique d'égalité",
+      "id": "Theme_4db22fc204befabab07dd77a962f3ff61d13b5c3fc2d62a46ca5080d917ceade"
+    },
+    {
+      "type": "Theme",
+      "name": "co-investissement",
+      "id": "Theme_4f79b1fc1572ef1e7a3dcc58accfbb249f2c9246c85ee8a3aed6c83bb7de194f"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions d'avenir",
+      "id": "Theme_c9bc31d3b781b5fbabef4855ca888b8a478bfe6f91376038aa86a67da81509bf"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse",
+      "id": "Theme_81a49847c1c8f1bd845ba6cfc5ff284e480da96b0aaa5c8800f2b43396416788"
+    },
+    {
+      "type": "Theme",
+      "name": "mobile payment",
+      "id": "Theme_15b6280b76f4aa0b744262d929a9afe170d9486ac7f0055dbfeb52c8cec9fe8e"
+    },
+    {
+      "type": "Theme",
+      "name": "Africa Forward",
+      "id": "Theme_41763e0fc81ac9b532e70fe7edf1a927b9729c322564dbd918d54854d1a225bc"
+    },
+    {
+      "type": "Organization",
+      "name": "entreprises françaises",
+      "id": "Organization_b772cf0f7168d6aa11aebb69b151219c324584b4d912cd36c68776a4a9b807fb"
+    },
+    {
+      "type": "Organization",
+      "name": "ETI",
+      "id": "Organization_2b106cbb4089f56375cf1ffd335c86c87f6ea1a6cc4479d319688561795fdcaa"
+    },
+    {
+      "type": "Organization",
+      "name": "PME",
+      "id": "Organization_0acc90fd83b5f34eca1d95b6132906e873cb62c3c1450bdfd28204a0afdd60a0"
+    },
+    {
+      "type": "Organization",
+      "name": "Orange",
+      "id": "Organization_b0f09c6d81e9e8cc7af21bd30b82f1b9b4ee12487925312fefe715022c7d4f8a"
+    },
+    {
+      "type": "Organization",
+      "name": "Canal+",
+      "id": "Organization_34eff6b7ee74e380b1c4ac0988d0d175593dfb3c8aa55089782fcb34fce8e1c8"
+    },
+    {
+      "type": "Organization",
+      "name": "bioMérieux",
+      "id": "Organization_6a29f526ee20252412e239c9db7cb96b130bd259bf5ae86c3f88cb1ac9b61136"
+    },
+    {
+      "type": "Organization",
+      "name": "Castel",
+      "id": "Organization_5e2b62adaa614c8b0fbda98709ab637c2b9117491a2937a2129004119720dd46"
+    },
+    {
+      "type": "Country",
+      "name": "Benin",
+      "id": "Country_c3395c64119478dc1af6c765d093cbbe534bb2cd0360c733cb028110c15a0d93"
+    },
+    {
+      "type": "Person",
+      "name": "Jean",
+      "id": "Person_3f9a0f0d57b2aea4be8dddbe3eb07437c7ffdace90cb821fabc4c625ef09f85b"
+    },
+    {
+      "type": "Person",
+      "name": "Tony",
+      "id": "Person_abb17e8a233c19829e20c248982bc3f217d86b27f23e9fb8264f803c152f6c78"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert",
+      "id": "Person_5e927b90602aea0246c8e214280064004f2a8fe74ada4ff4ddd2954664c3805f"
+    },
+    {
+      "type": "Person",
+      "name": "Mike",
+      "id": "Person_bbe423c18d5b0915c87b7f1edd120cefc05af85df3bb20d2d6575b8ff083941c"
+    },
+    {
+      "type": "Person",
+      "name": "professeur Rabiou",
+      "id": "Person_2de5c86497f711c156fbdad881f35b0e1c2f3bf7517dcc8d77e2369a2a258852"
+    },
+    {
+      "type": "Organization",
+      "name": "conseil africain franco-nigérian",
+      "id": "Organization_307a24aad333dad7d5bb9c2764ebf7d1a1c02c13c068e348b6a0187994bbce1e"
+    },
+    {
+      "type": "City",
+      "name": "Évian",
+      "id": "City_40ee17ba3fe5cb7b00ec5510c998566aeb30ae5ea098f0c56d98a735161243c8"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence Française de Développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "Person",
+      "name": "Sa Majesté le Roi",
+      "id": "Person_87db3e81d8b57351337057cd7759f53633cdeed11e28fe18a7793297435bb597"
+    },
+    {
+      "type": "Country",
+      "name": "République démocratique du Congo",
+      "id": "Country_bc1a24090de24fab6442f08dbf4148857d73894e6844a8caee1c7bc95932470b"
+    },
+    {
+      "type": "City",
+      "name": "Congo-Brazza",
+      "id": "City_b554a4ca783fe0b42b19e211027c05b12f6bd17d7527c1f174b5f5b8a3b09f12"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire civil",
+      "id": "Theme_7d8b830a3b1cf040e39afa3e483124e2245eb4dd5b312bd12f2b498c458a1580"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "green",
+      "id": "Theme_22f7920d536e89fad30803ff105bb63fd41e92ca5a19b78a0326440e54b862df"
+    },
+    {
+      "type": "Theme",
+      "name": "structuration de l'économie",
+      "id": "Theme_36f8c2d07b5562d5d237b910dab3a0c76f47553131f1007c2802556aff79fdf9"
+    },
+    {
+      "type": "Organization",
+      "name": "vos gouvernements",
+      "id": "Organization_ba981b88b377ecf9c65ee45847f28ac2da0fc9fb25b3214f773462547d15af6f"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Country",
+      "name": "Africain",
+      "id": "Country_698477977960eea221b48ef749235cdb4b76cadf5c10309acc73346625c29054"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "montée dans l'économie formelle",
+      "id": "Theme_e909e4462a76de931d010f136ff87899bddbaf69de100b2a91521d2f247da4e0"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture intelligente",
+      "id": "Theme_b2a0930e9aff59936422f8ac1a0b413332a27ce533edccbe0c2aa07358cb150f"
+    },
+    {
+      "type": "Organization",
+      "name": "Sommet pour le financement des économies africaines",
+      "id": "Organization_6e83580180acc0a23772f1f5763221421b3cc13d582594fb86e5f969fb86f5cd"
+    },
+    {
+      "type": "Organization",
+      "name": "FMI",
+      "id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "type": "Theme",
+      "name": "financement des économies africaines",
+      "id": "Theme_0906f7dff06ffb7eb32c17b5af6fe1aee43a347121f2e817431a468ef9ca9756"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de tirage spéciaux",
+      "id": "Theme_397b448f932384538350c8fee4982c95ec4a92ddc4e31e4bf5b4c005b3bec937"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Event",
+      "name": "Pacte de Paris pour les peuples et la planète (4P)",
+      "id": "Event_8c1ff9c1a9b6046073814f80af6830c127e93031f95204b92a84ebcbc2b8441b"
+    },
+    {
+      "type": "Event",
+      "name": "table ronde",
+      "id": "Event_555d4c2a4aab2ed0f9908bd21a4469e6cead25ec6cfb39c7ee77e5191d3841f5"
+    },
+    {
+      "type": "Organization",
+      "name": "Programme MIGA",
+      "id": "Organization_cb94c44c151d6030567a46200133ae3939fdc3dd380ea6275a9fd1e2cffad91d"
+    },
+    {
+      "type": "City",
+      "name": "Kenya",
+      "id": "City_ef5f9a90daf7ee29a4a787281cdd470b2e1be94053c68541ea5f0ca284cc358c"
+    },
+    {
+      "type": "Theme",
+      "name": "notation",
+      "id": "Theme_c395cae4c3f76a516b46875996e2d85e6c1655178a0e39bffa6e72e41a391e2d"
+    },
+    {
+      "type": "Organization",
+      "name": "ATIDI",
+      "id": "Organization_92b3ae53e809fae62f76102663a5b23948347a7f02d65abb0b60cbac1da27791"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Organization",
+      "name": "Kenya",
+      "id": "Organization_0996793a132aa3fc7767028917a7b83a1194488cb63e028267f41422e6b33702"
+    },
+    {
+      "type": "Organization",
+      "name": "continent africain",
+      "id": "Organization_0031c4a48078554c8ebc6d2cd09cc0dd379f64a0e8b8f95681da9281a7612c0d"
+    },
+    {
+      "type": "Theme",
+      "name": "avenir",
+      "id": "Theme_752275fed70d66df4c9ab9e6eec017455785e5fd369f96596df6c71d3f12a5b7"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelle relation",
+      "id": "Theme_e8ccfce542e82c0013b6ba4fd800e8338be4051fac92266435eea864bbe15c11"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Afrique",
+      "evidence": "Le partenariat entre la France et l'Afrique a des fondations solides.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "source": "conseil africain franco-nigérian",
+      "relation": "LOCATED_IN",
+      "target": "Nigeria",
+      "evidence": "On a fondé ce conseil africain franco-nigérian.",
+      "confidence": 1.0,
+      "source_id": "Organization_307a24aad333dad7d5bb9c2764ebf7d1a1c02c13c068e348b6a0187994bbce1e",
+      "target_id": "Country_dec6d7826327dc7bafe39e959e4f081c81efc380c2b1cd786c364126e96624bd"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Europe",
+      "evidence": "la nouvelle relation entre la France, l'Europe, entre nous et le Kenya et tout le continent africain",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    }
+  ]
+}

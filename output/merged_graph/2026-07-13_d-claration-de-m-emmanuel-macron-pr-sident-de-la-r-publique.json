@@ -1,0 +1,733 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "l'hôtel de Brienne",
+      "id": "City_c5c5a1401f2c2bc9e05f5a253fda10cba9505527ab14765a7235971c2120b76b"
+    },
+    {
+      "type": "Person",
+      "name": "Clemenceau",
+      "id": "Person_394b5fbe6d2b8c1f74e0dea68ff2c3b8c092a212a6019de77f81776bb259eba5"
+    },
+    {
+      "type": "Person",
+      "name": "de Gaulle",
+      "id": "Person_37f95bd08a7aed96ec78152708e15ac7b0aeadf9b6ed76c9324554a4a27abf09"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Country",
+      "name": "Proche et Moyen-Orient",
+      "id": "Country_e0b323e9f3a1ca202741b7afa696c4252d461df07e8587577b8d55eea9f7a3ea"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie stratégique",
+      "id": "Theme_029a7236b3291ee261cba1740f38d69601586a351be77e7e7290bab2819fd644"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la ministre des Armées et des Anciens combattants",
+      "id": "Person_5c2fa9f1343808c6c1cac25d13b534810493f9755ed87a20704baf1f0fb9e927"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la ministre déléguée",
+      "id": "Person_f62569830517ba8d8cd5508370bc149eeeceddb75c3a1952579d7b67dcf7e4b1"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président de la Commission de la défense nationale et des forces armées de l'Assemblée nationale",
+      "id": "Person_48691e72f6244a4205a795c12a8616070cb6fd310e039ff2ac60fab2b4cd5210"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président de la Commission des affaires étrangères, de la défense et des forces armées du Sénat",
+      "id": "Person_0d8d17d8d724d4ad5f1d1065f0d36bc462432c62f36b8800a72aa680dd4b65d9"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le chef d'état-major des armées",
+      "id": "Person_1f83a1b709c29b766edb6b98978d332e04de52962a1652e0a4e20e351b1b05e0"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le délégué national de l'Ordre de la Libération",
+      "id": "Person_36c2f0e44ef9147bfaef1f09091064822dd2070faaeb0df006f0cb418f6e562a"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le délégué général pour l'armement",
+      "id": "Person_38ee4d4512a5653554542f76aca6918d970f3dd16d5af5aa1ce3c43f8d183ef5"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le secrétaire général pour l'administration",
+      "id": "Person_6dae685d039ea17079d1370c4caf93cd393dcd126cd4474bf3914b6b7b986c93"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "tournant historique pour nos Armées",
+      "id": "Theme_bd30ec3ee202c987e8b01d5870d55c9779b992bdc9c77c4af41cc0bebacfc160"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit des volontaires de l'an II",
+      "id": "Theme_daa57bfe8d0bd26551229d0b17a0f80c823d84e16c354e6be8808393831907ae"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "audace",
+      "id": "Theme_d706ab6b0cc320b9352b6bd4d2ad07220489fd740b0ab019594db8c8a3911770"
+    },
+    {
+      "type": "Theme",
+      "name": "budget de la défense",
+      "id": "Theme_5abcf0c3dfa9bfaa36e6eb97aa6a9ae35b27735325d16ed5d0b234f5c9f54965"
+    },
+    {
+      "type": "Theme",
+      "name": "effort de défense",
+      "id": "Theme_f57b65adfe4528555b7411deda4251818b567b6b5a468afd57c2eaf7f2b8590a"
+    },
+    {
+      "type": "Theme",
+      "name": "périls du monde",
+      "id": "Theme_8486352a59b4782f0c59e558b33e8fc6fddbdf60a75f1210d151af055fa3949b"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "grandeur de la France",
+      "id": "Theme_5571a1e208cbefc9aa30b2f40f3bceb46453b73ab73dd576c49c11622cc4cf3a"
+    },
+    {
+      "type": "Theme",
+      "name": "singularité",
+      "id": "Theme_d1dc211b5de2cd7df5a9e694635b6787ff5a95fcec38af17fa20e06b5d10e256"
+    },
+    {
+      "type": "Theme",
+      "name": "Étrange Défaite",
+      "id": "Theme_13b6dc2ff39927384508453ac6f22cffba1991757a5574faa1ebec206ead2540"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "budget des Armées",
+      "id": "Theme_5b236db8cc2084dd7da8f46e0dc886d8122765d7e938a2d3d4f2211e70fdde6b"
+    },
+    {
+      "type": "Theme",
+      "name": "zone euro",
+      "id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "type": "Country",
+      "name": "États membres de l'Union européenne",
+      "id": "Country_e8ca0864feb7d2c449ff7a49f2d80435b8118b415218453c10e585018a16b6d1"
+    },
+    {
+      "type": "Organization",
+      "name": "Armées",
+      "id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Law",
+      "name": "euro",
+      "id": "Law_4f9e9e47a6378be9bb5f011981b3b889e897453420b8b1d0613739772bdc347e"
+    },
+    {
+      "type": "Theme",
+      "name": "euro",
+      "id": "Theme_709528d8ce93bba87ada5be2754665013742700bb20381da4551b98a54e333b5"
+    },
+    {
+      "type": "Person",
+      "name": "Madame Catherine Vautrin",
+      "id": "Person_091fe8d35fd1a506152f733182a19b9572f5833de104dbd9fbfc094525899492"
+    },
+    {
+      "type": "Organization",
+      "name": "représentation nationale",
+      "id": "Organization_b85f54775564edf30d48c748f5a3afc358d5ecd8a6f321202b20dc73f6428584"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "dissuasion nucléaire",
+      "id": "Theme_58eeb47a4187adc35273d336dfd15dff2be146723e73c7047d28cd4f39ac63c9"
+    },
+    {
+      "type": "Theme",
+      "name": "combats",
+      "id": "Theme_7743f3c678c446384550fffe0c1e44b3dfe9d88bea4af764687221da1a9bce14"
+    },
+    {
+      "type": "Theme",
+      "name": "cyber",
+      "id": "Theme_6d4b4cf5c01dbbfbabd221911582a4deb29e1930ad8a912a311cb93cdc0f53ea"
+    },
+    {
+      "type": "Theme",
+      "name": "spatial",
+      "id": "Theme_be04ff49df6f9224cf87b09d0c072d2df359f83a584eeef7deff7e1835862166"
+    },
+    {
+      "type": "Theme",
+      "name": "maritime",
+      "id": "Theme_f08f7edea0cfbb698969e14637cac9dcd795da989e87cfd27128611e8729ffa4"
+    },
+    {
+      "type": "Theme",
+      "name": "résilience",
+      "id": "Theme_ae0698b8a130cd1cd5df43fe5e3e189eb0c16712f2fa72aeeed81640c8d2a14e"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveau régime d'état d'alerte",
+      "id": "Theme_2068b1c96b82636a58e095f20630663576cb10f8ee12dd1f5f274f53d0f74490"
+    },
+    {
+      "type": "Theme",
+      "name": "service national",
+      "id": "Theme_b8966b37212505fbd6a6e45168df80492e6fb5aa1b92f252d90ab84500e4b200"
+    },
+    {
+      "type": "Theme",
+      "name": "consolider cette force d'âme",
+      "id": "Theme_0b0df060a3408ea4f30e33b8307753693f21897172a1edd82b05d536f1abb86f"
+    },
+    {
+      "type": "City",
+      "name": "Invalides",
+      "id": "City_33a1cb8fb5b7d43349669b01390716ab905fe27d042b7aaacda78d40999fe5ec"
+    },
+    {
+      "type": "City",
+      "name": "Roumanie",
+      "id": "City_0e91cee5053599647cd1157271748e7d7382671f70b50ab67eb97de6ecb2db99"
+    },
+    {
+      "type": "Organization",
+      "name": "Coalition des Volontaires",
+      "id": "Organization_be8486f9bba8dc1fc697606320fe234154a7b494b8fa4602ca7bd091c7e5b389"
+    },
+    {
+      "type": "Organization",
+      "name": "Marine nationale",
+      "id": "Organization_7407237783f4b9b1ef18b190427227372b9fe900c27f2ff8249cb3a970d8a8a7"
+    },
+    {
+      "type": "Organization",
+      "name": "Armée de Terre",
+      "id": "Organization_1de9e8d57b6c5dc67995e0be6f7f5d2a6359309999fa59748145cfe6ee4681d6"
+    },
+    {
+      "type": "Person",
+      "name": "Nicolas Vaujour",
+      "id": "Person_525a3d6b7c914391fba0029dabfc6ce772e49ecd912834ae55b9936d1c81fd73"
+    },
+    {
+      "type": "Person",
+      "name": "Christophe Cluzel",
+      "id": "Person_f86b203f5c3d35590c8b3a48c27854ebd3207ae177d963eef41c5b5184e80db8"
+    },
+    {
+      "type": "Person",
+      "name": "Fabien Mandon",
+      "id": "Person_f238f334d916e4dd25698e231eb91d3f6590d502cbf8f0579cfbccae1aa8ff41"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre Schill",
+      "id": "Person_5866e385893adbf0146951b49901fe178f54e4816261427877390e0f77c1fe68"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "Theme",
+      "name": "subsidiarité",
+      "id": "Theme_d31550d4be24749d8ab400b894c400bdf42185bb43763a35521e7d48dd7f3f1e"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Émirats arabes unis",
+      "id": "Country_02da2051b5b49f4cccf63ff0675abe8e1fc2d1961a4264fcb31498ee4e262b19"
+    },
+    {
+      "type": "Country",
+      "name": "Qatar",
+      "id": "Country_e5da689c325f619f1d122e0f9316e196ec475beef981feeb9a11d61cf1162518"
+    },
+    {
+      "type": "Country",
+      "name": "Jordanie",
+      "id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad"
+    },
+    {
+      "type": "Country",
+      "name": "Finlande",
+      "id": "Country_07de2e54c1d716feb24d42a643c5de89dc1f04a79da8dcb0fd46d71f88bd7006"
+    },
+    {
+      "type": "Country",
+      "name": "Estonie",
+      "id": "Country_6ff0b5ecfc1dfa115390e0dbd3c73b3225e6b079de5c8428b3dad412d2b52103"
+    },
+    {
+      "type": "Country",
+      "name": "Lituanie",
+      "id": "Country_257f51b370c269015b5ddeb21595946140d68f6c4557dc04527717e006535460"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Country",
+      "name": "Irak",
+      "id": "Country_99792b4385035d3a51b12170d270a96604af5ab8e0945708f2a19bcc0e41b04c"
+    },
+    {
+      "type": "Organization",
+      "name": "Sentinelle",
+      "id": "Organization_4a61289569a171a17e8aa02c348f58245c53c1da3b84f90dc12448da9803a0b4"
+    },
+    {
+      "type": "Organization",
+      "name": "gendarmerie",
+      "id": "Organization_b95753ed271ade5dcf1b54deee1f75640b2715635daabd28dba268524f6e100e"
+    },
+    {
+      "type": "Country",
+      "name": "Takouba",
+      "id": "Country_9965aaf1332f302beb98850002a868e975bbbac83f45941c9a32862a9e610eae"
+    },
+    {
+      "type": "Country",
+      "name": "Canada",
+      "id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3"
+    },
+    {
+      "type": "Country",
+      "name": "Indo-Pacifique",
+      "id": "Country_a55ae030ae39d84c0e5d62898eb2b6889a5ad107aa2dcad5c81dddfcb2b1006c"
+    },
+    {
+      "type": "Country",
+      "name": "États",
+      "id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "type": "Person",
+      "name": "nos soldats français",
+      "id": "Person_f9f7f4e1a660b6e0fa4c9d226887044f49f779ca890722fc772cd5c836f989f4"
+    },
+    {
+      "type": "Person",
+      "name": "nos anciens combattants",
+      "id": "Person_a9417502a06d16c15240f200b4e369012eefc57c00dad87a3d26d2d018029225"
+    },
+    {
+      "type": "Person",
+      "name": "Madame Alice Rufo",
+      "id": "Person_4768099d031d0d99e291447cf32cef555f19c94d687bc43472598d94b64354d6"
+    },
+    {
+      "type": "Organization",
+      "name": "les grandes fédérations et les associations",
+      "id": "Organization_b1cb1248095b6b0c0b42b41fd519dc8b3e0292d5fc17b68870174cd7074f1581"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Institution nationale des Invalides",
+      "id": "Organization_023cdffb9502f694abe3f37ad65921255005989ac4d69cd448bbe877a4b0ee65"
+    },
+    {
+      "type": "Person",
+      "name": "le Haut Comité d'évaluation de la condition militaire",
+      "id": "Person_6d929448d59678d0b4e1d836835b8cd872e6f8bebe98e44b45d137134c86c4aa"
+    },
+    {
+      "type": "Person",
+      "name": "le secrétariat général des armées",
+      "id": "Person_6306700cd4c431f8b071c09000024fa29c56655c52f4f54ae3175b37328b9ad2"
+    },
+    {
+      "type": "Person",
+      "name": "le CEMA",
+      "id": "Person_27bca7e82e6ae0a42c8b814290a50d87bd7906ae29ab883759e23af45fd896a0"
+    },
+    {
+      "type": "Person",
+      "name": "les soldats de la France",
+      "id": "Person_8a608f86b4d97266e3d4f6d17d080e5f1e3eb6a4cac01e1b9315b97604338ada"
+    },
+    {
+      "type": "Person",
+      "name": "Sébastien Lecornu",
+      "id": "Person_269b67ad98596141ab2063c51f939f0c38cf53c8f278cf6b4388419cb8ba2acd"
+    },
+    {
+      "type": "Law",
+      "name": "loi de programmation militaire",
+      "id": "Law_33a7ceba1063d109ae9b37ebd3b66d0456905f4041a294907e5c29ef210f7d85"
+    },
+    {
+      "type": "Organization",
+      "name": "direction générale de l'armement",
+      "id": "Organization_5ae5938b5f686450f7e2a3b4e603e410e6cd2caa4b715b865a7e0d65dbbd520e"
+    },
+    {
+      "type": "Organization",
+      "name": "nos industriels",
+      "id": "Organization_4b6cf5bfab8f2e063bd5df2af96359d76fe52301cd44203129347da72472b522"
+    },
+    {
+      "type": "Theme",
+      "name": "réarmement",
+      "id": "Theme_4384e0f5eed1ff2fa351d11b29bef83ed55a909c29c85aaf308729e79915b9f0"
+    },
+    {
+      "type": "Theme",
+      "name": "agilité",
+      "id": "Theme_2ebec3e396946772ab8d693a843a3ac129d01d2123bb766375d105d4aa38debd"
+    },
+    {
+      "type": "Theme",
+      "name": "rusticité",
+      "id": "Theme_ca5aef6a373d3fc1f110bd6868ccfbec52d733d34f5c6439ec4dda4ba5fb8548"
+    },
+    {
+      "type": "Theme",
+      "name": "stock",
+      "id": "Theme_2b882f036e1add69f5cf95aa51264f6a60c0f1d967bf297f797833931556b59e"
+    },
+    {
+      "type": "Theme",
+      "name": "flux",
+      "id": "Theme_01a5ab1f1ea9f4fb0bd10b310ab582a45ca34c636f7e05227c93b655ae894faf"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité stratégique",
+      "id": "Theme_0a33745d93d7aeed955a6b5e1a51f8018887fd5023e0735864f3beeb4b566cda"
+    },
+    {
+      "type": "Theme",
+      "name": "adversaires",
+      "id": "Theme_317aa355bfba34b2b25b5e21bc49ff40112cce7258d9d1f33c1f11d145a96df7"
+    },
+    {
+      "type": "Theme",
+      "name": "économie de guerre",
+      "id": "Theme_fff4c7963d888cd4af7fe586f84f773820eabd0acb09464492d87d06cbe4fec2"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence internationale",
+      "id": "Theme_f7fa47ac0f7e4e6f4281a28d7b7c2b3dab074bdac853db172aceca9c23be4076"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds publics européens",
+      "id": "Theme_35f53e2d44302e831d12df97eb1fdb894949280e8a70d7592ff1c0e3233c55ef"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds publics nationaux",
+      "id": "Theme_b127feea25de241363e689074bab48d59e7eb9f45c4fc36dabb0f6a16761cae1"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds privés",
+      "id": "Theme_ffe1e292d0f2ba2eb76a1b88e339721079967e2b17a0bbe166647e02a75504b2"
+    },
+    {
+      "type": "Theme",
+      "name": "standards européens",
+      "id": "Theme_dc1bee7499669e44b92e80285bee94bf5a05542be58f0f49c5f516d03059a402"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence européenne",
+      "id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "type": "Theme",
+      "name": "domaine spatial",
+      "id": "Theme_c6f15faa43a20ff059e56dd716b84bc0d99adfd9285181aa35fc9c07254df174"
+    },
+    {
+      "type": "Country",
+      "name": "État français",
+      "id": "Country_63bc0e8a4e0aebf363d08d7326dcda8181f4f82a6a83ae2adabb859fd20f58df"
+    },
+    {
+      "type": "Organization",
+      "name": "SCAF",
+      "id": "Organization_ec8086fb48414cb81060508a5dcf78ea4bbe2d9d38a7da88e8f845bcc7143bf6"
+    },
+    {
+      "type": "Organization",
+      "name": "SAMP/T nouvelle génération",
+      "id": "Organization_e8e2f824a7b9584ee977d09b5c4e14001c2b65801ef2347aeab7af80cab9e213"
+    },
+    {
+      "type": "Organization",
+      "name": "JEWEL",
+      "id": "Organization_2918fb1c3b5568d4a98f8365d23b2995c528cc5bcfc806a5aa0ad642df2bbebe"
+    },
+    {
+      "type": "Organization",
+      "name": "KNDS",
+      "id": "Organization_272af183225c3208b4c1906a0bd9c835c4e09a28938bbc2071d3b01556f28f86"
+    },
+    {
+      "type": "Theme",
+      "name": "patriotisme",
+      "id": "Theme_087acc9b6c0e8015662dfef66f194239c6c87d3b7a1bdb126f4aa128ad0c4225"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalisme",
+      "id": "Theme_d0f339441ee20ce073228a015cda668179f9e724fa0f925bc928aa3557010053"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "armée",
+      "id": "Theme_2eeb8e10beac0248581a7d59931580b34c2366ec816e6e7ab0a1eefa508cf353"
+    },
+    {
+      "type": "Theme",
+      "name": "drone",
+      "id": "Theme_338ca9ff7b397ecd7864f0bae34c37084e68f508050284f1c9dc2329eb09b132"
+    },
+    {
+      "type": "Theme",
+      "name": "intercepteur",
+      "id": "Theme_7b4e1ed2a9620ba174d2a572ec7b446dfa077efabbc3f9c763cc2ef915aa2f0f"
+    },
+    {
+      "type": "Theme",
+      "name": "missile",
+      "id": "Theme_4c588760f30e6702cb5c66e951102349ea62129316e8a905b900222253402f5e"
+    },
+    {
+      "type": "Theme",
+      "name": "munition",
+      "id": "Theme_bf090a0ff35eab22b7bf91ed451d79e48554e1df6fbcb46eba3168fec90e4608"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvel ordre",
+      "id": "Theme_b75abe9780dd83d360b323a1a6de62e1b59d5a18fbda03a9baa9fc7786175bc4"
+    },
+    {
+      "type": "Person",
+      "name": "jeunesse de France",
+      "id": "Person_cd2833199f1913e18f9e7cb76fbc1606f29298fa3186227d8aa36335f89db351"
+    },
+    {
+      "type": "Person",
+      "name": "chef d'État-major des Armées",
+      "id": "Person_4e983ef223253b9f12943c9bea896a775a24fd5ae8501f1cc9117a503189e86d"
+    },
+    {
+      "type": "Person",
+      "name": "Mes chers compatriotes",
+      "id": "Person_b6b29c7b55b71aae52b700aaa89778c04669d873e35a8a1d54782abede5f747b"
+    },
+    {
+      "type": "Organization",
+      "name": "l'École de guerre",
+      "id": "Organization_a7e03bd4876b74fc1a0c1ba1d598d8822011a9a189105a347ef212c48457361a"
+    },
+    {
+      "type": "Country",
+      "name": "la France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "City",
+      "name": "Afrique",
+      "id": "City_e81979a21143817a99ac592e6ba21932628674ed0da410c41538620d061eb868"
+    },
+    {
+      "type": "City",
+      "name": "l'Indo-Pacifique",
+      "id": "City_96ff4315ca9953c0d16fc0059e036eeb855dffd8ec53c0167ddd64ddd81b369a"
+    },
+    {
+      "type": "City",
+      "name": "Place de la Concorde",
+      "id": "City_01b98aaa891f6ef1ed8b18354754a6ebd47c4f4950b389f64d39a21362211925"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "autonomie stratégique",
+      "evidence": "L'autonomie stratégique, cette indépendance dans l'analyse, dans la décision et dans l'action, cette liberté au fond, cette ambition pour notre pays et qui fait la grandeur de la France et sa singularité dans le concert des nations.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_029a7236b3291ee261cba1740f38d69601586a351be77e7e7290bab2819fd644"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "Étrange Défaite",
+      "evidence": "La France qui refuse l'esprit de ce que fut l'Étrange Défaite",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_13b6dc2ff39927384508453ac6f22cffba1991757a5574faa1ebec206ead2540"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "États membres de l'Union européenne",
+      "evidence": "Monnaie unique de plusieurs États membres de l'Union européenne qui forment la zone euro",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "Country_e8ca0864feb7d2c449ff7a49f2d80435b8118b415218453c10e585018a16b6d1"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "MENTIONS",
+      "target": "zone euro",
+      "evidence": "Monnaie unique de plusieurs États membres de l'Union européenne qui forment la zone euro",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "source": "euro",
+      "relation": "MENTIONS",
+      "target": "zone euro",
+      "evidence": "Monnaie unique de plusieurs États membres de l'Union européenne qui forment la zone euro",
+      "confidence": 1.0,
+      "source_id": "Theme_709528d8ce93bba87ada5be2754665013742700bb20381da4551b98a54e333b5",
+      "target_id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "États",
+      "evidence": "L'Europe est en train de devenir une puissance s'appuyant sur les États qui la constituent, respectueuse de leurs décisions souveraines, mais assumant de se défendre et d'agir unie",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "nos soldats français",
+      "evidence": "Ce prix du sang, payé par nos soldats français morts pour la France, blessés dans leur chair ou leur âme.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Person_f9f7f4e1a660b6e0fa4c9d226887044f49f779ca890722fc772cd5c836f989f4"
+    },
+    {
+      "source": "jeunesse de France",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "la jeunesse de France, qui a répondu présente à l'appel et qui rejoindra dès septembre nos rangs en effectuant dans les armées son service national",
+      "confidence": 1.0,
+      "source_id": "Person_cd2833199f1913e18f9e7cb76fbc1606f29298fa3186227d8aa36335f89db351",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

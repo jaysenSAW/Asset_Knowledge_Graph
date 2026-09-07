@@ -1,0 +1,110 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Olaf",
+      "id": "Person_d229232f531b082802aee4d927f98688b3e359e48ace9a63565596fb7896b1a8"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "Pékin",
+      "id": "Country_ec732655cb0c8953e37a5c258d76d6ec48c8219cd2d8d154aa8b81a54e21d747"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Biélorussie",
+      "id": "Country_d3816fb7d670df3cea12e7e8411d28852edf0204d5e8d3ae6ce239ee8c7380bb"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Event",
+      "name": "sommet du Partenariat oriental",
+      "id": "Event_ec4ff284ca58fea05fe8f995248abfe0c2f704d42fe8998140079eb78fd22035"
+    },
+    {
+      "type": "Theme",
+      "name": "protection des frontières extérieures communes de notre Union européenne",
+      "id": "Theme_a9d6bc58706baa77107bafc01b2d2b3b6f7d2b962fc5c6eb20ca13079966fb4e"
+    },
+    {
+      "type": "Person",
+      "name": "Angela MERKEL",
+      "id": "Person_077e47899275e1cda2b2d7e530bf5f66693f699c895edfd079b62025ba358a5f"
+    },
+    {
+      "type": "Theme",
+      "name": "Droits de l'Homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "City",
+      "name": "Bruxelles",
+      "id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Olaf",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "Cher Olaf, merci beaucoup d'être à Paris aujourd'hui",
+      "confidence": 1.0,
+      "source_id": "Person_d229232f531b082802aee4d927f98688b3e359e48ace9a63565596fb7896b1a8",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    }
+  ]
+}

@@ -1,0 +1,967 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Theme",
+      "name": "French language",
+      "id": "Theme_eca6fe4dbc19f7d7ec3f1e066e6fe9cbeb5be0e2e8fdf70bc7b14304eea41d7d"
+    },
+    {
+      "type": "Person",
+      "name": "I",
+      "id": "Person_9e28c097350851275626a0ce16e9ce0fef8decac076b4395d6e98eec815c95a9"
+    },
+    {
+      "type": "Country",
+      "name": "the country",
+      "id": "Country_0407f67ff34ac028c503200ba5a412f70b2b00260ab524fecc2e8470eda1cf20"
+    },
+    {
+      "type": "Organization",
+      "name": "European Union",
+      "id": "Organization_a81dc365313a55080c8d2f18e90b3882c392767f9ac76873ed6ab5b543bfa39a"
+    },
+    {
+      "type": "Theme",
+      "name": "defense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "security",
+      "id": "Theme_4b56ce67d4c5a67026f1f556010fba2f97aac07ff64634c134bd14667f783741"
+    },
+    {
+      "type": "Theme",
+      "name": "health",
+      "id": "Theme_6128ea731433046c330cc2537c3f226818f41703327351bb9235c4425d36c2b6"
+    },
+    {
+      "type": "Theme",
+      "name": "education",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructure",
+      "id": "Theme_56bf334af851c53637205b6d244369b7a79242b053c01761e47c234c7dac1b93"
+    },
+    {
+      "type": "Theme",
+      "name": "technology",
+      "id": "Theme_c0a23b3fac64886739301d898acc2668dc7f80a53316924f1982919c39c70343"
+    },
+    {
+      "type": "Theme",
+      "name": "economy",
+      "id": "Theme_f9358fa97ea2213017abc25ed201164819e0a2b5f218afa5cad94c5d1bf48c06"
+    },
+    {
+      "type": "Theme",
+      "name": "partnerships",
+      "id": "Theme_5302e103323b1ae5d0e35d855967749a40b047fa6777166d0071e135095dd91a"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomy",
+      "id": "Theme_952ee3a99acadf658671601b98342910d03a07fabdc42cb0de510203ade67477"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "oil",
+      "id": "Theme_b0036030e14c17cd4447c630bbb298325c5eee0c1609b0495b2d4999d165f391"
+    },
+    {
+      "type": "Theme",
+      "name": "connectivity",
+      "id": "Theme_9132507582641ec71eb16795f57040c9b97c06e8fe8b1a1356abced93e525e13"
+    },
+    {
+      "type": "Theme",
+      "name": "sovereignty",
+      "id": "Theme_901c26e2082f5fffe5a57734342df0927452ff5c01552a96f2e76712f25d0d99"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Russia",
+      "id": "Country_031b4c0bba521a2a2bc16583d5da802d72be999dee34152a72afb2f7fef838ef"
+    },
+    {
+      "type": "Country",
+      "name": "United Nations",
+      "id": "Country_198ed2bed8c7b378267cd6676a5200ed443c50dd891ea669186ba0a78442d784"
+    },
+    {
+      "type": "Country",
+      "name": "China",
+      "id": "Country_8510d524d4959df451ea3fc1026d9cb380f161193b0a7e9d2031795a417465ad"
+    },
+    {
+      "type": "Country",
+      "name": "US",
+      "id": "Country_2d6f2b5fb39dc77f66ac3844ca0d25b1367173f1b15e0d7cf449f86e70201adf"
+    },
+    {
+      "type": "Country",
+      "name": "Kazakhstan",
+      "id": "Country_7bddecb0e58513bcc33e23ee4d8a1959b1d8f1945e78e1da876c5a576c724f07"
+    },
+    {
+      "type": "Theme",
+      "name": "climate change",
+      "id": "Theme_1a83997547ded8b4fadf651543387fdee7f4ba4b57f6f8ec205ed8c71eb07899"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversity",
+      "id": "Theme_abcc9f46ac8362c44c15fafa5542a5e0053ba0d2349ab30b25e479ef0afb048a"
+    },
+    {
+      "type": "Theme",
+      "name": "digital world",
+      "id": "Theme_bccce43c0484e7c94a88a834208f99c686c4b6d98688781792cc42a613a99186"
+    },
+    {
+      "type": "Theme",
+      "name": "water",
+      "id": "Theme_cc462cd8137627c4d46feec3e762718a3e348b5d25d199516078a0c21082dec1"
+    },
+    {
+      "type": "Person",
+      "name": "Mister President",
+      "id": "Person_3d3412201f8628245288804c3ec7caa29a37452d49d21d671d506e62c7797e12"
+    },
+    {
+      "type": "Person",
+      "name": "Animatrice",
+      "id": "Person_bb94b89e7900c1c5c0acc209a621d253332d6d08d5e5fd835412f55629923574"
+    },
+    {
+      "type": "Person",
+      "name": "Etudiant",
+      "id": "Person_4bdeb62c4848df69dfb9b945b154ca9bd37e294d9e093992d7ee5369872a28e3"
+    },
+    {
+      "type": "Person",
+      "name": "Nikolaiev AIZIS",
+      "id": "Person_59014a68fb62f92d91ce87843af9c08302ef9a5db03f38383a343834ed6c71f0"
+    },
+    {
+      "type": "Person",
+      "name": "Etudiante",
+      "id": "Person_74d31a9857787b32293d41e17772338cf190a21895a293bf105dd8c0aa88e524"
+    },
+    {
+      "type": "City",
+      "name": "London",
+      "id": "City_ac0d7172d9a9383f50ade4fed809fbd33242299123e8bfa0835179f9c037bfca"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "Israel",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "European countries",
+      "id": "Country_fa805ac67398ebe28ced84bbd62c877ba3377604c34bfed6e8039db1e82e27b1"
+    },
+    {
+      "type": "Country",
+      "name": "Palestine",
+      "id": "Country_b1ebd722dd8ffa39d4f6ceb5282cae944d16f26dce1689b04cbaf84077610527"
+    },
+    {
+      "type": "Country",
+      "name": "Middle East",
+      "id": "Country_48efa913b6796b1223980de6811e849689f306a217b1dad36a65e8c90474cf71"
+    },
+    {
+      "type": "Country",
+      "name": "OECD",
+      "id": "Country_5107101e4c69f8bfc7862061d9c9e1b1647f0a329e4e3a5d4dd2e60a035055db"
+    },
+    {
+      "type": "Country",
+      "name": "India",
+      "id": "Country_38d776b96eda376e5b88dabed9bc4f5e6b30bb92635004584c784a13a642d86a"
+    },
+    {
+      "type": "Organization",
+      "name": "OECD+",
+      "id": "Organization_3b7a1b6fbd687e3e6dceda9986ca39edab3eb1a263c9400a1605a600bd9ff5fd"
+    },
+    {
+      "type": "Organization",
+      "name": "IMF",
+      "id": "Organization_d17a0de94dba24e45f856e3d4ea0d2552fa6185c2c4b89277cc093cadaad9a14"
+    },
+    {
+      "type": "Organization",
+      "name": "World Bank",
+      "id": "Organization_e7f26043b35927725da3612cf19e09ef1839dc836fc3c781384dbc8d878bc6f6"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Theme",
+      "name": "poverty",
+      "id": "Theme_600f0c6564919a714c755925c8ed0785b2155d3225f30da2ebe438634ff03edb"
+    },
+    {
+      "type": "Theme",
+      "name": "inequalities",
+      "id": "Theme_830017feab4ce5273f438e00b47408759a1adc9b38550087e8fa3e4a376640ad"
+    },
+    {
+      "type": "Country",
+      "name": "Middle-East",
+      "id": "Country_03737ec08ba2d5301ac2b585000fedf1542455787aa8eaa16deca60cce7d6d79"
+    },
+    {
+      "type": "Country",
+      "name": "Hamas",
+      "id": "Country_664ba06f90f7d7b4b326982afebee134092d48624510c1de058deb1ef0567bc3"
+    },
+    {
+      "type": "Country",
+      "name": "Jordan",
+      "id": "Country_4c4d2fd24ca3f7a3d4c1d84bc9d6a94f93db37b6319716d71c8222377bf10a86"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorism",
+      "id": "Theme_a348838fece2a9c780044dab4f291a936095c2be9a10ee5e2924e483e90652b2"
+    },
+    {
+      "type": "Theme",
+      "name": "political dialog",
+      "id": "Theme_f36fad57168037bb074466f0d7f41a73a876833e3dd6801fb6195309513b6ae6"
+    },
+    {
+      "type": "Theme",
+      "name": "peace process",
+      "id": "Theme_1eea4051334c50ed6c659b5e6082067fc6ed44b5cf435abb6a7f61a0a31386bd"
+    },
+    {
+      "type": "Theme",
+      "name": "universal value",
+      "id": "Theme_24884fa735c387fc8e143e64d4fa15ce5773ef430a8aa378f32515a207330796"
+    },
+    {
+      "type": "Theme",
+      "name": "human values and dignity",
+      "id": "Theme_f4b706530a16eb78af8f6eeafb9dac25b0a05b770a3825d64fd462fa318056a7"
+    },
+    {
+      "type": "Person",
+      "name": "Nirlan Ghazirzhybek",
+      "id": "Person_fa0062c21d377c0d03f82b07987964662eb9cfafeb792aa3358edd3522f019d4"
+    },
+    {
+      "type": "Organization",
+      "name": "our university",
+      "id": "Organization_a4f6c09c578b3110c84c226d1da73104ade81ee728e3938674f8ef9c4762e43e"
+    },
+    {
+      "type": "Organization",
+      "name": "United Nations Assembly",
+      "id": "Organization_c356a3ebc2d75102e3550174a24ec4f117840ced2a7ac60d446965163352c34f"
+    },
+    {
+      "type": "Event",
+      "name": "war in Ukraine",
+      "id": "Event_8909eafe1971ef1ad3aa7869427517d0dc1209b4ba00a4d7f643927b96b47036"
+    },
+    {
+      "type": "Theme",
+      "name": "age really doesn't matter",
+      "id": "Theme_21d0224d087b206272284197eaee1aa11b7358a8d2e7ef9d1f98dc39eb2f5cf1"
+    },
+    {
+      "type": "Theme",
+      "name": "proactive in public politics",
+      "id": "Theme_422ab75e8233d7d98db5926708c14a6cc67edcc5400e4994083e69e30d327916"
+    },
+    {
+      "type": "Theme",
+      "name": "rule of law",
+      "id": "Theme_e44b07e35c4bf9f310462c4108d954effed961ff2e0ff3749421f70c454e6322"
+    },
+    {
+      "type": "Theme",
+      "name": "rule of international law",
+      "id": "Theme_558651bd229c286ffc86b14cceb272ed46c3b04897484303ab04434be089902e"
+    },
+    {
+      "type": "Theme",
+      "name": "new European security order",
+      "id": "Theme_3eac12f6862d5e7c5e3ff4c392ff29a8ff65ef3eca13c898b54c4033b8bfa4af"
+    },
+    {
+      "type": "Theme",
+      "name": "legal reforms",
+      "id": "Theme_3befbee87fe77cfa8ccd692c3ca9260d83d66ddeac299863cff2a2e0b0f5fb75"
+    },
+    {
+      "type": "Person",
+      "name": "Damien",
+      "id": "Person_b59d8d9a699f65647b4267d1495abadae1faacbb0d986331977603663bc5802f"
+    },
+    {
+      "type": "Organization",
+      "name": "Sciences Po Toulouse",
+      "id": "Organization_6b2bcd53e472cde16362e76fef7c44a071b502b21005eb8f6dffcefd96499eb5"
+    },
+    {
+      "type": "Organization",
+      "name": "Danone",
+      "id": "Organization_ff6a694e36c7e0b8a8d9063e53e1c9189a56aa1e7f5abe61fec136fd99068da1"
+    },
+    {
+      "type": "Organization",
+      "name": "Edemia",
+      "id": "Organization_f2f75fe671a683e5b93b2711f462e36dca6df9a317622287fed67b5372db75d8"
+    },
+    {
+      "type": "Organization",
+      "name": "Alstom",
+      "id": "Organization_ee8b36951a3294d193f8090d5bede0b4bdd17668901dd2348838ccbe669910db"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "national interests",
+      "id": "Theme_a28e3d68ae3449ba4b8b678041786fa04f27971e4e65ac5299ac1b02e619d5cc"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "respect of international law",
+      "id": "Theme_9f2445bd976f59a193ea230d0e0df1b94f5361c1a8ace7814cd8174b9f8769fc"
+    },
+    {
+      "type": "Theme",
+      "name": "security of Europe",
+      "id": "Theme_9f74bcb39152c73b159ee0549b23f4ce37cef8b914d2336746f216c9130332ea"
+    },
+    {
+      "type": "Theme",
+      "name": "Russia",
+      "id": "Theme_8d7528f30a570f563b64126e2309625e65cee83f407bfa475b8f71246933875b"
+    },
+    {
+      "type": "Theme",
+      "name": "common legal and binding framework",
+      "id": "Theme_a5196ce2c82fdadc138d32e238ff53ba431a8dc4784d4357815f2b0e4a31e6f7"
+    },
+    {
+      "type": "Theme",
+      "name": "sustainable security",
+      "id": "Theme_1a54d07b2ea36727df62366943eaf1edb5046bdb0afe94204c6cb779da4878d7"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "division Nord-Sud",
+      "id": "Theme_6d0fc061c500020cecfb34900fa26c8f7caed83dd3afbedf2113f6ba49d5c777"
+    },
+    {
+      "type": "Theme",
+      "name": "droit international",
+      "id": "Theme_5ed1c962a2e6badfcec01090455d807b7559f5af1344fea3604e0c342da4d8f1"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité humaine",
+      "id": "Theme_a68e650cb082f90e106ea6655faf8989cb9854b36f5542c5c40eb1819a7d6ba1"
+    },
+    {
+      "type": "Theme",
+      "name": "respect des frontières",
+      "id": "Theme_cd5f88696252ade49c3e8c48445a4941b08d8ea16d1622769d695375c4b370ff"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté des peuples",
+      "id": "Theme_db90c010f400b36f54ed53a793bb35ee8af3327105f6ef714dd20dd7e973e375"
+    },
+    {
+      "type": "Theme",
+      "name": "ressentiment",
+      "id": "Theme_ce1c07cac0c46e166fe75b71adeedf4650bcb45fc85070ce3393b0bdb6f3d48c"
+    },
+    {
+      "type": "Theme",
+      "name": "frustration",
+      "id": "Theme_ff1390dafaf013a24895bdbe9b1d9dce6e6477db5ba97ed7b133c381b5c7c935"
+    },
+    {
+      "type": "Theme",
+      "name": "non alignés",
+      "id": "Theme_926f7b48b7bc00bc4ba413ff3e3e088e1abf60e6f4bba8bd531701d484f98b62"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "pays du Golfe",
+      "id": "Country_9b7442faa52ffeea8b97c4fa51ce02aca9d46dc947f005fc6cdd044e94825a36"
+    },
+    {
+      "type": "Theme",
+      "name": "division du monde",
+      "id": "Theme_a3d4c3d22662888c82134085e8b6ac897bf2db1fd756f6e04205416ef1d68cb7"
+    },
+    {
+      "type": "Theme",
+      "name": "relativisme de nos valeurs internationales",
+      "id": "Theme_48339932ab5493fc51583eccd79b47f859347b3eb6c62e9d7c50cc8043e5fefd"
+    },
+    {
+      "type": "Theme",
+      "name": "division du monde derrière de grandes puissances",
+      "id": "Theme_0fcda91f4d4df7a9404bf053009bf3ae78a5c306f5c0bbbfe487992b324e2206"
+    },
+    {
+      "type": "Theme",
+      "name": "discours politique",
+      "id": "Theme_9113f112c2f680f73282707e599734b360bd5cece768838b4716e0dcc9504222"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance économique et géopolitique",
+      "id": "Theme_7399fd2890244fc99328a59ea4a8bb641c85aaf4170b9e865837c0fa5dec0e38"
+    },
+    {
+      "type": "Organization",
+      "name": "Américains",
+      "id": "Organization_a7ae557303f344529102efa41a29a33645c780b50569877d161f7648723e7dcd"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique du Sud",
+      "id": "Country_18768cba57ae5abd3fb4a98f72c105af41db31822809e203889560cb72663272"
+    },
+    {
+      "type": "Country",
+      "name": "Barbade",
+      "id": "Country_91375ce33192beae81ff482a333212eca4b043c11e9962e7e861a68125f2106e"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Organization",
+      "name": "Your country",
+      "id": "Organization_72f4ce686828fd4424e65bf59896ee5e575425eb3013d30735466e5976fe0ecb"
+    },
+    {
+      "type": "Theme",
+      "name": "oil business",
+      "id": "Theme_06473dce62510e22d4b3f53ea5c887eac697573d96e1dc235d1af8e15d93a432"
+    },
+    {
+      "type": "Theme",
+      "name": "oil transformation",
+      "id": "Theme_425bb8ff0d222fd846afdf538ede5bd8d968595e7daee303e09cb3bcd0be6610"
+    },
+    {
+      "type": "Theme",
+      "name": "rare-earths",
+      "id": "Theme_4a7905da1c0e6d13f32f30dfb40b8d2755fd1c8e46fafcd7c62708e76ef224a1"
+    },
+    {
+      "type": "Theme",
+      "name": "critical minerals",
+      "id": "Theme_f14982a43fbfc804fd145a5b04b3a06a19356cc82c60499627c8aee0bddb67c7"
+    },
+    {
+      "type": "Theme",
+      "name": "lithium",
+      "id": "Theme_e450fdf7c5fe81d7a5c1358b44d3bfab1e8226b6727f734b826c2fdaef338e8d"
+    },
+    {
+      "type": "Theme",
+      "name": "uranium",
+      "id": "Theme_e22220ad9ef6b9d0a24545e5f62199bd015a0a2a1407fe5aa6e3ac20dd447f2f"
+    },
+    {
+      "type": "Person",
+      "name": "Mr. President",
+      "id": "Person_2affb71c5a325773b9f3f4d6889079f0575d1372b8ef0b948a46ddb70d75703e"
+    },
+    {
+      "type": "Person",
+      "name": "Shula",
+      "id": "Person_5f75a3d822b73dd3d4221180fdc0f8efb708610a7c98235209e1686c28c3cc5b"
+    },
+    {
+      "type": "Person",
+      "name": "Dordek",
+      "id": "Person_0fd39268aa545ca367544b622cef13a5f17a667062e1db098a1cc4b862ca161c"
+    },
+    {
+      "type": "Organization",
+      "name": "université de Sciences Po",
+      "id": "Organization_c782640cde58450217061df5d908c3783822601a0937313a82967dfafc99e7ce"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Gohar (phon)",
+      "id": "Person_435ae69092d62d6fb7468ceaa3a50a7c175064e3f13c5fdd6d3c919bca46e7f8"
+    },
+    {
+      "type": "City",
+      "name": "France",
+      "id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    },
+    {
+      "type": "Theme",
+      "name": "football",
+      "id": "Theme_1c726bd985ddb08a193bfd5ca8c801c8c5cea31e78bd9e767e35eb02955a92f7"
+    },
+    {
+      "type": "Theme",
+      "name": "mentalité",
+      "id": "Theme_cb1e8d88a02586eb44d52987d14eb239eb9e43b0144fd6332e073bf1999733df"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunes footballeurs",
+      "id": "Theme_82f2d71b52e412370f3033d64d7a3b4517d00a69e11d8ff0fb93f8867fc0279f"
+    },
+    {
+      "type": "Organization",
+      "name": "En marche !",
+      "id": "Organization_13b0d91531a3eefba10e8286e4a90329abc8c57e05572f91117b9df225284406"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité",
+      "id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Theme",
+      "name": "républiques sous régime communiste",
+      "id": "Theme_233e553a3702bfeb8db95dfd11c467e87f13365cb15fe287067815ee37667bc8"
+    },
+    {
+      "type": "Theme",
+      "name": "démocraties",
+      "id": "Theme_56cab7a53aa93e99087fecefd082e66c8d079b1bc5400d121f702e8873b1648d"
+    },
+    {
+      "type": "Theme",
+      "name": "politique sociale",
+      "id": "Theme_92347f6162dfa4d47aeb8d7946491ae5df51edd3e3581c13390550290dbc7924"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "principes d'action",
+      "id": "Theme_a7f17c335f8d3f76c3aead621e93b0961d67bd2e00eeb9521ff758c11d37e51a"
+    },
+    {
+      "type": "Theme",
+      "name": "république française",
+      "id": "Theme_2a00657b0b5010ca6cd3b58cb398dbf6b643f53363d1e24c3f63e63ed4c8a28e"
+    },
+    {
+      "type": "Theme",
+      "name": "gauche",
+      "id": "Theme_b624df96779f2b0909b43b88efc0d81e55e6c1b70aff312e38c7adc3dc51b233"
+    },
+    {
+      "type": "Theme",
+      "name": "droite",
+      "id": "Theme_7ccd38736cee89bdf9a5bdc69a6e67b729f63ee35071888d262587c48641f3c4"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Theme",
+      "name": "paralysée",
+      "id": "Theme_880bad133505c404bfdf1fe20e39a2cf7dc146acfc57b320562b27e22ebfea9b"
+    },
+    {
+      "type": "Theme",
+      "name": "apprentissage",
+      "id": "Theme_a825c3d9715d9e797a76e973ed9a9f8b1b16189f31a0ff11841496c69e1b3ff4"
+    },
+    {
+      "type": "Theme",
+      "name": "fiscalité",
+      "id": "Theme_8f3af7311a6bcfd253a580ecacd3fb0434ee40de042b8221f99b1b400f0a3b76"
+    },
+    {
+      "type": "Theme",
+      "name": "services publics",
+      "id": "Theme_9d23f2423869f33761b54988a51c02bcaaec512697b3c1f29a8001cba8569472"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "création",
+      "id": "Theme_a463f772ae14adf1d9f578edb8f3a9be473efc5135b65450d927e8cdeac7a890"
+    },
+    {
+      "type": "Theme",
+      "name": "entreprenariat",
+      "id": "Theme_76ad9bc9b5172ac0e0c0fe73b885dc54a90957e21e4a73713d2c2391226e8dec"
+    },
+    {
+      "type": "Theme",
+      "name": "inventivité",
+      "id": "Theme_ecdebf6cbe1d24be25e7f0ba1568527fc67cb64ffa0a0141e131ac0454bf044e"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre",
+      "id": "Theme_244f853f7768b172bfa360b452830e952b38961f6c116ca930bd4c844fe28eff"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôle",
+      "id": "Theme_56a9d80cc5c5f0db6a7fca8c1a2a686f455c689decc2e4e4abf4b873bfde1657"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "international relations",
+      "id": "Theme_ee44cd1978252ef1e4a1bca348a7cfb3c5731c5edb96fc5e19ee4a3088f44936"
+    },
+    {
+      "type": "Theme",
+      "name": "international law",
+      "id": "Theme_6cd1c841fbba2684398320fbb5516246e6201cf20400d593d5c0ef2d99e9d1f1"
+    },
+    {
+      "type": "Organization",
+      "name": "Narikbayev University",
+      "id": "Organization_f98563638ab69c425b298efb828134519a2720c5ccca9f71cc6638abcbfea8a5"
+    },
+    {
+      "type": "Theme",
+      "name": "freedom",
+      "id": "Theme_4842a4ae030c4b5e5dd58bf03c31ced33f514de40804df3e34ae1defc751e05a"
+    },
+    {
+      "type": "Theme",
+      "name": "equality",
+      "id": "Theme_182e5c471c76064f877aab04e137d8f3eabf2c02965ccc729ca29e47071d1b31"
+    },
+    {
+      "type": "Theme",
+      "name": "brotherhood",
+      "id": "Theme_5e24317f51fc03d1d1f72e4d0e512747f002794b9113861bbb6dafe7e65e88ae"
+    },
+    {
+      "type": "Person",
+      "name": "you",
+      "id": "Person_42e3b45c60dd57126989258b2f72ca5ad997ae0c79b80463e9f250727882b07f"
+    },
+    {
+      "type": "Organization",
+      "name": "universities",
+      "id": "Organization_e3e95beb94ea3cd4be1b5434c7f395fbd4072c56b3170234cb2459b15510d0e8"
+    },
+    {
+      "type": "Organization",
+      "name": "French universities or establishments",
+      "id": "Organization_f758255b451dafa6571107f739fb6e3c4177f822f7e05c7326a7d77f540a72cf"
+    },
+    {
+      "type": "Theme",
+      "name": "exchange program",
+      "id": "Theme_8226eb94359fb8ef2a978a69ba264753ddecd9fe59c10bfbffb278d379165b5e"
+    },
+    {
+      "type": "Theme",
+      "name": "studies",
+      "id": "Theme_d78429963c54b47bb36a9e1bb508db74fff5e0d583918ee01d833f5846c98334"
+    },
+    {
+      "type": "Theme",
+      "name": "language",
+      "id": "Theme_0c7e2ebe4403d16819e3b90b53fad7bcf4fad76d8c0cc2b4db40ab86adbb4f68"
+    },
+    {
+      "type": "Theme",
+      "name": "francophone",
+      "id": "Theme_3a176b51072f3d57f779cca9ee1e4734cc57980026adb7e34f256f4b2e6b1935"
+    },
+    {
+      "type": "Country",
+      "name": "a country",
+      "id": "Country_7e311b7195618c1e0cf77163a5d5450405e0231a0cd5135dd6f57bbf1e82121c"
+    },
+    {
+      "type": "Organization",
+      "name": "this university",
+      "id": "Organization_d21511bec4b586c60a5a440c3ad7a561f669aa2521feb2e0fa05c542127cfaf1"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "I",
+      "relation": "MEMBER_OF",
+      "target": "the country",
+      "evidence": "I'm president of the country",
+      "confidence": 1.0,
+      "source_id": "Person_9e28c097350851275626a0ce16e9ce0fef8decac076b4395d6e98eec815c95a9",
+      "target_id": "Country_0407f67ff34ac028c503200ba5a412f70b2b00260ab524fecc2e8470eda1cf20"
+    },
+    {
+      "source": "Kazakhstan",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "what are the prospects of Kazakhstani enterprises in domestic market of France?",
+      "confidence": 1.0,
+      "source_id": "Country_7bddecb0e58513bcc33e23ee4d8a1959b1d8f1945e78e1da876c5a576c724f07",
+      "target_id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "LOCATED_IN",
+      "target": "Russia",
+      "evidence": "If we are weak on Ukraine, and its own territory and its national integrity, I think this is a very bad news for all the neighbors of Russia",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Theme_8d7528f30a570f563b64126e2309625e65cee83f407bfa475b8f71246933875b"
+    },
+    {
+      "source": "Russia",
+      "relation": "ALLIED_WITH",
+      "target": "Russia",
+      "evidence": "I would not be super comfortable to be a neighbor of Russia",
+      "confidence": 1.0,
+      "source_id": "Theme_8d7528f30a570f563b64126e2309625e65cee83f407bfa475b8f71246933875b",
+      "target_id": "Theme_8d7528f30a570f563b64126e2309625e65cee83f407bfa475b8f71246933875b"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "SPOKE_ABOUT",
+      "target": "security",
+      "evidence": "I think the war in Ukraine is a war for our own security on the long run, but the security of the whole region",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Theme_4b56ce67d4c5a67026f1f556010fba2f97aac07ff64634c134bd14667f783741"
+    },
+    {
+      "source": "Kazakhstan",
+      "relation": "SPOKE_ABOUT",
+      "target": "national interests",
+      "evidence": "the positions taken by your president were both very bold, but very smart, regarding the national interests of Kazakhstan on the mid to long run",
+      "confidence": 1.0,
+      "source_id": "Country_7bddecb0e58513bcc33e23ee4d8a1959b1d8f1945e78e1da876c5a576c724f07",
+      "target_id": "Theme_a28e3d68ae3449ba4b8b678041786fa04f27971e4e65ac5299ac1b02e619d5cc"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "offering the Europeans the way to protect themselves",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "respect of international law",
+      "relation": "SPOKE_ABOUT",
+      "target": "security of Europe",
+      "evidence": "So 1) respect of international law is a precondition of the security of Europe.",
+      "confidence": 1.0,
+      "source_id": "Theme_9f2445bd976f59a193ea230d0e0df1b94f5361c1a8ace7814cd8174b9f8769fc",
+      "target_id": "Theme_9f74bcb39152c73b159ee0549b23f4ce37cef8b914d2336746f216c9130332ea"
+    },
+    {
+      "source": "Russia",
+      "relation": "SPOKE_ABOUT",
+      "target": "Russia",
+      "evidence": "2) Being sure that Russia will not win this war militarily.",
+      "confidence": 1.0,
+      "source_id": "Theme_8d7528f30a570f563b64126e2309625e65cee83f407bfa475b8f71246933875b",
+      "target_id": "Theme_8d7528f30a570f563b64126e2309625e65cee83f407bfa475b8f71246933875b"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "defense",
+      "evidence": "3) Having an actual Europe of defense to protect ourselves and our neighborhood.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "common legal and binding framework",
+      "evidence": "4) Having a common legal and binding framework in order to have a sustainable security for the whole Europe, being credible for those who should be protected and with a mechanism of transparency and reciprocity in order to be sure that you have not escalation from any part.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_a5196ce2c82fdadc138d32e238ff53ba431a8dc4784d4357815f2b0e4a31e6f7"
+    },
+    {
+      "source": "Chine",
+      "relation": "SPOKE_ABOUT",
+      "target": "puissance économique et géopolitique",
+      "evidence": "Parce que, quel que soit le discours politique des autres, la puissance économique et géopolitique qui s'installe est la Chine.",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Theme_7399fd2890244fc99328a59ea4a8bb641c85aaf4170b9e865837c0fa5dec0e38"
+    },
+    {
+      "source": "Alstom",
+      "relation": "MENTIONS",
+      "target": "Alstom",
+      "evidence": "Alstom a été citée tout à l'heure",
+      "confidence": 1.0,
+      "source_id": "Organization_ee8b36951a3294d193f8090d5bede0b4bdd17668901dd2348838ccbe669910db",
+      "target_id": "Organization_ee8b36951a3294d193f8090d5bede0b4bdd17668901dd2348838ccbe669910db"
+    },
+    {
+      "source": "liberté",
+      "relation": "MENTIONS",
+      "target": "égalité",
+      "evidence": "La liberté et l'égalité ensemble est une force parce que c'est une régulation permanente.",
+      "confidence": 1.0,
+      "source_id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e",
+      "target_id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "source": "égalité",
+      "relation": "MENTIONS",
+      "target": "liberté",
+      "evidence": "La liberté et l'égalité ensemble est une force parce que c'est une régulation permanente.",
+      "confidence": 1.0,
+      "source_id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786",
+      "target_id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "source": "républiques sous régime communiste",
+      "relation": "MENTIONS",
+      "target": "égalité",
+      "evidence": "Il y a des pays qui ont l'égalité sans la liberté. Ça fut par exemple le cas d'à peu près toutes les républiques sous régime communiste.",
+      "confidence": 1.0,
+      "source_id": "Theme_233e553a3702bfeb8db95dfd11c467e87f13365cb15fe287067815ee37667bc8",
+      "target_id": "Theme_6ff5a6c28d61d3c8b891168ff4163ba2bf48dda32fc55b578e637dd671403786"
+    },
+    {
+      "source": "démocraties",
+      "relation": "MENTIONS",
+      "target": "liberté",
+      "evidence": "Il y a beaucoup de pays qui ont la liberté sans l'égalité. C'est le cas de démocraties même aujourd'hui très libérales, qui n'ont pas de politique sociale.",
+      "confidence": 1.0,
+      "source_id": "Theme_56cab7a53aa93e99087fecefd082e66c8d079b1bc5400d121f702e8873b1648d",
+      "target_id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "source": "démocraties",
+      "relation": "MENTIONS",
+      "target": "politique sociale",
+      "evidence": "Il y a beaucoup de pays qui ont la liberté sans l'égalité. C'est le cas de démocraties même aujourd'hui très libérales, qui n'ont pas de politique sociale.",
+      "confidence": 1.0,
+      "source_id": "Theme_56cab7a53aa93e99087fecefd082e66c8d079b1bc5400d121f702e8873b1648d",
+      "target_id": "Theme_92347f6162dfa4d47aeb8d7946491ae5df51edd3e3581c13390550290dbc7924"
+    },
+    {
+      "source": "principes d'action",
+      "relation": "MENTIONS",
+      "target": "république française",
+      "evidence": "C'est ça, les trois principes d'action de la République française.",
+      "confidence": 1.0,
+      "source_id": "Theme_a7f17c335f8d3f76c3aead621e93b0961d67bd2e00eeb9521ff758c11d37e51a",
+      "target_id": "Theme_2a00657b0b5010ca6cd3b58cb398dbf6b643f53363d1e24c3f63e63ed4c8a28e"
+    }
+  ]
+}

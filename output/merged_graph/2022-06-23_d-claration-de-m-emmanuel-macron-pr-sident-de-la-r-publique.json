@@ -1,0 +1,162 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Olaf Scholz",
+      "id": "Person_7cf2dcc30d3aa074ce7408ccfda92d570e9ebc66f3f3a2c14ad98461cf11902b"
+    },
+    {
+      "type": "Person",
+      "name": "Mario Draghi",
+      "id": "Person_c58bde3fd314667de2e6e1406d078ae97fdf6f8e289722a3fa8dbf25e432cead"
+    },
+    {
+      "type": "Person",
+      "name": "Klaus Iohannis",
+      "id": "Person_76700c5c0cf42d210cdaee81606ef54b7d28b3a70e8dcff537350d14bed89e25"
+    },
+    {
+      "type": "Person",
+      "name": "Michel",
+      "id": "Person_ac9938878c7e5cc0d539c8f51b48c646dc89fa8148a7eea629e93eb5c96981a1"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Person",
+      "name": "Zelensky",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Moldavie",
+      "id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    },
+    {
+      "type": "Country",
+      "name": "Géorgie",
+      "id": "Country_a38e53f25dc17ba56e34f25dac0bd1320cab5e1847a90b817b7fc11f35777b75"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Macédoine du Nord",
+      "id": "Country_fb91200a1161735dd6d2574283f5a04cb7ff72db34387badb2946664d52f0583"
+    },
+    {
+      "type": "Country",
+      "name": "Albanie",
+      "id": "Country_7933b01c103ab008a5a551143eb5ed6e123541a3cac366f8229076928099e05d"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Country",
+      "name": "Balkans occidentaux",
+      "id": "Country_3312664190f53ae194c056f4d8b70cad1750c96de278aff51862dceeb579d7fc"
+    },
+    {
+      "type": "Country",
+      "name": "Serbie",
+      "id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Russie",
+      "relation": "ALLIED_WITH",
+      "target": "Ukraine",
+      "evidence": "qui est celui de cette guerre décidée par la Russie sur le sol ukrainien, contre l'Ukraine et son peuple",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "SPOKE_ABOUT",
+      "target": "Union européenne",
+      "evidence": "avec le Chancelier Olaf Scholz, le Président du Conseil Mario Draghi et le Président de la Roumanie Klaus Iohannis, nous avons pris cet engagement d'oeuvrer pour accorder ce statut de candidat à l'accession à l'Union européenne pour l'Ukraine",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "source": "Europe",
+      "relation": "SUPPORTS",
+      "target": "Moldavie",
+      "evidence": "avec le choix fait pour l'Ukraine et la Moldavie d'accorder ce statut de candidat à l'adhésion à l'Union européenne.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    },
+    {
+      "source": "Europe",
+      "relation": "ALLIED_WITH",
+      "target": "Moldavie",
+      "evidence": "avec le choix fait pour l'Ukraine et la Moldavie d'accorder ce statut de candidat à l'adhésion à l'Union européenne.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    }
+  ]
+}

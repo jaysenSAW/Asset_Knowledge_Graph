@@ -1,0 +1,653 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Lawrence",
+      "id": "Person_08f4c075473b6e4adf997e1fcc4eef2cda7cafcb9ba8d640c263b4719d9132bd"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier Ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président de la République",
+      "id": "Person_e86345b05d8782cfddaa96e93ade5433169a424e284eedc4c7f2b6b6bb49576c"
+    },
+    {
+      "type": "Person",
+      "name": "Lee Kuan Yew",
+      "id": "Person_7111335c488f197a77e17b118219630789e28893c060bd94152569686acf50d0"
+    },
+    {
+      "type": "Country",
+      "name": "Singapour",
+      "id": "Country_883176689a850297698f60d955cc7047468c4d52dd68f12710d7b44f6964e52e"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "paix robuste et durable",
+      "id": "Theme_71551713c54340e8f6b1aa9bed79d222e0e1e6db8ed00bf116d5ba65000a2ce8"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre international",
+      "id": "Theme_289a437b7ebd1758f517244ffb7920e1783b8884a6c25a392dab8d910194a767"
+    },
+    {
+      "type": "Country",
+      "name": "Palestinienne",
+      "id": "Country_5962f9067d2ff638ed9c36e85d98a1aa7733ae71733b1462d3a7b5741965b5c2"
+    },
+    {
+      "type": "Country",
+      "name": "Israéliens",
+      "id": "Country_521a51dfd685d0f89850e1b3012f2d93a538c5ed9f0dcbaab0e9b5cd6c7f370d"
+    },
+    {
+      "type": "Country",
+      "name": "Palestinien",
+      "id": "Country_5d10854d50c12bc956e0c6cbf169ceaed8b012a981dbc2a274a704d105ab52f8"
+    },
+    {
+      "type": "Country",
+      "name": "Indopacifique",
+      "id": "Country_883a51b2d7b4646e3c1c2a34abd8216d922245d1c9e7b8f079154f53f044fc84"
+    },
+    {
+      "type": "City",
+      "name": "Singapour",
+      "id": "City_8ba913021c902ae21b18a69e1a0a2e4a8f64c6f04e97ac7a35a53014c45ee212"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Theme",
+      "name": "Partenariats internationaux",
+      "id": "Theme_d350738a0b8ac081aab07fa1641fdf17683a1ef42a3b49edec47a2747ccd97ce"
+    },
+    {
+      "type": "Theme",
+      "name": "Réforme des institutions financières internationales",
+      "id": "Theme_6c2726aee36a900fc7916d261043557065389346e23e0348b89f63394ece79a7"
+    },
+    {
+      "type": "Theme",
+      "name": "Pacte pour la prospérité des peuples et de la planète",
+      "id": "Theme_b039289dd3d4432c0022f5e8aaefeb2cc42587d6d8e191828597ff66a093173a"
+    },
+    {
+      "type": "Theme",
+      "name": "Lutte contre la pauvreté",
+      "id": "Theme_ab8e8f859f334c17b54a9d9d0794df43cbbe9c994f1fd97114aaa4720284ff30"
+    },
+    {
+      "type": "Theme",
+      "name": "Lutte contre le changement climatique",
+      "id": "Theme_504686eaf9da17780b058a13a2594c933d7291c47e42289f4aad3ccb5bf3924b"
+    },
+    {
+      "type": "Theme",
+      "name": "Énergie civile nucléaire",
+      "id": "Theme_08da19dedc584be019135c09d25cac1ed6b24893f81df81eff68bd68f3289315"
+    },
+    {
+      "type": "Theme",
+      "name": "Énergie décarbonée",
+      "id": "Theme_2597cd6ed93bc4eb4293ecbd8fe02cf4290a526dc51777a1d026463889a89c87"
+    },
+    {
+      "type": "Theme",
+      "name": "Connectivité électrique",
+      "id": "Theme_c88b325012879704a588b266ecb0f552b1940e36114e1181dd22597a37834508"
+    },
+    {
+      "type": "Organization",
+      "name": "ASEAN Power Grid",
+      "id": "Organization_c4c8a526a4a5ed126769500e257b76f6d6dc7e166f99d1e425c902030d4146ff"
+    },
+    {
+      "type": "City",
+      "name": "Indonésie",
+      "id": "City_818a33e4a2d015e33c18c6dbf6b9f4bd15e9ad0adad8394938a5dbf20b2fa120"
+    },
+    {
+      "type": "City",
+      "name": "Cazaux",
+      "id": "City_2968e4c371579fc02e98c1b415f99f45b12ff680b791477637ea7d4134eb16bd"
+    },
+    {
+      "type": "Organization",
+      "name": "Temasek",
+      "id": "Organization_e7abf6b68fc7dc08c9b91ee1ba9eb8e21428aa8c896f114b944ef16427a74d01"
+    },
+    {
+      "type": "Person",
+      "name": "Choose France",
+      "id": "Person_667c56a73de915877be80e8bb3ef9ec587d3a9dbe7b6ded3773d6a99582d7e83"
+    },
+    {
+      "type": "City",
+      "name": "Asie du Sud-Est",
+      "id": "City_87a11718572c8c0267fad2402977cc21eab9cfcc31059117df01bde8a953163d"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "ASEAN",
+      "id": "Country_2c9450e95e5f75f01a883599fdedd1f6f281671a0ba428dac68087a9ce59a622"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "accords commerciaux",
+      "id": "Theme_e32647b8d72dcc7cff9b093e55f3349cae21e31b1738c2a62ed57f5e58b3d240"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariat transpacifique",
+      "id": "Theme_a8567bd6354917a426953ddd9c53e7fafb756472334a31ebe9a2e204f11fddde"
+    },
+    {
+      "type": "Theme",
+      "name": "commerce",
+      "id": "Theme_030aa67661fc7f420b2620eaa40b472d5e87b4aea26693aacbd98e388c58bb88"
+    },
+    {
+      "type": "Theme",
+      "name": "échange",
+      "id": "Theme_48895a359422c5ce427b83fdc9d6c341c0e15e08a4a23097a39a9fc48a41247d"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Organization",
+      "name": "CPTPP",
+      "id": "Organization_9173fea345731aa7fc9edfdba72919b92498538b3dd8d2e747fe9133e02544a9"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Organization",
+      "name": "ASEAN",
+      "id": "Organization_7f9d34bf282297a9d721f3c3a09d0ce8d7a87556e6bfa0b100b125e96bd4c356"
+    },
+    {
+      "type": "Organization",
+      "name": "Singapour",
+      "id": "Organization_fb2866d05aef3da259f7e08a4c9225aef0dfa2195ca7c73965ddcc7f3cc9828d"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Donald Trump",
+      "id": "Person_0733a79f3150052cccafd940cdbbd3c8e236062bb642b00d56f0ff8484ba3762"
+    },
+    {
+      "type": "City",
+      "name": "Kiev",
+      "id": "City_3a24ad0eca3d75099401ab5d6c0c64d5783ac0ba23b6fb1b4f257d3e923cb404"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "City",
+      "name": "Indopacifique",
+      "id": "City_ad4fda6b6ac769bc90b3e3f4a1b59fce1d5f3b5133d22a0822b6d06f9e31461b"
+    },
+    {
+      "type": "Country",
+      "name": "Indonésie",
+      "id": "Country_7771567a7a9b44f302b0f12f28ad9ee4fe89238f6364c4b0642d6454f3add126"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Emirats arabes unis",
+      "id": "Country_02da2051b5b49f4cccf63ff0675abe8e1fc2d1961a4264fcb31498ee4e262b19"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "crédibilité",
+      "id": "Theme_54614c8cd4a24192e52c3c7e6be0b6a027b9e193d7017b0c714ff3e9c1991da6"
+    },
+    {
+      "type": "Theme",
+      "name": "paix durable",
+      "id": "Theme_7f2a3ea855cc2d556d4a06a9259a5acf1687b182503a7617fa3fb25f1a55cdb8"
+    },
+    {
+      "type": "Person",
+      "name": "Starmer",
+      "id": "Person_a9d4a6f159ba9f0d3a36dc8115ce347e77882e4e3439b0e400bd17c68ebdaa42"
+    },
+    {
+      "type": "Person",
+      "name": "Merz",
+      "id": "Person_bdf9e290bbe0ced58f1f4e93ef8247f29d615616f9afe3d0aead130d7bf136ae"
+    },
+    {
+      "type": "Person",
+      "name": "Tusk",
+      "id": "Person_696b755e679c115c9f6fe644e17e8c4d0cb16d23fcedb9f3198454427354202f"
+    },
+    {
+      "type": "Person",
+      "name": "Zelensky",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "Person",
+      "name": "président américain",
+      "id": "Person_70076f261462efa158559047cdc744ec43f0b06682d0fc409a893e820e02f4d7"
+    },
+    {
+      "type": "Person",
+      "name": "le président Trump",
+      "id": "Person_fa178fdde9360ca435451f2988e210651a3c3151ee91fb7d29f534b5a1fcc686"
+    },
+    {
+      "type": "City",
+      "name": "Gaza",
+      "id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Israël",
+      "id": "Organization_d8ca6ed2c3f3582bc26fc74c25a799a9253b47fb4ef806e148d729659acd98e1"
+    },
+    {
+      "type": "Person",
+      "name": "le président Sissi",
+      "id": "Person_3df3ea109f92638d9fec80b9b69343cd4690564c024e38fc78cd7b1f0d686e37"
+    },
+    {
+      "type": "City",
+      "name": "El-Arich",
+      "id": "City_d48f80bc489d370098e5fdfc296220000d92b2d3dd4882efc6401485271f7c71"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Theme",
+      "name": "situation humanitaire",
+      "id": "Theme_e58adbc6b98975d7de15d2064ab308615193f9b9f03aa04eddb6fcb6caaed971"
+    },
+    {
+      "type": "Organization",
+      "name": "colons israéliens",
+      "id": "Organization_087f3277238f9e3139e4ef9fca2c1f826c98f6e60392c300a9c0d65edb5b8657"
+    },
+    {
+      "type": "Country",
+      "name": "Arabie saoudite",
+      "id": "Country_ba5ae4e1d0c1b62b96b20dbc4dfa5a4f386fc0140b81ffc4ec2b12c13be70858"
+    },
+    {
+      "type": "Person",
+      "name": "Prabowo",
+      "id": "Person_5a812f35a3439b0f089627c021a0764addb68f8a2c60efd802d6e10f05cdad14"
+    },
+    {
+      "type": "Country",
+      "name": "Palestine",
+      "id": "Country_b1ebd722dd8ffa39d4f6ceb5282cae944d16f26dce1689b04cbaf84077610527"
+    },
+    {
+      "type": "Organization",
+      "name": "Hamas",
+      "id": "Organization_5b6d0f92f49aab219651139d5508991f2fc27fd6b9372da1329d20e55cce795d"
+    },
+    {
+      "type": "Organization",
+      "name": "Autorité palestinienne",
+      "id": "Organization_ac952430f832dd0bb2ca92701bb2f210d525a8b881cc2a7710ba81cc32e46800"
+    },
+    {
+      "type": "Person",
+      "name": "Président Macron",
+      "id": "Person_15ae4a213d835ef7577798185bd607847949379bf71f008ed1e17c6105b05ad8"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "City",
+      "name": "Nouvelle-Calédonie",
+      "id": "City_cc4b506740f7c1968790c319d6f12845d814677cd83a29590ede16c2994049d5"
+    },
+    {
+      "type": "City",
+      "name": "Polynésie",
+      "id": "City_103d11482639dfde531a4dc1072ea2ddc0c4aad84839afc490792d292fce95c1"
+    },
+    {
+      "type": "City",
+      "name": "Wallis et Futuna",
+      "id": "City_3f024953c32079027f4cf25a383338953f870b0babcabadff09c2f5f2185a3f1"
+    },
+    {
+      "type": "City",
+      "name": "Réunion",
+      "id": "City_d430b37268f49a517af1ba43c391b87d171cbac56fd1a5a50d7b9459f8e5b245"
+    },
+    {
+      "type": "City",
+      "name": "Mayotte",
+      "id": "City_3dec527a64f181a960dc6a603b915acb2fd5fe3edc9a3709d2a6990c3fb25dc8"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie stratégique",
+      "id": "Theme_029a7236b3291ee261cba1740f38d69601586a351be77e7e7290bab2819fd644"
+    },
+    {
+      "type": "Theme",
+      "name": "Indopacifique",
+      "id": "Theme_4bbd75d9106097dcb54f6bd07cbad0a27cf0fca1aab5ada2e267e15621c39dc6"
+    },
+    {
+      "type": "Person",
+      "name": "Malcolm Turnbull",
+      "id": "Person_828e5dde30b66c1ee6d41cfed13bcb8282689a12a9bc9f88cbfd43357923489e"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Singapour",
+      "evidence": "la relation exceptionnelle que le père fondateur de Singapour, Lee Kuan Yew, a su tisser avec la France",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_fb2866d05aef3da259f7e08a4c9225aef0dfa2195ca7c73965ddcc7f3cc9828d"
+    },
+    {
+      "source": "Singapour",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "il y a une communauté de vues en la matière entre Singapour et la France",
+      "confidence": 1.0,
+      "source_id": "Organization_fb2866d05aef3da259f7e08a4c9225aef0dfa2195ca7c73965ddcc7f3cc9828d",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Singapour",
+      "evidence": "En tant que pays de l'Indopacifique, la France est aussi aux côtés de Singapour",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_fb2866d05aef3da259f7e08a4c9225aef0dfa2195ca7c73965ddcc7f3cc9828d"
+    },
+    {
+      "source": "Singapour",
+      "relation": "MEMBER_OF",
+      "target": "G20",
+      "evidence": "Singapour participe au G20 en tant qu'observateur",
+      "confidence": 1.0,
+      "source_id": "Organization_fb2866d05aef3da259f7e08a4c9225aef0dfa2195ca7c73965ddcc7f3cc9828d",
+      "target_id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la France présidera le G7 l'année prochaine",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "Singapour",
+      "relation": "LOCATED_IN",
+      "target": "Singapour",
+      "evidence": "Nous allons mettre en place une coopération dans l'énergie civile nucléaire pour accompagner Singapour dans sa montée en compétences",
+      "confidence": 1.0,
+      "source_id": "Organization_fb2866d05aef3da259f7e08a4c9225aef0dfa2195ca7c73965ddcc7f3cc9828d",
+      "target_id": "Organization_fb2866d05aef3da259f7e08a4c9225aef0dfa2195ca7c73965ddcc7f3cc9828d"
+    },
+    {
+      "source": "Temasek",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "Temasek a ouvert la voie en s'installant en France l'année dernière.",
+      "confidence": 1.0,
+      "source_id": "Organization_e7abf6b68fc7dc08c9b91ee1ba9eb8e21428aa8c896f114b944ef16427a74d01",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Union européenne",
+      "evidence": "Et la France sera toujours un soutien des efforts de l'Union européenne visant à renforcer les liens avec les pays de l'ASEAN en particulier dans le secteur économique via de nouveaux accords commerciaux",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "ALLIED_WITH",
+      "target": "ASEAN",
+      "evidence": "Et la France sera toujours un soutien des efforts de l'Union européenne visant à renforcer les liens avec les pays de l'ASEAN en particulier dans le secteur économique via de nouveaux accords commerciaux",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Organization_7f9d34bf282297a9d721f3c3a09d0ce8d7a87556e6bfa0b100b125e96bd4c356"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SUPPORTS",
+      "target": "ASEAN",
+      "evidence": "Et la France sera toujours un soutien des efforts de l'Union européenne visant à renforcer les liens avec les pays de l'ASEAN en particulier dans le secteur économique via de nouveaux accords commerciaux",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Organization_7f9d34bf282297a9d721f3c3a09d0ce8d7a87556e6bfa0b100b125e96bd4c356"
+    },
+    {
+      "source": "Singapour",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "la confiance qui nourrit l'agenda entre Singapour et la France",
+      "confidence": 1.0,
+      "source_id": "Organization_fb2866d05aef3da259f7e08a4c9225aef0dfa2195ca7c73965ddcc7f3cc9828d",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Indopacifique",
+      "evidence": "la France est un acteur de l'Indopacifique par nos territoires ultramarins",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_4bbd75d9106097dcb54f6bd07cbad0a27cf0fca1aab5ada2e267e15621c39dc6"
+    },
+    {
+      "source": "Indonésie",
+      "relation": "LOCATED_IN",
+      "target": "Inde",
+      "evidence": "Et de l'Indonésie à l'Inde",
+      "confidence": 1.0,
+      "source_id": "Country_7771567a7a9b44f302b0f12f28ad9ee4fe89238f6364c4b0642d6454f3add126",
+      "target_id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "source": "Emirats arabes unis",
+      "relation": "LOCATED_IN",
+      "target": "Inde",
+      "evidence": "Et de l'Indonésie à l'Inde, en allant jusqu'aux Emirats arabes unis",
+      "confidence": 1.0,
+      "source_id": "Country_02da2051b5b49f4cccf63ff0675abe8e1fc2d1961a4264fcb31498ee4e262b19",
+      "target_id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "source": "Singapour",
+      "relation": "LOCATED_IN",
+      "target": "Inde",
+      "evidence": "Et de l'Indonésie à l'Inde, en allant jusqu'aux Emirats arabes unis, nous avons déployé l'offre Rafale, l'offre de nos sous-marins. Nous avons l'intimité depuis 60 ans que nous avons décrite avec Monsieur le Premier Ministre avec Singapour et cette formation depuis 25 ans des aviateurs.",
+      "confidence": 1.0,
+      "source_id": "Organization_fb2866d05aef3da259f7e08a4c9225aef0dfa2195ca7c73965ddcc7f3cc9828d",
+      "target_id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "source": "Europe",
+      "relation": "PROPOSED",
+      "target": "crédibilité",
+      "evidence": "Je pense que c'est un test de crédibilité pour les Américains. Nous, Européens, depuis 3 ans, nous sommes constants.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_54614c8cd4a24192e52c3c7e6be0b6a027b9e193d7017b0c714ff3e9c1991da6"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Arabie saoudite",
+      "evidence": "La France, avec l'Arabie saoudite, coorganisera au mois de juin, donc le 18 juin prochain, cette conférence.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_ba5ae4e1d0c1b62b96b20dbc4dfa5a4f386fc0140b81ffc4ec2b12c13be70858"
+    },
+    {
+      "source": "Prabowo",
+      "relation": "SPOKE_ABOUT",
+      "target": "Palestine",
+      "evidence": "le président Prabowo, qui a rendu publique sa position avant-hier et qui est pour moi un point très important, puisqu'il a marqué sa volonté, le jour où l'État d'Israël sera prêt à reconnaître la Palestine, de reconnaître lui-même Israël, ce qui n'est pas le cas, et de reconnaître aussi, évidemment, son droit à vivre en paix et en sécurité dans la région.",
+      "confidence": 1.0,
+      "source_id": "Person_5a812f35a3439b0f089627c021a0764addb68f8a2c60efd802d6e10f05cdad14",
+      "target_id": "Country_b1ebd722dd8ffa39d4f6ceb5282cae944d16f26dce1689b04cbaf84077610527"
+    },
+    {
+      "source": "Prabowo",
+      "relation": "SPOKE_ABOUT",
+      "target": "Israël",
+      "evidence": "le président Prabowo, qui a rendu publique sa position avant-hier et qui est pour moi un point très important, puisqu'il a marqué sa volonté, le jour où l'État d'Israël sera prêt à reconnaître la Palestine, de reconnaître lui-même Israël, ce qui n'est pas le cas, et de reconnaître aussi, évidemment, son droit à vivre en paix et en sécurité dans la région.",
+      "confidence": 1.0,
+      "source_id": "Person_5a812f35a3439b0f089627c021a0764addb68f8a2c60efd802d6e10f05cdad14",
+      "target_id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "source": "Prabowo",
+      "relation": "SUPPORTS",
+      "target": "Palestine",
+      "evidence": "le président Prabowo, qui a rendu publique sa position avant-hier et qui est pour moi un point très important, puisqu'il a marqué sa volonté, le jour où l'État d'Israël sera prêt à reconnaître la Palestine, de reconnaître lui-même Israël, ce qui n'est pas le cas, et de reconnaître aussi, évidemment, son droit à vivre en paix et en sécurité dans la région.",
+      "confidence": 1.0,
+      "source_id": "Person_5a812f35a3439b0f089627c021a0764addb68f8a2c60efd802d6e10f05cdad14",
+      "target_id": "Country_b1ebd722dd8ffa39d4f6ceb5282cae944d16f26dce1689b04cbaf84077610527"
+    },
+    {
+      "source": "Prabowo",
+      "relation": "SUPPORTS",
+      "target": "Israël",
+      "evidence": "le président Prabowo, qui a rendu publique sa position avant-hier et qui est pour moi un point très important, puisqu'il a marqué sa volonté, le jour où l'État d'Israël sera prêt à reconnaître la Palestine, de reconnaître lui-même Israël, ce qui n'est pas le cas, et de reconnaître aussi, évidemment, son droit à vivre en paix et en sécurité dans la région.",
+      "confidence": 1.0,
+      "source_id": "Person_5a812f35a3439b0f089627c021a0764addb68f8a2c60efd802d6e10f05cdad14",
+      "target_id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "États-Unis",
+      "evidence": "La France est-elle en mesure de jouer un rôle dans la rivalité entre les États-Unis et la Chine dans la région ?",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "États-Unis",
+      "evidence": "La France est-elle en mesure de jouer un rôle dans la rivalité entre les États-Unis et la Chine dans la région ?",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    }
+  ]
+}

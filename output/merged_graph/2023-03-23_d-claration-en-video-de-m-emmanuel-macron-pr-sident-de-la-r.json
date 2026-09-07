@@ -1,0 +1,140 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Union africaine",
+      "id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "type": "Organization",
+      "name": "MEDEF",
+      "id": "Organization_e773fd3926a09640d954acd859b36176e0b98a6274c6a39e749c06e47f3e27f7"
+    },
+    {
+      "type": "Person",
+      "name": "Président du MEDEF",
+      "id": "Person_d42df1d7d2cc4e0c0e4e1babf56e1a1f07dcd26e78634e3a1bb5b693c1f117a4"
+    },
+    {
+      "type": "Event",
+      "name": "stratégie dite Global Gateway",
+      "id": "Event_8fbad86a26db22053cf13919f78e8f89105d4f13d01ef7b2fdb80072985c01de"
+    },
+    {
+      "type": "Event",
+      "name": "sommet que nous tenions à Bruxelles entre l’Union africaine et l’Union européenne",
+      "id": "Event_331e69ff303d753e60803866119153dcd7c2dd393e0ecb08c4b01a2d54a27556"
+    },
+    {
+      "type": "Theme",
+      "name": "transition énergétique",
+      "id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "démarche",
+      "id": "Theme_d0289317314813ae0e511b90cc38bbff836823e063cfdcc0f201ddf74cbf6e42"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur privé",
+      "id": "Theme_66d69cc294f2361735f18a9b2b14ede83bdf940a6e5787c327a2ba13fd1e2893"
+    },
+    {
+      "type": "Theme",
+      "name": "continent africain",
+      "id": "Theme_cd50f2dfb8b772e54766a8d2a1e28b1fef22d8a1923ca6fc69578353430c7987"
+    },
+    {
+      "type": "Theme",
+      "name": "ville durable",
+      "id": "Theme_40e1b118aaab66fd2b1baf72f0913d394fbe6b08c251bdf82edcabd455acfea2"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Theme",
+      "name": "équipe Europe",
+      "id": "Theme_7d28de547e4f02f1ec66dcf96bad4230973ac259284d279be70b0dc3f3156e93"
+    },
+    {
+      "type": "Theme",
+      "name": "Nouveau Pacte financier mondial",
+      "id": "Theme_8e603821e21955369bd1ef2af67662fadbbb43df7eaaa7d7b0c0a09521cc7792"
+    },
+    {
+      "type": "Theme",
+      "name": "co-industrialisation",
+      "id": "Theme_c3881ed390769f1f01960ab87c6a288349589a64a5c3b16a210f5476acef06bd"
+    },
+    {
+      "type": "Person",
+      "name": "Ministre délégué",
+      "id": "Person_56b8239b234ac4b7bfb965a5fad1f81317df5f4744f267010ec958b7052b2f00"
+    },
+    {
+      "type": "Person",
+      "name": "Secrétaire d’Etat",
+      "id": "Person_115241ed61a23cabd150dbe054bea15a304a90327944bcf7678d32388625e2df"
+    },
+    {
+      "type": "Person",
+      "name": "nos collègues des institutions européennes",
+      "id": "Person_4697387f080ab252fbf789e1fe012e2f37f67dd1b2968407c88e2d718267dbff"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Union européenne",
+      "relation": "ANNOUNCED",
+      "target": "stratégie dite Global Gateway",
+      "evidence": "l’Union européenne annonçait la stratégie dite Global Gateway",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Event_8fbad86a26db22053cf13919f78e8f89105d4f13d01ef7b2fdb80072985c01de"
+    }
+  ]
+}

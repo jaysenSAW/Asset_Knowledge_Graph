@@ -1,0 +1,651 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le garde des Sceaux",
+      "id": "Person_3a9ca4bad19763e4fa70d4fb81dc6870f24cd3e0d3c8d6fe6f296ee547fe844b"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les parlementaires",
+      "id": "Person_513d1485982528e0834eb4f4c38b73da53f9e4817cd30f728fe27e32d9fc11d3"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les préfets",
+      "id": "Person_95d689a5bc09a213cd3d0451ad7d8dd9a394c3b42759720116a074cf1754aa31"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les élus",
+      "id": "Person_7833a9b44c2450547e64d05df991f8cd7c836ff98f0ee519809efff7677baa73"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le maire de Saint-Ouen",
+      "id": "Person_dd097c5246fb7ec66f6cb824e07e82991e60bb1ee73619ed01a2cefbff603ae1"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Directrice générale",
+      "id": "Person_1f36d9d1dfda127e323341a112da647c9c3147dfbb2519bd416ca34ec413df47"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le directeur",
+      "id": "Person_a72eada1ec2002512e5b2debfc8141db7f0771fd002e532e9f3bfcc893ac1e33"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les présidents",
+      "id": "Person_b03cd716dc7b2042992f70666d8b7b496761d600107a7d254446579ffcde27b6"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs",
+      "id": "Person_625fe3a313c056b9dc1724205255b9a7767c4b46670f91284ff4a20cb9382408"
+    },
+    {
+      "type": "Person",
+      "name": "la préfète de région",
+      "id": "Person_be158ade44f7eb65eff958c6a869abf0e313f9487865291edce0a4c025ed4e48"
+    },
+    {
+      "type": "Person",
+      "name": "toutes les associations",
+      "id": "Person_a67ad3aaca6bd4ccd592114a5b0437a38222b6aa6d8f00dde300e54b4589f8ec"
+    },
+    {
+      "type": "Person",
+      "name": "des victimes du terrorisme",
+      "id": "Person_02b8c74c3b04b87c0330e4f07e7c5299afdfa9a252c878cc72a17a34dab3ffb8"
+    },
+    {
+      "type": "Person",
+      "name": "chaque jour que vous conduisez",
+      "id": "Person_5a05bedf14946156477d5e21ca9cf94b0a64f808b9f48b865bc828a7e4339ae8"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "votre travail avec l'ensemble de vos homologues",
+      "id": "Organization_16b4a6c2e6e41ac2123101cccffe4e618232fbd861f6ff1b85cdebb1974a67ac"
+    },
+    {
+      "type": "Organization",
+      "name": "les préfets sur le terrain",
+      "id": "Organization_a8447f868f163f371142c4e605b823de657934dfa38d3c56f6c7467a1b6895d7"
+    },
+    {
+      "type": "Event",
+      "name": "les 9 attentats déjoués en 2024",
+      "id": "Event_58231380b7da63f3e7799de66f90913ab96e8b8b5363042385a7982e669f5653"
+    },
+    {
+      "type": "Event",
+      "name": "l'organisation des Jeux olympiques et paralympiques",
+      "id": "Event_9814eb447703f354ca8404ffadeee8ce12f26884ef5fcaa4dfae0fdbdd308fc6"
+    },
+    {
+      "type": "Event",
+      "name": "la réouverture de Notre-Dame",
+      "id": "Event_b13eb705cbbdcd8cb00677f18370f60d4525ef011ed787d4320f61ef9e6b41f2"
+    },
+    {
+      "type": "City",
+      "name": "Strasbourg",
+      "id": "City_aa11677b0eceda0a1a5c819294f251193f8da741293fef8eef09bee04f4b354a"
+    },
+    {
+      "type": "City",
+      "name": "Mulhouse",
+      "id": "City_0fe0094aebde69d58d2dec6f9908158c0dfcd12dadd8a2c2adb8d20d1393ab4a"
+    },
+    {
+      "type": "Organization",
+      "name": "DGSI",
+      "id": "Organization_50fc71ebc2ce5c1688f19276e86d2a0df0880efcf5f60ef9f30b86c9aa086848"
+    },
+    {
+      "type": "Organization",
+      "name": "DGSE",
+      "id": "Organization_994c34ebcd97989961c2d7c9f3aa36dd30b1dfbb6b4f0b936c9bb12337e7a39d"
+    },
+    {
+      "type": "Organization",
+      "name": "forces de l'ordre",
+      "id": "Organization_8dc73a3ce58bd863b368fbcaf066bb1888740d708d6e194d2b36e502d59dbf25"
+    },
+    {
+      "type": "Organization",
+      "name": "forces de la loi",
+      "id": "Organization_bac233271d36cec58d4fa11589647d209e4396c6d724c2e33e8177e7060e0321"
+    },
+    {
+      "type": "Organization",
+      "name": "forces de sécurité intérieure",
+      "id": "Organization_7cccac05f47c7cdb99a2b4772424d34aa6ec0600812df86d18a9f6fffbd3a8ed"
+    },
+    {
+      "type": "Organization",
+      "name": "forces armées",
+      "id": "Organization_ed6d0c8e17ede3f38f78c974081b902e61a379bbc7e96bd5097928140f6a63dc"
+    },
+    {
+      "type": "Organization",
+      "name": "magistrats",
+      "id": "Organization_0cc1af25a3da5555c9015b01d29a875ec88c0cc90db61c48f6ae8949cf028116"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Denis",
+      "id": "City_acf9929591513d125b5101d62125f4ef879ee32404b222f6f37eb40e3766657e"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Ouen",
+      "id": "City_147c2ac8457436ffa944aa534956aed0eb60d2b9e590514e73272797f02ae90a"
+    },
+    {
+      "type": "City",
+      "name": "Vincennes",
+      "id": "City_a1cd4593739a5c9b36ec581444134c04ae7d6dbbcba93a16c410e75fae34f8d2"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le DGSE",
+      "id": "Person_007e60335f665c9287ea11ee806a3efa236827813d03cdde6afced52f25ccebb"
+    },
+    {
+      "type": "Person",
+      "name": "ministre de l'Intérieur",
+      "id": "Person_0d5830ce010b09a893018977c517ee33baca96610b7d2f80003b744b76230d9b"
+    },
+    {
+      "type": "Person",
+      "name": "Gérard Collomb",
+      "id": "Person_e134840831a9fd3678525352398d461d680749f00fece65caef9d0ddc12ccd74"
+    },
+    {
+      "type": "Organization",
+      "name": "Bercy",
+      "id": "Organization_a143693d55c701054e346e783deb2163969d2746d6dd110c0e55db9a16ac289a"
+    },
+    {
+      "type": "Organization",
+      "name": "Beauvau",
+      "id": "Organization_1f32be9c1c951bc603c977105e4fc8cbb9c1dd6e11f58cfbf6df39261dec9720"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Monsieur le Maire",
+      "id": "City_5c460d801f963642a03915d29acd93f0e28ba285b8d9f6d2f0aae873c8ddba9c"
+    },
+    {
+      "type": "City",
+      "name": "Madame la Maire",
+      "id": "City_04eb24b036bab710e292ab6ed9d20c2478d1d74238e15c04a743bbac24d8e643"
+    },
+    {
+      "type": "City",
+      "name": "commune",
+      "id": "City_6b1d79a0d76ff35b8a46e2dfbc874bc1a918e748d3564221460687c88a96a3aa"
+    },
+    {
+      "type": "City",
+      "name": "anciennes presses du Parisien",
+      "id": "City_77dc37f18a32fbde9cbc28d93bdc442692ced039c5cd93a60ee897a51354174d"
+    },
+    {
+      "type": "City",
+      "name": "terrain des entreprises Bacardi-Martini",
+      "id": "City_21059caf9201f320bb9b62156b7ae9734b3f91422fe46bc9aa48eedeb31a5780"
+    },
+    {
+      "type": "City",
+      "name": "site des anciennes presses du Parisien",
+      "id": "City_82696f4ca97bc6adfa5e300884773afc86f8f3a435713c3a9347037ccbe54507"
+    },
+    {
+      "type": "City",
+      "name": "Grand Paris",
+      "id": "City_6d2219cc8d9935a8a7758ef1cb6f65b8722ceb87d8ef1a421f70b5894f0cfd12"
+    },
+    {
+      "type": "City",
+      "name": "Pleyel",
+      "id": "City_21fbc0bd653251713be31d15a68c262137f560c7836beca512c502a499519b1b"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur PARDINI",
+      "id": "Person_15c51855978646ebdadd712428e40d92e099cd3514dc5adb32b131d7e9dffee9"
+    },
+    {
+      "type": "Organization",
+      "name": "direction de projet du site unique",
+      "id": "Organization_5fda23f3a455df89c8ae53b78a2293e8954b3f9481f39f549b86c88dc3ef84e0"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Organization",
+      "name": "de l'Intérieur",
+      "id": "Organization_e03eae8f18a34a09278346abb4480a79b392d93db1ea1b34ce574401f71ecda5"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Organization",
+      "name": "direction du budget",
+      "id": "Organization_5abd828eea14694399c5251f938803b4339f3ae62f753a2bee6c74a96e43c368"
+    },
+    {
+      "type": "Organization",
+      "name": "direction de l'Immobilier de l'État",
+      "id": "Organization_58ffd1a6752928e86c2f703f4fd46e7946b68c9eb6052ef76a8a43a1ef8f0984"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le secrétaire général",
+      "id": "Person_5da1985b325f6e740d65378795e51c9b23d29b87d7ead2b19a6987745d55c895"
+    },
+    {
+      "type": "Person",
+      "name": "ministre",
+      "id": "Person_3ffa6811c83c16bf59edf782cd334ba6a4263e78436004596c3f8ab18adabbc4"
+    },
+    {
+      "type": "Person",
+      "name": "élus",
+      "id": "Person_6e68e10b80befee05637cf58bc1c8c6a117e35c2f08f0ada097df6408c91e4a8"
+    },
+    {
+      "type": "Organization",
+      "name": "Plaine Commune",
+      "id": "Organization_f1404353b34d4c3dc9bbb745676315db8bd87055d98489cbfe4359d97142372a"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère de l'Intérieur",
+      "id": "Organization_2b1a74ed7124fcaf53172ac64cf65a9c88f17f11a38bde240e1be1030d8f821c"
+    },
+    {
+      "type": "Person",
+      "name": "le maire de Saint-Ouen",
+      "id": "Person_476bd47d0041a5478d4f55b6abad0e9d91f29d9eab0ad9b2da52a718da1d42bd"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président de Plaine Commune",
+      "id": "Person_f6b03680e837af8c7c117f4b225df99c8e8257d01a49459103852d7bf219d4c1"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le préfet de région",
+      "id": "Person_262d45b0f794c0ed4606bab776c03492a8313f55013aa3d5b0872d5773b9035c"
+    },
+    {
+      "type": "Organization",
+      "name": "DRIEAT",
+      "id": "Organization_d6dbf59b3889d0716dffda56c46521254ea5fea471020c8a2362dddcd668be46"
+    },
+    {
+      "type": "Organization",
+      "name": "Eiffage Construction",
+      "id": "Organization_130a45cb9d6ff51a4fcf00ab4376aebb1ab8d7c999bdd8ec6aea5b3aaa1fc817"
+    },
+    {
+      "type": "Person",
+      "name": "Le préfet",
+      "id": "Person_9d0ad271e04d2a7ffb6125a3cec69687661eab1e9016dcfe736701f557b42078"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité nationale",
+      "id": "Theme_6e3c575bba1d32c7b65c86a9f29d3ebac5a19094274e080661e1e152cbba68a5"
+    },
+    {
+      "type": "Organization",
+      "name": "l'État",
+      "id": "Organization_22d43b7a853dd907f1c8308c151c7dabfb1b358f05fc84dd51d68b3342f51a9d"
+    },
+    {
+      "type": "Organization",
+      "name": "la DGSI",
+      "id": "Organization_0b1810e2621302f498fa4082077642f82cec9dba090c9e1eb6878372eb6e1a50"
+    },
+    {
+      "type": "Organization",
+      "name": "la DGSE",
+      "id": "Organization_5889682bcaa5a89d7078ad5673af330a856c43eb5a63af62388e27acd741af27"
+    },
+    {
+      "type": "Organization",
+      "name": "les Armées",
+      "id": "Organization_4028c94cb867a11459a4fca1928974e3f6acf70ecd1ffcf2f9c5a953db22d8e3"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère des Affaires étrangères",
+      "id": "Organization_bf0d87422f3e8a5363fc32cfd747166834426a0ee0b64662e5103676f219b476"
+    },
+    {
+      "type": "Organization",
+      "name": "le ministère des Affaires étrangères",
+      "id": "Organization_9d5c9a81fbe16f8caf172578baeec80d99d16393ca4e8bbb06f1cbfac6640512"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Law",
+      "name": "loi de sécurité intérieure et de lutte contre le terrorisme",
+      "id": "Law_b0d2f80fb42f808bc3e3844d20db1f0a7a15837ba5116c593f384600c5b18a13"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité intérieure",
+      "id": "Theme_56c5273d2bfceb725815b5a9a8050ceef3cfdc60410a030f361785ff50aeec5e"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme",
+      "id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "type": "Theme",
+      "name": "liberticide",
+      "id": "Theme_5bbbb9ca240395187a405dbf7ca75d199119a1de01f6dd2ecc2243a89b698bc1"
+    },
+    {
+      "type": "Law",
+      "name": "dispositions",
+      "id": "Law_80202c3a274f45f1f3734d75eac073cde9233c84c9e22b753969f44ca5662bcf"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux olympiques et paralympiques",
+      "id": "Event_d869c8d614b2e9c4090e4d5a2f9c363060ce721a3b87b806bdde2756023fa2dd"
+    },
+    {
+      "type": "Law",
+      "name": "loi relative à la sécurité publique de 2017",
+      "id": "Law_712618786c4f9491817e72ce41a826020f44074c8f795fbca54883a3af694c11"
+    },
+    {
+      "type": "Law",
+      "name": "Constitution",
+      "id": "Law_a7536b182c8f1ab36950ce62927d288ce9857863aa1db551572b9fc950581807"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité publique",
+      "id": "Theme_7e26a3d2301e343d026e68c0164cc09ce1684d5bb6f47ff3a0fe5ee183d4be8b"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme islamiste",
+      "id": "Theme_a9eaf0302d5db7c86ac3be0f721cdf7888fc1e055956fd5acf13cfc9bdc4c7b2"
+    },
+    {
+      "type": "Organization",
+      "name": "Coordination nationale du renseignement et de la lutte contre le terrorisme",
+      "id": "Organization_a084c9a659dc3e0273b45c9339851cb88d9dfd6c4363b85fb572ac72dcb1990d"
+    },
+    {
+      "type": "Organization",
+      "name": "douze services de renseignements",
+      "id": "Organization_05a285512ba8671bd1932d1911b347f7e7eef4b6a42c378541196a74df23524e"
+    },
+    {
+      "type": "Person",
+      "name": "le garde des Sceaux",
+      "id": "Person_3f627388332a50b0274359e774a18015c996f079c35a24d6c301ff1e9723b981"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le ministre d'État, ministre de l'Intérieur",
+      "id": "Person_031c3fa9b9b7fd663b0ef07f336ec01c98e9e14c00ba7f277e70e79eabf1dcd1"
+    },
+    {
+      "type": "Organization",
+      "name": "appel international de Christchurch",
+      "id": "Organization_00a9128d0d183d198e18fc369f29cb4d3cc85be3c303421e1fae800d021bb0af"
+    },
+    {
+      "type": "Organization",
+      "name": "parquet",
+      "id": "Organization_2585fd88ee2807b1eb618806ac7d6a0f8d82e6766962f4dbcda2e913d3cafd9b"
+    },
+    {
+      "type": "Organization",
+      "name": "Ministère public",
+      "id": "Organization_3d8c553ac3bcbde2fc91a66aac3ad00384feceb30066e8ebfba3f25f1ce357bc"
+    },
+    {
+      "type": "Theme",
+      "name": "national antiterrorisme",
+      "id": "Theme_442ccd2830bf94a83c5afcfd18aa575f60e6c4d94b0b2df32bb334c43fe341c2"
+    },
+    {
+      "type": "Theme",
+      "name": "attentats de 2015 et 2016",
+      "id": "Theme_c676e0fc2f68e2b4933e72f54dd3a69b9700e8d0d99df2db28cd4a255e9a701e"
+    },
+    {
+      "type": "Theme",
+      "name": "attentats de 2015",
+      "id": "Theme_80cc01857ebf1531ede56f3c07b9619c23e127cc7607d4ba92502895147bab79"
+    },
+    {
+      "type": "Theme",
+      "name": "réveil stratégique de 2022",
+      "id": "Theme_e3c6a475a8267588aba07618d652e74277166eee4a37cc8929240177e7e0dd08"
+    },
+    {
+      "type": "Theme",
+      "name": "budget de nos armées",
+      "id": "Theme_91140b0d48fae1b308c7c950983e731f637eb816ec4d735bc32fbccdb95652da"
+    },
+    {
+      "type": "Theme",
+      "name": "DGSE",
+      "id": "Theme_ef1f1b0811b3117cff403270b3beb31316a38a07a130571a48107172e9d0762c"
+    },
+    {
+      "type": "Theme",
+      "name": "forces terroristes",
+      "id": "Theme_1c882eab24e49f96cf029c59fda4ed826eecfc953b50a6eb313d0ac7226f45db"
+    },
+    {
+      "type": "Organization",
+      "name": "garde des Sceaux",
+      "id": "Organization_3bc33c4e0679e381ad3ef3e292c29ebc7111411d9d505617a33e22a34c378378"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de l'Intérieur",
+      "id": "Organization_9ee800613fe4ef77794905dc31745b48ecfcc7ba142a75ef23ebaa037aa7e671"
+    },
+    {
+      "type": "Person",
+      "name": "garde des sceaux",
+      "id": "Person_3372b7ef2212ea003b8e2b58610e1f176ab48b303883cd75c0aa27d579036cd6"
+    },
+    {
+      "type": "Person",
+      "name": "procureur général",
+      "id": "Person_465963d5cdbd30c79ba8b80d50f29cadc22da686745088ed61119c7c0c0e66db"
+    },
+    {
+      "type": "Person",
+      "name": "procureur de la République",
+      "id": "Person_0189370f82e39ca7ce2683480fb168168f14bbad285fd008fea0a5a2ba90d94e"
+    },
+    {
+      "type": "Person",
+      "name": "le président de la République",
+      "id": "Person_3a23c0261e50cfcafeab3872d343a5f3fae86dee0bce4035dc7c00a5c001708f"
+    },
+    {
+      "type": "Country",
+      "name": "Une grande nation",
+      "id": "Country_cfce8ad05072dc506590048c3051dc8451f1e0e65b052572bcc351a278160e7f"
+    },
+    {
+      "type": "Organization",
+      "name": "nos armées",
+      "id": "Organization_166049284ebdc85e0c7ecc46d864ee94e3f8377d231b7f0123832256924e45b1"
+    },
+    {
+      "type": "Organization",
+      "name": "République",
+      "id": "Organization_0eac6305aac01bf684a6d57836831f1443587a4616a4d6b56b3d3c1e778ca152"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs indéfectibles de notre République",
+      "id": "Theme_592c621d2a1086cb91bf2bf7735c7f1e8b064f34b592aa1638392f3ce4e2fcb3"
+    },
+    {
+      "type": "Theme",
+      "name": "droit en quelque sorte à la vie tranquille",
+      "id": "Theme_803da93b64673d3d29c8ae688754dbec1188406c031f0b961bcce4f3532904f4"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "les 9 attentats déjoués en 2024",
+      "evidence": "Madame la Directrice générale. La France le sait et je le sais ô combien. Elle sait que les 9 attentats déjoués en 2024 sont à mettre à l'actif de votre travail",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Event_58231380b7da63f3e7799de66f90913ab96e8b8b5363042385a7982e669f5653"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "l'organisation des Jeux olympiques et paralympiques",
+      "evidence": "Madame la Directrice générale. La France le sait et je le sais ô combien. Elle sait que les 9 attentats déjoués en 2024 sont à mettre à l'actif de votre travail avec l'ensemble de vos homologues, avec ce que font les préfets sur le terrain et l'ensemble des équipes et avec nos magistrats. Je sais aussi combien votre travail de chaque jour est aussi celui qui a permis — et l'ancien directeur général, maintenant devenu préfet de police, le sait et y a largement contribué — combien l'organisation des Jeux olympiques et paralympiques, puis la réouverture de Notre-Dame, ont été permises grâce à cette mobilisation de chaque instant",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Event_9814eb447703f354ca8404ffadeee8ce12f26884ef5fcaa4dfae0fdbdd308fc6"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "la réouverture de Notre-Dame",
+      "evidence": "Madame la Directrice générale. La France le sait et je le sais ô combien. Elle sait que les 9 attentats déjoués en 2024 sont à mettre à l'actif de votre travail avec l'ensemble de vos homologues, avec ce que font les préfets sur le terrain et l'ensemble des équipes et avec nos magistrats. Je sais aussi combien votre travail de chaque jour est aussi celui qui a permis — et l'ancien directeur général, maintenant devenu préfet de police, le sait et y a largement contribué — combien l'organisation des Jeux olympiques et paralympiques, puis la réouverture de Notre-Dame, ont été permises grâce à cette mobilisation de chaque instant",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Event_b13eb705cbbdcd8cb00677f18370f60d4525ef011ed787d4320f61ef9e6b41f2"
+    },
+    {
+      "source": "Gérard Collomb",
+      "relation": "SUPPORTS",
+      "target": "Monsieur le ministre",
+      "evidence": "je veux remercier, Monsieur le ministre, vos deux prédécesseurs ici présents, et j'ai une pensée pour Gérard Collomb en cet instant",
+      "confidence": 1.0,
+      "source_id": "Person_e134840831a9fd3678525352398d461d680749f00fece65caef9d0ddc12ccd74",
+      "target_id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "source": "le maire de Saint-Ouen",
+      "relation": "MEMBER_OF",
+      "target": "Plaine Commune",
+      "evidence": "services de toutes les collectivités concernées, tout particulièrement, évidemment, le maire de Saint-Ouen, d'une part, Monsieur le président de Plaine Commune",
+      "confidence": 1.0,
+      "source_id": "Person_476bd47d0041a5478d4f55b6abad0e9d91f29d9eab0ad9b2da52a718da1d42bd",
+      "target_id": "Organization_f1404353b34d4c3dc9bbb745676315db8bd87055d98489cbfe4359d97142372a"
+    },
+    {
+      "source": "Monsieur le président de Plaine Commune",
+      "relation": "MEMBER_OF",
+      "target": "Plaine Commune",
+      "evidence": "services de toutes les collectivités concernées, tout particulièrement, évidemment, le maire de Saint-Ouen, d'une part, Monsieur le président de Plaine Commune",
+      "confidence": 1.0,
+      "source_id": "Person_f6b03680e837af8c7c117f4b225df99c8e8257d01a49459103852d7bf219d4c1",
+      "target_id": "Organization_f1404353b34d4c3dc9bbb745676315db8bd87055d98489cbfe4359d97142372a"
+    },
+    {
+      "source": "loi relative à la sécurité publique de 2017",
+      "relation": "PROPOSED",
+      "target": "sécurité publique",
+      "evidence": "L'application de la loi relative à la sécurité publique de 2017 a instauré un mécanisme inédit de communication officielle des actes judiciaires aussi, au service de renseignement.",
+      "confidence": 1.0,
+      "source_id": "Law_712618786c4f9491817e72ce41a826020f44074c8f795fbca54883a3af694c11",
+      "target_id": "Theme_7e26a3d2301e343d026e68c0164cc09ce1684d5bb6f47ff3a0fe5ee183d4be8b"
+    },
+    {
+      "source": "Constitution",
+      "relation": "MENTIONS",
+      "target": "terrorisme",
+      "evidence": "Et donc, nous avons réorganisé, nous avons mis dans notre Constitution, notre État de droit, les dispositions qui permettent de faire face au terrorisme sous toutes ses formes, et tout particulièrement au terrorisme islamiste qui nous avait durement frappés.",
+      "confidence": 1.0,
+      "source_id": "Law_a7536b182c8f1ab36950ce62927d288ce9857863aa1db551572b9fc950581807",
+      "target_id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "source": "Constitution",
+      "relation": "MENTIONS",
+      "target": "terrorisme islamiste",
+      "evidence": "Et donc, nous avons réorganisé, nous avons mis dans notre Constitution, notre État de droit, les dispositions qui permettent de faire face au terrorisme sous toutes ses formes, et tout particulièrement au terrorisme islamiste qui nous avait durement frappés.",
+      "confidence": 1.0,
+      "source_id": "Law_a7536b182c8f1ab36950ce62927d288ce9857863aa1db551572b9fc950581807",
+      "target_id": "Theme_a9eaf0302d5db7c86ac3be0f721cdf7888fc1e055956fd5acf13cfc9bdc4c7b2"
+    },
+    {
+      "source": "national antiterrorisme",
+      "relation": "MENTIONS",
+      "target": "national antiterrorisme",
+      "evidence": "national antiterrorisme, qui a été la pierre de touche du dispositif antiterroriste",
+      "confidence": 1.0,
+      "source_id": "Theme_442ccd2830bf94a83c5afcfd18aa575f60e6c4d94b0b2df32bb334c43fe341c2",
+      "target_id": "Theme_442ccd2830bf94a83c5afcfd18aa575f60e6c4d94b0b2df32bb334c43fe341c2"
+    }
+  ]
+}

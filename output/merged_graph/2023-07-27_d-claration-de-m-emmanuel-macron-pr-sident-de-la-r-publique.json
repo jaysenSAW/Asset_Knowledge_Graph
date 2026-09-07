@@ -1,0 +1,809 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Country",
+      "name": "Nouvelle-Calédonie",
+      "id": "Country_55a69be2de7bce6a0a3ef0dc0899835c52a9dcb4b1cc9e9c104595177589d1e9"
+    },
+    {
+      "type": "Country",
+      "name": "Polynésie française",
+      "id": "Country_719de631a141599b2bd3d9af8c7838fd04343c09b8a132e81ccc73be25304c71"
+    },
+    {
+      "type": "Country",
+      "name": "Vanuatu",
+      "id": "Country_f31d37a6a05da5ac6ce75d6800acf3ca3e1764b9395e4799a2048fd2b635a7a4"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Pacifique",
+      "id": "Country_fb13f49510e4991c246a7df143a4e90afbd5647b097e58a7081571c5cdd07b6f"
+    },
+    {
+      "type": "Country",
+      "name": "Ni-Vanuatu",
+      "id": "Country_c1a0eb97a06953276098e5c151eba74d5467b8c400e47171e901a4a54d408ec2"
+    },
+    {
+      "type": "Country",
+      "name": "France libre",
+      "id": "Country_af69ac6da8a8557bc1d867140679d4348993b94e8a54b60bc05eb8899f9719ce"
+    },
+    {
+      "type": "Event",
+      "name": "Étrange défaite",
+      "id": "Event_326ce9c6e2f6365f875ff07a4cbc00ec2223f2db9fda648b73e7c3319794e7a5"
+    },
+    {
+      "type": "Event",
+      "name": "deux conflits mondiaux",
+      "id": "Event_5d4cff5fd27e7a3c74e94399ced0550f5e35b1899380c07d0dad05faf7f08591"
+    },
+    {
+      "type": "Person",
+      "name": "général de Gaulle",
+      "id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442"
+    },
+    {
+      "type": "Country",
+      "name": "Indopacifique",
+      "id": "Country_883a51b2d7b4646e3c1c2a34abd8216d922245d1c9e7b8f079154f53f044fc84"
+    },
+    {
+      "type": "City",
+      "name": "Nouvelles-Hébrides",
+      "id": "City_5a6cf9202696a734990fc6fbb841a202d951ca0eac9d50e4a9148e2949a94501"
+    },
+    {
+      "type": "Person",
+      "name": "MAPOU",
+      "id": "Person_c9b679c5df5bd558773be1f6bdefa720012d9bc839b9e358864dd9c698c3a3e4"
+    },
+    {
+      "type": "Person",
+      "name": "BROTHERSON",
+      "id": "Person_8947e26b27447a29477221abaf9b9a515b78ac0412bb8767eb0baf12e1428fcd"
+    },
+    {
+      "type": "Person",
+      "name": "J'ai",
+      "id": "Person_11dc8f890b0c964b83ea9b1735ebebcd698833b5d636e3dbbd33637c9106eda2"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Australie",
+      "id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2"
+    },
+    {
+      "type": "City",
+      "name": "Réunion",
+      "id": "City_d430b37268f49a517af1ba43c391b87d171cbac56fd1a5a50d7b9459f8e5b245"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Country",
+      "name": "Océanie",
+      "id": "Country_8eba38ccc6f755f1cfaf87d227c0c34f311487d16313d9996b931f405dcf10be"
+    },
+    {
+      "type": "Theme",
+      "name": "prédation des grandes puissances",
+      "id": "Theme_2b8fda373983efbd77a224c4fcf48df140582bd5651e88256b0062bfad94dd1a"
+    },
+    {
+      "type": "Theme",
+      "name": "prêts aux conditions léonines",
+      "id": "Theme_f99e18f6ed425771ed19c9432236dc12b41be5509ddb3c66dc770d5483e1eb8a"
+    },
+    {
+      "type": "Theme",
+      "name": "ingérences",
+      "id": "Theme_356b28ad7859f4b7cf126ea7128a39442d04650f48dbf2c91ca25abba00a1f15"
+    },
+    {
+      "type": "Theme",
+      "name": "impérialismes",
+      "id": "Theme_2f89a01fc53732d500036b2bde86a3b4ecbe236d894a7456e6b350a0fe4ccaa7"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance",
+      "id": "Theme_d8895f67d26ec9bc257a9b6d9015cbffdb3029611e550d517fabb25ec9d2c101"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "vulnérabilité climatique",
+      "id": "Theme_7c3403c3d8718a6507e1acec80375d7dd0d1a10b73b25072f0d516611f6f4d1d"
+    },
+    {
+      "type": "Country",
+      "name": "Nouvelles-Hébrides",
+      "id": "Country_9fb82780474ccc1d8a2f2a9c4612531b32d5fff3ade7b3f7c98b3dbc267d52d6"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Président d'une France",
+      "id": "Organization_164be72036eaef9c892369de931d522466b7e711ec23f4f006238f534a8133fa"
+    },
+    {
+      "type": "Organization",
+      "name": "Président MAPOU",
+      "id": "Organization_d1d2fe62c1ecdd2665298d7b4703cd38bb25b381f041f7811b56cb6f5de41293"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Theme",
+      "name": "autodétermination des peuples",
+      "id": "Theme_c2f459603d795edf64ac3ab9f067cbe6ab5fa515f186c71d532f53b14110a5a6"
+    },
+    {
+      "type": "Theme",
+      "name": "pardon et d'avenir",
+      "id": "Theme_c2f9847317ccbe63f6a0b1cdb890cde44a0ad9da671713171afc5b6e7ea4e12c"
+    },
+    {
+      "type": "Theme",
+      "name": "Indopacifique",
+      "id": "Theme_4bbd75d9106097dcb54f6bd07cbad0a27cf0fca1aab5ada2e267e15621c39dc6"
+    },
+    {
+      "type": "Country",
+      "name": "Russia",
+      "id": "Country_031b4c0bba521a2a2bc16583d5da802d72be999dee34152a72afb2f7fef838ef"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "imperialism",
+      "id": "Theme_c001e5dcda9da0365d6651bbfc11c0a74d3a26dd9ea5c51fddabcd9303038a41"
+    },
+    {
+      "type": "Theme",
+      "name": "colonialism",
+      "id": "Theme_fb51bb45b06605fac9b4d96f97cfe5aecd842d20f0939c8782faca23376dcdbe"
+    },
+    {
+      "type": "Theme",
+      "name": "sovereignty",
+      "id": "Theme_901c26e2082f5fffe5a57734342df0927452ff5c01552a96f2e76712f25d0d99"
+    },
+    {
+      "type": "Theme",
+      "name": "global order",
+      "id": "Theme_643df2e02fcfbe097670efb0a7cdb7003d6b8b073fd0c752f1283892a226cce7"
+    },
+    {
+      "type": "Theme",
+      "name": "international law",
+      "id": "Theme_6cd1c841fbba2684398320fbb5516246e6201cf20400d593d5c0ef2d99e9d1f1"
+    },
+    {
+      "type": "Theme",
+      "name": "UN Charter",
+      "id": "Theme_7705901e5e3b717b54e0df8335491a8c934178ab621be9454b883cdf03e07252"
+    },
+    {
+      "type": "City",
+      "name": "Polynésie française",
+      "id": "City_237a60578d5c1c77f63402715dbac21747d712c1c60c6abd087f2decd30bb0e0"
+    },
+    {
+      "type": "City",
+      "name": "Nouvelle-Calédonie",
+      "id": "City_cc4b506740f7c1968790c319d6f12845d814677cd83a29590ede16c2994049d5"
+    },
+    {
+      "type": "Organization",
+      "name": "Forces armées",
+      "id": "Organization_ed6d0c8e17ede3f38f78c974081b902e61a379bbc7e96bd5097928140f6a63dc"
+    },
+    {
+      "type": "Event",
+      "name": "cyclone de mars",
+      "id": "Event_7357489cc8fd2d298fcf7b0b3735cd1e1092ab347450b2e3edb77864871743f9"
+    },
+    {
+      "type": "Country",
+      "name": "Nouvelle-Zélande",
+      "id": "Country_80bad93f7b963239646a7f56fd94d25d28ff91f84bb39af18dbb2d11c840f36f"
+    },
+    {
+      "type": "City",
+      "name": "Nouméa",
+      "id": "City_10e87d0ad00cea43b0c74980a4133dbbcbcfc590abadea96325fa25a17c93058"
+    },
+    {
+      "type": "City",
+      "name": "Asie du Sud-Est",
+      "id": "City_87a11718572c8c0267fad2402977cc21eab9cfcc31059117df01bde8a953163d"
+    },
+    {
+      "type": "City",
+      "name": "Indopacifique",
+      "id": "City_ad4fda6b6ac769bc90b3e3f4a1b59fce1d5f3b5133d22a0822b6d06f9e31461b"
+    },
+    {
+      "type": "Organization",
+      "name": "PRAIRIAL",
+      "id": "Organization_341a71115e0d8acf6d9ad8f78366f38a25f8dac0ba389fccfd2d68a9e25b1c19"
+    },
+    {
+      "type": "Organization",
+      "name": "PEGASE 2023",
+      "id": "Organization_c716e1a917236e9e2fd8ddf34ff8ba43e10f76eabce0b38f3fe1a4df56d249da"
+    },
+    {
+      "type": "Organization",
+      "name": "RAFALE",
+      "id": "Organization_54e792d3011f9a13fc27a355814d90e8da73bc7dbdf3a881bf70666187839e26"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements solidaires",
+      "id": "Theme_8779747f05e8585e615af824ad12e6a948779690b2193ac8d19e98242a8f20a3"
+    },
+    {
+      "type": "Theme",
+      "name": "réengagement",
+      "id": "Theme_a2fa9f909debb5e73566b764e3730578996a495687719ce0e320fc8e370a1b90"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvel agenda",
+      "id": "Theme_0eb784052aa62afc29be589718f0d3d29712ef3b9ee4073a52cfa0ea133ef027"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte de Paris pour les peuples et la planète",
+      "id": "Theme_714d31089bc4dafe48b170a8131ac9c6a955999183a636e8a15fdc0715ab3658"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la pauvreté",
+      "id": "Theme_ab8e8f859f334c17b54a9d9d0794df43cbbe9c994f1fd97114aaa4720284ff30"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le réchauffement climatique",
+      "id": "Theme_87fcffeb0b095d638b1ce229a807c21b51759f54208553ace6ac1f29815655a0"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds monétaire international",
+      "id": "Organization_ea510a567f72e30e0268e3e6ccaa15fe3579eeab3ddd63cf65e4879cc4e70e8d"
+    },
+    {
+      "type": "Country",
+      "name": "États",
+      "id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "type": "Country",
+      "name": "Paris",
+      "id": "Country_d21cfd277f184a25bd7c9d9f7d79d6e8d6a08e43d0e84be78e70c70207a8a132"
+    },
+    {
+      "type": "Country",
+      "name": "pays pauvres",
+      "id": "Country_2c184e345ab162b6d69b4a21f9b694d7800f0ba6ccd76063accad940ba45ce01"
+    },
+    {
+      "type": "Country",
+      "name": "pays en développement",
+      "id": "Country_1060c6b5a171a72aa8d0f1d37a086532aa48c2b60d402ffd183f94283ec20fdf"
+    },
+    {
+      "type": "Country",
+      "name": "pays à revenus intermédiaires",
+      "id": "Country_da39f22ae76006b8d846f010e1b67f4acf44f2be131fc7fe05cd9fc6f13aeff8"
+    },
+    {
+      "type": "Theme",
+      "name": "dérèglement climatique",
+      "id": "Theme_60205647b2eeaf601ee4e2e6b9ea7a92cc19a6fd1c5394651d737742ade35773"
+    },
+    {
+      "type": "Theme",
+      "name": "dette publique",
+      "id": "Theme_04c73e126a8e518b12ab072eb8d806e3213e17326efcb7c968c0f14dc5de8908"
+    },
+    {
+      "type": "Theme",
+      "name": "financement privé",
+      "id": "Theme_6cdfa2ca2eff84bf39564eacd3a449cf06e35e68699e50025863cfc8e0866719"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation",
+      "id": "Theme_01dbd75772ce2e01acf43a9eed5bfc3d66a83ad34f48105944d56c5bf0aaa34b"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française de développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "City",
+      "name": "Melsisi",
+      "id": "City_5ccaf62a8e802b212324855b1501ba1690b21a7572aa1ec19a244449a4836cbc"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "forêt",
+      "id": "Theme_a96720c890a4e5c15eb45a949001e285e64b1843a718f2f04c32024d421834e9"
+    },
+    {
+      "type": "Country",
+      "name": "Papouasie-Nouvelle-Guinée",
+      "id": "Country_846749a5419eaa446d4152c28f2b5c5102a20aa714e72a4b6c5877172300bc23"
+    },
+    {
+      "type": "Person",
+      "name": "James MARAPE",
+      "id": "Person_f8c9c4cf0e2e00c1fecbdca99b801e51014fa6c51d33c8459435677eb9b3efd0"
+    },
+    {
+      "type": "Theme",
+      "name": "Haute-Mer",
+      "id": "Theme_06a4451e5f63e0c93981859a92e1e05da64842d37f5e02d7359a3db3c8ba18dd"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Country",
+      "name": "Costa Rica",
+      "id": "Country_56a1ed746f8c212254f14b70bd54599a0988a231454f23ef88a73340b229d1f5"
+    },
+    {
+      "type": "Theme",
+      "name": "pollution plastique",
+      "id": "Theme_fdf3b4bc59bd70f33cbbbd5347de8b86f955d5a5ae69a73b17e02d38a17d4430"
+    },
+    {
+      "type": "Theme",
+      "name": "traité juridiquement contraignant",
+      "id": "Theme_23e4e238929191b138a01a33cc7ce4a1f90725cc4d1456af7ea13555c4ebc098"
+    },
+    {
+      "type": "Theme",
+      "name": "Sommet des Nations unies sur les Océans",
+      "id": "Theme_a7219b6e642c049bf83d610f653a5f97a4d7ab81a2dbc99d5e03e673912b2486"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme de l'architecture financière internationale",
+      "id": "Theme_6eb759cf4a1ab5901a56bfb358a4d820c96279beefb66d3a0808236c2c9942ec"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité en haute mer",
+      "id": "Theme_640641097f6a253d3ac2d43688b711543f4a702b807b8535c7fed6db6c81ad48"
+    },
+    {
+      "type": "Theme",
+      "name": "grands fonds marins",
+      "id": "Theme_749d6cbe7899f5d01e730965a9dccbad8b8602f1b73f23713fae6dbabb3ed0ca"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le plastique",
+      "id": "Theme_0ab3becb9af9fb9697b136c1617990f6c0cc2fb6e8e3f27fdc4e692474c317fb"
+    },
+    {
+      "type": "Theme",
+      "name": "appel d'Ifira",
+      "id": "Theme_f96ec1ccbdbb2597f7a02eb8399a97965925ec7c1a35a327ca3248f8975f33e5"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie océanienne",
+      "id": "Theme_ead6570688a111e69b93864fd24fe6798c91ba2ab674c1ecd89d03f00694702f"
+    },
+    {
+      "type": "Organization",
+      "name": "IFREMER",
+      "id": "Organization_470bd464aa4532ea3f706954f4ca7850d0e73ee2278c3764e95e344a78b7f1b6"
+    },
+    {
+      "type": "Organization",
+      "name": "IRD",
+      "id": "Organization_6d254b07674208cd63a3112a0f0372f83794fc24327e3624ccd3b802278c7be6"
+    },
+    {
+      "type": "Organization",
+      "name": "CIRAD",
+      "id": "Organization_0bc75292377da7898311520ee7f2527b8b98b458ceafb3e4e1bf611f58620141"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération climatique",
+      "id": "Theme_43e2c31f90bca6d25a1f6cfb6553f844aead6a63e980087ecdc32be0eb3e8adb"
+    },
+    {
+      "type": "Theme",
+      "name": "systèmes d'alerte précoce",
+      "id": "Theme_76e45fd115498ecfaf95be3f18a6ef0bee4b6a571c6f1e9c260ba9e3571c92ed"
+    },
+    {
+      "type": "Organization",
+      "name": "la Croix-Rouge française",
+      "id": "Organization_153145e36d7f0fedd0073fceab1028a83b50c1df1b22534c570c363b0f1adf4f"
+    },
+    {
+      "type": "Organization",
+      "name": "forces armées de Nouvelle-Calédonie",
+      "id": "Organization_d7139c9506702ee92733a205b8d48227317dde7bd8c8c15486a8703f7a7df94d"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Theme",
+      "name": "épanouissement",
+      "id": "Theme_c5c9f1eb6806dbfde909b5fd129a963bf22d55a77ab3fa203884c4862fbacd03"
+    },
+    {
+      "type": "Theme",
+      "name": "fierté",
+      "id": "Theme_7eff11c9eca34cecf2a19a02da7d290b3f85a6dd0840cac5b971ec01a30659d3"
+    },
+    {
+      "type": "Theme",
+      "name": "échanges humains",
+      "id": "Theme_5656eac75e37f719ca11faa54f95ae1de47c134d7104705a728f7a0da5c2d5aa"
+    },
+    {
+      "type": "Theme",
+      "name": "construction de l'université du Vanuatu",
+      "id": "Theme_b88634d5ec0b4b9946a9cda2d5f415ed91eedf26c8080dac283bab7c4b1de764"
+    },
+    {
+      "type": "Theme",
+      "name": "programme Erasmus du Pacifique",
+      "id": "Theme_c8079ec9856c5822bcacbae3d591c583f95c2097e08841ba7e8208b11f83c718"
+    },
+    {
+      "type": "Person",
+      "name": "le Grand chef",
+      "id": "Person_e4d2377646971c04b49d21a5fbc88f7e5b9b1ff13b581c680d736215905ab35d"
+    },
+    {
+      "type": "Organization",
+      "name": "État français",
+      "id": "Organization_8668f3cbdbe019c9f85f8818d05456a2fd9b1c0ecbd5f57fddbcc6ccc55136f2"
+    },
+    {
+      "type": "Person",
+      "name": "François 1er",
+      "id": "Person_14035acef40538839c55001986fde9d32024abffc914fe45f513a5b38e70f1f9"
+    },
+    {
+      "type": "City",
+      "name": "Villers-Cotterêts",
+      "id": "City_6aab14668bdee637018a1a68554281503579fbe339dd9c176e5ba0e6fb326493"
+    },
+    {
+      "type": "Theme",
+      "name": "francophonie",
+      "id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "type": "Theme",
+      "name": "Asie du Sud-Est",
+      "id": "Theme_332aeb861375f052b96b171d98246e180301b1a07369e0e826b48fc5abdd72c0"
+    },
+    {
+      "type": "Theme",
+      "name": "Afrique",
+      "id": "Theme_e53ae647bc41c3aecc727ca2595afd63d86f12f3de9d9d071f207288bfe98093"
+    },
+    {
+      "type": "Theme",
+      "name": "Amérique latine",
+      "id": "Theme_717a904e4222c85d9b3817e148f747d07fbc01487af100c62a819ed7db8914ed"
+    },
+    {
+      "type": "Theme",
+      "name": "Seine",
+      "id": "Theme_ab22636edfdf9e4372ded4cf34bee97497b1f5bfaa4871e49c6f6025f3de52de"
+    },
+    {
+      "type": "Theme",
+      "name": "Congo",
+      "id": "Theme_737292cca254af5c94f264fe283b111066b2ce86335856b0c80eb9f00d8fb749"
+    },
+    {
+      "type": "Country",
+      "name": "Wallis-et-Futuna",
+      "id": "Country_efed869405790820705fddfa862d3790441421e49bb43c3369f480ef7cb9daf8"
+    },
+    {
+      "type": "Country",
+      "name": "Samoa",
+      "id": "Country_182a35dafd998c70b49708794aced7e9857f9713336b7a739a2265b77d5342f2"
+    },
+    {
+      "type": "Country",
+      "name": "Polynésie",
+      "id": "Country_4bf3513ff1b42d45e93b2d218a934507d08df3e7ff6613fa7f2a9ababe72ebdf"
+    },
+    {
+      "type": "Country",
+      "name": "Mélanésie",
+      "id": "Country_912739a6633f4ae1dfefb26c4f8863d69c5ad32c9e390a7d53b817d2ce9c6175"
+    },
+    {
+      "type": "Country",
+      "name": "Micronésie",
+      "id": "Country_54b318995fc233905d13cac127193a2a67b1cd8c81e856d2f372694418c1ac6b"
+    },
+    {
+      "type": "Organization",
+      "name": "Programme régional océanien de l'environnement",
+      "id": "Organization_5a3ae5111894224659a8929a416a42aa767895a5a6ceee8d2156ef7e6542e0b1"
+    },
+    {
+      "type": "Person",
+      "name": "de Gaulle",
+      "id": "Person_37f95bd08a7aed96ec78152708e15ac7b0aeadf9b6ed76c9324554a4a27abf09"
+    },
+    {
+      "type": "City",
+      "name": "Port Vila",
+      "id": "City_0d4b1078f41ca7107606eb85940a803686f117b57224b141c99700166034d339"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "et nous allons ensemble rendre hommage à 13 d'entre eux morts pour la France durant les deux conflits mondiaux.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Pacifique",
+      "evidence": "C'est une histoire faite de sacrifices également, dont celui des Français du Pacifique et des Ni-Vanuatu qui se portèrent volontaires en 1916 pour défendre notre sol et de leurs enfants qui, une génération plus tard, allèrent à nouveau au-devant de leur destin quand le Vanuatu devint le premier territoire d'Outre-mer rallié à la France libre le 22 juillet 1940.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_fb13f49510e4991c246a7df143a4e90afbd5647b097e58a7081571c5cdd07b6f"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Ni-Vanuatu",
+      "evidence": "C'est une histoire faite de sacrifices également, dont celui des Français du Pacifique et des Ni-Vanuatu qui se portèrent volontaires en 1916 pour défendre notre sol et de leurs enfants qui, une génération plus tard, allèrent à nouveau au-devant de leur destin quand le Vanuatu devint le premier territoire d'Outre-mer rallié à la France libre le 22 juillet 1940.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_c1a0eb97a06953276098e5c151eba74d5467b8c400e47171e901a4a54d408ec2"
+    },
+    {
+      "source": "Vanuatu",
+      "relation": "LOCATED_IN",
+      "target": "Pacifique",
+      "evidence": "C'est une histoire faite de sacrifices également, dont celui des Français du Pacifique et des Ni-Vanuatu qui se portèrent volontaires en 1916 pour défendre notre sol et de leurs enfants qui, une génération plus tard, allèrent à nouveau au-devant de leur destin quand le Vanuatu devint le premier territoire d'Outre-mer rallié à la France libre le 22 juillet 1940.",
+      "confidence": 1.0,
+      "source_id": "Country_f31d37a6a05da5ac6ce75d6800acf3ca3e1764b9395e4799a2048fd2b635a7a4",
+      "target_id": "Country_fb13f49510e4991c246a7df143a4e90afbd5647b097e58a7081571c5cdd07b6f"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Étrange défaite",
+      "evidence": "Nous n'oublierons jamais que la Résistance à l'Étrange défaite a aussi commencé ici, à 16 000 kilomètres de Paris, au milieu de l'océan, et que ces volontaires du Pacifique furent de tous les combats de la France.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Event_326ce9c6e2f6365f875ff07a4cbc00ec2223f2db9fda648b73e7c3319794e7a5"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "deux conflits mondiaux",
+      "evidence": "et nous allons ensemble rendre hommage à 13 d'entre eux morts pour la France durant les deux conflits mondiaux.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Event_5d4cff5fd27e7a3c74e94399ced0550f5e35b1899380c07d0dad05faf7f08591"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Indopacifique",
+      "evidence": "C'est en Indopacifique, où la France compte 1,5 million de ressortissants, et un peu plus de 7 000 militaires qui contribuent à la paix et la sécurité.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "City_ad4fda6b6ac769bc90b3e3f4a1b59fce1d5f3b5133d22a0822b6d06f9e31461b"
+    },
+    {
+      "source": "impérialismes",
+      "relation": "MENTIONS",
+      "target": "Indopacifique",
+      "evidence": "Il y a, en Indopacifique, et tout particulièrement en Océanie, de nouveaux impérialismes qui apparaissent et une logique de puissance qui vient menacer la souveraineté de nombreux États, les plus petits, souvent les plus fragiles.",
+      "confidence": 1.0,
+      "source_id": "Theme_2f89a01fc53732d500036b2bde86a3b4ecbe236d894a7456e6b350a0fe4ccaa7",
+      "target_id": "City_ad4fda6b6ac769bc90b3e3f4a1b59fce1d5f3b5133d22a0822b6d06f9e31461b"
+    },
+    {
+      "source": "puissance",
+      "relation": "MENTIONS",
+      "target": "Indopacifique",
+      "evidence": "Il y a, en Indopacifique, et tout particulièrement en Océanie, de nouveaux impérialismes qui apparaissent et une logique de puissance qui vient menacer la souveraineté de nombreux États, les plus petits, souvent les plus fragiles.",
+      "confidence": 1.0,
+      "source_id": "Theme_d8895f67d26ec9bc257a9b6d9015cbffdb3029611e550d517fabb25ec9d2c101",
+      "target_id": "City_ad4fda6b6ac769bc90b3e3f4a1b59fce1d5f3b5133d22a0822b6d06f9e31461b"
+    },
+    {
+      "source": "souveraineté",
+      "relation": "MENTIONS",
+      "target": "Indopacifique",
+      "evidence": "Il y a, en Indopacifique, et tout particulièrement en Océanie, de nouveaux impérialismes qui apparaissent et une logique de puissance qui vient menacer la souveraineté de nombreux États, les plus petits, souvent les plus fragiles.",
+      "confidence": 1.0,
+      "source_id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b",
+      "target_id": "City_ad4fda6b6ac769bc90b3e3f4a1b59fce1d5f3b5133d22a0822b6d06f9e31461b"
+    },
+    {
+      "source": "Russia",
+      "relation": "VISITED",
+      "target": "Ukraine",
+      "evidence": "the Russians invading Ukraine",
+      "confidence": 1.0,
+      "source_id": "Country_031b4c0bba521a2a2bc16583d5da802d72be999dee34152a72afb2f7fef838ef",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "stratégie",
+      "relation": "MENTIONS",
+      "target": "organisation",
+      "evidence": "Ce changement profond d'organisation de stratégie, c'est celui que nous portons et que je suis venu ici défendre et qui, à mes yeux, est essentiel.",
+      "confidence": 1.0,
+      "source_id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794",
+      "target_id": "Theme_01dbd75772ce2e01acf43a9eed5bfc3d66a83ad34f48105944d56c5bf0aaa34b"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Costa Rica",
+      "evidence": "Et nous nous battrons ensemble là où la France accueillera en 2025 le Sommet des Nations unies sur les Océans que nous coorganisons avec le Costa Rica.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_56a1ed746f8c212254f14b70bd54599a0988a231454f23ef88a73340b229d1f5"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "Sommet des Nations unies sur les Océans",
+      "evidence": "Et nous nous battrons ensemble là où la France accueillera en 2025 le Sommet des Nations unies sur les Océans que nous coorganisons avec le Costa Rica.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_a7219b6e642c049bf83d610f653a5f97a4d7ab81a2dbc99d5e03e673912b2486"
+    },
+    {
+      "source": "francophonie",
+      "relation": "SPOKE_ABOUT",
+      "target": "francophonie",
+      "evidence": "La francophonie est une chance.",
+      "confidence": 1.0,
+      "source_id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc",
+      "target_id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "source": "francophonie",
+      "relation": "SUPPORTS",
+      "target": "francophonie",
+      "evidence": "Je veux ici que nous renforcions cette avancée de la francophonie, qui est une francophonie ouverte.",
+      "confidence": 1.0,
+      "source_id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc",
+      "target_id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Polynésie",
+      "evidence": "c'est un réengagement de la France en Mélanésie, ce sera un engagement, un réengagement en Micronésie, mais aussi en Polynésie.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_4bf3513ff1b42d45e93b2d218a934507d08df3e7ff6613fa7f2a9ababe72ebdf"
+    }
+  ]
+}

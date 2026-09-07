@@ -1,0 +1,723 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Person",
+      "name": "votre secrétaire d'État",
+      "id": "Person_abf241665b9101a51e601687d3d46e46922503727efc8ca0781b71846af6f525"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les parlementaires",
+      "id": "Person_513d1485982528e0834eb4f4c38b73da53f9e4817cd30f728fe27e32d9fc11d3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil régional",
+      "id": "Person_573578ce8dcc0cbd0d0df64d3b962407bd6d8cd3892f9ff551d383aabd8949b4"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil départemental",
+      "id": "Person_ed23b450f0ef4975a677c78549b852e0bd6220615dfe342c23dd98aaf4590810"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les présidents de conseils départementaux",
+      "id": "Person_e87af1278c5a7dce5c69d40e1636919f2da863a754384a2fd91ddd5348cb0b31"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs en vos grades et qualités",
+      "id": "Person_e0a83b70b89a53187f8607ce48a16fc90466caacfc855368b7e46eb4faa2e54f"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Theme",
+      "name": "eau",
+      "id": "Theme_63c3f847c9887c4e51c719979f77a2f6f52bec3bb93b8204957d5290860a00e7"
+    },
+    {
+      "type": "Theme",
+      "name": "littérature du XXe siècle",
+      "id": "Theme_41f69235f7a846fd1e24d4b373f3d0d607a4a8493b0c1d900b3a25b17aa3cfe3"
+    },
+    {
+      "type": "Theme",
+      "name": "politique de l'eau",
+      "id": "Theme_cec8115fd86d6abbab9f69d2f81f03d2a63ddaa93286730bff9d77c17ee24f55"
+    },
+    {
+      "type": "Theme",
+      "name": "gestion",
+      "id": "Theme_65544aefee094f2f38ab0c64b390525800cdc8db02ac638dd232654f72265b2c"
+    },
+    {
+      "type": "Theme",
+      "name": "partage",
+      "id": "Theme_29b57003c0123a354f4c87ecb0b5a5fc2d9d13ec5524bf28a9a5cf3d93518e81"
+    },
+    {
+      "type": "Country",
+      "name": "notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "City",
+      "name": "Serre-Ponçon",
+      "id": "City_b89f15ead415648f2abbf1b2722a2d3e55a2ba105f3cfaa1f4d91bfe6f2fe3fb"
+    },
+    {
+      "type": "City",
+      "name": "Alpes",
+      "id": "City_6c7c94119fd9fb72bae1f781e97de22181568639653aec8ff36ea4eb69373a92"
+    },
+    {
+      "type": "City",
+      "name": "vallées de la Provence",
+      "id": "City_da0429bcb09b7a70089ce72eec21291e9bf71ee1f27306f9b67d3bce86899f05"
+    },
+    {
+      "type": "Theme",
+      "name": "gestion de l'eau",
+      "id": "Theme_4c8ed1aecab41564679bee65be69030a52c7e03e17c53fadeab53a004d0f5454"
+    },
+    {
+      "type": "Theme",
+      "name": "pollutions",
+      "id": "Theme_7c357b952a7e46de5b02d69f133b9318e03ad0e2a55868872c4dfb676355f8f1"
+    },
+    {
+      "type": "Law",
+      "name": "directive cadre sur l'eau en Europe",
+      "id": "Law_6d7637eaddf6f2b4a5b826b635bc3242dd87df8a68ba39ef7178ebe27c3a1626"
+    },
+    {
+      "type": "Law",
+      "name": "loi de 2004",
+      "id": "Law_4eaad4a616d3d7bb28b84273d5c32b19843c61ad6e2960e4bb9f86a6516c95cb"
+    },
+    {
+      "type": "Theme",
+      "name": "pollution",
+      "id": "Theme_940c152474bd5ce5421c20a0c8caf4c90597e161361aca1907e2859ef23e26a0"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité",
+      "id": "Theme_3ca1b64490b5262af08e9f6b9b23312ee1d75f2317299eb58ba6eb450eef6651"
+    },
+    {
+      "type": "Theme",
+      "name": "ressource en eau renouvelable",
+      "id": "Theme_a86952d81e4f4e99324eda42b20c5933490d20c09a37f73bff2f4afec7e9a2da"
+    },
+    {
+      "type": "Theme",
+      "name": "sécheresses",
+      "id": "Theme_b01bb9187e520675db98ef2f866c3de435ccf19a0e594a8d885fe484b9c24677"
+    },
+    {
+      "type": "Theme",
+      "name": "dérèglement climatique",
+      "id": "Theme_60205647b2eeaf601ee4e2e6b9ea7a92cc19a6fd1c5394651d737742ade35773"
+    },
+    {
+      "type": "City",
+      "name": "2 000 communes",
+      "id": "City_858f0ba169f141a7eada0926b8f0d07c737a943cd250ed4b5fb6ac9f3f48701d"
+    },
+    {
+      "type": "City",
+      "name": "93 départements",
+      "id": "City_4a2f05b781cd033509ab947c13b720f8d05de193d2a05f64287fbdb1f1458f50"
+    },
+    {
+      "type": "Theme",
+      "name": "sécheresse",
+      "id": "Theme_12b209e5603215745b4946973f2765b3231863b41bb02179888846d28077c72e"
+    },
+    {
+      "type": "Theme",
+      "name": "approvisionnement en eau potable",
+      "id": "Theme_b87f1dcbc5451f636682ecc6df41f12c52257b5b8b99420f8ff0f89552566c40"
+    },
+    {
+      "type": "Theme",
+      "name": "restriction d'eau",
+      "id": "Theme_3e9015af9ea828fc88abb2f7f74dd1aa2fd79fb6695a5b59f36371e2428e6786"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculteurs",
+      "id": "Theme_e8bb23c61a62a4b8bc09ad80c4affb7a3e5f469e23f1498946a2d5acd6c09f59"
+    },
+    {
+      "type": "Theme",
+      "name": "pousse d’herbe",
+      "id": "Theme_aa41382a80e4c6ade82a12af7483a5eaa07dc5d1723b66e71823dbdf8942ab9f"
+    },
+    {
+      "type": "Theme",
+      "name": "maïs",
+      "id": "Theme_1a1a4679502c23f84bcf48665e695df55dbd34c5f8837f281b07740d89fbc49f"
+    },
+    {
+      "type": "Theme",
+      "name": "cultures céréalières de printemps",
+      "id": "Theme_612e9ec7e91f004d390339d20c573d036aa89c6ed46e86d7150a9ec698bd2867"
+    },
+    {
+      "type": "Theme",
+      "name": "nappes",
+      "id": "Theme_3c89b5c2fb846746be85705f169f0b3ecddf8337327b3f7c75a44c40099fa40e"
+    },
+    {
+      "type": "Theme",
+      "name": "été prochain",
+      "id": "Theme_14cb472830e482201deeb263c73cbd62e9f73348c252541c737ce4d7ad5ca244"
+    },
+    {
+      "type": "Theme",
+      "name": "Assises de l'eau",
+      "id": "Theme_4c6ef320cbd866f793cb3a4bcc9f6d87286ae5267247a23cc4157d34801ca1fe"
+    },
+    {
+      "type": "Theme",
+      "name": "préfets",
+      "id": "Theme_9ea7d1cdbd2b629efb4dd14c0859732db06c2af0370959480f8334b0a5787f0f"
+    },
+    {
+      "type": "Theme",
+      "name": "Hautes-Alpes",
+      "id": "Theme_1d9f337da79ec7139c21260f6548b13d2ef6e850a7471ccc47a9b1bd22fc5feb"
+    },
+    {
+      "type": "Theme",
+      "name": "difficile",
+      "id": "Theme_2a9e14de7011655cad822a4b7e3f68efcc1555ea8b908dfbd947f051fffb6aa3"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre",
+      "id": "Organization_bcfcec7de2d7b4cf53f630b8f4bda4918808fa7973b4a27375e60cdb59c5914a"
+    },
+    {
+      "type": "Organization",
+      "name": "conseil régional",
+      "id": "Organization_e9f725e6f67b63337bb15386767b033ec43f962df630ab214d5d15910b442ee9"
+    },
+    {
+      "type": "Organization",
+      "name": "préfets",
+      "id": "Organization_de684efc2174ee3a7076db54d156af9c9f6f81205a168aca516bd643b128943f"
+    },
+    {
+      "type": "Organization",
+      "name": "Français",
+      "id": "Organization_4f1357a72cfbcdcf3a02ff6b247baaf67b29083f59bf8603880ad22a77a92911"
+    },
+    {
+      "type": "Organization",
+      "name": "agriculteur",
+      "id": "Organization_599cf6054876916a0a8924d97b028d2ea210c6128fdd74d0eddebcfaf89511c6"
+    },
+    {
+      "type": "Organization",
+      "name": "maire",
+      "id": "Organization_80fbdc40dbb1afa2a2e35e35eb576ece8edece73d1c794e48a416cd4483a2dfc"
+    },
+    {
+      "type": "Organization",
+      "name": "chef d'entreprise",
+      "id": "Organization_9c614d3ad4f04fa5089c0ecd45c5665c0da20f8ba158858d9c4da676f43d0424"
+    },
+    {
+      "type": "Theme",
+      "name": "sobriété sur l'eau",
+      "id": "Theme_cdbdade358a5fd5384163860e7289137637465d1c57c7039255f13ba7858eab9"
+    },
+    {
+      "type": "Theme",
+      "name": "récupération des eaux de pluie",
+      "id": "Theme_0529323262d1da612fe8e13e057c5ef153a56c1d46e9cb7ba2e9de99c17c8779"
+    },
+    {
+      "type": "City",
+      "name": "certaines communes",
+      "id": "City_32cdad1c081b31f4cc0fec4be65c327c9d99e209447780b51c985219298cc0a9"
+    },
+    {
+      "type": "City",
+      "name": "votre commune",
+      "id": "City_9155aaa1edee25a558411c61e32270040d49198ecda9c07bdcc3c2062c91097c"
+    },
+    {
+      "type": "City",
+      "name": "Monsieur le maire",
+      "id": "City_5c460d801f963642a03915d29acd93f0e28ba285b8d9f6d2f0aae873c8ddba9c"
+    },
+    {
+      "type": "Person",
+      "name": "Jean LAUNAY",
+      "id": "Person_e085dd51e700803a72192e4b2d31f7c7e4271ec4cd2908c07f4feb4997d920cc"
+    },
+    {
+      "type": "Theme",
+      "name": "sobriété",
+      "id": "Theme_c065b7107e130b3277e57fc17d8c4debe61672a985823b4ca17e4e1e6dbd55a6"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "modernisation",
+      "id": "Theme_e9e0d9744d7e90ca4567e16e41f34ba1a3d63acd9dd475854e47dbfdaf126d09"
+    },
+    {
+      "type": "Theme",
+      "name": "sobriété partout et dans la durée",
+      "id": "Theme_89b52fc3e31abd6e86283bae91dcff93532320f10b94fbfdc7bff4f2c1bf52a5"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilisation de nouvelles ressources",
+      "id": "Theme_616d589093f05c875cf5f16fc4eb7928e838e9a09154837409e5c0cf0221362f"
+    },
+    {
+      "type": "Theme",
+      "name": "tarification adaptée de l'eau",
+      "id": "Theme_b5320484108d9b2bfbd7a13487d5f6bf688a7c0ae2fd1fcd92c4a5f4bb81cace"
+    },
+    {
+      "type": "Organization",
+      "name": "Première ministre",
+      "id": "Organization_4a6b19a3231d3da1c16a5d1ffed2f298c3f5e4e83b472b6f6d36b325609b04cc"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "grands acteurs",
+      "id": "Organization_b06d644813953dfda767a7bb767e593ec1463245359ef9fed0aa07ad9baa9d6e"
+    },
+    {
+      "type": "Organization",
+      "name": "nos centrales nucléaires",
+      "id": "Organization_bf35c9e00b6e511b4dacad23383ea61322fb2f1fdf0fd8f5847a51bdc8f23dd5"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "barrages",
+      "id": "Theme_e5c1b64f1b7abc669eb07e1bdd83b9ab7bf7166bdd291eb8e94cdbfbf8a58114"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue de territoire",
+      "id": "Theme_d8d108010d3bbc9eb02b7c84056b9c54c191dd682951570dec971f5ad15af534"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque des territoires",
+      "id": "Organization_d55f7a0134f40cb6e4d5b6b7d019bb861c510c7bbb83a8f6a339ea15442339cf"
+    },
+    {
+      "type": "Organization",
+      "name": "Caisse des dépôts et consignations",
+      "id": "Organization_6c653c3f53cfbf6a802f4e193d30815ed9c8913bdbc0bff26dff7097e182d52c"
+    },
+    {
+      "type": "City",
+      "name": "Guadeloupe",
+      "id": "City_31dc7614597a9b1a20af10480699c293505cd808e95212580670b8b5ad49dea5"
+    },
+    {
+      "type": "City",
+      "name": "Mayotte",
+      "id": "City_3dec527a64f181a960dc6a603b915acb2fd5fe3edc9a3709d2a6990c3fb25dc8"
+    },
+    {
+      "type": "Organization",
+      "name": "la région",
+      "id": "Organization_7cc139ce07dd74730da06dde682ac092bf242bfd13769d63e7875993317a9b0c"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "eaux usées",
+      "id": "Theme_b2a2a2bd88b6534acaea0d0ee7eaa706983bb915d4da3822a73d61ce9e46c749"
+    },
+    {
+      "type": "Theme",
+      "name": "eaux de pluie",
+      "id": "Theme_f41edb679077d4dd4b6c81a123e0cd04fe1fd85a4bd68bcd22041abe58bbc116"
+    },
+    {
+      "type": "Theme",
+      "name": "Israël",
+      "id": "Theme_2df9409bcba810cc0a889253fbf49eedc86164de70f44159adcb60ac27059320"
+    },
+    {
+      "type": "Theme",
+      "name": "Espagne",
+      "id": "Theme_74d0453f0cf4d931896dfb9cfd3209c23eb24603f3ac4c4e61b697b06fa450fd"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "industriels",
+      "id": "Organization_e1239d6bdf2e17c31d84d78eb67804da9b9324192903c03c7b5fe428acf9fb17"
+    },
+    {
+      "type": "Theme",
+      "name": "eau usée",
+      "id": "Theme_2d0910d899db40e6d41fb2e040a45a42724a4453c05749ae78d9c149704c0a60"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "climatique",
+      "id": "Theme_4abf026fe9ca32e0caff98a931369a221f531d982e6efa70c6c21719a6ce0a0d"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvellement des générations agricoles",
+      "id": "Theme_8a41b44468e4d407c8b10cbbee88202bb64be1e9ad779c9ecc576654b87f9e8d"
+    },
+    {
+      "type": "Theme",
+      "name": "hydraulique agricole",
+      "id": "Theme_1d327805f79a1564386b1ccdea18cbdc58527b301679d6a8ac5d54a500a253ed"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles générations d'agriculteurs",
+      "id": "Theme_68f6bea1bd1a4c0db2f2ac4ea4f66f47926fbb6536d8cde6a7253acc2f8af81a"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté alimentaire",
+      "id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "type": "Theme",
+      "name": "irrigation",
+      "id": "Theme_38061642633adb620ffcf6070fadfa2fc95081030aa95375f0aa7626c5082c04"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "plan Eau",
+      "id": "Theme_d8c85b03815419f62dba13c4982261fda9645be9bd528b5561377056809026c3"
+    },
+    {
+      "type": "Theme",
+      "name": "qualité de l'eau",
+      "id": "Theme_2523166167def9264777088c7a908a6c881d2a6e0e078c9f62da289a818116a3"
+    },
+    {
+      "type": "Theme",
+      "name": "organisation",
+      "id": "Theme_01dbd75772ce2e01acf43a9eed5bfc3d66a83ad34f48105944d56c5bf0aaa34b"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement",
+      "id": "Theme_d41a2410d8b1353cdac216ebec7bce81e567ae80b1d56a5c5b7942fee7e103c4"
+    },
+    {
+      "type": "Theme",
+      "name": "pratiques vertueuses",
+      "id": "Theme_bfb0296bf59cfbdd14dc032419a3209f3943e369cf7aa5d76d561fdae7fae4d5"
+    },
+    {
+      "type": "Theme",
+      "name": "économie de l'eau",
+      "id": "Theme_01b3220999fe00725970c677dd317085b1a3e2bc4411322e8032503f65abf3f9"
+    },
+    {
+      "type": "Organization",
+      "name": "agences de l'eau",
+      "id": "Organization_103f738a40aa862b5a8814bc97fcc82aadd72df09d7ee2082a0c17e954777d31"
+    },
+    {
+      "type": "Theme",
+      "name": "accès à une eau potable de qualité pour ses besoins essentiels",
+      "id": "Theme_e939c289e7d1a406e05a3186f4e69d6fa2e375f043cd85a8e79b2e99a82b514b"
+    },
+    {
+      "type": "Theme",
+      "name": "bon sens",
+      "id": "Theme_3010dabbb7ca32889afcb152f8dd104eafd17ef99ca0364c91745830357a60f9"
+    },
+    {
+      "type": "Theme",
+      "name": "tarification progressive",
+      "id": "Theme_f2a1e0592f4b4cfaab499a8fdf2957ceb14a07b6c2b3956028c04017cf3f8dbb"
+    },
+    {
+      "type": "Theme",
+      "name": "bien commun",
+      "id": "Theme_0fa516cd569c8f13d481b0e582c31b41d3a0d36c665a0708ec2cf6a366f2de3f"
+    },
+    {
+      "type": "Organization",
+      "name": "Le ministre",
+      "id": "Organization_3f1a6478f0e968330c14f40bafbb9c8dec436a49f513a786f5f85b3b3fe3ef02"
+    },
+    {
+      "type": "Organization",
+      "name": "Les élus",
+      "id": "Organization_4a7f3a5ca734846b957b16488af056e3200a06dc53033acb9cd57e663556ed2d"
+    },
+    {
+      "type": "Organization",
+      "name": "Les comités de bassin",
+      "id": "Organization_f1a86a36dab16e1c178766fb5e82fd9e828572733aca42fe35436b8a013a0c88"
+    },
+    {
+      "type": "Organization",
+      "name": "Les agences de l'eau",
+      "id": "Organization_a173e27241b2aa2edd3cc4554090c9e502e9609c52c4319c57ef690db8459386"
+    },
+    {
+      "type": "City",
+      "name": "communes",
+      "id": "City_0c2882513b7c1336427f8de0f06f9a5b58d33ec77862623276998fabee7ba07d"
+    },
+    {
+      "type": "Organization",
+      "name": "établissement public de coopération intercommunale (EPCI)",
+      "id": "Organization_010326c73d35a1d78f45d4944ef494c986d548f5aab623e06e54674381bcda50"
+    },
+    {
+      "type": "Theme",
+      "name": "intercommunalité",
+      "id": "Theme_b2919bb3b9d41779ebe2bd2f2f00ceaff69d47a7ffaf8efd6cea02f8a1533e59"
+    },
+    {
+      "type": "Theme",
+      "name": "mutualisation",
+      "id": "Theme_59c28dd3914b57917cbb377970a8221cb9d29de83fc058ee2adb6e76b667979a"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle de l'intercommunalité",
+      "id": "Theme_b519b41a27f389463e1280db539d63d42bc81c4926f610d26cf8c55164a2d69b"
+    },
+    {
+      "type": "Theme",
+      "name": "nouveau syndicat possible",
+      "id": "Theme_f64b033ecdad7c20060e4da3ef9727f155b3864cb1b2d24e91e801d3f6b3c727"
+    },
+    {
+      "type": "Theme",
+      "name": "accélération de cet investissement",
+      "id": "Theme_abbba8c633c809f786e96e5abef606226c69ee996999ec65740265a2bc84a3c5"
+    },
+    {
+      "type": "Theme",
+      "name": "planification",
+      "id": "Theme_0ffd584ebe6be9e9eb65a50bce6a7e2f51ddd61323ede02ea36bd9c0516851c3"
+    },
+    {
+      "type": "City",
+      "name": "commune",
+      "id": "City_6b1d79a0d76ff35b8a46e2dfbc874bc1a918e748d3564221460687c88a96a3aa"
+    },
+    {
+      "type": "Theme",
+      "name": "effort",
+      "id": "Theme_bbc0483f0da6a6341360b086154415ab379cb11db967c512d7d0a53a7ca2e016"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "notre pays",
+      "relation": "PROPOSED",
+      "target": "politique de l'eau",
+      "evidence": "Cette politique que notre pays a créée, c'est une politique de l'eau innovante dès les années 60",
+      "confidence": 1.0,
+      "source_id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539",
+      "target_id": "Theme_cec8115fd86d6abbab9f69d2f81f03d2a63ddaa93286730bff9d77c17ee24f55"
+    },
+    {
+      "source": "Serre-Ponçon",
+      "relation": "LOCATED_IN",
+      "target": "Alpes",
+      "evidence": "le lac de Serre-Ponçon, qui n'est pas qu'un barrage hydroélectrique, mais bien un projet de gestion de l'eau des cimes des Alpes jusqu’aux vallées de la Provence",
+      "confidence": 1.0,
+      "source_id": "City_b89f15ead415648f2abbf1b2722a2d3e55a2ba105f3cfaa1f4d91bfe6f2fe3fb",
+      "target_id": "City_6c7c94119fd9fb72bae1f781e97de22181568639653aec8ff36ea4eb69373a92"
+    },
+    {
+      "source": "Serre-Ponçon",
+      "relation": "LOCATED_IN",
+      "target": "vallées de la Provence",
+      "evidence": "le lac de Serre-Ponçon, qui n'est pas qu'un barrage hydroélectrique, mais bien un projet de gestion de l'eau des cimes des Alpes jusqu’aux vallées de la Provence",
+      "confidence": 1.0,
+      "source_id": "City_b89f15ead415648f2abbf1b2722a2d3e55a2ba105f3cfaa1f4d91bfe6f2fe3fb",
+      "target_id": "City_da0429bcb09b7a70089ce72eec21291e9bf71ee1f27306f9b67d3bce86899f05"
+    },
+    {
+      "source": "nappes",
+      "relation": "SPOKE_ABOUT",
+      "target": "sécheresse",
+      "evidence": "80% de nos nappes ont un niveau bas ou très bas alors que nous étions, avant la sécheresse de 2022, à un niveau de 50%",
+      "confidence": 1.0,
+      "source_id": "Theme_3c89b5c2fb846746be85705f169f0b3ecddf8337327b3f7c75a44c40099fa40e",
+      "target_id": "Theme_12b209e5603215745b4946973f2765b3231863b41bb02179888846d28077c72e"
+    },
+    {
+      "source": "préfets",
+      "relation": "SPOKE_ABOUT",
+      "target": "préfets",
+      "evidence": "Des premiers arrêtés ont été pris par les préfets",
+      "confidence": 1.0,
+      "source_id": "Organization_de684efc2174ee3a7076db54d156af9c9f6f81205a168aca516bd643b128943f",
+      "target_id": "Organization_de684efc2174ee3a7076db54d156af9c9f6f81205a168aca516bd643b128943f"
+    },
+    {
+      "source": "certaines communes",
+      "relation": "LOCATED_IN",
+      "target": "certaines communes",
+      "evidence": "des situations de très grande difficulté dans certaines communes",
+      "confidence": 1.0,
+      "source_id": "City_32cdad1c081b31f4cc0fec4be65c327c9d99e209447780b51c985219298cc0a9",
+      "target_id": "City_32cdad1c081b31f4cc0fec4be65c327c9d99e209447780b51c985219298cc0a9"
+    },
+    {
+      "source": "la région",
+      "relation": "SPOKE_ABOUT",
+      "target": "sobriété",
+      "evidence": "La région s'est lancée dans ce travail et je l'en remercie, mais c'est ce qui va permettre justement d'organiser la sobriété au plus près du terrain et donc de lutter là aussi contre les fuites et la modernisation de nos réseaux.",
+      "confidence": 1.0,
+      "source_id": "Organization_7cc139ce07dd74730da06dde682ac092bf242bfd13769d63e7875993317a9b0c",
+      "target_id": "Theme_c065b7107e130b3277e57fc17d8c4debe61672a985823b4ca17e4e1e6dbd55a6"
+    },
+    {
+      "source": "la région",
+      "relation": "SUPPORTS",
+      "target": "sobriété",
+      "evidence": "La région s'est lancée dans ce travail et je l'en remercie, mais c'est ce qui va permettre justement d'organiser la sobriété au plus près du terrain et donc de lutter là aussi contre les fuites et la modernisation de nos réseaux.",
+      "confidence": 1.0,
+      "source_id": "Organization_7cc139ce07dd74730da06dde682ac092bf242bfd13769d63e7875993317a9b0c",
+      "target_id": "Theme_c065b7107e130b3277e57fc17d8c4debe61672a985823b4ca17e4e1e6dbd55a6"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "eau usée",
+      "evidence": "en France, moins de 1% de l'eau usée est retraitée pour être utilisée une seconde fois.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_2d0910d899db40e6d41fb2e040a45a42724a4453c05749ae78d9c149704c0a60"
+    },
+    {
+      "source": "agriculture",
+      "relation": "MENTIONS",
+      "target": "souveraineté alimentaire",
+      "evidence": "l'eau est indispensable à l'agriculture. Elle est donc indispensable à notre souveraineté alimentaire.",
+      "confidence": 1.0,
+      "source_id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77",
+      "target_id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "source": "irrigation",
+      "relation": "MENTIONS",
+      "target": "innovation",
+      "evidence": "Tout faire pour réduire cette irrigation par des meilleures pratiques et de l'innovation, de l'adaptation de cultures.",
+      "confidence": 1.0,
+      "source_id": "Theme_38061642633adb620ffcf6070fadfa2fc95081030aa95375f0aa7626c5082c04",
+      "target_id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "source": "souveraineté alimentaire",
+      "relation": "SPOKE_ABOUT",
+      "target": "plan Eau",
+      "evidence": "Notre souveraineté alimentaire n'est pas négociable et le plan Eau pose un principe simple :",
+      "confidence": 1.0,
+      "source_id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde",
+      "target_id": "Theme_d8c85b03815419f62dba13c4982261fda9645be9bd528b5561377056809026c3"
+    },
+    {
+      "source": "Monsieur le ministre",
+      "relation": "SPOKE_ABOUT",
+      "target": "économie de l'eau",
+      "evidence": "L'économie de l'eau, je parle, sous le contrôle de Monsieur le ministre",
+      "confidence": 1.0,
+      "source_id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02",
+      "target_id": "Theme_01b3220999fe00725970c677dd317085b1a3e2bc4411322e8032503f65abf3f9"
+    }
+  ]
+}

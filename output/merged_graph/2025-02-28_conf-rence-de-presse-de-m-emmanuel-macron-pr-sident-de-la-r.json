@@ -1,0 +1,700 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le maire de Porto",
+      "id": "Person_d06d7f696608485bb0e8fadb938722f4ef1e1c21f3bb556232b8f78a507399e5"
+    },
+    {
+      "type": "City",
+      "name": "Porto",
+      "id": "City_7dc81b065040e16423a90f9367dbc51bc044fde49a3dee5880a081491c6941f5"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Country",
+      "name": "Portugal",
+      "id": "Country_cf5e0a7a677f823b7b8ff468282692a5b0531c04401a108b2b705a578a7907b7"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Law",
+      "name": "traité d'amitié et de coopération",
+      "id": "Law_355c7e8ae7c8f9712080d357d5b783dac58e1bf8e7e7f5b6c5b344769f50b3a4"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "exil",
+      "id": "Theme_d86f4137e9c67d1af29529dc1e43517cf4ace953d2cb814a399613e6be3fbc58"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Person",
+      "name": "SALAZAR",
+      "id": "Person_b1ad9333cd116f9fd589e4af0cdb05aaf5f7921e435d11227bcb641daef7d93b"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Président français",
+      "id": "Person_e7012a6b97ae94a4b4c9fbcdb54dc7078b40059fab050c6781a6e512a09d072c"
+    },
+    {
+      "type": "City",
+      "name": "Avignon",
+      "id": "City_7eb0799abcad1bfbab6e375cca794e6f39a6ded4947ea34f0ac4db34b36b811f"
+    },
+    {
+      "type": "City",
+      "name": "Mulhouse",
+      "id": "City_0fe0094aebde69d58d2dec6f9908158c0dfcd12dadd8a2c2adb8d20d1393ab4a"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "infrastructure",
+      "id": "Theme_56bf334af851c53637205b6d244369b7a79242b053c01761e47c234c7dac1b93"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité des titres",
+      "id": "Theme_59c26c307331f7140f6a8e97a737f4adca2586e7e65aec4655695b15063789e6"
+    },
+    {
+      "type": "Theme",
+      "name": "technologie",
+      "id": "Theme_f50f2e73d342423ab68fbb527a8e6f41bb64bfac8440718a497ef6f75a9032d8"
+    },
+    {
+      "type": "City",
+      "name": "Lisbonne",
+      "id": "City_3b2c76f6fdbcedd0f2f1da00e9207b46fcf90052897133894e132919592a443d"
+    },
+    {
+      "type": "City",
+      "name": "Madrid",
+      "id": "City_552831fca4f5e6013e83b2043d4b9c5a9ec761f7794e9e75a5a50bd93ab5d510"
+    },
+    {
+      "type": "Organization",
+      "name": "ANA Aeroportos",
+      "id": "Organization_6d38d42245eceecc5b27affbe9e6f91f77dcd077d344f5760d47229c3422f275"
+    },
+    {
+      "type": "Organization",
+      "name": "Vinci",
+      "id": "Organization_59add23885ccd9fae1212da484452ebc9e750001fe39e5d5c9d907806f45db20"
+    },
+    {
+      "type": "Organization",
+      "name": "Alstom",
+      "id": "Organization_ee8b36951a3294d193f8090d5bede0b4bdd17668901dd2348838ccbe669910db"
+    },
+    {
+      "type": "Organization",
+      "name": "Air France",
+      "id": "Organization_30714a786ae2ca272d2590c5a11f2eb2994257dc88612836ec1e8df595a8b485"
+    },
+    {
+      "type": "Organization",
+      "name": "Beato",
+      "id": "Organization_31b33c5232bea729f2f5fc6818f554e64dde4367f2879e27fde41dd40fd3d017"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté technologique",
+      "id": "Theme_64c44237890c648828d00038dd2d444502361f6d06825992d62e522889f2b127"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies vertes",
+      "id": "Theme_1fcf986f5e27384b03aacf0d6869b90e6e743f1e8cd05b112af7cd42fc1a7a30"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "canons CAESAR",
+      "id": "Theme_fe1228a3da3d74c86a660692e5941e9a65eaf33225f7eaf1d840389d6f534d56"
+    },
+    {
+      "type": "Theme",
+      "name": "drones",
+      "id": "Theme_b2b8332bc607f05d7b6db8865bedd52ec8fa78a4a9e250c77515b3451bf1d2b9"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "Versailles",
+      "id": "Theme_e6bde713171746c5a18770772de8aa7cf6e526dfd6d8f4426d340488c4169d2d"
+    },
+    {
+      "type": "Organization",
+      "name": "Portugal",
+      "id": "Organization_81d23402917c13f8171346f6d43c6b92dc3c29dde118e92d96482191a20ea7b6"
+    },
+    {
+      "type": "Event",
+      "name": "Conseil extraordinaire",
+      "id": "Event_4706ffc818b524f56a16bfb3c5b6a48e3a2f52df9bf93a247ebda94530fe0c32"
+    },
+    {
+      "type": "City",
+      "name": "Bruxelles",
+      "id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "type": "Theme",
+      "name": "systèmes anti-drones",
+      "id": "Theme_996db73f62c8d5f6bf60c20ab986248432e96d9870c78d57327d42cc083ff6e6"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités maritimes",
+      "id": "Theme_fa2da3a25079a3e04c3367b078c579115867767b9ac15f3afd98a2923aca1133"
+    },
+    {
+      "type": "Theme",
+      "name": "tirs de longue portée",
+      "id": "Theme_545bc4bbf515fdbe85233b749bc0ecaa01bf580a8cb1c654d67c1c3925f27662"
+    },
+    {
+      "type": "Theme",
+      "name": "petite révolution",
+      "id": "Theme_ef2f3eae1099e1ae4389fa3f565a34170250dddb135142f0998a2427b553f2ac"
+    },
+    {
+      "type": "Event",
+      "name": "guerre d'agression russe en Ukraine en 2022",
+      "id": "Event_519d7ad19f9036aa88968624650e58ed19cb34d5a1ec742c802b4aac87fa6bda"
+    },
+    {
+      "type": "Event",
+      "name": "trouble",
+      "id": "Event_94da5cac083710042dbeb4eaead178142da804a0c9463869b86794b1b73cde09"
+    },
+    {
+      "type": "Event",
+      "name": "Sommet des Nations Unies sur les océans",
+      "id": "Event_b5151afd126da82f8f3a3c0c7576b5d1fc3eeaaf77038dd48d20fb993ab02d59"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "City",
+      "name": "Costa Rica",
+      "id": "City_2f740dae299fb0fc6b3b79a49a0232638bea49439562c3ac14817b193b60e52d"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président de la République",
+      "id": "Person_e86345b05d8782cfddaa96e93ade5433169a424e284eedc4c7f2b6b6bb49576c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Person",
+      "name": "Donald TRUMP",
+      "id": "Person_0733a79f3150052cccafd940cdbbd3c8e236062bb642b00d56f0ff8484ba3762"
+    },
+    {
+      "type": "Person",
+      "name": "François HOLLANDE",
+      "id": "Person_2c9e09179c21899d7e3c93e300ca8a504da99ff5bbeb4149aa2c13ca2cfe6917"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Organization",
+      "name": "Renew",
+      "id": "Organization_5d87781277e79d31219b8d004a359c07d5f290f35d01409b118576bf34bbae83"
+    },
+    {
+      "type": "Person",
+      "name": "TRUMP",
+      "id": "Person_e9dfc8bfa15c82b9c78141b10f0d7bfd696950b3d2d38d7b0393c9d47c3485e8"
+    },
+    {
+      "type": "Person",
+      "name": "Keir STARMER",
+      "id": "Person_2c015128f84446db2e051d7e5ec37de05f8fb22660c7dc2d4411af2e8da3cf4a"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "tariFs",
+      "id": "Theme_6e4fd7433906c2ee4d904e7ce19d8886f9a4121d8d8468481d40874c61c6bb9b"
+    },
+    {
+      "type": "Theme",
+      "name": "équilibre commercial",
+      "id": "Theme_c82f81d7a3d0516d6cdba59ba858f9d9148a1ba7eb2f0afe27ef2906e73570a4"
+    },
+    {
+      "type": "Organization",
+      "name": "administration américaine",
+      "id": "Organization_ba60577934bcf4b22af350822491da2dd9db81123c42d196d3a6076ecfaa6bc6"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Theme",
+      "name": "déséquilibre économique",
+      "id": "Theme_27ef751dc0c583164ccbfe34b4451dd432354b740b1d40580e72be6df4f87434"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie stratégique européenne",
+      "id": "Theme_ba8f9b47060b84f3ff8d3ef0085010e044fd570ab0d70bb054780b6fe75c4c2c"
+    },
+    {
+      "type": "Country",
+      "name": "Syrie",
+      "id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594"
+    },
+    {
+      "type": "Country",
+      "name": "Afghanistan",
+      "id": "Country_5ea7a9152b57f52d563390097c0d7ee8c7520b1a7fb13ff16e8c8d519cc49736"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégique",
+      "id": "Theme_babc2e2cb71abc7c22abc65e62f304d6775efebf2c13b7c66a9a53363ab08099"
+    },
+    {
+      "type": "Theme",
+      "name": "savoir",
+      "id": "Theme_45e075e7203f6c269008206942696177cc8c6767a9f6d434d554ed62c55c6774"
+    },
+    {
+      "type": "Theme",
+      "name": "climatique",
+      "id": "Theme_4abf026fe9ca32e0caff98a931369a221f531d982e6efa70c6c21719a6ce0a0d"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes de retraite",
+      "id": "Theme_38772249b5bce35b0feb7c719d31af0e3feb2218b97b05b4112834bcb878cd1f"
+    },
+    {
+      "type": "Theme",
+      "name": "finances publiques",
+      "id": "Theme_5c2dc2f996e67f8ddbe79eb535369467c79e0718dbddb27732da4838032796fd"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "conséquences",
+      "id": "Theme_e4a68e9bb8d6b669cf85ed477ba7a61f21dcca887dfcf505368abd447e53d053"
+    },
+    {
+      "type": "Theme",
+      "name": "causes",
+      "id": "Theme_d248783ebb8beea2a02a46edb2a1906259a050c522d168b528606aa4f0fdfe03"
+    },
+    {
+      "type": "Theme",
+      "name": "émotion",
+      "id": "Theme_7389467e2ded5a60cc6abeae36d04559f45df40ed465d309a6e67f726941378d"
+    },
+    {
+      "type": "Theme",
+      "name": "scènes de guerre",
+      "id": "Theme_88fb3f28063af1aa65aaf1b075103f5b27470082c7cdc97a576d90e7349b0bdd"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Person",
+      "name": "Poutine",
+      "id": "Person_cd18bc7f49bb7d64b17bcbd894d6a8752a9076a00deeefdb299e52309a31d8e5"
+    },
+    {
+      "type": "Event",
+      "name": "conflit",
+      "id": "Event_c0df31e162f0e8ebff6a765b281e943091b5ce0824fe4dc1b13947f845ec8f84"
+    },
+    {
+      "type": "Event",
+      "name": "guerre d'agression",
+      "id": "Event_29378e0c57ee99d6dd5c037deacfa2a7322226032099e93b56cb598821f36279"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "City",
+      "name": "Londres",
+      "id": "City_46110e3e9c35de9d2cda1109fbec5fe7701b958198ac1143e8e5aa66bd4be03f"
+    },
+    {
+      "type": "Country",
+      "name": "Londres",
+      "id": "Country_b2d43d56b31fc4dd95d9c3250ed4d3dca08b02b147bcab2388f5d29afeaf8f28"
+    },
+    {
+      "type": "Theme",
+      "name": "strategic ambiguity",
+      "id": "Theme_f2c694bee44b35c4a55d70438b902ae2e9fcecd027b7940800c53f8b74c93aae"
+    },
+    {
+      "type": "Theme",
+      "name": "boots on the ground",
+      "id": "Theme_85e7471cc651e303e7b20115053a5d0cea5dbf8950b879e26c2733a3dbfe32ab"
+    },
+    {
+      "type": "Theme",
+      "name": "escalation",
+      "id": "Theme_2fb06f72b192454c047fe12e1ead2013d3b070f10d37078c1063c7a39ae6103e"
+    },
+    {
+      "type": "Theme",
+      "name": "landslide victory of Russia",
+      "id": "Theme_bf9792ba928aedc00b7e0a69f2522e09d4b9eecaf0772e1a41789f3c7503ceac"
+    },
+    {
+      "type": "Theme",
+      "name": "special operation for 3 weeks",
+      "id": "Theme_fe2efeaec06b311c2b132f2a3eb91eade64c99c0cbb9b4a96121053d7ff8024f"
+    },
+    {
+      "type": "Theme",
+      "name": "territories",
+      "id": "Theme_8764f148d86f9403f658bbd8e6db6f923928337e000f2ed1f2f3ccf19914ae92"
+    },
+    {
+      "type": "Theme",
+      "name": "victory for Russia",
+      "id": "Theme_a5abaf8b3c3220dd51e2771bb3bd8ef5d7ae47bbc3949cdec9f4f5721b53264a"
+    },
+    {
+      "type": "Theme",
+      "name": "strategic defeats for Russia",
+      "id": "Theme_a58d833a1949d816a01fd29580f15786b50094ce451f093f6ecc839f7bd0f46a"
+    },
+    {
+      "type": "Theme",
+      "name": "Sweden and Finland joining NATO",
+      "id": "Theme_af408c83d0be09d743688c7c8c08bc7207e64f02851c33fd38d4693d391bba09"
+    },
+    {
+      "type": "Theme",
+      "name": "peace",
+      "id": "Theme_0082d26aa9d69c9ec8c2056e249402a2f56198ef48dc726b4fab95ea59ce7c3d"
+    },
+    {
+      "type": "Person",
+      "name": "ZELENSKY",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "Person",
+      "name": "François BAYROU",
+      "id": "Person_bcb0facb711b5ad72e08a2979866754b433946555c36399aaf43088a43b5a8ad"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue",
+      "id": "Theme_8fb31b9853206b0359255c0fef4879f64671e613ad9dd3d309e1b59eb0689edc"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "loi",
+      "id": "Theme_aaa751cd5b857da1d5f067b90439cca5af7e59784eb0537f6c5b647db27ec7a1"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Person",
+      "name": "Gérald DARMANIN",
+      "id": "Person_26fce8f686185cecdd6045c5b584a52c237e63abd49d841c4332d6da4d506022"
+    },
+    {
+      "type": "Person",
+      "name": "Président TEBBOUNE",
+      "id": "Person_7fefb529a18a07592a866d0c53b7f8e39b80d19e323b61dd6c4b6e2f880b4cb7"
+    },
+    {
+      "type": "Law",
+      "name": "accords de 68",
+      "id": "Law_e1733f9bf55c7f08338d831f07d0041bfeca267c51bc6b1e2b6253ff05f2cac0"
+    },
+    {
+      "type": "Law",
+      "name": "accords de 94",
+      "id": "Law_18dc66f50f6356ef3c964f514be0fe56298026c5e244b2730bc33ec83753303a"
+    },
+    {
+      "type": "Person",
+      "name": "Boualem SANSAL",
+      "id": "Person_c078073c9c70cdae5721be1a0241704b69387a5ac1fd3c71cb5408b1bcd3e518"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "Augmentation générale et durable des prix",
+      "id": "Theme_5eb116de1d5e16531ecfc3d1ce72deda9884f4175ae830ddb36e0359ccec5368"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence européenne",
+      "id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "où notre Europe est bousculée",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "souveraineté technologique",
+      "relation": "MENTIONS",
+      "target": "souveraineté technologique",
+      "evidence": "en effet, de souveraineté technologique, économique, industrielle européenne, qui est plus indispensable que jamais.",
+      "confidence": 1.0,
+      "source_id": "Theme_64c44237890c648828d00038dd2d444502361f6d06825992d62e522889f2b127",
+      "target_id": "Theme_64c44237890c648828d00038dd2d444502361f6d06825992d62e522889f2b127"
+    },
+    {
+      "source": "souveraineté technologique",
+      "relation": "MENTIONS",
+      "target": "souveraineté",
+      "evidence": "et créer de la souveraineté technologique.",
+      "confidence": 1.0,
+      "source_id": "Theme_64c44237890c648828d00038dd2d444502361f6d06825992d62e522889f2b127",
+      "target_id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "source": "Conseil extraordinaire",
+      "relation": "LOCATED_IN",
+      "target": "Bruxelles",
+      "evidence": "Nous aurons ensemble le 6 mars prochain un Conseil extraordinaire à Bruxelles qui est un rendez-vous important dans lequel nous allons promouvoir justement cette volonté d'aller beaucoup plus vite et plus fort, de dégager des financements nationaux et européens supplémentaires, d'aller vers des solutions très innovantes pour investir beaucoup plus sur notre défense et notre sécurité, mais de le faire pour produire en Européens.",
+      "confidence": 1.0,
+      "source_id": "Event_4706ffc818b524f56a16bfb3c5b6a48e3a2f52df9bf93a247ebda94530fe0c32",
+      "target_id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "source": "Conseil extraordinaire",
+      "relation": "SPOKE_ABOUT",
+      "target": "défense",
+      "evidence": "Nous aurons ensemble le 6 mars prochain un Conseil extraordinaire à Bruxelles qui est un rendez-vous important dans lequel nous allons promouvoir justement cette volonté d'aller beaucoup plus vite et plus fort, de dégager des financements nationaux et européens supplémentaires, d'aller vers des solutions très innovantes pour investir beaucoup plus sur notre défense et notre sécurité, mais de le faire pour produire en Européens.",
+      "confidence": 1.0,
+      "source_id": "Event_4706ffc818b524f56a16bfb3c5b6a48e3a2f52df9bf93a247ebda94530fe0c32",
+      "target_id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "source": "Conseil extraordinaire",
+      "relation": "SPOKE_ABOUT",
+      "target": "sécurité",
+      "evidence": "Nous aurons ensemble le 6 mars prochain un Conseil extraordinaire à Bruxelles qui est un rendez-vous important dans lequel nous allons promouvoir justement cette volonté d'aller beaucoup plus vite et plus fort, de dégager des financements nationaux et européens supplémentaires, d'aller vers des solutions très innovantes pour investir beaucoup plus sur notre défense et notre sécurité, mais de le faire pour produire en Européens.",
+      "confidence": 1.0,
+      "source_id": "Event_4706ffc818b524f56a16bfb3c5b6a48e3a2f52df9bf93a247ebda94530fe0c32",
+      "target_id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "source": "États-Unis d'Amérique",
+      "relation": "ALLIED_WITH",
+      "target": "Europe",
+      "evidence": "pour nos intérêts géopolitiques partagés entre les États-Unis d'Amérique et les Européens",
+      "confidence": 1.0,
+      "source_id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "souveraineté européenne",
+      "evidence": "C'est pour ça que vous m'entendez depuis 7 ans parler de souveraineté européenne et d'autonomie stratégique européenne.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "autonomie stratégique européenne",
+      "evidence": "C'est pour ça que vous m'entendez depuis 7 ans parler de souveraineté européenne et d'autonomie stratégique européenne.",
+      "confidence": 1.0,
+      "source_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb",
+      "target_id": "Theme_ba8f9b47060b84f3ff8d3ef0085010e044fd570ab0d70bb054780b6fe75c4c2c"
+    },
+    {
+      "source": "Syrie",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "les Européens laissés seuls en Syrie",
+      "confidence": 1.0,
+      "source_id": "Country_d9cfde24284a7f882398668e6e53472da7d4bbbc565615b9b56aa737e738f594",
+      "target_id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Algérie",
+      "evidence": "Ensuite, pour ce qui est de la relation entre la France et l'Algérie, ce qui s'est passé à Mulhouse a heurté tout le monde, et je le dis ici très clairement, rien ne peut prévaloir sur la sécurité de nos compatriotes.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    }
+  ]
+}

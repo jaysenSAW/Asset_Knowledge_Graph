@@ -1,0 +1,608 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Varces",
+      "id": "City_bab0dae9f7aa13d4d36cc0575ae7aa20110a7e14f39b42a9e857ba3151f16047"
+    },
+    {
+      "type": "City",
+      "name": "Grenoble",
+      "id": "City_fa629d484a8f9aa39ff5e4109dbd2c0dfebcc0de6a03a19ba5127cdeac55b4c2"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "25e brigade d'infanterie de montagne",
+      "id": "Organization_ab6cf361b10a1874d7f345e5715f938ceaee1afa60cc280da6388f7bc539ed99"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement de la jeunesse",
+      "id": "Theme_ec54c2259a771e1f54023d1083a96f825433c04a866deb754e90787c88a6c15b"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "citoyenneté",
+      "id": "Theme_299e26433fd038aaeb6d9c98e39f7323f3f780a7ec7bf9addad3444e3982be18"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la ministre des Armées",
+      "id": "Person_58f9004827302f1948ae100e4d68b9928fb33486be40eb694e2db2c7e3d75dc0"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la ministre déléguée",
+      "id": "Person_f62569830517ba8d8cd5508370bc149eeeceddb75c3a1952579d7b67dcf7e4b1"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les parlementaires",
+      "id": "Person_ee51dc2324bec5b163f1b8c4d3c4713f0a34d4232a11b6a3033c9f8b0c2a0fa2"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le chef d'état-major des Armées",
+      "id": "Person_1f83a1b709c29b766edb6b98978d332e04de52962a1652e0a4e20e351b1b05e0"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Préfète",
+      "id": "Person_708b880772f160c9289726fd2cc99d52276509f529d5545869aaf0914ef3f7b3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil départemental",
+      "id": "Person_ed23b450f0ef4975a677c78549b852e0bd6220615dfe342c23dd98aaf4590810"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la vice-présidente du Conseil régional",
+      "id": "Person_87e6e00cc4c83f1fe4bd178bda89122493ddc5188d182876aac7b3aff8ae7422"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le secrétaire général pour l'administration",
+      "id": "Person_6dae685d039ea17079d1370c4caf93cd393dcd126cd4474bf3914b6b7b986c93"
+    },
+    {
+      "type": "Person",
+      "name": "Messieurs les chefs d'état-major d'armée",
+      "id": "Person_9ee489a16bffd663aab816ff9899eca19185f543e5275076a2ae1e4280f77b11"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le directeur général de la Gendarmerie nationale",
+      "id": "Person_1c75c0c3a959fede8d977aad6dc680d94d48447092bc57d6b10125ce32683bea"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les directeurs",
+      "id": "Person_ed26d8d5cd18790a2c4be45951787a8fe616dd7c4bcb2fa3d6ae4e7b76972be9"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les officiers généraux",
+      "id": "Person_e97ffd5fb35c6c47e8766e9394ce684a73bc91bc308f279bb27282a857f73974"
+    },
+    {
+      "type": "Person",
+      "name": "officiers",
+      "id": "Person_c8171bd3ed8cbc7cf669a5a86eabca249295516f0d8bd47e68ece1fee0d459b1"
+    },
+    {
+      "type": "Person",
+      "name": "sous-mariniers",
+      "id": "Person_6edafc9c482a7ace3cb61cc32d309149aac7b4843b1be18923fdd37bc6891d8c"
+    },
+    {
+      "type": "Person",
+      "name": "sous-officiers",
+      "id": "Person_b457902fde2b230441235d641cfdd79714ee61c5664555cbf1d0e91e8aa0361e"
+    },
+    {
+      "type": "Person",
+      "name": "officiers mariniers",
+      "id": "Person_04390336097c84aa3d0c53972f611509dca9fd1994b2fae6e7ce522bad3a0527"
+    },
+    {
+      "type": "Person",
+      "name": "soldats",
+      "id": "Person_50d4aed1ba5e0de3105c5abea12c109cc93415d5c243f9826486ee29f102df1e"
+    },
+    {
+      "type": "Person",
+      "name": "marins",
+      "id": "Person_1256f85063ee1be5bfdf01172754b884d93e343c7653af35271bf5988aa7d30c"
+    },
+    {
+      "type": "Person",
+      "name": "aviateurs",
+      "id": "Person_2367fad6263480a2187ace98a63c4e1056053ceb414bb777266da921f8dd5f87"
+    },
+    {
+      "type": "Person",
+      "name": "personnels civils des forces armées",
+      "id": "Person_7846f0925d01e5651a826592abd8e284bb4832a6e71e9bbf70d43c661eff0dd0"
+    },
+    {
+      "type": "Person",
+      "name": "caporal Jimmy Gosselin",
+      "id": "Person_2e4a56ab3c3ac798b31bd9c9e0701e9718fc6a41972e397ea29b4ce1134144e5"
+    },
+    {
+      "type": "Person",
+      "name": "Jacques Chirac",
+      "id": "Person_c5baa8a5552da44162bf6dc8ec3626534a46a25097e452f9b23cbe169ac46f3e"
+    },
+    {
+      "type": "Organization",
+      "name": "armée d'active",
+      "id": "Organization_e47a78308c315af5369cc773d162e0daa7102d4ef2a1177e73887c224920c5ea"
+    },
+    {
+      "type": "Organization",
+      "name": "armée",
+      "id": "Organization_3bf765da6cbe3e09f539c1cc50012592c9974d6fd490f56374cf9d5b10480558"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Theme",
+      "name": "marseillaise",
+      "id": "Theme_4460d5b548e447137603cce9ee47f85a59b17b82a11dbfd1dbf637adeb3a8a3d"
+    },
+    {
+      "type": "Theme",
+      "name": "patrie",
+      "id": "Theme_4079aa9734c9091368bffcf632034e06cecaadec102a482fdcc6b4ec9873a5eb"
+    },
+    {
+      "type": "Theme",
+      "name": "servir",
+      "id": "Theme_4ec394c0b2ea5de5f7459306a17bebb5e97f0f3494dcd2623bf65836ac82656f"
+    },
+    {
+      "type": "Law",
+      "name": "la revue stratégique",
+      "id": "Law_55f4264e422c6dad4ec6d7ff39322d38c9bbff552a6364b4e2eceeb48eb2cd03"
+    },
+    {
+      "type": "Law",
+      "name": "les deux lois de programmation militaire successivement votées",
+      "id": "Law_f0fb8874e94f7deb2e87de9c834ef8a0968ea732b63b466fb670f8d398a163ff"
+    },
+    {
+      "type": "Law",
+      "name": "la revue nationale stratégique actualisée en juillet dernier",
+      "id": "Law_b62dedea05ff00cf9b1a0f3cd30dc0fb6de82ca6222a1c7f8b596c2b3796443f"
+    },
+    {
+      "type": "Theme",
+      "name": "la menace",
+      "id": "Theme_48ee03479192af122118cfec1a0b05dcacce9fc8ad122687b0d923303921098c"
+    },
+    {
+      "type": "Theme",
+      "name": "l'effort",
+      "id": "Theme_2df34c985fdb9d6ef163e215a4e1237669e229df180e9a90016a1e45bef37d17"
+    },
+    {
+      "type": "Organization",
+      "name": "Notre Nation",
+      "id": "Organization_d9218765e19d9482f4fc40642d4f59e61a291076e6d82b8f0370559afce314a5"
+    },
+    {
+      "type": "Organization",
+      "name": "Notre armée",
+      "id": "Organization_d0a52fdb37a6955a153991ceae271086964c589ab7a5b1c2ae9a5e416af2a4be"
+    },
+    {
+      "type": "Organization",
+      "name": "nos jeunes",
+      "id": "Organization_4ce8be9a8cb1f390005a00288fbcfd45fe2e2c79460512a2c6b0195b3308f9c9"
+    },
+    {
+      "type": "Organization",
+      "name": "service national",
+      "id": "Organization_e2d86e973185b5d48c2957bbb4c926df43369f0e1205bc298e9e206df09c453e"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "CEMA",
+      "id": "Organization_32de40cc97d32669797addb779913513e3ba989b1e613ed99240d35b25634f93"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte",
+      "id": "Theme_08510afdf50053fa9af48009d3326ffa3ca70e4a355802c742667dc8276fcc6f"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité de résistance",
+      "id": "Theme_5bedc44feacdbdc465aa611a502d5c635a3a185e218d0547b9b7de4cf13de997"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "service national universel",
+      "id": "Theme_aac51ed073ec968cdf55805e1637ecd4d52aa84e531553ee107ef36a913fffc9"
+    },
+    {
+      "type": "Theme",
+      "name": "cohésion",
+      "id": "Theme_bdf81bb4f74282d165f82ba0599ec7cb75acea924b393b33c6de9ee8bb6f9c00"
+    },
+    {
+      "type": "Theme",
+      "name": "service national purement militaire",
+      "id": "Theme_225359ea83037027463d0ae9c122c5d57dda12495d8da1a8e5c301f6b4f6c9fc"
+    },
+    {
+      "type": "Theme",
+      "name": "défendre le pays",
+      "id": "Theme_5ca03b6d29df2bf7d2f3347f53bbb82870f9e13397af6818e6388aea6045aedd"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "maquisards des Glières et du Vercors",
+      "id": "Theme_b06a457fb04585148e0479ed147af8ac6a1ad19b8defd165e7d4d88b06132acd"
+    },
+    {
+      "type": "Person",
+      "name": "Jeunes Françaises et Français majeurs",
+      "id": "Person_925ee8aae9efe981c59fac1bcc4e675a5b0c7083629ad872f52b8b198f749c51"
+    },
+    {
+      "type": "Theme",
+      "name": "Service National",
+      "id": "Theme_b8966b37212505fbd6a6e45168df80492e6fb5aa1b92f252d90ab84500e4b200"
+    },
+    {
+      "type": "Theme",
+      "name": "Lien social",
+      "id": "Theme_f004b914709cdf714feffb920fc6a17331831dda932dd1f41e833ebdc92bd916"
+    },
+    {
+      "type": "Theme",
+      "name": "Fondamentaux",
+      "id": "Theme_eaa4ef18961b5f0eb5184944bf22c793a53513dd4848d57d17d76afbfabf16d7"
+    },
+    {
+      "type": "Theme",
+      "name": "Volontaires",
+      "id": "Theme_d527aab355a8208aa8913c6fcfe5d306dad18fba3297e7c53e0844667df9b202"
+    },
+    {
+      "type": "Theme",
+      "name": "Jeunes",
+      "id": "Theme_a20dcaf37efe496f33d1e4c4be9f3c3dabe56fc83fe45c815f1d76fdaaef0dcf"
+    },
+    {
+      "type": "Theme",
+      "name": "Crise majeure",
+      "id": "Theme_58ffbe97516ef27b8d91e5487bf7d54382c9a129c5cfd8b1db437348521688dc"
+    },
+    {
+      "type": "Theme",
+      "name": "Compétences",
+      "id": "Theme_f4baf676a1a91b846e556f812ea2e6452ecc1b7c2b3a87f971cd7e60c4b42995"
+    },
+    {
+      "type": "Theme",
+      "name": "Alliés européens",
+      "id": "Theme_6b99bf57be667653e5a4ff0ea7dc73fa6671b034431828770cecdc4c61996cf0"
+    },
+    {
+      "type": "Theme",
+      "name": "Norvège",
+      "id": "Theme_7ea789f68c7522ae6e875b6e5365755067be47fedc4d5e3177de01e33ccf0d13"
+    },
+    {
+      "type": "Theme",
+      "name": "Ministre des Armées",
+      "id": "Theme_19d46f13f4ffea3300650091d4bae2f1aff3257d6d4798ae974af61198dd4538"
+    },
+    {
+      "type": "Organization",
+      "name": "les armées",
+      "id": "Organization_4028c94cb867a11459a4fca1928974e3f6acf70ecd1ffcf2f9c5a953db22d8e3"
+    },
+    {
+      "type": "Theme",
+      "name": "gendarmerie nationale",
+      "id": "Theme_bf543b1f20223bea44ae35f61eaaf69ea5e98c976c2df2dabf263114e4676837"
+    },
+    {
+      "type": "Theme",
+      "name": "Brigade des sapeurs-pompiers de Paris",
+      "id": "Theme_42fbce840e9da7b50712ccfeb5486b28c1d701d35625fbfee33804d197e5e562"
+    },
+    {
+      "type": "Theme",
+      "name": "Bataillon des marins-pompiers de Marseille",
+      "id": "Theme_69e0480e2b6ab4e61e47a6335ed91db0454789eb96fe94fe689d371b48902970"
+    },
+    {
+      "type": "Theme",
+      "name": "formation initiale",
+      "id": "Theme_45f27156536799a24d9ae3c1f31f5376ed487783bcaa3aa23d14889e7cbf2d03"
+    },
+    {
+      "type": "Theme",
+      "name": "discipline",
+      "id": "Theme_edc3cce4aac37ee807abd55dfa664386c0371245d9cb4f12467211bbffeb3525"
+    },
+    {
+      "type": "Theme",
+      "name": "maniement des armes",
+      "id": "Theme_18cf7435b9ecb9122b014b26edc19967d918bc793a02c75de378daaf2b05e527"
+    },
+    {
+      "type": "Theme",
+      "name": "marche au pas",
+      "id": "Theme_65034eba9adf7757f85824f7eb8009f2ea630cbd5c8aab60b6c0b5f409c09293"
+    },
+    {
+      "type": "Theme",
+      "name": "chant",
+      "id": "Theme_35d39c25f014bf12deddf0f0016c1164d3ff34d173d39a6ca29b7f5a76fcbfa3"
+    },
+    {
+      "type": "Theme",
+      "name": "rituels",
+      "id": "Theme_41ddfcfa6bc1a4b8df0b65e06917460bb9f8140ce398d3d0a9973c10484edf35"
+    },
+    {
+      "type": "Theme",
+      "name": "fraternité",
+      "id": "Theme_b7e4b221eacc874c303641d94fcef0ae66a20c171eed335b27cfb2ef5c5ab4e4"
+    },
+    {
+      "type": "Theme",
+      "name": "grandeur de la nation",
+      "id": "Theme_bf2e44e88744e573bff22bf21e685a6d53c39a0175ffcafc7d5a4dd41bacbce2"
+    },
+    {
+      "type": "Organization",
+      "name": "armée d'actifs",
+      "id": "Organization_c447627af6910c5ff8afd6ef891ebdcc84506b26011a01c572f65233952561fa"
+    },
+    {
+      "type": "Organization",
+      "name": "unité militaire",
+      "id": "Organization_26c2d24ee809d1cdf859cf906d2fd3a0b28fa670f4baa412562ee8f87287451d"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "armées",
+      "id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab"
+    },
+    {
+      "type": "Organization",
+      "name": "réservistes",
+      "id": "Organization_d33eed26318b1667dfc3701a1a2e917d3abea47e1274ba27ffd48b14d884a9a1"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de défense",
+      "id": "Theme_2388a75b95196b7852496bd5af6c4cc01ca786a369e2d15a5ce0f9ff1f1179ad"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de résistance de la Nation",
+      "id": "Theme_3cf46e631f691dc53b46ebf39a378455619e4643e918de711fd1655a7501deb2"
+    },
+    {
+      "type": "Organization",
+      "name": "SNU",
+      "id": "Organization_275af3367480b358fb965fed558688ad7b4132fb1c02b868b0a55043d8f720bd"
+    },
+    {
+      "type": "Organization",
+      "name": "service civique",
+      "id": "Organization_56877ba82892ad5217d5e27723f03f71ab7b766f28abc4a3d147dddbbaf3659d"
+    },
+    {
+      "type": "Organization",
+      "name": "réserve civile",
+      "id": "Organization_655d6c39cbdbc00cc345598ff5ae202cdb86e9eac3d781581b26d7745e9440a9"
+    },
+    {
+      "type": "Theme",
+      "name": "force",
+      "id": "Theme_692ec114325b782d4c086becfab4bd9bf5c9449c59ddd4c7e36828f9035301a5"
+    },
+    {
+      "type": "Theme",
+      "name": "droit",
+      "id": "Theme_809b6d16ebe657005418287171a0ff40ba1f2fc184046e82a8dbc6d9366cc1a9"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "peur",
+      "id": "Theme_738708750471a3b2e2ee4af7e7441623b0486e69c4ecf7d601645e10149e55db"
+    },
+    {
+      "type": "Theme",
+      "name": "panique",
+      "id": "Theme_f55408df5f4458bb7088f74aadb7362d4296f0bf71bc47ab8155fb9a7afcd0eb"
+    },
+    {
+      "type": "Theme",
+      "name": "impréparation",
+      "id": "Theme_eb1bea1f2c9130b991ad0ab1667f3a60ba9ec86c2e544cab9e7bad65d6a174a0"
+    },
+    {
+      "type": "Theme",
+      "name": "division",
+      "id": "Theme_51226e2119e097a2d00a987884a7ffc43fa4ce2314906ee31389014c78119404"
+    },
+    {
+      "type": "Theme",
+      "name": "armée régénérée",
+      "id": "Theme_a6d3a92905427ba4994a223da41874820246603626f407ad38d8f14b7a01dc8f"
+    },
+    {
+      "type": "Theme",
+      "name": "armée complète",
+      "id": "Theme_aed0b7cd8ad599d8af880a3e76280486900474727682838b52c8bd543f07cf89"
+    },
+    {
+      "type": "Theme",
+      "name": "armée efficace",
+      "id": "Theme_7597fb587b9812bf92c13a12aa81a623546a6361c87deb42dc4bfd785615b8ab"
+    },
+    {
+      "type": "Theme",
+      "name": "risques",
+      "id": "Theme_797c3ec4399b9e1c1ce15d7275922c2cfffa32a985c6cfdc4c0cee64e6e589ad"
+    },
+    {
+      "type": "Theme",
+      "name": "espaces",
+      "id": "Theme_8c02107f19df436372e4c8f063f2dc9e035dee57cc8a5e458d6b39a4a126013c"
+    },
+    {
+      "type": "Theme",
+      "name": "cœur actif",
+      "id": "Theme_b9bc3dfd583b0bc32f41f3be116be110146ef6b97946a62cf7c585b508840ac0"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunesse formée",
+      "id": "Theme_45ac24e6d1f5f44785b3a34d2b7e674020f89c4f156788b6558f3ce3787eb994"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Service national",
+      "relation": "SUPPORTS",
+      "target": "Volontaires",
+      "evidence": "le cœur sera constitué par les jeunes âgés de 18 à 19 ans. En cas de crise majeure, le Parlement pourra autoriser de faire appel, au-delà des seuls volontaires, à ceux dont les compétences auront été repérées durant cette Journée de mobilisation et alors, le Service National deviendrait obligatoire.",
+      "confidence": 1.0,
+      "source_id": "Theme_b8966b37212505fbd6a6e45168df80492e6fb5aa1b92f252d90ab84500e4b200",
+      "target_id": "Theme_d527aab355a8208aa8913c6fcfe5d306dad18fba3297e7c53e0844667df9b202"
+    },
+    {
+      "source": "Service national",
+      "relation": "MENTIONS",
+      "target": "Crise majeure",
+      "evidence": "En cas de crise majeure, le Parlement pourra autoriser de faire appel, au-delà des seuls volontaires, à ceux dont les compétences auront été repérées durant cette Journée de mobilisation et alors, le Service National deviendrait obligatoire.",
+      "confidence": 1.0,
+      "source_id": "Theme_b8966b37212505fbd6a6e45168df80492e6fb5aa1b92f252d90ab84500e4b200",
+      "target_id": "Theme_58ffbe97516ef27b8d91e5487bf7d54382c9a129c5cfd8b1db437348521688dc"
+    },
+    {
+      "source": "Service national",
+      "relation": "MENTIONS",
+      "target": "Service National",
+      "evidence": "le Service National deviendrait obligatoire",
+      "confidence": 1.0,
+      "source_id": "Theme_b8966b37212505fbd6a6e45168df80492e6fb5aa1b92f252d90ab84500e4b200",
+      "target_id": "Theme_b8966b37212505fbd6a6e45168df80492e6fb5aa1b92f252d90ab84500e4b200"
+    },
+    {
+      "source": "service national",
+      "relation": "MENTIONS",
+      "target": "gendarmerie nationale",
+      "evidence": "les jeunes pourront aussi exprimer le souhait, en 2027, d'effectuer leur service national au sein de la Gendarmerie nationale",
+      "confidence": 1.0,
+      "source_id": "Theme_b8966b37212505fbd6a6e45168df80492e6fb5aa1b92f252d90ab84500e4b200",
+      "target_id": "Theme_bf543b1f20223bea44ae35f61eaaf69ea5e98c976c2df2dabf263114e4676837"
+    },
+    {
+      "source": "service national",
+      "relation": "MENTIONS",
+      "target": "Brigade des sapeurs-pompiers de Paris",
+      "evidence": "les jeunes pourront aussi exprimer le souhait, en 2027, d'effectuer leur service national au sein de la Gendarmerie nationale, de la Brigade des sapeurs-pompiers de Paris",
+      "confidence": 1.0,
+      "source_id": "Theme_b8966b37212505fbd6a6e45168df80492e6fb5aa1b92f252d90ab84500e4b200",
+      "target_id": "Theme_42fbce840e9da7b50712ccfeb5486b28c1d701d35625fbfee33804d197e5e562"
+    },
+    {
+      "source": "service national",
+      "relation": "MENTIONS",
+      "target": "Bataillon des marins-pompiers de Marseille",
+      "evidence": "les jeunes pourront aussi exprimer le souhait, en 2027, d'effectuer leur service national au sein de la Gendarmerie nationale, de la Brigade des sapeurs-pompiers de Paris et du Bataillon des marins-pompiers de Marseille",
+      "confidence": 1.0,
+      "source_id": "Theme_b8966b37212505fbd6a6e45168df80492e6fb5aa1b92f252d90ab84500e4b200",
+      "target_id": "Theme_69e0480e2b6ab4e61e47a6335ed91db0454789eb96fe94fe689d371b48902970"
+    },
+    {
+      "source": "service national",
+      "relation": "MENTIONS",
+      "target": "formation initiale",
+      "evidence": "Nos jeunes du service national commenceront par une formation initiale d'un mois où ils apprendront ensemble les rudiments de la vie militaire",
+      "confidence": 1.0,
+      "source_id": "Theme_b8966b37212505fbd6a6e45168df80492e6fb5aa1b92f252d90ab84500e4b200",
+      "target_id": "Theme_45f27156536799a24d9ae3c1f31f5376ed487783bcaa3aa23d14889e7cbf2d03"
+    },
+    {
+      "source": "Service National",
+      "relation": "ALLIED_WITH",
+      "target": "service civique",
+      "evidence": "Service National, purement militaire, complétera les dispositifs actuels d'engagement, comme le service civique",
+      "confidence": 1.0,
+      "source_id": "Theme_b8966b37212505fbd6a6e45168df80492e6fb5aa1b92f252d90ab84500e4b200",
+      "target_id": "Organization_56877ba82892ad5217d5e27723f03f71ab7b766f28abc4a3d147dddbbaf3659d"
+    }
+  ]
+}

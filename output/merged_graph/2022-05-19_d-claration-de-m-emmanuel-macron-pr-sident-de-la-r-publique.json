@@ -1,0 +1,201 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Moldavie",
+      "id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "Theme",
+      "name": "générosité",
+      "id": "Theme_d4ebaf9775b43ff18ffebb5252cba8c64ff5877c57aaa93c2812f2471b3396aa"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité bilatérale et européenne",
+      "id": "Theme_742e11e96cd805074f75ce6e3dadb0dca1eb5ba5aef1e102fbd221bbdd3a56c2"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien à la Moldavie",
+      "id": "Theme_cbb1b50b6aa24835df3e9cbe1bd28668fab7f433b9d6ae624d845f21d2cebdfe"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "agence Frontex",
+      "id": "Organization_995d90bd65bc5c354ca96562c64d451637b3c2e85d953f7b42160b15bbe92d51"
+    },
+    {
+      "type": "Person",
+      "name": "Maia SANDU",
+      "id": "Person_f99b00ee62fdd1b5126a188a68bbd4536dfa89cc8f1ff66ae3319def2bf0b4bb"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Theme",
+      "name": "Communauté politique européenne",
+      "id": "Theme_228aa2e1c7e167168b4c6c53c6978db4345a393ed3d2bac1b9a84297703407e8"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Moldavie",
+      "relation": "LOCATED_IN",
+      "target": "Ukraine",
+      "evidence": "En tant que voisine de l'Ukraine, la Moldavie doit faire face à une situation humanitaire particulièrement difficile et accueillir, accompagner des dizaines de milliers de personnes déplacées par le conflit.",
+      "confidence": 1.0,
+      "source_id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "Moldavie",
+      "relation": "VISITED",
+      "target": "Ukraine",
+      "evidence": "En tant que voisine de l'Ukraine, la Moldavie doit faire face à une situation humanitaire particulièrement difficile et accueillir, accompagner des dizaines de milliers de personnes déplacées par le conflit.",
+      "confidence": 1.0,
+      "source_id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "Moldavie",
+      "relation": "SPOKE_ABOUT",
+      "target": "générosité",
+      "evidence": "la générosité dont la Moldavie et ses habitants font preuve à l'égard des réfugiés fuyant la guerre mérite notre admiration et nous leur sommes reconnaissants de leurs efforts.",
+      "confidence": 1.0,
+      "source_id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95",
+      "target_id": "Theme_d4ebaf9775b43ff18ffebb5252cba8c64ff5877c57aaa93c2812f2471b3396aa"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SUPPORTS",
+      "target": "Moldavie",
+      "evidence": "L'Union européenne joue bien sûr un rôle essentiel dans le soutien à la Moldavie et a déjà apporté des aides significatives sur les plans humanitaire, financier mais aussi humain avec le premier déploiement de l'agence Frontex en Moldavie auquel participent des personnels français.",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SUPPORTS",
+      "target": "agence Frontex",
+      "evidence": "L'Union européenne joue bien sûr un rôle essentiel dans le soutien à la Moldavie et a déjà apporté des aides significatives sur les plans humanitaire, financier mais aussi humain avec le premier déploiement de l'agence Frontex en Moldavie auquel participent des personnels français.",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Organization_995d90bd65bc5c354ca96562c64d451637b3c2e85d953f7b42160b15bbe92d51"
+    },
+    {
+      "source": "agence Frontex",
+      "relation": "LOCATED_IN",
+      "target": "Moldavie",
+      "evidence": "L'Union européenne joue bien sûr un rôle essentiel dans le soutien à la Moldavie et a déjà apporté des aides significatives sur les plans humanitaire, financier mais aussi humain avec le premier déploiement de l'agence Frontex en Moldavie auquel participent des personnels français.",
+      "confidence": 1.0,
+      "source_id": "Organization_995d90bd65bc5c354ca96562c64d451637b3c2e85d953f7b42160b15bbe92d51",
+      "target_id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Moldavie",
+      "evidence": "La France reste particulièrement attentive à la situation sécuritaire dans la région et à toute atteinte à la stabilité, la souveraineté et l'intégrité territoriale de la Moldavie.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    },
+    {
+      "source": "Russie",
+      "relation": "ALLIED_WITH",
+      "target": "Ukraine",
+      "evidence": "L'agression inacceptable de l'Ukraine par la Russie constitue une menace pour la stabilité de toute la région et en particulier pour la Moldavie.",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "Madame la Présidente",
+      "relation": "SPOKE_ABOUT",
+      "target": "Union Européenne",
+      "evidence": "Nous évoquerons avec Madame la Présidente, dans un instant, la relation politique également entre l'Union Européenne et la Moldavie",
+      "confidence": 1.0,
+      "source_id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931",
+      "target_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "source": "Madame la Présidente",
+      "relation": "SPOKE_ABOUT",
+      "target": "Moldavie",
+      "evidence": "Nous évoquerons avec Madame la Présidente, dans un instant, la relation politique également entre l'Union Européenne et la Moldavie",
+      "confidence": 1.0,
+      "source_id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931",
+      "target_id": "Country_b495a6be2b00897aaccfedb64722b16a649aa0bdda92207c4cfb60f99db50d95"
+    }
+  ]
+}

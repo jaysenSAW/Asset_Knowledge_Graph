@@ -1,0 +1,536 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Canada",
+      "id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Organization",
+      "name": "Hezbollah",
+      "id": "Organization_1137024572239876ce26766f0e5ec1545d4d54b61723309fb15845fec7db138f"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Haïti",
+      "id": "Country_26eb6b2804b8c516c8aba8f54ce10584b06e2fe603cba2ec2cfdfa5b73cb8a92"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Justin",
+      "id": "Person_0390d5a3f0afeddb75d399c1e1886c930f4347b0b5efd8332c3196714c152204"
+    },
+    {
+      "type": "City",
+      "name": "Ottawa",
+      "id": "City_c64a9d46013cbd73612174464fc955fa150137410275c0ba2fb20fa799be2d12"
+    },
+    {
+      "type": "City",
+      "name": "Montréal",
+      "id": "City_99afea798c48333043a2c59b590333b7f5d46230e2a7913f4b7a60f102d557f1"
+    },
+    {
+      "type": "City",
+      "name": "Normandie",
+      "id": "City_f0fe3a8c9028ddfa11298d6496804a09e1a0ab72a0ef8225769f14175bfca277"
+    },
+    {
+      "type": "City",
+      "name": "Juno Beach",
+      "id": "City_f9091f86aa89838f4a848a0c451ece50d9c831cdfaeec72d53edfd3b4e3bf742"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Organization",
+      "name": "OIF",
+      "id": "Organization_fec137e35ceb1d9c2c68df7a9034f7e77950ac632b58474e3657aa9617840997"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations Unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Country",
+      "name": "Proche-Orient",
+      "id": "Country_ea96081c3dc607260da7be0bce2be5c4e658fe0319110fa930660594f5cfce74"
+    },
+    {
+      "type": "City",
+      "name": "Gaza",
+      "id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Theme",
+      "name": "mandat",
+      "id": "Theme_1c1553b50ea918e040f5b180345647cf523aa8b4aaf976b5d7d5b5deecb47e1c"
+    },
+    {
+      "type": "Organization",
+      "name": "ONU",
+      "id": "Organization_8fe3e517167eebcfcb1c541c20f6aeb0a346c6c70b461e4d8ec8a469cdf70167"
+    },
+    {
+      "type": "Organization",
+      "name": "CARICOM",
+      "id": "Organization_eb155c0267727985c6abf0acaccc39c0532ca686c26540c914b03b512e2a8950"
+    },
+    {
+      "type": "Country",
+      "name": "Kenya",
+      "id": "Country_534d003a91212b7d6f125c8c4307a1d02e847e28ea1580126b595d68ea4ee21e"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Event",
+      "name": "conférence sur la biodiversité",
+      "id": "Event_a069038854343be4b803f11112498aa4b33a78ebe1ad922c0ad9250f69c6fda4"
+    },
+    {
+      "type": "Event",
+      "name": "Conférence des Nations Unies sur l'océan, l'UNOC",
+      "id": "Event_63415534f3cc1aa15937497924ed57701458d3abe86fb7624213bae203776d4a"
+    },
+    {
+      "type": "Law",
+      "name": "traité BBNJ",
+      "id": "Law_d94096090835609631e8a3d5625176b86238bfd5208d7cff3b6a9cb680035310"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Organization",
+      "name": "Ifremer",
+      "id": "Organization_470bd464aa4532ea3f706954f4ca7850d0e73ee2278c3764e95e344a78b7f1b6"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Organization",
+      "name": "Partenariat mondial pour l'intelligence artificielle",
+      "id": "Organization_82ce0fd73275912fd01f536571026695a958242357dca9c4a6b7881e07bc826a"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Event",
+      "name": "sommet sur l'intelligence artificielle",
+      "id": "Event_2119a389be62da4c14f9c4206fb1560eb9424ba6b96a6fdda283fdc6b08ac005"
+    },
+    {
+      "type": "Event",
+      "name": "G7",
+      "id": "Event_a249aa4b7db39508c79e56d99055c05f36e0cd7aa56fa596ca1cd5775ae1a573"
+    },
+    {
+      "type": "Theme",
+      "name": "transition énergétique",
+      "id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7"
+    },
+    {
+      "type": "Theme",
+      "name": "métaux critiques",
+      "id": "Theme_86b5d26c5ef2dc0c94490c1717211cef8fb371bd5e7dcbf7c5f497f79c5f987c"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "moyens de transport",
+      "id": "Theme_f5f0d6547086437f5bf420b87a37c70661446adfb7e642870aadf700f5ca4527"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation économique",
+      "id": "Theme_2d2d706edb59ac0f83973b6a67cf78edd0e7babee2e28d12ba5795cae4c0fda3"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité et de défense",
+      "id": "Theme_d07c91c602ff29f8f3eb2d386d3fb22b3199e306680157ae732a1f2ee7113e34"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités militaires",
+      "id": "Theme_a92e3c61d67425e5b0b42d79831f73cb6d7212bdecc54ad4277892f36208393a"
+    },
+    {
+      "type": "Theme",
+      "name": "ingérence étrangère",
+      "id": "Theme_abbe26ca7db5103c929e47a09380d473791c2e0d6ca40cbcb0fe47dfc3d5d617"
+    },
+    {
+      "type": "City",
+      "name": "VivaTech",
+      "id": "City_c5ba93e543de8aaf50b36916e8fd76b4f82d9d009213d79aa25b6df6f9646b81"
+    },
+    {
+      "type": "Theme",
+      "name": "industries culturelles et créatives",
+      "id": "Theme_ef14ef4d2275ddcba317f38a70bd25b9aaf03efd3b3c01da30d5b59ac891fb7a"
+    },
+    {
+      "type": "City",
+      "name": "Villers-Cotterêts",
+      "id": "City_6aab14668bdee637018a1a68554281503579fbe339dd9c176e5ba0e6fb326493"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation Internationale de la Francophonie",
+      "id": "Organization_f06abfa6c5ae40b266c867322d6110d5af440aa772c7c5cab510d3f86feb79ad"
+    },
+    {
+      "type": "City",
+      "name": "Halifax",
+      "id": "City_a75cee4261f375a9a2bfdc5a1c6ce9db71363859c49a30867f1b04c4dae229e4"
+    },
+    {
+      "type": "Theme",
+      "name": "Francophonie",
+      "id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "type": "Theme",
+      "name": "francophones",
+      "id": "Theme_c9b1f46b245bc568653949892d426de459ec014fe5550adf6daffc5907cee91a"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire canadienne",
+      "id": "Theme_692d8aa6231d43f0bc22da46e18aacb12bfe80b5fa2703f1b0c4e5b552fdea0a"
+    },
+    {
+      "type": "Theme",
+      "name": "futures générations",
+      "id": "Theme_af6e65bf6eb12592a91250cc6792e032cd8b608f8c485726750a1ef0d0cbc25a"
+    },
+    {
+      "type": "Theme",
+      "name": "langue",
+      "id": "Theme_503878fae38cf6a116099ef03b8fe0423aa370b33f0af8b6450b8ae129feef43"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut français",
+      "id": "Organization_fab094973c52d35028c7872080cdfd21623cd9e432d52aa2742004627696a3aa"
+    },
+    {
+      "type": "Theme",
+      "name": "crises internationales",
+      "id": "Theme_b920bdaceb5d6aa16296e356d5fcedc54ae78fe8814083330463e2357cfd8452"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariats bilatéraux",
+      "id": "Theme_1f6907b09873a6a4a94a4d1ce59394ce274def769d03186b1d7fedf4407e1699"
+    },
+    {
+      "type": "Person",
+      "name": "NETANYAHOU",
+      "id": "Person_10290dd51360a183c4debabd7e7bb9631331999cf3ab11f6abd77db7899ee67d"
+    },
+    {
+      "type": "Person",
+      "name": "MACRON",
+      "id": "Person_0123c6440fe5aa6b7871df7e99ee28112b6753541af6940c57692410e426c9ca"
+    },
+    {
+      "type": "Person",
+      "name": "BLINKEN",
+      "id": "Person_47787b8eac15441df6a478a84440426ac4ad67e3e4dfcad90ece554726b0ea32"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité",
+      "id": "Organization_baa57920608812f1a905ee605e7e26f62ded68ec5607802bf97048747ea47f2f"
+    },
+    {
+      "type": "Person",
+      "name": "M. TRUDEAU",
+      "id": "Person_7c610df41a64ea5b179762373c748b210185250e5866d9b581f180d5e8bb5591"
+    },
+    {
+      "type": "Person",
+      "name": "M. MACRON",
+      "id": "Person_a0a3e70008afa4717f4160dbb9e6680f740ac5c666f4046ac68e807e69a2a1aa"
+    },
+    {
+      "type": "Person",
+      "name": "Philippine",
+      "id": "Person_3b64fbfe7892c711da311d8c42ceadfe3a5bb3daea473e5c21de425e5578f71e"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Michel BARNIER",
+      "id": "Person_6a04ceb187264fb3e394a2093779ba135fd7a574bf1489892666c3bcc42b5af6"
+    },
+    {
+      "type": "Person",
+      "name": "Marine LE PEN",
+      "id": "Person_1179b0c2380f623448f854923bef27989e28a4ba5c870013266b50f39aeefe35"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "François LEGAULT",
+      "id": "Person_32aaefb2937d2b62d8af5333d800939ff6483948fa2503f647c48910356f6c82"
+    },
+    {
+      "type": "Person",
+      "name": "Gabriel ATTAL",
+      "id": "Person_e00d0f7f2d554ac6354085fe3f000ef03bd394ff3ec39bccb239567be87053c3"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration",
+      "id": "Theme_56ec1521640ee7901aceb6075eed1a37e2a9c16262cd4f911266166ee5562133"
+    },
+    {
+      "type": "Theme",
+      "name": "laïcité",
+      "id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb"
+    },
+    {
+      "type": "Theme",
+      "name": "CETA",
+      "id": "Theme_8ba8f8462daa73b258ed495c67c611e36df2336e8e34d052e5d4b7dcd82edc7a"
+    },
+    {
+      "type": "Theme",
+      "name": "laïcité, je le rappelle souvent en citant BRIAND, c'est une loi de liberté",
+      "id": "Theme_d8a0914b52c6e41c907e498b6cda9fd3ec6606f221c1088aee690f3c8c6f71a8"
+    },
+    {
+      "type": "Theme",
+      "name": "espace dans lequel nous vivons",
+      "id": "Theme_44606e56cd06ff810a9c4857a66e7171d9150867b6da9ae840946f939cea2e98"
+    },
+    {
+      "type": "Organization",
+      "name": "formations politiques",
+      "id": "Organization_21aabd892ebd84104395481349ec5c6d88594a75656c1e20346235d9b21d192f"
+    },
+    {
+      "type": "Person",
+      "name": "mon prédécesseur",
+      "id": "Person_94a5311c17773026235de10abb2a0ab0cf6f91e7b985433fdee87be5061b36ff"
+    },
+    {
+      "type": "Organization",
+      "name": "vos services",
+      "id": "Organization_4bdfcc1e58b6db4689c6148ab4945b4ef208a0e94878386c66b167ec469f8a71"
+    },
+    {
+      "type": "Organization",
+      "name": "ambassadrices et ambassadeurs successifs",
+      "id": "Organization_f41248c2b3b46d94be5b6d381496331a37c64fb7a1cd471045592bb7277efa1e"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée",
+      "id": "Organization_6921896197ce8ef36bbf1c5a01e3c2313dc4612ab56b6c36f488227dff065439"
+    },
+    {
+      "type": "Organization",
+      "name": "CETA",
+      "id": "Organization_6cb5ebc4efe74b996405ddb35b376f0b381266e992b6412b511714d0ffe5ad62"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Canada",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "Le Canada et la France partagent la même détermination à soutenir l'Ukraine.",
+      "confidence": 1.0,
+      "source_id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Ukraine",
+      "evidence": "Le Canada et la France partagent la même détermination à soutenir l'Ukraine.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "Canada",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "Et là-dessus, Canada et France sont affinitaires, comme on dit.",
+      "confidence": 1.0,
+      "source_id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "Conférence des Nations Unies sur l'océan, l'UNOC",
+      "evidence": "la France aura à reprendre le flambeau avec la Conférence des Nations Unies sur l'océan, l'UNOC, prévue en juin prochain à Nice.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Event_63415534f3cc1aa15937497924ed57701458d3abe86fb7624213bae203776d4a"
+    },
+    {
+      "source": "Canada",
+      "relation": "PROPOSED",
+      "target": "traité BBNJ",
+      "evidence": "Le Canada a joué un rôle déterminant pour la réussite de la conférence sur la biodiversité, l'année dernière, et la France aura à reprendre le flambeau avec la Conférence des Nations Unies sur l'océan, l'UNOC, prévue en juin prochain à Nice. Nous visons d'ailleurs à ce qu'il y ait une ratification par plus d'une soixantaine de pays du fameux traité BBNJ, qui a été véritablement l'une des réalisations concrètes de l'agenda que vous avez poursuivi.",
+      "confidence": 1.0,
+      "source_id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3",
+      "target_id": "Law_d94096090835609631e8a3d5625176b86238bfd5208d7cff3b6a9cb680035310"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "sommet sur l'intelligence artificielle",
+      "evidence": "La France aura en effet le sommet sur l'intelligence artificielle qui se tiendra en février prochain.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Event_2119a389be62da4c14f9c4206fb1560eb9424ba6b96a6fdda283fdc6b08ac005"
+    },
+    {
+      "source": "Canada",
+      "relation": "VISITED",
+      "target": "VivaTech",
+      "evidence": "le Canada sera l'invité d'honneur du salon VivaTech l'année prochaine",
+      "confidence": 1.0,
+      "source_id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3",
+      "target_id": "City_c5ba93e543de8aaf50b36916e8fd76b4f82d9d009213d79aa25b6df6f9646b81"
+    },
+    {
+      "source": "Canada",
+      "relation": "PROPOSED",
+      "target": "Institut français",
+      "evidence": "Un Institut français du Canada va poursuivre cette mission pour que tous ceux qui veulent participer à cette aventure puissent y contribuer.",
+      "confidence": 1.0,
+      "source_id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3",
+      "target_id": "Organization_fab094973c52d35028c7872080cdfd21623cd9e432d52aa2742004627696a3aa"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Liban",
+      "evidence": "que la France est épaule à épaule avec le Liban dans cette situation.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "source": "laïcité",
+      "relation": "MENTIONS",
+      "target": "laïcité, je le rappelle souvent en citant BRIAND, c'est une loi de liberté",
+      "evidence": "laïcité, je le rappelle souvent en citant BRIAND, c'est une loi de liberté",
+      "confidence": 1.0,
+      "source_id": "Theme_3a1185f282b3b02d98fc0db39f6df38724ff5e36fa00c75f83375cc7cf7c1adb",
+      "target_id": "Theme_d8a0914b52c6e41c907e498b6cda9fd3ec6606f221c1088aee690f3c8c6f71a8"
+    }
+  ]
+}

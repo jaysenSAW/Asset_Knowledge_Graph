@@ -1,0 +1,653 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les ministres",
+      "id": "Person_df98c9cabd69056dc2dbae7ad5aa8390dd768609332bdc8c9a4dafe6f2e4b762"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les parlementaires",
+      "id": "Person_513d1485982528e0834eb4f4c38b73da53f9e4817cd30f728fe27e32d9fc11d3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Préfet",
+      "id": "Person_53c349332859a6f29fc7e202b933842f8a6c690203ea9dd3a5a57a1f2636c209"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président du Conseil départemental",
+      "id": "Person_ed23b450f0ef4975a677c78549b852e0bd6220615dfe342c23dd98aaf4590810"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Directeur général d'Imerys",
+      "id": "Person_a28b919ee16452e915a73e2159249946b1ff4ca31ff685d21c6f2086532542f7"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "industrielle",
+      "id": "Theme_e698cba2afc53a99afb37c632a479ddd19fbe25308b4d47210b68af0fa3d2650"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Montluçon",
+      "id": "City_740de360f7142bbe9b9abed12dfa718e3fc86704102e7c54d88d0296a94da168"
+    },
+    {
+      "type": "City",
+      "name": "Échassières",
+      "id": "City_36e4f0d4b110c93ebe83727769c4258b6e43f9895157684655a1815d69cf7c9f"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le directeur général",
+      "id": "Person_8777b82fe982332d2c4f6fd3f160581898a8126a2867a4743b0efb9b0c7dd20f"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "création d'emplois",
+      "id": "Theme_6504e6ace9950bb650ef42114b8bffda2376af147acc77f9ae8f22ffc17f02cd"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité électrique",
+      "id": "Theme_23c8ec49de9673df1a20e5484e419772140199ecc36d42919c897c8e8f0b8528"
+    },
+    {
+      "type": "Country",
+      "name": "Notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "City",
+      "name": "Toulouse",
+      "id": "City_aa695a1a8591febfa119cbccca39b2add1951395a057a7f2fdbd29e7adde06ae"
+    },
+    {
+      "type": "City",
+      "name": "Dunkerque",
+      "id": "City_bda376ce18a11cdf6e31dcf1317332d2be264fba8faae021745f7e792736d7b0"
+    },
+    {
+      "type": "City",
+      "name": "Douai",
+      "id": "City_2176b1027a81ce0e83b327539bfb966788da3fa0edc511bb7a7f945b4818c88e"
+    },
+    {
+      "type": "City",
+      "name": "Belfort",
+      "id": "City_4723be1893b1bd6916be5d7cf46ebef2f7bca1962d744681fffa2e9ed607087c"
+    },
+    {
+      "type": "City",
+      "name": "Lacq",
+      "id": "City_61463aa884e4b55295028435746ccaf82ce56d360fe248079c948e7f898c7226"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation du monde",
+      "id": "Theme_dd2eb0f7be747098746d4d3358aa2ecda9665821638aa09d311cf3b97c8d3ff9"
+    },
+    {
+      "type": "Theme",
+      "name": "inflation",
+      "id": "Theme_f2bfec270e8fc03558e5fc88231c6ddb42252fc1adbaa520f35706a8a908cf52"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence chinoise",
+      "id": "Theme_4389b1fba796d451224506d28278341668efae6058b00f25a2d77fc09839f782"
+    },
+    {
+      "type": "Theme",
+      "name": "prix",
+      "id": "Theme_e3edc58c164706c798376473a1d33b9ea22930cd506495bfb973ba41058bebe2"
+    },
+    {
+      "type": "Theme",
+      "name": "lithium",
+      "id": "Theme_e450fdf7c5fe81d7a5c1358b44d3bfab1e8226b6727f734b826c2fdaef338e8d"
+    },
+    {
+      "type": "Theme",
+      "name": "dumping",
+      "id": "Theme_29563e1bbc454121a3300fd73aa2f754d9cde76233812319a625785892547fe8"
+    },
+    {
+      "type": "Theme",
+      "name": "surcapacités",
+      "id": "Theme_90c6e14f6729b87bc3472aebb167846790f43c93d86941a03908cc9ab5667a6e"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie française et européenne",
+      "id": "Theme_d0237ab42557d231d7fc618ed95257e3059b2041797516f7e3aebd7b244dee47"
+    },
+    {
+      "type": "Theme",
+      "name": "terres rares",
+      "id": "Theme_f7252f0b63c5dbd962be628be26728a4d12c2de743c24a064bdebad009d3acdf"
+    },
+    {
+      "type": "Theme",
+      "name": "minerais critiques",
+      "id": "Theme_7822f8c3b7c1ad98203ab63130200d1395257ac7c8b4080482ed9cfdc764e32b"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "carénage",
+      "id": "Theme_be821d84446a6b5c0be8d1f1605c74fce20271ea92e26359b26b1221cee43d76"
+    },
+    {
+      "type": "Theme",
+      "name": "électrification",
+      "id": "Theme_5a330a16d0590e3766cd55707c3837d518e8a0cb07d5eb80981f61e17b01917b"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance des hydrocarbures fossiles",
+      "id": "Theme_dfaba2014f7f9921e3794ee5908229b4cbc8c66d4edb9c2292ae23dc5b1e3176"
+    },
+    {
+      "type": "Theme",
+      "name": "déstabilisations géopolitiques",
+      "id": "Theme_bc9ee7e5e107f2a60e174ab2cdcf422c939ab301dc479e1a9bc768f4a03cfc49"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "plan d'électrification",
+      "id": "Theme_69769e7a55819213ff1a22fb74e507a8426826f3895990c7fefffca14d860070"
+    },
+    {
+      "type": "Theme",
+      "name": "véhicules électriques",
+      "id": "Theme_597ebf0f0545ed57ae5e62552be322b744bf08dcf937fbc03f464ca89c539c24"
+    },
+    {
+      "type": "Theme",
+      "name": "pompes à chaleur",
+      "id": "Theme_0410fd8743134947a4d68328a21d189a689a7cdd394cfa3dee8a685c6ebf9b6f"
+    },
+    {
+      "type": "Theme",
+      "name": "collectivités locales",
+      "id": "Theme_ad98adb2a939bb620c202d8f5cd8be75a1bc06f6cf249d21bdcb7237f3bf21e7"
+    },
+    {
+      "type": "Theme",
+      "name": "filières industrielles",
+      "id": "Theme_13d2dfad2fabcdd494cc576a53af5deedc1692a6f2575307cd71a770fe36aec2"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie d'électrification",
+      "id": "Theme_ea2a7530f109cd6c7f67472b60f979a9139c516a5e1fba575d4eda75c0b05f63"
+    },
+    {
+      "type": "Theme",
+      "name": "batteries électriques",
+      "id": "Theme_761658a4d46dd4a8a739d988d1dcca8fa209d5dd7a0f44441b555ae6efde6d92"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "matériaux critiques",
+      "id": "Theme_637573feac47c528ea33680beeb14ddc905e4a0dd28551a47ac1bb495e799ed9"
+    },
+    {
+      "type": "Organization",
+      "name": "BRGM",
+      "id": "Organization_511bded532f267b64f57c93ccb217a7727db67b8901d24c55788c99bd9aa2f00"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégies",
+      "id": "Theme_92d25819b960dae2b83f97b0b80ac683ca7c058976c547bbcdce92a38a5bf1d1"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation",
+      "id": "Theme_20f02849c6d3fef1e0f7fdcc6fcd9d5a1930a7b08f24aabfc14521d8b9ed907d"
+    },
+    {
+      "type": "Theme",
+      "name": "EMILI",
+      "id": "Theme_adbf444000d7f2d3c7606374f7dfa81c9d0c7f9e97c47d5d19e671ba36498c05"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir",
+      "id": "Theme_fa2af3c869fd2e22edea3355a07d3a938d79015b3cbde00d44852ab65ccfbd8b"
+    },
+    {
+      "type": "Theme",
+      "name": "travaux de concentration",
+      "id": "Theme_8cc925776d54866d61cad766fae6b9b10b400153ab871f6179b53e82a2f7dc66"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement de l'État",
+      "id": "Theme_b28de5afb00840707e6c47106b1965ee99552440d359492ee55e1be8f156456a"
+    },
+    {
+      "type": "Theme",
+      "name": "ferroviaire",
+      "id": "Theme_18974b56235517f2a696da9bd81c5414f10512487d11d3a98e66a6578f52e8de"
+    },
+    {
+      "type": "Theme",
+      "name": "producteurs de batteries",
+      "id": "Theme_851aa69d7e4ac175f7a25a8d37fca7cc8b11aee343be2cc59d58ae6870ce7bb9"
+    },
+    {
+      "type": "Theme",
+      "name": "sol français",
+      "id": "Theme_fec62a9605a5ee3cc9963a85f6ce9b39c31b70b28435b0dde2cd7fedac95a88c"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie de diversification",
+      "id": "Theme_d48604b0f5103819598c912bf28679a60ebba1920a627695427a868cb5cc66a9"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendances",
+      "id": "Theme_14de542cd66252bc7dd38d12cbadc101d38c3b269a47ae1437ae7786869af7a7"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialisation",
+      "id": "Theme_ac8bdfb33c3783eee726437d1158d9c6c216120e43edc6178969ee44f5098ca1"
+    },
+    {
+      "type": "Theme",
+      "name": "recyclage",
+      "id": "Theme_110a35edaf41339b012b1a6ef4da87c96d5dda347f6e851a86d1e5afb8ece38c"
+    },
+    {
+      "type": "Theme",
+      "name": "séparation",
+      "id": "Theme_1a333b382d711436fe1a3551219154bc29226d28fd2e56d9374897cf99c80454"
+    },
+    {
+      "type": "Theme",
+      "name": "cycle",
+      "id": "Theme_6e322cca593e4115a7923eb9f576ec95622c6f024e77eecb74c1ffe9dda2b73e"
+    },
+    {
+      "type": "Theme",
+      "name": "Carester",
+      "id": "Theme_0683aed5ac5e273d185551a41d3612297732843fc526e8a872fc37e3460d0065"
+    },
+    {
+      "type": "Theme",
+      "name": "Lacq",
+      "id": "Theme_0840c9a0e7e0649b0c5fc3326994e32079b89c7bb7f36cee8cde9432f88abaee"
+    },
+    {
+      "type": "Theme",
+      "name": "Orano",
+      "id": "Theme_e0b258a57b268948aba37fd86de7d690de6212fd945815c146d3ea6529351c88"
+    },
+    {
+      "type": "Theme",
+      "name": "aval",
+      "id": "Theme_978b0fb8046aa37827138cfc9ec41e097c28e182435d82501fa09bce5de67028"
+    },
+    {
+      "type": "Theme",
+      "name": "uranium",
+      "id": "Theme_e22220ad9ef6b9d0a24545e5f62199bd015a0a2a1407fe5aa6e3ac20dd447f2f"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Les Chinois",
+      "id": "Person_a1270d915bcdfbbb1a8f673499dbb1a08e3fb1a2a6a4ac672000fc99c4513c5c"
+    },
+    {
+      "type": "Person",
+      "name": "Les Américains",
+      "id": "Person_e133e816b2e600d72b52d6b7758e80ad88ad62b087932bae9324e9274213c65e"
+    },
+    {
+      "type": "Organization",
+      "name": "Les Européens",
+      "id": "Organization_7e83ea434a3a140e0eb968c9b1a4ae6b5776642619930710460da1c4b27fe29b"
+    },
+    {
+      "type": "Organization",
+      "name": "Crédit d'impôt industrie verte",
+      "id": "Organization_c00fa6b76e91f3e73bbbb1872bbbfa6aace3ac6d46390dc68e555d22a692b6b7"
+    },
+    {
+      "type": "Organization",
+      "name": "Erasteel",
+      "id": "Organization_c0268dbc8d4e97344cb054c014547051b00a6d5a218009a12ed365089bce27b2"
+    },
+    {
+      "type": "Organization",
+      "name": "ArcelorMittal",
+      "id": "Organization_0df82bf232e4a43ad564bf667f976c804cc4b84f0842e306f007205c775b616e"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence européenne",
+      "id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "type": "Theme",
+      "name": "sécuriser cette préférence européenne",
+      "id": "Theme_f8ab8f1c201867ffcc5a878dc999f27714acee6f8c46b8e6044d5308b3ffdefd"
+    },
+    {
+      "type": "Theme",
+      "name": "cohérence industrielle",
+      "id": "Theme_78a3f4d4e8a1ca9fdc4d52663f078e9ef116eb17491906ff09d206e3bec34a84"
+    },
+    {
+      "type": "Theme",
+      "name": "accélérer",
+      "id": "Theme_e8e2ae423078afd2c24f3d7e7f350e026d469ca7a4bb10d0dc99799d5ed82386"
+    },
+    {
+      "type": "Law",
+      "name": "Omnibus Act",
+      "id": "Law_52f7a2350b8c682c3dd0b409052dee387436516477dfe5cb62804c48da033e68"
+    },
+    {
+      "type": "Law",
+      "name": "loi Industrie verte",
+      "id": "Law_951dc8cad3dff041521ee6711bdaddaf35b07266ba2a31eec8f781d04337653c"
+    },
+    {
+      "type": "Law",
+      "name": "loi ASAP",
+      "id": "Law_cdfc5ce39d70bbe79962c19ead5311a311e2dca5d1356be8996b442eeb924771"
+    },
+    {
+      "type": "Organization",
+      "name": "services de l'État",
+      "id": "Organization_0e4c3b002b7e0b947f150ac5ade5255303027617ed7e319cef90365be1d32acb"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance française",
+      "id": "Theme_158997cd053fe45e6963b5541c769f1e9fa3e93fdf93a64c610af7d6d03f2b47"
+    },
+    {
+      "type": "Theme",
+      "name": "JO",
+      "id": "Theme_c087f6eb6a9ca39f578b0827b29ec3787f4f92b40e3106adae364ba96847180d"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "contentieux",
+      "id": "Theme_dcb57584d4993a5a72f3ac2da78bc6845e0aefdea09aabd69d573c250d2a49db"
+    },
+    {
+      "type": "Theme",
+      "name": "foncier économique",
+      "id": "Theme_f5cb66a8c697d3991ed6da462660fa6b8523ab3eae8dbce320c0709120036575"
+    },
+    {
+      "type": "Organization",
+      "name": "France Foncier",
+      "id": "Organization_d6223b8961aa1d043507a714848390c16e815e4e99556e28b55a6d093fcff1c0"
+    },
+    {
+      "type": "Organization",
+      "name": "ETI",
+      "id": "Organization_2b106cbb4089f56375cf1ffd335c86c87f6ea1a6cc4479d319688561795fdcaa"
+    },
+    {
+      "type": "Organization",
+      "name": "PME",
+      "id": "Organization_0acc90fd83b5f34eca1d95b6132906e873cb62c3c1450bdfd28204a0afdd60a0"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur Martin",
+      "id": "Person_cce1e9a837eeada609f787e4f44a1fe0bf749b61844c6f01cda27012471ee0f9"
+    },
+    {
+      "type": "Law",
+      "name": "loi de simplification de la vie économique",
+      "id": "Law_43eba7acc8475313f97128408e018a2f0054de7c09ad7c0181b2c4bb8c3f97b6"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre Lefèvre",
+      "id": "Organization_cccfef051f9d248a8a6b02660cb9803b8d975985cf26705fcc4c191dbee6a884"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "RTE",
+      "id": "Organization_5f5e635460f5142575ed22506997cedd8e98182718cab4a1bddf68ae0a62a0fa"
+    },
+    {
+      "type": "Organization",
+      "name": "Élus",
+      "id": "Organization_2a8112b51d960018957700054cee7823bd277e9fa862e3ed8cf1b64ea1800278"
+    },
+    {
+      "type": "Organization",
+      "name": "Préfets",
+      "id": "Organization_de684efc2174ee3a7076db54d156af9c9f6f81205a168aca516bd643b128943f"
+    },
+    {
+      "type": "Organization",
+      "name": "Conférences de souveraineté alimentaire",
+      "id": "Organization_a846231a389bea4eed71efb72ffeef0a195014574f33fcd344b5533dbf7de340"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté alimentaire",
+      "id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "type": "Theme",
+      "name": "projets hydrauliques",
+      "id": "Theme_70b37f1da9aebeef38b59b3fa1a9ba0ba0947a0acf81dfe3afa1ca9fbbb199cf"
+    },
+    {
+      "type": "Theme",
+      "name": "projets d'élevage",
+      "id": "Theme_6f4033a98d9449f82f847b3f1ea0841c6d406afd5764a35cd7dc542637382a5d"
+    },
+    {
+      "type": "Theme",
+      "name": "volailles",
+      "id": "Theme_d3e9bde86ea28ff913e54ac55159d71522ec4966e4139c832c50a7f11e0c8ea8"
+    },
+    {
+      "type": "Law",
+      "name": "loi d'urgence agricole",
+      "id": "Law_b04ef104a3a533dfd1988f5fa5549735b6bbd8dc50001f633ff975e246bcb98e"
+    },
+    {
+      "type": "Theme",
+      "name": "reconstruction de Notre-Dame",
+      "id": "Theme_776d1f1a04c0dcebfa4267485f1074f23eef111033cf1ace5a35bf7969737772"
+    },
+    {
+      "type": "Theme",
+      "name": "aquoibonisme",
+      "id": "Theme_026a673830e9cb4ebcf90185b00941fb12a84a0979b7de8d0b7d99968541dc61"
+    },
+    {
+      "type": "Theme",
+      "name": "accélération",
+      "id": "Theme_9406033de4bdd19e92a66c46369f0023da04040909b90e0a99230637771a150d"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "projets industriels",
+      "id": "Theme_90500742d40b0a895b76fb2a5806af82a51823b9fff810dd265d48a385a5b191"
+    },
+    {
+      "type": "Theme",
+      "name": "Choose France",
+      "id": "Theme_6488756015550f0534218b18ddba392f1f16df917376ff2a1a5c289207cf924e"
+    },
+    {
+      "type": "Event",
+      "name": "Choose France",
+      "id": "Event_12ea28513b9a6aa0edf31bd2087b0ccc717369cf1b62258aa1f04184db058f92"
+    },
+    {
+      "type": "Theme",
+      "name": "investisseurs étrangers",
+      "id": "Theme_dfd14d24bc825fb2a571711f20b216753df34e0df2d4b925c18e5533c6386ea4"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilisation",
+      "id": "Theme_0eab3e350d3777625fe2debe6b8f064adc4c51e5eed0b4c88551e272e7c84470"
+    },
+    {
+      "type": "Theme",
+      "name": "combat",
+      "id": "Theme_6a8d504484dd15522148bbbe392e2fc6fb3a26c237b2b89a9d0126070440e62d"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Chine",
+      "relation": "SPOKE_ABOUT",
+      "target": "terres rares",
+      "evidence": "La Chine, c'est 60 % de l'extraction de terres rares et 90% des actions pour les raffiner.",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Theme_f7252f0b63c5dbd962be628be26728a4d12c2de743c24a064bdebad009d3acdf"
+    },
+    {
+      "source": "loi de simplification de la vie économique",
+      "relation": "ANNOUNCED",
+      "target": "loi de simplification de la vie économique",
+      "evidence": "Troisième élément, c'est la loi de simplification de la vie économique, adoptée justement la semaine dernière, qui va permettre de réduire massivement les délais, en particulier pour les data centers, pour ne citer qu'un exemple.",
+      "confidence": 1.0,
+      "source_id": "Law_43eba7acc8475313f97128408e018a2f0054de7c09ad7c0181b2c4bb8c3f97b6",
+      "target_id": "Law_43eba7acc8475313f97128408e018a2f0054de7c09ad7c0181b2c4bb8c3f97b6"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la France, pays le plus attractif d'Europe depuis 6 ans sur le plan industriel",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

@@ -1,0 +1,718 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Île Longue",
+      "id": "City_619e5382101bc758d7fe712c6426757927298ab3860e7fb5486f0a5902e354b7"
+    },
+    {
+      "type": "Organization",
+      "name": "forces aériennes stratégiques",
+      "id": "Organization_d70a47d33dfc85e99a712e01a88325761ce3c773d64e874fd3c65b2a140c1f64"
+    },
+    {
+      "type": "Organization",
+      "name": "SNLE",
+      "id": "Organization_0d6beb177d812f198fc8934e4bcc4bbfe48edc0abe0800d28c44694dc6353f8b"
+    },
+    {
+      "type": "Organization",
+      "name": "centres de recherche",
+      "id": "Organization_ab6a07c8b9ac92fd541984c4abe596e9f90be6ad0fa97078990ae6e908912f26"
+    },
+    {
+      "type": "Organization",
+      "name": "industriels",
+      "id": "Organization_e1239d6bdf2e17c31d84d78eb67804da9b9324192903c03c7b5fe428acf9fb17"
+    },
+    {
+      "type": "Organization",
+      "name": "militaires",
+      "id": "Organization_9b8d566f761970686e25f83e3740890ff73ce69186e6043ccaae953b533f4eed"
+    },
+    {
+      "type": "Organization",
+      "name": "civils",
+      "id": "Organization_68f2f222e683738adeb4c82bbc68bd513485929947bc96b6e02aa7228a75ea2e"
+    },
+    {
+      "type": "Theme",
+      "name": "dissuasion",
+      "id": "Theme_f24de2941f32c3ba0adcee4f66a7efe25f851c9977d13617739aecd363151721"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie de défense",
+      "id": "Theme_870acdcc025f261d5efe1688c837374c851a54c23248f70eb21116f18c34a0d1"
+    },
+    {
+      "type": "Theme",
+      "name": "suffrage universel",
+      "id": "Theme_2222564a37789e754599b8f91bc0e30be91a0793295a95713c1e403808511a18"
+    },
+    {
+      "type": "Theme",
+      "name": "Droit de vote",
+      "id": "Theme_314389fbceea301f2b54d994777e1151c7a3d4d1d8271fba3db65820207cbca8"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "dissuasion nucléaire",
+      "id": "Theme_58eeb47a4187adc35273d336dfd15dff2be146723e73c7047d28cd4f39ac63c9"
+    },
+    {
+      "type": "Theme",
+      "name": "doctrine nucléaire",
+      "id": "Theme_c774940736d82795428f48c3d78abe8c9bc8d7beb7b189a017107755d8e5bc4e"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "La Chine",
+      "id": "Country_9e78cf2c68a62ff9caa0b194d4ab4fd644fe800fed648bf7ae22b25bcb325241"
+    },
+    {
+      "type": "Country",
+      "name": "la Russie",
+      "id": "Country_4a1a956e084e3fcb7b23b8b2b61e8bdfe5a3b000fd78dcb37e22f123f90f6ee2"
+    },
+    {
+      "type": "Country",
+      "name": "les Américains",
+      "id": "Country_1f9c2af91427764a6ba6689ea4cafae6be082770f63e1efee44230c1f02a70fa"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Pakistan",
+      "id": "Country_aef1eb401e9b4c99e1e5c80afe260a2710f72e056ce27c1b853c015c5890eebc"
+    },
+    {
+      "type": "Country",
+      "name": "Corée du Nord",
+      "id": "Country_d403bea44d70f65c1c477a18701e0bf7d2b84fd75e947a1213736b8cdf536760"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Theme",
+      "name": "conflits majeurs sous le seuil nucléaire",
+      "id": "Theme_42e154fb01d311d5a930fdf4bc253d4595efa30f4d10dc963649929c82cffef8"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités d'épaulement",
+      "id": "Theme_eda3643576a9b42dedd12ccad0927f5c8c5b6c38ca406379d0f9695774104e6d"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités conventionnelles",
+      "id": "Theme_e8a08921a6de599fa32ff6015a4150692ccb94b886438f21502da6c7ceaa1f80"
+    },
+    {
+      "type": "Theme",
+      "name": "menaces nucléaires",
+      "id": "Theme_889d139bf8a1da7eee16b9ca1a7854bc1d7dec2dfa733c79187e018cb3f7e4ec"
+    },
+    {
+      "type": "Theme",
+      "name": "conflits intenses",
+      "id": "Theme_bdb3d77a51eb499ff9cb3fb01a9c21ce7fec0e6b8bb1a8bd2212a8f4d09b604a"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Organization",
+      "name": "notre pays",
+      "id": "Organization_5dfe9982b810319db26c9eb3bfc278a3fb954536885b977a51f0a743cd998eb2"
+    },
+    {
+      "type": "Country",
+      "name": "la République",
+      "id": "Country_8ece1ca643efc6be6485040a8d42357a81f22c38694d9ca8a56d37a688baf2b0"
+    },
+    {
+      "type": "Organization",
+      "name": "aucun État",
+      "id": "Organization_114a2d36e5236c0e1d0a87dfc4c4a8cb3c90144aa31f69c7fa996c3286eeec09"
+    },
+    {
+      "type": "Event",
+      "name": "la Seconde Guerre mondiale",
+      "id": "Event_6bdc15aa9b2ba2a62ef2bc99eab31dac0e7d6be761d339566cbcfd5e08b75c79"
+    },
+    {
+      "type": "Theme",
+      "name": "la puissance",
+      "id": "Theme_d44952277bf7fec4f67a91ef5b2f856efa7de142a4178968971d98642cf385a0"
+    },
+    {
+      "type": "Theme",
+      "name": "la paix",
+      "id": "Theme_2a209a3014073f4a8155da339c2e11ace3d4b5cb8a8f4021dfeaf46f721428c7"
+    },
+    {
+      "type": "Organization",
+      "name": "nos futurs sous-marins stratégiques",
+      "id": "Organization_219e332cc680f90c2cd285909d1d367952a56d989002e9151283aa0875930176"
+    },
+    {
+      "type": "City",
+      "name": "Île-Longue",
+      "id": "City_093bc23e9ed6df42fe452b6eb1bbb1d9aaf44e7b266bd57b56e5e0508b4c7e02"
+    },
+    {
+      "type": "City",
+      "name": "Cherbourg",
+      "id": "City_afbb121c0a173f111ee212e04474639df6dc09425295185121fecc1de8e7b660"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "sous-marins stratégiques",
+      "id": "Theme_322d5bf75d93bab9e0ab6057fabf037bfea759c979a2b6366e9b7bf725cfbafd"
+    },
+    {
+      "type": "Theme",
+      "name": "sous-marins nucléaires",
+      "id": "Theme_bafd7ffbdd74a141c00bc277e59c182addc6d75a0ccf67860bc026ded429e5d5"
+    },
+    {
+      "type": "Theme",
+      "name": "technologie",
+      "id": "Theme_f50f2e73d342423ab68fbb527a8e6f41bb64bfac8440718a497ef6f75a9032d8"
+    },
+    {
+      "type": "Theme",
+      "name": "L'Invincible",
+      "id": "Theme_9e26cde91737e2159d87fd016117b9b5f3405c64f2474795a3db9311d42d113d"
+    },
+    {
+      "type": "Organization",
+      "name": "force aérienne stratégique",
+      "id": "Organization_33d77cb9027e977551c23ee9b23b576a4eb78058a6d478d6200271db5e3f5436"
+    },
+    {
+      "type": "Organization",
+      "name": "force aéronavale nucléaire",
+      "id": "Organization_9a1aca3550c4b41a4cc898b4fdd8b100753b4c01017b61bc9909ab54450c68dc"
+    },
+    {
+      "type": "Organization",
+      "name": "avions de combat",
+      "id": "Organization_d0d49f0db99b9f9f3067849f3fbbe3f53d83489628ebe5d5fb2a8f57b9782aaf"
+    },
+    {
+      "type": "Organization",
+      "name": "porte-avions",
+      "id": "Organization_c6ecb05d2b3f0dccf1861d3fbe16e827abad226a0c52a2c70e8a4320a3392ea0"
+    },
+    {
+      "type": "Theme",
+      "name": "production d'armes nucléaires",
+      "id": "Theme_c52e820758333a7ebc0c96ea9248e475848dd792de6c04d9cda6d94de285c862"
+    },
+    {
+      "type": "Theme",
+      "name": "réarmement",
+      "id": "Theme_4384e0f5eed1ff2fa351d11b29bef83ed55a909c29c85aaf308729e79915b9f0"
+    },
+    {
+      "type": "Theme",
+      "name": "trajectoire actuelle",
+      "id": "Theme_3d31bfd9559da4783b7803fe600221b267a1482ae420ec9318bec0ebbcdd6aeb"
+    },
+    {
+      "type": "Theme",
+      "name": "chantage",
+      "id": "Theme_025f4df46fbfb60e1426ebde3ded2388d14bc300ab77edd543cae1434de93d4d"
+    },
+    {
+      "type": "Theme",
+      "name": "capitulation",
+      "id": "Theme_0312473e13eb9df258d81a6bcb4e9c372a58bcb2a0678a2e3596e21f850a23be"
+    },
+    {
+      "type": "Theme",
+      "name": "puissances régionales",
+      "id": "Theme_a9ad8cd07bc5f4bab39ab78d3da023c9d7cbccf6a6fb147581c3a658a41d3cd2"
+    },
+    {
+      "type": "Theme",
+      "name": "coordination entre adversaires",
+      "id": "Theme_2ff96a7c60fbaaacac935d09d281bc559c38052f8c1d54e2235d25b27cb411d2"
+    },
+    {
+      "type": "Theme",
+      "name": "prolifération",
+      "id": "Theme_53c274ef4050587100e68b64957a6fd4056b8d28f5ab4c767baaed077742785e"
+    },
+    {
+      "type": "Person",
+      "name": "François Mitterrand",
+      "id": "Person_582a697169cca265de8d07bb13285260b41f2fa4323b31279a99e5a8cd909063"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêts vitaux",
+      "id": "Theme_252042cb505f30e4db2df980501341d434ed234a4bf9be25b6bac0b33ae8aec8"
+    },
+    {
+      "type": "Theme",
+      "name": "survie de nos partenaires les plus proches",
+      "id": "Theme_40097d21c73f547dbe47b603e562c4f07793d9ac34dfde8a69bd8a831c9d0401"
+    },
+    {
+      "type": "Theme",
+      "name": "nos intérêts vitaux",
+      "id": "Theme_d36ae6ee0a9ebc62d5b6bded22f273b246afc25bd6027e2c07ce3aee18638e32"
+    },
+    {
+      "type": "Theme",
+      "name": "menace extrême en Europe",
+      "id": "Theme_c1bae19d3d69397231d9b3c5423de4876020f4e12c008dd522f37e9305503608"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "dissuasion avancée",
+      "id": "Theme_d3cebc469edeed09121b178666d837a42f686c1a0fe9ff77dfb957392bceccd0"
+    },
+    {
+      "type": "Theme",
+      "name": "bataille nucléaire",
+      "id": "Theme_b23797ebdedd96eb1136bd02b0fd46314a3efa1362445f103fbbfd9db4e70611"
+    },
+    {
+      "type": "Theme",
+      "name": "conventionnel et le nucléaire",
+      "id": "Theme_c4b2b4d2765173df29168cca9bb5eedbe8138f7c223f540154574330e51f3b2a"
+    },
+    {
+      "type": "Theme",
+      "name": "avertissement nucléaire unique et non renouvelable",
+      "id": "Theme_17341c20393e301a5759f07df898ff5bba3aaa817efd844361a0af0145cbd48c"
+    },
+    {
+      "type": "Theme",
+      "name": "franchissement délibéré du seuil nucléaire",
+      "id": "Theme_cf8ec9dbfb89a21c9958379300fea348cd160f95cc568a28f6c6975d9d817855"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Organization",
+      "name": "États-Unis d'Amérique",
+      "id": "Organization_6605a39468d0b49ad2a4437fea866b0056f281b7caafe565f4294ba84e2aa528"
+    },
+    {
+      "type": "Organization",
+      "name": "Royaume-Uni",
+      "id": "Organization_0a7947da617ffaaa36fe43d6d1e5afc15bda0229b03afcfa6bd28ac70d28d391"
+    },
+    {
+      "type": "Law",
+      "name": "Traité sur la non-prolifération des armes nucléaires",
+      "id": "Law_d50e07e3a74ef1aa2761e9cc64a02e1a2edff388cffad52745343d620524e75a"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Country",
+      "name": "Pologne",
+      "id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4"
+    },
+    {
+      "type": "Country",
+      "name": "Pays-Bas",
+      "id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "type": "Country",
+      "name": "Belgique",
+      "id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Country",
+      "name": "Suède",
+      "id": "Country_f0680f074258c0cbb263830557969af01c50840b9cdfd249ff5c18418896a4ff"
+    },
+    {
+      "type": "Country",
+      "name": "Danemark",
+      "id": "Country_e69e28cfa71a672f3c4d4f769e9cbc72220f20bc192eea020c4483eaecfef07b"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Theme",
+      "name": "alerte avancée",
+      "id": "Theme_0daf3a1271886f0a991d05384716ce398689f1df5db9d67e5f606593d95bbf55"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité",
+      "id": "Theme_c0c7ac09de675363c9d53f15a566349ed64362b25c3d655fbb35e7325ae1bbf8"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtrise de notre ciel",
+      "id": "Theme_580c2f2079f36684181b6e689b8bfed2a8d2886e97e002149309a8372b3e3223"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités de frappe dans la grande profondeur",
+      "id": "Theme_700e88b79431bdec6af4372ebcc911d01806cc84ef12d604f6eaa90eff5445b2"
+    },
+    {
+      "type": "Organization",
+      "name": "programme JEWEL",
+      "id": "Organization_bfe091ad6ffb2214d9f1fa00f2d82e04789b66ac0d8a5b2a2b966acc378b1229"
+    },
+    {
+      "type": "Organization",
+      "name": "système SAMP/T NG",
+      "id": "Organization_01a99458584db0182823537358033f3cb7f81603dfd39dee969044339835c301"
+    },
+    {
+      "type": "Theme",
+      "name": "défense de la France",
+      "id": "Theme_7eef5a5c1d91bec53c8ceb4a8368d5f5759691a3bb3d4c8da50cdc80abe36f86"
+    },
+    {
+      "type": "Theme",
+      "name": "cohésion",
+      "id": "Theme_bdf81bb4f74282d165f82ba0599ec7cb75acea924b393b33c6de9ee8bb6f9c00"
+    },
+    {
+      "type": "Theme",
+      "name": "contexte",
+      "id": "Theme_c112533bf7c012ebc666cc48681d138894427fe94f8808a4cc2fb23bb6f86231"
+    },
+    {
+      "type": "Theme",
+      "name": "dimension européenne",
+      "id": "Theme_0be2a20b9526d5cc8df33bed17637aa6315b412ca77c55b67f34c35e87957ae5"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "fardeau",
+      "id": "Theme_7e5d65c5632b3d5d419184317f63d7180535c2617128b05aa17afc20384eb0f6"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie stratégique",
+      "id": "Theme_029a7236b3291ee261cba1740f38d69601586a351be77e7e7290bab2819fd644"
+    },
+    {
+      "type": "Theme",
+      "name": "accords internationaux de maîtrise des armements",
+      "id": "Theme_e9531c324dba0a90deae43823d486bb91d4ec4944f653f1c9253c992a07f8b54"
+    },
+    {
+      "type": "Theme",
+      "name": "traités sur les missiles antibalistiques",
+      "id": "Theme_981c68fe28b76ce36ff3aa24d4682d7e968aeedced06c1265bbb7fedcb5a3fe2"
+    },
+    {
+      "type": "Theme",
+      "name": "traités sur les forces nucléaires intermédiaires",
+      "id": "Theme_051596b711cc1db4af322c0ec5f8d24fda8581c0adfb7f52d5eccc9fab5862b4"
+    },
+    {
+      "type": "Theme",
+      "name": "traité New Start",
+      "id": "Theme_63a8c3cdbccd30e9fa9dcc40c6e7cfde9d2b5efa7e0e94b63daeb8e0214798ff"
+    },
+    {
+      "type": "Theme",
+      "name": "traité d'interdiction sur les essais nucléaires",
+      "id": "Theme_e8a464cc92ae11aaba2b3b6f8b36584468b773af0115f352e10afd2de0b3c4b2"
+    },
+    {
+      "type": "Country",
+      "name": "les Etats-Unis",
+      "id": "Country_8df3466244b292649c597b8b512edd3db82a8841945a4706149665c969f501ec"
+    },
+    {
+      "type": "Theme",
+      "name": "anomie",
+      "id": "Theme_d9dc3880480e1967566be3828b7285b463a9c990aa0593b8f6d9afc8dcc248ed"
+    },
+    {
+      "type": "Theme",
+      "name": "maîtrise des armements",
+      "id": "Theme_cfc285d39ed7aad705da3dd9ad384f00190bfd1f95ebb79940c7a249a324d2d9"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité en Europe",
+      "id": "Theme_3e5679f9d6e32fe1b81dd301a88c47e79a637da0d3a820279bdff2b072819833"
+    },
+    {
+      "type": "Theme",
+      "name": "logique",
+      "id": "Theme_5634ee17304de9bb575af0d95d64c93e0eef78969014cee8a8dab3fa951c25cc"
+    },
+    {
+      "type": "Theme",
+      "name": "architecture de sécurité européenne",
+      "id": "Theme_750f846ce09c4d0fe564776a6ed5b88247db9f8a36a3e67d785984805e84d109"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre froide",
+      "id": "Theme_77c195437cd0c1a5f7f2d5934bc748823d87f8a5701f21ada04ec3d74e9ac381"
+    },
+    {
+      "type": "Theme",
+      "name": "intérêts de sécurité",
+      "id": "Theme_ba26d2a82f6c00e1e83cd1d5fcf37aa8730a6b1281f5ea3e4cbddd9e13c4ae15"
+    },
+    {
+      "type": "Theme",
+      "name": "continent",
+      "id": "Theme_148fd80b66a562dc228366d3418b5c107c82ee0728f38e2c49585be66bbd77fa"
+    },
+    {
+      "type": "Country",
+      "name": "Russes",
+      "id": "Country_27c077e323b429d995d6e18a1c83b87643b08f2e2e41454f95d2323177e3aa48"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Theme",
+      "name": "arme nucléaire",
+      "id": "Theme_d82bf349e60f7d5cc1750a49a06d92f503b888304106a277601cce6d0f98de5a"
+    },
+    {
+      "type": "Theme",
+      "name": "discussion de raison",
+      "id": "Theme_1147b8970893d5b74434a301ec37d6966cc73e691807e5f0be99569e90cdcd71"
+    },
+    {
+      "type": "Theme",
+      "name": "monde sans arme nucléaire",
+      "id": "Theme_bae0d8325a12988bbb6adda18280c317c80598a326dac7727cb2c8662b47e315"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie atomique",
+      "id": "Theme_5842e0afd8361ae2efd607b36939e7a96fac80f98b53365064ac9e8fe6e5d7e8"
+    },
+    {
+      "type": "Theme",
+      "name": "TNP",
+      "id": "Theme_0c78a1297710803e8e4e674a56bd7a5e5d58a4c4d1b1a0f0cb4f3fbaac13c4ed"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence internationale de l'énergie atomique",
+      "id": "Organization_78ed3c484bf6572eedefdc48061346b84394cdc600842b19358f482401484f1e"
+    },
+    {
+      "type": "Organization",
+      "name": "base opérationnelle de l'Île-Longue",
+      "id": "Organization_31daac0a14fb685837ae62ba281a3e3e7adecc19738f6099d86992cebc81d945"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs",
+      "id": "Person_625fe3a313c056b9dc1724205255b9a7767c4b46670f91284ff4a20cb9382408"
+    },
+    {
+      "type": "Theme",
+      "name": "Armée",
+      "id": "Theme_2eeb8e10beac0248581a7d59931580b34c2366ec816e6e7ab0a1eefa508cf353"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe de la défense",
+      "id": "Theme_d488a2eb389ffd7a51db81916674d2c1c5302f5c6339f996ea167cdd961cb4e8"
+    },
+    {
+      "type": "Theme",
+      "name": "cybermenaces",
+      "id": "Theme_4586daa58d464d557b519b122a24a73f9b3c4954ed971911c6fc1ab5b8257f5b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "un risque majeur pour notre Europe",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "source": "Corée du Nord",
+      "relation": "SUPPORTS",
+      "target": "Russie",
+      "evidence": "Quel est le prix du soutien massif de la Corée du Nord à la guerre d'agression que mène la Russie ?",
+      "confidence": 1.0,
+      "source_id": "Country_d403bea44d70f65c1c477a18701e0bf7d2b84fd75e947a1213736b8cdf536760",
+      "target_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "source": "Russie",
+      "relation": "LOCATED_IN",
+      "target": "Chine",
+      "evidence": "Que dire de la dépendance extrême dans laquelle la Russie s'est placée vis-à-vis de la Chine ?",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "source": "Russie",
+      "relation": "SUPPORTS",
+      "target": "Ukraine",
+      "evidence": "N'a-t-on pas vu aussi des comportements irresponsables de la Russie en particulier, avec une modification de sa doctrine cousue main pour menacer l'Ukraine, une banalisation du discours sur l'arme, des officiels qui agitent des menaces inconsidérées, des tirs de missiles duaux comme l'Orechnik, à proximité des frontières européennes ?",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "conflits majeurs sous le seuil nucléaire",
+      "evidence": "les puissances nucléaires comme la France doivent aussi s'accoutumer à la possibilité de conflits majeurs sous le seuil nucléaire dans leur environnement immédiat.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Theme_42e154fb01d311d5a930fdf4bc253d4595efa30f4d10dc963649929c82cffef8"
+    },
+    {
+      "source": "La Russie",
+      "relation": "OPPOSES",
+      "target": "les Etats-Unis",
+      "evidence": "La Russie a dératifié le traité d'interdiction sur les essais nucléaires, que les Etats-Unis n'avaient eux jamais ratifiés.",
+      "confidence": 1.0,
+      "source_id": "Country_4a1a956e084e3fcb7b23b8b2b61e8bdfe5a3b000fd78dcb37e22f123f90f6ee2",
+      "target_id": "Country_8df3466244b292649c597b8b512edd3db82a8841945a4706149665c969f501ec"
+    },
+    {
+      "source": "Iran",
+      "relation": "LOCATED_IN",
+      "target": "Iran",
+      "evidence": "la crise iranienne",
+      "confidence": 1.0,
+      "source_id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8",
+      "target_id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "source": "Europe",
+      "relation": "ALLIED_WITH",
+      "target": "Russes",
+      "evidence": "en particulier entre Européens et Russes",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Country_27c077e323b429d995d6e18a1c83b87643b08f2e2e41454f95d2323177e3aa48"
+    }
+  ]
+}

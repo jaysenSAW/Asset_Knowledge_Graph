@@ -1,0 +1,737 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le préfet de région",
+      "id": "Person_262d45b0f794c0ed4606bab776c03492a8313f55013aa3d5b0872d5773b9035c"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la présidente du Conseil régional",
+      "id": "Person_75f883ce412ea691982fa9a5af22054d4eb489f793e0d83c1e144a337670b8f2"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil départemental",
+      "id": "Person_ed23b450f0ef4975a677c78549b852e0bd6220615dfe342c23dd98aaf4590810"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les maires",
+      "id": "Person_c6918593830c43dc32e3234ff666e36a742c4efdcba8eeb54a0e3e88d392a782"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le délégué général pour l'armement",
+      "id": "Person_38ee4d4512a5653554542f76aca6918d970f3dd16d5af5aa1ce3c43f8d183ef5"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le chef d'état-major de la Marine",
+      "id": "Person_41fd24cd99de91f068106210254a071ce0129bc5bcb917954853771470ed0895"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le chef d'état-major particulier",
+      "id": "Person_dc570abc3f423d9e8db7ed1568cd68e793ac79395e2a38cd27fc61f6b4f27fb1"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les officiers généraux",
+      "id": "Person_e97ffd5fb35c6c47e8766e9394ce684a73bc91bc308f279bb27282a857f73974"
+    },
+    {
+      "type": "City",
+      "name": "Indret",
+      "id": "City_7aa4d8fe9ff493899be91dc578d835a02a72916c8b4ce8ea43009283a92f938e"
+    },
+    {
+      "type": "City",
+      "name": "Crète",
+      "id": "City_13371b2745904b971504916c3d41c160dac9449d10644ca99f8c4c9e78785b2d"
+    },
+    {
+      "type": "City",
+      "name": "Chypre",
+      "id": "City_de705910a521366351b175fc137ec51f92f7ff52969d20d94f09ff7482c76dab"
+    },
+    {
+      "type": "City",
+      "name": "Liban",
+      "id": "City_5f6f6f6681c56da9f131e84a28daf3f291f509f5abb7c8d604a160092a688e16"
+    },
+    {
+      "type": "Organization",
+      "name": "porte-avions Charles De Gaulle",
+      "id": "Organization_e8408856c5bba72e5f3156e9b94c61b9a78dab6692fc93dd00c571138f3ebe1e"
+    },
+    {
+      "type": "Organization",
+      "name": "groupe aéronaval",
+      "id": "Organization_04f45c7da04df8bd93d31b8aa27336ec069bb5ef8cbad9d985ed9ef6402046b7"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Ile-Longue",
+      "id": "City_093bc23e9ed6df42fe452b6eb1bbb1d9aaf44e7b266bd57b56e5e0508b4c7e02"
+    },
+    {
+      "type": "City",
+      "name": "Creusot",
+      "id": "City_4aae9bc8e82dd178a623eeec345a02151fb9217aead3a114d19575be90378d36"
+    },
+    {
+      "type": "Theme",
+      "name": "règles",
+      "id": "Theme_1251aa7ebba3b825d73afc02fc66590506a05eb3dcf8cbe697ec7948483f5275"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "puissance",
+      "id": "Theme_d8895f67d26ec9bc257a9b6d9015cbffdb3029611e550d517fabb25ec9d2c101"
+    },
+    {
+      "type": "Theme",
+      "name": "porte-avions",
+      "id": "Theme_7b7b766c4ad313f5788b9344d4901e8725b08329974aa1590292b43cff46b669"
+    },
+    {
+      "type": "Organization",
+      "name": "Charles de Gaulle",
+      "id": "Organization_20d9eff3415916d1da54526a30b385baa261e948a337b254699dc6328ad03c99"
+    },
+    {
+      "type": "Organization",
+      "name": "Béarn",
+      "id": "Organization_42b21949efed0a4810381106fc4268688ddb4583c3d23eb39b8aad670954de1e"
+    },
+    {
+      "type": "Organization",
+      "name": "Dixmude",
+      "id": "Organization_4de54639dd37aea1cc70ef1b71bab27d5ce6d8f0bb9fae42a16be3b00ab87980"
+    },
+    {
+      "type": "Organization",
+      "name": "Arromanches",
+      "id": "Organization_687d32849acf7f5160d25f00b29e8e18a1bbcc6a4f04187bc3cd85d1c23f38ab"
+    },
+    {
+      "type": "Organization",
+      "name": "La Fayette",
+      "id": "Organization_5148742613448b39987d2cac06451c7c94002024b6b6e92163096388363e44b9"
+    },
+    {
+      "type": "Organization",
+      "name": "Bois Belleau",
+      "id": "Organization_7edee8f908ffaba70a83df1927b4ec0e2653466b18a0035722d5bd9ce7fb71f9"
+    },
+    {
+      "type": "Organization",
+      "name": "Clémenceau",
+      "id": "Organization_b17bd25d0ccc397df48fec5c84ac2f6520dc8728aff694d15f287a5e6ccf68dd"
+    },
+    {
+      "type": "Organization",
+      "name": "Foch",
+      "id": "Organization_5d1816f49f1b75f250e63f3c831bb39b25ec74bbe0c59720883599d064bf1004"
+    },
+    {
+      "type": "Organization",
+      "name": "Porte-avions",
+      "id": "Organization_c6ecb05d2b3f0dccf1861d3fbe16e827abad226a0c52a2c70e8a4320a3392ea0"
+    },
+    {
+      "type": "Organization",
+      "name": "Naval Group",
+      "id": "Organization_ff71490861e1d075fc0f9da66ae2e44afb21b8fc692a498ac9841b2b54302ccb"
+    },
+    {
+      "type": "Person",
+      "name": "Pierre Éric Pommellet",
+      "id": "Person_ee921c5f91863a4ee9bc2dbd7bc81ac033894c9ff3348d2114b58c31a50a434a"
+    },
+    {
+      "type": "Organization",
+      "name": "TechnicAtome",
+      "id": "Organization_ea5f0a6c7b520e58212160f553f4e4231f2f592fe7962c5aa7fadd4ab841d962"
+    },
+    {
+      "type": "Organization",
+      "name": "Framatome",
+      "id": "Organization_eb9cc95373ecdd05315634dba3d1020a30524a37ed87f937981bff4285842774"
+    },
+    {
+      "type": "Organization",
+      "name": "Chantiers de l'Atlantique",
+      "id": "Organization_fa7067539c7e12ab0505976f8652c20689c84eef71bd3519edcb0de2e401c57b"
+    },
+    {
+      "type": "Organization",
+      "name": "Thales",
+      "id": "Organization_526fb42462754e4ed1d9b1f923fabafa25efc27388c70819465567502848194f"
+    },
+    {
+      "type": "Organization",
+      "name": "Dassault",
+      "id": "Organization_1ac6ecd910f7fa46c0b9cd03131af27e59db5f4cace7c69b29361086d6cfed9b"
+    },
+    {
+      "type": "Organization",
+      "name": "MBDA",
+      "id": "Organization_a2b19300e178ca810401ed325d1b85e2ec06f867d8961a0e5fa42d29deed6230"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Organization",
+      "name": "PME",
+      "id": "Organization_0acc90fd83b5f34eca1d95b6132906e873cb62c3c1450bdfd28204a0afdd60a0"
+    },
+    {
+      "type": "Organization",
+      "name": "ETI",
+      "id": "Organization_2b106cbb4089f56375cf1ffd335c86c87f6ea1a6cc4479d319688561795fdcaa"
+    },
+    {
+      "type": "Organization",
+      "name": "grands groupes",
+      "id": "Organization_715e32de3b4200e552fad60ad2a41edb8cad0a840ec46e60a7cd2e52909cee35"
+    },
+    {
+      "type": "Organization",
+      "name": "porte-avions de nouvelle génération",
+      "id": "Organization_37084bd8e6601890ba3edd9ab2ad454e1afb05a36c93df2e1c8777ebbcdc33bd"
+    },
+    {
+      "type": "Organization",
+      "name": "Notre puissance militaire",
+      "id": "Organization_20502b5179ecfbf05aa5c11f4270905a79ceceebbde6757c10ec9aaa503c50d7"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de défense",
+      "id": "Organization_525c52145810433a5110d0c9fd219ef52cb45341cae96df8b5e07e51c6348efd"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblées",
+      "id": "Organization_1897783fc7b0726b34866bb1857f2abbef729ed95cd66df5c44a2e412e2a86a3"
+    },
+    {
+      "type": "Theme",
+      "name": "budget de nos armées",
+      "id": "Theme_91140b0d48fae1b308c7c950983e731f637eb816ec4d735bc32fbccdb95652da"
+    },
+    {
+      "type": "Organization",
+      "name": "France Relance",
+      "id": "Organization_0b6dbafd2447e94a384c19a603a7e31d1bf2e1add30f766e9c4d1d65c8698903"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Organization",
+      "name": "nos industriels",
+      "id": "Organization_4b6cf5bfab8f2e063bd5df2af96359d76fe52301cd44203129347da72472b522"
+    },
+    {
+      "type": "Organization",
+      "name": "la nation",
+      "id": "Organization_3a24f127af0db13cebed8eefdb560d89fc798cb8d027ce1edb1220d20d7236ca"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations de rupture",
+      "id": "Theme_0018121f380805d9837a57f7aff6d9bd013aabac840f93096a01f45c82809919"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialiser le pays",
+      "id": "Theme_79493e74eccf243de072a57aaa1349f98eaba1e8e8d4639751017cbdd2339f8e"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance",
+      "id": "Theme_71ab91b48d5255f5bc09422a8bedbba7c5842594540b9851c7c3520b535ed77e"
+    },
+    {
+      "type": "Theme",
+      "name": "matériaux avancés",
+      "id": "Theme_18263d90b3dfc97aa7558701b460bd96334e569ccb2c942a0e90e9342bb82d39"
+    },
+    {
+      "type": "Theme",
+      "name": "robotiques",
+      "id": "Theme_7433ba91685fc81133afaf9495215e7026d7253ee07b411ed526653f9ae2ef00"
+    },
+    {
+      "type": "Theme",
+      "name": "systèmes numériques",
+      "id": "Theme_e140e36b54f508983f5f6aa498408777d37dd8c9dbcdae17be7a67b16fb77b7f"
+    },
+    {
+      "type": "Theme",
+      "name": "drones basés sur l'intelligence artificielle",
+      "id": "Theme_00a0f1620e94ff8ec60e0235242bdea4191cbc9d199bbf6e00b11ffde8b0d1c4"
+    },
+    {
+      "type": "Theme",
+      "name": "achète, mais produit",
+      "id": "Theme_c41336bf008937baf809e8981c88ccab0e08ca3026867f24ce2cbe0f0d80aa57"
+    },
+    {
+      "type": "Theme",
+      "name": "coopère",
+      "id": "Theme_56d9614b8f733e42069de2cf2971b72b1f57221d679ff6dfabcf5071e3922cee"
+    },
+    {
+      "type": "Theme",
+      "name": "développe des capacités qui lui sont propres",
+      "id": "Theme_535f1ebf226f4c1785a8c47063d01e0bb2c2930c95445eef7031c682c74b7a8a"
+    },
+    {
+      "type": "Theme",
+      "name": "réduit ses dépendances",
+      "id": "Theme_92b16694143a60095c69e5abcd8791955ea5f6c89baed22ddada6cb293b06431"
+    },
+    {
+      "type": "Theme",
+      "name": "minerais critiques et terres rares",
+      "id": "Theme_93737137281abf6337a902a7ccd629410f0295325b7da4aa5fb3c0a65a98f271"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions technologiques les plus avancées",
+      "id": "Theme_fb28c5cf4024c5539f0c271c746ea5a56aebf136bda4f176c7782ff65f29d2be"
+    },
+    {
+      "type": "Person",
+      "name": "général de Gaulle",
+      "id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442"
+    },
+    {
+      "type": "Theme",
+      "name": "conviction profonde",
+      "id": "Theme_775f2864874ab38ad06e86e8806319f72b27e2f6ffef588ce9f24f68b28e5dd5"
+    },
+    {
+      "type": "Theme",
+      "name": "économie de guerre",
+      "id": "Theme_fff4c7963d888cd4af7fe586f84f773820eabd0acb09464492d87d06cbe4fec2"
+    },
+    {
+      "type": "Theme",
+      "name": "industriels",
+      "id": "Theme_65f1038ff0752a877be8ce71144e93bba19c4c44f80762614e26462e31508666"
+    },
+    {
+      "type": "Theme",
+      "name": "commandes",
+      "id": "Theme_c4781181f1e90cd2222b64139bf8863ce4bf8e63819bf1cccfae8024160dedee"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds Innovation Défense",
+      "id": "Organization_44801c702599cdea126f744357c6b6684ca34a542a67013c3f08e4739a35875a"
+    },
+    {
+      "type": "Organization",
+      "name": "BPI France",
+      "id": "Organization_a02fb5e07e90391cf524f5ea2aa5c5ec5df5bb1df4d2816a353b6ad4b8676c14"
+    },
+    {
+      "type": "Organization",
+      "name": "Caisse des dépôts",
+      "id": "Organization_dc7aac95f925397cf84278e527b2c05a633764aea4f18e50bb1f49c65b6a67b3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur Brassac",
+      "id": "Person_d867257aabd94643ba9fecb07e60c220543d129dd136a3115e75fdcaab250eb6"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur Guillou",
+      "id": "Person_9e1c1c10a4215f68adb9369de415b12ca684a96f6b8724cc5c54b3d16339e5da"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "épargne",
+      "id": "Theme_fb2f7ea28a7405e970bdb4f8a4912a8b153450e624a4bc34105e6bc4593a9bb8"
+    },
+    {
+      "type": "Theme",
+      "name": "efforts en matière de défense",
+      "id": "Theme_c44174221e8a6848758a0ab694478d5cb8cbc4334dd864973c0f9128c9a217d0"
+    },
+    {
+      "type": "Theme",
+      "name": "programmes",
+      "id": "Theme_c18b745bf98ca2491319b2b39d196c7b9292031ddb179301ec3a14e21d9cba43"
+    },
+    {
+      "type": "Theme",
+      "name": "projets",
+      "id": "Theme_66f49419a113c04506cfe1d65197bfb53ae53f9dbf09ed39ec1767eb9d460736"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Theme",
+      "name": "finance de la défense",
+      "id": "Theme_827b5fa81b71b345b1f931271c86c25b32c17aeb1ff42bbc149983c28a1a895d"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence européenne",
+      "id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendances technologiques",
+      "id": "Theme_4cf989c3c014f6ca76c8a4b30821fcde8393a2bfbd246b2899149af122be96a3"
+    },
+    {
+      "type": "Theme",
+      "name": "capacitaires",
+      "id": "Theme_cd10ebb455d921948075c6100c33d1c398d3fc2cc5bd30ac970b8a427c98ec69"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Moyen-Orient",
+      "id": "Country_2de49a8ab091aa1bdb7077eae809b237c5996590ecd7c342f4752b3b30411fb1"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "sous-marins",
+      "id": "Theme_d8ec5ff7f0a11246c42d743fad794f43809c510dc47b4d89ac9f2865a1534fff"
+    },
+    {
+      "type": "Theme",
+      "name": "réacteurs",
+      "id": "Theme_e7ab77249a4a65ccf5bbf433e7d8dd052def768f48724eb15e13e292c993ad65"
+    },
+    {
+      "type": "Organization",
+      "name": "lycées professionnels",
+      "id": "Organization_506d1de946ad72cb58aa919b6b761a9aede1802a7d7ca5cb64bcb987f2ec4864"
+    },
+    {
+      "type": "Organization",
+      "name": "campus des métiers et des qualifications",
+      "id": "Organization_4fb28dbc32fc20968b598fa36a7f5af9777a46e62d315b283e4ab83eedccafa8"
+    },
+    {
+      "type": "Organization",
+      "name": "lycées",
+      "id": "Organization_3a47c371a14512c04d211bf7a6c2891309876e0dc615b5dab00801442fb64d11"
+    },
+    {
+      "type": "Organization",
+      "name": "premiers cycles universitaires",
+      "id": "Organization_6867b91f64258fa4eb655d259d5e8d9155b534c141f526a79450c2d295fb0438"
+    },
+    {
+      "type": "Organization",
+      "name": "écoles d'ingénieurs",
+      "id": "Organization_a0e907b1879a94ffde26bd5c6834f1e13272b0ec5e164c4eb53ee45c38ac93c2"
+    },
+    {
+      "type": "Organization",
+      "name": "industrie",
+      "id": "Organization_c29ab41786806ed3c65b3e25fbc6e013b5076108df9d3975b13e8138439d008f"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités territoriales",
+      "id": "Organization_0a60af9062d171d1595f93fdf0e1ec5531b2a4a8c4cb1f6341762a0df5e03438"
+    },
+    {
+      "type": "Organization",
+      "name": "élus",
+      "id": "Organization_2a8112b51d960018957700054cee7823bd277e9fa862e3ed8cf1b64ea1800278"
+    },
+    {
+      "type": "Organization",
+      "name": "industrie de défense",
+      "id": "Organization_a2749ea93349f2743fc5ea89d69f67cc199e04253ec2b6b0ce26080ec3f24216"
+    },
+    {
+      "type": "Organization",
+      "name": "sous-marins",
+      "id": "Organization_3856cabfc41852fc9135931f6174b83cde345bb8dd209374e5b42da519f16a5a"
+    },
+    {
+      "type": "City",
+      "name": "Cherbourg",
+      "id": "City_afbb121c0a173f111ee212e04474639df6dc09425295185121fecc1de8e7b660"
+    },
+    {
+      "type": "City",
+      "name": "Lorient",
+      "id": "City_a14301e5d17483c9ae1404e67505d05b243b585731b03cd33a775960f46425e8"
+    },
+    {
+      "type": "Person",
+      "name": "Pacha",
+      "id": "Person_64cdde5338cf113348b7b80b851a8b164873611fb5946ae47403025d6a2f080a"
+    },
+    {
+      "type": "Person",
+      "name": "chef d'entreprise",
+      "id": "Person_367da49338b9954e77d3743567f575bc4725461e6ef6fe4fa680bb656d4468db"
+    },
+    {
+      "type": "Person",
+      "name": "pilote",
+      "id": "Person_007604370deaa286b934cb3154a2016159761f233028fbbbee3917885ce6b242"
+    },
+    {
+      "type": "Person",
+      "name": "capitaine d'industrie",
+      "id": "Person_712f79035b80d3f2665a6c96b40c45b2f3f715e6f460ffbc1b25a3d9df89c977"
+    },
+    {
+      "type": "Organization",
+      "name": "nouveau porte-avions",
+      "id": "Organization_7c9330598b16d1b4bbbd2f8015de74f2c08597ff8ad9371ebbb380b38325a27b"
+    },
+    {
+      "type": "Theme",
+      "name": "évolution",
+      "id": "Theme_ac2d6168a2858753013c45fccfc3b681861c0ca0d84f2c41c81019c8024fd1f9"
+    },
+    {
+      "type": "Theme",
+      "name": "drones",
+      "id": "Theme_b2b8332bc607f05d7b6db8865bedd52ec8fa78a4a9e250c77515b3451bf1d2b9"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités défensives et offensives",
+      "id": "Theme_69cfa3fb95fbe4d22fe56d347991123c6bf8b106f1d76012611988b91ecf925f"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "systèmes de défense laser",
+      "id": "Theme_cc773d8cc605ba157c2934f9b9df307e3cf1bc9af1709e3a7b9e65a7979592fb"
+    },
+    {
+      "type": "Theme",
+      "name": "commandement digitalisé",
+      "id": "Theme_f3ae2db73c6aa255a5b480342dd686e8f0dcfc068bcba18639e8b07eaca61b27"
+    },
+    {
+      "type": "Theme",
+      "name": "jumeaux virtuels",
+      "id": "Theme_74d117ffcc44219bdd10af03ae129b77c30a4313420b2103d0c497eaaea0120c"
+    },
+    {
+      "type": "Organization",
+      "name": "Dassault Systèmes",
+      "id": "Organization_c63aed6915bc50863b3c23697a538a30fc35f43daaac93e95cb3787272d3544a"
+    },
+    {
+      "type": "Organization",
+      "name": "nos entreprises",
+      "id": "Organization_b2c7e1ceb71d41b5a7d300973c69a21968e476be954da4fa2866d281b0ec51c2"
+    },
+    {
+      "type": "Organization",
+      "name": "secteur et des industriels",
+      "id": "Organization_b43de135d8287eaea931d74bebda307695acaa9220807754bd7c65d749abe69d"
+    },
+    {
+      "type": "Organization",
+      "name": "notre jeunesse",
+      "id": "Organization_57eb740c6e6b44493906735e2bffd58df407fcdd0da3757054333f059574c830"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit français",
+      "id": "Theme_d2580ac4c0269bfa8a8284cee54a4276bb58c02486be636f101d487efe558c2d"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie d'action",
+      "id": "Theme_2facb382b97daa6d3703855d585774663090d31d9e210802696e05c9fc2d8453"
+    },
+    {
+      "type": "Theme",
+      "name": "défense des intérêts de la France",
+      "id": "Theme_703574b154b1946d47fb92639aad2ee8951bf2808a7c68d4fa40742834d2d120"
+    },
+    {
+      "type": "Theme",
+      "name": "France libre",
+      "id": "Theme_bc1f9bdd4ff28462333953ec9db857b1431c6f3c50c624975071748ebd42df4d"
+    },
+    {
+      "type": "Theme",
+      "name": "Patrie",
+      "id": "Theme_4079aa9734c9091368bffcf632034e06cecaadec102a482fdcc6b4ec9873a5eb"
+    },
+    {
+      "type": "Theme",
+      "name": "Résistance",
+      "id": "Theme_e76d4a7d077688683b8612822efb91314ca3d8a465e71434c7d639fcd7efc3a4"
+    },
+    {
+      "type": "Theme",
+      "name": "Victoire",
+      "id": "Theme_bc5162946a99751f00c6537625622b6ae1680aea4c10b965a4a4776b8e270137"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "porte-avions Charles De Gaulle",
+      "relation": "VISITED",
+      "target": "Crète",
+      "evidence": "Il y a quelques jours, notre porte-avions Charles De Gaulle et le groupe aéronaval qui l'accompagne arrivait au large de la Crète, de Chypre, du Liban.",
+      "confidence": 1.0,
+      "source_id": "Organization_e8408856c5bba72e5f3156e9b94c61b9a78dab6692fc93dd00c571138f3ebe1e",
+      "target_id": "City_13371b2745904b971504916c3d41c160dac9449d10644ca99f8c4c9e78785b2d"
+    },
+    {
+      "source": "porte-avions Charles De Gaulle",
+      "relation": "VISITED",
+      "target": "Chypre",
+      "evidence": "Il y a quelques jours, notre porte-avions Charles De Gaulle et le groupe aéronaval qui l'accompagne arrivait au large de la Crète, de Chypre, du Liban.",
+      "confidence": 1.0,
+      "source_id": "Organization_e8408856c5bba72e5f3156e9b94c61b9a78dab6692fc93dd00c571138f3ebe1e",
+      "target_id": "City_de705910a521366351b175fc137ec51f92f7ff52969d20d94f09ff7482c76dab"
+    },
+    {
+      "source": "porte-avions Charles De Gaulle",
+      "relation": "VISITED",
+      "target": "Liban",
+      "evidence": "Il y a quelques jours, notre porte-avions Charles De Gaulle et le groupe aéronaval qui l'accompagne arrivait au large de la Crète, de Chypre, du Liban.",
+      "confidence": 1.0,
+      "source_id": "Organization_e8408856c5bba72e5f3156e9b94c61b9a78dab6692fc93dd00c571138f3ebe1e",
+      "target_id": "City_5f6f6f6681c56da9f131e84a28daf3f291f509f5abb7c8d604a160092a688e16"
+    },
+    {
+      "source": "France",
+      "relation": "ANNOUNCED",
+      "target": "porte-avions",
+      "evidence": "Le 8 décembre 2020, au Creusot, j'annonçais alors que la France se doterait d'un nouveau porte-avions de nouvelle génération.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_c6ecb05d2b3f0dccf1861d3fbe16e827abad226a0c52a2c70e8a4320a3392ea0"
+    },
+    {
+      "source": "général de Gaulle",
+      "relation": "SPOKE_ABOUT",
+      "target": "conviction profonde",
+      "evidence": "C'était la conviction profonde dès l'après-guerre du général de Gaulle, et il avait raison.",
+      "confidence": 1.0,
+      "source_id": "Person_1382ef7d5017d32ba46eef8a9e6602980a8c8faeb53d80a753cc80c9796d0442",
+      "target_id": "Theme_775f2864874ab38ad06e86e8806319f72b27e2f6ffef588ce9f24f68b28e5dd5"
+    },
+    {
+      "source": "MBDA",
+      "relation": "MEMBER_OF",
+      "target": "Fonds Innovation Défense",
+      "evidence": "C'est le sens de ce qui a été fait avec le Fonds Innovation Défense, porté par MBDA, aux côtés de BPI France, de la Caisse des dépôts, qui a déjà investi dans une dizaine d'entreprises innovantes.",
+      "confidence": 1.0,
+      "source_id": "Organization_a2b19300e178ca810401ed325d1b85e2ec06f867d8961a0e5fa42d29deed6230",
+      "target_id": "Organization_44801c702599cdea126f744357c6b6684ca34a542a67013c3f08e4739a35875a"
+    },
+    {
+      "source": "Monsieur Brassac",
+      "relation": "ALLIED_WITH",
+      "target": "Monsieur Guillou",
+      "evidence": "C'est le sens du dialogue de place co-présidé par Monsieur Brassac et Monsieur Guillou, lancé il y a un an pour structurer les liens entre la finance et la base industrielle de défense.",
+      "confidence": 1.0,
+      "source_id": "Person_d867257aabd94643ba9fecb07e60c220543d129dd136a3115e75fdcaab250eb6",
+      "target_id": "Person_9e1c1c10a4215f68adb9369de415b12ca684a96f6b8724cc5c54b3d16339e5da"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "préférence européenne",
+      "evidence": "ce qu'elle ne faisait pas jusque-là, mais qu'elle le finance avec une vraie préférence européenne",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "source": "Victoire",
+      "relation": "MENTIONS",
+      "target": "Victoire",
+      "evidence": "Oui, c'est en servant la patrie que nous remporterons la victoire.",
+      "confidence": 1.0,
+      "source_id": "Theme_bc5162946a99751f00c6537625622b6ae1680aea4c10b965a4a4776b8e270137",
+      "target_id": "Theme_bc5162946a99751f00c6537625622b6ae1680aea4c10b965a4a4776b8e270137"
+    }
+  ]
+}

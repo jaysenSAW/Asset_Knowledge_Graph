@@ -1,0 +1,144 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Joe Biden",
+      "id": "Person_888e3389493b5aa1ca903fa6f66fc1f303d75e4ee8c75fec78b58be333024263"
+    },
+    {
+      "type": "Person",
+      "name": "Mme la Chancelière Merkel",
+      "id": "Person_60f254845a2f2f45ee7d2672c3131201d68681e84b358bdad28f3b9c8f488a9f"
+    },
+    {
+      "type": "Person",
+      "name": "Président Xi Jinping",
+      "id": "Person_7aab31753884f5c6c5c0fdb34c0a71a0cddd4919331ea7551c59ddcb482f2d59"
+    },
+    {
+      "type": "Theme",
+      "name": "horizon 2030",
+      "id": "Theme_6abbf5635d45e31e5fee3f994c0d0a0850fc19a66942dfdb41aec5bd33747632"
+    },
+    {
+      "type": "Theme",
+      "name": "Green Deal",
+      "id": "Theme_e63970253e1709ac9067909729fb066b9736d3946c29fabb3145ed8a1899d19a"
+    },
+    {
+      "type": "Theme",
+      "name": "loi climat européenne",
+      "id": "Theme_377973c2839af8b6df00c36d78e38af9270360260e7eed57c469cdd7ada26268"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "finance",
+      "id": "Theme_f723c16c63b30940cbcaa18ce802825b3fb3e76ed4e6cfab624beddf6be9deea"
+    },
+    {
+      "type": "Theme",
+      "name": "carbone",
+      "id": "Theme_88dffe735e7fae4c0d1aab165fdb44afd8d6e9582246e923413a6f6a30057cb8"
+    },
+    {
+      "type": "Theme",
+      "name": "justice sociale et climatique",
+      "id": "Theme_b5511c1332b2a68a23141a96d24a319f20218bb6ff9c5cd9f766902fb23d5612"
+    },
+    {
+      "type": "Theme",
+      "name": "justice climatique",
+      "id": "Theme_6fdc116d534ec444c14a486978783b54f6f20f16067b9bc2948ae690c7f7b8a6"
+    },
+    {
+      "type": "Theme",
+      "name": "financement durable",
+      "id": "Theme_9271415b4b5e397fe53eed0b856d3f8d2e40798f50f94cfae39c6f745146f71d"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité carbone",
+      "id": "Theme_13578b8136640a21c92a662f7e77d4879f6ceffb4dd1652ae120a6e9e44f65d3"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "Accélérateur de la Grande muraille verte",
+      "id": "Theme_2b356752892d39f3dfed82844b1b2da50436597a7f74e2be274348f58ec9364a"
+    },
+    {
+      "type": "City",
+      "name": "Belém",
+      "id": "City_6a4a2bf2e88c6cfb78abc7fce7c92da9889a7940ebb11afb515aecf1f829814d"
+    },
+    {
+      "type": "Country",
+      "name": "Brésil",
+      "id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae"
+    },
+    {
+      "type": "City",
+      "name": "Stockholm",
+      "id": "City_438de9e885afb413ffe56e761adb8b364eb7041bcf4e7adfed01c4f055c0aa65"
+    },
+    {
+      "type": "Organization",
+      "name": "ONU",
+      "id": "Organization_8fe3e517167eebcfcb1c541c20f6aeb0a346c6c70b461e4d8ec8a469cdf70167"
+    },
+    {
+      "type": "Person",
+      "name": "Joe",
+      "id": "Person_211c0adb61bc465725e0f864c3255e74a8b940350318561711b5008750a8f3b8"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Union européenne",
+      "relation": "PROPOSED",
+      "target": "loi climat européenne",
+      "evidence": "Union européenne a mis sur la table en décembre, traduite dans une loi climat européenne",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Theme_377973c2839af8b6df00c36d78e38af9270360260e7eed57c469cdd7ada26268"
+    },
+    {
+      "source": "Stockholm",
+      "relation": "LOCATED_IN",
+      "target": "Stockholm",
+      "evidence": "En juin 2022, Stockholm avait accueilli le 6e sommet de la Terre.",
+      "confidence": 1.0,
+      "source_id": "City_438de9e885afb413ffe56e761adb8b364eb7041bcf4e7adfed01c4f055c0aa65",
+      "target_id": "City_438de9e885afb413ffe56e761adb8b364eb7041bcf4e7adfed01c4f055c0aa65"
+    }
+  ]
+}

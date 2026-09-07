@@ -1,0 +1,814 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Thomas",
+      "id": "Person_3f84e2228283cfbb5d8827f471060b8f01cf617702b389fa38258a7151dbbf0f"
+    },
+    {
+      "type": "Person",
+      "name": "Tony",
+      "id": "Person_abb17e8a233c19829e20c248982bc3f217d86b27f23e9fb8264f803c152f6c78"
+    },
+    {
+      "type": "Person",
+      "name": "David",
+      "id": "Person_82a7662acceb9cbb14652ba72cf0cb56657fab3dc3d097163317f8034cb3bf12"
+    },
+    {
+      "type": "Person",
+      "name": "Marie-Amélie",
+      "id": "Person_59f4b0a8d5b32f776d8719210b6145a64845ba09c7be29efbe4bb4a60dd44515"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Person",
+      "name": "présidentes",
+      "id": "Person_8c2e81aaaae745899fcb0ca50622d4db8d57c867948bebdaa50d23141de94040"
+    },
+    {
+      "type": "Person",
+      "name": "présidents",
+      "id": "Person_7968d5e00c3858839e40468d3fbda6f7f1a95135564545f7370b5a0a48cd1f9a"
+    },
+    {
+      "type": "Person",
+      "name": "membres de cette formidable Equipe de France",
+      "id": "Person_d3f6a440f1586ce7c5a53b5e74d1274fddecc2307375b7ac7b98c7bf8cde1c42"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "Jeux",
+      "id": "Theme_afbf10985fbf1c067c937236f36afe8c5249e83105dfcc5355fddce44d9fccf4"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Alpes françaises",
+      "id": "City_13b9d98939e22b7bf69f96844d8782adface5d5929933c625198036e552c30b4"
+    },
+    {
+      "type": "Person",
+      "name": "Denis",
+      "id": "Person_075f820ec06be098a5903c57e580a50ea0044032f12eac9b7bcbed0dad63bc62"
+    },
+    {
+      "type": "Person",
+      "name": "Brigitte",
+      "id": "Person_91665d231e1c891c78db6507442784404189bf7a06fcec57b713ed302fe52855"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel",
+      "id": "Person_56ed8ece521c1ac9709ae29ea1edb5f2d38617653c1f8dc621cd7c2a1f167963"
+    },
+    {
+      "type": "Organization",
+      "name": "CNOSF",
+      "id": "Organization_bee70efd29b9685525c242baf5189274861c074e393e2c2ab9fcae609250159b"
+    },
+    {
+      "type": "Organization",
+      "name": "CPSF",
+      "id": "Organization_3bf24b996f3cd41c5c1d9f07fedb2b4c8436592764a3327ec08a6c50fe6bc905"
+    },
+    {
+      "type": "Organization",
+      "name": "COJO",
+      "id": "Organization_86503f9c238706ece52ff05cc97c2725f65ad7b800b7392059f85c66e4f43c35"
+    },
+    {
+      "type": "Theme",
+      "name": "créativité",
+      "id": "Theme_550d4dc699a796ca3be62727957df316896d3858817d9e91c8d89c6f5b2da032"
+    },
+    {
+      "type": "Theme",
+      "name": "fous",
+      "id": "Theme_d0f2edb82b3f42aa977273e400a7564233d39ffeecd8c7f9b944c6d0e4ccdf6a"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Jolly",
+      "id": "Person_68572d69ab7ff6e66406dcc7246e946788a5670cd04bb347e3678101f1d206db"
+    },
+    {
+      "type": "Person",
+      "name": "Thierry Reboul",
+      "id": "Person_b206fa3a95852f293fc93a1f20c4878d4225aa876aca6d8ca9acd7e505fd75b9"
+    },
+    {
+      "type": "Person",
+      "name": "Tony Estanguet",
+      "id": "Person_8feedc418b08590c7e74449c0d10eedcf6498da036bfbb468cfea9d39e88e675"
+    },
+    {
+      "type": "Organization",
+      "name": "3T",
+      "id": "Organization_8ebbfad87d0c947c1db024ceaebb8f176500b3189a9455e0529eaa7c1b1d210b"
+    },
+    {
+      "type": "Organization",
+      "name": "DRIEAT",
+      "id": "Organization_d6dbf59b3889d0716dffda56c46521254ea5fea471020c8a2362dddcd668be46"
+    },
+    {
+      "type": "Organization",
+      "name": "VNF",
+      "id": "Organization_866533a3968b3e47873279bb4c9a80280a6602c91825682be0b21a1163106798"
+    },
+    {
+      "type": "Organization",
+      "name": "HAROPA PORT",
+      "id": "Organization_c647310b6211f3996c6cc8e777744317a178fe98a8600e5429a54956c72d2892"
+    },
+    {
+      "type": "Organization",
+      "name": "préfecture de région",
+      "id": "Organization_65f75b77637ddd23d765418a562605b4aa7e2881d05b88e3c18d97c7263b5f0f"
+    },
+    {
+      "type": "Organization",
+      "name": "fédérations olympiques",
+      "id": "Organization_dab2b9573b641435d977547102b4e283c0e0a2a050778edfddf278b003acece8"
+    },
+    {
+      "type": "Person",
+      "name": "présidentes et présidentes de fédération",
+      "id": "Person_c0b360fed48b7a4cd9cfe15d3cd3fe346fb39252baa7c652a84b8aa9003767c6"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Person",
+      "name": "Claude Onesta",
+      "id": "Person_e1f7488e3b348beca6f358f60fe075df40e875b03a94222d7b31a7b64c028b1a"
+    },
+    {
+      "type": "Person",
+      "name": "Yann Cucherat",
+      "id": "Person_8db42522dfe8f6fddbb5fdc0ecf162f00d740d5bb5685cc4dd35b5c1490b710a"
+    },
+    {
+      "type": "Person",
+      "name": "Amélie",
+      "id": "Person_1c92426688a43d8cd52183d3f8c1959f0c13f5df921b41b2334e15b2e83636bb"
+    },
+    {
+      "type": "Person",
+      "name": "Laura",
+      "id": "Person_004a84b290dfd4b25ddccaded7fb860ceeacd5de9f65805731bd2628b69dd981"
+    },
+    {
+      "type": "Person",
+      "name": "Roxana",
+      "id": "Person_7cff9fa87559759c6f6ef3187a130ef45d6aefa08057ba613e30167b3f30bd27"
+    },
+    {
+      "type": "Person",
+      "name": "Michel Cadot",
+      "id": "Person_564c419fae306cb9a1c45f8be98a0439624a3bd00044ff83a0dcd8795ac47fc9"
+    },
+    {
+      "type": "Person",
+      "name": "Jean Castex",
+      "id": "Person_cddec1ff1a0921139c822cebc3e0c9b0d0624d1a1641c9abfeb8daaafb8d1bf6"
+    },
+    {
+      "type": "Organization",
+      "name": "l'équipe de France",
+      "id": "Organization_a9734cb45291f41032008b4eabb960c31f96419c0483a12d217515b6af0d680a"
+    },
+    {
+      "type": "Organization",
+      "name": "services de l'Etat",
+      "id": "Organization_0e4c3b002b7e0b947f150ac5ade5255303027617ed7e319cef90365be1d32acb"
+    },
+    {
+      "type": "Organization",
+      "name": "collectivités territoriales",
+      "id": "Organization_0a60af9062d171d1595f93fdf0e1ec5531b2a4a8c4cb1f6341762a0df5e03438"
+    },
+    {
+      "type": "Organization",
+      "name": "civils",
+      "id": "Organization_68f2f222e683738adeb4c82bbc68bd513485929947bc96b6e02aa7228a75ea2e"
+    },
+    {
+      "type": "Organization",
+      "name": "militaires",
+      "id": "Organization_9b8d566f761970686e25f83e3740890ff73ce69186e6043ccaae953b533f4eed"
+    },
+    {
+      "type": "Organization",
+      "name": "professionnels",
+      "id": "Organization_730cd387ad06c0ef86ad9cc8527254df4bc73ba1d6255f08e5a3606ebf27817b"
+    },
+    {
+      "type": "Organization",
+      "name": "bénévoles",
+      "id": "Organization_2ac89d710ff2861b471e12af220d20269098a5f555d749c42ad06ce908f36435"
+    },
+    {
+      "type": "Country",
+      "name": "France métropolitaine",
+      "id": "Country_5204c5471eefa50ec56955b371609098360d8c8dc288e0cea6acc7bc89f7fba5"
+    },
+    {
+      "type": "City",
+      "name": "Tahiti",
+      "id": "City_473ca001a14d25dd47d5345b7964d6c01e85ec0a3600a41b432a241a57073c4a"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Etienne",
+      "id": "City_ba69eb30c91ade3d781e5ae9fabe52e8491c859ac4aa3b2ef7b926572173c7b4"
+    },
+    {
+      "type": "City",
+      "name": "Lille",
+      "id": "City_5984d05b4d6278317898653aaa663f1a3e582cba7d4bd2eff1bd3bc5a5d5e889"
+    },
+    {
+      "type": "City",
+      "name": "Châteauroux",
+      "id": "City_30954184ab8e992cbd4e7c6406b980938a36963b458be02794341730b9605014"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Ouen",
+      "id": "City_147c2ac8457436ffa944aa534956aed0eb60d2b9e590514e73272797f02ae90a"
+    },
+    {
+      "type": "City",
+      "name": "Saint-Denis",
+      "id": "City_acf9929591513d125b5101d62125f4ef879ee32404b222f6f37eb40e3766657e"
+    },
+    {
+      "type": "Organization",
+      "name": "flamme des épreuves",
+      "id": "Organization_3fc661b53a8d859333b4d2df792c0f7a62ea1fca2d75704576d17581e67167cf"
+    },
+    {
+      "type": "Organization",
+      "name": "agents municipaux",
+      "id": "Organization_c05f823a0ee64e3b45d27d34aa85d8ce6ebeed2a0921e12a1c83f26f4b13c959"
+    },
+    {
+      "type": "Organization",
+      "name": "police municipale",
+      "id": "Organization_ec0302f5a69a76516d082883d3d4be333fedfc4e0b6c438065a402ac9b9dbfca"
+    },
+    {
+      "type": "Organization",
+      "name": "services des départements",
+      "id": "Organization_54d5f6168ce4d1d6ddc4817f7354198971d4747dc4861d30dfa430867c0c6e1a"
+    },
+    {
+      "type": "Organization",
+      "name": "régions",
+      "id": "Organization_ff8f4a02ca819866c289cd0017c1fc8e07017537883fb2ed0a40898d1c7d1aa4"
+    },
+    {
+      "type": "Organization",
+      "name": "préfectures",
+      "id": "Organization_82d333e589ade5a766f46359513148a44e099d44753a9feb28df3c623fa5517a"
+    },
+    {
+      "type": "Organization",
+      "name": "préfets de départements",
+      "id": "Organization_5eb5e49abec8abe73a62e3f39ca62018989ec88fe14bb2167715712e77fcabba"
+    },
+    {
+      "type": "Organization",
+      "name": "Services d'un ministère",
+      "id": "Organization_a42998fd057de25f6fa0de18ae9a47e009769c897a386b3dbc1eaf60dff6b734"
+    },
+    {
+      "type": "Theme",
+      "name": "Services déconcentrés",
+      "id": "Theme_f3239b5a457be7b8f6a645504272caae3c76cc40d99399dcdc7deb006d88c18c"
+    },
+    {
+      "type": "Organization",
+      "name": "RATP",
+      "id": "Organization_8a72a3a118037e822ca323ae8e6ccb1a38323e9f0e55b95cf0dc8c714372301c"
+    },
+    {
+      "type": "Organization",
+      "name": "SNCF",
+      "id": "Organization_620444fdb05ec8f7c267806a8ce65a7b483cab16b71283c84bbf99116dca6dfe"
+    },
+    {
+      "type": "Organization",
+      "name": "Crous",
+      "id": "Organization_5270aeda5b923736e99503b4615183c47c36e0ecd36142698cdffd99df6c6f76"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "City",
+      "name": "stades",
+      "id": "City_63a980b4ce3c0f53ec5d3d8ac228e306c727e74b0a7c6db4b1d09e3d2bff43d0"
+    },
+    {
+      "type": "City",
+      "name": "gymnases",
+      "id": "City_4d2c7c5003723737377db823b026b3aca0c7d7f5b1379e198c5cebd229da4fc2"
+    },
+    {
+      "type": "City",
+      "name": "rues",
+      "id": "City_c7cc4ee29e2c875b364091865af234c1fd98a3b1c94c50b6258ee23688d1eb93"
+    },
+    {
+      "type": "City",
+      "name": "nos villes",
+      "id": "City_186896d4a19a2dbe52cb531cc15bdc4aae7633f1dfe85d2a23859ef91bc130d3"
+    },
+    {
+      "type": "Organization",
+      "name": "SNEAS",
+      "id": "Organization_dc9f10fc35e4c1f2e16a2a6ca330087363aac4f1d037607cdf65e1d513222412"
+    },
+    {
+      "type": "Organization",
+      "name": "DGSI",
+      "id": "Organization_50fc71ebc2ce5c1688f19276e86d2a0df0880efcf5f60ef9f30b86c9aa086848"
+    },
+    {
+      "type": "Organization",
+      "name": "DGSE",
+      "id": "Organization_994c34ebcd97989961c2d7c9f3aa36dd30b1dfbb6b4f0b936c9bb12337e7a39d"
+    },
+    {
+      "type": "Organization",
+      "name": "Renseignement territorial",
+      "id": "Organization_f921a485b3c1ba5c2228a5907fe701bc2bb4bd66dbaa9de23855f748eed73873"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le préfet de police",
+      "id": "Person_b5218a645875194289ca03565086a91ac1f505adc31bfba463a4cf7fbe55eb29"
+    },
+    {
+      "type": "Person",
+      "name": "ministre de l'Intérieur",
+      "id": "Person_0d5830ce010b09a893018977c517ee33baca96610b7d2f80003b744b76230d9b"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Organization",
+      "name": "SGDSN",
+      "id": "Organization_7ef0da7e105ab67895b9c5ab26feea20b645f71e91a481b1873b0799bb167589"
+    },
+    {
+      "type": "Organization",
+      "name": "policiers",
+      "id": "Organization_29f7b170b9b51ef4b73ad455c2d7b7b464617edcef8e00b495abd08bee51658c"
+    },
+    {
+      "type": "Organization",
+      "name": "gendarmes",
+      "id": "Organization_dd1fa107e8d2fc3c011bc045275f305ea89fbc5965d66e5b1e01470d5734dc21"
+    },
+    {
+      "type": "Organization",
+      "name": "forces de sécurité intérieure",
+      "id": "Organization_7cccac05f47c7cdb99a2b4772424d34aa6ec0600812df86d18a9f6fffbd3a8ed"
+    },
+    {
+      "type": "Organization",
+      "name": "policiers et gendarmes",
+      "id": "Organization_68364d65649134ffa0effa204e08c6693993d4be3328b6eef1291743fb5ddf45"
+    },
+    {
+      "type": "Organization",
+      "name": "unités d'intervention spécialisées GIGN",
+      "id": "Organization_ef073c1ca0b84e33eacad21e92df5c20d059f64926a77ff079062b48ac6e3511"
+    },
+    {
+      "type": "Organization",
+      "name": "RAID",
+      "id": "Organization_4e988ef79257c1f9df358bbb4aca1a2ec7c20d81bebf940a5a74618fc88e6a0b"
+    },
+    {
+      "type": "Organization",
+      "name": "BRI",
+      "id": "Organization_d23c4963b5782610449713ff08369bb19d046363cdf4b293ffa6cb7b5d137429"
+    },
+    {
+      "type": "Organization",
+      "name": "plongeurs démineurs",
+      "id": "Organization_acb722716909ae9387131c2b11a510b7d780c786110b1b762cd32eaa14829e27"
+    },
+    {
+      "type": "Organization",
+      "name": "tireurs d'élite",
+      "id": "Organization_ab3b144a5902d1428cd364870eaa8baa4588379648d90fc8f53bc7fb91c0c8ab"
+    },
+    {
+      "type": "Organization",
+      "name": "UFM",
+      "id": "Organization_3fd5cb5bb63460c00b2de654cbf192ee7664ce1f0c7eb382d02f0582479c691f"
+    },
+    {
+      "type": "Organization",
+      "name": "préfecture de police",
+      "id": "Organization_a7307f8129e3ce1d5ec191feade2c250d4900c0f6cdd0f881cfbf9084c66a836"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Person",
+      "name": "Gabriel Attal",
+      "id": "Person_e00d0f7f2d554ac6354085fe3f000ef03bd394ff3ec39bccb239567be87053c3"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre Gabriel Attal",
+      "id": "Person_d49b99fbf5e3aa8b926bd3e51c768d294ab689de443acaf82d987258f1f6b73d"
+    },
+    {
+      "type": "Organization",
+      "name": "armées",
+      "id": "Organization_95fa785758b290eb7601be8e4c38d9997b060388250a0acd74dea7338d24cdab"
+    },
+    {
+      "type": "Organization",
+      "name": "gouverneur militaire de Paris",
+      "id": "Organization_074318417aec287a75685702b5bbc7db2eb059f842fc186ec39635b1f0ac15ef"
+    },
+    {
+      "type": "Organization",
+      "name": "préfet de police",
+      "id": "Organization_498b17316f9e4156f289a56a3fefbe08c0d6ca2e5c7ee135a3980cb89f9af6c8"
+    },
+    {
+      "type": "Organization",
+      "name": "préfet de région",
+      "id": "Organization_de46d9a09d02f22a424f54b9720d6f7e1b33fd7fcc000b527eea880d22ba4736"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "les femmes et les hommes",
+      "id": "Person_c3ef9a7e26b541b6494751742728941834d32170284ec6c54132bfd1b616912a"
+    },
+    {
+      "type": "Person",
+      "name": "les équipes",
+      "id": "Person_8c43f6206f06d4074bf65cacf0ce597c1ad8c2c7be3e968708967f7901fc4e2a"
+    },
+    {
+      "type": "Person",
+      "name": "les élus locaux",
+      "id": "Person_9cb4a243a3752ab563f51e4265ebb22efa5ed4a211843b752ba69540fc7865d2"
+    },
+    {
+      "type": "Organization",
+      "name": "BSPP",
+      "id": "Organization_f3e238db9efa0d6561701774ec800246bfbbfa8d44fabeeacaa8784268a4c6dd"
+    },
+    {
+      "type": "Organization",
+      "name": "DGSCGC",
+      "id": "Organization_b6743026ae48085971550632455f7c2c7a31329cbf44ba7c24087a3719ef39c7"
+    },
+    {
+      "type": "Organization",
+      "name": "SDIS",
+      "id": "Organization_56b8f1e935870044ad8e758a25dc76b82ecf7b04d1f61af8aba65cc24fee6a1b"
+    },
+    {
+      "type": "Organization",
+      "name": "Croix-Rouge",
+      "id": "Organization_01fecaa163d7e056b48092fa26c2fd9328fce93f0766ba87ba0a0cf3ddd755fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Ordre de Malte",
+      "id": "Organization_855a7ccae0bbee0f07c39234d9463e9a23f77a6fe0fb4d3df02ebfd39adbe6e4"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "Marc Guillaume",
+      "id": "Person_a35eae9874439d01d087f7cf4eaa5e2a887cdf35338ae210385854d1a6620889"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le préfet de région",
+      "id": "Person_262d45b0f794c0ed4606bab776c03492a8313f55013aa3d5b0872d5773b9035c"
+    },
+    {
+      "type": "Person",
+      "name": "préfet de département",
+      "id": "Person_1f12f062db5d8ce8279c2614401c1f496003d84d30820fca7915cb1bfe510a8d"
+    },
+    {
+      "type": "Organization",
+      "name": "CNAPS",
+      "id": "Organization_143d5dc2efafae8572ff90130508d231c67c827d985e6407d94a277a063742b2"
+    },
+    {
+      "type": "Organization",
+      "name": "GL Events",
+      "id": "Organization_a289c0545a9e1d9ac4beaab6861e0bc61692babffbcb025fff5b119a88d265e1"
+    },
+    {
+      "type": "Organization",
+      "name": "entreprises françaises de restauration collective",
+      "id": "Organization_8365347a744422210359e57f69167c6b09ef8a4b1977c5981e683fa69198ab66"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux de 2028",
+      "id": "Event_102618873a6fe6f4f0c59e6a2517086c733e27580679dc4710bc71feeef44e8a"
+    },
+    {
+      "type": "Person",
+      "name": "Edouard Philippe",
+      "id": "Person_eee3db1b9dc22c9e1de6f90e00c02ebfd810f3c94392c588dbce10d535fca9d6"
+    },
+    {
+      "type": "Person",
+      "name": "Elisabeth Borne",
+      "id": "Person_a659c7458237f27abf6c6bf6e6f241a5e86e2688cf240d10c86e80078d3ce970"
+    },
+    {
+      "type": "City",
+      "name": "Seine",
+      "id": "City_9929220d5e345c5949c2abc9e16751001a108eb36b2e1c4f82423603b773377f"
+    },
+    {
+      "type": "City",
+      "name": "Marne",
+      "id": "City_a8a0573330a43876bed5ef6d85d4541dd67208316af7ea51110d74a6f5757dd0"
+    },
+    {
+      "type": "City",
+      "name": "Seine-Saint-Denis",
+      "id": "City_233e3fc86b8f043950204615411942c8588180dc642497379d45e4cfe79480da"
+    },
+    {
+      "type": "Organization",
+      "name": "SOLIDEO",
+      "id": "Organization_a3c7e42b5bf23e91f160925434deabcefcfc5d619b0a2d12d875db4bdc6aec25"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur Ferrand",
+      "id": "Person_f91301c067d9f46c57b0712318be4b1f8e8f720d57cd090e26a980971da11dcf"
+    },
+    {
+      "type": "Organization",
+      "name": "Ensemble des services de l'État",
+      "id": "Organization_4a783063ffc8c1f3c59f5607527318f426095b1f8c82dc8018f805996f45dd47"
+    },
+    {
+      "type": "Theme",
+      "name": "Culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "taekwondo",
+      "id": "Theme_1a07470a5d00d651cfd333462074426650acd0eaaf523f60e2e7df7f8b3d6d96"
+    },
+    {
+      "type": "Theme",
+      "name": "escrime",
+      "id": "Theme_f0564b93762ca779c37419548f4c17b31a5821db26d59d0932c65e98f357a29f"
+    },
+    {
+      "type": "Theme",
+      "name": "France Nation Sportive",
+      "id": "Theme_203b17cb5306f0bcedfcbe676995c89763965b228a31cb5e1ed6391181e01e2f"
+    },
+    {
+      "type": "Theme",
+      "name": "alliance des territoires",
+      "id": "Theme_faf36219ef0b9accba75ff325a80e2ae503d18fb3f973883e0cc256eaccb91a5"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité à oeuvrer ensemble",
+      "id": "Theme_07009c39bcb073492aecfbed4b2f5ab21b8885154d78fbe72ec45add73fb800f"
+    },
+    {
+      "type": "Theme",
+      "name": "alliance des entreprises",
+      "id": "Theme_91b60dbcb9b495fd60d0cd8790b8c08018c2d4e17df821dd6ad2d464e2758069"
+    },
+    {
+      "type": "Theme",
+      "name": "alliance des territoires avec la capitale",
+      "id": "Theme_67bcf708a7b65c5acfe7b95dbe610880b5c95f745f1dcafbf992c26de661f053"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit des jeux",
+      "id": "Theme_2d9cbfd4e4554eb3f129bd092b8b13b926b5b4c018ffc4099ce107aa82b3ee28"
+    },
+    {
+      "type": "Person",
+      "name": "Thierry Henry",
+      "id": "Person_4ddc9c79072de93873f84d9ea081c023a0b4a2e425d27413e8ef3eb5069c8355"
+    },
+    {
+      "type": "Theme",
+      "name": "engagement",
+      "id": "Theme_c70fba77c20f5ca398de65d786467024662973b31324169f51d31077138e08d4"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Bach",
+      "id": "Person_c6cf0c47fab0a4acbd12c65927cf33e777cd57d92c451971bcdf65a8b2845269"
+    },
+    {
+      "type": "Theme",
+      "name": "cérémonies sur la Seine",
+      "id": "Theme_83f2e8e883f6d65ddb50f6f880a5fba644f626853f8486a58d7830b7a3f94493"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux paralympiques",
+      "id": "Event_e2e949f717317555dfbccd7baab08112094dfeb54f4178a0ae6afb2c239231a1"
+    },
+    {
+      "type": "Organization",
+      "name": "forces de l'ordre",
+      "id": "Organization_8dc73a3ce58bd863b368fbcaf066bb1888740d708d6e194d2b36e502d59dbf25"
+    },
+    {
+      "type": "Event",
+      "name": "Jeux de Paris",
+      "id": "Event_f191326e63a4fbde3501d87f73c0b9390026091e095e97ef5760135ea1f8a442"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitions sportives",
+      "id": "Theme_01ed861b372cf21cca4c514bd693948dcc1b35f9c91f919c53b6f48829578ea8"
+    },
+    {
+      "type": "Theme",
+      "name": "rêver et vibrer le pays",
+      "id": "Theme_04ff70150ed74364acbc7c194e0fa132681cc07b98c92f900a0869f3a3fe60e3"
+    },
+    {
+      "type": "Theme",
+      "name": "exigence",
+      "id": "Theme_c131dd5143ce13311cd70f33a101ad29fecee96fab2354e08c7026967efd65d1"
+    },
+    {
+      "type": "Theme",
+      "name": "casser les codes",
+      "id": "Theme_e535a16b942fbd95823fe41e1e548c9f88af6bbc94b7b5b32701df0c85fe3dd4"
+    },
+    {
+      "type": "Theme",
+      "name": "parade olympique et paralympique",
+      "id": "Theme_52f960b26e74c19d41e046056f97e4805819cae31ea0259a6bee1e90276e6b26"
+    },
+    {
+      "type": "Theme",
+      "name": "rendre hommage aux femmes et aux hommes",
+      "id": "Theme_e46e851cf48d12c5b801c14e73691b0985c8b79b380656d3f3991969b8baf1da"
+    },
+    {
+      "type": "Organization",
+      "name": "CIO",
+      "id": "Organization_7a70abf4f2b73b00be73027c7a4cc4ed585a00ced5fc2f0f28adc6bef57dfc41"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "CPSF",
+      "relation": "MENTIONS",
+      "target": "Marie-Amélie",
+      "evidence": "Merci au CPSF, chers Marie-Amélie et Emmanuel,",
+      "confidence": 1.0,
+      "source_id": "Organization_3bf24b996f3cd41c5c1d9f07fedb2b4c8436592764a3327ec08a6c50fe6bc905",
+      "target_id": "Person_59f4b0a8d5b32f776d8719210b6145a64845ba09c7be29efbe4bb4a60dd44515"
+    },
+    {
+      "source": "CPSF",
+      "relation": "MENTIONS",
+      "target": "Emmanuel",
+      "evidence": "Merci au CPSF, chers Marie-Amélie et Emmanuel,",
+      "confidence": 1.0,
+      "source_id": "Organization_3bf24b996f3cd41c5c1d9f07fedb2b4c8436592764a3327ec08a6c50fe6bc905",
+      "target_id": "Person_56ed8ece521c1ac9709ae29ea1edb5f2d38617653c1f8dc621cd7c2a1f167963"
+    },
+    {
+      "source": "Thomas Jolly",
+      "relation": "MENTIONS",
+      "target": "créativité",
+      "evidence": "Je veux saluer la créativité en particulier des 3T, Thomas Jolly, Thierry Reboul et Tony Estanguet.",
+      "confidence": 1.0,
+      "source_id": "Person_68572d69ab7ff6e66406dcc7246e946788a5670cd04bb347e3678101f1d206db",
+      "target_id": "Theme_550d4dc699a796ca3be62727957df316896d3858817d9e91c8d89c6f5b2da032"
+    },
+    {
+      "source": "3T",
+      "relation": "MENTIONS",
+      "target": "créativité",
+      "evidence": "Je veux saluer la créativité en particulier des 3T, Thomas Jolly, Thierry Reboul et Tony Estanguet.",
+      "confidence": 1.0,
+      "source_id": "Organization_8ebbfad87d0c947c1db024ceaebb8f176500b3189a9455e0529eaa7c1b1d210b",
+      "target_id": "Theme_550d4dc699a796ca3be62727957df316896d3858817d9e91c8d89c6f5b2da032"
+    },
+    {
+      "source": "services des départements",
+      "relation": "LOCATED_IN",
+      "target": "régions",
+      "evidence": "Je veux remercier les services des départements, des régions qui ont été mobilisés, parce que je sais que là aussi, ce sont beaucoup de sacrifices, du temps volé aux familles, des vacances décalées, un temps réorganisé complètement",
+      "confidence": 1.0,
+      "source_id": "Organization_54d5f6168ce4d1d6ddc4817f7354198971d4747dc4861d30dfa430867c0c6e1a",
+      "target_id": "Organization_ff8f4a02ca819866c289cd0017c1fc8e07017537883fb2ed0a40898d1c7d1aa4"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Les zones de célébration ont connu dans toute la France un immense succès",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Jeux de Paris",
+      "relation": "ANNOUNCED",
+      "target": "Jeux paralympiques",
+      "evidence": "Les Jeux de Paris ont assumé de vouloir casser les codes, et on va continuer de le faire avec les Jeux paralympiques qui arrivent.",
+      "confidence": 1.0,
+      "source_id": "Event_f191326e63a4fbde3501d87f73c0b9390026091e095e97ef5760135ea1f8a442",
+      "target_id": "Event_e2e949f717317555dfbccd7baab08112094dfeb54f4178a0ae6afb2c239231a1"
+    }
+  ]
+}

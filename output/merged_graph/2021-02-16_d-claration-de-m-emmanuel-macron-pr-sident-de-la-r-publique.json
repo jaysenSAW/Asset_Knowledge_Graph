@@ -1,0 +1,684 @@
+{
+  "entities": [
+    {
+      "type": "City",
+      "name": "Salle des fêtes",
+      "id": "City_50f43deffa56abf68bcb9fd41b8d8b166be8bb3455170e8983a9157b9a7f308e"
+    },
+    {
+      "type": "City",
+      "name": "Élysée",
+      "id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "type": "City",
+      "name": "N'Djamena",
+      "id": "City_f8a953a62424441c54eed3bbd1ae139b4a373ae6e4e65df2dbb183b8775a4ea4"
+    },
+    {
+      "type": "City",
+      "name": "Pau",
+      "id": "City_aae88dca61617f4b2361b23b514b33d2f48d85277532d7af51eb52097994042e"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "États",
+      "id": "Country_5f916f2c2a1d15229521b321cd067da95b3d14369b28265c8895c4e994abd8b5"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique de l'Ouest",
+      "id": "Country_df438d81bbe833913e5cfeaa21832951116c283585cd4772f67742b3b7f8d95f"
+    },
+    {
+      "type": "Country",
+      "name": "Abidjan",
+      "id": "Country_8b5c15416d0fd33826e98cabbdf63a5fb8a96429fe0b1682b12854799ed97c97"
+    },
+    {
+      "type": "Country",
+      "name": "Dakar",
+      "id": "Country_c6781ba0324b18d5e3ff065b1f909208a4f8434f7d897c2a62fd5c58f97c64ca"
+    },
+    {
+      "type": "Organization",
+      "name": "Barkhane",
+      "id": "Organization_e54f566ab6b27cae3cc1917ae6d401f506be9fa0b59d5e884d97d8e2aae1a82f"
+    },
+    {
+      "type": "Theme",
+      "name": "ennemi",
+      "id": "Theme_86784d438210720af6d39c6aa61fdf50ed701dca442d8f18ff766fc9dbf08e73"
+    },
+    {
+      "type": "Theme",
+      "name": "EIGS",
+      "id": "Theme_bb428bbe0af2d34f08d564a3c0afcda346e973df034bac4c624af24c22b47f32"
+    },
+    {
+      "type": "Organization",
+      "name": "RVIM",
+      "id": "Organization_691d2bd765633ae1788ae324073b895d2e41e9e8cadf76d4e48492de8ebf1e26"
+    },
+    {
+      "type": "Person",
+      "name": "DROUKDEL",
+      "id": "Person_213dbd6bdd56fb8439a5b360f875105173696599628d1203636d92d54c5d50a3"
+    },
+    {
+      "type": "Person",
+      "name": "Bah Ag MOUSSA",
+      "id": "Person_d5f1976a414a3e36a5dcb16680cffc4283814403b244eac8df2f07fec8af3383"
+    },
+    {
+      "type": "Country",
+      "name": "Mali",
+      "id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0"
+    },
+    {
+      "type": "Country",
+      "name": "Niger",
+      "id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb"
+    },
+    {
+      "type": "Country",
+      "name": "Burkina",
+      "id": "Country_42356bc20193c95665895d02c634d4b391d5968dc93514ecd3de0795cccdc103"
+    },
+    {
+      "type": "City",
+      "name": "Niamey",
+      "id": "City_3d5649a53fd34f76fb9bdbf1cbca0ba29ac1e3f9144355b26d8e6de930f68b39"
+    },
+    {
+      "type": "Organization",
+      "name": "armées sahéliennes",
+      "id": "Organization_e37b8f3ff9570408972318c0876f0acaf749ce969d54a7d45cede708e7b13566"
+    },
+    {
+      "type": "Organization",
+      "name": "armées de la région",
+      "id": "Organization_c12f5fbf9b7a3e4bc8ccb5c449600e9895208cbeb34c93467a2ac298f1b9f64c"
+    },
+    {
+      "type": "Organization",
+      "name": "force Takuba",
+      "id": "Organization_bd65d752df3a73edfb40170502fe6db450c21a45aba71291276aa5c29abded91"
+    },
+    {
+      "type": "Theme",
+      "name": "sursaut",
+      "id": "Theme_b869ea8fa14ee1ddbb355439db294e253f594e2f3fbbd6b00df2f046b3886990"
+    },
+    {
+      "type": "Theme",
+      "name": "rapport de force militaire",
+      "id": "Theme_4c85672c35cb1408d747850e5a4a44eea4ee2fa965d7fbe81d26f91202f57c96"
+    },
+    {
+      "type": "Theme",
+      "name": "ressaisissement moral",
+      "id": "Theme_511695686205900b8b25328649dcb0dbce04deb94c1755b6311dfa7c5955d21a"
+    },
+    {
+      "type": "Theme",
+      "name": "dynamique opérationnelle",
+      "id": "Theme_9fb89c6f73dd3db8dc48d0413e7f9dcf5c8987986941568c24f9e3074bb09ce1"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "coordination",
+      "id": "Theme_76189088f555d15577dfaaf50d4e0f4034b9de16b2efd468a065b59947b5d97b"
+    },
+    {
+      "type": "Theme",
+      "name": "opérations conjointes",
+      "id": "Theme_ddbb4ababd64debed684fc6e1fcc445fc9963eea89a8fedfe27d970ef13401a6"
+    },
+    {
+      "type": "Theme",
+      "name": "montée en puissance",
+      "id": "Theme_040c02fe34355df2da9d7205ea3dee8f69126af1699563a51415f42a7381463f"
+    },
+    {
+      "type": "Theme",
+      "name": "opérations de combat",
+      "id": "Theme_f5bf90b8026b9bcc41cfb0d2c09f50bde35b99ca6cf78cae478be576dcaf6b44"
+    },
+    {
+      "type": "Theme",
+      "name": "actions de formation",
+      "id": "Theme_1059bbddf28eced91754c4cb7141700a214e229b12d8d26a491a91763228e34f"
+    },
+    {
+      "type": "Country",
+      "name": "Burkina Faso",
+      "id": "Country_25620c9b179f9856d99bd300333d09db3313570df4e4a382daed52285812dd64"
+    },
+    {
+      "type": "Person",
+      "name": "KABORE",
+      "id": "Person_f9a245d818a4549fd49b99424d527c9e7c979f6a9af8d4a791b5041172455270"
+    },
+    {
+      "type": "Event",
+      "name": "coup d'État au Mali de l'été dernier",
+      "id": "Event_5297e7518ccfefa605c57f9b887c8e289ad8e0cd52b364af458725234810237f"
+    },
+    {
+      "type": "Event",
+      "name": "coup d'État d'août 2020 à Bamako",
+      "id": "Event_63d4ed666a8b1f1acde0226d06ae66c82c9bd71a5cc084ad9715d025fddeb19d"
+    },
+    {
+      "type": "City",
+      "name": "Bamako",
+      "id": "City_4f639f1af21a3fa724a7dd0dd3fc27ab3754b26e27b2b2daedebb582f264453f"
+    },
+    {
+      "type": "Organization",
+      "name": "Cédéao",
+      "id": "Organization_ff1e778bfbd4255ebdecd974262a24f3693a795ac79ed21770872fa52242ac89"
+    },
+    {
+      "type": "Person",
+      "name": "N'DAW",
+      "id": "Person_5158d37022836939a59000ac6661e7274ede69b92297d2cf91d9095693222e55"
+    },
+    {
+      "type": "City",
+      "name": "Kidal",
+      "id": "City_8d0df37ef7791e88a0b8da887958e7caaa18986b3556cc1e4dcd28e90b54189e"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Organization",
+      "name": "Pau",
+      "id": "Organization_d1ad179f94e850a0b512b5265e2a2fe06db5da9f86933eb4806ac735b1e6c9e7"
+    },
+    {
+      "type": "Country",
+      "name": "Tchad",
+      "id": "Country_4559f6f8af30c0e115367f99db7a2d2bff5c4fb5ef7ec890af7e5e1662fd701e"
+    },
+    {
+      "type": "Organization",
+      "name": "bataillon tchadien",
+      "id": "Organization_d6fd7b0aa3be65cd2d36103dc9d0bd5000f4a0a1df062bf7ddf3252d5d738eb1"
+    },
+    {
+      "type": "Organization",
+      "name": "dispositif Barkhane",
+      "id": "Organization_0c26cacc8c5f1ffda758e13ab28db472c3b56ebee2589b180fcb2d97122d443c"
+    },
+    {
+      "type": "Organization",
+      "name": "forces conjointes G5 Sahel",
+      "id": "Organization_cddd87517546d99b22933482c0ec01fd516b8e070525568a3ea0213ce4d74e86"
+    },
+    {
+      "type": "City",
+      "name": "Markoye",
+      "id": "City_7ad783b9e6af7e3f0f5e75b89dfffde8d9e9b72abbd476f16dd4772320a23f0c"
+    },
+    {
+      "type": "Person",
+      "name": "Iyad Ag GHALY",
+      "id": "Person_1f9d9465ca0272ed201792b474ad11ffa0f1685be6620e49c7fa9dd7cb2f2f24"
+    },
+    {
+      "type": "Person",
+      "name": "Amadou KOUFA",
+      "id": "Person_62ba3131bcd510fdf7dfb56ea58d50d25ae20184804ca7090342ae1a7d5730fb"
+    },
+    {
+      "type": "Organization",
+      "name": "G5 Sahel",
+      "id": "Organization_731d6944c0a31ed0fe261575f2573caac7a90e8ab6d60ef9a3df3e2391b9c38e"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Katiba Macina",
+      "id": "Organization_303a5e20c29d08cf188af6d3851aeae8dbadbc23e9030af7a1ab0099794fbe68"
+    },
+    {
+      "type": "Organization",
+      "name": "Maliens",
+      "id": "Organization_e0365ade77fd58c8f1cd8b09e6f760f953380fc9f2299f9eaab53fa53d4d73cc"
+    },
+    {
+      "type": "Organization",
+      "name": "Mauritaniens",
+      "id": "Organization_0a5a9b30dc600842a11e8780bfce570c68ad5ebf314572ca59030242f8d9f0af"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "UEMOA",
+      "id": "Organization_ab03dd622628e205ddd531d21895605ec4f3de0cd3491f4031e19477a9d43d30"
+    },
+    {
+      "type": "Organization",
+      "name": "Etats-Unis",
+      "id": "Organization_3b08eb2671279e09493fe87c31cd8efb8ef559ae7445896c53ad72240e970f09"
+    },
+    {
+      "type": "Organization",
+      "name": "Golfe",
+      "id": "Organization_ade968cf562102c7a3d32a48ba89170ae7b4b4b65616121283f19c2d713d3f4a"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Theme",
+      "name": "mandat",
+      "id": "Theme_1c1553b50ea918e040f5b180345647cf523aa8b4aaf976b5d7d5b5deecb47e1c"
+    },
+    {
+      "type": "Theme",
+      "name": "durée d'exercice d'une fonction élective",
+      "id": "Theme_9582a7f0e8baa50898aabc2925a7d20e916734349b51e408ac8d8ab1c03ccf4c"
+    },
+    {
+      "type": "Organization",
+      "name": "force conjointe du G5 Sahel",
+      "id": "Organization_5c4479713a0b4baca5d3ea4716f637b060039e8817580904ebc3df79c0bf0ab4"
+    },
+    {
+      "type": "Theme",
+      "name": "sursaut civil",
+      "id": "Theme_c7d8cdd45bb4467a42e94dd273acfebdb87b3e88196831d9e9315b716ddd50d2"
+    },
+    {
+      "type": "Theme",
+      "name": "sursaut militaire",
+      "id": "Theme_385e1e04d2e8e596ba66ce5cd3c3f41ab40977ddf108ded25767552c4f79d7ef"
+    },
+    {
+      "type": "Theme",
+      "name": "crise Covid",
+      "id": "Theme_f795ef1333fb420f606311508232d39f9e4e804aec2881d112ecc1755b95f540"
+    },
+    {
+      "type": "Theme",
+      "name": "poussée sur l'axe du développement",
+      "id": "Theme_5dd123d3ffc733b0ebb3896259cbbcf07cd677858edcce0c0b8f65f5c530c807"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliance pour le Sahel",
+      "id": "Organization_c3876035d5822097fdf46465bdd2616eb45ed52ea9a91f05a7f60ad8705ce7bc"
+    },
+    {
+      "type": "Country",
+      "name": "Mauritanie",
+      "id": "Country_f6f04beb41c51169b0ac43b82b76afeaca4b16fd7d8a8e7ca3ca9d31b4a68854"
+    },
+    {
+      "type": "Theme",
+      "name": "Grande Muraille verte",
+      "id": "Theme_58286a4f444f01d64e750dc892b922c9dcaf2a352bc81f528770744d5f8eb4d6"
+    },
+    {
+      "type": "Theme",
+      "name": "action civile",
+      "id": "Theme_7cfa4857399849437e1fd3d362b4b105537b40af735fa14ff9b72340580dbc77"
+    },
+    {
+      "type": "Theme",
+      "name": "action militaire",
+      "id": "Theme_17bb0f7d24cc54e0773d0da3b0e4166d80b68aa8616f52c8a9e1459c19ddeb0f"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance",
+      "id": "Theme_b922336e378de1f3bd3c36e9805efd63ad949f8fbff73adbfc2b3826e811ee6a"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de Pau",
+      "id": "Theme_6c5276a2cb8cc251eb68bb0ce0adb5b5259da66a3f5d0811182d86a4e00f0531"
+    },
+    {
+      "type": "City",
+      "name": "Mopti",
+      "id": "City_7dee888c4549077dea17403a6819f2eb7154a966b2e412a473d5fe35568c3f50"
+    },
+    {
+      "type": "City",
+      "name": "Gao",
+      "id": "City_9b0a9a5699617f07e7aa938c7f8dee1b52cad593e5a92a9337cda07458f482a5"
+    },
+    {
+      "type": "City",
+      "name": "Ouagadougou",
+      "id": "City_3b11427d24948ffcdb7b95de6eaab0a8b8b23d670e0a57d2c0bb9157dfa86ec7"
+    },
+    {
+      "type": "City",
+      "name": "Kaya",
+      "id": "City_963a06cfacc1b05c0670e807dd950e7aaa3426070640d183e9f52bc431cbb368"
+    },
+    {
+      "type": "City",
+      "name": "Dori",
+      "id": "City_631ce7b82b33cab0f4b6348b318f5a4a8187c9c433ffb35dfcfe1763a45bb5a1"
+    },
+    {
+      "type": "City",
+      "name": "Douentza",
+      "id": "City_6fbb067d64e49a9472fde5cf22d797419e22a373a36edfbbba56e13686f61e31"
+    },
+    {
+      "type": "City",
+      "name": "Téra",
+      "id": "City_17c583311b57feccbaa41f1a1f6454da6f1269d32a0e30cbfb6b696aba717c83"
+    },
+    {
+      "type": "City",
+      "name": "Menaka",
+      "id": "City_a89c121ec33afb413ebea0008146421d997efc3ab05b4e3011904dafde1a9ae4"
+    },
+    {
+      "type": "Organization",
+      "name": "task force Takuba",
+      "id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69"
+    },
+    {
+      "type": "Country",
+      "name": "Suède",
+      "id": "Country_f0680f074258c0cbb263830557969af01c50840b9cdfd249ff5c18418896a4ff"
+    },
+    {
+      "type": "Country",
+      "name": "République Tchèque",
+      "id": "Country_2e7a14521252abe0a9b1733875decc4030783e81c0e82ffb03195df0627b4297"
+    },
+    {
+      "type": "Country",
+      "name": "Estonie",
+      "id": "Country_6ff0b5ecfc1dfa115390e0dbd3c73b3225e6b079de5c8428b3dad412d2b52103"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Danemark",
+      "id": "Country_e69e28cfa71a672f3c4d4f769e9cbc72220f20bc192eea020c4483eaecfef07b"
+    },
+    {
+      "type": "Country",
+      "name": "Portugal",
+      "id": "Country_cf5e0a7a677f823b7b8ff468282692a5b0531c04401a108b2b705a578a7907b7"
+    },
+    {
+      "type": "Country",
+      "name": "Belgique",
+      "id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed"
+    },
+    {
+      "type": "Country",
+      "name": "Pays-Bas",
+      "id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "type": "Country",
+      "name": "Hongrie",
+      "id": "Country_bda46faa77361ae198107f51212ef1953770a2e61d32ec39881204c04aa0bda3"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition",
+      "id": "Organization_2d98a336b361fd804af3602880c6fc58a8d0d12b960c29dc036ccec093891de9"
+    },
+    {
+      "type": "Organization",
+      "name": "Sahel",
+      "id": "Organization_1034bae6c079aba52f1131c84083c116d662d71e4b225c6b5386dc131a1240e0"
+    },
+    {
+      "type": "Person",
+      "name": "BLINKEN",
+      "id": "Person_47787b8eac15441df6a478a84440426ac4ad67e3e4dfcad90ece554726b0ea32"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Country",
+      "name": "Maroc",
+      "id": "Country_9458e2c6babd2c77ac8b75ec4713e04d3bfb33730d88d692b0cae733d35375f3"
+    },
+    {
+      "type": "Theme",
+      "name": "alignement politique et militaire",
+      "id": "Theme_acae7bf3ebca31e7f2793b9b2d10e9a96c824f10e39f9fe9559935cdae735df9"
+    },
+    {
+      "type": "Theme",
+      "name": "points hebdomadaires",
+      "id": "Theme_4db8f55fe6c69657651fa411e145a929a61e8fe7b15387f21a956752b70d78ab"
+    },
+    {
+      "type": "Theme",
+      "name": "réunion avec les chefs d'États du G5 Sahel",
+      "id": "Theme_c1438f9352c19ee68622de389114fb7a12d8c77f338a3780f212f8ff852e20ef"
+    },
+    {
+      "type": "Theme",
+      "name": "sommet de la coalition",
+      "id": "Theme_6839deb2a9c33f5c56f89ffa45540133dae22c77e6fa352c04819c2fa7c3d5f9"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Salle des fêtes",
+      "relation": "LOCATED_IN",
+      "target": "Élysée",
+      "evidence": "Nous sommes ici en Salle des fêtes à l'Élysée",
+      "confidence": 1.0,
+      "source_id": "City_50f43deffa56abf68bcb9fd41b8d8b166be8bb3455170e8983a9157b9a7f308e",
+      "target_id": "City_fa207bace07b62d4ce9b99f534b8b63ef567cbc0a57e8648aa67dc8b18f79fc7"
+    },
+    {
+      "source": "Sahel",
+      "relation": "LOCATED_IN",
+      "target": "Sahel",
+      "evidence": "Cet effort militaire défini à Pau a donc permis des victoires, nous a permis d'obtenir des résultats et a sauvé une deuxième fois le Sahel.",
+      "confidence": 1.0,
+      "source_id": "Organization_1034bae6c079aba52f1131c84083c116d662d71e4b225c6b5386dc131a1240e0",
+      "target_id": "Organization_1034bae6c079aba52f1131c84083c116d662d71e4b225c6b5386dc131a1240e0"
+    },
+    {
+      "source": "Pau",
+      "relation": "LOCATED_IN",
+      "target": "Sahel",
+      "evidence": "Cet effort militaire défini à Pau a donc permis des victoires, nous a permis d'obtenir des résultats et a sauvé une deuxième fois le Sahel.",
+      "confidence": 1.0,
+      "source_id": "Organization_d1ad179f94e850a0b512b5265e2a2fe06db5da9f86933eb4806ac735b1e6c9e7",
+      "target_id": "Organization_1034bae6c079aba52f1131c84083c116d662d71e4b225c6b5386dc131a1240e0"
+    },
+    {
+      "source": "Niger",
+      "relation": "VISITED",
+      "target": "Niger",
+      "evidence": "le Niger est en train de l'achever avec un premier tour qui s'est tenu dans le calme",
+      "confidence": 1.0,
+      "source_id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb",
+      "target_id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb"
+    },
+    {
+      "source": "bataillon tchadien",
+      "relation": "LOCATED_IN",
+      "target": "Tchad",
+      "evidence": "le bataillon tchadien",
+      "confidence": 1.0,
+      "source_id": "Organization_d6fd7b0aa3be65cd2d36103dc9d0bd5000f4a0a1df062bf7ddf3252d5d738eb1",
+      "target_id": "Country_4559f6f8af30c0e115367f99db7a2d2bff5c4fb5ef7ec890af7e5e1662fd701e"
+    },
+    {
+      "source": "Mali",
+      "relation": "SUPPORTS",
+      "target": "action civile",
+      "evidence": "C'est cette défaillance que l'élan de N'Djamena doit corriger. De manière très concrète, cela passe par un réengagement profond du Mali, du Burkina et du Niger à déployer pour l'action civile un dispositif comparable à celui qui a été mis en place pour l'action militaire",
+      "confidence": 1.0,
+      "source_id": "Country_df06ad5a7c573b08baab747a04c4df90da83c15707174afe5cc3840d3ddadbb0",
+      "target_id": "Theme_7cfa4857399849437e1fd3d362b4b105537b40af735fa14ff9b72340580dbc77"
+    },
+    {
+      "source": "Niger",
+      "relation": "SUPPORTS",
+      "target": "action civile",
+      "evidence": "C'est cette défaillance que l'élan de N'Djamena doit corriger. De manière très concrète, cela passe par un réengagement profond du Mali, du Burkina et du Niger à déployer pour l'action civile un dispositif comparable à celui qui a été mis en place pour l'action militaire",
+      "confidence": 1.0,
+      "source_id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb",
+      "target_id": "Theme_7cfa4857399849437e1fd3d362b4b105537b40af735fa14ff9b72340580dbc77"
+    },
+    {
+      "source": "task force Takuba",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la task force Takuba comporte désormais 9 partenaires : France, Suède, République Tchèque, Estonie, Italie, Danemark, Portugal, Belgique et Pays-Bas",
+      "confidence": 1.0,
+      "source_id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "task force Takuba",
+      "relation": "LOCATED_IN",
+      "target": "Suède",
+      "evidence": "la task force Takuba comporte désormais 9 partenaires : France, Suède, République Tchèque, Estonie, Italie, Danemark, Portugal, Belgique et Pays-Bas",
+      "confidence": 1.0,
+      "source_id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69",
+      "target_id": "Country_f0680f074258c0cbb263830557969af01c50840b9cdfd249ff5c18418896a4ff"
+    },
+    {
+      "source": "task force Takuba",
+      "relation": "LOCATED_IN",
+      "target": "République Tchèque",
+      "evidence": "la task force Takuba comporte désormais 9 partenaires : France, Suède, République Tchèque, Estonie, Italie, Danemark, Portugal, Belgique et Pays-Bas",
+      "confidence": 1.0,
+      "source_id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69",
+      "target_id": "Country_2e7a14521252abe0a9b1733875decc4030783e81c0e82ffb03195df0627b4297"
+    },
+    {
+      "source": "task force Takuba",
+      "relation": "LOCATED_IN",
+      "target": "Estonie",
+      "evidence": "la task force Takuba comporte désormais 9 partenaires : France, Suède, République Tchèque, Estonie, Italie, Danemark, Portugal, Belgique et Pays-Bas",
+      "confidence": 1.0,
+      "source_id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69",
+      "target_id": "Country_6ff0b5ecfc1dfa115390e0dbd3c73b3225e6b079de5c8428b3dad412d2b52103"
+    },
+    {
+      "source": "task force Takuba",
+      "relation": "LOCATED_IN",
+      "target": "Italie",
+      "evidence": "la task force Takuba comporte désormais 9 partenaires : France, Suède, République Tchèque, Estonie, Italie, Danemark, Portugal, Belgique et Pays-Bas",
+      "confidence": 1.0,
+      "source_id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69",
+      "target_id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "source": "task force Takuba",
+      "relation": "LOCATED_IN",
+      "target": "Danemark",
+      "evidence": "la task force Takuba comporte désormais 9 partenaires : France, Suède, République Tchèque, Estonie, Italie, Danemark, Portugal, Belgique et Pays-Bas",
+      "confidence": 1.0,
+      "source_id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69",
+      "target_id": "Country_e69e28cfa71a672f3c4d4f769e9cbc72220f20bc192eea020c4483eaecfef07b"
+    },
+    {
+      "source": "task force Takuba",
+      "relation": "LOCATED_IN",
+      "target": "Portugal",
+      "evidence": "la task force Takuba comporte désormais 9 partenaires : France, Suède, République Tchèque, Estonie, Italie, Danemark, Portugal, Belgique et Pays-Bas",
+      "confidence": 1.0,
+      "source_id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69",
+      "target_id": "Country_cf5e0a7a677f823b7b8ff468282692a5b0531c04401a108b2b705a578a7907b7"
+    },
+    {
+      "source": "task force Takuba",
+      "relation": "LOCATED_IN",
+      "target": "Belgique",
+      "evidence": "la task force Takuba comporte désormais 9 partenaires : France, Suède, République Tchèque, Estonie, Italie, Danemark, Portugal, Belgique et Pays-Bas",
+      "confidence": 1.0,
+      "source_id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69",
+      "target_id": "Country_bdd117b13fe244521876d9886fcd74f0f36738ebaf0e5d5b2968a4385a9898ed"
+    },
+    {
+      "source": "task force Takuba",
+      "relation": "LOCATED_IN",
+      "target": "Pays-Bas",
+      "evidence": "la task force Takuba comporte désormais 9 partenaires : France, Suède, République Tchèque, Estonie, Italie, Danemark, Portugal, Belgique et Pays-Bas",
+      "confidence": 1.0,
+      "source_id": "Organization_c06bfe94d28c3e6abf5319e5afd499d492c32b1a33ff88fdcd3b5aed388d9c69",
+      "target_id": "Country_3c27b9759d0bfd3fb02c9e7319ed2c06722a9ef3b53df8f68401cac4f8b60143"
+    },
+    {
+      "source": "coalition",
+      "relation": "LOCATED_IN",
+      "target": "Sahel",
+      "evidence": "un Haut représentant de la coalition qui sera un visage sahélien",
+      "confidence": 1.0,
+      "source_id": "Organization_2d98a336b361fd804af3602880c6fc58a8d0d12b960c29dc036ccec093891de9",
+      "target_id": "Organization_1034bae6c079aba52f1131c84083c116d662d71e4b225c6b5386dc131a1240e0"
+    }
+  ]
+}

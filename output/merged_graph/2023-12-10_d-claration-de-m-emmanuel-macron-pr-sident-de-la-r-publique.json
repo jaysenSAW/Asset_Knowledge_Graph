@@ -1,0 +1,719 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Chaillot",
+      "id": "City_48ea13ad8ef5f8254adc82df1399508feb5cbf718717af7dec5c515f6d5d9459"
+    },
+    {
+      "type": "City",
+      "name": "Trocadéro",
+      "id": "City_c7b73a590a0ebc35d9d672d4d771a01f45d6ad43ea25fe5f607ae65b943649b8"
+    },
+    {
+      "type": "Theme",
+      "name": "droits humains",
+      "id": "Theme_16ed3695cc76ed7471225903673086d1563ce5d9b005ae616133d4c3464f5712"
+    },
+    {
+      "type": "Theme",
+      "name": "Lumières",
+      "id": "Theme_6732c62137d1ca5442c751181b48396d98b70fee8cb1aa8e0c63bf00da0f0544"
+    },
+    {
+      "type": "Law",
+      "name": "déclaration universelle des droits de l'Homme",
+      "id": "Law_c89a8eae4b7a42d75cc5853787e2d2cdb7d61858df46950991f23d1ca5bcccdc"
+    },
+    {
+      "type": "Law",
+      "name": "Pactes pour les droits civils et politiques",
+      "id": "Law_3aef4ff827ad5d54199c39ce04ac2407fa001a68d65cba9451bff23edc76240e"
+    },
+    {
+      "type": "Law",
+      "name": "conventions",
+      "id": "Law_d17ba9544a87c8d40224c2fed7391ccf7eb229cb46943a38fbbef387ee603b72"
+    },
+    {
+      "type": "Country",
+      "name": "pays",
+      "id": "Country_2bcd3c4bdd95ef3df7bee35913a887cd2c3a9393356cb7f8c7231b1b6cb15878"
+    },
+    {
+      "type": "Person",
+      "name": "dirigeants de pays",
+      "id": "Person_633827500bbd7f90a0e60c1b782d343899bb6e55f913cf6903872299dbc5b512"
+    },
+    {
+      "type": "Person",
+      "name": "femmes et des hommes",
+      "id": "Person_f226bd66c8cb1a29bbbe8ad3f75d6a9cc2216919951f127a3271134ec3f7a484"
+    },
+    {
+      "type": "Theme",
+      "name": "respect de la dignité",
+      "id": "Theme_888ed4188b28071da303900c776eda2097bc524303791281f5f15168cd2c1574"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité entre les femmes et les hommes",
+      "id": "Theme_b484a156d9d64e08166b13528c3fa60f7e66a7f8a085ad36db2ca83767aac644"
+    },
+    {
+      "type": "Theme",
+      "name": "humaniste",
+      "id": "Theme_74dc57885579c0f8a09d0109d9f432c664051d74af4d9b839c97f64c4eb9f044"
+    },
+    {
+      "type": "Theme",
+      "name": "démocraties",
+      "id": "Theme_56cab7a53aa93e99087fecefd082e66c8d079b1bc5400d121f702e8873b1648d"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéral onusien de paix et de prospérité partagée",
+      "id": "Theme_f5e34fdb35c545b00248581025ccc61d52a5393943a62d2ddd0256857af8afa6"
+    },
+    {
+      "type": "Event",
+      "name": "Seconde guerre mondiale",
+      "id": "Event_aa598b7435f3cc09e365f657cf81e9286ff31ba745caeefa70923626f946c7cf"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "universalité",
+      "id": "Theme_29a5c4531beb8bad8a5076f3e9ee955d0e95adf9a48925753d68fe7f788f3e27"
+    },
+    {
+      "type": "Theme",
+      "name": "pluralité des convictions religieuses ou philosophiques",
+      "id": "Theme_25c8bafeb20a5df2f9ccef8033699024721e79f0679bee23cb4c6f6ab3219ba3"
+    },
+    {
+      "type": "Theme",
+      "name": "message universel",
+      "id": "Theme_af8880b22d29d65e957d460bf1378ad0d321a23ce531b6e3572691deaf6a9a03"
+    },
+    {
+      "type": "Theme",
+      "name": "obscurantismes",
+      "id": "Theme_9b13e9028e1f13f0844e57d2df2b905ae9dccb3213cd5d8dc1efda178786dfc0"
+    },
+    {
+      "type": "Theme",
+      "name": "droits",
+      "id": "Theme_7eb56e86691d574c7d0fa41bffcd50417ad7abbc021dc12800cf78099a3cc7c5"
+    },
+    {
+      "type": "Theme",
+      "name": "universalisme",
+      "id": "Theme_be32ff05b2d5c9dc371964e8c9dccc99b005e4d31ab9d2adc606d6ba1924a69d"
+    },
+    {
+      "type": "Theme",
+      "name": "état de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Theme",
+      "name": "principes",
+      "id": "Theme_97c5aa60bd71c598edaaf76fd6b884a4ae393b0774135332a05c72af7bc82042"
+    },
+    {
+      "type": "Theme",
+      "name": "droits des femmes",
+      "id": "Theme_b5ad4efe4e4ac8448e544bd4fd67401fff7ad3d2a8c6e3dc2122c3b47deb01a5"
+    },
+    {
+      "type": "Theme",
+      "name": "Forum Génération Égalité",
+      "id": "Theme_ebb5b85a3e17f8055b90585587838139edea88894159179d12bbaaa8a83e2716"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "violence",
+      "id": "Theme_2e88abc315f2f0443a0e5b9fd8eae9a399f515b08101974ade6d7c352b827448"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Theme",
+      "name": "santé sexuelle et reproductive",
+      "id": "Theme_0af8369bb55f4a486d113bcd9e64cfc83b246eccd498fa7a8b0f1965b0810e24"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomisation économique",
+      "id": "Theme_9db360553ecaad03746cdcf0ae9d5a0a2e9276954a0062ac7bb4bcc8c9ed7e09"
+    },
+    {
+      "type": "Theme",
+      "name": "droits économiques et sociaux",
+      "id": "Theme_85b9d61cd11445c1352afe14000f51fede4ba95ab6e4ab3721cb5221e141c557"
+    },
+    {
+      "type": "Theme",
+      "name": "jeunes filles",
+      "id": "Theme_a90c7cd3cff0ffc9a6f72ce50e1596279febadf3ac246f8a12de3a7bdb929a18"
+    },
+    {
+      "type": "Person",
+      "name": "Nadia MURAD",
+      "id": "Person_48c0ec66b5b103e207510ff34c5edcd6caa08e871c502dbe6ae99fe14a9e04a9"
+    },
+    {
+      "type": "Country",
+      "name": "Sahel",
+      "id": "Country_09b99573c3986fae68242a80502039a9d14573651db50b4a273a7d13fdb89181"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisations non gouvernementales",
+      "id": "Organization_f3da56806d5e80c5f7365ccf3435c7b1cb4f057a125b60e7f4fd7c7f1b377dd5"
+    },
+    {
+      "type": "Person",
+      "name": "j'ai pris l'engagement",
+      "id": "Person_de32d707fccb55931a99ae24e2b436a9228b8f81503a9a020b4222a209b13339"
+    },
+    {
+      "type": "Theme",
+      "name": "libertés reconnues aux femmes",
+      "id": "Theme_e84f0a0c0c469b287665991095301da258ccb75ad82cf8fb8576b50766c4d212"
+    },
+    {
+      "type": "Theme",
+      "name": "interruption volontaire de grossesse",
+      "id": "Theme_3eb5ad4358ef514747a36d6b90edd6b7995c2a16891fe0bfbd5919fb5b2c9039"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Theme",
+      "name": "formation collégiale",
+      "id": "Theme_203f28834411c195c4667582254d2be08aecae2222f5892b280d09e5152915b2"
+    },
+    {
+      "type": "Theme",
+      "name": "droits des enfants",
+      "id": "Theme_3ebe21f844e6cd926b4cf700764ea87a2bd4774e8f6394c829f7cd0a417cc119"
+    },
+    {
+      "type": "Theme",
+      "name": "Partenariat mondial pour l'éducation",
+      "id": "Theme_30acbae9eac8beda3d008d02012fbe7a5163710c3fa88150333be0d41071edca"
+    },
+    {
+      "type": "Theme",
+      "name": "budgets consacrés à l'éducation",
+      "id": "Theme_c76ef809f7fee81fa1a02404acfd864b74ae21cd44b0ed04678b4fd75d06f798"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien majeur",
+      "id": "Theme_f2e8b84540f2304ace12397f846b3500e0ad2478d37113cbd36eda2a2ab03e70"
+    },
+    {
+      "type": "Theme",
+      "name": "Sénégal",
+      "id": "Theme_3cc93278377b5d593711585fea431a956a933b5d8d934c0cd75eb180d68f9ac0"
+    },
+    {
+      "type": "Theme",
+      "name": "alimentation scolaire",
+      "id": "Theme_ac1cad33997b50053a79bf3c743695eef89040db778ab03cb57501ad86137c45"
+    },
+    {
+      "type": "Theme",
+      "name": "Programme Alimentaire Mondial",
+      "id": "Theme_5769893353b85c3e11a654dcb337706fa118a0e369fbbbf0774cffd82d03b8f0"
+    },
+    {
+      "type": "Theme",
+      "name": "repas nutritif",
+      "id": "Theme_4e20f3698b1b5d7fb47d5e1baffaef4b56cff936d55eb0005bee438feff90c3e"
+    },
+    {
+      "type": "Theme",
+      "name": "2030",
+      "id": "Theme_54765031e438bbff9047b04e0246a4cfc7e54b9baa658ea0b9465ca4259e3874"
+    },
+    {
+      "type": "Organization",
+      "name": "UNESCO",
+      "id": "Organization_44cf334686fd664fecedb6944caa3782522449e029aa1a57346edd5f2ff5eebd"
+    },
+    {
+      "type": "Theme",
+      "name": "droits des personnes LGBT+",
+      "id": "Theme_7284b39ce6b8dc5f7dc5c8d421f4e43e3f5006e2ac05bb068eb8d6baa86b073f"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de l'Europe",
+      "id": "Organization_5c875c7f06516baeebbf53a7d84bca86dab1fc33e8964d207ae7c92ab603f97b"
+    },
+    {
+      "type": "Theme",
+      "name": "droit à un environnement sain",
+      "id": "Theme_b863c7715c7bf29c06fb1ef5282fd9a2776953c12927b7939911f842e8ea0213"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "planète",
+      "id": "Country_b324cf858432beeb6339f3e8a52e945a22dc88f0c1c5e7ab6f7e5a4634bb7f6c"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Event",
+      "name": "avancées que nous avons ensemble construites la dernière année",
+      "id": "Event_ef16a2794a46c7ab91f9d0a6e0a9ae6000d2d5f0735262ff1fc79ea66a23c95c"
+    },
+    {
+      "type": "Country",
+      "name": "Bangladesh",
+      "id": "Country_3c4857cd18262ba42820abe7fa8869a98e90ca21bcd9fbc07ba1e1d7486706eb"
+    },
+    {
+      "type": "Theme",
+      "name": "lutter contre la pauvreté",
+      "id": "Theme_825ccbd87cf4055639cf5b86a1229d727fb5b53782e93253647260e9d65766eb"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Event",
+      "name": "Pacte de Paris pour les Peuples et la Planète",
+      "id": "Event_48915d5b0905a618030f8cc4053bfde72a77b92154ac612cb7dfa5399d8836d6"
+    },
+    {
+      "type": "Organization",
+      "name": "Pacte de Paris pour les Peuples et la Planète",
+      "id": "Organization_9d429f6bd68db5a92a50747e71c7819c96a8529340b12adc4b5faa100bee247b"
+    },
+    {
+      "type": "Person",
+      "name": "Cacique Raoni",
+      "id": "Person_bf881f0aff4f0608f1eca3c14427ea2fa282b0f8b78d5a3146752a458922c352"
+    },
+    {
+      "type": "Organization",
+      "name": "salle des peuples autochtones",
+      "id": "Organization_7a078709fdcc6414f7528d08503e15178e6750e2dafd5156a2d268cdcce13b31"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Country",
+      "name": "brésilien",
+      "id": "Country_71fadca242074683511d5c3abb8e17cf2ab39dc353d49ac8b809af024f57ecc2"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "processus électoraux",
+      "id": "Theme_e8ce5a1b020e11caf0dea67e20873a2ddf05b290ee703bdd0eb18b5b808e6277"
+    },
+    {
+      "type": "Theme",
+      "name": "information",
+      "id": "Theme_ddeabf30715b206aae0b088fbc692b1adb356796e27cc30c97e2a7a1bd7a6ca3"
+    },
+    {
+      "type": "Theme",
+      "name": "pédopornographie",
+      "id": "Theme_837c3b2941fbf464193efa266e679b0e0d412f4b2416cc934eb43cda527a11c9"
+    },
+    {
+      "type": "Theme",
+      "name": "harcèlement en ligne",
+      "id": "Theme_34e3d5638979b80759def4137a5a03fbca2207f2af793402a04f426a7355b36b"
+    },
+    {
+      "type": "Theme",
+      "name": "contenus terroristes",
+      "id": "Theme_5ef497c7fc6f3aa57718091ebce8b4fa9bbc44112d6d102b3bb8ce464b359056"
+    },
+    {
+      "type": "Theme",
+      "name": "contenus haineux",
+      "id": "Theme_7df154e38495b355467e5bf9ecf00ace280bff1b632ebeb1e1aac87abb32abe8"
+    },
+    {
+      "type": "Theme",
+      "name": "régulation",
+      "id": "Theme_f70cb43189b106bcacace57211968518d9307936128cf563ad9dbd98617b47cf"
+    },
+    {
+      "type": "Person",
+      "name": "Madame RESSA",
+      "id": "Person_39610bb75f06653c48c5a510c222b7247e1c8eab4278738c47517d0fb6517ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "RSF",
+      "id": "Organization_594f67865e1fd6abdd69bdd8fdcf6f20f707c8b1976a6f4dc4f57614c664847d"
+    },
+    {
+      "type": "Organization",
+      "name": "commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Organization",
+      "name": "états généraux de l'information",
+      "id": "Organization_5ac107dd25f3feff45cf1caf5a5e2bbcdd66dfd95f5f1be22ef726192955460b"
+    },
+    {
+      "type": "Theme",
+      "name": "fausses informations",
+      "id": "Theme_eb948f89ed803d8a8a5699a2c9df66e6cc531beeb683c737f6c2bcfcd9c1055a"
+    },
+    {
+      "type": "Theme",
+      "name": "hyperconcentration économique",
+      "id": "Theme_9ad06dfdabac41fb38adee84e8884f5620ff219ff777c9afe23f603111b9e80e"
+    },
+    {
+      "type": "Theme",
+      "name": "manipulation de l'information",
+      "id": "Theme_3fe0592d80f0e5ae4010833e6a658d3a3cfa90b43f471cf8f47113ed5d46941d"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "règles internationales",
+      "id": "Theme_3b73db93285bf7afc51dcdfa34c97544ef48ba0b3b4f1a58e24da2e4e4ba242e"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations",
+      "id": "Theme_3957cb051014b00717e7b2ec655cbcfa47c99687835fe48f9d3a8fbe1cedaead"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme",
+      "id": "Theme_d10bce3b67531a6774cd57104a434124f2a796f10cbfff22bb37dbeba66cb515"
+    },
+    {
+      "type": "Person",
+      "name": "Marianne",
+      "id": "Person_ca59782baff4f07dacbaa427ee58b485657f92c7c6872f64fed87d94739e592b"
+    },
+    {
+      "type": "Person",
+      "name": "GRANDI",
+      "id": "Person_f398ae3244606b2c25cab8979f5f08baf0b68560a38f69cb7ad308ac25bd7004"
+    },
+    {
+      "type": "Theme",
+      "name": "juridictions internationales",
+      "id": "Theme_094ac4f93457695750cd329a3738b4dfb27d637cbeff6e27a41479c8dbe6bfd2"
+    },
+    {
+      "type": "Theme",
+      "name": "principes de 1948",
+      "id": "Theme_ba43321ae1df548ef8d68ddf9af2bfa80cb188b51657548e46af0f95e98200e5"
+    },
+    {
+      "type": "Theme",
+      "name": "Seconde guerre mondiale",
+      "id": "Theme_8ff734850959da4680ff0fbd04ba4fc09d587e00a7923e593222c86bed10791f"
+    },
+    {
+      "type": "Theme",
+      "name": "procès de Nuremberg",
+      "id": "Theme_d643165fde698b235059edfb8dfe80a58c7c02f9d756cd98516664a120dd9fef"
+    },
+    {
+      "type": "Theme",
+      "name": "Convention pour la prévention et la répression du crime de génocide",
+      "id": "Theme_067003d7163accd501db55a36053836d764d5b4e8ced8a7b37143cf09f75b080"
+    },
+    {
+      "type": "Theme",
+      "name": "Cour pénale internationale",
+      "id": "Theme_4a5aee8a0180ee9187585a23400355320a24364d5591394bcc951f3d9e2b370a"
+    },
+    {
+      "type": "Theme",
+      "name": "Convention contre le crime contre l'humanité",
+      "id": "Theme_0a4fedea9ed6cf26e9344e4e2cb699b47abc76b0ee8497709f1041625959790c"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre l'impunité",
+      "id": "Theme_0f760923245aa94d87b7e208a11dee9cb1937a2cd3649d48a892304d496ecacd"
+    },
+    {
+      "type": "Country",
+      "name": "Soudan",
+      "id": "Country_fffd3368e10c4710d9cc6fc24f457d5063e1f139e3b5edad1f5dd5a7da0d1c49"
+    },
+    {
+      "type": "Country",
+      "name": "Proche-Orient",
+      "id": "Country_ea96081c3dc607260da7be0bce2be5c4e658fe0319110fa930660594f5cfce74"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Country",
+      "name": "Caucase",
+      "id": "Country_4018e15b3168f991126becaf94ee54ba1321b69c156fe1792ad6a368048a8081"
+    },
+    {
+      "type": "Country",
+      "name": "Arménie",
+      "id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace"
+    },
+    {
+      "type": "Theme",
+      "name": "réconciliation et de vérité",
+      "id": "Theme_1589db18a16fb0982e9e83f7eb6b9179ec33d10fdb03b5ccc6c4eab6e507e222"
+    },
+    {
+      "type": "Theme",
+      "name": "pardon",
+      "id": "Theme_ce3b884cb183bfd64b84f06f565d28c81686750a96f6f8fd8a60f43e11779beb"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique du Sud",
+      "id": "Country_18768cba57ae5abd3fb4a98f72c105af41db31822809e203889560cb72663272"
+    },
+    {
+      "type": "Country",
+      "name": "Rwanda",
+      "id": "Country_a25a5ec05fe29e50db60bd3d8895a9d523027a5e3d736e345edbee00b92efec3"
+    },
+    {
+      "type": "Organization",
+      "name": "juridictions internationales",
+      "id": "Organization_e245664382ad1c006695d403406b2893ee2ae759aa0586021fa1434bcca2b93f"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de l'Europe et des Affaires étrangères",
+      "id": "Organization_e3e99b0e685694725ffa82a5a5afeb3d051927f4c3f835941ebebd9b966a8969"
+    },
+    {
+      "type": "Organization",
+      "name": "garde des Sceaux",
+      "id": "Organization_3bc33c4e0679e381ad3ef3e292c29ebc7111411d9d505617a33e22a34c378378"
+    },
+    {
+      "type": "Theme",
+      "name": "subsidiarité",
+      "id": "Theme_d31550d4be24749d8ab400b894c400bdf42185bb43763a35521e7d48dd7f3f1e"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de l'Homme",
+      "id": "Theme_6c1d2bf106b6e5fa961fe6fe15bf7408cd9f01f7e488ebd31c9dd3224df35a94"
+    },
+    {
+      "type": "Theme",
+      "name": "combattantes et combattants de la liberté",
+      "id": "Theme_b8e8069dda0e3ce6b41cebc353bf543ee8044c367d0554c197f933bbc1987b5b"
+    },
+    {
+      "type": "Theme",
+      "name": "visa",
+      "id": "Theme_7c27d539bff83efa7953abf0fd467b60e3c9ed266ff9b1b53f9527fc87db02a2"
+    },
+    {
+      "type": "Theme",
+      "name": "défenseurs des droits",
+      "id": "Theme_29100b3f1830b7ce5ac60d88c873023aa6b901a8930c4f163a3d94b4ddd949bf"
+    },
+    {
+      "type": "Organization",
+      "name": "Maison des droits de l'Homme",
+      "id": "Organization_f189d622942a47b9bcd97c2dc081e12b8eb7e26b2436831ebce1b179e077480d"
+    },
+    {
+      "type": "Organization",
+      "name": "initiative Marianne",
+      "id": "Organization_8672a72c31ff0f204f8ccc62accfd8bf4a676e5e808f06bae45ad5e161c0bfeb"
+    },
+    {
+      "type": "Person",
+      "name": "Robert BADINTER",
+      "id": "Person_674c12388b3de914edeee1d8b2c7e320133b6d85b1cf04c5f276dc9833715e54"
+    },
+    {
+      "type": "Event",
+      "name": "40e anniversaire de l'abolition de la peine de mort en France",
+      "id": "Event_5fa4b02b2a223a013d5d804f84dc63fed003b2f51eb6b8b5d8fadbcc23f09a7d"
+    },
+    {
+      "type": "Event",
+      "name": "prochain Congrès mondial pour l'abolition universelle de la peine de mort en faveur du pardon et de la réconciliation",
+      "id": "Event_080eb2b23580a4abb60f67975b00f6e43faffb84e55f3db015cdbaadb4f64f2f"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "message universel",
+      "evidence": "La position de la France, porteuse de ce message universel",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_af8880b22d29d65e957d460bf1378ad0d321a23ce531b6e3572691deaf6a9a03"
+    },
+    {
+      "source": "pays",
+      "relation": "MEMBER_OF",
+      "target": "Nations unies",
+      "evidence": "En tant que pays membre des Nations unies, nous nous soumettons bien sûr aux examens périodiques universels",
+      "confidence": 1.0,
+      "source_id": "Country_2bcd3c4bdd95ef3df7bee35913a887cd2c3a9393356cb7f8c7231b1b6cb15878",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "pandémie",
+      "relation": "MENTIONS",
+      "target": "droits économiques et sociaux",
+      "evidence": "La pandémie, nous l'avions vu, avait bousculé les droits économiques et sociaux dans de nombreux pays d'Afrique.",
+      "confidence": 1.0,
+      "source_id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75",
+      "target_id": "Theme_85b9d61cd11445c1352afe14000f51fede4ba95ab6e4ab3721cb5221e141c557"
+    },
+    {
+      "source": "Arménie",
+      "relation": "MENTIONS",
+      "target": "Arménie",
+      "evidence": "J'ajouterai ici le courage que je veux mentionner de l'Arménie qui a décidé d'adhérer au statut de Rome ; geste ô combien remarquable alors que les derniers mois ont amené leur lot de tragédies dans ce pays et pour ce peuple si courageux.",
+      "confidence": 1.0,
+      "source_id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace",
+      "target_id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace"
+    },
+    {
+      "source": "ministre de l'Europe et des Affaires étrangères",
+      "relation": "SUPPORTS",
+      "target": "garde des Sceaux",
+      "evidence": "Le ministre de l'Europe et des Affaires étrangères, le garde des Sceaux, qui m'accompagnent, se sont par exemple immédiatement mobilisés dès le début de l'agression russe en Ukraine pour que nous ayons justement, aux côtés du peuple ukrainien, ces moyens qui sont mobilisés pour établir les faits et pour que la vérité, dans la durée, puisse être faite et que la justice puisse passer.",
+      "confidence": 1.0,
+      "source_id": "Organization_e3e99b0e685694725ffa82a5a5afeb3d051927f4c3f835941ebebd9b966a8969",
+      "target_id": "Organization_3bc33c4e0679e381ad3ef3e292c29ebc7111411d9d505617a33e22a34c378378"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la France accueillera en 2026",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "France",
+      "evidence": "la France accueillera en 2026",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

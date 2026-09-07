@@ -1,0 +1,158 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Union",
+      "id": "Country_d1a60689ce7391b9d0f8a1deef1c03d4188cc25b310ca9b9812ccd8e21e69397"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "BEI",
+      "id": "Organization_1c3faa86971b5af8cfce95c922f131dcf549b586199872ed934c050ffb5a9647"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "pratiques",
+      "id": "Theme_c3857ba79dae4b42ad9461609a3df9db818b5183ba80f7819e18f2e51585718f"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies bas-carbone",
+      "id": "Theme_42d91d91d1e48b7a3d9e72a6079846787cc3c09ffbd928f7351f7d1fd337e963"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "transition écologique",
+      "id": "Theme_82634c5567e29ec1e0f256205be4191228a3b7329a743da05d0f47189c5b7272"
+    },
+    {
+      "type": "Theme",
+      "name": "prix de l'énergie",
+      "id": "Theme_82bce87340b5a56c5dafef84fa5917f6ee1109c70d90ae8fee0b6f4f1d9f2db8"
+    },
+    {
+      "type": "Theme",
+      "name": "transition numérique",
+      "id": "Theme_e0a76a48c21ea818fd9ce341506e55efda05bd398e6515f7f291fa137dc24d00"
+    },
+    {
+      "type": "Theme",
+      "name": "chaînes de valeur mondiales",
+      "id": "Theme_54ae308a72067cd5a6b4ecc232ce98b0690ed56ba90130b35bde3110fcbe542e"
+    },
+    {
+      "type": "Theme",
+      "name": "concurrence",
+      "id": "Theme_ed714e04f0072912f37b05dc73e487727a8c579005e7b04f4ac05a26f6929b10"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque européenne d'investissement",
+      "id": "Organization_661719533380a5abab13f1866ce45650fc3ec7e5501942938c499371cf9e3cad"
+    },
+    {
+      "type": "Organization",
+      "name": "Groupe BEI",
+      "id": "Organization_6ee51e83443b81e235bf36328a8a8ce56ea87620468b8a5d5ee90187529b997a"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Organization",
+      "name": "Scale-up Europe",
+      "id": "Organization_bd8b0a5d984b0540e3c75613235f6807517412b35aef3a041dc31ca84f149d65"
+    },
+    {
+      "type": "Organization",
+      "name": "Union et États membres",
+      "id": "Organization_89080da9b5626a36adeee961338dde9b92ec385cec58d506abbc8dbad2901501"
+    },
+    {
+      "type": "Person",
+      "name": "Werner HOYER",
+      "id": "Person_1c1ae6ca7bec29f986583988c802bbfd344051a66d3c3e2223de677487a0dcee"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Groupe BEI",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "voilà quelques exemples de l'expertise et de la contribution du Groupe BEI, qui se traduisent en actions très concrètes pour nos entreprises, nos territoires, à travers toute l'Union européenne.",
+      "confidence": 1.0,
+      "source_id": "Organization_6ee51e83443b81e235bf36328a8a8ce56ea87620468b8a5d5ee90187529b997a",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "source": "Groupe BEI",
+      "relation": "SUPPORTS",
+      "target": "Scale-up Europe",
+      "evidence": "Je salue à ce titre la contribution de 500 millions d'euros du Groupe BEI à Scale-up Europe, qui aidera à faire émerger des fonds paneuropéens, afin d'accélérer la croissance des licornes et des champions de la tech européenne.",
+      "confidence": 1.0,
+      "source_id": "Organization_6ee51e83443b81e235bf36328a8a8ce56ea87620468b8a5d5ee90187529b997a",
+      "target_id": "Organization_bd8b0a5d984b0540e3c75613235f6807517412b35aef3a041dc31ca84f149d65"
+    },
+    {
+      "source": "BEI",
+      "relation": "MEMBER_OF",
+      "target": "Groupe BEI",
+      "evidence": "Je salue à ce titre la contribution de 500 millions d'euros du Groupe BEI à Scale-up Europe, qui aidera à faire émerger des fonds paneuropéens, afin d'accélérer la croissance des licornes et des champions de la tech européenne.",
+      "confidence": 1.0,
+      "source_id": "Organization_1c3faa86971b5af8cfce95c922f131dcf549b586199872ed934c050ffb5a9647",
+      "target_id": "Organization_6ee51e83443b81e235bf36328a8a8ce56ea87620468b8a5d5ee90187529b997a"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames, Messieurs les ministres",
+      "id": "Person_df98c9cabd69056dc2dbae7ad5aa8390dd768609332bdc8c9a4dafe6f2e4b762"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames les ambassadrices",
+      "id": "Person_a4b327f6ecbdf5fec89785543a26225e985117f40cdcefb78ae46397d6188a85"
+    },
+    {
+      "type": "Organization",
+      "name": "AFD",
+      "id": "Organization_083867e3b191ef83df992d01216f1dd45eab3c38e55042c0d9fc4313c8b5fd52"
+    },
+    {
+      "type": "City",
+      "name": "Concarneau",
+      "id": "City_b601c00fc75a205458d772900985445b98e378ddbf5eb8887a3837e2d0380cfc"
+    },
+    {
+      "type": "Country",
+      "name": "Monténégro",
+      "id": "Country_5881d82f16300ff3e67301aa5d4ee88569980f8ab9202c0ccd9234d3ec284935"
+    },
+    {
+      "type": "Country",
+      "name": "Slovénie",
+      "id": "Country_88ddeb0d618614116972f37defe9ed8b4f029cdb3c098230ef835b57caa93a30"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Assemblée nationale",
+      "id": "City_c18a9efb8f434a39ffa29a6d03cd159e54aec98622b1e94c06e1a9812b880685"
+    },
+    {
+      "type": "City",
+      "name": "Sénat",
+      "id": "City_282ee9d5a4becad2e013c79206030b19aa2ff36f1fd404e30714a439df137877"
+    },
+    {
+      "type": "Country",
+      "name": "nos deux pays",
+      "id": "Country_2bd470f2122568640e3762e9bf14400458b6f8d21f909f537011d97d9af8f053"
+    },
+    {
+      "type": "Organization",
+      "name": "Bouygues",
+      "id": "Organization_eb1575a13cd3f2274ef9a276a720a3ea3acff1c0326db4de52fd0fe998e64dda"
+    },
+    {
+      "type": "City",
+      "name": "Podgorica",
+      "id": "City_5dbf84f55b21363c1e5b732a976f3e7b159d10060330fd2b2508f446c9d5dfa3"
+    },
+    {
+      "type": "Organization",
+      "name": "OIF",
+      "id": "Organization_fec137e35ceb1d9c2c68df7a9034f7e77950ac632b58474e3657aa9617840997"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "francophonie",
+      "id": "Theme_3ced6333711b196127b97c7654a0a83cf28882b8a1c4cd70f81bd98a4b2e45bc"
+    },
+    {
+      "type": "Theme",
+      "name": "Union européenne",
+      "id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "type": "Theme",
+      "name": "réformes",
+      "id": "Theme_56061c7c1c737af00c7d29df75829701e554f68c0b0e3b3dc9e712e2709cd00d"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "AFD",
+      "relation": "LOCATED_IN",
+      "target": "Monténégro",
+      "evidence": "l'AFD continue d'être aussi active pour accompagner le Monténégro",
+      "confidence": 1.0,
+      "source_id": "Organization_083867e3b191ef83df992d01216f1dd45eab3c38e55042c0d9fc4313c8b5fd52",
+      "target_id": "Country_5881d82f16300ff3e67301aa5d4ee88569980f8ab9202c0ccd9234d3ec284935"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Monténégro",
+      "evidence": "Cette visite aujourd'hui au Monténégro est importante pour la France et pour l'amitié entre nos deux pays",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_5881d82f16300ff3e67301aa5d4ee88569980f8ab9202c0ccd9234d3ec284935"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Monténégro",
+      "evidence": "Cette visite aujourd'hui au Monténégro est importante pour la France et pour l'amitié entre nos deux pays",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_5881d82f16300ff3e67301aa5d4ee88569980f8ab9202c0ccd9234d3ec284935"
+    },
+    {
+      "source": "nos deux pays",
+      "relation": "ALLIED_WITH",
+      "target": "nos deux pays",
+      "evidence": "Tout au long de cette journée, nous avons pu mesurer la profondeur de la qualité de la relation entre nos deux pays, mais aussi son potentiel pour les années à venir.",
+      "confidence": 1.0,
+      "source_id": "Country_2bd470f2122568640e3762e9bf14400458b6f8d21f909f537011d97d9af8f053",
+      "target_id": "Country_2bd470f2122568640e3762e9bf14400458b6f8d21f909f537011d97d9af8f053"
+    },
+    {
+      "source": "Bouygues",
+      "relation": "LOCATED_IN",
+      "target": "Podgorica",
+      "evidence": "Je me réjouis à cet égard de l'accord qui a été signé pour la construction par Bouygues, pour un peu plus de 300 millions d'euros, du nouveau centre hospitalier universitaire de Podgorica, ainsi que du premier jalon qui a été posé dans la perspective d'un contrat portant sur la construction d'une nouvelle section d'autoroute.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb1575a13cd3f2274ef9a276a720a3ea3acff1c0326db4de52fd0fe998e64dda",
+      "target_id": "City_5dbf84f55b21363c1e5b732a976f3e7b159d10060330fd2b2508f446c9d5dfa3"
+    },
+    {
+      "source": "Monténégro",
+      "relation": "MEMBER_OF",
+      "target": "OIF",
+      "evidence": "puisque le Monténégro est membre observateur de l'OIF.",
+      "confidence": 1.0,
+      "source_id": "Country_5881d82f16300ff3e67301aa5d4ee88569980f8ab9202c0ccd9234d3ec284935",
+      "target_id": "Organization_fec137e35ceb1d9c2c68df7a9034f7e77950ac632b58474e3657aa9617840997"
+    }
+  ]
+}

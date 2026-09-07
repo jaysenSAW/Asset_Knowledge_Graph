@@ -1,0 +1,612 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance économique",
+      "id": "Theme_0b4c997051376e399a0db5db2f0f2fc9b440657e6242900f27cfb2ba2b138eac"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme du marché de l'électricité",
+      "id": "Theme_12e85cee7186085f5c2546487c66ca498f5c218e50930c71b7483d40506e25d1"
+    },
+    {
+      "type": "Event",
+      "name": "COP 28",
+      "id": "Event_8a96eccdc1196c73060675c3bb15fbcf8ee04fb96334ec543ea748d3bbe3b1b9"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "priorités de finances nationales",
+      "id": "Theme_966fe7d25a9eefd306e977611f2738fa3e8b7971d40afe16b4d9836ab99c281c"
+    },
+    {
+      "type": "Person",
+      "name": "KURTI",
+      "id": "Person_03e959a0d308a116af5f31d09c33b1c7c1382838ab3e81e7c68c32591deeba43"
+    },
+    {
+      "type": "Person",
+      "name": "VU?I?",
+      "id": "Person_6e3a965aef06bb0d5eff3ff47d647e3591c6e191a0eb1afdc49cfde8818b5b36"
+    },
+    {
+      "type": "Person",
+      "name": "SCHOLZ",
+      "id": "Person_0c7fab8756c3ac2e66d8de7c95955b7b68d04ffe7e2f4299f2e2297b6ce8db13"
+    },
+    {
+      "type": "Person",
+      "name": "MELONI",
+      "id": "Person_2024173fb3999feb1f00a389002a8404036ad1da056a5fd9923b5572b354108d"
+    },
+    {
+      "type": "Person",
+      "name": "MICHEL",
+      "id": "Person_ac9938878c7e5cc0d539c8f51b48c646dc89fa8148a7eea629e93eb5c96981a1"
+    },
+    {
+      "type": "Person",
+      "name": "BORREL",
+      "id": "Person_db80a548b56a7e006fdbf1e62122f2043f249a91c14be67ab975b7eeabd70f10"
+    },
+    {
+      "type": "Person",
+      "name": "LAJ?ÁK",
+      "id": "Person_f859c1a5ad2faac4abcaa1c043163f88f635d2615a211c3cd8226b746545ba0b"
+    },
+    {
+      "type": "Country",
+      "name": "Serbie",
+      "id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b"
+    },
+    {
+      "type": "Country",
+      "name": "Kosovo",
+      "id": "Country_f46080b9f63552f46127e2af3b8045cf7a90b9b824c483a048121d12b347ad77"
+    },
+    {
+      "type": "Organization",
+      "name": "Association des municipalités serbes",
+      "id": "Organization_869c25106cd0ff4bb665e3b4f77cc846d73d17d8fd7d26c0192fa2cc91887cb0"
+    },
+    {
+      "type": "Event",
+      "name": "attaques du 24 septembre dernier",
+      "id": "Event_706e08e640502c87f77d898b46ba21dba8260b081d5778c13b0e84e04f30e0bb"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Person",
+      "name": "ZELENSKY",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "Country",
+      "name": "Arménie",
+      "id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace"
+    },
+    {
+      "type": "Country",
+      "name": "Azerbaïdjan",
+      "id": "Country_0d4c1e009f3bb130b67fe6efb29a09de4f9c8f387cf4e3fa2169c0c4bc495fbc"
+    },
+    {
+      "type": "Person",
+      "name": "ALIYEV",
+      "id": "Person_e05f269a20e15f7fc890a552ff631adae291f589fbb12096bc6e27bce2b700ad"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "Hamas",
+      "id": "Country_664ba06f90f7d7b4b326982afebee134092d48624510c1de058deb1ef0567bc3"
+    },
+    {
+      "type": "Country",
+      "name": "Proche-Orient",
+      "id": "Country_ea96081c3dc607260da7be0bce2be5c4e658fe0319110fa930660594f5cfce74"
+    },
+    {
+      "type": "Person",
+      "name": "NÉTANYAHOU",
+      "id": "Person_10290dd51360a183c4debabd7e7bb9631331999cf3ab11f6abd77db7899ee67d"
+    },
+    {
+      "type": "City",
+      "name": "Bruxelles",
+      "id": "City_c868ac993e9f61697968fccad02a64992556c87a017195a46bf2dab7ef60fd4a"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Gaza",
+      "id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "type": "Country",
+      "name": "Qatar",
+      "id": "Country_e5da689c325f619f1d122e0f9316e196ec475beef981feeb9a11d61cf1162518"
+    },
+    {
+      "type": "Person",
+      "name": "J'ai",
+      "id": "Person_11dc8f890b0c964b83ea9b1735ebebcd698833b5d636e3dbbd33637c9106eda2"
+    },
+    {
+      "type": "Country",
+      "name": "plusieurs États membres",
+      "id": "Country_f5ebe941ab97d757070a89f94e72318e379831792bfe2239c28a7a0f50d37510"
+    },
+    {
+      "type": "Country",
+      "name": "plusieurs non européens",
+      "id": "Country_6f12e348b8882a71619e27e6a90d08f0ba53f6b563bf214f0095cef0337c2805"
+    },
+    {
+      "type": "City",
+      "name": "Irak",
+      "id": "City_5e67e1a21b4a3bfe9a4eca74c85bf96405cb2cb7d4defa31cf7b16de070e31d4"
+    },
+    {
+      "type": "City",
+      "name": "Jordanie",
+      "id": "City_6cc5a1f1f2b923b6485070fcf1852a6b737b4207b59955d86928c4d981796b0c"
+    },
+    {
+      "type": "Organization",
+      "name": "Daesh",
+      "id": "Organization_6f4f4741851bf496fdc34449a8c801ff142b91daa3d53a81e778a2e943039001"
+    },
+    {
+      "type": "Organization",
+      "name": "Hamas",
+      "id": "Organization_5b6d0f92f49aab219651139d5508991f2fc27fd6b9372da1329d20e55cce795d"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le terrorisme",
+      "id": "Theme_38d9aaef954ec829af16cbde28769c47f8dc1377de3189c18608dabe23f85b9e"
+    },
+    {
+      "type": "Theme",
+      "name": "coalition contre Daesh",
+      "id": "Theme_763ec4da73297a70d06d2e99b0e70e5cd096a6592c119f826e8acfd12d3cb669"
+    },
+    {
+      "type": "Person",
+      "name": "HERZOG",
+      "id": "Person_8d4ba6ef929a0d47503dea2395bc0af10a5aaec4303ff80ddc236ae05cab0ba4"
+    },
+    {
+      "type": "Country",
+      "name": "Egypte",
+      "id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "type": "Country",
+      "name": "Jordanie",
+      "id": "Country_8391e141b203ad2475844c0cd072326f1ecf0553975f7eb4eb23c9c4301068ad"
+    },
+    {
+      "type": "Country",
+      "name": "Chypre",
+      "id": "Country_a14e009a0310ee1b66297a7e1213ffa54946930b017d485e34cd529abdd1b94d"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "City",
+      "name": "Cisjordanie",
+      "id": "City_a17376981a921ea3ab82c84f82a930de089c4803fa9584b37d351add80f6226d"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien humanitaire",
+      "id": "Theme_2888cd8cbe11f1fab8a2fa852ab6be300d42fda8017a54b806b0d0a034c78332"
+    },
+    {
+      "type": "Theme",
+      "name": "question politique",
+      "id": "Theme_41380616df33ffb2fb4d2365a10335df9162b10055734579343d94b5862891d0"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorismes",
+      "id": "Theme_9d2f330b8ed6b81e310d71f93a70e05f066e32228a2e8bb93eaaacccd9af642a"
+    },
+    {
+      "type": "Theme",
+      "name": "trêve humanitaire",
+      "id": "Theme_326e7b0a46e0332aef68cbf752a2ec83b81fb51be825ca7eda8be17401472d3c"
+    },
+    {
+      "type": "Country",
+      "name": "État",
+      "id": "Country_774c8b6f22f0c8760528588f5b156b73633c371f2c54fca0f8d2cff44b6c65d9"
+    },
+    {
+      "type": "Organization",
+      "name": "UNRWA",
+      "id": "Organization_666b5c6e7e99d707e9bb51e53458f2bc1b0520f6213165f59e4bc2be4c794d90"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Israël",
+      "id": "Organization_d8ca6ed2c3f3582bc26fc74c25a799a9253b47fb4ef806e148d729659acd98e1"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre contre les groupes terroristes",
+      "id": "Theme_b042997972ee18b04f10800b7ec7539921e41d409131335f6ed9b5e1dccf7721"
+    },
+    {
+      "type": "Theme",
+      "name": "embrasement",
+      "id": "Theme_9843906ad021d621fd9ef80f9075632de444291601801d18c93b47c46de7b711"
+    },
+    {
+      "type": "Theme",
+      "name": "confusion des esprits",
+      "id": "Theme_6bd2f9c2c9bdcbc00e02e94c24c002775c7a45227e2b46eed084e04b20faa09c"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité d'Israël",
+      "id": "Theme_44fbf504ea74ad8dbcab337e374803c9363cdf0f1f30264e9461b93d213c237a"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le Hamas",
+      "id": "Theme_fbf4524f888effc21f5c79f012a7c0ee2ffa774d389cd624ff8b1fd68bb08de0"
+    },
+    {
+      "type": "Theme",
+      "name": "négociation sur les otages",
+      "id": "Theme_f0d8e5148e1069d2d7860feedd54c0e86aab7f929518854179b95ac92dca2df4"
+    },
+    {
+      "type": "Theme",
+      "name": "problème des hôpitaux",
+      "id": "Theme_25d95bd349e2b6df2e84eadbc93a51cd47cd6d684ba286e86d3839fcd2688492"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations-Unies",
+      "id": "Organization_4f3ca039c95c6be46cbad8367b5d13621bf7dde1e755557ecfacd2eca26ef807"
+    },
+    {
+      "type": "Person",
+      "name": "Viktor ORBÁN",
+      "id": "Person_2b34948d035a10190e4e39fb301751eefe11f1cea31616d1118468fe7c79587a"
+    },
+    {
+      "type": "Person",
+      "name": "Vladimir POUTINE",
+      "id": "Person_ba07bc360f6d694c7c43cab878adc061217ec2b08d23eedefe4d5e2a082ef89c"
+    },
+    {
+      "type": "Person",
+      "name": "FICO",
+      "id": "Person_74c07c3863642ef3db127b31353b35d55b7c50017496c578e47b75fc30812da4"
+    },
+    {
+      "type": "Country",
+      "name": "Hongrie",
+      "id": "Country_bda46faa77361ae198107f51212ef1953770a2e61d32ec39881204c04aa0bda3"
+    },
+    {
+      "type": "Country",
+      "name": "Moscou",
+      "id": "Country_46b7b4fc67d6c45bf600a73e204ed0f2c69fcc6810f53a7089a69d299c56fd56"
+    },
+    {
+      "type": "Organization",
+      "name": "Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale",
+      "id": "Organization_8f8e5049d1c21e2291ca3d39865c23e9d20927413f7abca05a47b2572d99f6e2"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "secrétaires d'État",
+      "id": "Person_5796469a1008de243871637159be351576614777885dbe8359021422d7df5a40"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Person",
+      "name": "ORBÁN",
+      "id": "Person_7da59bcc46bce5361009a1668f91866b29bcac4188fac1b5dd306794c3f69d04"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre hongrois",
+      "id": "Person_d5aea5915604f4d2e8661794cdd8f9f84b54ce945ae1935b7e76d5bbac106e58"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre slovaque",
+      "id": "Person_e8c79e28d2d2037ede83d73aa7cadf33f71443715f965326b8a91024d655af52"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Theme",
+      "name": "Proche-Orient",
+      "id": "Theme_752c1951b6317203119602993bcc14f1b2811425611233a4a5011d1b42eb3868"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien au peuple palestinien",
+      "id": "Theme_a629d4498024e37bf5d4a774e14e4531597845ad2ebbbf12a86c6323ec39c4f5"
+    },
+    {
+      "type": "Country",
+      "name": "Palestinienne",
+      "id": "Country_5962f9067d2ff638ed9c36e85d98a1aa7733ae71733b1462d3a7b5741965b5c2"
+    },
+    {
+      "type": "Theme",
+      "name": "cadre financier pluriannuel",
+      "id": "Theme_008534eaeb9c2e08f79dffbad305fc5e84eb4d7ff79514b22de440ac5173b8eb"
+    },
+    {
+      "type": "Theme",
+      "name": "augmentations pour les fonctionnaires européens",
+      "id": "Theme_c4dece6fca02e75c867f7c6c07503b685e94e398c779b6934648f04b5b57f680"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds de souveraineté STEP",
+      "id": "Theme_d3c2250ab165888618ff385e7e405f082df642d131744f438d98f67a544a61e2"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Organization",
+      "name": "Présidence",
+      "id": "Organization_1a780d4c01ac8c9b27dc246bad118c019174b60254e3d78f57d20286bcb495c0"
+    },
+    {
+      "type": "Theme",
+      "name": "autorité palestinienne",
+      "id": "Theme_92e9b0971c2dcb1aea395e295335c2e3a826856e9db2edc44e7dce0236e5c6a2"
+    },
+    {
+      "type": "Theme",
+      "name": "peuple palestinien",
+      "id": "Theme_9b0758fa5852c4512a1ee5cfdaf697c11ef72d3a3f991982d8f421fac43014dc"
+    },
+    {
+      "type": "Theme",
+      "name": "initiative de paix et de sécurité",
+      "id": "Theme_137756b5b7befaabf7a608793d28ea6d6efb453d48f068f45cdd483f9ef48b57"
+    },
+    {
+      "type": "Theme",
+      "name": "groupes terroristes",
+      "id": "Theme_4b1237775ab36449516e6c985a555342521f2a5a8b959842fa05f16fbe0af197"
+    },
+    {
+      "type": "Organization",
+      "name": "la communauté internationale",
+      "id": "Organization_c859270fa6163b85a2c412dc623028bbd6d54251d45b94f3d988754dee92defa"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration",
+      "id": "Theme_56ec1521640ee7901aceb6075eed1a37e2a9c16262cd4f911266166ee5562133"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorism",
+      "id": "Theme_a348838fece2a9c780044dab4f291a936095c2be9a10ee5e2924e483e90652b2"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorisme",
+      "id": "Theme_3f9dbed9916c4db24d2336673e311ec3db9ed057ac82a927a0b29ef3601aeeb7"
+    },
+    {
+      "type": "Country",
+      "name": "Tunisie",
+      "id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "Person",
+      "name": "un Tunisien",
+      "id": "Person_7ffad38ad07c26ec035e6843fcdb6ae4f0ca92c5f524a11b603e2dcf88c5c0dd"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération européenne",
+      "id": "Theme_bbf325248bdb8ab51adedfa248ddc2abc2c4cdc1a83b204d815f65c09534d43d"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Serbie",
+      "relation": "LOCATED_IN",
+      "target": "Kosovo",
+      "evidence": "la situation entre la Serbie et le Kosovo",
+      "confidence": 1.0,
+      "source_id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b",
+      "target_id": "Country_f46080b9f63552f46127e2af3b8045cf7a90b9b824c483a048121d12b347ad77"
+    },
+    {
+      "source": "Serbie",
+      "relation": "ALLIED_WITH",
+      "target": "Kosovo",
+      "evidence": "la situation entre la Serbie et le Kosovo",
+      "confidence": 1.0,
+      "source_id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b",
+      "target_id": "Country_f46080b9f63552f46127e2af3b8045cf7a90b9b824c483a048121d12b347ad77"
+    },
+    {
+      "source": "Serbie",
+      "relation": "VISITED",
+      "target": "Kosovo",
+      "evidence": "la situation entre la Serbie et le Kosovo",
+      "confidence": 1.0,
+      "source_id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b",
+      "target_id": "Country_f46080b9f63552f46127e2af3b8045cf7a90b9b824c483a048121d12b347ad77"
+    },
+    {
+      "source": "trêve humanitaire",
+      "relation": "MENTIONS",
+      "target": "négociation sur les otages",
+      "evidence": "On a eu un débat très long sur un pluriel ou un singulier, très sincèrement, vu la situation, je pense qu'il faut là une trêve humanitaire pour protéger les populations, finir la négociation sur les otages, régler le problème des hôpitaux qui est un problème très compliqué.",
+      "confidence": 1.0,
+      "source_id": "Theme_326e7b0a46e0332aef68cbf752a2ec83b81fb51be825ca7eda8be17401472d3c",
+      "target_id": "Theme_f0d8e5148e1069d2d7860feedd54c0e86aab7f929518854179b95ac92dca2df4"
+    },
+    {
+      "source": "trêve humanitaire",
+      "relation": "MENTIONS",
+      "target": "problème des hôpitaux",
+      "evidence": "On a eu un débat très long sur un pluriel ou un singulier, très sincèrement, vu la situation, je pense qu'il faut là une trêve humanitaire pour protéger les populations, finir la négociation sur les otages, régler le problème des hôpitaux qui est un problème très compliqué.",
+      "confidence": 1.0,
+      "source_id": "Theme_326e7b0a46e0332aef68cbf752a2ec83b81fb51be825ca7eda8be17401472d3c",
+      "target_id": "Theme_25d95bd349e2b6df2e84eadbc93a51cd47cd6d684ba286e86d3839fcd2688492"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "Tunisie",
+      "evidence": "Je rappelle que l'attentat de Nice que nous avons subi a été perpétré par un Tunisien qui était rentré par l'Italie et qui était remonté en quelques jours vers la France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "Italie",
+      "evidence": "Je rappelle que l'attentat de Nice que nous avons subi a été perpétré par un Tunisien qui était rentré par l'Italie et qui était remonté en quelques jours vers la France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "source": "France",
+      "relation": "MENTIONS",
+      "target": "Nice",
+      "evidence": "Je rappelle que l'attentat de Nice que nous avons subi a été perpétré par un Tunisien qui était rentré par l'Italie et qui était remonté en quelques jours vers la France",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "source": "un Tunisien",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "un Tunisien qui était rentré par l'Italie et qui était remonté en quelques jours vers la France",
+      "confidence": 1.0,
+      "source_id": "Person_7ffad38ad07c26ec035e6843fcdb6ae4f0ca92c5f524a11b603e2dcf88c5c0dd",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    }
+  ]
+}

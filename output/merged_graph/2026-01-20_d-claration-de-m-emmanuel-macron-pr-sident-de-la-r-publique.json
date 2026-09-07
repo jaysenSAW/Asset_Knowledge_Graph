@@ -1,0 +1,565 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Larry",
+      "id": "Person_652353eb4f7c45c813a711ba5fd924212ff1d7d79f10f785783de5e5687b4f24"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Présidente",
+      "id": "Person_abf7650b0ac3d32d11d937bb38c9523c6f2acbb01dc1c736377c5098e0caf931"
+    },
+    {
+      "type": "Person",
+      "name": "Mesdames et Messieurs les Ministres",
+      "id": "Person_04725bf2245672793e76174d8746ec28f46c281ef73283bf9390941f137cf2cf"
+    },
+    {
+      "type": "Person",
+      "name": "ambassadeurs",
+      "id": "Person_2e76c8ac436b2ae6c43ec4c8f0676398e5cbc3edfd5358bfd0c257bae6feb723"
+    },
+    {
+      "type": "Organization",
+      "name": "Financial Times",
+      "id": "Organization_9241210b1532c19b831fdc14327db19132d4efe56d188b3e8a666181f01c382d"
+    },
+    {
+      "type": "Organization",
+      "name": "organe collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale",
+      "id": "Organization_8f8e5049d1c21e2291ca3d39865c23e9d20927413f7abca05a47b2572d99f6e2"
+    },
+    {
+      "type": "Theme",
+      "name": "droit international",
+      "id": "Theme_5ed1c962a2e6badfcec01090455d807b7559f5af1344fea3604e0c342da4d8f1"
+    },
+    {
+      "type": "Theme",
+      "name": "loi du plus fort",
+      "id": "Theme_cf4987ec121dd01229c27cca9438dce4f81c276d5cec6ab77c065589d8123b2c"
+    },
+    {
+      "type": "Theme",
+      "name": "ambitions impériales",
+      "id": "Theme_23be253936beeece24107ddb55d2f9a7654ab402ab6d3060ea8924b07d33606c"
+    },
+    {
+      "type": "Event",
+      "name": "guerre d'agression de la Russie contre l'Ukraine",
+      "id": "Event_6390cbaf5e79700e3a71a9443299f1c7eaff3563e74fb13c874fd44c366bb086"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernance collective",
+      "id": "Theme_6b3331ea9e23ddc960c8210eba7c0804dc2dfcfec88348a6a66e93a23d62c501"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme",
+      "id": "Theme_7742e313fe6dc4a4a8c93930483a1da8c7d7238a867a4904bdf2a7b285835b91"
+    },
+    {
+      "type": "Organization",
+      "name": "États-Unis d'Amérique",
+      "id": "Organization_6605a39468d0b49ad2a4437fea866b0056f281b7caafe565f4294ba84e2aa528"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie",
+      "id": "Theme_fa010b2e87d32c400a0a52b10fe00d186b07d80baf9792842d534698bb9241c6"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Nations Unies",
+      "id": "Country_de27ef02ae2f885df42f17298e258623101c6c37feb12bb5fe5c02d0f56327a3"
+    },
+    {
+      "type": "Country",
+      "name": "Groenland",
+      "id": "Country_0f897434ce26b8831f906c9dd215aa3340d503848b76263e2cf97b72d633a61f"
+    },
+    {
+      "type": "Country",
+      "name": "Danemark",
+      "id": "Country_e69e28cfa71a672f3c4d4f769e9cbc72220f20bc192eea020c4483eaecfef07b"
+    },
+    {
+      "type": "Theme",
+      "name": "Seconde Guerre mondiale",
+      "id": "Theme_8ff734850959da4680ff0fbd04ba4fc09d587e00a7923e593222c86bed10791f"
+    },
+    {
+      "type": "Organization",
+      "name": "G7",
+      "id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2"
+    },
+    {
+      "type": "Country",
+      "name": "Amérique",
+      "id": "Country_bdf5427b1f0e60ff34b28f54ad2193969879bd4b7d05d9d5de81174f08b9b502"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Organization",
+      "name": "BRICS",
+      "id": "Organization_6cc72af8f7b2e545e486d0f1aefad8572a52c4c35730d41af4e3f84715696b43"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "croissance",
+      "id": "Theme_a0650e4cda3ced394b1ffe7a1a22ca61d68b2be535b9ff33b3332077f7884d7e"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Theme",
+      "name": "protection",
+      "id": "Theme_b88f41772743ef2da0c353d459096f516865d312f78e7735f783e9afd779adc0"
+    },
+    {
+      "type": "Theme",
+      "name": "protectionnisme",
+      "id": "Theme_f908a3ce2a62f196e9b3881f0b81ce31f64eb6d35dede2a07725ea9d130f54a7"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence européenne",
+      "id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "type": "Theme",
+      "name": "préférence nord-américaine",
+      "id": "Theme_b0f0a4286bb2c91881d7cbb88c213de7bb5a8038ac4bf0cfc7b1c0135c1cf250"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "clauses de sauvegarde",
+      "id": "Theme_433683fe52d9db5e682d740c0efe1a41b92ea78c4181056df6ecdbc877b32ea0"
+    },
+    {
+      "type": "Theme",
+      "name": "clauses miroirs",
+      "id": "Theme_a8ddcbbd0cf5d2fa81c5013d2dd23a96ef5c8c0e6ca776167e6e381e5cde4ce7"
+    },
+    {
+      "type": "Theme",
+      "name": "préférences européennes",
+      "id": "Theme_d03220c6c47a87c0d7cf4853df887e59a50114b3c1d54383c5d5139569f5ef36"
+    },
+    {
+      "type": "Theme",
+      "name": "incitations à accroître les investissements directs étrangers",
+      "id": "Theme_c685976237c43920cb09713b1ac2a678b5afac7216d04f1b53836036619fbb0f"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie résiliente",
+      "id": "Theme_34821913ebd3822741db115032d3df553fb3d320aba3203d38c5cc7799258bb5"
+    },
+    {
+      "type": "Theme",
+      "name": "chaînes d'approvisionnement",
+      "id": "Theme_8c04885c865a9e82aa3b46b5fccbcf2d8b6694e79630f47a29016fe8f7200905"
+    },
+    {
+      "type": "Theme",
+      "name": "matières premières",
+      "id": "Theme_c0e76d231089505d398d8241806bc023762fc71d09d3ca6c776b6c878418dfa0"
+    },
+    {
+      "type": "Theme",
+      "name": "terres rares",
+      "id": "Theme_f7252f0b63c5dbd962be628be26728a4d12c2de743c24a064bdebad009d3acdf"
+    },
+    {
+      "type": "Theme",
+      "name": "semi-conducteurs",
+      "id": "Theme_c545b7c8d8f2e6a7341a4d7d6d1382ed362721a00ae919d877abadcdc1ba5825"
+    },
+    {
+      "type": "Theme",
+      "name": "puces",
+      "id": "Theme_fa128580068804d1473d35aa8561cb5844913e2b7536fe9409a4837e28b66dda"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "CSRD",
+      "id": "Theme_57e61c34bf0c39ee4265ebe22f5f8904fdf55c09c03ecda9f65fad7aca36faa1"
+    },
+    {
+      "type": "Theme",
+      "name": "CS3D",
+      "id": "Theme_a936c7a87e6245cd9370a9d2b1da480efcb6181036b82fd6ca0e5ac6f9f6cbf5"
+    },
+    {
+      "type": "Theme",
+      "name": "automobile",
+      "id": "Theme_0d8fe91ee5d13a11b2f8cdf024edbf4a4c18c1cf149667d4cbedfbc587eb7f9c"
+    },
+    {
+      "type": "Theme",
+      "name": "produits chimiques",
+      "id": "Theme_3feeabc625adb205d7fbca14fb5f1c9ca418158cc90a432b01b656b0cf134a00"
+    },
+    {
+      "type": "Theme",
+      "name": "numérique",
+      "id": "Theme_b25d2ebc418ff60f83df4ca893a252261aab839e6703b04e0bbabe16fa6658d7"
+    },
+    {
+      "type": "Theme",
+      "name": "intelligence artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Theme",
+      "name": "banque",
+      "id": "Theme_4f1fec5b411483bb2de2d7529e8ffc6eb64fb4cdfe9992d3e00caaaeaa5a7ee8"
+    },
+    {
+      "type": "Theme",
+      "name": "réglementations récentes",
+      "id": "Theme_61c59805ea02e303aecd2ac04e9f78260a5bd0f093d4a23bc4ab8ad6ebaf208c"
+    },
+    {
+      "type": "Theme",
+      "name": "marché unique",
+      "id": "Theme_20dd50ae164d3f152ef77948cb732b929faf16e2e579353a7a6ed58d27740261"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité technologique",
+      "id": "Theme_2caf709da1cf237be763602bb0b801db683269a54ce0a1ec396bd377b70485af"
+    },
+    {
+      "type": "Theme",
+      "name": "non-discrimination",
+      "id": "Theme_ac0d7dff4c7f721005765047e0d474c5699c45adc68463c99e2dc5a2cc8a544d"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies",
+      "id": "Theme_13d59bafdc47af3e410af65db9d4750021cd91a0bdfe8882fa42d2d9c12e506d"
+    },
+    {
+      "type": "Theme",
+      "name": "discrimination",
+      "id": "Theme_92d7d1d37614eb7e3178c40e62a9c7211cba91c8c31af61eb0c9f5faa02beefb"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "quantique",
+      "id": "Theme_a55a5e9c04e9e49c2efc55c9c97fdcdd3149041e81aa26bd45766547b9155e23"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies vertes",
+      "id": "Theme_1fcf986f5e27384b03aacf0d6869b90e6e743f1e8cd05b112af7cd42fc1a7a30"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Organization",
+      "name": "États-Unis",
+      "id": "Organization_3b08eb2671279e09493fe87c31cd8efb8ef559ae7445896c53ad72240e970f09"
+    },
+    {
+      "type": "Organization",
+      "name": "Union des marchés des capitaux",
+      "id": "Organization_22bc690f221b851a3d1a1144edfb825643739c7596ad5a39bb68b676ea882c48"
+    },
+    {
+      "type": "Organization",
+      "name": "programme de titrisation",
+      "id": "Organization_3c3b743e19616672678e253ef6c66c2078b902d3ba07dd6abb02bc3fbad85d17"
+    },
+    {
+      "type": "Organization",
+      "name": "Notre partenaire clé",
+      "id": "Organization_7ad34b7fd072ccb35239a7c2318a4f2be6dab8fab95d751a6b547f5938495130"
+    },
+    {
+      "type": "Theme",
+      "name": "affaires",
+      "id": "Theme_efc374b69b2ff2f3d295f3aaefa5e54444881ac6f7ef8216dd317a7730e0988c"
+    },
+    {
+      "type": "Theme",
+      "name": "électricité",
+      "id": "Theme_91c41638e65e937154a7559e7d1b4f82a3977007d76c588380561893e1e818e8"
+    },
+    {
+      "type": "Theme",
+      "name": "carbone",
+      "id": "Theme_88dffe735e7fae4c0d1aab165fdb44afd8d6e9582246e923413a6f6a30057cb8"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "informatique quantique",
+      "id": "Theme_295f808c26d1b1612dc23901b8f6e89a3579c611937f251d91aa47b0ad3fd12b"
+    },
+    {
+      "type": "Theme",
+      "name": "transition énergétique",
+      "id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7"
+    },
+    {
+      "type": "Theme",
+      "name": "licornes",
+      "id": "Theme_4b2d9fb9a92eedff7cb44d8455ce84e3823a7629f61211d810b2f6ae346dbdac"
+    },
+    {
+      "type": "Theme",
+      "name": "état de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Theme",
+      "name": "prévisibilité",
+      "id": "Theme_cb0bb3b9c123a87193dc5df76fea9a8e9537c3f66c671c75a8fc73c4c012edb0"
+    },
+    {
+      "type": "Theme",
+      "name": "pouvoir d'achat",
+      "id": "Theme_63effc12fc7fbc533757050c1218d45395229580f9c3bfcec7f32cb9090cc9f2"
+    },
+    {
+      "type": "Theme",
+      "name": "marchés",
+      "id": "Theme_3ef379134f511844c59c5e2cb01bb038134f237291f07468999b2caac324c81e"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "ambitions fortes",
+      "id": "Theme_39fdc683bf33b0fd6c9cb2ebb4a158268641f6002c355b1284ba3680f7037954"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "règle du jeu",
+      "id": "Theme_6720c03836889cd6ef7ae95016a321ccbb5130d7f8701a8e667423c681c0d2e0"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Russie",
+      "relation": "ANNOUNCED",
+      "target": "guerre d'agression de la Russie contre l'Ukraine",
+      "evidence": "C'est aussi une évolution vers un monde sans règles, où le droit international est piétiné, où la seule loi qui importe, semble-t-il, est la loi du plus fort, et des ambitions impériales refont surface. Bien sûr, la guerre d'agression de la Russie contre l'Ukraine, qui entrera le mois prochain dans sa quatrième année, et les conflits persistent au Moyen-Orient et partout en Afrique.",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Event_6390cbaf5e79700e3a71a9443299f1c7eaff3563e74fb13c874fd44c366bb086"
+    },
+    {
+      "source": "G7",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la France assume cette année la présidence du G7",
+      "confidence": 1.0,
+      "source_id": "Organization_554e7fb86f40a5f81e3f9ec0f7382daadba8997f639f5f8c51f93f9521a1d3e2",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "compétitivité",
+      "evidence": "la compétitivité de l'Europe est inférieure à celle des États-Unis",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "préférence européenne",
+      "evidence": "Il existe une préférence nord-américaine sur votre marché. Il n'existe pas de préférence européenne aujourd'hui. Nous la mettons en place progressivement et, dans les derniers documents et les dernières décisions, nous en avons les premiers exemples.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "source": "Europe",
+      "relation": "MENTIONS",
+      "target": "préférence nord-américaine",
+      "evidence": "Il existe une préférence nord-américaine sur votre marché. Il n'existe pas de préférence européenne aujourd'hui. Nous la mettons en place progressivement et, dans les derniers documents et les dernières décisions, nous en avons les premiers exemples.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_b0f0a4286bb2c91881d7cbb88c213de7bb5a8038ac4bf0cfc7b1c0135c1cf250"
+    },
+    {
+      "source": "Europe",
+      "relation": "SUPPORTS",
+      "target": "préférence européenne",
+      "evidence": "C'est vraiment très bien et nous nous concertons actuellement avec l'Allemagne pour mettre en place un cadre simple et ambitieux. C'est un projet décisif et je compte sur la Commission européenne pour qu'elle présente une proposition d'ici à début 2026 avec le plus haut niveau d'ambition possible afin de mettre en place, en quelque sorte, dans les différents secteurs, le principe de préférence européenne. C'est une nécessité.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_8d763b2973af022b31699bc2ce48da94d69e6e533decb24aa4c0d676da4c1ed9"
+    },
+    {
+      "source": "Chine",
+      "relation": "VISITED",
+      "target": "Europe",
+      "evidence": "La Chine est la bienvenue, mais nous avons besoin de davantage d'investissements directs étrangers chinois en Europe dans des secteurs clés pour contribuer à notre croissance",
+      "confidence": 1.0,
+      "source_id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "non-discrimination",
+      "relation": "MENTIONS",
+      "target": "discrimination",
+      "evidence": "Il s'agit d'un autre pilier, d'un autre point de simplification. Une approche neutre en matière de technologies et de non-discrimination.",
+      "confidence": 1.0,
+      "source_id": "Theme_ac0d7dff4c7f721005765047e0d474c5699c45adc68463c99e2dc5a2cc8a544d",
+      "target_id": "Theme_92d7d1d37614eb7e3178c40e62a9c7211cba91c8c31af61eb0c9f5faa02beefb"
+    },
+    {
+      "source": "simplification",
+      "relation": "MENTIONS",
+      "target": "discrimination",
+      "evidence": "Il s'agit d'un autre pilier, d'un autre point de simplification. Une approche neutre en matière de technologies et de non-discrimination.",
+      "confidence": 1.0,
+      "source_id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c",
+      "target_id": "Theme_92d7d1d37614eb7e3178c40e62a9c7211cba91c8c31af61eb0c9f5faa02beefb"
+    },
+    {
+      "source": "technologies",
+      "relation": "MENTIONS",
+      "target": "discrimination",
+      "evidence": "Il s'agit d'un autre pilier, d'un autre point de simplification. Une approche neutre en matière de technologies et de non-discrimination.",
+      "confidence": 1.0,
+      "source_id": "Theme_13d59bafdc47af3e410af65db9d4750021cd91a0bdfe8882fa42d2d9c12e506d",
+      "target_id": "Theme_92d7d1d37614eb7e3178c40e62a9c7211cba91c8c31af61eb0c9f5faa02beefb"
+    },
+    {
+      "source": "discrimination",
+      "relation": "MENTIONS",
+      "target": "discrimination",
+      "evidence": "Nous opérons pendant si longtemps une discrimination entre les différentes sources d'énergie. Cela est contre-productif pour les Européens eux-mêmes.",
+      "confidence": 1.0,
+      "source_id": "Theme_92d7d1d37614eb7e3178c40e62a9c7211cba91c8c31af61eb0c9f5faa02beefb",
+      "target_id": "Theme_92d7d1d37614eb7e3178c40e62a9c7211cba91c8c31af61eb0c9f5faa02beefb"
+    }
+  ]
+}

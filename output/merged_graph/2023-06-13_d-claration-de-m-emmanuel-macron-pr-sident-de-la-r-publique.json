@@ -1,0 +1,826 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du Conseil départemental",
+      "id": "Person_ed23b450f0ef4975a677c78549b852e0bd6220615dfe342c23dd98aaf4590810"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le président du groupe Aguettant",
+      "id": "Person_87e5205a5fa35c0536c2968ef8973c76c7e029e9e565f9927eb2e060e7956be5"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le directeur",
+      "id": "Person_a72eada1ec2002512e5b2debfc8141db7f0771fd002e532e9f3bfcc893ac1e33"
+    },
+    {
+      "type": "Organization",
+      "name": "France Relance",
+      "id": "Organization_0b6dbafd2447e94a384c19a603a7e31d1bf2e1add30f766e9c4d1d65c8698903"
+    },
+    {
+      "type": "Organization",
+      "name": "France 2030",
+      "id": "Organization_c7814380d2c168be8dbbc7ead42e1644cbf6ebb18b8af3fecbc77d91f6212fa2"
+    },
+    {
+      "type": "Organization",
+      "name": "la filière",
+      "id": "Organization_c7e6591c8f2319b618db8f31c95f3e67dd8e6665805d8a24de371c08ff79da16"
+    },
+    {
+      "type": "Organization",
+      "name": "votre laboratoire",
+      "id": "Organization_c8b332a4688dc8781d02d995ddecbf9697d4b849b54c0d017b3d9b94e2522c3a"
+    },
+    {
+      "type": "Organization",
+      "name": "l'entreprise",
+      "id": "Organization_1cbcb7bf9e898b769de66549f7745780cb7d295953f078ac6784e82557b4b5e7"
+    },
+    {
+      "type": "City",
+      "name": "Gerland",
+      "id": "City_d0bcfeae66e1dd9c65d0f959ed1857acc294deb66ca4413bdc3f12ea2eeab7cb"
+    },
+    {
+      "type": "City",
+      "name": "Champagne",
+      "id": "City_cb3cbf353f49bd6a1c6dabfec198888847ac57f752dadec228c1c926bf204026"
+    },
+    {
+      "type": "Organization",
+      "name": "Carelide",
+      "id": "Organization_7dd97dc8a6e8f8b6a94ce7cb44031a02d40c3e7b29ba3a039adec5455c6fda43"
+    },
+    {
+      "type": "Organization",
+      "name": "Delpharm",
+      "id": "Organization_2234c58d756af1ff21aa69e083cf63b350a3c65de41c883f82e86d39d3e72888"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance industrielle",
+      "id": "Theme_a2908e2e4ea428a41ac440d47e7851e6b891227f86f7370d84954c7537fb6f8f"
+    },
+    {
+      "type": "Theme",
+      "name": "industriel",
+      "id": "Theme_f4a0cd2a3677e7ed90924f359616e647a4a4b1296fad61661f9f9c73e1c82f5b"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance industrielle",
+      "id": "Theme_e87b6119de6c0bcb7eb112197e3a45cc33365ccfd33409a110ece368dbdac40c"
+    },
+    {
+      "type": "Theme",
+      "name": "crise Covid",
+      "id": "Theme_f795ef1333fb420f606311508232d39f9e4e804aec2881d112ecc1755b95f540"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "médicaments",
+      "id": "Theme_5d3130282773d6583f3caaa7044985e9ea47feb271b9bc666a3d427ca23c6f77"
+    },
+    {
+      "type": "Theme",
+      "name": "importations extra européennes",
+      "id": "Theme_fb747bd6b4447d45147950da3b381cdb3134b64f5446c26a3cf6b5b63d7debdf"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté industrielle",
+      "id": "Theme_d1e40ada0601ef179b5bb1136cd6b3d2a25610aa31aa856614c90715b6af2255"
+    },
+    {
+      "type": "Theme",
+      "name": "pharmaceutique",
+      "id": "Theme_16e3beb646dd542b99242cca999706646098e6c6d6a0ff3fce9b1092a376ff65"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation",
+      "id": "Theme_637dca5fdf2c70d37ca7cd6e64c2a98bf89f0f36f054524b31799e16702b232e"
+    },
+    {
+      "type": "Theme",
+      "name": "conditionnement en seringue",
+      "id": "Theme_2283127ef24e2e1889c9f657be7fff63e548a7c70090165ebfbfa9ffdbc0d83c"
+    },
+    {
+      "type": "Theme",
+      "name": "Souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "Réindustrialisation",
+      "id": "Theme_ac8bdfb33c3783eee726437d1158d9c6c216120e43edc6178969ee44f5098ca1"
+    },
+    {
+      "type": "Theme",
+      "name": "Bataille pour le climat",
+      "id": "Theme_aced4a703796b78244258919fac8dbaa02811ccf8a215b5777d9aa03045c061e"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "thérapies",
+      "id": "Theme_a4119b0e67c80637f546a7b1971ecf231ab92948b59fe9a4b9e336209c26693f"
+    },
+    {
+      "type": "Theme",
+      "name": "thérapies ARN messagers",
+      "id": "Theme_033c7949eeb338d120e70a0e28d0308bdf2ced9ee33a2648067bb4f777e78130"
+    },
+    {
+      "type": "Theme",
+      "name": "anticancéreux",
+      "id": "Theme_fc8f14dbeb8171ccfefd776ada04bd856bfe682bdc5dd5359bee81015293e802"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie innovation santé",
+      "id": "Theme_63c4b01c5cf152e0236f4ea3c253210c603722d8de777d029ab9d0e77a0fc639"
+    },
+    {
+      "type": "Law",
+      "name": "loi de programmation pour la recherche",
+      "id": "Law_19a75396271fdba55ba3fa34a7946cf81f1ae07c4fbdaa3695e1d1924f8ad373"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie d'innovation",
+      "id": "Theme_b6dcd7050784c90cf829d101171064149c4aacae5cfd0bfa343827c079ed9f10"
+    },
+    {
+      "type": "Theme",
+      "name": "accès pour tous aux médicaments",
+      "id": "Theme_400f573ebfd6124745f7982e9be9c29b0b5c5edef22296317bdd312073c2371c"
+    },
+    {
+      "type": "Theme",
+      "name": "médicaments classiques, historiques",
+      "id": "Theme_9c3a452d8ba8bc893d0938a71992cab7efa6c281e118a0d4fc5978ac1db7b945"
+    },
+    {
+      "type": "Theme",
+      "name": "médicaments les plus récents",
+      "id": "Theme_92d3b500d5c5a8fd7ecb2824caa1660e658c7adae9043a4adc0fc9b0b2c2bc78"
+    },
+    {
+      "type": "Theme",
+      "name": "écosystèmes",
+      "id": "Theme_b7d4587247892e61fe36d439de21be3110bf2430bb7ada367817d8861d45df2b"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccins",
+      "id": "Theme_285c234b84ef6ba1444c75fa4fb284e57557192a16508630af6134cc975797f3"
+    },
+    {
+      "type": "Theme",
+      "name": "chaîne de valeur de médicaments",
+      "id": "Theme_036a61b92518ad2209ce84cf6e053c9e93bd20eca13a34fbfa6b89909f8c17d9"
+    },
+    {
+      "type": "Theme",
+      "name": "tests de diagnostic in vitro",
+      "id": "Theme_cc1504d866dcd458d3e3e52af7cf10e40bbc280ec14140dc5aeeed1e7acac85f"
+    },
+    {
+      "type": "Theme",
+      "name": "chaîne de valeur des vaccins",
+      "id": "Theme_7a57c78f35e918ec9d1e64ad39b282c5682cb5b0faabdbba49a4c9d681704076"
+    },
+    {
+      "type": "Theme",
+      "name": "remplissage de 660 millions de doses supplémentaires par an",
+      "id": "Theme_521f56a7ab04ab8fe8f4a51f8875ea7acc2823a2cc758735cb7dd7d50b3cdc3e"
+    },
+    {
+      "type": "Organization",
+      "name": "IPSEN",
+      "id": "Organization_92cb074c0f8c7998d1f02972f42d3ad72dc9b5a3e693b98852a5a73a9c9fdb2e"
+    },
+    {
+      "type": "Organization",
+      "name": "Pierre FABRE",
+      "id": "Organization_07d6c72e189bb8bc5d69c3a581c66799a191b03403c43c4ee875c13e58e8b380"
+    },
+    {
+      "type": "Organization",
+      "name": "Sanofi",
+      "id": "Organization_5de41446321ded92c12fbd89ce8d6d33248cd6c7f3775680f7c00fa1456b3d98"
+    },
+    {
+      "type": "City",
+      "name": "Arras",
+      "id": "City_b2de634a4c930a5511efcd3bc204b55515912abe986bda6f48a28dd5fa1c7781"
+    },
+    {
+      "type": "City",
+      "name": "Signes",
+      "id": "City_c31c8bb26b56ae01fae3ce80a04c82d6d1d24d9e656fda7f8e29c1b9ef11ee8f"
+    },
+    {
+      "type": "City",
+      "name": "Neuville",
+      "id": "City_3974f81bcbd4496273e65dd96097fd0fe5a1de0e0c0163339bab61b7c1285940"
+    },
+    {
+      "type": "City",
+      "name": "Marcy",
+      "id": "City_2a2e84e9840e2a797cc1fccbb31742c66852080c5cd4f3589cfe3d741813e104"
+    },
+    {
+      "type": "City",
+      "name": "Sisteron",
+      "id": "City_57a50e4d1ddd715f2dba30734f5408ef5e30cf5ea06be598476c23af8bd015d2"
+    },
+    {
+      "type": "Theme",
+      "name": "relocalisation",
+      "id": "Theme_537e2d126855ad128c5f20b7b4ebaba5a872c7369ed1aa9711bfd4199fcfe89c"
+    },
+    {
+      "type": "Theme",
+      "name": "investisseurs étrangers",
+      "id": "Theme_dfd14d24bc825fb2a571711f20b216753df34e0df2d4b925c18e5533c6386ea4"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur pharmaceutique",
+      "id": "Theme_5714c1853486d38a1e12b95dc670525e475629ed3fd8fc5cae7ebf02b62dcfce"
+    },
+    {
+      "type": "Organization",
+      "name": "Pfizer",
+      "id": "Organization_f32d8aa6d956dd9365bcab1e53eb09b3963d474012db2e04cc2c925681f108ee"
+    },
+    {
+      "type": "Organization",
+      "name": "Chiesi",
+      "id": "Organization_6fa374a712e5cadb8e15bd9ec66c184cd60bb8fc20292ca9202a33364b6325d7"
+    },
+    {
+      "type": "City",
+      "name": "Chaussée-Saint-Victor",
+      "id": "City_cf710efcd7f797afda31e33221866e44f4039bbdef214e692542ee4e76b406bd"
+    },
+    {
+      "type": "Organization",
+      "name": "Novo Nordisk",
+      "id": "Organization_5682becde48cae2806c7561b29efe5868864e90be454ad73d8931165c3c7eaaf"
+    },
+    {
+      "type": "City",
+      "name": "Chartes",
+      "id": "City_29045af492d8ae3540295501514a073d9c9610c157a2111c355daa39125e87e0"
+    },
+    {
+      "type": "Organization",
+      "name": "GSK",
+      "id": "Organization_55d1ff155bda7261566e9813837ba3d61f901995c163123d545d1a662ba2502c"
+    },
+    {
+      "type": "Organization",
+      "name": "AstraZeneca",
+      "id": "Organization_303d8f684b5d5cee5db0d13e163a0fb15cdb834f6e9c140a2a48928580e6e9c4"
+    },
+    {
+      "type": "Organization",
+      "name": "G5 Pharma",
+      "id": "Organization_685d11abfa3f35051ae21513923f84c392f4c11628408740c2ad987be9585a61"
+    },
+    {
+      "type": "Organization",
+      "name": "Aguettant",
+      "id": "Organization_52ba33563b5bf2a9e133c0ac73211b378108d8e130a16131bcd5076ee0f4e98d"
+    },
+    {
+      "type": "Organization",
+      "name": "CDMO",
+      "id": "Organization_90d5823606d0c156a1fb8e5a428a0d0567b4918ffc242808758f833602161e29"
+    },
+    {
+      "type": "Organization",
+      "name": "Fareva",
+      "id": "Organization_ac1d5fe5595ec810116b9e664455cb25184305bd2f0bba8c73adfb2d2a3a1a98"
+    },
+    {
+      "type": "Organization",
+      "name": "DNA Script",
+      "id": "Organization_33aac47029df675f206b5281e993ab78236f3e9e0de45b2a546dcbc7423901dd"
+    },
+    {
+      "type": "Organization",
+      "name": "Lifen",
+      "id": "Organization_c6393062e23d7aa0cc7b901da26360d42810733c0e9a65fb7d217e0751047355"
+    },
+    {
+      "type": "Organization",
+      "name": "Osivax",
+      "id": "Organization_18edfd6ae571bf223ea2f046c7526e1c0c95915b21e2df77364b36b52559ebf1"
+    },
+    {
+      "type": "Organization",
+      "name": "Trifrog",
+      "id": "Organization_fc7223c43494c4d7716db4a2d5d14c8e116375989e68ab04f5044fcb03cda4d8"
+    },
+    {
+      "type": "Organization",
+      "name": "ImCheck",
+      "id": "Organization_58e1c35bb361428c3b8eda6103ea0ded4ef0a9f1441664e785695b05bf91cc1a"
+    },
+    {
+      "type": "Country",
+      "name": "America",
+      "id": "Country_7ebf04df6292fadbcae139ef7607a6556affa2f40427dac6128c315eb20e72cd"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement public-privé",
+      "id": "Theme_ed6b67c43432544681f1b6dc1dc941e3fe4683515b9bc470982281a0267f8a5f"
+    },
+    {
+      "type": "Theme",
+      "name": "IHU",
+      "id": "Theme_810f416b277f2a9400e12f86070faeda1659ce6a7546b8d4328d74a6072f79d1"
+    },
+    {
+      "type": "Theme",
+      "name": "bioclusters",
+      "id": "Theme_35560890dfa3038f3e0263b8b9c6d9dd04cca6a0397948b0a9579b1e3dfdfba9"
+    },
+    {
+      "type": "Theme",
+      "name": "start-up innovantes",
+      "id": "Theme_2cf1c45b0e052a307332258d23fdeb07201f0c1a70375a91f5951243635f5865"
+    },
+    {
+      "type": "Theme",
+      "name": "essais cliniques",
+      "id": "Theme_b66d0330ea5bb17326c278496f73532c5021de129d542950405173c3b2db5dec"
+    },
+    {
+      "type": "Theme",
+      "name": "achat innovant de technologies",
+      "id": "Theme_a95b7992c608418b4799526320d60d2a49fd4aa5d5dba5cd9aa2dd65fb8de032"
+    },
+    {
+      "type": "Theme",
+      "name": "écosystème",
+      "id": "Theme_6f652b52dbd53e9b00c31ebccc7c6974b9111d52be57cef42bd6b39ac7c825a6"
+    },
+    {
+      "type": "Theme",
+      "name": "autorisations",
+      "id": "Theme_7f8cafd7d5a661ebc54fc7ced03097d8d136bea33b001358f1267abcc8658d76"
+    },
+    {
+      "type": "Theme",
+      "name": "phases précliniques",
+      "id": "Theme_3101caf0ad0dbf14be77ba2fde965f193510613a38bcc3982f424ea12245136a"
+    },
+    {
+      "type": "Theme",
+      "name": "phases cliniques",
+      "id": "Theme_798f06878f768aa959eb67157334d73a7df450db6cb8d3dbfb17bb6cc2de8d43"
+    },
+    {
+      "type": "Theme",
+      "name": "phases de développement",
+      "id": "Theme_7b1f4b4dd33c982ede607edfc119c8d55841474d83d5d5b9f7d483ef41bee00b"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "biomédicaments",
+      "id": "Theme_4bf3a10edda0046da4aab6c90741794e201d18f75d95ee7c9d5d9568950b15ed"
+    },
+    {
+      "type": "Organization",
+      "name": "ANSM",
+      "id": "Organization_d40fe3a46f43f3fbd7a0f8cb066ef28a791ee7a8f405a8e439696319e24ecd53"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurisation des chaînes d'approvisionnement",
+      "id": "Theme_cd0b98c6ed2476a3547a52f52d9c71c578d34453208a8d805909170bcfba85f1"
+    },
+    {
+      "type": "Theme",
+      "name": "relocalisations",
+      "id": "Theme_8ae8f62d4f574c46475abac2fae6bdd1f993d7339b6d084c9c320641242d24fb"
+    },
+    {
+      "type": "Theme",
+      "name": "médicaments essentiels",
+      "id": "Theme_c9fa9ff033af4d2c3b6b91fb297a5fc510f61378df6707608824e48bf8829707"
+    },
+    {
+      "type": "Theme",
+      "name": "anesthésie réanimation",
+      "id": "Theme_5804f24847b3e6b3eddae81778ca1b78f5a3b6b4d4764202c34d131396e5dea4"
+    },
+    {
+      "type": "Theme",
+      "name": "soins intensifs",
+      "id": "Theme_62937d655eaaf0f781b483986b19e0b17dc13bbf427a4be1c0a3a4f16813ef6c"
+    },
+    {
+      "type": "City",
+      "name": "Mayenne",
+      "id": "City_a7e58aa5031d98c31774109d05f6062569993821a5af89e8713ebc33fabb5125"
+    },
+    {
+      "type": "Organization",
+      "name": "Séquence",
+      "id": "Organization_a1ece94efde43da55f78172bf5ab59ac199163d916befc523c77ff92d3e388d5"
+    },
+    {
+      "type": "Organization",
+      "name": "EuroAPI",
+      "id": "Organization_d8969a11676842f3b5430773333af9112af1b00fb0c59294a520d75a4da21caf"
+    },
+    {
+      "type": "Organization",
+      "name": "Interior",
+      "id": "Organization_5e591ac758d9320022754869761bf1331768dc17ffb54dba4b29a30f78371033"
+    },
+    {
+      "type": "Organization",
+      "name": "SkyePharma",
+      "id": "Organization_0614861f09d94d28ce3b38ad3353078b826ade4eee10e19c9766508d65b6386c"
+    },
+    {
+      "type": "Organization",
+      "name": "Benta Lyon",
+      "id": "Organization_f026e76ca43fb4e30ed876995c5ddb2bf68dfd3a62bb814e66fa343b67f1d0b7"
+    },
+    {
+      "type": "Organization",
+      "name": "Matt Pharma",
+      "id": "Organization_9868e061fcf87d24423af64600cfd6768c59b33bc7d00206ead89833d6e7ac32"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Organization",
+      "name": "industrie pharmaceutique",
+      "id": "Organization_acc6e2c184a1822a9d7acefeb78c61fe6b9d0d40ae2d184255dd996717e5caba"
+    },
+    {
+      "type": "Theme",
+      "name": "relocalisation des médicaments essentiels",
+      "id": "Theme_69e6e445165ecabb566a7ef576a6a0170c5130e45577b6fb06630a28933f940a"
+    },
+    {
+      "type": "Theme",
+      "name": "extension de capacité",
+      "id": "Theme_a2c44962152ba5f0f62a470be08444f776d56585549b0e76629171ce4e82ebc8"
+    },
+    {
+      "type": "Theme",
+      "name": "procédés de production innovants et décarbonés",
+      "id": "Theme_1bdff3ecfd51287659ecb06dde282552d4900add7f4f80e7b1a4c51748ff4794"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "mise au point de procédés de production",
+      "id": "Theme_ff28813988aea2a16f6570b7f8cf2f10a27d1ea32118cb95431f3a7a452c930a"
+    },
+    {
+      "type": "Theme",
+      "name": "amorçage",
+      "id": "Theme_4ae216035cc0a7097c10b385acd625f32b265502da9ecb3f969f615493edcad1"
+    },
+    {
+      "type": "Theme",
+      "name": "juste prix de certains médicaments",
+      "id": "Theme_e3134974c8b6f4eaaccef9ce8e4bc478018a2345534c1c3bb8944de681af9993"
+    },
+    {
+      "type": "Theme",
+      "name": "production française",
+      "id": "Theme_5e3150538accc8bef77b2badfe123031e0a58e2973ba18494b46298c43cd9576"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "pharmacie",
+      "id": "Theme_3946ba1ae08f4c782c4ea9e3dde947315ec9159564496ecbc9b2b9a1117e641f"
+    },
+    {
+      "type": "Theme",
+      "name": "alimentation",
+      "id": "Theme_c513edee71bdf794af7ba878fb763b9cc4a3e831c494d701c86bdd518ebd85ab"
+    },
+    {
+      "type": "Organization",
+      "name": "PIIEC santé",
+      "id": "Organization_4930e26a5662b77564f88306dd9ee86849131853210c5fd40a24cbf486c6ddd3"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Organization",
+      "name": "ERA",
+      "id": "Organization_9dbde06961279224592032e3b74e431436cbebe7f7a67284a3a3e02e4157e6c8"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "propriété intellectuelle",
+      "id": "Theme_e93a9cdedc8c0f209853c358a4a86a8c2496ed656002f532970b5b5d994bd0a5"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Organization",
+      "name": "États membres",
+      "id": "Organization_e8e876bb1b3bf22aa884651606bd7aab3eba184cd2155b64bd015acf4fbadb40"
+    },
+    {
+      "type": "Organization",
+      "name": "nos entreprises du médicament",
+      "id": "Organization_e00e7d5f27c9eb5aa3b163eea830753866ec80d9dc40a1e8e574400d93d81dda"
+    },
+    {
+      "type": "Organization",
+      "name": "la Belgique",
+      "id": "Organization_7fcb6cbf379fc1a24217e7bf589d6b285e5089d0f3e9540958820482f0188d1d"
+    },
+    {
+      "type": "Theme",
+      "name": "production sur notre sol des médicaments essentiels",
+      "id": "Theme_f8b354a888c727ac349a8b016a66831a9b7b33ccbb508cc8fec5ae259ba75b7d"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité de nos entreprises du médicament",
+      "id": "Theme_b0a63f9b9f7f8910b827651827d676a7823268a6381f22d2c8f984e83a0b18b0"
+    },
+    {
+      "type": "Theme",
+      "name": "tensions d'approvisionnement",
+      "id": "Theme_ebf626f787aabc66be1d50c3b5c890caab04504cc560336d7998d5ae14634231"
+    },
+    {
+      "type": "Theme",
+      "name": "Critical Medecines Act",
+      "id": "Theme_b53031e5ffe32054188ef50cbc445d0c0c0f69654e02bf95116b3d95925863d2"
+    },
+    {
+      "type": "Theme",
+      "name": "éléments critiques du secteur",
+      "id": "Theme_fac0484a01999b4769693cc2c23d58c14e5ef5b0a89fed4f0175a8cbf8503c37"
+    },
+    {
+      "type": "Theme",
+      "name": "politique d'aide pertinente",
+      "id": "Theme_5f3081735d035263647cc0ef1208eb21d1bd6683e970f9d02794e8ad185f74ba"
+    },
+    {
+      "type": "Theme",
+      "name": "matières critiques européennes",
+      "id": "Theme_b98f01f6d16f2c10964f37e7bc05608e39525e635a74f1751a7f8bd00c2bc98c"
+    },
+    {
+      "type": "Theme",
+      "name": "développement de notre souveraineté",
+      "id": "Theme_6eaa6b318e6b641d6e663060d08c9e469e0eb40dbc4b17a5900efb9dae6f3d77"
+    },
+    {
+      "type": "Theme",
+      "name": "pénuries",
+      "id": "Theme_ab28f4340166031ee9f71872ab570cd22e8bf7b72f34b16e90ce7ba692df846a"
+    },
+    {
+      "type": "Theme",
+      "name": "chaînes de production",
+      "id": "Theme_afd5892f62475da4a64d78b2dbd72e66be6639609d9ba2b436b1cfdaec5cbc2a"
+    },
+    {
+      "type": "Theme",
+      "name": "résilience",
+      "id": "Theme_ae0698b8a130cd1cd5df43fe5e3e189eb0c16712f2fa72aeeed81640c8d2a14e"
+    },
+    {
+      "type": "Theme",
+      "name": "urgence",
+      "id": "Theme_540dea71fcfc76e593792a9bf5e19596495794754693eb0938af9054494bbb4e"
+    },
+    {
+      "type": "Theme",
+      "name": "paracétamol",
+      "id": "Theme_a37bfa9623d39917ca0627e648238af18a5ddb9f70f518c4fd24df398e7cff82"
+    },
+    {
+      "type": "Theme",
+      "name": "amoxicilline",
+      "id": "Theme_ad527febe4bf1bc8036e527866c2532bb10860bd1c0c8fbe9e557e11f3e4cd27"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccination",
+      "id": "Theme_08727af7b4e202025a46e53a3b86d689aba5e9aaeb127cbebab4949a61c65b87"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "grippe",
+      "id": "Theme_6baae3d937924ce832d7ccbc15f5057217589639414bf013214fd437ea4dae7b"
+    },
+    {
+      "type": "Theme",
+      "name": "bronchiolite",
+      "id": "Theme_433b1dd7cba3a74d7a3d557040d2a54a37aee0c1288fa74dab2bf6f6953ca0af"
+    },
+    {
+      "type": "Organization",
+      "name": "Haute autorité de santé",
+      "id": "Organization_50f77d6d08ada5301d759c292d0f9094d031f0a66d89cef02fc00d47f363d068"
+    },
+    {
+      "type": "Theme",
+      "name": "antibiorésistances",
+      "id": "Theme_3038e17f2327a8dc8e4d3e506e454183705906d4931f4b1f02df26bf7cbef61e"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanismes de résistance et de mutations",
+      "id": "Theme_a2f1889584df0d0175c76355e8e7efe935d2d98360abc9f5fb724ef49adf8a53"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre de la Santé et de la Prévention",
+      "id": "Organization_5e09ac6a3bb8481722d8f5abefcd008943ca543bf3f198a57cefebf364487a48"
+    },
+    {
+      "type": "Theme",
+      "name": "gestion des épidémies hivernales",
+      "id": "Theme_c0e913cdb643be1d6c8a6863cc822505200dc2005e0c138397c8da5e927db314"
+    },
+    {
+      "type": "Theme",
+      "name": "stocks disponibles",
+      "id": "Theme_ddaec1f1ad32d09b971d380a596e99a11ce0cdacee42ccf59182f46dd125f66f"
+    },
+    {
+      "type": "Theme",
+      "name": "juste prix pour les médicaments essentiels",
+      "id": "Theme_5fbf267ef6d385720e3a44d19adf4a46a268233009208c98060b3743108e1609"
+    },
+    {
+      "type": "Theme",
+      "name": "approvisionnements supplémentaires",
+      "id": "Theme_8cea43638e6d813cb734e8304e585323a2898cdaf7d08d4c48c037f661085691"
+    },
+    {
+      "type": "Theme",
+      "name": "Plan blanc du médicament",
+      "id": "Theme_bf7b61e564a33b23c2cfe58002fa119608b3bb069480a021597b21c51ede068c"
+    },
+    {
+      "type": "Theme",
+      "name": "crise majeure",
+      "id": "Theme_58ffbe97516ef27b8d91e5487bf7d54382c9a129c5cfd8b1db437348521688dc"
+    },
+    {
+      "type": "Theme",
+      "name": "transparence",
+      "id": "Theme_dabb21ba357ef24d642e7216302b217700397e9aa4245827f156e857b1f14fc3"
+    },
+    {
+      "type": "Theme",
+      "name": "tensions",
+      "id": "Theme_cba6267a0edb4b45de6f8ffdce822b9050ee187c12b3238bfe8a91fd4595d9f3"
+    },
+    {
+      "type": "Theme",
+      "name": "pays",
+      "id": "Theme_5836828ee3d8fa593516bc08496d10257dac03542b9574bc9646bddf731326cb"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "souveraineté industrielle",
+      "relation": "MENTIONS",
+      "target": "souveraineté industrielle",
+      "evidence": "Là, on décide de retrouver de la souveraineté industrielle, en particulier en matière pharmaceutique.",
+      "confidence": 1.0,
+      "source_id": "Theme_d1e40ada0601ef179b5bb1136cd6b3d2a25610aa31aa856614c90715b6af2255",
+      "target_id": "Theme_d1e40ada0601ef179b5bb1136cd6b3d2a25610aa31aa856614c90715b6af2255"
+    },
+    {
+      "source": "souveraineté industrielle",
+      "relation": "MENTIONS",
+      "target": "pharmaceutique",
+      "evidence": "Là, on décide de retrouver de la souveraineté industrielle, en particulier en matière pharmaceutique.",
+      "confidence": 1.0,
+      "source_id": "Theme_d1e40ada0601ef179b5bb1136cd6b3d2a25610aa31aa856614c90715b6af2255",
+      "target_id": "Theme_16e3beb646dd542b99242cca999706646098e6c6d6a0ff3fce9b1092a376ff65"
+    },
+    {
+      "source": "Chiesi",
+      "relation": "LOCATED_IN",
+      "target": "Chaussée-Saint-Victor",
+      "evidence": "C'est l'Italien Chiesi à Chaussée-Saint-Victor pour produire la future génération de dispositifs inhalés à plus faible empreinte carbone",
+      "confidence": 1.0,
+      "source_id": "Organization_6fa374a712e5cadb8e15bd9ec66c184cd60bb8fc20292ca9202a33364b6325d7",
+      "target_id": "City_cf710efcd7f797afda31e33221866e44f4039bbdef214e692542ee4e76b406bd"
+    },
+    {
+      "source": "Novo Nordisk",
+      "relation": "LOCATED_IN",
+      "target": "Chartes",
+      "evidence": "le Danois Novo Nordisk qui est à Chartes",
+      "confidence": 1.0,
+      "source_id": "Organization_5682becde48cae2806c7561b29efe5868864e90be454ad73d8931165c3c7eaaf",
+      "target_id": "City_29045af492d8ae3540295501514a073d9c9610c157a2111c355daa39125e87e0"
+    },
+    {
+      "source": "France",
+      "relation": "MEMBER_OF",
+      "target": "PIIEC santé",
+      "evidence": "La France étant membre coordinateur du PIIEC santé",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_4930e26a5662b77564f88306dd9ee86849131853210c5fd40a24cbf486c6ddd3"
+    }
+  ]
+}

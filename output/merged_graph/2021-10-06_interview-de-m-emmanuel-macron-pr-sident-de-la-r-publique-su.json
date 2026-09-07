@@ -1,0 +1,134 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "prix européen",
+      "id": "Theme_5888e5744e35413adcaadc60b6fd50f5cf8d06e0bf88874e91bddff8326994f3"
+    },
+    {
+      "type": "Theme",
+      "name": "électricité",
+      "id": "Theme_91c41638e65e937154a7559e7d1b4f82a3977007d76c588380561893e1e818e8"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie",
+      "id": "Theme_45da837023faa533edbdda25dd204d90c4a1378528e4e55585e9def67a35de48"
+    },
+    {
+      "type": "Theme",
+      "name": "Commission européenne",
+      "id": "Theme_7afeed8e77cd7ec912ac38d487d053c1b21fd91168556da037a575ecd3e015cd"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Le Président de la République",
+      "id": "Person_3a23c0261e50cfcafeab3872d343a5f3fae86dee0bce4035dc7c00a5c001708f"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "City",
+      "name": "Balkans",
+      "id": "City_01fd53bbe1993198b70c5bad3d977b4975ebaf57c12d850470b4e78d2d38a6d7"
+    },
+    {
+      "type": "Country",
+      "name": "Serbie",
+      "id": "Country_b7c0a494643520a88b25d73166605dfe1265c3e55aeddf907a374a4c9a64c55b"
+    },
+    {
+      "type": "Country",
+      "name": "Kosovo",
+      "id": "Country_f46080b9f63552f46127e2af3b8045cf7a90b9b824c483a048121d12b347ad77"
+    },
+    {
+      "type": "Country",
+      "name": "Belgrade",
+      "id": "Country_1a45fa6dd815fb77625840924e73e87d79291f63b4bc6a6591ad5a785ff4dd41"
+    },
+    {
+      "type": "Country",
+      "name": "Pristina",
+      "id": "Country_eb40551e618109e025b4c6674d3879cf163649952625b2208b516b5dd7a6a567"
+    },
+    {
+      "type": "Country",
+      "name": "Macédoine du Nord",
+      "id": "Country_fb91200a1161735dd6d2574283f5a04cb7ff72db34387badb2946664d52f0583"
+    },
+    {
+      "type": "Country",
+      "name": "Bulgarie",
+      "id": "Country_92f4a9de31288a5a45f1f28b278d37433e266b282751018452c68f08ef526f16"
+    },
+    {
+      "type": "Person",
+      "name": "Jean-Marc SAUVÉ",
+      "id": "Person_7a18b51d8362556470a260f1ab2c33cb7e7ba4be2ae4ea45b35d66694716a050"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Église française",
+      "id": "Organization_4c3377d0fa678b6faac87faa491319645e7923d7fdd66163057a7b1e2a47fda5"
+    },
+    {
+      "type": "Organization",
+      "name": "mission oecuménique",
+      "id": "Organization_f77d1ad20452a8570c7b13f692f3ed947508f264d44712081630f546f898c817"
+    },
+    {
+      "type": "Organization",
+      "name": "épiscopat français",
+      "id": "Organization_8c2b5cdaf5918a45aa7fbef2ddeaeff0d35603f3d6474a388ce16459e20d3dff"
+    },
+    {
+      "type": "Organization",
+      "name": "Vatican",
+      "id": "Organization_44ba646a396325dc3ead17434abc7a98a06ac36bf9792c042b1e1a049af389b9"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "mission oecuménique",
+      "relation": "ALLIED_WITH",
+      "target": "épiscopat français",
+      "evidence": "qui est une mission oecuménique qui dépend aussi du dialogue avec l'épiscopat français",
+      "confidence": 1.0,
+      "source_id": "Organization_f77d1ad20452a8570c7b13f692f3ed947508f264d44712081630f546f898c817",
+      "target_id": "Organization_8c2b5cdaf5918a45aa7fbef2ddeaeff0d35603f3d6474a388ce16459e20d3dff"
+    },
+    {
+      "source": "mission oecuménique",
+      "relation": "ALLIED_WITH",
+      "target": "Vatican",
+      "evidence": "qui est une mission oecuménique qui dépend aussi du dialogue avec l'épiscopat français et les autorités du Vatican",
+      "confidence": 1.0,
+      "source_id": "Organization_f77d1ad20452a8570c7b13f692f3ed947508f264d44712081630f546f898c817",
+      "target_id": "Organization_44ba646a396325dc3ead17434abc7a98a06ac36bf9792c042b1e1a049af389b9"
+    }
+  ]
+}

@@ -1,0 +1,856 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Sa Majesté le Roi des Belges",
+      "id": "Person_02810ad1b4e6f4ec10b75fbc6991919c9a0130bff772ef9e29b146eca4546f08"
+    },
+    {
+      "type": "Person",
+      "name": "le président ZELENSKY",
+      "id": "Person_3a860642a70f2f7cac1fd0ee85c68c43f3955bb454cfcb6a1e5d7342aba58c80"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Ukraine",
+      "id": "Organization_40e57ff1a42478e01610662f6b2b2766a660a2c3a5fd21ed8cb0bac74bb1f253"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Allemagne",
+      "id": "Organization_4d0c3a44ee5910fa2ef9436dbd3172dd1ad6aabc8054b6d85c3f06a46e446fb7"
+    },
+    {
+      "type": "Organization",
+      "name": "la France",
+      "id": "Organization_f0dc3d1cb8e9214f15bc0f50d04be2ee46c400d75c6b4fb0f660fab0b83501ac"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités de défense",
+      "id": "Theme_ad3b53661b9d59ce89b92ada47672db7386d5eac3f898b3670764cea7b89f1d0"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Organization",
+      "name": "Haut Conseil",
+      "id": "Organization_dfaf77e4aeea286d5dc0de886ee5108b567aaa007c8c45b4c2e6e633fb53d6a7"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "City",
+      "name": "Moyen-Orient",
+      "id": "City_e3a36401cd3c67dbbe7c2b8aa9a0e76c382ae4cc2064d464cb5959c85f6f2f8d"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "City",
+      "name": "Pays baltes",
+      "id": "City_baaa9cd82cbaf802b96e54e1adaa6a26e74ad4cb04d14a6df55bb13d61a459f5"
+    },
+    {
+      "type": "City",
+      "name": "Pologne",
+      "id": "City_60ea318c25836bfd2c4b33d97547bc88cf722b16aefbd6ac48b29b67416bcdc5"
+    },
+    {
+      "type": "City",
+      "name": "Pays-Bas",
+      "id": "City_617d1f55ffa821da444fc37c8401e28c0ca77f9f4c9d29d9a1b1b158f7e56e18"
+    },
+    {
+      "type": "Country",
+      "name": "Moyen-Orient",
+      "id": "Country_2de49a8ab091aa1bdb7077eae809b237c5996590ecd7c342f4752b3b30411fb1"
+    },
+    {
+      "type": "City",
+      "name": "Gaza",
+      "id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil européen",
+      "id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "type": "Country",
+      "name": "Gaza",
+      "id": "Country_f741c8e877191162ded6fc94d0c300c6ede478a83314a82ec20031055452f4f2"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Person",
+      "name": "MIKATI",
+      "id": "Person_d06a902c1d0a831e64f9c8e60d99f686902fabbebf7f640fe92baa93ffdec371"
+    },
+    {
+      "type": "Person",
+      "name": "AOUN",
+      "id": "Person_791cd8abeba5310bccda0d79068dc2b5ef6e7b0a9f7cfed7a44b01237685407e"
+    },
+    {
+      "type": "Person",
+      "name": "Enrico LETTA",
+      "id": "Person_a3fd0cd99d8c6d1eea8528f813576aaf710405c2a68203d619bd8ff18926463e"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "décrochage industriel et technologique",
+      "id": "Theme_5692c9396df2aceed2d9d18b327830f6c8159b7fdbf2998547ae698f9d3ef19d"
+    },
+    {
+      "type": "Theme",
+      "name": "productivité",
+      "id": "Theme_84e7835ab776771b21d651900e4dd41e8db92c4fb2ff86fc2c079ec22fdda135"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "transition verte et numérique",
+      "id": "Theme_41cfd78ef5d865483fd145038d8faf8e89db847a0d58992acdcd85446bd871c2"
+    },
+    {
+      "type": "Theme",
+      "name": "règles commerciales justes et équitables",
+      "id": "Theme_c9bb625f678da9509631f532a8c4b1dbf88aa0e13b1cce8882ca7f5afcb14cd1"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté industrielle et technologique",
+      "id": "Theme_942f028c14265545c9b4af0045cc0ebf76020e2ac2dac3deef3a43b44596a579"
+    },
+    {
+      "type": "Theme",
+      "name": "transition climatique numérique",
+      "id": "Theme_0271b04953eae67439e957de8cb849a8e685da7f199a7bbb9ea37df37f79713f"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Organization",
+      "name": "Union des marchés de capitaux ou Union de l'épargne et de l'investissement",
+      "id": "Organization_935807f52d258c5d3bafe99b5f76cb266014e5c52f6365b485280b6cefb6add8"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Theme",
+      "name": "titrisation des actifs",
+      "id": "Theme_824087148438cda6204c5e22f12af3619632a3f86ae6737435aae8241256083c"
+    },
+    {
+      "type": "Theme",
+      "name": "investisseurs institutionnels",
+      "id": "Theme_9d04eee191ec6f0e7782467ff45dd46263faf12a38fb78e8023d9031616eb90d"
+    },
+    {
+      "type": "Theme",
+      "name": "union des finances",
+      "id": "Theme_e3801d1243c8f1e9043bb2b23e80bdf4fb73f39d263799ca2793f65ff77177ea"
+    },
+    {
+      "type": "Theme",
+      "name": "union bancaire",
+      "id": "Theme_f9c841f93a94134a4e484b837202a4153798333567ec2947cd74ae78cf37b30d"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence de nos fiscalités",
+      "id": "Theme_8d15aa0f104a3220c913a2eaa7f302b8f7973032c163ca544ec40bf9ec71de01"
+    },
+    {
+      "type": "Theme",
+      "name": "marché unique",
+      "id": "Theme_20dd50ae164d3f152ef77948cb732b929faf16e2e579353a7a6ed58d27740261"
+    },
+    {
+      "type": "Person",
+      "name": "Jacques DELORS",
+      "id": "Person_bf44456d85fd5bb992bf0e158b65f5c46b0ed5ea603af0f60470aa2db16cf4cb"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Person",
+      "name": "Volodymyr ZELENSKY",
+      "id": "Person_2ca7a6c5d9d63b0f7402762a935ff0257d1879f8e5e77dfddd77326fa5f1c646"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Person",
+      "name": "ZELENSKY",
+      "id": "Person_5b430be7f4fd853512723872abf6eb78debb2259d64a37d32859d87eb9ccf845"
+    },
+    {
+      "type": "Organization",
+      "name": "Ukraine",
+      "id": "Organization_21d6f44cfd20eb0daee12bd2237e5a99e3ca7d2677c7597be574c2d9de7b165f"
+    },
+    {
+      "type": "Theme",
+      "name": "no-fly zone",
+      "id": "Theme_0005fd03962bd76872219cafd3cf4b952d3024d48693c27cfc86c16449a7df0c"
+    },
+    {
+      "type": "Theme",
+      "name": "défense sol-air",
+      "id": "Theme_87196f667bed6ada6235204e082cfb28bd56eadb28608de3dc54ee8f21382553"
+    },
+    {
+      "type": "Theme",
+      "name": "agression russe",
+      "id": "Theme_6f5d8bcd5864aa6630776d636dce9444aae7b3fff356adfa692adcf12e08d128"
+    },
+    {
+      "type": "Organization",
+      "name": "coalition",
+      "id": "Organization_2d98a336b361fd804af3602880c6fc58a8d0d12b960c29dc036ccec093891de9"
+    },
+    {
+      "type": "Organization",
+      "name": "Pays-Bas",
+      "id": "Organization_3f1902b3d00c5775391d0f3b65a0f7b00c1519e3721f6703f37a6ab79127b5b7"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Roumanie",
+      "id": "Country_527240816e83d61337872edcc24fff6f9af57f2b00a48d380b48b7bc7c9ed764"
+    },
+    {
+      "type": "Organization",
+      "name": "Allemagne",
+      "id": "Organization_018c9dfa0083ec0dabf7f5fa4d500a808dc906a97b04b4073ac572e7d605d126"
+    },
+    {
+      "type": "Organization",
+      "name": "SCALP",
+      "id": "Organization_759bd803b2bf6ddaf3438cf01d7e21704c6f5f5778c7efd2ca2017c38b06d43b"
+    },
+    {
+      "type": "Organization",
+      "name": "Storm Shadow britanniques",
+      "id": "Organization_b4340af2275a9295fe99a20b701eea9e2890c7a19570ad7cf750b0f15f6e08ea"
+    },
+    {
+      "type": "Organization",
+      "name": "Taurus",
+      "id": "Organization_40d5f4cb2146be171d4404e00a817bb5033b2038551bc8d314c3bdc5f81c1ecd"
+    },
+    {
+      "type": "City",
+      "name": "Bergerac",
+      "id": "City_adf15f2fc9c16dce35f23ac5626e568ac161ba75751c016e7892d499166e9b4f"
+    },
+    {
+      "type": "Person",
+      "name": "Charles MICHEL",
+      "id": "Person_05cf848e8ad58cffcfcde7ca7c613e57a1c5ba41f9eb925d6b63fd4b86807b19"
+    },
+    {
+      "type": "Theme",
+      "name": "géopolitique",
+      "id": "Theme_c3c610b50522db7d266b422a266b556f7825401c0d3b51ae9196e65d10f33b65"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe géopolitique",
+      "id": "Theme_1a357e03c5469ed661c456b6d184c28cf02aa29f62fa8dfd3c10b70a7ea10cd9"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie Indo-Pacifique européenne",
+      "id": "Theme_1127da5c7dfd07120d766caf2fad9939334a9cc55b398c268e62aedc76b68df7"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "transition énergétique",
+      "id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7"
+    },
+    {
+      "type": "Theme",
+      "name": "défense",
+      "id": "Theme_67e6a56b3525d76537cf398e08d19a84cbcc9a8d39f410bc7d9a33a1d4be7830"
+    },
+    {
+      "type": "Theme",
+      "name": "transition digitale",
+      "id": "Theme_ac5f24eea1105ebc49a698278922395a489f558acce0b65867c583d8701c1c68"
+    },
+    {
+      "type": "Theme",
+      "name": "transition verte",
+      "id": "Theme_d49dbff547155d19fe0d79cc7ed8298145f0878d8add2463d513f4a0db514df5"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté économique",
+      "id": "Theme_2ca9d52b00425147d34a1d428fbc4e77f12e70f8df0a220dc435f78dae32060b"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition climatique",
+      "id": "Theme_d50478b703462e76561468f6ea79501963d98f0863f2930591c593aad98ac7c1"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Organization",
+      "name": "Europe",
+      "id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183"
+    },
+    {
+      "type": "Theme",
+      "name": "Pacte vert",
+      "id": "Theme_a4de949c56bba5859977ad02094f6337390f627da595817042c6df2e1d0bb842"
+    },
+    {
+      "type": "Theme",
+      "name": "Pacte compétitivité",
+      "id": "Theme_26c9d6e4564f29d59575c2f5b4f650a71d4e6e3e8f76bea88b60a54f5101964c"
+    },
+    {
+      "type": "Theme",
+      "name": "Union européenne géopolitique",
+      "id": "Theme_0ad917932d43470295d1dc197f02d0589a729dfe4795e8ceb091298219c31698"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendances",
+      "id": "Theme_14de542cd66252bc7dd38d12cbadc101d38c3b269a47ae1437ae7786869af7a7"
+    },
+    {
+      "type": "Theme",
+      "name": "transition numérique et climatique",
+      "id": "Theme_151bf08e3aeadd1136841c0e72fd332ebda316a0ac960351513765e9f3b23d54"
+    },
+    {
+      "type": "Theme",
+      "name": "paix et de guerre",
+      "id": "Theme_f35a521c9a5237bb8cf25237ec75adebaed68df73ff9127686ec7f70aa578806"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "climatiques",
+      "id": "Theme_4e3f3b1c5960ae7ebf22ebf2c75efb3a1c4a8c97a5ab6c598e5546d7a2129a59"
+    },
+    {
+      "type": "Person",
+      "name": "Mr. President",
+      "id": "Person_2affb71c5a325773b9f3f4d6889079f0575d1372b8ef0b948a46ddb70d75703e"
+    },
+    {
+      "type": "Organization",
+      "name": "European Union",
+      "id": "Organization_a81dc365313a55080c8d2f18e90b3882c392767f9ac76873ed6ab5b543bfa39a"
+    },
+    {
+      "type": "Organization",
+      "name": "Iranian regime army",
+      "id": "Organization_377fd8a5cf2f7e76cd5ba6df607dde2e3f12d170e65aa2546ad0ead89e933a17"
+    },
+    {
+      "type": "Organization",
+      "name": "Iranian regime revolution army",
+      "id": "Organization_812ee92aa654b71296c98f693f1322e1ac60934f686dd428d72360ae40ddb6bc"
+    },
+    {
+      "type": "Organization",
+      "name": "USA military",
+      "id": "Organization_3a91943e17b9e66ddf68b8dbb6908b2271bea4101881937503b67c30508860c7"
+    },
+    {
+      "type": "Organization",
+      "name": "French",
+      "id": "Organization_1436a039bb4d1d4bd8fd3ab06f7b3a20ea31d04baee8b139cea52207a61c2082"
+    },
+    {
+      "type": "Organization",
+      "name": "Iraqi Kurdistan region",
+      "id": "Organization_ac2d741462bf3bc4d8a650cc497089ddeaeafd0f9d155db5a57014bc5c7679ef"
+    },
+    {
+      "type": "Organization",
+      "name": "member states",
+      "id": "Organization_f14d30bcb7417bce3ec018a79042aa58a1ec468aa2025ca083a355b0dd0ea0c9"
+    },
+    {
+      "type": "Law",
+      "name": "JCPoA",
+      "id": "Law_cd9d8b356cf6d3818412114e08cbf5d6222ecd78d96784758afa8eeb031792c6"
+    },
+    {
+      "type": "City",
+      "name": "Erbil",
+      "id": "City_ee93d0829b3c3cba13f2dc9905971a9c2f04b6d02d049c4550f730205e245dc8"
+    },
+    {
+      "type": "Organization",
+      "name": "our own systems",
+      "id": "Organization_b7ecaaffbc3ef14b27c51fe33a0c02fc1080f372a68633e23a0cbef9a48c39ce"
+    },
+    {
+      "type": "Organization",
+      "name": "our soldiers and special forces",
+      "id": "Organization_ddaf36a1c6f0f3d4f56a65257a5dff58e3334e55a038f34afa1ebca9951ed1d5"
+    },
+    {
+      "type": "Theme",
+      "name": "l'union des marchés de capitaux",
+      "id": "Theme_4df4fed722d8b2a21ef7c3b1e1378ccc88dcae3cf867fb426d3cd9642dc2fad6"
+    },
+    {
+      "type": "Theme",
+      "name": "l'Union de l'investissement et de l'épargne",
+      "id": "Theme_cc6b0adf7935318e761e15fa38aa941feab3709fba1ce271eb1b6992f00f1d9a"
+    },
+    {
+      "type": "Organization",
+      "name": "l'ESMA",
+      "id": "Organization_7733436ce255fe25f209d4266ee3d599fa471bc4e140cfbd0b2723e7f36b86d7"
+    },
+    {
+      "type": "Country",
+      "name": "Etats membres",
+      "id": "Country_454c710321513a03401dc403e939fc29614c251ebb3d57f24bb638c90c7a0244"
+    },
+    {
+      "type": "Country",
+      "name": "plusieurs pays",
+      "id": "Country_f84c5de51749180dae80fb68045e86124d4642d979d8161cfc7c96e9860fef96"
+    },
+    {
+      "type": "Theme",
+      "name": "harmonisation progressive ou la convergence des taxations",
+      "id": "Theme_01095984297936a027ae57e77aebac83c5b0d57ed9786d25692f9b9151f7c9e1"
+    },
+    {
+      "type": "Theme",
+      "name": "régime de faillite",
+      "id": "Theme_cee496e6ab3bbb9a4d10393166f6a6637998fa7278efc44d71e5ef6baa58ed0b"
+    },
+    {
+      "type": "Theme",
+      "name": "impôt sur les entreprises",
+      "id": "Theme_6530032111e3d775e6c16db6049125aeb92c5013aab3d12a3d6056333425be53"
+    },
+    {
+      "type": "Theme",
+      "name": "fonds d'investissement",
+      "id": "Theme_106781a68e32f1a937b96679aa6fc7eaf9e3c13b8f7095fecab424fba509287d"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanismes d'arbitrage",
+      "id": "Theme_700e8543d5a021225a458cef9a07540f8f26dbe7ee3d741fffb5e4d47b83e993"
+    },
+    {
+      "type": "Theme",
+      "name": "opérations techniques",
+      "id": "Theme_fe977fa723b7c9e084c7f843114834342303a46e835c25434f8e718e91ecd135"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité à avoir des impôts qui reste bas",
+      "id": "Theme_d3bc301fb8ed29456d253c2e1b29665e66294f6cda9adc8317ca4a3844a79fc1"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence fiscale",
+      "id": "Theme_f30b67a59b26109bf9805b72356eb57ffd144a0840d28b2f4c236df95de0821e"
+    },
+    {
+      "type": "Theme",
+      "name": "supervision unique",
+      "id": "Theme_e846d50a627cc99b065558521e8e583879955d77b1b841149e269d0f6ba45389"
+    },
+    {
+      "type": "Theme",
+      "name": "système de supervision unique",
+      "id": "Theme_cf990b6cdc48630f1645dffd392340c597b954350b233227a50b6eaa333dce00"
+    },
+    {
+      "type": "Theme",
+      "name": "système de supervision nationale",
+      "id": "Theme_28430ab55c5102a6798582d7f08945f1422593dc445045be74da4fcc96a5d4ee"
+    },
+    {
+      "type": "Theme",
+      "name": "bureaucratie",
+      "id": "Theme_3b1aea815b9264dfbe62b783cf450785b440a6789c30976cadcfb53cc5805c12"
+    },
+    {
+      "type": "Theme",
+      "name": "lourdeur",
+      "id": "Theme_354104fc59b1a243081cfe4a37161f3414399f41a4e69281c8fbd36498ce3ff0"
+    },
+    {
+      "type": "Theme",
+      "name": "coûts de coordination",
+      "id": "Theme_0b8a921693fffb50fef1c51f7477c92f47dab798999dcffc7301ca34cda70272"
+    },
+    {
+      "type": "Theme",
+      "name": "circulation",
+      "id": "Theme_8c2a4a7c7eb4e9577f608f715a9fdf145f421505ef71cba992477afce6f809db"
+    },
+    {
+      "type": "Theme",
+      "name": "droit des faillites",
+      "id": "Theme_9612d13b354a48288c17139ab0d6aa6fd44b6fa98bce43f494204461c6144885"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence progressive de la fiscalité",
+      "id": "Theme_93f73e60bc07ef49171e01dccf257a4eab4cf64f3ade6b810558d36c37992a6b"
+    },
+    {
+      "type": "Theme",
+      "name": "épargne",
+      "id": "Theme_fb2f7ea28a7405e970bdb4f8a4912a8b153450e624a4bc34105e6bc4593a9bb8"
+    },
+    {
+      "type": "Theme",
+      "name": "titrisation",
+      "id": "Theme_0a46919a39d122138bedefed207584d27d3192f0597354fdd404d3d561d3cf5a"
+    },
+    {
+      "type": "Theme",
+      "name": "union",
+      "id": "Theme_dff137f3d672747b8fe186a3b160ca368ea9a4a12f63bf57b4170d4fa5e7f401"
+    },
+    {
+      "type": "Theme",
+      "name": "marchés nationaux",
+      "id": "Theme_5c5bd73b0ee727763020c2c0d9591dd4f7fdc87fa4e2bdf54554976aeb1a30c2"
+    },
+    {
+      "type": "Theme",
+      "name": "banques",
+      "id": "Theme_a100a236691112e0210c5371f1224a74c8bcfbd83eac36690c7555879415e3f0"
+    },
+    {
+      "type": "Theme",
+      "name": "supervision unique bancaire",
+      "id": "Theme_e9b4f5868c65f5637bbf76d6ca118c07def20b69f348b9b14a00fbb269327e68"
+    },
+    {
+      "type": "Theme",
+      "name": "régulation nationale",
+      "id": "Theme_92e422531a811dda56eb7355515e1e2038b24e2ade86e5b4b995635acfefc1ae"
+    },
+    {
+      "type": "Theme",
+      "name": "régulation européenne",
+      "id": "Theme_e6d8b6a29918a3b23e57396689067ba931de200e5eb58a3dd8880a972a47932f"
+    },
+    {
+      "type": "City",
+      "name": "Ukraine",
+      "id": "City_e916f6feb09fedf649ef5cf91be3ed771147aca94a18c19250880b6dc778a9c5"
+    },
+    {
+      "type": "Theme",
+      "name": "attaques",
+      "id": "Theme_cc47c43cea8a7668dfecf5247b07bfa44fd6db36d0c540718497071d37604c66"
+    },
+    {
+      "type": "Theme",
+      "name": "gaz",
+      "id": "Theme_23c772ec8e48db56d58d61be20b92c8c3f24d744a200ab1b8ff2005eef4b1e48"
+    },
+    {
+      "type": "Theme",
+      "name": "pétrole",
+      "id": "Theme_3260ac0f04251087e1b398b0d2bf276cec225dfc5f0db44e9872e55badaa7627"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanismes de contournement",
+      "id": "Theme_241f02ad623b0de24807158d624afd2d4551144680f324edb3ae050910d6deda"
+    },
+    {
+      "type": "Theme",
+      "name": "nucléaire",
+      "id": "Theme_927dfccf0816559ed674d21bfa04b65d92e2b854ed7286d96da690bcf77b0ee2"
+    },
+    {
+      "type": "Theme",
+      "name": "renouvelable",
+      "id": "Theme_d0beb8d3065f33b4c348175dce1aba64c98ce89f1a5876f75f351c8752b2dd50"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Theme",
+      "name": "droit pour les femmes",
+      "id": "Theme_d5c3624ecc7c3619de61880cbe38b2adc07d1ddc93811361f74f5651dd8ce701"
+    },
+    {
+      "type": "Theme",
+      "name": "droits fondamentaux",
+      "id": "Theme_d9b4fe1c479d332e7300e316d32c15aeb5cb1ac64fafb3edc188bbdc443faa35"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Iran",
+      "relation": "VISITED",
+      "target": "Moyen-Orient",
+      "evidence": "en particulier pour viser la production et le transfert de missiles et drones iraniens vers le Moyen-Orient et la Russie",
+      "confidence": 1.0,
+      "source_id": "Country_871e325fd657f4a4b1636354b6ca07ebbba9f95b037f7abc98dc5e5d7485b1e8",
+      "target_id": "Country_2de49a8ab091aa1bdb7077eae809b237c5996590ecd7c342f4752b3b30411fb1"
+    },
+    {
+      "source": "Europe",
+      "relation": "SUPPORTS",
+      "target": "Liban",
+      "evidence": "Le Conseil européen a donc notamment décidé d'apporter un soutien renforcé aux forces armées libanaises.",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "source": "Conseil européen",
+      "relation": "MENTIONS",
+      "target": "compétitivité",
+      "evidence": "Aujourd'hui, le Conseil européen s'est concentré sur les enjeux de compétitivité.",
+      "confidence": 1.0,
+      "source_id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277",
+      "target_id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "source": "Jacques DELORS",
+      "relation": "SPOKE_ABOUT",
+      "target": "marché unique",
+      "evidence": "Jacques DELORS avait jeté les bases de ce marché unique",
+      "confidence": 1.0,
+      "source_id": "Person_bf44456d85fd5bb992bf0e158b65f5c46b0ed5ea603af0f60470aa2db16cf4cb",
+      "target_id": "Theme_20dd50ae164d3f152ef77948cb732b929faf16e2e579353a7a6ed58d27740261"
+    },
+    {
+      "source": "coalition",
+      "relation": "SUPPORTS",
+      "target": "Pays-Bas",
+      "evidence": "une coalition qui s'est montée avec des systèmes de F-16 en particulier qui est coordonnée par les Pays-Bas",
+      "confidence": 1.0,
+      "source_id": "Organization_2d98a336b361fd804af3602880c6fc58a8d0d12b960c29dc036ccec093891de9",
+      "target_id": "Organization_3f1902b3d00c5775391d0f3b65a0f7b00c1519e3721f6703f37a6ab79127b5b7"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "nous utilisons très différemment. La France ayant la dissuasion nucléaire, elle a beaucoup moins de systèmes pour elle-même qui sont disponibles",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "France",
+      "evidence": "nous utilisons très différemment. La France ayant la dissuasion nucléaire, elle a beaucoup moins de systèmes pour elle-même qui sont disponibles",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "SCALP",
+      "relation": "SPOKE_ABOUT",
+      "target": "Taurus",
+      "evidence": "Et parce que le missile SCALP est aussi utilisé par plus de partenaires et dans ses qualités, ses spécificités est plus adapté que le Taurus à la situation sur le terrain.",
+      "confidence": 1.0,
+      "source_id": "Organization_759bd803b2bf6ddaf3438cf01d7e21704c6f5f5778c7efd2ca2017c38b06d43b",
+      "target_id": "Organization_40d5f4cb2146be171d4404e00a817bb5033b2038551bc8d314c3bdc5f81c1ecd"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "souveraineté économique",
+      "evidence": "Nous, Européens, si nous voulons être géopolitiques au sens le plus politique et diplomatique ou militaire du terme, nous devons l'être sur le plan économique, sinon nous ne pourrons pas décider pour nous-mêmes. Et donc, il faut une Europe qui soit plus autonome, sans être autarcique, pour produire ses solutions face à la transition digitale et la transition verte, qui produise ces solutions de financement et qui produise les éléments clés de sa souveraineté économique.",
+      "confidence": 1.0,
+      "source_id": "Organization_0e18375fa8517135976192f3de78a8dafdedd09fed944ce83001a2e5edfa8183",
+      "target_id": "Theme_2ca9d52b00425147d34a1d428fbc4e77f12e70f8df0a220dc435f78dae32060b"
+    },
+    {
+      "source": "harmonisation progressive ou la convergence des taxations",
+      "relation": "MENTIONS",
+      "target": "régime de faillite",
+      "evidence": "L'un des points clés qui va avec le régime de faillite, c'est l'harmonisation progressive ou la convergence des taxations des principaux acteurs et mécanismes qui sont impliqués dans les marchés de capitaux.",
+      "confidence": 1.0,
+      "source_id": "Theme_01095984297936a027ae57e77aebac83c5b0d57ed9786d25692f9b9151f7c9e1",
+      "target_id": "Theme_cee496e6ab3bbb9a4d10393166f6a6637998fa7278efc44d71e5ef6baa58ed0b"
+    },
+    {
+      "source": "États-Unis",
+      "relation": "LOCATED_IN",
+      "target": "États-Unis",
+      "evidence": "investis aux États-Unis",
+      "confidence": 1.0,
+      "source_id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61",
+      "target_id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "source": "États-Unis",
+      "relation": "SPOKE_ABOUT",
+      "target": "épargne",
+      "evidence": "c'était un point pour répondre aux 300 milliards d'euros par an d'épargne européenne qui sont investis aux États-Unis",
+      "confidence": 1.0,
+      "source_id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61",
+      "target_id": "Theme_fb2f7ea28a7405e970bdb4f8a4912a8b153450e624a4bc34105e6bc4593a9bb8"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "gaz",
+      "evidence": "Parce que la France, aujourd'hui, est l'un des pays qui est le moins dépendant du gaz d'où qu'il vienne.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_23c772ec8e48db56d58d61be20b92c8c3f24d744a200ab1b8ff2005eef4b1e48"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "droit pour les femmes",
+      "evidence": "la France défend l'entrée dans la charte des droits fondamentaux de ce droit pour les femmes",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_d5c3624ecc7c3619de61880cbe38b2adc07d1ddc93811361f74f5651dd8ce701"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "droits fondamentaux",
+      "evidence": "la France défend l'entrée dans la charte des droits fondamentaux de ce droit pour les femmes",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_d9b4fe1c479d332e7300e316d32c15aeb5cb1ac64fafb3edc188bbdc443faa35"
+    }
+  ]
+}

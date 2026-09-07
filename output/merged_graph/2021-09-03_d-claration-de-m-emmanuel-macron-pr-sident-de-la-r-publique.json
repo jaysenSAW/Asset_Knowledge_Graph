@@ -1,0 +1,745 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Madame la ministre",
+      "id": "Person_d24db9b861f5abc4d707048a25b8a667582b4e67a70c31efc1cd4c41fb72d049"
+    },
+    {
+      "type": "Person",
+      "name": "Monique BARBU",
+      "id": "Person_a33b53f06c582e69ec49820363cc50177a87c924c03260a372406f3a6d82ae20"
+    },
+    {
+      "type": "Person",
+      "name": "Cacique RAONI",
+      "id": "Person_bf881f0aff4f0608f1eca3c14427ea2fa282b0f8b78d5a3146752a458922c352"
+    },
+    {
+      "type": "Person",
+      "name": "Harrison FORD",
+      "id": "Person_544d2847b2e564892a446afd4c7e910fc42df0b85d517eab4a14ec5f640391de"
+    },
+    {
+      "type": "Person",
+      "name": "Nicolas HULOT",
+      "id": "Person_1b491cca54a5717f6da3df6b36bbfbafc8303b6a5d77ce4bb37ca8aace8599a0"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "nature",
+      "id": "Theme_271e2d714f29d82d6423982b73f93e64d04478e9c80a41df8956af82012e9754"
+    },
+    {
+      "type": "Theme",
+      "name": "humanité",
+      "id": "Theme_ebe8df3ac285e08d8c5b09a171c984dd674712e8f6706876ba58be414310d3e9"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie de Covid-19",
+      "id": "Theme_4058fe690a16ec88ca75848e43e55d7e47dc92f497c7adb5c46fd807d9ed87e4"
+    },
+    {
+      "type": "Theme",
+      "name": "mondialisation",
+      "id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef"
+    },
+    {
+      "type": "Theme",
+      "name": "écosystèmes",
+      "id": "Theme_b7d4587247892e61fe36d439de21be3110bf2430bb7ada367817d8861d45df2b"
+    },
+    {
+      "type": "Law",
+      "name": "un texte de loi",
+      "id": "Law_791dede88d63d1f873e106a80e5fafe0cd305a2d961bbad8da08bb185ed469d3"
+    },
+    {
+      "type": "Theme",
+      "name": "la protection, de la préservation des sols vivants",
+      "id": "Theme_d08118df92e7859fa0c536430a789d86614a21efe197cf5d7456622daed4452d"
+    },
+    {
+      "type": "Theme",
+      "name": "la lutte contre l'artificialisation des sols",
+      "id": "Theme_82e74ddca0e107b560537962da7f3d22c2c9e0febea17c54d95dfcd18e9098fb"
+    },
+    {
+      "type": "Organization",
+      "name": "One Planet Summit",
+      "id": "Organization_a4bcf4f73de7aa31dde53c7e27b7803611f4df4940694e62fcec28d53f077699"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de l'Union européenne",
+      "id": "Organization_0f747165c9521ca8f0bd2bc016ae4f2fc3c2e5412c2fd372afe073d26a89b3c4"
+    },
+    {
+      "type": "Theme",
+      "name": "protection forte",
+      "id": "Theme_9e29425ddcfd0b092ebf89be4c42185846b7e22b16704c0585a9f9759217b937"
+    },
+    {
+      "type": "Theme",
+      "name": "Méditerranée",
+      "id": "Theme_5c1c6aabbbbfca70275e0d75df4cfac0908561fd5d54b651fb9166d10e16662e"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "préservation",
+      "id": "Theme_7049f970534e90e9e42b1b0bf1a06899b4313e0e1b6331b882d73671e1cdc35b"
+    },
+    {
+      "type": "Theme",
+      "name": "pesticides",
+      "id": "Theme_f88fec1508e2194d84e6357981980f72457499ae2ce8de6e2818925b9f1c266e"
+    },
+    {
+      "type": "Theme",
+      "name": "sols vivants",
+      "id": "Theme_4941824920d903eab8e5008e825af7dad0f683195d8c3c2b8975ad166d3659c2"
+    },
+    {
+      "type": "Theme",
+      "name": "transition",
+      "id": "Theme_e63e6ab1512da86e741fe3d7ec082523f6b684c749eb3aef27e0dfd412c0a6b6"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "substituts non chimiques",
+      "id": "Theme_b3cafb929e029894f59f8e9eb73d645f4d9a0870b5bd1371213622be82b9a236"
+    },
+    {
+      "type": "Theme",
+      "name": "cépages résistants",
+      "id": "Theme_28a7517b128136458132d9ea538670f48a6d0870b089cb6a3dbe470086171ccc"
+    },
+    {
+      "type": "Theme",
+      "name": "dépendance aux pesticides",
+      "id": "Theme_cb194414a9068742c7dad7af12a00ca53191bc854263b386556e3e41033efce9"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanisation",
+      "id": "Theme_11ef122af3dfc9b9363420bc224fcd813a0144a959b792ca5811928eca9be4c5"
+    },
+    {
+      "type": "Theme",
+      "name": "plan protéines",
+      "id": "Theme_6b824d2792866102f07d836428894cbb18af0a012d6468810b93293691415e74"
+    },
+    {
+      "type": "Theme",
+      "name": "plan haies",
+      "id": "Theme_391d122e8e8256ef85da2a33b34fc3d1cf6f7df505dd797b86fd30166315b5cc"
+    },
+    {
+      "type": "Theme",
+      "name": "investissements",
+      "id": "Theme_ed43a7e85651b66b51cf8fbe286f5e4f6f24bf5b642f0a23c27ceaff81901a3f"
+    },
+    {
+      "type": "Theme",
+      "name": "plan de relance",
+      "id": "Theme_0284b43f69888e3ab0015c645b207cd8a09e25a57ef364a712d8ad0acf0ba263"
+    },
+    {
+      "type": "Theme",
+      "name": "France 2030",
+      "id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d"
+    },
+    {
+      "type": "Theme",
+      "name": "Union européenne",
+      "id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "type": "Theme",
+      "name": "forêts",
+      "id": "Theme_1240508ec111d344871ee2eca4741bff873de4cefa7235aaf1e7b0be5524767e"
+    },
+    {
+      "type": "Theme",
+      "name": "restauration des écosystèmes",
+      "id": "Theme_cf0e24da8d905cb514a13cd6bd7310905fb71fb281320ac35ff2f4f88e1a8f41"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre la déforestation importée",
+      "id": "Theme_83df10e24f64648e265fe4bc4dad0cfc944fb12ac2737cc2fc53c62ca70ac42a"
+    },
+    {
+      "type": "Theme",
+      "name": "huile de palme",
+      "id": "Theme_3584592acf59db58c54691e5a21173ea11e1dbe1f5e8e01d899c27c832c4f54e"
+    },
+    {
+      "type": "Theme",
+      "name": "soja",
+      "id": "Theme_5d549f8ed3975833fe56a79476c04ca87cd5691bec4b3cf44581f890eade1805"
+    },
+    {
+      "type": "Theme",
+      "name": "protéines",
+      "id": "Theme_19fe2e5e0ef899d7fcdfa3582973fda4302a156cdb3e44eae10ffbf005c074d4"
+    },
+    {
+      "type": "Theme",
+      "name": "Amazonie",
+      "id": "Theme_a3dd2390f6220c5e80378d4b3eed3c17df25d25fa3145d13916833057a1bc1c1"
+    },
+    {
+      "type": "Country",
+      "name": "Brésil",
+      "id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "continent américain",
+      "id": "Country_f23db5c5235026e9e6bd75c71f6942ac964ab51f6d66205cbda231097fe0b8c6"
+    },
+    {
+      "type": "Country",
+      "name": "Amérique du Nord",
+      "id": "Country_9107b2d2dcee13b57baf9bec58bd88fa52ddef173f9c94fde4258eeb9359625e"
+    },
+    {
+      "type": "Country",
+      "name": "Amérique du Sud",
+      "id": "Country_32948a1769ccd4bf4a282d88d33f388fe28536517aa3928d111c5d21183bd30e"
+    },
+    {
+      "type": "Theme",
+      "name": "déforestation",
+      "id": "Theme_b0021b43ded23b2328b09c00f17051c7c9fc076afb903b4c82485a9bca21e8a8"
+    },
+    {
+      "type": "Theme",
+      "name": "cacao durable",
+      "id": "Theme_e80723795962fdf38b02f30b8f4b52ef4359aeb792bafcc73d9bccb158aef0d7"
+    },
+    {
+      "type": "Organization",
+      "name": "Alliance pour les forêts tropicales",
+      "id": "Organization_e17d93742d444b7521322adb307f47aa6567b6bf5f35dd4aa82d53344f9c5683"
+    },
+    {
+      "type": "Country",
+      "name": "Norvège",
+      "id": "Country_01255a6d7078545605faae7f3b57607774761cefa10e25e0bff7873d4b8710cd"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Organization",
+      "name": "Conservation International",
+      "id": "Organization_4a701a897e7fa6460bff1dec06b194cebd827334c55bd6efde4238098a069669"
+    },
+    {
+      "type": "Person",
+      "name": "Harrison",
+      "id": "Person_5e5c8fb31e16dc8dfc2ab1649cc6fbb43e892586be587a4fa4f43ebfb531fd96"
+    },
+    {
+      "type": "Person",
+      "name": "ISSOUFOU",
+      "id": "Person_1e56a1ae74a3ad07d4ca26e4fb67e1e4ddd17f67381e1af197649a78e6322632"
+    },
+    {
+      "type": "Country",
+      "name": "Niger",
+      "id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb"
+    },
+    {
+      "type": "Theme",
+      "name": "pauvreté",
+      "id": "Theme_95b7ed519406cd062b2738f35707ce2b499fc7f2e5179d4c674216f14032a781"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "terrorism",
+      "id": "Theme_a348838fece2a9c780044dab4f291a936095c2be9a10ee5e2924e483e90652b2"
+    },
+    {
+      "type": "Theme",
+      "name": "transition démocratique",
+      "id": "Theme_69608962977460165ca9e56860a80b13668c42bfab9cad26eb61d812b54c8806"
+    },
+    {
+      "type": "Theme",
+      "name": "Grande muraille verte",
+      "id": "Theme_58286a4f444f01d64e750dc892b922c9dcaf2a352bc81f528770744d5f8eb4d6"
+    },
+    {
+      "type": "Theme",
+      "name": "désertification",
+      "id": "Theme_70fc70e54fb156905e2b9ae56f4a176fae15edc3d9c139572c65f8041f060178"
+    },
+    {
+      "type": "Theme",
+      "name": "dérèglement climatique",
+      "id": "Theme_60205647b2eeaf601ee4e2e6b9ea7a92cc19a6fd1c5394651d737742ade35773"
+    },
+    {
+      "type": "Organization",
+      "name": "FIDA",
+      "id": "Organization_9ca38725099e2207a24e73ff41db52728678010ff012866b8e49cfea4427b308"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Guinée",
+      "id": "Country_edc36c904f4a3ef06419d1e9eecc1ef6b51cb15fa3ff07a2b70180890c25bc67"
+    },
+    {
+      "type": "Theme",
+      "name": "agenda de Paris",
+      "id": "Theme_8dd8042a7677f72bc4bf76141bac4eb8e63eb41a357a4086ad6e3892451a15f0"
+    },
+    {
+      "type": "Theme",
+      "name": "reforestation",
+      "id": "Theme_4080c361877a9fef5d07619d472ede7086e39a2aa657d3c21fdeae90ca9543a6"
+    },
+    {
+      "type": "Theme",
+      "name": "projets agroécologiques, agroforestiers et agricoles",
+      "id": "Theme_8cc432eb7b4718691ef8cd01f54d6c5e56179725f6b7440c661808b28eed4c5d"
+    },
+    {
+      "type": "Law",
+      "name": "une loi",
+      "id": "Law_c2bc4bfc94de2e96d1e0d8b16fe1e1a8ca42c75414e1720e31692c538e637257"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le plastique",
+      "id": "Theme_0ab3becb9af9fb9697b136c1617990f6c0cc2fb6e8e3f27fdc4e692474c317fb"
+    },
+    {
+      "type": "Theme",
+      "name": "économie circulaire",
+      "id": "Theme_c93a4be8fd3388cf648eb3a4d186c022f82f2a0a4b99d9e0f647327fa3be01a5"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagnement",
+      "id": "Theme_d41a2410d8b1353cdac216ebec7bce81e567ae80b1d56a5c5b7942fee7e103c4"
+    },
+    {
+      "type": "Theme",
+      "name": "pollution",
+      "id": "Theme_940c152474bd5ce5421c20a0c8caf4c90597e161361aca1907e2859ef23e26a0"
+    },
+    {
+      "type": "Theme",
+      "name": "7ème continent",
+      "id": "Theme_6338da79bf03b3b6d493978d2ce89a720663ac8e94edfee957e5174d5755f9d0"
+    },
+    {
+      "type": "Theme",
+      "name": "plastique",
+      "id": "Theme_aabb2c81d054eb93e0fc30957aa719de8ea5ea6c380d2dda3d337f9ab881b0ec"
+    },
+    {
+      "type": "Theme",
+      "name": "gaspillage",
+      "id": "Theme_f7850d8a5036c4bcbc27dde9417047fb476448253ccd98b41835dbc579d9c492"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilisation",
+      "id": "Theme_0eab3e350d3777625fe2debe6b8f064adc4c51e5eed0b4c88551e272e7c84470"
+    },
+    {
+      "type": "Theme",
+      "name": "financement",
+      "id": "Theme_753991ffba35a77cb9b4d4a4174851808d7a25a6bbedd80308880f71ca0de941"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrosphère",
+      "id": "Theme_1bfc20ad223bcf22f46d5eb0d6e404a19635503221f5164ae94ab9898c4dd841"
+    },
+    {
+      "type": "Theme",
+      "name": "aventure",
+      "id": "Theme_2531984293d7878a766f8e0c83fd6ded8a3d0cc1805c4135f7401cedc6eeff39"
+    },
+    {
+      "type": "Organization",
+      "name": "SAILS",
+      "id": "Organization_4ca3d255c57a4b28b644b91a2c668bbcfb3851fbb8aab78dc96fc7d2753f48c5"
+    },
+    {
+      "type": "Organization",
+      "name": "CMA-CGM",
+      "id": "Organization_72cd9c1dac213881ffbbf0f12e7daf6f9ef586493ab1f6961bc670abb50d6546"
+    },
+    {
+      "type": "Theme",
+      "name": "sauver les océans",
+      "id": "Theme_d000e382ecb6a8ed10481ae596e8f1da16a99a3b9dab3de9564e1fa245583bff"
+    },
+    {
+      "type": "Theme",
+      "name": "aires marines protégées",
+      "id": "Theme_9db536f895dae66d1255cb976c3f6fc624c05ad7a624edb1a012c6fe4727af0a"
+    },
+    {
+      "type": "Theme",
+      "name": "connaître nos océans",
+      "id": "Theme_376e4644c7af44c1a5b75b1a817edbaa354218116f2556fd97a826350b7e4e49"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Européen",
+      "id": "Organization_de7c2123494b86337dae9eef3b5cce75bed552de7231dfa3887139bb2b151491"
+    },
+    {
+      "type": "Theme",
+      "name": "océans",
+      "id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "type": "Theme",
+      "name": "science",
+      "id": "Theme_d67c10976c1585f4e9e05fc3bac6b493bcfd249cfb52bacfebf7d74d2b724f45"
+    },
+    {
+      "type": "Person",
+      "name": "Étienne",
+      "id": "Person_558752abe5fae457849c74c800ca9a0a4227586473d93be1c943c39dcd0458bf"
+    },
+    {
+      "type": "Event",
+      "name": "One Ocean Summit",
+      "id": "Event_7e610dddf52f1431ad63316ae45e51570ec95a33accdd617b210bdc14f01b8fc"
+    },
+    {
+      "type": "Event",
+      "name": "One Planet Summit",
+      "id": "Event_ad16f318b55d27b22442931069e196fae4c0a1f80c1ddfb14d437386bacaaded"
+    },
+    {
+      "type": "Person",
+      "name": "Michel ROCARD",
+      "id": "Person_5cdb5eef8a4bb746e7629fac51346a3254cf726f4cf1e007a6161270dbb611bf"
+    },
+    {
+      "type": "City",
+      "name": "Antarctique",
+      "id": "City_58171d98b67f532360974bb406278361163045a9020ae1664a01bb6a6d264bba"
+    },
+    {
+      "type": "City",
+      "name": "Arctique",
+      "id": "City_bf08458eef6ceb4a859bb51fe3c3e3c5f5bf52d2f5a3f0b396567377e972b4d8"
+    },
+    {
+      "type": "Law",
+      "name": "Nos lois",
+      "id": "Law_30d18a299e159532a70838ceb4466bb541a668ff76924dea7037467d455d17de"
+    },
+    {
+      "type": "Country",
+      "name": "La France",
+      "id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité climatique",
+      "id": "Theme_096461496cce78ffe752c42779ff0015087884d483a0e43edf617f633256dab0"
+    },
+    {
+      "type": "Person",
+      "name": "Christine LAGARDE",
+      "id": "Person_5c515b3290be42dc8ace9fe46a54c388bbfc098d904b23c676b62f7ed13fca4a"
+    },
+    {
+      "type": "Person",
+      "name": "Laurent FABIUS",
+      "id": "Person_704e8afdbaca490abcefc61e4df9d4cc4674910364ec98f9706b4c073a2cf4a8"
+    },
+    {
+      "type": "Theme",
+      "name": "comptabilité",
+      "id": "Theme_df1e42f540e06442e724afc14b55de28b4b2f2007e9a3ffd7bdd9ae7f3b03cfc"
+    },
+    {
+      "type": "Organization",
+      "name": "AFD",
+      "id": "Organization_083867e3b191ef83df992d01216f1dd45eab3c38e55042c0d9fc4313c8b5fd52"
+    },
+    {
+      "type": "Organization",
+      "name": "BCE",
+      "id": "Organization_f59efc0dc967fb07f69cb3a726ce5f4246d4ab9d9c887dd7d833b97b2952ba9f"
+    },
+    {
+      "type": "Person",
+      "name": "Christine",
+      "id": "Person_a36277b43d44480a72c6596036294e1008214a696567c067e3ec81f004746b3e"
+    },
+    {
+      "type": "Theme",
+      "name": "standards financiers",
+      "id": "Theme_94560ef9536e7beea41061528b3511c373c70989e5023d1f7591f98c61cbc3dc"
+    },
+    {
+      "type": "Country",
+      "name": "Mercosur",
+      "id": "Country_d3728ffd4f7e5921d737622247a5607b4cb5bdfdacb8d95f0fa8268105c39957"
+    },
+    {
+      "type": "Organization",
+      "name": "la Commission",
+      "id": "Organization_99e9e0c6dabbe98de51a6718fcdaa4dee9d73e201e37cf2658b0ba93b17a9320"
+    },
+    {
+      "type": "Theme",
+      "name": "écologie",
+      "id": "Theme_468fbf38649b9965406ddc191352a40c1b9e2ece5a4cf8ca29788cdd7cd53d79"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "social",
+      "id": "Theme_f56a2d9d095e45391d6aec33e39ec6cf633c5a21bda6f8e4cb689786529558da"
+    },
+    {
+      "type": "Theme",
+      "name": "paradigmes",
+      "id": "Theme_b636178d9df37f1cd8d485dea9a5fdb8023cb7ea815fa79a8a58b851d8f2e923"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculteurs",
+      "id": "Theme_e8bb23c61a62a4b8bc09ad80c4affb7a3e5f469e23f1498946a2d5acd6c09f59"
+    },
+    {
+      "type": "Theme",
+      "name": "pêcheurs",
+      "id": "Theme_0a80a01764c03a20896b08d299500982a6ac3ae34c6f84501ebe40ed1bdae27e"
+    },
+    {
+      "type": "Theme",
+      "name": "concitoyens",
+      "id": "Theme_0ff3925b7ba63cbf673a2472bfd56efd3c66e053d51097b02b91824a782e7ed5"
+    },
+    {
+      "type": "Theme",
+      "name": "pays en voie de développement",
+      "id": "Theme_dd8363b0b3a84afd6d749cf0a9f7929aa90428e8465981dc31e53dc710e8cd68"
+    },
+    {
+      "type": "Theme",
+      "name": "pays les plus pauvres",
+      "id": "Theme_b484e96f2cb7bbd5379cb4d7ea7799c9bced962947f707e765418da0e94dd3c0"
+    },
+    {
+      "type": "Theme",
+      "name": "paradigmes financiers",
+      "id": "Theme_4bf1f7a16c11ec84469801c4f2988cc0a48f05c919f86e148fc6b4e132eaa962"
+    },
+    {
+      "type": "Theme",
+      "name": "gouvernements",
+      "id": "Theme_6482720560430fdeb3aee8281b20e0456e93ffc9529248c44c7bb3a09c952a0a"
+    },
+    {
+      "type": "Theme",
+      "name": "investisseurs privés internationaux",
+      "id": "Theme_32806c13dcd328f4a896861f42c446cdcc61b856a8d88a35680ff42e84f9a38d"
+    },
+    {
+      "type": "Theme",
+      "name": "capitalisme international",
+      "id": "Theme_9ccc1af546b589fa782914323b7fd553425c2519b919de59c6b35284a5760d9b"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilité économique",
+      "id": "Theme_e57c7d6be5be0ec9bfbad006fc8e9932baaab32acbe7c132f6795363bc96cd67"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme efficace",
+      "id": "Theme_f03160f5b87672d1977e142adae55629be170ec2f5f825d00e5bdbedecc7dcff"
+    },
+    {
+      "type": "Theme",
+      "name": "sens",
+      "id": "Theme_a497d3133b843f82d7a6211f676857634d7c3318e72e0acb4e21f67160639131"
+    },
+    {
+      "type": "Theme",
+      "name": "déréglé",
+      "id": "Theme_0c1703d4d1a234536e38705fb4c941580ec5cfd1574c35dd251ca3682ddd1d08"
+    },
+    {
+      "type": "Theme",
+      "name": "bataille pour le climat",
+      "id": "Theme_aced4a703796b78244258919fac8dbaa02811ccf8a215b5777d9aa03045c061e"
+    },
+    {
+      "type": "Theme",
+      "name": "peuples autochtones",
+      "id": "Theme_944103354ef44d6c6903b19b0b3c20decf27e0d60ec485a49d86823e09d62124"
+    },
+    {
+      "type": "Theme",
+      "name": "solutions",
+      "id": "Theme_18664bd237fcedb75da4a7e7984e1f0da956288dfd4e0aa5b7933dc5c243b257"
+    },
+    {
+      "type": "Theme",
+      "name": "combattants",
+      "id": "Theme_b4a095480c36e0191e51a93238ac65adfd1608f6facb6c98fd8b46a30f16f839"
+    },
+    {
+      "type": "Theme",
+      "name": "enthousiastes",
+      "id": "Theme_655a8bed6c6c14d2c258d088859682337fb42003774ebfd70ec7c5a4e4dc9b3f"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Alliance pour les forêts tropicales",
+      "relation": "LOCATED_IN",
+      "target": "Norvège",
+      "evidence": "L'Alliance pour les forêts tropicales, qui est venue compléter des initiatives prises depuis longtemps par la Norvège",
+      "confidence": 1.0,
+      "source_id": "Organization_e17d93742d444b7521322adb307f47aa6567b6bf5f35dd4aa82d53344f9c5683",
+      "target_id": "Country_01255a6d7078545605faae7f3b57607774761cefa10e25e0bff7873d4b8710cd"
+    },
+    {
+      "source": "Alliance pour les forêts tropicales",
+      "relation": "LOCATED_IN",
+      "target": "Allemagne",
+      "evidence": "L'Alliance pour les forêts tropicales, qui est venue compléter des initiatives prises depuis longtemps par la Norvège, l'Allemagne qui ont été précurseurs en la matière",
+      "confidence": 1.0,
+      "source_id": "Organization_e17d93742d444b7521322adb307f47aa6567b6bf5f35dd4aa82d53344f9c5683",
+      "target_id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "source": "ISSOUFOU",
+      "relation": "PROPOSED",
+      "target": "Grande muraille verte",
+      "evidence": "Le Président ISSOUFOU a fait deux mandats de Président au Niger, qui est l'un des pays les plus pauvres de la planète. Durant ces deux mandats, il a contribué à réduire la pauvreté. Il s'est battu contre la guerre et le terrorisme, mais surtout il a permis la première transition démocratique dans l'histoire de son pays, la première et donc, ce n'est pas un hasard si un homme comme lui a considéré qu'il était naturel pour son pays, son continent après ce petit miracle, de poursuivre la tâche et de venir pour s'occuper de la Grande muraille verte.",
+      "confidence": 1.0,
+      "source_id": "Person_1e56a1ae74a3ad07d4ca26e4fb67e1e4ddd17f67381e1af197649a78e6322632",
+      "target_id": "Theme_58286a4f444f01d64e750dc892b922c9dcaf2a352bc81f528770744d5f8eb4d6"
+    },
+    {
+      "source": "Niger",
+      "relation": "LOCATED_IN",
+      "target": "Niger",
+      "evidence": "Le Président ISSOUFOU a fait deux mandats de Président au Niger, qui est l'un des pays les plus pauvres de la planète.",
+      "confidence": 1.0,
+      "source_id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb",
+      "target_id": "Country_73cedc1acd76dd82b7ac35592d000d1efb4f5d89e3dabc29a61190a9df68c3cb"
+    },
+    {
+      "source": "La France",
+      "relation": "SPOKE_ABOUT",
+      "target": "biodiversité",
+      "evidence": "La France n'attendra pas les lois pour prendre toutes les mesures qu'elle peut prendre pour que rien de la biodiversité dans la région arctique ne puisse être dégradé par des projets économiques portés par des entreprises.",
+      "confidence": 1.0,
+      "source_id": "Country_33d24f447d68165f000a36f28f7d26b585ee3f79cb44b444cdcefdec5397bb93",
+      "target_id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "source": "France",
+      "relation": "OPPOSES",
+      "target": "Mercosur",
+      "evidence": "La France est contre le Mercosur tel qu'il est négocié aujourd'hui et nous le resterons très clairement, pas parce que nous ne sommes pas à l'aise avec nos amis du Mercosur, au contraire, mais parce que par définition, cet accord tel qu'il a été conçu et pensé, ne peut pas être compatible avec notre agenda climatique et de biodiversité, ça n'est pas vrai.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_d3728ffd4f7e5921d737622247a5607b4cb5bdfdacb8d95f0fa8268105c39957"
+    }
+  ]
+}

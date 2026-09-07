@@ -1,0 +1,810 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Pedro",
+      "id": "Person_03d1fd69708c8c82fe8acb71908a3de296a5f905b35727bc6a963a297eb6b6c2"
+    },
+    {
+      "type": "City",
+      "name": "ville unique",
+      "id": "City_5e1fe97fcbb7fc0c2d22fd129e265cf7168b8905ae4a78eaef6386032036df1b"
+    },
+    {
+      "type": "Law",
+      "name": "traité",
+      "id": "Law_39204d6624c1ae0f276cd48afafb03d90832e54b78a3b3047d10ac0954e7598d"
+    },
+    {
+      "type": "City",
+      "name": "Montauban",
+      "id": "City_4da8f3da0ee7c8cad376e79265e6ff7498a4475b3effb3631618b141d18f8800"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "binationalité",
+      "id": "Theme_e9eb6f3e79044fce2d0c1c98badfe52a03c846b4d56288681b4f487aa904660d"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "exilés républicains espagnols",
+      "id": "Theme_83a2c8a34751db0d22ec57fd3350178ab30443186b7bb03826325ac85cde8293"
+    },
+    {
+      "type": "Theme",
+      "name": "traité de Barcelone",
+      "id": "Theme_539741710af818f6a83724b482b19c9aace8e24db7445620236fb44ef6a2597c"
+    },
+    {
+      "type": "Organization",
+      "name": "ETA",
+      "id": "Organization_ce28683faf97faa1e933958e5438b53bc360b2676ae0a69393c5dc1e2ab4713a"
+    },
+    {
+      "type": "Country",
+      "name": "nos deux pays",
+      "id": "Country_2bd470f2122568640e3762e9bf14400458b6f8d21f909f537011d97d9af8f053"
+    },
+    {
+      "type": "Organization",
+      "name": "Traité d'amitié et de coopération",
+      "id": "Organization_f4ab8c42a31070780bb300445a5a5420ba9e93228ca90033c190007703758b0b"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "cadre de coopération de défense",
+      "id": "Organization_a40d7f065d4a782c0c2119a29af942392329b423c3d55228387654caacc40a6d"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération économique",
+      "id": "Theme_4d9ad0755f2213e9c13c8d6817f70b09eaacd493f7665cb114cf5731864a45d8"
+    },
+    {
+      "type": "Country",
+      "name": "Espagne",
+      "id": "Country_8fa4ceb1665ec8cac75aad8bea7122d78d83f03ae61ea427a9ac8a876b60aeea"
+    },
+    {
+      "type": "Country",
+      "name": "continent américain",
+      "id": "Country_f23db5c5235026e9e6bd75c71f6942ac964ab51f6d66205cbda231097fe0b8c6"
+    },
+    {
+      "type": "Theme",
+      "name": "hydrogène",
+      "id": "Theme_cffc113ac0b7b88a60781cfcdb46d7015be78431d734c3f4019d6eed6b82cc81"
+    },
+    {
+      "type": "Theme",
+      "name": "cloud",
+      "id": "Theme_e66cd9d6a24ef776a6c7ab7baa4f744b43da9329db88ba3ef4c45f6a0784f29f"
+    },
+    {
+      "type": "Theme",
+      "name": "microélectronique",
+      "id": "Theme_57a09c41f39f435b4cfacfc34a1f321fa0b7c09aca57ea8f73addbe76667e795"
+    },
+    {
+      "type": "Person",
+      "name": "PICASSO",
+      "id": "Person_3c2056e9dfa7188c676a53979b099ccd428024ed54ce8f501a0066d72a735b70"
+    },
+    {
+      "type": "City",
+      "name": "France",
+      "id": "City_353461fac1f29dc5f5e648cef7129a5687dcfc5fab4cdea24faea2ea7a10f9b4"
+    },
+    {
+      "type": "City",
+      "name": "Espagne",
+      "id": "City_a0b1b1e05baecfe7d6690a23f8d0b04c2dd40c3f73368532920d0cd9bc7844b5"
+    },
+    {
+      "type": "Organization",
+      "name": "Communauté économique européenne",
+      "id": "Organization_cf32e953eb301f24f8ab91e6b1f1cf4cdde88f528be5c2014c3747248e1df11e"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Event",
+      "name": "pandémie",
+      "id": "Event_e3c6bbe9c3ea36bf8eae5821d4fbc5c578f155ccb91b3dd1a0f93926ebdd6e3e"
+    },
+    {
+      "type": "Event",
+      "name": "choc de la guerre",
+      "id": "Event_b7c0385e5c9c09077e4f1b0e94a492fb6cf61dddaf28a2ac968f22e46888343c"
+    },
+    {
+      "type": "Event",
+      "name": "conséquences énergétiques et économiques",
+      "id": "Event_bf7af798c024524826bea2faea89aec6fadfa5c623778e0f07a0c2f519b42516"
+    },
+    {
+      "type": "Event",
+      "name": "agenda de Versailles",
+      "id": "Event_1521e8ee2bb865428d05a31eecaf74dc4d11ac937023db4778c87d1a381c1004"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "City",
+      "name": "Sahel",
+      "id": "City_92fe9646c051c53241e17f3fdb2c650a6e9fa01c7eb8480b47877e959ee0b5fe"
+    },
+    {
+      "type": "Theme",
+      "name": "compétitivité",
+      "id": "Theme_44a53acf75130f8b2fd50d89fe1d2138620c3cd62fd523f547691ab6861614a5"
+    },
+    {
+      "type": "Theme",
+      "name": "verdissement",
+      "id": "Theme_b1d35c2748410026e0fcda8be5b8d3c5fae67cf377ebbdab7ad685bb3027908f"
+    },
+    {
+      "type": "Theme",
+      "name": "désindustrialisation",
+      "id": "Theme_b3dfa7b0ccdf0ab4739fefeb64d85d03955757f5756af9cdbfc25b017f494128"
+    },
+    {
+      "type": "Theme",
+      "name": "relance",
+      "id": "Theme_89b3bcb48b8cc3439eb43c613ac6bd35725f85c44b2759c02b21de9a2a64abee"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Theme",
+      "name": "transition climatique et énergétique",
+      "id": "Theme_1905e1cf4c628b0dadc069c0e8c1fbece3b1d0df9848583b08048254b699aac2"
+    },
+    {
+      "type": "Theme",
+      "name": "industrialisation",
+      "id": "Theme_cecfd01b2ace132dee6e7170039bd2f98c4efee2244dfb0b1dc4adf2be5df5e3"
+    },
+    {
+      "type": "Theme",
+      "name": "autonomie stratégique",
+      "id": "Theme_029a7236b3291ee261cba1740f38d69601586a351be77e7e7290bab2819fd644"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie made in europe",
+      "id": "Theme_803c0bc93dbc638dcbd665c49bc383665e36d6cfcd9fc61faafca311bb0fab52"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "financements nationaux et européens",
+      "id": "Theme_61788efc95fcdf1393eb4d88001059fea6b0f9b5715e65b28b760336be9265e3"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "mon cher Pedro",
+      "id": "Person_513201a196feab5ec036dc3ef1227899f96002869fc947009bcf17ca884e5534"
+    },
+    {
+      "type": "City",
+      "name": "Barcelone",
+      "id": "City_a6e0d58b5efd019c9b3c8ca13b240f0dea5f2531ca10a9b89e8381270ebf1111"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "SCHOLZ",
+      "id": "Person_0c7fab8756c3ac2e66d8de7c95955b7b68d04ffe7e2f4299f2e2297b6ce8db13"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "ministres",
+      "id": "Person_0bc7004de8f0ef5d72b87bba9fa77fe333adca307506f854c41c6840d93eee20"
+    },
+    {
+      "type": "Person",
+      "name": "secrétaires d'État",
+      "id": "Person_5796469a1008de243871637159be351576614777885dbe8359021422d7df5a40"
+    },
+    {
+      "type": "Person",
+      "name": "lois",
+      "id": "Person_e442884a6208a4f050a37af304e998dbaa32913139e6f2327895b5bd19702d71"
+    },
+    {
+      "type": "Person",
+      "name": "politique nationale",
+      "id": "Person_e7f4b1a2481ec1b61cb89f272d457c5e950423707d7d137344544036a7e66579"
+    },
+    {
+      "type": "Person",
+      "name": "président SÁNCHEZ",
+      "id": "Person_05c8b029c4ef64eb47ff0bd857a2848412abf2b5f6e9b0120d8e02289928222e"
+    },
+    {
+      "type": "Person",
+      "name": "Chancelier SCHOLZ",
+      "id": "Person_699848f58bd849c584587cac318c9577e499f32ce10538da2e07b0d26c89d901"
+    },
+    {
+      "type": "Person",
+      "name": "SÁNCHEZ",
+      "id": "Person_38ab7d19e1ee110798edcb87edd59562c624da0dbb44fa075702364cb4a2d5b2"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Canada",
+      "id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3"
+    },
+    {
+      "type": "Country",
+      "name": "Mexique",
+      "id": "Country_d3e4ec88b23f6ff4e50f7438e11c41eabddc54b73ce79446e2761c9b1f256a87"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies vertes",
+      "id": "Theme_1fcf986f5e27384b03aacf0d6869b90e6e743f1e8cd05b112af7cd42fc1a7a30"
+    },
+    {
+      "type": "Theme",
+      "name": "technologies propres",
+      "id": "Theme_acc476f2d74c5af1161f24c29e2a203744c257a180b0b4c417aad555868cab03"
+    },
+    {
+      "type": "Theme",
+      "name": "véhicules électriques",
+      "id": "Theme_597ebf0f0545ed57ae5e62552be322b744bf08dcf937fbc03f464ca89c539c24"
+    },
+    {
+      "type": "Theme",
+      "name": "batteries",
+      "id": "Theme_914a237adc208e6bc6bb2bda6f29ea6496e11ad5f7a3469509117578e179ea88"
+    },
+    {
+      "type": "Theme",
+      "name": "composants de batteries",
+      "id": "Theme_a66d28d9dc4a0399e71dba1dc4f7ea0fcde68ce0eb4d329041c12a01fd14d34d"
+    },
+    {
+      "type": "Theme",
+      "name": "transformation de l'acier",
+      "id": "Theme_aa924d7a3fec5fcc73ecb9cd9f2f6ef2783b4d56bd7c20d9f9cbc2952c10bbc6"
+    },
+    {
+      "type": "Theme",
+      "name": "prospérité",
+      "id": "Theme_333a1ab886faddcf34251c5581e86624e6e642f8254c8c295060710be54985b3"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle social",
+      "id": "Theme_84e716fb96d816e1a7cec10303220f68a6aaf5c7e5b53934555aa33e88fc517d"
+    },
+    {
+      "type": "Theme",
+      "name": "exigences climatiques",
+      "id": "Theme_9a898ef93c9478ae3c4a031226246fa3e808d83713ac81c2b4eccacde82cb24f"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Theme",
+      "name": "crédits d'impôts américains",
+      "id": "Theme_4682ef3d90b68fe2258a60214d1536598cec85304fab5196365def3c42f81c05"
+    },
+    {
+      "type": "Theme",
+      "name": "réponse budgétaire",
+      "id": "Theme_c9352ef0fcbcd2dfdbd613171d2c417477e9b8c401b21b98905fecc929622ef8"
+    },
+    {
+      "type": "Theme",
+      "name": "Union européenne",
+      "id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "type": "Theme",
+      "name": "zone euro",
+      "id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "type": "Theme",
+      "name": "monnaie unique",
+      "id": "Theme_2e557318660f2bb514551f7d55476b916739299ea17119489fdd98ca32dfd18c"
+    },
+    {
+      "type": "Theme",
+      "name": "marché unique",
+      "id": "Theme_20dd50ae164d3f152ef77948cb732b929faf16e2e579353a7a6ed58d27740261"
+    },
+    {
+      "type": "Theme",
+      "name": "dette commune",
+      "id": "Theme_ae05161afc46cf263a27168aeaa9dfc40ddb7219ee45a60b670f2cd3f1e26563"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "consensus",
+      "id": "Theme_6bef32d603c8e354337a4b76bc89d9db5807ec9d9dd1900c8584ffabca9d2f41"
+    },
+    {
+      "type": "Person",
+      "name": "Journaliste",
+      "id": "Person_bf0e0c1d168c08ce78d0102e950531dd43ba6c362a328363a871f6d0e3676efc"
+    },
+    {
+      "type": "Person",
+      "name": "Présidents",
+      "id": "Person_7968d5e00c3858839e40468d3fbda6f7f1a95135564545f7370b5a0a48cd1f9a"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur MACRON",
+      "id": "Person_b8fdfbd825f1202ce95a3b35f6da5ac282b96cce4f9b0270e27a6099dfda182c"
+    },
+    {
+      "type": "Person",
+      "name": "Président MACRON",
+      "id": "Person_15ae4a213d835ef7577798185bd607847949379bf71f008ed1e17c6105b05ad8"
+    },
+    {
+      "type": "Organization",
+      "name": "Schengen",
+      "id": "Organization_d943a0a9c077d1d7bf32299f2ebcfd91f6a00d0da4fc50b9ac9689137a5393f7"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "Country",
+      "name": "Schengen",
+      "id": "Country_6a3d1691d064ce783d29f20245436868f0bb53b5e2fa5321c38f31a4b0399e5b"
+    },
+    {
+      "type": "Person",
+      "name": "Président",
+      "id": "Person_2eb5100e05b164e01070c75ab57be7cb5e952e45fddf2454faf356b13dae875d"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme structurelle du marché électrique",
+      "id": "Theme_afcbc2c1a0d45d00518b96dba98aefd465de47251cdb02175999d2380b26008a"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme en profondeur du marché de l'électricité",
+      "id": "Theme_fbaa964c4d6015b3f7c6e87b6bd6ba5312b610022ba56123974cd254f9a09ee0"
+    },
+    {
+      "type": "Theme",
+      "name": "coût de l'électricité",
+      "id": "Theme_3eda343910fbe6aa6487ac2d5e6a4b59c96dd4f5a29156dc9c786408fbcda842"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président de la République",
+      "id": "Person_e86345b05d8782cfddaa96e93ade5433169a424e284eedc4c7f2b6b6bb49576c"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée",
+      "id": "Organization_6921896197ce8ef36bbf1c5a01e3c2313dc4612ab56b6c36f488227dff065439"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme",
+      "id": "Theme_1caa54d42e786fc196a7e6eaefe37e3c9738a422291f92bd439da2eb91c718e5"
+    },
+    {
+      "type": "Theme",
+      "name": "système par répartition",
+      "id": "Theme_25473d252b6ebb8ec061d9da57f9bc8f0f5b18941b8f73f93c00fe063b251eff"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte entre les générations",
+      "id": "Theme_ef115f44515a1e7270d95d547f9e2a3f0b86942dcfc3c74d0b8d35cb402ac307"
+    },
+    {
+      "type": "Theme",
+      "name": "juste et responsable",
+      "id": "Theme_aab7aac12443b661d0a2b10e908ffe2623405912d452aa7bee69f1c098f98b6a"
+    },
+    {
+      "type": "Person",
+      "name": "MACRON",
+      "id": "Person_0123c6440fe5aa6b7871df7e99ee28112b6753541af6940c57692410e426c9ca"
+    },
+    {
+      "type": "Organization",
+      "name": "Generalitat",
+      "id": "Organization_6bc5f091e36790068492758fe0c16eea651b21c8f917624980c44a8e4185b47f"
+    },
+    {
+      "type": "Organization",
+      "name": "Espagne",
+      "id": "Organization_f2bfceb3b15c1cb97d05ac9a10a0dc1fe6d5ef236103892c8f7677417a28e399"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "Castilla-y-Léon",
+      "id": "Organization_7e9648ee9560556d234315669df9d00893010df2fce5ecbc1e72dcf546986711"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil des ministres",
+      "id": "Organization_0e77f083f5451b4d5c56568d9298fe19a377941cb63ecc4249237809717b9deb"
+    },
+    {
+      "type": "Person",
+      "name": "Président du gouvernement d'Espagne",
+      "id": "Person_5471732266604e146b674f1c6564fad0ec07f0e50bf215d084fef05faada23e2"
+    },
+    {
+      "type": "Organization",
+      "name": "PSOE",
+      "id": "Organization_486a0b70e2c272ae0b71febd82a79f7013521957b9f4ac0a6140eacc3e524cf7"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement européen",
+      "id": "Organization_35045d56b46d30c02ed3c266f7b7e936d04046cd769a6b336980fa0f45af5ecb"
+    },
+    {
+      "type": "Country",
+      "name": "Maroc",
+      "id": "Country_9458e2c6babd2c77ac8b75ec4713e04d3bfb33730d88d692b0cae733d35375f3"
+    },
+    {
+      "type": "Theme",
+      "name": "Qatargate",
+      "id": "Theme_f90393bba9bd898bd5adbf38d000328563e9c3bf01acb00dbf8dd0012a03a627"
+    },
+    {
+      "type": "Theme",
+      "name": "extrêmes droites",
+      "id": "Theme_be4e71551c334296b5fcda822b1b7ef332fa5ab64d8c5dba2f619b10f3c4e988"
+    },
+    {
+      "type": "Theme",
+      "name": "patriotisme",
+      "id": "Theme_087acc9b6c0e8015662dfef66f194239c6c87d3b7a1bdb126f4aa128ad0c4225"
+    },
+    {
+      "type": "Theme",
+      "name": "nationalisme",
+      "id": "Theme_d0f339441ee20ce073228a015cda668179f9e724fa0f925bc928aa3557010053"
+    },
+    {
+      "type": "Theme",
+      "name": "Constitution",
+      "id": "Theme_eb4b390baab57a0b5493dd655d96373dd60c1ce0a0b39dbd0a66ba091f181c89"
+    },
+    {
+      "type": "Theme",
+      "name": "esprits",
+      "id": "Theme_8b8b077018783490ca8e142eda7c5258fe06ba7b747a8e542d8375e725aa4d46"
+    },
+    {
+      "type": "Theme",
+      "name": "pays",
+      "id": "Theme_5836828ee3d8fa593516bc08496d10257dac03542b9574bc9646bddf731326cb"
+    },
+    {
+      "type": "Theme",
+      "name": "extrême droite",
+      "id": "Theme_e0565d85ab2b227cd88fb3d716acb0af67fdd63a5d64ecbcf45b752de3217315"
+    },
+    {
+      "type": "Theme",
+      "name": "État du droit",
+      "id": "Theme_0e691794c0ae3fb7d43563119069963b959071f10a780494f4883371b2f462ee"
+    },
+    {
+      "type": "Theme",
+      "name": "État de droit",
+      "id": "Theme_7b73e6d847be4ec87c1105c90ecdf72ea8e3a66684aa16e03410d7258ba22108"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté des journalistes",
+      "id": "Theme_dac2cefa8524d34e05be6d0d8c182d1d84e7cdbaaa62bb0b4170ac8079542cb6"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté universitaire et académique",
+      "id": "Theme_6898c640f9c8013c850423ae36e9a79d3bd3182ed8a73029388d5468a7c4dc97"
+    },
+    {
+      "type": "Theme",
+      "name": "indépendance des magistrats",
+      "id": "Theme_395a576dbebcb8402f3a36d95a4372dc750a20cba072baaf58b79ee6533c79a5"
+    },
+    {
+      "type": "Theme",
+      "name": "antisémitisme",
+      "id": "Theme_b9d2b5eb1b867038a1084f90d34fcb84a8a75fb591143c113756ba9b5456867a"
+    },
+    {
+      "type": "Theme",
+      "name": "racisme",
+      "id": "Theme_8ca275a05cedf5deee96a6c7b9825aa608c84ae00aa7af40d901092936df4d19"
+    },
+    {
+      "type": "Theme",
+      "name": "xénophobie",
+      "id": "Theme_b43f1caf2c3dd1290dbe9fac72c86b6431d223ef82b13bec7e7780312a4fa543"
+    },
+    {
+      "type": "Theme",
+      "name": "histoire",
+      "id": "Theme_2b1ac87247a0dbc5549395392a2bb2aefe0776f35b48b5f3a0d8c2a52538cb13"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "principes",
+      "id": "Theme_97c5aa60bd71c598edaaf76fd6b884a4ae393b0774135332a05c72af7bc82042"
+    },
+    {
+      "type": "Theme",
+      "name": "démocratie",
+      "id": "Theme_e61b7d89957b5e7a7dd45f547ed1d711f22b4eb5648b58abd2cbc9b54f639bdd"
+    },
+    {
+      "type": "Theme",
+      "name": "morale",
+      "id": "Theme_7581002cdeeb904717254d6ab64e192c9fe288a532a1b0d7925253fb0fd33531"
+    },
+    {
+      "type": "Theme",
+      "name": "politique",
+      "id": "Theme_1cb4f0bce716a6b484eef837bedaa9ad546521428b441b7a4baa167af1dc28bc"
+    },
+    {
+      "type": "Theme",
+      "name": "justice indépendante",
+      "id": "Theme_71c2a1107fa7d01de1a47670fcb61c72a42bfb8ae9c144bac99e763a622172ba"
+    },
+    {
+      "type": "Theme",
+      "name": "presse libre",
+      "id": "Theme_77da17209af0c111c2e88b19f3c7a3d22b00b86fe9c5c192a360dfa1301d2701"
+    },
+    {
+      "type": "Theme",
+      "name": "universités",
+      "id": "Theme_077ccf73db0b40daaa6552041f5050bdf77371917e6cc423c9e67eae43d93fdd"
+    },
+    {
+      "type": "Theme",
+      "name": "illibéralisme contemporain",
+      "id": "Theme_e46db30ea5eb859d8abee3c59f1fe3c6da816323f9f309cb1f46bdee2cd87256"
+    },
+    {
+      "type": "Theme",
+      "name": "extrêmes",
+      "id": "Theme_c31fa51fc0c77a9930a418e47137a72e725c9cb20b5a68a20ed1d0b7c0e12a83"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité politique",
+      "id": "Theme_b97a871ccc16fc09e3c32a638c8c71ef4bb3054d370e230db444738dcb59b2e3"
+    },
+    {
+      "type": "Theme",
+      "name": "revitalisation du champ politique, démocratique et républicain",
+      "id": "Theme_130473d230006b8f76c02303640706ce1fb9558eddcaafd38a69b51e92f4a5ec"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité à faire sur le plan national et européen",
+      "id": "Theme_c03c8138b944f2cbf84eb87af6b4d0948af48762c695c808f26b40e3c948b542"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "ville unique",
+      "relation": "LOCATED_IN",
+      "target": "ville unique",
+      "evidence": "cette ville unique que vous avez réinvesti en musée d'art moderne",
+      "confidence": 1.0,
+      "source_id": "City_5e1fe97fcbb7fc0c2d22fd129e265cf7168b8905ae4a78eaef6386032036df1b",
+      "target_id": "City_5e1fe97fcbb7fc0c2d22fd129e265cf7168b8905ae4a78eaef6386032036df1b"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "la coopération entre nos musées et entre les villes de France et d'Espagne",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "Espagne",
+      "relation": "LOCATED_IN",
+      "target": "Espagne",
+      "evidence": "la coopération entre nos musées et entre les villes de France et d'Espagne",
+      "confidence": 1.0,
+      "source_id": "Organization_f2bfceb3b15c1cb97d05ac9a10a0dc1fe6d5ef236103892c8f7677417a28e399",
+      "target_id": "Organization_f2bfceb3b15c1cb97d05ac9a10a0dc1fe6d5ef236103892c8f7677417a28e399"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Espagne",
+      "evidence": "la coopération entre nos musées et entre les villes de France et d'Espagne",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_f2bfceb3b15c1cb97d05ac9a10a0dc1fe6d5ef236103892c8f7677417a28e399"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Espagne",
+      "evidence": "la coopération entre nos musées et entre les villes de France et d'Espagne",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_f2bfceb3b15c1cb97d05ac9a10a0dc1fe6d5ef236103892c8f7677417a28e399"
+    },
+    {
+      "source": "Espagne",
+      "relation": "VISITED",
+      "target": "France",
+      "evidence": "la coopération entre nos musées et entre les villes de France et d'Espagne",
+      "confidence": 1.0,
+      "source_id": "Organization_f2bfceb3b15c1cb97d05ac9a10a0dc1fe6d5ef236103892c8f7677417a28e399",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "Espagne",
+      "relation": "VISITED",
+      "target": "Union européenne",
+      "evidence": "six mois avant que l'Espagne ne préside notre Conseil de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Organization_f2bfceb3b15c1cb97d05ac9a10a0dc1fe6d5ef236103892c8f7677417a28e399",
+      "target_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Union européenne",
+      "confidence": 1.0,
+      "source_id": "Theme_84e4a4241b807d90ad680f61bb17eb32af0b0e649c5e8acb01d66cfa4f4d2f61",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Europe",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "président SÁNCHEZ",
+      "relation": "SPOKE_ABOUT",
+      "target": "Chancelier SCHOLZ",
+      "evidence": "et je sais que le président SÁNCHEZ l'évoque aussi avec le Chancelier SCHOLZ, et nous avons beaucoup d'intimité stratégique.",
+      "confidence": 1.0,
+      "source_id": "Person_05c8b029c4ef64eb47ff0bd857a2848412abf2b5f6e9b0120d8e02289928222e",
+      "target_id": "Person_699848f58bd849c584587cac318c9577e499f32ce10538da2e07b0d26c89d901"
+    },
+    {
+      "source": "Europe",
+      "relation": "SUPPORTS",
+      "target": "Ukraine",
+      "evidence": "Notre Europe est très claire dans ce contexte de guerre et elle soutient l'Ukraine",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    }
+  ]
+}

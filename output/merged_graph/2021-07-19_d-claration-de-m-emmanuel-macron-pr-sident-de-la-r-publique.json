@@ -1,0 +1,581 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid-19",
+      "id": "Theme_d5e7dbe0204945df0a66692ca666448a467d14bc7f36bc2b7afe79af217b2384"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccins",
+      "id": "Theme_285c234b84ef6ba1444c75fa4fb284e57557192a16508630af6134cc975797f3"
+    },
+    {
+      "type": "Theme",
+      "name": "Pacifique",
+      "id": "Theme_7f3dc9db436afec9ee879b5c1fd694c7ce7c14cbe34f036ca55fbfc9ce51dd9f"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "action efficace et commune",
+      "id": "Theme_6afd5bc65fd5dbad866552c17be9f93f26e17c17bfea1359ac386d931d2689f6"
+    },
+    {
+      "type": "Theme",
+      "name": "mécanisme Covax",
+      "id": "Theme_310f8b9414aecc91e9aabf2cc696a89d8e353a02c680d98280bc6a3afff96c1e"
+    },
+    {
+      "type": "Theme",
+      "name": "Act-A",
+      "id": "Theme_753fc5883d7bd73552726fc21a3ba409f7aeb337c108b1494f596d2b95edeffe"
+    },
+    {
+      "type": "Theme",
+      "name": "changement climatique",
+      "id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité de la région",
+      "id": "Theme_5325f3f6724acf133f7f6a9fd7c9848255495661cde4cd875a10dc0fc58ab118"
+    },
+    {
+      "type": "Theme",
+      "name": "patrimoine environnemental",
+      "id": "Theme_5380abe13e925d2b58bb929fab7e9a3016de2e6deae14c3977417091641951ec"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "Theme",
+      "name": "modes de vie",
+      "id": "Theme_0cc0813179b79d6676204b33059b5234e58296abb4a84452fe4038112ccf768f"
+    },
+    {
+      "type": "Theme",
+      "name": "réchauffement climatique",
+      "id": "Theme_6a68f3ef2cb26ee4a4c6c4d1addd1d03c9bf9e68f9dfc5fa8cadc5f80e1df621"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité climatique",
+      "id": "Theme_d737f387d27a9abf3046c42255d1849c4a4dd0946eb665753bd4a4c691559039"
+    },
+    {
+      "type": "Theme",
+      "name": "Coalition pour la neutralité carbone",
+      "id": "Theme_18628c6d8fd47607ef9c4febe1da6e3a5027b7b97af32662998435a49fa8d0a9"
+    },
+    {
+      "type": "Theme",
+      "name": "déclaration de Niulakita",
+      "id": "Theme_0f70460d327808ffe5c777573780164f1e20e6e29ad5710e6e550186747e3486"
+    },
+    {
+      "type": "Country",
+      "name": "États du Pacifique",
+      "id": "Country_71b68a0d512c141271dd14c11e92ae634d93ff8df2580d6c440b9df9479da580"
+    },
+    {
+      "type": "City",
+      "name": "Pacifique sud",
+      "id": "City_d734dbadb5118e24d20b00cad461a3b228e6b3c8e09c282ace73c8cbf69ca79f"
+    },
+    {
+      "type": "City",
+      "name": "Nouméa",
+      "id": "City_10e87d0ad00cea43b0c74980a4133dbbcbcfc590abadea96325fa25a17c93058"
+    },
+    {
+      "type": "City",
+      "name": "Papeete",
+      "id": "City_70d2c6a6c5b5d239db8b7473e37f9a43f0118ef938ef59efa5afe2105f9df68d"
+    },
+    {
+      "type": "City",
+      "name": "Djibouti",
+      "id": "City_0c1f44bacfd2514d28aa0c06e700ddf6f96d2b5ae6509a07553e8ad6e3eac477"
+    },
+    {
+      "type": "City",
+      "name": "Emirats arabes unis",
+      "id": "City_23318abbfbbffddb464616bf975113a5a7d247a13ece6b1ebd2c433a7d8af24f"
+    },
+    {
+      "type": "Organization",
+      "name": "Forces armées en Nouvelle Calédonie",
+      "id": "Organization_893f715cd02317c1655289b0992569676575d750fc69d1a1fdf221ca1899057d"
+    },
+    {
+      "type": "Organization",
+      "name": "Forces armées en Polynésie française",
+      "id": "Organization_81db48997c77338853c81726c08deafcbe6873245ca0c20dab2398bfa916857c"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "Indo-Pacifique",
+      "id": "Theme_e708c5267ec9ae5eb776bb2df17c27b8c12df91ab5b7f338c25597052234f541"
+    },
+    {
+      "type": "Theme",
+      "name": "surveillance des eaux territoriales",
+      "id": "Theme_7a503276f22cd50682302b04bc13628ad06d828619ec2dac5fab21eacc7739df"
+    },
+    {
+      "type": "Theme",
+      "name": "police des pêches",
+      "id": "Theme_ac66ab16ce8fa1c957f601f8b264f38afaf0b77b6b50a13a934b57b20b7005e5"
+    },
+    {
+      "type": "Theme",
+      "name": "sauvetage en mer",
+      "id": "Theme_88be56b49b5c3859383cd325fc68776d8645154e5369bbb91ff35cc89ee94a5e"
+    },
+    {
+      "type": "Theme",
+      "name": "assistance aux navires en difficulté",
+      "id": "Theme_f68604dcc818c75d9a828517489dc628febc0bd19fb09099118053e1c35d1af0"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre les pollutions maritimes",
+      "id": "Theme_fa76ed73a42843948241cdea8f6cfb52cc655538fcc9ae802ba25c3bda790f14"
+    },
+    {
+      "type": "Theme",
+      "name": "transition énergétique",
+      "id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7"
+    },
+    {
+      "type": "Theme",
+      "name": "finance climat",
+      "id": "Theme_b50454c4fd8ec0dc1ed624755371412a79860c11d4a651d9afe569bef09bd6ef"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie solaire",
+      "id": "Theme_9d4ab1d5efada7f4308c808862c4d31a748d1e6c6b488870e805770235d5a3bc"
+    },
+    {
+      "type": "Country",
+      "name": "Kiribati",
+      "id": "Country_9475f2afd3940383f102b3202081a453cf1b8b59f53ffd2a2de4fce4ad9f1585"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "City",
+      "name": "Kunming",
+      "id": "City_76764ef2d6ee9b2b41c2f5742ab4018bf1dad456dffed61bb377791662be2ff8"
+    },
+    {
+      "type": "Person",
+      "name": "FRITCH",
+      "id": "Person_e487fbfa5d3ab914f3e8c3cf5bb324e1f2459518a7f939d22269ace9faef7ac1"
+    },
+    {
+      "type": "Organization",
+      "name": "UICN",
+      "id": "Organization_ba15531bd008bbfaaecefc0f41e950aa2304d34c92d51793b90abc37f37e850d"
+    },
+    {
+      "type": "Organization",
+      "name": "Polynésie française",
+      "id": "Organization_9850d39c753f4bfd47569cb1bc10fe818039edfd50b5d60d7267e6854d2c9b3a"
+    },
+    {
+      "type": "Country",
+      "name": "Pacifique",
+      "id": "Country_fb13f49510e4991c246a7df143a4e90afbd5647b097e58a7081571c5cdd07b6f"
+    },
+    {
+      "type": "Organization",
+      "name": "les Etats souverains",
+      "id": "Organization_00bada4741dfbafa4c83071f2ae622181dc70c559ce504fd6b69bcf45fcdf7d1"
+    },
+    {
+      "type": "Organization",
+      "name": "les organisations régionales",
+      "id": "Organization_7d3f15cea599db6ecf95609adc9014bbfd9cd72a0a60c8fe3d0a52db739be6e0"
+    },
+    {
+      "type": "Theme",
+      "name": "engagements",
+      "id": "Theme_554a26aec35e81e580ab9d2c7687a8b8f68c677d4623a5bb7acc53a20b14ae5c"
+    },
+    {
+      "type": "Theme",
+      "name": "accord global contre les plastiques",
+      "id": "Theme_674158134a074b760a157a38aed7e22ac6f2b7c4d658fba34c2234b55eca9dbe"
+    },
+    {
+      "type": "Theme",
+      "name": "continent plastique",
+      "id": "Theme_3d17a365d37ebd1199eb740cae7a2c3477cd7c7b196cb93b2fbba488d97da986"
+    },
+    {
+      "type": "Theme",
+      "name": "océans",
+      "id": "Theme_d7d9b4ee72cbd84c5dea88fd0d46bb48bf2988e82a960f4c98cea2ad159dd0ee"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "résilience",
+      "id": "Theme_ae0698b8a130cd1cd5df43fe5e3e189eb0c16712f2fa72aeeed81640c8d2a14e"
+    },
+    {
+      "type": "Theme",
+      "name": "récifs coralliens",
+      "id": "Theme_1ad0a1b96773e88d6157f5aa611f00f5294c753b75969d317c717e720cc30fb5"
+    },
+    {
+      "type": "Organization",
+      "name": "initiative Kiwa",
+      "id": "Organization_8003196ba60f81e64f6a4f70aaa1982be8c547771a614af6201d678afd6d1f10"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Nouvelle Zélande",
+      "id": "Organization_067d53258a4615d747a284633ea6aa49a07c8387027d3c3273cae406cf9eb391"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds mondial pour les récifs coralliens",
+      "id": "Organization_b50622fe27efca41916cb13e60248916fafaf9206a721ad4e75b0ecbfdae2c73"
+    },
+    {
+      "type": "Country",
+      "name": "Fidji",
+      "id": "Country_ea8ebce49e2d5ca2afc9b54251941937e50e14a824547cde8ed58f2db288378b"
+    },
+    {
+      "type": "Country",
+      "name": "îles Salomon",
+      "id": "Country_990c8864f42842c47d088cfc2e67518bae90903782f190721b0477c8e2d8f9e8"
+    },
+    {
+      "type": "Country",
+      "name": "Nauru",
+      "id": "Country_c48db85689e964c5421d67b04776fad12acb9fbb04a0837b80a7bb010a55e7db"
+    },
+    {
+      "type": "Country",
+      "name": "Tonga",
+      "id": "Country_62aec02bba28ebf0376a3035bc2b97ecc16a2a87bef60c1e629da072fefb36f6"
+    },
+    {
+      "type": "Country",
+      "name": "Australie",
+      "id": "Country_91cf3db2022243a987bf3173515aa077b8c005b829695b62bbaebd16362799a2"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "City",
+      "name": "Vanuatu",
+      "id": "City_da5469f01f708080388f04379649e1de49996382b159cbaeb695a9a4848e452a"
+    },
+    {
+      "type": "City",
+      "name": "Papouasie Nouvelle-Guinée",
+      "id": "City_da6967fbb273b893da92a6d781a59630574ee9f19b3f56bf9d6b2c9c75298186"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence française de développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "Theme",
+      "name": "atténuation des effets du changement climatique",
+      "id": "Theme_09581bb663e3c28d27895a51b1a368cab22725a74776b3b6be4e8e64eb52724c"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération renforcée",
+      "id": "Theme_291c10993e25926f8e5b74f9db56296e80059387a3e09f5a5ed195d66aaaaaf3"
+    },
+    {
+      "type": "Theme",
+      "name": "normes internationales",
+      "id": "Theme_83eab1397f6e06bb5e8aca5701b2c8823eda8eb703c80bad8509e72764a54c58"
+    },
+    {
+      "type": "Theme",
+      "name": "principes de bonne gouvernance",
+      "id": "Theme_baff04a829501e5a969384aa821030f5971285e556008f61570bf18a75d02ef4"
+    },
+    {
+      "type": "Theme",
+      "name": "financement soutenable",
+      "id": "Theme_f280af1fbcd2c946411da2b46ad70e339c33fe5db3fca5f01e3505ed0fb2f60c"
+    },
+    {
+      "type": "Person",
+      "name": "Scott MORRISON",
+      "id": "Person_e6480fc16418ea55242d27078b43c76d83f028afe9fadeb49970f8ec703cfbb1"
+    },
+    {
+      "type": "Theme",
+      "name": "développement économique",
+      "id": "Theme_90116a86288646b0ca7f81be8e3f867cd730709965d34e048dac6cb6b854a2c3"
+    },
+    {
+      "type": "Theme",
+      "name": "intégration de la zone",
+      "id": "Theme_04e09fac37a97ece33eb8a45467da79c6eb2a6502a83e4247d4d66f5f1435a03"
+    },
+    {
+      "type": "Theme",
+      "name": "intrusions",
+      "id": "Theme_a0bc1d326dcab4abc186e2832c109c0f5357d7975a94ffd6dd8c4423ecba9a34"
+    },
+    {
+      "type": "Theme",
+      "name": "éléments de déstabilisation",
+      "id": "Theme_52e222abe6699e084ca37e82fdc399f9d7d397d851c45c7e67a2b086251798c8"
+    },
+    {
+      "type": "Person",
+      "name": "Edouard FRITCH",
+      "id": "Person_88d92569e760e29346815550e267ec0edbdef46f68ceae1191c45770152b84ea"
+    },
+    {
+      "type": "City",
+      "name": "Tokyo",
+      "id": "City_8f23660eaca87af055b66eacc0d2a4faa5a9b63397ec76f9caa8ab28cb15821d"
+    },
+    {
+      "type": "City",
+      "name": "Tahiti",
+      "id": "City_473ca001a14d25dd47d5345b7964d6c01e85ec0a3600a41b432a241a57073c4a"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Theme",
+      "name": "sport",
+      "id": "Theme_825ac548d524f301bf40cecba64423c577f867e16f68d3e023ee693d5aebd94a"
+    },
+    {
+      "type": "Person",
+      "name": "president Mapou",
+      "id": "Person_f160ecd6a48e5cf75ce0c597c6e51167e5cc4e9a378a0eea274411118f5ee22b"
+    },
+    {
+      "type": "Theme",
+      "name": "liens culturels",
+      "id": "Theme_5a37236ba1dea09b6bee4da913fdcf48755329b0ce5ed239054bf6f5473a9e91"
+    },
+    {
+      "type": "Theme",
+      "name": "liens scientifiques",
+      "id": "Theme_c3380d6e126f5c121d012977d1e3493103cfab2af25a58c292bccadc932f7cba"
+    },
+    {
+      "type": "Theme",
+      "name": "liens académiques",
+      "id": "Theme_1eab5f2e2dd1cfeb2b991f8754ad3408d9749ec74cb6e870224ed245adf10c7d"
+    },
+    {
+      "type": "City",
+      "name": "Glasgow",
+      "id": "City_726ac906699adbe83a450e28c7895be09a0fb5957dc572393ab4c3dccdc37e12"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Forces armées en Nouvelle Calédonie",
+      "relation": "LOCATED_IN",
+      "target": "Nouméa",
+      "evidence": "Forces armées en Nouvelle Calédonie, basée à Nouméa",
+      "confidence": 1.0,
+      "source_id": "Organization_893f715cd02317c1655289b0992569676575d750fc69d1a1fdf221ca1899057d",
+      "target_id": "City_10e87d0ad00cea43b0c74980a4133dbbcbcfc590abadea96325fa25a17c93058"
+    },
+    {
+      "source": "Forces armées en Polynésie française",
+      "relation": "LOCATED_IN",
+      "target": "Papeete",
+      "evidence": "Forces armées en Polynésie française, basée à Papeete",
+      "confidence": 1.0,
+      "source_id": "Organization_81db48997c77338853c81726c08deafcbe6873245ca0c20dab2398bfa916857c",
+      "target_id": "City_70d2c6a6c5b5d239db8b7473e37f9a43f0118ef938ef59efa5afe2105f9df68d"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "transition énergétique",
+      "evidence": ". Et vous pouvez compter sur la détermination de la France à lever aussi les fonds nécessaires pour accompagner la transition énergétique.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_56e62d104d75984eb9275eb1d4eed0be32cfab27ec2d2aab5be9b8f2a5ff8df7"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "énergie solaire",
+      "evidence": "Plus spécifiquement sur l'énergie solaire, de nouveaux projets vont émerger dans le cadre de l'Alliance solaire internationale et la France a augmenté sa contribution d'un million d'euros pour concrétiser cette montée en puissance.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_9d4ab1d5efada7f4308c808862c4d31a748d1e6c6b488870e805770235d5a3bc"
+    },
+    {
+      "source": "Pacifique",
+      "relation": "LOCATED_IN",
+      "target": "Pacifique",
+      "evidence": "le Pacifique",
+      "confidence": 1.0,
+      "source_id": "Country_fb13f49510e4991c246a7df143a4e90afbd5647b097e58a7081571c5cdd07b6f",
+      "target_id": "Country_fb13f49510e4991c246a7df143a4e90afbd5647b097e58a7081571c5cdd07b6f"
+    },
+    {
+      "source": "initiative Kiwa",
+      "relation": "SPOKE_ABOUT",
+      "target": "biodiversité",
+      "evidence": "De cet engagement en faveur de la protection de la biodiversité et la résilience au changement climatique est née l'initiative Kiwa en 2020",
+      "confidence": 1.0,
+      "source_id": "Organization_8003196ba60f81e64f6a4f70aaa1982be8c547771a614af6201d678afd6d1f10",
+      "target_id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "source": "initiative Kiwa",
+      "relation": "SPOKE_ABOUT",
+      "target": "résilience",
+      "evidence": "De cet engagement en faveur de la protection de la biodiversité et la résilience au changement climatique est née l'initiative Kiwa en 2020",
+      "confidence": 1.0,
+      "source_id": "Organization_8003196ba60f81e64f6a4f70aaa1982be8c547771a614af6201d678afd6d1f10",
+      "target_id": "Theme_ae0698b8a130cd1cd5df43fe5e3e189eb0c16712f2fa72aeeed81640c8d2a14e"
+    },
+    {
+      "source": "initiative Kiwa",
+      "relation": "SPOKE_ABOUT",
+      "target": "changement climatique",
+      "evidence": "De cet engagement en faveur de la protection de la biodiversité et la résilience au changement climatique est née l'initiative Kiwa en 2020",
+      "confidence": 1.0,
+      "source_id": "Organization_8003196ba60f81e64f6a4f70aaa1982be8c547771a614af6201d678afd6d1f10",
+      "target_id": "Theme_643981cf8f087d0a538a5b13be9315b2cba250785ed2a61388e129da71582b88"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Pacifique",
+      "evidence": "La France a toujours été aux côtés du Pacifique dans ces moments difficiles",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_fb13f49510e4991c246a7df143a4e90afbd5647b097e58a7081571c5cdd07b6f"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "nous avons pris la présidence du mécanisme France au début de ce mois",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Agence française de développement",
+      "relation": "SPOKE_ABOUT",
+      "target": "atténuation des effets du changement climatique",
+      "evidence": "de l'Agence française de développement aux projets contribuant à l'atténuation des effets du changement climatique.",
+      "confidence": 1.0,
+      "source_id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e",
+      "target_id": "Theme_09581bb663e3c28d27895a51b1a368cab22725a74776b3b6be4e8e64eb52724c"
+    },
+    {
+      "source": "Scott MORRISON",
+      "relation": "SUPPORTS",
+      "target": "développement économique",
+      "evidence": "mon ami Scott MORRISON soutient l'importance de ces principes communs et justement de ces règles communes en matière de développement économique",
+      "confidence": 1.0,
+      "source_id": "Person_e6480fc16418ea55242d27078b43c76d83f028afe9fadeb49970f8ec703cfbb1",
+      "target_id": "Theme_90116a86288646b0ca7f81be8e3f867cd730709965d34e048dac6cb6b854a2c3"
+    },
+    {
+      "source": "president Mapou",
+      "relation": "MENTIONS",
+      "target": "liens culturels",
+      "evidence": "Comme nous l'avons plusieurs fois rappelé, liens culturels, liens scientifiques, liens académiques, et il est extrêmement important que, comme le disait président Mapou, que nous puissions avoir justement la reconnaissance de ces liens aussi les uns entre les autres.",
+      "confidence": 1.0,
+      "source_id": "Person_f160ecd6a48e5cf75ce0c597c6e51167e5cc4e9a378a0eea274411118f5ee22b",
+      "target_id": "Theme_5a37236ba1dea09b6bee4da913fdcf48755329b0ce5ed239054bf6f5473a9e91"
+    },
+    {
+      "source": "president Mapou",
+      "relation": "MENTIONS",
+      "target": "liens scientifiques",
+      "evidence": "Comme nous l'avons plusieurs fois rappelé, liens culturels, liens scientifiques, liens académiques, et il est extrêmement important que, comme le disait président Mapou, que nous puissions avoir justement la reconnaissance de ces liens aussi les uns entre les autres.",
+      "confidence": 1.0,
+      "source_id": "Person_f160ecd6a48e5cf75ce0c597c6e51167e5cc4e9a378a0eea274411118f5ee22b",
+      "target_id": "Theme_c3380d6e126f5c121d012977d1e3493103cfab2af25a58c292bccadc932f7cba"
+    },
+    {
+      "source": "president Mapou",
+      "relation": "MENTIONS",
+      "target": "liens académiques",
+      "evidence": "Comme nous l'avons plusieurs fois rappelé, liens culturels, liens scientifiques, liens académiques, et il est extrêmement important que, comme le disait président Mapou, que nous puissions avoir justement la reconnaissance de ces liens aussi les uns entre les autres.",
+      "confidence": 1.0,
+      "source_id": "Person_f160ecd6a48e5cf75ce0c597c6e51167e5cc4e9a378a0eea274411118f5ee22b",
+      "target_id": "Theme_1eab5f2e2dd1cfeb2b991f8754ad3408d9749ec74cb6e870224ed245adf10c7d"
+    }
+  ]
+}

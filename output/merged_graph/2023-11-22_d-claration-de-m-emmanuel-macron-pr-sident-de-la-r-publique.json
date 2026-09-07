@@ -1,0 +1,645 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "La Première ministre",
+      "id": "Person_898d30a8b39bdaae3b9d89d88635770f0b1b753fe289011284708f78ca3875b6"
+    },
+    {
+      "type": "Person",
+      "name": "David",
+      "id": "Person_82a7662acceb9cbb14652ba72cf0cb56657fab3dc3d097163317f8034cb3bf12"
+    },
+    {
+      "type": "Country",
+      "name": "Côte d'Ivoire",
+      "id": "Country_02a4cf0b159c169388d9cae695c5828d01927abf33bf75e323c8f187cdde6be9"
+    },
+    {
+      "type": "Organization",
+      "name": "Association internationale des maires francophones",
+      "id": "Organization_016da0b95020fbc0bbb4a36638555e3394d39da4b5c01ae33e874bc114096b99"
+    },
+    {
+      "type": "Organization",
+      "name": "Association des maires de France",
+      "id": "Organization_76cfcc6f6a0bdbd30de8c9cf34ae862c19fee94e419bb0c7156a2bbeccc47db4"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat de Côte d'Ivoire",
+      "id": "Organization_30f6fd2417b7fa7041fe30a81973c9d2c20993a1f4b6e5f8c83a883921939806"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale de Côte d'Ivoire",
+      "id": "Organization_e7f264372259e634d5cf3a031dc671ba319fc2f98cb7f651375206946921d0a1"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "violences",
+      "id": "Theme_e1be313a671c9fc82f0ddae646c23fae1b533f1f5e446ce338dc737f703e7023"
+    },
+    {
+      "type": "Theme",
+      "name": "décivilisation",
+      "id": "Theme_62ea11167b2693cab2d5caa921ef17cf2a12f053813dc9080cd0b3d089db8101"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre républicain",
+      "id": "Theme_77d3a0a111edf05bff6e66acf4bf7258f655df974a77634f3f77748e86c2c197"
+    },
+    {
+      "type": "Theme",
+      "name": "violences urbaines",
+      "id": "Theme_811b5a9ba10efd93eb5f73fd5666881b4f79960427b1b3ec8418dbe52c23236f"
+    },
+    {
+      "type": "Theme",
+      "name": "épisodes climatiques extrêmes",
+      "id": "Theme_e1071dcce7f90b1112e929e593a8efd591cd70a29ec9a0d41a0d252ca669b056"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs de la République",
+      "id": "Theme_b2e3b9a6f2b1998d5fba955804e1ce015aacf911d0897726e3a008f2386ed8c7"
+    },
+    {
+      "type": "Theme",
+      "name": "services publics",
+      "id": "Theme_9d23f2423869f33761b54988a51c02bcaaec512697b3c1f29a8001cba8569472"
+    },
+    {
+      "type": "Theme",
+      "name": "école",
+      "id": "Theme_e4023600e045c977a775d339830e8508634d36394f9b8486f09d01cdd3b05e6b"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "refondation territoriale",
+      "id": "Theme_3cab4edd4ce3fcbbb04dceb1d9dc3f9e9f1f607ab03b65d5bb66c3029c897c61"
+    },
+    {
+      "type": "Theme",
+      "name": "démographie médicale",
+      "id": "Theme_14c770e50b78aad0af5a784ded407b9ac7743235d341684a8234fe6eef1a26cc"
+    },
+    {
+      "type": "Theme",
+      "name": "maisons France Services",
+      "id": "Theme_abb8f7258c1012d4dc2a555c8ea2b9b6627f3a853971b8d89b69953bfc86a924"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté agricole",
+      "id": "Theme_45c6e553c9fd325fb307467d342448119391fe39890ca1ae4315d21ddd2ff25c"
+    },
+    {
+      "type": "Theme",
+      "name": "création d'emplois",
+      "id": "Theme_6504e6ace9950bb650ef42114b8bffda2376af147acc77f9ae8f22ffc17f02cd"
+    },
+    {
+      "type": "Theme",
+      "name": "décarbonation de notre économie",
+      "id": "Theme_e7435a5538e39cd8573a7b4fa7a7d89f360b90b8750d0287c402b01346f619db"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "objectifs nationaux",
+      "id": "Theme_e4348b90127a696059f06b1e66343698205b54aaf3f6ffae9e88a27b2d7db3d5"
+    },
+    {
+      "type": "Theme",
+      "name": "accords de Paris",
+      "id": "Theme_0fd420da6cf8f8f11c5ebed87cf5df3f7f93dfad8bc2cf4302b6441ba7aeb445"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "autorité",
+      "id": "Theme_212da0e5472584111e4a785cdbfbba838d07d4e4248f7c7854a87bd77295e2dd"
+    },
+    {
+      "type": "Theme",
+      "name": "droit pénal",
+      "id": "Theme_1fa55cfa62be7a58122f1c55fbe1630d8ffddeb97b8af0aa383cd1066939105f"
+    },
+    {
+      "type": "Theme",
+      "name": "discours de haine",
+      "id": "Theme_aae9b79bed5f0531ce376fd984c217ae925daaa283ff11ec8ec01619f81e4565"
+    },
+    {
+      "type": "Theme",
+      "name": "discours de raison",
+      "id": "Theme_09c2ff0d4bdb9a2796b1e214fba2207879eb2ce2e47b6008bd09ef20cb05628e"
+    },
+    {
+      "type": "Theme",
+      "name": "hiérarchie des choses",
+      "id": "Theme_d491eb7a2202ce512cd11b804577ddaa2c42a60498876208d1ae844c741d900c"
+    },
+    {
+      "type": "Theme",
+      "name": "décentralisation",
+      "id": "Theme_8cdbeea2048deb633c4b678480b824c211c9c3809c1c56bd2de057c9fda69508"
+    },
+    {
+      "type": "Theme",
+      "name": "système",
+      "id": "Theme_8d2bd4c17ae9f6aedd7a809555b1cce0c3cd227f3ba23f2a66d0a3fd1d2e5161"
+    },
+    {
+      "type": "Person",
+      "name": "Eric WOERTH",
+      "id": "Person_298b228ee8a56c6ef47ee6173cf912234b364ceed06bbc1a97cb02d7fea99f97"
+    },
+    {
+      "type": "Organization",
+      "name": "Association des maires",
+      "id": "Organization_c1424538ff01a6a53ea3e1f5766cffaaf7d477c986c04518d131ac48a038a125"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Theme",
+      "name": "logement",
+      "id": "Theme_5482b77c02cb27b743d7ba44022361e1f99e9ac6c8c98c177add71ee6c65ef55"
+    },
+    {
+      "type": "Person",
+      "name": "compatriotes",
+      "id": "Person_001a4cd7d5ccbd2fe897e22660603f55473d585828976f6e12b964cf37700fd5"
+    },
+    {
+      "type": "Person",
+      "name": "le président d'un département, la Dordogne",
+      "id": "Person_55714243c1550594e7959efd0d296c5d3d4f84acf6e66b4f74271f0f028538f8"
+    },
+    {
+      "type": "Country",
+      "name": "l'Etat",
+      "id": "Country_80d5ff6862b094b944be7d9a97d69658ce432935aa2fb7c0eedc202612114fb7"
+    },
+    {
+      "type": "Theme",
+      "name": "gestion d'opérateurs",
+      "id": "Theme_ee573c854b94bf9a2312ad91b54115a9add9db7cdeac476fedefc59ef92c35e2"
+    },
+    {
+      "type": "Theme",
+      "name": "aménagements urbains",
+      "id": "Theme_f64686beb143c094da12e410bd6cf037ec32896be00cf9b05d1c93741940b541"
+    },
+    {
+      "type": "Theme",
+      "name": "transports",
+      "id": "Theme_533d2529ff9a7f6bf394d1e74146c9b14e56ed95da235efb27978e0422b519a2"
+    },
+    {
+      "type": "Theme",
+      "name": "finances locales",
+      "id": "Theme_c13e1da7f285d49bf0c160fc1f4121f078ed47e757392cbc2bd57359c1762fce"
+    },
+    {
+      "type": "Theme",
+      "name": "DGF",
+      "id": "Theme_51003c674532cdce91b31a3810543efe5cd64ff35ea42364ddb64854f2d73804"
+    },
+    {
+      "type": "Theme",
+      "name": "potentiel fiscal",
+      "id": "Theme_7cfd9a1a608e7f2f32bd54e2e8814dd5c3c003950a5ada9fe09964664645c774"
+    },
+    {
+      "type": "Organization",
+      "name": "Comité des finances locales",
+      "id": "Organization_8ec7142ebfd8d2420c75d024c8b6097352072d8a2ee8746b7f802e9e2c68267c"
+    },
+    {
+      "type": "Organization",
+      "name": "exécutif",
+      "id": "Organization_81dd8b0b153b5d781fee872445ef31381fa59f8f59187ddf09a9d8718eedb6a7"
+    },
+    {
+      "type": "Organization",
+      "name": "État",
+      "id": "Organization_c15ee9df248544ff59e927e67f2c09c00bf61f155e9493b1e470308f0e526612"
+    },
+    {
+      "type": "Theme",
+      "name": "simplification",
+      "id": "Theme_9706ab0972a50bc61abc55630af6ca5b14bb253f608c2822dca6583233670c0c"
+    },
+    {
+      "type": "Theme",
+      "name": "loi",
+      "id": "Theme_aaa751cd5b857da1d5f067b90439cca5af7e59784eb0537f6c5b647db27ec7a1"
+    },
+    {
+      "type": "Theme",
+      "name": "texte",
+      "id": "Theme_71cfcd5e12274c57c31792a48737a28159a84272f0fcc50d810bf37224ee2280"
+    },
+    {
+      "type": "Country",
+      "name": "État républicain",
+      "id": "Country_fb57e13b310d8c44c5a8cbebfc192419c201310167c1bf53311d4d3229fcd3c5"
+    },
+    {
+      "type": "Theme",
+      "name": "problème",
+      "id": "Theme_dc7c908a2d590011bb51ed3bc9ad27e8bdd4b65e65f69ac319a0af9f26cc3824"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté de ton",
+      "id": "Theme_5c5ca7b11470ad2a7fc243e9125d637b10f91273cac4e282c63dbd7b6275bef2"
+    },
+    {
+      "type": "Organization",
+      "name": "ministère",
+      "id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1"
+    },
+    {
+      "type": "Organization",
+      "name": "ministre",
+      "id": "Organization_bcfcec7de2d7b4cf53f630b8f4bda4918808fa7973b4a27375e60cdb59c5914a"
+    },
+    {
+      "type": "Organization",
+      "name": "administration centrale",
+      "id": "Organization_e3066963cf144479b1e2a1f062d9624cf4475f5a44e74140e20938a768e81c0f"
+    },
+    {
+      "type": "Organization",
+      "name": "services déconcentrés de l'État",
+      "id": "Organization_c91c4431a319317094d26a8a4197b9f9a59f4bb2b5a41c62bd9ddbd734cc7a2c"
+    },
+    {
+      "type": "Theme",
+      "name": "sujet",
+      "id": "Theme_d5e71b2c738fe39e7b9dc367fd333a70dabb62fe1a5b02221e520b1090fb124a"
+    },
+    {
+      "type": "Theme",
+      "name": "lois",
+      "id": "Theme_766b24b40ca0257b39bc7b38835ebf4e150e279ff118a5f34e52aceb71952783"
+    },
+    {
+      "type": "Theme",
+      "name": "maladie française",
+      "id": "Theme_d79874015757c89b5926655eea6880522aef07d91d9186aa3bb7c53c59d472a9"
+    },
+    {
+      "type": "Theme",
+      "name": "déconcentration",
+      "id": "Theme_b1ff4bf432bbe91fab75861d69d7cda5ad1342f94ce23dd2d9e5d73b3cfff24c"
+    },
+    {
+      "type": "Theme",
+      "name": "agences",
+      "id": "Theme_38c6436777f53f180d2ab39d75181b2fc3fa5de4f857b200f19b665c063dd7d0"
+    },
+    {
+      "type": "Organization",
+      "name": "services régionaux",
+      "id": "Organization_20ba4d587fc2e9ff5956e1fc0ac4e58c1859a21945b1d9391a4569d588d1df11"
+    },
+    {
+      "type": "Organization",
+      "name": "agences",
+      "id": "Organization_461ef8a8759e7305c8210dc6d78c5060f11ed7743cf1092a87924dfe96569a32"
+    },
+    {
+      "type": "Organization",
+      "name": "préfets de département",
+      "id": "Organization_792f856539e3e1997637bcfe764871fc12580d57f289bfe44fa3ea28038be8b3"
+    },
+    {
+      "type": "Theme",
+      "name": "Processus",
+      "id": "Theme_d9b200879c76fb49cc4043e45f04bfc2a66b88a7ba83106f23b21d98a4bf1e8a"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "inondations",
+      "id": "Theme_876be82601b67c87274fed2d5a707d2dfa8d24a80ecdcf27ee9a8c6b44603bdc"
+    },
+    {
+      "type": "Theme",
+      "name": "tempêtes",
+      "id": "Theme_4c5eb5f0578fbee694eca68dd55d258d8263cbe20a5368758e887bfa24e56f81"
+    },
+    {
+      "type": "Theme",
+      "name": "attaques terroristes",
+      "id": "Theme_93f3308ab434115973bb1407317f1efc77daba6f951c1b0d845b02bfed3ab950"
+    },
+    {
+      "type": "Organization",
+      "name": "les agences",
+      "id": "Organization_0619f4dcdaf9ce0ed8132d37ca3eb99da84c130caeedcd4acafd15335ac69b9f"
+    },
+    {
+      "type": "Person",
+      "name": "David LISNARD",
+      "id": "Person_4630a50a534b1f258616f2eca77a048ee68baa70f2b487ce969d5ace920072eb"
+    },
+    {
+      "type": "Person",
+      "name": "Karl OLIVE",
+      "id": "Person_a53ad05e83875624790caf921351771abbc8e8ba3310f1a55c6ab60b8956a58f"
+    },
+    {
+      "type": "Person",
+      "name": "Dominique FAURE",
+      "id": "Person_10a566f835455d2d86b70e547b1519df03874a1a95bddcf30a0d58b73784f0ca"
+    },
+    {
+      "type": "Person",
+      "name": "certain",
+      "id": "Person_d7fbacd3681a5c3f717867503f7e81e1ec5549fe4623c1b7568d9db1c244470e"
+    },
+    {
+      "type": "Person",
+      "name": "Néanmoins",
+      "id": "Person_626e11a97aec19e6b89586b138167e31f24976240d9aebfcc877909f690a35d8"
+    },
+    {
+      "type": "Law",
+      "name": "loi Engagement et proximité",
+      "id": "Law_ad4d58055c50c230d34201eea14bd855acfa4023cfb0e1e45a08904ce0513211"
+    },
+    {
+      "type": "Theme",
+      "name": "rémunérations",
+      "id": "Theme_d4d6a50f17f7c7dd80b20f410741c07e96d72ef67bbfd359a523a326005009cc"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "conciliation vie professionnelle, personnelle et élective",
+      "id": "Theme_5e5869a2dbd274a913f584ad28292daab97c93acd5b554ef58cf138dad8500ae"
+    },
+    {
+      "type": "Theme",
+      "name": "reconversion",
+      "id": "Theme_154c1592402df9d3ada059aec572f53204fa893a578511d167ebb8fab2421436"
+    },
+    {
+      "type": "Theme",
+      "name": "clarté sur les moyens financiers",
+      "id": "Theme_a603fcf693c7a466d4b89579fd462189418f4d1083e60be25a17e0ac98fdaf8c"
+    },
+    {
+      "type": "Theme",
+      "name": "statut de l'élu",
+      "id": "Theme_d3668b35f7a5b63cc50b6599c302cd32b653af9a746dec5f7b5ef0c6506f8c6e"
+    },
+    {
+      "type": "Person",
+      "name": "madame la maire",
+      "id": "Person_d224be173cc10556591c926f44719d476f34af68af59ff9ac8972c48b0f4befa"
+    },
+    {
+      "type": "Person",
+      "name": "madame Yvette VIGIE",
+      "id": "Person_a8ddc0e60def0fd3664a714750e566653841889f8fbf6d64ad49f2febbd0edd3"
+    },
+    {
+      "type": "City",
+      "name": "Nabirat",
+      "id": "City_ce7b59a9da75d665c8db446f74822ddf6a270d895c9e8060c5e9c7325a547496"
+    },
+    {
+      "type": "Person",
+      "name": "Yvette",
+      "id": "Person_2a9bca04fd37826e8151de84973b6ae1c0cd42b992f94c49c66e21ca5ac44fc2"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Gourdon",
+      "id": "City_29946da3e9719f484a517544cd48ff31230b8c25e46ca4dd23c839bbcdbbf501"
+    },
+    {
+      "type": "Organization",
+      "name": "hôpital Trousseau",
+      "id": "Organization_18b0f2aba6f6b3cb1f0696f97756ba87a27148574b5227694a34921a30776d5d"
+    },
+    {
+      "type": "Organization",
+      "name": "centre hospitalier de Gourdon",
+      "id": "Organization_9ead17050a3cf55cb0dfba10f23f143de43eefe4e52ade02446d5ac79ad39316"
+    },
+    {
+      "type": "City",
+      "name": "votre commune",
+      "id": "City_9155aaa1edee25a558411c61e32270040d49198ecda9c07bdcc3c2062c91097c"
+    },
+    {
+      "type": "Organization",
+      "name": "équipe municipale",
+      "id": "Organization_e996a934e59fe6c4b3da4665db6672a54146bee69e39e327f5fb3f173f725768"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaires de mairie",
+      "id": "Organization_086268310006de353a2230dfaaf634d2aaa0eeb6d478a36a553979d7dfcc1956"
+    },
+    {
+      "type": "Person",
+      "name": "Bernadette AUDRY",
+      "id": "Person_1acbd2325edaabf94c38c05fc6e4de4c8ab6ceb9d619f8b3cb73869aec754a39"
+    },
+    {
+      "type": "City",
+      "name": "Périgord Noir",
+      "id": "City_73d0b4cdfbba37a636b2941a5db45a6a8d3cc3cc80228f046231efb3bbd813c9"
+    },
+    {
+      "type": "Person",
+      "name": "Marianne",
+      "id": "Person_ca59782baff4f07dacbaa427ee58b485657f92c7c6872f64fed87d94739e592b"
+    },
+    {
+      "type": "Person",
+      "name": "Nabirat",
+      "id": "Person_43ec10940a55bcdb08db3e7a390f71e266d033799927b6765700d1349e5a9eb3"
+    },
+    {
+      "type": "Person",
+      "name": "ces valeurs qui nous rassemblent",
+      "id": "Person_81f7b51dfd25def4020d8feeb26866b5c5526bf16b3af0697e63c8ef5354fba3"
+    },
+    {
+      "type": "Person",
+      "name": "Yvette VIGIER",
+      "id": "Person_4e3dcfe594f1358b7745ae6352d63dcd379889808626ee1610a29dd1f3bea325"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "souveraineté agricole",
+      "relation": "MENTIONS",
+      "target": "souveraineté agricole",
+      "evidence": "la souveraineté agricole, industrielle, la création d'emplois sur nos territoires et la bataille du plein emploi",
+      "confidence": 1.0,
+      "source_id": "Theme_45c6e553c9fd325fb307467d342448119391fe39890ca1ae4315d21ddd2ff25c",
+      "target_id": "Theme_45c6e553c9fd325fb307467d342448119391fe39890ca1ae4315d21ddd2ff25c"
+    },
+    {
+      "source": "création d'emplois",
+      "relation": "MENTIONS",
+      "target": "création d'emplois",
+      "evidence": "la souveraineté agricole, industrielle, la création d'emplois sur nos territoires et la bataille du plein emploi",
+      "confidence": 1.0,
+      "source_id": "Theme_6504e6ace9950bb650ef42114b8bffda2376af147acc77f9ae8f22ffc17f02cd",
+      "target_id": "Theme_6504e6ace9950bb650ef42114b8bffda2376af147acc77f9ae8f22ffc17f02cd"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "accords de Paris",
+      "evidence": "Cela doit se faire au plus près du terrain en laissant monter les solutions du terrain. Et c'est un des défis que nous aurons dans les prochains mois, c'est de tenir nos objectifs nationaux et la France les tient depuis 2018. Nous sommes sur la trajectoire des accords de Paris mais on doit faire plus de deux fois plus dans les années qui viennent.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_0fd420da6cf8f8f11c5ebed87cf5df3f7f93dfad8bc2cf4302b6441ba7aeb445"
+    },
+    {
+      "source": "Gouvernement",
+      "relation": "PROPOSED",
+      "target": "logement",
+      "evidence": "Plusieurs travaux ont été faits par le Gouvernement, a été commencé sur la question du logement, par le Sénat, qui a mené des travaux importants",
+      "confidence": 1.0,
+      "source_id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f",
+      "target_id": "Theme_5482b77c02cb27b743d7ba44022361e1f99e9ac6c8c98c177add71ee6c65ef55"
+    },
+    {
+      "source": "l'Etat",
+      "relation": "LOCATED_IN",
+      "target": "l'Etat",
+      "evidence": "Vers vous au local, vers l'Etat en disant : \" ça ne marche pas. \"",
+      "confidence": 1.0,
+      "source_id": "Country_80d5ff6862b094b944be7d9a97d69658ce432935aa2fb7c0eedc202612114fb7",
+      "target_id": "Country_80d5ff6862b094b944be7d9a97d69658ce432935aa2fb7c0eedc202612114fb7"
+    },
+    {
+      "source": "décentralisation",
+      "relation": "MENTIONS",
+      "target": "décentralisation",
+      "evidence": "La décentralisation, premier point.",
+      "confidence": 1.0,
+      "source_id": "Theme_8cdbeea2048deb633c4b678480b824c211c9c3809c1c56bd2de057c9fda69508",
+      "target_id": "Theme_8cdbeea2048deb633c4b678480b824c211c9c3809c1c56bd2de057c9fda69508"
+    },
+    {
+      "source": "ministère",
+      "relation": "SPOKE_ABOUT",
+      "target": "sujet",
+      "evidence": "face au sujet, ce que j'ai parfois fait, et après, on s'aperçoit qu'on a finalement beaucoup de ministères. Et la deuxième chose, c'est de faire une loi sur le sujet ou de le mettre dans un texte de loi.",
+      "confidence": 1.0,
+      "source_id": "Organization_334fc9eba3d7be32d85f62873fc5d2a7dbffd4cc570b6257740dbe19f8ba2fa1",
+      "target_id": "Theme_d5e71b2c738fe39e7b9dc367fd333a70dabb62fe1a5b02221e520b1090fb124a"
+    },
+    {
+      "source": "déconcentration",
+      "relation": "MENTIONS",
+      "target": "déconcentration",
+      "evidence": "déconcentration pour recréer de la simplicité, clarté sur les moyens financiers par un travail de refonte de la DGF et des relations financières",
+      "confidence": 1.0,
+      "source_id": "Theme_b1ff4bf432bbe91fab75861d69d7cda5ad1342f94ce23dd2d9e5d73b3cfff24c",
+      "target_id": "Theme_b1ff4bf432bbe91fab75861d69d7cda5ad1342f94ce23dd2d9e5d73b3cfff24c"
+    },
+    {
+      "source": "clarté sur les moyens financiers",
+      "relation": "MENTIONS",
+      "target": "clarté sur les moyens financiers",
+      "evidence": "déconcentration pour recréer de la simplicité, clarté sur les moyens financiers par un travail de refonte de la DGF et des relations financières",
+      "confidence": 1.0,
+      "source_id": "Theme_a603fcf693c7a466d4b89579fd462189418f4d1083e60be25a17e0ac98fdaf8c",
+      "target_id": "Theme_a603fcf693c7a466d4b89579fd462189418f4d1083e60be25a17e0ac98fdaf8c"
+    },
+    {
+      "source": "statut de l'élu",
+      "relation": "MENTIONS",
+      "target": "statut de l'élu",
+      "evidence": "vrai statut de l'élu, ce sont les quatre objectifs que je nous fixe pour l'année qui vient sur les sujets qui nous préoccupent",
+      "confidence": 1.0,
+      "source_id": "Theme_d3668b35f7a5b63cc50b6599c302cd32b653af9a746dec5f7b5ef0c6506f8c6e",
+      "target_id": "Theme_d3668b35f7a5b63cc50b6599c302cd32b653af9a746dec5f7b5ef0c6506f8c6e"
+    },
+    {
+      "source": "Yvette",
+      "relation": "VISITED",
+      "target": "Paris",
+      "evidence": "La mère d'Hubert, votre mari, l'aurait, paraît-il, rasséréné en lui confiant à votre propos : \" Ne t'inquiète pas, la semaine prochaine, Yvette sera revenue à Nabirat \". Votre belle-mère avait tort puisque vous avez passé deux décennies à Paris",
+      "confidence": 1.0,
+      "source_id": "Person_2a9bca04fd37826e8151de84973b6ae1c0cd42b992f94c49c66e21ca5ac44fc2",
+      "target_id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    }
+  ]
+}

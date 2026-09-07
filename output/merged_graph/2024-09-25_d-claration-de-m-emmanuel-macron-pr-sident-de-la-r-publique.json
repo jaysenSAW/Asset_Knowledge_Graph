@@ -1,0 +1,698 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Amérique",
+      "id": "Country_bdf5427b1f0e60ff34b28f54ad2193969879bd4b7d05d9d5de81174f08b9b502"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Asie",
+      "id": "Country_125df38c941d6e9ca59fdabf4abad62d160982babf9162638b212439be445421"
+    },
+    {
+      "type": "Country",
+      "name": "Océanie",
+      "id": "Country_8eba38ccc6f755f1cfaf87d227c0c34f311487d16313d9996b931f405dcf10be"
+    },
+    {
+      "type": "Theme",
+      "name": "espoir",
+      "id": "Theme_15b08556ab7e3f525e36fa50726d1f343b990ff53d11dc75bcc38e329d23a485"
+    },
+    {
+      "type": "Theme",
+      "name": "Jeux olympiques et paralympiques",
+      "id": "Theme_e940994183ddb2a3bfc99aa453c9ec13fbc6cde398c01cfa60d9491bbb2d9fa5"
+    },
+    {
+      "type": "Theme",
+      "name": "trêve olympique",
+      "id": "Theme_3bac346ecb1f2cd26ed4510848a18d1ddf734ef7e8a72bbe7b0ff72d660b6acf"
+    },
+    {
+      "type": "Theme",
+      "name": "diplomatie impuissante",
+      "id": "Theme_6ed936d16237a858c073e0e6ac1d27f7db3a9a9bd28dac41f711ceb9b4ff7591"
+    },
+    {
+      "type": "Theme",
+      "name": "convergence de crises",
+      "id": "Theme_cb7dcaae5bd104b21cecd46138eeb043aa3fe79bf59c42588a8b1d51b5d90050"
+    },
+    {
+      "type": "Theme",
+      "name": "guerres",
+      "id": "Theme_1e54399c3e4dfb567cbd812434538394e310041b229559b071495f94d0277ffd"
+    },
+    {
+      "type": "Theme",
+      "name": "changements climatiques",
+      "id": "Theme_379e219c777989b46e45e7f0239389613b6003173971bd96f11d00d4d2cb0e21"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "injustices",
+      "id": "Theme_0855c0e2dc1112337e3cd6841ffa76fd1676a6bcadc7979d4dcfe94cb98b8912"
+    },
+    {
+      "type": "Theme",
+      "name": "nations unies",
+      "id": "Theme_b85379c9bee57eef9de38c321e2d649220c360a7fa56a4d6c5af4234d21f4c97"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "City",
+      "name": "Gaza",
+      "id": "City_8cb39b1f9caa4f551702de899822c42b8e43aff0e901aae8a6f291f5db7f5b5c"
+    },
+    {
+      "type": "Country",
+      "name": "Soudan",
+      "id": "Country_fffd3368e10c4710d9cc6fc24f457d5063e1f139e3b5edad1f5dd5a7da0d1c49"
+    },
+    {
+      "type": "Country",
+      "name": "Birmanie",
+      "id": "Country_f4406de0f2f74de469f36c6e5e5f18b96a9ae7a8767ced9fc46b6835e2f73719"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité de la vie humaine",
+      "id": "Theme_96f720750791550f3c9d95dba36fea35694205de4a40950754c69a1d94388dae"
+    },
+    {
+      "type": "Theme",
+      "name": "intégrité territoriale",
+      "id": "Theme_6478613e33c9e5b3ff7059cbe3cd49ea0abd486b306dbae2b4ca5e1486e50d5b"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté des États",
+      "id": "Theme_6e0a04378257f06e3b3e50a2998e75941805678307cbd48b6bc0e55e54b157de"
+    },
+    {
+      "type": "Theme",
+      "name": "Charte des Nations Unies",
+      "id": "Theme_13d520185f62ef68f379cecabceb5b1f5e9787971afee940414ff2aeffb06748"
+    },
+    {
+      "type": "Theme",
+      "name": "protection des civils",
+      "id": "Theme_2f78e16a161dff3a833b5632536fad4908f073ebfe3a735edc1bfa63e1e1a224"
+    },
+    {
+      "type": "Theme",
+      "name": "travailleurs humanitaires",
+      "id": "Theme_1dec21f909ccc567a2124214d524216b7c4631595d9c51b7af1d0783db48afce"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Proche-Orient",
+      "id": "Country_ea96081c3dc607260da7be0bce2be5c4e658fe0319110fa930660594f5cfce74"
+    },
+    {
+      "type": "Person",
+      "name": "TSHISEKEDI",
+      "id": "Person_efb0e6eb4919687da7feb7f9164089a9f1272c40c64d4a62ceb937d54c437efd"
+    },
+    {
+      "type": "Person",
+      "name": "KAGAME",
+      "id": "Person_5d47461a17d2c9b1f46d4769e189c55ed9e5bdd07cbcce35b784695d5bf1514f"
+    },
+    {
+      "type": "Person",
+      "name": "le Premier ministre",
+      "id": "Person_d8bf10de997adc473357324012e78c76f5b7143053044dbddbb35341ab6186ff"
+    },
+    {
+      "type": "Country",
+      "name": "Arménie",
+      "id": "Country_62ceb1ae3b1f609abbf4e3efc68918a8731f80d7f9e544fb0533794785f2eace"
+    },
+    {
+      "type": "Country",
+      "name": "Azerbaïdjan",
+      "id": "Country_0d4c1e009f3bb130b67fe6efb29a09de4f9c8f387cf4e3fa2169c0c4bc495fbc"
+    },
+    {
+      "type": "Country",
+      "name": "Hamas",
+      "id": "Country_664ba06f90f7d7b4b326982afebee134092d48624510c1de058deb1ef0567bc3"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "Égypte",
+      "id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "type": "Country",
+      "name": "Qatar",
+      "id": "Country_e5da689c325f619f1d122e0f9316e196ec475beef981feeb9a11d61cf1162518"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "otages",
+      "id": "Theme_9016d06ca4c5fb13236611b2b050f7f268c4f7b3656ad7aaa66451e7c6e4c594"
+    },
+    {
+      "type": "Theme",
+      "name": "aide humanitaire",
+      "id": "Theme_bd65bf8eaff3facc4aead8ffcee45975d3ff675e2fca247498e0dceeba4bd7c1"
+    },
+    {
+      "type": "Theme",
+      "name": "Gaza",
+      "id": "Theme_279a215bf8ff8b85a6c042185a3500805e234c36b1e6ed32731d90cb207203a4"
+    },
+    {
+      "type": "Theme",
+      "name": "capacités militaires",
+      "id": "Theme_a92e3c61d67425e5b0b42d79831f73cb6d7212bdecc54ad4277892f36208393a"
+    },
+    {
+      "type": "Theme",
+      "name": "Hamas",
+      "id": "Theme_1b1eca03664fa0e5f29c8962630e72f0f657d19950744ae3eebdbd4c25bef862"
+    },
+    {
+      "type": "Theme",
+      "name": "vies",
+      "id": "Theme_eab5c386f2fdd6a3592f6dfe85d5fb7a27968a1a2806dadaa5951bf973636bb7"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "mission internationale",
+      "id": "Theme_cf693642aca3096574d5ac4a4b443c19be9a2854d36f73fc961d6b573efc2623"
+    },
+    {
+      "type": "Theme",
+      "name": "solution des deux États",
+      "id": "Theme_27e41a87ea04d1a554c78bfbff94cdf6fe59f9cdffe9b9a0d4abff8c935a1a39"
+    },
+    {
+      "type": "Theme",
+      "name": "deux États",
+      "id": "Theme_6b44c422bf804606ca23e64431fbbf8768bccbef3599fd8e44cedc4d47db72f9"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité des Nations Unies",
+      "id": "Organization_6bf65c40c2dc11306e0f78e403029002e380728d5788808146d88e7f36b63686"
+    },
+    {
+      "type": "City",
+      "name": "Cisjordanie",
+      "id": "City_a17376981a921ea3ab82c84f82a930de089c4803fa9584b37d351add80f6226d"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "Organization",
+      "name": "Hezbollah",
+      "id": "Organization_1137024572239876ce26766f0e5ec1545d4d54b61723309fb15845fec7db138f"
+    },
+    {
+      "type": "Organization",
+      "name": "Israël",
+      "id": "Organization_d8ca6ed2c3f3582bc26fc74c25a799a9253b47fb4ef806e148d729659acd98e1"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité",
+      "id": "Organization_baa57920608812f1a905ee605e7e26f62ded68ec5607802bf97048747ea47f2f"
+    },
+    {
+      "type": "City",
+      "name": "Sahel",
+      "id": "City_92fe9646c051c53241e17f3fdb2c650a6e9fa01c7eb8480b47877e959ee0b5fe"
+    },
+    {
+      "type": "Country",
+      "name": "Bénin",
+      "id": "Country_c3395c64119478dc1af6c765d093cbbe534bb2cd0360c733cb028110c15a0d93"
+    },
+    {
+      "type": "Country",
+      "name": "Sénégal",
+      "id": "Country_5bbba8dfb2ecb3c355a01bc457075e8121fda791038a481e67d9cba8c7d6ec2d"
+    },
+    {
+      "type": "Country",
+      "name": "Cameroun",
+      "id": "Country_3dbed6a774b1c2a19e9d3ef0f7db7ed85220ea9016220d7e1e7d4036e88053f9"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Country",
+      "name": "Maroc",
+      "id": "Country_9458e2c6babd2c77ac8b75ec4713e04d3bfb33730d88d692b0cae733d35375f3"
+    },
+    {
+      "type": "Country",
+      "name": "Indo-Pacifique",
+      "id": "Country_a55ae030ae39d84c0e5d62898eb2b6889a5ad107aa2dcad5c81dddfcb2b1006c"
+    },
+    {
+      "type": "Country",
+      "name": "États de la région",
+      "id": "Country_5820ef68897a72204d6fad24b93e8b44c5baa04f0064ca7c336784c1af5fb073"
+    },
+    {
+      "type": "City",
+      "name": "Indo-Pacifique",
+      "id": "City_60960e8cd78678913ab63d0ad1057ccbb98c58b4417f894b94a7eb67fac10b93"
+    },
+    {
+      "type": "Theme",
+      "name": "développement",
+      "id": "Theme_9f563f6fb56281bb29449c280e882333dd332f1e1e2aa5ff1e49c8654dc6f9a4"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre les inégalités d'éducation",
+      "id": "Theme_b1b7d916fcea42bdff8abbd1ea2af896ac171e38f52c54cc8ca6155adf856aa4"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme efficace",
+      "id": "Theme_f03160f5b87672d1977e142adae55629be170ec2f5f825d00e5bdbedecc7dcff"
+    },
+    {
+      "type": "Theme",
+      "name": "fracture entre le Nord et le Sud",
+      "id": "Theme_ed65edc9733f729a9596f13132efe736703092c3c848893de93af6f491dfa235"
+    },
+    {
+      "type": "Theme",
+      "name": "Pacte de Paris pour les peuples et la planète",
+      "id": "Theme_714d31089bc4dafe48b170a8131ac9c6a955999183a636e8a15fdc0715ab3658"
+    },
+    {
+      "type": "Country",
+      "name": "États du Nord",
+      "id": "Country_a68826e612549eb98152b6f4356f4632f8ccbeb634655c10178e4179824ba6b1"
+    },
+    {
+      "type": "Country",
+      "name": "États du Sud",
+      "id": "Country_b9aa297bd487b7eddfaf916ebc0098d39cf9968de33daa9b4be4d94f8050fd2f"
+    },
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "développement économique",
+      "id": "Theme_90116a86288646b0ca7f81be8e3f867cd730709965d34e048dac6cb6b854a2c3"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Theme",
+      "name": "santé mondiale",
+      "id": "Theme_7a47bc0b3cb71c4a63caf97d34e5b5849cb98bbfc8cc6a6caf7d52d0b54f5339"
+    },
+    {
+      "type": "Theme",
+      "name": "biodiversité",
+      "id": "Theme_8d358277cafaf5b599d94fcd4ee0df53ef70362e56a7717c00c0db1f19d14742"
+    },
+    {
+      "type": "Theme",
+      "name": "transitions énergétiques justes",
+      "id": "Theme_46400b308263260d1d0daaafb676952a635a9213f871827d9c0971cb1338660a"
+    },
+    {
+      "type": "Organization",
+      "name": "FMI",
+      "id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Person",
+      "name": "Macky SALL",
+      "id": "Person_bac668f99a124e8a9759ea0accab64aba6d0b844358f6a309d9086c514366570"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque Mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds Monétaire International",
+      "id": "Organization_ea510a567f72e30e0268e3e6ccaa15fe3579eeab3ddd63cf65e4879cc4e70e8d"
+    },
+    {
+      "type": "Organization",
+      "name": "banques de développement",
+      "id": "Organization_ee93617ebf916274fe5c4226230af370c3ca8ba88204a1ff689b5becc0c75ddc"
+    },
+    {
+      "type": "Organization",
+      "name": "La Banque mondiale",
+      "id": "Organization_76c0c13fbd4a9f14b10134fa4ceb9f61da7e2cafbe4ca53d70c29748005a8d6e"
+    },
+    {
+      "type": "Theme",
+      "name": "multilatéralisme financier",
+      "id": "Theme_13c82e11a216359dbf0700075aa310e3c96303139651dbf762196527185ae6f9"
+    },
+    {
+      "type": "Event",
+      "name": "COP",
+      "id": "Event_56374a5cc1177fcdec5250d27fcef0e88ac7579a60dc7e7a2b83ee665f2b0951"
+    },
+    {
+      "type": "Country",
+      "name": "Costa Rica",
+      "id": "Country_56a1ed746f8c212254f14b70bd54599a0988a231454f23ef88a73340b229d1f5"
+    },
+    {
+      "type": "Country",
+      "name": "Kazakhstan",
+      "id": "Country_7bddecb0e58513bcc33e23ee4d8a1959b1d8f1945e78e1da876c5a576c724f07"
+    },
+    {
+      "type": "Country",
+      "name": "Arabie Saoudite",
+      "id": "Country_ba5ae4e1d0c1b62b96b20dbc4dfa5a4f386fc0140b81ffc4ec2b12c13be70858"
+    },
+    {
+      "type": "Law",
+      "name": "Traité sur la protection de la haute mer",
+      "id": "Law_c0bbf0a1d7aa3b077cd110deaa71367e603833f89f3023f11c8670a7ef23993d"
+    },
+    {
+      "type": "City",
+      "name": "Nice",
+      "id": "City_5f8d390dd1932ac8b90b2041c9796039da19e018f2d7f1337eb6775662306211"
+    },
+    {
+      "type": "Theme",
+      "name": "Intelligence Artificielle",
+      "id": "Theme_46fc9159c752871700abb49af32861abb1c17a995394dc38c62c021214dc5a89"
+    },
+    {
+      "type": "Country",
+      "name": "Venezuela",
+      "id": "Country_c4c2d1d21be57b781ecaf55a723b679b9caca7a3e86752e789211af9fcd17aa2"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Country",
+      "name": "Japon",
+      "id": "Country_f73b771b51ddb5b801c3123d56a5ec6a6b219433883b29c2d85c48fdca280ec7"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Country",
+      "name": "Brésil",
+      "id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae"
+    },
+    {
+      "type": "Theme",
+      "name": "dignité humaine",
+      "id": "Theme_a68e650cb082f90e106ea6655faf8989cb9854b36f5542c5c40eb1819a7d6ba1"
+    },
+    {
+      "type": "Theme",
+      "name": "respect des principes de la charte",
+      "id": "Theme_108a5452a8d8e188fb9d46e8dbc0e645a021d7bb9520c042ec4602d8dccf4497"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre international",
+      "id": "Theme_289a437b7ebd1758f517244ffb7920e1783b8884a6c25a392dab8d910194a767"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "espoir",
+      "relation": "MENTIONS",
+      "target": "espoir",
+      "evidence": "L'espoir, comme celui que nous avons encore vu ces derniers temps lors de Jeux olympiques et paralympiques, accueillis cet été par la France dans la beauté, l'enthousiasme et la concorde des peuples.",
+      "confidence": 1.0,
+      "source_id": "Theme_15b08556ab7e3f525e36fa50726d1f343b990ff53d11dc75bcc38e329d23a485",
+      "target_id": "Theme_15b08556ab7e3f525e36fa50726d1f343b990ff53d11dc75bcc38e329d23a485"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "accueillis cet été par la France dans la beauté, l'enthousiasme et la concorde des peuples.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "source": "trêve olympique",
+      "relation": "MENTIONS",
+      "target": "trêve olympique",
+      "evidence": "la trêve olympique, unanimement voulue ici même, est restée lettre morte.",
+      "confidence": 1.0,
+      "source_id": "Theme_3bac346ecb1f2cd26ed4510848a18d1ddf734ef7e8a72bbe7b0ff72d660b6acf",
+      "target_id": "Theme_3bac346ecb1f2cd26ed4510848a18d1ddf734ef7e8a72bbe7b0ff72d660b6acf"
+    },
+    {
+      "source": "diplomatie impuissante",
+      "relation": "MENTIONS",
+      "target": "diplomatie impuissante",
+      "evidence": "le danger d'une parole sans effet et d'une diplomatie impuissante sont là chaque jour devant nous.",
+      "confidence": 1.0,
+      "source_id": "Theme_6ed936d16237a858c073e0e6ac1d27f7db3a9a9bd28dac41f711ceb9b4ff7591",
+      "target_id": "Theme_6ed936d16237a858c073e0e6ac1d27f7db3a9a9bd28dac41f711ceb9b4ff7591"
+    },
+    {
+      "source": "convergence de crises",
+      "relation": "MENTIONS",
+      "target": "convergence de crises",
+      "evidence": "la plus grande convergence de crises qu'elle ait sans doute connue après ces huit décennies d'existence.",
+      "confidence": 1.0,
+      "source_id": "Theme_cb7dcaae5bd104b21cecd46138eeb043aa3fe79bf59c42588a8b1d51b5d90050",
+      "target_id": "Theme_cb7dcaae5bd104b21cecd46138eeb043aa3fe79bf59c42588a8b1d51b5d90050"
+    },
+    {
+      "source": "guerres",
+      "relation": "MENTIONS",
+      "target": "guerres",
+      "evidence": "face aux guerres, aux changements climatiques, à l'accroissement des inégalités, des injustices.",
+      "confidence": 1.0,
+      "source_id": "Theme_1e54399c3e4dfb567cbd812434538394e310041b229559b071495f94d0277ffd",
+      "target_id": "Theme_1e54399c3e4dfb567cbd812434538394e310041b229559b071495f94d0277ffd"
+    },
+    {
+      "source": "changements climatiques",
+      "relation": "MENTIONS",
+      "target": "changements climatiques",
+      "evidence": "face aux guerres, aux changements climatiques, à l'accroissement des inégalités, des injustices.",
+      "confidence": 1.0,
+      "source_id": "Theme_379e219c777989b46e45e7f0239389613b6003173971bd96f11d00d4d2cb0e21",
+      "target_id": "Theme_379e219c777989b46e45e7f0239389613b6003173971bd96f11d00d4d2cb0e21"
+    },
+    {
+      "source": "inégalités",
+      "relation": "MENTIONS",
+      "target": "inégalités",
+      "evidence": "face aux guerres, aux changements climatiques, à l'accroissement des inégalités, des injustices.",
+      "confidence": 1.0,
+      "source_id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6",
+      "target_id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "source": "injustices",
+      "relation": "MENTIONS",
+      "target": "injustices",
+      "evidence": "face aux guerres, aux changements climatiques, à l'accroissement des inégalités, des injustices.",
+      "confidence": 1.0,
+      "source_id": "Theme_0855c0e2dc1112337e3cd6841ffa76fd1676a6bcadc7979d4dcfe94cb98b8912",
+      "target_id": "Theme_0855c0e2dc1112337e3cd6841ffa76fd1676a6bcadc7979d4dcfe94cb98b8912"
+    },
+    {
+      "source": "nations unies",
+      "relation": "MENTIONS",
+      "target": "nations unies",
+      "evidence": "Pour redonner à ces deux mots, nations unies, leurs puissances d'espérance, nous devons nous retrouver, comme jadis, sur un socle essentiel.",
+      "confidence": 1.0,
+      "source_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab",
+      "target_id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Le sort de l'Ukraine engage la paix et la sécurité en Europe et dans le monde.",
+      "confidence": 1.0,
+      "source_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Ukraine",
+      "evidence": "La France continuera de faire tout ce qui est en son pouvoir pour que l'Ukraine tienne bon, se mette hors de danger et obtienne justice.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "source": "France",
+      "relation": "OPPOSES",
+      "target": "Azerbaïdjan",
+      "evidence": "la France se tient fermement face aux pressions de l'Azerbaïdjan et des territoires, la communauté internationale doit être là pour que les négociations de paix aboutissent et que les frontières internationalement reconnues soient préservées.",
+      "confidence": 1.0,
+      "source_id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439",
+      "target_id": "Country_0d4c1e009f3bb130b67fe6efb29a09de4f9c8f387cf4e3fa2169c0c4bc495fbc"
+    },
+    {
+      "source": "Gaza",
+      "relation": "LOCATED_IN",
+      "target": "Cisjordanie",
+      "evidence": "les dispositions nécessaires pour préserver le lien entre Gaza et la Cisjordanie",
+      "confidence": 1.0,
+      "source_id": "Theme_279a215bf8ff8b85a6c042185a3500805e234c36b1e6ed32731d90cb207203a4",
+      "target_id": "City_a17376981a921ea3ab82c84f82a930de089c4803fa9584b37d351add80f6226d"
+    },
+    {
+      "source": "Israël",
+      "relation": "LOCATED_IN",
+      "target": "Liban",
+      "evidence": "Israël, quant à lui, ne peut, sans conséquences, étendre ses opérations au Liban.",
+      "confidence": 1.0,
+      "source_id": "Organization_d8ca6ed2c3f3582bc26fc74c25a799a9253b47fb4ef806e148d729659acd98e1",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "source": "Hezbollah",
+      "relation": "LOCATED_IN",
+      "target": "Liban",
+      "evidence": "Le Hezbollah prend depuis trop longtemps le risque insoutenable d'entraîner le Liban dans la guerre.",
+      "confidence": 1.0,
+      "source_id": "Organization_1137024572239876ce26766f0e5ec1545d4d54b61723309fb15845fec7db138f",
+      "target_id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Afrique",
+      "evidence": "l'Europe et l'Afrique ont devant elles un destin commun",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "source": "États du Nord",
+      "relation": "OPPOSES",
+      "target": "États du Sud",
+      "evidence": "Pourquoi des États du Nord iraient donner la leçon à des États du Sud en leur expliquant qu'ils devraient respecter le climat et donc renoncer à des opportunités économiques ?",
+      "confidence": 1.0,
+      "source_id": "Country_a68826e612549eb98152b6f4356f4632f8ccbeb634655c10178e4179824ba6b1",
+      "target_id": "Country_b9aa297bd487b7eddfaf916ebc0098d39cf9968de33daa9b4be4d94f8050fd2f"
+    }
+  ]
+}

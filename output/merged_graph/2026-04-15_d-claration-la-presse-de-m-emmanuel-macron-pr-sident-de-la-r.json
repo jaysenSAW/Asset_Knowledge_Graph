@@ -1,0 +1,152 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "climat",
+      "id": "Theme_78415e30d00309d5ae985269d5b7d86aa18debc7954e73aaf53d8d9b42c12bf1"
+    },
+    {
+      "type": "Theme",
+      "name": "préservation des océans",
+      "id": "Theme_db15cdd8b3ff3afd99e09479a2ce5ccc1a4e85f0152d27b5e3a4897e730dd740"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité alimentaire",
+      "id": "Theme_7e52509eac677cedce8c74931d740f347eef87354c862f58f6c50a307496bc02"
+    },
+    {
+      "type": "Theme",
+      "name": "continent africain",
+      "id": "Theme_cd50f2dfb8b772e54766a8d2a1e28b1fef22d8a1923ca6fc69578353430c7987"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Mauritanie",
+      "id": "Country_f6f04beb41c51169b0ac43b82b76afeaca4b16fd7d8a8e7ca3ca9d31b4a68854"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "francophonie",
+      "id": "Organization_dc678596523f2ca379d71924629e0368bc6c847e852aba150093697fe130600f"
+    },
+    {
+      "type": "Country",
+      "name": "La Mauritanie",
+      "id": "Country_c8888df211cf9b434e644aaa0586c4d68d4e1af66cd9ccf8e6002b9de6a06fa2"
+    },
+    {
+      "type": "Organization",
+      "name": "Meridiam",
+      "id": "Organization_319fbbe83175f1905b34acab43160836206dbf23b9b039d3eb5324c83be47922"
+    },
+    {
+      "type": "City",
+      "name": "Nouakchott",
+      "id": "City_312b6c03063ac6e9ba22c725269b41804a041d35552db6a3d89b15488226e8b6"
+    },
+    {
+      "type": "Organization",
+      "name": "Razel-Bec",
+      "id": "Organization_c40bb37ad25593cf61accf6ad54a997bf4c725f823e18b0e51dc801dfd08a63e"
+    },
+    {
+      "type": "Organization",
+      "name": "AFD",
+      "id": "Organization_083867e3b191ef83df992d01216f1dd45eab3c38e55042c0d9fc4313c8b5fd52"
+    },
+    {
+      "type": "City",
+      "name": "Brest",
+      "id": "City_b8b2fe8f774eb8e0b0c96130393db97310dc549fba8a16f4944bf6c52d878f33"
+    },
+    {
+      "type": "City",
+      "name": "Nairobi",
+      "id": "City_9e7e0560d5e3e471d70da8492ad27417c272d73c674b93a5d9702d27d42324e5"
+    },
+    {
+      "type": "Country",
+      "name": "Africain",
+      "id": "Country_698477977960eea221b48ef749235cdb4b76cadf5c10309acc73346625c29054"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Mauritanie",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "La Mauritanie est un partenaire clé de la France",
+      "confidence": 1.0,
+      "source_id": "Country_f6f04beb41c51169b0ac43b82b76afeaca4b16fd7d8a8e7ca3ca9d31b4a68854",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Mauritanie",
+      "relation": "ALLIED_WITH",
+      "target": "France",
+      "evidence": "La Mauritanie est un partenaire clé de la France",
+      "confidence": 1.0,
+      "source_id": "Country_f6f04beb41c51169b0ac43b82b76afeaca4b16fd7d8a8e7ca3ca9d31b4a68854",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "Mauritanie",
+      "relation": "SUPPORTS",
+      "target": "francophonie",
+      "evidence": "La Mauritanie y a toute sa place et sa voix compte, en Afrique, dans le monde arabe, auprès de l'Europe, dans les enceintes internationales, notamment au sein de la francophonie.",
+      "confidence": 1.0,
+      "source_id": "Country_f6f04beb41c51169b0ac43b82b76afeaca4b16fd7d8a8e7ca3ca9d31b4a68854",
+      "target_id": "Organization_dc678596523f2ca379d71924629e0368bc6c847e852aba150093697fe130600f"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Africain",
+      "evidence": "la relation entre nos deux pays, entre la France et le continent africain",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_698477977960eea221b48ef749235cdb4b76cadf5c10309acc73346625c29054"
+    }
+  ]
+}

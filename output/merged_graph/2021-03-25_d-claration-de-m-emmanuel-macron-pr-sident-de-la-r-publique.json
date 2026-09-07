@@ -1,0 +1,692 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Joe BIDEN",
+      "id": "Person_888e3389493b5aa1ca903fa6f66fc1f303d75e4ee8c75fec78b58be333024263"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil européen",
+      "id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "type": "Organization",
+      "name": "États-Unis",
+      "id": "Organization_3b08eb2671279e09493fe87c31cd8efb8ef559ae7445896c53ad72240e970f09"
+    },
+    {
+      "type": "Person",
+      "name": "Madame Ursula VON DER LEYEN",
+      "id": "Person_3b462e30e968fdef8bb71bd13a4256594bcf022dc0cb11d5e128dee0fffb7d20"
+    },
+    {
+      "type": "Person",
+      "name": "Thierry BRETON",
+      "id": "Person_ed07c18dffcb9fae761ce572565c69ef328ed102cba549a93712a74c9b49f469"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte européenne contre le virus",
+      "id": "Theme_e61d0f643c0598fcafde4fdb1224070f224596e03f0a2748b5634ba44e84efc8"
+    },
+    {
+      "type": "Theme",
+      "name": "campagne vaccinale",
+      "id": "Theme_1c74421f636f7c864b813f84856aa72e428e5084eab0b621ef34816b9238644b"
+    },
+    {
+      "type": "Theme",
+      "name": "vie normale",
+      "id": "Theme_f61b5c56d6565867d02b889643a6555122f8926db4fe1b756c6305f5d6122112"
+    },
+    {
+      "type": "Theme",
+      "name": "solution européenne",
+      "id": "Theme_39281c49c413a60d2e110d3b5bc4698d645ee2c20b9591a78c1d251f69ba3a2b"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "cycle de production des vaccins",
+      "id": "Theme_fe1e5f8c4d6d3b0c8f2304ad9515dccd44920124d3f9cd802feb6762bf8e11e0"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémies",
+      "id": "Theme_4bc428a3235645bc4e0c595f9458c6537369cbbc5096cd3109b7ae18982513f3"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccins",
+      "id": "Theme_285c234b84ef6ba1444c75fa4fb284e57557192a16508630af6134cc975797f3"
+    },
+    {
+      "type": "Theme",
+      "name": "production européenne",
+      "id": "Theme_4c6e123ac91186d3102b7ac2688f0ef21b154d342a0af374da7f6e07d5a43604"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "protectionnisme",
+      "id": "Theme_f908a3ce2a62f196e9b3881f0b81ce31f64eb6d35dede2a07725ea9d130f54a7"
+    },
+    {
+      "type": "Theme",
+      "name": "contrats signés entre les pays européens et certains industriels",
+      "id": "Theme_f9dc7453f317534f1eb165c86fc9198bb8b82067dce7720c3af593b5fadedf09"
+    },
+    {
+      "type": "Theme",
+      "name": "campagnes vaccinales",
+      "id": "Theme_20ed2afd7b7e0900bf63e83ca5684c5ecab5581a66896649c7eaa0094c4faed0"
+    },
+    {
+      "type": "Country",
+      "name": "Nos pays",
+      "id": "Country_0aebaac6c0b4cedc336e01f1d7aeed319b030c3cfc41632b79be2d790a1fdc24"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "AstraZeneca",
+      "id": "Organization_303d8f684b5d5cee5db0d13e163a0fb15cdb834f6e9c140a2a48928580e6e9c4"
+    },
+    {
+      "type": "Organization",
+      "name": "Novavax",
+      "id": "Organization_c620f20b4aa93ea76cbae0a76fc1f2927a3f2a8a0b45655e8c1eeaec5853bc09"
+    },
+    {
+      "type": "Organization",
+      "name": "Valneva",
+      "id": "Organization_c30ddc7811ea81000629ce3c49fd1ed97ae6c501a525d16916a843e1a9187b8b"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccins de deuxième génération",
+      "id": "Theme_0db8ee38d1419acf7224ae609d64d67ce91f76933130afc86ee931e93b1194a0"
+    },
+    {
+      "type": "Theme",
+      "name": "variants",
+      "id": "Theme_dde4ab79b8bb915d4aa07096bb477eda96fcd9b270f10c6e054f4b787e4d3fb4"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "défis",
+      "id": "Theme_5a6aef98f24c26e747d7ee3628cc4cefe7a02e552336681ab6dcd972be5b12a5"
+    },
+    {
+      "type": "Theme",
+      "name": "responsabilités",
+      "id": "Theme_0c8b0cae3c88823ec6c009ff69f50304d7a21a2e1dfd3f1af86073b2ad007fec"
+    },
+    {
+      "type": "Country",
+      "name": "États membres",
+      "id": "Country_454c710321513a03401dc403e939fc29614c251ebb3d57f24bb638c90c7a0244"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "virus",
+      "id": "Theme_693f7390ed433c22624aec32764b8241743cc2c14cc1c8347faecc4978733995"
+    },
+    {
+      "type": "Theme",
+      "name": "certificats européens",
+      "id": "Theme_908c125463987b39ecd5d3da8b354b1edd66452955bd1fe3f39fc5c526e8af56"
+    },
+    {
+      "type": "Theme",
+      "name": "droits",
+      "id": "Theme_7eb56e86691d574c7d0fa41bffcd50417ad7abbc021dc12800cf78099a3cc7c5"
+    },
+    {
+      "type": "Theme",
+      "name": "technologie",
+      "id": "Theme_f50f2e73d342423ab68fbb527a8e6f41bb64bfac8440718a497ef6f75a9032d8"
+    },
+    {
+      "type": "Theme",
+      "name": "confidentialité des données personnelles",
+      "id": "Theme_0a4f26140265bb75d9ec823ad0d1b7e569ba5fd9597c3c25e2317d715cba7ed1"
+    },
+    {
+      "type": "Theme",
+      "name": "choix",
+      "id": "Theme_fba9c019c28c5bd4199a73d217c0fec39d57dc54b1c1c1adef2bc99b5b5d3d2e"
+    },
+    {
+      "type": "Organization",
+      "name": "Ce Conseil européen",
+      "id": "Organization_a856174bd99d36040c81fedb6879b754ecb3cce4bf518fc278149f7a13e5de75"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Country",
+      "name": "Turquie",
+      "id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f"
+    },
+    {
+      "type": "Person",
+      "name": "NAVALNY",
+      "id": "Person_c2dab34a7398533aefae5ec485942ba2d7e440c27a60ce8f5eeb0df424cfa6c8"
+    },
+    {
+      "type": "Person",
+      "name": "Président du Conseil",
+      "id": "Person_604eceb5b6d1b9b2cad4b9953ea3611497b984a1649af4995bbd6611237caaa3"
+    },
+    {
+      "type": "Country",
+      "name": "Grèce",
+      "id": "Country_e42ed1eadef1b92efcd0b1d788c4aa9a57eed0ac70cc0a9f99dc50161027b5c1"
+    },
+    {
+      "type": "Country",
+      "name": "Libye",
+      "id": "Country_2a9a40802b8e98da45db72941538d70845db0e81015c95388757a60c05b6c938"
+    },
+    {
+      "type": "Country",
+      "name": "Ankara",
+      "id": "Country_940f8d05e5cd1b12786aa4f5f5db54f76d98f95421f57e26e0eae8ad55e9d246"
+    },
+    {
+      "type": "Theme",
+      "name": "marché intérieur",
+      "id": "Theme_c44bbad3dca61902793ac2c6190f1651fe98af69bf97ea5c2b27f13cca57a9ee"
+    },
+    {
+      "type": "Theme",
+      "name": "industriels",
+      "id": "Theme_65f1038ff0752a877be8ce71144e93bba19c4c44f80762614e26462e31508666"
+    },
+    {
+      "type": "Theme",
+      "name": "zone euro",
+      "id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "type": "Theme",
+      "name": "monnaie unique",
+      "id": "Theme_2e557318660f2bb514551f7d55476b916739299ea17119489fdd98ca32dfd18c"
+    },
+    {
+      "type": "Person",
+      "name": "Président de l'Eurogroupe",
+      "id": "Person_67c46f4b5aa47d16f92e1a576a66cb469ece30a9e652c3d3813b5a59c10f9f2a"
+    },
+    {
+      "type": "Person",
+      "name": "Présidente de la Banque centrale européenne",
+      "id": "Person_ba43597e28621cbad77d4683736e5228009f53815ca84892d6fa37e6f1965433"
+    },
+    {
+      "type": "Person",
+      "name": "Président BIDEN",
+      "id": "Person_aea56d2d88e0b36498ee7706d9018312202b07c7c9e23874f6e8d9f1972b7994"
+    },
+    {
+      "type": "Person",
+      "name": "BIDEN",
+      "id": "Person_a6340ab64c46aeadd1097acfefb827e46a05d300bf00b1f9552a5a11a4bc9685"
+    },
+    {
+      "type": "Person",
+      "name": "Président Charles MICHEL",
+      "id": "Person_d4f165c35500c212e36ae0bb2754c8dd87d7d16069816553128756ead928f39c"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre COSTA",
+      "id": "Person_4a9579c23f18acc38fd6fefd190f03188159a8b5e1eaa103fa263d1a450a1af7"
+    },
+    {
+      "type": "Person",
+      "name": "Loïc SIGNOR",
+      "id": "Person_16a4446fa2a8d3dc3f7e9b0bd431f5054f602edfd121096d008c350eec27f719"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie",
+      "id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "type": "Theme",
+      "name": "dialogue renouvelé",
+      "id": "Theme_9239a728f7f3382d3e1e5a0ee9914f6525dd390a2688fad9038b629cf451fd8c"
+    },
+    {
+      "type": "Theme",
+      "name": "grands risques internationaux",
+      "id": "Theme_19114287546e349741c667b38ece914a087045fdf7e26c4cefec9082dc7cebff"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccin",
+      "id": "Theme_32ec3b4bac32f73345f9e33a388256bcaced72a72a5de7433f9116a540d3ce0c"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Country",
+      "name": "Royaume-Uni",
+      "id": "Country_a58177bb51c9a8500c4a655e2ee74342b9b1a9ae33fcae278f03e17da22d7c44"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Country",
+      "name": "Commission",
+      "id": "Country_708791c5fe61ff4da98ec4c70ef218d33fdd9e0421e4028346aa6abff7e92fa4"
+    },
+    {
+      "type": "Organization",
+      "name": "Modern",
+      "id": "Organization_d0d6a5e94a6e82a879bbd33e84e67bbdff615980aee5232a986d97630f238cb2"
+    },
+    {
+      "type": "Country",
+      "name": "Brésil",
+      "id": "Country_2c6859a695fb6e925d4fa3a5ede9a8720864a19c00376b78ce993b7c846d5cae"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique du Sud",
+      "id": "Country_18768cba57ae5abd3fb4a98f72c105af41db31822809e203889560cb72663272"
+    },
+    {
+      "type": "Organization",
+      "name": "Pfizer",
+      "id": "Organization_f32d8aa6d956dd9365bcab1e53eb09b3963d474012db2e04cc2c925681f108ee"
+    },
+    {
+      "type": "Organization",
+      "name": "BioNTech",
+      "id": "Organization_197dfa9465f4925b400c009eb1a773d229a9c26eb7dc3a09ab81341e28e8accf"
+    },
+    {
+      "type": "Organization",
+      "name": "Moderna",
+      "id": "Organization_4b3bcfc37a2583cfd39428529a6c6730a4e74e1d17936a96583cf04b00349a25"
+    },
+    {
+      "type": "Theme",
+      "name": "révisions d'abord à la baisse des premiers engagements contractuels",
+      "id": "Theme_277c0aef155297d89cd079519f225567ce5f4b5b6dfd012302ba00c5ff1f2cdc"
+    },
+    {
+      "type": "Theme",
+      "name": "difficultés ensuite à livrer en temps et en heure ces engagements",
+      "id": "Theme_68c84f355b88ea8e219f908bbfcbd01d19dcc2fc5f69f0ee39950cf3982977dd"
+    },
+    {
+      "type": "Theme",
+      "name": "contrôles",
+      "id": "Theme_64043a3024d453b0d075acae2d790b2b8c5bbf83a239e7a0512368a98a588527"
+    },
+    {
+      "type": "Theme",
+      "name": "ambition",
+      "id": "Theme_26910a2f5645f4e454f661db52312e564454130be09210a9b7945116c7584042"
+    },
+    {
+      "type": "Theme",
+      "name": "risque",
+      "id": "Theme_344b5f1a12ae3c4a9a256d53923737b5141637d182ac11b2cfadb41b8304c9de"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccins de seconde génération",
+      "id": "Theme_b4b7a3ee39055077ce78aac9a40aeee678f807ac21ab96dd5bd99f7a7b6ca0b7"
+    },
+    {
+      "type": "Theme",
+      "name": "autres ambitions technologiques et scientifiques",
+      "id": "Theme_8ee03f070ef6700bc2182cfdfa869bfd42c3c832d5be7012dcd58e7ec423a874"
+    },
+    {
+      "type": "Person",
+      "name": "Ania NUSSBAUM",
+      "id": "Person_14ff936820a5bdac7a04c67b16ddbc0597f4a18465b055dcd108fc00af01459c"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Organization",
+      "name": "organismes de propagande",
+      "id": "Organization_9fb6ff9d01571cc28beade1a4e90b17a9c9f7b6cf3d88ea2d8ba6eb633dae3b8"
+    },
+    {
+      "type": "Theme",
+      "name": "ingérence",
+      "id": "Theme_b2c309395dd298e07d06a92bcca1c692ec075f7434b1938729b4d8bb29776be2"
+    },
+    {
+      "type": "Organization",
+      "name": "OCDE",
+      "id": "Organization_02db3cf51fb124b86eeaa858457a776190fd829b365a791f5c8075dbac9f5f45"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque centrale européenne",
+      "id": "Organization_604df4e817ea32383418b21e72b41e4ff96e5db0c6432532766813697e942e7c"
+    },
+    {
+      "type": "Event",
+      "name": "crise",
+      "id": "Event_2e0ddc20f79fd86bd53ec1b955e61da57e5b7f80a2ae39fda0014895356307cc"
+    },
+    {
+      "type": "Person",
+      "name": "Anthony LATTIER",
+      "id": "Person_6d3138a8a3411973c04a50ee9efbcaac86b3e6c44031a785c7e32fc41cbcbd64"
+    },
+    {
+      "type": "Theme",
+      "name": "réponses",
+      "id": "Theme_571306fdab2ed8a6b3a8bcb659d1ee632bbf5cb8916c2cf78cf2b65ff128bda0"
+    },
+    {
+      "type": "Theme",
+      "name": "immunité collective",
+      "id": "Theme_d0ad78a08146e182360c7049f5f49b7d7f17ccaa3d0019ca321520146b63ec4a"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "Theme",
+      "name": "variants de ce virus",
+      "id": "Theme_f585f08e0fa4d7a32ec9cd95fe6a5e5978dc9cdcd41b3bc8c55a4ce899e6850e"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégies de vaccination",
+      "id": "Theme_13718afdaf8d6b3088eb6f5fd2e009fa55a88edc277efee76002cb569deec9d3"
+    },
+    {
+      "type": "Theme",
+      "name": "mutations",
+      "id": "Theme_9b3570808d21ed8f10b9f271ca107683cec22ff6555279a06c26c5d2344d40a6"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie française",
+      "id": "Theme_8cdaca846114ae3aeedc9e5960497780fade78255228f7d9cb5c417a626cc7fe"
+    },
+    {
+      "type": "Theme",
+      "name": "mesures de freinage",
+      "id": "Theme_7439b3dddc12eecc861e3a9b0de3cf7f89bdacb2455d79172ddbbb4e741d84d1"
+    },
+    {
+      "type": "Theme",
+      "name": "réponse à la crise",
+      "id": "Theme_3fcc80208c26a345658cc4a248cf98762000a7d42493dac79b4fb26bc85b0da8"
+    },
+    {
+      "type": "Theme",
+      "name": "confiner le pays",
+      "id": "Theme_ff816fb6527324046a81556f1e0931cff15734ef9825431f5d3b3473c6efa94c"
+    },
+    {
+      "type": "Theme",
+      "name": "explosion",
+      "id": "Theme_37a619a444bd9f68930a6f190c80506a5887018fd869c1d9ef1611efe21e574e"
+    },
+    {
+      "type": "Theme",
+      "name": "couvre-feu",
+      "id": "Theme_97c57d4ea7e3a06b313c8ca13e053545124f4f14511adec20179717dfd2660cb"
+    },
+    {
+      "type": "Organization",
+      "name": "gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Theme",
+      "name": "épidémie",
+      "id": "Theme_cc728abad13e3c62e85c61089f7679fbc7bd2c7fd6b01a6888d874304168d638"
+    },
+    {
+      "type": "Theme",
+      "name": "variant",
+      "id": "Theme_500455c21ac3b796b55f7b17d615d12b3bd124880b4a93223868a231a6e9ed77"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccination",
+      "id": "Theme_08727af7b4e202025a46e53a3b86d689aba5e9aaeb127cbebab4949a61c65b87"
+    },
+    {
+      "type": "Theme",
+      "name": "espoir",
+      "id": "Theme_15b08556ab7e3f525e36fa50726d1f343b990ff53d11dc75bcc38e329d23a485"
+    },
+    {
+      "type": "Theme",
+      "name": "collective",
+      "id": "Theme_b6dc93881aad65e9649d67d917d21dafb0d34015f01cea0839eb234f6a51d0c4"
+    },
+    {
+      "type": "Person",
+      "name": "nos concitoyens",
+      "id": "Person_05d0c72ed8dc65ddc645a6c5341657deeb75fb3e8829a1ec53404203b192df76"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Commission européenne",
+      "evidence": "la France l'a fait, collectivement, nous l'avons fait — les mesures prises par la Commission européenne",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "virus",
+      "evidence": "C'est le sens des certificats européens qui doivent permettre à tous de prouver qu'ils sont soit vaccinés, soit testés négativement, soit qu'ils ont été déjà touchés par le virus, guéris et donc ont les nécessaires anticorps.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_693f7390ed433c22624aec32764b8241743cc2c14cc1c8347faecc4978733995"
+    },
+    {
+      "source": "Europe",
+      "relation": "SPOKE_ABOUT",
+      "target": "certificats européens",
+      "evidence": "C'est le sens des certificats européens qui doivent permettre à tous de prouver qu'ils sont soit vaccinés, soit testés négativement, soit qu'ils ont été déjà touchés par le virus, guéris et donc ont les nécessaires anticorps.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Theme_908c125463987b39ecd5d3da8b354b1edd66452955bd1fe3f39fc5c526e8af56"
+    },
+    {
+      "source": "Turquie",
+      "relation": "LOCATED_IN",
+      "target": "Conseil européen",
+      "evidence": "S'agissant de la Turquie, nous avons pu constater des avancées positives de la part d'Ankara depuis nos avertissements du Conseil européen de décembre",
+      "confidence": 1.0,
+      "source_id": "Country_96cf94b5510323e3facb6e8f14d6a5a626b7dfcdd9eb9da071914f82a13a239f",
+      "target_id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "source": "Ankara",
+      "relation": "VISITED",
+      "target": "Europe",
+      "evidence": "afin de permettre à Ankara d'apporter des clarifications, de nous prouver dans les prochains mois sa volonté de s'amarrer à nouveau à l'Europe",
+      "confidence": 1.0,
+      "source_id": "Country_940f8d05e5cd1b12786aa4f5f5db54f76d98f95421f57e26e0eae8ad55e9d246",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "Europe",
+      "relation": "SUPPORTS",
+      "target": "Ankara",
+      "evidence": "afin de permettre à Ankara d'apporter des clarifications, de nous prouver dans les prochains mois sa volonté de s'amarrer à nouveau à l'Europe",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_940f8d05e5cd1b12786aa4f5f5db54f76d98f95421f57e26e0eae8ad55e9d246"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SPOKE_ABOUT",
+      "target": "zone euro",
+      "evidence": "plusieurs États membres de l'Union européenne qui forment la zone euro",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "SPOKE_ABOUT",
+      "target": "pandémie",
+      "evidence": "l'Union européenne mettrait plus de temps que d'autres géographies à retrouver la tendance qui était la sienne avant la pandémie",
+      "confidence": 1.0,
+      "source_id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a",
+      "target_id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "source": "Président Charles MICHEL",
+      "relation": "MEMBER_OF",
+      "target": "Conseil",
+      "evidence": "le Président Charles MICHEL, comme le Président en exercice du Conseil",
+      "confidence": 1.0,
+      "source_id": "Person_d4f165c35500c212e36ae0bb2754c8dd87d7d16069816553128756ead928f39c",
+      "target_id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "source": "Président Charles MICHEL",
+      "relation": "SPOKE_ABOUT",
+      "target": "stratégie",
+      "evidence": "le Président Charles MICHEL, comme le Président en exercice du Conseil, le Premier ministre COSTA ont pu expliquer notre stratégie",
+      "confidence": 1.0,
+      "source_id": "Person_d4f165c35500c212e36ae0bb2754c8dd87d7d16069816553128756ead928f39c",
+      "target_id": "Theme_642ea85c02402826c6422a2916dfa3177ac1a3d3b8bfc2911f94b12cc2e40794"
+    },
+    {
+      "source": "crise",
+      "relation": "SPOKE_ABOUT",
+      "target": "États-Unis d'Amérique",
+      "evidence": "Et quand je regarde aussi les trajectoires sur les années qui viennent, on voit bien que les États-Unis d'Amérique vont retrouver à peu près mi-2021 le niveau absolu qui était le leur avant la crise, et surtout vont très rapidement retrouver la trajectoire qui était la leur.",
+      "confidence": 1.0,
+      "source_id": "Event_2e0ddc20f79fd86bd53ec1b955e61da57e5b7f80a2ae39fda0014895356307cc",
+      "target_id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "l'Europe — et les chiffres qui ont été cités par votre collègue tout à l'heure le montrent — est le seul continent qui, en plus, exporte.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "stratégie française",
+      "relation": "MENTIONS",
+      "target": "mesures de freinage",
+      "evidence": "Sur la stratégie française, qui n'est plus le vaccin mais là des mesures de freinage et de la réponse à la crise",
+      "confidence": 1.0,
+      "source_id": "Theme_8cdaca846114ae3aeedc9e5960497780fade78255228f7d9cb5c417a626cc7fe",
+      "target_id": "Theme_7439b3dddc12eecc861e3a9b0de3cf7f89bdacb2455d79172ddbbb4e741d84d1"
+    },
+    {
+      "source": "stratégie française",
+      "relation": "MENTIONS",
+      "target": "réponse à la crise",
+      "evidence": "Sur la stratégie française, qui n'est plus le vaccin mais là des mesures de freinage et de la réponse à la crise",
+      "confidence": 1.0,
+      "source_id": "Theme_8cdaca846114ae3aeedc9e5960497780fade78255228f7d9cb5c417a626cc7fe",
+      "target_id": "Theme_3fcc80208c26a345658cc4a248cf98762000a7d42493dac79b4fb26bc85b0da8"
+    }
+  ]
+}

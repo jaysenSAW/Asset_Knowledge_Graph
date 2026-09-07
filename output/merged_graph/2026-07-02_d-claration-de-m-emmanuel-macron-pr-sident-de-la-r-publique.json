@@ -1,0 +1,110 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "narcotrafic",
+      "id": "Theme_1daa944d4d810c612653778b3f25af0ecdd9dbb7b534bb6c6104efd3fce0df8d"
+    },
+    {
+      "type": "Theme",
+      "name": "délinquance criminelle",
+      "id": "Theme_4f36d45313490b1227f45ffa85f31b9f2ef8e77ce53313eb8e824fd785f6a09f"
+    },
+    {
+      "type": "Country",
+      "name": "Algérie",
+      "id": "Country_1cb3a7542d3b7a9416e4c8fe6cb35ade31468ebf69cf7b3215822719aa7c529d"
+    },
+    {
+      "type": "Country",
+      "name": "Maroc",
+      "id": "Country_9458e2c6babd2c77ac8b75ec4713e04d3bfb33730d88d692b0cae733d35375f3"
+    },
+    {
+      "type": "Country",
+      "name": "Émirats arabes unis",
+      "id": "Country_02da2051b5b49f4cccf63ff0675abe8e1fc2d1961a4264fcb31498ee4e262b19"
+    },
+    {
+      "type": "Country",
+      "name": "Tunisie",
+      "id": "Country_b61a3ce78548fbe90188acd93151783d5d21ef8a6bdd58f9f446f24284d39295"
+    },
+    {
+      "type": "Theme",
+      "name": "anticriminalité organisée",
+      "id": "Theme_cdbc1306b1d6f756053d5d8da65d72291d628d5ac68244c9778f1db790fc68c1"
+    },
+    {
+      "type": "Theme",
+      "name": "criminalité organisée",
+      "id": "Theme_00c380b8af842631d722392d8a348bc883ec9a876b7959b324e006a7cf3740ab"
+    },
+    {
+      "type": "Theme",
+      "name": "réduction du nombre de points de deal",
+      "id": "Theme_cda5c49543f60b6a95489120c3c33fcc130e6bb3f0a265f3cbc8f2e90b914352"
+    },
+    {
+      "type": "Theme",
+      "name": "préparation de différentes actions",
+      "id": "Theme_08231ff98c506449cad289fefcf359a807ae78cc13c0368692eda7684ce4fd7d"
+    },
+    {
+      "type": "Theme",
+      "name": "ports",
+      "id": "Theme_aa3791ffefaf4c4a46f31f52c2973924274ea484a6be7b550737984f37318df3"
+    },
+    {
+      "type": "Theme",
+      "name": "Outre-mer",
+      "id": "Theme_64c7afb8abd6650f75e245cc5aca9bedfee6167f1f691c6bf4d5a30512dcf9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "douane",
+      "id": "Theme_71283b3bb487abbae6662d0514ffec853bf52545b62093a2563d71212338f699"
+    },
+    {
+      "type": "City",
+      "name": "Antilles-Guyane",
+      "id": "City_aa52cac1e06acfa4f90c43255448b85d7133a3b45a85e43e6c296e3f921442e0"
+    },
+    {
+      "type": "City",
+      "name": "Polynésie",
+      "id": "City_103d11482639dfde531a4dc1072ea2ddc0c4aad84839afc490792d292fce95c1"
+    },
+    {
+      "type": "Person",
+      "name": "Premier ministre",
+      "id": "Person_fccc60a4a7a3938cdbad19a762a9fb2c37d2e2899302ca9efc336b3fbd0e41d3"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "narcotrafic",
+      "relation": "MENTIONS",
+      "target": "narcotrafic",
+      "evidence": "Le narcotrafic continue de progresser chaque jour et est véritablement un marché criminel qui pèse plus de 7 milliards d'euros par an",
+      "confidence": 1.0,
+      "source_id": "Theme_1daa944d4d810c612653778b3f25af0ecdd9dbb7b534bb6c6104efd3fce0df8d",
+      "target_id": "Theme_1daa944d4d810c612653778b3f25af0ecdd9dbb7b534bb6c6104efd3fce0df8d"
+    }
+  ]
+}

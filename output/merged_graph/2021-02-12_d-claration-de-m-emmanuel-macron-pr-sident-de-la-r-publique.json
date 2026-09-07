@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "discrimination",
+      "id": "Theme_92d7d1d37614eb7e3178c40e62a9c7211cba91c8c31af61eb0c9f5faa02beefb"
+    },
+    {
+      "type": "Organization",
+      "name": "Défenseure des droits",
+      "id": "Organization_51c11a83a7024adb3229280efa23624a2319aef29f829ca3512b2ef22a127473"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre les discriminations",
+      "id": "Theme_72dfe8da858de87b1d1c04b2aea49b70abc2d51a065f5dfe3454b4a7c3e96699"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "discriminations",
+      "id": "Theme_1f69353dd700231fa8e6831503cf115f594fbd9f6011a36c2863785f8a5e5a5c"
+    },
+    {
+      "type": "Theme",
+      "name": "République",
+      "id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la république",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "justice",
+      "relation": "MENTIONS",
+      "target": "justice",
+      "evidence": "Ils sont là pour vous aider à ce que justice soit faite par tous les moyens possibles",
+      "confidence": 1.0,
+      "source_id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b",
+      "target_id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "source": "République",
+      "relation": "MENTIONS",
+      "target": "République",
+      "evidence": "Les discriminations nous rappellent que notre République n'est jamais achevée.",
+      "confidence": 1.0,
+      "source_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b",
+      "target_id": "Theme_968266226ead48b5fd5f1a18ed9c714a5358383ac08ab6ad13359f3c37ecbd5b"
+    }
+  ]
+}

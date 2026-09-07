@@ -1,0 +1,787 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le Président de l'Assemblée générale",
+      "id": "Person_917e6b9c3cdc538b343f6dce0e7a7e089966ab5de4108817364f83ea995261d7"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la Secrétaire générale adjointe des Nations unies",
+      "id": "Person_36ecf6e47038c9ad208aac9efbe62e545a5aa6b3c7bcbdaa44414a21062ef522"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée générale",
+      "id": "Organization_c36b51d47a41b7782e1fa96236e3af69397bc0bea9e0b71e812d37a772903608"
+    },
+    {
+      "type": "Organization",
+      "name": "Nations unies",
+      "id": "Organization_cecd99ab325c2c332aaae3df92c7d138f7309c85574fb1fd5c2758dfbe9a00ab"
+    },
+    {
+      "type": "Organization",
+      "name": "Premier ministre",
+      "id": "Organization_7e26a514669af4fca1ec205f472be9f3b475c2bd04e6a695e5fb2af48621cbca"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres",
+      "id": "Organization_fc1885761fd17f5cf56cf0835033ac2b73c9c97f7b896ceb025de1879ccdca52"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaires d'État",
+      "id": "Organization_8e1c30d7292f37306d79d2962f39e05a81c9565675fd36c8251619de54d5d4ca"
+    },
+    {
+      "type": "Organization",
+      "name": "France",
+      "id": "Organization_eb6052b95ef16ab1fdcd0aa7ffcc6cd7b91f2e9bb880bda61d3bda3b04b4c439"
+    },
+    {
+      "type": "Organization",
+      "name": "Afrique",
+      "id": "Organization_cc63a612764ba586924f9904b92f32beebc729b10201e71345a89e06a6a97276"
+    },
+    {
+      "type": "Organization",
+      "name": "Asie",
+      "id": "Organization_43e33a40d6adb3df4a199e152038ba0f86a8943b12482ec83e6672c79578c044"
+    },
+    {
+      "type": "Organization",
+      "name": "Océanie",
+      "id": "Organization_0ed3bd3cc1f8647d772337f6a62bdbd83305880b300ba36e03e041db62c2041b"
+    },
+    {
+      "type": "Organization",
+      "name": "Amérique",
+      "id": "Organization_2e07ba0e91fb18547c24f6342365939c22dd0599b683073cd878f70834e9d0ee"
+    },
+    {
+      "type": "Law",
+      "name": "Charte",
+      "id": "Law_cf2fca2d54a4d4d25bdc8042691fe812d41813a2eb67f8c5b3db49b9cbee2f35"
+    },
+    {
+      "type": "Event",
+      "name": "XXe siècle",
+      "id": "Event_2b7db01d5644adfd2e822b41605d43941fb2a132730fd4db0717e4d894074d06"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil de sécurité",
+      "id": "Organization_baa57920608812f1a905ee605e7e26f62ded68ec5607802bf97048747ea47f2f"
+    },
+    {
+      "type": "Organization",
+      "name": "Cour internationale de justice",
+      "id": "Organization_49d87441388bae4ca7e0bc16c3bb89ac6366b2678a374b215849009082f9a15a"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Theme",
+      "name": "paix en Europe",
+      "id": "Theme_d2e8953a272e8c90d001ddc7cd0c89805cf682d6657c748713b31a3ac7b2f46e"
+    },
+    {
+      "type": "Theme",
+      "name": "conflictualité élargie, permanente",
+      "id": "Theme_4cb48e97e00851078568ac1cdba06365bf33178fe2c6fdf0c94c673c88cbe396"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "paix",
+      "id": "Theme_830644be31549a480b8355ff128f1905641e3703cf1ccf8a47e8a4bac55ce503"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté",
+      "id": "Theme_ef50f212a93eae790391aed12e8c5b7281db95f92ef81d0937ed2ec59252686b"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité nucléaire",
+      "id": "Theme_574d10c9f03453a8c1999502b1dc2baea2f49972cb884cf4fdee867acfe562e8"
+    },
+    {
+      "type": "Theme",
+      "name": "droit international",
+      "id": "Theme_5ed1c962a2e6badfcec01090455d807b7559f5af1344fea3604e0c342da4d8f1"
+    },
+    {
+      "type": "Theme",
+      "name": "référendum",
+      "id": "Theme_4a9f20d7b6af8f6b0d5ae6a3799b5ea2f2d92359d5af489792d864166bcaf9f8"
+    },
+    {
+      "type": "Event",
+      "name": "référendum",
+      "id": "Event_cefaa5ab45bed5d1f8fb065a3babf3a3f4ba57b3ee4332ce8fed1535cdec853b"
+    },
+    {
+      "type": "Theme",
+      "name": "Charte",
+      "id": "Theme_7a8a6e002a320705abf35e3d86b8f097a65f43e8c0dff9286dec783af4954e7f"
+    },
+    {
+      "type": "Theme",
+      "name": "division du monde",
+      "id": "Theme_a3d4c3d22662888c82134085e8b6ac897bf2db1fd756f6e04205416ef1d68cb7"
+    },
+    {
+      "type": "Theme",
+      "name": "injustice",
+      "id": "Theme_f50d0badc765b4168fd5c9e2bc18a19ca3762b14518aa59aa8a19218df31b713"
+    },
+    {
+      "type": "Theme",
+      "name": "conséquences énergétiques",
+      "id": "Theme_63d3c6e601d0c14a0c1f03e636332730a3c46ffbf1dd30f79ec292325b10d30a"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre menée par la Russie",
+      "id": "Theme_b85595edfa993557ec854a6d27b88565721425c74d5f9d94733edd6ec75e75b3"
+    },
+    {
+      "type": "Theme",
+      "name": "neutralité",
+      "id": "Theme_ce79b22200861c8e67f9bcee44711ef2dacf6c8e12a39328ae196caf09932c92"
+    },
+    {
+      "type": "Theme",
+      "name": "combat des non-alignés",
+      "id": "Theme_56229b23596e979317e7dd285b3057b5614c780851fe1236142101b75645a205"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté des États",
+      "id": "Theme_6e0a04378257f06e3b3e50a2998e75941805678307cbd48b6bc0e55e54b157de"
+    },
+    {
+      "type": "Theme",
+      "name": "intégrité territoriale",
+      "id": "Theme_6478613e33c9e5b3ff7059cbe3cd49ea0abd486b306dbae2b4ca5e1486e50d5b"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvel impérialisme",
+      "id": "Theme_6068300deb644731d469cab9e763f119857d6c69caa8b47a3e71b73cf44e3cf2"
+    },
+    {
+      "type": "Theme",
+      "name": "cynisme contemporain",
+      "id": "Theme_f2cc5fcc130c43122f82221b32b34c550f6bff19749d81c9f0336aae58404ebe"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre international",
+      "id": "Theme_289a437b7ebd1758f517244ffb7920e1783b8884a6c25a392dab8d910194a767"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Notre organisation",
+      "id": "Organization_134b23ece1a7e421f341af07d18620b5d37abe674fba3bb66cec9bf6e4026788"
+    },
+    {
+      "type": "Theme",
+      "name": "invasion",
+      "id": "Theme_522e53fa26f3dfa47aed57de9a19843f3e27aa7193bb6ba136bd4c8762a87be2"
+    },
+    {
+      "type": "Theme",
+      "name": "sanction",
+      "id": "Theme_29de762b4d94d1c2bfb96115ce40169b65c65dd23e6e0b6ded05461168366740"
+    },
+    {
+      "type": "Theme",
+      "name": "impérialisme contemporain",
+      "id": "Theme_e1e54bfdcc3518c7ed29dc81ed48864863201d7fbba00e6e90f20c6cfe043c7f"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre hybride mondialisée",
+      "id": "Theme_d1da13c9460d972857691588c48928d8f07b0178a40143cdabf5c6ae31c2f2a3"
+    },
+    {
+      "type": "Theme",
+      "name": "conflit",
+      "id": "Theme_c5df677153d0b9960d87a7cc1c81b7c456008a70cab549159756fed685546c73"
+    },
+    {
+      "type": "Theme",
+      "name": "inégalités",
+      "id": "Theme_658285ead4aef26d248483c756dbc914e85b8573c38dbfd9078db4cd6f6f12c6"
+    },
+    {
+      "type": "Theme",
+      "name": "partition du monde",
+      "id": "Theme_5eb7931bea74524611efe1693b908287fc56a850bd052b3ceec9461aa47070a5"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs dépassées",
+      "id": "Theme_e6cf1e5076dc2d8f2746c5736b65c18cfe29ff45fb2b1df2dc7be99b39cbb1ae"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs universelles",
+      "id": "Theme_5fd61675911c3662268da7552a13fb15b6bd7970520e675d8b5b6293ba56feeb"
+    },
+    {
+      "type": "Event",
+      "name": "guerre en Ukraine",
+      "id": "Event_315e931dc400d39edda8f3d5bb3e429601708f7af02bdeb8a8b8d152321939dc"
+    },
+    {
+      "type": "Theme",
+      "name": "respect des peuples",
+      "id": "Theme_c08d19f64b6056a3d17b107061a52c316e0a70dc1ff0cd02a01c140afd421ac4"
+    },
+    {
+      "type": "Theme",
+      "name": "principe de responsabilité",
+      "id": "Theme_6d77a02b0812756884eb020a0357be10f433fd6e8bd15e6401c1b0797df82d2f"
+    },
+    {
+      "type": "Theme",
+      "name": "coopérations nouvelles",
+      "id": "Theme_1a9bd4729ca6a476ea811863536dc259a4a14f2e25fc29486c24cffa77cb111b"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre international nouveau",
+      "id": "Theme_4393386b7d93fa939fa58a4a4b6bca932f3797c8d9726928ff29761f5df62c74"
+    },
+    {
+      "type": "Theme",
+      "name": "hégémonie",
+      "id": "Theme_57c11ef80057a84fd995626118ac010a2970c0b0b8280613a50e626e0862ae48"
+    },
+    {
+      "type": "Theme",
+      "name": "respect des frontières",
+      "id": "Theme_cd5f88696252ade49c3e8c48445a4941b08d8ea16d1622769d695375c4b370ff"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté nationale",
+      "id": "Theme_908cda9c0e0225bccd231ecd5a892555b929eb93d34e7963cfae442ed2c7548c"
+    },
+    {
+      "type": "Theme",
+      "name": "intégrité des frontières",
+      "id": "Theme_706552fbeed0302396eb4a0313719a42fc1bedfefb1a8eca35794e435cd8ad31"
+    },
+    {
+      "type": "Theme",
+      "name": "stabilité internationale",
+      "id": "Theme_bbd6700462f5dbf237293b053c389e23e3a4c1a991529bef25d802b7e3772cdb"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Chine",
+      "id": "Country_dc58b13d3c5edde03eebb45835c0f280415fdfd07538a2a982004670ee13d378"
+    },
+    {
+      "type": "Country",
+      "name": "Pakistan",
+      "id": "Country_aef1eb401e9b4c99e1e5c80afe260a2710f72e056ce27c1b853c015c5890eebc"
+    },
+    {
+      "type": "Country",
+      "name": "Corne de l'Afrique",
+      "id": "Country_448a473e99166fd655fa09650d68d8f99868526a30f13ee06d5a58f8eba9082f"
+    },
+    {
+      "type": "Country",
+      "name": "Somalie",
+      "id": "Country_637e69441ef95c7cface99f6cd515957278579b2984691d5488f93172157803a"
+    },
+    {
+      "type": "Country",
+      "name": "Yémen",
+      "id": "Country_de51d54261cb8914709944f249dba3ae2116dddd8c4ef0b43eb863a17255b45e"
+    },
+    {
+      "type": "Country",
+      "name": "Soudan du Sud",
+      "id": "Country_2d02d8bb6b0bb06ab55e358cecdd89775e8a4e1c577bb4dd5b166ce3c10dc913"
+    },
+    {
+      "type": "Country",
+      "name": "Afghanistan",
+      "id": "Country_5ea7a9152b57f52d563390097c0d7ee8c7520b1a7fb13ff16e8c8d519cc49736"
+    },
+    {
+      "type": "Country",
+      "name": "Planète",
+      "id": "Country_b324cf858432beeb6339f3e8a52e945a22dc88f0c1c5e7ab6f7e5a4634bb7f6c"
+    },
+    {
+      "type": "Theme",
+      "name": "crises",
+      "id": "Theme_6a0ac03099d00571cdfca5e831fc237991e399563aa5c6f13ac79b748af735af"
+    },
+    {
+      "type": "Theme",
+      "name": "dérèglement climatique",
+      "id": "Theme_60205647b2eeaf601ee4e2e6b9ea7a92cc19a6fd1c5394651d737742ade35773"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "montée des prix de l'alimentation",
+      "id": "Theme_cf13845c146bb6874bd2e27b0adeb57801ac37e3c9e08052f523aa7f1c0afd55"
+    },
+    {
+      "type": "Theme",
+      "name": "Sahel",
+      "id": "Theme_cd986f2263174ad819b8ad3548781ecb091479ae8b61a4f4462e31e7dc9af4e6"
+    },
+    {
+      "type": "Theme",
+      "name": "Moyen-Orient",
+      "id": "Theme_fa9a38b34ef01b52e2ebd307c03c98cbdc9def62bab985c85aa61da32d1f24fa"
+    },
+    {
+      "type": "Theme",
+      "name": "prolifération nucléaire",
+      "id": "Theme_72c14e1cc384d943e40ef9127750b3219508e0e3108c8a91a565aca7e132d0ed"
+    },
+    {
+      "type": "Theme",
+      "name": "Iran",
+      "id": "Theme_f55b39cf884da50aa0164022b599bf850c0076bac6cc74fe1efc86a9a00dcf24"
+    },
+    {
+      "type": "Theme",
+      "name": "Corée du Nord",
+      "id": "Theme_6d0d688b87dbf0497820e4583f0f89ff5298be4d8576418d8f75b46432edeb36"
+    },
+    {
+      "type": "Theme",
+      "name": "système international",
+      "id": "Theme_f3dc7bf20832cffc239d43e7b00beefa16f11a137a900fbd215a7edc2729efb4"
+    },
+    {
+      "type": "Theme",
+      "name": "mondialisation",
+      "id": "Theme_6bcb39a77ca233d771b8af7bce51755f666ec3abfb117313211822542985b0ef"
+    },
+    {
+      "type": "Theme",
+      "name": "divisions",
+      "id": "Theme_ce451808c01abd1c5ee14311852bad0d7a31777f5f93d1177ebc0268ac0aca6c"
+    },
+    {
+      "type": "Person",
+      "name": "Narendra MODI",
+      "id": "Person_d80032ef80c2f8fd065cab43f30f2bf0ee76cb9eae5b9bc5a1aff3390647ab64"
+    },
+    {
+      "type": "Country",
+      "name": "l'Inde",
+      "id": "Country_5bf0b95db0e9c2b75fc2e3233b1a0839f44544231fce1c3eb552d605d0d3e96d"
+    },
+    {
+      "type": "Theme",
+      "name": "l'alimentation",
+      "id": "Theme_1d655270a0de889db021ce858fa581ed609e302b98bddf0717558aa39c6dae22"
+    },
+    {
+      "type": "Theme",
+      "name": "le climat",
+      "id": "Theme_37ab2c5cd6c2cb99edfd6cf6437d5da5688e98686e6df7bc1b3771743b4ab949"
+    },
+    {
+      "type": "Theme",
+      "name": "la biodiversité",
+      "id": "Theme_d5666e0e0923ad5f268f41cbaf976eb193da01144d9b197f0890fd66779f712f"
+    },
+    {
+      "type": "Theme",
+      "name": "l'éducation",
+      "id": "Theme_b4ee4945bc9ae091724f02d14c60a9a73fc2ddc23c02f91911dc77d8468eb950"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Nations unies",
+      "id": "Country_de27ef02ae2f885df42f17298e258623101c6c37feb12bb5fe5c02d0f56327a3"
+    },
+    {
+      "type": "Organization",
+      "name": "Union africaine",
+      "id": "Organization_a8cdda972d0611f25fc060e5cafd7452160625aa781f084d7d71963c826933ac"
+    },
+    {
+      "type": "Organization",
+      "name": "agences des Nations unies",
+      "id": "Organization_50c1bf7ad4608432c628c4beb4331e9eb09f680e58d8e854cd11e201516f533a"
+    },
+    {
+      "type": "Organization",
+      "name": "Organisation mondiale du commerce",
+      "id": "Organization_279680ad64a597c5effc113dc4b3abd9bc4b6f6f07c59018604598bd2e0baca8"
+    },
+    {
+      "type": "Organization",
+      "name": "FMI",
+      "id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "type": "Organization",
+      "name": "banques de développement",
+      "id": "Organization_ee93617ebf916274fe5c4226230af370c3ca8ba88204a1ff689b5becc0c75ddc"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Organization",
+      "name": "COP 27",
+      "id": "Organization_1939d589b1bb572488f242ffa068ba62d37bfd3cfb68c93ea4ae380635eea68c"
+    },
+    {
+      "type": "Country",
+      "name": "Égypte",
+      "id": "Country_77e742867ce353b9db61329584d7e8f2b5dad919e5fb3ef298071f2cb82d950c"
+    },
+    {
+      "type": "Organization",
+      "name": "secrétaire général",
+      "id": "Organization_bf41bc6aa21451ecd4c1a62e4f450fbfd9eba7fb9d89ef79c876c3346043800a"
+    },
+    {
+      "type": "Theme",
+      "name": "transition juste",
+      "id": "Theme_72773a680df723a867d0f8c8833aae0795416960764dbc1129bf9570da01abc5"
+    },
+    {
+      "type": "Theme",
+      "name": "éradication du charbon",
+      "id": "Theme_d1308087a8dfbcb8eaec915f496d9bee0c44e8886c14c4d408471ccde1ffca34"
+    },
+    {
+      "type": "Theme",
+      "name": "charbon",
+      "id": "Theme_548bb5ce8df69ec8043411bf054457e539ac5bba47798110164f1896a83f7cd8"
+    },
+    {
+      "type": "Theme",
+      "name": "JET (Just Energy Transition)",
+      "id": "Theme_a72a2b3513a98e65e0c29e71e9a09558d30338ec97a4db583436e3e40d110fb0"
+    },
+    {
+      "type": "Theme",
+      "name": "production d'énergie",
+      "id": "Theme_5941b0162058aeae4a3ada1033f856187d07abf1756715f523df90c5f39c4b1f"
+    },
+    {
+      "type": "Theme",
+      "name": "modèles de production industrielle",
+      "id": "Theme_89c57899fd6504f04c0b3fbd9604f33efd4451744929d3575a0790f1b6ef9139"
+    },
+    {
+      "type": "Theme",
+      "name": "transitions",
+      "id": "Theme_aa3ee347ba6c5f4d2bb55dfd18c3c5c4bda473e86ea842a97281720181e7e101"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique subsaharienne",
+      "id": "Country_65803efe6497f129d76bfee1616695f8bb631b9763b3b78250d381c73df615fe"
+    },
+    {
+      "type": "Country",
+      "name": "Costa Rica",
+      "id": "Country_56a1ed746f8c212254f14b70bd54599a0988a231454f23ef88a73340b229d1f5"
+    },
+    {
+      "type": "Organization",
+      "name": "Conférence des Nations unies pour les océans",
+      "id": "Organization_125da97d50e6abf2f5dea0e1a7553e2b84022d266a3b320ebfc674a7237069b7"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds mondial pour la lutte contre le sida, la tuberculose et le paludisme",
+      "id": "Organization_bbfccd6e1fd6f53aa4d8f6a6eb47e0720cc1cbdad53e0745d98e4e75a49d0611"
+    },
+    {
+      "type": "Organization",
+      "name": "OMS",
+      "id": "Organization_f4fd87f36b138eb90074550fbf1903ace44013d0b88bded488849d5b4439d0a9"
+    },
+    {
+      "type": "Organization",
+      "name": "Ouest",
+      "id": "Organization_a6092fbc8d4b4b6a8b278f00965ad18af4384fef55266131dc4bf7f265b6bfd1"
+    },
+    {
+      "type": "Organization",
+      "name": "Sud",
+      "id": "Organization_7ef6c1ca8272049030bf69c8e7bd95453956902909ef81692cc7b6149799e781"
+    },
+    {
+      "type": "Organization",
+      "name": "Nord",
+      "id": "Organization_f6cbfa1f9ce353d3ed878c3d582fcc384cae38cba7b066a57240c4539b440613"
+    },
+    {
+      "type": "Organization",
+      "name": "institutions",
+      "id": "Organization_3ff54da198471807f393b103e86db532bfaa4059b081919fed6b3bbcfa0d6d34"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre",
+      "id": "Theme_a2480bc6041842f2d4af6443da3a3be8a688b8bb9e1303e7d92cde5b57eacb51"
+    },
+    {
+      "type": "Theme",
+      "name": "droits de tirage spéciaux",
+      "id": "Theme_397b448f932384538350c8fee4982c95ec4a92ddc4e31e4bf5b4c005b3bec937"
+    },
+    {
+      "type": "Organization",
+      "name": "G20",
+      "id": "Organization_f3aa80f5f9ee51f5c9a628aa69fb38a5a37b3ae93cf426ec1a4f7ba0eec06655"
+    },
+    {
+      "type": "Organization",
+      "name": "parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Theme",
+      "name": "pays africains les plus exposés",
+      "id": "Theme_893916d36c89180c9487148467dbc12e29060a1d8c59e98cf866f48039bbda80"
+    },
+    {
+      "type": "Theme",
+      "name": "pays les plus pauvres",
+      "id": "Theme_b484e96f2cb7bbd5379cb4d7ea7799c9bced962947f707e765418da0e94dd3c0"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Organization",
+      "name": "Fonds monétaire international",
+      "id": "Organization_ea510a567f72e30e0268e3e6ccaa15fe3579eeab3ddd63cf65e4879cc4e70e8d"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte financier",
+      "id": "Theme_3acc7f1a51f5e82fb734f97be8000c758e9e375c2d34adeeafa8d1b120dc5d1a"
+    },
+    {
+      "type": "Theme",
+      "name": "planète",
+      "id": "Theme_38e28b3e4c13e58b47932666932d6ebab6edc14f0cd7822041d0e68c7b34f00c"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité des chances",
+      "id": "Theme_c4ec93996062bec89e6022fff85bfdfb9dba08bac65622ecb9b4da9b6d67b1e6"
+    },
+    {
+      "type": "Theme",
+      "name": "tenir nos accords",
+      "id": "Theme_cefc054716bc370e24a3f3861c4ed3b258204a194959e3466cff3099cdce892a"
+    },
+    {
+      "type": "Theme",
+      "name": "être exigeant et respectueux les uns avec les autres",
+      "id": "Theme_c6dd15fdc149f37b0d078c1b8ad4b772b975ca9e222be63cbe88c2abb2ae8e38"
+    },
+    {
+      "type": "Theme",
+      "name": "bâtir avec nous ce nouveau contrat",
+      "id": "Theme_050883c4d51dd864c031346a44b8bcedb02416f645141001be9aba219024de6d"
+    },
+    {
+      "type": "Theme",
+      "name": "Forum de Paris sur la Paix",
+      "id": "Theme_62dc9bf68b9d4e914deb99de4b0b8ee84032f38e9749c34520a36c595caf63f1"
+    },
+    {
+      "type": "Theme",
+      "name": "G20 de Bali",
+      "id": "Theme_d49ddfb488954c9ea0b12b7f4a68437f2c4adeebb481694e03fdac890f8229ff"
+    },
+    {
+      "type": "Country",
+      "name": "Irak",
+      "id": "Country_99792b4385035d3a51b12170d270a96604af5ab8e0945708f2a19bcc0e41b04c"
+    },
+    {
+      "type": "Country",
+      "name": "Liban",
+      "id": "Country_98d1648fea7660621585ca014d47ad455111a52d643820b3c6c86c08378bf1b9"
+    },
+    {
+      "type": "City",
+      "name": "Bagdad",
+      "id": "City_ad7f3df81479c84e49abbacc68599330c58a17b9afddba8c8a7a9b09677adde4"
+    },
+    {
+      "type": "Organization",
+      "name": "P5",
+      "id": "Organization_2e5bf371d9eba2aab89c9a9768b0a1b643e71ee49ac4385a00a57ec6b7b1a899"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Charte",
+      "evidence": "Je pense à ceux qui ont écrit notre Charte et bâti les murs de cette organisation pour conjurer le pire une fois celui-ci advenu à deux reprises au XXe siècle, infligeant à l'humanité tout entière d'indicibles souffrances.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_7a8a6e002a320705abf35e3d86b8f097a65f43e8c0dff9286dec783af4954e7f"
+    },
+    {
+      "source": "Russie",
+      "relation": "OPPOSES",
+      "target": "Cour internationale de justice",
+      "evidence": "Dès le 16 mars, la Cour internationale de justice a déclaré l'agression russe illégale et a exigé le retrait de la Russie",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Organization_49d87441388bae4ca7e0bc16c3bb89ac6366b2678a374b215849009082f9a15a"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Nations unies",
+      "evidence": "la France se tiendra aux côtés des peuples libres des Nations unies",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_de27ef02ae2f885df42f17298e258623101c6c37feb12bb5fe5c02d0f56327a3"
+    },
+    {
+      "source": "France",
+      "relation": "SUPPORTS",
+      "target": "Nations unies",
+      "evidence": "la France se tiendra aux côtés des peuples libres des Nations unies",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_de27ef02ae2f885df42f17298e258623101c6c37feb12bb5fe5c02d0f56327a3"
+    },
+    {
+      "source": "Notre organisation",
+      "relation": "SPOKE_ABOUT",
+      "target": "valeurs universelles",
+      "evidence": "Notre organisation porte des valeurs universelles",
+      "confidence": 1.0,
+      "source_id": "Organization_134b23ece1a7e421f341af07d18620b5d37abe674fba3bb66cec9bf6e4026788",
+      "target_id": "Theme_5fd61675911c3662268da7552a13fb15b6bd7970520e675d8b5b6293ba56feeb"
+    },
+    {
+      "source": "Russie",
+      "relation": "MENTIONS",
+      "target": "coopérations nouvelles",
+      "evidence": "Quand j'entends la Russie se dire prête à œuvrer à des coopérations nouvelles",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Theme_1a9bd4729ca6a476ea811863536dc259a4a14f2e25fc29486c24cffa77cb111b"
+    },
+    {
+      "source": "Russie",
+      "relation": "MENTIONS",
+      "target": "ordre international nouveau",
+      "evidence": "Quand j'entends la Russie se dire prête à œuvrer à des coopérations nouvelles, à un ordre international nouveau",
+      "confidence": 1.0,
+      "source_id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898",
+      "target_id": "Theme_4393386b7d93fa939fa58a4a4b6bca932f3797c8d9726928ff29761f5df62c74"
+    },
+    {
+      "source": "France",
+      "relation": "VISITED",
+      "target": "Somalie",
+      "evidence": "Je vous annonce également que la France financera l'évacuation du blé ukrainien à destination de la Somalie en lien avec le partenariat alimentaire mondial.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_637e69441ef95c7cface99f6cd515957278579b2984691d5488f93172157803a"
+    },
+    {
+      "source": "France",
+      "relation": "LOCATED_IN",
+      "target": "Costa Rica",
+      "evidence": "La France accueillera avec le Costa Rica la Conférence des Nations unies pour les océans en 2025.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_56a1ed746f8c212254f14b70bd54599a0988a231454f23ef88a73340b229d1f5"
+    }
+  ]
+}

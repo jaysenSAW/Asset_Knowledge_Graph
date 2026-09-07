@@ -1,0 +1,801 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur l'Ambassadeur",
+      "id": "Person_ca63df6e99fdaff6436f8fd8ee480f34c6752e2fbbae13fb9d4ec2653a96ecad"
+    },
+    {
+      "type": "Person",
+      "name": "Madame",
+      "id": "Person_6ace0972a12e8e17957064d9f2ab5c314f0de15e6db0c156bc4d6af16f1e6022"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Ministre",
+      "id": "Person_18ae3f2bc1c3fc00a971e951e070adb7c56fb047cf7a943ab6744bf8da1a3c02"
+    },
+    {
+      "type": "Person",
+      "name": "Jens Spahn",
+      "id": "Person_02f361ff6dbef415fea17c60290ef6bfc9edf2a33a3cedf3b431a51f2f8dedcc"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur Makhtar Diop",
+      "id": "Person_0cc3d9d94515b8a7a1d74e7379ffb9ca79ea65b8abc1a36a9bbdb3e9ac4c801e"
+    },
+    {
+      "type": "Person",
+      "name": "mes chers compatriotes",
+      "id": "Person_b6b29c7b55b71aae52b700aaa89778c04669d873e35a8a1d54782abede5f747b"
+    },
+    {
+      "type": "Country",
+      "name": "le territoire français",
+      "id": "Country_db8ecfc880b02e74e0315cd7c5b9a4adcb6bd0f689412c6809eb906464787536"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Organization",
+      "name": "ambassade",
+      "id": "Organization_e282df09e51ebb7b1633c51cf8c25b398a885a80ec7ddaa901bc3cf870cde4bd"
+    },
+    {
+      "type": "Organization",
+      "name": "consulats",
+      "id": "Organization_b1ac7a77e6032a6ec40dda9c736b324ba01e2cdb40322ee3ac7cedaf4b06d4b2"
+    },
+    {
+      "type": "Organization",
+      "name": "chefs d'îlots",
+      "id": "Organization_cad5e7d4cd6d81676c768519a78b20f83a9ecb39781492924bf6291b97140f2b"
+    },
+    {
+      "type": "Organization",
+      "name": "écoles à Johannesburg",
+      "id": "Organization_a82094ce5b7ea42c7771cc1dff5e76c3c21c177f7da1ea3b1275da0429875506"
+    },
+    {
+      "type": "Organization",
+      "name": "associations françaises",
+      "id": "Organization_f239697258ab851abc7fabaea3dc4dc82cae95e557602097c66273ee5e22a8fa"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie de Covid-19",
+      "id": "Theme_4058fe690a16ec88ca75848e43e55d7e47dc92f497c7adb5c46fd807d9ed87e4"
+    },
+    {
+      "type": "Country",
+      "name": "pays d'Afrique",
+      "id": "Country_5d0d60caeef89882a129e07f6f692bb633a02e518559c42f83a85c0cb67860f5"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Theme",
+      "name": "esprit de l'ubuntu",
+      "id": "Theme_32a60224c5ddbfb988126f6e84e38cd26ff8319fc9bce174d6235a3b9237240f"
+    },
+    {
+      "type": "Person",
+      "name": "les services de l'Etat",
+      "id": "Person_8ecdd74825359cb3c8ceb52caa963181fea6b83a4db29e7523735a2cd9fcec4d"
+    },
+    {
+      "type": "Person",
+      "name": "les associations",
+      "id": "Person_5dad9d683d283a305c2b7ccde13a7d81d6fbc043ce6f094250f2b6c822b3deba"
+    },
+    {
+      "type": "Person",
+      "name": "les services du Quai d'Orsay",
+      "id": "Person_a478c37c8c07650e684439c6396320e2b5ad7d1620d45db273dca94c39811c5d"
+    },
+    {
+      "type": "Person",
+      "name": "les équipes",
+      "id": "Person_8c43f6206f06d4074bf65cacf0ce597c1ad8c2c7be3e968708967f7901fc4e2a"
+    },
+    {
+      "type": "Person",
+      "name": "Personne qui ne possède pas, sur le territoire français, la nationalité française",
+      "id": "Person_5b4c96915b1de4d5b726b3bd554583bd352c7e5480484ea548efe70b7c2c6ec1"
+    },
+    {
+      "type": "City",
+      "name": "Cap",
+      "id": "City_7fe5d5fef031cffbc59cc007a68772066e97ffc3c70120e40d3f803acdea7e5f"
+    },
+    {
+      "type": "Person",
+      "name": "Ramaphosa",
+      "id": "Person_d44bcd69c4d775fe7a919b6d2a516a4f8ebbc28b340956e66267e6d594926588"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique du Sud",
+      "id": "Country_18768cba57ae5abd3fb4a98f72c105af41db31822809e203889560cb72663272"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "confiance",
+      "id": "Theme_cd9e92d9b0e6934d111bb3b4143630371bdd4f20d569616143e9dfaf7ad9d703"
+    },
+    {
+      "type": "Theme",
+      "name": "espoir",
+      "id": "Theme_15b08556ab7e3f525e36fa50726d1f343b990ff53d11dc75bcc38e329d23a485"
+    },
+    {
+      "type": "Theme",
+      "name": "réponse sanitaire et économique",
+      "id": "Theme_6597e4314f2d1228947bf4098778ed1ed070e1d9b350134c94d38a4a6aa55e90"
+    },
+    {
+      "type": "Country",
+      "name": "Allemagne",
+      "id": "Country_7df7ea09a9a45978f6e9b579b2a0a749b463a73505ff5648743563486d84c6f6"
+    },
+    {
+      "type": "Organization",
+      "name": "autorités sanitaires",
+      "id": "Organization_fd5f765d9657a946bee86cf28af2c5ec6ee785a154fd3cd82173252bb1b55c43"
+    },
+    {
+      "type": "Organization",
+      "name": "Notre ambassadeur",
+      "id": "Organization_7b91dc859b96b76e56ca6d8824232263dcaabaa48f10ba420a0e8edf7e1c1e6d"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence européenne des médicaments",
+      "id": "Organization_69344fa368dc449c015ba4a0ca95f75f8902002da8fa3b33a8191aed3cd8734d"
+    },
+    {
+      "type": "Organization",
+      "name": "Johnson & Johnson",
+      "id": "Organization_eec0ba2d409a057786fe0b52f2a8148d525f9aedf2b613471f859e160f8be122"
+    },
+    {
+      "type": "Person",
+      "name": "j'ai pris l'engagement de proposer à toutes les Françaises et tous les Français",
+      "id": "Person_fef7c9fd33a7064e1a8a806b99d66d5b794a93dd98070023db2e0e691b1451a1"
+    },
+    {
+      "type": "Organization",
+      "name": "ACT-A",
+      "id": "Organization_e2696e6790de4d4f83f0f53e114253e46d143fb43e149929598aa79140c0ce43"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Country",
+      "name": "Notre pays",
+      "id": "Country_9245f39af21b884ad3b5ecaf9d3b06423462e43561d5759bfae45325f129c539"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Theme",
+      "name": "solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité",
+      "id": "Theme_a135f4b7d0baa2439112488086d3145fb259f1dc47fe86a28cd8d25f8a9ae2ce"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccinés",
+      "id": "Theme_aa7f4b56a995ba95406c1055ba09be859cf3df6de2b0d906272ab327f04edde9"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis d'Amérique",
+      "id": "Country_6c544b2dc8a1be0bb3e75090e6bb5b68e6b09c9f3ce04ad59446d74f1daa81fc"
+    },
+    {
+      "type": "Organization",
+      "name": "SFI",
+      "id": "Organization_5005117f7645c75ba0c7bde27730b1b50fcba9b6bb763d64739577e64180ab91"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence Française de Développement",
+      "id": "Organization_d7e29b91fe2dc9a02a2e53d6c0f55ebffc527428bd945c04fd70e1dc9d98d89e"
+    },
+    {
+      "type": "Organization",
+      "name": "Africa CDC",
+      "id": "Organization_e388b377250094b67d1f27ef91cd7a3436860d39b328bcb2b99f7f983410a73a"
+    },
+    {
+      "type": "Organization",
+      "name": "Sanofi",
+      "id": "Organization_5de41446321ded92c12fbd89ce8d6d33248cd6c7f3775680f7c00fa1456b3d98"
+    },
+    {
+      "type": "Theme",
+      "name": "propriété intellectuelle",
+      "id": "Theme_e93a9cdedc8c0f209853c358a4a86a8c2496ed656002f532970b5b5d994bd0a5"
+    },
+    {
+      "type": "Theme",
+      "name": "transfert de technologie",
+      "id": "Theme_ce6571bf0e0dea5ad1c5e88819bafb77e32ee2579098f28b218286ee66c666a2"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccins ARN messager",
+      "id": "Theme_e9569e3620134e48c967aeeb561cf4558760e1ef53b677c709915a9364d837d7"
+    },
+    {
+      "type": "Theme",
+      "name": "accélération du transfert de technologie",
+      "id": "Theme_34250f5c152dc17a42a6e23f7f2025e79721bd4d58a73913e3d1c9a5d69c26f6"
+    },
+    {
+      "type": "Theme",
+      "name": "économie",
+      "id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "type": "Theme",
+      "name": "humain",
+      "id": "Theme_8411f09bc1694f01e5ab486ef4b48ee9827481cf4493b21fce495d283ec879b4"
+    },
+    {
+      "type": "Theme",
+      "name": "vies",
+      "id": "Theme_eab5c386f2fdd6a3592f6dfe85d5fb7a27968a1a2806dadaa5951bf973636bb7"
+    },
+    {
+      "type": "Theme",
+      "name": "tabous",
+      "id": "Theme_fe62c8cf155947d9504e98d692f1cfa42b06103dcb0bb028544a554886af410f"
+    },
+    {
+      "type": "Theme",
+      "name": "règles financières",
+      "id": "Theme_3019ab744b438eaf03765583bb2c59ea313b2b614ad8d6ea12ba3641da3d6450"
+    },
+    {
+      "type": "Theme",
+      "name": "avancées économiques",
+      "id": "Theme_794912d37d215c3169ab8af67375bb44f7e7dac5f41349350a127293f14f6e65"
+    },
+    {
+      "type": "Theme",
+      "name": "dette COVID",
+      "id": "Theme_3e0957a4a6ff6a1cc8476d2ace2d70e0155f0bd81b82e14e943d9c5f40b9a725"
+    },
+    {
+      "type": "Theme",
+      "name": "injustice",
+      "id": "Theme_f50d0badc765b4168fd5c9e2bc18a19ca3762b14518aa59aa8a19218df31b713"
+    },
+    {
+      "type": "Theme",
+      "name": "crise économique",
+      "id": "Theme_c046c6202ba5e7f4aa642f625e76f8b67a318a713f7d4c8000cfc9d499996d13"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "FMI",
+      "id": "Organization_95708d49cddc3f43835b0c54b194a702365f17f542c8eeac015528e1def2cf37"
+    },
+    {
+      "type": "Organization",
+      "name": "Banque mondiale",
+      "id": "Organization_19212a73ada1893a48f91f7a26160322c54e73500df88fd60b9cd9b8b4235e1d"
+    },
+    {
+      "type": "Organization",
+      "name": "AFD",
+      "id": "Organization_083867e3b191ef83df992d01216f1dd45eab3c38e55042c0d9fc4313c8b5fd52"
+    },
+    {
+      "type": "Organization",
+      "name": "nos conseillers",
+      "id": "Organization_233fc7b8a5a7ca044d6426776ad7bfab4f4a20b288ba368c5facc3eefd1906e0"
+    },
+    {
+      "type": "Organization",
+      "name": "nos conseillers du commerce extérieur",
+      "id": "Organization_f3b746f50a58ea728e0b3f100c624b6cd962e13b2120a0b67eac6eb320011e1e"
+    },
+    {
+      "type": "Organization",
+      "name": "notre équipe de France",
+      "id": "Organization_2c79bdd4f1d69fde71ab42d331483265bfcd16b4315e3eafb962b31e18176b84"
+    },
+    {
+      "type": "Organization",
+      "name": "les entreprises présentes",
+      "id": "Organization_0261f939d521b84e4a266f7b15f25917c1b1c41231b362c78d6dd1b0a5036363"
+    },
+    {
+      "type": "Organization",
+      "name": "les entreprises",
+      "id": "Organization_21010542dfd2312ae4ab98e467268c93b88dc74b0b5c113f7ce30690749af8a0"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Person",
+      "name": "Elisabeth",
+      "id": "Person_2ba2f7957998e0e6aba1bdb16a884d3e157fdeb0693db70a406c3391787c6a29"
+    },
+    {
+      "type": "Organization",
+      "name": "FrenchTech",
+      "id": "Organization_b7a79185030496b2be8e932a8552f6efe95a639e3b568308c748616308fe1f55"
+    },
+    {
+      "type": "Theme",
+      "name": "formation",
+      "id": "Theme_7ddcd6cf79a7cea4cab9c84f35850e6c49e17341fafc3b3f4c96d8ff82600aab"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "agroalimentaire",
+      "id": "Theme_024debcd3609070ef635d568cf73483a37c21fe6cf08997e9d8f5342591a8879"
+    },
+    {
+      "type": "Theme",
+      "name": "retail",
+      "id": "Theme_874ddad7719d75bde7f84f425f21c90bab83aa9092014defc63caeb77591ef17"
+    },
+    {
+      "type": "Theme",
+      "name": "construction",
+      "id": "Theme_e3d0d05ab54d9cb88733bad1c3aac0ee4c46c3bf3c63c52d7a3946ac8edafcab"
+    },
+    {
+      "type": "Theme",
+      "name": "tourisme",
+      "id": "Theme_6230ab46b903a54cbd735ffcdd8016d5b3ccadaf12ae9993a40cfa32b83e758f"
+    },
+    {
+      "type": "Theme",
+      "name": "transports",
+      "id": "Theme_533d2529ff9a7f6bf394d1e74146c9b14e56ed95da235efb27978e0422b519a2"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité",
+      "id": "Theme_6f80fa98874567edc700a14b8dc1d91e15a2b6b04d3d2a45c0b52e70820eef3d"
+    },
+    {
+      "type": "Theme",
+      "name": "inclusion sociale",
+      "id": "Theme_187f22c3a85e13e21d8e3eab3329e8484b846e28cc7b8343ae1a9b772703a34d"
+    },
+    {
+      "type": "Theme",
+      "name": "délégation économique",
+      "id": "Theme_62db94cdd975373f632f730bee4889b9bb0fe1162239c2812e32dd7260ecc395"
+    },
+    {
+      "type": "Organization",
+      "name": "Partenariat mondial pour l'éducation",
+      "id": "Organization_66e8d1d9575f214278e62d4f9e0e66cfc69f11d269af30ca7afdcc2dc81c0559"
+    },
+    {
+      "type": "Person",
+      "name": "Macky Sall",
+      "id": "Person_bac668f99a124e8a9759ea0accab64aba6d0b844358f6a309d9086c514366570"
+    },
+    {
+      "type": "Person",
+      "name": "Hervé Berville",
+      "id": "Person_bf68a9f924cdc2b45aec4fa8aad51937787eeaebe72698fb90aa2ac66ac59a4e"
+    },
+    {
+      "type": "Law",
+      "name": "loi que porte le ministre",
+      "id": "Law_33505dd5187736d6da00c0a23023b527b547c3e455a0f152f6ba0274cef6d239"
+    },
+    {
+      "type": "Theme",
+      "name": "formation professionnelle",
+      "id": "Theme_d846003645ad5e5e511208f664265ae5edc2a1f2c5d843f3ff4622d434eb6c71"
+    },
+    {
+      "type": "Theme",
+      "name": "éducation",
+      "id": "Theme_336bc0dfdcf6319e43932c03ebc5e5f327399405844149663eda31a6049e4820"
+    },
+    {
+      "type": "Organization",
+      "name": "French Skills",
+      "id": "Organization_5216b3d1dd0eed762b3a96145a85c5c7b139bace537f4a6eec2de8fc174b90c2"
+    },
+    {
+      "type": "Organization",
+      "name": "Schneider Electric",
+      "id": "Organization_ca0bf27b45054debe50cbdf01bf5ae79e226190b10d307d0394d92daa4879f9c"
+    },
+    {
+      "type": "Organization",
+      "name": "Trace Academia",
+      "id": "Organization_2aa4108d2af8ad1ebc37f7fc1803582c33c44f9c1d43b09d29538702f0ac15cd"
+    },
+    {
+      "type": "Organization",
+      "name": "Air Liquide",
+      "id": "Organization_ba496eeb9ef559e5ecbcc438516ae7291c8a97cbb0ef9d52db3be742f2bccb3e"
+    },
+    {
+      "type": "Organization",
+      "name": "Alstom",
+      "id": "Organization_ee8b36951a3294d193f8090d5bede0b4bdd17668901dd2348838ccbe669910db"
+    },
+    {
+      "type": "Organization",
+      "name": "Total",
+      "id": "Organization_559564d9b17106b6bb250c645551ad905b530d212d84a924205cddb718712d8e"
+    },
+    {
+      "type": "Organization",
+      "name": "EDF",
+      "id": "Organization_a2183f95d437456d4b4affc3a6618e8faf7d161757f235e7560aeca5540433a9"
+    },
+    {
+      "type": "Organization",
+      "name": "Engie",
+      "id": "Organization_8c5573022fe930b26f9875ad9ce269f1b2a5bcafa36e461aaf878a9b621e666d"
+    },
+    {
+      "type": "Organization",
+      "name": "Advini",
+      "id": "Organization_99032bac7d0050d81731e8cbd6e4eb2d84afa54788c763e462c0547ece09918a"
+    },
+    {
+      "type": "Organization",
+      "name": "Vivendi",
+      "id": "Organization_7517efdd342d5c20f841ef61fb5e66a8cccab2185dd86e41131aedc728c37a8f"
+    },
+    {
+      "type": "Organization",
+      "name": "Saint-Gobain",
+      "id": "Organization_3ba3f3ebb1607456fc82a96a027bd802fbca1c70d1e5016cf7e17294355e9c9f"
+    },
+    {
+      "type": "Organization",
+      "name": "Chambre de commerce franco-sud-africaine",
+      "id": "Organization_5558c6fd0ca049fc6c4ef6f2ac487ee767444499f210310e16417b4609c80d16"
+    },
+    {
+      "type": "Country",
+      "name": "Rwanda",
+      "id": "Country_a25a5ec05fe29e50db60bd3d8895a9d523027a5e3d736e345edbee00b92efec3"
+    },
+    {
+      "type": "Organization",
+      "name": "universités sud-africaines",
+      "id": "Organization_b82c76a51efcddf1dda48f8e641238fff12c6c0fae7f67b4003b669c636cf8a9"
+    },
+    {
+      "type": "City",
+      "name": "Johannesburg",
+      "id": "City_6c622d43d13a26e27c061b0c2529d5a9d837a9a460adefc64d6c49604422d6e1"
+    },
+    {
+      "type": "City",
+      "name": "Durban",
+      "id": "City_9559b9cb9a2857b99c62b054720520121946544e07803898e7f1a1a5044bcb78"
+    },
+    {
+      "type": "Organization",
+      "name": "French Tech",
+      "id": "Organization_b2676cfdc8d5c52026131494972cd4ec8242bce018a1350d66e8f0885374d625"
+    },
+    {
+      "type": "Person",
+      "name": "Thebe Magugu",
+      "id": "Person_d431a2c2dc6571fa4073badf8ede739ae89f1713e4243160bc0bae9830f33695"
+    },
+    {
+      "type": "Person",
+      "name": "Achille Mbembe",
+      "id": "Person_636c8b28020baea1d5b34d5adeb584c399961039f1c05a5784ba9511f1da053d"
+    },
+    {
+      "type": "City",
+      "name": "Montpellier",
+      "id": "City_a4b08d8442d3c90fe9eb3313e4500d0e3a904f2fb68190ad2b4820a2e2aeb0a7"
+    },
+    {
+      "type": "Country",
+      "name": "Africain",
+      "id": "Country_698477977960eea221b48ef749235cdb4b76cadf5c10309acc73346625c29054"
+    },
+    {
+      "type": "Person",
+      "name": "Phumzile Mlambo-Ngcuka",
+      "id": "Person_17aa7f730e5d8ebc9b3211ebf98381205eee0d9ea1204de608cc7cb3e8ed9273"
+    },
+    {
+      "type": "Organization",
+      "name": "UN Women",
+      "id": "Organization_921d531b7432dd7829c34ae5f9eac499c0a1a650a55085d0fe26654057ab9718"
+    },
+    {
+      "type": "Event",
+      "name": "Pékin+25",
+      "id": "Event_5569161a67d5b1a37cd89fc0072f88898157b60d68dd18962b72ad6748685364"
+    },
+    {
+      "type": "Theme",
+      "name": "égalité femmes-hommes",
+      "id": "Theme_b1412bfc5fe321352e19c1089b6777bc07a0d41d11ab4e4379792d47c6d6ee06"
+    },
+    {
+      "type": "Theme",
+      "name": "justice",
+      "id": "Theme_84678a40ce5f1fec345d0d6263acfa2e8f957b755614258fa413353c8127284b"
+    },
+    {
+      "type": "Theme",
+      "name": "développement économique",
+      "id": "Theme_90116a86288646b0ca7f81be8e3f867cd730709965d34e048dac6cb6b854a2c3"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation",
+      "id": "Theme_1163db25159602f2a2d3bc052e5627c3e53f500c0cea5f042c60991630e870fc"
+    },
+    {
+      "type": "Theme",
+      "name": "politique",
+      "id": "Theme_1cb4f0bce716a6b484eef837bedaa9ad546521428b441b7a4baa167af1dc28bc"
+    },
+    {
+      "type": "Theme",
+      "name": "culture",
+      "id": "Theme_87f0f4c270c17f31c72104602d063113672d5f509789a3277ddc536a27b06405"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "City",
+      "name": "Pretoria",
+      "id": "City_f3c10e90eace31dc3c970255ef40c45bee7bff90fe187610f0a845336b55b1b9"
+    },
+    {
+      "type": "Organization",
+      "name": "lycées français Jules Verne",
+      "id": "Organization_6080240cbe3b085e2191f9fa14af7844a4fe9be2ac3ac40629134bf3a30ca0a8"
+    },
+    {
+      "type": "Organization",
+      "name": "AEFE",
+      "id": "Organization_ad9e50da64285544a9115ef90403dc66a69d51463bd1ca79446e916849f644c4"
+    },
+    {
+      "type": "Theme",
+      "name": "européens",
+      "id": "Theme_fe2de703e4d8211a7f42708e1e9484059516eba79dad931230d3739d87442d64"
+    },
+    {
+      "type": "Theme",
+      "name": "Afrique",
+      "id": "Theme_e53ae647bc41c3aecc727ca2595afd63d86f12f3de9d9d071f207288bfe98093"
+    },
+    {
+      "type": "Theme",
+      "name": "Hapo",
+      "id": "Theme_50875def3721fab5d958d224be77a03b6168e66fd7d87c4621c87af5cd1c8a2a"
+    },
+    {
+      "type": "Theme",
+      "name": "rêve",
+      "id": "Theme_779ee8cf184660befb95c38167d6ceef6be3bd616b0186682de447aa2ed4dad1"
+    },
+    {
+      "type": "Theme",
+      "name": "sortie de crise",
+      "id": "Theme_767d4c9c342eb60ebe8c5c89ffc3a5854fb7dc267c575488d019acaf932683c3"
+    },
+    {
+      "type": "Theme",
+      "name": "Covid",
+      "id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "type": "Theme",
+      "name": "amitié franco-sud-africaine",
+      "id": "Theme_9f9aa007643b05d85607a2ac30395c5c45760d8776645f52426f3e4ddb0f898b"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "pays d'Afrique",
+      "relation": "SPOKE_ABOUT",
+      "target": "crise",
+      "evidence": "c'est sans doute l'un des pays d'Afrique qui a eu à vivre le plus durement cette crise",
+      "confidence": 1.0,
+      "source_id": "Country_5d0d60caeef89882a129e07f6f692bb633a02e518559c42f83a85c0cb67860f5",
+      "target_id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "économie",
+      "evidence": "Tous nos pays ont été touchés très, très fortement sur le plan économique. Evidemment, notre pays, la France aussi, et en Europe, nous avons eu la possibilité, en quelque sorte, de choisir l'humain face à l'économie.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_22f1f6d310f81d5503760d07eff3468c88dee360195f427f0e5b8bf3d0e80424"
+    },
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "Europe",
+      "evidence": "Et donc, nous, nous sommes en train de construire en Europe nos plans de relance.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "source": "AFD",
+      "relation": "LOCATED_IN",
+      "target": "Afrique",
+      "evidence": "l'AFD, nous avons mobilisé une initiative pour lancer l'entrepreneuriat en Afrique.",
+      "confidence": 1.0,
+      "source_id": "Organization_083867e3b191ef83df992d01216f1dd45eab3c38e55042c0d9fc4313c8b5fd52",
+      "target_id": "Theme_e53ae647bc41c3aecc727ca2595afd63d86f12f3de9d9d071f207288bfe98093"
+    },
+    {
+      "source": "SFI",
+      "relation": "LOCATED_IN",
+      "target": "Afrique",
+      "evidence": "C'est de mobiliser également les financements privés et donc avec la SFI, l'AFD, nous avons mobilisé une initiative pour lancer l'entrepreneuriat en Afrique.",
+      "confidence": 1.0,
+      "source_id": "Organization_5005117f7645c75ba0c7bde27730b1b50fcba9b6bb763d64739577e64180ab91",
+      "target_id": "Theme_e53ae647bc41c3aecc727ca2595afd63d86f12f3de9d9d071f207288bfe98093"
+    },
+    {
+      "source": "Schneider Electric",
+      "relation": "ALLIED_WITH",
+      "target": "AFD",
+      "evidence": "l'initiative prise par Schneider Electric, accompagné par l'AFD",
+      "confidence": 1.0,
+      "source_id": "Organization_ca0bf27b45054debe50cbdf01bf5ae79e226190b10d307d0394d92daa4879f9c",
+      "target_id": "Organization_083867e3b191ef83df992d01216f1dd45eab3c38e55042c0d9fc4313c8b5fd52"
+    },
+    {
+      "source": "Chambre de commerce franco-sud-africaine",
+      "relation": "MENTIONS",
+      "target": "Chambre de commerce franco-sud-africaine",
+      "evidence": "la Chambre de commerce franco-sud-africaine pour mobiliser cette énergie et réussir ce qui est au fond une sortie de crise gagnante pour tout le monde",
+      "confidence": 1.0,
+      "source_id": "Organization_5558c6fd0ca049fc6c4ef6f2ac487ee767444499f210310e16417b4609c80d16",
+      "target_id": "Organization_5558c6fd0ca049fc6c4ef6f2ac487ee767444499f210310e16417b4609c80d16"
+    },
+    {
+      "source": "French Tech",
+      "relation": "LOCATED_IN",
+      "target": "Afrique",
+      "evidence": "la première French Tech en Afrique",
+      "confidence": 1.0,
+      "source_id": "Organization_b2676cfdc8d5c52026131494972cd4ec8242bce018a1350d66e8f0885374d625",
+      "target_id": "Theme_e53ae647bc41c3aecc727ca2595afd63d86f12f3de9d9d071f207288bfe98093"
+    },
+    {
+      "source": "Phumzile Mlambo-Ngcuka",
+      "relation": "MEMBER_OF",
+      "target": "UN Women",
+      "evidence": "Je crois que Phumzile Mlambo-Ngcuka est avec nous aussi pour UN Women.",
+      "confidence": 1.0,
+      "source_id": "Person_17aa7f730e5d8ebc9b3211ebf98381205eee0d9ea1204de608cc7cb3e8ed9273",
+      "target_id": "Organization_921d531b7432dd7829c34ae5f9eac499c0a1a650a55085d0fe26654057ab9718"
+    },
+    {
+      "source": "Pékin+25",
+      "relation": "ANNOUNCED",
+      "target": "Pékin+25",
+      "evidence": "Dans les prochaines semaines, nous aurons à Paris \"Pékin+25\"",
+      "confidence": 1.0,
+      "source_id": "Event_5569161a67d5b1a37cd89fc0072f88898157b60d68dd18962b72ad6748685364",
+      "target_id": "Event_5569161a67d5b1a37cd89fc0072f88898157b60d68dd18962b72ad6748685364"
+    },
+    {
+      "source": "lycées français Jules Verne",
+      "relation": "LOCATED_IN",
+      "target": "Pretoria",
+      "evidence": "Les lycées français Jules Verne à Pretoria et Johannesburg et François Levaillant au Cap, accueillent 1500 élèves, plus de 70 nationalités différentes et je veux vraiment ici rendre hommage aux équipes de direction, aux enseignants, à l'ensemble des personnels de ces établissements, parce que je sais que ça a été très dur, pendant cette crise, même si on a fait le maximum pour accompagner.",
+      "confidence": 1.0,
+      "source_id": "Organization_6080240cbe3b085e2191f9fa14af7844a4fe9be2ac3ac40629134bf3a30ca0a8",
+      "target_id": "City_f3c10e90eace31dc3c970255ef40c45bee7bff90fe187610f0a845336b55b1b9"
+    },
+    {
+      "source": "lycées français Jules Verne",
+      "relation": "LOCATED_IN",
+      "target": "Johannesburg",
+      "evidence": "Les lycées français Jules Verne à Pretoria et Johannesburg et François Levaillant au Cap, accueillent 1500 élèves, plus de 70 nationalités différentes et je veux vraiment ici rendre hommage aux équipes de direction, aux enseignants, à l'ensemble des personnels de ces établissements, parce que je sais que ça a été très dur, pendant cette crise, même si on a fait le maximum pour accompagner.",
+      "confidence": 1.0,
+      "source_id": "Organization_6080240cbe3b085e2191f9fa14af7844a4fe9be2ac3ac40629134bf3a30ca0a8",
+      "target_id": "City_6c622d43d13a26e27c061b0c2529d5a9d837a9a460adefc64d6c49604422d6e1"
+    },
+    {
+      "source": "Hapo",
+      "relation": "MENTIONS",
+      "target": "rêve",
+      "evidence": "Il n'y a pas de rêve s'il ne se tient que dans un pays ou dans une partie du globe. La sortie du Covid, ce sera un Hapo mondial.",
+      "confidence": 1.0,
+      "source_id": "Theme_50875def3721fab5d958d224be77a03b6168e66fd7d87c4621c87af5cd1c8a2a",
+      "target_id": "Theme_779ee8cf184660befb95c38167d6ceef6be3bd616b0186682de447aa2ed4dad1"
+    },
+    {
+      "source": "Hapo",
+      "relation": "SPOKE_ABOUT",
+      "target": "Covid",
+      "evidence": "La sortie du Covid, ce sera un Hapo mondial.",
+      "confidence": 1.0,
+      "source_id": "Theme_50875def3721fab5d958d224be77a03b6168e66fd7d87c4621c87af5cd1c8a2a",
+      "target_id": "Theme_c17648f7a5c80c4d282619ee773d11d4946b926ed55de2791a97a7b460b2eedb"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Afrique du Sud",
+      "evidence": "Vive l'Afrique du Sud et vive la France.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_18768cba57ae5abd3fb4a98f72c105af41db31822809e203889560cb72663272"
+    }
+  ]
+}

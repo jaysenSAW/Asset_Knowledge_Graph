@@ -1,0 +1,513 @@
+{
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Suède",
+      "id": "Country_f0680f074258c0cbb263830557969af01c50840b9cdfd249ff5c18418896a4ff"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Country",
+      "name": "Inde",
+      "id": "Country_b09ba287a46c026152bc3154a391a2b37fc8465242d9966e4f7758d9fe1a99d0"
+    },
+    {
+      "type": "Theme",
+      "name": "énergie nucléaire civile",
+      "id": "Theme_db0f77fbeb4df4334a69637134f5f96b0d0729b71336d705b2ab05ec2fac7768"
+    },
+    {
+      "type": "Theme",
+      "name": "coopération",
+      "id": "Theme_40ac23025bcf0a0eeed131dd6ef7eae80214da752240e4ddcbde7402005a96e6"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche nucléaire",
+      "id": "Theme_e2e906f24b8112cda00d367bd1117aef4c7ebac599da0362afe6981325e9ee32"
+    },
+    {
+      "type": "Theme",
+      "name": "production d'électricité faiblement carbonée",
+      "id": "Theme_8b7a00077860126799cebc73cb865c4a06ef3f3e3d672d4204f9dea0eef57ab6"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariats de recherche",
+      "id": "Theme_b8df5d5d3e54ba3a910ba4d231869f289b5bfc20287609e923e9b14b7e25baae"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le premier ministre",
+      "id": "Person_d2f6bbdeed49e87e6cf17692275d6888c42404f2eca2784ab0a5a97b48edea3a"
+    },
+    {
+      "type": "Person",
+      "name": "Ulf",
+      "id": "Person_93f5381633559121afbaeef716689299789c524afb7b123add796e18663f7755"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le premier ministre et les autorités suédoises",
+      "id": "Person_215f10c531b303a56bbc16e25ffa00f855fe9c3b07a046fdb56dbe8de6ad0669"
+    },
+    {
+      "type": "Person",
+      "name": "mon épouse",
+      "id": "Person_65551c424854d82f2d90f70ebf9ddb439d847aa1d2694e27951e7010e4cc995c"
+    },
+    {
+      "type": "Organization",
+      "name": "la délégation",
+      "id": "Organization_ae014459874d1a1f217af99d52010083050db10ab393faac0ab0c9f3fc391218"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté européenne",
+      "id": "Theme_57149d0b1ca8e133d9aab93dd52340100c37053dea008fa3925161e2367e7da4"
+    },
+    {
+      "type": "Theme",
+      "name": "accès à l'espace",
+      "id": "Theme_338e410b638ce2e9ee8b1d461cd7fda028eef1f807d571a15eb373e5e33d323a"
+    },
+    {
+      "type": "Theme",
+      "name": "satellites",
+      "id": "Theme_3f9535ad7eab290977abe4c0e0c41b760ed9d89e6a8095d7042b3ca50e1ceaad"
+    },
+    {
+      "type": "Theme",
+      "name": "surveillance du changement climatique",
+      "id": "Theme_6582ad8320097c894d4542943d787dadc10978a330aae45df322e36aa8811963"
+    },
+    {
+      "type": "Theme",
+      "name": "lanceurs",
+      "id": "Theme_ee82d0944cab95a5472201ed04594db2abd8b99a8ff55d054ba0d7dd1e790a26"
+    },
+    {
+      "type": "Theme",
+      "name": "forêt",
+      "id": "Theme_a96720c890a4e5c15eb45a949001e285e64b1843a718f2f04c32024d421834e9"
+    },
+    {
+      "type": "Theme",
+      "name": "bioéconomie",
+      "id": "Theme_06beb987b8319820b3a9d28e6bb74979dd4739efd6b5682e823347ba54809dcd"
+    },
+    {
+      "type": "Theme",
+      "name": "lutte contre le changement climatique",
+      "id": "Theme_504686eaf9da17780b058a13a2594c933d7291c47e42289f4aad3ccb5bf3924b"
+    },
+    {
+      "type": "Theme",
+      "name": "dérèglements climatiques",
+      "id": "Theme_459dcfa0c0e8152afdc160c12933261c0313fef3647bda99f62d6988c3b53461"
+    },
+    {
+      "type": "Theme",
+      "name": "préservation de la biodiversité",
+      "id": "Theme_e5621c577504ffeeae1780d7dfcf2daf2598eb95da56cb30e1dc2b8aac956c51"
+    },
+    {
+      "type": "Theme",
+      "name": "sylviculture",
+      "id": "Theme_4755f590190e817e3cdf52fec449184098ae32015cc760fed2f8857a74e93862"
+    },
+    {
+      "type": "Organization",
+      "name": "industries de défense",
+      "id": "Organization_9ffaeaa8dbe653d9ea13e8a16113943dc31917905be0397cafec29d6d88ac256"
+    },
+    {
+      "type": "Country",
+      "name": "nos deux pays",
+      "id": "Country_2bd470f2122568640e3762e9bf14400458b6f8d21f909f537011d97d9af8f053"
+    },
+    {
+      "type": "Event",
+      "name": "la base industrielle et technologique de défense européenne",
+      "id": "Event_3ba291a38bfd923c9a2ee869adc13777db4e07f362e8f06d057cb14dc12e434c"
+    },
+    {
+      "type": "Event",
+      "name": "la trame antichars",
+      "id": "Event_0dc0ff3ecfc00e64d7fe141bd0ac78cb20b79bee4868e68893099f256069c8cd"
+    },
+    {
+      "type": "Event",
+      "name": "l'agenda de Versailles",
+      "id": "Event_2d43f935f12102f0e7d8aaa23ce6e4d2ff396373beb2e3df6ef034dbce4126f4"
+    },
+    {
+      "type": "Organization",
+      "name": "Académie militaire suédoise",
+      "id": "Organization_7a0c083cd33d4f9cef0cbae4fbfbc7c1914f5de8af2c2de9cf4e5180683006bb"
+    },
+    {
+      "type": "Organization",
+      "name": "Initiative européenne d'intervention",
+      "id": "Organization_18ff18e14207235a5d30ef246a30ad9f58e4b380744c166a704b3cd22f38a781"
+    },
+    {
+      "type": "Organization",
+      "name": "OTAN",
+      "id": "Organization_a4085af38ac65fb119ee7f7d47cd071a66424e528ce70c079889c572a60e32b0"
+    },
+    {
+      "type": "City",
+      "name": "Afrique",
+      "id": "City_e81979a21143817a99ac592e6ba21932628674ed0da410c41538620d061eb868"
+    },
+    {
+      "type": "City",
+      "name": "Takuba",
+      "id": "City_2c3227839a1392d566802defda3bea7ee4f78b05517c73794cb284c8c79be0f0"
+    },
+    {
+      "type": "Organization",
+      "name": "ministres en charge de l'Intérieur",
+      "id": "Organization_daa4853f5786241903ce4d58839b497432da21371cdf8ec068b0ba9aab63c68a"
+    },
+    {
+      "type": "Country",
+      "name": "Hamas",
+      "id": "Country_664ba06f90f7d7b4b326982afebee134092d48624510c1de058deb1ef0567bc3"
+    },
+    {
+      "type": "Country",
+      "name": "Israël",
+      "id": "Country_b2e8a47bcd07eb24b97b6a1a914c6cd582955362a08edbe73d205a351b005814"
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "id": "Country_56f2545bcb2e4e531d0ca617cb6291f550236b77a22838f63b7181b569fb7ea2"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil européen",
+      "id": "Organization_8ee58656470ae046eb7f56fde0894e8efe90f04703a26d3faa0680894fce1277"
+    },
+    {
+      "type": "Organization",
+      "name": "UE",
+      "id": "Organization_75da82fd457652e72fd6e115549a254e0ce7836d553f1cda24c2bf80d7a5254a"
+    },
+    {
+      "type": "Person",
+      "name": "Florian TARDIF",
+      "id": "Person_6833ad597536f685d506e2e9bbb2dcebe6b6b900ce2c9f23e1c08e178db8b57c"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le Président",
+      "id": "Person_d3cd814b85fc4d254a10ed55eab065de6f7217e299619c1ac3db419a849fd36c"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel MACRON",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Theme",
+      "name": "politique européenne",
+      "id": "Theme_13bbfcde794705fd8dea9ec73d7f355b52346ff8ae8289adec3fbe6f10d08d64"
+    },
+    {
+      "type": "Theme",
+      "name": "maraîchage",
+      "id": "Theme_50b581c535704926ef0da3ccf634712fa282c82709dfdf245d2e211e2e063d38"
+    },
+    {
+      "type": "Theme",
+      "name": "viticulture",
+      "id": "Theme_5217185866572db52982d27f1c4ca94dac1813815d0298dbcc414ac2d19efd41"
+    },
+    {
+      "type": "Theme",
+      "name": "élevage",
+      "id": "Theme_149b3d9f5ca0531817e84ab294ad3c589c0a8d37b80e70b224530612b6ecbc30"
+    },
+    {
+      "type": "Theme",
+      "name": "volaille",
+      "id": "Theme_cf2b8be5420ac01c29e4f6a74414797f64d74a46d5f6202d134036d0804847bc"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe",
+      "id": "Theme_2e01e80b887482da83ce1b32b0899d0f900347da7b0a5d7e0fba2c3f229a56cb"
+    },
+    {
+      "type": "Theme",
+      "name": "Ukraine",
+      "id": "Theme_b940373d1b930c5638a9c99ccb1f3f410dc8167e3c8295efaf45820c20e1d17c"
+    },
+    {
+      "type": "Law",
+      "name": "EGalim 1",
+      "id": "Law_bc13c0959e9ba400bd3bf794ee59f530b8875b4cada2c61f5bf703e0273caf2d"
+    },
+    {
+      "type": "Law",
+      "name": "EGalim 2",
+      "id": "Law_00861ee9fec1e4eab9acc1e5bb6f4e874eb9ceafda84afa355e728036f4327dd"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture",
+      "id": "Theme_4e7a0ef0b8ecc4eb2ad63b40177ff963887e1cd3b1b310c0e387763aca340d77"
+    },
+    {
+      "type": "Theme",
+      "name": "crise sanitaire",
+      "id": "Theme_743ee24ed44703d4666d6b5cf4b4d242d463d4e45a0472c4fa437ed044489173"
+    },
+    {
+      "type": "Theme",
+      "name": "distributeurs",
+      "id": "Theme_3be9e3e691505a25c88b56b3a0f711a833ba78e8447619c52743d14d9e52c2a6"
+    },
+    {
+      "type": "Theme",
+      "name": "valeur ajoutée",
+      "id": "Theme_3fa6a49ecbd7d4386fc60e7e062fc99e0a9166eef8822f2e7690891386aeae4e"
+    },
+    {
+      "type": "Theme",
+      "name": "négociations commerciales",
+      "id": "Theme_738d495401bfdc6c994b1a01031ddbd07c5c5fe2b8d7624461b9f978d5434197"
+    },
+    {
+      "type": "Theme",
+      "name": "travail",
+      "id": "Theme_8f62780772fee4f6a60b799acec0bdabb2a1c63ff8dc3e48fda7a5ffc1b57a63"
+    },
+    {
+      "type": "Theme",
+      "name": "prix",
+      "id": "Theme_e3edc58c164706c798376473a1d33b9ea22930cd506495bfb973ba41058bebe2"
+    },
+    {
+      "type": "Theme",
+      "name": "valeur",
+      "id": "Theme_5d2c6cf72920e0e1284fb097f9df226aa7b78ef0173abebfc6ba002b392f08fd"
+    },
+    {
+      "type": "Organization",
+      "name": "Gouvernement",
+      "id": "Organization_3b8cc5fd1826e27cc109cdb48ac1da903e512e33a79bc3fea69e23bea481b15f"
+    },
+    {
+      "type": "Law",
+      "name": "loi française",
+      "id": "Law_e47aa26b5cba6e9b7421564d93714908eca7a5604642713694263949675b9889"
+    },
+    {
+      "type": "Theme",
+      "name": "transition",
+      "id": "Theme_e63e6ab1512da86e741fe3d7ec082523f6b684c749eb3aef27e0dfd412c0a6b6"
+    },
+    {
+      "type": "Theme",
+      "name": "agribashing",
+      "id": "Theme_04607ec880819b80a617b56408f149390480789b593c769643d66ddbcde6ad7c"
+    },
+    {
+      "type": "Theme",
+      "name": "irréalisme",
+      "id": "Theme_6347df219700e648f3df70701e938cce8cb8842cc6abf4f63d36f23bf1ad56b8"
+    },
+    {
+      "type": "Theme",
+      "name": "agriculture européenne",
+      "id": "Theme_a23d97ec6526e3eae3d8edc21160dce88f615550aa87c43d01a491a23a65302a"
+    },
+    {
+      "type": "Theme",
+      "name": "modèle historique",
+      "id": "Theme_7cd436a1fd79c234e72f341ffad4fd47b37cab4b7ffd6801a4a43b1fd967666b"
+    },
+    {
+      "type": "Theme",
+      "name": "chimie",
+      "id": "Theme_fb027b9d696290e3ba13a41e41b2b3f70c3f7d8e45b42ae67f387bfef898944b"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles pratiques",
+      "id": "Theme_c0130d864441da7c0d6bdca10de16fb40577e9ebaa11a058ee8933632e9162da"
+    },
+    {
+      "type": "Theme",
+      "name": "révolution",
+      "id": "Theme_14810cbd3a4618202318beb60cab3c2b699dcf7af2613dada94f298edf9f66c3"
+    },
+    {
+      "type": "Theme",
+      "name": "bio",
+      "id": "Theme_fd40d3091a079271cbe06f8bd561bb0849ae49a4e0180b0f8cc2ec89b664d02e"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Organization",
+      "name": "Parlement",
+      "id": "Organization_9399662b3ddaa098bb97f9a669a1e504c4de5d3b3ce54d59b41efa490f0a28fb"
+    },
+    {
+      "type": "Organization",
+      "name": "Assemblée nationale",
+      "id": "Organization_9ed000a323afea61b4a240b53e4812170aa45c1b2d09045242acbe47b31a8776"
+    },
+    {
+      "type": "Organization",
+      "name": "Sénat",
+      "id": "Organization_6100b9ef9d2a0afb9b1b3666713576fab48f3386685c5593540e9fc5421b6eb6"
+    },
+    {
+      "type": "Organization",
+      "name": "Sorbonne",
+      "id": "Organization_2da20fc04b6c37fe451b69f45776a5d047cb444cdf09f2e8da175f1232a18a6a"
+    },
+    {
+      "type": "Country",
+      "name": "Canada",
+      "id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3"
+    },
+    {
+      "type": "Country",
+      "name": "Chili",
+      "id": "Country_c0d4881c53036bf1949a279e19e404943cec83d8c7607b89f66e74188cb94b92"
+    },
+    {
+      "type": "Organization",
+      "name": "MERCOSUR",
+      "id": "Organization_a3313ed1a7f11242c5aa99e51ce9fd1d10df17c4caedad51ecd72e7b13ec341f"
+    },
+    {
+      "type": "Theme",
+      "name": "industrie",
+      "id": "Theme_fe50fd9f64b1c42d6b480a75e56691ee3f2a0798380ba4873c9de197c5aa5fe3"
+    },
+    {
+      "type": "Theme",
+      "name": "droit",
+      "id": "Theme_809b6d16ebe657005418287171a0ff40ba1f2fc184046e82a8dbc6d9366cc1a9"
+    },
+    {
+      "type": "Theme",
+      "name": "antibiotiques",
+      "id": "Theme_5259a1f1fb3cbd5ffad50ed5a29adbfbf457639a71c0fb8118c3303e59daa40d"
+    },
+    {
+      "type": "Theme",
+      "name": "souveraineté alimentaire",
+      "id": "Theme_30f156f02a466af2fa6c7557177b5a2f7a7622afab6db4c564f81b4f85255dde"
+    },
+    {
+      "type": "Theme",
+      "name": "accompagner le monde agricole",
+      "id": "Theme_43a5bb8d2396abb1c1a0995bda708446556356182eaa30c133090cc4fc0cd140"
+    },
+    {
+      "type": "Person",
+      "name": "Présidente de la Commission",
+      "id": "Person_388c8110ec64ef45f738e72ccf68ad1353e43da6059aa04ed6f4c132d35b3291"
+    },
+    {
+      "type": "Theme",
+      "name": "guerre en Europe",
+      "id": "Theme_a80072220814f7a003dbe887b9e95cfdc94da5efafd2f8a5a5f31fdaa05a37b0"
+    },
+    {
+      "type": "Organization",
+      "name": "TT News Agency",
+      "id": "Organization_3ff64efd528a6f681902764a96e78ed81d2a9f2033b4ac80eac67da10d979fac"
+    },
+    {
+      "type": "Country",
+      "name": "États-Unis",
+      "id": "Country_fa2361c55d88ddb1abf99b09ee623b7178deb020042a6fc3e1297c3b6f53ba61"
+    },
+    {
+      "type": "Country",
+      "name": "Russie",
+      "id": "Country_1f6bae131deb973bc223a0707768c4a3356d78f9f22cc542c0ff664057aec898"
+    },
+    {
+      "type": "Theme",
+      "name": "soutien américain",
+      "id": "Theme_e01383ac8a92203bd9340bc17e00460e59be038768dc874aa86d5b669c14a725"
+    },
+    {
+      "type": "Theme",
+      "name": "sécurité et défense",
+      "id": "Theme_6d26b1f26fdd9c3a9f8a426e911aba73ca4cafaaa45737e52b9305e0ed373816"
+    },
+    {
+      "type": "Theme",
+      "name": "Europe de la défense",
+      "id": "Theme_d488a2eb389ffd7a51db81916674d2c1c5302f5c6339f996ea167cdd961cb4e8"
+    },
+    {
+      "type": "Theme",
+      "name": "OTAN",
+      "id": "Theme_36b92233ec1012c191afaad6e5c38809a389ca1b309b9ee654ed1b7899cda2fc"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Europe",
+      "relation": "LOCATED_IN",
+      "target": "France",
+      "evidence": "Et là, l'Europe comme la France ont un rôle clé.",
+      "confidence": 1.0,
+      "source_id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c",
+      "target_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "source": "France",
+      "relation": "ALLIED_WITH",
+      "target": "Canada",
+      "evidence": "la France a très substantiellement renforcé le contrat avec le Canada qui avait été signé quand j'ai été élu en 2017",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Country_e088ba6c9dc77d82c20e514011f9b672634bd97e6f09a8002d42cf0e8b2bb3d3"
+    },
+    {
+      "source": "France",
+      "relation": "OPPOSES",
+      "target": "MERCOSUR",
+      "evidence": "la France s'y oppose parce que c'est un accord qui date d'il y a plusieurs années et qui n'impose pas aux agriculteurs comme aux industriels du MERCOSUR des règles qui sont homogènes avec les nôtres.",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Organization_a3313ed1a7f11242c5aa99e51ce9fd1d10df17c4caedad51ecd72e7b13ec341f"
+    }
+  ]
+}

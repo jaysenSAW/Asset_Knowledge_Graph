@@ -1,0 +1,633 @@
+{
+  "entities": [
+    {
+      "type": "Theme",
+      "name": "espace Schengen",
+      "id": "Theme_09b43949bdc06f267e6d9608887ab1cd0b2ae86ff36ecc7dedc53b442d44b554"
+    },
+    {
+      "type": "Theme",
+      "name": "politique d'asile et de migration",
+      "id": "Theme_132859e1a7cf8020ea2d8c795255e6616eb8de8795b540d34ab833866adc25f7"
+    },
+    {
+      "type": "Theme",
+      "name": "crise bélarusse",
+      "id": "Theme_0edeaf58d727b133255a7d3cacca4c1eb55ed6bd29434b3540b527938f624114"
+    },
+    {
+      "type": "Organization",
+      "name": "Union européenne",
+      "id": "Organization_bc86f7223ecc9912f05e9e72e9d9622f57e09faea8abf6016a83b7dc6a9eb94a"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil",
+      "id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission européenne",
+      "id": "Organization_e117b83331058a8ea0a2f52d64da71133229ef656aa285f91ee7abf87118acac"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la maire",
+      "id": "Person_d224be173cc10556591c926f44719d476f34af68af59ff9ac8972c48b0f4befa"
+    },
+    {
+      "type": "Organization",
+      "name": "Hôtel de Ville",
+      "id": "Organization_084446fc11d1962eadc4929061f7c70c78cb47d1f9a93688cca353727ae5d6ad"
+    },
+    {
+      "type": "City",
+      "name": "Tourcoing",
+      "id": "City_0564f444870626cc26e5766ed9beac6df1c6b0ee7796bfcee0f7fc5852445243"
+    },
+    {
+      "type": "Organization",
+      "name": "Commission",
+      "id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b"
+    },
+    {
+      "type": "Country",
+      "name": "Schengen",
+      "id": "Country_6a3d1691d064ce783d29f20245436868f0bb53b5e2fa5321c38f31a4b0399e5b"
+    },
+    {
+      "type": "Country",
+      "name": "Etats membres",
+      "id": "Country_454c710321513a03401dc403e939fc29614c251ebb3d57f24bb638c90c7a0244"
+    },
+    {
+      "type": "Country",
+      "name": "Europe",
+      "id": "Country_5ead093a61ff4770652e0f5036733ab4839a32c7d41e345ccd0233299ebeec5c"
+    },
+    {
+      "type": "Theme",
+      "name": "libre circulation des personnes",
+      "id": "Theme_2ad5b1fdddd2e84e508af25c2c34017f25f1db48ed73815df0d24a3577f2a4d9"
+    },
+    {
+      "type": "Theme",
+      "name": "mobilité sans contrôles aux frontières intérieures",
+      "id": "Theme_9cc94c219f3990ecd15f5781e661acea87b3619b7b1c0dd1cca54aa931ace4a5"
+    },
+    {
+      "type": "Theme",
+      "name": "attentats terroristes",
+      "id": "Theme_0cc2b0f19524cb54b51a31ec49e6961a78e2c0d00524e92f1f438f6a419cd5fd"
+    },
+    {
+      "type": "Theme",
+      "name": "crise migratoire",
+      "id": "Theme_26ddd1819da3462f219f9685a8838f0cad9c6704543579786b15d339febefece"
+    },
+    {
+      "type": "Theme",
+      "name": "crise sanitaire",
+      "id": "Theme_743ee24ed44703d4666d6b5cf4b4d242d463d4e45a0472c4fa437ed044489173"
+    },
+    {
+      "type": "Theme",
+      "name": "contexte international plus volatil",
+      "id": "Theme_2af52827d729f372bb74cc2da110d5d621b16b28ed04b53614e5f9b523c9d862"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence Frontex",
+      "id": "Organization_995d90bd65bc5c354ca96562c64d451637b3c2e85d953f7b42160b15bbe92d51"
+    },
+    {
+      "type": "Organization",
+      "name": "système d'information Schengen",
+      "id": "Organization_483048d010c84046274d9e4c7098777b259f36aad69f7fadc9552b7978009c6c"
+    },
+    {
+      "type": "Organization",
+      "name": "système d'information sur les visas",
+      "id": "Organization_961cb33eb7d158b3389e664bfbce9738071d983d5138f0a624709b73fd2e9aad"
+    },
+    {
+      "type": "Organization",
+      "name": "système entrée-sortie",
+      "id": "Organization_266eaefa01bff0b22176be3997fdcb62b8137a5e48987c7264bbb0fb635bf686"
+    },
+    {
+      "type": "Organization",
+      "name": "système d'information et autorisation des voyages",
+      "id": "Organization_8619af06f840d3719da73ce6830cb307df7ada7b60b5b71be056faefe3e78358"
+    },
+    {
+      "type": "Country",
+      "name": "Biélorussie",
+      "id": "Country_d3816fb7d670df3cea12e7e8411d28852edf0204d5e8d3ae6ce239ee8c7380bb"
+    },
+    {
+      "type": "Country",
+      "name": "Lettonie",
+      "id": "Country_b30391e9422af0b70378f454f6ab982366cb1ee25eec3914b63108bbeef2651a"
+    },
+    {
+      "type": "Country",
+      "name": "Lituanie",
+      "id": "Country_257f51b370c269015b5ddeb21595946140d68f6c4557dc04527717e006535460"
+    },
+    {
+      "type": "Country",
+      "name": "Pologne",
+      "id": "Country_acdbeb96745d985976a2f0e4d517b774428b653da3e2b04d9aba86861d48d7e4"
+    },
+    {
+      "type": "Country",
+      "name": "États signataires de l’accord de Schengen",
+      "id": "Country_e64fa627934241e6da1cc1f6543117adafd5d652c725f7be75d95a8084dcf103"
+    },
+    {
+      "type": "Country",
+      "name": "Union européenne",
+      "id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "type": "Organization",
+      "name": "Conseil Schengen",
+      "id": "Organization_a37c68901f7240426893a1fe882e0fff2ad4a7b4c48ade7dd2f4b242d4cfffd7"
+    },
+    {
+      "type": "Organization",
+      "name": "Frontex",
+      "id": "Organization_cbdb0eee01084bb1a5fedf8bca44d43c75443fe28058a38db5b9fe66d2293089"
+    },
+    {
+      "type": "Theme",
+      "name": "zone euro",
+      "id": "Theme_168dfae6d29296f9c0cf88160098236a70b1bf55601006663643de83d89e8277"
+    },
+    {
+      "type": "Theme",
+      "name": "bon fonctionnement de cet espace",
+      "id": "Theme_f65f08ac2ce9ca9182adcdb936ce7cdf29a0c07b9d4d6e80f38364af58354ecd"
+    },
+    {
+      "type": "Theme",
+      "name": "travail étroit avec la Commission",
+      "id": "Theme_d79ab1e75c039799c22ed998f8213edbab4fcd615a595e232a95043332694ee4"
+    },
+    {
+      "type": "Theme",
+      "name": "ordre du jour très opérationnel",
+      "id": "Theme_05f46ae1b76ef55982c697cbba39e69e07628dec97bab4618ba2e6be2199bec3"
+    },
+    {
+      "type": "Theme",
+      "name": "situation aux frontières extérieures",
+      "id": "Theme_aa1538ff6b9bf87b082cae04d8f1fe349ac0b6a8e2c0050be663940b8a61b51f"
+    },
+    {
+      "type": "Theme",
+      "name": "évaluation des vulnérabilités",
+      "id": "Theme_b2fc8a3f64550499e8521172fadc11ed0bbd1fcf4f28b42451175bb3d0472b7a"
+    },
+    {
+      "type": "Theme",
+      "name": "anticipation des crises",
+      "id": "Theme_5875957472c3c8110f5a6bdc5241e747242f60cacd9bfaea9d2b760d4d0953b8"
+    },
+    {
+      "type": "Theme",
+      "name": "réaction rapide aux crises",
+      "id": "Theme_e1f711be3aeaba8f66766abd48f5066022d597092d576574bcc8f77b171fffbd"
+    },
+    {
+      "type": "Country",
+      "name": "Italie",
+      "id": "Country_68cac608556eb0700326932f44751d0a78e3e626f3718896f751c556fa39275c"
+    },
+    {
+      "type": "Theme",
+      "name": "crise",
+      "id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "type": "Organization",
+      "name": "l'Union européenne",
+      "id": "Organization_673fab4d08769d234a4cf43038f4d756b18cf5311dd75f678634c6bceba1dcb3"
+    },
+    {
+      "type": "Law",
+      "name": "accord de Schengen",
+      "id": "Law_dfbdbb6518acda5853255ea2482d4bd212b8024f8a1a0f831a1f22ee8c933d58"
+    },
+    {
+      "type": "Organization",
+      "name": "Europol",
+      "id": "Organization_7ca0ce5956039c65d028e3cd065bb34f889becb2f0928f24b3483de3c6ef5838"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence européenne de l'asile",
+      "id": "Organization_8ef6f5679488f5df2cc311cd580c76609fadad9cfcd5b7fa87ee4691d2f4f1ed"
+    },
+    {
+      "type": "Organization",
+      "name": "Centre européen de prévention et de contrôle des maladies",
+      "id": "Organization_42bb408cc38221c1818322f2f56620667e0663680b2d4e6fa5eba5c8f9021d5d"
+    },
+    {
+      "type": "Theme",
+      "name": "Menace terroriste",
+      "id": "Theme_f72d3dcf49eb88c83ce83dde773d7af102060e7e2da2f4d3e52a25f8d66870c7"
+    },
+    {
+      "type": "Theme",
+      "name": "Situation sécuritaire",
+      "id": "Theme_81818e60a95ac5d06fd39a512dda96fa7c9dbfee79da28c08950d8c7095606b7"
+    },
+    {
+      "type": "Theme",
+      "name": "Flux migratoire",
+      "id": "Theme_a36d83acdcff88c4080b90769583d9de663adda7e6f1e15551ccebb4bfabb0b5"
+    },
+    {
+      "type": "Theme",
+      "name": "Flux secondaires",
+      "id": "Theme_23d22a35cdd54ede954ef0fb35656b4cd9991e2bff5dcc190aca65a50c56663b"
+    },
+    {
+      "type": "Theme",
+      "name": "Risques sanitaires",
+      "id": "Theme_68cbb5b8efedc59bf0d43dd296b6368268e4ffc1cedd296765d2de130504cc91"
+    },
+    {
+      "type": "Theme",
+      "name": "État de Schengen",
+      "id": "Theme_d5c29146e673548620f5b25c4e2b1251c6cee3e8509ed80280e451d99eade4cb"
+    },
+    {
+      "type": "Theme",
+      "name": "crises affectant Schengen",
+      "id": "Theme_e900f93d9e8228f6d87882acdc2cd8b3d1fafa68030034b8e3b72f7c21f5e461"
+    },
+    {
+      "type": "Country",
+      "name": "Union",
+      "id": "Country_d1a60689ce7391b9d0f8a1deef1c03d4188cc25b310ca9b9812ccd8e21e69397"
+    },
+    {
+      "type": "Country",
+      "name": "Biélorusse",
+      "id": "Country_db72821a4e77b0e94dab08e5d3b88e464ccf335a61d455c69898d0d8b0fc4eb6"
+    },
+    {
+      "type": "Organization",
+      "name": "Union des États membres",
+      "id": "Organization_748b7229b63dbb83596c7cefa8dcc2813c2df0dfc5d66a438c79b8cef7ebc11d"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence de l'Union européenne pour l'asile",
+      "id": "Organization_636451c18b560cc12da72b2fcc12c51a5d9f3f16a8b48cbda23f01f42377870a"
+    },
+    {
+      "type": "Organization",
+      "name": "mécanisme de protection civile de l'Union",
+      "id": "Organization_2727014c708879071003365bba0974feae9d52f5eeaf16d3a6119f70ab8b8eaf"
+    },
+    {
+      "type": "Theme",
+      "name": "Pacte asile et migration",
+      "id": "Theme_22f286732c0848359e5c42dfa3ef5a607241846966a08df40dfc734c54de7b0f"
+    },
+    {
+      "type": "Theme",
+      "name": "Politique commune d'asile et de migration",
+      "id": "Theme_8c3f07689b534953a4cfdb4d9ad3bb9fa7cdedeb99a831bc74dc9a6dd6f85d27"
+    },
+    {
+      "type": "Theme",
+      "name": "Défis liés à l'asile et aux migrations",
+      "id": "Theme_6abe5fc3a5ac6872a1fc1b616e14311b74014662c317cd753482f9159a3fe6d0"
+    },
+    {
+      "type": "Theme",
+      "name": "Solidarité",
+      "id": "Theme_de8822209e1fec06827e6f1712701803b0430de3115c8d67e3c6d21c0a2c2175"
+    },
+    {
+      "type": "Theme",
+      "name": "Création du droit d'asile",
+      "id": "Theme_bfced7672e59a578474961ad4b439ae4d7371569a13143763ed83bd0564badf2"
+    },
+    {
+      "type": "Theme",
+      "name": "Politique européenne d'asile et de maîtrise des migrations",
+      "id": "Theme_8a7147bf0d5832b7c6f01fc8ff26998b88b02afdfb2e60b8e641927f71945012"
+    },
+    {
+      "type": "Theme",
+      "name": "renier nos principes, nos valeurs",
+      "id": "Theme_a968ff45063f0e0540efaa44fe913e1178d63b11d9cf78cd20e2fe195f434239"
+    },
+    {
+      "type": "Theme",
+      "name": "efficacité collective",
+      "id": "Theme_b46e32d2a101868538f2fe84b023ac0d8b5fda66baf8b816e9f61c1fe6acd1ed"
+    },
+    {
+      "type": "Theme",
+      "name": "asile",
+      "id": "Theme_cd88f89a51614f7b8addc880c2aac7c86f554a1aa7bc17024cc6a92883621591"
+    },
+    {
+      "type": "Theme",
+      "name": "humanisme européen",
+      "id": "Theme_7834f351835814d9f8c1546860b9ce4f908e916897245263d2dde3b8c50b66d6"
+    },
+    {
+      "type": "Theme",
+      "name": "pression migratoire",
+      "id": "Theme_2057ad6aca45f1b30d2f73c28075b635c430964e1be334f4b06266c2cdf10931"
+    },
+    {
+      "type": "Country",
+      "name": "Afghanistan",
+      "id": "Country_5ea7a9152b57f52d563390097c0d7ee8c7520b1a7fb13ff16e8c8d519cc49736"
+    },
+    {
+      "type": "Organization",
+      "name": "Union",
+      "id": "Organization_c5e6111e2f8f6f0562a02b73ac74432a5ad7b8c26582b37eb43d1209716aa442"
+    },
+    {
+      "type": "Organization",
+      "name": "agences",
+      "id": "Organization_461ef8a8759e7305c8210dc6d78c5060f11ed7743cf1092a87924dfe96569a32"
+    },
+    {
+      "type": "Theme",
+      "name": "répartition équitable de l'effort",
+      "id": "Theme_be026a4d1dc8c17ad416f48aaf1c73d7dc5b7daff41bb85bdede21951d6730c3"
+    },
+    {
+      "type": "Theme",
+      "name": "régulation des mouvements migratoires",
+      "id": "Theme_4067cceed887c486b45481289db171961fd8356f22119b3d55eb0f6a5a4c66b4"
+    },
+    {
+      "type": "Theme",
+      "name": "limitation des demandes multiples",
+      "id": "Theme_f2a933d061dc9606b15c407878dc3ee628faf0605f136efae804a3c9d6b10d54"
+    },
+    {
+      "type": "Theme",
+      "name": "accueil digne",
+      "id": "Theme_87509b9ba94ddcdd378eeaa41e8434d25c409fccf0a37f97263f5287a2176b81"
+    },
+    {
+      "type": "Theme",
+      "name": "travail le plus sensible",
+      "id": "Theme_6c41483af96d91e6e586a80cd6355c883a6633b73b7e963e69a8f4dd011ac6b9"
+    },
+    {
+      "type": "Theme",
+      "name": "politique de l'Union",
+      "id": "Theme_6bbc1adb4baf86febec9031363b6e67af80b742d17ae791bcc23a5d679d84bf5"
+    },
+    {
+      "type": "Theme",
+      "name": "éloignement",
+      "id": "Theme_bf65f666ffd0ad1710eac7d65e09c0bf01292afd795196eac10c986211bbc6b8"
+    },
+    {
+      "type": "Theme",
+      "name": "réadmission",
+      "id": "Theme_884d4aab4ce15dcbda7981d9af93739f3f11cb2561848887de7c7fe16f689f4b"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration illégale",
+      "id": "Theme_c5cd078fa0f1ea1fd30498ed7b15d726ec99038ad9baa48a38eb410d226ad042"
+    },
+    {
+      "type": "Theme",
+      "name": "immigration",
+      "id": "Theme_56ec1521640ee7901aceb6075eed1a37e2a9c16262cd4f911266166ee5562133"
+    },
+    {
+      "type": "Country",
+      "name": "Afrique",
+      "id": "Country_b4a109f2b2a2116bbfca502c1b2b5e785dc9381c561c5bbf4dbba5023f2b917b"
+    },
+    {
+      "type": "Country",
+      "name": "Proche et Moyen-Orient",
+      "id": "Country_e0b323e9f3a1ca202741b7afa696c4252d461df07e8587577b8d55eea9f7a3ea"
+    },
+    {
+      "type": "Theme",
+      "name": "politique d'éloignement et de réadmission",
+      "id": "Theme_48b87a22f62dbbdbb6d0842810f14d628874ccba657e8bb8937276420b97efe0"
+    },
+    {
+      "type": "Theme",
+      "name": "politique de visas",
+      "id": "Theme_d3699cfa8ec52f8903051560753ff3a46adb7e8248820af3a5a4ad6e268edad8"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie de conclusion d'accords de réadmission",
+      "id": "Theme_b886673ba5c47ac8c636879eaea5b7f65323cee42c191d9f8f9201f2fd1a3430"
+    },
+    {
+      "type": "Theme",
+      "name": "action extérieure de Frontex",
+      "id": "Theme_e34dfefe07a747486718a9cb7d05e7f786387a2407c67a58747e5fb77795ac6d"
+    },
+    {
+      "type": "Theme",
+      "name": "retours",
+      "id": "Theme_a7b462fe344a0a7f55ec0000c2b87fb649484222fbc16a80b56df7b8c931eb67"
+    },
+    {
+      "type": "Theme",
+      "name": "sommet entre l'Union africaine et l'Union européenne",
+      "id": "Theme_19b40560a863495d5c4c04126a34ac14c3188ff7307d632d457c19c519f3a43f"
+    },
+    {
+      "type": "Theme",
+      "name": "opportunités dans les pays d'origine",
+      "id": "Theme_bbc0d82b00666679191ee062cd90829771ece294806fee69c5594402de8771b2"
+    },
+    {
+      "type": "Theme",
+      "name": "élargissement",
+      "id": "Theme_953dc805c0c4873717f8fadb180057193b349e4b52fa049b29e8228c6f40b8e4"
+    },
+    {
+      "type": "Theme",
+      "name": "sujets d'élargissement",
+      "id": "Theme_bf2e43f7193f9c28bbb475c0f3442ff75d91a3bb4db929f6835bba3bacb25065"
+    },
+    {
+      "type": "Theme",
+      "name": "Manche",
+      "id": "Theme_ea16bb2a1e4576921e712524049e728bbb8fbacbead26e40d5e95d17875f38cf"
+    },
+    {
+      "type": "Theme",
+      "name": "réforme de Schengen",
+      "id": "Theme_2be0da8635e662149533cd7ce12848118ed7fc0ab1e99e88a695cfa43bf27308"
+    },
+    {
+      "type": "Theme",
+      "name": "pacte sur l'asile et les migrations",
+      "id": "Theme_8b70a83a849f8816ba4e4b59500b5050e455f25e04ea04404150fe6855581e9f"
+    },
+    {
+      "type": "Theme",
+      "name": "capacité des Européens d'être ouverts entre eux",
+      "id": "Theme_58f404745e45f0f0e280667990ee9d5010632796e59794f2441ca3c2ed7bfc3c"
+    },
+    {
+      "type": "Theme",
+      "name": "tenir leurs valeurs",
+      "id": "Theme_08568bf42a4809a4c542baeee110637486e640aafe0cebee64b6a3558136998e"
+    },
+    {
+      "type": "Theme",
+      "name": "rester ouverts au reste du monde",
+      "id": "Theme_e1bc2c050427fee1b6dd629711ca97b30148704b1256799bb8db1cad361e8af2"
+    },
+    {
+      "type": "Theme",
+      "name": "identité démocratique",
+      "id": "Theme_1a57ceeb74e897713a1c49723fd4c44501c8b60f76dcdc26a273b24cffbf826d"
+    },
+    {
+      "type": "Theme",
+      "name": "humaniste",
+      "id": "Theme_74dc57885579c0f8a09d0109d9f432c664051d74af4d9b839c97f64c4eb9f044"
+    },
+    {
+      "type": "Theme",
+      "name": "progrès",
+      "id": "Theme_99fbe2fae74b83c0fb6be33e85f58e86e641fe47059e9c1672808dfbdcf5b5bd"
+    },
+    {
+      "type": "Theme",
+      "name": "peuple",
+      "id": "Theme_c53378f156a2733092f2b3a214527d24b8656ec789a413bc8f9fd4ab7b1c9aa3"
+    },
+    {
+      "type": "Theme",
+      "name": "population",
+      "id": "Theme_ffccf5c878663c1495aa01ad149b08bd26e169cef2911bac384ee91631db0792"
+    },
+    {
+      "type": "Theme",
+      "name": "conteurs",
+      "id": "Theme_4fd9730175431af782f77b1a760a071eb32caff22075ab4172ebee9677f5676b"
+    },
+    {
+      "type": "Theme",
+      "name": "aventure européenne",
+      "id": "Theme_83c3c70ecf42f043c1a85194d16c5c01eeb963c17203b24d8d8bf88d78e0e68e"
+    },
+    {
+      "type": "Person",
+      "name": "Gérald DARMANIN",
+      "id": "Person_26fce8f686185cecdd6045c5b584a52c237e63abd49d841c4332d6da4d506022"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Madame la maire",
+      "relation": "LOCATED_IN",
+      "target": "Hôtel de Ville",
+      "evidence": "Merci Madame la maire de nous accueillir dans l'Hôtel de Ville, ici à Tourcoing.",
+      "confidence": 1.0,
+      "source_id": "Person_d224be173cc10556591c926f44719d476f34af68af59ff9ac8972c48b0f4befa",
+      "target_id": "Organization_084446fc11d1962eadc4929061f7c70c78cb47d1f9a93688cca353727ae5d6ad"
+    },
+    {
+      "source": "Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "États signataires de l’accord de Schengen",
+      "evidence": "Au sein de l'Union européenne, espace de libre circulation des personnes entre les États signataires de l’accord de Schengen",
+      "confidence": 1.0,
+      "source_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce",
+      "target_id": "Country_e64fa627934241e6da1cc1f6543117adafd5d652c725f7be75d95a8084dcf103"
+    },
+    {
+      "source": "Commission",
+      "relation": "SPOKE_ABOUT",
+      "target": "crise",
+      "evidence": "c'était la Commission précédente à l'époque, d'ailleurs, c'était dès l'été 18 et nous l'avons encore vécu au moment de la crise",
+      "confidence": 1.0,
+      "source_id": "Organization_e155174b121c5dc225db726c74b30309a1036a4ee9da3d718b9a97b895a7f99b",
+      "target_id": "Theme_46b5d74f05323b37004afeb598fc53fd97a8bff9e1c12c8f616108fc07d690c1"
+    },
+    {
+      "source": "l'Union européenne",
+      "relation": "LOCATED_IN",
+      "target": "Union européenne",
+      "evidence": "Au sein de l'Union européenne",
+      "confidence": 1.0,
+      "source_id": "Organization_673fab4d08769d234a4cf43038f4d756b18cf5311dd75f678634c6bceba1dcb3",
+      "target_id": "Country_f4b3242ca90660092f8f11c9f1acaa1c9946f4840b17407df4d4eaa73bd3d1ce"
+    },
+    {
+      "source": "Conseil",
+      "relation": "MENTIONS",
+      "target": "État de Schengen",
+      "evidence": "Le Conseil coordonnera ses contributions à partir d'un tableau de bord et du rapport annuel sur l'état de Schengen préparé par la Commission",
+      "confidence": 1.0,
+      "source_id": "Organization_c3ba7e1c771cd7327243d48bfbb03e6aff4cadd1eef821253191b59928abe3ed",
+      "target_id": "Theme_d5c29146e673548620f5b25c4e2b1251c6cee3e8509ed80280e451d99eade4cb"
+    },
+    {
+      "source": "Union",
+      "relation": "LOCATED_IN",
+      "target": "Union des États membres",
+      "evidence": "l'Union a démontré sa capacité à agir vite et fort en conjuguant les forces de l'Union des États membres et des agents",
+      "confidence": 1.0,
+      "source_id": "Organization_c5e6111e2f8f6f0562a02b73ac74432a5ad7b8c26582b37eb43d1209716aa442",
+      "target_id": "Organization_748b7229b63dbb83596c7cefa8dcc2813c2df0dfc5d66a438c79b8cef7ebc11d"
+    },
+    {
+      "source": "Union",
+      "relation": "ALLIED_WITH",
+      "target": "Union des États membres",
+      "evidence": "l'Union a démontré sa capacité à agir vite et fort en conjuguant les forces de l'Union des États membres et des agents",
+      "confidence": 1.0,
+      "source_id": "Organization_c5e6111e2f8f6f0562a02b73ac74432a5ad7b8c26582b37eb43d1209716aa442",
+      "target_id": "Organization_748b7229b63dbb83596c7cefa8dcc2813c2df0dfc5d66a438c79b8cef7ebc11d"
+    },
+    {
+      "source": "Union",
+      "relation": "VISITED",
+      "target": "Biélorusse",
+      "evidence": "Dans la crise biélorusse, l'Union a démontré sa capacité à agir vite et fort en conjuguant les forces de l'Union des États membres et des agents",
+      "confidence": 1.0,
+      "source_id": "Organization_c5e6111e2f8f6f0562a02b73ac74432a5ad7b8c26582b37eb43d1209716aa442",
+      "target_id": "Country_db72821a4e77b0e94dab08e5d3b88e464ccf335a61d455c69898d0d8b0fc4eb6"
+    }
+  ]
+}

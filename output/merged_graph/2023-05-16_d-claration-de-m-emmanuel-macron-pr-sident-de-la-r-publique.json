@@ -1,0 +1,669 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Monsieur le préfet",
+      "id": "Person_53c349332859a6f29fc7e202b933842f8a6c690203ea9dd3a5a57a1f2636c209"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le député",
+      "id": "Person_4746724da949de5152bb436de6d62d3b5736bd33312b1097da7beb59ab3ce96b"
+    },
+    {
+      "type": "Person",
+      "name": "Monsieur le maire",
+      "id": "Person_b98e0d50d307aa038f442e304f113e29076d85f83328cb720230d739a3bb9409"
+    },
+    {
+      "type": "Person",
+      "name": "Madame la directrice générale de l’ARS",
+      "id": "Person_a38b3ba5dbc756cf757921d7d82d00861b80d35962c5a46939bff3a4d8431974"
+    },
+    {
+      "type": "Person",
+      "name": "nos 3 ministres",
+      "id": "Person_1f21038a39897afd7381c4f40034aa2500b5b012ecab16f66f37e91a8c520e16"
+    },
+    {
+      "type": "Person",
+      "name": "chers patients",
+      "id": "Person_dfbb762269fc9cef9a9908b07964e447371e0420a077b50d897cd914ada65ec8"
+    },
+    {
+      "type": "Country",
+      "name": "France",
+      "id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59"
+    },
+    {
+      "type": "Theme",
+      "name": "pandémie",
+      "id": "Theme_7ffed5ae1b0d26d5149910e5e91f332380b8da31c1d68ba2ab27eb6f2cf5da75"
+    },
+    {
+      "type": "Theme",
+      "name": "Innovation Santé",
+      "id": "Theme_af6a96ab7dbfd062f7544de692ac68fc628cce66785b9fd2fb46622d38441ba4"
+    },
+    {
+      "type": "Theme",
+      "name": "plan Innovation Santé",
+      "id": "Theme_a86ccb54dc959fc48a282d182060821ff6a4a1e04c189df3566c7cef858310e7"
+    },
+    {
+      "type": "Theme",
+      "name": "France 2030",
+      "id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut Curie",
+      "id": "Organization_28222c9ba733b4b85dbab41480d34dc15e95a73c32d8699a62bdfc1692a2cf6a"
+    },
+    {
+      "type": "Theme",
+      "name": "clinique",
+      "id": "Theme_17964a0601fcbd2b820e121c4e1a517dab14a66bbdd8f28c20b9673ccd2fc27a"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche fondamentale",
+      "id": "Theme_5b637107b2e6442540f6ca357c9306acb8a414a3fb26c475c58bdf959a08e1dd"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche appliquée",
+      "id": "Theme_4d1539fd280336025b2cf0470ed20cd190f77a2b8c999df20b01eebba026c0ae"
+    },
+    {
+      "type": "Law",
+      "name": "les lois et les règlements",
+      "id": "Law_916e7256fbdb8dadb960246cdcec9248de93b5ccd60f30542e0ea9b32b67a65e"
+    },
+    {
+      "type": "Organization",
+      "name": "GSK",
+      "id": "Organization_55d1ff155bda7261566e9813837ba3d61f901995c163123d545d1a662ba2502c"
+    },
+    {
+      "type": "Organization",
+      "name": "Pfizer",
+      "id": "Organization_f32d8aa6d956dd9365bcab1e53eb09b3963d474012db2e04cc2c925681f108ee"
+    },
+    {
+      "type": "Organization",
+      "name": "Agence de l'innovation en santé",
+      "id": "Organization_c934094133fc151d47d0a9c1c15486a82cfd339a929ce7f0438e5a66def40a73"
+    },
+    {
+      "type": "Person",
+      "name": "Bruno BONNELL",
+      "id": "Person_726604547c9cdf4776067eb404d091b142a96bf1cf9ff55cbcdaf28562671511"
+    },
+    {
+      "type": "Organization",
+      "name": "Paris Santé Campus",
+      "id": "Organization_97240d92a5b105cd2e493febbecc177dd22d273963f6d47db7e9f8e05a38bf8b"
+    },
+    {
+      "type": "Organization",
+      "name": "Bpifrance",
+      "id": "Organization_a9ccdc3b7703f243a8222d62576aea819b2390487b9cbaf2500a76a84e916f9b"
+    },
+    {
+      "type": "Law",
+      "name": "loi pour la recherche",
+      "id": "Law_1871bc216ec4b239462bc6ba59e26c6c555ae7ff04f0e6ef9f646e4e1718f7b4"
+    },
+    {
+      "type": "Organization",
+      "name": "INSERM",
+      "id": "Organization_f23e2a99ebfcec3c01ea31acdd2249332420cad575f0c8a108947d92f0bc39eb"
+    },
+    {
+      "type": "Organization",
+      "name": "INRAE",
+      "id": "Organization_bc4405cac69c8e3d1aec0a8e3af326c2fe45fc31cc3a0f83e106dd0aa2451a12"
+    },
+    {
+      "type": "Organization",
+      "name": "INRIA",
+      "id": "Organization_5219b7db9fd3ef2c48b004e6ce3de3c211c2ea34a75203009621b05e8e0f84b2"
+    },
+    {
+      "type": "Organization",
+      "name": "laboratoire P4 de Lyon",
+      "id": "Organization_5f24e52f9e4e3c2a2d3b9ba357928bbd5a413fd505ad7bf18e29cfc9cd8598eb"
+    },
+    {
+      "type": "Organization",
+      "name": "plateformes de protéomique à Strasbourg",
+      "id": "Organization_faa22d02b95fe112645e15c7e6a0def37bc60bfac769d563d60ce38afce8be40"
+    },
+    {
+      "type": "Organization",
+      "name": "métaboliques à Toulouse",
+      "id": "Organization_3e47ba16db33dac4f56e637bec8da43c7d49aef5efc63c1971455bd5aabee2cc"
+    },
+    {
+      "type": "Organization",
+      "name": "France Génomique à Evry",
+      "id": "Organization_5ec05e68acb734328c6f2ad89762509d8b0467b7d3193987435fbc4f974fd9ba"
+    },
+    {
+      "type": "Theme",
+      "name": "loi de programmation",
+      "id": "Theme_2400da08e2128183bb7d552f5e3c1a9c3d01f6d6e0ccc5ebf057879d30c57bcd"
+    },
+    {
+      "type": "Theme",
+      "name": "loi pluriannuelle pour la recherche et l'enseignement supérieur",
+      "id": "Theme_92c58e1b170d12570d87f0bc903637664f71d08a059b4ce60f8f68ed25122b1a"
+    },
+    {
+      "type": "Organization",
+      "name": "VBHI",
+      "id": "Organization_85ac2e1ad199e39b66f41f4fed415c6641fcada48ffb571ea28138e0f4b3a203"
+    },
+    {
+      "type": "Organization",
+      "name": "RespirERA",
+      "id": "Organization_806b37ae0db334c6ee2911500c73f2df263f44113e9075465393300be3b28fb1"
+    },
+    {
+      "type": "Organization",
+      "name": "Immun4Cure",
+      "id": "Organization_7e53fe3dc2395cc2fa324d5f37cd2673106d548865d08d3e62734a91ca7cfd63"
+    },
+    {
+      "type": "Organization",
+      "name": "Everest",
+      "id": "Organization_573788af25715ee27b9b6133d52e2f08442e85e997e04ae4f7524c198a4c16f9"
+    },
+    {
+      "type": "Organization",
+      "name": "Prisme",
+      "id": "Organization_65b8579787406825768c6da9925b349e863c3884fdb8428942e926442e51a885"
+    },
+    {
+      "type": "Organization",
+      "name": "InnovAND",
+      "id": "Organization_b5d8fd5fcf45f5645f69913794f303889610bb162b60b5fe7376e34cce340897"
+    },
+    {
+      "type": "Organization",
+      "name": "Reconnect",
+      "id": "Organization_0142c4e04d872a34bb9319fbebf24aaa0a3b79c7c359ab69967fac708401e6d9"
+    },
+    {
+      "type": "Organization",
+      "name": "Prometheus",
+      "id": "Organization_1ed1bfec9f6c1e453ee3f952d7ddbd26880c6cf5bc7aaa7254604151c182a97b"
+    },
+    {
+      "type": "Organization",
+      "name": "ThéMA II",
+      "id": "Organization_a56e1e28f78b226b6a0026995fc2f79584d295a8719487316f524ac435bee5dc"
+    },
+    {
+      "type": "Organization",
+      "name": "Curie",
+      "id": "Organization_6154d346510a4f6a57ac5158dd40d8bc13adbe3b52a88394146f1b17bbf4b3a4"
+    },
+    {
+      "type": "Organization",
+      "name": "Janssen",
+      "id": "Organization_0515dc5a62142c4aa8d1eaf4521a631191fd6cd478b787b3dbbebf152e8f396d"
+    },
+    {
+      "type": "Organization",
+      "name": "Roche",
+      "id": "Organization_0e862520f2527f62f879f88a909adfd23877f4a8a9e0ff07e575b3525e6f43ca"
+    },
+    {
+      "type": "Organization",
+      "name": "Dassault Systèmes",
+      "id": "Organization_c63aed6915bc50863b3c23697a538a30fc35f43daaac93e95cb3787272d3544a"
+    },
+    {
+      "type": "Organization",
+      "name": "Withings",
+      "id": "Organization_df05ed28e1cca03081275622529ac0c6c7e863495fc940a23c6db8bb57427cc2"
+    },
+    {
+      "type": "Theme",
+      "name": "maladies neuro-vasculaires",
+      "id": "Theme_451c43a1b7c123668e299c2a876b32532b97d672839555e1ce0fb17597ae8a22"
+    },
+    {
+      "type": "Theme",
+      "name": "auto-immunes",
+      "id": "Theme_a67045463bae163dc40d0443c7989da26c29d491f8f2fbebc708a7bf11467e47"
+    },
+    {
+      "type": "Theme",
+      "name": "oncologie",
+      "id": "Theme_d42951eb2392b03d2903792f3ac740259a9d2c82937b732c2b2ca6849faaf5f1"
+    },
+    {
+      "type": "Theme",
+      "name": "pédiatrie",
+      "id": "Theme_cb2558b9497f15ccddaa05c15cff48815453f015be386d78d73d93d5f596a481"
+    },
+    {
+      "type": "Theme",
+      "name": "grand âge",
+      "id": "Theme_a1cb04910273defeb1ba7568f6228b0295588291af6f2b9a92f7b5503f2f6cbb"
+    },
+    {
+      "type": "Theme",
+      "name": "maladies inflammatoires de l'intestin",
+      "id": "Theme_fe451bb0661dcf995fbb5617ae12b46b94f3187327086ca343fe6252afebd36d"
+    },
+    {
+      "type": "Theme",
+      "name": "maladies liées à l'âge",
+      "id": "Theme_5364b1b82dfe80622691f3c03d22b48187cc0b50c500fa821eff7b79aac256cf"
+    },
+    {
+      "type": "Theme",
+      "name": "formation des professionnels de pointe",
+      "id": "Theme_e7db26878ba0cb2029fb17088e0cde11a513f53a7aa3ef58f27cfb40ad6721d3"
+    },
+    {
+      "type": "Theme",
+      "name": "nouvelles modalités de soins",
+      "id": "Theme_6bdc9078b0f982fd5b6178d3b68214fe5aaec9480936319abbf4354913f92512"
+    },
+    {
+      "type": "Theme",
+      "name": "prévention",
+      "id": "Theme_b5d3262ef3c58743a1781f267abe9b162422a835f4df383fc4856acb883ee6a0"
+    },
+    {
+      "type": "Theme",
+      "name": "partenariats ambitieux",
+      "id": "Theme_56daad3005e2b721c9313e3c15c1a1b6bf2e7ce710a136d8ab98d5138bf94e81"
+    },
+    {
+      "type": "Theme",
+      "name": "IHU émergents",
+      "id": "Theme_15561ee0d9d23f822e6227ec18fd37295e6274ea79c9d18112da73d5e532e1da"
+    },
+    {
+      "type": "Theme",
+      "name": "cancérologie",
+      "id": "Theme_20299180dd9d1148a5408565e17d2ff84c2ad90dc4a1aac7bbea538aed51c613"
+    },
+    {
+      "type": "Theme",
+      "name": "neurosciences",
+      "id": "Theme_da769ba27952376d624d582a547200d99a50f3a068f6666e54dd2e292d6d0849"
+    },
+    {
+      "type": "City",
+      "name": "Saclay",
+      "id": "City_caf8bceac7e04858a0b95144bf9f86be7269fc1af57b57e4f15c33a4d0125d5f"
+    },
+    {
+      "type": "City",
+      "name": "Marseille",
+      "id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "type": "City",
+      "name": "Paris",
+      "id": "City_c82d971c4da8b9807159212d71e60ab47bbd48ef465e99f066cf28066a234997"
+    },
+    {
+      "type": "Person",
+      "name": "José-Alain SAHEL",
+      "id": "Person_79c1b8f656894a51d36c810679b40a871a32225d5e42c71134f31bb664801a15"
+    },
+    {
+      "type": "Organization",
+      "name": "des acteurs de pointe",
+      "id": "Organization_9c55149d64e535b3f5b6e5b24610d531569619d533c56f125ff48aeef446b254"
+    },
+    {
+      "type": "Organization",
+      "name": "des laboratoires d'excellence",
+      "id": "Organization_f763bac1b99930cfe2b9108cead34493308fedc0688c596c0b4f6993d7480dbd"
+    },
+    {
+      "type": "Organization",
+      "name": "des startups thérapeutiques",
+      "id": "Organization_16b51e77b1c9a0b665456a742c09b6c0df66f07afc34720a776acfb1cad20c7f"
+    },
+    {
+      "type": "Organization",
+      "name": "plusieurs grands groupes",
+      "id": "Organization_f005083ead0376fb1dbb293160a567394a93539b5522a0799d476af01810880c"
+    },
+    {
+      "type": "Theme",
+      "name": "biothérapies",
+      "id": "Theme_ed9724377d20900a49f501a31c848da3819d8568e8b59eb855c5e1db0afc0816"
+    },
+    {
+      "type": "Theme",
+      "name": "maladies infectieuses émergentes",
+      "id": "Theme_9adcd1f115380b5609914418a259d81b8cee4b937d7cf02c819dba2bb5239b3f"
+    },
+    {
+      "type": "Theme",
+      "name": "maladies émergentes",
+      "id": "Theme_8e083621b947cafdb266ba0c4b0b8ee894799ffc3120c45b98029ca17bcc2459"
+    },
+    {
+      "type": "Theme",
+      "name": "vaccins",
+      "id": "Theme_285c234b84ef6ba1444c75fa4fb284e57557192a16508630af6134cc975797f3"
+    },
+    {
+      "type": "City",
+      "name": "Lyon",
+      "id": "City_0520407e25041e7de5ab5187f782d2c566b4ac693ca3546849221b4870d7bf33"
+    },
+    {
+      "type": "Organization",
+      "name": "CEA",
+      "id": "Organization_56bee4e69d140d03f96302b407e9a57182af007e69e3a0511d3d22f4e01718b0"
+    },
+    {
+      "type": "Organization",
+      "name": "Institut Pasteur",
+      "id": "Organization_9de0ea2ff8a3caaa0c4ca879fd22ebc492e5fbad6fc761cd42238b82ef59a487"
+    },
+    {
+      "type": "Organization",
+      "name": "AFM-Téléthon",
+      "id": "Organization_7d619a1c9d280706ac03a36859c2c93625beb8549b1c09e3da05a09acd65d6bb"
+    },
+    {
+      "type": "Organization",
+      "name": "AFM",
+      "id": "Organization_a805c651665efd60e30103694f3613dbf34ad8e96d6e1004ef200c5783204ed5"
+    },
+    {
+      "type": "Theme",
+      "name": "thérapies géniques",
+      "id": "Theme_894336b0828682abd56e5643021672bf4e049c5ffb4c3a66a4bcb64148a5bc6a"
+    },
+    {
+      "type": "Theme",
+      "name": "science",
+      "id": "Theme_d67c10976c1585f4e9e05fc3bac6b493bcfd249cfb52bacfebf7d74d2b724f45"
+    },
+    {
+      "type": "Theme",
+      "name": "recherche",
+      "id": "Theme_d42be75e9706de09dfcdd91197cf04054483fa81219205ba81f25a326df34460"
+    },
+    {
+      "type": "Theme",
+      "name": "Bioclusters",
+      "id": "Theme_35560890dfa3038f3e0263b8b9c6d9dd04cca6a0397948b0a9579b1e3dfdfba9"
+    },
+    {
+      "type": "Theme",
+      "name": "réindustrialisation",
+      "id": "Theme_ac8bdfb33c3783eee726437d1158d9c6c216120e43edc6178969ee44f5098ca1"
+    },
+    {
+      "type": "Theme",
+      "name": "synergies entre les acteurs publics et privés",
+      "id": "Theme_f7424f8f3bc7d466a63c4aee20f15106b173a0027d3edf6ba7dd1a2134e4b4c6"
+    },
+    {
+      "type": "Theme",
+      "name": "investissement",
+      "id": "Theme_aca9cf53c39ec058fe5df705c139e71c60c96e9a6fe2808c72ac78e4d892e9dc"
+    },
+    {
+      "type": "Theme",
+      "name": "secteur public",
+      "id": "Theme_7d5b044fee8074896c95f147d84af21734828e21cdb6779d1e57b95ad97cf38d"
+    },
+    {
+      "type": "Theme",
+      "name": "stratégie en matière de santé",
+      "id": "Theme_818d97a63f09658a46c155dd832bf0bc2d9195f3c1b0f1005b44b0a9cb5abcdf"
+    },
+    {
+      "type": "Theme",
+      "name": "compétition des talents",
+      "id": "Theme_689f2278587ccda2d9aa0efe11291c8ec91caf4b19921e2c567e616f6a0ee8ca"
+    },
+    {
+      "type": "Theme",
+      "name": "enseignement supérieur et de recherche",
+      "id": "Theme_bdaa8a7e666d57258b8443cf16d0bd3ac88aae0b0da1226932e22b9506621fd1"
+    },
+    {
+      "type": "Person",
+      "name": "professeur FISCHER",
+      "id": "Person_3c0846d78e7cbf2def82edce82a3fc77f79b07dde0a1200278af217a35e8142c"
+    },
+    {
+      "type": "Person",
+      "name": "professeur CONTI",
+      "id": "Person_e60a457fb0180b947be24071b22a6ccc62f106a7ff8b25e0fbe1beea611b9eb6"
+    },
+    {
+      "type": "Person",
+      "name": "Didier SAMUEL",
+      "id": "Person_c9ee78357c361d5f54102392321060961ea421175b5a3a5d04ae47ae26a92640"
+    },
+    {
+      "type": "Organization",
+      "name": "Mission France 2030",
+      "id": "Organization_7b42fc660ea38265cfe3b0f946c8dc582644cbb38e84a4eb8f6bc7e8fed10fe4"
+    },
+    {
+      "type": "Person",
+      "name": "la ministre de l'Enseignement supérieur et de la Recherche",
+      "id": "Person_914896d5b1e0232d49ce9b83a26dfd92a6ae13c600137fe37e358c591920ced2"
+    },
+    {
+      "type": "Person",
+      "name": "le ministre de la Santé et de la Prévention",
+      "id": "Person_cdf5b29b9c32ea311be816b684c686457eb6f039b45563202aecd0c6f83f0c92"
+    },
+    {
+      "type": "Person",
+      "name": "le ministre délégué à l'Industrie",
+      "id": "Person_35030add319dee71147d84d32cded67c4c90dfb1c57ac6e6ef39859611126826"
+    },
+    {
+      "type": "Theme",
+      "name": "industrialisation du processus technologique",
+      "id": "Theme_124b1a5703c0c3c72ea6d8405d4c3ff1e1ba45bb2948d344336e48efe9f79582"
+    },
+    {
+      "type": "Theme",
+      "name": "santé",
+      "id": "Theme_663d8413efd8d4a6ecc2ec0614bc6367ee0faeec294a4eb79d3de6d4d37d115f"
+    },
+    {
+      "type": "Theme",
+      "name": "biotechnologies",
+      "id": "Theme_cb1ab3334aa0c6c88b3aa3157c01b4adcf1c0f70684b7d7e7eacdcbf36a75655"
+    },
+    {
+      "type": "Theme",
+      "name": "valeurs",
+      "id": "Theme_fc7009e191bbe2c20a9a5af7fd9b1f6f7693f883c20175848d0efc56aadbbc56"
+    },
+    {
+      "type": "Theme",
+      "name": "principes d'humanisme",
+      "id": "Theme_f52373500b7df3f3de5f56eaab6817d3dbda37ae728b6b2b7f27b8a38985635d"
+    },
+    {
+      "type": "Theme",
+      "name": "éthique",
+      "id": "Theme_7d7095d15cedeed3d27ee848707429ddeb8decb379f4c6ef254176f4d6f072f1"
+    },
+    {
+      "type": "Theme",
+      "name": "attention à l'autre",
+      "id": "Theme_0d92541c2885c5b4cbc977b7717c9620b8ff2a32cae8535ac87c1d3fbf5cea92"
+    },
+    {
+      "type": "Theme",
+      "name": "innovations technologiques",
+      "id": "Theme_2b0d28bf1ba67ee0662bda751d8d56979d22a4ee9bb31d4db8d03e11bc71384d"
+    },
+    {
+      "type": "Theme",
+      "name": "innovation technologique",
+      "id": "Theme_56e05cd703c6686501d6042f262124b8c820fd8c3e444b697ddb1bad04eb11b4"
+    },
+    {
+      "type": "Theme",
+      "name": "travail entre les acteurs publics et privés aux meilleurs standards internationaux",
+      "id": "Theme_b81a6ce05a2a8a0e5b8bd8c72c0c90505a83f36952c9543d3882221cf6ef05a8"
+    },
+    {
+      "type": "Theme",
+      "name": "liberté",
+      "id": "Theme_8f5139f895576e38e048cd6249fdd8e96c4a426ba6e5763748e1119e5cd8238e"
+    },
+    {
+      "type": "Theme",
+      "name": "moyens",
+      "id": "Theme_f93c94428a89608982dc63333411fda610bd8010d778906c19788a577d156d43"
+    },
+    {
+      "type": "Theme",
+      "name": "travailler collectivement",
+      "id": "Theme_dc76cf7cba2dc190d7fafce1532072cead02ade127c43efb6c5075ddf7b89188"
+    },
+    {
+      "type": "Person",
+      "name": "Emmanuel Macron",
+      "id": "Person_795135bdbfd5fdeb8ea31b549c4cd04d4f9c17899e96ffd81a4d5c74d796932b"
+    },
+    {
+      "type": "Person",
+      "name": "-",
+      "id": "Person_a0c954997cbe9bb6f8d7257de4004e780d69a38b4ddfed6728f919424982672b"
+    },
+    {
+      "type": "Person",
+      "name": "Président de la République",
+      "id": "Person_cea95985dfdc257d7dc5e0b0ed8b2d20071727692542faa86986bd8de51d6b10"
+    }
+  ],
+  "relations": [
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "Innovation Santé",
+      "evidence": "de lancer le plan Innovation Santé au sein de France 2030",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_af6a96ab7dbfd062f7544de692ac68fc628cce66785b9fd2fb46622d38441ba4"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "plan Innovation Santé",
+      "evidence": "de lancer le plan Innovation Santé au sein de France 2030",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_a86ccb54dc959fc48a282d182060821ff6a4a1e04c189df3566c7cef858310e7"
+    },
+    {
+      "source": "France",
+      "relation": "SPOKE_ABOUT",
+      "target": "France 2030",
+      "evidence": "de lancer le plan Innovation Santé au sein de France 2030",
+      "confidence": 1.0,
+      "source_id": "Country_abc848c68a51b729ff02b3ae34ff713995ee62f79a65d51e0bedfd6a96939f59",
+      "target_id": "Theme_19bfc204590ed5da393c3f558fdd7d55a97aae3ac1832ec3070fc20b4327ae0d"
+    },
+    {
+      "source": "Innovation santé",
+      "relation": "MENTIONS",
+      "target": "Innovation santé",
+      "evidence": "cet engagement sur les infrastructures qui seront déployées dans le cadre du plan Innovation santé",
+      "confidence": 1.0,
+      "source_id": "Theme_af6a96ab7dbfd062f7544de692ac68fc628cce66785b9fd2fb46622d38441ba4",
+      "target_id": "Theme_af6a96ab7dbfd062f7544de692ac68fc628cce66785b9fd2fb46622d38441ba4"
+    },
+    {
+      "source": "loi de programmation",
+      "relation": "MENTIONS",
+      "target": "loi de programmation",
+      "evidence": "la loi de programmation, la loi pluriannuelle pour la recherche et l'enseignement supérieur",
+      "confidence": 1.0,
+      "source_id": "Theme_2400da08e2128183bb7d552f5e3c1a9c3d01f6d6e0ccc5ebf057879d30c57bcd",
+      "target_id": "Theme_2400da08e2128183bb7d552f5e3c1a9c3d01f6d6e0ccc5ebf057879d30c57bcd"
+    },
+    {
+      "source": "loi pluriannuelle pour la recherche et l'enseignement supérieur",
+      "relation": "MENTIONS",
+      "target": "loi pluriannuelle pour la recherche et l'enseignement supérieur",
+      "evidence": "la loi de programmation, la loi pluriannuelle pour la recherche et l'enseignement supérieur",
+      "confidence": 1.0,
+      "source_id": "Theme_92c58e1b170d12570d87f0bc903637664f71d08a059b4ce60f8f68ed25122b1a",
+      "target_id": "Theme_92c58e1b170d12570d87f0bc903637664f71d08a059b4ce60f8f68ed25122b1a"
+    },
+    {
+      "source": "des acteurs de pointe",
+      "relation": "LOCATED_IN",
+      "target": "Marseille",
+      "evidence": "À Marseille, c’est un projet qui aura vocation à catalyser le développement d’un écosystème là aussi de dimension mondiale dans le domaine de l'immunologie en rassemblant des acteurs de pointe pour accélérer le développement de candidats médicaments contre le cancer, les maladies auto-immunes, les maladies infectieuses depuis la conception et l'optimisation du candidat médicament jusqu'à la clinique.",
+      "confidence": 1.0,
+      "source_id": "Organization_9c55149d64e535b3f5b6e5b24610d531569619d533c56f125ff48aeef446b254",
+      "target_id": "City_575804bcf17101a09d1f7500e79e933694bf6e20d93f1a060d8b548ef15fe89a"
+    },
+    {
+      "source": "CEA",
+      "relation": "MEMBER_OF",
+      "target": "Institut Pasteur",
+      "evidence": "dont ceux portés par le CEA, l'Inserm et l'Institut Pasteur",
+      "confidence": 1.0,
+      "source_id": "Organization_56bee4e69d140d03f96302b407e9a57182af007e69e3a0511d3d22f4e01718b0",
+      "target_id": "Organization_9de0ea2ff8a3caaa0c4ca879fd22ebc492e5fbad6fc761cd42238b82ef59a487"
+    },
+    {
+      "source": "Inserm",
+      "relation": "MEMBER_OF",
+      "target": "Institut Pasteur",
+      "evidence": "dont ceux portés par le CEA, l'Inserm et l'Institut Pasteur",
+      "confidence": 1.0,
+      "source_id": "Organization_f23e2a99ebfcec3c01ea31acdd2249332420cad575f0c8a108947d92f0bc39eb",
+      "target_id": "Organization_9de0ea2ff8a3caaa0c4ca879fd22ebc492e5fbad6fc761cd42238b82ef59a487"
+    },
+    {
+      "source": "Institut Pasteur",
+      "relation": "MEMBER_OF",
+      "target": "Institut Pasteur",
+      "evidence": "dont ceux portés par le CEA, l'Inserm et l'Institut Pasteur",
+      "confidence": 1.0,
+      "source_id": "Organization_9de0ea2ff8a3caaa0c4ca879fd22ebc492e5fbad6fc761cd42238b82ef59a487",
+      "target_id": "Organization_9de0ea2ff8a3caaa0c4ca879fd22ebc492e5fbad6fc761cd42238b82ef59a487"
+    },
+    {
+      "source": "AFM-Téléthon",
+      "relation": "MENTIONS",
+      "target": "biothérapies",
+      "evidence": "Et puis le cinquième, sur les biothérapies autour de l'AFM-Téléthon.",
+      "confidence": 1.0,
+      "source_id": "Organization_7d619a1c9d280706ac03a36859c2c93625beb8549b1c09e3da05a09acd65d6bb",
+      "target_id": "Theme_ed9724377d20900a49f501a31c848da3819d8568e8b59eb855c5e1db0afc0816"
+    },
+    {
+      "source": "AFM",
+      "relation": "SPOKE_ABOUT",
+      "target": "thérapies géniques",
+      "evidence": "Sur ce domaine qui ouvre des perspectives majeures pour les patients et où les équipes de l'AFM sont en pointe avec les thérapies géniques et cellulaires, mais aussi avec de la production.",
+      "confidence": 1.0,
+      "source_id": "Organization_a805c651665efd60e30103694f3613dbf34ad8e96d6e1004ef200c5783204ed5",
+      "target_id": "Theme_894336b0828682abd56e5643021672bf4e049c5ffb4c3a66a4bcb64148a5bc6a"
+    }
+  ]
+}
