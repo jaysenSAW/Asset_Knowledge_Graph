@@ -3,10 +3,16 @@ import os
 import streamlit as st
 from streamlit_agraph import agraph, Node, Edge, Config
 from neo4j import GraphDatabase
-
-# Imports internes issus de ton architecture
-from src.graph.query_graph import create_vector_index, answer_user, ask_graph_with_subgraph
+from src.graph.query_graph import create_vector_index, answer_user_streamlit, ask_graph_with_subgraph
 from src.graph.graph_builder import create_constraints
+import logging
+import warnings
+os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
+logging.getLogger("huggingface_hub").setLevel(logging.ERROR)
+logging.getLogger("neo4j").setLevel(logging.ERROR)
+warnings.filterwarnings("ignore", category=DeprecationWarning)
+warnings.filterwarnings("ignore", message=".*db.index.vector.queryNodes.*")
+
 
 # Configuration de la page Streamlit
 st.set_page_config(page_title="GraphRAG Presidential Speeches", layout="wide")
@@ -36,7 +42,7 @@ driver = init_neo4j_connection()
 
 @st.cache_data
 def load_prompt_schema():
-    with open("src/prompts/NEO4J_SCHEMA_PROMPT.txt", "r", encoding="utf-8") as f:
+    with open("src/prompts/NEO4J_SCHEMA_PROMPT_app.txt", "r", encoding="utf-8") as f:
         return f.read()
 
 prompt_schema = load_prompt_schema()
@@ -44,7 +50,7 @@ prompt_schema = load_prompt_schema()
 # -------------------------------------------------------------------
 # 2. Interface Utilisateur
 # -------------------------------------------------------------------
-question = st.text_input("Posez votre question :", value="Montre-moi les 5 morceaux de discours qui parlent de la transition écologique ainsi que les entités mentionnées.")
+question = st.text_input("Posez votre question :", value="Montre-moi les 2 discours les mieux notés qui parlent de la transition écologique ainsi que les entités mentionnées.")
 
 if st.button("Rechercher", type="primary"):
     if not question.strip():
@@ -55,7 +61,7 @@ if st.button("Rechercher", type="primary"):
             raw_result, subgraph = ask_graph_with_subgraph(
                 question, prompt_schema, driver, llm_model="qwen2.5-coder:7b"
             )
-            final_answer = answer_user(question, raw_result)
+            final_answer = answer_user_streamlit(question, raw_result)
 
         # Diviser la vue en deux colonnes
         col_text, col_graph = st.columns([1, 1])
